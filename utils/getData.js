@@ -14,7 +14,10 @@ console.log(list[i]);
 const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
   const feed = await parser.parseURL(url);
   const x = feed.items.map(el => el.title);
-
+  const res = {
+     lastUpdate: format("dd:MM:yyyy ,hh:mm:ss"),
+     data: x
+}
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(x, null, 2), x)
 fs.writeFileSync("./README.MD", `
 
