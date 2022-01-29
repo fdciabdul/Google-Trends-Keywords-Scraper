@@ -1,0 +1,25 @@
+{
+  "name": "tiktok-trending-data",
+  "version": "1.0.0",
+  "description": "Tiktok Trending Data Scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "rss-parser": "^3.12.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdciabdul/Tiktok-Trending-Data-Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fdciabdul/Tiktok-Trending-Data-Scraper/issues"
+  },
+  "homepage": "https://github.com/fdciabdul/Tiktok-Trending-Data-Scraper#readme"
+}
