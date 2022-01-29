@@ -20,8 +20,9 @@ fs.writeFileSync("./README.MD", `
 
 ## Google Trends Keywords Scraper 
  
-Last Update ${format("dd:MM:YY ,hh:mm:ss.SSS")}
+Last Update ${format("dd:MM:yyy ,hh:mm:ss")}
 
+Happy Scraping  😁
  
 `)
 
