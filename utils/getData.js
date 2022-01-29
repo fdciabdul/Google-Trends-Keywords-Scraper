@@ -1,7 +1,7 @@
 const fs = require("fs");
 const Parser = require('rss-parser');
 const parser = new Parser();
-const format = require("date-format");
+const format = require("dateformat");
 const now = new Date();
 
 
