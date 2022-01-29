@@ -1,4 +1,5 @@
-const fs = require("fs")
+const fs = require("fs");
+const Parser = require('rss-parser');
 const parser = new Parser();
 
 
