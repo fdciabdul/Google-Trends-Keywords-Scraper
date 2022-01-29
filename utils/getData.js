@@ -19,7 +19,8 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 fs.writeFileSync("./README.MD", `
 
 ## Google Trends Keywords Scraper 
- Last Update ${format("dddd, mmmm dS, yyyy, h:MM:ss TT")}
+ 
+Last Update ${format("dd:MM:YY ,hh:mm:ss.SSS")}
 
  
 `)
