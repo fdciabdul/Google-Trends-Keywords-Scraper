@@ -1,8 +1,7 @@
 const fs = require("fs");
 const Parser = require('rss-parser');
 const parser = new Parser();
-const format = require("dateformat");
-const now = new Date();
+const format = require("date-format");
 
 
 module.exports = async (data) => {
@@ -20,7 +19,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 fs.writeFileSync("./README.MD", `
 
 ## Google Trends Keywords Scraper 
- Last Update ${format(now, "dddd, mmmm dS, yyyy, h:MM:ss TT")}
+ Last Update ${format("dddd, mmmm dS, yyyy, h:MM:ss TT")}
 
  
 `)
