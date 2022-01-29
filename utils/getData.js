@@ -16,5 +16,5 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn=p1';
 
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(x, null, 2), x)
 }
-return name+" Has been writed";
+return " data Has been writed";
 }
