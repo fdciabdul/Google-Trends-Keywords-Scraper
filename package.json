@@ -11,7 +11,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "node-fetch": "^2.6.1",
-    "dateformat": "^5.0.2",
+    "date-format": "^4.0.3",
     "rss-parser": "^3.12.0"
   },
   "devDependencies": {},
