@@ -10,7 +10,7 @@ for (var i =0; i < list.length; i++){
 let code = list[i].split("=")[1];
 let name = list[i].split("=")[0].replace("_", " ");
 console.log(list[i]);
-const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn=p1';
+const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
   const feed = await parser.parseURL(url);
   const x = feed.items.map(el => el.title);
 
