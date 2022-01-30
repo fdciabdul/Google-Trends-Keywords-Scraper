@@ -20,7 +20,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
      data: x
 }
 
-console.log(x.toString().replace(/,/g,"\n"));
+console.log(x.toString());
 str += `
 # ${name}
 <details>
