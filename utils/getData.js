@@ -5,7 +5,7 @@ const format = require("date-format");
 
 
 module.exports = async (data) => {
-let list = data.pop();
+let list = data.slice(0, -1);
 console.log(data)
 var str = '';
 for (var i =0; i < list.length; i++){
@@ -26,7 +26,7 @@ str += `
 <details>
 <summary>Show </summary>
 
-- ${x.toString()}
+- ${x.toString().replace(/,/g ,"\n")}
 </details>
 
 `
