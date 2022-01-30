@@ -27,7 +27,7 @@ jobs:
         working-directory: ./
 
     steps:
-    - uses: actions/checkout@v2.3.4
+    - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
     - name: Use Node.js ${{ matrix.node-version }}
