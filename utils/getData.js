@@ -19,6 +19,8 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
      lastUpdate: format("dd-MM-yyyy , hh:mm:ss"),
      data: x
 }
+
+console.log(x.toString().replace(/,/g,"\n"));
 str += `
 # ${name}
 <details>
@@ -31,7 +33,7 @@ str += `
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
     
 }
-console.log(str);
+
 fs.writeFileSync("./README.MD", `
 
 ## Google Trends Keywords Scraper 
