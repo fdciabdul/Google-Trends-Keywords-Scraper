@@ -26,7 +26,7 @@ str += `
 <details>
 <summary>Show </summary>
 
-- ${x.toString().replace(/,/g ,"\n")}
+- ${x.toString().replace(/,/g ,"\n -")}
 </details>
 
 `
