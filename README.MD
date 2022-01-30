@@ -2,7 +2,7 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30:01:2022 ,12:56:12
+Last Update 30:01:2022 ,13:14:08
 
 Happy Scraping  😁
  
