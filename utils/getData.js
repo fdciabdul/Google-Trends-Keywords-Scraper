@@ -7,7 +7,7 @@ const format = require("date-format");
 module.exports = async (data) => {
 let list = data.pop();
 console.log(data)
-var country = '';
+var str = '';
 for (var i =0; i < list.length; i++){
 let code = list[i].split("=")[1];
 let name = list[i].split("=")[0].replace("_", " ");
@@ -19,7 +19,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
      lastUpdate: format("dd-MM-yyyy , hh:mm:ss"),
      data: x
 }
-country += `
+str += `
 # ${name}
 <details>
 <summary>Show </summary>
@@ -31,7 +31,7 @@ country += `
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
     
 }
-console.log(country);
+console.log(str);
 fs.writeFileSync("./README.MD", `
 
 ## Google Trends Keywords Scraper 
@@ -40,7 +40,7 @@ Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 
 Country List :
 
-${country}
+${str}
  
 `)
 return " data Has been writed";
