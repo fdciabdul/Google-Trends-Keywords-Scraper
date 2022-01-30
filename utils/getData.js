@@ -19,9 +19,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
      lastUpdate: format("dd-MM-yyyy , hh:mm:ss"),
      data: x
 }
-
-     fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
-    country = `
+country += `
 # ${name}
 <details>
 <summary>Show </summary>
@@ -30,6 +28,8 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 </details>
 
 `
+     fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
+    
 }
 fs.writeFileSync("./README.MD", `
 
