@@ -7,7 +7,7 @@ const format = require("date-format");
 module.exports = async (data) => {
 let list = data.pop();
 console.log(data)
-let country;
+var country = '';
 for (var i =0; i < list.length; i++){
 let code = list[i].split("=")[1];
 let name = list[i].split("=")[0].replace("_", " ");
