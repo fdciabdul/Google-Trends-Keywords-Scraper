@@ -21,9 +21,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 }
 
 console.log(x.toString());
-str += `
-| ${name} | ${x.toString().replace(/\n|\r/g,"")}|
-`
+str += "| "+name+" | "+x.toString().replace(/\n|\r/g,"")+"|";
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
     
 }
@@ -38,7 +36,7 @@ Country List :
  Name  | Keyword |
 | ------------- | ------------- |
 ${str}
- 
+
 
 © Abdul Muttaqin 
 `)
