@@ -2,12 +2,14 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-01-2022 , 00:42:49
+Last Update 31-01-2022 , 00:43:50
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
+
 | UNITED STATES | Mason Greenwood,USMNT,Howard Hesseman,Mexico vs Costa Rica,Lakers vs Hawks,Tyreek Hill,Josh McDaniels,Earthquake San Diego,Paramount,Kentucky basketball,Emily in Paris,Cheslie Kryst,Michelle Childs,Nick Cannon,Playoff games,Egypt vs Morocco,ABC,Guzman actress fired,Sixers,Ohio State basketball|
+
 
 | ARGENTINA | Mason Greenwood,Cavani,Año Nuevo Chino 2022,San Lorenzo vs Nacional,Guinea Ecuatorial,Diego Dominguez,Pablo Ladaga,Luis Diaz,Carlos Auzqui,Leandro gonzález Pirez,Mauro Icardi,River Plate  Platense,Nadal,Mia Khalifa noticia,Copa Africana de Naciones,Episodios maria Becerra,Carlos tévez,Barty,Susana gimenez,Gambito de dama|
 
