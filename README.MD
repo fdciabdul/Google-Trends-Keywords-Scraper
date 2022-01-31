@@ -2,393 +2,156 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-01-2022 , 23:57:10
+Last Update 31-01-2022 , 00:42:49
 
 Country List :
+ Name  | Keyword |
+| ------------- | ------------- |
 
+| UNITED STATES | Mason Greenwood,USMNT,Howard Hesseman,Mexico vs Costa Rica,Lakers vs Hawks,Tyreek Hill,Josh McDaniels,Earthquake San Diego,Paramount,Kentucky basketball,Emily in Paris,Cheslie Kryst,Michelle Childs,Nick Cannon,Playoff games,Egypt vs Morocco,ABC,Guzman actress fired,Sixers,Ohio State basketball|
 
-# UNITED STATES
-<details>
-<summary>Show </summary>
 
-- Mason Greenwood -USMNT -Howard Hesseman -Mexico vs Costa Rica -Lakers vs Hawks -Tyreek Hill -Josh McDaniels -Earthquake San Diego -Paramount -Kentucky basketball -Emily in Paris -Cheslie Kryst -Michelle Childs -Nick Cannon -Playoff games -Egypt vs Morocco -ABC -Guzman actress fired -Sixers -Ohio State basketball
-</details>
+| ARGENTINA | Mason Greenwood,Cavani,Año Nuevo Chino 2022,San Lorenzo vs Nacional,Guinea Ecuatorial,Diego Dominguez,Pablo Ladaga,Luis Diaz,Carlos Auzqui,Leandro gonzález Pirez,Mauro Icardi,River Plate  Platense,Nadal,Mia Khalifa noticia,Copa Africana de Naciones,Episodios maria Becerra,Carlos tévez,Barty,Susana gimenez,Gambito de dama|
 
 
-# ARGENTINA
-<details>
-<summary>Show </summary>
+| AUSTRALIA | Microsoft Teams,Russia-Ukraine Putin,Loch Ard Gorge,Egypt vs Morocco,Asian Cup,Mason Greenwood,Tom Brady,I'm A Celebrity Australia 2022,Rafael Nadal wife,Matildas,Emma Watkins Wiggles,Misery Beach,Bridget Fonda,Citipointe Christian College,Warriors vs Nets,Bigg Boss 15 winner,Brian Houston,Ellyse Perry,Farmers Insurance Open,Jason Day|
 
-- Mason Greenwood -Cavani -Año Nuevo Chino 2022 -San Lorenzo vs Nacional -Guinea Ecuatorial -Diego Dominguez -Pablo Ladaga -Luis Diaz -Carlos Auzqui -Leandro gonzález Pirez -Mauro Icardi -River Plate  Platense -Nadal -Mia Khalifa noticia -Copa Africana de Naciones -Episodios maria Becerra -Carlos tévez -Barty -Susana gimenez -Gambito de dama
-</details>
 
+| AUSTRIA | Mason Greenwood,MFG Partei,Tara Tabitha,Dominic Thiem,Brigitte Kowanz,Unfall Villach,Conny Hütter,Kansas City,Afrika-Cup,Hamburg,David Coulthard,Marita Kramer,Johannes Lamparter,Sturmwarnung,Polizeiruf 110,Luis Diaz,Bloody Sunday,Leni Klum,Olympische Winterspiele,Stromausfall|
 
-# AUSTRALIA
-<details>
-<summary>Show </summary>
 
-- Microsoft Teams -Russia-Ukraine Putin -Loch Ard Gorge -Egypt vs Morocco -Asian Cup -Mason Greenwood -Tom Brady -I'm A Celebrity Australia 2022 -Rafael Nadal wife -Matildas -Emma Watkins Wiggles -Misery Beach -Bridget Fonda -Citipointe Christian College -Warriors vs Nets -Bigg Boss 15 winner -Brian Houston -Ellyse Perry -Farmers Insurance Open -Jason Day
-</details>
+| BELGIUM | Françoise Hardy,Mark Zuckerberg,Nadal,Maroc Egypte,Anderlecht,Mason Greenwood,Australian Open,Gent  Antwerp,Freddy Thielemans,Kortrijk Club Brugge,Dave,Puck Pieterse,Undav,Marokko voetbal,Bloody Sunday,EUROSPORT,Brunei,Peter R. de Vries,Arnaud De Lie,Raid Dingue|
 
 
-# AUSTRIA
-<details>
-<summary>Show </summary>
+| BRAZIL | Sao Paulo,Rafael Nadal,Fluminense,Greenwood,Fortaleza x Sousa,Toni Garrido,Pandora,Independence Day,Leo Batista,Remo,Dia da Saudade,America MG,Golden State Warriors,Paysandu,Franco da Rocha,Egito,Thais Fersoza,OnlyFans o que é,Luan Santana,Bia Haddad|
 
-- Mason Greenwood -MFG Partei -Tara Tabitha -Dominic Thiem -Brigitte Kowanz -Unfall Villach -Conny Hütter -Kansas City -Afrika-Cup -Hamburg -David Coulthard -Marita Kramer -Johannes Lamparter -Sturmwarnung -Polizeiruf 110 -Luis Diaz -Bloody Sunday -Leni Klum -Olympische Winterspiele -Stromausfall
-</details>
 
+| CANADA | Nadal,Mason Greenwood,Kansas City Chiefs,Howard Hesseman,Nets vs Warriors,Willem Dafoe,Egypt vs Morocco,Carey Price,Katy Perry,Canucks vs Flames,Madonna,Lakers vs Hawks,FIFA World Cup qualifiers,Ted Nugent Bruce Springsteen,Toronto Maple Leafs trade Rumors,John Herdman,Peyton Manning,Shepherds of Good Hope,Tyreek Hill,Ontario Canada COVID-19|
 
-# BELGIUM
-<details>
-<summary>Show </summary>
 
-- Françoise Hardy -Mark Zuckerberg -Nadal -Maroc Egypte -Anderlecht -Mason Greenwood -Australian Open -Gent  Antwerp -Freddy Thielemans -Kortrijk Club Brugge -Dave -Puck Pieterse -Undav -Marokko voetbal -Bloody Sunday -EUROSPORT -Brunei -Peter R. de Vries -Arnaud De Lie -Raid Dingue
-</details>
+| CHILE | Rafael Nadal,Mason Greenwood,Egipto vs,Guinea Ecuatorial,Belén Soto,Luis diaz,Cecilia gutierrez,Georgina,San Pedro de Atacama,Hawks  Lakers,Michael roldan,Mía Khalifa noticias,Royal Rumble 2022,Nicolás Jarry,24horas,Ashleigh Barty,Tom Brady,Javiera hernandez,River Plate  Platense,Jason Momoa|
 
 
-# BRAZIL
-<details>
-<summary>Show </summary>
+| COLOMBIA | Rafael Nadal,Medellín  Deportivo Cali,Mason Greenwood,Patriotas  Deportivo Pereira,Georgina,Porto  Marítimo,Loteria de boyaca 29 de enero 2022,Guinea Ecuatorial,America,Millonarios  Atlético Nacional,Junior  la Equidad,Mia Khalifa noticias,Santa Fe,Nequi,River Plate  Platense,Copa Africana de Naciones,Julian Osorio Concejal,Royal Rumble 2022,Tom Brady,Águilas Doradas  Once Caldas|
 
-- Sao Paulo -Rafael Nadal -Fluminense -Greenwood -Fortaleza x Sousa -Toni Garrido -Pandora -Independence Day -Leo Batista -Remo -Dia da Saudade -America MG -Golden State Warriors -Paysandu -Franco da Rocha -Egito -Thais Fersoza -OnlyFans o que é -Luan Santana -Bia Haddad
-</details>
 
+| CZECHIA | Nadal,Orlické vraždy,Stáří není pro sraby,Požár mladá Boleslav,Mason Greenwood,Vitr,Siniakova,Rychlost větru,Orkán,Vasektomie,Slavia,Radar,Leoš Mareš,Vichřice,Pripady 1 oddeleni,Jaromír Jágr,Stanjura,Tereza Kerndlová,Luis diaz,Demonstrace praha|
 
-# CANADA
-<details>
-<summary>Show </summary>
 
-- Nadal -Mason Greenwood -Kansas City Chiefs -Howard Hesseman -Nets vs Warriors -Willem Dafoe -Egypt vs Morocco -Carey Price -Katy Perry -Canucks vs Flames -Madonna -Lakers vs Hawks -FIFA World Cup qualifiers -Ted Nugent Bruce Springsteen -Toronto Maple Leafs trade Rumors -John Herdman -Peyton Manning -Shepherds of Good Hope -Tyreek Hill -Ontario Canada COVID-19
-</details>
+| DENMARK | Luis Diaz,Mason Greenwood,Nadal,Storm,Bridget Fonda,Tory Burch,Xisca perelló,Jonas Wind,Fabio Carvalho,News,Bloody Sunday,BESTSELLER,Tom Brady,Daytona 2022,Volvo XC40,Joe Rogan,Dyson Airwrap,Spy,The Fallout,Sebastian Stan|
 
 
-# CHILE
-<details>
-<summary>Show </summary>
+| EGYPT | ساديو ماني,Greenwood girlfriend,يلا كوره,Egypt VS morocco,رياضة,الاهلي,السنغال,beIN Sport,الاسطورة,محمد عبد المنعم,مصطفى محمد,احمد فتوح,Mohamed Salah,Greenwood,لويس دياز,محمود جاد,يوسف البلايلي,محمود تريزيجيه,فتوح,مايكل جاكسون|
 
-- Rafael Nadal -Mason Greenwood -Egipto vs -Guinea Ecuatorial -Belén Soto -Luis diaz -Cecilia gutierrez -Georgina -San Pedro de Atacama -Hawks  Lakers -Michael roldan -Mía Khalifa noticias -Royal Rumble 2022 -Nicolás Jarry -24horas -Ashleigh Barty -Tom Brady -Javiera hernandez -River Plate  Platense -Jason Momoa
-</details>
 
+| FINLAND | Tom Cruise,Rafael Nadal,Mason Greenwood,Seattle Kraken,Maria Francisca perelló,Hannibal,Convoy,Frozen,Jason Momoa,Luis Diaz,Jake Paul,Lisa Bonet,Kendall Jenner,Danny Elfman,Joe Rogan,Ashleigh Barty,Tom Brady,Futsal,Christopher Lee,Henrik Lundqvist|
 
-# COLOMBIA
-<details>
-<summary>Show </summary>
 
-- Rafael Nadal -Medellín  Deportivo Cali -Mason Greenwood -Patriotas  Deportivo Pereira -Georgina -Porto  Marítimo -Loteria de boyaca 29 de enero 2022 -Guinea Ecuatorial -America -Millonarios  Atlético Nacional -Junior  la Equidad -Mia Khalifa noticias -Santa Fe -Nequi -River Plate  Platense -Copa Africana de Naciones -Julian Osorio Concejal -Royal Rumble 2022 -Tom Brady -Águilas Doradas  Once Caldas
-</details>
+| FRANCE | Nordahl Lelandais,Bangladesh,Match Maroc,Bergerac – Saint-Étienne,Raid Dingue,Lens – Monaco,Prix d'Amérique 2022,Mason Greenwood,Edouard Baer,The Social Network,Gerard Lenorman,Anne Nivat,Gad Elmaleh,Angers,Bloody Sunday,Chris Marques,Gabriel Attal,Royal Rumble 2022,Ndombele,Britney Spears|
 
 
-# CZECHIA
-<details>
-<summary>Show </summary>
+| GERMANY | Nadal,Mason Greenwood,DFB-Pokal Auslosung,Polizeiruf 110,Angela Merkel,Bridget Fonda,Angela Finger-Erben,Viktoria Köln gegen 1860 München,Leni Klum,Mariele Millowitsch,Bloody Sunday,Sturm Berlin,Langeoog,David Coulthard,Station Eleven,Schlag den Star,Sturmflut: Hamburg,Tom Brady,Max Kruse,Handball-EM Finale|
 
-- Nadal -Orlické vraždy -Stáří není pro sraby -Požár mladá Boleslav -Mason Greenwood -Vitr -Siniakova -Rychlost větru -Orkán -Vasektomie -Slavia -Radar -Leoš Mareš -Vichřice -Pripady 1 oddeleni -Jaromír Jágr -Stanjura -Tereza Kerndlová -Luis diaz -Demonstrace praha
-</details>
 
+| GREECE | Ψηφοφορία Βουλή,ΠΑΟΚ-Ολυμπιακός,Nadal,Self-test,Τρεις ιεραρχεσ,Μαριεττα γιαννακου,Greenwood,ΑΕΚ βολοσ,Προταση μομφησ,Survivor ελλάδασ,Παναιτωλικοσ αρησ,Μαρια τζομπανακη,Μυριέλλα Κουρεντή,Βουλη,Οι Τρεις Ιεράρχες,Γιαννησ παπαδοπουλοσ,Snik,Καναδασ,ΠΑΣ γιαννινα,Ναυσικά Παναγιωτακοπούλου|
 
-# DENMARK
-<details>
-<summary>Show </summary>
 
-- Luis Diaz -Mason Greenwood -Nadal -Storm -Bridget Fonda -Tory Burch -Xisca perelló -Jonas Wind -Fabio Carvalho -News -Bloody Sunday -BESTSELLER -Tom Brady -Daytona 2022 -Volvo XC40 -Joe Rogan -Dyson Airwrap -Spy -The Fallout -Sebastian Stan
-</details>
+| HONG KONG | 七仙羽,澳網,哈利波特,周星馳,年廿八洗邋遢,楊英偉,黃婉恩,陳恩德,石華樓,許樹昌,蕭敬騰,非洲盃,沙田循道衛理中學,張敏,劉宇隆,映灣園,家有喜事,安以軒,愉景灣,香港金曲頒獎典禮|
 
 
-# EGYPT
-<details>
-<summary>Show </summary>
+| HUNGARY | Luis diaz,Nadal,Roger Federer,Újpest–ftc,Idojaras,FTC,Ambrus Attila,Szél,Szélvihar,Hajdú Péter,Kasza Tibi,Uri Geller,Idojaras Budapest,NB2,Viharos szél,Sztrájk,Vezércsel,Ferencváros,Pumped gabo,Kevin Costner|
 
-- ساديو ماني -Greenwood girlfriend -يلا كوره -Egypt VS morocco -رياضة -الاهلي -السنغال -beIN Sport -الاسطورة -محمد عبد المنعم -مصطفى محمد -احمد فتوح -Mohamed Salah -Greenwood -لويس دياز -محمود جاد -يوسف البلايلي -محمود تريزيجيه -فتوح -مايكل جاكسون
-</details>
 
+| INDIA | Free Fire Redeem Code,Kerala Blasters vs Bengaluru,Bigg Boss 15 winner kon he,Mason Greenwood,Mahatma Gandhi,Hrithik Roshan,BharatPe founder Ashneer Grover,Moeen Ali,Canadian Prime Minister Justin Trudeau,Deepika Padukone Gehraiyaan,30 January 2022,Afcon,Karachi Kings vs Lahore Qalandars,Tom Brady,Egypt vs Morocco,Nick Kyrgios,Bigg Boss 15 Winner,Australian Open,Bigg Boss 15 winner,ATK Mohun Bagan vs East Bengal|
 
-# FINLAND
-<details>
-<summary>Show </summary>
 
-- Tom Cruise -Rafael Nadal -Mason Greenwood -Seattle Kraken -Maria Francisca perelló -Hannibal -Convoy -Frozen -Jason Momoa -Luis Diaz -Jake Paul -Lisa Bonet -Kendall Jenner -Danny Elfman -Joe Rogan -Ashleigh Barty -Tom Brady -Futsal -Christopher Lee -Henrik Lundqvist
-</details>
+| INDONESIA | Libur Imlek 2022,Ip Man,Gundam,Greenwood,Ronaldo Kwateh,Rafael Nadal,Gambia vs Kamerun,Korban Tewas di Kerangkeng Manusia Bupati Langkat Lebih dari Satu,Prilly Latuconsina,Rangers,Hasil Piala Afrika,AFCON,MP3 Juice download lagu,Mortal Kombat,The Last Witch Hunter,David da Silva,Kim Nam Gil,Wander Luiz,Indonesia vs Timor Leste,Persib|
 
 
-# FRANCE
-<details>
-<summary>Show </summary>
+| IRELAND | Mason Greenwood,Rafael Nadal,Rory McIlroy,Bloody Sunday,Rylan Clark,Egypt vs Morocco,Kansas City Chiefs,Mayo v Donegal,Fabio Carvalho,Gareth O'Callaghan radio,Nadal wife,Derby County,Cork GAA,Ronaldo,David Attenborough,The Woman in the House Across the Street,Cathal Sweeney Waterford,Samsung Galaxy S22 Ultra,Kim Medcalf,Bentancur|
 
-- Nordahl Lelandais -Bangladesh -Match Maroc -Bergerac – Saint-Étienne -Raid Dingue -Lens – Monaco -Prix d'Amérique 2022 -Mason Greenwood -Edouard Baer -The Social Network -Gerard Lenorman -Anne Nivat -Gad Elmaleh -Angers -Bloody Sunday -Chris Marques -Gabriel Attal -Royal Rumble 2022 -Ndombele -Britney Spears
-</details>
 
+| ISRAEL | רוג'ר פדרר,מכבי חיפה,Australian Open,Mason Greenwood,רפאל נדאל,גרינווד,גלי בהרב-מיארה,דוד לוין,אברם גרנט,גיא מלמד,אליפות אפריקה,קנדה,מחיר הדלק,רדיו חיפה,אורן שחור,ביתר ירושלים,הפועל באר שבע,Tom Brady,טום בריידי,מכבי תל אביב כדורסל|
 
-# GERMANY
-<details>
-<summary>Show </summary>
 
-- Nadal -Mason Greenwood -DFB-Pokal Auslosung -Polizeiruf 110 -Angela Merkel -Bridget Fonda -Angela Finger-Erben -Viktoria Köln gegen 1860 München -Leni Klum -Mariele Millowitsch -Bloody Sunday -Sturm Berlin -Langeoog -David Coulthard -Station Eleven -Schlag den Star -Sturmflut: Hamburg -Tom Brady -Max Kruse -Handball-EM Finale
-</details>
+| ITALY | Milly Carlucci,Gianni Morandi,Giancarlo Commare,Greenwood,Luigi Borghese,Coppa d'Africa,Loretta Goggi,Ornella Vanoni,Nandez,Metsola,Deadpool 2,Federico Gatti,Sabrina Salerno,Amici,Fantasanremo,Daniele Pecci,Shel Shapiro,La sposa ultima puntata,Valeria Marini,Benedetta Parodi|
 
 
-# GREECE
-<details>
-<summary>Show </summary>
+| JAPAN | ナダル,グリーンウッド,なでしこジャパン,シルクロードステークス,松本人志,中村アン,金田一少年の事件簿,ワイドナショー,根岸ステークス,劇団ひとり,大阪国際女子マラソン,全日本卓球,突発性難聴,藤井隆,すべらない話,今井華,ヒロアカ 一番くじ,フレンチディスパッチ,セガ,埼玉立てこもり|
 
-- Ψηφοφορία Βουλή -ΠΑΟΚ-Ολυμπιακός -Nadal -Self-test -Τρεις ιεραρχεσ -Μαριεττα γιαννακου -Greenwood -ΑΕΚ βολοσ -Προταση μομφησ -Survivor ελλάδασ -Παναιτωλικοσ αρησ -Μαρια τζομπανακη -Μυριέλλα Κουρεντή -Βουλη -Οι Τρεις Ιεράρχες -Γιαννησ παπαδοπουλοσ -Snik -Καναδασ -ΠΑΣ γιαννινα -Ναυσικά Παναγιωτακοπούλου
-</details>
 
+| KENYA | Fabio Carvalho,Canada vs USA,Mason Greenwood,Australian Open,Alexander Isak,Derby vs Birmingham,Egypt FC,Tom Brady,Warriors vs Nets,Hawks vs Lakers,Bigg Boss 15 winner,Amad Diallo,Janet Jackson,Afcon,Egypt vs Morocco,Gambia vs Cameroon,Burkina Faso vs Tunisia,Royal Rumble 2022,All Of Us Are Dead,Fulham vs Blackpool|
 
-# HONG KONG
-<details>
-<summary>Show </summary>
 
-- 七仙羽 -澳網 -哈利波特 -周星馳 -年廿八洗邋遢 -楊英偉 -黃婉恩 -陳恩德 -石華樓 -許樹昌 -蕭敬騰 -非洲盃 -沙田循道衛理中學 -張敏 -劉宇隆 -映灣園 -家有喜事 -安以軒 -愉景灣 -香港金曲頒獎典禮
-</details>
+| MALAYSIA | Fabio Carvalho,Africa Cup of Nations,Mason Greenwood,Rafael Nadal,Royal Rumble 2022,Egypt vs Morocco,Moonfall,Bigg Boss Ultimate,Ashleigh Barty,Kampung Tawas,Warriors vs Nets,Tom Brady,All of Us Are Dead,FA Cup,Mortal Kombat,Khairy Jamaluddin,NeoCoV,The Woman in the House Across the Street,All of Us Are Dead,Luis Diaz|
 
 
-# HUNGARY
-<details>
-<summary>Show </summary>
+| MEXICO | Kansas City Chiefs,Canada vs usa,Rafael Nadal,Seleccion Mexicana,Mason Greenwood,Patrick mahomes,Mexico,Panamá  Jamaica,Suylen milanes,Hawks  Lakers,Celia,Sylvia Pasquel,Kristal Silva,Joker 2,Josh McDaniels,Keylor Navas,Mexico vs Costa Rica,Tom Brady,Royal Rumble 2022,Copa Africana de Naciones|
 
-- Luis diaz -Nadal -Roger Federer -Újpest–ftc -Idojaras -FTC -Ambrus Attila -Szél -Szélvihar -Hajdú Péter -Kasza Tibi -Uri Geller -Idojaras Budapest -NB2 -Viharos szél -Sztrájk -Vezércsel -Ferencváros -Pumped gabo -Kevin Costner
-</details>
 
+| NETHERLANDS | Nadal,Storm Corrie,Mason Greenwood,Marokko voetbal,Donny van de Beek,ADO Den Haag,Bloody Sunday,HAMBURG,Dilara Sahin,Christina Curry,Puck Pieterse,24 uur Daytona,Peter R. de Vries,Afrika Cup,Stromae,Willibrord Frequin,Marianne Vos,Barty,Dewi Pechler,Wim Jansen|
 
-# INDIA
-<details>
-<summary>Show </summary>
 
-- Free Fire Redeem Code -Kerala Blasters vs Bengaluru -Bigg Boss 15 winner kon he -Mason Greenwood -Mahatma Gandhi -Hrithik Roshan -BharatPe founder Ashneer Grover -Moeen Ali -Canadian Prime Minister Justin Trudeau -Deepika Padukone Gehraiyaan -30 January 2022 -Afcon -Karachi Kings vs Lahore Qalandars -Tom Brady -Egypt vs Morocco -Nick Kyrgios -Bigg Boss 15 Winner -Australian Open -Bigg Boss 15 winner -ATK Mohun Bagan vs East Bengal
-</details>
+| NEW ZEALAND | Melanie Lynskey,Xisca perelló,West Indies vs England,Rafael Nadal,Mason Greenwood,Tom Brady,Pete Smith New Zealand actor,Nick Kyrgios,Royal Rumble 2022,Sutton Tools,New cases today NZ,Wellington Phoenix,Joni Mitchell,Super Smash,Evonne Goolagong,Bigg Boss 15 winner,Janet Jackson,Church Unlimited,Tiger King Joe Exotic,Ash Barty|
 
 
-# INDONESIA
-<details>
-<summary>Show </summary>
+| NIGERIA | Isbae U,Mason Greenwood,Australian Open,Senegal vs Equatorial Guinea,Alexander Isak,Babangida,Tom Brady,Dembele,Aubameyang,Warriors vs Nets,Fabio Carvalho,Egypt FC,Hawks vs Lakers,Van de Beek,Derby County,Egypt Vs Morocco,Royal Rumble 2022,Burkina Faso vs Tunisia,Gambia vs Cameroon,Rangers|
 
-- Libur Imlek 2022 -Ip Man -Gundam -Greenwood -Ronaldo Kwateh -Rafael Nadal -Gambia vs Kamerun -Korban Tewas di Kerangkeng Manusia Bupati Langkat Lebih dari Satu -Prilly Latuconsina -Rangers -Hasil Piala Afrika -AFCON -MP3 Juice download lagu -Mortal Kombat -The Last Witch Hunter -David da Silva -Kim Nam Gil -Wander Luiz -Indonesia vs Timor Leste -Persib
-</details>
 
+| NORWAY | Mason Greenwood,Australian Open,Stavanger aftenblad,Karna Solskjær,Viktor Hovland,Bloody Sunday,Trafikkmeldinger,Ustaoset,Orkan,Flesland,Venezuela,Strømbrudd,Laksevåg kirke,Burkina Faso,Astrid Øyre Slind,Meteor,Tomine Harket,Marcialonga,Mari Bølla,Tom Brady|
 
-# IRELAND
-<details>
-<summary>Show </summary>
 
-- Mason Greenwood -Rafael Nadal -Rory McIlroy -Bloody Sunday -Rylan Clark -Egypt vs Morocco -Kansas City Chiefs -Mayo v Donegal -Fabio Carvalho -Gareth O'Callaghan radio -Nadal wife -Derby County -Cork GAA -Ronaldo -David Attenborough -The Woman in the House Across the Street -Cathal Sweeney Waterford -Samsung Galaxy S22 Ultra -Kim Medcalf -Bentancur
-</details>
+| PHILIPPINES | Hawks vs Lakers,Hornets vs Clippers,Bulls vs Trail Blazers,NBL,Endemic meaning,Cheslie Kryst,Mason Greenwood,Warriors vs Nets,Rafael Nadal,Alert Level 2,Heat vs Raptors,Mavericks vs Pacers,Royal Rumble 2022,Tom Brady,Grizzlies Vs Wizards,Weather forecast,Pelicans vs Celtics,76ers vs Kings,When is Chinese New Year,Christian Louboutin|
 
 
-# ISRAEL
-<details>
-<summary>Show </summary>
+| POLAND | Ordo Iuris,Mason Greenwood,Novak đoković,Allegro WOŚP,Krystian Bielik,Adele,Kanada,Maciej Orłoś,Energa,29. Finał WOŚP,Polsat,Dawid Podsiadło,Wichury w Polsce,Awaria prądu,Enea,Bridget Fonda,Mamaginekolog,Wichura,Luis Diaz,Edyta Górniak|
 
-- רוג'ר פדרר -מכבי חיפה -Australian Open -Mason Greenwood -רפאל נדאל -גרינווד -גלי בהרב-מיארה -דוד לוין -אברם גרנט -גיא מלמד -אליפות אפריקה -קנדה -מחיר הדלק -רדיו חיפה -אורן שחור -ביתר ירושלים -הפועל באר שבע -Tom Brady -טום בריידי -מכבי תל אביב כדורסל
-</details>
 
+| PORTUGAL | Legislativas 2022,Eleicoes,Mason Greenwood,Iniciativa Liberal,CNN,CDU,Antonio Costa,CNE,Rui Rio,Ivo Lucas,Chega,Observador,Braga-Moreirense,CDS,Vizela  Vitória SC,SIC noticias,PAN,Onde votar Portugal,Joao Oliveira,Antonio Filipe|
 
-# ITALY
-<details>
-<summary>Show </summary>
 
-- Milly Carlucci -Gianni Morandi -Giancarlo Commare -Greenwood -Luigi Borghese -Coppa d'Africa -Loretta Goggi -Ornella Vanoni -Nandez -Metsola -Deadpool 2 -Federico Gatti -Sabrina Salerno -Amici -Fantasanremo -Daniele Pecci -Shel Shapiro -La sposa ultima puntata -Valeria Marini -Benedetta Parodi
-</details>
+| ROMANIA | Diacon,Nadal,Mason Greenwood,Mihaila,Mihaela Cernea,Survivor romania 2022,Tom Brady,Joe Rogan,Iuliana Beregoi,Sergio Mattarella,Canada,FC Botoșani,Trudeau,Dennis Man,FC arges,Speak,Horoscop 30 ianuarie 2022,Alexandru Rafila,Ana Aslan,Nicolae Botgros|
 
 
-# JAPAN
-<details>
-<summary>Show </summary>
+| RUSSIA | Виктор Мережко,Ланс – Монако,Куравлев,Медведев Надаль,Татьяна Васильева,Гринвуд,Алексей Чумаков,РЕН ТВ,Александр Мясников,Нашли Тело женщины, утонувшей на Крещение,Даниил Медведев,Даниил Медведев,Надаль,Медведев,СОБР,Чили – Аргентина,Анна Семенович,Архип Куинджи,Блокада Ленинграда,Вальдо|
 
-- ナダル -グリーンウッド -なでしこジャパン -シルクロードステークス -松本人志 -中村アン -金田一少年の事件簿 -ワイドナショー -根岸ステークス -劇団ひとり -大阪国際女子マラソン -全日本卓球 -突発性難聴 -藤井隆 -すべらない話 -今井華 -ヒロアカ 一番くじ -フレンチディスパッチ -セガ -埼玉立てこもり
-</details>
 
+| SAUDI ARABIA | نيوكوف,الاسطورة,Egypt VS morocco,ماسون جرينوود,جون ماري,اندريه فيليبي,يلا كوره,وظائف نيوم,الحرس الوطني,نادال,لاعب,حسن الرداد,بطولة افريقيا,كايلي,هند البلوشي,لويس دياز,يوسف بلايلي,اختبار,بطولة امم افريقيا,نوال الكويتيه|
 
-# KENYA
-<details>
-<summary>Show </summary>
 
-- Fabio Carvalho -Canada vs USA -Mason Greenwood -Australian Open -Alexander Isak -Derby vs Birmingham -Egypt FC -Tom Brady -Warriors vs Nets -Hawks vs Lakers -Bigg Boss 15 winner -Amad Diallo -Janet Jackson -Afcon -Egypt vs Morocco -Gambia vs Cameroon -Burkina Faso vs Tunisia -Royal Rumble 2022 -All Of Us Are Dead -Fulham vs Blackpool
-</details>
+| SINGAPORE | Egypt vs Morocco,Fabio Carvalho,Bentancur,Derby County,Alexander Isak,Australian Open,Mason Greenwood,Royal Rumble 2022,Tom Brady,River Hongbao 2022,Warriors Vs Nets,Royal Caribbean SINGAPORE,Weather forecast,Raffles lighthouse Tour,Donny van de Beek,Bigg Boss 15 winner,Lunar New Year,Joe Rogan,In from The cold,Rangers|
 
 
-# MALAYSIA
-<details>
-<summary>Show </summary>
+| SOUTH AFRICA | Hawks vs Lakers,Mason Greenwood,Rafael Nadal,Egypt vs Morocco,Pearl Thusi,Tom Brady,Egypt FC,Nadal wife,Burkina Faso,Actor Patrick Shai,West Indies, VS England,Derby County,Dubai Desert Classic,The father,Fabio Carvalho,Afcon,WWE. Brock Lesnar,All of Us Are Dead,Gambia vs Cameroon,Sello Maake|
 
-- Fabio Carvalho -Africa Cup of Nations -Mason Greenwood -Rafael Nadal -Royal Rumble 2022 -Egypt vs Morocco -Moonfall -Bigg Boss Ultimate -Ashleigh Barty -Kampung Tawas -Warriors vs Nets -Tom Brady -All of Us Are Dead -FA Cup -Mortal Kombat -Khairy Jamaluddin -NeoCoV -The Woman in the House Across the Street -All of Us Are Dead -Luis Diaz
-</details>
 
+| SOUTH KOREA | 이소연,그린우드,PGA,나달,모라토리엄,정은지,정샘물,나인우,삼표산업,서울체크인,이동준,로또1000회당첨번호,서예진,영탁,MBC,이준호,백성현,LPGA,정상빈,송민호|
 
-# MEXICO
-<details>
-<summary>Show </summary>
 
-- Kansas City Chiefs -Canada vs usa -Rafael Nadal -Seleccion Mexicana -Mason Greenwood -Patrick mahomes -Mexico -Panamá  Jamaica -Suylen milanes -Hawks  Lakers -Celia -Sylvia Pasquel -Kristal Silva -Joker 2 -Josh McDaniels -Keylor Navas -Mexico vs Costa Rica -Tom Brady -Royal Rumble 2022 -Copa Africana de Naciones
-</details>
+| SWEDEN | Mason Greenwood,Andreas Palicka,Nadal,Handboll,Jim Gottfridsson,Sydsvenskan,Oscar Bergendahl,Beowulf,Kulusevski,Mikkel Hansen,Hallandsposten,Prix d'Amérique,Alexander Isak,Arlanda,Carolina Gynning,Martin Boquist,Bentancur,Marcialonga,Kattis ahlström,Storm skåne|
 
 
-# NETHERLANDS
-<details>
-<summary>Show </summary>
+| SWITZERLAND | Creed 2,Nadal,Australian Open,Mason Greenwood,FC Basel,Maroc Egypte,Lausanne-Sport,Adama traore,Kansas City,Leni Klum,Bloody Sunday,Luis Diaz,Ottawa,Moleson,Primaire populaire,Royal Rumble 2022,Kansas City Chiefs,Mason Greenwood Freundin,Sion – Grasshopper,Canada|
 
-- Nadal -Storm Corrie -Mason Greenwood -Marokko voetbal -Donny van de Beek -ADO Den Haag -Bloody Sunday -HAMBURG -Dilara Sahin -Christina Curry -Puck Pieterse -24 uur Daytona -Peter R. de Vries -Afrika Cup -Stromae -Willibrord Frequin -Marianne Vos -Barty -Dewi Pechler -Wim Jansen
-</details>
 
+| TAIWAN | 小年夜,女足,新年快樂,地震,拜天公,納達爾,垃圾車,山羌,過年禁忌,長年菜,勇士,京站,章廣辰,楊謹華,華航,校園殭屍,南投燈會,李靚蕾,高乘載管制時間,許光漢|
 
-# NEW ZEALAND
-<details>
-<summary>Show </summary>
 
-- Melanie Lynskey -Xisca perelló -West Indies vs England -Rafael Nadal -Mason Greenwood -Tom Brady -Pete Smith New Zealand actor -Nick Kyrgios -Royal Rumble 2022 -Sutton Tools -New cases today NZ -Wellington Phoenix -Joni Mitchell -Super Smash -Evonne Goolagong -Bigg Boss 15 winner -Janet Jackson -Church Unlimited -Tiger King Joe Exotic -Ash Barty
-</details>
+| THAILAND | ไหว้ตรุษจีน 2565,Mason Greenwood,ของไหว้ตรุษจีน,คําอวยพรตรุษจีน 2565,DHL,อ้นศรีพรรณ,หมอสุนิล,ฟุตบอลหญิงชิงแชมป์เอเชีย 2022,สอบครูอาชีวะ,ราชบุรีมิตรผล,ไหว้เจ้าที่ตรุษจีน,เลือกตั้งซ่อมหลักสี่,ไพรวัลย์,ตรุษจีน 2565 ไหว้วันไหน,บุรีรัมย์ยูไนเต็ด,มัธยมซอมบี้,บีจีปทุม,ตรุษจีน 2565 ไหว้ วัน ไหน,มัธยมซอมบี้,เกษตรแฟร์ 2565|
 
 
-# NIGERIA
-<details>
-<summary>Show </summary>
+| TURKEY | Aycan Yanaç,Yargı son bölüm,Esra Erol Elif,Atilla Taş,Hawks' Lakers,Max Kruse,Mert Öcal,Nadal,Gomis,Erick Pulgar,Mason Greenwood,Anadolu Efes - Fenerbahçe,Hedefim Sensin,Adama Traore,Hüseyin Aydın,Kemal Kılıçdaroğlu,Metaverse,Luyindama,Sakaryaspor,Trezeguet|
 
-- Isbae U -Mason Greenwood -Australian Open -Senegal vs Equatorial Guinea -Alexander Isak -Babangida -Tom Brady -Dembele -Aubameyang -Warriors vs Nets -Fabio Carvalho -Egypt FC -Hawks vs Lakers -Van de Beek -Derby County -Egypt Vs Morocco -Royal Rumble 2022 -Burkina Faso vs Tunisia -Gambia vs Cameroon -Rangers
-</details>
 
+| UKRAINE | Куравлев,Надаль,Виктор Мережко,Леонід Куравльов,Гринвуд,Львівобленерго,Татьяна Васильева,Леонид гайдай,Бенфика – Спортинг,Мы все мертвы,29 січня свято,Джо Байден,МастерШеф. Битва сезонів,Мальдини,Бренсон,Стас Михайлов,Вирчис,Футзал,Сергей Кузьминых,Марія Бурмака|
 
-# NORWAY
-<details>
-<summary>Show </summary>
 
-- Mason Greenwood -Australian Open -Stavanger aftenblad -Karna Solskjær -Viktor Hovland -Bloody Sunday -Trafikkmeldinger -Ustaoset -Orkan -Flesland -Venezuela -Strømbrudd -Laksevåg kirke -Burkina Faso -Astrid Øyre Slind -Meteor -Tomine Harket -Marcialonga -Mari Bølla -Tom Brady
-</details>
+| UNITED KINGDOM | Mason Greenwood,Rylan,Derby County,Manchester United,Bridget Fonda,Kulusevski,Bez,Regan Gascoigne,Cardiff City,Egypt vs Morocco,Kim Medcalf,West Indies vs England,Fabio Carvalho,Bloody Sunday,Storm Corrie,Dan Burn,Rory McIlroy,Kunal Nayyar,Ollie Tanner,Bigg Boss 15 winner|
 
 
-# PHILIPPINES
-<details>
-<summary>Show </summary>
-
-- Hawks vs Lakers -Hornets vs Clippers -Bulls vs Trail Blazers -NBL -Endemic meaning -Cheslie Kryst -Mason Greenwood -Warriors vs Nets -Rafael Nadal -Alert Level 2 -Heat vs Raptors -Mavericks vs Pacers -Royal Rumble 2022 -Tom Brady -Grizzlies Vs Wizards -Weather forecast -Pelicans vs Celtics -76ers vs Kings -When is Chinese New Year -Christian Louboutin
-</details>
-
-
-# POLAND
-<details>
-<summary>Show </summary>
-
-- Ordo Iuris -Mason Greenwood -Novak đoković -Allegro WOŚP -Krystian Bielik -Adele -Kanada -Maciej Orłoś -Energa -29. Finał WOŚP -Polsat -Dawid Podsiadło -Wichury w Polsce -Awaria prądu -Enea -Bridget Fonda -Mamaginekolog -Wichura -Luis Diaz -Edyta Górniak
-</details>
-
-
-# PORTUGAL
-<details>
-<summary>Show </summary>
-
-- Legislativas 2022 -Eleicoes -Mason Greenwood -Iniciativa Liberal -CNN -CDU -Antonio Costa -CNE -Rui Rio -Ivo Lucas -Chega -Observador -Braga-Moreirense -CDS -Vizela  Vitória SC -SIC noticias -PAN -Onde votar Portugal -Joao Oliveira -Antonio Filipe
-</details>
-
-
-# ROMANIA
-<details>
-<summary>Show </summary>
-
-- Diacon -Nadal -Mason Greenwood -Mihaila -Mihaela Cernea -Survivor romania 2022 -Tom Brady -Joe Rogan -Iuliana Beregoi -Sergio Mattarella -Canada -FC Botoșani -Trudeau -Dennis Man -FC arges -Speak -Horoscop 30 ianuarie 2022 -Alexandru Rafila -Ana Aslan -Nicolae Botgros
-</details>
-
-
-# RUSSIA
-<details>
-<summary>Show </summary>
-
-- Виктор Мережко -Ланс – Монако -Куравлев -Медведев Надаль -Татьяна Васильева -Гринвуд -Алексей Чумаков -РЕН ТВ -Александр Мясников -Нашли Тело женщины - утонувшей на Крещение -Даниил Медведев -Даниил Медведев -Надаль -Медведев -СОБР -Чили – Аргентина -Анна Семенович -Архип Куинджи -Блокада Ленинграда -Вальдо
-</details>
-
-
-# SAUDI ARABIA
-<details>
-<summary>Show </summary>
-
-- نيوكوف -الاسطورة -Egypt VS morocco -ماسون جرينوود -جون ماري -اندريه فيليبي -يلا كوره -وظائف نيوم -الحرس الوطني -نادال -لاعب -حسن الرداد -بطولة افريقيا -كايلي -هند البلوشي -لويس دياز -يوسف بلايلي -اختبار -بطولة امم افريقيا -نوال الكويتيه
-</details>
-
-
-# SINGAPORE
-<details>
-<summary>Show </summary>
-
-- Egypt vs Morocco -Fabio Carvalho -Bentancur -Derby County -Alexander Isak -Australian Open -Mason Greenwood -Royal Rumble 2022 -Tom Brady -River Hongbao 2022 -Warriors Vs Nets -Royal Caribbean SINGAPORE -Weather forecast -Raffles lighthouse Tour -Donny van de Beek -Bigg Boss 15 winner -Lunar New Year -Joe Rogan -In from The cold -Rangers
-</details>
-
-
-# SOUTH AFRICA
-<details>
-<summary>Show </summary>
-
-- Hawks vs Lakers -Mason Greenwood -Rafael Nadal -Egypt vs Morocco -Pearl Thusi -Tom Brady -Egypt FC -Nadal wife -Burkina Faso -Actor Patrick Shai -West Indies - VS England -Derby County -Dubai Desert Classic -The father -Fabio Carvalho -Afcon -WWE. Brock Lesnar -All of Us Are Dead -Gambia vs Cameroon -Sello Maake
-</details>
-
-
-# SOUTH KOREA
-<details>
-<summary>Show </summary>
-
-- 이소연 -그린우드 -PGA -나달 -모라토리엄 -정은지 -정샘물 -나인우 -삼표산업 -서울체크인 -이동준 -로또1000회당첨번호 -서예진 -영탁 -MBC -이준호 -백성현 -LPGA -정상빈 -송민호
-</details>
-
-
-# SWEDEN
-<details>
-<summary>Show </summary>
-
-- Mason Greenwood -Andreas Palicka -Nadal -Handboll -Jim Gottfridsson -Sydsvenskan -Oscar Bergendahl -Beowulf -Kulusevski -Mikkel Hansen -Hallandsposten -Prix d'Amérique -Alexander Isak -Arlanda -Carolina Gynning -Martin Boquist -Bentancur -Marcialonga -Kattis ahlström -Storm skåne
-</details>
-
-
-# SWITZERLAND
-<details>
-<summary>Show </summary>
-
-- Creed 2 -Nadal -Australian Open -Mason Greenwood -FC Basel -Maroc Egypte -Lausanne-Sport -Adama traore -Kansas City -Leni Klum -Bloody Sunday -Luis Diaz -Ottawa -Moleson -Primaire populaire -Royal Rumble 2022 -Kansas City Chiefs -Mason Greenwood Freundin -Sion – Grasshopper -Canada
-</details>
-
-
-# TAIWAN
-<details>
-<summary>Show </summary>
-
-- 小年夜 -女足 -新年快樂 -地震 -拜天公 -納達爾 -垃圾車 -山羌 -過年禁忌 -長年菜 -勇士 -京站 -章廣辰 -楊謹華 -華航 -校園殭屍 -南投燈會 -李靚蕾 -高乘載管制時間 -許光漢
-</details>
-
-
-# THAILAND
-<details>
-<summary>Show </summary>
-
-- ไหว้ตรุษจีน 2565 -Mason Greenwood -ของไหว้ตรุษจีน -คําอวยพรตรุษจีน 2565 -DHL -อ้นศรีพรรณ -หมอสุนิล -ฟุตบอลหญิงชิงแชมป์เอเชีย 2022 -สอบครูอาชีวะ -ราชบุรีมิตรผล -ไหว้เจ้าที่ตรุษจีน -เลือกตั้งซ่อมหลักสี่ -ไพรวัลย์ -ตรุษจีน 2565 ไหว้วันไหน -บุรีรัมย์ยูไนเต็ด -มัธยมซอมบี้ -บีจีปทุม -ตรุษจีน 2565 ไหว้ วัน ไหน -มัธยมซอมบี้ -เกษตรแฟร์ 2565
-</details>
-
-
-# TURKEY
-<details>
-<summary>Show </summary>
-
-- Aycan Yanaç -Yargı son bölüm -Esra Erol Elif -Atilla Taş -Hawks' Lakers -Max Kruse -Mert Öcal -Nadal -Gomis -Erick Pulgar -Mason Greenwood -Anadolu Efes - Fenerbahçe -Hedefim Sensin -Adama Traore -Hüseyin Aydın -Kemal Kılıçdaroğlu -Metaverse -Luyindama -Sakaryaspor -Trezeguet
-</details>
-
-
-# UKRAINE
-<details>
-<summary>Show </summary>
-
-- Куравлев -Надаль -Виктор Мережко -Леонід Куравльов -Гринвуд -Львівобленерго -Татьяна Васильева -Леонид гайдай -Бенфика – Спортинг -Мы все мертвы -29 січня свято -Джо Байден -МастерШеф. Битва сезонів -Мальдини -Бренсон -Стас Михайлов -Вирчис -Футзал -Сергей Кузьминых -Марія Бурмака
-</details>
-
-
-# UNITED KINGDOM
-<details>
-<summary>Show </summary>
-
-- Mason Greenwood -Rylan -Derby County -Manchester United -Bridget Fonda -Kulusevski -Bez -Regan Gascoigne -Cardiff City -Egypt vs Morocco -Kim Medcalf -West Indies vs England -Fabio Carvalho -Bloody Sunday -Storm Corrie -Dan Burn -Rory McIlroy -Kunal Nayyar -Ollie Tanner -Bigg Boss 15 winner
-</details>
-
-
-# VIETNAM
-<details>
-<summary>Show </summary>
-
-- Bóng đá nữ Việt Nam -Nadal -Greenwood -Những câu chúc tết hay -An Dĩ Hiên -Xá lợi Thiền sư Thích Nhất Hạnh -Fulham -Vương Anh Tú -Lịch bóng đá nữ Việt Nam -Tết -Mâm ngũ quả -Văn khấn tất niên -Tuổi xông đất 2022 -Cách gói bánh chưng -Thủy Tiên -Nguyễn Phú Trọng -Cục Lãnh sự Bộ Ngoại giao -Quế Ngọc Hải -Kim Jong-un -Vlahovic
-</details>
+| VIETNAM | Bóng đá nữ Việt Nam,Nadal,Greenwood,Những câu chúc tết hay,An Dĩ Hiên,Xá lợi Thiền sư Thích Nhất Hạnh,Fulham,Vương Anh Tú,Lịch bóng đá nữ Việt Nam,Tết,Mâm ngũ quả,Văn khấn tất niên,Tuổi xông đất 2022,Cách gói bánh chưng,Thủy Tiên,Nguyễn Phú Trọng,Cục Lãnh sự Bộ Ngoại giao,Quế Ngọc Hải,Kim Jong-un,Vlahovic|
 
 
  
+
+© Abdul Muttaqin 
