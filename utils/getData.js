@@ -22,7 +22,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 
 console.log(x.toString());
 str += `
-| ${name} | ${x.toString()}|
+| ${name} | ${x.toString().replace(\/\n/g , "")}|
 
 `
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
