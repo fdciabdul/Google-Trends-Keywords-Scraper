@@ -22,12 +22,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 
 console.log(x.toString());
 str += `
-# ${name}
-<details>
-<summary>Show </summary>
-
-- ${x.toString().replace(/,/g ,"\ -")}
-</details>
+| ${name} | ${x.toString()}|
 
 `
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
@@ -41,9 +36,12 @@ fs.writeFileSync("./README.MD", `
 Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 
 Country List :
-
+ Name  | Keyword |
+| ------------- | ------------- |
 ${str}
  
+
+© Abdul Muttaqin 
 `)
 return " data Has been writed";
 }
