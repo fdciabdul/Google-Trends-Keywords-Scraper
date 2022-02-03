@@ -14,7 +14,7 @@ let name = list[i].split("=")[0].replace("_", " ");
 
 const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
   const feed = await parser.parseURL(url);
-  const x = feed.items.map(el => el.title);
+  const x = feed.items.map(el => [el.title,el.link);
   const res = {
      lastUpdate: format("dd-MM-yyyy , hh:mm:ss"),
      data: x
