@@ -15,6 +15,7 @@ let name = list[i].split("=")[0].replace("_", " ");
 const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
   const feed = await parser.parseURL(url);
   const x = feed.items.map(el => [el.title,el.link]);
+  const thiskeyword = feed.items.map(el => [el.title]);
   const res = {
      lastUpdate: format("dd-MM-yyyy , hh:mm:ss"),
      data: x
@@ -23,6 +24,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 console.log(x.toString());
 str += "| "+name+" | "+x.toString()+"|";
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
+  fs.writeFileSync("./forcopied/"+name+".txt",thiskeyword.toString() , thiskeyword.toString())
     
 }
 
