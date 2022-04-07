@@ -22,13 +22,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 }
 
 console.log(x.toString());
-str += "| "+name+" | "+x.title+"|";
-     fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
-  fs.writeFileSync("./forcopied/"+name+".txt",thiskeyword.toString() , "UTF-8")
-    
-}
-
-fs.writeFileSync("./README.MD", `
+  fs.writeFileSync("./README.MD", `
 
 ## Google Trends Keywords Scraper 
  
@@ -37,10 +31,18 @@ Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
+| ${name} | ${x[0].title} |
 ${str}
 
 
 © Abdul Muttaqin 
 `)
+str += "| "+name+" | "+x.title+"|";
+     fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
+  fs.writeFileSync("./forcopied/"+name+".txt",thiskeyword.toString() , "UTF-8")
+    
+}
+
+
 return " data Has been writed";
 }
