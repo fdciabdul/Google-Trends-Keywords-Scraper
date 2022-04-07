@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-04-2022 , 19:22:09
+Last Update 07-04-2022 , 19:25:08
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Atalanta,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atalanta,One Punch Man,https://trends.google.com/trends/trendingsearches/daily?geo=VN#One%20Punch%20Man,Fujiko Fujio,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fujiko%20Fujio,Việt Hưng Phát,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vi%E1%BB%87t%20H%C6%B0ng%20Ph%C3%A1t,Dạ Thảo Phương,https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%E1%BA%A1%20Th%E1%BA%A3o%20Ph%C6%B0%C6%A1ng,Quyền Linh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Quy%E1%BB%81n%20Linh,Hà Nội FC,https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20N%E1%BB%99i%20FC,Everton,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Everton,Europa League,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Europa%20League,Lan Khuê,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lan%20Khu%C3%AA,Từ Hy Viên,https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%AB%20Hy%20Vi%C3%AAn,Brooklyn Beckham,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brooklyn%20Beckham,Tân Hiệp Phát,https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%C3%A2n%20Hi%E1%BB%87p%20Ph%C3%A1t,Nhật Kim Anh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%E1%BA%ADt%20Kim%20Anh,Chelsea,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea,Man City đấu với atlético Madrid,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20atl%C3%A9tico%20Madrid,Bayern Munich,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern%20Munich,VNDirect,https://trends.google.com/trends/trendingsearches/daily?geo=VN#VNDirect,Futsal Đông Nam Á 2022,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Futsal%20%C4%90%C3%B4ng%20Nam%20%C3%81%202022,Bão ngầm tập 33,https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%A3o%20ng%E1%BA%A7m%20t%E1%BA%ADp%2033 |
+| VIETNAM | One Punch Man,https://trends.google.com/trends/trendingsearches/daily?geo=VN#One%20Punch%20Man |
 
 
 
