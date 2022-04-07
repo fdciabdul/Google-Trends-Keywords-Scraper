@@ -31,8 +31,8 @@ Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| ${name} | ${x[0].title} |
-${str}
+| ${name} | ${res.data.toString()} |
+
 
 
 © Abdul Muttaqin 
