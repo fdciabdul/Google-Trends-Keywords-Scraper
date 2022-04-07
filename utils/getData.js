@@ -22,7 +22,7 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 }
 
 console.log(x.toString());
-str += "| "+name+" | "+x.toString()+"|";
+str += "| "+name+" | "+x.title+"|";
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
   fs.writeFileSync("./forcopied/"+name+".txt",thiskeyword.toString() , "UTF-8")
     
