@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-04-2022 , 05:38:25
+Last Update 08-04-2022 , 05:47:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | West Ham,https://trends.google.com/trends/trendingsearches/daily?geo=VN#West%20Ham |
+| VIETNAM | Leipzig,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Leipzig |
 
 
 
