@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-04-2022 , 17:49:49
+Last Update 08-04-2022 , 17:58:41
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | AS Roma,https://trends.google.com/trends/trendingsearches/daily?geo=VN#AS%20Roma |
+| VIETNAM | Futsal Việt Nam,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Futsal%20Vi%E1%BB%87t%20Nam |
 
 
 
