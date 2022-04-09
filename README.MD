@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-04-2022 , 08:32:50
+Last Update 09-04-2022 , 08:45:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Newcastle vs,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle%20vs |
+| VIETNAM | Bang xep hang ngoai hang Anh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bang%20xep%20hang%20ngoai%20hang%20Anh |
 
 
 
