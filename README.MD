@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-04-2022 , 01:16:07
+Last Update 09-04-2022 , 02:34:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Anh có phải đàn ông không tập 24,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh%20c%C3%B3%20ph%E1%BA%A3i%20%C4%91%C3%A0n%20%C3%B4ng%20kh%C3%B4ng%20t%E1%BA%ADp%2024 |
+| VIETNAM | Kết quả Ngoại hạng Anh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%E1%BA%BFt%20qu%E1%BA%A3%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh |
 
 
 
