@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-04-2022 , 03:50:18
+Last Update 09-04-2022 , 03:58:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Kết quả Ngoại hạng Anh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%E1%BA%BFt%20qu%E1%BA%A3%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh |
+| VIETNAM | Sơn Tùng,https://trends.google.com/trends/trendingsearches/daily?geo=VN#S%C6%A1n%20T%C3%B9ng |
 
 
 
