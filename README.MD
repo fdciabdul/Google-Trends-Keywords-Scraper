@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-04-2022 , 01:19:28
+Last Update 11-04-2022 , 02:55:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Juventus,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus |
+| VIETNAM | Lệ Quyên,https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%87%20Quy%C3%AAn |
 
 
 
