@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-04-2022 , 04:48:28
+Last Update 12-04-2022 , 04:58:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng dầu hôm nay,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay |
+| VIETNAM | Bão ngầm tập 35,https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%A3o%20ng%E1%BA%A7m%20t%E1%BA%ADp%2035 |
 
 
 
