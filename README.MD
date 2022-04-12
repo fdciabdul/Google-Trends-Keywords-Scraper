@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-04-2022 , 13:46:00
+Last Update 12-04-2022 , 13:54:52
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bão ngầm tập 35,https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%A3o%20ng%E1%BA%A7m%20t%E1%BA%ADp%2035 |
+| VIETNAM | Chelsea vs Real,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20vs%20Real |
 
 
 
