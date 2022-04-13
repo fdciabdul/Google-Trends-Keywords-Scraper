@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 03:22:16
+Last Update 13-04-2022 , 04:00:07
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chelsea,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea |
+| VIETNAM | Liên Quân Mobile,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Li%C3%AAn%20Qu%C3%A2n%20Mobile |
 
 
 
