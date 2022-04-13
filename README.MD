@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 06:38:50
+Last Update 13-04-2022 , 06:52:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liên Quân Mobile,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Li%C3%AAn%20Qu%C3%A2n%20Mobile |
+| VIETNAM | Ket qua cup C1,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ket%20qua%20cup%20C1 |
 
 
 
