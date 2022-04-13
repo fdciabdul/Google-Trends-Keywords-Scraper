@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 17:51:19
+Last Update 13-04-2022 , 18:00:02
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Maybach,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Maybach |
+| VIETNAM | Soundtrack #1,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Soundtrack%20%231 |
 
 
 
