@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 11:54:09
+Last Update 13-04-2022 , 12:17:20
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ket qua cup C1,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ket%20qua%20cup%20C1 |
+| VIETNAM | Maybach,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Maybach |
 
 
 
