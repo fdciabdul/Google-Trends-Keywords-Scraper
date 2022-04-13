@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 00:30:32
+Last Update 13-04-2022 , 02:24:26
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay |
+| VIETNAM | Maybach,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Maybach |
 
 
 
