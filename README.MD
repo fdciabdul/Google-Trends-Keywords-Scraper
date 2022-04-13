@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 16:07:15
+Last Update 13-04-2022 , 16:43:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Atlético Madrid đấu với Man City,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atl%C3%A9tico%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City |
+| VIETNAM | Thương Ngày Nắng Về phần 2 tập 6,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%C6%B0%C6%A1ng%20Ng%C3%A0y%20N%E1%BA%AFng%20V%E1%BB%81%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206 |
 
 
 
