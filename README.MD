@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 20:42:50
+Last Update 13-04-2022 , 21:21:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Soundtrack #1,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Soundtrack%20%231 |
+| VIETNAM | Atlético Madrid đấu với Man City,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atl%C3%A9tico%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City |
 
 
 
