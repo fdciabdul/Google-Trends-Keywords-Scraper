@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 13:41:46
+Last Update 13-04-2022 , 13:50:25
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ket qua cup C1,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ket%20qua%20cup%20C1 |
+| VIETNAM | Atlético Madrid đấu với Man City,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atl%C3%A9tico%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City |
 
 
 
