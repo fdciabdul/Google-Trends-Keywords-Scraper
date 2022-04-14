@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-04-2022 , 18:39:59
+Last Update 14-04-2022 , 18:51:22
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tô Anh Dũng,https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%C3%B4%20Anh%20D%C5%A9ng |
+| VIETNAM | Hang Sơn Đoòng,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hang%20S%C6%A1n%20%C4%90o%C3%B2ng |
 
 
 
