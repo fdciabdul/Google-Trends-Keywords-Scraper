@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-04-2022 , 14:36:18
+Last Update 14-04-2022 , 14:45:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Valentine đen,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Valentine%20%C4%91en |
+| VIETNAM | Tô Anh Dũng,https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%C3%B4%20Anh%20D%C5%A9ng |
 
 
 
