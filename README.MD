@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-04-2022 , 23:58:39
+Last Update 14-04-2022 , 01:52:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool đấu với Benfica,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Benfica |
+| VIETNAM | Liverpool,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool |
 
 
 
