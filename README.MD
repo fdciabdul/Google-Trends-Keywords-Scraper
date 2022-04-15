@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-04-2022 , 14:59:14
+Last Update 15-04-2022 , 19:11:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Europa,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Europa |
+| VIETNAM | Man City đấu với Liverpool,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Liverpool |
 
 
 
