@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-04-2022 , 23:44:33
+Last Update 15-04-2022 , 23:53:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Anh có phải đàn ông không tập 25,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh%20c%C3%B3%20ph%E1%BA%A3i%20%C4%91%C3%A0n%20%C3%B4ng%20kh%C3%B4ng%20t%E1%BA%ADp%2025 |
+| VIETNAM | Inter Milan,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Milan |
 
 
 
