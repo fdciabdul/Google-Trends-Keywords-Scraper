@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-04-2022 , 02:00:45
+Last Update 15-04-2022 , 03:42:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man City,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City |
+| VIETNAM | Hoa hậu Lương Thùy Linh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hoa%20h%E1%BA%ADu%20L%C6%B0%C6%A1ng%20Th%C3%B9y%20Linh |
 
 
 
