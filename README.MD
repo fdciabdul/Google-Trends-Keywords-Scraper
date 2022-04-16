@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-04-2022 , 19:01:44
+Last Update 16-04-2022 , 19:19:09
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Brentford,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brentford |
+| VIETNAM | MU vs Norwich,https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs%20Norwich |
 
 
 
