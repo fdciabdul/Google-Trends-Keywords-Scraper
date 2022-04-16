@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-04-2022 , 22:21:30
+Last Update 16-04-2022 , 22:34:40
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU vs Norwich,https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs%20Norwich |
+| VIETNAM | Rosé (BLACKPINK,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ros%C3%A9%20(BLACKPINK |
 
 
 
