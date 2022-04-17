@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-04-2022 , 03:45:48
+Last Update 17-04-2022 , 03:57:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dortmund,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dortmund |
+| VIETNAM | Lễ Phục sinh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%85%20Ph%E1%BB%A5c%20sinh |
 
 
 
