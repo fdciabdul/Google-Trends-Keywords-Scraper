@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-04-2022 , 17:46:21
+Last Update 17-04-2022 , 17:55:10
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dortmund,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dortmund |
+| VIETNAM | Juventus,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus |
 
 
 
