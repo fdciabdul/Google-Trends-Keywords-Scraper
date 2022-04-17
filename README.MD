@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-04-2022 , 15:45:39
+Last Update 17-04-2022 , 15:54:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man Utd,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd |
+| VIETNAM | Juventus,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus |
 
 
 
