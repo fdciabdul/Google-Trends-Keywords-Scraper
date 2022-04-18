@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-04-2022 , 21:39:20
+Last Update 18-04-2022 , 21:57:06
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Atalanta,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atalanta |
+| VIETNAM | PSG,https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG |
 
 
 
