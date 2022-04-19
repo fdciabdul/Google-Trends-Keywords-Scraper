@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-04-2022 , 18:50:07
+Last Update 19-04-2022 , 18:58:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sydney đấu với Hoàng Anh Gia Lai,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sydney%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Ho%C3%A0ng%20Anh%20Gia%20Lai |
+| RUSSIA | Донбасс,https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81 |
 
 
 
