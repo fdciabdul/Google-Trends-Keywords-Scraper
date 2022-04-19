@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-04-2022 , 17:51:45
+Last Update 19-04-2022 , 18:01:53
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | U23 Việt Nam vs U20 Hàn Quốc,https://trends.google.com/trends/trendingsearches/daily?geo=VN#U23%20Vi%E1%BB%87t%20Nam%20vs%20U20%20H%C3%A0n%20Qu%E1%BB%91c |
+| VIETNAM | Sydney đấu với Hoàng Anh Gia Lai,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sydney%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Ho%C3%A0ng%20Anh%20Gia%20Lai |
 
 
 
