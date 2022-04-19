@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-04-2022 , 16:17:42
+Last Update 19-04-2022 , 16:55:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Barca,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca |
+| VIETNAM | U23 Việt Nam vs U20 Hàn Quốc,https://trends.google.com/trends/trendingsearches/daily?geo=VN#U23%20Vi%E1%BB%87t%20Nam%20vs%20U20%20H%C3%A0n%20Qu%E1%BB%91c |
 
 
 
