@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-04-2022 , 20:54:07
+Last Update 19-04-2022 , 21:11:03
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Soi kèo Liverpool vs MU,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Soi%20k%C3%A8o%20Liverpool%20vs%20MU |
+| VIETNAM | AC Milan,https://trends.google.com/trends/trendingsearches/daily?geo=VN#AC%20Milan |
 
 
 
