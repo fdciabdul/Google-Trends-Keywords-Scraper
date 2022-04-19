@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-04-2022 , 00:22:39
+Last Update 19-04-2022 , 02:27:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Meghan,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Meghan |
+| VIETNAM | Barca vs,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca%20vs |
 
 
 
