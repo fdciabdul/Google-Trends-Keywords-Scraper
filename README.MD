@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-04-2022 , 11:54:39
+Last Update 19-04-2022 , 12:23:04
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Barca,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca |
+| VIETNAM | Cristiano Ronaldo,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cristiano%20Ronaldo |
 
 
 
