@@ -36,7 +36,7 @@ Country List :
 
 
 © Abdul Muttaqin 
-`, 'UTF-8,{'flags': 'a+'})
+`, 'UTF-8',{'flags': 'a+'})
 str += "| "+name+" | "+x.title+"|";
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
   fs.writeFileSync("./forcopied/"+name+".txt",thiskeyword.toString() , "UTF-8")
