@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-04-2022 , 13:12:47
+Last Update 20-04-2022 , 13:45:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | AC Milan,https://trends.google.com/trends/trendingsearches/daily?geo=VN#AC%20Milan |
+| VIETNAM | Premier,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Premier |
 
 
 
