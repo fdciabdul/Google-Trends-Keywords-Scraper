@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-04-2022 , 19:46:48
+Last Update 21-04-2022 , 19:55:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Black Clover,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Black%20Clover |
+| VIETNAM | Erik ten Hag,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Erik%20ten%20Hag |
 
 
 
