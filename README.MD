@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-04-2022 , 13:51:32
+Last Update 21-04-2022 , 14:00:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Real Madrid,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid |
+| VIETNAM | PSG,https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG |
 
 
 
