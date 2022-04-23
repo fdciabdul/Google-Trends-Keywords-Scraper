@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-04-2022 , 07:38:08
+Last Update 23-04-2022 , 07:46:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sugar baby,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sugar%20baby |
+| VIETNAM | Trương Ngọc Ánh,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%C6%A1ng%20Ng%E1%BB%8Dc%20%C3%81nh |
 
 
 
