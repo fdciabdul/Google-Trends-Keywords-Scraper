@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-04-2022 , 23:59:23
+Last Update 23-04-2022 , 01:53:05
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dược sĩ Tiến,https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%C6%B0%E1%BB%A3c%20s%C4%A9%20Ti%E1%BA%BFn |
+| VIETNAM | Đảo Bình Ba,https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BA%A3o%20B%C3%ACnh%20Ba |
 
 
 
