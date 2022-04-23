@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-04-2022 , 16:40:07
+Last Update 23-04-2022 , 17:00:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | The Next Gentleman,https://trends.google.com/trends/trendingsearches/daily?geo=VN#The%20Next%20Gentleman |
+| VIETNAM | Newcastle,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle |
 
 
 
