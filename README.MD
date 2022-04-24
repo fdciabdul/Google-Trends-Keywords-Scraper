@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-04-2022 , 19:57:50
+Last Update 24-04-2022 , 20:19:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool |
+| INDIA | Jasprit bumrah,https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jasprit%20bumrah |
 
 
 
