@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-04-2022 , 17:49:39
+Last Update 24-04-2022 , 17:58:24
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG |
+| VIETNAM | Our Blues,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Our%20Blues |
 
 
 
