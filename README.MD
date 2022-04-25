@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-04-2022 , 11:13:29
+Last Update 25-04-2022 , 11:28:51
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | AC Milan,https://trends.google.com/trends/trendingsearches/daily?geo=VN#AC%20Milan |
+| VIETNAM | Phương Trinh Jolie,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ph%C6%B0%C6%A1ng%20Trinh%20Jolie |
 
 
 
