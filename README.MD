@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-04-2022 , 20:53:35
+Last Update 25-04-2022 , 21:08:09
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Phương Trinh Jolie,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ph%C6%B0%C6%A1ng%20Trinh%20Jolie |
+| VIETNAM | Giá iPhone 13,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20iPhone%2013 |
 
 
 
