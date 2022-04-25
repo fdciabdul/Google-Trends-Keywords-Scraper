@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-04-2022 , 13:52:45
+Last Update 25-04-2022 , 14:07:04
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Phương Trinh Jolie,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ph%C6%B0%C6%A1ng%20Trinh%20Jolie |
+| VIETNAM | Emmanuel Macron,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Emmanuel%20Macron |
 
 
 
