@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-04-2022 , 23:52:06
+Last Update 26-04-2022 , 00:29:53
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Crystal Palace,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Crystal%20Palace |
+| VIETNAM | Thuong ngay nang ve tap 10 phần 2,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Thuong%20ngay%20nang%20ve%20tap%2010%20ph%E1%BA%A7n%202 |
 
 
 
