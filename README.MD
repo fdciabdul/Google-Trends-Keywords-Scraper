@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-04-2022 , 04:02:44
+Last Update 27-04-2022 , 04:53:44
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tangmo Nida,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tangmo%20Nida |
+| VIETNAM | Bi Rain,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bi%20Rain |
 
 
 
