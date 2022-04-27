@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-04-2022 , 09:47:55
+Last Update 27-04-2022 , 09:56:40
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Trống,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%E1%BB%91ng |
+| VIETNAM | Liverpool vs Villarreal,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20vs%20Villarreal |
 
 
 
