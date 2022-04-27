@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-04-2022 , 14:18:42
+Last Update 27-04-2022 , 14:31:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool vs Villarreal,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20vs%20Villarreal |
+| VIETNAM | Ngô Thanh Vân,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%B4%20Thanh%20V%C3%A2n |
 
 
 
