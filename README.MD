@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 26-04-2022 , 23:52:33
+Last Update 27-04-2022 , 00:38:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liên Quân,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Li%C3%AAn%20Qu%C3%A2n |
+| VIETNAM | Tangmo Nida,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tangmo%20Nida |
 
 
 
