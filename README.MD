@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-04-2022 , 12:37:33
+Last Update 27-04-2022 , 13:18:06
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Trương Đại Dịch,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%C6%A1ng%20%C4%90%E1%BA%A1i%20D%E1%BB%8Bch |
+| VIETNAM | Ngô Thanh Vân,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%B4%20Thanh%20V%C3%A2n |
 
 
 
