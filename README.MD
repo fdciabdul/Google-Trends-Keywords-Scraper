@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-04-2022 , 13:53:36
+Last Update 29-04-2022 , 14:07:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bắn pháo hoa 30/4,https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%AFn%20ph%C3%A1o%20hoa%2030/4 |
+| VIETNAM | Áp thấp nhiệt đới,https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C3%81p%20th%E1%BA%A5p%20nhi%E1%BB%87t%20%C4%91%E1%BB%9Bi |
 
 
 
