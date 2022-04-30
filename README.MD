@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-04-2022 , 11:43:36
+Last Update 30-04-2022 , 11:52:36
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sevilla,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sevilla |
+| VIETNAM | Bác Hồ,https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%A1c%20H%E1%BB%93 |
 
 
 
