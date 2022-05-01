@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-05-2022 , 11:46:26
+Last Update 01-05-2022 , 11:55:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đà Nẵng,https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%C3%A0%20N%E1%BA%B5ng |
+| VIETNAM | Mino Raiola,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mino%20Raiola |
 
 
 
