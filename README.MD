@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-05-2022 , 13:42:38
+Last Update 01-05-2022 , 13:51:22
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Mino Raiola,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mino%20Raiola |
+| VIETNAM | Everton đấu với Chelsea,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Everton%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Chelsea |
 
 
 
