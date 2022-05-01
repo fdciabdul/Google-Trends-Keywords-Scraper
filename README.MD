@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-04-2022 , 23:55:00
+Last Update 01-05-2022 , 01:16:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Southampton,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Southampton |
+| VIETNAM | Liverpool,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool |
 
 
 
