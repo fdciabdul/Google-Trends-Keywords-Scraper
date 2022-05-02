@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-05-2022 , 15:52:28
+Last Update 02-05-2022 , 16:08:25
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU vs,https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs |
+| VIETNAM | Tottenham,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham |
 
 
 
