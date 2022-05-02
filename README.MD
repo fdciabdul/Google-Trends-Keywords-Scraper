@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-05-2022 , 12:37:08
+Last Update 02-05-2022 , 13:21:53
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Trương Bá Chi,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%C6%A1ng%20B%C3%A1%20Chi |
+| VIETNAM | Tottenham,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham |
 
 
 
