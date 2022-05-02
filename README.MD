@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-05-2022 , 05:59:10
+Last Update 02-05-2022 , 06:29:06
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Trương Bá Chi,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%C6%A1ng%20B%C3%A1%20Chi |
+| VIETNAM | Nghỉ lễ 30/4 và 1/5 Năm 2022,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ngh%E1%BB%89%20l%E1%BB%85%2030/4%20v%C3%A0%201/5%20N%C4%83m%202022 |
 
 
 
