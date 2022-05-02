@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-05-2022 , 21:57:48
+Last Update 02-05-2022 , 22:19:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Binz,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Binz |
+| VIETNAM | Met Gala 2022,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Met%20Gala%202022 |
 
 
 
