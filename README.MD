@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-05-2022 , 15:11:19
+Last Update 02-05-2022 , 15:35:36
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Người dơi,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C6%B0%E1%BB%9Di%20d%C6%A1i |
+| VIETNAM | MU vs,https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs |
 
 
 
