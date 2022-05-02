@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-05-2022 , 00:00:12
+Last Update 02-05-2022 , 02:20:03
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hoàng Anh Gia Lai đấu với Sydney,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ho%C3%A0ng%20Anh%20Gia%20Lai%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Sydney |
+| VIETNAM | Nghỉ lễ 30/4 và 1/5 Năm 2022,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ngh%E1%BB%89%20l%E1%BB%85%2030/4%20v%C3%A0%201/5%20N%C4%83m%202022 |
 
 
 
