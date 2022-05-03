@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-05-2022 , 17:52:14
+Last Update 03-05-2022 , 18:07:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lương Bằng Quang,https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C6%B0%C6%A1ng%20B%E1%BA%B1ng%20Quang |
+| VIETNAM | Met Gala 2022,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Met%20Gala%202022 |
 
 
 
