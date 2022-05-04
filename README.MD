@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-05-2022 , 06:38:32
+Last Update 04-05-2022 , 06:55:40
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Kailia Posey,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kailia%20Posey |
+| VIETNAM | Marilyn Monroe,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Marilyn%20Monroe |
 
 
 
