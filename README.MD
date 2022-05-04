@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-05-2022 , 10:37:22
+Last Update 04-05-2022 , 10:49:10
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Doctor Strange 2,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Doctor%20Strange%202 |
+| VIETNAM | Cao tốc Trung Lương,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cao%20t%E1%BB%91c%20Trung%20L%C6%B0%C6%A1ng |
 
 
 
