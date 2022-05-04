@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-05-2022 , 23:25:01
+Last Update 04-05-2022 , 23:38:44
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Fed,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fed |
+| VIETNAM | Doctor Strange,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Doctor%20Strange |
 
 
 
