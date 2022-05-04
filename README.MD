@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-05-2022 , 11:47:42
+Last Update 04-05-2022 , 11:56:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Cao tốc Trung Lương,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cao%20t%E1%BB%91c%20Trung%20L%C6%B0%C6%A1ng |
+| VIETNAM | Số miền Nam,https://trends.google.com/trends/trendingsearches/daily?geo=VN#S%E1%BB%91%20mi%E1%BB%81n%20Nam |
 
 
 
