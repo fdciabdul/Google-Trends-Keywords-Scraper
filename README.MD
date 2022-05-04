@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-05-2022 , 06:09:41
+Last Update 04-05-2022 , 06:38:32
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Quỳnh Kool,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%E1%BB%B3nh%20Kool |
+| VIETNAM | Kailia Posey,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kailia%20Posey |
 
 
 
