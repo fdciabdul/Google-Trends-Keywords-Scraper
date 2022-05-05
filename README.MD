@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-05-2022 , 15:55:27
+Last Update 05-05-2022 , 16:18:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lịch bóng đá seagame,https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20b%C3%B3ng%20%C4%91%C3%A1%20seagame |
+| VIETNAM | Fed tăng lãi suất,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fed%20t%C4%83ng%20l%C3%A3i%20su%E1%BA%A5t |
 
 
 
