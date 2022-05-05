@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-05-2022 , 13:25:02
+Last Update 05-05-2022 , 13:50:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Fed tăng lãi suất,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fed%20t%C4%83ng%20l%C3%A3i%20su%E1%BA%A5t |
+| VIETNAM | FED tăng lãi suất,https://trends.google.com/trends/trendingsearches/daily?geo=VN#FED%20t%C4%83ng%20l%C3%A3i%20su%E1%BA%A5t |
 
 
 
