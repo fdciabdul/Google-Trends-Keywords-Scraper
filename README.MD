@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-05-2022 , 11:40:56
+Last Update 05-05-2022 , 11:49:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MC,https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC |
+| VIETNAM | Fed tăng lãi suất,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fed%20t%C4%83ng%20l%C3%A3i%20su%E1%BA%A5t |
 
 
 
