@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-05-2022 , 01:39:28
+Last Update 05-05-2022 , 03:12:59
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Doctor Strange,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Doctor%20Strange |
+| VIETNAM | Hòa Minzy,https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%B2a%20Minzy |
 
 
 
