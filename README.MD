@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-05-2022 , 21:28:30
+Last Update 05-05-2022 , 21:41:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lịch thi đấu bóng đá Việt Nam,https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam |
+| VIETNAM | Xổ số miền bắc  xổ số miền bắc,https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20b%E1%BA%AFc%20%20x%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20b%E1%BA%AFc |
 
 
 
