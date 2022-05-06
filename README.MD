@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-05-2022 , 22:46:33
+Last Update 06-05-2022 , 22:55:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | VTV6,https://trends.google.com/trends/trendingsearches/daily?geo=VN#VTV6 |
+| VIETNAM | Inter Milan,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Milan |
 
 
 
