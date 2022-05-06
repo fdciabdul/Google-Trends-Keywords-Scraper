@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-05-2022 , 17:40:43
+Last Update 06-05-2022 , 17:51:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hà Thanh Xuân,https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20Thanh%20Xu%C3%A2n |
+| VIETNAM | VTV6,https://trends.google.com/trends/trendingsearches/daily?geo=VN#VTV6 |
 
 
 
