@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-05-2022 , 11:53:37
+Last Update 07-05-2022 , 12:15:50
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thể thao,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%83%20thao |
+| VIETNAM | Inter Milan,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Milan |
 
 
 
