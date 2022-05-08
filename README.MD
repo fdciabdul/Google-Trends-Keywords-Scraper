@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-05-2022 , 15:41:16
+Last Update 08-05-2022 , 15:51:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU |
+| VIETNAM | Mother's Day,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mother's%20Day |
 
 
 
