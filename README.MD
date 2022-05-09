@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-05-2022 , 21:52:52
+Last Update 09-05-2022 , 22:07:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Seo Ye Ji,https://trends.google.com/trends/trendingsearches/daily?geo=VN#Seo%20Ye%20Ji |
+| VIETNAM | CafeF,https://trends.google.com/trends/trendingsearches/daily?geo=VN#CafeF |
 
 
 
