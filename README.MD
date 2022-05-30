@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-05-2022 , 05:48:51
+Last Update 30-05-2022 , 05:57:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Son ye-jin,Hoàng Thùy,Tết Đoan Ngọ,FPT Play,FPT,Nottingham Forest,Camila Cabello,90,Hồ Quỳnh Hương,Filip Nguyễn,LUNA 2.0,Xoi,Mane,Doãn Chí Kiên,Gareth Bale,Meghan,Trống,Lực lượng vũ trang,Argentina vs italy,Hope |
+| VIETNAM | Hoàng Thùy,Son ye-jin,Tết Đoan Ngọ,Vải thiều,FPT Play,FPT,Nottingham Forest,Camila Cabello,90,Hồ Quỳnh Hương,Filip Nguyễn,LUNA 2.0,Xoi,Mane,Doãn Chí Kiên,Gareth Bale,Meghan,Trống,Lực lượng vũ trang,Argentina vs italy |
 
 
 
