@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-05-2022 , 20:48:08
+Last Update 30-05-2022 , 20:57:03
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ngân hàng Đông Á,Hoàng Thùy,Tết Đoan Ngọ,Vải thiều,Son ye-jin,Bảo Thy,Hà Nội ngập,Quốc tế thiếu nhi,Mona Lisa,Ralf Rangnick,Selena Gomez,FPT,Nottingham Forest,Trường Đại học Quốc tế,UEFA Champions League,Doãn Chí Kiên,Mane,Hồ Quỳnh Hương,90,Filip Nguyễn |
+| VIETNAM | Hoàng Thùy,Vải thiều,Son ye-jin,Trần Phương Bình,Bảo Thy,Hà Nội ngập,Mona Lisa,Quốc tế thiếu nhi,Ralf Rangnick,Selena Gomez,FPT,Nottingham Forest,Trường Đại học Quốc tế,UEFA Champions League,Doãn Chí Kiên,Mane,Hồ Quỳnh Hương,90,Filip Nguyễn,LUNA 2.0 |
 
 
 
