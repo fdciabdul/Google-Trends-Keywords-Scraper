@@ -31,7 +31,7 @@ Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| ${name} | ${x[1].toString()} |
+| ${name} | ${thiskeyword.toString()} |
 
 
 
