@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-05-2022 , 13:22:12
+Last Update 31-05-2022 , 13:54:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng,Đánh giá năng lực,Tangmo Nida,Từ Hy Viên,Thiều Bảo Trâm,Park Shin Hye,Isco,Lưu Diệc Phi,Xăng tăng giá,Choi Ji Woo,Lewandowski,Nations League,Phim Maika - Cô Bé Từ Hành Tinh Khác,Bão ngầm tập 66,Lich thi dau U23 chau a,Ngân hàng Đông Á,Hoàng Thùy,Tết Đoan Ngọ,Son ye-jin,Quốc tế Thiếu nhi |
+| VIETNAM | Giá xăng,Đánh giá năng lực,Tangmo Nida,Từ Hy Viên,Park Shin Hye,Thiều Bảo Trâm,Isco,Lưu Diệc Phi,Lewandowski,Nations League,Choi Ji Woo,Phim Maika - Cô Bé Từ Hành Tinh Khác,Vietnam vs Afghanistan,Bão ngầm tập 66,Lich thi dau U23 chau a,Ngân hàng Đông Á,Hoàng Thùy,Tết Đoan Ngọ,Son ye-jin,Quốc tế Thiếu nhi |
 
 
 
