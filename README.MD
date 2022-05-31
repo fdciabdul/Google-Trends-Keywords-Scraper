@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-05-2022 , 12:31:47
+Last Update 31-05-2022 , 13:22:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lịch thi đấu U23 châu Á,Doãn Chí Kiên,Đánh giá năng lực,Tangmo Nida,Từ Hy Viên,Thiều Bảo Trâm,Isco,Park Shin Hye,Lưu Diệc Phi,Choi Ji Woo,Lewandowski,Phim Maika - Cô Bé Từ Hành Tinh Khác,Bão ngầm tập 66,Lich thi dau U23 chau a,Hoàng Thùy,Tết Đoan Ngọ,Son ye-jin,Vải thiều,Quốc tế Thiếu nhi,Hà Nội ngập |
+| VIETNAM | Giá xăng,Đánh giá năng lực,Tangmo Nida,Từ Hy Viên,Thiều Bảo Trâm,Park Shin Hye,Isco,Lưu Diệc Phi,Xăng tăng giá,Choi Ji Woo,Lewandowski,Nations League,Phim Maika - Cô Bé Từ Hành Tinh Khác,Bão ngầm tập 66,Lich thi dau U23 chau a,Ngân hàng Đông Á,Hoàng Thùy,Tết Đoan Ngọ,Son ye-jin,Quốc tế Thiếu nhi |
 
 
 
