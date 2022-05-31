@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-05-2022 , 10:41:54
+Last Update 31-05-2022 , 10:53:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Doãn Chí Kiên,Đánh giá năng lực,Tangmo Nida,Từ Hy Viên,Thiều Bảo Trâm,Thương ngày nắng về tập 25 phần 2,Isco,Choi Ji Woo,Bão ngầm tập 66,Lich thi dau U23 chau a,Hoàng Thùy,Tết Đoan Ngọ,Son ye-jin,Hà Nội ngập,Trần Phương Bình,Quốc tế Thiếu nhi,Bảo Thy,Mona Lisa,FLC,Selena Gomez |
+| VIETNAM | Lịch thi đấu U23 châu Á,Doãn Chí Kiên,Đánh giá năng lực,Tangmo Nida,Từ Hy Viên,Thiều Bảo Trâm,Isco,Park Shin Hye,Siêu cúp Liên lục địa,Choi Ji Woo,Phim Maika - Cô Bé Từ Hành Tinh Khác,Bão ngầm tập 66,Lich thi dau U23 chau a,Ngân hàng Đông Á,Hoàng Thùy,Tết Đoan Ngọ,Son ye-jin,Vải thiều,Hà Nội ngập,Quốc tế Thiếu nhi |
 
 
 
