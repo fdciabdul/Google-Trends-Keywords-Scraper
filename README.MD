@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-05-2022 , 15:36:08
+Last Update 31-05-2022 , 15:54:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Việt Nam đấu với Afghanistan,Đánh giá năng lực,Giá xăng,Tangmo Nida,Park Shin Hye,Từ Hy Viên,Thiều Bảo Trâm,Natasha Bassett,Isco,Lưu Diệc Phi,Xăng tăng giá,Nations League,Lewandowski,Choi Ji Woo,Phim Maika - Cô Bé Từ Hành Tinh Khác,Bão ngầm tập 66,Lich thi dau U23 chau a,Ngân hàng Đông Á,Hoàng Thùy,Tết Đoan Ngọ |
+| VIETNAM | Đánh giá năng lực,Giá xăng,Tangmo Nida,Park Shin Hye,Natasha Bassett,Từ Hy Viên,Giao hữu Việt Nam,Thiều Bảo Trâm,Isco,Xăng tăng giá,Lưu Diệc Phi,Nations League,Lewandowski,Choi Ji Woo,Vitamin a,Phim Maika - Cô Bé Từ Hành Tinh Khác,Bão ngầm tập 66,Lich thi dau U23 chau a,Ngân hàng Đông Á,Hoàng Thùy |
 
 
 
