@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-05-2022 , 23:58:32
+Last Update 01-06-2022 , 02:12:56
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Triệu Quân Sự,Việt Nam vs Afghanistan,Giá xăng,Đánh giá năng lực,Park Shin Hye,Tangmo Nida,Từ Hy Viên,Thiều Bảo Trâm,Isco,Xăng tăng giá,Lưu Diệc Phi,Nations League,Vitamin a,Đề thi tuyển sinh lớp 10 môn toán,Lewandowski,Choi Ji Woo,Bão ngầm tập 66,Lich thi dau U23 chau a,Hoàng Thùy,Quốc tế thiếu nhi |
+| VIETNAM | U23 Thái Lan đấu với U23 Việt Nam,Nadal,Italia,Triệu Quân Sự,Việt Nam vs Afghanistan,Giá xăng,Đánh giá năng lực,Park Shin Hye,Thương ngày nắng về phần 2 tập 26,Tangmo Nida,Italia vs Argentina,Từ Hy Viên,Thiều Bảo Trâm,Isco,Vitamin a,Lưu Diệc Phi,Nations League,Lewandowski,Choi Ji Woo,Phim Maika - Cô Bé Từ Hành Tinh Khác |
 
 
 
