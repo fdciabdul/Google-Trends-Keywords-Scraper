@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-06-2022 , 11:52:40
+Last Update 01-06-2022 , 12:12:15
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | U23 châu Á,Quốc tế Thiếu nhi,Nadal vs Djokovic,Lich thi dau bong da,Nguyễn Quang Hải,Ngày Quốc tế thiếu nhi,Lời chúc 1/6,Trương Quỳnh Anh,Ivan Perisic,Trái đất này là của chúng mình,Trần Nguyên Hãn,Rafael Nadal,Lee Hyori,Triệu Quân Sự,Việt Nam đấu với Afghanistan,Giá xăng hôm nay,Lich thi dau U23 chau a,Lịch thi đấu U23 châu Á,Argentina vs Italy,Vitamin A |
+| VIETNAM | Lich thi dau U23 chau a,Lịch bóng đá hôm nay,U23 châu Á,Quốc tế Thiếu nhi,Nadal vs Djokovic,Nguyễn Quang Hải,Ngày Quốc tế Thiếu nhi,Lời chúc 1/6,Trương Quỳnh Anh,Ivan Perisic,Trái đất này là của chúng mình,Lee Hyori,Rafael Nadal,Triệu Quân Sự,Việt Nam vs Afghanistan,Giá xăng hôm nay,Lịch thi đấu U23 châu Á,Argentina vs Italy,Vitamin A,Thương ngày nắng về phần 2 tập 26 |
 
 
 
