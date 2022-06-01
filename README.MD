@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-06-2022 , 18:51:05
+Last Update 01-06-2022 , 19:00:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | U23 châu Á,Thể thao,Adriano Schmidt,Quốc tế Thiếu nhi,VTV,Nadal vs Djokovic,Thương ngày nắng về tập 27,Nguyễn Quang Hải,Lời chúc 1/6,FLC,Trương Quỳnh Anh,U23 Iran – U23 Qatar,Trái đất này là của chúng mình,Ivan Perisic,Lee Hyori,Chúc 1/6,Prison Break,Rafael Nadal,Tết Thiếu nhi,Thiếu nhi |
+| VIETNAM | Scotland vs Ukraine,Pogba,U23 châu Á,Thể thao,Adriano Schmidt,Quốc tế Thiếu nhi,VTV,Nadal vs Djokovic,Thương ngày nắng về tập 27,Nguyễn Quang Hải,Vượt ngục,Lời chúc 1/6,Rafael Nadal,FLC,Trương Quỳnh Anh,Trái đất này là của chúng mình,Lee Hyori,Ivan Perisic,Chúc 1/6,Tết Thiếu nhi |
 
 
 
