@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-06-2022 , 04:42:57
+Last Update 02-06-2022 , 05:19:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Johnny Depp thắng kiện,Tết Đoan Ngọ,Scotland vs Ukraine,UEFA Nations League,Ukraine,Lê Bống,Xem tivi,Đài Truyền hình Việt Nam,Pogba,Mạnh Quỳnh,Uzbekistan,Bánh tro,Liam Payne,1/6 là ngày gì,Thể thao,Quốc tế Thiếu nhi,VTV,Nadal vs Djokovic,Chris Evans,Nguyễn Quang Hải |
+| VIETNAM | Johnny Depp,Tết Đoan Ngọ,Scotland vs Ukraine,Ukraine,UEFA Nations League,Bồ Đào Nha,Lê Bống,Xem tivi,Pogba,Mạnh Quỳnh,Bánh tro,Shakira,Uzbekistan,Liam Payne,Gareth Bale,1/6 là ngày gì,Thể thao,Quốc tế thiếu nhi,VTV,Chris Evans |
 
 
 
