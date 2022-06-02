@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-06-2022 , 22:50:30
+Last Update 02-06-2022 , 22:59:26
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nhâm Mạnh Dũng,Nhật Bản,Johnny Depp,Tết Đoan Ngọ,U23 Hàn Quốc đấu với U23 Malaysia,Brazil vs Hàn Quốc,Laptop,Shakira,Scotland vs Ukraine,UEFA Nations League,Pogba,Ukraine,Uzbekistan,Brazil,Xem tivi,Dybala,Lê Bống,Broker,Dior Sauvage,Chiellini |
+| VIETNAM | Nhâm Mạnh Dũng,Nhật Bản,Johnny Depp,Tết Đoan Ngọ,UEFA Nations League,Brazil vs Hàn Quốc,Laptop,Scotland vs Ukraine,Shakira,Thiên Nga Bóng Đêm,Pogba,Ukraine,Uzbekistan,Brazil,Xem tivi,Dybala,Lê Bống,Broker,Dior Sauvage,Chiellini |
 
 
 
