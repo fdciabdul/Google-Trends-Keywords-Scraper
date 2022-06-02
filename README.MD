@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-06-2022 , 00:00:41
+Last Update 02-06-2022 , 02:17:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tết Đoan Ngọ,Scotland vs Ukraine,Lê Bống,Bồ Đào Nha,Pogba,U23 Việt Nam,U23 châu Á,Thể thao,Adriano Schmidt,Quốc tế Thiếu nhi,VTV,Nadal vs Djokovic,Vượt ngục,Lời chúc 1/6,Rafael Nadal,FLC,Trương Quỳnh Anh,Lee Hyori,Ivan Perisic,Kèo bóng đá |
+| VIETNAM | Tết Đoan Ngọ,UEFA Nations League,Scotland vs Ukraine,Ukraine,Lê Bống,Xem tivi,Pogba,U23 Việt Nam,Bóng đá hôm nay,1/6 là ngày gì,Thể thao,Quốc tế thiếu nhi,VTV,Nadal vs Djokovic,Vượt ngục,Lời chúc 1/6,Trống,Rafael Nadal,FLC,Trương Quỳnh Anh |
 
 
 
