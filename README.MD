@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-06-2022 , 13:32:32
+Last Update 02-06-2022 , 14:03:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Johnny Depp,Tết Đoan Ngọ,Scotland vs Ukraine,Laptop,Shakira,UEFA Nations League,Pogba,Ukraine,Lê Bống,Dybala,Selena Gomez,Đài Truyền hình Việt Nam,Xem tivi,Chiellini,Uzbekistan,Dior Sauvage,Hoài Lâm,Thương Ngày Nắng Về phần 2 tập 27,Mạnh Quỳnh,Từ Hy Viên Uông Tiểu Phi |
+| VIETNAM | Johnny Depp,Tết Đoan Ngọ,U23 Hàn Quốc đấu với U23 Malaysia,Bồ Đào Nha,Laptop,Scotland vs Ukraine,Shakira,UEFA Nations League,Pogba,Ukraine,Lê Bống,Dybala,Selena Gomez,Đài Truyền hình Việt Nam,Xem tivi,Uzbekistan,Chiellini,Dior Sauvage,Hoài Lâm,Mạnh Quỳnh |
 
 
 
