@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-06-2022 , 08:46:19
+Last Update 03-06-2022 , 08:54:59
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nhâm Mạnh Dũng,Jang Nara,Tin bóng đá,Nhật Bản,Rudiger,Xuân Mai,Queendom 2,Tai nạn Bắc Giang,Oukitel WP19,Tết Đoan Ngọ,Johnny Depp,U23 Hàn Quốc đấu với U23 Malaysia,Brazil vs Hàn Quốc,Laptop,UEFA Nations League,Bánh tro,Shakira,Scotland vs Ukraine,Eve,Pogba |
+| VIETNAM | Jang Nara,Tin bóng đá,Tai nạn Bắc Giang,Nhật Bản,Rudiger,Xuân Mai,Queendom 2,Oukitel WP19,Lịch thi đấu U23 châu Á,Tết Đoan Ngọ,Johnny Depp,U23 Hàn Quốc đấu với U23 Malaysia,Brazil vs Hàn Quốc,Laptop,UEFA Nations League,Bánh tro,Shakira,Scotland vs Ukraine,Eve,Pogba |
 
 
 
