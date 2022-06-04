@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-06-2022 , 00:27:48
+Last Update 04-06-2022 , 02:21:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Pháp vs Đan Mạch,Bỉ vs,Nadal,Pháp,Karim Benzema,U23 Thái Lan đấu với U23 Việt Nam,Tai nạn Bắc Giang,Bão ngầm tập 70,Jang Nara,Nhâm Mạnh Dũng,Trấn Thành,Tin bóng đá,Xuân Mai,Nhật Bản,Rudiger,Queendom 2,Bo dao Nha vs tay Ban Nha,Oukitel WP19,Việt Nam Thái Lan,Bồ Đào Nha vs Tây Ban Nha |
+| VIETNAM | Nadal,Bỉ vs,U23 Thái Lan đấu với U23 Việt Nam,Tai nạn Bắc Giang,Bão ngầm tập 70,Pháp vs Đan Mạch,Jang Nara,Nhâm Mạnh Dũng,Trấn Thành,Tin bóng đá,Xuân Mai,Rudiger,Queendom 2,Bo dao Nha vs tay Ban Nha,Oukitel WP19,Việt Nam Thái Lan,Bồ Đào Nha vs Tây Ban Nha,Việt nam Thái Lan,Johnny Depp,Tết Đoan Ngọ là gì |
 
 
 
