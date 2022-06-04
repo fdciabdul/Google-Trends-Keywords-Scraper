@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-06-2022 , 13:41:29
+Last Update 04-06-2022 , 13:50:05
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bỉ và Hà Lan,Roland Garros 2022,Luxstay,Mai Phương Thúy,Why her,Casper Ruud,Sadio mané,CZ,U23 Thái Lan đấu với U23 Việt Nam,Tai nạn Bắc Giang,Nations League,Bão ngầm tập 70,Jang Nara,Bảng xếp hạng U23 châu Á,U23 Nhật Bản,Xuân Mai,Nhật Bản,Rudiger,Queendom 2,Nation League 2022 |
+| VIETNAM | Roland Garros 2022,Bỉ đấu với Hà Lan,U23 Việt Nam đấu với U23 Hàn Quốc,Linh Kul,Luxstay,Nhậm Gia Luân,Why her,Mai Phương Thúy,Casper Ruud,Sadio mané,CZ,U23 Thái Lan đấu với U23 Việt Nam,Tai nạn Bắc Giang,Nations League,Bão ngầm tập 70,Truc tiep VTV6,Jang Nara,Bảng xếp hạng U23 châu Á,Dương Mịch,Xuân Mai |
 
 
 
