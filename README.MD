@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-06-2022 , 22:43:08
+Last Update 05-06-2022 , 22:51:59
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Argentina vs Estonia,Hồ Chí Minh,Đá bóng,Tây Ban Nha,Thái Nguyên,Richarlison,Wales vs Ukraine,Bồ Đào Nha,VTV,Ý vs Đức,Nhâm Mạnh Dũng,Trịnh Công Sơn,Iga Swiatek,Chung kết Roland Garros 2022,U23 Việt Nam đấu với U23 Hàn Quốc,U23 Việt Nam đấu với U23 Hàn Quốc,U23 Malaysia đấu với U23 Thái Lan,Roland Garros 2022,Pháp vs Đan Mạch,Chu Ngọc Anh |
+| VIETNAM | Angela Phương Trinh,Hồ Chí Minh,Đá bóng,Tây Ban Nha,Thái Nguyên,Richarlison,Wales vs Ukraine,Bồ Đào Nha,VTV,Trịnh Công Sơn,Đức,Iga Swiatek,Chung kết Roland Garros 2022,U23 Việt Nam đấu với U23 Hàn Quốc,U23 Việt Nam đấu với U23 Hàn Quốc,U23 Malaysia đấu với U23 Thái Lan,Roland Garros 2022,Pháp vs Đan Mạch,Chu Ngọc Anh,HAGL vs Hải Phòng |
 
 
 
