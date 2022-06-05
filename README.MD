@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-06-2022 , 12:25:51
+Last Update 05-06-2022 , 12:57:11
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đức,Iga Swiatek,Lich thi dau U23,Roland Garros 2022,Bỉ đấu với Hà Lan,Chu Ngọc Anh,Pháp,HAGL vs Hải Phòng,Luxstay,Why her,Linh Kul,U23 Malaysia đấu với U23 Thái Lan,Casper Ruud,Mai Phương Thúy,Sadio mané,Son Heung,CZ,Angela Phương Trinh,Xe Audi giá,Gerard piqué Shakira |
+| VIETNAM | Ý vs Đức,Iga Swiatek,Lich thi dau u23,Roland Garros 2022,Bỉ đấu với Hà Lan,Chu Ngọc Anh,HAGL vs Hải Phòng,Luxstay,Why Her,Linh Kul,Nhậm Gia Luân,Casper Ruud,Mai Phương Thúy,Sadio mané,Son Heung,Angela Phương Trinh,CZ,Xe Audi giá,Gerard piqué Shakira,Bắc Giang tai nạn |
 
 
 
