@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-06-2022 , 17:44:10
+Last Update 05-06-2022 , 17:52:50
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thái Lan vs Malaysia,VTV,Ý vs Đức,Nguyễn Thanh Bình,Trịnh Công Sơn,Wales vs Ukraine,Iga Swiatek,U23 Việt Nam đấu với U23 Hàn Quốc,Roland Garros 2022,Pháp vs Đan Mạch,Chu Ngọc Anh,HAGL vs Hải Phòng,Why her,Luxstay,Son Heung,Linh Kul,Angela Phương Trinh,Mai Phương Thúy,Sadio mané,Từ Hy Viên |
+| VIETNAM | Thái Nguyên,Thái Lan vs Malaysia,VTVGo,VTV,Wales vs Ukraine,Ý vs Đức,Trịnh Công Sơn,Iga Swiatek,Chung kết Roland Garros 2022,U23 Việt Nam đấu với U23 Hàn Quốc,Roland Garros 2022,Pháp vs Đan Mạch,Bỉ đấu với Hà Lan,Chu Ngọc Anh,HAGL vs Hải Phòng,Why her,Luxstay,Son Heung,Linh Kul,Angela Phương Trinh |
 
 
 
