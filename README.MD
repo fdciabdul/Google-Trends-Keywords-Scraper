@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-06-2022 , 19:49:12
+Last Update 06-06-2022 , 19:58:21
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Argentina,Thể thao,Thái Nguyên,Mạc Văn Khoa,Nhật Bản vs Brazil,Angela Phương Trinh,Ukraine,Suzy,An Dĩ Hiên,Hồ Chí Minh,Xem bóng đá,Gin Tuấn Kiệt,Tây Ban Nha,Giá iPhone 11,Lee Da In,Nhật Bản,Binance Changpeng Zhao,Giá iPhone 13,Richarlison,Hoa hậu Thu Ngân |
+| VIETNAM | U23 Malaysia đấu với U23 Thái Lan,Argentina,Thể thao,Trực tiếp bóng đá VTV6,Thái Nguyên,Mạc Văn Khoa,Nhật Bản vs Brazil,Tây Ban Nha vs,Angela Phương Trinh,Suzy,Ukraine,An Dĩ Hiên,Hồ Chí Minh,Gin Tuấn Kiệt,Giá iPhone 11,Lee Da In,Nhật Bản,Binance Changpeng Zhao,Đá bóng,Giá iPhone 13 |
 
 
 
