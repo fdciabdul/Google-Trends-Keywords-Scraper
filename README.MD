@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-06-2022 , 09:44:37
+Last Update 06-06-2022 , 09:53:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Argentina,Thể thao,Bóng đá,Tây Ban Nha vs,Thái Nguyên,Mạc Văn Khoa,Angela Phương Trinh,Hồ Chí Minh,Lee Da In,Binance Changpeng Zhao,An Dĩ Hiên,Richarlison,Hoa hậu Thu Ngân,Suzy,Park Hang-seo,Hoa hậu Đặng Thu Thảo,Thái Lan vs Malaysia,Bảng xếp hạng U.23 châu á,Wales vs Ukraine,Bồ Đào Nha |
+| VIETNAM | Argentina,Thể thao,Bóng đá,Thái Nguyên,Tây Ban Nha vs,Mạc Văn Khoa,Angela Phương Trinh,Giá iPhone 11,Hồ Chí Minh,Lee Da In,An Dĩ Hiên,Binance Changpeng Zhao,Suzy,Richarlison,Park Hang Seo,Hoa hậu Đặng Thu Thảo,Thái Lan vs Malaysia,Bồ Đào Nha đấu với Thụy Sĩ,Bảng xếp hạng U.23 châu á,Wales vs Ukraine |
 
 
 
