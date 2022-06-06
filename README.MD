@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-06-2022 , 02:07:44
+Last Update 06-06-2022 , 03:31:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thể thao,Argentina vs Estonia,Angela Phương Trinh,Hồ Chí Minh,Đá bóng,Mạc Văn Khoa,Thái Nguyên,Richarlison,Thái Lan vs Malaysia,Wales vs Ukraine,Bảng xếp hạng U.23 châu á,Bồ Đào Nha,VTV,Ý vs Đức,Tiêu Chiến,Rafael Nadal,Trịnh Công Sơn,Lý Công Hoàng Anh,Vietnam,Iga Swiatek |
+| VIETNAM | Thể thao,Argentina vs Estonia,Angela Phương Trinh,Hồ Chí Minh,Mạc Văn Khoa,Đá bóng,Thái Nguyên,Richarlison,Voucher Shopee,Binance Changpeng Zhao,Thái Lan vs Malaysia,Wales vs Ukraine,Bảng xếp hạng U.23 châu á,Bồ Đào Nha,Nadal,VTV,Ý vs Đức,Nguyễn Thanh Bình,Tiêu Chiến,Trịnh Công Sơn |
 
 
 
