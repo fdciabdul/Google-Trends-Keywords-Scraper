@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-06-2022 , 02:02:00
+Last Update 07-06-2022 , 03:23:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Pháp vs Croatia,Phạm Công Tạc,Pháp,iOS 16,WWDC 2022,U23 Việt Nam đấu với U23 Hàn Quốc,Argentina,Chu Ngọc Anh,Thể thao,Vụ Thái Nguyên,U23 Nhật Bản,Bóng đá,Nhật Bản vs Brazil,Mạc Văn Khoa,World Cup 2022,Vision 2022,Tây Ban Nha vs,Angela Phương Trinh,An Dĩ Hiên,Ukraine |
+| VIETNAM | iOS 16,Phạm Công Tạc,Bộ Y tế,MacBook Air M2,Chu Ngọc Anh,Argentina,Thể thao,Vụ Thái Nguyên,Bão ngầm tập 71,Bóng đá,U23 Nhật Bản,Nhật Bản vs Brazil,World Cup 2022,Mạc Văn Khoa,Vision 2022,Tây Ban Nha vs,Angela Phương Trinh,An Dĩ Hiên,Ukraine,Hồ Chí Minh |
 
 
 
