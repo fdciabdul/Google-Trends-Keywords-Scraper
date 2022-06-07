@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-06-2022 , 14:48:26
+Last Update 07-06-2022 , 15:01:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | iOS 16,Thương ngày nắng về phần 2 tập 28,Nguyễn Trường Sơn,Đỗ Xuân Tuyên,MacBook Air M2,All Of Us Are Dead,Thái Lan và Hàn Quốc U23,Anne Hathaway,Nguyễn Phú Trọng,HAGL,Jolie,Ngô Hoàng Phi Việt,Vòng loại Asian Cup 2023,Vết bầm,Phap vs,Shark Tank,Bóng đá u23 việt,Chu Ngọc Anh,Thể thao,Argentina |
+| VIETNAM | iOS 16,Thương ngày nắng về phần 2 tập 28,Nguyễn Trường Sơn,Đỗ Xuân Tuyên,MacBook Air M2,Vòng loại Asian Cup 2023,HAGL,UAE vs,All Of Us Are Dead,Thái Lan và Hàn Quốc,Anne Hathaway,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Nguyễn Phú Trọng,Jolie,Ngô Hoàng Phi Việt,Vết bầm,Bóng đá u23 việt,Shark Tank,Chu Ngọc Anh,Bộ trưởng Bộ Y tế |
 
 
 
