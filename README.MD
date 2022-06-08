@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-06-2022 , 11:43:08
+Last Update 08-06-2022 , 11:52:06
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đức vs,Minh Tú,Vi khuẩn ăn thịt người,Kylie Jenner,Xo so vung tau,UAE vs Australia,U23 Uzbekistan – U23 Iran,Kit test Việt Á,Mai Phương Thúy,iOS 16,Thương ngày nắng về phần 2 tập 28,Vòng loại Asian Cup 2023,U23 Hàn Quốc đấu với U23 Thái Lan,Lisa,Nguyễn Trường Sơn,Đỗ Xuân Tuyên,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Pháp vs Croatia,Nguyễn Phú Trọng,MacBook Air M2 |
+| VIETNAM | Đức vs,Vi khuẩn ăn thịt người,Minh Tú,Kylie Jenner,Xo so vung tau,Nguyễn Tấn Dũng,U23 Uzbekistan – U23 Iran,Mai Phương Thúy,Seo Hyun Jin,Lich bong da U23,iOS 16,Thương ngày nắng về phần 2 tập 28,U23 Hàn Quốc đấu với U23 Thái Lan,Vòng loại Asian Cup 2023,Lisa,Nguyễn Trường Sơn,Đỗ Xuân Tuyên,Pháp vs Croatia,MacBook Air M2,HAGL |
 
 
 
