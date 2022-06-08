@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-06-2022 , 04:38:32
+Last Update 08-06-2022 , 04:57:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đức vs Anh,Minh Tú,U23 Uzbekistan – U23 Iran,iOS 16,Thương ngày nắng về phần 2 tập 28,Lisa,Nguyễn Trường Sơn,Vòng loại Asian Cup 2023,Đỗ Xuân Tuyên,MacBook Air M2,HAGL,Nguyễn Phú Trọng,All of Us Are Dead,U23 Úc – U23 Jordan,Tchouameni,Jolie,Song Hye Kyo,Vụ rơi từ tầng 11,Đáp án đề thi tuyển sinh lớp 10 môn Toán,Ngô Hoàng Phi Việt |
+| VIETNAM | Minh Tú,Đức – Anh,Xo so vung tau,UAE vs Australia,U23 Uzbekistan – U23 Iran,Kylie Jenner,iOS 16,Thương ngày nắng về phần 2 tập 28,Vòng loại Asian Cup 2023,Lisa,Nguyễn Trường Sơn,Đỗ Xuân Tuyên,MacBook Air M2,HAGL,Nguyễn Phú Trọng,All of Us Are Dead,U23 Úc – U23 Jordan,Tchouameni,Jolie,Đề thi tuyển sinh lớp 10 môn văn 2022 |
 
 
 
