@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-06-2022 , 07:38:32
+Last Update 09-06-2022 , 07:47:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dtcl mùa 7,Turkmenistan – Malaysia,Minh Hằng,Park Hang-seo,Porsche 718 Boxster,Lối nhỏ vào đời,Thể thao,Bỉ vs Ba Lan,Vi khuẩn ăn thịt người,Asian Cup 2022,FPT Play,Thương ngày nắng về tập 30,Minh Tú,Đức – Anh,Kylie Jenner,Ngô Anh Vũ,Black Adam,Ms marvel,AFC,Lý Công Hoàng Anh |
+| VIETNAM | Bỉ vs,Dtcl mùa 7,Minh Hằng,Lối nhỏ vào đời,Porsche 718 Boxster,Kuwait – Indonesia,Thể thao,Vi khuẩn ăn thịt người,FPT Play,Thương ngày nắng về tập 30,Minh Tú,Ngô Anh Vũ (Bình Thuận,Đức – Anh,Kylie Jenner,Black Adam,Ms marvel,Hồ Đức Phớc,Nguyễn Thanh Bình,Xo so vung tau,Seo Hyun Jin |
 
 
 
