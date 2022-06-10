@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-06-2022 , 11:44:01
+Last Update 10-06-2022 , 11:52:52
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thụy Sĩ đấu với Tây Ban Nha,Chile vs Tunisia,Maybach,Aespa,Shoko Takahashi,Lyn,Honda Vision,Việt Nam Malaysia,One Punch Man,Giá xe Vision,DTCL mùa 7,Xe Vision,Bang xep hang U23,Nhật Bản vs Tajikistan,Ninh Dương Lan Ngọc,Vision,Robux,LMHT,Lối nhỏ vào đời,Minh Hằng |
+| VIETNAM | Yet To Come,Chile vs Tunisia,CDC Hà Nội,Maybach,Aespa,Lyn,Honda Vision,Việt Nam Malaysia,Giá xe Vision,One Punch Man,DTCL mùa 7,Bang xep hang U23,Nhật Bản vs Tajikistan,Ninh Dương Lan Ngọc,Vision,Robux,LMHT,Lối nhỏ vào đời,Minh Hằng,Nepal |
 
 
 
