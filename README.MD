@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-06-2022 , 23:59:47
+Last Update 10-06-2022 , 02:09:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Shoko Takahashi,Honda Vision,U23 Việt Nam đấu với U23 Malaysia,One Punch Man,DTCL mùa 7,Thái Lan và Hàn Quốc U23,LMHT,Vương Giả Vinh Diệu,Minh Hằng,Lien minh,Lối nhỏ vào đời,Park Hang Seo,Porsche 718 Boxster,U23 Việt Nam – U23 Malaysia,Hàn Quốc Thái Lan,Thể thao,VTVGo,Trực tiếp bóng đá Việt Nam,Asian Cup 2022,Vi khuẩn ăn thịt người |
+| VIETNAM | Thụy Sĩ đấu với Tây Ban Nha,U23 Việt Nam đấu với U23 Malaysia,Bảng xếp hạng U23 châu á,One Punch Man,Giá xe Vision,DTCL mùa 7,Xe Vision,Vision,Ninh Dương Lan Ngọc,LMHT,Minh Hằng,Vương Giả Vinh Diệu,Lối nhỏ vào đời,Lien minh,Park Hang Seo,Porsche 718 Boxster,Báo Thái Lan,U23 Việt Nam – U23 Malaysia,Hàn Quốc Thái Lan,Thể thao |
 
 
 
