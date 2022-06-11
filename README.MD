@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-06-2022 , 01:15:58
+Last Update 11-06-2022 , 03:02:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Phạm Hùng,CDC Hà Nội,HAGL,Chile vs Tunisia,Maybach,Lan Phương,Andree,Aespa,Britney Spears,Nobita và cuộc chiến vũ trụ tí hon,Honda Vision,Phạm Hương,Việt Nam Malaysia,U23 Hàn Quốc đấu với U23 Thái Lan,Giá xe Vision,Lich U23 chau a,One Punch Man,DTCL mùa 7,Bang xep hang U23,Ninh Dương Lan Ngọc |
+| VIETNAM | Rosé Blackpink,Trịnh Sảng,CDC Hà Nội,HAGL,Yet To Come,Chile vs Tunisia,Lan Phương,Maybach,Andree,Britney Spears,Aespa,Lyn,Kia Sportage 2022,Nobita và cuộc chiến vũ trụ tí hon,Phạm Hương,U23 Hàn Quốc đấu với U23 Thái Lan,Việt Nam Malaysia,Lich U23 chau A,Giá xe Vision,One Punch Man |
 
 
 
