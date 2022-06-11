@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-06-2022 , 16:41:00
+Last Update 11-06-2022 , 16:56:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Justin Bieber,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Trịnh Công Sơn,NBA,Trịnh Sảng,Khánh Ly,Rosé Blackpink,Ngô Diệc Phàm,Phạm Quỳnh Anh,Phạm Hùng,Áo vs Pháp,Jennifer Lopez,Lê Dương Bảo Lâm,Lich U23 chau a,CDC Hà Nội,HAGL,Lan Phương,Yet To Come,Maybach,Andree |
+| VIETNAM | Justin Bieber,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Trịnh Công Sơn,NBA,Đề văn tuyển sinh lớp 10 năm 2022,Khánh Ly,Trịnh Sảng,Phạm Quỳnh Anh,Việt Nam đá,Ngô Diệc Phàm,Rosé Blackpink,Diễn viên lan phương,Phan Khắc Nghệ,Đoàn Di Băng,Áo vs Pháp,Jennifer Lopez,Lich U23 chau a,CDC Hà Nội,HAGL,Yet To Come |
 
 
 
