@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-06-2022 , 07:40:05
+Last Update 11-06-2022 , 07:48:40
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | NBA,Justin Bieber,Sang thu,Trịnh Sảng,Đề văn tuyển sinh lớp 10 năm 2022,Rosé Blackpink,Đoàn Di Băng,Jennifer Lopez,Lich U23 chau a,CDC Hà Nội,Yet To Come,HAGL,Lan Phương,Chile vs Tunisia,Maybach,Andree,Britney Spears,Aespa,Lyn,Kia Sportage 2022 |
+| VIETNAM | Justin Bieber,NBA,Khánh Ly,Trịnh Sảng,Đề văn tuyển sinh lớp 10 năm 2022,Rosé Blackpink,Jennifer Lopez,Lê Dương Bảo Lâm,Thụy Sĩ đấu với Tây Ban Nha,CDC Hà Nội,Lich U23 chau a,HAGL,Yet To Come,Lan Phương,Chile vs Tunisia,Maybach,Andree,Britney Spears,Aespa,Lyn |
 
 
 
