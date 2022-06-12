@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-06-2022 , 20:41:31
+Last Update 12-06-2022 , 20:50:15
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tăng lương tối thiểu vùng,Hữu Tín,Lee Jun Ki,Vòng loại Asian Cup 2023,Hoài Linh,Công Lý,Asian Cup,KinnPorsche The Series ep 10,Tchouameni,Đạt Villa,Lý Văn Phương,Australia U23 vs Turkmenistan U23,U23 Ả Rập Saudi đấu với U23 Việt Nam,U23 Hàn Quốc đấu với U23 Nhật Bản,U23 Uzbekistan đấu với U23 Iraq,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Justin Bieber,Trịnh Công Sơn,Phạm Quỳnh Anh,NBA |
+| VIETNAM | Tăng lương tối thiểu vùng,Hữu Tín,Lee Jun Ki,Vòng loại Asian Cup 2023,Hoài Linh,Australia vs Turkmenistan,Công Lý,Asian Cup,KinnPorsche The Series ep 10,Tchouameni,U23 Asian Cup,U23 Ả Rập Saudi đấu với U23 Việt Nam,U23 Hàn Quốc đấu với U23 Nhật Bản,U23 Uzbekistan đấu với U23 Iraq,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Justin Bieber,Trịnh Công Sơn,Phạm Quỳnh Anh,NBA,Khánh Ly |
 
 
 
