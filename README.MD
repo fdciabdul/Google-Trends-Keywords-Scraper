@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-06-2022 , 03:05:50
+Last Update 12-06-2022 , 03:51:22
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Vòng loại Asian Cup 2023,Hoài Linh,Anh vs Ý,Justin Bieber,Đề văn tuyển sinh lớp 10 năm 2022,Trịnh Công Sơn,NBA,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Phạm Quỳnh Anh,Khánh Ly,Trịnh Sảng,Ngô Diệc Phàm,Rosé Blackpink,Bùi Tiến Dũng,Phạm Hùng,Đen Vâu,Áo vs Pháp,Jennifer Lopez,U23 châu Á,Kết quả U23 châu Á |
+| VIETNAM | Vòng loại Asian Cup 2023,Anh vs Ý,Hoài Linh,Thụy Sĩ đấu với Bồ Đào Nha,Justin Bieber,Trịnh Công Sơn,Đề văn tuyển sinh lớp 10 năm 2022,NBA,Phạm Quỳnh Anh,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Khánh Ly,Trịnh Sảng,Ngô Diệc Phàm,Rosé Blackpink,Bùi Tiến Dũng,Đen Vâu,Đoàn Di Băng,Jennifer Lopez,Lê Dương Bảo Lâm,U23 châu Á |
 
 
 
