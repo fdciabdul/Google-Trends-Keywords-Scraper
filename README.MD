@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-06-2022 , 19:47:29
+Last Update 13-06-2022 , 19:56:10
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Trịnh và Em,Trò chơi con mực,Giá xăng hôm nay,Minh Hằng,Bitcoin,Tăng lương tối thiểu vùng,Xpander 2022,Jack,Thoại Mỹ,Haaland,Miu Lê,Shark Tank,Squid Game,David Beckham,Hari Won,ARK,U23 Ả Rập Saudi đấu với U23 Việt Nam,VTV6,Hữu Tín,Xem VTV6 |
+| VIETNAM | Thương ngày nắng về phần 2 tập 31,Trịnh và Em,Trò chơi con mực,Giá xăng hôm nay,Minh Hằng,Bitcoin,Tăng lương tối thiểu vùng,Shondo,Xpander 2022,Jack,Thoại Mỹ,Haaland,Miu Lê,Squid Game,David beckham,Hari Won,ARK,Xổ số miền Nam ngày 12 tháng 6,U23 châu Á,VTV6 |
 
 
 
