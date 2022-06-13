@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-06-2022 , 10:45:44
+Last Update 13-06-2022 , 10:54:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay,Minh Hằng,Bitcoin,Tăng lương tối thiểu vùng,Shondo,Jack,Xpander 2022,Hữu Tín,Uzbekistan,Thụy Sĩ đấu với Bồ Đào Nha,Lee Jun Ki,Vòng loại Asian Cup 2023,Hoài Linh,Công Lý,Tạ Quang Chiến,Tchouameni,Đạt Villa,Thái Lan,Hương Tràm,Vết bầm |
+| VIETNAM | Giá xăng hôm nay,Minh Hằng,Bitcoin,Tăng lương tối thiểu vùng,Jack,Xpander 2022,Shark Tank,Hữu Tín,Uzbekistan,Thụy Sĩ đấu với Bồ Đào Nha,Lee Jun Ki,Vòng loại Asian Cup 2023,Hoài Linh,Công Lý,Phạm Băng Băng,Tạ Quang Chiến,Tchouameni,Chuyên Sư phạm,Thái lan,Hương Tràm |
 
 
 
