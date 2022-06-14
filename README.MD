@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-06-2022 , 15:42:55
+Last Update 14-06-2022 , 15:53:08
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thương ngày nắng về phần 2 tập 31,Australia vs Peru,Tom Cruise,Trịnh và Em,Trò chơi con mực,Hoa hậu Phạm Hương,Suri Cruise,Cao Thái Hà,Sri Lanka,Siêu trăng,Đại học Văn Lang,Tuấn Hưng,Propzy,Canada vs,Chứng khoán hôm nay,Giá xăng hôm nay,Việt Nam đá,Minh Hằng,Trần Thanh Tâm,Bitcoin |
+| VIETNAM | Thương ngày nắng về phần 2 tập 31,Australia vs Peru,Tom Cruise,Trịnh và Em,Trò chơi con mực,Hoa hậu Phạm Hương,Suri Cruise,Cao Thái Hà,Sri Lanka,Siêu trăng,Đại học Văn Lang,Tuấn Hưng,Propzy,Canada vs,Chứng khoán hôm nay,Aespa,Giá xăng hôm nay,Việt Nam đá,Minh Hằng,Bitcoin |
 
 
 
