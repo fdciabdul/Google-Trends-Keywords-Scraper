@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-06-2022 , 06:41:33
+Last Update 14-06-2022 , 06:55:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thương ngày nắng về phần 2 tập 31,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022,Tom Cruise,Australia vs Peru,Trò chơi con mực,Trịnh và Em,Hoa hậu Phạm Hương,Tuấn Hưng,Đại học Văn Lang,Chứng khoán hôm nay,Giá xăng hôm nay,Việt Nam đá,Minh Hằng,Bitcoin,Erling Haaland,Tăng lương tối thiểu vùng,Shondo,Xpander 2022,Miu Lê,Jack |
+| VIETNAM | Thương ngày nắng về phần 2 tập 31,Australia vs Peru,Tom Cruise,Trò chơi con mực,Hoa hậu Phạm Hương,Cao Thái Hà,Tuấn Hưng,Marilyn Monroe,Đại học Văn Lang,Giá xăng hôm nay,Việt Nam đá,Minh Hằng,Bitcoin,Erling Haaland,Tăng lương tối thiểu vùng,Xpander 2022,Miu Lê,Jack,Thoại Mỹ,Marcelo |
 
 
 
