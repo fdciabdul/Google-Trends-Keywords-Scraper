@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-06-2022 , 23:58:58
+Last Update 14-06-2022 , 02:11:15
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Peru vs úc,Thương ngày nắng về phần 2 tập 31,Trịnh và Em,Trò chơi con mực,Giá xăng hôm nay,Việt Nam đá,VTVGo,Minh Hằng,Bitcoin,Tăng lương tối thiểu vùng,Shondo,Xpander 2022,Jack,Thoại Mỹ,Haaland,Miu Lê,Squid Game,David beckham,ARK,Xổ số miền Nam ngày 12 tháng 6 |
+| VIETNAM | Tom Cruise,Thương ngày nắng về phần 2 tập 31,Trịnh và Em,Australia vs Peru,Trò chơi con mực,Hoa hậu Phạm Hương,Tuấn Hưng,Minh Hằng cưới ai,Giá xăng hôm nay,Việt Nam đá,Minh Hằng,Bitcoin,Tăng lương tối thiểu vùng,Erling Haaland,Xpander 2022,Jack,Thoại Mỹ,Miu Lê,Shark Tank,Marcelo |
 
 
 
