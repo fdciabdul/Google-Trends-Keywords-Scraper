@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-06-2022 , 13:24:02
+Last Update 15-06-2022 , 13:52:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Asian Cup 2023,Duy Thường,Mobile Legends,Quang Hải,Giá iPhone 11,Lý Nhã Kỳ,Cần Thơ,Bùi Tiến Dũng,FED) tăng lãi suất,New Zealand,Diễn viễn Hữu Tín,Mason greenwood,Nguyễn Thị Tân,Chủ tịch xã bị đánh ghen,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022,Thương ngày nắng về phần 2 tập 31,Trịnh và Em,Costa Rica vs New Zealand,Tom Cruise,Australia vs Peru |
+| VIETNAM | Asian Cup 2023,Duy Thường,Mobile Legends,Quang Hải,Chủ tịch xã bị đánh ghen,Lý Nhã Kỳ,Giá iPhone 11,Cần Thơ,Costa Rica,Bùi Tiến Dũng,FED) tăng lãi suất,New Zealand,Diễn viễn Hữu Tín,Mason greenwood,Nguyễn Thị Tân,Đậu mùa khỉ,Cây cô đơn hồ Tây,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022,Trịnh và Em,Thương ngày nắng về phần 2 tập 32 |
 
 
 
