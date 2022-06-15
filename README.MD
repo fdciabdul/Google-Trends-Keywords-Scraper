@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-06-2022 , 07:44:56
+Last Update 15-06-2022 , 07:53:56
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Asian Cup 2023,Đức vs Ý,Costa Rica,Quang Hải,Cần Thơ,Bùi Tiến Dũng,Nguyễn Thị Tân,Fed tăng lãi suất,Mason Greenwood,Thương ngày nắng về phần 2 tập 31,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022,Australia vs Peru,Tom Cruise,Hoa hậu Phạm Hương,Trịnh và Em,Cao Thái Hà,Sri Lanka,Suri Cruise,Marilyn Monroe,Choi Ji Woo |
+| VIETNAM | Asian Cup 2023,Costa Rica vs,Quang Hải,Lý Nhã Kỳ,Cần Thơ,Bùi Tiến Dũng,FED) tăng lãi suất,Nguyễn Thị Tân,Mason Greenwood,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022,Thương ngày nắng về phần 2 tập 31,Australia vs Peru,Tom Cruise,Hoa hậu Phạm Hương,Trịnh và Em,Cao Thái Hà,Sri Lanka,Suri Cruise,Marilyn Monroe,Siêu trăng |
 
 
 
