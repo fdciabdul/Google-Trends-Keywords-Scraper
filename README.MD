@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-06-2022 , 23:42:26
+Last Update 16-06-2022 , 23:51:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lịch thi đấu Ngoại hạng Anh,Tra cứu điểm thi tuyển sinh lớp 10,Học viện Báo chí và Tuyên truyền,Neu,Vivo X80 Pro,El Salvador,Ryan Gosling,Châu Tinh Trì,U23 Úc đấu với U23 Ả Rập Saudi,Nhật Bản vs Uzbekistan,Lee Jun Ki,Fed tăng lãi suất,Clip Chủ tịch xã Thành Mỹ,Duy Thường,Phim 'Trịnh Công Sơn,Mobile Legends,Quang Hải,Thuong ngay nang ve tap 32 phần 2,Bảo Thy,Lý Nhã Kỳ |
+| VIETNAM | Fabio Vieira,Lịch thi đấu Ngoại hạng Anh,Tra cứu điểm thi tuyển sinh lớp 10,Học viện Báo chí và Tuyên truyền,Neu,Vivo X80 Pro,Trống,El Salvador,Ryan Gosling,Châu Tinh Trì,Buzz Lightyear,U23 Úc đấu với U23 Ả Rập Saudi,Nhật Bản vs Uzbekistan,Lee Jun Ki,Clip Chủ tịch xã Thành Mỹ,Fed tăng lãi suất,Duy Thường,Phim 'Trịnh Công Sơn,Mobile Legends,Quang Hải |
 
 
 
