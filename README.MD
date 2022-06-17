@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-06-2022 , 22:45:09
+Last Update 17-06-2022 , 22:54:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | NBA,Fabio Vieira,Lê Hùng Dũng,Marilyn Monroe,Điểm thi tuyển sinh lớp 10 năm 2022 Nghệ An,Kiều Minh Tuấn,Poco C40,Hồng Vân,Kim Kardashian,Diễn viên Hữu Tín,Đề thi Tuyển sinh lớp 10 môn văn,Karen Nguyễn,Jin BTS,Loc,Tra cứu điểm thi tuyển sinh lớp 10,Lịch thi đấu Ngoại hạng Anh,Neu,Học viện Báo chí và Tuyên truyền,Vivo X80 Pro,El Salvador |
+| VIETNAM | NBA,Fabio Vieira,Lê Hùng Dũng,Marilyn Monroe,Điểm thi tuyển sinh lớp 10 năm 2022 Nghệ An,Kiều Minh Tuấn,Poco C40,Hồng Vân,Kim Kardashian,Diễn viên Hữu Tín,Đề thi Tuyển sinh lớp 10 môn văn,Karen Nguyễn,Chung ket U23 chau a,Jin BTS,Loc,Tra cứu điểm thi tuyển sinh lớp 10,Lịch thi đấu Ngoại hạng Anh,Neu,Học viện Báo chí và Tuyên truyền,Vivo X80 Pro |
 
 
 
