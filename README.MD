@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-06-2022 , 06:25:10
+Last Update 17-06-2022 , 06:47:00
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Fabio Vieira,Lê Hùng Dũng,Kiều Minh Tuấn,Hồng Vân,Tra cứu điểm thi tuyển sinh lớp 10,Lịch thi đấu Ngoại hạng Anh,Neu,Vivo X80 Pro,Châu Tinh Trì,El Salvador,Ryan Gosling,AIC 2022,Buzz Lightyear,U23 Uzbekistan đấu với U23 Nhật Bản,U23 Úc đấu với U23 Ả Rập Saudi,Lee Jun Ki,Fed tăng lãi suất,Chủ tịch xã bị đánh ghen,Duy Thường,Thương ngày nắng về tập 33 phần 2 |
+| VIETNAM | Lê Hùng Dũng,Poco C40,Kim Kardashian,Hồng Vân,Kiều Minh Tuấn,Chung kết U23 châu Á,Tra cứu điểm thi tuyển sinh lớp 10,Lịch thi đấu Ngoại hạng Anh,Neu,Vivo X80 Pro,Trống,El Salvador,Ryan Gosling,AIC 2022,Buzz Lightyear,Jisoo BLACKPINK,U23 Uzbekistan đấu với U23 Nhật Bản,Lee Jun Ki,Fed tăng lãi suất,Duy Thường |
 
 
 
