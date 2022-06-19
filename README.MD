@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-06-2022 , 22:43:30
+Last Update 19-06-2022 , 22:52:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Song Kang,Nimes FC,Bitcoin,Ngày của Cha 2022,Ngày của mẹ,Cao Thái Hà,Angelina Jolie,Phạm Băng Băng,Song Hye Kyo,Chồng Minh Hằng là ai,Lê Dương Bảo Lâm,Nhiệt độ Hà Nội,PNC 2022,Ngô Thanh Vân,Alchemy of Souls,Hồ Bích Trâm,Ngày của cha năm 2022,Ngày của Cha,U23 Nhật Bản đấu với U.23 Úc,Đáp án đề thi tuyển sinh lớp 10 môn Anh |
+| VIETNAM | Song Kang,Nimes FC,Bitcoin,Ngày của Cha 2022,Ngày của mẹ,Cao Thái Hà,Angelina Jolie,Phạm Băng Băng,Song Hye Kyo,Lê Dương Bảo Lâm,Nhiệt độ Hà Nội,PNC 2022,Ngô Thanh Vân,Hồ Bích Trâm,Alchemy of Souls,Ngày của cha năm 2022,Ngày của Cha,U23 Nhật Bản đấu với U.23 Úc,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Minh Hằng |
 
 
 
