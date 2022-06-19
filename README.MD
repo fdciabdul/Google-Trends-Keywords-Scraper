@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-06-2022 , 14:40:08
+Last Update 19-06-2022 , 14:49:00
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bitcoin,Nimes FC,Đáp án đề thi tuyển sinh lớp 10 môn Toán,Ngày của bố,Cao Thái Hà,Angelina Jolie,Phạm Băng Băng,Chồng Minh Hằng là ai,Lê Dương Bảo Lâm,Nhiệt độ Hà Nội,Warren Buffett,Ngày của Cha,U23 Nhật Bản đấu với U.23 Úc,Minh Hằng,Amandine,Châu Đăng Khoa,Đáp án đề thi tuyển sinh lớp 10 môn Anh,Nguyễn Hoàng Phi,Chung kết U23,NBA |
+| VIETNAM | Bitcoin,Nimes fc,Đáp án đề thi tuyển sinh lớp 10 môn Toán,Ngày của bố,Ngày của cha mẹ,Cao Thái Hà,Angelina Jolie,Phạm Băng Băng,Ligue 2,Lê Dương Bảo Lâm,Nhiệt độ Hà Nội,Công tử Bạc Liêu,Ngô Thanh Vân,Hai tuần,Ngày của Cha,U23 Nhật Bản đấu với U.23 Úc,Minh Hằng,Chung kết U23,Châu Đăng Khoa,Đáp án đề thi tuyển sinh lớp 10 môn Anh |
 
 
 
