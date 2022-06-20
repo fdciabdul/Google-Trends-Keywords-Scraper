@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-06-2022 , 12:20:42
+Last Update 20-06-2022 , 13:04:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nam Joo Hyuk,Điểm chuẩn vào 10 năm 2022,Song Kang,Kim Yoon Hee,Noo Phước Thịnh,Lê Ngọc Hoa,Tra cứu điểm,Nimes fc,Ngày của Cha 2022,Bitcoin,Ngày của mẹ,U23 Uzbekistan,Nguyễn Quang Hải,Nerman,Cao Thái Hà,Angelina Jolie,Phạm Băng Băng,Hồ Bích Trâm,Song Hye Kyo,Công tử Bạc Liêu |
+| VIETNAM | U23 Uzbekistan,Nam Joo Hyuk,Song Kang,Kim Yoon Hee,Noo Phước Thịnh,Lê Ngọc Hoa,2 ngày 1 đêm,Tra cứu điểm,Ngày của Cha 2022,Nimes fc,Bitcoin,Nguyễn Quang Hải,Điểm chuẩn vào 10 năm 2022,Ngày của mẹ,Cao Thái Hà,Angelina Jolie,Phạm Băng Băng,Hồ Bích Trâm,Song Hye Kyo,Công tử Bạc Liêu |
 
 
 
