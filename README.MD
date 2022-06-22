@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-06-2022 , 09:44:06
+Last Update 22-06-2022 , 09:53:00
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nam Em,Sơn Tùng,Lối nhỏ vào đời tập 10,Fall Guys,Đỗ Nhật Hà,Hà Thanh Xuân,Miss Universe Vietnam 2022,Giá xăng dầu hôm nay,Xavier Musk,Ngày Báo chí,Thương ngày nắng về tập 35 phần 2,Vision,Ngày Hạ chí,HSBC,Metz,Gia đình hạnh phúc,Jack Grealish,Son Ye Jin,Lisa Blackpink,GREY D |
+| VIETNAM | Nam Em,Sơn Tùng,Fall Guys,Hà Thanh Xuân,Lệ Nam,Hoa hậu Hoàn vũ Việt Nam 2022,Giá xăng dầu hôm nay,Ngày Báo chí,Xavier Musk,Thương ngày nắng về tập 35 phần 2,Vision,Ngày Hạ chí,HSBC,Elon Musk,Metz,Gia đình hạnh phúc,Jack Grealish,Son Ye Jin,Lisa Blackpink,Khoa Pug |
 
 
 
