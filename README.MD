@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-06-2022 , 18:40:33
+Last Update 22-06-2022 , 18:55:36
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lưu Diệc Phi,Fall Guys,Sơn Tùng,Lối nhỏ vào đời tập 10,Nguyễn Thành Phong,Axie Infinity,Hà Thanh Xuân,Lee minho,Lukaku,Lại Văn Sâm,Nguyễn Phương Hằng,Thuong ngay nang ve tap 35 phần 2,Nguyễn Văn Hiếu,Miss Universe Vietnam 2022,Giá xăng dầu hôm nay,Xavier Musk,Ngày Báo chí,Google earth,Ngày Hạ chí,HSBC |
+| VIETNAM | Lưu Diệc Phi,Fall Guys,Sơn Tùng,Lối nhỏ vào đời tập 10,Nguyễn Thành Phong,Axie Infinity,Hà Thanh Xuân,Lee minho,Lukaku,Lại Văn Sâm,Nguyễn Phương Hằng,Thuong ngay nang ve tap 35 phần 2,Nguyễn Văn Hiếu,Hoa hậu Hoàn vũ Việt Nam 2022,Giá xăng dầu hôm nay,Xavier Musk,Ngày Báo chí,Google earth,Ngày Hạ chí,HSBC |
 
 
 
