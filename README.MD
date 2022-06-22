@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-06-2022 , 03:23:35
+Last Update 22-06-2022 , 04:06:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sơn Tùng,Giá xăng dầu hôm nay,Xavier Musk,Ngày Báo chí,Vision,Google earth,Hoa hậu Hoàn vũ Việt Nam 2022,Ngày Hạ Chí,HSBC,Metz,HPG,Son Ye Jin,Lisa (BLACKPINK,Jack Grealish,GREY D,Thi tốt nghiệp THPT 2022,Châu Tấn,Thiều Bảo Trâm,Miss International Queen 2022,Nam Joo Hyuk |
+| VIETNAM | Sơn Tùng,Thương ngày nắng về phần 2 tập 35,Nam Em,Giá xăng dầu hôm nay,Xavier Musk,Ngày Báo chí,Vision,Google earth,Hoa hậu Hoàn vũ Việt Nam 2022,Ngày Hạ Chí,HSBC,Metz,Gia đình hạnh phúc,HPG,Son Ye Jin,Lisa (BLACKPINK,Khoa Pug,Hòa Minzy,Thi tốt nghiệp THPT 2022,Thiều Bảo Trâm |
 
 
 
