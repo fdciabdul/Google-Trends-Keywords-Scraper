@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-06-2022 , 05:37:46
+Last Update 23-06-2022 , 05:47:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lưu Diệc Phi,Selena Gomez,Minamino,Nam Em,Nguyễn Thành Phong,Fall Guys,Sơn Tùng,Thuong ngay nang ve tap 35 phần 2,Axie Infinity,Hà Thanh Xuân,Lee minho,Lê Bống,Nguyễn Phương Hằng,Nguyễn Văn Hiếu,Lukaku,Kendall jenner,Miss Universe Vietnam 2022,Giá xăng dầu hôm nay,Ngày Báo chí,Xavier Musk |
+| VIETNAM | Lưu Diệc Phi,Selena Gomez,Người Ấy Là Ai,Minamino,Big Mouth,Thuong ngay nang ve tap 35 phần 2,Nam Em,Nguyễn Thành Phong,Fall Guys,Sơn Tùng,Lối nhỏ vào đời tập 10,Axie Infinity,Hà Thanh Xuân,Lee minho,Nguyễn Văn Hiếu,Nguyễn Phương Hằng,Kendall Jenner,Lukaku,Ngày Báo chí,Xavier Musk |
 
 
 
