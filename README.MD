@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-06-2022 , 15:36:27
+Last Update 23-06-2022 , 15:51:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | One Punch Man,Bích Phương,Lưu Diệc Phi,Ca sĩ Vy Oanh,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022 Nam Định,Selena Gomez,Người Ấy Là Ai,Hoàng thùy linh,Seohyun,Tra điểm thi tuyển sinh lớp 10 năm 2022,Catriona Gray,Dấu hiệu có thai,Big Mouth,Minamino,Nam Em,Nguyễn Thành Phong,Fall Guys,Sơn Tùng,Axie Infinity,Hà Thanh Xuân |
+| VIETNAM | One Punch Man,Bích Phương,Lưu Diệc Phi,Ca sĩ Vy Oanh,Tra điểm thi tuyển sinh lớp 10 năm 2022,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022 Nam Định,Selena Gomez,Người Ấy Là Ai,Hoàng thùy linh,Seohyun,Catriona Gray,Dấu hiệu có thai,Big Mouth,Maradona,Minamino,Nam Em,Nguyễn Thành Phong,Fall Guys,Sơn Tùng,Lối nhỏ vào đời tập 10 |
 
 
 
