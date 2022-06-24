@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-06-2022 , 23:54:38
+Last Update 24-06-2022 , 00:59:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Miss International Queen 2022,One Punch Man,Bích Phương,Điểm thi tuyển sinh lớp 10 năm 2022 Nam Định,Tra điểm thi tuyển sinh lớp 10 năm 2022,Lưu Diệc Phi,Ca sĩ Vy Oanh,Người Ấy Là Ai,Selena Gomez,Hoàng Thùy Linh,Seohyun,Catriona Gray,Dấu hiệu có thai,Maradona,Big Mouth,Xổ số ngày 22 tháng 6,Minamino,Nam Em,Nguyễn Thành Phong,Fall Guys |
+| VIETNAM | Miss International Queen 2022,One Punch Man,Bích Phương,Điểm thi tuyển sinh lớp 10 năm 2022 TPHCM,Lưu Diệc Phi,Ca sĩ Vy Oanh,Tra cứu điểm thi tuyển sinh lớp 10 năm 2022 Nam Định,Selena Gomez,Người Ấy Là Ai,Hoàng Thùy Linh,Seohyun,Catriona Gray,Maradona,Dấu hiệu có thai,Big Mouth,Minamino,Nam Em,Nguyễn Thành Phong,Fall Guys,Thuong ngay nang ve tap 36 phần 2 |
 
 
 
