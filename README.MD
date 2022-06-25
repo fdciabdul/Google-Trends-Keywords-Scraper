@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-06-2022 , 20:43:03
+Last Update 25-06-2022 , 20:51:44
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Miss International Queen 2022,Nguyễn Thúc Thùy Tiên,Play Together,Việt Á,Nguyễn Xuân Phúc,Kalvin Phillips,Châu Nhuận Phát,Đỗ Thị Hà,Anh Thơ,Bayern Munich,Herogasm,Ngọc Châu,AFC Cup,Messi,Miss International Queen 2022,Money Heist,Gia đình hạnh phúc,Nayeon,Văn Mai Hương,Lionel Messi |
+| VIETNAM | Nguyễn Thúc Thùy Tiên,Play Together,Việt Á,Miss International Queen 2022,Nguyễn Xuân Phúc,Kalvin Phillips,Châu Nhuận Phát,Đỗ Thị Hà,Anh Thơ,Bayern Munich,Herogasm,Ngọc Châu,AFC Cup,Messi,Miss International Queen 2022,Money Heist,Gia đình hạnh phúc,Nayeon,Văn Mai Hương,Lionel Messi |
 
 
 
