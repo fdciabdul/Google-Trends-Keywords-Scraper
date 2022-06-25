@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-06-2022 , 16:31:09
+Last Update 25-06-2022 , 16:54:21
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Play Together,Việt Á,Money Heist,Nguyễn Xuân Phúc,Kalvin Phillips,Châu Nhuận Phát,Anh Thơ,Herogasm,Bayern Munich,Chung kết Miss Universe Vietnam 2022,AFC Cup,Messi,Gia đình hạnh phúc,Nayeon,Văn Mai Hương,Lionel Messi,Miss International Queen 2022,Cô dâu 8 tuổi,Ghế massage,Hougang United |
+| VIETNAM | Play Together,Việt Á,Nguyễn Xuân Phúc,Hồ Ngọc Hà,Money Heist,Kalvin Phillips,Châu Nhuận Phát,Anh Thơ,Đỗ Thị Hà,Bayern Munich,Herogasm,Hoa hậu Hoàn vũ 2022,AFC Cup,Messi,Miss International Queen 2022,Gia đình hạnh phúc,Nayeon,Văn Mai Hương,Lionel Messi,Cô dâu 8 tuổi |
 
 
 
