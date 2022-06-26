@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 26-06-2022 , 10:36:09
+Last Update 26-06-2022 , 10:45:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nguyễn Thúc Thùy Tiên,Ôn Bích Hà,Bóng đá Quang Hải,Lee Ji Ah,H'hen Niê,Võ Hoàng Yến,Xe đạp gấp,Festival Huế,Ngọc Châu,Play Together,Việt Á,Nguyễn Xuân Phúc,Miss International Queen 2022,Lệ Nam,Đỗ Thị Hà,Kalvin Phillips,Châu Nhuận Phát,Anh Thơ,Bayern Munich,Herogasm |
+| VIETNAM | Ôn Bích Hà,Nguyễn Thúc Thùy Tiên,Bóng đá Quang Hải,Lee Ji Ah,H'hen Niê,Võ Hoàng Yến,Xe đạp gấp,Festival Huế,Hoa hậu Lương Thùy Linh,Đường lên đỉnh Olympia,Ngọc Châu,Play Together,Việt Á,Nguyễn Xuân Phúc,Miss International Queen 2022,Lệ Nam,Đỗ Thị Hà,Kalvin Phillips,Châu Nhuận Phát,Anh Thơ |
 
 
 
