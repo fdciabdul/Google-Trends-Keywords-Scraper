@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-06-2022 , 03:01:17
+Last Update 27-06-2022 , 04:11:00
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nam Định đấu với Hà Nội,Pau FC,Chủ tịch nước Nguyễn Xuân Phúc,Jang Nara,Lee Ji Ah,Ôn Bích Hà,Xe đạp gấp,Võ Hoàng Yến,Đường lên đỉnh Olympia,H'hen Niê,Hà Anh,2 ngày 1 đêm,Festival Huế,Kit test Việt Á,Ngọc Châu,Play Together,Việt Á,Miss International Queen 2022,Lệ Nam,Kalvin Phillips |
+| VIETNAM | Kim Tae Hee,Nam Định đấu với Hà Nội,Pau FC,Jang Nara,Chủ tịch nước Nguyễn Xuân Phúc,Lee Ji Ah,Xe đạp gấp,Võ Hoàng Yến,Đường lên đỉnh Olympia,H'hen Niê,Hà Anh,Gareth Bale,Festival Huế,Đại án Việt Á,Kit test Việt Á,Ngọc Châu,Play Together,Việt Á,Miss International Queen 2022,Lệ Nam |
 
 
 
