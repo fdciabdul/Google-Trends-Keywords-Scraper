@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-06-2022 , 05:33:43
+Last Update 27-06-2022 , 05:45:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Khoa Pug,Park Bo Gum,Kim Tae Hee,Seventeen,Tiểu Vy,Nam Định đấu với Hà Nội,Pau FC,Jang Nara,Chủ tịch nước Nguyễn Xuân Phúc,Xe đạp gấp,Lee Ji Ah,Đường lên đỉnh Olympia,Võ Hoàng Yến,H'hen Niê,Hà Anh,Gareth Bale,Festival Huế,Đại án Việt Á,Kit test Việt Á,Ngọc Châu |
+| VIETNAM | Park Bo Gum,Điểm chuẩn lớp 10 năm 2022 TP.HCM,Kim Tae Hee,Tiểu Vy,Seventeen,De Jong,Pau FC,Nam Định đấu với Hà Nội,Jang Nara,Chủ tịch nước Nguyễn Xuân Phúc,Xe đạp gấp,Lee Ji Ah,Ôn Bích Hà,Đường lên đỉnh Olympia,Võ Hoàng Yến,Voi ma mút,H'Hen Niê,Hà Anh,Gareth Bale,Festival Huế |
 
 
 
