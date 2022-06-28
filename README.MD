@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-06-2022 , 01:53:42
+Last Update 28-06-2022 , 03:36:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thương ngày nắng về phần 2 tập 37,Phnom Penh Crown đấu với Viettel,Park Bo Gum,Son Ye Jin,Điểm chuẩn lớp 10 năm 2022 TP.HCM,Ngày Gia đình Việt Nam,Tiểu Vy,Khoa Pug,Oggy,COVID,ITA,Wimbledon 2022,Phil Foden,Anna,Kim Tae Hee,Paolo Maldini,Phương Trinh Jolie,Seventeen,Hoa hậu Hoàn vũ Ngọc Châu,Biến chủng BA.5 |
+| VIETNAM | Thương ngày nắng về phần 2 tập 37,Wimbledon,Phnom Penh Crown đấu với Viettel,Park Bo Gum,Son Ye Jin,Ngày Gia đình Việt Nam,Điểm chuẩn lớp 10 năm 2022 TP.HCM,Tiểu Vy,Khoa Pug,Ligue 2,Oggy,COVID,ITA,Phil Foden,Kim Tae Hee,Paolo Maldini,Phương Trinh Jolie,Biến chủng BA.5,Seventeen,Hoa hậu Hoàn vũ Ngọc Châu |
 
 
 
