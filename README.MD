@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-06-2022 , 23:57:46
+Last Update 28-06-2022 , 01:53:42
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Wimbledon,Phnom Penh Crown đấu với Viettel,Park Bo Gum,Son Ye Jin,Điểm chuẩn lớp 10 năm 2022 TP.HCM,Tiểu Vy,Khoa Pug,Ngày Gia đình Việt Nam,Ligue 2,COVID,ITA,Phil Foden,Kim Tae Hee,Anna,Oggy,Paolo Maldini,Seventeen,Hoa hậu Hoàn vũ Ngọc Châu,De Jong,Phương Trinh Jolie |
+| VIETNAM | Thương ngày nắng về phần 2 tập 37,Phnom Penh Crown đấu với Viettel,Park Bo Gum,Son Ye Jin,Điểm chuẩn lớp 10 năm 2022 TP.HCM,Ngày Gia đình Việt Nam,Tiểu Vy,Khoa Pug,Oggy,COVID,ITA,Wimbledon 2022,Phil Foden,Anna,Kim Tae Hee,Paolo Maldini,Phương Trinh Jolie,Seventeen,Hoa hậu Hoàn vũ Ngọc Châu,Biến chủng BA.5 |
 
 
 
