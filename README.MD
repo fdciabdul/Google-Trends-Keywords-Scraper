@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-06-2022 , 06:27:38
+Last Update 29-06-2022 , 06:48:06
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tyrell Malacia,Raphinha,Phan anh,Thương ngày nắng về phần 2 tập 37,Lối nhỏ vào đời tập 13,Hoa hậu Đặng Thu Thảo,Erik ten Hag,Only,Ngày Đại dương thế giới,Áp thấp nhiệt đới,Ngày 28/6 là ngày gì,Lien minh,BTS Island: In the SEOM,Wimbledon,Chúc mừng ngày gia đình việt nam,Vì mẹ anh bắt chia tay Miu Lê,Phnom Penh Crown đấu với Viettel,Ngày Gia đình Việt Nam,Son Ye Jin,Park Bo Gum |
+| VIETNAM | Tyrell Malacia,Văn khấn mùng 1,Raphinha,Thúy Ngân,Thương ngày nắng về phần 2 tập 37,Ngày Gia đình,28/6 là ngày gì,Hoa hậu Đặng Thu Thảo,Erik ten Hag,Only,Ngày Đại dương thế giới,Áp thấp nhiệt đới,Lối nhỏ vào đời tập 13,Lien minh,BTS Island: In the SEOM,Wimbledon,Vì mẹ anh bắt chia tay Miu Lê,Phnom Penh Crown đấu với Viettel,Ngày Gia đình Việt Nam,Park Bo Gum |
 
 
 
