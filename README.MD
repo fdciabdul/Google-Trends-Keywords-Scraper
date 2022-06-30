@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-06-2022 , 15:39:28
+Last Update 30-06-2022 , 15:53:25
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Viettel đấu với Hougang utd,Pau FC,Trấn Thành,Điểm chuẩn đánh giá năng lực 2022,Hạnh Phúc đến Vạn gia,Lối nhỏ vào đời tập 15,Nayeon,R. Kelly,Oguri Shun,Văn Mai Hương,Lý Tử Thất,Châu Tinh Trì,Origi,Gia tài của mẹ,Tyrell Malacia,Sát Thủ Nhân Tạo 2,Thương Ngày Nắng Về phần 2 tập 39,Raphinha,Xổ số thứ tư,Yang Jae Woong |
+| VIETNAM | Viettel đấu với Hougang utd,Pau FC,Trấn Thành,Bão số 1,Điểm chuẩn đánh giá năng lực 2022,Hạnh Phúc Đến Vạn Gia,R. Kelly,Oguri Shun,VinFast Lux A2.0,Văn Mai Hương,Lý Tử Thất,Châu Tinh Trì,Origi,Gia tài của mẹ,Thương Ngày Nắng Về phần 2 tập 39,Sát Thủ Nhân Tạo 2,Tyrell Malacia,Raphinha,Yang Jae Woong,Pi Network |
 
 
 
