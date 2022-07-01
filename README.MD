@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-06-2022 , 23:59:19
+Last Update 01-07-2022 , 02:30:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Địch Lệ Nhiệt Ba,Build Jakapan puttha,Croptop,Viettel đấu với Hougang utd,Pau FC,Trấn Thành,Điểm chuẩn đánh giá năng lực 2022,Bão số 1,Hạnh Phúc Đến Vạn Gia,Lối nhỏ vào đời tập 15,Richarlison,Oguri Shun,R. Kelly,VinFast Lux A2.0,Lý Tử Thất,Văn Mai Hương,Châu Tinh Trì,Origi,Gia tài của mẹ,Sát Thủ Nhân Tạo 2 |
+| VIETNAM | Địch Lệ Nhiệt Ba,Build Jakapan puttha,Croptop,Viettel đấu với Hougang Utd,Pau FC,Bão số 1,Điểm chuẩn đánh giá năng lực 2022,Trấn Thành,Hạnh Phúc Đến Vạn Gia,VinFast Lux A2.0,Lối nhỏ vào đời tập 15,Richarlison,Oguri Shun,R. Kelly,Lý Tử Thất,Midu,Văn Mai Hương,Châu Tinh Trì,Origi,Gia tài của mẹ |
 
 
 
