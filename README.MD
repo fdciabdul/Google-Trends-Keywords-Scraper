@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-07-2022 , 00:59:55
+Last Update 02-07-2022 , 03:16:52
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đàm Vĩnh Hưng,Hồ Chí Minh,Nữ Việt Nam,Hồng Đăng,Lưu Hương Giang,Thương ngày nắng về,Hai nghệ sĩ Việt Nam bị bắt ở Tây Ban Nha,Giá xăng hôm nay,Technoblade,Vũ Hồng Văn,Stranger Things,Điểm chuẩn lớp 10 năm 2022 Đồng Nai,Địch Lệ Nhiệt Ba,U19 Việt Nam,Nguyễn Thanh Long,Hải đăng,Hồng Diễm,Scandal,Vera Wang,Build Jakapan puttha |
+| VIETNAM | Đàm Vĩnh Hưng,Hồ Chí Minh,Nữ Việt Nam,Hirose Suzu,Hồng Đăng,Lưu Hương Giang,Hai nghệ sĩ Việt Nam bị bắt ở Tây Ban Nha,Thương ngày nắng về,Technoblade,Giá xăng hôm nay,Vũ Hồng Văn,Stranger Things,Scandal,Điểm chuẩn lớp 10 năm 2022 Đồng Nai,U19 Việt Nam,Địch Lệ Nhiệt Ba,Nguyễn Thanh Long,Hồng Diễm,Vera Wang,Majorca |
 
 
 
