@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-07-2022 , 09:45:59
+Last Update 02-07-2022 , 09:54:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đội tuyển bóng đá nữ quốc gia Việt Nam,Đàm Vĩnh Hưng,Thuong ngay nang ve,Song Hye Kyo,Ngọc Sơn,Hồ Chí Minh,Cát Tường,BLACKPINK Jennie,Malacia,Hirose Suzu,Shakira,Ford Everest 2022,Vợ Hồng Đăng là ai,Hồng Đăng,Lưu Hương Giang,Hai nghệ sĩ Việt Nam bị bắt ở Tây Ban Nha,Thương ngày nắng về,Technoblade,Giá xăng hôm nay,Vũ Hồng Văn |
+| VIETNAM | Đàm Vĩnh Hưng,Đội tuyển bóng đá nữ quốc gia Việt Nam,Song Hye Kyo,Ngọc Sơn,Hồ Chí Minh,BLACKPINK Jennie,Malacia,Hirose Suzu,Shakira,Ford Everest 2022,Hồng Đăng,Lưu Hương Giang,Hai nghệ sĩ Việt Nam bị bắt ở Tây Ban Nha,Technoblade,Giá xăng hôm nay,Vũ Hồng Văn,Thương ngày nắng về,Stranger Things,VTV,U19 Việt Nam |
 
 
 
