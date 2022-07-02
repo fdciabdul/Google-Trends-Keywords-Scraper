@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-07-2022 , 14:40:39
+Last Update 02-07-2022 , 14:49:11
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lịch thi đấu bóng đá hôm nay,V.League,Đàm Vĩnh Hưng,Đội tuyển bóng đá nữ quốc gia Việt Nam,Song Hye Kyo,Bóng đá hôm nay,Hồ Chí Minh,Ngọc Sơn,Thuong ngay nang ve,BLACKPINK Jennie,Cát Tường,Malacia,Shakira,Lisandro Martinez,Hirose Suzu,Ford Everest 2022,Pau FC cầu thủ Quang Hải,Việt Hương,Hồng Đăng,Truc tiep bong da |
+| VIETNAM | Lịch thi đấu bóng đá hôm nay,V-League,Đội tuyển bóng đá nữ quốc gia Việt Nam,Song Hye Kyo,Hồ Chí Minh,Ngọc Sơn,Thuong ngay nang ve,Bóng đá Việt Nam,BLACKPINK Jennie,Malacia,Cát Tường,Shakira,Lisandro Martinez,Hirose Suzu,Pau FC cầu thủ Quang Hải,Ford Everest 2022,Việt Hương,Hồng Đăng,Truc tiep bong da,Lưu Hương Giang |
 
 
 
