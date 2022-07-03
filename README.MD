@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-07-2022 , 04:38:41
+Last Update 03-07-2022 , 04:56:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Park Hang-seo,V-League,FPT Play,Thể thao,Song Hye Kyo,Hồ Chí Minh,Ngọc Sơn,Nữ Việt Nam,Lich bong da hom nay,Malacia,Blackpink Jennie,Cát Tường,Việt Hương,Shakira,Lisandro Martinez,Pau FC cầu thủ Quang Hải,Ford Everest 2022,Jun vũ,Hirose Suzu,Lịch thi đấu V.League 2022 |
+| VIETNAM | Park Hang-seo,V-League,FPT Play,Thể thao,Đội tuyển bóng đá nữ quốc gia Việt Nam,Song Hye Kyo,Hồ Chí Minh,Ngọc Sơn,Lịch thi đấu V.League,Lich bong da hom nay,Malacia,Blackpink Jennie,Cát Tường,Lan Phương,Việt Hương,Shakira,Lisandro Martinez,Ford Everest 2022,Pau FC cầu thủ Quang Hải,Jun vũ |
 
 
 
