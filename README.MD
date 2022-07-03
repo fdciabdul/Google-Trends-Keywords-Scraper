@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-07-2022 , 23:45:00
+Last Update 03-07-2022 , 23:53:52
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | F1,Điểm thi tuyển sinh lớp 10 năm 2022 Hà Nội,Trúc Anh,Miss Supranational 2022,Đặng Văn Lâm,Park Hang Seo,Bùi Tiến Dũng,Đặng Luân,Truc tiep bong da,Lịch thi đấu bóng đá hôm nay,FPT Play,Đà Nẵng đấu với Hà Nội,Kết quả U19 Đông Nam Á,Thể thao,Song Hye Kyo,Hồ Chí Minh,Đội tuyển bóng đá nữ Quốc gia Việt Nam,Việt Hương,Lan Phương,Malacia |
+| VIETNAM | F1,Điểm thi tuyển sinh lớp 10 năm 2022 Hà Nội,Trúc Anh,Miss Supranational 2022,Đặng Văn Lâm,Park Hang Seo,Salah Liverpool,Đặng Luân,Lịch thi đấu bóng đá hôm nay,V-League,Kết quả U19 Đông Nam Á,Đà Nẵng đấu với Hà Nội,Thể thao,Song Hye Kyo,Hồ Chí Minh,Đội tuyển bóng đá nữ Quốc gia Việt Nam,Việt Hương,Lan Phương,Malacia,Blackpink Jennie |
 
 
 
