@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-07-2022 , 16:41:13
+Last Update 03-07-2022 , 16:59:09
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hòa Minzy,Điểm thi tuyển sinh lớp 10 năm 2022 Hà Nội,Đặng Văn Lâm,Park Hang Seo,Miss Supranational 2022,Bùi Tiến Dũng,Đặng Luân,Trúc Anh,Truc tiep bong da,V-League,Lịch thi đấu bóng đá hôm nay,FPT Play,Kết quả U19 Đông Nam Á,Thể thao,Lich thi dau U19 Dong Nam A,Song Hye Kyo,Hồ Chí Minh,Nữ Việt Nam,Đội tuyển bóng đá nữ Quốc gia Việt Nam,Việt Hương |
+| VIETNAM | Hòa Minzy,Đặng Văn Lâm,Miss Supranational 2022,Park Hang Seo,Trúc Anh,Bùi Tiến Dũng,Đặng Luân,Truc tiep bong da,Đà Nẵng đấu với Hà Nội,FPT Play,Lịch thi đấu bóng đá hôm nay,Kết quả U19 Đông Nam Á,Thể thao,Tra cứu điểm thi vào 10 Hà Nội,Lich thi dau U19 dong Nam a,Song Hye Kyo,Hồ Chí Minh,Nữ Việt Nam,Đội tuyển bóng đá nữ Quốc gia Việt Nam,Việt Hương |
 
 
 
