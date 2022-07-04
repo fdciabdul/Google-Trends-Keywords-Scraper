@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-07-2022 , 15:42:45
+Last Update 04-07-2022 , 15:52:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thiều Bảo Trâm,Phương Anh Đào,Solo Leveling,Eriksen,Đỗ Mỹ Linh,Viên Băng Nghiên,F1,Yoona,Tom Cruise,Bảng xếp hạng U19 Đông Nam Á,Quang Hải Pau FC,Uzbekistan,Namibia,Cục An ninh chính trị nội bộ,Kim Oanh,Tra cứu điểm thi vào 10,Genshin Impact,Trúc Anh,LyLy,Thi THPT Quốc gia |
+| VIETNAM | Viettel đấu với Hồng Lĩnh Hà Tĩnh,Thiều Bảo Trâm,Eriksen,Phương Anh Đào,Solo Leveling,Viên Băng Nghiên,Đỗ Mỹ Linh,F1,Yoona,Tom Cruise,Bảng xếp hạng U19 Đông Nam Á,Diablo Immortal,Quang Hải Pau FC,Uzbekistan,Cục An ninh chính trị nội bộ,Namibia,Kim Oanh,Tra cứu điểm thi vào 10,Genshin Impact,Trúc Anh |
 
 
 
