@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-07-2022 , 08:42:10
+Last Update 04-07-2022 , 08:55:05
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thiều Bảo Trâm,Solo Leveling,F1,Đỗ Mỹ Linh,Yoona,Đà Nẵng đấu với Hà Nội,Genshin Impact,Trúc Anh,Thi THPT quốc gia,Hòa Minzy,Ơn giời cậu đây rồi,Miss Supranational 2022,Đặng Văn Lâm,Park Hang Seo,Bùi Tiến Dũng,Salah Liverpool,Từ Hy Viên,Genshin,BTS J-Hope,Tra cứu điểm thi vào 10 |
+| VIETNAM | Phương Anh Đào,Thiều Bảo Trâm,Solo Leveling,F1,Đỗ Mỹ Linh,Yoona,Kim Oanh,Genshin Impact,Trúc Anh,Thi THPT quốc gia,LyLy,Miss Supranational 2022,Đặng Văn Lâm,Park Hang Seo,Bùi Tiến Dũng,Salah Liverpool,Từ Hy Viên,Genshin,BTS J-Hope,Tra cứu điểm thi vào 10 |
 
 
 
