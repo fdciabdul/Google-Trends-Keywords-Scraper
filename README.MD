@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-07-2022 , 23:53:48
+Last Update 05-07-2022 , 00:50:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Eriksen,Solo Leveling,Thiều Bảo Trâm,Viên Băng Nghiên,Phương Anh Đào,Bảng xếp hạng U19 Đông Nam Á,Đỗ Mỹ Linh,Yoona,F1,Tom Cruise,Thương ngày nắng về phần 2, tập 40,Lindsay Lohan,Cục An ninh chính trị nội bộ,Diablo Immortal,Quang Hải Pau FC,Uzbekistan,Namibia,U19 Việt Nam,Tra cứu điểm thi vào 10,Đà Nẵng đấu với Hà Nội |
+| VIETNAM | Hoa hậu Đại dương Lê Âu Ngân Anh,Eriksen,Lịch thi THPT 2022,Solo Leveling,Thiều Bảo Trâm,Vũ Hồng Văn,Viên Băng Nghiên,Bảng xếp hạng U19 Đông Nam Á,Phương Anh Đào,Thương ngày nắng về phần 2 tập 40,Đỗ Mỹ Linh,F1,Tom Cruise,Lindsay Lohan,Diablo Immortal,Quang Hải Pau FC,Uzbekistan,Namibia,Kiều Thanh,U19 Việt Nam |
 
 
 
