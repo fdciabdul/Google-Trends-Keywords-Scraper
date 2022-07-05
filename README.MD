@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-07-2022 , 15:28:45
+Last Update 05-07-2022 , 15:46:56
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nguyễn Lân Thắng,Liên Quân,Sơn Tùng,Hoa hậu Đại dương Lê Âu Ngân Anh,Lối nhỏ vào đời tập 17,Son Heung,Park seo joon,Khá Bảnh,Kalvin Phillips,Tyrell Malacia,Cosplay,Xiaomi 12S Ultra,U19 Việt Nam,Lịch thi THPT 2022,Thương ngày nắng về phần2 tập 40,Eriksen,Solo Leveling,Vũ Hồng Văn,Viên Băng Nghiên,Thiều Bảo Trâm |
+| VIETNAM | Nguyễn Lân Thắng,Liên Quân,Sơn Tùng,Hoa hậu Đại dương Lê Âu Ngân Anh,Lối nhỏ vào đời tập 17,Son Heung,Park seo joon,Ngày thi đại học 2022,Khá Bảnh,Kalvin Phillips,Tyrell Malacia,Cosplay,Xiaomi 12S Ultra,U19 Việt Nam,Lịch thi THPT 2022,Eriksen,Viettel đấu với Hồng Lĩnh Hà Tĩnh,Thương ngày nắng về phần2 tập 40,Solo Leveling,Vũ Hồng Văn |
 
 
 
