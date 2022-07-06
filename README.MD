@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-07-2022 , 20:43:52
+Last Update 06-07-2022 , 20:57:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Người lái đò sông Đà,Lời chúc thi tốt nghiệp,Nhật Kim Anh,Minh Hằng,Điểm thi vào 10 Hà Nội,ROG Phone 6,SNSD,Hương Tràm,Giá vang hôm nay,Selena Gomez,Cao Thái Sơn,Christophe Galtier,U19 Việt Nam,Lịch thi THPT 2022,Nguyễn Lân Thắng,U19 Việt Nam,Liên Quân,Sơn Tùng,Tinh Hán Xán Lạn,Vespa |
+| VIETNAM | Cúm A,Người lái đò sông Đà,Nhật Kim Anh,Minh Hằng,Điểm thi vào 10 Hà Nội,ROG Phone 6,SNSD,Hương Tràm,Giá vang hôm nay,Selena Gomez,Cao Thái Sơn,Christophe Galtier,U19 Việt Nam,Lịch thi THPT 2022,Nguyễn Lân Thắng,U19 Việt Nam,Liên Quân,Sơn Tùng,Tinh Hán Xán Lạn,Vespa |
 
 
 
