@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-07-2022 , 01:48:18
+Last Update 06-07-2022 , 03:41:04
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thuong ngay nang ve tap 41 phần 2,SNSD,Nguyễn Lân Thắng,Lịch thi THPT 2022,Liên Quân,Sơn Tùng,Vespa,Lối nhỏ vào đời tập 17,Hoa hậu Đại dương Lê Âu Ngân Anh,Ngày thi Đại học 2022,Park Seo Joon,Son Heung,Tyrell Malacia,Khá Bảnh,Cúc Tịnh Y,Xiaomi 12S Ultra,U19 Việt Nam,Lịch thi THPT 2022,Eriksen,FPT Play |
+| VIETNAM | SNSD,ROG Phone 6,Hương Tràm,Nguyễn Lân Thắng,Lịch thi THPT 2022,Liên Quân,Sơn Tùng,Vespa,Lối nhỏ vào đời tập 17,Hoa hậu Đại dương Lê Âu Ngân Anh,Thương ngày nắng về phần 2 tập 41,Tyrell Malacia,Park Seo Joon,Son Heung,Khá Bảnh,Cúc Tịnh Y,Xiaomi 12S Ultra,U19 Việt Nam,Lịch thi THPT 2022,Eriksen |
 
 
 
