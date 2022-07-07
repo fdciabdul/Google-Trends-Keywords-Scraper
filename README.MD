@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-07-2022 , 05:33:21
+Last Update 07-07-2022 , 05:46:24
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Jang Mi,Nadal,Tổ quốc bên bờ sóng,Disney,One Punch Man chap,Cúm A,Rosé Blackpink,U19 Việt Nam,Nhật Kim Anh,Điểm thi vào 10 Hà Nội,Kaito Kid,Giá iPhone 13,Tùng Min,ROG Phone 6,SNSD,Hương Tràm,Giá vang hôm nay,Võ Hạ Trâm,Cao Thái Sơn,Selena Gomez |
+| VIETNAM | Disney,Jang Mi,Chiếc thuyền ngoài xa nhân vật Phùng,Tổ quốc bên bờ sóng,Nadal,Đen Vâu,One Punch Man chap,Rosé Blackpink,Cúm A,U19 Việt Nam,Nhật Kim Anh,Kaito Kid,Đất nước,Điểm thi vào 10 Hà Nội,Giá iPhone 13,ROG Phone 6,Giá vang hôm nay,SNSD,Hương Tràm,Võ Hạ Trâm |
 
 
 
