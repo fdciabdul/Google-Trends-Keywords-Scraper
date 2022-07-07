@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-07-2022 , 14:42:58
+Last Update 07-07-2022 , 14:53:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | One Punch Man,Đỗ Mỹ Linh,Bóng đá nữ Việt Nam,Jang Mi,Disney,Tổ quốc bên bờ sóng,Nadal,Boris Johnson,Rosé Blackpink,Lâm Tâm Như,Justin Bieber,Sterling,Tính điểm thi THPT,Khả Ngân,Cúm A,Takahashi Kazuki,U19 Việt Nam,Kaito Kid,Phân tích Chiếc thuyền ngoài xa,Nhật Kim Anh |
+| VIETNAM | One Punch Man,Bóng đá nữ Việt Nam,Đỗ Mỹ Linh,Disney,Jang Mi,Tổ quốc bên bờ sóng,Nadal,Boris Johnson,Lâm Tâm Như,Rosé Blackpink,Justin Bieber,Sterling,Khả Ngân,Takahashi Kazuki,Cúm A,U19 Việt Nam,Tính điểm tốt nghiệp,Kaito Kid,Phân tích Chiếc thuyền ngoài xa,Nhật Kim Anh |
 
 
 
