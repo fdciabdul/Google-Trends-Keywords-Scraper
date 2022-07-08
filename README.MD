@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-07-2022 , 18:49:01
+Last Update 08-07-2022 , 18:57:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Shinzo Abe,Tra cứu điểm thi vào 10,Wxrdie,Lâm Thanh Hà,V-League,Học viện báo chí và tuyên truyền,Storii,Aespa,The Roundup,Diablo Immortal,Baifern,Chồng cũ vợ cũ người yêu cũ tập 21,Tlinh,AirTag,Yoona,Bruno Fernandes,HLV Park Hang Seo,Musk,Đáp án Toán THPT quốc gia 2022,U19 Việt Nam |
+| VIETNAM | BTS,Pau FC giao hữu,Shinzo Abe,Tra cứu điểm thi vào 10,Wxrdie,Lâm Thanh Hà,V-League,Đáp án lý 2022,Học viện báo chí và tuyên truyền,Storii,Aespa,The Roundup,Diablo Immortal,Baifern,Tlinh,Chồng cũ vợ cũ người yêu cũ tập 21,AirTag,Yoona,Bruno Fernandes,HLV Park Hang Seo |
 
 
 
