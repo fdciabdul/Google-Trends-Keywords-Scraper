@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-07-2022 , 10:51:19
+Last Update 09-07-2022 , 11:00:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | BTS,Pau FC,12 con giáp,Jack Wilshere,Luxury,ARMY,Shinzo Abe,Điểm chuẩn lớp 10 năm 2022, Hà Nội,Wxrdie,Arsenal,Lâm Thanh Hà,V-League,Đại học Công nghiệp,Aespa,The Roundup,Diablo Immortal,Baifern,Yoona,Nguyễn Văn Cừ,AirTag |
+| VIETNAM | BTS,Pau FC,12 con giáp,Jack Wilshere,Luxury,ARMY,Shinzo Abe,Điểm chuẩn lớp 10 năm 2022, Hà Nội,Wxrdie,Arsenal,Lâm Thanh Hà,V-League,Đại học Khoa học xã hội và nhân văn,Đại học Công nghiệp,Aespa,The Roundup,Diablo Immortal,Baifern,Chồng cũ vợ cũ người yêu cũ tập 21,Nguyễn Văn Cừ |
 
 
 
