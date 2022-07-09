@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-07-2022 , 15:44:41
+Last Update 09-07-2022 , 15:53:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | BTS,Pau FC,12 con giáp,Jack Wilshere,ARMY,Luxury,Bảng xếp hạng V.League 2022,Trực tiếp bóng đá nữ,Sri Lanka,Bao giờ có điểm thi THPT 2022,Phạm Hương,Đánh giá đề thi THPT Quốc gia 2022,Shinzo Abe,Điểm chuẩn lớp 10 năm 2022, Hà Nội,Wxrdie,Arsenal,V.League,Lâm Thanh Hà,Đại học Công nghiệp,Aespa |
+| VIETNAM | BTS,Pau FC,12 con giáp,Bao giờ có điểm thi THPT 2022,Jack Wilshere,ARMY,Luxury,Sri Lanka,Phạm Hương,Đánh giá đề thi THPT Quốc gia 2022,Shinzo Abe,Điểm chuẩn lớp 10 năm 2022 Hà Nội,Wxrdie,Arsenal,V.League,Lâm Thanh Hà,Đại học Công nghiệp,Aespa,Storii,The Roundup |
 
 
 
