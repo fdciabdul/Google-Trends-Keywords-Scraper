@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-07-2022 , 08:42:26
+Last Update 10-07-2022 , 08:52:20
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hoài Linh,VP Bá Vương,Lương Xuân Trường,BTS,Pau FC,Vũ Cát Tường,Sri Lanka,Bảng xếp hạng V-League 2022,12 con giáp,U19 Việt Nam đấu với U19 Thái Lan,Thiều Bảo Trâm,Bắn pháo hoa Đà Nẵng,Luxury,Jack Wilshere,Sư phạm Kỹ thuật,ARMY,Pogba,Công Lý,Bao giờ có điểm thi THPT 2022,Phạm Hương |
+| VIETNAM | Hoài Linh,VP Bá Vương,Lương Xuân Trường,U19 Việt Nam đấu với U19 Thái Lan,BTS,Điểm tuyển sinh lớp 10 năm 2022-2023,Pau FC,Vũ Cát Tường,Sri Lanka,12 con giáp,Thiều Bảo Trâm,U19 Việt Nam đấu với U19 Thái Lan,Bảng xếp hạng V-League 2022,Bắn pháo hoa Đà Nẵng,Luxury,Jack Wilshere,Sư phạm Kỹ thuật,ARMY,Pogba,Công Lý |
 
 
 
