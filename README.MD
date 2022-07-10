@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-07-2022 , 02:26:19
+Last Update 10-07-2022 , 03:42:21
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | BTS,Pau FC,Vũ Cát Tường,12 con giáp,Sri Lanka,U19 Việt Nam đấu với U19 Thái Lan,Luxury,Jack Wilshere,Thiều Bảo Trâm,ARMY,Sư phạm Kỹ thuật,Pogba,Bao giờ có điểm thi THPT 2022,Phạm Hương,Đánh giá đề thi THPT quốc gia 2022,Shinzo Abe,Điểm chuẩn lớp 10 năm 2022 Hà Nội,Wxrdie,Arsenal,V-League |
+| VIETNAM | BTS,Pau FC,Vũ Cát Tường,12 con giáp,Sri Lanka,U19 Việt Nam đấu với U19 Thái Lan,Bắn pháo hoa Đà Nẵng,Thiều Bảo Trâm,Luxury,Jack Wilshere,ARMY,Sư phạm kỹ thuật,Pogba,Bao giờ có điểm thi THPT 2022,Phạm Hương,Đánh giá đề thi THPT quốc gia 2022,Shinzo Abe,Điểm chuẩn lớp 10 năm 2022, Hà Nội,Wxrdie,Arsenal |
 
 
 
