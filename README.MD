@@ -2,7 +2,7 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-07-2022 , 07:59:20
+Last Update 10-07-2022 , 08:27:01
 
 Country List :
  Name  | Keyword |
