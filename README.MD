@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-07-2022 , 08:38:46
+Last Update 11-07-2022 , 08:54:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Wimbledon 2022,Lee Je Hoon,Thời tiết Đà Nẵng,Petrolimex,Phạm Hương,Pham nhat vuong bi Cam xuat canh,Đáp án văn THPT quốc gia 2022,Nguyễn Quang Hải Pau FC,Jun Phạm,Xổ số Miền Nam ngày 10 tháng 7,Erling Haaland,Giá xăng hôm nay,U19 Việt Nam,Hà Nội đấu với Hải Phòng,Phạm Nhật Vượng,HAGL,Hoài Linh,Trương Bá Chi,VP Bá Vương,Gia đình hạnh phúc |
+| VIETNAM | Wimbledon 2022,Lee Je Hoon,Thời tiết Đà Nẵng,Petrolimex,Phạm Hương,Đáp án văn THPT quốc gia 2022,Jun Phạm,Nguyễn Quang Hải Pau FC,Xổ số Miền Nam ngày 10 tháng 7,Erling Haaland,Gia xang,Giá xăng hôm nay,Hà Nội đấu với Hải Phòng,Phạm Nhật Vượng,U19 Việt Nam U19 Thái Lan,HAGL,Hoài Linh,Trương Bá Chi,VP Bá Vương,Gia đình hạnh phúc |
 
 
 
