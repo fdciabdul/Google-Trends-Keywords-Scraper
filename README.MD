@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-07-2022 , 23:55:04
+Last Update 11-07-2022 , 01:10:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Djokovic,Phạm Hương,Giá xăng hôm nay,U19,HAGL,Hoài Linh,Trương Bá Chi,Lương Xuân Trường,VP Bá Vương,Sterling,Kim Tae Hee,Elena Rybakina,U19 Việt Nam,BTS,Điểm tuyển sinh lớp 10 năm 2022-2023,U19 Việt Nam,Pau FC,Hà Nội đấu với Hải Phòng,FPT Play,Vũ Cát Tường |
+| VIETNAM | Novak Djokovic,Phạm Hương,Giá xăng hôm nay,U19 Việt Nam đấu với U19 Thái Lan,Hà Nội đấu với Hải Phòng,Bóng đá hôm nay,Hoài Linh,Trương Bá Chi,Lương Xuân Trường,VP Bá Vương,Sterling,Kim Tae Hee,Elena Rybakina,U19 Việt Nam,BTS,Điểm chuẩn lớp 10 năm 2022 TPHCM,U19 Việt Nam,Pau FC,FPT Play,Bảng xếp hạng V League 2022 |
 
 
 
