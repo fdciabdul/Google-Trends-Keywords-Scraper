@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-07-2022 , 06:32:13
+Last Update 12-07-2022 , 06:52:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,Hồ Văn Cường,Bạn muốn hẹn hò,Blackpink Jennie,Ca sĩ Bằng Kiều,FPT Play,Wimbledon 2022,Lee Je Hoon,Thương ngày nắng về phần 2 tập 43,Phạm Hương,Petrolimex,Bùi Tiến Dũng,Nguyễn Quang Hải Pau FC,Hà Anh Tuấn,Quách Phú Thành,Áp thấp nhiệt đới,Erling Haaland,VIC,Bóng đá nữ Việt Nam,Đáp án văn THPT quốc gia 2022 |
+| VIETNAM | MU,Hồ Văn Cường,Bạn muốn hẹn hò,Hoa hậu Phạm Hương,Ca sĩ Bằng Kiều,Blackpink Jennie,Ngô Thanh Vân,FPT Play,Wimbledon 2022,Lee Je Hoon,Điểm chuẩn lớp 10 năm 2022-2023,Thương ngày nắng về phần 2 tập 43,Petrolimex,Phạm Hương,Bùi Tiến Dũng,Nguyễn Quang Hải Pau FC,Quách Phú Thành,Hà Anh Tuấn,Erling Haaland,Áp thấp nhiệt đới |
 
 
 
