@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-07-2022 , 11:40:32
+Last Update 13-07-2022 , 11:50:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | FPT Play,Thể thao,Euro,Cát Tường,Inter Milan,Miss Supranational 2022,Cháy chợ Đọ Bắc Ninh,Ôn Bích Hà,Koulibaly,Wanbi Tuấn Anh,Đỗ Thị Hà,Hiền Hồ,Maldives,Pau FC,Manchester United,Tỷ giá euro,Hồ Văn Cường,Ngoại hạng Anh,Chris Hemsworth,Nguyễn Thúc Thùy Tiên |
+| VIETNAM | FPT Play,Thể thao,Tỷ giá euro,Euro,Cát Tường,Inter Milan,Cháy chợ Đọ Bắc Ninh,Miss Supranational 2022,Ôn Bích Hà,Koulibaly,Đỗ Thị Hà,Hiền Hồ,Maldives,Pau FC,Manchester United,Hồ Văn Cường,Ngoại hạng Anh,Chris Hemsworth,Nguyễn Thúc Thùy Tiên,Vàng 9999 hôm nay. Giá bao nhiêu 1 chỉ |
 
 
 
