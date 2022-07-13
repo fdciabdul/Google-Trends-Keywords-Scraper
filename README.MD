@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-07-2022 , 23:57:32
+Last Update 13-07-2022 , 01:51:52
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thể thao,Chris Hemsworth,Euro,Hồ Văn Cường,Nguyễn Thúc Thùy Tiên,Tây du ký,Bạn muốn hẹn hò,Hoa hậu Phạm Hương,Twice,Ozil,Cao Thái Hà,Trần Kiều Ân,Lofi Girl,Ca sĩ Bằng Kiều,Tay vợt novak djokovic,Irina Shayk,Pitbull,Từ Hy Viên,Kim Seon Ho,Lệ Quyên |
+| VIETNAM | Thể thao,Inter Milan,Euro,Cát Tường,Hồ Văn Cường,Chris Hemsworth,Nguyễn Thúc Thùy Tiên,Tây du ký,Bạn muốn hẹn hò,Twice,Hoa hậu Phạm Hương,Ozil,Cao Thái Hà,Trần Kiều Ân,Lofi Girl,Ca sĩ Bằng Kiều,Pitbull,Irina Shayk,Nunez,Từ Hy Viên |
 
 
 
