@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-07-2022 , 16:35:47
+Last Update 13-07-2022 , 17:04:05
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thể thao,Tottenham,Sri Lanka,Siêu trăng,Ngoại hạng Anh,Cát Tường,Euro,Chainsaw Man,Ôn Bích Hà,Koulibaly,Cháy chợ Đọ Bắc Ninh,Miss Supranational 2022,Trống,Đỗ Thị Hà,Thiều Bảo Trâm,Hiền Hồ,Bảng xếp hạng Ngoại hạng anh,Xổ số miền Nam ngày 12 tháng 7,Hoa hậu Ngọc Châu Tây Ninh,CPI |
+| VIETNAM | U19 Việt Nam,Thể thao,Tottenham,Sri Lanka,Siêu trăng,Ngoại hạng Anh,Cát Tường,Euro,Chainsaw Man,Koulibaly,Ôn Bích Hà,Cháy chợ Đọ Bắc Ninh,Miss Supranational 2022,Trống,Đỗ Thị Hà,Thiều Bảo Trâm,Hiền Hồ,Bảng xếp hạng Ngoại hạng anh,Xổ số miền Nam ngày 12 tháng 7,Hoa hậu Ngọc Châu Tây Ninh |
 
 
 
