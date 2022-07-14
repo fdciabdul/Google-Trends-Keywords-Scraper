@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-07-2022 , 06:30:24
+Last Update 14-07-2022 , 06:51:26
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Santafe,Sterling,Barca,Mazda3,Lisandro Martinez,LMHT,Titanic,Lisa Blackpink,Lien minh,U19 Việt Nam,Thể thao,Tottenham,Bóng đá hôm nay,Sri Lanka,Siêu trăng,Tỷ giá euro,Koulibaly,Ngoại hạng Anh,CPI Mỹ,Cát Tường |
+| VIETNAM | Santafe,Sterling,Mazda3,Lisandro Martinez,LMHT,Lisa Blackpink,Titanic,Lien minh,Nothing Phone (1,U19 Việt Nam,Thể thao,Tottenham,Bóng đá hôm nay,Sri Lanka,Siêu trăng,Tỷ giá Euro,Barca,Koulibaly,Ngoại hạng Anh,CPI Mỹ |
 
 
 
