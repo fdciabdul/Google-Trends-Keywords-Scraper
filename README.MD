@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-07-2022 , 16:35:36
+Last Update 14-07-2022 , 17:06:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Twitter,Sterling,Hoàng hôn,Lisandro Martinez,Volodymyr Zelensky,Mazda3,LMHT,Luật sư Woo Young Woo,Lisa Blackpink,Jack,Titanic,Lien minh,Amber Heard,Santafe 2022,Bằng lái xe,Nothing Phone (1,PTIT,Angelina Jolie,Tottenham vs K-League,U19 Việt Nam |
+| VIETNAM | Twitter,Sterling,Lisandro Martinez,Volodymyr Zelensky,LMHT,Mazda3,Luật sư Woo Young Woo,Lisa Blackpink,Jack,Titanic,Lien minh,Amber Heard,Santafe 2022,Bằng lái xe,Nothing Phone (1,Angelina Jolie,Tottenham vs K-League,U19 Việt Nam,FPT Play,Thể thao |
 
 
 
