@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-07-2022 , 13:57:29
+Last Update 14-07-2022 , 14:21:46
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| IRELAND | The Open,British Open,Twitter down,Khloe Kardashian,Bastille Day,Justin Bickle,Princess Charlene Monaco,D.B. Cooper,Amy Huberman,Shane Long,The Marvels,Davide Love Island,Colm Bonnar,Bob Dylan,Penny Mordaunt,Al Porter,Becky Hill,Tottenham vs K-League XI,Paige Love Island,Quinta do Lago |
+| VIETNAM | Twitter,Sterling,Volodymyr Zelensky,Lisandro Martinez,Hoàng hôn,Mazda3,LMHT,Luật sư Woo Young Woo,Lisa Blackpink,Jack,Titanic,Santafe 2022,Amber Heard,Lien minh,Bằng lái xe,Nothing Phone (1,Tottenham vs K-League,U19 Việt Nam,FPT Play,Thể thao |
 
 
 
