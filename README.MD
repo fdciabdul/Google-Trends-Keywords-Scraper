@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-07-2022 , 08:37:13
+Last Update 14-07-2022 , 08:50:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Santafe,Sterling,Mazda3,Lisandro Martinez,LMHT,Luật sư Woo Young Woo,Lisa Blackpink,Titanic,Lien minh,Nothing Phone (1,U19 Việt Nam,Thể thao,Tottenham,Bóng đá hôm nay,Sri Lanka,Siêu trăng,Tỷ giá euro,Barca,Koulibaly,Ngoại hạng Anh |
+| VIETNAM | Santafe,Sterling,Lisandro Martinez,Mazda3,LMHT,Lisa Blackpink,Luật sư Woo Young Woo,Titanic,Lien minh,Nothing Phone (1,Tottenham vs K-League,U19 Việt Nam,Thể thao,Bóng đá hôm nay,Sri Lanka,Siêu trăng,Tỷ giá euro,Barca,Koulibaly,Thương Ngày Nắng Về phần 2 tập 45 |
 
 
 
