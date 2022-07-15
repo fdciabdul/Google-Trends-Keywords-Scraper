@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-07-2022 , 22:43:52
+Last Update 15-07-2022 , 22:52:39
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Eriksen,Truc tiep bong da,MU,Trần Sỹ Thanh,Bóng đá nữ Việt Nam,Liverpool,Chung kết U19,Miss Supranational 2022,Đáp án của Bộ đề thi THPT Quốc gia 2022,PSG,Ivana Trump,Bảng xếp hạng V-League 2022,Thiện Nhân,Thiên an,Phạm Bình Minh,ITZY,Hoang hon,Giang Còi,Canada,Cá mập |
+| VIETNAM | Eriksen,Truc tiep bong da,MU,Trần Sỹ Thanh,Đáp án chính thức của Bộ 2022,Bóng đá nữ Việt Nam,Miss Supranational 2022,Chung kết U19,PSG,Ivana Trump,Liverpool vs Crystal Palace,Bảng xếp hạng V League 2022,Thiện Nhân,Thiên an,ITZY,Hoang hon,Giang Còi,Canada,Cá mập,Twitter |
 
 
 
