@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-07-2022 , 16:22:05
+Last Update 15-07-2022 , 16:56:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,Trần Sỹ Thanh,Bóng đá nữ,Miss Supranational 2022,PSG,Ivana Trump,U19 Lào vs U19 Malaysia,Thiên an,Twitter,Đào Hồng Lan,Luật sư Woo Young Woo,Lisandro Martinez,Sterling,Tiktoker Hoàng Hôn,Barca,Jack,LMHT,Lisa (BLACKPINK,Angelina Jolie,Lien minh |
+| VIETNAM | Truc tiep bong da,MU,Trần Sỹ Thanh,Bóng đá nữ Việt Nam,Miss Supranational 2022,U19 Lào vs U19 Malaysia,PSG,Liverpool vs Crystal Palace,Ivana Trump,Đáp án Bộ Giáo dục 2022,Thiên an,Twitter,Đào Hồng Lan,Hoàng Hôn,Lisandro Martinez,Sterling,U19 lao vs U19 thai Lan,Barca,Jack,LMHT |
 
 
 
