@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-07-2022 , 08:47:25
+Last Update 15-07-2022 , 08:56:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chủ tịch Hà Nội,Vũ Đức Đam,Chung kết Miss Supranational 2022,Ivana Trump,Twitter,Đào Hồng Lan,Hoàng hôn,Tổng Kiểm toán Nhà nước,Sterling,Luật sư Woo Young Woo,Lisandro Martinez,Volodymyr Zelensky,Barca,LMHT,Jack,Lisa Blackpink,Angelina Jolie,Amber Heard,Titanic,Santafe 2022 |
+| VIETNAM | Chủ tịch Hà Nội,Vũ Đức Đam,Chung kết Miss Supranational 2022,Ivana Trump,Twitter,Đào Hồng Lan,Trần Sỹ Thanh,Hoàng Hôn,Luật sư Woo Young Woo,Sterling,Lisandro Martinez,Volodymyr Zelensky,Barca,LMHT,Jack,Lisa (BLACKPINK,Angelina Jolie,Amber Heard,Titanic,Santafe 2022 |
 
 
 
