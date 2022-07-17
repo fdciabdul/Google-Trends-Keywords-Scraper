@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-07-2022 , 23:54:53
+Last Update 17-07-2022 , 01:14:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Inter Milan,Kim Duyên,Người đàn ông bị chém lìa chân,Tottenham,Lewandowski,Cúm A,Eriksen,Ricky Martin,MacBook Air M2,Hòa Minzy,Lối nhỏ vào đời tập cuối,Hoa hậu các dân tộc Việt Nam 2022,Phim Nữ Luật Sư Woo Young Woo,Đạt G,Bảng xếp hạng V-League,Lisandro martínez,Truc tiep bong Da,MU,Thiện Nhân,Bóng đá nữ Việt Nam |
+| VIETNAM | AC Milan,Kim Duyên,Người đàn ông bị chém lìa chân,Tottenham,Lewandowski,Cúm A,Ricky Martin,MacBook Air M2,Hòa Minzy,Giá vàng hôm nay vàng 24K,Lối nhỏ vào đời tập cuối,Hoa hậu các dân tộc Việt Nam 2022,Phim Nữ Luật Sư Woo Young Woo,Bảng xếp hạng V-League,Đạt G,Lisandro martínez,Truc tiep bong Da,MU,Thiện Nhân,Bóng đá nữ Việt Nam |
 
 
 
