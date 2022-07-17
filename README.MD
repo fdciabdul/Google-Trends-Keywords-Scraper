@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-07-2022 , 07:44:44
+Last Update 17-07-2022 , 07:53:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chelsea,AC Milan,Inter Milan,Arsenal vs Everton,Phạm Băng Băng,Chelsea vs,Kim Duyên,Người đàn ông bị chém lìa chân,Tottenham,Lewandowski,Cúm A,Mister Supranational 2022,Hoa hậu các Dân tộc Việt Nam 2022,Ricky Martin,Bảng xếp hạng V-League,MacBook Air M2,Hòa Minzy,Giá vàng hôm nay vàng 24K,Cúm A triệu chứng,Xổ số miền Nam ngày 16 tháng 7 |
+| VIETNAM | Chelsea,AC Milan,Inter Milan,Arsenal vs Everton,Phạm Băng Băng,Chelsea vs,Viên Băng Nghiên,Kim Duyên,Tottenham,Người đàn ông bị chém lìa chân,Lewandowski,Hoa hậu các Dân tộc Việt Nam 2022,Cúm A,Mister Supranational 2022,Eriksen,Ricky Martin,Hòa Minzy,MacBook Air M2,Giá vàng hôm nay vàng 24K,Cúm A triệu chứng |
 
 
 
