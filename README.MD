@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-07-2022 , 09:43:14
+Last Update 17-07-2022 , 09:51:59
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chelsea,AC Milan,Inter Milan,Phạm Băng Băng,Arsenal vs Everton,Chelsea vs,Lâm Khánh Chi,Viên Băng Nghiên,Hoa hậu Kim Duyên,Kim Duyên,Tottenham,Người đàn ông bị chém lìa chân,HAGL,Lewandowski,Hoa hậu các dân tộc Việt Nam 2022,Cúm A,Mister Supranational 2022,Ricky Martin,Hòa Minzy,MacBook Air M2 |
+| VIETNAM | Chelsea,AC Milan,Phạm Băng Băng,Arsenal vs Everton,Inter Milan,Chelsea vs,Lâm Khánh Chi,Viên Băng Nghiên,Hoa hậu Kim Duyên,Kim Duyên,Người đàn ông bị chém lìa chân,Tottenham,HAGL,Cúm A triệu chứng,Hoa hậu các dân tộc Việt Nam 2022,Lewandowski,Mister Supranational 2022,Eriksen,Ricky Martin,Hòa Minzy |
 
 
 
