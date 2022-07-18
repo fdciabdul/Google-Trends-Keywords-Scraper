@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-07-2022 , 17:48:11
+Last Update 18-07-2022 , 17:56:53
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá vàng hôm nay,Chris Evans,Hồ Chí Minh,Phạm Quỳnh Anh,Chùa Biện Sơn,Nhiệt độ,Ben Affleck,Khánh Thi,Brooklyn beckham,One Piece 1054,The Idol,Dybala,Hà Thanh Xuân,Bão Mặt trời,Nhiệt độ Hà Nội,Chelsea,Arsenal,Phạm Băng Băng,Lâm Khánh Chi,AC Milan |
+| VIETNAM | Giá vàng hôm nay,Chris Evans,Hồ Chí Minh,Phạm Quỳnh Anh,Chùa Biện Sơn,Jupiter Finn,Nhiệt độ,Ben Affleck,Khánh Thi,Brooklyn beckham,Từ Hy Viên,One Piece 1054,The Idol,Lâm Tâm Như,Dybala,Bão Mặt trời,Hà Thanh Xuân,Nhiệt độ Hà Nội,Chelsea,Arsenal |
 
 
 
