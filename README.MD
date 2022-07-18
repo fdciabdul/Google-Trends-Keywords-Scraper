@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-07-2022 , 09:49:04
+Last Update 18-07-2022 , 09:58:44
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá vang hôm nay,Chris Evans,Hồ Chí Minh,Xổ số miền Nam ngày 17 tháng 7,Khánh Thi,Phạm Quỳnh Anh,Nhiệt độ,Lisa (BlackPink,Ben Affleck,Chelsea,Arsenal,Phạm Băng Băng,Lâm Khánh Chi,AC Milan,Viên Băng Nghiên,Arsenal vs Everton,Inter Milan,Chelsea vs,Mạnh Trường,Kim Duyên |
+| VIETNAM | Giá vàng SJC,Chris Evans,Hồ Chí Minh,Jupiter Finn,Khánh Thi,Phạm Quỳnh Anh,Nhiệt độ,Ben Affleck,Navi vs Faze,Chelsea,Arsenal,Phạm Băng Băng,Lâm Khánh Chi,AC Milan,Viên Băng Nghiên,Arsenal vs Everton,Inter Milan,Chelsea vs,Mạnh Trường,Kim Duyên |
 
 
 
