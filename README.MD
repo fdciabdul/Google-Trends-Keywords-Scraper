@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-07-2022 , 08:36:05
+Last Update 18-07-2022 , 08:52:09
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chris Evans,Hồ Chí Minh,Vàng 9999 hôm nay,Jupiter Finn,Xổ số miền Nam ngày 17 tháng 7,Nhiệt độ,Phạm Quỳnh Anh,Khánh Thi,Ben Affleck,Lisa (BlackPink,Chelsea,Arsenal,Phạm Băng Băng,Lâm Khánh Chi,AC Milan,Viên Băng Nghiên,Arsenal vs Everton,Inter Milan,Chelsea vs,Mạnh Trường |
+| VIETNAM | Giá vang hôm nay,Chris Evans,Hồ Chí Minh,Xổ số miền Nam ngày 17 tháng 7,Khánh Thi,Phạm Quỳnh Anh,Nhiệt độ,Lisa (BlackPink,Ben Affleck,Chelsea,Arsenal,Phạm Băng Băng,Lâm Khánh Chi,AC Milan,Viên Băng Nghiên,Arsenal vs Everton,Inter Milan,Chelsea vs,Mạnh Trường,Kim Duyên |
 
 
 
