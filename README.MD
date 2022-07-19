@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-07-2022 , 13:27:58
+Last Update 19-07-2022 , 13:57:15
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU vs,V-League,Thương ngày nắng về phần 2 tập 46,Giang Còi,Triệu chứng cúm A,Bánh trung thu,Zinchenko,Hoàng Thùy Linh,Thạch Thu Thảo,Đặng Văn Lâm,Giải bóng đá Ngoại hạng Anh,Đấu trí,Dortmund,Jennie (BlackPink,Lịch thi đấu V-League 2022,Bài hát,Weir Sukollawat,Giá vàng hôm nay,Chùa Biện Sơn,Phạm Quỳnh Anh |
+| VIETNAM | MU vs,V.League,Thương ngày nắng về phần 2 tập 46,Giang Còi,Triệu chứng cúm A,Bánh trung thu,V-League 2022,Zinchenko,Hoàng Thùy Linh,Đặng Văn Lâm,Đấu trí,Giải bóng đá Ngoại hạng Anh,Thạch Thu Thảo,Dortmund,Jennie (BlackPink,Bài hát,Weir Sukollawat,Giá vàng hôm nay,Chùa Biện Sơn,Phạm Quỳnh Anh |
 
 
 
