@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-07-2022 , 06:29:59
+Last Update 19-07-2022 , 06:49:53
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thương ngày nắng về phần 2 tập 46,Triệu chứng cúm A,Bánh trung thu,Giải bóng đá Ngoại hạng Anh,Thạch Thu Thảo,Zinchenko,Hoàng Thùy Linh,Dortmund,Đấu trí,Giá vàng hôm nay,Chùa Biện Sơn,Ben Affleck,Phạm Quỳnh Anh,Chris Evans,Hồ Chí Minh,Từ Hy Viên,Bão Mặt trời,Lisa (Blackpink,Brooklyn beckham,Nhiệt độ |
+| VIETNAM | Triệu chứng cúm A,Bánh trung thu,Thuong ngay nang ve tap 46 phần 2,Giải bóng đá Ngoại hạng Anh,Thạch Thu Thảo,Zinchenko,Hoàng Thùy Linh,Dortmund,Đấu trí,Giá vàng hôm nay,Chùa Biện Sơn,Phạm Quỳnh Anh,Ben Affleck,Chris Evans,Nhiệt độ,Lena,Hồ Chí Minh,Bão Mặt trời,Từ Hy Viên,Lisa (Blackpink |
 
 
 
