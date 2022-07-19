@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-07-2022 , 00:47:17
+Last Update 19-07-2022 , 03:15:42
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Triệu chứng cúm a,Bánh trung thu,Giá vàng hôm nay,Chris Evans,Hồ Chí Minh,Phạm Quỳnh Anh,Chùa Biện Sơn,Jupiter Finn,Nhiệt độ,Ben Affleck,Khánh Thi,Brooklyn beckham,Từ Hy Viên,One Piece 1054,Xổ số miền Nam ngày 17 tháng 7,Bão Mặt trời,The Idol,Lâm Tâm Như,Dybala,Hà Thanh Xuân |
+| VIETNAM | Triệu chứng cúm A,Thương ngày nắng về phần 2 tập 46,Bánh trung thu,Giải bóng đá Ngoại hạng Anh,Dortmund,Đấu trí,Giá vàng hôm nay,Ben Affleck,Chris Evans,Chùa Biện Sơn,Phạm Quỳnh Anh,Hồ Chí Minh,Nhiệt độ,Brooklyn beckham,Từ Hy Viên,Khánh Thi,One Piece 1054,Bão Mặt trời,Xổ số miền Nam ngày 17 tháng 7,Midu |
 
 
 
