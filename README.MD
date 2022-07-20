@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-07-2022 , 11:38:49
+Last Update 20-07-2022 , 11:47:41
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Barca,Raphinha,Kim Garam,CSGT,Tô Văn Lai,Neu,Kim Go Eun,T-ara,Virus Marburg,Tịnh thất Bồng Lai,Jack,MU vs,Nam Định đấu với Viettel,Giang Còi,Thương ngày nắng về phần 2 tập 46,V.League,UFM,Triệu chứng cúm a,Xổ số miền Bắc hôm quả,Đặng Văn Lâm |
+| VIETNAM | Barca,PSG,Raphinha,Kim Garam,CSGT,HAGL,Neu,Kim Go Eun,T-ara,Virus Marburg,Tịnh thất Bồng Lai,Thich Minh phap,Jack,MU vs,V.League,Giang Còi,Thương ngày nắng về phần 2 tập 46,UFM,Triệu chứng cúm a,Xổ số miền Bắc hôm quả |
 
 
 
