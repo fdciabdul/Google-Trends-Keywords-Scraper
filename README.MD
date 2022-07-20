@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-07-2022 , 19:45:39
+Last Update 20-07-2022 , 19:54:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,Trầm Vụn Hương Phai,Barca,HAGL,Raphinha,Kim Garam,CSGT,Tịnh thất Bồng Lai,Neu,Kim Go Eun,T-ara,EAFF,Hoàng Anh Gia Lai,Virus Marburg,Aston Villa,Thich Minh phap,Hà Nội đấu với Sài Gòn,Jack,V-League,Thương ngày nắng về phần 2 tập 46 |
+| VIETNAM | PSG đấu với Kawasaki,Trầm Vụn Hương Phai,Barca,HAGL,Raphinha,Kim Garam,CSGT,Tịnh thất Bồng Lai,Neu,Kim Go Eun,T-ara,EAFF,Hoàng Anh Gia Lai,Virus Marburg,Aston Villa,Thich Minh phap,V-League,Hà Nội đấu với Sài Gòn,Jack,Thương ngày nắng về phần 2 tập 46 |
 
 
 
