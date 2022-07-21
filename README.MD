@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-07-2022 , 10:36:25
+Last Update 21-07-2022 , 10:50:15
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay,Nguyễn Võ Quỳnh Trang,Chelsea,One Punch Man,Man City,Woo Young Woo,Teams,Arsenal,Kellie,Bayern Munich,Hoài Linh,August Vachiravit,Phạm Quỳnh Anh,Thảo Nhi Lê,Ivana Trump,Vespa Justin Bieber,Manchester City,Everton,BTS Jimin,Kim Seon Ho |
+| VIETNAM | Giá xăng hôm nay,Nguyễn Võ Quỳnh Trang,One Punch Man,Chelsea,Man City,Woo Young Woo,Teams,Arsenal,Kellie,Bayern Munich,Hoài Linh,Petrolimex,Trần Tuấn Anh,Phạm Quỳnh Anh,Thảo Nhi Lê,Ivana Trump,Vespa Justin Bieber,Manchester City,Everton,Kim Seon Ho |
 
 
 
