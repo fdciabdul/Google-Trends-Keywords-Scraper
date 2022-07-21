@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-07-2022 , 00:56:51
+Last Update 21-07-2022 , 03:12:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | BTS Jimin,PSG,FF,Trầm Vụn Hương Phai,Barca,Raphinha,Kim Garam,CSGT,Tịnh thất Bồng Lai,Neu,Kim Go Eun,T-ara,EAFF,Thương ngày nắng về phần 2 tập 48,Học viện Chính sách và Phát triển,Virus Marburg,Aston Villa,Thich Minh phap,Hà Nội đấu với Sài Gòn,Jack |
+| VIETNAM | Giá xăng hôm nay,Man City,Nguyễn Võ Quỳnh Trang,Bayern Munich,August Vachiravit,BTS Jimin,Paris Saint-Germain,PSG,FF,Trầm Vụn Hương Phai,Barca,Kim Garam,Raphinha,CSGT,Cải lương,ROG Phone 6 Pro,Tịnh thất Bồng Lai,Bisexual,Thương ngày nắng về phần 2 tập 48,Neu |
 
 
 
