@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-07-2022 , 22:35:13
+Last Update 21-07-2022 , 22:46:59
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool,Giá xăng hôm nay,Nguyễn Võ Quỳnh Trang,One Punch Man,Man City,Chelsea,Woo Young Woo,Teams,Arsenal,Lê Minh Khái,Thám tử lừng danh Conan: Nàng dâu Halloween,Kellie,Bayern Munich,August Vachiravit,Petrolimex,Vespa Justin Bieber,Hoài Linh,Phạm Quỳnh Anh,Ivana Trump,Thảo Nhi Lê |
+| VIETNAM | Liverpool,Xổ số miền Nam ngày 21 tháng 7,Giá xăng Hôm nay,Nguyễn Võ Quỳnh Trang,One Punch Man,Man City,Chelsea,Woo Young Woo,Teams,Arsenal,Thám tử lừng danh Conan: Nàng dâu Halloween,Kellie,Bayern Munich,August Vachiravit,Petrolimex,Vespa Justin Bieber,Hoài Linh,Trần Tuấn Anh,Ivana Trump,Phạm Quỳnh Anh |
 
 
 
