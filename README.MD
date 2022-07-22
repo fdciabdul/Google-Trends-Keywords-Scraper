@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-07-2022 , 09:39:58
+Last Update 22-07-2022 , 09:49:51
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool,Trương Thị Mai,Lâm Chí Dĩnh,Đăng ký nguyện vọng 2022,Đại học Hà Nội,Trương Bá Chi,Shuhua,Nottingham Forest,New Jeans HYBE,Ricky Martin,Giá xăng hôm nay,Nguyễn Võ Quỳnh Trang,One Punch Man,Man City,Chelsea,Woo Young Woo,Thám tử lừng danh Conan: Nàng dâu Halloween,Teams,Arsenal,Võ Văn Thưởng |
+| VIETNAM | Liverpool,Lâm Chí Dĩnh,Đăng ký nguyện vọng 2022,Đại học Hà Nội,Trương Bá Chi,Nottingham Forest,Shuhua,Ricky Martin,Thi tốt nghiệp,Giá xăng hôm nay,Nguyễn Võ Quỳnh Trang,One Punch Man,Trương Thị Mai,Man City,Chelsea,Woo Young Woo,Thám tử lừng danh Conan: Nàng dâu Halloween,Teams,Arsenal,Vespa Justin Bieber |
 
 
 
