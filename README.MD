@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-07-2022 , 16:26:56
+Last Update 23-07-2022 , 16:54:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,Sông Lam Nghệ An đấu với Hải Phòng,Chó Pitbull,Nguyễn Anh Tuấn,Juventus,Dortmund,Park Seo Joon,Selena Gomez,HLV Park Hang-seo,Xem trực tiếp bóng đá,Zinchenko,John Wick 4,The Gray Man,Jenny huynh,PSG vs Urawa Reds,Hồng Diễm,Nhã Phương,Tra cứu điểm thi THPT Quốc gia 2022,Liverpool,Lâm Chí Dĩnh |
+| VIETNAM | MU,Sông Lam Nghệ An đấu với Hải Phòng,Chó Pitbull,Nguyễn Anh Tuấn,Juventus,Xem trực tiếp bóng đá,Bình Định đấu với Đà Nẵng,Park Seo Joon,Selena Gomez,Dortmund,Vụ chặt đầu ở Hải Phòng,HLV Park Hang-seo,John Wick 4,Zinchenko,The Gray Man,Đậu mùa khỉ,Jenny huynh,PSG vs Urawa Reds,Real vs Barca,Hồng Diễm |
 
 
 
