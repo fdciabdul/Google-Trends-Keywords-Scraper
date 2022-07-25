@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-07-2022 , 07:46:12
+Last Update 25-07-2022 , 07:55:07
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sergey Brin,Tăng Thanh Hà,6 người chết ở Bình Dương,Black Panther: Wakanda Forever,Giá vàng hôm nay bao nhiêu 1 chỉ,Lịch thi đấu V-League 2022,Victoria Beckham,Ngô Thanh Vân,Trương Ngọc Ánh,Màn hình LED,Dấu hiệu có thai,THPT quốc gia,Đại học Sư phạm Hà Nội,Đại học Hà Nội,Học viện Tài chính,Real Madrid,PSG,Pau FC,Bảng xếp hạng V-League,Arsenal vs Chelsea |
+| VIETNAM | Sergey Brin,Tăng Thanh Hà,6 người chết ở Bình Dương,Black Panther: Wakanda Forever,Giá vàng hôm nay bao nhiêu 1 chỉ,Lịch thi đấu V-League 2022,Ngô Thanh Vân,Victoria Beckham,Trương Ngọc Ánh,Dấu hiệu có thai,THPT quốc gia,Điểm chuẩn Đại học công nghiệp,Đại học Hà Nội,Học viện Tài chính,Real Madrid,Đại học Khoa học xã hội và nhân văn,PSG,Pau FC,Bảng xếp hạng V-League,Arsenal vs Chelsea |
 
 
 
