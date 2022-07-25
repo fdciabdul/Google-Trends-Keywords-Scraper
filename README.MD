@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-07-2022 , 04:15:23
+Last Update 25-07-2022 , 05:03:46
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tăng Thanh Hà,Nicole Shanahan,Giá vàng hôm nay bao nhiêu 1 Chỉ,Black Panther: Wakanda Forever,6 người chết ở Bình Dương,Victoria Beckham,Kỳ Duyên,Trương Ngọc Ánh,THPT quốc gia,Hồng Lĩnh Hà Tĩnh đấu với Hà Nội,Đại học Hà Nội,Pau FC,PSG,Bảng xếp hạng V-League,Arsenal vs Chelsea,Đại học sư phạm Hà Nội,Đại học Khoa học Xã hội và Nhân văn,Sở Giáo dục và Đào tạo,Đại học Thủy lợi,HUTECH |
+| VIETNAM | Nicole Shanahan,Tăng Thanh Hà,Giá vàng hôm nay bao nhiêu 1 Chỉ,Black Panther: Wakanda Forever,6 người chết ở Bình Dương,Lịch thi đấu V-League 2022,Victoria Beckham,Kỳ Duyên,Màn hình LED,Trương Ngọc Ánh,Ngô Thanh Vân,THPT quốc gia,Đại học Hà Nội,PSG,Pau FC,Bảng xếp hạng V-League,Đại học Quốc gia Hà Nội,Arsenal vs Chelsea,Đại học sư phạm Hà Nội,Đại học Sư phạm Hà Nội điểm chuẩn |
 
 
 
