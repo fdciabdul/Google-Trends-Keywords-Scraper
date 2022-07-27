@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-07-2022 , 21:40:10
+Last Update 27-07-2022 , 21:49:10
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hòa Minzy,Suzy,Hộ chiếu mới,Thành cổ Quảng Trị,Real Madrid,27-7,Barca vs Juventus,Fed tăng lãi suất,Ngày Thương binh Liệt sỹ,Lê Phương,Hoài Linh,Eriksen,Otis,SK Group,Song Hye Kyo,Britney Spears,Miu lê,Hà Trí Quang,Lisandro Martinez,Điểm sàn là gì |
+| VIETNAM | Hòa Minzy,Suzy,Hộ chiếu mới,Thành cổ Quảng Trị,Real Madrid,27-7,Barca vs Juventus,Fed tăng lãi suất,Ngày Thương binh Liệt sỹ,Lê Phương,Hoài Linh,Eriksen,Otis,SK Group,Song Hye Kyo,Britney Spears,Miu lê,Hà Trí Quang,Điểm sàn là gì,Lisandro Martinez |
 
 
 
