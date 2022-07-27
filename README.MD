@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-07-2022 , 15:40:15
+Last Update 27-07-2022 , 15:51:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Real Madrid,Barca vs Juventus,27-7,Ngày Thương binh - Liệt sỹ,Lê Phương,Eriksen,FED tăng lãi suất,Hoài Linh,Otis,Song Hye Kyo,SK Group,Miu lê,Hà Trí Quang,Britney Spears,Paul Pogba,Điểm sàn là gì,Nhà máy in tiền đầu tiên của Việt Nam,Hoa hậu Kim Duyên,Đạo diễn Lê Hoàng,Trấn Thành, Hari Won |
+| VIETNAM | Real Madrid,27-7,Barca vs Juventus,Ngày Thương binh - Liệt sỹ,Lê Phương,Fed tăng lãi suất,Eriksen,Hoài Linh,Otis,Song Hye Kyo,SK Group,Miu lê,Hà Trí Quang,Britney Spears,Ngày 27 tháng 7 năm 2022,Paul Pogba,Điểm sàn là gì,Chi Dân,Hoa hậu Kim Duyên,Đạo diễn Lê Hoàng |
 
 
 
