@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-07-2022 , 04:39:28
+Last Update 27-07-2022 , 05:18:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | 27/7,Barca vs Juventus,Christian Eriksen,Lê Phương,Song Hye Kyo,Ngày Thương binh-Liệt sỹ,Paul Pogba,Hoa hậu Kim Duyên,Đạo diễn Lê Hoàng,Nhà máy in tiền đầu tiên của Việt Nam,Trấn Thành, Hari Won,Irene,HLV Park Hang-seo,Shark Tank,Big Mouth,Lưu Diệc Phi,Nhâm Mạnh Dũng,Vios 2023,Huỳnh Kesley Alves,PSG |
+| VIETNAM | Real Madrid,27/7,Barca vs Juventus,Ngày Thương binh-Liệt sỹ,Eriksen,Hoài Linh,Lê Phương,Song Hye Kyo,Fed tăng lãi suất,Paul Pogba,Hoa hậu Kim Duyên,Đạo diễn Lê Hoàng,Nhà máy in tiền đầu tiên của Việt Nam,Trấn Thành, Hari Won,Pháp sư Tịnh Không viên tịch,Irene,HLV Park Hang-seo,Shark Tank,Big Mouth,Lưu Diệc Phi |
 
 
 
