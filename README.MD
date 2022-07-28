@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-07-2022 , 16:15:01
+Last Update 28-07-2022 , 16:54:39
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool,Nguyễn Quang Hải,Điều ước cuối của tù nhân 2037,Cuộc sống thượng lưu,Hộ chiếu mới,World Cup 2022,Team building Cửa Lò,Trầm Vụn Hương Phai tập 18,Xem phim Nữ luật sư kỳ lạ,Khúc tráng ca hòa bình,Hòa Minzy,Hứa Khải,Tháng cô hồn,Luis Suarez,Kasper Schmeichel,Suzy,Seo Ye Ji,AC Milan,Lien minh,Fed tăng lãi suất tháng 7 |
+| VIETNAM | Liverpool,Nguyễn Quang Hải,Điều ước cuối của tù nhân 2037,Cuộc sống thượng lưu,Team building Cửa Lò,Hộ chiếu mới,World Cup 2022,Xem phim Nữ luật sư kỳ lạ,Tháng cô hồn,Khúc tráng ca hòa bình,Hòa Minzy,Hứa Khải,Luis Suarez,Kasper Schmeichel,Suzy,Seo Ye Ji,Lien minh,Fed tăng lãi suất tháng 7,Philippines,RTX 3090 |
 
 
 
