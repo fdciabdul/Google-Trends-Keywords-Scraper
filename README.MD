@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-07-2022 , 04:00:46
+Last Update 28-07-2022 , 04:51:32
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool,Điều ước cuối của tù nhân 2037,Hòa Minzy,Hộ chiếu mới,Fed tăng lãi suất tháng 7,Suzy,LMHT,AC Milan,Luis Suarez,Thành cổ Quảng Trị,Philippines,Kasper Schmeichel,Real Madrid,27-7,Barca vs Juventus,Fed tăng lãi suất,Ngày Thương binh - Liệt sỹ,Hoài Linh,Eriksen,Otis |
+| VIETNAM | Liverpool,Nguyễn Quang Hải,Điều ước cuối của tù nhân 2037,Hòa Minzy,Hộ chiếu mới,Suzy,LMHT,Luis Suarez,Thành cổ Quảng Trị,Philippines,Khúc tráng ca hòa bình,Kasper Schmeichel,Real Madrid,27-7,Barca vs Juventus,Fed tăng lãi suất,Ngày Thương binh - Liệt sỹ,Lê Phương,Hoài Linh,Eriksen |
 
 
 
