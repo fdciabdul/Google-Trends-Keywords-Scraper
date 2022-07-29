@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-07-2022 , 14:39:49
+Last Update 29-07-2022 , 14:48:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Vu Lan báo hiếu,TP.HCM đấu với Hải Phòng,Lưu Diệc Phi,Lê Dương Bảo Lâm,Fromis_9,Chồng cũ vợ cũ người yêu cũ tập 27,Lisandro martínez,Hoàng Dũng,Tai nạn Hà Đông,Chó pitbull,Yoko Shimada,Team building Cửa Lò,Liverpool,Điều ước cuối của tù nhân 2037,Nguyễn Quang Hải,World Cup 2022,Hộ chiếu mới,Dân chơi không sợ con rơi,Xem phim Nữ luật sư kỳ lạ,LMHT |
+| VIETNAM | Vu Lan báo hiếu,V.League,TP.HCM đấu với Hải Phòng,Lưu Diệc Phi,Lê Dương Bảo Lâm,Chồng cũ vợ cũ người yêu cũ tập 27,Fromis_9,Đà Nẵng đấu với Nam Định,Lisandro martínez,Hoàng Dũng,Tai nạn Hà Đông,Chó pitbull,Yoko Shimada,Shawn Mendes,Team building Cửa Lò,Liverpool,Điều ước cuối của tù nhân 2037,Nguyễn Quang Hải,World Cup 2022,Hộ chiếu mới |
 
 
 
