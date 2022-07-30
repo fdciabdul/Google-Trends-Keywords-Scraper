@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-07-2022 , 14:41:12
+Last Update 30-07-2022 , 14:49:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU vs Atletico,Arsenal,Lich thi dau bong da,Shakira,Huấn Hoa Hồng,Angelina Jolie,Neu,Tuyên Huyên,BTS Jungkook,Hồ Ngọc Hà,V.League,Xăng tăng giá,Big Mouth,Siêu cúp Anh,Play Together,V.League,TP.HCM đấu với Hải Phòng,Vu lan báo hiếu,MoMo,Lê Dương Bảo Lâm |
+| VIETNAM | MU vs atm,Arsenal,Lich thi dau bong da,Huấn Hoa Hồng,Shakira,Angelina Jolie,Neu,Tuyên Huyên,BTS Jungkook,Hồ Ngọc Hà,V-League,Xăng tăng giá,Ligue 2,U18 nữ Đông Nam Á 2022,Big Mouth,Siêu cúp Anh,Play Together,V-League,TP.HCM đấu với Hải Phòng,Vu lan báo hiếu |
 
 
 
