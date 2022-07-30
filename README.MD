@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-07-2022 , 03:12:43
+Last Update 30-07-2022 , 04:11:03
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay 29/7,Play Together,Big Mouth,TP.HCM đấu với Hải Phòng,V-League,Siêu cúp Anh,Vu Lan báo hiếu,Lưu Diệc Phi,Vu Lan,Lê Dương Bảo Lâm,Hoàng Dũng,Chồng cũ vợ cũ người yêu cũ tập 27,Fromis_9,Đà Nẵng đấu với Nam Định,Lisandro martínez,Tai nạn Hà Đông,Yoko Shimada,Shawn Mendes,Chó pitbull,Tháng cô hồn kiêng gì |
+| VIETNAM | Giá xăng hôm nay 29/7,Angelina Jolie,Play Together,Big Mouth,TP.HCM đấu với Hải Phòng,Siêu cúp Anh,V-League,Vu Lan báo hiếu,Lưu Diệc Phi,Vu Lan,Lê Dương Bảo Lâm,Hoàng Dũng,Ready For Love,Chồng cũ vợ cũ người yêu cũ tập 27,Fromis_9,Đà Nẵng đấu với Nam Định,Liên minh siêu thú DC,Lisandro martínez,Tai nạn Hà Đông,Yoko Shimada |
 
 
 
