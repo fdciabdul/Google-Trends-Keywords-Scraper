@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-07-2022 , 10:44:02
+Last Update 30-07-2022 , 10:52:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lich thi dau bong da,Angelina Jolie,Shakira,Huấn Hoa Hồng,BTS Jungkook,V.League,Big Mouth,Play Together,Siêu cúp Anh,TP.HCM đấu với Hải Phòng,V-League,MoMo,Vu Lan báo hiếu,Vu Lan,Lê Dương Bảo Lâm,Vision,Hoàng Dũng,Ready For Love,Chồng cũ vợ cũ người yêu cũ tập 27,Đà Nẵng đấu với Nam Định |
+| VIETNAM | Lich thi dau bong da,Angelina Jolie,Huấn Hoa Hồng,Shakira,BTS Jungkook,V.League,MU vs Atletico,Big Mouth,Play Together,Siêu cúp Anh,TP.HCM đấu với Hải Phòng,V-League,MoMo,Vu Lan báo hiếu,Vu Lan,Lê Dương Bảo Lâm,Vision,Hoàng Dũng,Ready For Love,Chồng cũ vợ cũ người yêu cũ tập 27 |
 
 
 
