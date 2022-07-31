@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-07-2022 , 01:44:21
+Last Update 31-07-2022 , 03:29:01
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bayern Munich,MC,Truc tiep bong da,MU vs atm,Arsenal,Lich thi dau bong da,Bình Dương đấu với Bình Định,Huấn Hoa Hồng,Shakira,Neu,90,Tuyên Huyên,BTS Jungkook,Hồ Ngọc Hà,V-League,Hoa khôi bóng chuyền Kim Huệ,U18 nữ Đông Nam Á 2022,Xăng tăng, giá,Liverpool đấu với Man City,Big Mouth |
+| VIETNAM | Lịch Bóng đá hôm nay,Bayern Munich,MC,Miss Universe Thailand 2022,Truc tiep bong da,MU vs atm,Arsenal,Dân chơi không sợ con rơi,Lich thi dau bong da,Bình Dương đấu với Bình Định,Huấn Hoa Hồng,Shakira,Neu,90,Tuyên Huyên,Hoa khôi bóng chuyền Kim Huệ,BTS Jungkook,Hồ Ngọc Hà,U18 nữ Đông Nam Á 2022,Xăng tăng giá |
 
 
 
