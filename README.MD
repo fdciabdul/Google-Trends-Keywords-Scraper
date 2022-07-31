@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-07-2022 , 15:37:59
+Last Update 31-07-2022 , 15:48:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Mu,Bayern Munich,Man utd,Thanh Hóa đấu với Viettel,U16 Việt Nam,Real vs Juventus,MC,Miss Universe Thailand 2022,Quan Hiểu Đồng,Đài Loan,Cướp tiệm vàng ở Huế,Hoàng Thùy,Mâu Thủy,Liverpool đấu với Man City,Truc tiep bong da,Pau FC,MU vs atm,Arsenal đấu với Sevilla,Lee Jong Suk,Dân chơi không sợ con rơi |
+| VIETNAM | Bayern Munich,Đài Loan,U16 Việt Nam,Real vs Juventus,Cướp tiệm vàng ở Huế,MC,Miss Universe Thailand 2022,Quan Hiểu Đồng,Hoàng Thùy,Mâu Thủy,Liverpool đấu với Man City,Truc tiep bong da,MU,Pau FC,Arsenal đấu với Sevilla,Lee Jong Suk,Dân Chơi Không Sợ Con Rơi,Thanh Hóa đấu với Viettel,Lich thi dau bong da,Bình Dương đấu với Bình Định |
 
 
 
