@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-08-2022 , 05:00:15
+Last Update 01-08-2022 , 05:56:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,Liverpool vs Strasbourg,Hiền Hồ,Trịnh Sảng,Manchester United,MU,Miss Fitness Vietnam 2022,Bayern Munich,Phí Ngọc Hưng,Zalo thu phí,Cướp tiệm vàng ở Huế,Thanh Hóa đấu với Viettel,Đài Loan,U16 Việt Nam,Real vs Juventus,Tahith Chong,MC,Quan Hiểu Đồng,Mâu Thủy,Miss Universe Thailand 2022 |
+| VIETNAM | PSG,Liverpool vs Strasbourg,Trịnh Sảng,Hiền Hồ,MU,MU vs,Zalo thu phí,Miss Fitness Vietnam 2022,Phí Ngọc Hưng,Bayern Munich,Cướp tiệm vàng ở Huế,Thanh Hóa đấu với Viettel,U16 Việt Nam,Đài Loan,Tahith Chong,Real vs Juventus,MC,Mâu Thủy,Quan Hiểu Đồng,Miss Universe Thailand 2022 |
 
 
 
