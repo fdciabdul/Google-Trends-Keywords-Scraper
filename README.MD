@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-08-2022 , 12:20:17
+Last Update 01-08-2022 , 13:10:07
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Gia xang hom nay,PSG,Kosovo,VETC,Petrolimex,Trần Kiều Ân,Play Together VNG,Liverpool vs Strasbourg,Nguyễn Trần Khánh Vân,Hiệu trưởng cầm quyền trượng,Lý Nhã Kỳ,Hiền Hồ,Bill Russell,Quốc ca,Lee Nguyễn,Truc tiep bong da,Big Mouth,MU,MU vs,Zalo thu phí |
+| VIETNAM | Gia xang hom nay,PSG,Kosovo,VETC,Petrolimex,Play Together VNG,Liverpool vs Strasbourg,Nguyễn Trần Khánh Vân,Hiệu trưởng cầm quyền trượng,Lý Nhã Kỳ,Hiền Hồ,Bill Russell,Lee Nguyễn,Quốc ca,Hoài Lâm,Big Mouth,MU,Zalo thu phí,MU vs,Miss Fitness Vietnam 2022 |
 
 
 
