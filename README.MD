@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-08-2022 , 17:48:34
+Last Update 01-08-2022 , 17:57:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay,PSG,Kosovo,VETC,Hiệu trưởng cầm quyền trượng,Petrolimex,Trần Kiều Ân,Nguyễn Trần Khánh Vân,Lương Thế Thành,Cháy quán karaoke,Liverpool vs Strasbourg,Play Together VNG,Bill Russell,Lee Nguyễn,Lý Nhã Kỳ,Hiền Hồ,ePass,Hoài Lâm,Thương ngày nắng về phần 2 tập 52,Quốc ca |
+| VIETNAM | Nồng độ cồn trong máu,Giá xăng hôm nay,PSG,Kosovo,VETC,Hiệu trưởng cầm quyền trượng,Petrolimex,Trần Kiều Ân,Lương Thế Thành,Nguyễn Trần Khánh Vân,Cháy quán karaoke,Bill Russell,Liverpool vs Strasbourg,Play Together VNG,Lee Nguyễn,Lý Nhã Kỳ,Hiền Hồ,ePass,Hoài Lâm,Thương ngày nắng về phần 2 tập 52 |
 
 
 
