@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-08-2022 , 23:56:56
+Last Update 02-08-2022 , 01:58:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nồng độ cồn trong máu,Giá xăng hôm nay,PSG,Kosovo,Cháy quán karaoke,VETC,Hiệu trưởng cầm quyền trượng,Petrolimex,Thương ngày nắng về phần 2 tập 52,Lương Thế Thành,Bill Russell,Liverpool vs Strasbourg,Lee Nguyễn,Play Together VNG,Lý Nhã Kỳ,Hoài Lâm,Hiền Hồ,Quốc ca,Truong my nhan,Paris saint germain |
+| VIETNAM | Amber Heard,Thuong ngay nang ve tap 52 phần 2,Nồng độ cồn trong máu,Giá xăng hôm nay,PSG,Kosovo,Cháy quán karaoke,VETC,Hiệu trưởng cầm quyền trượng,Petrolimex,Lương Thế Thành,Lee Nguyễn,Bill Russell,Liverpool vs Strasbourg,Play Together VNG,Hoài Lâm,Lý Nhã Kỳ,Hiền Hồ,Quốc ca,Paris saint germain |
 
 
 
