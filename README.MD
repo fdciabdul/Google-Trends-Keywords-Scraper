@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-08-2022 , 13:09:12
+Last Update 02-08-2022 , 13:50:01
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Samsung S22,Nguyễn Văn Lập,Pelosi,Hoài Linh,Amber Heard,Nồng độ cồn trong máu,Steam Deck,Tru Tiên,Erik,BTS, J-Hope,Hộ chiếu mới,Jisoo Blackpink,Giá xăng hôm nay,PSG,Cháy quán karaoke,Thương ngày nắng về phần 2 tập 52,Kosovo,Yeye Nhật Hạ,Lương Thế Thành,VETC |
+| VIETNAM | Samsung S22,Nguyễn Văn Lập,Pelosi,Hoài Linh,Amber Heard,Hộ chiếu mới,Nồng độ cồn trong máu,Tru Tiên,Steam Deck,Erik,BTS, J-Hope,Jisoo Blackpink,Giá xăng hôm nay,PSG,Cháy quán karaoke,Yeye Nhật Hạ,Thương ngày nắng về phần 2 tập 52,Kosovo,VETC,Hiệu trưởng cầm quyền trượng |
 
 
 
