@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-08-2022 , 06:38:09
+Last Update 02-08-2022 , 06:54:10
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Amber Heard,Nồng độ cồn trong máu,Thiện Nhân,Nguyễn Văn Lập,Erik,Steam Deck,Giá xăng hôm nay,PSG,Cháy quán karaoke,Kosovo,Thương ngày nắng vềphần 2 tập 52,VETC,Hiệu trưởng cầm quyền trượng,Lương Thế Thành,Petrolimex,Lee Nguyễn,Hoài Lâm,Bill Russell,Liverpool vs Strasbourg,Play Together VNG |
+| VIETNAM | Hoài Linh,Amber Heard,Nồng độ cồn trong máu,Nguyễn Văn Lập,Thiện Nhân,Erik,Steam Deck,Giá xăng hôm nay,PSG,Cháy quán karaoke,Kosovo,Cristiano Ronaldo,Lương Thế Thành,VETC,Hiệu trưởng cầm quyền trượng,Yeye Nhật Hạ,Petrolimex,Lee Nguyễn,Hoài Lâm,Bill Russell |
 
 
 
