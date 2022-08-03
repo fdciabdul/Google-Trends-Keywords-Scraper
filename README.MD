@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-08-2022 , 15:43:10
+Last Update 03-08-2022 , 15:55:46
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thất tịch,BBC,U16 Đông Nam Á,Á hậu Kim Duyên,Hòa Minzy,Nhật Kim Anh,Triệu Vy,Lê Dương Bảo Lâm,BBC tieng viet,Brad Pitt,Chế Linh,Tượng đài Công an nhân dân,Pelosi,Nguyễn Văn Lập,Hoài Linh,Hộ chiếu mới,Amber Heard,Nồng độ cồn trong máu,Steam Deck,Erik |
+| VIETNAM | Thất tịch,U16 Đông Nam Á,Á hậu Kim Duyên,Hòa Minzy,Nhật Kim Anh,Triệu Vy,Bệnh giang mai,Lê Dương Bảo Lâm,Brad Pitt,BBC tieng viet,Chế Linh,Tượng đài Công an nhân dân,Pelosi,Hổ,Flightradar24,Nguyễn Văn Lập,Hoài Linh,Hộ chiếu mới,Amber Heard,Nồng độ cồn trong máu |
 
 
 
