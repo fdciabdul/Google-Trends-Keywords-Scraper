@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-08-2022 , 18:36:55
+Last Update 03-08-2022 , 18:52:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thất tịch,U16 Đông Nam Á,BBC,Á hậu Kim Duyên,Hòa Minzy,Nhật Kim Anh,Triệu Vy,Bệnh giang mai,Lê Dương Bảo Lâm,Brad Pitt,BBC tieng viet,Chế Linh,Tượng đài Công an nhân dân,Thương ngày nắng về tập cuối,World Cup 2026,Phim 'Dân chơi không sợ con rơi,Pelosi,Hổ,Flightradar24,Nguyễn Văn Lập |
+| VIETNAM | Han So Hee,Thất tịch,U16 Đông Nam Á,BBC,Á hậu Kim Duyên,Hòa Minzy,Nhật Kim Anh,Triệu Vy,Bệnh giang mai,Lê Dương Bảo Lâm,Brad Pitt,BBC tieng viet,Chế Linh,Tượng đài Công an nhân dân,Thương ngày nắng về tập cuối,World Cup 2026,Phim 'Dân chơi không sợ con rơi,Pelosi,Flightradar24,Nguyễn Văn Lập |
 
 
 
