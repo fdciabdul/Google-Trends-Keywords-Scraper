@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-08-2022 , 06:25:25
+Last Update 04-08-2022 , 06:48:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Han So Hee,Ngưu lang, Chức nữ,Phương Trinh Jolie,Phương Mỹ Chi,She-Hulk,Thất tịch,Thương ngày nắng về phần 2 tập 54,U16 Đông Nam Á,BBC,Nhật Kim Anh,Bệnh giang mai,Á hậu Kim Duyên,Chế Linh,Hòa Minzy,Triệu Vy,Lê Dương Bảo Lâm,Minamino,Brad Pitt,Tượng đài Công an nhân dân,BBC tieng viet |
+| VIETNAM | Han So Hee,Phương Trinh Jolie,Phương Mỹ Chi,Liên Quân Mobile,She-Hulk,Thất tịch,Thương ngày nắng về phần 2 tập 54,U16 Đông Nam Á,BBC,Nhật Kim Anh,Bệnh giang mai,Chế Linh,Á hậu Kim Duyên,Hòa Minzy,Lê Dương Bảo Lâm,Triệu Vy,Minamino,Brad Pitt,Tượng đài Công an nhân dân,World Cup 2026 |
 
 
 
