@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-08-2022 , 11:40:25
+Last Update 04-08-2022 , 11:49:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chang hi,Han So Hee,Phương Mỹ Chi,Phương Trinh Jolie,Sữa tốt cho trẻ sơ sinh,Liên Quân Mobile,Mạnh Trường,Chi Pu,Thất tịch,U16 Đông Nam Á,BBC,Chế Linh,Thương ngày nắng về tập cuối,Bệnh giang mai,Nhật Kim Anh,Á hậu Kim Duyên,Hòa Minzy,Lê Dương Bảo Lâm,Triệu Vy,Brad Pitt |
+| VIETNAM | Chang hi,Phương Mỹ Chi,Han So Hee,Phương Trinh Jolie,Sữa tốt cho trẻ sơ sinh,Liên Quân Mobile,She-Hulk,Chi Pu,Mạnh Trường,Hương Giang,Thất tịch,U16 Đông Nam Á,BBC,Chế Linh,Bệnh giang mai,Thương ngày nắng về tập cuối,Nhật Kim Anh,Á hậu Kim Duyên,Hòa Minzy,Lê Dương Bảo Lâm |
 
 
 
