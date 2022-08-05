@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-08-2022 , 03:04:26
+Last Update 05-08-2022 , 04:09:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | One-Punch Man,Phương Mỹ Chi,U18 nữ Việt Nam vs U18 nữ Australia,Phương Trinh Jolie,Han So Hee,Sữa tốt cho trẻ sơ sinh,Luật sư kỳ lạ Woo,Liên Quân Mobile,Hương Giang,Cải lương,Chi Pu,Trương Bá Chi,Đài Truyền hình Việt Nam,Renato Sanches,Thất tịch,U16 Đông Nam Á,Chế Linh,BBC,Thương ngày nắng về tập cuối,Bệnh giang mai |
+| VIETNAM | One-Punch Man,U18 nữ Việt Nam vs U18 nữ Australia,Phương Mỹ Chi,Lý Nhã Kỳ,Phương Trinh Jolie,Sữa tốt cho trẻ sơ sinh,Han So Hee,Luật sư kỳ lạ Woo,Liên Quân Mobile,Cải lương,Chi Pu,Đài Truyền hình Việt Nam,Renato Sanches,Thất tịch là ngày gì,Thất tịch,Thương ngày nắng về phần 2 tập 54,U16 Đông Nam Á,Chế Linh,BBC,Bệnh giang mai |
 
 
 
