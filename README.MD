@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-08-2022 , 16:11:08
+Last Update 05-08-2022 , 16:50:07
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sài Gòn đấu với Hoàng Anh Gia Lai,Ngoại hạng Anh,Premier League,Lich thi dau ngoai hang Anh,Hải Phòng đấu với Đà Nẵng,U19 Việt Nam,Minh Béo,SNSD,Alienoid,Ngoai hang Anh,Ca sĩ Phi Nhung,Nhan dinh BONGDA,Điểm mù,Bảng xếp hạng Ngoại hạng Anh,ITZY,U tuyến giáp,Liên Quân,Lý Nhã Kỳ,U18 nữ Việt Nam vs U18 nữ Australia,Phương Mỹ Chi |
+| VIETNAM | Sài Gòn đấu với Hoàng Anh Gia Lai,Ngoại hạng Anh,Premier League,Lich thi dau ngoai hang Anh,Hải Phòng đấu với Đà Nẵng,U19 Việt Nam,SNSD,Minh Béo,Ngoai hang Anh,Alienoid,Nhan dinh BONGDA,Điểm mù,Bảng xếp hạng Ngoại hạng Anh,ITZY,U tuyến giáp,Liên Quân,Lý Nhã Kỳ,U18 nữ Việt Nam vs U18 nữ Australia,Phương Mỹ Chi,Sữa tốt cho trẻ sơ sinh |
 
 
 
