@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-08-2022 , 20:42:47
+Last Update 06-08-2022 , 20:51:41
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chelsea,Chelsea vs Everton,League 1,Truc tiep bong da,Ket qua bong da,Bình Định đấu với Hà Nội,Tottenham,Keo nha cai,Lich bong da hom nay,Tottenham vs Southampton,Nhận định bóng đá,Nha,An Dĩ Hiên,Ngoại hạng Anh 2022,Cucurella,Darwin núñez,Trung tâm Mua sắm,Cúc Tịnh Y,MU vs Brighton,3 chiến sỹ PCCC |
+| VIETNAM | Chelsea,Chelsea vs Everton,League 1,Truc tiep bong da,Ket qua bong da,Bình Định đấu với Hà Nội,Tottenham,Tottenham vs Southampton,Lich bong da hom nay,Nhận định bóng đá,Nha,An Dĩ Hiên,Ngoại hạng Anh 2022,Cucurella,Darwin núñez,Trung tâm Mua sắm,Cúc Tịnh Y,MU vs Brighton,3 chiến sỹ PCCC,Laliga |
 
 
 
