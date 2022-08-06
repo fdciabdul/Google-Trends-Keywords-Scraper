@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-08-2022 , 12:40:01
+Last Update 06-08-2022 , 13:06:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Truc tiep bong da,Keonhacai,Bình Định đấu với Hà Nội,Crystal Palace vs Arsenal,An Dĩ Hiên,Cucurella,Lich thi dau,Lịch thi đấu Pau FC,Lịch thi đấu bóng đá Anh,Cúc Tịnh Y,Trung tâm Mua sắm,3 chiến sỹ PCCC,Bong da truc tuyen,The Sandman,Nha,Irene,Zenless Zone Zero,Big Mouth,Ngoại hạng Anh,Lịch thi đấu Ngoại hạng Anh |
+| VIETNAM | Bình Định đấu với Hà Nội,Fulham vs Liverpool,Keo nha cai,Nhận định bóng đá,An Dĩ Hiên,Lich thi dau,Cucurella,Lịch thi đấu Pau FC,Bóng đá Trực tuyến,Lịch thi đấu bóng đá anh,Cúc Tịnh Y,Trung tâm Mua sắm,3 chiến sỹ PCCC,Nha,The Sandman,Ket qua Bongda hom nay,Zenless Zone Zero,Big Mouth,Ngoại hạng Anh,Truc tiep bong da |
 
 
 
