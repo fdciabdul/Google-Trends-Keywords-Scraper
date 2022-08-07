@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-08-2022 , 04:36:01
+Last Update 07-08-2022 , 04:54:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,Truc tiep bong da,Chelsea,Kết quả bóng đá,Pau FC vs Dijon,Bình Định đấu với Hà Nội,Tottenham,Lich thi dau,Lich bong da hom nay,Ligue-1,Nha,CarX Street,Chainsaw Man,An Dĩ Hiên,Ngoại hạng Anh 2022,Cucurella,MU vs Brighton,Newcastle,Trung tâm mua sắm,Cúc Tịnh Y |
+| VIETNAM | Chelsea,PSG,Truc tiep bong da,Pau FC vs Dijon,U16 Đông Nam Á,Bình Định đấu với Hà Nội,Tottenham,Lich bong da hom nay,Lich thi dau,Ligue-1,Bong da truc tuyen,CarX Street,Chainsaw Man,An Dĩ Hiên,Ngoại hạng Anh 2022,Lich bong da,Văn khấn Rằm tháng 7,MU vs Brighton,Cucurella,Newcastle |
 
 
 
