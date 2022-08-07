@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-08-2022 , 03:38:51
+Last Update 07-08-2022 , 04:04:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | League 1,One Piece Film: Red,Truc tiep bong da,Chelsea,U16 Đông Nam Á,PSG,Bình Định đấu với Hà Nội,Tottenham vs Southampton,Tottenham,Lich thi dau,Lich bong da hom nay,CarX Street,An Dĩ Hiên,Ngoại hạng Anh 2022,Quỳnh Kool,Cucurella,MU vs Brighton,Nha,Newcastle,Trung tâm mua sắm |
+| VIETNAM | PSG,Truc tiep bong da,Chelsea,Kết quả bóng đá,Pau FC vs Dijon,Bình Định đấu với Hà Nội,Tottenham,Lich thi dau,Lich bong da hom nay,Ligue-1,Nha,CarX Street,Chainsaw Man,An Dĩ Hiên,Ngoại hạng Anh 2022,Cucurella,MU vs Brighton,Newcastle,Trung tâm mua sắm,Cúc Tịnh Y |
 
 
 
