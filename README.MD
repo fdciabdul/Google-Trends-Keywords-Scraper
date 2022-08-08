@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-08-2022 , 19:44:55
+Last Update 08-08-2022 , 19:54:11
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | iPhone 11,Hồng Đăng,Barca,Áp thấp nhiệt đới,MC,Tôn Di,Dự báo thời tiết Đà Nẵng,Phim 'Nữ luật sư Woo Young Woo,Britney Spears,Quỳnh Nga,Bang xep hang anh,Voucher Shopee,Juventus,Bạn muốn hẹn hò,Timo Werner,Giá iPhone,Rabiot,Kylian Mbappé,Marilyn Monroe,Pique |
+| VIETNAM | iPhone 11,Hồng Đăng,Barca,Áp thấp nhiệt đới,MC,Tôn Di,Dự báo thời tiết Đà Nẵng,Britney Spears,Phim 'Nữ luật sư Woo Young Woo,Quỳnh Nga,Bang xep hang anh,Voucher Shopee,Juventus,Bạn muốn hẹn hò,Timo Werner,Giá iPhone,Rabiot,Kylian Mbappé,Marilyn Monroe,Pique |
 
 
 
