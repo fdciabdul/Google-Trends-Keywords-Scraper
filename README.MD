@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-08-2022 , 08:50:13
+Last Update 08-08-2022 , 08:58:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hồng Đăng,Barca,Thời tiết Đà Nẵng,MC,Giá iPhone 13,Tôn Di,Áp thấp nhiệt đới,Voucher Shopee,Bang xep hang Anh,Britney Spears,Timo Werner,Mã giảm giá,Marilyn Monroe,Selena Gomez,Pique,West Ham đấu với Man City,PSG,MONO,Chelsea vs Everton,U19 Việt Nam |
+| VIETNAM | iPhone 11,Hồng Đăng,Barca,Thời tiết Đà Nẵng,MC,Tôn Di,Áp thấp nhiệt đới,Quỳnh Nga,Voucher Shopee,Bang xep hang Anh,Britney Spears,Timo Werner,Mã giảm giá,Marilyn Monroe,Pique,Selena Gomez,West Ham đấu với Man City,PSG,Chelsea vs Everton,MONO |
 
 
 
