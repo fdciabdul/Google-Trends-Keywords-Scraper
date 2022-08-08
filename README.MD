@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-08-2022 , 00:50:56
+Last Update 08-08-2022 , 02:59:51
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MC,Bang xep hang Anh,West Ham đấu với Man City,PSG,Chelsea vs Everton,MONO,U19 Việt Nam,Sông Lam Nghệ An đấu với Thanh Hóa,Nam Định đấu với TP.HCM,Vũ,Ngô Thanh Vân,Rafael Nadal,HAY Fest,Nottingham Forest,Dải Gaza,MU vs Brighton,Truc tiep bong da,Liverpool,Trực tiếp bóng đá hôm nay,Tottenham |
+| VIETNAM | MC,Thời tiết Đà Nẵng,Hồ Hoài Anh,Bang xep hang Anh,Kylian Mbappé,Timo Werner,West Ham đấu với Man City,Chelsea,PSG,MONO,U19 Việt Nam,Sông Lam Nghệ An đấu với Thanh Hóa,Nam Định đấu với TP.HCM,Dortmund,Ngô Thanh Vân,Vũ,League 1,Dải Gaza,Rafael Nadal,HAY Fest |
 
 
 
