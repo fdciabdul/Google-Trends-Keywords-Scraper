@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-08-2022 , 05:43:14
+Last Update 08-08-2022 , 05:52:04
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Barca,Hồng Đăng,MC,Thời tiết Đà Nẵng,Voucher Shopee,Quỳnh Nga,Bang xep hang Anh,Britney Spears,Giá iPhone,Timo Werner,Marilyn Monroe,Selena Gomez,Man City,Chelsea,PSG,MONO,U19 Việt Nam,Sông Lam Nghệ An đấu với Thanh Hóa,Nam Định đấu với TP.HCM,Dortmund |
+| VIETNAM | Hồng Đăng,Barca,MC,Thời tiết Đà Nẵng,Quỳnh Nga,Voucher Shopee,Tôn Di,Britney Spears,Timo Werner,Giá iPhone,Mã giảm giá,Marilyn Monroe,Selena Gomez,West Ham đấu với Man City,PSG,MONO,Chelsea vs Everton,U19 Việt Nam,Sông Lam Nghệ An đấu với Thanh Hóa,Nam Định đấu với TP.HCM |
 
 
 
