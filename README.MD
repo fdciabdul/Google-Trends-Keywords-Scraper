@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-08-2022 , 14:40:42
+Last Update 09-08-2022 , 14:49:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hoài Lâm,Hướng Hàm Chi,U19 Việt Nam vs U19 Thái Lan,Bão số 2,Mâm cúng Rằm tháng 7,Vios 2023,iOS 16 beta 5,Chi Pu,Cat,Đỗ Mỹ Linh,FBI,Hồng Đăng,Barca,Áp thấp nhiệt đới,Rabiot,Tôn Di,MC,Selena Gomez,Britney Spears,Phim Nữ Luật Sư Woo Young Woo |
+| VIETNAM | Hoài Lâm,Hướng Hàm Chi,Bão số 2,Mâm cúng Rằm tháng 7,Vios 2023,iOS 16 beta 5,Cat,Chi Pu,Đỗ Mỹ Linh,FBI,Hồng Đăng,Barca,Áp thấp nhiệt đới,Rabiot,Tôn Di,MC,Selena Gomez,Britney Spears,Phim Nữ Luật Sư Woo Young Woo,Quỳnh Nga |
 
 
 
