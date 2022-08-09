@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-08-2022 , 12:41:33
+Last Update 09-08-2022 , 13:32:03
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hoài Lâm,Hướng Hàm Chi,Mâm cúng rằm tháng 7,Bão số 2,Vios 2023,iOS 16 beta 5,Chi Pu,Đỗ Mỹ Linh,Cat,Darwin Nunez,Hồng Đăng,Barca,Áp thấp nhiệt đới,Rabiot,Tôn Di,MC,Selena Gomez,Britney Spears,Phim Nữ Luật Sư Woo Young Woo,Quỳnh Nga |
+| VIETNAM | Hoài Lâm,Hướng Hàm Chi,Mâm cúng rằm tháng 7,Bão số 2,Vios 2023,iOS 16 beta 5,Chi Pu,Cat,Đỗ Mỹ Linh,Hồng Đăng,Barca,Áp thấp nhiệt đới,Rabiot,Tôn Di,MC,Selena Gomez,Britney Spears,Phim Nữ Luật Sư Woo Young Woo,Quỳnh Nga,Bang xep hang anh |
 
 
 
