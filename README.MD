@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-08-2022 , 05:29:28
+Last Update 10-08-2022 , 05:41:05
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| CANADA | Steven Seagal,Meteor shower 2022,Elon Musk Tesla,Jackie Bradley Jr,Issey Miyake,Langya virus,FAN EXPO,John Derringer,Roger Stone,Hootsuite,Taika Waititi,Tower of Fantasy,Emma Raducanu,Lysandre Nadeau,Alexis Galarneau,Ajax trench collapse,Andy Murray,Naomi Osaka,Marie-Eve Proulx,Austin Kevitch |
+| VIETNAM | Chương Tử Di,Khá Bảnh,Xổ số miền nam ngày 9 tháng 8,Văn khấn cúng rằm tháng 7,Ezra Miller,C1,Siêu cúp châu Âu,U19 Việt Nam,Bão số 2,Hoài Lâm,Mâm cúng Rằm tháng 7,Vios 2023,iOS 16 Beta 5,FBI,Cat,Lịch thi đấu U19,Hồ Văn Cường,Thịt chua Phú Thọ,Chi Pu,Meghan |
 
 
 
