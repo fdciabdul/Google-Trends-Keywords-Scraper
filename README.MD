@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-08-2022 , 20:43:35
+Last Update 10-08-2022 , 20:52:36
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Real Madrid,U16 Việt Nam,Viettel đấu với Kuala Lumpur,Lý Nhã Kỳ,Khá Bảnh,Diễm Hương,Chương Tử Di,Hoa hậu Đỗ Mỹ Linh,Cúng Rằm tháng 7 cần những gì,Trương Bá Chi,Kanye West,Mạnh Trường,Audi A6,Câu lạc bộ bóng đá Hoàng Anh Gia Lai,Camila cabello,Giấy phép lái xe,XSMN 9/8/2022,Issey Miyake,Thời tiết Hà Nội ngày mai,Cháy ở Hà Nội |
+| VIETNAM | Z Fold 4,U16 Việt Nam,Real Madrid,Viettel đấu với Kuala Lumpur,Lý Nhã Kỳ,Khá Bảnh,Diễm Hương,Chương Tử Di,Hoa hậu Đỗ Mỹ Linh,Cúng Rằm tháng 7 cần những gì,Trương Bá Chi,Kanye West,Audi A6,Camila cabello,Giấy phép lái xe,XSMN 9/8/2022,Issey Miyake,Thời tiết Hà Nội ngày mai,Cháy ở Hà Nội,Tô Lâm |
 
 
 
