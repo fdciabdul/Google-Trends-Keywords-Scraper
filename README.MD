@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-08-2022 , 21:40:11
+Last Update 11-08-2022 , 21:49:01
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tower of Fantasy,Vu Lan nhớ mẹ,Giá xăng hôm nay,Galaxy Z Flip4,Hàng Bài,Chung kết Miss World Vietnam 2022,Lien minh,Hồ Quang Hiếu,Lịch nghỉ 2/9,Phạm Xuân Thăng,Ngược dòng thời gian để yêu anh,I Am Groot,If You Wish Upon Me,Rằm tháng 7 là ngày gì,Đàm Thu Trang,Phim Nữ luật sư Woo Young Woo,Đàm Vĩnh Hưng,Hải Phòng,Lưu Diệc Phi,Real Madrid vs Eintracht Frankfurt |
+| VIETNAM | Tower of Fantasy,Vu Lan nhớ mẹ,Giá xăng hôm nay,Galaxy Z Flip4,Hàng Bài,Chung kết Miss World Vietnam 2022,Lien minh,Hồ Quang Hiếu,Lịch nghỉ 2/9,Phạm Xuân Thăng,Ngược dòng thời gian để yêu anh,I Am Groot,If You Wish Upon Me,Đàm Thu Trang,Phim Nữ luật sư Woo Young Woo,Đàm Vĩnh Hưng,Lưu Diệc Phi,Hải Phòng,Real Madrid vs Eintracht Frankfurt,Hoàng Thùy Linh |
 
 
 
