@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-08-2022 , 13:28:54
+Last Update 11-08-2022 , 13:55:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay,Galaxy Z Flip4,Chung kết U19 Việt Nam,Vu Lan,Hồ Quang Hiếu,Lien minh,Ngược dòng thời gian để yêu anh,Lịch nghỉ 2/9,Đàm Thu Trang,I Am Groot,If You Wish Upon Me,Real Madrid vs Eintracht Frankfurt,Hàng Bài,Real Madrid,Bài cúng Rằm tháng 7,Bão,U16 Việt Nam,Viettel đấu Với Kuala Lumpur,Tower of Fantasy,Lý Nhã Kỳ |
+| VIETNAM | Giá xăng hôm nay,Galaxy Z Flip4,Hồ Quang Hiếu,Lien minh,Lịch nghỉ 2/9,Ngược dòng thời gian để yêu anh,Hàng Bài,Đàm Thu Trang,I Am Groot,Karolina Bielawska,If You Wish Upon Me,Real Madrid vs Eintracht Frankfurt,Lưu Diệc Phi,Real Madrid,Bài cúng Rằm tháng 7,U16 Việt Nam,Bão,Viettel đấu Với Kuala Lumpur,Tower of Fantasy,Lý Nhã Kỳ |
 
 
 
