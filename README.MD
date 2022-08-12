@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-08-2022 , 14:36:05
+Last Update 12-08-2022 , 14:46:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Cat,TP.HCM đấu với Bình Định,Lê Âu Ngân Anh,Vu Lan báo hiếu ngày nào,Diệp Lâm Anh,Bông hồng cài áo,Vu lan nhớ mẹ,Trà My Idol,Hiền Thục,Chồng cũ vợ cũ người yêu cũ tập 31,Victoria Beckham,Sai lầm,Oneplus 10t,Puka,Băng Vũ Hỏa,Khuất Văn Khang,Bài cúng rằm tháng 7,Giá xăng hôm nay,U19 Việt Nam,Galaxy Z Flip4 |
+| VIETNAM | Cat,Lê Âu Ngân Anh,Diệp Lâm Anh,Bông hồng cài áo,Trà My Idol,Hiền Thục,Chồng cũ vợ cũ người yêu cũ tập 31,Victoria Beckham,Vu Lan 2022,Puka,Sai lầm,Oneplus 10t,Nam Em,Băng Vũ Hỏa,Khuất văn Khang,Mưa sao băng,Bài cúng rằm tháng 7,Giá xăng hôm nay,U19 Việt Nam,U16 Việt Nam |
 
 
 
