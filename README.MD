@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-08-2022 , 10:39:27
+Last Update 13-08-2022 , 10:49:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dortmund,La Liga,Trấn Thành,Đội tuyển bóng đá quốc gia Việt Nam,Anne Heche,Thiện Nhân,MU vs Brentford,Hồ Ngọc Hà,Matoom,Danh sách đề cử Quả Bóng Vàng 2022,Salman Rushdie,Ngô Diệc Phàm,Bill Russell,Gà,Miss World Vietnam 2022,Lý Nhã Kỳ,U16 Việt Nam,Cat,Nam Em,TP.HCM đấu với Bình Định |
+| VIETNAM | Dortmund,La Liga,Trấn Thành,Đội tuyển bóng đá quốc gia việt nam,Thiện Nhân,Anne Heche,MU vs Brentford,Matoom,Danh sách đề cử Quả Bóng Vàng 2022,Hồ Ngọc Hà,Salman Rushdie,Ngô Diệc Phàm,Bill Russell,Thương Tín,Gà,Man City đấu với Bournemouth,Miss World Vietnam 2022,Lý Nhã Kỳ,U16 Việt Nam,Big Mouth 5 |
 
 
 
