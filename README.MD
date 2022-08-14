@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-08-2022 , 19:46:17
+Last Update 14-08-2022 , 19:55:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Brentford vs MU,Serie A,Lisandro martínez,Bảng xếp hạng Anh,PSG vs Montpellier,R18,Anh Tú,Huỳnh Hiểu Minh,HKT,Real,Diệu Nhi,Nottm Forest vs West Ham,Timo Werner,MU,Chelsea đấu với Tottenham,Trực tiếp bóng đá,Man City đấu với Bournemouth,Le Havre đấu với Pau,Arsenal,Barca |
+| VIETNAM | Man Utd,Barca,West Ham,Lisandro martínez,Bảng xếp hạng Anh,PSG vs Montpellier,R18,Anh Tú,Huỳnh Hiểu Minh,HKT,Real,Diệu Nhi,Timo Werner,Trực tiếp bóng đá,MU,Man City đấu với Bournemouth,Hà Nội đấu với Hoàng Anh Gia Lai,Le Havre đấu với Pau,Arsenal,Hoa hậu Mai Phương |
 
 
 
