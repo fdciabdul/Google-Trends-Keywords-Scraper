@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-08-2022 , 21:52:10
+Last Update 15-08-2022 , 22:06:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hà Nội đấu với Hoàng Anh Gia Lai,Conte,Liverpool vs,AS Roma,Lịch nghỉ 2/9/2022,Bé trai 3 tuổi bị nhốt trong tủ cấp đông,Remaps,Lưu Diệc Phi,Hoài Linh,Bayern,Doãn Hải My,Xiaomi MIX Fold 2,Valencia,Kon Tum,Xổ số miền Nam ngày 15 tháng 8,Midu,Brentford đấu với Man Utd,Trực tiếp bóng đá hôm nay,HAGL,Real Madrid |
+| VIETNAM | Juventus,Hà Nội đấu với Hoàng Anh Gia Lai,Conte,Liverpool vs,AS Roma,Lịch nghỉ 2/9/2022,Bé trai 3 tuổi bị nhốt trong tủ cấp đông,Remaps,Lưu Diệc Phi,Hoài Linh,Bayern,Doãn Hải My,Xiaomi MIX Fold 2,Valencia,Kon Tum,Xổ số miền Nam ngày 15 tháng 8,Midu,Brentford đấu với Man Utd,Trực tiếp bóng đá hôm nay,HAGL |
 
 
 
