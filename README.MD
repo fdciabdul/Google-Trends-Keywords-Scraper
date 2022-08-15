@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-08-2022 , 23:54:42
+Last Update 15-08-2022 , 01:07:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Almería đấu với Real Madrid,Lazio,Man Utd,Barca,Real Madrid,Lisandro martínez,Bảng xếp hạng Anh,PSG vs Montpellier,R18,Anh Tú,Huỳnh Hiểu Minh,HKT,Thủ môn Đặng Văn Lâm,Diệu Nhi,Nottm Forest vs West Ham,Timo Werner,Trực tiếp bóng đá,MU,Man City đấu với Bournemouth,Hà Nội đấu với Hoàng Anh Gia Lai |
+| VIETNAM | Bayern,Real vs,Lazio,Valencia,Trực tiếp bóng đá hôm nay,Almería đấu với Real Madrid,Man Utd,Barca,Lisandro martínez,Bảng xếp hạng Anh,Inter Milan,PSG vs Montpellier,Dean Henderson,R18,Anh Tú,HKT,Huỳnh Hiểu Minh,Thủ môn Đặng Văn Lâm,Diệu Nhi,Timo Werner |
 
 
 
