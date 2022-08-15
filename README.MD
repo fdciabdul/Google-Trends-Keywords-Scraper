@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-08-2022 , 11:49:42
+Last Update 15-08-2022 , 11:59:00
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hoài Linh,Remaps,Bayern,Bé trai 3 tuổi bị nhốt trong tủ cấp đông,Liverpool vs,Lưu Diệc Phi,Valencia,Kon Tum,Bảng xếp hạng V-League,Brentford đấu với Man Utd,Barca,Real Madrid,Serie A,West Ham,Dean Henderson,PSG vs Montpellier,Anh Tú,HKT,Huỳnh Hiểu Minh,Thủ môn Đặng Văn Lâm |
+| VIETNAM | Remaps,Hoài Linh,Bé trai 3 tuổi bị nhốt trong tủ cấp đông,Bayern,Liverpool vs,Lưu Diệc Phi,Valencia,Nghỉ lễ 2/9,Kon Tum,Bảng xếp hạng V-League,Brentford đấu với Man Utd,Almería đấu với Real Madrid,Barca,Serie A,West Ham,Barca vs,Dean Henderson,PSG vs Montpellier,Anh Tú,HKT |
 
 
 
