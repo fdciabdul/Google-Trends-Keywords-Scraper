@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-08-2022 , 16:19:01
+Last Update 16-08-2022 , 16:51:39
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Juventus,Atletico Madrid,Đại học Thủ đô Hà Nội,Mbappe,Tap,Lee dong wook,Jungkook BTS,Trọng Hiếu,Chùa Ba Vàng,Trương Tuyết Nghênh,Lê Huỳnh Đức,Điếu cày,Xổ số ngày 15 tháng 8,Garage hạnh phúc tập 4,Liverpool,Conte,Doãn Hải My,Lịch nghỉ 2/9/2022,AS Roma,Lưu Diệc Phi |
+| VIETNAM | Juventus,Đại học Thủ đô Hà Nội,Atletico Madrid,Mbappe,Tap,Lee dong wook,Jungkook BTS,Trọng Hiếu,Chùa Ba Vàng,Trương Tuyết Nghênh,Lê Huỳnh Đức,Điếu cày,Huynh vu tien,Xổ số ngày 15 tháng 8,Garage hạnh phúc tập 4,Liverpool,Conte,Doãn Hải My,Lịch nghỉ 2/9/2022,AS Roma |
 
 
 
