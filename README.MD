@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-08-2022 , 08:45:31
+Last Update 16-08-2022 , 08:54:26
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Juventus,Atletico Madrid,Mbappe,Jungkook BTS,Tap,Điếu cày,Lee Dong Wook,Liverpool,Hà Nội đấu với Hoàng Anh Gia Lai,Conte,Doãn Hải My,Lịch nghỉ 2/9/2022,AS Roma,Lưu Diệc Phi,Bé trai 3 tuổi bị nhốt trong tủ cấp đông,Xổ số miền Nam ngày 15 tháng 8,Remaps,Hoài Linh,Bayern,Xiaomi MIX Fold 2 |
+| VIETNAM | Juventus,Atletico Madrid,Mbappe,Jungkook BTS,Tap,Trương Tuyết Nghênh,Lee dong wook,Điếu cày,Trọng Hiếu,Liverpool,Conte,Doãn Hải My,Lịch nghỉ 2/9/2022,AS Roma,Lưu Diệc Phi,Bé trai 3 tuổi bị nhốt trong tủ cấp đông,Remaps,Hoài Linh,Bayern,Xiaomi MIX Fold 2 |
 
 
 
