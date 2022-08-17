@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-08-2022 , 10:20:19
+Last Update 17-08-2022 , 10:39:21
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hải Như,Elon Musk,Hyun Bin,Casemiro,Jennie BLACKPINK,Angelina Jolie,16 Typh,FLC,Lý Nhược Đồng,Sergio Gomez,Cô gái mất tích,Juventus,Đại học Thủ đô Hà Nội,Atletico Madrid,Poppy Playtime Chapter 2 Mobile,Mbappe,Tap,Nhạc Vàng,Chùa Ba Vàng,Khả Ngân |
+| ROMANIA | Ion Iliescu,Chefi la cuțite,Elena Chiriac,Anamaria Prodan,Augustin Viziru,Dan Negru,Halep Cincinnati,Dinamo,David Popovici 400m,Anda calugareanu,Laura Cosoi,Mircea Badea,Tom Holland,Cathedral Plaza,16 august,Louis Munteanu,Boala Lyme,Dinamo bucuresti,Sacheen Littlefeather,Cleopatra Stratan |
 
 
 
