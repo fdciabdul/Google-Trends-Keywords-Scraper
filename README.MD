@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-08-2022 , 10:39:21
+Last Update 17-08-2022 , 10:50:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| ROMANIA | Ion Iliescu,Chefi la cuțite,Elena Chiriac,Anamaria Prodan,Augustin Viziru,Dan Negru,Halep Cincinnati,Dinamo,David Popovici 400m,Anda calugareanu,Laura Cosoi,Mircea Badea,Tom Holland,Cathedral Plaza,16 august,Louis Munteanu,Boala Lyme,Dinamo bucuresti,Sacheen Littlefeather,Cleopatra Stratan |
+| VIETNAM | Hải Như,Elon Musk,Casemiro,Hyun Bin,Kevin Oh,Angelina Jolie,Jennie BLACKPINK,Lý Nhược Đồng,FLC,16 Typh,Sergio Gomez,Cô gái mất tích,Juventus,Đại học Thủ đô Hà Nội,Atletico Madrid,Poppy Playtime Chapter 2 mobile,Mbappe,Tap,Nhạc Vàng,Chùa Ba Vàng |
 
 
 
