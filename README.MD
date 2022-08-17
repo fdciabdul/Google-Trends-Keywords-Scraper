@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-08-2022 , 15:41:54
+Last Update 17-08-2022 , 15:54:09
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Kevin Oh,Vụ Hải Như mất tích,Elon Musk,Casemiro,Hyun Bin,Angelina Jolie,Lý Nhược Đồng,Jennie BLACKPINK,FLC,16 Typh,Sergio Gomez,Nữ luật sư Woo Young Woo,Học viện Nông nghiệp,Hoa hậu Tiểu Vy,Juventus,Đại học Thủ đô Hà Nội,MU vs Liverpool,Atletico Madrid,Poppy Playtime Chapter 2 Mobile,Mbappe |
+| VIETNAM | Hải Như mất tích,Kevin Oh,Elon Musk,Casemiro,Angelina Jolie,Hyun Bin,Lý Nhược Đồng,Jennie BLACKPINK,FLC,16 Typh,Nữ luật sư Woo Young Woo,Hoa hậu Tiểu Vy,Học viện Nông nghiệp,Isaac,Juventus,Đại học Thủ đô Hà Nội,MU vs Liverpool,Atletico Madrid,Poppy Playtime Chapter 2 Mobile,Mbappe |
 
 
 
