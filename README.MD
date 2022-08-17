@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-08-2022 , 04:39:13
+Last Update 17-08-2022 , 05:31:50
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hyun Bin,Juventus,Đại học Thủ đô Hà Nội,Atletico Madrid,Poppy Playtime Chapter 2 mobile,Mbappe,Tap,Lee dong wook,Chùa Ba Vàng,Jungkook BTS,Trọng Hiếu,Nunez,Pau FC cầu thủ Quang Hải,Lê Quang Liêm,Điếu cày,Garage hạnh phúc tập 4,Conte,Doãn Hải My,Lịch nghỉ 2/9/2022,AS Roma |
+| VIETNAM | Hyun Bin,Casemiro,Jennie BLACKPINK,Juventus,Đại học Thủ đô Hà Nội,Atletico Madrid,Poppy Playtime Chapter 2 mobile,Mbappe,Tap,Chùa Ba Vàng,Lee dong wook,Jungkook BTS,Trọng Hiếu,Nunez,Trương Tuyết Nghênh,Lê Quang Liêm,Pau FC cầu thủ Quang Hải,Điếu cày,Garage hạnh phúc tập 4,Conte |
 
 
 
