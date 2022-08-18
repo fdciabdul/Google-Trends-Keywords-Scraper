@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-08-2022 , 13:29:22
+Last Update 18-08-2022 , 13:59:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | 19/8 là ngày gì,Benfica,Totti,Dương Cẩm Lynh,Dele Alli,Diễn viên Hồng Đăng,V BTS,Thích Trúc Thái Minh,Iruma-Kun,Thái Lan,19/8,Hải Như mất tích,Kevin Oh,Casemiro,Elon Musk,Lý Nhược Đồng,Nữ luật sư Woo Young Woo,Angelina Jolie,Hyun Bin,FLC |
+| VIETNAM | 19/8 là ngày gì,Benfica,Dương Cẩm Lynh,Totti,Dele Alli,Diễn viên Hồng Đăng,V BTS,Iruma-Kun,Thái Lan,Nhã Phương,19/8,Hải Như mất tích,Kevin Oh,Casemiro,Nữ luật sư kỳ lạ tập 15,Elon Musk,Lý Nhược Đồng,Angelina Jolie,Hyun Bin,FLC |
 
 
 
