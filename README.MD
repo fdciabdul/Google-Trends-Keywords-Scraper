@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-08-2022 , 03:41:35
+Last Update 19-08-2022 , 04:37:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Cách mạng Tháng 8,West Ham,Ngày truyền thống Công an Nhân dân,Nguyễn Phương Hằng,19/8 là ngày gì,Lòng xào dưa,Ngày 19/8,Dương Cẩm Lynh,Diễn viên Hồng Đăng,Dele Alli,19-8,Nhã Phương,V BTS,Thái Lan,Iruma-Kun,Pulisic,Hải Như mất tích,Casemiro,Luật sư Woo Young Woo,Kevin Oh |
+| VIETNAM | Hoài Linh,Cách mạng Tháng 8,West Ham,Ngày truyền thống Công an Nhân dân,Dragon Ball Super: SUPER HERO,19/8 là ngày gì,Lòng xào dưa,Dương Cẩm Lynh,Diễn viên Hồng Đăng,19/8,Dele Alli,Nhã Phương,V BTS,Thái Lan,Pulisic,Iruma-Kun,Nhật Kim Anh,Hải Như mất tích,Casemiro,Luật sư Woo Young Woo |
 
 
 
