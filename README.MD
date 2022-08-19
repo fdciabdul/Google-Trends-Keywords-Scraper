@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-08-2022 , 05:40:53
+Last Update 19-08-2022 , 05:52:05
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Casemiro,Hoài Linh,Ngày truyền thống Công an nhân dân,Lòng xào dưa drama,Cách mạng Tháng 8,West Ham,Pink Venom,Dragon Ball Super: SUPER HERO,19/8 là ngày gì,Lòng xào dưa,Dương Cẩm Lynh,19/8,Diễn viên Hồng Đăng,Dele Alli,Nhã Phương,Thái Lan,V BTS,Lương Hải Như mất tích,Pulisic,Iruma-Kun |
+| VIETNAM | Blackpink,Casemiro,Hoài Linh,Ngày truyền thống Công an nhân dân,Cách mạng Tháng 8,Drama lòng xào dưa,West Ham,Tap,Kim Tử,Phi thanh vân,Dragon Ball Super: SUPER HERO,19/8 là ngày gì,Lòng xào dưa,Ngày 19/8,Dương Cẩm Lynh,19-8,Diễn viên Hồng Đăng,Dele Alli,Nhã Phương,Thái Lan |
 
 
 
