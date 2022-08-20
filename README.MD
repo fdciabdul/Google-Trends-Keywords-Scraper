@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-08-2022 , 01:04:59
+Last Update 20-08-2022 , 03:13:46
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Antony,Naraka,Dự báo thời tiết Đà Nẵng,Bùi Tiến Dũng,Blackpink,Hoàng Anh Gia Lai đấu với Hải Phòng,Vụ lòng xào dưa Thái Bình,Casemiro,Hoài Linh,Cách mạng Tháng 8,Dragon Ball Super: Super Hero,SHe-Hulk,Hari Won,Tap,SLNA,Hòa Minzy,Selena Gomez,Pinky Savika,Châu Tinh Trì,Hương Giang |
+| VIETNAM | Antony,Bảng xếp hạng v League,Naraka,BLACKPINK,Vụ lòng xào dưa Thái Bình,Hoàng Anh Gia Lai đấu với Hải Phòng,Casemiro,Big Mouth tập 7,Viettel đấu với Sông Lam Nghệ An,Hoài Linh,Cách mạng Tháng 8,Dragon Ball Super: Super Hero,SHe-Hulk,Hari Won,Tap,Hòa Minzy,Selena Gomez,Pinky Savika,Hương Giang,Châu Tinh Trì |
 
 
 
