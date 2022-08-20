@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-08-2022 , 07:38:48
+Last Update 20-08-2022 , 07:47:44
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Antony,Bảng xếp hạng v League,Naraka,Quỳnh Kool,BTC,Nhạc sĩ Nguyễn Thiện Tơ,Lòng xào dưa 30k,Blackpink,Hoàng Anh Gia Lai đấu với Hải Phòng,Big Mouth tập 7,Casemiro,Viettel đấu với Sông Lam Nghệ An,Hoài Linh,Cách mạng Tháng 8,Dragon Ball Super: Super Hero,Hương Giang,Hari Won,Ngày truyền thống Công an nhân dân,Selena Gomez,Tap |
+| VIETNAM | Antony,Bảng xếp hạng v League,Quỳnh Kool,Naraka,BTC,Nhạc sĩ Nguyễn Thiện Tơ,BLACKPINK,Hoàng Anh Gia Lai đấu với Hải Phòng,Big Mouth tập 7,Casemiro,Drama lòng xào dưa,Viettel đấu với Sông Lam Nghệ An,Hoài Linh,Cách mạng Tháng 8,Dragon Ball Super: Super Hero,Hương Giang,Hari Won,Đàm Vĩnh Hưng,Ngày truyền thống Công an nhân dân,Selena Gomez |
 
 
 
