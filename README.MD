@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-08-2022 , 06:30:17
+Last Update 21-08-2022 , 06:49:42
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Pau đấu với Sochaux,Real Madrid,Dortmund,Bournemouth vs Arsenal,Tô Hữu Bằng,TOT,Jennifer Lopez,GT-R,Lazio,Tottenham,Bình Dương đấu với Hà Nội,Thí sinh,Bình Định đấu với Thanh Hóa,Bảng xếp hạng V-League,Quỳnh Kool,Antony,Bảng xếp hạng Anh,Nhạc sĩ Nguyễn Thiện Tơ,Naraka,Lê Quang Liêm |
+| VIETNAM | Pau đấu với Sochaux,Real Madrid,Dortmund,Bournemouth vs Arsenal,Diệu Nhi,Tô Hữu Bằng,Jennifer Lopez,TOT,GT-R,Xổ số ngày 20 tháng 8,Lazio,Tottenham,Bình Dương đấu với Hà Nội,Thí sinh,Sài Gòn đấu với TP.HCM,Quỳnh Kool,Antony,Bảng xếp hạng Anh,Nhạc sĩ Nguyễn Thiện Tơ,Naraka |
 
 
 
