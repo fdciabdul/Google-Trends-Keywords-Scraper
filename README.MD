@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-08-2022 , 10:40:43
+Last Update 21-08-2022 , 10:50:24
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Diệu Nhi,Real Madrid,Dortmund,Bournemouth vs Arsenal,Pau FC vs Sochaux,Tô Hữu Bằng,Jennifer Lopez,GT-R,TOT,Tennis Cincinnati,Lazio,Lê Huỳnh Đức,Tottenham,Bình Dương đấu với Hà Nội,Thí sinh,Big Mouth tập 8,Sài Gòn đấu với TP.HCM,Bình Định đấu với Thanh Hóa,Hoàn Hồn tập 17,Quỳnh Kool |
+| VIETNAM | Diệu Nhi,Real Madrid,Dortmund,Bournemouth vs Arsenal,Pau FC vs Sochaux,Real,Tô Hữu Bằng,Jennifer Lopez,GT-R,Minh Hằng,TOT,Tennis Cincinnati,Xổ số ngày 20 tháng 8,Lazio,Lê Huỳnh Đức,Tottenham,Bình Dương đấu với Hà Nội,Thí sinh,Big Mouth tập 8,Bình Định đấu với Thanh Hóa |
 
 
 
