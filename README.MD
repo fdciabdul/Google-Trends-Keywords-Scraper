@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-08-2022 , 10:53:20
+Last Update 22-08-2022 , 11:07:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,Barca,MU Liverpool,MC,Atletico Madrid,Bat man,Huỳnh Như,Việt Hương,Khoa Pug,Cá thòi lòi,Chelsea,Diệu Nhi,Giá xăng hôm nay,Arsenal,Real Madrid,Nghỉ lễ 2/9/2022,Bournemouth vs Arsenal,Dortmund,Phim Hoàn hồn,Midu |
+| VIETNAM | PSG,Barca,PSG vs,MU Liverpool,MC,AC Milan,Atletico Madrid,Bat man,Huỳnh Như,Việt Hương,Khoa Pug,Cá thòi lòi,Thùy Tiên,Chelsea,Diệu Nhi,Giá xăng hôm nay,Arsenal,Real Madrid,Nghỉ lễ 2/9/2022,Bournemouth vs Arsenal |
 
 
 
