@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-08-2022 , 01:54:03
+Last Update 22-08-2022 , 03:52:22
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,MC,MU Liverpool,AC Milan,Barca vs,Chelsea,Diệu Nhi,Arsenal,Real Madrid,Giá xăng hôm nay,Dortmund,Bournemouth vs Arsenal,Pau FC vs Sochaux,Midu,Phim Hoàn hồn,Tô Hữu Bằng,GT-R,West Ham vs Brighton,Jennifer Lopez,Minh Hằng |
+| VIETNAM | PSG,Barca,MC,MU Liverpool,Chelsea,Diệu Nhi,Arsenal,Giá xăng hôm nay,Real Madrid,Dortmund,Bournemouth vs Arsenal,Pau FC vs Sochaux,Midu,Phim Hoàn hồn,Real,Tô Hữu Bằng,GT-R,West Ham vs Brighton,Jennifer Lopez,Xổ số miền Nam ngày 21 tháng 8 |
 
 
 
