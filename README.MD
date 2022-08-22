@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-08-2022 , 18:53:01
+Last Update 22-08-2022 , 19:06:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| FRANCE | Doctolib,LinkedIn,Barca,FC Barcelone,Attaque frelons cyclistes,CPAM,Vitinha,Tsitsipas,Axa,Autoire,Euro dollar,UTMB,Milan AC,Wijnaldum,Bruno Jeudy,Tirage Ligue des champions,Singapour,Lewandowski,Bernardo Silva,Newcastle – Man City |
+| VIETNAM | Newcastle đấu với Man City,PSG,Barca,MU Liverpool,PSG vs,Bang xep hang ngoai hang Anh,MC,Hà Anh,Bat man,AC Milan,Huỳnh Như,Atletico Madrid,Hà Anh Tuấn,Việt Hương,Napoli,Khoa Pug,Top Gun,Thùy Tiên,Cá thòi lòi,Bão số 3 |
 
 
 
