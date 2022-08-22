@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-08-2022 , 13:50:00
+Last Update 22-08-2022 , 14:01:00
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,PSG vs,MC,Allan Saint-Maximin,AC Milan,Bat man,Atletico Madrid,Huỳnh Như,Hà Anh Tuấn,Napoli,Việt Hương,Khoa Pug,Cá thòi lòi,The Idol,Thùy Tiên,Xổ số miền nam ngày 22 tháng 8,Chelsea,Diệu Nhi,Giá xăng hôm nay,Barca |
+| VIETNAM | PSG,Barca,PSG vs,MC,Allan Saint-Maximin,AC Milan,Bat man,Atletico Madrid,Huỳnh Như,Hà Anh Tuấn,Napoli,Việt Hương,Khoa Pug,Xổ số miền nam ngày 22 tháng 8,Cá thòi lòi,Thùy Tiên,The Idol,Hà Anh,Chelsea,Diệu Nhi |
 
 
 
