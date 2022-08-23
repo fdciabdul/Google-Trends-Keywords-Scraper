@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-08-2022 , 14:48:47
+Last Update 23-08-2022 , 14:57:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Manchester United,AS Roma,Động đất,Lisandro martínez,Cat,Đặng Luân,Câu lạc bộ bóng đá hoàng anh gia lai,Nayeon,Martinez,Henry Cavill,Bruno Fernandes,MU vs Liverpool,PSG,Barca,Hà Anh,MC,Bão số 3,Bat man,Allan Saint-Maximin,AC Milan |
+| VIETNAM | MU,Manchester United,AS Roma,Động đất,Lisandro martínez,Cat,Đặng Luân,Nayeon,Martinez,Henry Cavill,Song Hye Kyo,Bruno Fernandes,MU vs Liverpool,PSG,Barca,Hà Anh,Bão số 3,MC,Bat man,Allan Saint-Maximin |
 
 
 
