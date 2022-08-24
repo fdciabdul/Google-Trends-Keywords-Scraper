@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-08-2022 , 06:34:32
+Last Update 24-08-2022 , 06:54:39
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bảng xếp hạng Ngoại hạng Anh,Batman,Bảng xếp hạng Ngoại hạng Anh 2022,RM (BTS,Vô diện sát nhân,Đỗ Mỹ Linh,Đài Truyền hình Việt Nam,Trịnh Sảng,HEINEKEN,Thích Trúc Thái Minh,MU,Cat,Lisandro martínez,AS Roma,Động đất,Vision,Tyrell malacia,Henry Cavill,Black clover,Harry Maguire |
+| VIETNAM | Batman,Bảng xếp hạng Ngoại hạng Anh 2022,Vô diện sát nhân,Đỗ Mỹ Linh,Trịnh Sảng,Đài Truyền hình Việt Nam,Thích Trúc Thái Minh,HEINEKEN,MU,Giá xe Vision,Cat,Lisandro martínez,Động đất,AS Roma,Tyrell malacia,Henry Cavill,Black clover,RM,Harry Maguire,Đặng Luân |
 
 
 
