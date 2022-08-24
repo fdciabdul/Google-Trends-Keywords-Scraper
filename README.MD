@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-08-2022 , 00:58:23
+Last Update 24-08-2022 , 03:37:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bảng xếp hạng Ngoại hạng Anh,MU,Manchester United,AS Roma,Giá xe Vision,Động đất,Lisandro martínez,Cat,Tyrell malacia,Henry Cavill,Đặng Luân,Nayeon,Martinez,Câu lạc bộ bóng đá hoàng anh gia lai,Song Hye Kyo,Bruno Fernandes,Diệp Lâm Anh,Varane,Xổ số miền Nam ngày 23 tháng 8,MU vs Liverpool |
+| VIETNAM | Bảng xếp hạng Ngoại hạng Anh,Vô diện sát nhân,MU,Lisandro martínez,AS Roma,Động đất,Cat,Tyrell malacia,Henry Cavill,Vision,Black clover,Benfica,Đặng Luân,Song Hye Kyo,Nayeon,Câu lạc bộ bóng đá hoàng anh gia lai,Bruno Fernandes,Diệp Lâm Anh,Jennie (BLACKPINK,Jadon Sancho |
 
 
 
