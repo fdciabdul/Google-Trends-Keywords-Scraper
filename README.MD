@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-08-2022 , 16:22:33
+Last Update 25-08-2022 , 16:53:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bão số 3,Ket qua Xo so,Milona,Newcastle,Bốc thăm C1,Võ Nguyên Giáp,Trịnh Văn Quyết,Miss Intercontinental,Carabao Cup,PSV,Trương Bá Chi,Selena Gomez,MC,Ksor H'Bơ khăp,Shakira,Vũ Thị Trang,Rashford,Phim Vô diện sát nhân,Bùi Quang Huy,Ethylene oxide là gì |
+| VIETNAM | Bão số 3,Ket qua Xo so,Milona,Bốc thăm C1,Trịnh Văn Quyết,Newcastle,Võ Nguyên Giáp,Miss Intercontinental,Vũ Thị Trang,Đạt Villa,Carabao Cup,Trương Bá Chi,Selena Gomez,Ksor H'Bơ khăp,MC,Shakira,Minh Hằng,Rashford,Phim Vô diện sát nhân,Bùi Quang Huy |
 
 
 
