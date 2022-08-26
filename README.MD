@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 26-08-2022 , 09:47:15
+Last Update 26-08-2022 , 09:55:50
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Shark Bình,West Ham,Lank FC,Ros,Quỳnh Nga,Nhậm Gia Luân,Cửa hàng máy tính,Thanh Duy Idol,Barca,Bão số 3,Thời tiết Hà Nội,Milona,Cô giáo mầm non,Trịnh Văn Quyết,Ksor H'Bơ Khăp,Newcastle,Võ Nguyên Giáp,Miss Intercontinental,Vũ Thị Trang,Selena Gomez |
+| VIETNAM | Quỳnh búp bê,Shark Bình,Đỗ Phương Oanh,West Ham,Lank FC,Quỳnh Nga,Nhậm Gia Luân,Thanh Duy Idol,Cửa hàng máy tính,Lý Hoàng Nam,Barca,Bão số 3,Thời tiết Hà Nội,Trịnh Văn Quyết,Milona,Cô giáo mầm non,Trương Thiên Ái,Ksor H'Bơ Khăp,Newcastle,Võ Nguyên Giáp |
 
 
 
