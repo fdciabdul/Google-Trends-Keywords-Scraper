@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-08-2022 , 14:43:21
+Last Update 27-08-2022 , 14:52:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bang xep hang Ngoai hang Anh,Eugene,Lazio,Chồng cũ vợ cũ người yêu cũ tập 35,Fofana,Nam Định đấu với Đà Nẵng,Cá mập,Angelina Jolie,Shark Bình,MU,Big Mouth 9,Sông Lam Nghệ An đấu với Hà Nội,NextTech,Europa League,Inter Milan,Quỳnh Nga,Shark Tank,West Ham,TWICE,Nhậm Gia Luân |
+| VIETNAM | Man City đấu với Crystal Palace,Liverpool,Bang xep hang Ngoai hang Anh,Eugene,Lazio,Chồng cũ vợ cũ người yêu cũ tập 35,Fofana,Nam Định đấu với Đà Nẵng,Cá mập,Angelina Jolie,Shark Bình,Truc tiep bong da,Big Mouth 9,Sông Lam Nghệ An đấu với Hà Nội,Europa League,NextTech,Inter Milan,Quỳnh Nga,Shark Tank,West Ham |
 
 
 
