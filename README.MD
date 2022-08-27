@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-08-2022 , 06:40:00
+Last Update 27-08-2022 , 06:54:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lazio,Chồng cũ vợ cũ người yêu cũ tập 35,Eugene,Cá mập,Shark Bình,Sông Lam Nghệ An đấu với Hà Nội,Europa League,Big Mouth tập 9,Hải Phòng đấu với TP.HCM,MU vs Southampton,Inter Milan,West Ham,TWICE,Nhậm Gia Luân,Lank FC,Nope,Cửa hàng máy tính,Một ngày bình thường,ROS,Lý Hoàng Nam |
+| VIETNAM | Lazio,Chồng cũ vợ cũ người yêu cũ tập 35,Eugene,Cá mập,Shark Bình,Sông Lam Nghệ An đấu với Hà Nội,Europa League,Big Mouth tập 9,MU vs Southampton,Inter Milan,West Ham,TWICE,Tập đoàn NextTech,Nhậm Gia Luân,Lank FC,Nope,Cửa hàng máy tính,Một ngày bình thường,Lý Hoàng Nam,Barca |
 
 
 
