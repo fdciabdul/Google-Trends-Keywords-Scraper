@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-08-2022 , 11:41:05
+Last Update 27-08-2022 , 11:49:41
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lazio,Eugene,Chồng cũ vợ cũ người yêu cũ tập 35,Fofana,Chung kết LCK,Cá mập,Angelina Jolie,Shark Bình,Big Mouth 9,Sông Lam Nghệ An đấu với Hà Nội,Europa League,NextTech,MU vs Southampton,Inter Milan,Nhậm Gia Luân,Lank FC,Cửa hàng máy tính,Duyên kiếp tập 18,Lý Hoàng Nam,Xổ số miền Nam ngày 26 tháng 8 |
+| VIETNAM | Eugene,Lazio,Chồng cũ vợ cũ người yêu cũ tập 35,Fofana,Chung kết LCK,Cá mập,Angelina Jolie,Shark Bình,Big Mouth 9,Sông Lam Nghệ An đấu với Hà Nội,MU vs Southampton,Europa League,NextTech,Inter Milan,TWICE,Lank FC,Cửa hàng máy tính,Lý Hoàng Nam,Xổ số miền Nam ngày 26 tháng 8,ROS |
 
 
 
