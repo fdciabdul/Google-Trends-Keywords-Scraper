@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 26-08-2022 , 23:56:19
+Last Update 27-08-2022 , 01:41:15
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Shark Bình,Sông Lam Nghệ An đấu với Hà Nội,Europa League,Hải Phòng đấu với TP.HCM,Quỳnh Nga,West Ham,TWICE,Lank FC,Nhậm Gia Luân,NOPE,Cửa hàng máy tính,Một ngày bình thường,Lý Hoàng Nam,Barca,Bão số 3,Thời tiết Hà Nội,Streamer xúc phạm lãnh đạo,Trịnh Văn Quyết,Trương Thiên Ái,Ksor H'Bơ khăp |
+| VIETNAM | Shark Bình,Sông Lam Nghệ An đấu với Hà Nội,Europa League,Hải Phòng đấu với TP.HCM,Inter Milan,Quỳnh Nga,MU vs Southampton,West Ham,Nhậm Gia Luân,Lank FC,NOPE,Cửa hàng máy tính,Một ngày bình thường,Lý Hoàng Nam,Barca,Bão số 3,Thời tiết Hà Nội,Streamer xúc phạm lãnh đạo,Trịnh Văn Quyết,Trương Thiên Ái |
 
 
 
