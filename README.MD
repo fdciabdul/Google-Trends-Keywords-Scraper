@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-08-2022 , 20:49:33
+Last Update 28-08-2022 , 20:58:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nottingham Forest,PSG vs Monaco,Khắc Việt,Thể thao,Bayern Munich,Campuchia,Aston Villa,Phương Trinh Jolie,Sevilla,Britney Spears,Bayern Munich vs,Huỳnh Hiểu Minh,Xoi,Dua Lipa,Lâm Vỹ Dạ,Xổ số ngày 27 tháng 8,Bernardo Silva,Trương Bá Chi,Truc tiep bong da,Liverpool đấu với Bournemouth |
+| VIETNAM | PSG vs Monaco,Nottingham Forest,Khắc Việt,Thể thao,Quevilly đấu với Pau,Tottenham,Bayern Munich,Newcastle,Campuchia,Aston Villa,Phương Trinh Jolie,Sevilla,Britney Spears,Bayern Munich vs,Huỳnh Hiểu Minh,Xoi,Dua Lipa,Lâm Vỹ Dạ,Bernardo Silva,Trương Bá Chi |
 
 
 
