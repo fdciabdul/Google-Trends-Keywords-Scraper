@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-08-2022 , 14:42:26
+Last Update 28-08-2022 , 14:51:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thể thao,Quevilly đấu với Pau,Bayern Munich,Newcastle,Campuchia,Sevilla,Britney Spears,Bayern Munich vs,Phương Trinh Jolie,Huỳnh Hiểu Minh,Xoi,Lâm Vỹ Dạ,Xổ số ngày 27 tháng 8,Trương Bá Chi,Truc tiep bong da,Liverpool đấu với Bournemouth,Man City đấu với Crystal Palace,MU,Bảng xếp hạng Ngoại hạng Anh,Chelsea |
+| VIETNAM | Thể thao,Quevilly đấu với Pau,Bayern Munich,Viettel đấu với Thanh Hóa,Newcastle,Campuchia,Sevilla,Phương Trinh Jolie,Britney Spears,Bayern Munich vs,Huỳnh Hiểu Minh,Xoi,Lâm Vỹ Dạ,Xổ số ngày 27 tháng 8,Bernardo Silva,Trương Bá Chi,Truc tiep bong da,Man City đấu với Crystal Palace,Liverpool đấu với Bournemouth,MU |
 
 
 
