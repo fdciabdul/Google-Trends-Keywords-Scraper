@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-08-2022 , 06:38:21
+Last Update 29-08-2022 , 07:06:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Real Madrid,Yoo Joo Eun,PSG vs Monaco,Khắc Việt,VMAs 2022,Loc,Tot,Barcelona vs Valladolid,Phương Oanh Quỳnh búp bê,Thảo Bebe,Tottenham,Thể thao,Quevilly đấu với Pau,Bayern Munich,Viettel đấu với Thanh Hóa,Cristiano Ronaldo,Newcastle,AC Milan,Campuchia,Aston Villa |
+| VIETNAM | Yoo Joo Eun,Real Madrid,PSG vs Monaco,VMAs 2022,Khắc Việt,Loc,Tot,Barcelona vs Valladolid,Phương Oanh Quỳnh búp bê,Tottenham,Thể thao,Quevilly đấu với Pau,Bayern Munich,Viettel đấu với Thanh Hóa,Newcastle,AC Milan,Campuchia,Aston Villa,Phương Trinh Jolie,Dua Lipa |
 
 
 
