@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-08-2022 , 07:32:12
+Last Update 29-08-2022 , 07:45:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| EGYPT | برشلونة ضد بلد الوليد,رمضان صبحي,حسام حبيب,نادية الجندي,ترتيبات الدوري الإسباني,انتوني,توتنهام,استون فيلا,نانت,كارلوس كيروش,Medusa,مصطفى فهمي,هند رستم,رضوى الشربيني,ليلى علوي,نيوكاسل,عبد الله السعيد,فايلر,خالد الغندور,ليبيا |
+| VIETNAM | Yoo Joo Eun,Real Madrid,PSG vs Monaco,VMAs 2022,Khắc Việt,Loc,Tot,Barcelona vs Valladolid,Phương Oanh Quỳnh búp bê,Tottenham,Thể thao,Quevilly đấu với Pau,Bayern Munich,Viettel đấu với Thanh Hóa,Newcastle,AC Milan,Campuchia,Aston Villa,Phương Trinh Jolie,Dua Lipa |
 
 
 
