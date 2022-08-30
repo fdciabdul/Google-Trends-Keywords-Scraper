@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-08-2022 , 11:42:43
+Last Update 30-08-2022 , 11:51:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Atletico Madrid,Pep Guardiola,Phạm Băng Băng,Đỗ Mỹ Linh,Nhã Phương,Gara hạnh phúc tập 10,Vương Nhất Bác,Hội Tướng lĩnh Đức Thọ,Từ Hy Viên,Code All Star Tower Defense,HyunA,Dubravka,AFF Cup 2022,Lương Bích Hữu Ca sĩ,Bilbao,Slovakia,Cavani,Yoo Joo Eun,Real Madrid,VMAs 2022 |
+| VIETNAM | Atletico Madrid,Pep Guardiola,AFF Cup 2022,Đỗ Mỹ Linh,Nhã Phương,Phạm Băng Băng,Gara hạnh phúc tập 10,Vương Nhất Bác,Hội Tướng lĩnh Đức Thọ,Code All Star Tower Defense,Từ Hy Viên,HyunA,Dubravka,Lương Bích Hữu Ca sĩ,Bilbao,Scott Parker,Slovakia,Cavani,Yoo Joo Eun,Real Madrid |
 
 
 
