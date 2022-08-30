@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-08-2022 , 20:46:19
+Last Update 30-08-2022 , 20:55:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Pau FC,AC Milan,Chelsea vs,Atletico Madrid,Đinh Văn Nơi,Pep Guardiola,AFF Cup,Đỗ Mỹ Linh,Nhã Phương,Gara hạnh phúc tập 10,Scott Parker,Code All Star Tower Defense,Vương Nhất Bác,Hội Tướng lĩnh Đức Thọ,Lương Bích Hữu ca sĩ,HyunA,Từ Hy Viên,Dubravka,Iraq,Bilbao |
+| VIETNAM | Chelsea,Pau FC,AC Milan,Atletico Madrid,Đinh Văn Nơi,Pep Guardiola,AFF Cup,Đỗ Mỹ Linh,Nhã Phương,Gara hạnh phúc tập 10,Scott Parker,Code All Star Tower Defense,Vương Nhất Bác,Hội Tướng lĩnh Đức Thọ,Lương Bích Hữu ca sĩ,HyunA,Từ Hy Viên,Dubravka,Iraq,Bilbao |
 
 
 
