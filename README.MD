@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-08-2022 , 19:40:29
+Last Update 31-08-2022 , 19:49:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Triệu Lệ Dĩnh,Arsenal vs Aston Villa,Chelsea,Pau FC,Premier League,Gorbachev,Chó pitbull,Camila Morrone,Bang xep hang Anh,Hồ Hoài Anh,Ines Rau,Inter Milan,Lich ngoai hang Anh,Nghỉ lễ 2/9 mấy ngày,Roma,Fulham,Sùi mào gà,Midu,Lisa (BLACKPINK,Mai Phương Thúy |
+| VIETNAM | Arsenal,Tottenham,Triệu Lệ Dĩnh,Arsenal vs Aston Villa,Liverpool vs,Chelsea,Pau FC,Premier League,Gorbachev,Chó pitbull,Camila Morrone,Lich ngoai hang Anh,Bang xep hang Anh,Ines Rau,Hồ Hoài Anh,Inter Milan,Nghỉ lễ 2/9 mấy ngày,Roma,Fulham,Sùi mào gà |
 
 
 
