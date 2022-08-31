@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-08-2022 , 07:45:08
+Last Update 31-08-2022 , 07:58:50
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ngoại hạng Anh,Pau FC,Kết quả Bóng Đá Anh,AC Milan,Gorbachev,Inter Milan,Lich ngoai hang Anh,Hồ Hoài Anh,Fulham,Roma,Giải bóng đá Ngoại hạng Anh,Brighton,Midu,Lisa (BLACKPINK,Nghỉ lễ 2/9 mấy ngày,Camila Morrone,Premier League,Đinh Văn Nơi,AFF Cup 2022,Atletico Madrid |
+| VIETNAM | Ngoại hạng Anh,Pau FC,Kết quả Bóng Đá Anh,AC Milan,Gorbachev,Inter Milan,Hồ Hoài Anh,Lich ngoai hang Anh,Fulham,Roma,Giải bóng đá Ngoại hạng Anh,Brighton,Sùi mào gà,Midu,Lisa (BLACKPINK,Camila Morrone,Nghỉ lễ 2/9 mấy ngày,Đinh Văn Nơi,AFF Cup 2022,Scott Parker |
 
 
 
