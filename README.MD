@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-08-2022 , 23:57:17
+Last Update 01-09-2022 , 01:53:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool,PSG,Tottenham,Triệu Lệ Dĩnh,Ngoại hạng Anh,Chelsea,Pau FC,Arsenal,Gorbachev,Chó pitbull,Camila Morrone,AS Roma,Ines Rau,Hồ Hoài Anh,Inter Milan,Bảng xếp hạng Anh,Lich ngoai hang Anh,Duyên kiếp tập 22,Roma,Fulham |
+| VIETNAM | Liverpool,PSG,Tottenham,Triệu Lệ Dĩnh,Juventus,Bayern Munich,Fofana,Chelsea,Arsenal,Pau FC,Serie A,Chó pitbull,Gorbachev,AC Milan,Camila Morrone,Ines Rau,Hồ Hoài Anh,Inter Milan,Lich ngoai hang Anh,Bảng xếp hạng Anh |
 
 
 
