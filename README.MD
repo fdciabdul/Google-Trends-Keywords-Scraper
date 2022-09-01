@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-09-2022 , 11:48:12
+Last Update 01-09-2022 , 11:57:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Arsenal,PSG,Tottenham,Ligue 1,Triệu Lệ Dĩnh,Juventus,Bayern Munich,Tottenham vs,Tháng 9,Diễn viên Phương Oanh,Diệp Tuyền,Fofana,Ngày 2/9 là Ngày gì,Xổ số miền nam ngày 31 tháng 8,Đỗ Thị Hà,Joseph Schooling,Ngoại hạng Anh,Bảng xếp hạng Ngoại hạng Anh,Chelsea,Liverpool |
+| VIETNAM | Arsenal,PSG,Tottenham,Triệu Lệ Dĩnh,Juventus,Bayern Munich,Tottenham vs,Diễn viên Phương Oanh,Diệp Tuyền,Ngày 2/9 là Ngày gì,Fofana,Xổ số miền nam ngày 31 tháng 8,Đỗ Thị Hà,Joseph Schooling,Ngoại hạng Anh,Bảng xếp hạng Ngoại hạng Anh,Chelsea,Liverpool,Pau FC,Cù lao xác sống |
 
 
 
