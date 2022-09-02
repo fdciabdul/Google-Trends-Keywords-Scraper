@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-09-2022 , 04:05:48
+Last Update 02-09-2022 , 05:40:44
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ngày Quốc khánh Việt Nam,Vietnam National Day,2/9 là ngày gì,Man Utd,Quốc khánh 2/9,Zakaria,Bác Hồ,Hòa Minzy,Quốc khánh,Bảng xếp hạng,Diễn viên Bảo Anh,Marcelo,Hoa hậu Đỗ Mỹ Linh,Bùi Tiến Dũng,Hector Bellerin,Arsenal,Liverpool,Erling Haaland,PSG,Tottenham |
+| VIETNAM | Ngày Quốc khánh Việt Nam,Vietnam National Day,2/9 là ngày gì,Man Utd,Quốc khánh 2/9,Zakaria,Bác Hồ,MU vs Arsenal,Hồ Chí Minh,Hòa Minzy,Quốc khánh,Lisandro martínez,Bảng xếp hạng,Marcelo,Hoa hậu Đỗ Mỹ Linh,Trịnh Sảng,Diễn viên Bảo Anh,Hector Bellerin,Bùi Tiến Dũng,Arsenal |
 
 
 
