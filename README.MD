@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-09-2022 , 23:56:46
+Last Update 02-09-2022 , 01:51:32
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ngày Quốc khánh Việt Nam,Vietnam national Day,Hòa Minzy,Liverpool,Arsenal,Erling Haaland,PSG,Tottenham,Cù lao xác sống,Ligue 1,Juventus,Triệu Lệ Dĩnh,Bayern Munich,Ngày 2/9 là Ngày gì,Vivo Y22s,Môn phái võ mèo: Huyền thoại một chú chó,Aubameyang,Diễn viên Phương Oanh,Alvarez,Fofana |
+| VIETNAM | Ngày Quốc khánh Việt Nam,Man Utd,Vietnam national Day,Hòa Minzy,Bảng xếp hạng,Khinh khí cầu,Liverpool,Arsenal,Erling Haaland,PSG,2-9 là ngày gì,Tottenham,Cù lao xác sống,Giá xăng dầu hôm nay,Ligue 1,Juventus,Triệu Lệ Dĩnh,Bayern Munich,Vivo Y22s,Môn phái võ mèo: Huyền thoại một chú chó |
 
 
 
