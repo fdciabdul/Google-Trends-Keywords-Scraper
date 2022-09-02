@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-09-2022 , 13:43:42
+Last Update 02-09-2022 , 13:58:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ngày Quốc khánh Việt Nam,MU,2/9,Hà Nội đấu với Bình Định,Bình Dương đấu với Viettel,Bác Hồ,Hồ Chí Minh,Ý nghĩa ngày Quốc khánh 2/9,Trịnh Sảng,Ký ức vui vẻ,Hòa Minzy,Marcelo,Ngày quốc khánh là Ngày gì,Hoa hậu Đỗ Mỹ Linh,Hector Bellerin,Lễ hội khinh khí cầu,Diễn viên Bảo Anh,Tết Độc lập,Bùi Tiến Dũng,Spider-Man way home |
+| VIETNAM | Ngày Quốc khánh Việt Nam,MU,Hà Nội đấu với Bình Định,Quốc khánh 2/9,2/9,Bác Hồ,Hồ Chí Minh,Ý nghĩa ngày Quốc khánh 2/9,Trịnh Sảng,Ký ức vui vẻ,Marcelo,Ngày quốc khánh là Ngày gì,Hòa Minzy,Dương Mịch,Hoa hậu Đỗ Mỹ Linh,Hector Bellerin,Lễ hội khinh khí cầu,Tết Độc lập,Diễn viên Bảo Anh,Bùi Tiến Dũng |
 
 
 
