@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-09-2022 , 15:41:47
+Last Update 03-09-2022 , 15:52:01
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Everton đấu với Liverpool,Châu Kim Sang,HAGL,Bảng xếp hạng VLeague,Khánh Thy,U20 Việt Nam,Phi Nhung,Biển vô cực,Patrice Evra,Jennie Blackpink,Topenland Bình Định,Chelsea vs West Ham,Hồng Diễm,Evra,Red Velvet,Top Gun,Xổ số miền Nam ngày 2 tháng 9,Ngày Quốc khánh Việt Nam,M.U,Hà Nội đấu với Bình Định |
+| VIETNAM | Everton đấu với Liverpool,Châu Kim Sang,HAGL,Bảng xếp hạng VLeague,U20 Việt Nam,Khánh Thy,Phi Nhung,Biển vô cực,Chelsea vs West Ham,Patrice Evra,Duyên kiếp tập 25,Jennie Blackpink,Topenland Bình Định,Trương Mỹ Nhân,Phạm Băng Băng,Hồng Diễm,Evra,Red Velvet,Top Gun,Xổ số miền Nam ngày 2 tháng 9 |
 
 
 
