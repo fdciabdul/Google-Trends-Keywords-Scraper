@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-09-2022 , 09:44:40
+Last Update 03-09-2022 , 09:53:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Phi Nhung,Patrice Evra,Ngày Quốc khánh Việt Nam,M.U,Hà Nội đấu với Bình Định,Dortmund,2/9,Bác Hồ,Trịnh Sảng,Ngày quốc khánh là Ngày gì,Han So Hee,Hòa Minzy,Dương Mịch,Hoa hậu Đỗ Mỹ Linh,Hector Bellerin,Tết Độc lập,Lễ hội khinh khí cầu,Môn phái võ mèo: Huyền thoại một chú chó,Diễn viên Bảo Anh,Blackpink Rosé |
+| VIETNAM | Phi Nhung,Khánh Thy,BẢNG XẾP HẠNG V-League,Patrice Evra,Xổ số miền Nam ngày 2 tháng 9,Ngày Quốc khánh Việt Nam,M.U,Hà Nội đấu với Bình Định,Dortmund,2/9,Bác Hồ,Trịnh Sảng,Ngày quốc khánh là Ngày gì,Han So Hee,Hòa Minzy,Hoa hậu Đỗ Mỹ Linh,Hector Bellerin,Tết Độc lập,Lễ hội khinh khí cầu,Môn phái võ mèo: Huyền thoại một chú chó |
 
 
 
