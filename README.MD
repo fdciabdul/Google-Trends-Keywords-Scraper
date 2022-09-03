@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-09-2022 , 17:39:14
+Last Update 03-09-2022 , 17:47:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Everton đấu với Liverpool,Chelsea đấu với West Ham,Châu Kim Sang,Tottenham,HAGL,U20 Việt Nam,Ca sĩ Khánh thi,Phi Nhung,Biển vô cực,Patrice Evra,Jennie Blackpink,Real,Big Mouth tập 12,Topenland Bình Định,Trương Mỹ Nhân,Phạm Băng Băng,SLNA,Hồng Diễm,Evra,Red Velvet |
+| VIETNAM | Aston Villa vs Man City,Serena Williams,Everton đấu với Liverpool,Chelsea đấu với West Ham,Châu Kim Sang,Tottenham,HAGL,Real Madrid,Big Mouth tập 12,U20 Việt Nam,Ca sĩ Khánh thi,Phi Nhung,Biển vô cực,Duyên kiếp tập 25,Patrice Evra,Jennie Blackpink,Topenland Bình Định,Trương Mỹ Nhân,Phạm Băng Băng,SLNA |
 
 
 
