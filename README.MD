@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-09-2022 , 11:56:24
+Last Update 05-09-2022 , 12:31:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nguyễn Quang Hải,AS Roma,Harry Maguire,Giá dầu hôm nay,Marcus Rashford,Hồng Nhung,Bukayo Saka,Mâm cỗ Trung thu,Midu,Nathan Lee,Lưu Đức Hoa,Lời chúc năm học mới,Shark Hùng Anh,Petrolimex,Martinelli,Ngày đầu tiên đi học,Thư Chủ tịch nước gửi ngày khai giảng 2022,Aston Villa vs Man City,Barca,Brighton |
+| VIETNAM | Giá xăng dầu hôm nay,Nguyễn Quang Hải,AS Roma,Marcus Rashford,Eriksen,Harry Maguire,Tyrell Malacia,Nathan Lee,Hồng Nhung,Bukayo Saka,Mâm cỗ Trung thu,Midu,Lời chúc năm học mới,Shark Hùng Anh,Lưu Đức Hoa,Martinelli,Tôi đi học,Ngày đầu tiên đi học,Cường Đô La,Thư Chủ tịch nước gửi ngày khai giảng 2022 |
 
 
 
