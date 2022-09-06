@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-09-2022 , 18:37:37
+Last Update 06-09-2022 , 18:55:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tết Trung thu,Lâm Ngạn Tuấn,Duyên kiếp tập 27,UEFA Champions League,Atalanta,Tuấn Hưng,PSG vs Juventus,One Piece chap 1059,Lịch nghỉ Tết Nguyên đán 2023,Ra mắt iPhone 14,Garage hạnh phúc tập 13,Thiều Bảo Trâm,Johnny trí nguyễn,Timothée Chalamet,Dortmund,Lâm tâm như,Celtic,Champion League,Sách giáo khoa,Arsenal |
+| VIETNAM | Sevilla,Tết Trung thu,Lâm Ngạn Tuấn,Duyên kiếp tập 27,UEFA Champions League,Atalanta,Tuấn Hưng,PSG vs Juventus,Dortmund,Lịch nghỉ Tết Nguyên đán 2023,Ra mắt iPhone 14,Garage hạnh phúc tập 13,Thiều Bảo Trâm,Johnny trí nguyễn,Timothée Chalamet,Lâm Tâm Như,Celtic,Champion League,Sách giáo khoa,Man Utd đấu với Arsenal |
 
 
 
