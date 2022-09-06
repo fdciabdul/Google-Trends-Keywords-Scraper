@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-09-2022 , 19:45:30
+Last Update 06-09-2022 , 19:54:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sevilla,Tết Trung thu,Lâm Ngạn Tuấn,Duyên kiếp tập 27,UEFA Champions League,Atalanta,Tuấn Hưng,PSG vs Juventus,Dortmund,Lịch nghỉ Tết Nguyên đán 2023,Ra mắt iPhone 14,Garage hạnh phúc tập 13,Thiều Bảo Trâm,Johnny trí nguyễn,Timothée Chalamet,Lâm Tâm Như,Celtic,Champion League,Sách giáo khoa,Man Utd đấu với Arsenal |
+| VIETNAM | Sevilla,Champions League 2022,Tết Trung thu,Lâm Ngạn Tuấn,PSG vs Juventus,Duyên kiếp tập 27,Dortmund,UEFA Champions League,Atalanta,Tuấn Hưng,Cúp C1,Lịch nghỉ Tết Nguyên đán 2023,Ra mắt iPhone 14,Garage hạnh phúc tập 13,Thiều Bảo Trâm,Johnny trí nguyễn,Timothée Chalamet,Celtic,Lâm Tâm Như,Man Utd đấu với Arsenal |
 
 
 
