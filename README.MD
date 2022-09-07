@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-09-2022 , 19:51:28
+Last Update 07-09-2022 , 20:00:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Cháy quán karaoke ở Bình Dương,C1,Du bao thoi tiet,Thẩm Thúy Hằng,Kết quả C1,HAGL,Lê Hoàng Long,Nón Sơn,Mâm cỗ Trung thu đẹp,Champions League 2022,Dortmund vs,Graham Potter,MC,Leandro Paredes,Hòa Minzy,Bão,Hoa hậu Đỗ Mỹ Linh,Adriana Lima,Lý Dịch Phong,Yên Nhật |
+| VIETNAM | Napoli vs Liverpool,Cháy quán karaoke ở Bình Dương,C1,Du bao thoi tiet,Ket qua C1,Thẩm Thúy Hằng,HAGL,Lê Hoàng Long,Nón Sơn,Champions League 2022,Mâm cỗ Trung thu đẹp,Dortmund vs,MC,Leandro Paredes,Hòa Minzy,Bão,Hoa hậu Đỗ Mỹ Linh,Adriana Lima,Lý Dịch Phong,Yên Nhật |
 
 
 
