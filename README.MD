@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-09-2022 , 12:24:28
+Last Update 07-09-2022 , 13:25:27
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dự báo thời tiết hôm nay,Cháy quán karaoke ở Bình Dương,Thẩm Thúy Hằng,Apple,Nón Sơn,Dortmund vs,Quốc hoa của Việt Nam,MC,Champions League 2022,Hòa Minzy,Adriana Lima,Leandro Paredes,Lý Dịch Phong,Hoa hậu Đỗ Mỹ Linh,Gin Tuấn Kiệt,HAGL,Yên Nhật,Man City vs Sevilla,Chelsea,iPhone 14 |
+| VIETNAM | Du bao thoi tiet,Cháy quán karaoke ở Bình Dương,Thẩm Thúy Hằng,Nón Sơn,Apple,Mâm cỗ Trung thu đẹp,Dortmund vs,Quốc hoa của Việt Nam,MC,Champions League 2022,Hòa Minzy,HAGL,Leandro Paredes,Adriana Lima,Lý Dịch Phong,Hoa hậu Đỗ Mỹ Linh,Gin Tuấn Kiệt,Yên Nhật,Kisaragi,Chelsea |
 
 
 
