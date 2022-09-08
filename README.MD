@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-09-2022 , 12:13:36
+Last Update 08-09-2022 , 13:02:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | iPhone 11,Bayern Munich,iOS 16,Apple Watch Ultra,Atletico Madrid,Richarlison,Đặng Văn Lâm,Angelina Jolie,Tdc,Giá iPhone,Thu Thủy,Cup quoc gia,Nhật Kim Anh,C1,Cháy quán karaoke ở Bình Dương,Hoa hậu Thuý Hằng,Du bao thoi tiet,Thẩm Thúy Hằng,Barca,Duyên Kiếp tập 28 |
+| VIETNAM | iPhone 11,Bayern Munich,Tết Trung thu,iOS 16,Apple Watch Ultra,Atletico Madrid,Richarlison,Đặng Văn Lâm,Cup quoc gia,Angelina Jolie,Song Hye Kyo,Tdc,Thu Thủy,Nhật Kim Anh,Cháy quán karaoke ở Bình Dương,Hoa hậu Thuý Hằng,Du bao thoi tiet,Thẩm Thúy Hằng,Barca,Duyên Kiếp tập 28 |
 
 
 
