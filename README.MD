@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-09-2022 , 00:31:07
+Last Update 08-09-2022 , 03:22:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Napoli vs Liverpool,Tottenham vs Marseille,C1,Cháy quán karaoke ở Bình Dương,Du-bao-thoi-tiet,Thẩm Thúy Hằng,Man City,Kết quả C1,Barca,Erling Haaland,HAGL,Lê Hoàng Long,Nón Sơn,Mâm cỗ Trung thu đẹp,Dortmund vs,MC,Man City vs,Leandro Paredes,Hòa Minzy,Bão |
+| VIETNAM | Bayern Munich,iOS 16,Tottenham vs Marseille,Atletico Madrid,Tdc,C1,Cháy quán karaoke ở Bình Dương,Du bao thoi tiet,Thẩm Thúy Hằng,Lê Hoàng Long,Barca,HAGL,Nón Sơn,Kết quả bóng đá C1,Mâm cỗ Trung thu đẹp,Dortmund vs,Haaland,MC,Man City vs,Leandro Paredes |
 
 
 
