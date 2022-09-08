@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-09-2022 , 06:46:21
+Last Update 08-09-2022 , 07:19:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bayern Munich,iOS 16,Apple Watch Series 8,Atletico Madrid,Đặng Văn Lâm,Richarlison,Thu Thảo,Tdc,C1,Cháy quán karaoke ở Bình Dương,Hoa hậu Thuý Hằng,Du bao thoi tiet,Thẩm Thúy Hằng,Barca,Duyên Kiếp tập 28,HAGL,Kết quả bóng đá C1,Mâm cỗ Trung thu đẹp,MU vs Real Sociedad,Dortmund vs |
+| VIETNAM | Bayern Munich,iOS 16,Apple Watch Series 8,Atletico Madrid,Đặng Văn Lâm,Richarlison,Thu Thảo,Tdc,Angelina Jolie,C1,Cháy quán karaoke ở Bình Dương,Hoa hậu Thuý Hằng,Du bao thoi tiet,Thẩm Thúy Hằng,Duyên Kiếp tập 28,HAGL,Mâm cỗ Trung thu đẹp,Barcelona vs Viktoria Plzeň,Kết quả bóng đá C1,MU vs Real Sociedad |
 
 
 
