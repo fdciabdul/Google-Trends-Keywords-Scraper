@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-09-2022 , 23:55:40
+Last Update 09-09-2022 , 01:45:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | C2,PSV,Arsenal vs Zurich,iPhone 11,Nữ hoàng Anh,Napoli vs Liverpool,Bayern Munich,iOS 16,Đặng Văn Lâm,Apple Watch Ultra,Atletico Madrid,Phùng Xuân Nhạ,Richarlison,Song Hye Kyo,Trang nguyen,Angelina Jolie,Tdc,Nhật Kim Anh,Bayern Munich vs,iPhone 14 |
+| VIETNAM | C2,Uefa Europa League,AS Roma,Arsenal vs,West Ham,Nữ hoàng Anh,iPhone 11,Napoli vs Liverpool,Tết Trung thu,Bayern Munich,Đặng Văn Lâm,iOS 16,Apple Watch Ultra,Atletico Madrid,Phùng Xuân Nhạ,Richarlison,Song Hye Kyo,Trang nguyen,Angelina Jolie,Tdc |
 
 
 
