@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-09-2022 , 16:35:27
+Last Update 10-09-2022 , 17:01:51
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tết Trung thu,Lý Dịch Phong,Tết Trung thu ở Việt Nam,Tham Thuy Hang,PSG – Brest,Cúng Rằm tháng 8,Đen Vâu,Vinh Sử,Trịnh Văn Quyết,Big Mouth 12,Phan Sơn Tùng,Tết Trung thu tiếng anh,Honda Vision,Phi Thanh Vân,Đào Bá Lộc,Tết Đoàn viên,Chi Pu,Arsenal,C2,Nguyễn Quang Hải |
+| VIETNAM | Tết Trung thu,PSG,Thẩm Thúy Hằng,Lý Dịch Phong,Tết Trung thu ở Việt Nam,Bayern – Stuttgart,Cúng Rằm tháng 8,Sevilla,Đen Vâu,Vinh Sử,Trịnh Văn Quyết,Phan Sơn Tùng,Phi Thanh Vân,Honda Vision,Cádiz – Barcelona,Mathys Tel,Đào Bá Lộc,Tết Đoàn viên,Chi Pu,Arsenal |
 
 
 
