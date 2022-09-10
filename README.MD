@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-09-2022 , 23:58:40
+Last Update 10-09-2022 , 02:32:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Phan Sơn Tùng,Arsenal,C2,Nguyễn Quang Hải,AS Roma,Arsenal vs,West Ham,BlackPink Lisa,Mai Phương Thúy,Những điểm mới trên iPhone 14 Pro và iPhone 14 Pro Max,Meghan Markle,CNN,Time is,Thanh Tâm,Phí Ngọc Hưng,Xổ số miền Nam ngày 8 tháng 9,Camilla,Cướp ngân hàng,Nữ hoàng Anh,Tết Trung thu |
+| VIETNAM | Dong xin,Phan Sơn Tùng,Arsenal,C2,Nguyễn Quang Hải,As Roma,Nhạc trung thu,Arsenal vs,West Ham,Mai Phương Thúy,BlackPink Lisa,Trình Mỹ Duyên,Hoàng gia Anh,Những điểm mới trên iPhone 14 Pro và iPhone 14 Pro Max,Meghan Markle,CNN,Phí Ngọc Hưng,Camilla,Thủ tướng Anh,Xổ số miền Nam ngày 8 tháng 9 |
 
 
 
