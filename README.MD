@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-09-2022 , 10:54:43
+Last Update 10-09-2022 , 11:11:06
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Cúng Rằm tháng 8,Phan Sơn Tùng,Trịnh Văn Quyết,Tết Trung thu tiếng anh,Đào Bá Lộc,Vinh Sử,PewPew,Honda Vision,LUNA,Tết đoàn viên,Arsenal,Big Mouth 13,C2,Nguyễn Quang Hải,Nhạc Trung thu,AS Roma,Duyên Kiếp tập 30,West Ham,Xổ số miền Nam ngày 9 tháng 9,Trình Mỹ Duyên |
+| VIETNAM | Tết Trung thu ở Việt Nam,Cúng Rằm tháng 8,Phan Sơn Tùng,Trịnh Văn Quyết,Vinh Sử,Tết Trung thu tiếng anh,PewPew,Đào Bá Lộc,Honda Vision,LUNA,Tết đoàn viên,Arsenal,Big Mouth 13,C2,Nguyễn Quang Hải,Nhạc Trung thu,AS Roma,Duyên Kiếp tập 30,Tái sinh,West Ham |
 
 
 
