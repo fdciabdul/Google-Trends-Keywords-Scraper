@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-09-2022 , 06:01:21
+Last Update 10-09-2022 , 06:36:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Phan Sơn Tùng,Cúng. Rằm tháng 8,Tết Trung thu ở Việt Nam,Đào Bá Lộc,Arsenal,C2,Nguyễn Quang Hải,As Roma,Nhạc trung thu,Arsenal vs,West Ham,Diana,Mai Phương Thúy,Trình Mỹ Duyên,Xổ số miền Nam ngày 8 tháng 9,BlackPink Lisa,Ngày Trung thu,Những điểm mới trên iPhone 14 Pro và iPhone 14 Pro Max,Meghan Markle,Trung thu là Tết Thiếu nhi |
+| VIETNAM | Phan Sơn Tùng,Tết Trung thu ở Việt Nam,Cúng Rằm tháng 8,Tết Trung thu tiếng Anh,Trịnh Văn Quyết,Đào Bá Lộc,Arsenal,C2,Nguyễn Quang Hải,Nhạc trung thu,As Roma,Arsenal vs,Diana,West Ham,Mai Phương Thúy,Trình Mỹ Duyên,Xổ số miền Nam ngày 8 tháng 9,BlackPink Lisa,Ngày Trung thu,Những điểm mới trên iPhone 14 Pro và iPhone 14 Pro Max |
 
 
 
