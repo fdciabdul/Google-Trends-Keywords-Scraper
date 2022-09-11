@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-09-2022 , 16:33:17
+Last Update 11-09-2022 , 17:01:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Pau FC,Real Madrid – Mallorca,Inter – Torino,Đàm Vĩnh Hưng,Trung Quân Idol,Cat,Ngô Diệc Phàm,Khủng bố 11/9,Pique,Tết Trung thu,Barca,Lý Dịch Phong,PSG,Thẩm Thúy Hằng,11/9,Tết Trung thu ở Việt Nam,Bayern – Stuttgart,Đen Vâu,Vinh Sử,Sevilla |
+| VIETNAM | Real Madrid,Pau FC,Inter – Torino,Đàm Vĩnh Hưng,Trung Quân Idol,Cat,Ngô Diệc Phàm,Khủng bố 11/9,Trăng trung thu,Pique,Huỳnh Như,Tết Trung thu,PSG đấu với Brest,Lý Dịch Phong,Barca,Thẩm Thúy Hằng,Big Mouth 14,11/9,Tết Trung thu ở Việt Nam,Bayern – Stuttgart |
 
 
 
