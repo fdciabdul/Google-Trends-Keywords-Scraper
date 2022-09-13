@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-09-2022 , 14:49:37
+Last Update 13-09-2022 , 14:58:21
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sài Gòn đấu với Hà Nội,AS Roma,Team building,Totti,Lòng xào dưa,SLNA,Lien minh,Garage hạnh phúc tập 16,Tiêu Chiến,Liverpool – Ajax,Britney Spears,Công Phượng,Lee Jung Jae,iOS 16,Juventus,Barca vs Bayern,5 điều Bác Hồ dạy,Trương Hàn,Miss Peace Vietnam,Cháy karaoke Đồng Nai |
+| VIETNAM | Sài Gòn – Hà Nội,AS Roma,Sông Lam Nghệ An – Đà Nẵng,HAGL,Team building,Totti,Lòng xào dưa,Trang nguyen,Garage hạnh phúc tập 16,Lien minh,Liverpool – Ajax,Tiêu Chiến,Phim Duyên kiếp tập 32,Rise of Eros,Britney Spears,Công Phượng,Lee Jung Jae,Thủ Đức,Diễn viên Trung Quốc Lý Dịch Phong,iOS 16 |
 
 
 
