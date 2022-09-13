@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-09-2022 , 05:56:12
+Last Update 13-09-2022 , 06:54:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | AS Roma,Tiêu Chiến,Xổ số miền nam ngày 12 tháng 9,Lien minh,Totti,Juventus,iOS 16,Barca vs Bayern,5 điều Bác Hồ dạy,Miss Peace Vietnam,Phùng Sĩ Tấn,Cháy karaoke Đồng Nai,Carlos Alcaraz,Nhật Kim Anh,Nho mẫu đơn,Juventus vs,Dương Dương,Sơ đồ tư duy,Ca sĩ Hiền Hồ,Đội tuyển bóng đá quốc gia Việt Nam |
+| VIETNAM | AS Roma,Tiêu Chiến,Xổ số miền nam ngày 12 tháng 9,Lien minh,Totti,Công Phượng,Juventus,iOS 16,Barca vs Bayern,5 điều Bác Hồ dạy,Miss Peace Vietnam,Phùng Sĩ Tấn,Cháy karaoke Đồng Nai,Carlos Alcaraz,Nho mẫu đơn,Nhật Kim Anh,Juventus vs,Dương Dương,Sơ đồ tư duy,Ca sĩ Hiền Hồ |
 
 
 
