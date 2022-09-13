@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-09-2022 , 22:41:16
+Last Update 13-09-2022 , 22:53:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sporting vs Tottenham,Dương Cẩm Lynh,Liverpool – Ajax,V-League,Sài Gòn – Hà Nội,Sông Lam Nghệ An – Đà Nẵng,AS Roma,Team building Quảng Ninh,Ket qua C1,Totti,Lòng xào dưa,Garage hạnh phúc tập 16,Trang nguyen,Nhậm Gia Luân,Rise of Eros,Tiêu Chiến,Phim Duyên kiếp tập 32,DTCL mua 7.5,Lee Jung Jae,Britney Spears |
+| VIETNAM | Dương Cẩm Lynh,Liverpool – Ajax,V-League,Sài Gòn – Hà Nội,Sông Lam Nghệ An – Đà Nẵng,AS Roma,Tottenham,Team building Quảng Ninh,Ngược Dòng Thời Gian Để Yêu Anh,Ket qua C1,Totti,Lòng xào dưa,Garage hạnh phúc tập 16,Trang nguyen,Nhậm Gia Luân,Rise of Eros,Phim Duyên kiếp tập 32,DTCL mua 7.5,Lee Jung Jae,Britney Spears |
 
 
 
