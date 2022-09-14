@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-09-2022 , 19:49:27
+Last Update 14-09-2022 , 19:58:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đồng Nai,U20 Việt Nam,Milan – Dinamo,Bình Định – Hải Phòng,Man City – Dortmund,Gigi Hadid,Shakhtar – Celtic,Maccabi Haifa – PSG,Chelsea – RB Salzburg,Real Madrid – Leipzig,Điểm chuẩn Đại học 2022,Vespa,Juventus – Benfica,Diệu Nhi,Huỳnh Văn Nén,Propzy,Dương Cẩm Lynh,Mỹ Tâm,Hương Giang,Zendaya |
+| VIETNAM | Đồng Nai,U20 Việt Nam,Milan – Dinamo,Man City – Dortmund,Bình Định – Hải Phòng,Gigi Hadid,Maccabi Haifa – PSG,Shakhtar – Celtic,Chelsea – RB Salzburg,Điểm chuẩn Đại học 2022,Vespa,Diệu Nhi,Huỳnh Văn Nén,Propzy,Dương Cẩm Lynh,Mỹ Tâm,Hương Giang,Zendaya,Wowy,Xổ số miền Nam ngày 13 tháng 9 |
 
 
 
