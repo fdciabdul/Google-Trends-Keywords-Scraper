@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-09-2022 , 20:49:26
+Last Update 15-09-2022 , 20:58:53
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PTIT,Vụ án Đồng Nai,Virus Adeno,MU vs Sheriff,The Merge,Steam,Thần Trùng,AC Milan,Lý Dịch Phong clip,Mason Greenwood,Roger Federer,HUTECH,Đồng Nai,IUH,Olympiakos – Freiburg,Thí sinh,Đặng Luân,Milan,Điểm chuẩn Đại học Cần Thơ 2022,Neu |
+| VIETNAM | PTIT,Virus Adeno,MU vs Sheriff,Chồng chặt tay vợ,The Merge,Steam,Thần Trùng,AC Milan,Lý Dịch Phong clip,Mason Greenwood,Roger Federer,HUTECH,Đồng Nai,Betis – Ludogorets,IUH,Điểm chuẩn Đại học Cần Thơ 2022,Olympiakos – Freiburg,Thí sinh,Đặng Luân,Milan |
 
 
 
