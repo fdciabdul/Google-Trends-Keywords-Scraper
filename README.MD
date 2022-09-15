@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-09-2022 , 18:39:43
+Last Update 15-09-2022 , 18:56:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Feyenoord – Sturm Graz,Virus Adeno,Đồng Nai,The Merge,Steam,Thần Trùng,AC Milan,Lý Dịch Phong clip,Mason Greenwood,HUTECH,Roger Federer,IUH,Thí sinh,Đặng Luân,Neu,MC,Olympiakos – Freiburg,Dương Mịch,Uef,Đại học FPT |
+| VIETNAM | PTIT,Virus Adeno,Đồng Nai,The Merge,Steam,Thần Trùng,AC Milan,Lý Dịch Phong clip,Mason Greenwood,Roger Federer,HUTECH,IUH,Thí sinh,Đặng Luân,Olympiakos – Freiburg,Milan,Neu,MC,Uef,Dương Mịch |
 
 
 
