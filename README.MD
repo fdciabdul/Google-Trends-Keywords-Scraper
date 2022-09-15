@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-09-2022 , 16:38:49
+Last Update 15-09-2022 , 17:05:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đồng Nai,Virus Adeno,The Merge,Steam,Thần Trùng,AC Milan,Lý Dịch Phong clip,Mason Greenwood,HUTECH,IUH,Đặng Luân,Thí sinh,MC,Neu,Roger Federer,Dương Mịch,Selena Gomez,Uef,Wolves – Man City,Xổ số miền Nam ngày 14 tháng 9 |
+| VIETNAM | Virus Adeno,Đồng Nai,The Merge,Steam,Thần Trùng,AC Milan,Lý Dịch Phong clip,Mason Greenwood,HUTECH,IUH,Thí sinh,Đặng Luân,Roger Federer,Neu,MC,Dương Mịch,Uef,Selena Gomez,Đại học FPT,Wolves – Man City |
 
 
 
