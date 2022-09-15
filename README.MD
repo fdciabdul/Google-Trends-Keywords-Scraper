@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-09-2022 , 12:28:32
+Last Update 15-09-2022 , 13:28:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | The Merge,Đồng Nai,Virus Adeno,AC Milan,Mason Greenwood,HUTECH,Đặng Luân,Điểm chuẩn Đại học Cần Thơ 2022,MC,Dương Mịch,Selena Gomez,Xổ số miền Nam ngày 14 tháng 9,Wolves – Man City,Cây kim tiền,Neu,Đại học Sư phạm Hà Nội,Paris saint germain,Phim Đêm tối rực rỡ,Vương phi,Uef |
+| VIETNAM | The Merge,Virus Adeno,Đồng Nai,AC Milan,Mason Greenwood,HUTECH,Đặng Luân,MC,Dương Mịch,Clip Lý Dịch Phong,Selena Gomez,Xổ số miền Nam ngày 14 tháng 9,Wolves – Man City,Neu,Cây kim tiền,Uef,Paris saint germain,Phim Đêm tối rực rỡ,Vương phi,Ibrahimovic |
 
 
 
