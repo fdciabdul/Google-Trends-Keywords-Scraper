@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-09-2022 , 23:57:41
+Last Update 16-09-2022 , 02:25:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man City – Dortmund,Dynamo Kyiv – AEK Larnaca,Hapoel Beer Sheva – Villarreal,PTIT,Đồng Nai,MU vs Sheriff,Virus Adeno,AC Milan,Steam,The Merge,Thần Trùng,Lý Dịch Phong clip,Roger Federer,Mason Greenwood,HUTECH,IUH,Điểm chuẩn Đại học Cần Thơ 2022,Olympiakos – Freiburg,Thí sinh,Đặng Luân |
+| VIETNAM | Man City – Dortmund,Rennes – fenerbahçe,Hapoel Beer Sheva – Villarreal,PTIT,Bùi Tiến Dũng,Đồng Nai,Virus Adeno,The Merge,Steam,Thần Trùng,Tra cứu kết quả trúng tuyển đại học 2022,AC Milan,Roger Federer,Mason Greenwood,HUTECH,Olympiakos – Freiburg,Thí sinh,Đặng Luân,Neu,MC |
 
 
 
