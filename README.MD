@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-09-2022 , 13:09:37
+Last Update 16-09-2022 , 14:01:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | BLACKPINK,Á hậu Phương Nga,Rennes – fenerbahçe,Figma,Aston Villa – Southampton,Braga – Union Berlin,PTIT,U20 Việt Nam vs U20 Timor Leste,V (BTS,XSMN 16/9,Chồng cũ vợ cũ người yêu cũ tập cuối,Tra cứu kết quả trúng tuyển đại học,Hapoel Beer Sheva – Villarreal,Park Yoo Chun,Tài nguyên Môi trường,Tap,Shin Min Ah,Bộ Giáo dục và Đào tạo,Hồ Ngọc Hà,Man Utd – arsenal |
+| VIETNAM | Blackpink,Á hậu Phương Nga,Feyenoord – Sturm Graz,Rennes – fenerbahçe,Figma,Aston Villa – Southampton,Braga – Union Berlin,Phương Uyên,U20 Việt Nam vs U20 Timor Leste,V (BTS,Chồng cũ vợ cũ người yêu cũ tập cuối,XSMN 16/9,Tra cứu kết quả trúng tuyển đại học,Phim Thỉnh Quân,Hapoel Beer Sheva – Villarreal,Park Yoo Chun,Shin Min Ah,Tài nguyên Môi trường,Tap,Bộ Giáo dục và Đào tạo |
 
 
 
