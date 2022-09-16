@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-09-2022 , 06:40:34
+Last Update 16-09-2022 , 07:16:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man City – Dortmund,Điểm chuẩn Đại học Tôn Đức Thắng 2022,Rennes – fenerbahçe,Á hậu Phương Nga,Figma,Aston Villa – Southampton,Shut Down,PTIT,Hapoel Beer Sheva – Villarreal,Chồng cũ vợ cũ người yêu cũ tập cuối,Tài nguyên Môi trường,Hồ Ngọc Hà,Park Yoo Chun,Tra cứu kết quả trúng tuyển đại học,Nam Cần Thơ,Sheriff – Man Utd,Virus Adeno,Vụ án Đồng Nai,The Merge,Steam |
+| VIETNAM | Điểm chuẩn Đại học Tôn Đức Thắng 2022,Á hậu Phương Nga,Rennes – fenerbahçe,Shut Down,Figma,Aston Villa – Southampton,PTIT,Chồng cũ vợ cũ người yêu cũ tập cuối,Hapoel Beer Sheva – Villarreal,Duyen kiep tap 35,Tài nguyên Môi trường,Park Yoo Chun,Tra cứu kết quả trúng tuyển đại học,Hồ Ngọc Hà,Nam Cần Thơ,Sheriff – Man Utd,Virus Adeno,Vụ án Đồng Nai,The Merge,Steam |
 
 
 
