@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-09-2022 , 16:38:08
+Last Update 16-09-2022 , 17:18:50
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sheriff đấu với Man Utd,Blackpink,Á hậu Phương Nga,Aston Villa – Southampton,Rennes – fenerbahçe,U20 Việt Nam vs U20 Timor Leste,Figma,Thỉnh Quân phim,Bình An,Braga – Union Berlin,Ufotable,Phương Uyên,V (BTS,Chồng cũ vợ cũ người yêu cũ tập cuối,Shin Min Ah,Phạm Xuân Thăng,Duyen kiep tap 35,Hapoel Beer Sheva – Villarreal,Cháy ở Trung Quốc,Park Yoo Chun |
+| VIETNAM | Sheriff đấu với Man Utd,BLACKPINK,Á hậu Phương Nga,Aston Villa – Southampton,Figma,Kim Woo Bin,Ufotable,Phương Uyên,V (BTS,Phạm Xuân Thăng,Chồng cũ vợ cũ người yêu cũ tập cuối,Cháy ở Trung Quốc,Dynamo Kyiv – AEK Larnaca,Hapoel Beer Sheva – Villarreal,Park Yoo Chun,James Rodriguez,Thinh quan,Tap,Tài nguyên Môi trường,Man Utd – arsenal |
 
 
 
