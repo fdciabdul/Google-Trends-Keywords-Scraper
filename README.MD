@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-09-2022 , 11:45:23
+Last Update 16-09-2022 , 11:53:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Á hậu Phương Nga,Rennes – fenerbahçe,Shut Down,Figma,Aston Villa – Southampton,Chồng cũ vợ cũ người yêu cũ tập cuối,Hapoel Beer Sheva – Villarreal,Park Yoo Chun,Bình an,Bộ Giáo dục và Đào tạo,Hồ Ngọc Hà,Man Utd – arsenal,U20 Việt Nam vs U20 Timor Leste,Tap,Sheriff – Man Utd,Virus Adeno,Vụ án Đồng Nai,Tra cứu kết quả trúng tuyển đại học 2022,The Merge,Roger Federer |
+| VIETNAM | BLACKPINK,Á hậu Phương Nga,Rennes – fenerbahçe,Figma,Aston Villa – Southampton,Braga – Union Berlin,V (BTS,Chồng cũ vợ cũ người yêu cũ tập cuối,U20 Việt Nam vs U20 Timor Leste,Hapoel Beer Sheva – Villarreal,Tra cứu kết quả trúng tuyển đại học,Park Yoo Chun,Bộ Giáo dục và Đào tạo,Tap,Hồ Ngọc Hà,Man Utd – arsenal,Sheriff – Man Utd,Virus Adeno,Vụ án Đồng Nai,The Merge |
 
 
 
