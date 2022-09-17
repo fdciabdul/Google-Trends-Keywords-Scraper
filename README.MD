@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-09-2022 , 13:33:18
+Last Update 17-09-2022 , 13:53:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Wolves – Man City,Genshin Impact,Tottenham – Leicester,Newcastle – Bournemouth,Quang Hải Pau FC,Barcelona – Elche,Hoài Linh,XSMN 17/9,Auxerre – Lorient,Brentford – Arsenal,MC,Augsburg – Bayern,ROG Phone 6,Đồng Nai khởi tố Phó giám đốc Văn phòng đăng ký đất đai huyện Long Thành,Jimin,Big Mouth 15,U20 Việt Nam,Blackpink,Á hậu Phương Nga,Giá vàng 9999 hôm nay |
+| VIETNAM | Premier League,Genshin Impact,Tottenham – Leicester,Newcastle – Bournemouth,Barcelona – Elche,Quang Hải Pau FC,MC,Augsburg – Bayern,Hoài Linh,XSMN 17/9,Brentford – Arsenal,Auxerre – Lorient,Bologna – Empoli,ROG Phone 6,Đồng Nai khởi tố Phó giám đốc Văn phòng đăng ký đất đai huyện Long Thành,Jimin,Wolves – Man City,Big Mouth 15,U20 Việt Nam,Blackpink |
 
 
 
