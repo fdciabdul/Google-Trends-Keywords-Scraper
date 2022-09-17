@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-09-2022 , 23:55:11
+Last Update 17-09-2022 , 01:17:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Genshin Impact,Wolves – Man City,Auxerre – Lorient,U20 Việt Nam,BLACKPINK,Á hậu Phương Nga,Feyenoord – Sturm Graz,Figma,Kim Woo Bin,Ufotable,Cháy ở Trung Quốc,Phương Uyên,Braga – Union Berlin,Phạm Xuân Thăng,V (BTS,Thỉnh Quân phim,Chồng cũ vợ cũ người yêu cũ tập cuối,XSMN 16/9,Dynamo Kyiv – AEK Larnaca,Tra cứu kết quả trúng tuyển đại học |
+| VIETNAM | Genshin Impact,Wolves – Man City,Auxerre – Lorient,Tottenham – Leicester,U20 Việt Nam,BLACKPINK,Á hậu Phương Nga,Feyenoord – Sturm Graz,Giá vàng 9999 hôm nay,Figma,Thỉnh Quân phim,Kim Woo Bin,Cháy ở Trung Quốc,Ufotable,Phương Uyên,Braga – Union Berlin,Phạm Xuân Thăng,V (BTS,Chồng cũ vợ cũ người yêu cũ tập cuối,Dynamo Kyiv – AEK Larnaca |
 
 
 
