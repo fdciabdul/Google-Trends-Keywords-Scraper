@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-09-2022 , 05:38:39
+Last Update 18-09-2022 , 06:00:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Atlético Madrid – Real Madrid,Everton – West Ham,Arsenal – Tottenham,Tot,Hoa hậu Kỳ Anh,Xác nhận nhập học trực tuyến,Nha,Xổ số miền Nam ngày 17 tháng 09,Tottenham – Leicester,Newcastle – Bournemouth,Pau đấu với Valenciennes,Logo Bộ Y tế,Augsburg – Bayern,Dortmund – Schalke,Hà Nhi,Genshin Impact,Brentford – Arsenal,Bang xep hang anh,Valencia – Celta,Barca vs |
+| VIETNAM | Atlético Madrid – Real Madrid,Everton – West Ham,Arsenal – Tottenham,Tot,Xác nhận nhập học trực tuyến,Hoa hậu Kỳ Anh,Nha,Xổ số miền Nam ngày 17 tháng 09,Tottenham – Leicester,Newcastle – Bournemouth,Pau đấu với Valenciennes,Logo Bộ Y tế,Augsburg – Bayern,Dortmund – Schalke,Hà Nhi,Genshin Impact,Brentford – Arsenal,Valencia – Celta,Barca vs,Bologna – Empoli |
 
 
 
