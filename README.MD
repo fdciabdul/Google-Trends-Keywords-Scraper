@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-09-2022 , 13:50:39
+Last Update 18-09-2022 , 13:59:42
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Udinese – Inter,Everton – West Ham,U20 Việt Nam vs U20 Indonesia,Atlético Madrid – Real Madrid,Arsenal – Tottenham,Tina Dương,IU,Xác nhận nhập học trực tuyến,Tot,Hoa hậu Kỳ Anh,Nha,Đỗ Duy Mạnh,Xổ số miền Nam ngày 17 tháng 09,Kiên Giang,Bảo Anh,Wolves – Man City,Tottenham – Leicester,Brentford – Arsenal,Yoona,Logo Bộ Y tế |
+| VIETNAM | Everton – West Ham,Atlético Madrid – Real Madrid,Arsenal – Tottenham,IU,Tina Dương,Tot,Xác nhận nhập học trực tuyến,Hoa hậu Kỳ Anh,Nha,Kiên Giang,Đỗ Duy Mạnh,Bảo Anh,Wolves – Man City,Tottenham – Leicester,Brentford – Arsenal,Logo Bộ Y tế,Augsburg – Bayern,Quang Hải Pau FC,Lịch Ngoại hạng Anh,Bang xep hang ngoai hang anh |
 
 
 
