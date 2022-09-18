@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-09-2022 , 00:45:40
+Last Update 18-09-2022 , 03:37:21
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nha,Hoa hậu Kỳ Anh,Tottenham – Leicester,Newcastle – Bournemouth,Augsburg – Bayern,Quang Hải Pau FC,Logo Bộ Y tế,Genshin Impact,Bologna – Empoli,MC,Brentford – Arsenal,Barca vs,Bang xep hang anh,Hoài Linh,Marco Reus,Jack Grealish,ROG Phone 6,Đồng Nai khởi tố Phó giám đốc Văn phòng đăng ký đất đai huyện Long Thành,Jimin,Genshin |
+| VIETNAM | Everton – West Ham,Tot,Arsenal – Tottenham,Hoa hậu Kỳ Anh,Nha,Xác nhận nhập học trực tuyến,Tottenham – Leicester,Newcastle – Bournemouth,Pau đấu với Valenciennes,Augsburg – Bayern,Logo Bộ Y tế,Dortmund – Schalke,Genshin Impact,Hà Nhi,Brentford – Arsenal,Bologna – Empoli,MC,Barca vs,Bang xep hang anh,Marco Reus |
 
 
 
