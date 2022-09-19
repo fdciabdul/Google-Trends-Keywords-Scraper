@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-09-2022 , 04:46:34
+Last Update 19-09-2022 , 06:03:03
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Inter Milan,Xổ số miền Nam ngày 18 tháng 09,Brentford – Arsenal,PSG,Atlético Madrid – Real Madrid,AS Roma,VTVGo,VTV,Arsenal – Tottenham,IU,Tina Dương,Xác nhận nhập học trực tuyến,Tot,Hoa hậu Kỳ Anh,Kiên Giang,Nha,Xổ số miền Nam ngày 17 tháng 09,Bảo Anh,Wolves – Man City,Tottenham – Leicester |
+| VIETNAM | Inter Milan,Ahn Jae Hyun,Xổ số miền Nam ngày 18 tháng 09,Brentford – Arsenal,U20 Việt Nam,PSG,Atlético Madrid – Real Madrid,Roma – Atalanta,Milan – Napoli,VTVGo,VTV,Arsenal – Tottenham,IU,Tina Dương,Cách xác nhận nhập học,Cách viết bản kiểm điểm,Xác nhận nhập học trực tuyến,Tot,Kiên Giang,Hoa hậu Kỳ Anh |
 
 
 
