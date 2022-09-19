@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-09-2022 , 20:52:00
+Last Update 19-09-2022 , 21:05:02
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Real Madrid,Inter Milan,Ahn Jae Hyun,Trúc Anh,TWICE,Inter,Khánh Vân,Hà Lan Phương,Sevilla,Roma vs,Hungary,Gabriel Jesus,Brentford – Arsenal,U20 Việt Nam,PSG,Atlético Madrid – Real Madrid,Milan – Napoli,YoonA,AS Roma,Juventus |
+| VIETNAM | Thoái hóa khớp,Real Madrid,PSG,Inter Milan,Ahn Jae Hyun,TWICE,Trúc Anh,Inter,Khánh Vân,Hà Lan Phương,Sevilla,Roma vs,Hungary,Gabriel Jesus,Brentford – Arsenal,U20 Việt Nam,Atlético Madrid – Real Madrid,Lyon – PSG,Milan – Napoli,YoonA |
 
 
 
