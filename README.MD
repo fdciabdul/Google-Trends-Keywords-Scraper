@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-09-2022 , 06:14:29
+Last Update 20-09-2022 , 07:00:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lâm Tâm Như,Xổ số miền nam ngày 19 tháng 09,Nations league,Thanh Hà,Real Madrid,PSG,AC Milan,Inter Milan,Ahn Jae Hyun,Trúc Anh,Hà Lan Phương,TWICE,Khánh Vân,Valverde,Inter,Hungary,Sevilla,Geleximco,Atalanta,U20 Việt Nam |
+| VIETNAM | Lâm Tâm Như,Xổ số miền nam ngày 19 tháng 09,Adam Levine,Thanh Hà,Nations league,PSG,Real Madrid,Real,AC Milan,Inter Milan,Trúc Anh,Ahn Jae Hyun,Hà Lan Phương,Twice,Khánh Vân,Valverde,Inter,Hungary,Sevilla,Atalanta |
 
 
 
