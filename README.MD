@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-09-2022 , 08:39:34
+Last Update 20-09-2022 , 09:01:51
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lâm Tâm Như,Chainsaw Man,Adam Levine,WinMart,Xổ số miền nam ngày 19 tháng 09,Thanh Hà,Nations league,Real Madrid,Real,AC Milan,Inter Milan,Trúc Anh,Ahn Jae Hyun,Hà Lan Phương,Twice,Lyon vs PSG,Khánh Vân,Valverde,Inter,Hungary |
+| VIETNAM | Lâm Tâm Như,Adam Levine,Chainsaw Man,Xổ số miền nam ngày 19 tháng 09,Garage hạnh phúc tập 19,Thanh Hà,Nations league,PSG,Real Madrid,Real,AC Milan,Inter Milan,Trúc Anh,Ahn Jae Hyun,Hà Lan Phương,Twice,Khánh Vân,Valverde,Inter,Hungary |
 
 
 
