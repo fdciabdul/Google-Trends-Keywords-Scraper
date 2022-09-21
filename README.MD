@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-09-2022 , 04:42:04
+Last Update 21-09-2022 , 05:56:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Phương Anh Đào,Adam Levine,Việt Nam – Singapore,Dự báo thời tiết Hà Nội,Thanh Hà,Lâm Tâm Như,Chainsaw man,Nations League,NFT,Garage hạnh phúc tập 19,Xổ số miền nam ngày 19 tháng 09,Rosé Blackpink,Lực lượng vũ trang,PSG,Real,AC Milan,Trúc Anh,Ahn Jae Hyun,Hà Lan Phương,Twice |
+| VIETNAM | Phương Anh Đào,Việt Nam – Ấn Độ,Xổ số miền Nam ngày 20 tháng 0/9,Fed tăng lãi suất,Adam Levine,Việt Nam – Singapore,Dự báo thời tiết Hà Nội,Thanh Hà,Lâm Tâm Như,Chainsaw man,Nations League,NFT,WinMart,Xổ số miền nam ngày 19 tháng 09,Rosé Blackpink,Lực lượng vũ trang,PSG,Real Madrid,Real,AC Milan |
 
 
 
