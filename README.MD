@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-09-2022 , 17:44:52
+Last Update 21-09-2022 , 17:58:39
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay,Fed,Việt Nam – Ấn Độ,Phương Anh Đào,Jimin,Hoàng Su Phì bungalow,Mark Zuckerberg,Jennie blackpink,Tokyo Revengers 270,Tóc Tiên,Baifern,Lịch thi đấu Việt Nam,AFF Cup,Việt Nam – Singapore,Adam Levine,Dự báo thời tiết Hà Nội,Thanh Hà,Lâm Tâm Như,Nations League,Chainsaw man |
+| VIETNAM | Giá xăng hôm nay,Việt Nam – Ấn Độ,Fed tăng lãi suất,Phương Anh Đào,Fed,AFF Cup 2022,Jimin,Hoàng Su Phì bungalow,Mark Zuckerberg,Jennie blackpink,Tóc Tiên,Tokyo Revengers 270,Baifern,Khổng Tú Quỳnh,Xổ số miền Nam ngày 20 tháng 0/9,Lịch thi đấu Việt Nam,Việt Nam – Singapore,Adam Levine,Việt Nam đấu với Singapore,Dự báo thời tiết Hà Nội |
 
 
 
