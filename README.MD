@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-09-2022 , 14:35:54
+Last Update 22-09-2022 , 14:51:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Free Fire,Virus Adeno,One Punch Man,Hoa hậu Oanh Lê,Scotland vs Ukraine,Ukraine,UEFA Nations League,Hari Won,Harry Maguire,Úc – New Zealand,Gabriel Jesus,Trịnh văn quyết,Shakira,Meghan,Lien minh,Roger Federer,Tom Hardy,King Cup,Đỗ Thị Hà,Việt Nam – Singapore |
+| VIETNAM | Free Fire,Virus Adeno,One Punch Man,Hoa hậu Oanh Lê,Ukraine,UEFA Nations League,Scotland vs Ukraine,Hari Won,Harry Maguire,Úc – New Zealand,Shakira,Trịnh văn quyết,Gabriel Jesus,Garage hạnh phúc tập 21,Meghan,Lien minh,Hồng Diễm,Tom Hardy,Đỗ Thị Hà,Việt Nam – Singapore |
 
 
 
