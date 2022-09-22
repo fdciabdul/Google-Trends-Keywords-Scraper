@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-09-2022 , 10:45:50
+Last Update 22-09-2022 , 10:57:13
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Free Fire,Virus Adeno,Hoa hậu Oanh Lê,Scotland vs Ukraine,Ukraine,Hari Won,Trịnh văn quyết,Gabriel Jesus,Meghan,Garage hạnh phúc tập 21,Roger Federer,Đỗ Thị Hà,Giá xăng hôm nay,Fed tăng lãi suất,Việt Nam – Ấn Độ,Phương Anh Đào,Hoàng Su Phì bungalow,Fed tăng lãi suất tháng 9,Jennie (BLACKPINK,Ninh Dương Lan Ngọc |
+| VIETNAM | Free Fire,Virus Adeno,One Punch Man,Hoa hậu Oanh Lê,Scotland vs Ukraine,Ukraine,UEFA Nations League,Hari Won,Harry Maguire,Trịnh văn quyết,Gabriel Jesus,Meghan,Garage hạnh phúc tập 21,Roger Federer,Đỗ Thị Hà,Giá xăng hôm nay,Fed tăng lãi suất,Việt Nam – Ấn Độ,Phương Anh Đào,Hoàng Su Phì bungalow |
 
 
 
