@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-09-2022 , 01:21:39
+Last Update 23-09-2022 , 03:59:36
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Trương Nhược Quân,Trương Bá Chi,Pháp – Áo,King Cup,Bỉ – Wales,Free Fire,Virus Adeno,One Punch Man,Hoa hậu Oanh Lê,Ukraine,Harry Maguire,Hari Won,Úc – New Zealand,Xổ số miền Nam ngày 21 tháng 09,Chung Hân Đồng,Shakira,Tom Hardy,Trịnh văn quyết,Lien minh,Gabriel Jesus |
+| VIETNAM | Tỷ giá Yên Nhật,Trương Nhược Quân,Trương Bá Chi,Hà Lan,Nations League,King Cup,Bỉ – Wales,Ba Lan – Hà Lan,Virus Adeno,Free Fire,One Punch Man,Hoa hậu Oanh Lê,Ukraine,Hari Won,Harry Maguire,Úc – New Zealand,Xổ số miền Nam ngày 22 tháng 09,Chung Hân Đồng,Shakira,Khả Ngân |
 
 
 
