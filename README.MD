@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-09-2022 , 14:48:38
+Last Update 24-09-2022 , 14:57:40
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bồ Đào Nha,Ấn Độ – Singapore,Brazil,Paypal,Đức,Lý Hùng,Riot,Diệp Lâm Anh,Harry Lu,Miss Grand Vietnam 2022,Argentina – Honduras,Bão,Roger Federer,Nations League,Joelle Rich,Tỷ giá yên Nhật,Nguyễn Phú Trọng,Apax Leader,Thương Tín,Lai suat ngan hang |
+| VIETNAM | Ấn Độ – Singapore,Bồ Đào Nha,Brazil,Paypal,Đức,Riot,Lý Hùng,Diệp Lâm Anh,Xổ số miền Nam ngày 23 tháng 09,Harry Lu,Miss Grand Vietnam 2022,Argentina – Honduras,Bão,Roger Federer,Nations League,Joelle Rich,Tỷ giá yên Nhật,Iran – Uruguay,Nguyễn Phú Trọng,Apax Leader |
 
 
 
