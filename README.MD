@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-09-2022 , 02:42:56
+Last Update 24-09-2022 , 04:26:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Brazil,Lý Hùng,Nations League,Argentina,Joelle Rich,Tỷ giá Yên Nhật,Bão,Nguyễn Phú Trọng,Apax Leader,Thương Tín,Trương Nhược Quân,Mai Dora,Hà Lan,Lai suat ngan hang,Jung Joong Ji,Trương Bá Chi,Angelina Jolie,Hàn Quốc,Trọng Hiếu,Khánh Thi |
+| VIETNAM | Bồ Đào Nha,Brazil,Đức,Lý Hùng,Mai Davika,Uruguay,Argentina – Honduras,Nations League,Bão,Joelle Rich,Tỷ giá yên Nhật,Nguyễn Phú Trọng,Apax Leader,Thương Tín,Mai Dora,Trương Nhược Quân,Lai suat ngan hang,Hà Lan,Jung Joong Ji,Trương Bá Chi |
 
 
 
