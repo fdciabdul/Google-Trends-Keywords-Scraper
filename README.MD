@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-09-2022 , 06:43:46
+Last Update 25-09-2022 , 07:00:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Scotland – Ireland,Na Uy,Hoài Lâm,Red Velvet,Bồ Đào Nha,Tây Ban Nha – Thụy Sĩ,Ấn Độ – Singapore,Tóc Tiên,Brazil,Paypal,Đan Trường,Novak Djokovic,Riot,Indonesia vs Curacao,Harry Lu,Diệp Lâm Anh,Xổ số miền Nam ngày 24 tháng 09,Hungary,Uruguay,Wanda Nara |
+| VIETNAM | Scotland – Ireland,Tóc Tiên,Na Uy,Hoài Lâm,Red Velvet,Bồ Đào Nha,Tây Ban Nha – Thụy Sĩ,Ấn Độ – Singapore,Brazil,Paypal,Đan Trường,Tăng Phúc,Novak Djokovic,Riot,Indonesia vs Curacao,Diệp Lâm Anh,Pogba,Xổ số miền Nam ngày 24 tháng 09,Uruguay,Wanda Nara |
 
 
 
