@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-09-2022 , 12:46:25
+Last Update 25-09-2022 , 13:22:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Scotland – Ireland,Tóc Tiên,Hoài Lâm,Na uy,Shark Bình,Đức Phúc,Red Velvet,Messi Argentina,Bồ Đào Nha,Tây Ban Nha – Thụy Sĩ,Ấn Độ – Singapore,Trương Lăng Hách,Brazil,Đan Trường,Jujutsu Kaisen 0,Paypal,Tăng Phúc,Riot,Mai Tiến Dũng,Indonesia vs Curacao |
+| VIETNAM | Scotland – Ireland,Tóc Tiên,Hoài Lâm,Đàm Vĩnh Hưng,Na uy,Shark Bình,Đức Phúc,Red Velvet,Messi Argentina,Bồ Đào Nha,Tây Ban Nha – Thụy Sĩ,Ấn Độ – Singapore,Brazil,Đan Trường,Jujutsu Kaisen 0,Paypal,Tăng Phúc,Riot,Mai Tiến Dũng,Indonesia vs Curacao |
 
 
 
