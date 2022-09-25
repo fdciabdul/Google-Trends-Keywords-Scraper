@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-09-2022 , 20:53:38
+Last Update 25-09-2022 , 21:09:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Charme Perfume,Ronaldo,Scotland – Ireland,Tóc Tiên,King Cup 2022,Hoài Lâm,Đàm Vĩnh Hưng,Public,Shark Bình,Ca sĩ Tuấn Hưng,Johnny Trí Nguyễn,Đức Phúc,Red Velvet,Bão Noru,Bồ Đào Nha,Tây Ban Nha – Thụy Sĩ,Ấn Độ – Singapore,Brazil,Đan Trường,Jujutsu Kaisen 0 |
+| VIETNAM | Charme Perfume,Lưu Hạo Nhiên,Ronaldo,Scotland – Ireland,Tóc Tiên,King Cup 2022,Tây Ban Nha vs,Hoài Lâm,Đàm Vĩnh Hưng,Public,Shark Bình,Ca sĩ Tuấn Hưng,Johnny Trí Nguyễn,Đức Phúc,Red Velvet,Bão Noru,Bồ Đào Nha,Ấn Độ – Singapore,Trương Lăng Hách,Brazil |
 
 
 
