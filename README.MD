@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-09-2022 , 02:47:16
+Last Update 25-09-2022 , 04:18:22
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tóc Tiên,Xuân Nghi,Bồ Đào Nha,Bồ Đào Nha vs,Tây Ban Nha – thụy Sĩ,Ấn Độ – Singapore,Brazil,Paypal,Tăng Phúc,Xổ số miền Nam ngày 23 tháng 09,Riot,Indonesia vs Curacao,Harry Lu,Diệp Lâm Anh,Laver Cup,Uruguay,Wanda Nara,Miss Grand Vietnam 2022,Argentina – Honduras,Bão |
+| VIETNAM | Scotland – Ireland,Tóc Tiên,Na Uy,Bồ Đào Nha,Tây Ban Nha – Thụy Sĩ,Ấn Độ – Singapore,Brazil,Paypal,Đan Trường,Novak Djokovic,Tăng Phúc,Riot,Indonesia vs Curacao,Harry Lu,Diệp Lâm Anh,Pogba,Xổ số miền Nam ngày 24 tháng 09,Hungary,Uruguay,Wanda Nara |
 
 
 
