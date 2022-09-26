@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 26-09-2022 , 15:53:23
+Last Update 26-09-2022 , 16:13:53
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Việt nam – Ấn Độ,Lưu Hạo Nhiên,Minh Nghi,Anh – Đức,Do Kwon,Xổ số miền Nam ngày 25 tháng 09,Karik,Kim Kardashian,Sim,Đan Mạch,ITZY,Malaysia,Bão Noru,Đan Mạch – Pháp,Hà Lan – Bỉ,King' Cup 2022,Scotland – Ireland,Tóc Tiên,Đàm Vĩnh Hưng,Hoài Lâm |
+| VIETNAM | Bản đồ Việt Nam,Việt nam – Ấn Độ,Charme Perfume,Lưu Hạo Nhiên,Anh – Đức,Minh Nghi,Phó Thủ tướng Thường trực,Do Kwon,Karik,Xổ số miền Nam ngày 25 tháng 09,Kim Kardashian,Sim,Đan Mạch,ITZY,Malaysia,Bão Noru,Đan Mạch – Pháp,Tin bão số 4,Hà Lan – Bỉ,King' Cup 2022 |
 
 
 
