@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-09-2022 , 05:44:44
+Last Update 27-09-2022 , 06:35:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đức vs Anh,Xổ số miền nam ngày 26 tháng 09,Tiêm HPV,Lệ Quyên Hồ Ngọc Hà,Anh – Đức,Anh vs Đức,Việt Nam – Ấn Độ,Bản đồ Việt Nam,Charme Perfume,Lưu Hạo Nhiên,Minh Nghi,Interpol,Garage hạnh phúc tập 22,Hà Lan vs Bỉ,Tô Anh Dũng,Karik,Sim,Xổ số miền Nam ngày 25 tháng 09,Kim Kardashian,Kim Woo Bin |
+| VIETNAM | Học và làm theo Bác,Đức vs Anh,Bồ Đào Nha – Tây Ban Nha,Tiêm HPV,Lệ Quyên - Hồ Ngọc Hà,Anh – Đức,Anh vs Đức,Việt Nam – Ấn Độ,Bản đồ Việt Nam,Charme Perfume,Lưu Hạo Nhiên,Phó thủ tướng thường trực,Minh Nghi,Interpol,Garage hạnh phúc tập 22,Karik,Sim,Xổ số miền Nam ngày 25 tháng 09,Kim Kardashian,Kim Woo Bin |
 
 
 
