@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-09-2022 , 08:30:32
+Last Update 28-09-2022 , 08:59:47
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Argentina – Jamaica,Brazil,Nguyễn Ngọc Ký,Park Min Young,Dortmund,Garage hạnh phúc tập 23,Tokyo Revengers chap 271,Bồ Đào Nha – Tây Ban Nha,VTVGo,Noru,Lịch thi đấu Bóng đá Việt Nam,VTV,Học và làm theo Bác,Indonesia – curaçao,Lệ Quyên - Hồ Ngọc Hà,Kay Trần,Võ Tấn Phát,Đức,Vệ tinh,Trương Hàn |
+| VIETNAM | Argentina – Jamaica,Nguyễn Ngọc Ký,Brazil,Tap,Park Min Young,Dortmund,Liên Quân Mobile,Tin bão mới nhất,Bồ Đào Nha – Tây Ban Nha,VTVGo,Lịch thi đấu Bóng đá Việt Nam,VTV,Học và làm theo Bác,Bão miền Trung,Indonesia – curaçao,Lệ Quyên - Hồ Ngọc Hà,Kay Trần,Võ Tấn Phát,Vệ tinh,Trương Hàn |
 
 
 
