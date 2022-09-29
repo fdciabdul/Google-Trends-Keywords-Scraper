@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-09-2022 , 09:43:00
+Last Update 29-09-2022 , 09:58:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Jan Koller,Xiaomi 12T,Lien quan,Việt Nam đấu với Ấn Độ,Argentina – Jamaica,Nguyễn Ngọc Ký,Liên Quân,Công an đánh 2 học sinh,Argentina vs,Miss Grand Vietnam 2022,Brazil,Bão miền Trung,Garage hạnh phúc tập 24,Bão số 5,Park Min Young,Giá USD hôm nay,Tap,Hugh Jackman,Khu Rừng Nhỏ Của Hai Người tập 22,Thời tiết Hà Nội ngày mai |
+| VIETNAM | Jan Koller,Xiaomi 12T,Lien quan,Hoài Lâm,Việt Nam đấu với Ấn Độ,Nguyễn Ngọc Ký,Argentina,Argentina – Jamaica,Công an đánh 2 học sinh,Liên Quân,Việt Nam vs Dortmund,Miss Grand Vietnam 2022,Brazil,Bão miền Trung,Garage hạnh phúc tập 24,Park Min Young,Giá USD hôm nay,Hugh Jackman,Khu Rừng Nhỏ Của Hai Người tập 22,Thời tiết Hà Nội ngày mai |
 
 
 
