@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-09-2022 , 17:24:46
+Last Update 29-09-2022 , 17:55:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Jan Koller,Hoài Lâm,Dương Mịch,Coolio,Xiaomi 12T,Kim Kardashian,Lien quan,Lý Nhã Kỳ,Lâm Tâm Như,Việt Nam đấu với Ấn Độ,Nguyễn Ngọc Ký,Argentina,Công an đánh 2 học sinh,Argentina – Jamaica,Futsal Việt Nam,Liên Quân,Miss Grand Vietnam 2022,Brazil,Garage hạnh phúc tập 24,Park Min Young |
+| VIETNAM | Bùi Hoàng Việt Anh,Jan Koller,Hoài Lâm,Dương Mịch,Coolio,Xiaomi 12T,Kim Kardashian,Lien quan,Lý Nhã Kỳ,Lâm Tâm Như,Xổ số miền nam ngày 28 tháng 09,Việt Nam đấu với Ấn Độ,Nguyễn Ngọc Ký,Argentina,Công an đánh 2 học sinh,Argentina – Jamaica,Futsal Việt Nam,Liên Quân,Miss Grand Vietnam 2022,Brazil |
 
 
 
