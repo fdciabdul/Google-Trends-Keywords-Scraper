@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-09-2022 , 16:37:55
+Last Update 30-09-2022 , 17:20:24
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hải Phòng đấu với Hoàng Anh Gia Lai,TP.HCM – Sài Gòn,Bayern – Leverkusen,Bùi Hoàng Việt Anh,Tước danh hiệu Công an nhân dân,Kiều Minh Tuấn,Công nương Kate,Bùi Nhật Quang,CKTG,Mc vs MU,Bayern Munich,Phú Quốc,Spartak – Zenit,Từ Hy Viên,Amber Heard,Futsal Việt Nam,Marilyn Monroe,Hoài Lâm,Khu Rừng Nhỏ Của Hai Người tập 23,Coolio |
+| VIETNAM | Hải Phòng đấu với Hoàng Anh Gia Lai,Tước danh hiệu Công an nhân dân là gì,TP.HCM – Sài Gòn,Bùi Hoàng Việt Anh,Kiều Minh Tuấn,Bùi Nhật Quang,Công nương Kate,La Liga,CKTG,Bayern Munich,Phú Quốc,Spartak – Zenit,Amber Heard,Từ Hy Viên,Ligue 1,Alice in Borderland,Futsal Việt Nam,Marilyn Monroe,Hoài Lâm,Khu Rừng Nhỏ Của Hai Người tập 23 |
 
 
 
