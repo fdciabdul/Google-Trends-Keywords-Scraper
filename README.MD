@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-09-2022 , 22:34:07
+Last Update 30-09-2022 , 22:52:51
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Arsenal – Tottenham,Hải Phòng – Hoàng Anh Gia Lai,Tước danh hiệu Công an nhân dân là gì,TP.HCM – Sài Gòn,Bùi Hoàng Việt Anh,Kiều Minh Tuấn,Bundesliga,La Liga,Bùi Nhật Quang,Công nương Kate,CKTG,Phú Quốc,VinFast Evo200,Amber Heard,Alice in Borderland,Man City vs MU,Từ Hy Viên,Futsal Việt Nam,Hoài Lâm,Marilyn Monroe |
+| VIETNAM | Arsenal – Tottenham,Bayern,Xổ số miền Nam ngày 30 tháng 9,Hải Phòng – Hoàng Anh Gia Lai,Tước danh hiệu Công an nhân dân là gì,TP.HCM – Sài Gòn,Bùi Hoàng Việt Anh,Bundesliga,Kiều Minh Tuấn,La Liga,Bùi Nhật Quang,Công nương Kate,CKTG,Phú Quốc,Amber Heard,Alice in Borderland,Từ Hy Viên,Futsal Việt Nam,Hoài Lâm,Marilyn Monroe |
 
 
 
