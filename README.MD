@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-09-2022 , 12:14:09
+Last Update 30-09-2022 , 13:14:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bùi Hoàng Việt Anh,V-League,Bayern – Leverkusen,Kiều Minh Tuấn,CKTG,Công nương Kate,Phú Quốc,Xổ số miền Nam ngày 29 tháng 0/9,Bùi Nhật Quang,Từ Hy Viên,Lâm Tâm Như Hoắc Kiến Hoa,Marilyn Monroe,Hoài Lâm,Lý Nhã Kỳ,Lịch thi đấu Futsal,Jan Koller,Khu Rừng Nhỏ Của Hai Người tập 23,Dương Mịch,Coolio,Kim Kardashian |
+| VIETNAM | Hải Phòng đấu với Hoàng Anh Gia Lai,Bùi Hoàng Việt Anh,Bayern – Leverkusen,Kiều Minh Tuấn,Công nương Kate,CKTG,Bùi Nhật Quang,Phú Quốc,Xổ số miền Nam ngày 29 tháng 0/9,VinFast Evo200,Từ Hy Viên,Lâm Tâm Như Hoắc Kiến Hoa,Marilyn Monroe,Hoài Lâm,Lịch thi đấu Futsal,Khu Rừng Nhỏ Của Hai Người tập 23,Dương Mịch,Coolio,Kim Kardashian,Lâm Tâm Như |
 
 
 
