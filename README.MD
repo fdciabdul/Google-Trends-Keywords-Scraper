@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-09-2022 , 05:20:39
+Last Update 30-09-2022 , 06:35:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bùi Hoàng Việt Anh,Xổ số miền Nam ngày 29 tháng 0/9,Marilyn Monroe,Hoài Lâm,Jan Koller,Lý Nhã Kỳ,Dương Mịch,Coolio,Khu Rừng Nhỏ Của Hai Người tập 23,Kim Kardashian,Lâm Tâm Như,Lien quan,Nguyễn Ngọc Ký,Argentina,Công an đánh 2 học sinh,Futsal Việt Nam,Argentina – Jamaica,Liên Quân,Miss Grand Vietnam 2022,Brazil |
+| VIETNAM | Bùi Hoàng Việt Anh,Xổ số miền Nam ngày 29 tháng 0/9,Phú Quốc,VinFast Evo 200,Hoài Lâm,Marilyn Monroe,Jan Koller,Lý Nhã Kỳ,Dương Mịch,Coolio,Khu Rừng Nhỏ Của Hai Người tập 23,Kim Kardashian,Lien quan,Lâm Tâm Như,Nguyễn Ngọc Ký,Argentina,Futsal Việt Nam,Công an đánh 2 học sinh,Argentina – Jamaica,Miss Grand Vietnam 2022 |
 
 
 
