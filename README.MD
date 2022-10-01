@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-10-2022 , 18:39:36
+Last Update 01-10-2022 , 18:58:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đoàn Thiên Ân,West Ham,AC Milan,Liverpool – Brighton,Chelsea,Miss Grand Vietnam 2022,Man City – Man utd,Hà Nội đấu với Bình Dương,Pau FC,Bella Hadid,Leipzig – Bochum,Barca,Nam Định – Hồng Lĩnh Hà Tĩnh,CarX Street,Lịch thi đấu bóng đá anh,Frankfurt – Union Berlin,Inter Milan,Dortmund,Minh Béo,Chung kết Olympia 2022 |
+| VIETNAM | Kèo bóng đá,West Ham,AC Milan,Liverpool – Brighton,Chelsea,Miss Grand Vietnam 2022,Man City – Man utd,Pau FC,Hà Nội đấu với Bình Dương,Inter – Roma,Bella Hadid,Barca,Leipzig – Bochum,Nam Định – Hồng Lĩnh Hà Tĩnh,CarX Street,Frankfurt – Union Berlin,Lịch thi đấu bóng đá anh,Thảo Trang,Dortmund,Minh Béo |
 
 
 
