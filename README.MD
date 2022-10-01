@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-10-2022 , 06:47:28
+Last Update 01-10-2022 , 07:13:34
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Arsenal – Tottenham,Liverpool – Brighton,Pau FC,Crystal Palace – Chelsea,Huỳnh Hiểu Minh,Xổ số miền Nam ngày 30 tháng 9,Jennie (BLACKPINK,Minh Béo,Bang Florida Mỹ,Bayern – Leverkusen,Hải Phòng – Hoàng Anh Gia Lai,Lịch thi đấu Ngoại hạng Anh,VTV6,TP.HCM – Sài Gòn,Ngoai hang Anh,La Liga,Tước danh hiệu công an nhân dân,Kiều Minh Tuấn,Bùi Hoàng Việt Anh,Bùi Nhật Quang |
+| VIETNAM | Arsenal – Tottenham,Liverpool – Brighton,VTV6 giải thể,Pau FC,Crystal Palace – Chelsea,Huỳnh Hiểu Minh,Minh Béo,Xổ số miền Nam ngày 30 tháng 9,Jennie (BLACKPINK,Bella Hadid,Bang Florida Mỹ,Hải Phòng đấu với Hoàng Anh Gia Lai,Bayern – Leverkusen,TP.HCM – Sài Gòn,Ngoai hang Anh,Tước danh hiệu Công an nhân dân,Kiều Minh Tuấn,Bùi Hoàng Việt Anh,Bùi Nhật Quang,Phú Quốc |
 
 
 
