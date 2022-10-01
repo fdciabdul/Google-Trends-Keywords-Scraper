@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-10-2022 , 12:45:46
+Last Update 01-10-2022 , 13:30:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Arsenal đấu với Tottenham,Liverpool – Brighton,Bella Hadid,CarX Street,Thanh Hóa – Bình Định,Crystal Palace – Chelsea,Pau FC,Minh Béo,Châu Thành Kiên Giang vụ án,Huỳnh Hiểu Minh,Chung kết Miss Grand Vietnam,Sông Lam Nghệ An – Viettel,Jennie (BLACKPINK,Bang Florida Mỹ,Song Hye Kyo,Hải Phòng đấu với Hoàng Anh Gia Lai,Bayern – Leverkusen,VTV6,TP.HCM – Sài Gòn,Tước danh hiệu công an nhân dân |
+| VIETNAM | Truc tiep bong da,Man City – Man utd,Premier League,Thanh Hóa – Bình Định,Chung kết Miss Grand Vietnam 2022,Liverpool – Brighton,Bella Hadid,Crystal Palace – Chelsea,CarX Street,Sông Lam Nghệ An – Viettel,Pau FC,Minh Béo,Huỳnh Hiểu Minh,Song Hye Kyo,Jennie (BLACKPINK,Bang Florida Mỹ,Kim Tae Hee,Nam Định – Hồng Lĩnh Hà Tĩnh,Bayern – Leverkusen,Hải Phòng – Hoàng Anh Gia Lai |
 
 
 
