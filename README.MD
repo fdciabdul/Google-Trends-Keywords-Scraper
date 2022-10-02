@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-10-2022 , 08:47:50
+Last Update 02-10-2022 , 09:02:05
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thể thao,Manchester United,Werder Bremen – gladbach,Real Madrid,Kèo bóng đá,Real Madrid – Osasuna,Trương Trí Lâm Viên Vịnh Nghi,Atletico Madrid,Lê Công Tuấn Anh,LA Galaxy – Salt Lake,Ngọc Sơn,Khả Ngân,Burkina Faso,Khánh Vân,Arsenal – Tottenham,Liverpool – Brighton,Miss Grand Vietnam 2022,Chelsea,VTV3,Inter – Roma |
+| VIETNAM | Thể thao,AC Milan,Werder Bremen – gladbach,Real Madrid,Indonesia,Kèo bóng đá,Real Madrid – Osasuna,Trương Trí Lâm Viên Vịnh Nghi,Lê Công Tuấn Anh,Atletico Madrid,Ngọc Sơn,LA Galaxy – Salt Lake,Khả Ngân,Khánh Vân,Burkina Faso,Arsenal – Tottenham,Liverpool – Brighton,Miss Grand Vietnam 2022,Chelsea,Chung kết Olympia 2022 |
 
 
 
