@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-10-2022 , 17:52:13
+Last Update 02-10-2022 , 18:08:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Leeds – Aston Villa,Mono,VTVGo,Indonesia,Real Madrid,VTV,Monaco – Nantes,Real Madrid – Osasuna,AC Milan,Antony,Werder Bremen – gladbach,Kèo bóng đá,Girona – Real Sociedad,Lê Công Tuấn Anh,Ninh Dương Lan Ngọc,Aston Villa,Ngọc Sơn,Trục tiếp bóng đá,Lương Thùy Linh,LA Galaxy – Salt Lake |
+| VIETNAM | Nhậm Gia Luân,Leeds – Aston Villa,Thể thao,Đường lên đỉnh Olympia,Mono,VTVGo,Indonesia,Monaco – Nantes,Real Madrid,VTV,Real Madrid – Osasuna,Sampdoria – Monza,AC Milan,Antony,Girona – Real Sociedad,Werder Bremen – gladbach,Lê Công Tuấn Anh,Ninh Dương Lan Ngọc,Ngọc Sơn,LA Galaxy – Salt Lake |
 
 
 
