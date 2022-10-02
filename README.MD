@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-10-2022 , 02:55:15
+Last Update 02-10-2022 , 04:36:26
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Thể thao,Werder Bremen – gladbach,Kèo bóng đá,Burkina Faso,Truc tiep bong da,Liverpool – Brighton,Chelsea,Miss Grand Vietnam 2022,PSG – Nice,Hà Nội đấu với Bình Dương,Pau FC,Sông Lam Nghệ An – Viettel,Serie A,Bella Hadid,Bảng xếp hạng bóng đá,Chung kết Olympia 2022,Thảo Trang,Nam Định – Hồng Lĩnh Hà Tĩnh,CarX Street,Dortmund |
+| VIETNAM | Thể thao,Werder Bremen – gladbach,Real Madrid,Kèo bóng đá,Trương Trí Lâm Viên Vịnh Nghi,Burkina Faso,Liverpool – Brighton,Chelsea,Miss Grand Vietnam 2022,Truc tiep bong da,PSG – Nice,Pau FC,Chung kết Olympia 2022,Inter – Roma,Lịch Ngoại hạng Anh,Hà Nội – Bình Dương,Sông Lam Nghệ An – Viettel,Bella Hadid,Thảo Trang,Nam Định – Hồng Lĩnh Hà Tĩnh |
 
 
 
