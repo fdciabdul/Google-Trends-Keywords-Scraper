@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-10-2022 , 14:57:17
+Last Update 02-10-2022 , 15:21:40
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MONO,AC Milan,Real Madrid,Leeds – Aston Villa,Werder Bremen – gladbach,Kèo bóng đá,Real Madrid – Osasuna,Vũ,Trưc tiêp bong da,Lê Công Tuấn Anh,Ninh Dương Lan Ngọc,Ngọc Sơn,Lương Thùy Linh,LA Galaxy – Salt Lake,Khả Ngân,Ước mơ của mẹ,Burkina Faso,Arsenal – Tottenham,Liverpool – Brighton,Miss Grand Vietnam 2022 |
+| VIETNAM | MONO,Erling Haaland,Leeds – Aston Villa,AC Milan,Real Madrid,Werder Bremen – gladbach,Trưc tiêp bong da,Kèo bóng đá,Real Madrid – Osasuna,Sampdoria – Monza,Vũ,Lê Công Tuấn Anh,Antony,Ninh Dương Lan Ngọc,Ngọc Sơn,LA Galaxy – Salt Lake,Khả Ngân,Ước mơ của mẹ,Burkina Faso,Lich bong da ngoai hang Anh |
 
 
 
