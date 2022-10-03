@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-10-2022 , 16:41:50
+Last Update 03-10-2022 , 17:24:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Đậu mùa khỉ,Giá xăng hôm nay,Diệu Nhi,Credit Suisse,Verona – Udinese,Tăng Chí Vỹ,Ca sĩ Thủy Tiên,Nguyễn Phú Trọng,Xuân Quỳnh,Nhậm Gia Luân,Huỳnh Tấn Việt,Con trai Đàm Vĩnh Hưng,Man City đấu với Man Utd,MU,Real Madrid – Osasuna,Leeds – Aston Villa,Manchester United,Real Madrid,Thể thao,Futsal châu Á |
+| VIETNAM | Đậu mùa khỉ,Giá xăng hôm nay,Bóng đá Trực tiếp,Đàm Vĩnh Hưng,Diệu Nhi,Credit Suisse,Verona – Udinese,Huỳnh Tấn Việt,Tăng Chí Vỹ,Ca sĩ Thủy Tiên,Nguyễn Phú Trọng,Xuân Quỳnh,Chứng khoán hôm nay,Nhậm Gia Luân,Xổ số miền nam ngày 3 tháng 10,Dream,Man City đấu với Man Utd,MU,Real Madrid – Osasuna,Leeds – Aston Villa |
 
 
 
