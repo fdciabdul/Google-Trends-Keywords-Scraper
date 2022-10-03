@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-10-2022 , 12:59:48
+Last Update 03-10-2022 , 14:01:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Giá xăng hôm nay,Đậu mùa khỉ,Cristiano Ronaldo,Credit Suisse,Diệu Nhi,Tăng Chí Vỹ,Verona – Udinese,Ca sĩ Thủy Tiên,Xuân Quỳnh,Leeds – Aston Villa,Manchester United,Real Madrid,Thể thao,Juventus – Bologna,Phil Foden,Mono,VTVGo,Espanyol – Valencia,Girona – Real Sociedad,Indonesia |
+| VIETNAM | Man City – Man utd,Giá xăng hôm nay,Đậu mùa khỉ,Futsal châu Á,Credit Suisse,Verona – Udinese,Diệu Nhi,Tăng Chí Vỹ,Ca sĩ Thủy Tiên,Xuân Quỳnh,Nhậm Gia Luân,Leeds – Aston Villa,Manchester United,Real Madrid,Thể thao,Juventus – Bologna,Phil Foden,Mono,VTVGo,Espanyol – Valencia |
 
 
 
