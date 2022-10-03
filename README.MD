@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-10-2022 , 20:56:39
+Last Update 03-10-2022 , 21:17:45
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Mỹ Tâm,Đậu mùa khỉ,Giá xăng hôm nay,Bóng đá Trực tiếp,Cristiano Ronaldo,Đàm Vĩnh Hưng,Diệu Nhi,Verona – Udinese,Credit Suisse,Tăng Chí Vỹ,Ca sĩ Thủy Tiên,Nguyễn Phú Trọng,Xuân Quỳnh,Chứng khoán hôm nay,Huỳnh Tấn Việt,Xổ số miền nam ngày 3 tháng 10,Lưu Thi Thi,Dream,Man City đấu với Man Utd,MU |
+| VIETNAM | Mỹ Tâm,Đậu mùa khỉ,Giá xăng hôm nay,Futsal châu Á,Bóng đá Trực tiếp,Đàm Vĩnh Hưng,Verona – Udinese,Diệu Nhi,Credit Suisse,Nguyễn Phú Trọng,Tăng Chí Vỹ,Ca sĩ Thủy Tiên,Xuân Quỳnh,Chứng khoán hôm nay,Huỳnh Tấn Việt,Xổ số miền nam ngày 3 tháng 10,Dream,Man City đấu với Man Utd,Real Madrid – Osasuna,Leeds – Aston Villa |
 
 
 
