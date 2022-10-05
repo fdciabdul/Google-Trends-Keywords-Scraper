@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-10-2022 , 00:01:06
+Last Update 05-10-2022 , 02:30:11
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Liverpool – Rangers,Frankfurt – Tottenham,Marseille – Sporting,Đỗ Mỹ Linh,Ket qua C1,Garage hạnh phúc tập 25,Miss Grand International 2022,Mỹ Tâm,Garage hạnh phúc,Udinese,SGB vs MAD,Xiaomi 12T,Suga,HPG,Angelina Jolie,Hoa hậu Tiểu Vy,Vũ cát tường,Jennie (Blackpink,Bóng đá trực tiếp,Inter – Barcelona |
+| VIETNAM | Man City – Copenhagen,Chelsea – Milan,Benfica – PSG,Real Madrid – Shakhtar,Huyền Lizzie,Liverpool – Rangers,Marseille – Sporting,Frankfurt – Tottenham,Garage hạnh phúc tập 25,Đỗ Mỹ Linh,Miss Grand International 2022,Xiaomi 12T,Mỹ Tâm,Udinese,SGB vs MAD,Cù Lao Chàm,Angelina Jolie,Suga,HPG,Jang wonyoung |
 
 
 
