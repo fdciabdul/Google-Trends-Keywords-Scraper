@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-10-2022 , 20:56:13
+Last Update 05-10-2022 , 21:16:07
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Copenhagen,C1,Man City – Copenhagen,Benfica – PSG,Little Women,Real Madrid – Shakhtar,U17 Việt Nam,Kim Jung Gi,Europa League,Song Hye Kyo,Loc,Dương Thị Bạch Diệp,Hầm chui Lê Văn Lương,BLACKPINK Jennie,Lịch thi đấu U17 châu Á,Bayern – Leverkusen,Justin Bieber,Inter – Barcelona,Liverpool – Rangers,Futsal Việt Nam |
+| VIETNAM | MC,Copenhagen,Benfica – PSG,Man City – Copenhagen,Real Madrid – Shakhtar,Ket qua C1,Little Women,U17 Việt Nam,Kim Jung Gi,Europa League,Song Hye Kyo,Loc,Dương Thị Bạch Diệp,Hầm chui Lê Văn Lương,BLACKPINK Jennie,Bayern – Leverkusen,Justin Bieber,Inter – Barcelona,C1,Liverpool – Rangers |
 
 
 
