@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 05-10-2022 , 13:30:28
+Last Update 05-10-2022 , 14:37:00
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Champions league,Little Women,Man City – Copenhagen,Chelsea – Milan,Benfica – PSG,Real Madrid – Shakhtar,U17 Việt Nam,Juventus – Maccabi Haifa,Ngọc Trinh,Sevilla – Dortmund,Song Hye Kyo,Blackpink, Jennie,Justin Bieber,Hầm chui Lê Văn Lương,Bae in-hyuk,Liverpool – Rangers,Futsal Việt Nam,Ajax – Napoli,Frankfurt – Tottenham,Bayern Munich |
+| VIETNAM | Little Women,Champions league,Man City – Copenhagen,Chelsea – Milan,Benfica – PSG,U17 Việt Nam,Real Madrid – Shakhtar,Juventus – Maccabi Haifa,Ngọc Trinh,Sevilla – Dortmund,Kim Jung Gi,Song Hye Kyo,BLACKPINK Jennie,Hầm chui Lê Văn Lương,Justin Bieber,Xổ số miền nam ngày 5 tháng 10,Dương Thị Bạch Diệp,Bae in-hyuk,Liverpool – Rangers,Futsal Việt Nam |
 
 
 
