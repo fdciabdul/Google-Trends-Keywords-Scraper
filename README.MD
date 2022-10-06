@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-10-2022 , 11:43:15
+Last Update 06-10-2022 , 11:53:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MC,Bi Rain,Sturm Graz – Lazio,Sevilla,OPEC,Lien minh,PewPew,Bình An,Man City – Copenhagen,Benfica – PSG,Chelsea – Milan,Real Madrid – Shakhtar,Juventus – Maccabi Haifa,Sevilla – Dortmund,Omonia – Man Utd,Little Women,U17 Việt Nam,Kim Jung Gi,Ngọc Trinh,Tottenham vs |
+| VIETNAM | Bi Rain,MC,Sturm Graz – Lazio,Sevilla,OPEC,Roma – Betis,PewPew,Lien minh,Bình An,Man City – Copenhagen,Chelsea – Milan,Benfica – PSG,Real Madrid – Shakhtar,C1,Juventus – Maccabi Haifa,Sevilla – Dortmund,Omonia – Man Utd,Little Women,U17 Việt Nam,Xổ số miền Nam ngày 5 tháng 10 |
 
 
 
