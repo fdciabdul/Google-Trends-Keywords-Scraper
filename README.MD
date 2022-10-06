@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-10-2022 , 19:48:51
+Last Update 06-10-2022 , 19:57:17
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man Utd,HJK – Ludogorets,Arsenal vs,Chelsea,Bi Rain,Sturm Graz – Lazio,Roma – Betis,MC,Bình An,PewPew,LMHT,Lien minh,Sevilla,OPEC,Cô gái từ quá khứ,Thái Lan,Bhutan,Jennifer,Omonia – MAN UTD,Man City – Copenhagen |
+| VIETNAM | Arsenal,HJK – Ludogorets,MU,Chelsea,Sturm Graz – Lazio,Bi Rain,Roma – Betis,MC,Bình An,Thái Lan,PewPew,LMHT,Lien minh,Sevilla,OPEC,Cô gái từ quá khứ,Bhutan,Jennifer,Man City – Copenhagen,Omonia đấu với Man Utd |
 
 
 
