@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 07-10-2022 , 10:34:13
+Last Update 07-10-2022 , 10:58:09
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | SCB,Vạn Thịnh Phát,Arsenal vs,West Ham,Osasuna – Valencia,SCB Bank,HJK – Ludogorets,Hoài Linh,Brighton – Tottenham,Kết quả futsal châu Á,Monaco,MU,PSG,Chelsea,Roma – Betis,Sheriff – Real Sociedad,Bi Rain,Bình An,MC,Thái Lan |
+| VIETNAM | SCB,Vạn Thịnh Phát,Ngân hàng SCB,Arsenal vs,Everton – Man utd,West Ham,Osasuna – Valencia,Hoài Linh,Brighton – Tottenham,HJK – Ludogorets,Phương Anh Đào,Kết quả futsal châu Á,Diệp Lâm Anh,Monaco,Đà Nẵng – Bình Dương,MU,PSG,Chelsea,Roma – Betis,Sheriff – Real Sociedad |
 
 
 
