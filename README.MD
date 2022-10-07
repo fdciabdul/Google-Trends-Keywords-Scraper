@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 06-10-2022 , 23:49:40
+Last Update 07-10-2022 , 00:48:02
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Arsenal,MU,PSG,Chelsea,Roma – Betis,Sturm Graz – Lazio,Bi Rain,MC,Bình An,Thái Lan,PewPew,Lien minh,Sevilla,OPEC,Cô gái từ quá khứ,Bhutan,Jennifer,Xổ số miền Nam ngày 6 tháng 10,Omonia đấu với Man Utd,Man City – Copenhagen |
+| VIETNAM | Arsenal,Freiburg – Nantes,West Ham,MU,PSG,Chelsea,Roma – Betis,Sturm Graz – Lazio,Bi Rain,MC,Bình An,Man City – Southampton,Thái Lan,PewPew,Lien minh,Sevilla,OPEC,Cô gái từ quá khứ,Bhutan,Jennifer |
 
 
 
