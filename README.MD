@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-10-2022 , 07:42:49
+Last Update 08-10-2022 , 07:53:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Sacombank,Man City – Southampton,Xổ số miền Nam ngày 7 tháng 10,Vợ ca sĩ Thanh Bùi,Novaland,Cận thị,Min,Miss Grand International,Dortmund – Bayern,Trương Mỹ Lan,SCB,Chứng khoán Tân Việt,Arsenal,U17 Việt Nam,Osasuna – Valencia,Đà Nẵng – Bình Dương,Passion,Trang Nemo,Everton – Man utd,Brighton – Tottenham |
+| VIETNAM | Sacombank,Man City – Southampton,Vợ Thanh Bùi là ai,Xổ số miền Nam ngày 7 tháng 10,Novaland,Cận thị,Dortmund – Bayern,Miss Grand International,SCB,SCB có Biến,Chứng khoán Tân Việt,Arsenal,U17 Việt Nam,Osasuna – Valencia,C2,Đà Nẵng – Bình Dương,Passion,Trang Nemo,Everton – Man utd,Arsenal vs |
 
 
 
