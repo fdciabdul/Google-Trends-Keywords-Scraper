@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-10-2022 , 19:46:50
+Last Update 08-10-2022 , 19:55:12
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bologna – Sampdoria,Châu Gia Kiệt,Man City – Southampton,Thanh Bùi,Nam Định – Bình Định,Almería – Rayo,Sassuolo – Inter,Dortmund – Bayern,Sài Gòn – Thanh Hóa,Arsenal – Liverpool,MC,Reims – PSG,Jang wonyoung,Novaland,Miss Grand International 2022,Augsburg – Wolfsburg,Ung thư tuyến giáp,Kim Tae Hee Bi Rain,Tình về nơi đâu,Ngân hàng SHB |
+| VIETNAM | Real,Châu Gia Kiệt,Man City – Southampton,Thanh Bùi,Nam Định – Bình Định,Almería – Rayo,Dortmund – Bayern,Sassuolo – Inter,Milan – Juventus,Sài Gòn – Thanh Hóa,Reims – PSG,Arsenal – Liverpool,MC,Thanh bui,Jang wonyoung,Novaland,Miss Grand International 2022,Augsburg – Wolfsburg,Ung thư tuyến giáp,Kim Tae Hee Bi Rain |
 
 
 
