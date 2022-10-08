@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-10-2022 , 02:21:35
+Last Update 08-10-2022 , 03:45:06
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Xổ số miền Nam ngày 7 tháng 10,SCB,Vạn Thịnh Phát,Arsenal,U17 Việt Nam,Chứng khoán Tân Việt,Đà Nẵng – Bình Dương,Arsenal vs,Trang Nemo,Phí Ngọc Hưng,Brighton – Tottenham,Chelsea – Wolves,West Ham,Hoài Linh,Hải Như,BTS, Jungkook,Trương Mỹ Nhân,HJK – Ludogorets,Phương Anh Đào,Xả súng tại Thái Lan |
+| VIETNAM | Sacombank,Xổ số miền Nam ngày 7 tháng 10,SCB,Vạn Thịnh Phát,Arsenal,Chứng khoán Tân Việt,U17 Việt Nam,Đà Nẵng – Bình Dương,Trang Nemo,Arsenal vs,Phí Ngọc Hưng,Brighton – Tottenham,Chelsea – Wolves,West Ham,Hoài Linh,BTS, Jungkook,Phương Anh Đào,Xả súng tại Thái Lan,Diệp Lâm Anh,Thiều Bảo Trâm |
 
 
 
