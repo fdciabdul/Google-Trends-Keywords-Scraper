@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 08-10-2022 , 14:46:44
+Last Update 08-10-2022 , 14:57:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man City – Southampton,Thanh Bùi,Nam Định – Bình Định,Sassuolo – Inter,Sài Gòn – Thanh Hóa,Novaland,Miss Grand International 2022,Kim Tae Hee Bi Rain,Dortmund – Bayern,Valencia,Reims – PSG,Xổ số miền Nam ngày 7 tháng 10,Cận thị,BTV Hoài Anh,Ung thư tuyến giáp,Hồ Ngọc Hà,Leverkusen – Schalke,Bochum – Frankfurt,Miss Grand International,Thầy giáo nhắn tin dung tục với nữ sinh |
+| VIETNAM | Man City đấu với Southampton,Thanh Bùi,Nam Định – Bình Định,Almería – Rayo,Sassuolo – Inter,Sài Gòn – Thanh Hóa,Novaland,Miss Grand International 2022,Dortmund – Bayern,Kim Tae Hee Bi Rain,Reims – PSG,Ngân hàng SHB,Ung thư tuyến giáp,Cận thị,Xổ số miền Nam ngày 7 tháng 10,Augsburg – Wolfsburg,BTV Hoài Anh,Hồ Ngọc Hà,Miss Grand International,Thầy giáo nhắn tin dung tục với nữ sinh |
 
 
 
