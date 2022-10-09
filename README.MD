@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-10-2022 , 08:49:18
+Last Update 09-10-2022 , 09:06:24
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Brighton – Tottenham,Pau FC,Everton – Man Utd,AC Milan,Barcelona – Celta,Nước ion kiềm,Châu Gia Kiệt,Draymond Green,Nước ép dứa,Torino – Empoli,Nguyễn Văn Thể,Chứng bệnh,Ký ức vui vẻ,Shakira,Valladolid – Betis,Chung kết futsal,Hồng nhung,Man City – Southampton,Dortmund – Bayern,Getafe – Real Madrid |
+| VIETNAM | Brighton – Tottenham,Pau FC,Everton – Man Utd,AC Milan,Nguyễn Diana,Barcelona – Celta,Nguyễn Văn Thể,Nước ion kiềm,Châu Gia Kiệt,Draymond Green,Chứng bệnh,Nước ép dứa,Valladolid – Betis,Ký ức vui vẻ,Shakira,Chung kết futsal,Hồng nhung,Man City – Southampton,Dortmund – Bayern,Getafe – Real Madrid |
 
 
 
