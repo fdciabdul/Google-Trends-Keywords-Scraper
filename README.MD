@@ -1,6 +1,6 @@
 
 
-## Google Trends Keywords Scraper 
+## Google Trend
  
 Last Update 09-10-2022 , 17:58:17
 
@@ -11,4 +11,4 @@ Country List :
 
 
 
-© Abdul Muttaqin 
+© Bagus Budi Satoto
