@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-10-2022 , 14:38:49
+Last Update 09-10-2022 , 14:51:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Pau FC,Everton – Man Utd,Nguyễn Văn Thể,Tottenham vs,Torino – Empoli,Crystal Palace – Leeds,Nguyễn Diana,U17 Việt Nam vs U17 Thái Lan,AC Milan,Anh Tú,Lê Quỳnh Như,Viettel – Hải Phòng,Udinese – Atalanta,Barcelona – Celta,HAGL,Nguyễn Phú Trọng,Chứng bệnh,Cremonese – Napoli,Xăng,Nước ion kiềm |
+| VIETNAM | Pau FC,Everton – Man Utd,Crystal Palace – Leeds,Tottenham,Nguyễn Văn Thể,Torino – Empoli,Tottenham vs,Nguyễn Diana,Iker Casillas,AC Milan,Hồng Lĩnh Hà Tĩnh – Sông Lam Nghệ An,Viettel – Hải Phòng,Udinese – Atalanta,Xăng,HAGL,Barcelona – Celta,Anh Tú,Cremonese – Napoli,Chứng bệnh,Nguyễn Phú Trọng |
 
 
 
