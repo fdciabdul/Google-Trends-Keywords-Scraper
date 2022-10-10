@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-10-2022 , 07:54:22
+Last Update 10-10-2022 , 08:21:30
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | As roma,Chuyển đổi số là gì,Hoa hồng,Ngày Giải phóng Thủ đô,Mai Phương Thúy,Võ Hoàng Yến,Sao Mai 2022,Elche – Mallorca,Hailey Bieber,Brighton – Tottenham,Pau FC,U17 Việt Nam,Barca,Giá xăng hôm nay,Crystal Palace,Udinese – Atalanta,Nguyễn Văn Thể,Xăng,Tottenham,Iker Casillas |
+| VIETNAM | As roma,Chuyển đổi số là gì,Hoa hồng,Ngày Giải phóng Thủ đô,Mai Phương Thúy,Võ Hoàng Yến,Sao Mai 2022,Elche – Mallorca,Gabriel Jesus,Áo khoác nam,Hailey Bieber,Brighton – Tottenham,Barca,Pau FC,U17 Việt Nam,Giá xăng hôm nay,Crystal Palace,Udinese – Atalanta,Nguyễn Văn Thể,Xăng |
 
 
 
