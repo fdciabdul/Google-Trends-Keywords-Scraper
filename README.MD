@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 09-10-2022 , 23:57:16
+Last Update 10-10-2022 , 02:05:58
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Mai Phương Thúy,Brighton – Tottenham,Pau FC,Valladolid – Betis,Crystal Palace,Tottenham,Nguyễn Văn Thể,Nguyễn Diana,Iker Casillas,Hồng Lĩnh Hà Tĩnh – Sông Lam Nghệ An,Roma – Lecce,Anh Tú,Xăng,Lê Quỳnh Như,HAGL,Viettel đấu với Hải Phòng,Xăng Hôm nay,Nguyễn Phú Trọng,Giá xăng,Nhiệt độ |
+| VIETNAM | Barca vs,Mai Phương Thúy,Everton – Man Utd,Brighton – Tottenham,Pau FC,U17 Việt Nam,Crystal Palace,Valladolid – Betis,Giá xăng hôm nay,Tottenham,Nguyễn Văn Thể,Roma – Lecce,Nguyễn Diana,Iker Casillas,Viettel – Hải Phòng,Anh Tú,Xăng,HAGL,Giá xăng,Nhiệt độ |
 
 
 
