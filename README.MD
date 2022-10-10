@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 10-10-2022 , 17:45:30
+Last Update 10-10-2022 , 18:12:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,Code liên quân,Mu vs,Man utd,AS Roma,Hoa hồng,Chuyển đổi số là gì,Fiorentina – Lazio,West ham,Barca vs,Elche – Mallorca,Ngày giải phóng Thủ đô,Liêu Hà Trinh,Xăng tăng giá,Napoli vs,Xe điện VinFast,Mai Phương Thúy,Gabriel Martinelli,Ford Territory,Võ Hoàng Yến |
+| VIETNAM | Sam,MU,Code liên quân,Mu vs,Man utd,As Roma,Hoa hồng,Fiorentina – Lazio,Chuyển đổi số là gì,West ham,Elche – Mallorca,Barca vs,Liêu Hà Trinh,Ngày giải phóng Thủ đô,Vụ án Tứ Kỳ, Hải Dương,Xăng tăng giá,Ford Territory,Xe điện VinFast,Napoli vs,Mai Phương Thúy |
 
 
 
