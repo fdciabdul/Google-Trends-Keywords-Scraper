@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-10-2022 , 00:35:52
+Last Update 11-10-2022 , 03:16:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Aston Villa,Sam,Arsenal – Liverpool,Mu,Man utd,Tứ Kỳ, Hải Dương,Nguyễn Phương Hồng,Liverpool vs,Elche – Mallorca,AS Roma,Hoa hồng,Chuyển đổi số là gì,Liêu Hà Trinh,Xăng tăng giá,West ham,Barca vs,Ngày Giải phóng Thủ đô,Ford Territory,Xe điện VinFast,Napoli vs |
+| VIETNAM | Aston Villa,PSG – Benfica,Aston villa vs,Maccabi Haifa – Juventus,Sam,Hoa Linh Lan,Hành trình công lý,PLO,Arsenal – Liverpool,MU,Man utd,Nguyễn Phương Hồng,Fiorentina – Lazio,Tứ Kỳ, Hải Dương,Hoa hồng,Elche – Mallorca,Liverpool vs,Copenhagen – Man City,As roma,Liêu Hà Trinh |
 
 
 
