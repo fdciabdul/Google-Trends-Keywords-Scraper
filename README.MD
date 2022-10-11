@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 11-10-2022 , 03:16:29
+Last Update 11-10-2022 , 04:57:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Aston Villa,PSG – Benfica,Aston villa vs,Maccabi Haifa – Juventus,Sam,Hoa Linh Lan,Hành trình công lý,PLO,Arsenal – Liverpool,MU,Man utd,Nguyễn Phương Hồng,Fiorentina – Lazio,Tứ Kỳ, Hải Dương,Hoa hồng,Elche – Mallorca,Liverpool vs,Copenhagen – Man City,As roma,Liêu Hà Trinh |
+| VIETNAM | Aston Villa,PSG – Benfica,Maccabi Haifa – Juventus,Trương Bá Chi,Sam,Hoa Linh Lan,Shakhtar – Real Madrid,Hành trình công lý,Dortmund – Sevilla,Xổ số ngày 10 tháng 10,MU,Man utd,Nguyễn Phương Hồng,Tứ Kỳ, Hải Dương,Barca,VietinBank,Hoa hồng,Đám cưới Liêu Hà Trinh,Elche – Mallorca,Copenhagen – Man City |
 
 
 
