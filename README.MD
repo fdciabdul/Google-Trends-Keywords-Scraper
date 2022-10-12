@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-10-2022 , 13:12:36
+Last Update 12-10-2022 , 14:10:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Barcelona – Inter,MC,Rangers – Liverpool,Atlético Madrid – Club Brugge,Tottenham – Frankfurt,Lý Nhã Kỳ,Ngày Doanh nhân Việt Nam,Mbappe,Tóc Tiên,Leverkusen – Porto,Lâm Chí Dĩnh,Quang Hải Pau FC,Ca sĩ Hồ Ngọc Hà,Xổ số ngày 11 tháng 10,Xổ số miền nam ngày 12 tháng 10,Gong Hyo Jin,PSG – Benfica,Maccabi Haifa – Juventus,Shakhtar – Real Madrid,Giá xăng dầu hôm nay |
+| VIETNAM | Barcelona – Inter,Rangers – Liverpool,MC,Atlético Madrid – Club Brugge,Tottenham – Frankfurt,Lý Nhã Kỳ,Ngày Doanh nhân Việt Nam,Mbappe,Plzeň – Bayern,Tóc Tiên,Leverkusen – Porto,Ca sĩ Hồ Ngọc Hà,Quang Hải Pau FC,Xổ số miền nam ngày 12 tháng 10,Gong Hyo Jin,PSG – Benfica,Maccabi Haifa – Juventus,Shakhtar – Real Madrid,Giá xăng dầu hôm nay,Chainsaw man |
 
 
 
