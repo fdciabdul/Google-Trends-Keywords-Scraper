@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-10-2022 , 19:50:33
+Last Update 12-10-2022 , 19:59:32
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chelsea,PSG,Atlético Madrid – Club Brugge,Barcelona – Inter,Rangers – Liverpool,Tottenham – Frankfurt,MC,Plzeň – Bayern,Ngày Doanh nhân Việt Nam,Leverkusen – Porto,Mbappe,Tóc Tiên,Nguyễn Văn Thể,Ca sĩ Hồ Ngọc Hà,Quang Hải Pau FC,Gong Hyo Jin,Copenhagen đấu với Man City,PSG – Benfica,Maccabi Haifa – Juventus,Shakhtar – Real Madrid |
+| VIETNAM | Chelsea,PSG,Atlético Madrid – Club Brugge,Barcelona – Inter,Rangers – Liverpool,Tottenham – Frankfurt,Plzeň – Bayern,MC,Leverkusen – Porto,Ngày Doanh nhân Việt Nam,Mbappe,Tóc Tiên,Nguyễn Văn Thể,Ca sĩ Hồ Ngọc Hà,Quang Hải Pau FC,Gong Hyo Jin,Copenhagen đấu với Man City,PSG – Benfica,Maccabi Haifa – Juventus,Shakhtar – Real Madrid |
 
 
 
