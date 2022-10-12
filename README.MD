@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 12-10-2022 , 02:28:18
+Last Update 12-10-2022 , 04:15:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MC,Barcelona – Inter,Lý Nhã Kỳ,Rangers – Liverpool,Tottenham – Frankfurt,Gong Hyo Jin,PSG – Benfica,Maccabi Haifa – Juventus,Shakhtar – Real Madrid,Giá xăng dầu hôm nay,Bùi Cao Nhật Quân,Aston Villa,Hoa Linh Lan,Hành trình công lý - Tập 1,Isaac,Aston villa vs,Sam,Ninh Dương Lan Ngọc,Minh Hằng,Mai Tài Phến |
+| VIETNAM | MC,Barcelona – Inter,Rangers – Liverpool,Lý Nhã Kỳ,Tottenham – Frankfurt,Tóc Tiên,Gong Hyo Jin,PSG – Benfica,Maccabi Haifa – Juventus,Shakhtar – Real Madrid,Giá xăng dầu hôm nay,Bùi Cao Nhật Quân,Aston Villa,Hành trình công lý - Tập 1,Hoa Linh Lan,Napoli – Ajax,Isaac,Aston villa vs,Sam,Ninh Dương Lan Ngọc |
 
 
 
