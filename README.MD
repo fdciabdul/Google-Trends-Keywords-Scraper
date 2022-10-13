@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-10-2022 , 07:40:08
+Last Update 13-10-2022 , 07:57:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tottenham,Man Utd – Omonia,Chúc mừng ngày Doanh nhân Việt Nam,Jennie (Blackpink,Club Brugge,Tina Dương,Cruz Azul – Monterrey,Áp thấp nhiệt đới,Barca,Tottenham – Frankfurt,Rangers – Liverpool,Chelsea,Atlético Madrid – Club Brugge,Ngày Doanh nhân Việt Nam,PSG,Leverkusen – Porto,PSG vs Benfica,Cô gái đến từ quá khứ,MC,Black Adam |
+| VIETNAM | Tottenham,Chúc mừng Ngày Doanh nhân Việt Nam,Man Utd – Omonia,Jennie (Blackpink,Club Brugge,Tina Dương,Đỗ Vinh Quang,Cruz Azul – Monterrey,Betis – Roma,Dương Mịch,Áp thấp nhiệt đới,Charlie Puth,Barca,Tottenham – Frankfurt,Rangers – Liverpool,Chelsea,Atlético Madrid – Club Brugge,Ngày Doanh nhân Việt Nam,PSG,Leverkusen – Porto |
 
 
 
