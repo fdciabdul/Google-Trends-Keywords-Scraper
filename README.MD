@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-10-2022 , 15:45:09
+Last Update 13-10-2022 , 16:01:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man Utd – Omonia,Tottenham,Chúc mừng Ngày Doanh nhân Việt Nam,Betis – Roma,Tina Dương,Jennie Blackpink,Club Brugge,Nguyễn Trung Huyên,Nhà xe Tiến Oanh,Áp thấp nhiệt đới,Cruz Azul – Monterrey,Chi Pu,Charlie Puth,Dương Mịch,CPI,Thanh Lam,Barca,Rangers – Liverpool,Tottenham – Frankfurt,Man City |
+| VIETNAM | Man Utd – Omonia,Tottenham,Chúc mừng Ngày Doanh nhân Việt Nam,Betis – Roma,Tina Dương,Atletico Madrid,Jennie Blackpink,Club Brugge,Nguyễn Trung Huyên,Nhà xe Tiến Oanh,Áp thấp nhiệt đới,Chi Pu,Cruz Azul – Monterrey,Charlie Puth,Dương Mịch,CPI,Thanh Lam,Tap,Lưu Khải Uy,Barca |
 
 
 
