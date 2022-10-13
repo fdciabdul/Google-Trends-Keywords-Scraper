@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 13-10-2022 , 21:42:21
+Last Update 13-10-2022 , 21:54:02
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Cháy toà nhà Vạn Thịnh Phát,Ludogorets – HJK,Barca,Man Utd – Omonia,Chúc mừng Ngày Doanh nhân Việt Nam,Tottenham,Tina Dương,Feyenoord – Midtjylland,Áp thấp nhiệt đới,Jennie Blackpink,AEK Larnaca – fenerbahçe,Xổ số Cần Thơ ngày 12 tháng 10,Nhà xe Tiến Oanh,Nguyễn Trung Huyên,Club Brugge,Chi Pu,Charlie Puth,Dương Mịch,Tap,Lưu Khải Uy |
+| VIETNAM | Cháy toà nhà Vạn Thịnh Phát,Ludogorets – HJK,Barca,Man Utd – Omonia,Chúc mừng Ngày Doanh nhân Việt Nam,Tina Dương,Atletico Madrid,Áp thấp nhiệt đới,Jennie Blackpink,AEK Larnaca – fenerbahçe,Xổ số ngày 12 tháng 10,Nhà xe Tiến Oanh,Nguyễn Trung Huyên,Club Brugge,Chi Pu,Charlie Puth,Dương Mịch,Tap,Lưu Khải Uy,CPI |
 
 
 
