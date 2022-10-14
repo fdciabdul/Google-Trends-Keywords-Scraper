@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-10-2022 , 14:50:55
+Last Update 14-10-2022 , 15:09:03
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Vạn Thịnh Phát,Thanh Hóa – Hải Phòng,Brentford – Brighton,Đỗ Mỹ Linh,HAGL,Sài Gòn – Viettel,Sulli,Miss Intercontinental 2022,Angelina Jolie,Ludogorets – HJK,West Ham – Anderlecht,Elantra 2023,Leeds – Arsenal,Xổ số miền Nam ngày 14 tháng 10,Angela Phương Trinh,Hương Giang,Hiền Hồ,Saudi Arabia,Man Utd – Omonia,Barca |
+| VIETNAM | Vạn Thịnh Phát,Thanh Hóa – Hải Phòng,Brentford – Brighton,Đỗ Mỹ Linh,Sài Gòn – Viettel,HAGL,Sulli,Hồng Lĩnh Hà Tĩnh – Đà Nẵng,Miss Intercontinental 2022,Xổ số miền Nam ngày 14 tháng 10,Angelina Jolie,Ludogorets – HJK,West Ham – Anderlecht,Elantra 2023,Angela Phương Trinh,Leeds – Arsenal,Lisa - Blackpink,Hương Giang,Johnny Depp,Saudi Arabia |
 
 
 
