@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 14-10-2022 , 19:41:43
+Last Update 14-10-2022 , 19:52:01
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dự báo thời tiết đà nẵng,Vạn Thịnh Phát,Hoàng Anh Gia Lai – Sông Lam Nghệ An,Brentford – Brighton,Thanh Hóa – Hải Phòng,Sài Gòn – Viettel,Arsenal vs,Sulli,Angelina Jolie,Đà Nẵng,Elantra 2023,Phương Oanh,14 Pro Max,Ludogorets – HJK,Bảng xếp hạng Anh,Xổ số miền Nam ngày 14 tháng 10,Angela Phương Trinh,Chung kết Miss Intercontinental 2022,Leeds – Arsenal,Lisa - Blackpink |
+| VIETNAM | Nguyễn Phương Hằng,Vạn Thịnh Phát,Hoàng Anh Gia Lai – Sông Lam Nghệ An,Brentford – Brighton,Thanh Hóa – Hải Phòng,Sài Gòn – Viettel,Francis Uzoho,Arsenal vs,Đà Nẵng,Miss Intercontinental 2022,Sulli,Hồng Lĩnh Hà Tĩnh – Đà Nẵng,Xổ số miền Nam ngày 14 tháng 10,Angelina Jolie,Elantra 2023,Phương Oanh,14 Pro Max,Ludogorets – HJK,Bảng xếp hạng Anh,Angela Phương Trinh |
 
 
 
