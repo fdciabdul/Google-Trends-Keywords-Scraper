@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-10-2022 , 15:38:53
+Last Update 15-10-2022 , 15:56:28
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Fulham – Bournemouth,Liverpool – Man City,Frankfurt – Leverkusen,Robbie Coltrane,Real Madrid – Barcelona,Bình Dương đấu với TP.HCM,Nguyễn Phương Hằng,Crystal Palace,FC Annecy – Pau,El Clasico,Lâm Chí Dĩnh,Kante,Mallorca – Sevilla,Tất Thành Cang,Miss Intercontinental 2022,Brentford – Brighton,Vạn Thịnh Phát,Hoàng Anh Gia Lai – Sông Lam Nghệ An,Bão số 5,Hà Nội đấu với Nam Định |
+| VIETNAM | Fulham – Bournemouth,Liverpool – Man City,Bình Dương đấu với TP.HCM,Robbie Coltrane,Real Madrid – Barcelona,Nguyễn Phương Hằng,FC Annecy – Pau,Xổ số miền nam ngày 15 tháng 10,Crystal Palace,Lâm Chí Dĩnh,El Clasico,Kante,Tất Thành Cang,Miss Intercontinental 2022,Hà Nội đấu với Nam Định,Brentford – Brighton,Vạn Thịnh Phát,Bão số 5,Hoàng Anh Gia Lai – Sông Lam Nghệ An,Sài Gòn – Viettel |
 
 
 
