@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-10-2022 , 05:33:09
+Last Update 15-10-2022 , 06:05:27
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Real Madrid – Barcelona,Nguyễn Phương Hằng,Miss Intercontinental 2022,Brentford – Brighton,Vạn Thịnh Phát,Hoàng Anh Gia Lai – Sông Lam Nghệ An,Thanh Hóa – Hải Phòng,Sài Gòn – Viettel,Đà Nẵng,Francis Uzoho,Arsenal vs,Sulli,Leicester – Crystal Palace,Xổ số miền Nam ngày 14 tháng 10,Tottenham – Everton,Angelina Jolie,Elantra 2023,14 Pro Max,Ludogorets – HJK,Angela Phương Trinh |
+| VIETNAM | Liverpool – Man City,Real Madrid – Barcelona,Nguyễn Phương Hằng,Miss Intercontinental 2022,Brentford – Brighton,Hoàng Anh Gia Lai – Sông Lam Nghệ An,Vạn Thịnh Phát,Bão số 5,Thanh Hóa – Hải Phòng,Đà Nẵng,Sài Gòn – Viettel,Francis Uzoho,Arsenal vs,Leicester – Crystal Palace,Sulli,Xổ số miền Nam ngày 14 tháng 10,Angelina Jolie,Elantra 2023,14 Pro Max,Ludogorets – HJK |
 
 
 
