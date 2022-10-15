@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 15-10-2022 , 19:48:46
+Last Update 15-10-2022 , 19:57:33
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Greenwood,Liverpool – Man City,Leicester City,Kết quả bóng đá Anh,Real vs Barca,FC Annecy – Pau,Bình Dương đấu với TP.HCM,Robbie Coltrane,Fulham,Nguyễn Phương Hằng,Xổ số miền nam ngày 15 tháng 10,Everton,El Clasico,Lâm Chí Dĩnh,Tất Thành Cang,Miss Intercontinental 2022,Tottenham – Everton,Hà Nội đấu với Nam Định,Brentford – Brighton,Vạn Thịnh Phát |
+| VIETNAM | Lens – Montpellier,Greenwood,Liverpool – Man City,FC Annecy – Pau,Real vs Barca,Bình Dương đấu với TP.HCM,Robbie Coltrane,Ket qua bong da Anh,Fulham,Nguyễn Phương Hằng,Xổ số miền nam ngày 15 tháng 10,Crystal Palace,El Clasico,Lâm Chí Dĩnh,Tất Thành Cang,Tottenham – Everton,Miss Intercontinental 2022,Hà Nội đấu với Nam Định,Brentford – Brighton,Vạn Thịnh Phát |
 
 
 
