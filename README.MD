@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-10-2022 , 14:49:54
+Last Update 16-10-2022 , 14:58:29
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Leeds – Arsenal,Inter – Salernitana,Greenwood,MoMo,Miss Globe 2022,Valencia,Hoài Lâm,PSG – Marseille,Bão Nesat,Võ Hoàng Yến,Mỹ linh,GAM,Köln – Augsburg,Man Utd – Newcastle,Liverpool – Man City,Hà Nội đấu với Nam Định,Real vs Barca,FC Annecy – Pau,Torino – Juventus,Aston Villa – Chelsea |
+| VIETNAM | Inter – Salernitana,Mason Greenwood,MoMo,Miss Globe 2022,Valencia,PSG – Marseille,Hoài Lâm,Bão Nesat,Lens – Montpellier,Võ Hoàng Yến,Köln – Augsburg,Mỹ linh,GAM,Vương Hạc Đệ,Tập Cận Bình,Man Utd – Newcastle,Leeds – Arsenal,Real vs Barca,Liverpool – Man City,Hà Nội đấu với Nam Định |
 
 
 
