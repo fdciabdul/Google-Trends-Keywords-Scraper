@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-10-2022 , 07:47:58
+Last Update 16-10-2022 , 07:56:59
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tot vs Everton,Greenwood,MoMo,Miss Globe 2022,Valencia,Hoài Lâm,Mỹ Linh,Bão Nesat,Võ Hoàng Yến,Liverpool – Man City,Man Utd – Newcastle,FC Annecy – Pau,Real vs Barca,Torino – Juventus,Ath Bilbao – atlético Madrid,Mai Tiến Dũng,Lorient – Reims,Robbie Coltrane,Bình Dương đấu với TP.HCM,Crystal Palace |
+| VIETNAM | Tot vs Everton,MoMo,Greenwood,Miss Globe 2022,Valencia,Hoài Lâm,PSG – Marseille,Mỹ Linh,Bão Nesat,Võ Hoàng Yến,BTS Jungkook,Liverpool – Man City,Man Utd – Newcastle,FC Annecy – Pau,Real vs Barca,Torino – Juventus,Ath Bilbao – atlético Madrid,Mai Tiến Dũng,Lorient – Reims,Robbie Coltrane |
 
 
 
