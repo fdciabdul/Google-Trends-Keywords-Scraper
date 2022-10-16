@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 16-10-2022 , 18:53:30
+Last Update 16-10-2022 , 19:10:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MC,Inter – Salernitana,Mason Greenwood,MoMo,Miss Globe 2022,Bác Hồ,PSG – Marseille,Cristiano Ronaldo,Monaco – Clermont,90,Hồ Chí Minh,Võ Hoàng Yến,Hoài Lâm,Lens – Montpellier,Auxerre – Nice,Mỹ Linh,Xoi,GAM,Tot vs Everton,Vương Hạc Đệ |
+| VIETNAM | MC,Inter – Salernitana,Union Berlin – Dortmund,PSG – Marseille,Mason Greenwood,MoMo,Bác Hồ,Miss Globe 2022,Cristiano Ronaldo,Monaco – Clermont,Hồ Chí Minh,90,Võ Hoàng Yến,Hoài Lâm,Auxerre – Nice,Lens – Montpellier,Mỹ Linh,Xoi,GAM,Phượng Hoàng Lửa là ai |
 
 
 
