@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-10-2022 , 13:55:40
+Last Update 17-10-2022 , 14:34:46
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | PSG,MC,Park Hang Seo,Miss Grand International,Sampdoria – Roma,Lời chúc 20/10,Dortmund,District K,Kiều Minh Tuấn,Bao so 6,Liverpool – West Ham,Frenkie de Jong,Huỳnh Hiểu Minh,Trực tiếp bóng đá,PSG – Marseille,Chelsea,Bayern – Freiburg,Mai Phương Thúy,AC Milan,Napoli – Bologna |
+| VIETNAM | PSG,MC,Park Hang Seo,Miss Grand International,Sampdoria – Roma,Lời chúc 20/10,Dortmund,Kiều Minh Tuấn,Bao so 6,Liverpool – West Ham,Frenkie de Jong,Cháy quận 1,Huỳnh Hiểu Minh,Real vs Barca,Man Utd – Newcastle,Trực tiếp bóng đá,PSG – Marseille,Chelsea,Bayern – Freiburg,Mai Phương Thúy |
 
 
 
