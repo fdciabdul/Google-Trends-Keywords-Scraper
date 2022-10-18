@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-10-2022 , 08:36:06
+Last Update 18-10-2022 , 09:06:02
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hành trình công lý tập 4,Gavi,MCK,Toni Kroos,Scorn,Công nương Diana,Sevilla – Valencia,Đức Phúc,BTS nhập ngũ,Selena Gomez,Liverpool – Man City,Sampdoria – Roma,Đỗ Mỹ Linh,Lời chúc 20/10,Park Hang-seo,MC,PSG vs,Bayern Munich,Miss Grand International,District K |
+| VIETNAM | Gavi,MCK,Công nương Diana,Scorn,Đức Phúc,BTS nhập ngũ,Selena Gomez,Liverpool – Man City,Sampdoria – Roma,Đỗ Mỹ Linh,Lời chúc 20/10,Park Hang-seo,Mc,Bayern Munich,Miss Grand International,PSG vs,District K,Kiều Minh Tuấn,Dortmund,Bao so 6 |
 
 
 
