@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 18-10-2022 , 16:48:47
+Last Update 18-10-2022 , 17:25:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Viettel – Hoàng Anh Gia Lai,Sông Lam Nghệ An – Sài Gòn,AS Roma,2, 3 con mực,Đà Nẵng – Thanh Hóa,Sevilla – Valencia,Hành trình công lý tập 4,Bình Định đấu với Hồng Lĩnh Hà Tĩnh,Gavi,Fiorentina,Lý Dịch Phong,MCK,Toni Kroos,Scorn,Xổ số miền Nam ngày 18 tháng 10,Thiên Ân,Đức Phúc,BTS nhập ngũ,Selena Gomez,Liverpool – Man City |
+| VIETNAM | Viettel đấu với Hoàng Anh Gia Lai,Sông Lam Nghệ An – Sài Gòn,2, 3 con mực,Đà Nẵng – Thanh Hóa,Sevilla – Valencia,GAVI,Bình Định đấu với Hồng Lĩnh Hà Tĩnh,Xổ số miền Nam ngày 18 tháng 10,Fiorentina,BXH v League,Lý Dịch Phong,MCK,Thiên Ân,Toni Kroos,Scorn,MU vs Tot,BTS nhập ngũ,Aptos,Selena Gomez,Liverpool – Man City |
 
 
 
