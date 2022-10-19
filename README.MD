@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-10-2022 , 08:16:21
+Last Update 19-10-2022 , 08:56:46
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Arsenal – Man City,NBA,Brentford – Chelsea,Liverpool – West Ham,Hoa 20/10,Hoa tiền,iPad Gen 10,Phương Trinh Jolie,Hành trình công lý tập 5,Newcastle – Everton,Cake by VPBank,Higuain,Từ Hy Viên,Kaity Nguyễn,Viettel – Hoàng Anh Gia Lai,Sông Lam Nghệ An – Sài Gòn,AS Roma,Sevilla – Valencia,2 3 con mực,Đà Nẵng – Thanh Hóa |
+| VIETNAM | Arsenal – Man City,Brentford – Chelsea,NBA,Liverpool – West Ham,Hoa 20/10,Hoa tiền,iPad Gen 10,Phương Trinh Jolie,Hành trình công lý tập 5,Newcastle – Everton,Bạn muốn hẹn hò,Cake by VPBank,Từ Hy Viên,Elche – Real Madrid,Higuain,Kaity Nguyễn,Viettel – Hoàng Anh Gia Lai,Miss Grand International,Sông Lam Nghệ An – Sài Gòn,AS Roma |
 
 
 
