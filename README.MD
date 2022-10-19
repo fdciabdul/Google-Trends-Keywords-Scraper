@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-10-2022 , 14:49:16
+Last Update 19-10-2022 , 15:09:11
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man Utd – Tottenham,Arsenal – Man City,Hoa 20/10,Hải Phòng – Bình Dương,Brentford – Chelsea,Liverpool – West Ham,NBA,Hoa tiền,Newcastle – Everton,iPad Gen 10,Phương Trinh Jolie,Hành trình công lý tập 5,Thoi tiet ha noi,Đàm Vĩnh Hưng,Cake by VPBank,Vẽ tranh 20/10,Từ hy viên,Higuain,Xổ số miền Nam ngày 19 tháng 10,Kaity Nguyễn |
+| VIETNAM | Hải Phòng – Bình Dương,Hoa 20/10,Arsenal – Man City,Brentford – Chelsea,Liverpool – West Ham,NBA,iPad Gen 10,Adenovirus,Hoa tiền,Newcastle – Everton,Phương Trinh Jolie,Ngay 20/10,Hành trình công lý tập 5,Đàm Vĩnh Hưng,Vẽ Tranh 20/10,Cake by VPBank,Từ hy viên,Higuain,Kaity Nguyễn,TP.HCM đấu với Hà Nội |
 
 
 
