@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 19-10-2022 , 23:38:12
+Last Update 19-10-2022 , 23:58:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Women's Day,Liverpool – West Ham,Brentford – Chelsea,Hoa 20/10,Newcastle – Everton,Hải Phòng – Bình Dương,Arsenal – Man City,Elche – Real Madrid,Dự báo thời tiết Hà Nội,Adenovirus,iPad Gen 10,NBA,Ngày Phụ nữ Việt Nam,Hoa tiền,Phương Trinh Jolie,Đàm Vĩnh Hưng,Freiburg – St Pauli,Gomu Huyền Thoại,Hành trình công lý tập 5,Bó hoa |
+| VIETNAM | Liverpool vs West Ham,Women's Day,20/10,Brentford – Chelsea,Hoa 20/10,Newcastle – Everton,Arsenal – Man City,Hải Phòng – Bình Dương,Elche – Real Madrid,NBA,iPad Gen 10,Ngày Phụ nữ Việt Nam,Hoa Tiền,Adenovirus,Đàm Vĩnh Hưng,Gomu Huyền Thoại,Hành trình công lý tập 5,Bó hoa,Vẽ Tranh 20/10,Trần Đình Thành |
 
 
 
