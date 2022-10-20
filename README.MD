@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-10-2022 , 15:43:00
+Last Update 20-10-2022 , 16:01:49
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,Chúc 20/10,Premier League,Black Adam,Chelsea – Man utd,Leicester – Leeds,20 tháng 10,Bang xep hang,Women's day,Barcelona – Villarreal,Bó hoa đẹp,Dortmund,20.10,Hoa hồng đẹp,Hoài Linh,Phụ nữ Việt Nam,Như Quỳnh,Liz Truss,Phụ nữ,TWICE |
+| VIETNAM | MU,Chúc 20/10,Premier League,Black Adam,Chelsea – Man utd,Leicester – Leeds,20 tháng 10,Bó hoa đẹp,Bang xep hang,Barcelona – Villarreal,Women's day,Dortmund,Cremonese – Modena,Chuc mung ngay 20/10,20.10,Hoa hồng đẹp,Liz Truss,Như Quỳnh,Hoài Linh,Phụ nữ Việt Nam |
 
 
 
