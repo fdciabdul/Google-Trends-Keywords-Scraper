@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 20-10-2022 , 13:25:27
+Last Update 20-10-2022 , 14:20:18
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,Premier League,Thiệp 20-10,20 tháng 10,Fulham – Aston Villa,Leicester – Leeds,Bang xep hang,Hoa hồng đẹp,Arsenal – PSV,Women's day,Dortmund,Barcelona – Villarreal,20.10,Bó hoa đẹp,Hoài Linh,Đinh Quốc Thái,Phụ nữ Việt Nam,TWICE,Phụ nữ,Chuc mung ngay 20/10 |
+| VIETNAM | MU,Premier League,Thiệp 20-10,Fulham – Aston Villa,20 tháng 10,Leicester – Leeds,Arsenal – PSV,Bang xep hang,Hoa hồng đẹp,Women's day,Barcelona – Villarreal,Dortmund,20.10,Hoài Linh,Đinh Quốc Thái,Phụ nữ Việt Nam,Phụ nữ,TWICE,Như Quỳnh,Ngày Quốc tế Phụ nữ |
 
 
 
