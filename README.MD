@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-10-2022 , 07:36:05
+Last Update 21-10-2022 , 07:54:38
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Barca,Lê Âu Ngân Anh,Kim Tae Hee,Tài khoản định danh điện tử,Nguyễn Văn Thắng,The international 2022,Đỗ Thị Hà,MU,Chúc mừng 20/10,Ngoại hạng Anh,Fulham – Aston Villa,Arsenal – PSV,Chúc 20/10,Leicester – Leeds,Barca vs,Premier League,Black Adam,Hoa,Cremonese – Modena,Thủ tướng Anh từ chức |
+| VIETNAM | Lê Âu Ngân Anh,Ajaccio – PSG,Kim Tae Hee,Nguyễn Văn Thắng,Tài khoản định danh điện tử,Đỗ Thị Hà,The international 2022,Chúc mừng 20/10,MU,Ngoại hạng Anh,Barca,Fulham – Aston Villa,Arsenal – PSV,Chúc 20/10,Leicester – Leeds,Black Adam,Premier League,Hoa,Thủ tướng Anh từ chức,Cremonese – Modena |
 
 
 
