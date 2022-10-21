@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-10-2022 , 03:28:15
+Last Update 21-10-2022 , 04:48:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Fulham,Lê Âu Ngân Anh,The International 2022,Tài khoản định danh điện tử,Kim Tae Hee,Chúc mừng 20/10,MU,Ngoại hạng Anh,Arsenal – PSV,Chúc 20/10,Leicester – Leeds,Fulham – Aston Villa,Barca vs Villarreal,Premier League,Black Adam,Cremonese – Modena,Thủ tướng Anh từ chức,Bang xep hang,Newcastle,Bó hoa đẹp |
+| VIETNAM | Fulham,Lê Âu Ngân Anh,Tài khoản định danh điện tử,Kim Tae Hee,The International 2022,Chúc mừng 20/10,MU,Ngoại hạng Anh,Premier League,Chúc 20/10,Arsenal – PSV,Leicester – Leeds,Fulham – Aston Villa,Barca vs,Black Adam,Cremonese – Modena,Thủ tướng Anh từ chức,Bang xep hang,Newcastle,Bó hoa đẹp |
 
 
 
