@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 21-10-2022 , 16:10:57
+Last Update 21-10-2022 , 16:57:25
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nguyễn Văn Thắng,Ajaccio – PSG,Giá xăng dầu hôm nay,Ma Dong Seok,Lê Âu Ngân Anh,Xổ số miền Nam ngày 20 tháng 10,Kim Tae Hee,Tổng cục Thuế,Juventus,Tài khoản định danh điện tử,Meghan,Đỗ Thị Hà,Taylor Swift,Phi nhung,Đào Hồng Lan,The international 2022,Chelsea vs MU,Hà Văn Trọng,Chúc mừng 20/10,MU |
+| VIETNAM | Giá xăng hôm nay,Barca,Nguyễn Văn Thắng,Ajaccio – PSG,Ma Dong Seok,Lê Âu Ngân Anh,Kim Tae Hee,Juventus,Tổng cục Thuế,Tài khoản định danh điện tử,Taylor Swift,Meghan,Đỗ Thị Hà,Đào Hồng Lan,Phi nhung,Xổ số miền Nam ngày 20 tháng 10,Chelsea vs MU,The international 2022,Chung kết Miss Grand International 2022,Hà Văn Trọng |
 
 
 
