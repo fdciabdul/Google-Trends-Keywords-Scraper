@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-10-2022 , 14:45:57
+Last Update 22-10-2022 , 14:57:16
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Nottm Forest – Liverpool,Bình Định – Sài Gòn,Man City – Brighton,Đà Nẵng – Hoàng Anh Gia Lai,Bình An,T1 vs RNG,20th Century Girl,Lionel Messi,Máy bay đâm vào chung cư ở Mỹ,Real Madrid – Sevilla,Mâu Thủy,Bayern Munich,Miss Grand International 2019,Kiên Giang,Freiburg – Werder Bremen,Wanda Nara,Steven Gerrard,Ajaccio – PSG,Chelsea – Man Utd,Giá xăng hôm nay |
+| VIETNAM | Nottm Forest – Liverpool,Bình Định – Sài Gòn,Dortmund – Stuttgart,Đà Nẵng – Hoàng Anh Gia Lai,Bayern Munich,Bình An,20th Century Girl,T1 vs RNG,Salernitana – Spezia,Lionel Messi,Real Madrid – Sevilla,Tập Cận Bình,Máy bay đâm vào chung cư ở Mỹ,Mâu Thủy,Miss Grand International 2019,Kiên Giang,Wanda Nara,Noo Phước Thịnh,Steven Gerrard,Chelsea – Man Utd |
 
 
 
