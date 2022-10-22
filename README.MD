@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 22-10-2022 , 19:44:03
+Last Update 22-10-2022 , 19:52:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man Utd,Ngọc Trinh,Mason Mount,Inter Milan,Tottenham – Newcastle,Waalwijk – Ajax,Xoi,Nottm Forest – Liverpool,Bình Định – Sài Gòn,Dortmund – Stuttgart,Hoffenheim – Bayern,Augsburg – Leipzig,Đà Nẵng – Hoàng Anh Gia Lai,Bayern Munich,Tập Cận Bình,MC,Real Madrid – Sevilla,Pau – nîmes,Salernitana – Spezia,20th Century Girl |
+| VIETNAM | Bảng xếp hạng Ngoại hạng Anh,Man Utd,Inter Milan,90,Tottenham – Newcastle,Waalwijk – Ajax,Ngọc Trinh,Mason Mount,Xoi,Aston Villa – Brentford,Nottm Forest – Liverpool,Bình Định – Sài Gòn,Dortmund – Stuttgart,Hoffenheim – Bayern,Manchester united,Augsburg – Leipzig,Đà Nẵng – Hoàng Anh Gia Lai,Milan – Monza,Bayern Munich,Real Madrid – Sevilla |
 
 
 
