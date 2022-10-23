@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-10-2022 , 15:55:55
+Last Update 23-10-2022 , 16:24:23
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MU,Southampton – Arsenal,Bảng xếp hạng Ngoại hạng Anh,Aston Villa – Brentford,Tottenham – Newcastle,Bình Dương – Hồng Lĩnh Hà Tĩnh,Varane,Waalwijk – Ajax,Ngọc Trinh,Mason Mount,Lisandro martínez,90,Đại hội Đảng Trung Quốc,SLNA,Kim Yuna,Xoi,Hertha – Schalke,UFC,Groningen – PSV,Chelsea – Man Utd |
+| VIETNAM | Southampton – Arsenal,MU,Hải Phòng – Hà Nội,Bảng xếp hạng Ngoại hạng Anh,Leeds – Fulham,Tottenham – Newcastle,TP.HCM – Sông Lam Nghệ An,Bochum – Union Berlin,Bình Dương – Hồng Lĩnh Hà Tĩnh,Varane,Waalwijk – Ajax,Ngọc Trinh,Bologna – Lecce,Mason Mount,Lisandro martínez,90,Hertha – Schalke,Đại hội Đảng Trung Quốc,Kim Yuna,Xoi |
 
 
 
