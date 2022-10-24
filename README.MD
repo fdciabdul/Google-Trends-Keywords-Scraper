@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-10-2022 , 00:55:59
+Last Update 24-10-2022 , 03:50:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tot,Tottenham – Newcastle,Southampton – Arsenal,MU,Hải Phòng – Hà Nội,Reims – Auxerre,TP.HCM đấu với Sông Lam Nghệ An,Roma – Napoli,Hertha – Schalke,Inter Milan,Bình Dương – Hồng Lĩnh Hà Tĩnh,Bochum – Union Berlin,Bảng xếp hạng V-League,Varane,Waalwijk – Ajax,Bologna – Lecce,Ngọc Trinh,Mason Mount,Lisandro martínez,90 |
+| VIETNAM | Genshin Impact,MobiFone,Atletico Madrid,Tot,Đức Phúc,Tottenham – Newcastle,Southampton – Arsenal,M.U,Hải Phòng – Hà Nội,Reims – Auxerre,Roma – Napoli,Hertha – Schalke,Bình Dương – Hồng Lĩnh Hà Tĩnh,Inter Milan,Bảng xếp hạng V-League,Bochum – Union Berlin,Varane,Waalwijk – Ajax,SLNA,Marseille – Lens |
 
 
 
