@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-10-2022 , 15:45:06
+Last Update 24-10-2022 , 16:03:20
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MobiFone,Genshin Impact,Park Bom,Atletico Madrid,Dương Cẩm Lynh,V.League 2,Tot,Diwali,Rishi Sunak,Xổ số miền nam ngày 23 tháng 10,Phùng Xuân Nhạ,Trang trí Halloween,Đức Phúc,Đỗ Quang Hiển,Chứng khoán hôm nay,Tottenham – Newcastle,Hải Phòng – Hà Nội,Southampton – Arsenal,M.U,Bảng xếp hạng Ngoại hạng Anh |
+| VIETNAM | MobiFone,Genshin Impact,Park Bom,Atletico Madrid,Dương Cẩm Lynh,V.League 2,Rishi Sunak,Tot,Diwali,Phùng Xuân Nhạ,Xổ số miền nam ngày 23 tháng 10,JayKii,Trang trí Halloween,Đức Phúc,Đỗ Quang Hiển,Chứng khoán hôm nay,Barcelona – Bayern,Tottenham – Newcastle,Hải Phòng – Hà Nội,M.U |
 
 
 
