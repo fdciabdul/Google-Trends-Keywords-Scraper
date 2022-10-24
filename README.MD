@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 23-10-2022 , 23:52:25
+Last Update 24-10-2022 , 00:55:59
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Tot,Southampton – Arsenal,MU,Tottenham – Newcastle,Hải Phòng – Hà Nội,Reims – Auxerre,Hertha – Schalke,Roma – Napoli,Bochum – Union Berlin,Inter Milan,Bình Dương – Hồng Lĩnh Hà Tĩnh,Varane,Chung kết Miss Grand International 2022,Waalwijk – Ajax,Bologna – Lecce,SLNA,Ngọc Trinh,Mason Mount,Lisandro martínez,90 |
+| VIETNAM | Tot,Tottenham – Newcastle,Southampton – Arsenal,MU,Hải Phòng – Hà Nội,Reims – Auxerre,TP.HCM đấu với Sông Lam Nghệ An,Roma – Napoli,Hertha – Schalke,Inter Milan,Bình Dương – Hồng Lĩnh Hà Tĩnh,Bochum – Union Berlin,Bảng xếp hạng V-League,Varane,Waalwijk – Ajax,Bologna – Lecce,Ngọc Trinh,Mason Mount,Lisandro martínez,90 |
 
 
 
