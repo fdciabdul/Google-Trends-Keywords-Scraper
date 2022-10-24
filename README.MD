@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 24-10-2022 , 07:35:42
+Last Update 24-10-2022 , 08:04:09
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MobiFone,Genshin Impact,Atletico Madrid,Tot,Đức Phúc,Dương Cẩm Lynh,Tottenham – Newcastle,Southampton – Arsenal,M.U,Hải Phòng – Hà Nội,Bảng xếp hạng Ngoại hạng Anh,Đỗ Mỹ Linh,Barcelona – Ath Bilbao,Atalanta – Lazio,Roma – Napoli,Bình Dương – Hồng Lĩnh Hà Tĩnh,BXH ngoại hạng anh,Girona – Osasuna,Inter Milan,Varane |
+| VIETNAM | MobiFone,Genshin Impact,Atletico Madrid,Tot,Dương Cẩm Lynh,Đức Phúc,Diwali,Tottenham – Newcastle,Hải Phòng – Hà Nội,Southampton – Arsenal,M.U,Bảng xếp hạng Ngoại hạng Anh,Đỗ Mỹ Linh,Barcelona – Ath Bilbao,Atalanta – Lazio,Roma – Napoli,Manchester United,Bình Dương – Hồng Lĩnh Hà Tĩnh,Inter Milan,BXH ngoại hạng anh |
 
 
 
