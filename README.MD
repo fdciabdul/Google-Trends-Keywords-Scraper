@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-10-2022 , 09:49:47
+Last Update 25-10-2022 , 10:09:48
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Dortmund – Man City,Novaland,Vé tàu Tết 2023,Leipzig – Real Madrid,Cơ sở dữ liệu,Xổ số Đồng Tháp ngày 24 tháng 10,iOS 16.1,Triệu Lệ Dĩnh,The Rock,Benfica – Juventus,Hành trình công lý tập 7,Champion League,Triệu Vy,Nhật Kim Anh,Lệ Quyên,VND,Văn khấn thần Tài,Marilyn Monroe,Bắc Ninh,Lotte Cinema |
+| VIETNAM | Miss Grand International 2022,Dortmund – Man City,Novaland,Vé tàu Tết 2023,Leipzig – Real Madrid,Cơ sở dữ liệu,iOS 16.1,Benfica – Juventus,Triệu Lệ Dĩnh,The Rock,Champion League,Triệu Vy,Nhật Kim Anh,Lệ Quyên,VND,Văn khấn thần Tài,Xổ số ngày 24 tháng 10,Marilyn Monroe,Bắc Ninh,Lotte Cinema |
 
 
 
