@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-10-2022 , 18:11:57
+Last Update 25-10-2022 , 19:07:51
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lisa (BlackPink,Miss Grand International 2022,Dortmund – Man City,Leipzig – Real Madrid,Vé tàu Tết 2023,Novaland,Vụ giết người ở Hải Phòng mới nhất,Champion League,Thời tiết Đà Nẵng,Miss Universe,Hành trình công lý tập 7,Hải Phòng,iOS 16.1,Triệu Vy,Triệu Lệ Dĩnh,The Rock,VND,Nhật Kim Anh,Unai Emery,Tập đoàn Sơn Hải |
+| VIETNAM | Juventus,Lisa (BlackPink,Miss Grand International 2022,Dortmund – Man City,Champions League,Champion League,Vé tàu Tết 2023,Vụ giết người ở Hải Phòng mới nhất,Novaland,Thời tiết Đà Nẵng,Miss Universe,Hành trình công lý tập 7,Hải Phòng,Triệu Vy,iOS 16.1,Ngu Thư Hân,Triệu Lệ Dĩnh,The Rock,VND,Nhật Kim Anh |
 
 
 
