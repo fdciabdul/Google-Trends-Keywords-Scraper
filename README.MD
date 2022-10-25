@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 25-10-2022 , 01:16:39
+Last Update 25-10-2022 , 04:03:44
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Novaland,Cơ sở dữ liệu,Dortmund – Man City,Nhật Kim Anh,MobiFone,Genshin Impact,West Ham,Bắc Ninh,Park Bom,Rishi Sunak,Dương Cẩm Lynh,Atletico Madrid,V.League 2,JayKii,Diwali,Phùng Xuân Nhạ,Tot,Tăng Thanh Hà,Trang trí Halloween,Đức Phúc |
+| VIETNAM | Novaland,Cơ sở dữ liệu,Dortmund – Man City,Leipzig – Real Madrid,Triệu Lệ Dĩnh,Vé tàu Tết 2023,iOS 16.1,Champion League,Nhật Kim Anh,VND,MobiFone,Bắc Ninh,C1,Genshin Impact,Park Bom,VN-Index,Rishi Sunak,RB Salzburg – Chelsea,Jaykii,V-League 2 |
 
 
 
