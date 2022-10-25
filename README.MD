@@ -2,12 +2,12 @@
 
 ## Google Trend
  
-Last Update 17-10-2022 , 00:00:52
+Last Update 25-10-2022 , 20:01:43
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | MC,Chelsea,PSG – Marseille,Inter – Salernitana,Union Berlin – Dortmund,Bayern – Freiburg,Mai Phương Thúy,Mason Greenwood,MoMo,Bác Hồ,Miss Globe 2022,Cristiano Ronaldo,Köln – Augsburg,Hồ Chí Minh,90,Võ Hoàng Yến,Hoài Lâm,Auxerre – Nice,Lens – Montpellier,Mỹ Linh |
+| VIETNAM | Real Madrid,Juventus,Lisa (BlackPink,Miss Grand International 2022,Dortmund – Man City,Champion League,Vé tàu Tết 2023,Novaland,Thời tiết Đà Nẵng,Miss Universe,Cơ sở dữ liệu,Hành trình công lý tập 7,Hải Phòng,Triệu Vy,iOS 16.1,Video giết người ở Bắc Ninh,Ngu Thư Hân,Triệu Lệ Dĩnh,The Rock,VND |
 
 
 
