@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 26-10-2022 , 06:49:06
+Last Update 26-10-2022 , 07:08:07
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ajax – Liverpool,Tottenham – Sporting,MC,Ngày điều dưỡng Việt Nam,Inter,Lisa (BlackPink,Vietnam Motor Show 2022,Miss Grand International 2022,Leipzig – Real Madrid,Dortmund – Man City,Benfica – Juventus,Dinamo – Milan,Miss Universe,Clip giết người ở Bắc Ninh,Vé tàu Tết 2023,Novaland,Thời tiết Đà Nẵng,Hải Phòng,West Ham vs,Triệu Vy |
+| VIETNAM | Ajax – Liverpool,Inter Milan,Tottenham – Sporting,Ngày điều dưỡng Việt Nam,MC,Vietnam Motor Show 2022,Lisa (BlackPink,Miss Grand International 2022,Dortmund – Man City,Leipzig – Real Madrid,Benfica – Juventus,Dinamo – Milan,Brazil,Vé tàu Tết 2023,Vụ giết người ở Hải Phòng mới nhất,Novaland,Thời tiết Đà Nẵng,Miss Universe,Hải Phòng,West Ham vs |
 
 
 
