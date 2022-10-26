@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 26-10-2022 , 16:49:32
+Last Update 26-10-2022 , 17:12:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Ajax – Liverpool,Tottenham – Sporting,Lý Nhã Kỳ bị bắt!,Inter Milan,Messi,Châu Tinh Trì,Ngày điều dưỡng Việt Nam,Europa League,Lưu Diệc Phi,Dortmund,MC,Vợ chồng son,Vietnam Motor Show 2022,Bản quyền World Cup 2022,Lisa (BlackPink,Kanye West,Quế Ngọc Hải,Amou Haji,Miss Grand International 2022,C1 |
+| VIETNAM | Ajax – Liverpool,Inter Milan,Tottenham – Sporting,Lý Nhã Kỳ bị bắt!,Châu Tinh Trì,Ngày điều dưỡng Việt Nam,Europa League,Lưu Diệc Phi,Dortmund,MC,Bạch Lộc,Bản quyền World Cup 2022,Vợ chồng son,Vietnam Motor Show 2022,Lisa (BlackPink,Kanye West,Quế Ngọc Hải,Amou Haji,Miss Grand International 2022,C1 |
 
 
 
