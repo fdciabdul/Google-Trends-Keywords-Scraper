@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-10-2022 , 13:31:23
+Last Update 28-10-2022 , 14:07:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hoàng anh gia lai đấu với Bình Định,Thanh Hóa – TP.HCM,Leicester – Man City,Elon Musk,MC Đại Nghĩa,Bournemouth – Tottenham,Địch Lệ Nhiệt Ba,West Ham,Bảng xếp hạng Europa League,Sài Gòn – Hải Phòng,Xavi Simons,Redmi Note 12,Angelababy Huỳnh Hiểu Minh,Darwin Nunez,Hyun Bin,Man Utd – Sheriff,PSV – Arsenal,Lịch thi đấu World Cup 2022,HJK – Roma,Passion |
+| VIETNAM | Hoàng anh gia lai đấu với Bình Định,Thanh Hóa – TP.HCM,Leicester – Man City,Sài Gòn – Hải Phòng,Man utd – West Ham,MC Đại Nghĩa,Elon Musk,Bournemouth – Tottenham,Địch Lệ Nhiệt Ba,V-League 2022,West Ham,Bảng xếp hạng Europa League,Xavi Simons,Vua hài' Châu Tinh Trì,Redmi Note 12,Vietravel Airlines,Hoàng Anh Gia Lai,Angelababy Huỳnh Hiểu Minh,Hyun Bin,Darwin Nunez |
 
 
 
