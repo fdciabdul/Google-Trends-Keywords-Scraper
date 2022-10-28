@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 27-10-2022 , 23:57:45
+Last Update 28-10-2022 , 02:05:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man utd – West Ham,Man Utd – Sheriff,PSV – Arsenal,Lịch thi đấu World Cup 2022,Europa League,Omonia – Real Sociedad,HJK – Roma,Nguyễn Đăng Nam,Atletico Madrid,Freiburg – olympiakos,Xổ số miền Nam ngày 26 tháng 10,Angelababy,Ajax vs Liverpool,Cúm B,Nổ súng ở Phú Quốc,Nantes – Qarabag,Ngày Halloween,Trang trí Halloween,Trần Đức Thắng,Tăng lương cơ sở |
+| VIETNAM | Man utd – West Ham,West Ham,Bournemouth – Tottenham,Man Utd – Sheriff,PSV – Arsenal,HJK – Roma,Lịch World Cup 2022,Freiburg – olympiakos,Ludogorets – Betis,Nguyễn Đăng Nam,Atletico Madrid,Nổ súng ở Phú Quốc,Angelababy,Cúm B,Ajax vs Liverpool,Ngày Halloween,Xổ số miền Nam ngày 26 tháng 10,Trang trí Halloween,Trần Đức Thắng,Tăng lương cơ sở |
 
 
 
