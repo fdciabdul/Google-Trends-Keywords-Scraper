@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-10-2022 , 08:50:57
+Last Update 29-10-2022 , 08:59:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Kiều Minh Tuấn,Lens vs,Liverpool – Leeds,Hanni,Mauritius,Song Hye Kyo Song Joong Ki,Hoàng Anh Gia Lai đấu với Bình Định,V-League,Thanh Hóa – TP.HCM,Leicester – Man City,Mallorca – Espanyol,MC Đại Nghĩa,Sài Gòn đấu với Hải Phòng,AS Roma,Kẻ độc hành,Bournemouth – Tottenham,Elon Musk,Brighton – Chelsea,Địch Lệ Nhiệt Ba,Antony |
+| VIETNAM | Kiều Minh Tuấn,Liverpool – Leeds,Hanni,Mauritius,Song Hye Kyo Song Joong Ki,V.League 2,V-League,Hoàng Anh Gia Lai đấu với Bình Định,Thanh Hóa – TP.HCM,Leicester – Man City,Mallorca – Espanyol,MC Đại Nghĩa,Lens – Toulouse,AS Roma,Kẻ độc hành,Bournemouth – Tottenham,Elon Musk,Brighton – Chelsea,Địch Lệ Nhiệt Ba,Antony |
 
 
 
