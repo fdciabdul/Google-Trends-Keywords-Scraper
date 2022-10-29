@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 29-10-2022 , 22:45:03
+Last Update 29-10-2022 , 22:53:57
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lễ hội Halloween,Pau FC,Tottenham,Cartoon network,Newcastle,Napoli,MC,Kiều Minh Tuấn,V.League 2,Kim Tae Ri,Phạm Nhật Vượng,Ca sĩ Ngọc Sơn,Khánh Hòa – Cần Thơ,Trưc tiêp bong da,Hanni,Thu minh,Mauritius,Leicester – Man City,Brighton – Chelsea,Hoàng Anh Gia Lai đấu với Bình Định |
+| VIETNAM | Lễ hội Halloween,Liverpool vs Leeds United,Pau FC,Tottenham,Cartoon network,Newcastle,Napoli,MC,MU vs West Ham,Kiều Minh Tuấn,V.League 2,Kim Tae Ri,Phạm Nhật Vượng,Ca sĩ Ngọc Sơn,Trưc tiêp bong da,Hanni,Thu minh,Mauritius,Leicester – Man City,Brighton – Chelsea |
 
 
 
