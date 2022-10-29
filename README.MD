@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 28-10-2022 , 23:56:33
+Last Update 29-10-2022 , 01:26:31
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | V-League,Hoàng Anh Gia Lai – Bình Định,Thanh Hóa – TP.HCM,Mallorca – Espanyol,MC Đại Nghĩa,Leicester – Man City,Lens – Toulouse,Elon Musk,Kẻ độc hành,Địch Lệ Nhiệt Ba,Bournemouth – Tottenham,Antony,Brighton – Chelsea,Xavi Simons,West Ham,Bảng xếp hạng Europa League,Redmi Note 12,Vua hài' Châu Tinh Trì,Hyun Bin,Villarreal – Hapoel Beer Sheva |
+| VIETNAM | Hoàng Anh Gia Lai đấu với Bình Định,V-League,Thanh Hóa – TP.HCM,Mallorca – Espanyol,MC Đại Nghĩa,Leicester – Man City,Elon Musk,Kẻ độc hành,Bournemouth – Tottenham,Địch Lệ Nhiệt Ba,Lịch thi đấu V-League,Antony,Europa,Brighton – Chelsea,Xavi Simons,West Ham,Redmi Note 12,Bảng xếp hạng Europa League,Hyun Bin,Vua hài' Châu Tinh Trì |
 
 
 
