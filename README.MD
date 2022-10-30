@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-10-2022 , 08:39:16
+Last Update 30-10-2022 , 08:53:14
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Halloween,T1 vs JDG,Juventus,Real Madrid – Girona,Ký ức vui vẻ,Tot,Jin (BTS,Hương Giang,Gisele bündchen,Neuer,Leicester – Man City,Brighton – Chelsea,Bournemouth – Tottenham,Liverpool – Leeds,Fulham – Everton,Man City,Valencia – Barcelona,Man Utd – West Ham,Pau FC,Cartoon network |
+| VIETNAM | Halloween,T1 vs JDG,Real Madrid – Girona,Ký ức vui vẻ,Liam Hemsworth,Tot,Jin (BTS,Hương Giang,Neuer,Gisele bündchen,Leicester – Man City,Brighton – Chelsea,Bournemouth – Tottenham,Liverpool – Leeds,Fulham – Everton,Man City,Valencia – Barcelona,Halloween ngày mấy,Man Utd – West Ham,Pau FC |
 
 
 
