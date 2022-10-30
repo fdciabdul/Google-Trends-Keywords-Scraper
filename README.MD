@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 30-10-2022 , 15:55:59
+Last Update 30-10-2022 , 16:20:54
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lễ hội Halloween,Arsenal – nottm Forest,Empoli – Atalanta,Ligue 1,Barca,T1 vs JDG,Hồng Lĩnh Hà Tĩnh – Viettel,Real Madrid – Girona,Spezia – Fiorentina,Jin (BTS,Paris Saint-Germain,Ký ức vui vẻ,Neuer,Tot,Hương Giang,Somalia,Schalke – Freiburg,Gisele bündchen,Leicester – Man City,Brighton – Chelsea |
+| VIETNAM | Lễ hội Halloween,Arsenal – nottm Forest,PSG,Empoli – Atalanta,Ligue 1,Barca,Real Madrid – Girona,Hồng Lĩnh Hà Tĩnh – Viettel,T1 vs JDG,Spezia – Fiorentina,Liverpool vs,Dortmund,Jin (BTS,Liam Hemsworth,Paris Saint-Germain,Ký ức vui vẻ,Somalia,Schalke – Freiburg,Neuer,Tot |
 
 
 
