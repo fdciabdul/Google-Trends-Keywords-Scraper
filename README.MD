@@ -2,12 +2,12 @@
 
 ## Google Trend
  
-Last Update 25-10-2022 , 20:01:43
+Last Update 30-10-2022 , 10:34:19
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Real Madrid,Juventus,Lisa (BlackPink,Miss Grand International 2022,Dortmund – Man City,Champion League,Vé tàu Tết 2023,Novaland,Thời tiết Đà Nẵng,Miss Universe,Cơ sở dữ liệu,Hành trình công lý tập 7,Hải Phòng,Triệu Vy,iOS 16.1,Video giết người ở Bắc Ninh,Ngu Thư Hân,Triệu Lệ Dĩnh,The Rock,VND |
+| VIETNAM | Halloween,T1 vs JDG,Real Madrid – Girona,Paris Saint-Germain,Ký ức vui vẻ,Jin (BTS,Tot,Hương Giang,Neuer,Gisele bündchen,Leicester – Man City,Brighton – Chelsea,Bournemouth – Tottenham,Liverpool – Leeds,Fulham – Everton,Valencia – Barcelona,Halloween ngày mấy,Man Utd – West Ham,Pau FC,Cartoon network |
 
 
 
