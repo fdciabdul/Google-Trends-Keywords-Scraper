@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-10-2022 , 10:54:30
+Last Update 31-10-2022 , 11:11:39
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man Utd,Ferrari 488,Nguyễn Quang Hải,Lazio,Nghị định 91/2022,Bảng xếp hạng,Verona – Roma,Bão số 7,Hồng Đăng,Hoa hậu Trần Tiểu Vy,Elche – Getafe,Phương Trinh Jolie,Kendall Jenner,Sập cầu Ấn Độ,Lễ hội Halloween,Arsenal – nottm Forest,Real Madrid – Girona,Halloween là ngày nào,Barca,Ngày halloween |
+| VIETNAM | Ferrari 488,Nguyễn Quang Hải,Lazio,Nghị định 91/2022,Bảng xếp hạng,Verona – Roma,Bão số 7,Hồng Đăng,Hoa hậu Trần Tiểu Vy,Elche – Getafe,Phương Trinh Jolie,Sập cầu Ấn Độ,Kendall Jenner,Ali Hoàng Dương,Tổng bí thư thăm Trung Quốc,Lễ hội Halloween,Arsenal – nottm Forest,Real Madrid – Girona,PSG,Halloween là ngày nào |
 
 
 
