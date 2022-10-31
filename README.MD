@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-10-2022 , 15:59:39
+Last Update 31-10-2022 , 16:40:11
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Hà Nội – Đà Nẵng,Ferrari 488,AC Milan,Nguyễn Quang Hải,Nghị định 91/2022,Lazio,Bảng xếp hạng,Elche – Getafe,Bão số 7,Phương Trinh Jolie,Hoa hậu Trần Tiểu Vy,Sập cầu Ấn Độ,Giá xăng,Kendall Jenner,Ali Hoàng Dương,Tổng Bí thư thăm Trung Quốc,Lễ hội Halloween,Man Utd – West Ham,Arsenal – nottm Forest,Real Madrid – Girona |
+| VIETNAM | Man Utd,Hà Nội – Đà Nẵng,Ferrari 488,AC Milan,Nguyễn Quang Hải,Nghị định 91/2022,Elche – Getafe,Lazio,Bảng xếp hạng,Bão số 7,Phương Trinh Jolie,Sập cầu Ấn Độ,Hoa hậu Trần Tiểu Vy,Giá xăng,Kendall Jenner,Ali Hoàng Dương,CATL,Tổng Bí thư thăm Trung Quốc,Lãi suất ngân hàng Hiện nay,Lễ hội Halloween |
 
 
 
