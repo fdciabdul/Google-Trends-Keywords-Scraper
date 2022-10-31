@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-10-2022 , 04:40:54
+Last Update 31-10-2022 , 05:21:20
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Bảng xếp hạng,Lorient – Nice,Hồng Đăng,Ferrari 488,Philadelphia – New York City,Lễ hội Halloween,Arsenal – nottm Forest,Real Madrid – Girona,PSG,Liverpool,Barca,Ngày halloween,T1 vs JDG,Hồng Lĩnh Hà Tĩnh – Viettel,Google Doodle,Ath Bilbao – Villarreal,Schalke – Freiburg,Liverpool vs,Dortmund,Trịnh Xuân Thanh |
+| VIETNAM | Bảng xếp hạng,Hồng Đăng,Ferrari 488,Kendall Jenner,Lễ hội Halloween,Arsenal – nottm Forest,Real Madrid – Girona,Liverpool,Barca,Ngày halloween,T1 vs JDG,Hồng Lĩnh Hà Tĩnh – Viettel,Google Doodle,Ath Bilbao – Villarreal,Schalke – Freiburg,Liverpool vs,Dortmund,Somalia,Trịnh Xuân Thanh,Halloween ngày nào |
 
 
 
