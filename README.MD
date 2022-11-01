@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 31-10-2022 , 23:55:50
+Last Update 01-11-2022 , 01:43:37
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | As Roma,Đấu trí tập 73,MU,Man Utd,Verona – Roma,Ferrari 488,Monza – Bologna,Elche – Getafe,AC Milan,Nguyễn Quang Hải,Nghị định 91/2022,Lazio,Bảng xếp hạng,Bão số 7,Phương Trinh Jolie,Sập cầu Ấn Độ,Hoa hậu Trần Tiểu Vy,Giá xăng,CATL,Cổ Thiên Lạc |
+| VIETNAM | Liverpool – Napoli,Đấu trí tập 73,Verona – Roma,Man Utd,Ferrari 488,Monza – Bologna,AC Milan,Nguyễn Quang Hải,Giá xăng dầu hôm nay,Nghị định 91/2022,Lazio,Bảng xếp hạng,Bão số 7,Phương Trinh Jolie,Sập cầu Ấn Độ,Hoa hậu Trần Tiểu Vy,CATL,Cổ Thiên Lạc,Kendall Jenner,Ali Hoàng Dương |
 
 
 
