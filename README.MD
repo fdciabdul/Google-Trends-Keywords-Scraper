@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 01-11-2022 , 12:15:44
+Last Update 01-11-2022 , 13:15:32
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Vụ đốt mẹ ở Hưng Yên,Liverpool – Napoli,Roma vs,Tháng 11 tiếng Anh,Đại Hồng Bào,November,Hành trình công lý tập 10,Đấu trí - Tập 73,Huỳnh Như,Ibrahimovic,Xuân Hinh,Lương Bích Hữu,KFC Thích Quảng Đức,Verona – Roma,Man Utd,Giá xăng hôm nay,Ngọc Anh Miss Audition,Ferrari 488,Monza – Bologna,AC Milan |
+| VIETNAM | Vụ đốt mẹ ở Hưng Yên,Liverpool – Napoli,Takeoff,Roma vs,Tháng 11 tiếng Anh,Đại Hồng Bào,November,Hành trình công lý tập 10,Đấu trí - Tập 73,Huỳnh Như,Xuân Hinh,Ibrahimovic,Lương Bích Hữu,KFC Thích Quảng Đức,Verona – Roma,Man Utd,Giá xăng hôm nay,Ngọc Anh Miss Audition,Ferrari 488,Monza – Bologna |
 
 
 
