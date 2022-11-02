@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 02-11-2022 , 14:58:29
+Last Update 02-11-2022 , 15:25:35
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Telegram,Juventus – PSG,Man City – Sevilla,Genshin code,Chelsea – Dinamo,Bayern Munich,Hữu Tín,Hynam,Heidi Klum,Xổ số Power,World Cup,Nissan Kicks,Xổ số miền Nam ngày 1 tháng 11,Trần Hiểu,Lê Âu Ngân Anh,Liverpool – Napoli,Porto – atlético Madrid,Vụ đốt mẹ ở Hưng Yên,Takeoff,Bang xep hang C1 |
+| VIETNAM | Telegram,Juventus – PSG,Genshin code,Man City – Sevilla,Chelsea – Dinamo,Bayern Munich,Hữu Tín,Heidi Klum,World Cup,Xổ số Power,Nissan Kicks,Xổ số miền Nam ngày 1 tháng 11,Trần Hiểu,Liverpool – Napoli,Porto – atlético Madrid,Vụ đốt mẹ ở Hưng Yên,Takeoff,Bang xep hang C1,Real Madrid – Celtic,Ngọc Anh Miss Audition |
 
 
 
