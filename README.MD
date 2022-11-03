@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 03-11-2022 , 06:58:31
+Last Update 03-11-2022 , 07:20:10
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Man City,Real Sociedad – Man Utd,Cúp C1,Leipzig,Fed,Juventus – PSG,Man City – Sevilla,Chelsea – Dinamo,Telegram,Milan – RB Salzburg,Liverpool,Genshin code,Hữu Tín,FED tăng lãi suất,Hynam,Frankfurt,Nissan Kicks,Chiếc Bật Lửa Và Váy Công Chúa,Lê Âu Ngân Anh,World Cup |
+| VIETNAM | Real Sociedad – Man Utd,Man City,Leipzig,Fed,Áo dài,Roma,Juventus – PSG,Man City – Sevilla,Chelsea – Dinamo,Telegram,Milan – RB Salzburg,Trận đấu cúp c1,Liverpool,Genshin code,Hữu Tín,FED tăng lãi suất,Hynam,Frankfurt,Nissan Kicks,Lê Âu Ngân Anh |
 
 
 
