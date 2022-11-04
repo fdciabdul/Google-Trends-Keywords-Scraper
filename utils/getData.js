@@ -22,6 +22,9 @@ const url = 'https://trends.google.com/trends/hottrends/atom/feed?pn='+ code;
 }
 
 console.log(x.toString());
+  fs.readdirSync(testFolder).forEach(file => {
+  console.log(file);
+
   fs.writeFileSync("./README.MD", `
 
 ## Google Trends Keywords Scraper 
@@ -29,14 +32,14 @@ console.log(x.toString());
 Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 
 Country List :
- Name  | Keyword |
-| ------------- | ------------- |
-| ${name} | ${thiskeyword.toString()} |
+${file}
 
 
 
 © Abdul Muttaqin 
 `, 'UTF-8',{'flags': 'w+'})
+    
+    });
 str += "| "+name+" | "+x.title+"|";
      fs.writeFileSync("./data/"+name+".json", JSON.stringify(res, null, 2), res)
   fs.writeFileSync("./forcopied/"+name+".txt",thiskeyword.toString() , "UTF-8")
