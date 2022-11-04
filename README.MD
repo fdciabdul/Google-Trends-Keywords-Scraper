@@ -2,12 +2,12 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 04-11-2022 , 06:41:25
+Last Update 04-11-2022 , 06:55:55
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Chiec bat lua va vay cong chua,Pique,Hydrogen,Xổ số miền nam ngày 3 tháng 11,Phạm Quỳnh Anh,Thanh Hóa – Hà Nội,Lien minh,Wolves – Brighton,Vương Hạc Đệ,Real Sociedad đấu với Man utd,PSG,Midtjylland – Sturm Graz,Real Madrid – Celtic,Hải Phòng – Hồng Lĩnh Hà Tĩnh,Man City,Feyenoord – Lazio,V-League,Đà Nẵng – Sài Gòn,Cúp C1,Leipzig |
+| VIETNAM | Zalo bị lỗi,Pique,Hydrogen,Phạm Quỳnh Anh,Xổ số miền nam ngày 3 tháng 11,Thanh Hóa – Hà Nội,Wolves – Brighton,Kim Tae Hee,TP.HCM,Lien minh,Real Sociedad – Man Utd,PSG,Real Madrid – Celtic,Hải Phòng – Hồng Lĩnh Hà Tĩnh,Man City,V-League,Midtjylland – Sturm Graz,Feyenoord – Lazio,Đà Nẵng – Sài Gòn,Cúp C1 |
 
 
 
