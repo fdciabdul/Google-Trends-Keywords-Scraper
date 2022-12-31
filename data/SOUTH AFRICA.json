@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2022 , 15:59:59",
+  "lastUpdate": "31-12-2022 , 16:26:20",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
-        "pubdate": "Sat, 31 Dec 2022 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barcelona vs Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20vs%20Espanyol",
         "pubdate": "Sat, 31 Dec 2022 07:00:00 +0200"
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
+        "pubdate": "Sat, 31 Dec 2022 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kaizer Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs",
         "pubdate": "Sat, 31 Dec 2022 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Everton",
+        "pubdate": "Sat, 31 Dec 2022 02:00:00 +0200"
       }
     ],
     [
@@ -52,29 +59,8 @@
     ],
     [
       {
-        "title": "Man City vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Everton",
-        "pubdate": "Sat, 31 Dec 2022 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barbara Walters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barbara%20Walters",
-        "pubdate": "Sat, 31 Dec 2022 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brighton vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Arsenal",
-        "pubdate": "Sat, 31 Dec 2022 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fireworks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fireworks",
         "pubdate": "Sat, 31 Dec 2022 08:00:00 +0200"
       }
     ],
@@ -87,30 +73,16 @@
     ],
     [
       {
-        "title": "Democratic Alliance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Democratic%20Alliance",
+        "title": "Brighton vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Arsenal",
+        "pubdate": "Sat, 31 Dec 2022 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "New Year's Eve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#New%20Year's%20Eve",
         "pubdate": "Sat, 31 Dec 2022 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Idaho Student Murders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Idaho%20Student%20Murders",
-        "pubdate": "Sat, 31 Dec 2022 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "White Noise movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#White%20Noise%20movie",
-        "pubdate": "Sat, 31 Dec 2022 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brighton  Hove Albion f.c.",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20%20Hove%20Albion%20f.c.",
-        "pubdate": "Sat, 31 Dec 2022 08:00:00 +0200"
       }
     ],
     [
@@ -129,9 +101,37 @@
     ],
     [
       {
-        "title": "Mamelodi Sundowns vs Orlando Pirates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns%20vs%20Orlando%20Pirates",
-        "pubdate": "Fri, 30 Dec 2022 14:00:00 +0200"
+        "title": "Democratic Alliance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Democratic%20Alliance",
+        "pubdate": "Sat, 31 Dec 2022 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Idaho Student Murders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Idaho%20Student%20Murders",
+        "pubdate": "Sat, 31 Dec 2022 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brighton  Hove Albion f.c.",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20%20Hove%20Albion%20f.c.",
+        "pubdate": "Sat, 31 Dec 2022 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "White Noise movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#White%20Noise%20movie",
+        "pubdate": "Sat, 31 Dec 2022 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sekhukhune United vs AmaZulu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sekhukhune%20United%20vs%20AmaZulu",
+        "pubdate": "Sat, 31 Dec 2022 17:00:00 +0200"
       }
     ],
     [
