@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.1",
     "date-format": "^4.0.3",
     "rss-parser": "^3.12.0"
   },
