@@ -15,7 +15,7 @@ module.exports = async (data) => {
 
     const url = `https://trends.google.com/trends/hottrends/atom/feed?pn=${code}`;
     const feed = await parser.parseURL(url);
-
+    console.log(feed);
     const x = feed.items.map(el => ({
       title: el.title,
       link: el.link,
