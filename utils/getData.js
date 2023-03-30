@@ -19,7 +19,7 @@ module.exports = async (data) => {
       title: el.title,
       link: el.link,
       pubdate: el.pubDate,
-      approxtraffic: el["ht:approx_traffic"]
+      approxtraffic: el.ht:news_item_snippet
     }));
 
     const thiskeyword = feed.items.map(el => el.title);
