@@ -2,11 +2,12 @@ const fs = require("fs");
 const Parser = require('rss-parser');
 const parser = new Parser();
 const format = require("date-format");
+const xml2js = require('xml2js');
 
 module.exports = async (data) => {
   let list = data.slice(0, -1);
 
-  let str = '';
+  let tableData = '| Country | Keyword | Last Update |\n| --- | --- | --- |\n';
 
   for (let item of list) {
     let [name, code] = item.split('=');
@@ -19,7 +20,7 @@ module.exports = async (data) => {
       title: el.title,
       link: el.link,
       pubdate: el.pubDate,
-      approxtraffic: el.ht:news_item_snippet
+      approxtraffic: el["ht:approx_traffic"]
     }));
 
     const thiskeyword = feed.items.map(el => el.title);
@@ -28,21 +29,21 @@ module.exports = async (data) => {
       data: x
     };
 
-    str += `| ${name} | ${x.title} |`;
+    const keywordString = thiskeyword.join(', ');
+
+    tableData += `| ${name} | ${keywordString} | ${res.lastUpdate} |\n`;
 
     fs.writeFileSync(`./data/${name}.json`, JSON.stringify(res, null, 2));
     fs.writeFileSync(`./forcopied/${name}.txt`, thiskeyword.toString(), "UTF-8");
   }
 
-  const files = fs.readdirSync("./data/");
-  const fileString = files.join('\n');
-
   fs.writeFileSync("./README.MD", `
 ## Google Trends Keywords Scraper
 
 Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
-Country List :
-${fileString}
+Country List:
+
+${tableData}
 © Abdul Muttaqin
 `, 'UTF-8', {
     'flags': 'w+'
