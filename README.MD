@@ -1,12 +1,54 @@
 
+## Google Trends Keywords Scraper
 
-## Google Trends Keywords Scraper 
- 
-Last Update 30-03-2023 , 07:44:31
-
+Last Update 30-03-2023 , 07:45:31
 Country List :
+ARGENTINA.json
+AUSTRALIA.json
+AUSTRIA.json
+BELGIUM.json
+BRAZIL.json
+CANADA.json
+CHILE.json
+COLOMBIA.json
+CZECHIA.json
+DENMARK.json
+EGYPT.json
+FINLAND.json
+FRANCE.json
+GERMANY.json
+GREECE.json
+HONG KONG.json
+HUNGARY.json
+INDIA.json
+INDONESIA.json
+IRELAND.json
+ISRAEL.json
+ITALY.json
+JAPAN.json
+KENYA.json
+MALAYSIA.json
+MEXICO.json
+NETHERLANDS.json
+NEW ZEALAND.json
+NIGERIA.json
+NORWAY.json
+PHILIPPINES.json
+POLAND.json
+PORTUGAL.json
+ROMANIA.json
+RUSSIA.json
+SAUDI ARABIA.json
+SINGAPORE.json
+SOUTH AFRICA.json
+SOUTH KOREA.json
+SWEDEN.json
+SWITZERLAND.json
+TAIWAN.json
+THAILAND.json
+TURKEY.json
+UKRAINE.json
+UNITED KINGDOM.json
+UNITED STATES.json
 VIETNAM.json
-
-
-
-© Abdul Muttaqin 
+© Abdul Muttaqin
