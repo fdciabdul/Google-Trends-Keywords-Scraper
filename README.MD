@@ -55,4 +55,4 @@ Country List:
 | UNITED KINGDOM | George Osborne, Britney Spears, Alcaraz, Mbappe, Bruce Springsteen Hyde Park, Speak Now (Taylor's Version, TRNSMT, Azpilicueta, Brad Pitt, Ben Stokes, Donut, Threads, Liam Broady, Wimbledon school crash, Mitchell Marsh, Rybakina, Elle Edwards, Greta Thunberg, Granit Xhaka, Tennis | 07-07-2023 , 15:38:54 |
 | VIETNAM | Điểm chuẩn lớp 10 năm 2023, Mua vé BlackPink, Phương Mỹ Chi, Quang Hải, Kiến ba khoang, Trường Giang, Zelensky, Messenger không gửi được ảnh, Ngày 7/7/2023, Cúp Quốc gia 2023, Chung kết pháo hoa Đà Nẵng, Gia đình mình vui bất thình lình, Threads, Lâm Thị Mỹ Dạ, Cúp Quốc gia, Vinamilk, Nơi giấc mơ tìm về tập 28, VND, Lê Phước Thọ, Diệp Lâm Anh | 07-07-2023 , 15:38:54 |
 
-© Abdul Muttaqin
+© Bagus Budi Satoto
