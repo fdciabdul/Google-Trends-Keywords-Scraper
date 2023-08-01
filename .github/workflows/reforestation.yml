@@ -1,0 +1,47 @@
+name: Reforestation
+
+on:
+  push:
+    branches:
+      - master
+
+  schedule:
+    - cron: '0 0,12 * * *'
+
+jobs:
+  reforestation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set global directory
+        run: git config --global --add safe.directory /github/workspace
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+
+      - name: Modify last update
+        run: |
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > LAST_UPDATED
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "hendraaagil@gmail.com"
+          git config --local user.name "hendraaagil"
+          git add -A
+
+          arr[0]="feat: 🎉 reforestation"
+          arr[1]="feat: 🌳 reforestation"
+          arr[2]="feat: ✅ reforestation"
+          arr[3]="feat: 🌲 reforestation"
+
+          rand=$[$RANDOM % ${#arr[@]}]
+
+          git commit -m "${arr[$rand]}"
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          force: true
+          directory: '.'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
