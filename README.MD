@@ -55,4 +55,4 @@ Country List:
 | UNITED KINGDOM | Harry Potter, Al Nassr, Adrian Street, Lori Vallow, Angus Cloud, Paul Reubens, Man United vs Dortmund, Wolf, Chelsea, Dart Charge, Chris Woakes, Remi Lucidi, Sun bear, S Club 7, Moeen Ali, Ronan Keating, Madonna, Youssef Chermiti, Fabinho, Tom Daley | 01-08-2023 , 02:56:42 |
 | VIETNAM | Al Nassr, Văn khấn ngày rằm, Onana, Angus Cloud, Giá gas tháng 8/2023, Nhật Bản đấu với Tây Ban Nha, Dự báo thời tiết Hà Nội, Giá xăng dầu, Phương Lê, Xổ số miền Nam ngày 31 tháng 7, Philippines, Aston villa, Song Hye Kyo, Carlos Alcaraz, VIC, Uyên Linh, Axel Disasi, Canada – Úc, Nguyen huu Kim son, Sat lo deo bao loc | 01-08-2023 , 02:56:42 |
 
-© Abdul Muttaqin
+© [Bagus Budi Satoto](https://github.com/bagussatoto)
