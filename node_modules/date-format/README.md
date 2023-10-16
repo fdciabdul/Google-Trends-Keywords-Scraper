@@ -1,5 +1,7 @@
-date-format
+date-format [![CodeQL](https://github.com/nomiddlename/date-format/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/nomiddlename/date-format/actions/workflows/codeql-analysis.yml) [![Node.js CI](https://github.com/nomiddlename/date-format/actions/workflows/node.js.yml/badge.svg)](https://github.com/nomiddlename/date-format/actions/workflows/node.js.yml)
 ===========
+
+[![NPM](https://nodei.co/npm/date-format.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/date-format/)
 
 node.js formatting of Date objects as strings. Probably exactly the same as some other library out there.
 
