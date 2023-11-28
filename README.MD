@@ -55,4 +55,4 @@ Country List:
 | UNITED KINGDOM | Nickelback, Grace Dent, Fulham vs Wolves, Cyber Monday deals, Swine flu, The Couple Next Door, Booker Prize 2023, Champions League, Geordie' Walker, Baba Vanga, Al Nassr, Elgin Marbles, Brianna Ghey, Liz Truss, Shirley Ballas, Lulu, Lorraine Stanley, Everton vs Man United, Tottenham vs Aston Villa, Kobbie Mainoo | 28-11-2023 , 03:47:36 |
 | VIETNAM | Vũ Hồng Văn, Chúng ta của 8 năm sau tập 10, Thẻ căn cước, Al Nassr, Garnacho, Tottenham, Juventus, Real, Girona, Fulham, Lịch nghỉ Tết Dương lịch 2024, Tot, Công đoàn Việt Nam, Giá vàng SJC 27/11, Trăng máu, Ô tô, Test trầm cảm, Scout, MU, Tottenham đấu với Aston Villa | 28-11-2023 , 03:47:36 |
 
-© Abdul Muttaqin
+© Abdul Muttaqin & Bagus Budi Satoto
