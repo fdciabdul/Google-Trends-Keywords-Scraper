@@ -44,7 +44,7 @@ Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 Country List:
 
 ${tableData}
-© Abdul Muttaqin & Bagus Budi Satoto
+© [Bagus Budi Satoto](https://github.dev/bagussatoto/) & [Abdul Muttaqin](https://github.com/fdciabdul/)
 `, 'UTF-8', {
     'flags': 'w+'
   });
