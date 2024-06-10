@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "10-06-2024 , 21:57:51",
+  "lastUpdate": "10-06-2024 , 22:06:54",
   "data": [
     {
       "title": "Apple",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple",
       "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Moser Stabhochsprung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Moser%20Stabhochsprung",
+      "pubdate": "Mon, 10 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Nvidia-Aktie",
@@ -17,19 +22,19 @@
       "pubdate": "Mon, 10 Jun 2024 08:00:00 +0200"
     },
     {
-      "title": "RTSinfo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RTSinfo",
-      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
+      "title": "Lionel Spitz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lionel%20Spitz",
+      "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Bürgenstock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%BCrgenstock",
+      "pubdate": "Mon, 10 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Art Basel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Art%20Basel",
       "pubdate": "Mon, 10 Jun 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Inondations Genève",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inondations%20Gen%C3%A8ve",
-      "pubdate": "Mon, 10 Jun 2024 08:00:00 +0200"
     },
     {
       "title": "Tennis",
@@ -52,44 +57,14 @@
       "pubdate": "Mon, 10 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Alice Weidel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alice%20Weidel",
-      "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Angelica Moser",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Angelica%20Moser",
-      "pubdate": "Mon, 10 Jun 2024 21:00:00 +0200"
-    },
-    {
       "title": "Oradour-sur-Glane",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oradour-sur-Glane",
       "pubdate": "Mon, 10 Jun 2024 13:00:00 +0200"
     },
     {
-      "title": "Marion Maréchal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marion%20Mar%C3%A9chal",
-      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "PP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PP",
-      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Tour de France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20France",
-      "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Le temps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20temps",
-      "pubdate": "Mon, 10 Jun 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Topadur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Topadur",
-      "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
+      "title": "Alice Weidel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alice%20Weidel",
+      "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Laurent Berger",
@@ -97,9 +72,34 @@
       "pubdate": "Mon, 10 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Aeroport geneve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aeroport%20geneve",
+      "title": "Marion Maréchal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marion%20Mar%C3%A9chal",
+      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Topadur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Topadur",
+      "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Tour de France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20France",
+      "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "PP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PP",
+      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Le temps",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20temps",
       "pubdate": "Mon, 10 Jun 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Kevin Mayer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kevin%20Mayer",
+      "pubdate": "Mon, 10 Jun 2024 23:00:00 +0200"
     }
   ]
 }
