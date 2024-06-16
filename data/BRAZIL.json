@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2024 , 23:51:32",
+  "lastUpdate": "16-06-2024 , 23:58:30",
   "data": [
     {
       "title": "Flamengo",
@@ -7,14 +7,19 @@
       "pubdate": "Sun, 16 Jun 2024 05:00:00 -0500"
     },
     {
+      "title": "Campeonato Brasileiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro",
+      "pubdate": "Sun, 16 Jun 2024 03:00:00 -0500"
+    },
+    {
       "title": "Vasco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
       "pubdate": "Sun, 16 Jun 2024 12:00:00 -0500"
     },
     {
-      "title": "EC Vitória x Internacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#EC%20Vit%C3%B3ria%20x%20Internacional",
-      "pubdate": "Sun, 16 Jun 2024 14:00:00 -0500"
+      "title": "Bahia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
+      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
     },
     {
       "title": "Tabela do Brasileirão",
@@ -27,34 +32,29 @@
       "pubdate": "Sun, 16 Jun 2024 11:00:00 -0500"
     },
     {
-      "title": "Polônia x Holanda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pol%C3%B4nia%20x%20Holanda",
-      "pubdate": "Sun, 16 Jun 2024 06:00:00 -0500"
-    },
-    {
-      "title": "Bahia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
-      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Eslovênia x Dinamarca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eslov%C3%AAnia%20x%20Dinamarca",
-      "pubdate": "Sun, 16 Jun 2024 11:00:00 -0500"
-    },
-    {
       "title": "Bragantino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
       "pubdate": "Sun, 16 Jun 2024 17:00:00 -0500"
     },
     {
-      "title": "Criciúma x Bahia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Bahia",
-      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
+      "title": "Cuiabá x Fortaleza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiab%C3%A1%20x%20Fortaleza",
+      "pubdate": "Sun, 16 Jun 2024 16:00:00 -0500"
     },
     {
       "title": "House of the Dragon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#House%20of%20the%20Dragon",
       "pubdate": "Sun, 16 Jun 2024 12:00:00 -0500"
+    },
+    {
+      "title": "Polônia x Holanda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pol%C3%B4nia%20x%20Holanda",
+      "pubdate": "Sun, 16 Jun 2024 08:00:00 -0500"
+    },
+    {
+      "title": "Eslovênia x Dinamarca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eslov%C3%AAnia%20x%20Dinamarca",
+      "pubdate": "Sun, 16 Jun 2024 11:00:00 -0500"
     },
     {
       "title": "Dia dos Pais",
@@ -67,16 +67,6 @@
       "pubdate": "Sun, 16 Jun 2024 09:00:00 -0500"
     },
     {
-      "title": "SPFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
-      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Ceara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
-      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
-    },
-    {
       "title": "Goias",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
       "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
@@ -87,14 +77,24 @@
       "pubdate": "Sun, 16 Jun 2024 16:00:00 -0500"
     },
     {
-      "title": "Cuiabá x Fortaleza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiab%C3%A1%20x%20Fortaleza",
-      "pubdate": "Sun, 16 Jun 2024 16:00:00 -0500"
+      "title": "SPFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
+      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Ceara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
+      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
     },
     {
       "title": "BYD",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD",
       "pubdate": "Sun, 16 Jun 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Figueirense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Figueirense",
+      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0500"
     },
     {
       "title": "Campeonato Brasileiro a",
