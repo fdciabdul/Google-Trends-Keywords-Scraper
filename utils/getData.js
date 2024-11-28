@@ -44,7 +44,7 @@ Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 Country List:
 
 ${tableData}
-© Abdul Muttaqin
+© https://imtaqin.id
 `, 'UTF-8', {
     'flags': 'w+'
   });
