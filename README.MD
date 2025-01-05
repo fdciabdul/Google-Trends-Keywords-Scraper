@@ -1,58 +1,58 @@
 
 ## Google Trends Keywords Scraper
 
-Last Update 05-01-2025 , 08:14:34
+Last Update 05-01-2025 , 08:20:47
 Country List:
 
 | Country | Keyword | Last Update |
 | --- | --- | --- |
-| UNITED STATES |  | 05-01-2025 , 08:14:26 |
-| ARGENTINA |  | 05-01-2025 , 08:14:26 |
-| AUSTRALIA |  | 05-01-2025 , 08:14:26 |
-| AUSTRIA |  | 05-01-2025 , 08:14:26 |
-| BELGIUM |  | 05-01-2025 , 08:14:26 |
-| BRAZIL |  | 05-01-2025 , 08:14:27 |
-| CANADA |  | 05-01-2025 , 08:14:27 |
-| CHILE | Accidente Zapallar, Alexis Sánchez, Killadamente murio, Manchester City  West Ham, Hellas Verona  Udinese, Premier League, Jeff Baena, Brighton  Arsenal, Tottenham  Newcastle, Marbella  Atlético Madrid, Crystal Palace  Chelsea, Premier, Aston Villa  Leicester City, Apple TV, Almería  Sevilla, U de Chile vs, Fiorentina - Napoli, UD Logroñés  Athletic, Gonzalo Montes, Gobierno compra casa Allende | 05-01-2025 , 08:14:27 |
-| COLOMBIA |  | 05-01-2025 , 08:14:27 |
-| CZECHIA | Keira Knightley, Josie Goldberg, Man City – West Ham, Cesko USA U20, Tottenham, Anna, Michael van Gerwen, Premier League, Zendaya, Crystal Palace – Chelsea, Bezva finta, Jeff Baena, Dara Rolins, Rain man, Matyáš Boháček, Kalamita, Ledovka, Trikralova sbirka 2025, Copa del Rey, Piráti z Karibiku: Prokletí Černé perly | 05-01-2025 , 08:14:27 |
-| DENMARK |  | 05-01-2025 , 08:14:27 |
-| EGYPT |  | 05-01-2025 , 08:14:28 |
-| FINLAND |  | 05-01-2025 , 08:14:28 |
-| FRANCE | Arsenal, Victor Wembanyama, Vol Air France, Premier League, Claude Allègre, LOSC, OL, Jeff Baena, La Rochelle – Toulouse, Luiz Felipe, Barca, Liam Payne, PSG - Monaco, FC Barcelone, Jimmy Carter, Marineland, Cedric Chouviat, Donald Trump, La Lune, Paris FC | 05-01-2025 , 08:14:28 |
-| GERMANY |  | 05-01-2025 , 08:14:28 |
-| GREECE |  | 05-01-2025 , 08:14:28 |
-| HONG KONG |  | 05-01-2025 , 08:14:29 |
-| HUNGARY |  | 05-01-2025 , 08:14:29 |
-| INDIA |  | 05-01-2025 , 08:14:29 |
-| INDONESIA |  | 05-01-2025 , 08:14:29 |
-| IRELAND | Ireland supermarket panic buying, Premier League, Jeff Baena, Pete Doherty, Tottenham vs Newcastle, Man City vs West Ham, Crystal Palace vs Chelsea, Ed Pettifer, Tommy Tiernan, Paula Canty, Aston Villa vs Leicester City, Leeds United, Premier League games, Bono, Barbastro vs Barcelona, Elvis Presley, Liverpool vs Man United, Brandon Austin, Southampton vs Brentford, Jimmy Carter | 05-01-2025 , 08:14:29 |
-| ISRAEL |  | 05-01-2025 , 08:14:30 |
-| ITALY |  | 05-01-2025 , 08:14:30 |
-| JAPAN |  | 05-01-2025 , 08:14:30 |
-| KENYA |  | 05-01-2025 , 08:14:30 |
-| MALAYSIA |  | 05-01-2025 , 08:14:30 |
-| MEXICO |  | 05-01-2025 , 08:14:31 |
-| NETHERLANDS |  | 05-01-2025 , 08:14:31 |
-| NEW ZEALAND |  | 05-01-2025 , 08:14:31 |
-| NIGERIA |  | 05-01-2025 , 08:14:31 |
-| NORWAY |  | 05-01-2025 , 08:14:31 |
-| PHILIPPINES |  | 05-01-2025 , 08:14:31 |
-| POLAND |  | 05-01-2025 , 08:14:32 |
-| PORTUGAL |  | 05-01-2025 , 08:14:32 |
-| ROMANIA |  | 05-01-2025 , 08:14:32 |
-| RUSSIA |  | 05-01-2025 , 08:14:32 |
-| SAUDI ARABIA |  | 05-01-2025 , 08:14:32 |
-| SINGAPORE |  | 05-01-2025 , 08:14:32 |
-| SOUTH AFRICA |  | 05-01-2025 , 08:14:33 |
-| SOUTH KOREA |  | 05-01-2025 , 08:14:33 |
-| SWEDEN |  | 05-01-2025 , 08:14:33 |
-| SWITZERLAND |  | 05-01-2025 , 08:14:33 |
-| TAIWAN | 英超, 李明德, 丁禹兮, 許富舜, 小寒, 卡特, 曾莞婷, 慈濟, 苗博雅, 麻疹, 籃籃, 我的完美秘書, 電動行李箱, 金慧成, 劉謙, 現在撥打的電話結局, 景甜, 彰化賽車節, SCOOL, 阿嬌 | 05-01-2025 , 08:14:33 |
-| THAILAND |  | 05-01-2025 , 08:14:33 |
-| TURKEY |  | 05-01-2025 , 08:14:34 |
-| UKRAINE |  | 05-01-2025 , 08:14:34 |
-| UNITED KINGDOM |  | 05-01-2025 , 08:14:34 |
-| VIETNAM |  | 05-01-2025 , 08:14:34 |
+| UNITED STATES |  | 05-01-2025 , 08:20:38 |
+| ARGENTINA |  | 05-01-2025 , 08:20:39 |
+| AUSTRALIA |  | 05-01-2025 , 08:20:39 |
+| AUSTRIA |  | 05-01-2025 , 08:20:39 |
+| BELGIUM |  | 05-01-2025 , 08:20:39 |
+| BRAZIL |  | 05-01-2025 , 08:20:39 |
+| CANADA |  | 05-01-2025 , 08:20:40 |
+| CHILE |  | 05-01-2025 , 08:20:40 |
+| COLOMBIA |  | 05-01-2025 , 08:20:40 |
+| CZECHIA |  | 05-01-2025 , 08:20:40 |
+| DENMARK |  | 05-01-2025 , 08:20:40 |
+| EGYPT |  | 05-01-2025 , 08:20:40 |
+| FINLAND |  | 05-01-2025 , 08:20:41 |
+| FRANCE |  | 05-01-2025 , 08:20:41 |
+| GERMANY |  | 05-01-2025 , 08:20:41 |
+| GREECE |  | 05-01-2025 , 08:20:41 |
+| HONG KONG |  | 05-01-2025 , 08:20:41 |
+| HUNGARY |  | 05-01-2025 , 08:20:42 |
+| INDIA |  | 05-01-2025 , 08:20:42 |
+| INDONESIA |  | 05-01-2025 , 08:20:42 |
+| IRELAND |  | 05-01-2025 , 08:20:42 |
+| ISRAEL |  | 05-01-2025 , 08:20:42 |
+| ITALY |  | 05-01-2025 , 08:20:42 |
+| JAPAN |  | 05-01-2025 , 08:20:43 |
+| KENYA |  | 05-01-2025 , 08:20:43 |
+| MALAYSIA |  | 05-01-2025 , 08:20:43 |
+| MEXICO |  | 05-01-2025 , 08:20:43 |
+| NETHERLANDS |  | 05-01-2025 , 08:20:43 |
+| NEW ZEALAND |  | 05-01-2025 , 08:20:44 |
+| NIGERIA |  | 05-01-2025 , 08:20:44 |
+| NORWAY |  | 05-01-2025 , 08:20:44 |
+| PHILIPPINES |  | 05-01-2025 , 08:20:44 |
+| POLAND |  | 05-01-2025 , 08:20:44 |
+| PORTUGAL |  | 05-01-2025 , 08:20:45 |
+| ROMANIA |  | 05-01-2025 , 08:20:45 |
+| RUSSIA |  | 05-01-2025 , 08:20:45 |
+| SAUDI ARABIA |  | 05-01-2025 , 08:20:45 |
+| SINGAPORE |  | 05-01-2025 , 08:20:45 |
+| SOUTH AFRICA |  | 05-01-2025 , 08:20:45 |
+| SOUTH KOREA |  | 05-01-2025 , 08:20:45 |
+| SWEDEN |  | 05-01-2025 , 08:20:46 |
+| SWITZERLAND |  | 05-01-2025 , 08:20:46 |
+| TAIWAN |  | 05-01-2025 , 08:20:46 |
+| THAILAND |  | 05-01-2025 , 08:20:46 |
+| TURKEY |  | 05-01-2025 , 08:20:46 |
+| UKRAINE |  | 05-01-2025 , 08:20:46 |
+| UNITED KINGDOM |  | 05-01-2025 , 08:20:47 |
+| VIETNAM |  | 05-01-2025 , 08:20:47 |
 
 Generated by [Bagus Budi Satoto](https://github.com/bagussatoto/) & [Abdul Muttaqin](https://github.com/fdciabdul/)
