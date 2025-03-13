@@ -1,7 +1,4 @@
-# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
-name: TikTok Trending Data Scraper
+name: GTRENDS
 
 on:
   push:
@@ -14,12 +11,11 @@ on:
 
 jobs:
   cron:
-
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [22.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
     defaults:
       run:
@@ -39,7 +35,7 @@ jobs:
     - name: Commit and push if it changed
       run: |-
         git config user.name "fdciabdul"
-        git config user.email "abdulmuttaqin456@gmail.com"
+        git config user.email "${{ secrets.GIT_EMAIL }}"
         git add -A
         timestamp=$(date '+%F %H:%M:%S %Z')
         git commit -m "Update Data ${timestamp}" || exit 0
