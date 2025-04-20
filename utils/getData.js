@@ -19,7 +19,7 @@ module.exports = async (data) => {
       }
       
       const keywords = trends.map(trend => trend.title);
-      const timestamp = format("yyyy-MM-dd HH:mm:ss");
+      const timestamp = format("yyyy-MM-dd hh:mm:ss");
       
       const formattedTrends = trends.map(trend => ({
         title: trend.title,
@@ -39,7 +39,7 @@ module.exports = async (data) => {
       countriesData.push({
         name: countryCode,
         code: countryCode,
-        keywords: keywords.slice(0, 5).join(', ') + (keywords.length > 5 ? '...' : ''),
+        keywords: keywords.join(', '),
         timestamp
       });
       
@@ -54,7 +54,7 @@ module.exports = async (data) => {
 }
 
 function generateReadme(countriesData) {
-  const timestamp = format("yyyy-MM-dd HH:mm:ss");
+  const timestamp = format("yyyy-MM-dd hh:mm:ss");
   const dateOnly = format("yyyy-MM-dd");
   
   const tableData = countriesData.map(country => 
