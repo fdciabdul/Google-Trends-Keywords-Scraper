@@ -3,19 +3,18 @@ const axios = require("axios");
 const format = require("date-format");
 
 module.exports = async (data) => {
-  const list = data.slice(0, -1);
+  const list = data.filter(item => item.trim() !== '');
   const countriesData = [];
   
-  for (const item of list) {
-    const [rawName, code] = item.split('=');
-    const name = rawName.replace("_", " ");
+  for (const code of list) {
+    const countryCode = code.trim();
     
     try {
-      const response = await axios.get(`https://trends.imtaqin.id/gettrend?id=${code}`);
+      const response = await axios.get(`https://trends.imtaqin.id/gettrend?id=${countryCode}`);
       const trends = response.data;
       
       if (!trends || !trends.length) {
-        console.log(`No trends found for ${name} (${code})`);
+        console.log(`No trends found for country code: ${countryCode}`);
         continue;
       }
       
@@ -34,12 +33,12 @@ module.exports = async (data) => {
         data: formattedTrends
       };
       
-      fs.writeFileSync(`./data/${name}.json`, JSON.stringify(resultData, null, 2));
-      fs.writeFileSync(`./forcopied/${name}.txt`, keywords.join(', '), "UTF-8");
+      fs.writeFileSync(`./data/${countryCode}.json`, JSON.stringify(resultData, null, 2));
+      fs.writeFileSync(`./forcopied/${countryCode}.txt`, keywords.join(', '), "UTF-8");
       
       countriesData.push({
-        name,
-        code,
+        name: countryCode,
+        code: countryCode,
         keywords: keywords.slice(0, 5).join(', ') + (keywords.length > 5 ? '...' : ''),
         timestamp
       });
@@ -59,7 +58,7 @@ function generateReadme(countriesData) {
   const dateOnly = format("yyyy-MM-dd");
   
   const tableData = countriesData.map(country => 
-    `| ${country.name} | ${country.code} | ${country.keywords} | ${country.timestamp} |`
+    `| ${country.name} | ${country.keywords} | ${country.timestamp} |`
   ).join('\n');
   
   const readme = `
@@ -75,8 +74,8 @@ The data is automatically updated every hour.
 ## 🔍 Latest Trends
 Last Update: **${timestamp}**
 
-| Country | Code | Top Keywords | Last Update |
-|---------|------|-------------|-------------|
+| Country | Top Keywords | Last Update |
+|---------|-------------|-------------|
 ${tableData}
 
 ## 📁 Data Structure
