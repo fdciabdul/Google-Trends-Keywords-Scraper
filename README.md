@@ -1,7 +1,7 @@
 
 # 🌎 Global Google Trends Scraper
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-04-20-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-04-21-blue)
 ![Countries](https://img.shields.io/badge/Countries-0-green)
 
 ## 📊 Overview
@@ -9,7 +9,7 @@ This repository contains real-time trending search data from Google Trends acros
 The data is automatically updated every hour.
 
 ## 🔍 Latest Trends
-Last Update: **2025-04-20 23:57:16**
+Last Update: **2025-04-21 00:30:56**
 
 | Country | Top Keywords | Last Update |
 |---------|-------------|-------------|
