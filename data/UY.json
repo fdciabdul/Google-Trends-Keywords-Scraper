@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-04-21 11:27:03",
+  "lastUpdate": "2025-04-21 11:34:38",
   "data": [
     {
       "title": "noticias",
-      "trafficCount": "100+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 21 Apr 2025 04:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -42,9 +42,28 @@
       "title": "el pais",
       "trafficCount": "500+",
       "pubDate": "Mon, 21 Apr 2025 02:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKAd1Pr8gPwvUOb3hQoKkM9BwpFzt4cMUIMC_EhonUCh4oxkWfAP9mblnMsNo",
+      "pictureSource": "EL PAÍS",
+      "relatedSearch": [
+        {
+          "title": "Milei, Bukele y Noboa: el acorazado de Trump en América Latina",
+          "snippet": "",
+          "url": "https://elpais.com/america/2025-04-20/milei-bukele-y-noboa-el-acorazado-de-trump-en-america-latina.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Trump en América Latina: una constelación de halcones ultras para restablecer el orden neoliberal",
+          "snippet": "",
+          "url": "https://www.uypress.net/Politica/Trump-en-America-Latina-una-constelacion-de-halcones-ultras-para-restablecer-el-orden-neoliberal-uc143944",
+          "source": "UY Press"
+        },
+        {
+          "title": "Alumnos aventajados",
+          "snippet": "",
+          "url": "https://www.diario-red.com/articulo/editorial/alumnos-aventajados/20250415194805045856.html",
+          "source": "Diario Red"
+        }
+      ],
       "link": "https://trends.google.com/trending/rss?geo=UY"
     },
     {
@@ -77,7 +96,7 @@
     },
     {
       "title": "infobae",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 21 Apr 2025 01:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpzymKR-X5itL-t_o5iHbRPnnJGszZ7qq16skt4zHs15ZVWSeRLs1Y1jXItic",
       "pictureSource": "Infobae",
@@ -135,14 +154,14 @@
       "title": "papa francisco",
       "trafficCount": "10000+",
       "pubDate": "Mon, 21 Apr 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFBfOJSFy5eNpGzQ_mXU7qhCBh4lOc1GRRa7eSFEpBbZu_1H6PwlhcarAOxE",
-      "pictureSource": "Montevideo Portal",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA-QHkY6QoexdqaMlU_pe5iz0hou6C3JVHwv2vBArv1uGbTlq5SjA_vaFdyWU",
+      "pictureSource": "Vatican News",
       "relatedSearch": [
         {
-          "title": "¿Podría ser Daniel Sturla el sucesor del papa Francisco?",
+          "title": "El Papa Francisco ha partido a la Casa del Padre",
           "snippet": "",
-          "url": "https://www.montevideo.com.uy/Noticias/-Podria-ser-Daniel-Sturla-el-sucesor-del-papa-Francisco--uc921317",
-          "source": "Montevideo Portal"
+          "url": "https://www.vaticannews.va/es/papa/news/2025-04/el-papa-francisco-ha-regresado-a-la-casa-del-padre.html",
+          "source": "Vatican News"
         },
         {
           "title": "Muerte del Papa: por qué Francisco nunca viajó a Argentina en sus 12 años de papado (y qué dice esto de su compleja relación con su país)",
@@ -151,10 +170,10 @@
           "source": "BBC"
         },
         {
-          "title": "El Papa Francisco ha partido a la Casa del Padre",
+          "title": "¿Podría ser Daniel Sturla el sucesor del papa Francisco?",
           "snippet": "",
-          "url": "https://www.vaticannews.va/es/papa/news/2025-04/el-papa-francisco-ha-regresado-a-la-casa-del-padre.html",
-          "source": "Vatican News"
+          "url": "https://www.montevideo.com.uy/Noticias/-Podria-ser-Daniel-Sturla-el-sucesor-del-papa-Francisco--uc921317",
+          "source": "Montevideo Portal"
         }
       ],
       "link": "https://trends.google.com/trending/rss?geo=UY"
@@ -213,9 +232,15 @@
       "title": "the last of us",
       "trafficCount": "200+",
       "pubDate": "Sun, 20 Apr 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSFBrgy2L18enZpaLXo6zyUGVUPzKTppzJwN3uMr-8F82qAY3HaOSKCi48PQ",
-      "pictureSource": "Entertainment Weekly",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDBLLE4JzPtKkuvYM5VD92V2DCkXCylE2NaEuXw-zSeuOfb9v9C1kK_4hNMJA",
+      "pictureSource": "Forbes",
       "relatedSearch": [
+        {
+          "title": "‘The Last Of Us’ Season 2 Release Schedule—When Do New Episodes Drop?",
+          "snippet": "",
+          "url": "https://www.forbes.com/sites/monicamercuri/2025/04/14/the-last-of-us-season-2-release-schedule-when-do-new-episodes-drop/",
+          "source": "Forbes"
+        },
         {
           "title": "The game has changed: On set for The Last of Us ' Pedro Pascal shocker (exclusive)",
           "snippet": "",
@@ -227,12 +252,6 @@
           "snippet": "",
           "url": "https://deadline.com/2025/04/joel-death-the-last-of-us-season-2-explained-interview-1236371961/",
           "source": "Deadline"
-        },
-        {
-          "title": "‘The Last of Us’ Shocker: Creators Tell All on That Huge Death and Bringing the ‘F–ing Horrible’ Video Game Scene to Life",
-          "snippet": "",
-          "url": "https://variety.com/2025/tv/news/the-last-of-us-joel-dies-pedro-pascal-1236372785/",
-          "source": "Variety"
         }
       ],
       "link": "https://trends.google.com/trending/rss?geo=UY"
