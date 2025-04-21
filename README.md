@@ -1,27 +1,150 @@
 
 # 🌎 Global Google Trends Scraper
-
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-04-21-blue)
-![Countries](https://img.shields.io/badge/Countries-0-green)
+![Countries](https://img.shields.io/badge/Countries-125-green)
 
 ## 📊 Overview
 This repository contains real-time trending search data from Google Trends across various countries. 
-The data is automatically updated every hour.
+The data is automatically updated every hour using the official Google Trends RSS feeds.
 
 ## 🔍 Latest Trends
-Last Update: **2025-04-21 09:38:05**
+Last Update: **2025-04-21 09:42:22**
 
 | Country | Top Keywords | Last Update |
 |---------|-------------|-------------|
-
+| Albania | pope francis, papa francesco, milan vs atalanta, f1, real madrid vs athletic club, real madrid c.f. vs athletic bilbao, bologna - inter, leicester city vs liverpool, bologna vs inter, ipswich town vs arsenal | 2025-04-21 09:41:20 |
+| Algeria | البابا فرنسيس, pope francis, pape françois, wolves, الاحوال الجوية, حالة الطقس اليوم, أحوال الطقس, malika sorel rassemblement national, طقس, حالة الطقس | 2025-04-21 09:41:21 |
+| Angola | vaticano news, papa francisco, papá francisco, lewandowski, ac milan, real madrid hoje, milan - atalanta, la liga, lyon fc, real madrid fc | 2025-04-21 09:41:22 |
+| Argentina | pope francis, diario panorama, mirtha legrand, pagina 12, la nueva, minuto uno, diario los andes, ultimas noticias, c5n, clarín | 2025-04-21 09:41:22 |
+| Armenia | папа римский, pope francis, ла лига, real madrid, la liga, real madrid vs athletic club, милан – аталанта, реал мадрид – атлетик, севилья – алавес, garik karapetyan | 2025-04-21 09:41:23 |
+| Australia | trumpet of patriots, home and away, meteor shower, peter erdo, pope francis easter sunday, anthony albanese, albanese, what religion is anthony albanese, ihostage, pape | 2025-04-21 09:41:23 |
+| Austria | gewitter, папа римский, pietro parolin, joseph ratzinger, benedikt xvi, papstwahl, ferenc pápa, nachrichten aktuell, standard, henckel donnersmarck | 2025-04-21 09:41:24 |
+| Azerbaijan | pope francis, папа римский, teams, ла лига, real madrid vs athletic club, bologna - inter, real madrid - athletic bilbao, реал мадрид – атлетик, superlig, liverpool | 2025-04-21 09:41:25 |
+| Bahrain | pope francis, real madrid, la liga, ريال مدريد, bologna vs inter, real madrid vs athletic club, f1, ليستر سيتي ضد ليفربول, leicester city vs liverpool, karachi kings vs islamabad united | 2025-04-21 09:41:25 |
+| Bangladesh | মাদ্রাসা শিক্ষকদের বৈশাখী ভাতা, পোপ ফ্রান্সিস, pope francis, অক্ষয় কুমার, scientists new colour olo, live cricket, cu, cricinfo, dhaka stock exchange, john cena | 2025-04-21 09:41:26 |
+| Belarus | папа римский, курс доллара, 21 апреля праздник, арина соболенко, прогноз погоды, маргус цахкна, ла лига, милан – аталанта, реал мадрид – атлетик, пасхальное перемирие зеленский | 2025-04-21 09:41:26 |
+| Belgium | pietro parolin, deredactie, ratzinger, news, de redactie, urbi et orbi 2025, rtl info, papież franciszek, wetenschappers ontdekken nieuwe kleur, nieuws | 2025-04-21 09:41:27 |
+| Benin | pape françois, ac milan – atalanta, classement liga, real madrid, real madrid vs, real vs, real madrid – ath. bilbao, bologne – inter, leicester – liverpool, dortmund – mönchengladbach | 2025-04-21 09:41:27 |
+| Bolivia | papa francisco, john cena, voto reduno com bo, abb, américa-mg - goiás, loco gatti, fortaleza - palmeiras, wilstermann, laliga, real madrid vs athletic bilbao | 2025-04-21 09:41:28 |
+| Bosnia & Herzegovina | 24sata, papa, pope francis, weather, thunderstorm warning, weather tomorrow, f1, real madrid – ath. bilbao, borussia – mönchengladbach, fenerbahçe – kayserispor | 2025-04-21 09:41:28 |
+| Brazil | papá francisco, g1 notícias, clarin, globo.com br, g1 sp, thiago seyboth wild, filme globo domingo maior, uil, diario do nordeste, jd vance | 2025-04-21 09:41:29 |
+| Bulgaria | bbc, искра радева, папата, papa francesco, папа франциск, pope francis, иво петров, недялко йорданов, wrestlemania 41, la liga | 2025-04-21 09:41:30 |
+| Burkina Faso | pape françois, ac milan – atalanta, real madrid, liga, real madrid – ath. bilbao, sankt pauli – leverkusen, bologne – inter, leicester – liverpool, dortmund – mönchengladbach, villarreal – real sociedad | 2025-04-21 09:41:30 |
+| Cambodia | paus fransiskus, pope francis, tradingview, la liga, laliga, real madrid, real madrid vs athletic club, leicester city vs liverpool, fulham vs chelsea, 1 | 2025-04-21 09:41:31 |
+| Cameroon | pope francis, pape françois, rockets – warriors, classement liga, real, real madrid vs, liga, saint-étienne – lyon, ac milan – atalanta, sankt pauli – leverkusen | 2025-04-21 09:41:31 |
+| Canada | vatican news, world news, bbc, popeyes, ciel, jd vance, southern alberta snowfall warnings, pope francis, pape françois, taco bell | 2025-04-21 09:41:31 |
+| Chile | emol, encuesta cadem, mundo, video fabricio vasconcelos, meganoticias, agustina cabañas instagram, alperen şengün, atl. san luis - pachuca, kaitlyn dever, the last of us temporada 2 | 2025-04-21 09:41:32 |
+| Colombia | wwe wrestlemania 41 john cena, el colombiano, el tiempo bogota, noticias caracol, eltiempo, cnn, noticias, wwe wrestlemania 41, delta force, pico y placa bogotá 21 de abril 2025 | 2025-04-21 09:41:32 |
+| Congo - Kinshasa | vatican news, pape françois, weather, classement liga, classement la liga, real, lyon vs, liga, saint-étienne – lyon, robert lewandowski | 2025-04-21 09:41:33 |
+| Costa Rica | x, john cena, rockets - warriors, the last of us, papa francisco, león - monterrey, loco gatti, herediano - santa ana, oscar ramirez, omar cascante | 2025-04-21 09:41:34 |
+| Côte d'Ivoire | pape françois, google, rockets – warriors, burkina faso, classement liga, classement la liga, real madrid, liga, serie a, bundesliga | 2025-04-21 09:41:34 |
+| Croatia | jd vance, plenković kod pape, 24sata, hrt, papst franziskus, najnovije vijesti, bbc, papa francesco, pope francis, billy ray cyrus | 2025-04-21 09:41:35 |
+| Cuba | papa francisco, nba hoy, partido del madrid, la liga, la liga hoy, real madrid - athletic, serie a, dortmund - mönchengladbach | 2025-04-21 09:41:35 |
+| Cyprus | παπασ φραγκισκοσ, pope francis, real madrid - athletic bilbao, ρεάλ μαδρίτησ εναντίον αθλέτικ μπιλμπάο, süper lig puan durumu, real madrid vs athletic club, süper lig, f1, λέστερ εναντίον λίβερπουλ, fenerbahçe - kayserispor | 2025-04-21 09:41:36 |
+| Czechia | papież franciszek, zpravy, zprávy, konklave, urbi et orbi, папа римский, papa francesco, bbc, bohdalová, papež | 2025-04-21 09:41:36 |
+| Denmark | bbc, papież franciszek, jd vance, papa francesco, papst franziskus, pave frans, pope francis, eritrea, christian langballe, kongehuset | 2025-04-21 09:41:37 |
+| Dominican Republic | papa francisco, jabari smith jr., gui santos, brandin podziemski, dillon brooks, john cena, alperen şengün, fernando tatís jr., nba en vivo, davion mitchell | 2025-04-21 09:41:37 |
+| Ecuador | papa francisco, sga, juárez - querétaro, lucio gutiérrez, cavaliers - heat, the last of us, cortes de luz 21 de abril 2025, john cena, max valenzuela, rockets - warriors | 2025-04-21 09:41:38 |
+| Egypt | papst franziskus, papa, easter day, papa francesco, البابا فرنسيس, pope francis, بيض شم النسيم, رانيا يوسف, صور شم النسيم, عمرو أديب | 2025-04-21 09:41:38 |
+| El Salvador | papa francisco, rockets - warriors, atl. san luis - pachuca, león - monterrey, real unión - barça b, dragón - municipal limeño, madrid, cómo va el real madrid, saint-étienne - lyon, la liga | 2025-04-21 09:41:39 |
+| Estonia | папа римский, paavst, pope francis, weather | 2025-04-21 09:41:39 |
+| Ethiopia | pope francis, real madrid, laliga, milan vs atalanta, st-étienne vs lyon, serie a, real madrid vs athletic club, fc st. pauli vs leverkusen, premier league table, premier league results | 2025-04-21 09:41:40 |
+| Finland | påven, mikael granlund, vatican news, paavi, pope francis, bbc, la promesa, anneli sauli, helsingin sanomat, gta 6 | 2025-04-21 09:41:40 |
+| France | clovis cornillac, lilou fogli, italie, jd vance pope, el papa francisco, cnews, joseph ratzinger, figaro, actualité, bbc | 2025-04-21 09:41:41 |
+| Georgia | папа римский, pope francis, курс доллара к рублю, real madrid, la liga, сент-этьен – лион, bologna vs inter, st-étienne vs lyon, f1, real madrid vs athletic club | 2025-04-21 09:41:41 |
+| Germany | argentinien, benedykt xvi, paus, pa, bild, welt, bild zeitung, gänswein, kompany, kardinal marx | 2025-04-21 09:41:42 |
+| Ghana | mel gibson, pope francis, wrestlemania 41 results, google, speed darlington, rockets vs warriors, movie box, la liga table, lyon fc, real madrid fc | 2025-04-21 09:41:43 |
+| Greece | papa, βαρθολομαιοσ, papst franziskus, news, πάσχα 2026, papa francesco, bbc, παπασ φραγκισκοσ, pope francis, τζολησ | 2025-04-21 09:41:43 |
+| Guatemala | papa francisco, karely ruiz, the last of us, toy story 5, john cena, rockets - warriors, atl. san luis - pachuca, marquense - xelajú mc, león - monterrey, la promesa | 2025-04-21 09:41:44 |
+| Haiti | rockets – warriors, lille – auxerre, classement la liga, la liga, real madrid club de fútbol, real vs, saint-étienne – lyon, liga, serie a, real madrid – ath. bilbao | 2025-04-21 09:41:44 |
+| Honduras | papa francisco, atl. san luis - pachuca, victoria - real españa, deportes, tabla de posiciones liga nacional, león - monterrey, olimpia - motagua, santos - tijuana, real unión - barça b, tabla de posiciones liga española | 2025-04-21 09:41:45 |
+| Hong Kong | jd vance, bbc, pope francis, 教宗, 方濟各, 比天堂還美麗, 勇士, nba live, warriors, 火箭 對 勇士 | 2025-04-21 09:41:45 |
+| Hungary | jd vance, papst franziskus, index, f1 szaudi nagydíj, telex, urbi et orbi, papa francesco, vatican news, bbc, ferenc pápa | 2025-04-21 09:41:46 |
+| India | 10th 12th result, lyrid meteor, delhi high court, आज का तापमान, sensex nifty stock market, malayala manorama, asianet news, news, bbc, पोप फ्रांसिस | 2025-04-21 09:41:46 |
+| Indonesia | pope benedict, genoa vs lazio, banjir di kota bandar lampung, foto paus fransiskus, pietro parolin, film pengepungan bukit duri, ptro dividen, jd vance, vatikan news, vatikan | 2025-04-21 09:41:46 |
+| Iran | ژیرو, آنسو فاتی, کارلوس آلکاراس, خامنه ای, وام یارانه بگیران, پاپ فرانسیس, pope francis, وام ازدواج, ایران جیب خودرو, ودیعه مسکن | 2025-04-21 09:41:46 |
+| Iraq | pope francis, البابا فرنسيس, سلاف فواخرجي, مباراة برشلونة القادمة, سانت إتيان ضد أولمبيك ليون, milan vs atalanta, ترتيب الدوري الاسباني, ترتيبات الدوري الإسباني, marwan serry, لا ليغا | 2025-04-21 09:41:47 |
+| Ireland | raf typhoon intercept russian aircraft, pope francis easter sunday, papa, papież franciszek, jd vance, papa francesco, rte, news headlines, bbc, the journal | 2025-04-21 09:41:47 |
+| Israel | רונן בר, news, папа римский, البابا فرنسيس, bbc, pope, האפיפיור, יד ושם, יצחק קשת, rockets vs warriors | 2025-04-21 09:41:48 |
+| Italy | sudtirol bari, collegio cardinalizio, juve stabia sampdoria, il foglio, figaro, carlo acutis, torino fc, peter erdo, il secolo xix, news italia | 2025-04-21 09:41:48 |
+| Jamaica | rockets vs warriors, cavaliers vs heat, la liga, real madrid, milan vs atalanta, real madrid cf, st-étienne vs lyon, thunder vs grizzlies, fc st. pauli vs leverkusen, real madrid vs athletic club | 2025-04-21 09:41:49 |
+| Japan | 彬子女王, ライブビューイング, インフルエンサー, パルワールド, ライブビューイングとは, 松本莉緒, cnn, 森敬斗, 教皇, 教皇選挙 | 2025-04-21 09:41:49 |
+| Jordan | شمس البارودي, pope francis, البابا فرنسيس, اذان الفجر, ترتيبات الدوري الإسباني, la liga, ترتيب الدوري الاسباني, serie a, ريال مدريد, لا ليغا | 2025-04-21 09:41:50 |
+| Kazakhstan | brawl stars, pope francis, папа римский, алматы жастары 2025, календарь 2025, рокетс – уорриорз, погода астана, тенгри ньюс, поздравление с пасхой в прозе, энн хэтэуэй | 2025-04-21 09:41:50 |
+| Kenya | bbc, vatican news, pope francis, torino vs udinese, tottenham vs nottingham forest, tuko news, rockets vs warriors, real madrid cf, la liga table, lyon fc | 2025-04-21 09:41:51 |
+| Kuwait | البابا فرنسيس, pope francis, وزارة التربية, وزاره التربيه, la liga, real madrid, ريال مدريد, سارة خليفة, ترتيب الدوري الاسباني, real madrid vs athletic club | 2025-04-21 09:41:51 |
+| Kyrgyzstan | папа римский, погода бишкек, weather, милан – аталанта, реал мадрид – атлетик, санкт-паули – байер, цска москва – крылья советов, севилья – алавес, csk vs mi, болонья – интер | 2025-04-21 09:41:52 |
+| Latvia | pāvests francisks, pope francis, папа римский, nba, real madrid pret athletic bilbao, celtics pret magic, реал мадрид – атлетик, f1 | 2025-04-21 09:41:52 |
+| Lebanon | pape françois, pope francis, البابا فرنسيس, gold price today, gold price, ترتيب الدوري الاسباني, لا ليغا, la liga, milan vs atalanta, real madrid | 2025-04-21 09:41:53 |
+| Libya | ترتيب الدوري الاسباني, لا ليغا, ريال مدريد, احمد الشرع, سانت باولي ضد ليفركوزن, real madrid vs athletic club, الاتحاد الليبي, bologna vs inter, ميلان ضد أتالانتا, الدوري الايطالي | 2025-04-21 09:41:53 |
+| Lithuania | vatican news, папа римский, lrt, popiežius pranciškus, pope francis, bbc, funeral director, parduotuviu darbo laikas per velykas 2025, real madrid vs athletic club, la liga | 2025-04-21 09:41:54 |
+| Malaysia | ajith kumar, china boeing aircraft, jd vance, bbc, pope francis, daun pulai, pos malaysia ceo charles brewer apology, asean summit 2025, 吉华独中, nahid rana | 2025-04-21 09:41:54 |
+| Mali | ac milan – atalanta, liga, real madrid – ath. bilbao, bologne – inter, leicester – liverpool, dortmund – mönchengladbach, villarreal – real sociedad, arrivée du jour, resultat pmu, genybet | 2025-04-21 09:41:55 |
+| Mexico | segundo capitulo the last of us, juan pablo ii, benedicto xvi, melate revancha revanchita sorteo 4046, noticias de hoy, pope francis, noticias, horóscopos con mhoni vidente, beca rita cetina 2025, tottenham vs nottingham forest | 2025-04-21 09:41:55 |
+| Moldova | papa de la roma, pope francis, папа римский, papa francisc, la liga, fcsb - cfr cluj, реал мадрид – атлетик, real madrid - bilbao, боруссия – боруссия менхенгладбах, манчестер юнайтед – вулверхэмптон | 2025-04-21 09:41:56 |
+| Morocco | البابا فرنسيس, bourse de casablanca, email, pope francis, pape françois, papa francesco, royal air maroc, jours fériés france 2025, robert lewandowski, naza | 2025-04-21 09:41:56 |
+| Mozambique | pope francis, papá francisco, papa francisco, ac milan, la liga, real madrid hoje, milan - atalanta, real madrid - ath. bilbao, bologna - inter, inter milan | 2025-04-21 09:41:57 |
+| Myanmar (Burma) | pope francis, earthquake, st-étienne vs lyon, real madrid vs athletic club, premier league table, leicester city vs liverpool, football live, ipswich town vs arsenal, man united vs wolves | 2025-04-21 09:41:57 |
+| Nepal | pope francis, india, st-étienne vs lyon, laliga, são paulo vs santos, milan vs atalanta, f1, real madrid vs athletic club, fc st. pauli vs leverkusen, serie a | 2025-04-21 09:41:57 |
+| Netherlands | geert mak, brand boskoop, conclave film, kristen stewart, chuck norris, папа римский, pape françois, nu.nl, jd vance, orbi et urbi | 2025-04-21 09:41:58 |
+| New Zealand | amanda holden, news, jd vance, bbc, pope francis, the last of us, wests tigers vs eels, auckland airport missing man, bangladesh vs zimbabwe, john cena | 2025-04-21 09:41:59 |
+| Nicaragua | papa francisco, rockets - warriors, rays - yankees, real unión - barça b, madrid, são paulo - santos, la liga, tarjeta roja, real madrid club de fútbol, milan - atalanta | 2025-04-21 09:41:59 |
+| Nigeria | 2026 fifa world cup, wwe wrestlemania 41 night 1 results, pope benedict, pope francis, hakeem baba ahmed, davido with you, pastor tunde bakare, butler oyedeji, whitney adebayo, jamb 2025 utme date change | 2025-04-21 09:41:59 |
+| North Macedonia | pope francis, real madrid vs athletic club, fenerbahçe - kayserispor, f1, ipswich town vs arsenal, man united vs wolves | 2025-04-21 09:42:00 |
+| Norway | konklave, papa francesco, jd vance, papież franciszek, vålerenga rosenborg, bbc, pope francis, pave frans, shein, billy ray cyrus | 2025-04-21 09:42:00 |
+| Oman | البابا فرنسيس, pope francis, شمس البارودي, ريال مدريد, la liga, لا ليغا, ميلان ضد أتالانتا, ترتيب الدوري الاسباني, سارة خليفة, real madrid vs athletic club | 2025-04-21 09:42:01 |
+| Pakistan | gold rate today, viratkohli, pope francis, karachi weather, abdul samad ipl, babar azam psl, mansoor ali shah, google earth, sean williams, express epaper | 2025-04-21 09:42:01 |
+| Palestine | البابا فرنسيس, facebook, ריאל מדריד נגד אתלטיק בילבאו, ميلان ضد أتالانتا, real madrid, ترتيب الدوري الاسباني, لا ليغا, ريال مدريد, قناة الفجر, الفجر | 2025-04-21 09:42:02 |
+| Panama | papa francisco, the last of us, john cena, león - monterrey, rockets - warriors, deportivo cali - atlético nacional, loco gatti, wwe wrestlemania 41, thunder - grizzlies, laliga | 2025-04-21 09:42:02 |
+| Paraguay | papa francisco, the last of us, tabla de posiciones torneo apertura 2025, jair bolsonaro, bragantino - cruzeiro, rosario central - instituto, fernando lugo, brusque - guarani, cerro - sportivo trinidense, hugo gatti | 2025-04-21 09:42:03 |
+| Peru | banco de la nacion, rpp, papa francisco, temblor hoy, michael j fox, parkinson, alerta roja senamhi, julio iglesias, renato rossini hijo, hijo de renato rossini | 2025-04-21 09:42:03 |
+| Philippines | papa francesco, pope francis easter sunday, brahmos missile philippines, bbc, jd vance, gma news, cardinal tagle, news, pope francis, vatican news | 2025-04-21 09:42:04 |
+| Poland | puszcza – radomiak, timothy dolan, justyna kowalczyk, victor manuel fernández, tusk, buenos aires, fridolin ambongo, matteo maria zuppi, pierbattista pizzaballa, pogoda 16 dni | 2025-04-21 09:42:05 |
+| Portugal | tolentino, deslizamento de terra ic2, noticias de hoje, papa ratzinger, inem agredido, radio renascença, uol, urbi et orbi, feriado de pascoa, diario de noticias da madeira | 2025-04-21 09:42:05 |
+| Puerto Rico | el vocero, pope francis, papa francisco, john cena, warriors - rockets, randy orton, wrestlemania 41, yankees - rays, cardenales - mets, la liga | 2025-04-21 09:42:06 |
+| Qatar | pope francis, banner, rockets vs warriors, اذان الفجر, ترتيب الدوري الاسباني, ريال مدريد, la liga, milan vs atalanta, st-étienne vs lyon, real madrid vs athletic club | 2025-04-21 09:42:06 |
+| Romania | pietro parolin, digi24, jd vance, putin, urbi et orbi, bbc, ferenc pápa, papa de la roma, papa francisc, pope francis | 2025-04-21 09:42:07 |
+| Russia | сестры хачатурян, материнский капитал 2025, iem melbourne 2025, тнс энерго, рим, католическая пасха 2025, курс доллара форекс, фараон усеркаф, папа римский, pope francis | 2025-04-21 09:42:07 |
+| Saudi Arabia | الجوازات, الزكاة والضريبة, pope francis, البابا فرنسيس, هيئة الزكاة والضريبة والجمارك, zatca, البنك المركزي, جامعة القصيم, فروع بلبن, الذهب في السعودية | 2025-04-21 09:42:07 |
+| Senegal | pape françois, rockets – warriors, match real, real madrid club de fútbol, yalla kora, real madrid, liga, thunder – grizzlies, saint-étienne – lyon, real madrid – ath. bilbao | 2025-04-21 09:42:08 |
+| Serbia | ferenc pápa, pope francis, papa franja, rockets vs warriors, pobusani ponedeljak, blokada rts, olivera zekić, thunderstorm warning, telegraf, la liga | 2025-04-21 09:42:09 |
+| Singapore | jd vance pope, news, popeyes, jd vance, cheryl chan east coast grc retirement, bbc, vatican news, pope francis, punggol grc, tanjong pagar grc | 2025-04-21 09:42:09 |
+| Slovakia | ratzinger, sme, papa francesco, spravy dnes, ferenc pápa, vatican news, cnn, bbc, papež františek, pope francis | 2025-04-21 09:42:09 |
+| Slovenia | velikonočni ponedeljek, 24 ur novice, rtv, novice, papa francesco, pope francis, bbc, papež frančišek, thunderstorm warning, reporter | 2025-04-21 09:42:10 |
+| South Africa | jd vance, tottenham vs nottingham forest, cagliari vs fiorentina, pope francis, torino vs udinese, sassa srd, sassa, south africa weather warnings, bangladesh vs zimbabwe, dricus du plessis | 2025-04-21 09:42:11 |
+| South Korea | bbc, 교황, pope francis, 조성현, 블루아카이브 헌혈, 경희대학교, 박봄, 김형두, 티웨이항공, 아청법 | 2025-04-21 09:42:11 |
+| Spain | frases papa francisco, peter erdo, santa maria la mayor roma, eldiario, el debate, papa francisc, urbi et orbi 2025, matteo zuppi, joseph ratzinger, ok | 2025-04-21 09:42:12 |
+| Sri Lanka | news, bbc, pope francis, yahoo, gossip lanka, wwe wrestlemania 41, fast x part 2, yesterday ipl match, real madrid, laliga | 2025-04-21 09:42:12 |
+| Sweden | papst franziskus, papież franciszek, jd vance, papa francesco, påven, pope francis, bbc, mattias skjelmose, mpox, gene hackman | 2025-04-21 09:42:13 |
+| Switzerland | ostermontag geöffnet, konklave, pietro parolin, bbc, papież franciszek, papá francisco, cnn, ratzinger, urbi et orbi 2025, news | 2025-04-21 09:42:13 |
+| Syria | البابا فرنسيس, ترتيب الدوري الاسباني, la liga, ريال مدريد, ميلان ضد أتالانتا, real madrid vs athletic club, leicester city vs liverpool, تشيلسي, fenerbahçe - kayserispor, بولونيا ضد الإنتر | 2025-04-21 09:42:14 |
+| Taiwan | bbc, 克莉絲汀史都華, 教皇, 教宗, pope francis, kristen stewart, 鄭進一, 牙膏含鉛, 吳可熙, 三鶯線 | 2025-04-21 09:42:14 |
+| Tanzania | bbc news, vatican news, bbc, pope francis, x, la liga, vladimir putin, real madrid, lyon fc, rs berkane | 2025-04-21 09:42:15 |
+| Thailand | เชียงใหม่แผ่นดินไหวล่าสุด, papst franziskus, papa francesco, bbc, พระสันตะปาปาฟรานซิส, the last of us season 2 ep 2, pope francis, ข่าวหุ้น, สันผีเสื้อ, สป | 2025-04-21 09:42:15 |
+| Trinidad & Tobago | pope francis, bangladesh vs zimbabwe, rockets vs warriors, la liga, thunder vs grizzlies, real madrid vs athletic club, f1, carifta games 2025, leicester city vs liverpool, csk vs mi | 2025-04-21 09:42:15 |
+| Tunisia | pope francis, pape françois, yahoo, email, météo, weather, الطقس, طقس اليوم, حالة الطقس, classement la liga | 2025-04-21 09:42:16 |
+| Türkiye | euro kaç tl, ceyrek altın ne kadar, marilyn manson, galatasaray hisse, içişleri bakanlığı, bbc, papst franziskus, papa francesco, pope francis, papa francis | 2025-04-21 09:42:16 |
+| Turkmenistan | ла лига, реал мадрид, bologna - inter, милан – аталанта, реал мадрид – атлетик, real madrid - athletic bilbao, санкт-паули – байер, севилья – алавес, fenerbahçe - kayserispor, фенербахче – кайсериспор | 2025-04-21 09:42:16 |
+| Uganda | pope francis, fabrizio romano, la liga table, madrid, la liga, laliga, real m, real madrid fc, real madrid, lyon fc | 2025-04-21 09:42:17 |
+| Ukraine | vatican news, pope francis, папа римський, папа римский, reuters, втрати ворога на 21 квітня 2025 року, classroom, 21 апреля праздник, список звільнених полонених 19 квітня, 21 квітня вихідний | 2025-04-21 09:42:18 |
+| United Arab Emirates | pape, البابا فرنسيس, news, papa, papa francesco, bbc, jd vance, sky news, pope francis, anurag kashyap | 2025-04-21 09:42:18 |
+| United Kingdom | poutine, adrian bayford downsizes mansion, italy, king charles, snooker today, el pais, cardinals, benedykt xvi, bbc news ni, carlo acutis | 2025-04-21 09:42:18 |
+| United States | peter erdo, patriots day 2025, liz truss, philadelphia eagles, nayib bukele, ralph fiennes, usd, папа римский, pape françois, usha vance | 2025-04-21 09:42:19 |
+| Uruguay | el pais, infobae, papa francisco, rockets - warriors, twitch, the last of us, accidente ruta interbalnearia, weather tomorrow, rosario central - instituto, deportivo cali - atlético nacional | 2025-04-21 09:42:19 |
+| Uzbekistan | папа римский, курс доллара к рублю, хамзат чимаев, real madrid vs athletic bilbao, ла лига турнирная таблица, ла лига, la liga, real madrid, real madrid vs athletic club, реал мадрид – атлетик | 2025-04-21 09:42:20 |
+| Venezuela | noticias, papa francisco, delta force, liga mx, the last of us, carreras la rinconada, luis arraez, rockets - warriors, león - monterrey, rockies - nationals | 2025-04-21 09:42:21 |
+| Vietnam | xổ số miền nam ngày 21 tháng 04, hội đồng giám mục việt nam, carlo acutis, news, weather, bão, giáo hoàng francis, pope francis, dự báo thời tiết hà nội, vatican news | 2025-04-21 09:42:21 |
+| Yemen | ترتيب الدوري الاسباني, لا ليغا, ريال مدريد, real madrid vs athletic club, سانت باولي ضد ليفركوزن, ميلان ضد أتالانتا, بولونيا ضد الإنتر, نادي برشلونة للسيدات ضد نادي تشيلسي للسيدات, دورتموند ضد بوروسيا مونشنغلادباخ, ليستر سيتي ضد ليفربول | 2025-04-21 09:42:22 |
+| Zambia | pope francis, joseph kabila, real madrid, real madrid cf, real madrid vs athletic bilbao, milan vs atalanta, st-étienne vs lyon, fc st. pauli vs leverkusen, real madrid vs athletic club, f1 | 2025-04-21 09:42:22 |
+| Zimbabwe | pope francis, geza shutdown, bangladesh vs zimbabwe, madrid, real madrid, laliga, milan vs atalanta, st-étienne vs lyon, weather tomorrow, serie a | 2025-04-21 09:42:22 |
 
 ## 📁 Data Structure
 Each country's data is stored in both JSON and plaintext formats:
-- `./data/{country}.json` - Complete trend data with traffic counts and related searches
+- `./data/{country}.json` - Complete trend data with traffic counts and related news
 - `./forcopied/{country}.txt` - Simple list of trending keywords
 
-## 🔄 API Information
-Data is sourced from: `https://trends.imtaqin.id/gettrend?id={COUNTRY_CODE}`
+## 🔄 Data Source
+Data is sourced directly from Google Trends RSS feeds: `https://trends.google.com/trending/rss?geo={COUNTRY_CODE}&hours=48`
 
 ## 📝 License
-© 2025 [Imtaqin.id](https://imtaqin.id) - All Rights Reserved
+© 2025 - All Rights Reserved

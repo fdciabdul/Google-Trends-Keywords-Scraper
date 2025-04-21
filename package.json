@@ -9,13 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.8.4",
+    "date-format": "^4.0.3",
     "fs": "0.0.1-security",
     "node-fetch": "^2.6.1",
-    "date-format": "^4.0.3",
     "rss-parser": "^3.12.0",
-   "axios": "^1.8.4"
+    "xml2js": "^0.6.2"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fdciabdul/Tiktok-Trending-Data-Scraper.git"
