@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-04-21 22:40:31",
+  "lastUpdate": "2025-04-21 22:47:24",
   "data": [
+    {
+      "title": "чикатило",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 21 Apr 2025 15:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQstE2jZCXZkqv_TaAwo7b_2q6aafLVlVAY7t-1X69DZj5tp7XiBgMolHRleUI",
+      "pictureSource": "RTVI",
+      "relatedSearch": [
+        {
+          "title": "SHOT рассказал о судьбе сына Чикатило, воевавшего за ВСУ",
+          "snippet": "",
+          "url": "https://rtvi.com/news/shot-rasskazal-o-sudbe-syna-chikatilo-voevavshego-za-vsu/",
+          "source": "RTVI"
+        },
+        {
+          "title": "Сын Чикатило пропал без вести в зоне СВО",
+          "snippet": "",
+          "url": "https://ura.news/news/1052920348",
+          "source": "URA.RU"
+        },
+        {
+          "title": "В зоне действия СВО пропал сын \"советского потрошителя\" Андрея Чикатило",
+          "snippet": "",
+          "url": "https://vologda-poisk.ru/news/kriminal/v-zone-deystviya-svo-propal-syn-sovetskogo-potroshitelya-andreya-chikatilo-539",
+          "source": "Vologda-poisk.ru"
+        }
+      ],
+      "link": "https://trends.google.com/trending/rss?geo=RU"
+    },
     {
       "title": "рен тв",
       "trafficCount": "100+",
@@ -58,34 +86,6 @@
       "link": "https://trends.google.com/trending/rss?geo=RU"
     },
     {
-      "title": "мария захарова",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 21 Apr 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXSJUa5O4DR6VLrW8e2zVO56KFVxxMVbQlZ9cg49Ee9FP7YfbRqXQxiUZQ9e8",
-      "pictureSource": "Ведомости",
-      "relatedSearch": [
-        {
-          "title": "Владимир Путин подвел итоги пасхального перемирия",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/articles/2025/04/21/1105733-vladimir-putin-podvel",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Зеленский: Россия нарушила пасхальное перемирие 2935 раз. Минобороны РФ: зафиксировано 4900 нарушений режима прекращения огня со стороны Украины",
-          "snippet": "",
-          "url": "https://meduza.io/news/2025/04/21/zelenskiy-rossiya-narushila-pashalnoe-peremirie-2935-raz-minoborony-rf-zafiksirovano-4900-narusheniy-rezhim-prekrascheniya-ognya-so-storony-ukrainy",
-          "source": "Meduza"
-        },
-        {
-          "title": "Путин: Киев рассматривал предложение о перемирии как игру судьбами людей",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/670049",
-          "source": "БИЗНЕС Online — Новости Казани"
-        }
-      ],
-      "link": "https://trends.google.com/trending/rss?geo=RU"
-    },
-    {
       "title": "нхл плей офф",
       "trafficCount": "500+",
       "pubDate": "Mon, 21 Apr 2025 15:00:00 -0700",
@@ -114,8 +114,36 @@
       "link": "https://trends.google.com/trending/rss?geo=RU"
     },
     {
+      "title": "мария захарова",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 21 Apr 2025 15:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXSJUa5O4DR6VLrW8e2zVO56KFVxxMVbQlZ9cg49Ee9FP7YfbRqXQxiUZQ9e8",
+      "pictureSource": "Ведомости",
+      "relatedSearch": [
+        {
+          "title": "Владимир Путин подвел итоги пасхального перемирия",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/articles/2025/04/21/1105733-vladimir-putin-podvel",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Зеленский: Россия нарушила пасхальное перемирие 2935 раз. Минобороны РФ: зафиксировано 4900 нарушений режима прекращения огня со стороны Украины",
+          "snippet": "",
+          "url": "https://meduza.io/news/2025/04/21/zelenskiy-rossiya-narushila-pashalnoe-peremirie-2935-raz-minoborony-rf-zafiksirovano-4900-narusheniy-rezhim-prekrascheniya-ognya-so-storony-ukrainy",
+          "source": "Meduza"
+        },
+        {
+          "title": "Путин: Киев рассматривал предложение о перемирии как игру судьбами людей",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/670049",
+          "source": "БИЗНЕС Online — Новости Казани"
+        }
+      ],
+      "link": "https://trends.google.com/trending/rss?geo=RU"
+    },
+    {
       "title": "даллас колорадо прогноз",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 21 Apr 2025 14:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkXGNSLoMDv9nWZKj5X0I25Y7RcoDmdxwp2iJAgg8gg3E8HiqyNMP8yyYIHoI",
       "pictureSource": "Sportbox",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://radio1.ru/news/obschestvo/v-dubae-rossiiskie-turisti-prolet-ognennogo-shara-v-nebe/",
           "source": "Radio1.ru"
-        }
-      ],
-      "link": "https://trends.google.com/trending/rss?geo=RU"
-    },
-    {
-      "title": "геленджик",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 21 Apr 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQso8G6zFK6weViTVno8wntadZhwp7exWLoaGdFj1LY-807CpbX95sQkCOD7RU",
-      "pictureSource": "72.ру",
-      "relatedSearch": [
-        {
-          "title": "Как добраться до Геленджика из разных уголков страны? Чем заняться на курорте — путеводитель для тюменцев",
-          "snippet": "",
-          "url": "https://72.ru/text/world/2025/04/21/75369023/",
-          "source": "72.ру"
-        },
-        {
-          "title": "Дешевые отели и самая вкусная еда на юге: премиум курорт России за копейки – и это не Сочи",
-          "snippet": "",
-          "url": "https://pg12.ru/news/92894",
-          "source": "Pg12.ru"
-        },
-        {
-          "title": "Недорогие отели и вкусная еда на юге: элитный курорт России за доступную цену – и это не Сочи",
-          "snippet": "",
-          "url": "https://prodzer.ru/news/9900",
-          "source": "https://prodzer.ru/"
         }
       ],
       "link": "https://trends.google.com/trending/rss?geo=RU"
