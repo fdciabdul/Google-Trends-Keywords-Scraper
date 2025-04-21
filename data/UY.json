@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-04-21 11:41:52",
+  "lastUpdate": "2025-04-21 11:48:48",
   "data": [
     {
       "title": "noticias",
-      "trafficCount": "1000+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 21 Apr 2025 04:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -14,14 +14,14 @@
       "title": "el telegrafo",
       "trafficCount": "100+",
       "pubDate": "Mon, 21 Apr 2025 02:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDy7Kp9kZF0qtQFPOE06oiH-cNkQqtFKnYSlYkQivDjd_i4abhuYYf6SHbmII",
-      "pictureSource": "El Telégrafo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9osi3PhOfGvUmGh-TuKIJgbonrBjJUfu27Y1ec7ShRrshq3S8Y093Y9YZhe0",
+      "pictureSource": "Montevideo Portal",
       "relatedSearch": [
         {
-          "title": "Choque con dos heridos en Dr. Roldán",
+          "title": "Paysandú: hallan a hombre asesinado de un hachazo en la cabeza",
           "snippet": "",
-          "url": "https://www.eltelegrafo.com/2025/04/choque-con-dos-heridos-en-dr-roldan/",
-          "source": "El Telégrafo"
+          "url": "https://www.montevideo.com.uy/Noticias/Paysandu-hallan-a-hombre-asesinado-de-un-hachazo-en-la-cabeza-uc921339",
+          "source": "Montevideo Portal"
         },
         {
           "title": "Hombre asesinado a hachazos en la zona norte",
@@ -30,9 +30,37 @@
           "source": "El Telégrafo"
         },
         {
-          "title": "Paysandú: hallan a hombre asesinado de un hachazo en la cabeza",
+          "title": "Por droga, en Paysandú mataron a un hombre de un hachazo",
           "snippet": "",
-          "url": "https://www.montevideo.com.uy/Noticias/Paysandu-hallan-a-hombre-asesinado-de-un-hachazo-en-la-cabeza-uc921339",
+          "url": "https://elecodigital.com.uy/policiales/por-droga-en-paysandu-mataron-a-un-hombre-de-un-hachazo/",
+          "source": "El Eco Digital"
+        }
+      ],
+      "link": "https://trends.google.com/trending/rss?geo=UY"
+    },
+    {
+      "title": "montevideo portal",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 21 Apr 2025 02:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0_WS_lBwgyk_FQmnAV6H27lJBzPaSTiQd3g7lXHNe89OvIl0xi0nSuIsyBJc",
+      "pictureSource": "Montevideo Portal",
+      "relatedSearch": [
+        {
+          "title": "Trágico: Un menor de 16 años murió al volante de un auto en Melo",
+          "snippet": "",
+          "url": "https://www.montevideo.com.uy/Noticias/Tragico-Un-menor-de-16-anos-murio-al-volante-de-un-auto-en-Melo-uc921320",
+          "source": "Montevideo Portal"
+        },
+        {
+          "title": "Domingo de Pascua termina en tragedia en Melo.",
+          "snippet": "",
+          "url": "https://www.laredindependiente.uy/domingo-de-pascua-termina-en-tragedia-en-melo/",
+          "source": "La Red Independiente Melo"
+        },
+        {
+          "title": "¿Podría ser Daniel Sturla el sucesor del papa Francisco?",
+          "snippet": "",
+          "url": "https://www.montevideo.com.uy/Noticias/-Podria-ser-Daniel-Sturla-el-sucesor-del-papa-Francisco--uc921317",
           "source": "Montevideo Portal"
         }
       ],
@@ -154,15 +182,9 @@
       "title": "papa francisco",
       "trafficCount": "10000+",
       "pubDate": "Mon, 21 Apr 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA-QHkY6QoexdqaMlU_pe5iz0hou6C3JVHwv2vBArv1uGbTlq5SjA_vaFdyWU",
-      "pictureSource": "Vatican News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFBfOJSFy5eNpGzQ_mXU7qhCBh4lOc1GRRa7eSFEpBbZu_1H6PwlhcarAOxE",
+      "pictureSource": "Montevideo Portal",
       "relatedSearch": [
-        {
-          "title": "El Papa Francisco ha partido a la Casa del Padre",
-          "snippet": "",
-          "url": "https://www.vaticannews.va/es/papa/news/2025-04/el-papa-francisco-ha-regresado-a-la-casa-del-padre.html",
-          "source": "Vatican News"
-        },
         {
           "title": "¿Podría ser Daniel Sturla el sucesor del papa Francisco?",
           "snippet": "",
@@ -170,10 +192,16 @@
           "source": "Montevideo Portal"
         },
         {
-          "title": "Cómo será el protocolo del Vaticano tras la muerte del papa Francisco",
+          "title": "El Papa Francisco ha partido a la Casa del Padre",
           "snippet": "",
-          "url": "https://www.infobae.com/america/mundo/2025/04/21/como-es-el-protocolo-del-vaticano-tras-la-muerte-del-papa/",
-          "source": "Infobae"
+          "url": "https://www.vaticannews.va/es/papa/news/2025-04/el-papa-francisco-ha-regresado-a-la-casa-del-padre.html",
+          "source": "Vatican News"
+        },
+        {
+          "title": "Muere a los 88 años el papa Francisco",
+          "snippet": "",
+          "url": "https://cnnespanol.cnn.com/2025/04/21/mundo/muere-papa-francisco-vaticano-88-anos-orix",
+          "source": "CNN en Español"
         }
       ],
       "link": "https://trends.google.com/trending/rss?geo=UY"
@@ -224,34 +252,6 @@
           "snippet": "",
           "url": "https://gamerant.com/fortnite-fncs-major-2-twitch-drops-2025-spray-back-bling-how-to-get/",
           "source": "Game Rant"
-        }
-      ],
-      "link": "https://trends.google.com/trending/rss?geo=UY"
-    },
-    {
-      "title": "the last of us",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 20 Apr 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDBLLE4JzPtKkuvYM5VD92V2DCkXCylE2NaEuXw-zSeuOfb9v9C1kK_4hNMJA",
-      "pictureSource": "Forbes",
-      "relatedSearch": [
-        {
-          "title": "‘The Last Of Us’ Season 2 Release Schedule—When Do New Episodes Drop?",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/monicamercuri/2025/04/14/the-last-of-us-season-2-release-schedule-when-do-new-episodes-drop/",
-          "source": "Forbes"
-        },
-        {
-          "title": "The game has changed: On set for The Last of Us ' Pedro Pascal shocker (exclusive)",
-          "snippet": "",
-          "url": "https://ew.com/the-last-of-us-season-2-pedro-pascal-shocker-kaitlyn-dever-bella-ramsey-on-set-exclusive-11717893",
-          "source": "Entertainment Weekly"
-        },
-        {
-          "title": "‘The Last Of Us’ Creators Break Down Season 2’s Heartbreaking Second Episode & Its Enduring Implications",
-          "snippet": "",
-          "url": "https://deadline.com/2025/04/joel-death-the-last-of-us-season-2-explained-interview-1236371961/",
-          "source": "Deadline"
         }
       ],
       "link": "https://trends.google.com/trending/rss?geo=UY"
