@@ -59,11 +59,15 @@ module.exports = async (data) => {
           picture: item["ht:picture"] || "",
           pictureSource: item["ht:picture_source"] || "",
           relatedSearch: relatedNews,
-          link: item.link || ""
+          link: "https://imtaqin.id/" // Changed to redirect to imtaqin.id
         };
       });
       
+      // Create keywords with links to imtaqin.id
       const keywords = formattedTrends.map(trend => trend.title);
+      const keywordsWithLinks = keywords.map(keyword => 
+        `[${keyword}](https://imtaqin.id/)`
+      );
       
       const resultData = {
         lastUpdate: timestamp,
@@ -78,12 +82,19 @@ module.exports = async (data) => {
       }
       
       fs.writeFileSync(`./data/${countryCode}.json`, JSON.stringify(resultData, null, 2));
+      
+      // For the text file, we can either keep the plain format or add HTML links
+      // Option 1: Keep plain text for easy copying
       fs.writeFileSync(`./forcopied/${countryCode}.txt`, keywords.join(', '), "UTF-8");
+      
+      // Option 2: Add HTML links (uncomment if you want HTML instead)
+      // const htmlLinks = keywords.map(keyword => `<a href="https://imtaqin.id/">${keyword}</a>`).join(', ');
+      // fs.writeFileSync(`./forcopied/${countryCode}.html`, htmlLinks, "UTF-8");
       
       countriesData.push({
         name: countryName,
         code: countryCode,
-        keywords: keywords.join(', '),
+        keywords: keywordsWithLinks.join(', '), // Using keywords with links in the README
         timestamp
       });
       
@@ -103,6 +114,7 @@ function generateReadme(countriesData) {
   const timestamp = format("yyyy-MM-dd hh:mm:ss");
   const dateOnly = format("yyyy/MM/dd");
   
+  // The tableData now includes keywords with markdown links to imtaqin.id
   const tableData = countriesData.map(country => 
     `| ${country.name} | ${country.keywords} | ${country.timestamp} |`
   ).join('\n');
