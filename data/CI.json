@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "2025-04-22 03:27:10",
+  "lastUpdate": "2025-04-22 03:43:06",
   "data": [
     {
       "title": "federico valverde",
       "trafficCount": "200+",
       "pubDate": "Mon, 21 Apr 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOVFSCQgzaZKRapb2EccbpYC9JLty6n2vBHGcpg-yuUFyIzleOP5g1-H4zCpY",
-      "pictureSource": "real total",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStINqtMzqpxJ_w7bMcabR_zH1ManZ3gDLTFFkkpsKZPIjXTXVMbl-gNSctHjY",
+      "pictureSource": "RFI",
       "relatedSearch": [
         {
-          "title": "Notas de la jornada 32: El activo Vinícius, el fuera de forma Rodrygo",
+          "title": "Un gol 'in extremis' de Valverde mantiene al Real Madrid con vida en Liga",
           "snippet": "",
-          "url": "https://www.realtotal.de/es/noten-zum-32-spieltag-aktivposten-vinicius-formschwacher-rodrygo/",
-          "source": "real total"
+          "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20250420-un-gol-in-extremis-de-valverde-mantiene-al-real-madrid-con-vida-en-liga",
+          "source": "RFI"
         },
         {
           "title": "Un potosí de volea",
@@ -21,10 +21,10 @@
           "source": "Diario AS"
         },
         {
-          "title": "Partido de La Liga española: Real Madrid VS Athletic Bilbao",
+          "title": "LaLiga está que arde: Así quedo la tabla de posiciones tras el triunfo del Real Madrid",
           "snippet": "",
-          "url": "http://spanish.xinhuanet.com/20250422/a3507555141c4cb8af0a8df0c70aff1c/c.html",
-          "source": "Xinhua Español"
+          "url": "https://www.directvsports.com/futbol/LaLiga-esta-que-arde-Asi-quedo-la-tabla-de-posiciones-tras-el-triunfo-del-Real-Madrid-20250420-0038.html",
+          "source": "dsports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "girona – betis",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 21 Apr 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdm63CM22oHfo7WQ4mRewIXmXA9Au_tXofhWJZCEw9rUkBMzOEhPr5LvMurNQ",
-      "pictureSource": "Prensa Latina",
-      "relatedSearch": [
-        {
-          "title": "Real Betis conserva sus ambiciones de disputar la Champions",
-          "snippet": "",
-          "url": "https://www.prensa-latina.cu/2025/04/21/real-betis-conserva-sus-ambiciones-de-disputar-la-champions/",
-          "source": "Prensa Latina"
-        },
-        {
-          "title": "Antony brilla contra el Girona con su tercer gol en Liga",
-          "snippet": "",
-          "url": "https://www.infobae.com/america/agencias/2025/04/21/antony-brilla-contra-el-girona-con-su-tercer-gol-en-liga/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Pellegrini: \"Era muy importante no desprenderse del quinto lugar\"",
-          "snippet": "",
-          "url": "https://www.abc.es/deportes/futbol/pellegrini-era-importante-desprenderse-quinto-lugar-20250422030310-vi.html",
-          "source": "ABC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tottenham – nottm forest",
       "trafficCount": "5000+",
       "pubDate": "Mon, 21 Apr 2025 11:10:00 -0700",
@@ -114,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "girona – betis",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 21 Apr 2025 11:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdm63CM22oHfo7WQ4mRewIXmXA9Au_tXofhWJZCEw9rUkBMzOEhPr5LvMurNQ",
+      "pictureSource": "Prensa Latina",
+      "relatedSearch": [
+        {
+          "title": "Real Betis conserva sus ambiciones de disputar la Champions",
+          "snippet": "",
+          "url": "https://www.prensa-latina.cu/2025/04/21/real-betis-conserva-sus-ambiciones-de-disputar-la-champions/",
+          "source": "Prensa Latina"
+        },
+        {
+          "title": "Antony brilla contra el Girona con su tercer gol en Liga",
+          "snippet": "",
+          "url": "https://www.infobae.com/america/agencias/2025/04/21/antony-brilla-contra-el-girona-con-su-tercer-gol-en-liga/",
+          "source": "Infobae"
+        },
+        {
+          "title": "Pellegrini: \"Era muy importante no desprenderse del quinto lugar\"",
+          "snippet": "",
+          "url": "https://www.abc.es/deportes/futbol/pellegrini-era-importante-desprenderse-quinto-lugar-20250422030310-vi.html",
+          "source": "ABC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "al-hilal – al shabab",
       "trafficCount": "1000+",
       "pubDate": "Mon, 21 Apr 2025 08:30:00 -0700",
@@ -123,7 +123,7 @@
         {
           "title": "Al-Hilal and Al-Ittihad in key Saudi Pro League clashes as title race heats up",
           "snippet": "",
-          "url": "https://www.arabnews.com/node/2597896",
+          "url": "https://www.arabnews.com/node/2597896/sport",
           "source": "Arab News"
         },
         {
@@ -145,26 +145,26 @@
       "title": "robert lewandowski",
       "trafficCount": "200+",
       "pubDate": "Mon, 21 Apr 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjifDW6STk_QPbkO19vIHGckUhOZjOreIALqJcyzFvC3blo0yNO86vMKqBa40",
-      "pictureSource": "SportoweFakty",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSB1uTffIXJLg_bD0QAFcNd9idZuNZq9DK7jlO-5UTyrL-cWTK3XgxZPSnUcc",
+      "pictureSource": "Wyniki na żywo",
       "relatedSearch": [
         {
-          "title": "Hiszpanie ujawnili. Oto plan Flicka na zastąpienie Lewandowskiego",
+          "title": "Lewandowski za Salahem i Gyokeresem w walce o Złotego Buta",
           "snippet": "",
-          "url": "https://sportowefakty.wp.pl/pilka-nozna/1184498/hiszpanie-ujawnili-oto-plan-flicka-na-zastapienie-lewandowskiego",
-          "source": "SportoweFakty"
+          "url": "https://www.flashscore.pl/wiadomosci/lewandowski-za-salahem-i-gyokeresem-w-walce-o-z-otego-buta/janThNpK/",
+          "source": "Wyniki na żywo"
         },
         {
-          "title": "Wydarzenia sportowe",
+          "title": "Złoty But: Viktor Gyökeres w szalonej pogoni za Mohamedem Salahem [TOP 20]",
           "snippet": "",
-          "url": "https://naszdziennik.pl/sport-pozostale-dyscypliny/318303,wydarzenia-sportowe.html",
-          "source": "Nasz Dziennik"
+          "url": "https://transfery.info/aktualnosci/zloty-but-viktor-gyokeres-w-szalonej-pogoni-za-mohamedem-salahem-top-20/241167",
+          "source": "Transfery.info"
         },
         {
-          "title": "Wiadomości o kontuzji Lewandowskiego. Ekscytująca wygrana 4:3 w meczu z Celtą.",
+          "title": "Tak wygląda klasyfikacja Złotego Buta. Lewandowski wciąż na podium",
           "snippet": "",
-          "url": "https://biznesistyl.pl/sport/pilka-nozna/wiadomosci-o-kontuzji-lewandowskiego-ekscytujaca-wygrana-43-w-meczu-z-celta.html",
-          "source": "Biznes i Styl"
+          "url": "https://www.meczyki.pl/newsy/pilka-nozna/tak-wyglada-klasyfikacja-zlotego-buta-lewandowski-wciaz-na-podium/268188",
+          "source": "Meczyki.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Vatican News"
         },
         {
-          "title": "Le pape François, un bâtisseur de ponts et de réformes",
+          "title": "Mort du pape François : qui sont les cardinaux pressentis pour lui succéder ?",
           "snippet": "",
-          "url": "https://www.rfi.fr/fr/europe/20250421-le-pape-fran%C3%A7ois-un-b%C3%A2tisseur-de-ponts-et-de-r%C3%A9formes",
-          "source": "RFI"
+          "url": "https://www.france24.com/fr/europe/20250421-mort-pape-fran%C3%A7ois-qui-sont-cardinaux-qui-pourraient-lui-succ%C3%A9der-%C3%A9glise-catholique-vatican",
+          "source": "France 24"
         },
         {
-          "title": "Le conclave, un des processus électoraux les plus secrets au monde",
+          "title": "Mort du pape François: le souverain pontife a succombé à un AVC",
           "snippet": "",
-          "url": "https://www.france24.com/fr/europe/20250421-conclave-processus-%C3%A9lectoraux-secrets-au-monde-anciens-pape-mort-fran%C3%A7ois-vatican-eglise-catholique",
-          "source": "France 24"
+          "url": "https://www.bfmtv.com/societe/religions/mort-du-pape-francois-le-souverain-pontife-a-succombe-a-un-avc_AN-202504210521.html",
+          "source": "BFMTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +239,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "Google says DOJ's proposal for breakup would harm U.S. in 'global race with China'",
+          "title": "Google Paid Samsung ‘Enormous Sums’ for Gemini AI App Installs",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/04/21/google-argues-doj-breakup-could-hurt-us-economy-in-battle-with-china.html",
-          "source": "CNBC"
+          "url": "https://www.bloomberg.com/news/articles/2025-04-21/google-paid-samsung-enormous-sums-for-gemini-ai-app-installs",
+          "source": "Bloomberg.com"
         },
         {
           "title": "DOJ’s sweeping remedies would harm America’s economy and technological leadership",
           "snippet": "",
           "url": "https://blog.google/outreach-initiatives/public-policy/doj-search-remedies-apr-2025/",
           "source": "Google Blog"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rockets – warriors",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 20 Apr 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_HyWJPNaXeEQe5pqkNr7ViSULw7f_O1u_JTni3px972uyOu_l2sV8sZ3Z6-k",
-      "pictureSource": "NBA",
-      "relatedSearch": [
-        {
-          "title": "Golden State Warriors vs Houston Rockets Apr 20, 2025 Game Summary",
-          "snippet": "",
-          "url": "https://www.nba.com/game/gsw-vs-hou-0042400151",
-          "source": "NBA"
-        },
-        {
-          "title": "Detroit Pistons snap NBA-record, 15-game postseason losing streak, beating New York Knicks 100-94",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/detroit-pistons-snap-nba-record-021422598.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Jimmy Butler Believes 1 Warriors Player Will Be The Reason They ‘Win It All’",
-          "snippet": "",
-          "url": "https://bvmsports.com/2025/04/21/jimmy-butler-believes-1-warriors-player-will-be-the-reason-they-win-it-all/",
-          "source": "BVM Sports"
         }
       ],
       "link": "https://imtaqin.id/"
