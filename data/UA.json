@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-04-23 23:44:37",
+  "lastUpdate": "2025-04-23 23:51:28",
   "data": [
     {
       "title": "новости харькова",
@@ -59,7 +59,7 @@
     },
     {
       "title": "корреспондент",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 23 Apr 2025 15:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6gusoMbXcSTOy5y0NygccnjVvmeIWx1q1n0ukzeWKtyIZHl5v7wyTC0OTG0w",
       "pictureSource": "Korrespondent.net",
@@ -87,7 +87,7 @@
     },
     {
       "title": "укр нет",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 23 Apr 2025 15:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO757FddCuFNnHBFDHkPMxFM0-RLyI9tlbqfCsO75aSX04HUglhV-SOsvScM8",
       "pictureSource": "Українська правда",
@@ -111,6 +111,15 @@
           "source": "ТСН"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "житомир інфо",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 23 Apr 2025 15:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -179,34 +188,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новости",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 23 Apr 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8kmtFass91mITLXZTwNeq75fgRHyyt9Xx7-2o8wRcvWn8DXSIBcEnI52QFY",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Белый дом о заявлении Трампа в сторону Зеленского: Президенту США \"лопается терпение\"",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/04/23/7508897/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Заочный ответ? Зеленский напомнил Трампу обязательства по Крымской декларации",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/zaochna-vidpovid-zelenskiy-nagadav-trampu-1745438523.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "Зеленский прокомментировал переговоры в Лондоне, упомянул о Крымской декларации 2018 года",
-          "snippet": "",
-          "url": "https://news.liga.net/politics/news/zelenskii-prokommentiroval-peregovory-v-londone-upomyanul-o-krymskoi-deklaratsii-2018-goda",
-          "source": "ЛІГАБізнесІнформ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "новости украины",
       "trafficCount": "500+",
       "pubDate": "Wed, 23 Apr 2025 15:20:00 -0700",
@@ -235,29 +216,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "чугуев",
+      "title": "новости",
       "trafficCount": "500+",
       "pubDate": "Wed, 23 Apr 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_dAV2fAmADp2cojrKk0YPFYjwWEEy7fHVyM63c-19UJkwiJEGE5Q6zXvR-R4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8kmtFass91mITLXZTwNeq75fgRHyyt9Xx7-2o8wRcvWn8DXSIBcEnI52QFY",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Три человека пострадали на Харьковщине из-за российских ударов БпЛА",
+          "title": "Белый дом о заявлении Трампа в сторону Зеленского: Президенту США \"лопается терпение\"",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/04/23/7508893/",
+          "url": "https://www.pravda.com.ua/rus/news/2025/04/23/7508897/",
           "source": "Українська правда"
         },
         {
-          "title": "БпЛА «Молния» утром атаковал многоэтажку в Харькове – Терехов",
+          "title": "Трамп признал, что переговоры по окончанию войны в Украине сложнее, чем он надеялся, - WSJ",
           "snippet": "",
-          "url": "https://www.objectiv.tv/objectively/2025/04/23/bpla-molniya-utrom-atakoval-mnogoetazhku-v-harkove-terehov/",
-          "source": "Объектив"
+          "url": "https://www.rbc.ua/ukr/news/tramp-viznav-shcho-peregovori-shchodo-zakinchennya-1745441473.html",
+          "source": "РБК-Україна"
         },
         {
-          "title": "Россияне тестируют дроны «Молния» возле границы и линии фронта — глава Харьковской ОВА",
+          "title": "Зеленский прокомментировал переговоры в Лондоне, упомянул о Крымской декларации 2018 года",
           "snippet": "",
-          "url": "https://zn.ua/war/rossijane-testirujut-drony-molnija-u-hranitsy-i-linii-fronta-predsedatel-kharkovskoj-ova.html",
-          "source": "Дзеркало тижня"
+          "url": "https://news.liga.net/politics/news/zelenskii-prokommentiroval-peregovory-v-londone-upomyanul-o-krymskoi-deklaratsii-2018-goda",
+          "source": "ЛІГАБізнесІнформ"
         }
       ],
       "link": "https://imtaqin.id/"
