@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-04-23 14:08:38",
+  "lastUpdate": "2025-04-23 14:20:27",
   "data": [
     {
       "title": "lars van den berg",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 23 Apr 2025 06:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZfUZ2kiJI9xC6rn2PREAb7RddZKG5WciVVMr9Ba8gM62i3L1QMYv5JjJ1X6g",
       "pictureSource": "NPO Radio 1",
@@ -93,10 +93,10 @@
           "source": "BBC"
         },
         {
-          "title": "Naci Görür: Bunlar Marmara'da beklediğimiz büyük deprem değil",
+          "title": "Uzmanlar depremi yorumladı: 2019'daki depremle aynı yerde gerçekleşti",
           "snippet": "",
-          "url": "https://www.diken.com.tr/naci-gorur-asil-deprem-daha-buyuk-ve-yedinin-uzerinde-olacak/",
-          "source": "Diken"
+          "url": "https://gazeteoksijen.com/turkiye/uzmanlar-depremi-yorumladi-2019daki-depremle-ayni-yerde-gerceklesti-240272",
+          "source": "Gazete Oksijen"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,9 +105,15 @@
       "title": "hurriyet",
       "trafficCount": "100+",
       "pubDate": "Wed, 23 Apr 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmPK0Ubyo8FkYV1gCgcl2LnmuLwtIv3qae6VCpTNZ1e-tlq2RiVWvnviTzvWM",
-      "pictureSource": "Kocaeli Koz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKPzMv6q0gyed8D5NUHyJoEFXDPy7G_cygEnuWibBMKFn7sMKjp2wmJJKFEy4",
+      "pictureSource": "Çağdaş Kocaeli",
       "relatedSearch": [
+        {
+          "title": "23 Nisan Korteji tüm kente coşku getirdi",
+          "snippet": "",
+          "url": "https://www.cagdaskocaeli.com.tr/haber/24719531/23-nisan-korteji-tum-kente-cosku-getirdi",
+          "source": "Çağdaş Kocaeli"
+        },
         {
           "title": "Bayram çocukları duygularını paylaştı: Bizi düşünüp bayram ilan ettiği için Atamıza teşekkür ederiz",
           "snippet": "",
@@ -119,12 +125,6 @@
           "snippet": "",
           "url": "https://kocaeli.meb.gov.tr/www/23-nisan-ulusal-egemenlik-ve-cocuk-bayraminin-105-yili-coskuyla-kutlandi/icerik/2266",
           "source": "Kocaeli İl Milli Eğitim Müdürlüğü"
-        },
-        {
-          "title": "Kocaeli'de “Gezen Çömlek Atölyesi” çocukların ilgi odağı oldu",
-          "snippet": "",
-          "url": "https://www.yenikocaeli.com/haber/guncel/kocaelide-gezen-comlek-atolyesi-cocuklarin-ilgi-odagi-oldu/186018.html",
-          "source": "Yeni Kocaeli Gazetesi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -158,6 +158,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "deprem son dakika",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 23 Apr 2025 03:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMQuxYe0Yr9xq3PokU_uPeZRESQgBsP9HyUFSJ1W_bSbO-RCOknRyENRPfLYY",
+      "pictureSource": "Bloomberght",
+      "relatedSearch": [
+        {
+          "title": "THY'den ek sefer ve tavan fiyat açıklaması | Son dakika ekonomi haberleri",
+          "snippet": "",
+          "url": "https://www.bloomberght.com/thy-yurt-ici-bilet-tavan-fiyatini-1750-lira-olarak-belirledi-3746992",
+          "source": "Bloomberght"
+        },
+        {
+          "title": "Deprem uyarısı: Sabiha Gökçen’de uçaklara “Pas geçin” talimatı",
+          "snippet": "",
+          "url": "https://www.ekonomim.com/gundem/deprem-uyarisi-sabiha-gokcende-ucaklara-pas-gecin-talimati-haberi-813942",
+          "source": "Ekonomim"
+        },
+        {
+          "title": "İstanbul Havalimanı’nda uçuşlar sorunsuz sürüyor - Ajans Manisa",
+          "snippet": "",
+          "url": "https://www.ajansmanisa.com/haber-2609378-istanbul-havalimani-nda-ucuslar-sorunsuz-suruyor",
+          "source": "Manisa Haberleri (Ajans Manisa)"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "istanbul earthquake",
       "trafficCount": "2000+",
       "pubDate": "Wed, 23 Apr 2025 03:10:00 -0700",
@@ -171,16 +199,16 @@
           "source": "BBC"
         },
         {
-          "title": "Turkiye earthquake live news: Istanbul rocked by magnitude 6.2 quake",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/4/23/turkiye-earthquake-live-news-istanbul-rocked-by-6-2-magnitude-quake",
-          "source": "Al Jazeera"
-        },
-        {
           "title": "Magnitude 6.2 earthquake strikes near Istanbul as scores injured in panic",
           "snippet": "",
           "url": "https://www.cnn.com/2025/04/23/europe/istanbul-turkey-earthquake-intl/index.html",
           "source": "CNN"
+        },
+        {
+          "title": "Istanbul rocked by magnitude 6.2 earthquake",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/4/23/turkiye-earthquake-live-news-istanbul-rocked-by-6-2-magnitude-quake",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,15 +227,15 @@
           "source": "Telegraaf"
         },
         {
-          "title": "Regio Istanbul getroffen door aardbeving, nog geen meldingen van schade of slachtoffers",
+          "title": "Westkust Turkije getroffen door aardbeving met kracht van 6,2",
           "snippet": "",
-          "url": "https://www.nrc.nl/nieuws/2025/04/23/istanbul-getroffen-door-aardbeving-nog-geen-meldingen-van-schade-of-slachtoffers-a4890891",
-          "source": "NRC"
+          "url": "https://nos.nl/l/2564664",
+          "source": "NOS"
         },
         {
-          "title": "Ruim 150 gewonden behandeld na aardbeving voor Turkse kust: ‘Mensen sprongen in paniek omlaag’",
+          "title": "Aardbeving voor kust ten westen van Istanboel, één gewonde na sprong balkon",
           "snippet": "",
-          "url": "https://www.ad.nl/buitenland/ruim-150-gewonden-behandeld-na-aardbeving-voor-turkse-kust-mensen-sprongen-in-paniek-omlaag~a317721e/",
+          "url": "https://www.ad.nl/buitenland/aardbeving-voor-kust-ten-westen-van-istanboel-een-gewonde-na-sprong-balkon~a317721e/",
           "source": "AD.nl"
         }
       ],
@@ -227,44 +255,16 @@
           "source": "BBC"
         },
         {
-          "title": "Naci Görür: Bunlar Marmara'da beklediğimiz büyük deprem değil",
+          "title": "Uzmanlar depremi yorumladı: 2019'daki depremle aynı yerde gerçekleşti",
           "snippet": "",
-          "url": "https://www.diken.com.tr/naci-gorur-asil-deprem-daha-buyuk-ve-yedinin-uzerinde-olacak/",
-          "source": "Diken"
+          "url": "https://gazeteoksijen.com/turkiye/uzmanlar-depremi-yorumladi-2019daki-depremle-ayni-yerde-gerceklesti-240272",
+          "source": "Gazete Oksijen"
         },
         {
-          "title": "\"Telefonlarda arama yerine SMS ve mesaj tercih edilmeli\"",
+          "title": "SON DAKİKA: İstanbul'da 6,2 büyüklüğünde deprem: İstanbul beşik gibi sallanıyor",
           "snippet": "",
-          "url": "https://www.trthaber.com/haber/turkiye/telefonlarda-arama-yerine-sms-ve-mesaj-tercih-edilmeli-904974.html",
-          "source": "TRT Haber"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "roy thomas baker",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 23 Apr 2025 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS38sDf_pBfsEzZxa33tbu7gPXbfn0AJLuIcedy9HnPVuhD0lG2YGmfXN4XyFw",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Roy Thomas Baker, Who Helped Produce ‘Bohemian Rhapsody,’ Dies at 78",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/04/22/arts/music/roy-thomas-baker-dead.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Roy Thomas Baker, Producer of Queen’s ‘Bohemian Rhapsody,’ the Cars, Foreigner and More, Dies at 78",
-          "snippet": "",
-          "url": "https://variety.com/2025/music/news/roy-thomas-baker-producer-queen-bohemian-rhapsody-dead-1236375218/",
-          "source": "Variety"
-        },
-        {
-          "title": "“If they were ever going to do the story of Nero, probably the most decadent of all the emperors, they would have to use Roy Thomas Baker”: Tributes to the legendary producer of Queen, Alice Cooper, Journey and more, who has died aged 78",
-          "snippet": "",
-          "url": "https://www.musicradar.com/artists/producers-engineers/if-they-were-ever-going-to-do-the-story-of-nero-probably-the-most-decadent-of-all-the-emperors-they-would-have-to-use-roy-thomas-baker-tributes-to-the-legendary-producer-of-queen-alice-cooper-journey-and-more",
-          "source": "MusicRadar"
+          "url": "https://www.ntv.com.tr/turkiye/son-dakika-istanbulda-6-2-buyuklugunde-deprem,tmu6lIFMh0yRTh_CWNcc8g",
+          "source": "NTV Haber"
         }
       ],
       "link": "https://imtaqin.id/"
