@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-04-24 03:55:12",
+  "lastUpdate": "2025-04-24 04:03:55",
   "data": [
     {
+      "title": "מזג אוויר",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 23 Apr 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCQwB_a4nw1pcinoVrjv29fbOJBsqgj7F0Poq0T3UU5R87lTAOV0DDGVUc3Eg",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "נשבר השרב: ירידה בטמפרטורות - וגשם קל בסוף השבוע | התחזית המלאה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/zxydzfekk",
+          "source": "ynet"
+        },
+        {
+          "title": "תם השרב הגדול: ההתקררות, האובך והגשמים בדרך | התחזית המלאה",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/weathern/article/17810035",
+          "source": "ישראל היום"
+        },
+        {
+          "title": "השרב נשבר: התקררות החל משעות אחר הצהריים, לקראת סופ\"ש נוח במיוחד",
+          "snippet": "",
+          "url": "https://www.mako.co.il/hix-nature/Article-7342e967ddc5691026.htm",
+          "source": "mako"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nba",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 23 Apr 2025 20:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0kzm97BNIlarkjDBcWvPl6rBJp4HnPU_gjDyai3HRLJ5aJlK4VFT8xi0EO8M",
       "pictureSource": "The New York Times",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://hoopshype.com/rumor/3600902/",
           "source": "HoopsHype"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "תחזית מזג האוויר",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 23 Apr 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCQwB_a4nw1pcinoVrjv29fbOJBsqgj7F0Poq0T3UU5R87lTAOV0DDGVUc3Eg",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "נשבר השרב: ירידה בטמפרטורות - וגשם קל בסוף השבוע | התחזית המלאה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/zxydzfekk",
-          "source": "ynet"
-        },
-        {
-          "title": "תם השרב הגדול: ההתקררות, האובך והגשמים בדרך | התחזית המלאה",
-          "snippet": "",
-          "url": "https://www.israelhayom.co.il/weathern/article/17810035",
-          "source": "ישראל היום"
-        },
-        {
-          "title": "השרב נשבר: התקררות החל משעות אחר הצהריים, לקראת סופ\"ש נוח במיוחד",
-          "snippet": "",
-          "url": "https://www.mako.co.il/hix-nature/Article-7342e967ddc5691026.htm",
-          "source": "mako"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,16 +121,16 @@
           "source": "Матч ТВ"
         },
         {
+          "title": "«Реал» победил «Хетафе» в матче чемпионата Испании, благодаря голу Гюлера",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2195539_Real_pobedil_Khetafe_v_matche_chempionata_Ispanii_blagodara_golu_Gulera",
+          "source": "Sportbox"
+        },
+        {
           "title": "Гюлер высказался о победе «Реала» и борьбе с «Барселоной»",
           "snippet": "",
           "url": "https://www.euro-football.ru/article/35/1005899897_gyuler_vyiskazalsya_o_pobede_reala_i_borbe_s_barselonoy",
           "source": "Евро-Футбол"
-        },
-        {
-          "title": "Ла Лига: \"Реал\" с минимальным счетом обыграл \"Хетафе\"",
-          "snippet": "",
-          "url": "https://oxu.az/ru/sport/la-liga-real-s-minimalnym-schetom-obygral-hetafe",
-          "source": "Oxu.Az"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -157,7 +157,7 @@
         {
           "title": "Italian Cup semifinal 2nd leg football match: Inter Milan vs. AC Milan",
           "snippet": "",
-          "url": "http://english.news.cn/20250424/f1dbc97db92f4275b0e8c19c2e4ca394/c.html",
+          "url": "https://english.news.cn/20250424/f1dbc97db92f4275b0e8c19c2e4ca394/c.html",
           "source": "Xinhua"
         }
       ],
@@ -195,26 +195,26 @@
       "title": "آرسنال ضد كريستال بالاس",
       "trafficCount": "200+",
       "pubDate": "Wed, 23 Apr 2025 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtG2lp2p6bDlXJxpUFQqopUQ877PUrqJnyuMv_51f4xv53_WgeowxJKLZuryw",
-      "pictureSource": "القدس العربي",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZWVY_H48__TEU2mSIzf8Mol9fLelWVpRXDGxhPP6kV2BBWTS8s5q6wK2mbCs",
+      "pictureSource": "مصر نيوز",
       "relatedSearch": [
         {
-          "title": "ماتيتا لاعب بالاس يحرم أرسنال من الفوز ويترك ليفربول على أعتاب لقب دوري إنكلترا",
+          "title": "آرسنال يصطدم بكريستال بالاس لمطاردة القمة.. ترتيب الدوري الإنجليزي قبل مباراة اليوم - مصر نيوز",
           "snippet": "",
-          "url": "https://www.alquds.co.uk/%D9%85%D8%A7%D8%AA%D9%8A%D8%AA%D8%A7-%D9%84%D8%A7%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3-%D9%8A%D8%AD%D8%B1%D9%85-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%88%D8%B2/",
-          "source": "القدس العربي"
+          "url": "https://egnews.in/khabr-gadid/238604.html",
+          "source": "مصر نيوز"
+        },
+        {
+          "title": "بعد تعادل أرسنال وكريستال بالاس .. ليفربول على بعد نقطة من اللقب 20 | صحيفة الخليج",
+          "snippet": "",
+          "url": "https://www.alkhaleej.ae/2025-04-24/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%88%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D9%86%D9%82%D8%B7%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%84%D9%82%D8%A8-20-5881561/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%AF%D9%88%D9%84%D9%8A",
+          "source": "صحيفة الخليج"
         },
         {
           "title": "قدم.. كريستال بالاس يفرض نتيجة التعادل أمام أرسنال",
           "snippet": "",
           "url": "https://www.aa.com.tr/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%82%D8%AF%D9%85-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3-%D9%8A%D9%81%D8%B1%D8%B6-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84/3546905",
           "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "تروسارد: سيكون أداء آرسنال مختلفًا أمام باريس",
-          "snippet": "",
-          "url": "https://www.kooora.com/?n=1404100",
-          "source": "Kooora"
         }
       ],
       "link": "https://imtaqin.id/"
