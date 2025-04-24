@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-04-24 15:28:42",
+  "lastUpdate": "2025-04-24 15:38:40",
   "data": [
-    {
-      "title": "россельхозбанк",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 24 Apr 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQh1CPKg6R9kuLSbvW30ula62ZCh7RVCEIExb9kdd8Lhr71v_QRwZPydA-SA0",
-      "pictureSource": "Интерфакс",
-      "relatedSearch": [
-        {
-          "title": "Владельцем 50% \"Авито\" стала компания под управлением Россельхозбанка",
-          "snippet": "",
-          "url": "https://www.interfax.ru/business/1022609",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Структура «Россельхозбанка» купила 50% в «Авито» 24.04.2025",
-          "snippet": "",
-          "url": "https://www.finam.ru/publications/item/struktura-rosselkhozbank-kupila-50-v-avito-20250424-1808/",
-          "source": "Финам"
-        },
-        {
-          "title": "Иван Таврин продал половину Avito структуре под управлением Россельхозбанка",
-          "snippet": "",
-          "url": "https://m.realnoevremya.ru/news/334257-ivan-tavrin-prodal-polovinu-avito-strukture-pod-upravleniem-rosselhozbanka",
-          "source": "Реальное время"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "елена остапенко",
       "trafficCount": "100+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.vseprosport.ru/news/2025/04/24/anastasija-sevastova-elena-ostapenko-prognoz-i-stavki-na-match-wta-madrid-24-aprelja-2025-goda",
           "source": "ВсеПроСпорт"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "рсхб",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 24 Apr 2025 07:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRojjWurust7_6is3sF8vLnlFw2sHwnrvsPDv-hBYXgwEF8q_nmdZcaH2dOZ3E",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Россельхозбанк купил половину сервиса Avito",
+          "snippet": "",
+          "url": "https://finance.mail.ru/amp/2025-04-24/rosselhozbank-kupil-polovinu-servisa-avito-65868216/?from=amp_nextpage",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Владельцем 50% \"Авито\" стала компания под управлением Россельхозбанка",
+          "snippet": "",
+          "url": "https://www.interfax.ru/business/1022609",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "«Авито» продал 50% бизнеса",
+          "snippet": "",
+          "url": "https://adindex.ru/news/digital/2025/04/24/333064.phtml",
+          "source": "AdIndex"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,17 +133,45 @@
           "source": "Ведомости"
         },
         {
-          "title": "Танки всё? Суд арестовал в России активы издателя «Мира танков» (World of Tanks) по иску Генпрокуратуры",
+          "title": "Активы российского издателя «Мира танков» были арестованы по решению суда",
           "snippet": "",
-          "url": "https://www.iphones.ru/iNotes/tanki-vsyo-sud-arestoval-v-rossii-aktivy-izdatelya-mira-tankov-world-of-tanks-po-isku-genprokuratury",
-          "source": "iPhones.ru"
+          "url": "https://ixbt.games/news/2025/04/24/aktivy-rossiiskogo-izdatelya-mira-tankov-byli-arestovany-po-reseniyu-suda.html",
+          "source": "iXBT.games"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "надежда кадышева",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 24 Apr 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwnEfQywPUs8GuHs9r1oMi_nwDfD3sRiWBSxbMI6PM04vf-gGC_wJdfn7H1g",
+      "pictureSource": "Radio1.ru",
+      "relatedSearch": [
+        {
+          "title": "«20 млн за концерт»: названа самая высокооплачиваемая российская звезда",
+          "snippet": "",
+          "url": "https://radio1.ru/news/shou-biznes/20-mln-za-kontsert-nazvana-samaya-visokooplachivaemaya-rossiiskaya-zvezda/",
+          "source": "Radio1.ru"
+        },
+        {
+          "title": "Билетов на август уже нет: фанаты 65-летней Надежды Кадышевой требуют стадионы",
+          "snippet": "",
+          "url": "https://www.zakon.kz/kultura-shoubiz/6475165-biletov-na-avgust-uzhe-net-fanaty-65letney-nadezhdy-kadyshevoy-trebuyut-stadiony.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "20 миллионов за шоу: названа самая высокооплачиваемая российская звезда",
+          "snippet": "",
+          "url": "https://lady.mail.ru/article/562433-20-millionov-za-shou-nazvana-samaya-vysokooplachivaemaya-rossijskaya-zvezda/",
+          "source": "Леди Mail"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода пенза",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 24 Apr 2025 07:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREt0zTxXcWumJEsa1u4NRbmuBwXX7keSASyuxdA1Sro6lNODZBVeMGlDyJ9-I",
       "pictureSource": "GISMETEO.Новости",
@@ -171,7 +199,7 @@
     },
     {
       "title": "лиза алерт",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 24 Apr 2025 07:20:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -180,7 +208,7 @@
     },
     {
       "title": "ты 5 сезон",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 24 Apr 2025 07:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwMb2AQ_ciuBzco2VtcdzNvieO_D6cCzLVrh3MIUvwL5GWXb3LEvXAY1g06_Q",
       "pictureSource": "Igromania.ru",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.pravda.com.ua/rus/news/2025/04/24/7508958/",
           "source": "Українська правда"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "слово звонит ударение",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 24 Apr 2025 07:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpDie4i_oIL1UsSXJtBviNuetewYsNSfyy23KFZCNx2X0jrgcE926_OnvsXSE",
-      "pictureSource": "ФОНТАНКА.ру",
-      "relatedSearch": [
-        {
-          "title": "«Какая разница, звОнит или звонИт?» Из-за нового ударения в слове разразился спор о безграмотности",
-          "snippet": "",
-          "url": "https://www.fontanka.ru/2025/04/24/75381611/",
-          "source": "ФОНТАНКА.ру"
-        },
-        {
-          "title": "Филологи считают, что ударение в слове «звонит» рано или поздно изменится",
-          "snippet": "",
-          "url": "https://klops.ru/other/2025-04-24/355315-filologi-schitayut-chto-udarenie-v-slove-zvonit-rano-ili-pozdno-izmenitsya",
-          "source": "Клопс - новости Калининград"
-        },
-        {
-          "title": "Лингвист РАН признала, что в слове «звонит» со временем ударение сместится на первый слог",
-          "snippet": "",
-          "url": "https://moskvichmag.ru/gorod/lingvist-ran-priznala-chto-v-slove-zvonit-so-vremenem-udarenie-smestitsya-na-pervyj-slog/",
-          "source": "Москвич Mag"
         }
       ],
       "link": "https://imtaqin.id/"
