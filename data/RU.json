@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-04-26 03:50:07",
+  "lastUpdate": "2025-04-26 03:56:59",
   "data": [
+    {
+      "title": "погода",
+      "trafficCount": "100000+",
+      "pubDate": "Fri, 25 Apr 2025 20:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ2On-GpGrEV5xzxPrGIKmybbQqfSKp7nHS0caXR2xtzYKN0IfQP3IOu4AdT8",
+      "pictureSource": "GISMETEO.Новости",
+      "relatedSearch": [
+        {
+          "title": "Погода в Москве: «летняя жара» сменится снегом",
+          "snippet": "",
+          "url": "https://www.gismeteo.ru/news/weather/pogoda-v-moskve-letnyaya-zhara-smenitsya-snegom/",
+          "source": "GISMETEO.Новости"
+        },
+        {
+          "title": "Холодная погода будет в Москве в последние пять дней апреля",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1022875",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Зима возвращается: северный циклон поглотит Центральную Россию с 1 мая",
+          "snippet": "",
+          "url": "https://pg21.ru/news/107133",
+          "source": "Новости Чувашии | Новости Чебоксар и Новочебоксарска"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "новости сегодня",
       "trafficCount": "500+",
@@ -8,34 +36,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "голос финал",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 25 Apr 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCSp-EZeDpws01akCshL02hvQmIU41dk3NW4zoO6rjKFZAmEDxbEMycTXC0tY",
-      "pictureSource": "Radio1.ru",
-      "relatedSearch": [
-        {
-          "title": "Стал известен победитель 13 сезона шоу «Голос»",
-          "snippet": "",
-          "url": "https://radio1.ru/news/shou-biznes/stal-izvesten-pobeditel-13-sezona-shou-golos/",
-          "source": "Radio1.ru"
-        },
-        {
-          "title": "Уроженец Кузбасса поборется за звание лучшего в финале шоу «Голос»",
-          "snippet": "",
-          "url": "https://gazeta.a42.ru/lenta/news/208989-urozenec-kuzbassa-poboretsya-za-zvanie-lucsego-v-finale-sou-golos",
-          "source": "A42.RU"
-        },
-        {
-          "title": "Шоу «Голос» выиграл подопечный Хиблы Герзмавы: победу Давиду Саникидзе принесла песня «Верни мне музыку»",
-          "snippet": "",
-          "url": "https://www.thevoicemag.ru/stars/news/26-04-2025/shou-golos-vyigral-podopechnyi-hibly-gerzmavy-pobedu-davidu-sanikidze-prinesla-pesnya-verni-mne-muzyku/",
-          "source": "Voice.ru"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "title": "бакс – пэйсерс",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 25 Apr 2025 19:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7xE0aUcHa5GawmqznPwWaDEKbWNU6YbnaJGeLDRjyKNqS8G4-4EC0udCdc54",
       "pictureSource": "ВсеПроСпорт",
@@ -192,16 +192,44 @@
           "source": "БИЗНЕС Online — Новости Казани"
         },
         {
-          "title": "Гидрометцентр РТ предупреждает: в Татарстан придут заморозки",
-          "snippet": "",
-          "url": "https://mendeleevskyi.ru/news/pogoda/gidrometcentr-rt-preduprezdaet-v-tatarstan-pridut-zamorozki",
-          "source": "Менделеевские новости"
-        },
-        {
           "title": "Пятый за апрель температурный рекорд побит в Казани",
           "snippet": "",
           "url": "https://www.evening-kazan.ru/obshhestvo/news/pyatyy-za-aprel-temperaturnyy-rekord-pobit-v-kazani",
           "source": "Вечерняя Казань"
+        },
+        {
+          "title": "Завтра в Татарстане ожидается сильный ветер, туман, град и гроза",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/65878870/",
+          "source": "Mail.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "шоу голос финал",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 25 Apr 2025 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCSp-EZeDpws01akCshL02hvQmIU41dk3NW4zoO6rjKFZAmEDxbEMycTXC0tY",
+      "pictureSource": "Radio1.ru",
+      "relatedSearch": [
+        {
+          "title": "Стал известен победитель 13 сезона шоу «Голос»",
+          "snippet": "",
+          "url": "https://radio1.ru/news/shou-biznes/stal-izvesten-pobeditel-13-sezona-shou-golos/",
+          "source": "Radio1.ru"
+        },
+        {
+          "title": "Уроженец Кузбасса поборется за звание лучшего в финале шоу «Голос»",
+          "snippet": "",
+          "url": "https://gazeta.a42.ru/lenta/news/208989-urozenec-kuzbassa-poboretsya-za-zvanie-lucsego-v-finale-sou-golos",
+          "source": "A42.RU"
+        },
+        {
+          "title": "Шоу «Голос» выиграл подопечный Хиблы Герзмавы: победу Давиду Саникидзе принесла песня «Верни мне музыку»",
+          "snippet": "",
+          "url": "https://www.thevoicemag.ru/stars/news/26-04-2025/shou-golos-vyigral-podopechnyi-hibly-gerzmavy-pobedu-davidu-sanikidze-prinesla-pesnya-verni-mne-muzyku/",
+          "source": "Voice.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.livekuban.ru/news/obshchestvo/kakie-blyuda-na-radonicu-obyazatelno-dolzhny-byt-na-stole",
           "source": "Живая Кубань"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "монреаль вашингтон",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 25 Apr 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLh-PW6KUPfxTaNlWqRoPEMPnmDvpoVhYohl_wrjxvHKHTGbEoz95_iKc43NM",
-      "pictureSource": "Sportbox",
-      "relatedSearch": [
-        {
-          "title": "Овечкин вышел на чистое 13‑е место в истории НХЛ по голам в Кубке Стэнли",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/NHL/spbnews_NI2196236_Ovechkin_vyshel_na_chistoje_13je_mesto_v_istorii_NKhL_po_golam_v_Kubke_Stenli",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Овечкин вышел на 35 место по набранным очкам в истории Кубка Стэнли",
-          "snippet": "",
-          "url": "https://matchtv.ru/hockey/matchtvnews_NI2196237_Ovechkin_vyshel_na_35_mesto_po_nabrannym_ochkam_v_istorii_Kubka_Stenli",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Вашингтон – Монреаль прогноз на матч НХЛ 26 апреля 2025 года. Ставка с коэффициентом 2,55",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/hokkey/monreal-vashington-prognoz-na-match-nkhl-26-aprelya-2025-goda/",
-          "source": "Metaratings"
         }
       ],
       "link": "https://imtaqin.id/"
