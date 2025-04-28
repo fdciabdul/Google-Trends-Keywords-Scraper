@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-04-28 11:56:22",
+  "lastUpdate": "2025-04-28 12:08:39",
   "data": [
     {
-      "title": "el mundo",
+      "title": "cnn",
       "trafficCount": "200+",
-      "pubDate": "Mon, 28 Apr 2025 04:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQR3-2MK5B59GcyQZaQuv3Mz1alDyhnUytVcjQv0-4Co6KvTRT6mTzN691piU",
+      "pubDate": "Mon, 28 Apr 2025 05:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWVQRYtnuthH_ClYsANwH-vmbY7UONzGENuB7WN8lZxPf1v1E69hXEd1yeIvc",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Trump took the US economy to the brink of a crisis in just 100 days",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/04/28/politics/tariffs-economy-100-days-trump/index.html",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump urges Russia to stop attacks, says Zelenskiy might cede Crimea",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/rubio-says-russia-ukraine-peace-deal-needs-happen-soon-2025-04-27/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Crimea is a focus of discussions to end Russia’s war in Ukraine. Here’s why it’s so coveted",
+          "snippet": "",
+          "url": "https://apnews.com/article/ukraine-russia-zelenskyy-trump-cede-crimea-b1c70f838ed98300709c8808761d22aa",
+          "source": "AP News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "el pais",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 28 Apr 2025 05:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5O5QZNFfFW2YmcuRv8OIlgXnhxKCHpeTWzlaLeGrHwNExqOthWSTNec3U--o",
       "pictureSource": "EL PAÍS",
       "relatedSearch": [
         {
-          "title": "Apagón eléctrico masivo en España",
+          "title": "Los cuatro menores acusados de agresión sexual y física en Almendralejo estudiarán fuera del instituto",
           "snippet": "",
-          "url": "https://elpais.com/economia/2025-04-28/apagon-electrico-masivo-en-espana.html",
+          "url": "https://elpais.com/educacion/2025-04-28/los-cuatro-menores-acusados-de-agresion-sexual-y-fisica-en-almendralejo-estudiaran-fuera-del-instituto.html",
           "source": "EL PAÍS"
         },
         {
-          "title": "Un gran apagón general afecta a toda España: Red Eléctrica activa de emergencia el plan de reposición del suministro eléctrico",
+          "title": "Los menores de Almendralejo acusados de agresión a un compañero retomarán las clases en otras dependencias",
           "snippet": "",
-          "url": "https://www.elmundo.es/economia/2025/04/28/680f5d2221efa099318b4582.html",
-          "source": "El Mundo"
+          "url": "http://www.canalextremadura.es/noticias/provincia-de-badajoz/los-menores-de-almendralejo-acusados-de-agresion-un-companero",
+          "source": "Canal Extremadura"
         },
         {
-          "title": "Apagón generalizado en la península por causas que se desconocen",
+          "title": "Los menores acusados de agredir a otro en Almendralejo estudiarán fuera del instituto",
           "snippet": "",
-          "url": "https://www.rtve.es/noticias/20250428/apagon-generalizado-varias-provincias-espanolas/16557669.shtml",
-          "source": "RTVE.es"
+          "url": "https://www.cope.es/emisoras/extremadura/badajoz-provincia/almendralejo-tierra-de-barros/noticias/menores-acusados-agredir-almendralejo-estudiaran-fuera-instituto-20250428_3140560.html",
+          "source": "COPE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,20 +61,20 @@
       "title": "alexandra fröhlich",
       "trafficCount": "200+",
       "pubDate": "Mon, 28 Apr 2025 04:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8BYy_6M-UKqHaCSa7D3DycX36GrDJhl5MmPsLhCgBtAavAm9Ez205AdHf74",
-      "pictureSource": "TVN24",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQg3zKgnLNHsOjSxuuEPCHRP9VU62woJ5qRRzesFvSga1z2P9OQ6Ax6GE6Fv0I",
+      "pictureSource": "Interia",
       "relatedSearch": [
-        {
-          "title": "Znaleziono ciało autorki kryminałów. Śledztwo prowadzi wydział zabójstw",
-          "snippet": "",
-          "url": "https://tvn24.pl/swiat/alexandra-frohlich-nie-zyje-sledztwo-w-sprawie-smierci-pisarki-prowadzi-wydzial-zabojstw-st8434164",
-          "source": "TVN24"
-        },
         {
           "title": "\"W nocy rozległ się strzał\". Autorka kryminałów zabita na łodzi. Niemieccy śledczy rozkładają ręce",
           "snippet": "",
           "url": "https://wydarzenia.interia.pl/zagranica/news-tajemnicza-smierc-autorki-kryminalow-sledczy-w-kropce,nId,21398041",
           "source": "Interia"
+        },
+        {
+          "title": "Znaleziono ciało autorki kryminałów. Śledztwo prowadzi wydział zabójstw",
+          "snippet": "",
+          "url": "https://tvn24.pl/swiat/alexandra-frohlich-nie-zyje-sledztwo-w-sprawie-smierci-pisarki-prowadzi-wydzial-zabojstw-st8434164",
+          "source": "TVN24"
         },
         {
           "title": "Tajemnicza śmierć pisarki Alexandry Fröhlich. Co się wydarzyło na łodzi?",
@@ -59,28 +87,28 @@
     },
     {
       "title": "madrid open",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 28 Apr 2025 04:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEdQMA92Vv9dQ7ZiVNm9BRnKi7iwsTUtuYqKDvQxmvz6h_6VBisfbmMxh7hE0",
-      "pictureSource": "Diario AS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGzi5w_Ubs8UzGF9BfPKOgtzrIBIH6pVaWjvsEStxbVWs02S77Ct-xeNsKQg",
+      "pictureSource": "EL PAÍS",
       "relatedSearch": [
         {
-          "title": "El ‘Fokinazo’ se apaga y Madrid se queda sin españoles",
+          "title": "Última hora del apagón en España | El apagón afecta a trenes, aviones y al transporte público",
           "snippet": "",
-          "url": "https://as.com/tenis/el-fokinazo-se-apaga-y-madrid-se-queda-sin-espanoles-n/",
+          "url": "https://elpais.com/economia/2025-04-28/ultima-hora-del-apagon-en-espana.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Apagón global en España, en directo: caída de la red eléctrica, última hora y todas las noticias",
+          "snippet": "",
+          "url": "https://as.com/actualidad/sociedad/apagon-generalizado-en-toda-espana-miles-de-usuarios-reportan-un-fallo-del-suministro-electrico-n/",
           "source": "Diario AS"
         },
         {
-          "title": "Solo nos quedaba uno",
+          "title": "Un gran apagón general afecta a toda España: Red Eléctrica activa de emergencia el plan de reposición del suministro eléctrico",
           "snippet": "",
-          "url": "https://melillahoy.es/solo-nos-quedaba-uno/",
-          "source": "Melilla Hoy"
-        },
-        {
-          "title": "FINALIZADO: A. Zverev vs A. Davidovich por ATP Masters Madrid 2025 | TyC Sports",
-          "snippet": "",
-          "url": "https://www.tycsports.com/tenis/a-zverev-a-davidovich-por-atp-masters-madrid-2025-tyc-sports-id653712.html",
-          "source": "TyC Sports"
+          "url": "https://www.elmundo.es/economia/2025/04/28/680f5d2221efa099318b4582.html",
+          "source": "El Mundo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +171,7 @@
     },
     {
       "title": "hiszpania",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 28 Apr 2025 04:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUcE0iGlemDgvjLWflYSeAuzdJW1khQhuXrUvHXv-WZrs8gR88zD9R3eJeums",
       "pictureSource": "Przegląd Sportowy Onet",
@@ -155,16 +183,16 @@
           "source": "Przegląd Sportowy Onet"
         },
         {
-          "title": "Hiszpania i Portugalia bez prądu. Potężna awaria",
+          "title": "Hiszpania bez prądu. Wielka awaria też w innych krajach",
           "snippet": "",
-          "url": "https://wydarzenia.interia.pl/zagranica/news-hiszpania-i-portugalia-bez-pradu-potezna-awaria,nId,21398169",
-          "source": "Interia"
+          "url": "https://wiadomosci.wp.pl/hiszpania-bez-pradu-wielka-awaria-tez-w-innych-krajach-7150956629015296a",
+          "source": "WP Wiadomości"
         },
         {
-          "title": "Kuriozalny problem. Dlatego Iga wciąż nie wyszła na kort",
+          "title": "Brak prądu w Hiszpanii opóźnia występ Świątek. \"Kamery nad kortem zawisły\"",
           "snippet": "",
-          "url": "https://sportowefakty.wp.pl/tenis/1185647/kuriozalny-problem-na-korcie-tuz-przed-meczem-swiatek",
-          "source": "SportoweFakty"
+          "url": "https://www.flashscore.pl/wiadomosci/tenis-madryt-wta-singiel-brak-pradu-w-hiszpanii-opoznia-wystep-swiatek-kamery-nad-kortem-zawis-y/6k9RewnD/",
+          "source": "Wyniki na żywo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,14 +201,14 @@
       "title": "spain blackout",
       "trafficCount": "2000+",
       "pubDate": "Mon, 28 Apr 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQf7oi4X8nLgwYJMH9GRNJAhNVtANJKmpqH8CZ3lrmbSrKw7dj8PsuLCFXfB8",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Reports of widespread power cuts in Spain and Portugal",
+          "title": "Parts of Spain and Portugal hit by major power outages",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c9wpq8xrvd9t",
-          "source": "BBC"
+          "url": "https://www.cnn.com/2025/04/28/europe/spain-portugal-power-outages-intl/index.html",
+          "source": "CNN"
         },
         {
           "title": "Breaking news. Spain, Portugal and parts of France hit by massive power outage",
@@ -189,10 +217,10 @@
           "source": "Euronews.com"
         },
         {
-          "title": "Spain and Portugal Hit by Widespread Power Blackouts",
+          "title": "Play suspended due to power cut in Madrid",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-04-28/most-of-spain-hit-by-electricity-outage-for-unknown-reason",
-          "source": "Bloomberg"
+          "url": "https://www.atptour.com/en/news/madrid-2025-monday-power-cut",
+          "source": "ATP Tour"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://film.wp.pl/aktorka-od-30-lat-nie-rozmawia-z-rodzicami-dali-jej-numer-do-ksiedza-7150907867179776a",
           "source": "WP Film"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ruch chorzów – stal",
-      "trafficCount": "10000+",
-      "pubDate": "Mon, 28 Apr 2025 02:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTff6ugLhjgk12nq6Ipweo6BOFcfPkHUVNp4a2fkQKH7TG202Hwqwts31Kd6B4",
-      "pictureSource": "Przegląd Sportowy Onet",
-      "relatedSearch": [
-        {
-          "title": "Ruch obudził się za późno. Stal Rzeszów rozbita na Stadionie Śląskim",
-          "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/pilka-nozna/1-liga/ruch-chorzow-stal-rzeszow-30/9y3pvq2",
-          "source": "Przegląd Sportowy Onet"
-        },
-        {
-          "title": "Dawid Szulczek o szansach Ruchu Chorzów na baraże",
-          "snippet": "",
-          "url": "https://sportowefakty.wp.pl/pilka-nozna/1185224/dawid-szulczek-o-szansach-ruchu-chorzow-na-baraze",
-          "source": "SportoweFakty"
-        },
-        {
-          "title": "Ruch Chorzów z pierwszym zwycięstwem na Stadionie Śląskim w 2025 roku",
-          "snippet": "",
-          "url": "https://sport.tvp.pl/86397078/ruch-chorzow-z-pierwszym-zwyciestwem-na-stadionie-slaskim-w-2025-roku",
-          "source": "sport.tvp.pl"
         }
       ],
       "link": "https://imtaqin.id/"
