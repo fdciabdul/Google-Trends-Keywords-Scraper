@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-04-28 17:26:30",
+  "lastUpdate": "2025-04-28 17:35:19",
   "data": [
     {
       "title": "petolliset",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 28 Apr 2025 10:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOBUOpM9bNbv-bxKG095XGB8dWAWmDH4x17yq1rsv83oRwgGTAZc4SaJdHb0I",
       "pictureSource": "Iltalehti",
@@ -30,6 +30,28 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "teemu hartikainen",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 28 Apr 2025 09:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStmcFE4j7nZ0-UIIz46ROcNFKZR-1Ai3tlLyxGNKgKBGSHmaF1dguH3aY-JqU",
+      "pictureSource": "Ilta-Sanomat",
+      "relatedSearch": [
+        {
+          "title": "SaiPan konkarilta hämmentävä erätaukohaastattelu – Siim Liivik teki kaikkensa MTV:llä",
+          "snippet": "",
+          "url": "https://www.is.fi/sm-liiga/art-2000011198482.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Petteri Sihvonen pöyristeli Teemu Hartikaisen puheita SM-liigan finaalien erätauolla",
+          "snippet": "",
+          "url": "https://www.sportti.com/jaakiekko/petteri-sihvonen-poyristeli-teemu-hartikaisen-puheita-sm-liigan-finaalien-eratauolla/",
+          "source": "Sportti.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "kalpa saipa",
       "trafficCount": "2000+",
       "pubDate": "Mon, 28 Apr 2025 08:40:00 -0700",
@@ -49,7 +71,7 @@
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "MTV seuraa: SM-liigan 3. finaali – Raimo Helmisen SaiPa kovassa paikassa, toteutuuko raju heilahdus?",
+          "title": "MTV seuraa: Älytön näytös käynnissä SM-liigan finaalissa – Raimo Helmisen SaiPaa viedään rumalla tavalla",
           "snippet": "",
           "url": "https://www.mtvuutiset.fi/artikkeli/mtv-seuraa-sm-liigan-3-finaali-raimo-helmisen-saipa-kovassa-paikassa-toteutuuko-raju-heilahdus/9145574",
           "source": "mtvuutiset.fi"
@@ -99,16 +121,16 @@
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Espanjan mukaan sähkökaaoksen syy on yhä epäselvä",
-          "snippet": "",
-          "url": "https://www.kauppalehti.fi/uutiset/espanjan-mukaan-sahkokaaoksen-syy-on-yha-epaselva/fcf14df5-29a1-447b-8a18-aa067712c9d2",
-          "source": "Kauppalehti"
-        },
-        {
           "title": "Portugali: Sähkökatkon syy selvisi – korjaus on käynnissä",
           "snippet": "",
           "url": "https://yle.fi/a/74-20158578",
           "source": "Yle"
+        },
+        {
+          "title": "Eurooppa | Suomalaiset kertovat poikkeuksellisesta sähkökatkoksesta",
+          "snippet": "",
+          "url": "https://www.hs.fi/maailma/art-2000011198213.html",
+          "source": "HS.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +139,15 @@
       "title": "el pais",
       "trafficCount": "100+",
       "pubDate": "Mon, 28 Apr 2025 05:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgc2tZeoE9T1aiRxjnSBQ_LcwpuA_msL_XX1MrjxCIP25dF6ku7dulvt0Gaw",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoUTzWXiol43_uhTUqXgedHQUG70SuEcdn5khTWzk2SaBdPySZ8q86ZEnmFt8",
+      "pictureSource": "EL PAÍS",
       "relatedSearch": [
+        {
+          "title": "Cuando la falta de luz es también falta de oxígeno: a pie, en taxi, coche particular o de la Policía para conectarse a una bombona",
+          "snippet": "",
+          "url": "https://elpais.com/espana/madrid/2025-04-28/cuando-la-falta-de-luz-es-tambien-falta-de-oxigeno-a-pie-en-taxi-coche-particular-o-de-la-policia-para-conectarse-a-una-bombona.html",
+          "source": "EL PAÍS"
+        },
         {
           "title": "Elecciones en Canadá marcadas por Trump y atropello masivo",
           "snippet": "",
@@ -131,12 +159,6 @@
           "snippet": "",
           "url": "https://www.france24.com/es/video/20250428-informe-desde-ottawa-canad%C3%A1-va-a-las-urnas-en-medio-de-tensiones-comerciales",
           "source": "France 24"
-        },
-        {
-          "title": "Y Justin Trudeau cayó en el olvido",
-          "snippet": "",
-          "url": "https://elpais.com/internacional/2025-04-28/y-justin-trudeau-cayo-en-el-olvido.html",
-          "source": "EL PAÍS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,13 +177,13 @@
           "source": "CNN"
         },
         {
-          "title": "Spain and Portugal hit by massive power outage",
+          "title": "Widespread power outage in Spain, Portugal knocks out subway networks, traffic lights, ATMs",
           "snippet": "",
-          "url": "https://www.cbsnews.com/newyork/video/spain-and-portugal-hit-by-massive-power-outage/",
-          "source": "CBS News"
+          "url": "https://www.pbs.org/newshour/world/widespread-power-outage-in-spain-portugal-knocks-out-subway-networks-traffic-lights-atms",
+          "source": "PBS"
         },
         {
-          "title": "Cause of power cut still unknown, Spanish PM says, as Portugal struggles with traffic chaos",
+          "title": "Cause of power cut still unknown, Spanish PM says, as Portugal struggles with transport chaos",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/c9wpq8xrvd9t",
           "source": "BBC"
@@ -183,16 +205,16 @@
           "source": "CNN"
         },
         {
-          "title": "Trump to Sign Immigration Executive Orders as He Nears First 100 Days in Office: Live Updates",
+          "title": "Trump executive order will direct feds to list so-called sanctuary cities",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/04/28/us/trump-news",
-          "source": "The New York Times"
+          "url": "https://www.fox10phoenix.com/news/trump-executive-order-sanctuary-cities",
+          "source": "FOX 10 Phoenix"
         },
         {
-          "title": "Trump to sign order requiring list of sanctuary cities, states, official says",
+          "title": "Live updates: Trump administration focusing on immigration record ahead of 100-day mark",
           "snippet": "",
-          "url": "https://www.reuters.com/world/us/trump-sign-order-requiring-list-sanctuary-cities-states-wsj-reports-2025-04-28/",
-          "source": "Reuters"
+          "url": "https://www.washingtonpost.com/politics/2025/04/28/trump-presidency-news-100-days/",
+          "source": "The Washington Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +233,16 @@
           "source": "Sky News"
         },
         {
-          "title": "BBC managers should face consequences for bad behaviour, just like the stars",
+          "title": "BBC Bullying Review Finds “No Evidence Of Toxic Culture” But Says Behavior Of Small Number Of Individuals “Disproportionately” Affects Reputation & Morale",
           "snippet": "",
-          "url": "https://inews.co.uk/news/media/bbc-managers-face-consequences-for-bad-behaviour-like-stars-3663981",
-          "source": "The i Paper"
+          "url": "https://www.imdb.com/news/ni65255070/?ref_=nm_nwr_1",
+          "source": "IMDb"
         },
         {
-          "title": "BBC still has a problem with ‘untouchable’ stars, report says",
+          "title": "Workplace Culture Review - Director General's remarks",
           "snippet": "",
-          "url": "https://www.telegraph.co.uk/news/2025/04/28/bbc-problem-untouchable-stars-report-says-huw-edwards/",
-          "source": "The Telegraph"
+          "url": "https://www.bbc.co.uk/mediacentre/speeches/2025/bbc-culture-review-director-general/",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +261,16 @@
           "source": "Vaasan Sport"
         },
         {
+          "title": "Vaasan Sport hehkutti ”yhdeksi seurahistorian merkittävimmistä pelaajasopimuksista” – paljastui Miika Koivistoksi",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20158459",
+          "source": "Yle"
+        },
+        {
           "title": "SM-liigajoukkue värväsi maailmanmestarin",
           "snippet": "",
           "url": "https://www.is.fi/urheilu/art-2000011197092.html",
           "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Tappara nappasi Tuulolan – Maailmanmestari Sportiin",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/smliiga/a/392fa452-3a8e-47e4-958b-d34d97a37ca2",
-          "source": "Iltalehti"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tänään liputetaan",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 27 Apr 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD89l3k6QCU7fJt2cLAWB-EIG-PYz-Uw93k2hVE_5LXxuvzbXD6Jz7-3v1jZg",
-      "pictureSource": "Yle",
-      "relatedSearch": [
-        {
-          "title": "Waltteri Torikka kajautti Veteraanin iltahuudon – katso veteraanipäivän koskettavimmat hetket",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20158320",
-          "source": "Yle"
-        },
-        {
-          "title": "Sekava ja raaka sota pohjoisessa jätti lappilaisiin ikuiset arvet – \"Vaarini Tornion taikaluoti oli lapsuuteni suosikkitarina\"",
-          "snippet": "",
-          "url": "https://www.ksml.fi/uutissuomalainen/8469427",
-          "source": "Keskisuomalainen"
-        },
-        {
-          "title": "Tästä syystä tänään liputetaan",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/kotimaa/a/3bbe1c6a-3bb7-4844-84a0-42d9b54eed05",
-          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
