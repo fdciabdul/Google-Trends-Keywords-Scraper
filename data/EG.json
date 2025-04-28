@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-04-28 08:26:02",
+  "lastUpdate": "2025-04-28 08:48:24",
   "data": [
+    {
+      "title": "test",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 28 Apr 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGyo_tvaRqN1TX5EzqtpXYQyx4li--NPkYCGkef8mUuvEoc8J4HlEiZ-ddYDg",
+      "pictureSource": "WSJ",
+      "relatedSearch": [
+        {
+          "title": "Exclusive | China’s Huawei Develops New AI Chip, Seeking to Match Nvidia",
+          "snippet": "",
+          "url": "https://www.wsj.com/tech/chinas-huawei-develops-new-ai-chip-seeking-to-match-nvidia-8166f606",
+          "source": "WSJ"
+        },
+        {
+          "title": "Huawei Strikes Back as Nvidia Flees China with $500 Billion Plan",
+          "snippet": "",
+          "url": "https://www.tipranks.com/news/huawei-strikes-back-as-nvidia-flees-china-with-500-billion-plan",
+          "source": "TipRanks"
+        },
+        {
+          "title": "Nvidia stock slides 6% as U.S. curbs backfire, boosting China’s chip ambitions",
+          "snippet": "",
+          "url": "https://qz.com/nvidia-nvda-stock-nasdaq-sp500-huawei-china-chips-1851777025",
+          "source": "Quartz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "yahoo",
       "trafficCount": "200+",
@@ -15,79 +43,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stock Market Today: Dow Futures Edge Down; Investors Hope for More Tariff Deal Progress — Live Updates",
-          "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-04-28-2025",
-          "source": "WSJ"
-        },
-        {
           "title": "Stock futures tick lower as investors brace for a busy earnings week: Live updates",
           "snippet": "",
           "url": "https://www.cnbc.com/2025/04/27/stock-futures-slip-ahead-of-busy-earnings-week-live-updates.html",
           "source": "CNBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ai",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 28 Apr 2025 00:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGyo_tvaRqN1TX5EzqtpXYQyx4li--NPkYCGkef8mUuvEoc8J4HlEiZ-ddYDg",
-      "pictureSource": "WSJ",
-      "relatedSearch": [
+        },
         {
-          "title": "Exclusive | China’s Huawei Develops New AI Chip, Seeking to Match Nvidia",
+          "title": "Stock Market Today: Dow Futures Edge Down; Investors Hope for More Tariff Deal Progress — Live Updates",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/chinas-huawei-develops-new-ai-chip-seeking-to-match-nvidia-8166f606",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-04-28-2025",
           "source": "WSJ"
-        },
-        {
-          "title": "Exclusive: Huawei readies new AI chip for mass shipment as China seeks Nvidia alternatives, sources say",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/china/huawei-readies-new-ai-chip-mass-shipment-china-seeks-nvidia-alternatives-sources-2025-04-21/",
-          "source": "Reuters"
-        },
-        {
-          "title": "ByteDance, Alibaba and Tencent stockpile billions worth of Nvidia chips",
-          "snippet": "",
-          "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/ByteDance-Alibaba-and-Tencent-stockpile-billions-worth-of-Nvidia-chips",
-          "source": "Nikkei Asia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "حمو بيكا",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 28 Apr 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJyKpHZA6AY-OHUZVvkwdP2pK6OJQFlHc6MZHKpIlwLzc-u3KP8XThdOqC2mQ",
-      "pictureSource": "العربية",
-      "relatedSearch": [
-        {
-          "title": "فيديو ورطه.. إيقاف حمو بيكا عن الغناء واستدعاؤه للتحقيق",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/culture-and-art/2025/04/26/-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%88%D8%B1%D8%B7%D9%87-%D8%A7%D9%8A%D9%82%D8%A7%D9%81-%D8%AD%D9%85%D9%88-%D8%A8%D9%8A%D9%83%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%BA%D9%86%D8%A7%D8%A1-%D9%88%D8%A7%D8%B3%D8%AA%D8%AF%D8%B9%D8%A7%D8%A6%D9%87-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82",
-          "source": "العربية"
-        },
-        {
-          "title": "هل أحالت الموسيقيين رضا البحراوي للتحقيق بعد إيقافها لـ حمو بيكا؟",
-          "snippet": "",
-          "url": "https://www.masrawy.com/arts/agnaby/details/2025/4/27/2778049/%D9%87%D9%84-%D8%A3%D8%AD%D8%A7%D9%84%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A%D9%8A%D9%86-%D8%B1%D8%B6%D8%A7-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D8%A7%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A8%D8%B9%D8%AF-%D8%A5%D9%8A%D9%82%D8%A7%D9%81%D9%87%D8%A7-%D9%84%D9%80-%D8%AD%D9%85%D9%88-%D8%A8%D9%8A%D9%83%D8%A7-",
-          "source": "Masrawy"
-        },
-        {
-          "title": "بعد إحالته للتحقيق.. حمو بيكا: «الدنيا اتقلبت عليا لما غنيت الأغنية»",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/3436337",
-          "source": "المصري اليوم"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "أحمد الطنطاوي",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 28 Apr 2025 00:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8oe3147ZH1tnQehrw9c_hnyghIN7uWxkOrwKiijihOqFHfPhZ0u3GQhF16NY",
       "pictureSource": "بوابة الشروق",
@@ -117,26 +89,26 @@
       "title": "شات جي بي تي",
       "trafficCount": "2000+",
       "pubDate": "Sun, 27 Apr 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHRM1gCtd-XN8RT_FQZ24UtkYbVLiXhfsraGVoJ-SV7zcMQ4iNnUqAkciV2s",
-      "pictureSource": "بوابة الشروق",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR6afu95fVxmWXzIYUbr3SgvZ5zdMPHh8wTfloIAHuJj1zV5ESqDDqwB5_ek0",
+      "pictureSource": "اليوم السابع",
       "relatedSearch": [
         {
-          "title": "أوبن أيه.آي تطلق نسخة خفيفة من أداة البحث العميق في منصة شات جي.بي.تي",
+          "title": "سام ألتمان: شات جى بى تى أصبح مزعجًا ونعمل حاليًا على إصلاحه",
           "snippet": "",
-          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=27042025&id=124086c6-ea9a-41e2-aeb2-1a3247675f75",
-          "source": "بوابة الشروق"
-        },
-        {
-          "title": "تطبيق ChatGPT يمنح مستخدميه الوصول إلى تحليلات بحثية عميقة محدودة كل شهر",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/4/26/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-ChatGPT-%D9%8A%D9%85%D9%86%D8%AD-%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%87-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA-%D8%A8%D8%AD%D8%AB%D9%8A%D8%A9-%D8%B9%D9%85%D9%8A%D9%82%D8%A9-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%A9/6965812",
+          "url": "https://www.youm7.com/story/2025/4/28/%D8%B3%D8%A7%D9%85-%D8%A3%D9%84%D8%AA%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D8%AA-%D8%AC%D9%89-%D8%A8%D9%89-%D8%AA%D9%89-%D8%A3%D8%B5%D8%A8%D8%AD-%D9%85%D8%B2%D8%B9%D8%AC%D9%8B%D8%A7-%D9%88%D9%86%D8%B9%D9%85%D9%84-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7/6968482",
           "source": "اليوم السابع"
         },
         {
-          "title": "ما سر النسخة المخففة التي أطلقتها OpenAI؟",
+          "title": "\"OpenAI\" تحدث نموذج \"GPT-4o\" بترقيات للذكاء والشخصية",
           "snippet": "",
-          "url": "https://www.albayan.ae/technology/science-technology/artificial-intelligence/41646",
-          "source": "البيان"
+          "url": "https://www.alarabiya.net/technology/ai/2025/04/26/-openai-%D8%AA%D8%AD%D8%AF%D8%AB-gpt-4o-%D8%A8%D8%AA%D8%B1%D9%82%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9",
+          "source": "العربية"
+        },
+        {
+          "title": "تحديث 'تشات جي بي تي 4o': ذكاء وشخصية أكثر تطوّراً في انطلاقة جديدة",
+          "snippet": "",
+          "url": "https://www.annahar.com/technology/211482/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%AA%D8%B4%D8%A7%D8%AA-%D8%AC%D9%8A-%D8%A8%D9%8A-%D8%AA%D9%8A-%D9%81%D9%88%D8%B1-%D8%A3%D9%88-%D8%B0%D9%83%D8%A7-%D9%88%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7-%D9%81%D9%8A-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+          "source": "annahar.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +133,10 @@
           "source": "المصري اليوم"
         },
         {
-          "title": "هتودع تليفونك خلاص.. واتساب يتوقف عن العمل على هذه الهواتف نهائيا خلال ساعات",
+          "title": "واتساب يتوقف عن العمل على 3 أجهزة شهيرة خلال أيام| ماهي؟",
           "snippet": "",
-          "url": "https://zahraa.mr/4833168/%D9%87%D8%AA%D9%88%D8%AF%D8%B9-%D8%AA%D9%84%D9%8A%D9%81%D9%88%D9%86%D9%83-%D8%AE%D9%84%D8%A7%D8%B5-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9/",
-          "source": "بوابة الزهراء"
+          "url": "https://akhbarelyom.com/news/newdetails/4603950/1/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-3-%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%B4%D9%87%D9%8A%D8%B1%D8%A9-",
+          "source": "بوابة أخبار اليوم الإلكترونية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -265,6 +237,34 @@
           "snippet": "",
           "url": "https://www.arabictrader.com/ar/news/stock-market/181034/%D9%87%D9%88%D8%A7%D9%88%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%B1%D9%82%D8%A7%D9%82%D8%A9-%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-nvidia",
           "source": "المتداول العربي"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "مصراوى",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 27 Apr 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_vVamTScMu4sfcny_8UUQaLKHrhTmkT95Ont8P3nTlF3wMToFJ9EcVWyoWxI",
+      "pictureSource": "المصري اليوم",
+      "relatedSearch": [
+        {
+          "title": "أسباب وفاة «أمح الدولي» أشهر مشجع أهلاوي عن عمر 30 سنة",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/3436733",
+          "source": "المصري اليوم"
+        },
+        {
+          "title": "إن لله وإن إليه راجعون .. وفاه أمح الدولى",
+          "snippet": "",
+          "url": "https://www.zamalektoday.com/index.php?go=news&more=165427",
+          "source": "الزمالك اليوم"
+        },
+        {
+          "title": "المرض الذي تسبب في تدهور حالة أمح الدولي ووفاته",
+          "snippet": "",
+          "url": "https://www.masrawy.com/sports/sports_news/details/2025/4/28/2778386/%D8%A7%D9%84%D9%85%D8%B1%D8%B6-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D8%B3%D8%A8%D8%A8-%D9%81%D9%8A-%D8%AA%D8%AF%D9%87%D9%88%D8%B1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A3%D9%85%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%88%D9%88%D9%81%D8%A7%D8%AA%D9%87",
+          "source": "Masrawy"
         }
       ],
       "link": "https://imtaqin.id/"
