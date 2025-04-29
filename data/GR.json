@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2025-04-29 02:18:16",
+  "lastUpdate": "2025-04-29 02:50:43",
   "data": [
     {
-      "title": "σεισμόσ τώρα",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 28 Apr 2025 16:40:00 -0700",
+      "title": "σεισμοσ",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 28 Apr 2025 16:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPHCsISKfc919MSDSaX8m5-pAO79wb6aT9gQ9YsNTryqFQiNmNLRUZ7elP2pk",
       "pictureSource": "Newsbomb",
       "relatedSearch": [
@@ -30,34 +30,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "σεισμοσ",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 28 Apr 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw5ga8hMQkKlS2sL9sbXdadhKF0MjyIL7kQb65-IrSDHhDf3PywYdYBV8fjyQ",
-      "pictureSource": "Enikos",
-      "relatedSearch": [
-        {
-          "title": "Σεισμός 3,1 Ρίχτερ στην Εύβοια",
-          "snippet": "",
-          "url": "https://www.enikos.gr/society/seismos-31-richter-stin-evvoia-3/2358046/",
-          "source": "Enikos"
-        },
-        {
-          "title": "Σεισμός 3,1 στην Εύβοια",
-          "snippet": "",
-          "url": "https://www.skai.gr/news/greece/seismos-31-stin-eyvoia",
-          "source": "Skai.gr"
-        },
-        {
-          "title": "Βόρεια Εύβοια: Διπλός σεισμός στα Βασιλικά τα ξημερώματα της Τρίτης (29/4)",
-          "snippet": "",
-          "url": "https://www.eviazoom.gr/2025/04/voreia-evia-diplos-seismos-sta-vasilika-ta-ximeromata.html",
-          "source": "EviaZoom"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "σεισμοσ τωρα",
       "trafficCount": "1000+",
       "pubDate": "Mon, 28 Apr 2025 16:20:00 -0700",
@@ -71,16 +43,44 @@
           "source": "iefimerida.gr"
         },
         {
-          "title": "Διχασμένοι οι Τούρκοι επιστήμονες για τα 6,2 Ρίχτερ: «Αυτός δεν ήταν ο μεγάλος σεισμός που περιμένουμε»",
+          "title": "Νέος ισχυρός σεισμός τώρα στην Τουρκία",
           "snippet": "",
-          "url": "https://www.protothema.gr/world/article/1630616/dihasmenoi-oi-tourkoi-epistimones-gia-ta-62-rihter-autos-den-itan-o-megalos-seismos-pou-perimenoume/",
-          "source": "ProtoThema"
+          "url": "https://eleftherostypos.gr/diethni/neos-ischyros-seismos-tora-stin-tourkia",
+          "source": "Ελεύθερος Τύπος"
         },
         {
           "title": "Κωνσταντινούπολη: Παραμένει η ανησυχία στους κατοίκους – O φόβος για έναν μεγαλύτερο σεισμό",
           "snippet": "",
           "url": "https://www.in.gr/2025/04/26/world/konstantinoupoli-paramenei-anisyxia-stous-katoikous-o-fovos-gia-enan-megalytero-seismo/",
           "source": "In.gr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "σεισμόσ",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 28 Apr 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_GlFPms1pBb_P9kkEfiK5jrvMk5ZxUVglB41Ken0tyKN0HECX3I8WQOxTo24",
+      "pictureSource": "ProtoThema",
+      "relatedSearch": [
+        {
+          "title": "Σεισμός 3,1 Ρίχτερ στην Εύβοια, αισθητός και στην Αττική",
+          "snippet": "",
+          "url": "https://www.protothema.gr/greece/article/1631704/seismos-3-rihter-stin-euvoia-aisthitos-kai-stin-attiki/",
+          "source": "ProtoThema"
+        },
+        {
+          "title": "Σεισμός 3,1 Ρίχτερ στην Εύβοια",
+          "snippet": "",
+          "url": "https://www.enikos.gr/society/seismos-31-richter-stin-evvoia-3/2358046/",
+          "source": "Enikos"
+        },
+        {
+          "title": "Σεισμός 3,1 στην Εύβοια",
+          "snippet": "",
+          "url": "https://www.skai.gr/news/greece/seismos-31-stin-eyvoia",
+          "source": "Skai.gr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,20 +229,20 @@
       "title": "καραμπελιασ",
       "trafficCount": "1000+",
       "pubDate": "Mon, 28 Apr 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASPABV3I07CmRgQDj4CjpOLPLg67BlKOAoXhyNF0TufTTBO_FsxOeY1QaQ-g",
-      "pictureSource": "iefimerida.gr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_7Y9srvhsjospQ4gF6tRcWwXh5UeWxNMsh4vOYd2zSVQu_qlK5NpsdFlylZ4",
+      "pictureSource": "ProtoThema",
       "relatedSearch": [
+        {
+          "title": "«Έξω οι τραμπούκοι»: Επεισόδια στον Ιανό σε συζήτηση για τα Τέμπη - Εισέβαλε ομάδα νεαρών, πέταξαν τρικάκια (βίντεο)",
+          "snippet": "",
+          "url": "https://www.protothema.gr/greece/article/1631692/epeisodia-apo-aristeres-organoseis-exo-oi-traboukoi-fonaxan-oi-paristamenoi-deite-video/",
+          "source": "ProtoThema"
+        },
         {
           "title": "Επεισόδια στον Ιανό σε εκδήλωση για την «τυμβωρυχία των Τεμπών» -«Έξω οι τραμπούκοι, έξω οι αλήτες» [βίντεο]",
           "snippet": "",
           "url": "https://www.iefimerida.gr/ellada/epeisodia-ston-iano-gia-tymboryhia-tempon",
           "source": "iefimerida.gr"
-        },
-        {
-          "title": "Μπήκαν τα... ΜΑΤ σε εκδήλωση με τον Γιώργο Καραμπελιά",
-          "snippet": "",
-          "url": "https://www.efsyn.gr/ellada/koinonia/470656_mpikan-ta-mat-se-ekdilosi-me-ton-giorgo-karampelia",
-          "source": "Η Εφημερίδα των Συντακτών"
         },
         {
           "title": "Αθήνα: Ένταση σε εκδήλωση για την «πολιτική τυμβωρυχία των Τεμπών» - «Έξω οι αλήτες» (video)",
