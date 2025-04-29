@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-04-29 06:39:35",
+  "lastUpdate": "2025-04-29 06:50:14",
   "data": [
     {
       "title": "dr nyheder",
@@ -45,7 +45,7 @@
         {
           "title": "Trump har tabt første del af kampen om Grønland. Nu spiller Danmark et »meget stærkt« kort",
           "snippet": "",
-          "url": "https://www.berlingske.dk/indland/trump-har-tabt-foerste-del-af-kampen-om-groenland-nu-spiller-danmark-et?gaa_at=eafs&gaa_n=AerBZYNNX61cdVpZPTvsEhrZjHrbBx3nDQM1X0AxfWivpQbwhyBBK2ABHu__&gaa_ts=681076b3&gaa_sig=yQk7QSm7XIfM6tCfhRViAnrtGNKrnrnuLNGrkVcyCaWwNiucbuPdBTVsJVbKDI--8HJL-8MJWCsKbePPVQSApA%3D%3D",
+          "url": "https://www.berlingske.dk/indland/trump-har-tabt-foerste-del-af-kampen-om-groenland-nu-spiller-danmark-et?gaa_at=eafs&gaa_n=AerBZYMFYO_rxTo2qBlSsE2Q5nYLg5csM8yMfJVky-pDTyP0exVMIlWrcn8H&gaa_ts=68107a2a&gaa_sig=SAwXTxqVh7CrccQhkn2ETrY5YuDyx8dRF2MFKasq7Es1g4JA4wKJULI5CO-9LIG6zaQUhLzE18pHmWJBwKwWXg%3D%3D",
           "source": "Berlingske"
         },
         {
@@ -61,15 +61,9 @@
       "title": "canada election",
       "trafficCount": "1000+",
       "pubDate": "Mon, 28 Apr 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCa8_bvdKpDAuVWoRYNf96tMDwPZ0P1KSxrYpxv5dy1TCILbwmgF71Ct735ck",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQmclIGMvdUoByduuC9GK6xhEYcenZHglx_AF_yAPNfDN4jH1Y9u5MzCHFETc",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "Live updates: Mark Carney’s Liberals win Canadian election",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/cr5d13e4r2rt",
-          "source": "BBC"
-        },
         {
           "title": "Canada’s Liberals win election overshadowed by Trump’s threats",
           "snippet": "",
@@ -77,9 +71,15 @@
           "source": "CNN"
         },
         {
-          "title": "Canada election 2025 live: Pierre Poilievre congratulates Mark Carney after Liberal party wins",
+          "title": "Canada election 2025 live: Mark Carney vows ‘Trump will never break us’ after historic election win",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/apr/28/canada-election-polls-mark-carney-liberals-pierre-poilievre-conservatives-donald-trump-live-updates",
+          "url": "https://www.independent.co.uk/news/world/americas/canada-election-2025-live-results-mark-carney-liberals-updates-b2741242.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Canada’s liberal party, led by Mark Carney, secures election victory after dramatic reversal of fortune",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/apr/29/canada-election-result-liberal-win-mark-carney-anti-trump",
           "source": "The Guardian"
         }
       ],
@@ -89,26 +89,26 @@
       "title": "sverige",
       "trafficCount": "100+",
       "pubDate": "Mon, 28 Apr 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NeqNpvmzf0sqhtRRNRZJ-0Ap_bSAkaweW1KDuh9T0PAml7LSXtrPq4SOYCI",
-      "pictureSource": "ATL",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7EFI3mQGLgqg7WSngMQKsMYBiRfia8zWtAW_h4tk6yqfbdBSDMeSK6NSSLYI",
+      "pictureSource": "Mynewsdesk",
       "relatedSearch": [
         {
-          "title": "Alla svenska minkuppfödare lägger ned",
+          "title": "Smartare Mat i Sverige AB (publ) tar en efterfrågad central roll i det nya mat-Sverige genom att förvärva fabrik i Mantorp.",
           "snippet": "",
-          "url": "https://www.atl.nu/preview-article/alla-svenska-minkuppfodare-lagger-ned",
-          "source": "ATL"
+          "url": "https://www.mynewsdesk.com/se/smartaremat/pressreleases/smartare-mat-i-sverige-ab-publ-tar-en-efterfraagad-central-roll-i-det-nya-mat-sverige-genom-att-foervaerva-fabrik-i-mantorp-3383106?utm_source=rss&utm_medium=rss&utm_campaign=Alert&utm_content=pressrelease",
+          "source": "Mynewsdesk"
         },
         {
-          "title": "All minkuppfödning läggs ned i Sverige",
+          "title": "Sverige ska behålla nuvarande elområden – förslag från Svenska kraftnät",
           "snippet": "",
-          "url": "https://www.blt.se/all-minkuppfodning-laggs-ned-i-sverige/",
-          "source": "Blekinge Läns Tidning"
+          "url": "https://www.svt.se/nyheter/inrikes/sverige-ska-behalla-nuvarande-elomraden-forslag-fran-svenska-kraftnat",
+          "source": "SVT Nyheter"
         },
         {
-          "title": "All minkuppfödning läggs ned i Sverige",
+          "title": "E.ON om elområdesöversynen: Två elområden i Sverige – för kundernas och elmarknadens bästa",
           "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/a/o3a2qa/all-minkuppfodning-laggs-ned-i-sverige",
-          "source": "Aftonbladet"
+          "url": "https://via.tt.se/pressmeddelande/3890142/eon-om-elomradesoversynen-tva-elomraden-i-sverige-for-kundernas-och-elmarknadens-basta?publisherId=1035173&lang=sv",
+          "source": "Via TT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,7 +123,7 @@
         {
           "title": "Advarer efter voldsomt strømnedbrud: Vi er ikke optimalt forberedt",
           "snippet": "",
-          "url": "https://www.bt.dk/samfund/advarer-efter-voldsomt-stroemnedbrud-vi-er-ikke-optimalt-forberedt?gaa_at=eafs&gaa_n=AerBZYMgOKJ-E42dbT-9FedqG1PQ-SmLyOe6EF_m7febBiYfjIx8O-TR2Mxo&gaa_ts=681076b3&gaa_sig=9rRXaQPehnbmOnK4tjjZt_PjxAHJVE7ct5nZC5P2usP1NWU8ni1W2k50fR2-TApsmiah-ugJNdH7KDWwx1JTlw%3D%3D",
+          "url": "https://www.bt.dk/samfund/advarer-efter-voldsomt-stroemnedbrud-vi-er-ikke-optimalt-forberedt?gaa_at=eafs&gaa_n=AerBZYOzEdncmBa6PQ8qKep7m6F5_to_4z7gu1rGSChA3dXwOgmSj5GVdhd6&gaa_ts=68107a2a&gaa_sig=jv076-KaHQ5w4kuhaJ2Oavw4uvlb46IZYBFK0pUgWI3iabIbfj0ykbQEo7eJX0RSdFMQsL2r136qMcIjE6V0eA%3D%3D",
           "source": "BT"
         },
         {
@@ -157,7 +157,7 @@
         {
           "title": "Krig og uro driver verdens samlede militærudgifter op",
           "snippet": "",
-          "url": "https://www.berlingske.dk/internationalt/krig-og-uro-driver-verdens-samlede-militaerudgifter-op?gaa_at=eafs&gaa_n=AerBZYMOiGEfq4SjizDCVOA1FhHTMwsX2spWrCwZKXz5VZL6dA5GRAPwg2HC&gaa_ts=681077ab&gaa_sig=0Xdkf2c_EB4sMGr_oK8DQBsV1FheEktfJcl_-fDWpEYLvpu8g8nIXkY21Y1n3Bom6_kbAJj-cY5S7GADe2FHrQ%3D%3D",
+          "url": "https://www.berlingske.dk/internationalt/krig-og-uro-driver-verdens-samlede-militaerudgifter-op?gaa_at=eafs&gaa_n=AerBZYNNz-WH094DSbMVciuC3InUudw7K-A02zvLGORVcRfqAGejdDH7OWxz&gaa_ts=68107a2a&gaa_sig=IUlkcKM-YJ8VVjJ629RxXIWG-UaARI3VHpDaPoqGbgtOw1hmWbrKPQOp6qA31RQ-OQPzPDHrUxY6BCtVONhQHw%3D%3D",
           "source": "Berlingske"
         },
         {
@@ -241,7 +241,7 @@
         {
           "title": "To danske slaveskibe identificeres ud fra piber og teglsten",
           "snippet": "",
-          "url": "https://www.bt.dk/samfund/to-danske-slaveskibe-identificeres-ud-fra-piber-og-teglsten?gaa_at=eafs&gaa_n=AerBZYMBV07pFoxGaUi47GetZZpQ8zt06Dg-Q3mNYfK3KMOqUv_K4eDe-Kj3&gaa_ts=681077ab&gaa_sig=hzP8-P3aXRNl9ErWXadXD6puuSXT-6SpLb3BDlcmlup2Z7CqUbsC7UkuokDxfTEq6QowLHaMe8WP8sINmyJfFA%3D%3D",
+          "url": "https://www.bt.dk/samfund/to-danske-slaveskibe-identificeres-ud-fra-piber-og-teglsten?gaa_at=eafs&gaa_n=AerBZYMPUKZ8_OfFYrwrQ3z3InWFNJlxPAtRdWrjP-oCgzFOzeRnlXFjBOIu&gaa_ts=68107a2a&gaa_sig=LYWCUow2hhb8N9XuJd0RaSZaW6gyNBCDEp6ajndsIaI5XGkSfFOdKPIVCQeDL9zRj_DzP8ZLGYXxUsYat8Bhzw%3D%3D",
           "source": "BT"
         },
         {
