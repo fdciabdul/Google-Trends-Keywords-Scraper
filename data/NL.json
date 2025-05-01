@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-01 07:58:44",
+  "lastUpdate": "2025-05-01 08:10:43",
   "data": [
     {
       "title": "aex vandaag",
@@ -31,7 +31,7 @@
     },
     {
       "title": "ethel caterham",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 30 Apr 2025 23:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZy3RYW57C_ARryScBM0_5T17S6_S518IOcJIital9UltrfWhLUWwKCAs1Ndc",
       "pictureSource": "Le Monde.fr",
@@ -59,7 +59,7 @@
     },
     {
       "title": "stroomstoring groningen",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 30 Apr 2025 23:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6AtmzRMob6fjaAtxQc6G8mHWBTrXrfkPPi3bq-ZFfuHEySZXesPrdmx7pCsw",
       "pictureSource": "Dagblad van het Noorden",
@@ -71,9 +71,9 @@
           "source": "Dagblad van het Noorden"
         },
         {
-          "title": "112-nieuws: Stroomstoring in Stad",
+          "title": "112-nieuws: Stroomstoring in deel van binnenstad Groningen",
           "snippet": "",
-          "url": "https://www.rtvnoord.nl/112/1297479/112-nieuws-stroomstoring-in-stad",
+          "url": "https://www.rtvnoord.nl/112/1297479/112-nieuws-stroomstoring-in-deel-van-binnenstad-groningen",
           "source": "RTV Noord"
         },
         {
@@ -145,19 +145,13 @@
       "title": "yulia svyrydenko",
       "trafficCount": "100+",
       "pubDate": "Wed, 30 Apr 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm5MKfYXyXnmaAO3LMg80XsOvkEd-Pq868bD3P-83SDKWE_6br8U5Uuilz3QQ",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREiQRM1taHQhYXZkbpTnGiavkUnPNhuEwH2NvJR-_I_EH_Z9ZNBErZoi4SBSU",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "US and Ukraine sign long-awaited natural resources deal",
+          "title": "US and Ukraine sign minerals deal that solidifies investment in Kyiv’s defense against Russia",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c5ypw7pn9q3o",
-          "source": "BBC"
-        },
-        {
-          "title": "Ukraine war briefing: Ukrainian leaders lay out details of long-awaited minerals deal with US",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/apr/30/ukraine-war-briefing-minerals-deal-obstacles-us-trump-administration",
+          "url": "https://www.theguardian.com/us-news/2025/apr/30/us-ukraine-minerals-deal-russia",
           "source": "The Guardian"
         },
         {
@@ -165,6 +159,12 @@
           "snippet": "",
           "url": "https://edition.cnn.com/2025/04/30/europe/ukraine-us-mineral-deal-intl/index.html",
           "source": "CNN"
+        },
+        {
+          "title": "US and Ukraine sign critical minerals deal",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c20zj5l4jpdt",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "omroep brabant",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 30 Apr 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3YmXzCfV5nl0eRgYwhYIPLe4PuGXpchosIqwS_sCKWP5MCe2PmPhRpwWzwIw",
-      "pictureSource": "Omroep Brabant",
-      "relatedSearch": [
-        {
-          "title": "Zes auto's verwoest door brand, bewoners hoorden harde knallen",
-          "snippet": "",
-          "url": "https://www.omroepbrabant.nl/nieuws/4684234/zes-autos-verwoest-door-brand-bewoners-hoorden-harde-knallen",
-          "source": "Omroep Brabant"
-        },
-        {
-          "title": "Middelbrand op Bisschopshoeve in Breda",
-          "snippet": "",
-          "url": "https://www.ad.nl/112-nieuws-breda/middelbrand-op-bisschopshoeve-in-breda~adfdb7f7/",
-          "source": "AD.nl"
-        },
-        {
-          "title": "Zes auto’s uitgebrand op parkeerplaats van flat in Breda, bewoners hoorden knallen",
-          "snippet": "",
-          "url": "https://www.bndestem.nl/112-nieuws-breda/zes-auto-s-uitgebrand-op-parkeer-plaats-van-flat-in-breda-bewoners-hoorden-knallen~adfdb7f7/",
-          "source": "BN DeStem"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "bosbranden jeruzalem",
       "trafficCount": "500+",
       "pubDate": "Wed, 30 Apr 2025 22:10:00 -0700",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.telegraaf.nl/nieuws/1698896336/israelische-leger-ingezet-om-zware-bosbranden-bij-jeruzalem-te-bestrijden-man-50-gearresteerd-op-verdenking-brandstichting",
           "source": "Telegraaf"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bert visscher",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 30 Apr 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs8q0PETQO9bPLgdbLyElT9BT54fuIScPnjSPsElQnEBRadI37W3Vfd00zbSI",
+      "pictureSource": "NU",
+      "relatedSearch": [
+        {
+          "title": "Cabaretier Bert Visscher stopt na ruim veertig jaar met solovoorstellingen",
+          "snippet": "",
+          "url": "https://www.nu.nl/cultuur-overig/6354324/cabaretier-bert-visscher-stopt-na-ruim-veertig-jaar-met-solovoorstellingen.html",
+          "source": "NU"
+        },
+        {
+          "title": "Cabaretier Bert Visscher stopt na 45 jaar met soloshows: ‘Ga nu andere dingen doen’",
+          "snippet": "",
+          "url": "https://www.ad.nl/show/cabaretier-bert-visscher-stopt-na-45-jaar-met-soloshows-ga-nu-andere-dingen-doen~aa2f625b/",
+          "source": "AD.nl"
+        },
+        {
+          "title": "Bert Visscher (64) stopt met grote shows, maar niet met spelen",
+          "snippet": "",
+          "url": "https://dvhn.nl/cultuur/theater-musical/Bert-Visscher-64-stopt-met-grote-shows-maar-niet-met-spelen-%E2%80%98Dat-podium-blijft-trekken.-Altijd%E2%80%99-46160855.html",
+          "source": "Dagblad van het Noorden"
         }
       ],
       "link": "https://imtaqin.id/"
