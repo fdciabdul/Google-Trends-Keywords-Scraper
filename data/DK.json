@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-02 06:05:13",
+  "lastUpdate": "2025-05-02 06:17:04",
   "data": [
     {
       "title": "weather",
@@ -45,7 +45,7 @@
         {
           "title": "Kørte folk ned på åben gade: Døtre advarede ham igen og igen",
           "snippet": "",
-          "url": "https://www.bt.dk/krimi/koerte-folk-ned-paa-aaben-gade-doetre-advarede-ham-igen-og-igen?gaa_at=eafs&gaa_n=AerBZYMV-brOSPP6zSnNnxSv-II4UZdDDoyM7N4WVaS5Qk7bb28JQH2-TwtH&gaa_ts=6814641d&gaa_sig=OVmFsKmtExJd2Nw6JPx1UswHoKY7r5Jqt1hLz0ftEZXaGAc_U6EgQOahX2ISk2TRyiVQQKARVF0-UoWosi0g8w%3D%3D",
+          "url": "https://www.bt.dk/krimi/koerte-folk-ned-paa-aaben-gade-doetre-advarede-ham-igen-og-igen?gaa_at=eafs&gaa_n=AerBZYNHlVWdY8Zk_U9aApzkJs0SFHJtHZqKRALysgOe1rQwzp9ZUNWx0Yx0&gaa_ts=681466e4&gaa_sig=upHo1QNeRY5pwPZBtYuT1hvsDKlH97BVGYHHUf0lvqkRDmI94O6djdT1Z8qWobtmJFCVndw9sO-QTmlSvh5jlg%3D%3D",
           "source": "BT"
         },
         {
@@ -58,29 +58,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "dmi",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 1 May 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8e_JxJbe1_CCpR-CCiqPv41XCbBU2NStRN2woonwkeSrTbwrUd3-QbwQtAPc",
-      "pictureSource": "dr.dk",
+      "title": "tv2 vejret",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 1 May 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFbjBsS_JCIXAyeCP1OA_UszRomCJ11GgYEHvJBqfypJBsKa0O-fYyidz6RiI",
+      "pictureSource": "TV2 Østjylland",
       "relatedSearch": [
         {
-          "title": "1. maj med sommerlig varme - kan blive årets hidtil varmeste dag",
+          "title": "Danmark badet i solskin 1. maj",
           "snippet": "",
-          "url": "https://www.dr.dk/nyheder/vejret/1-maj-med-sommerlig-varme-kan-blive-aarets-hidtil-varmeste-dag",
-          "source": "dr.dk"
-        },
-        {
-          "title": "Sommervarme nærmer sig – sådan rammes Danmark",
-          "snippet": "",
-          "url": "https://www.tv2ostjylland.dk/oestjylland/sommervarme-naermer-sig-sadan-rammes-danmark-c7283",
+          "url": "https://www.tv2ostjylland.dk/oestjylland/danmark-badet-i-solskin-1-maj",
           "source": "TV2 Østjylland"
         },
         {
-          "title": "Snart venter et vejromslag: Bliver 'ustadigt og betydeligt køligere'",
+          "title": "Børnekopper kaldes tilbage",
           "snippet": "",
-          "url": "https://www.bt.dk/vejret/snart-venter-et-vejromslag-bliver-ustadigt-og-betydeligt-koeligere?gaa_at=eafs&gaa_n=AerBZYMpqGid8k62BM2tcqnfCUPH2ClLyijE9d1PAPhXv4hH1llFeXBVNqan&gaa_ts=6814641c&gaa_sig=C4sfB88MPKLhcbc_z4Vbr81_Mw0_n3dF-O5luSHr0aA7cgfAd0Rw12kgTlg9dVwm6bhke4cZ7nJfximdc_qxTQ%3D%3D",
-          "source": "BT"
+          "url": "https://www.tv2ostjylland.dk/oestjylland/bornekopper-kaldes-tilbage",
+          "source": "TV2 Østjylland"
+        },
+        {
+          "title": "Ikke set i 220 dage - men torsdag sker det igen",
+          "snippet": "",
+          "url": "https://www.tv2nord.dk/kort-nyt/nordjylland/ikke-set-i-220-dage-men-torsdag-sker-det-igen",
+          "source": "TV2 Nord"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dmi",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 1 May 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz7M33DyRzXIFHq4-PC_UgDgVfW-IEIrMsV-Fb7E8ZD28kAX7XbeV_Jy_9wIM",
+      "pictureSource": "vejr.tv2.dk",
+      "relatedSearch": [
+        {
+          "title": "Her er langtidsprognosen for sommeren – og pilen peger kun en vej",
+          "snippet": "",
+          "url": "https://vejr.tv2.dk/2025-04-23-her-er-langtidsprognosen-for-sommeren-og-pilen-peger-kun-en-vej",
+          "source": "vejr.tv2.dk"
+        },
+        {
+          "title": "Hjemmeferie? Den danske sommer kan blive varm og mindre våd end vanligt",
+          "snippet": "",
+          "url": "https://www.seoghoer.dk/nyheder/hjemmeferie-den-danske-sommer-kan-blive-varm-og-mindre-vaad-end-vanligt",
+          "source": "SE og HØR"
+        },
+        {
+          "title": "DMI med ny prognose for maj måned: Det sker 3 uger i streg",
+          "snippet": "",
+          "url": "https://nyheder24.dk/nyheder/dmi-med-ny-prognose-for-maj-maaned-det-sker-3-uger-i-streg",
+          "source": "Nyheder24 | Seneste nyheder, krimi og underholdning"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -205,22 +233,22 @@
       "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Apple tops Q2 earnings estimates on strong iPhone sales",
+          "title": "Apple stock sinks after company warns of $900 million tariff headwind",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/apple-tops-q2-earnings-estimates-on-strong-iphone-sales-174033613.html",
+          "url": "https://finance.yahoo.com/news/apple-stock-sinks-after-company-warns-of-900-million-tariff-headwind-174033228.html",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Apple earnings: beats forecasts, but China and tariff risks loom large",
-          "snippet": "",
-          "url": "https://www.home.saxo/en-gb/content/articles/equities/aapl_earnings-02052025",
-          "source": "Saxo Bank"
         },
         {
           "title": "Apple shares fall as Cook says 'very difficult' to predict tariff costs beyond June",
           "snippet": "",
           "url": "https://www.cnbc.com/2025/05/01/apple-aapl-earnings-report-q2-2025-.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Earnings Snapshot: AAPL edges by expectations for earnings, revenue",
+          "snippet": "",
+          "url": "https://seekingalpha.com/news/4439605-earnings-snapshot-aapl-edges-by-expectations-for-earnings-revenue",
+          "source": "Seeking Alpha"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,7 +263,7 @@
         {
           "title": "Amazon earnings: strong numbers, shaky outlook—investors brace for tariff turbulence",
           "snippet": "",
-          "url": "https://www.home.saxo/en-ch/content/articles/equities/amzn_earnings-02052025",
+          "url": "https://www.home.saxo/content/articles/equities/amzn_earnings-02052025",
           "source": "Saxo Bank"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://finance.yahoo.com/news/amazon-beats-on-q1-earnings-but-light-q2-guidance-sends-stock-sliding-200554161.html",
           "source": "Yahoo Finance"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "premier league",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 1 May 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4SOT5odSHeqXZmXKNTscp0bn6tWXxyLx-eyitF3AUVLwVSby1eGwH5ysaHSE",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Premier League: 10 things to look out for this weekend",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/may/02/premier-league-10-things-to-look-out-for-this-weekend",
-          "source": "The Guardian"
-        },
-        {
-          "title": "EPL Best Bets and Predictions May 3-4",
-          "snippet": "",
-          "url": "https://vsin.com/soccer/epl-best-bets-and-predictions-may-3-4/",
-          "source": "VSiN"
-        },
-        {
-          "title": "Premier League Predictions: Gameweek 35",
-          "snippet": "",
-          "url": "https://www.si.com/soccer/premier-league-predictions-gameweek-35",
-          "source": "Sports Illustrated"
         }
       ],
       "link": "https://imtaqin.id/"
