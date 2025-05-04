@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-04 06:47:49",
+  "lastUpdate": "2025-05-04 06:55:20",
   "data": [
     {
       "title": "王柏傑",
@@ -235,12 +235,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "桃園",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 3 May 2025 20:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "火災",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 3 May 2025 20:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBjGcV0ERt2rW7M5v7DbTtQrAUvGOrukWl43yBYZP9bc0aFZWDvvnrvo7g_Y",
+      "pictureSource": "NHK",
+      "relatedSearch": [
+        {
+          "title": "宮崎市消防局管内の火災 この１０年で最多のペース",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/lnews/miyazaki/20250501/5060020910.html",
+          "source": "NHK"
+        },
+        {
+          "title": "100キロのポンプ抱え山へ 連携で林野火災を鎮圧 消防団を表彰 [宮崎県]",
+          "snippet": "",
+          "url": "https://www.asahi.com/articles/AST4Z5D0PT4ZTNAB001M.html",
+          "source": "朝日新聞"
+        },
+        {
+          "title": "宮崎市鏡洲での山林火災で消火活動に大きく貢献も 団員減と高齢化が問題に 宮崎市消防団の現状",
+          "snippet": "",
+          "url": "https://newsdig.tbs.co.jp/articles/mrt/1887120?display=1",
+          "source": "TBS NEWS DIG"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
