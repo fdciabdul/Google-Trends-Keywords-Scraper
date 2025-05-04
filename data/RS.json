@@ -1,17 +1,23 @@
 {
-  "lastUpdate": "2025-05-04 07:03:21",
+  "lastUpdate": "2025-05-04 07:13:25",
   "data": [
     {
       "title": "vremenska prognoza",
       "trafficCount": "1000+",
       "pubDate": "Sat, 3 May 2025 23:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7I8dUXs-OAoMHzoP2xDPrqE9ovGx8r3pGss56U_WXvw3tdWhk1FE5cKIGalg",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwwv1CwYAur0A5GtKW5x--lTkWHaSTaCrPNBb_CQBidROKpF4B4T1ze0Kc-Ys",
+      "pictureSource": "РТС :: Насловна",
       "relatedSearch": [
         {
-          "title": "Još danas letnje vreme, a onda se otvaraju \"bečka vrata\": Slede nam kiša, grad i oluje!",
+          "title": "Vreme :: Vremenska prognoza 4. maj 2025.",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/drustvo/vremenska-prognoza-maj-jos-danas-letnje-vreme-slede-kisa-grad-i-oluje/7tcyyke",
+          "url": "https://www.rts.rs/lat/vesti/vreme/5703524/vremenska-prognoza-4-maj-2025.html",
+          "source": "РТС :: Насловна"
+        },
+        {
+          "title": "Srbija gori: Sve se crveni, temperatura raste na 30 stepeni, ali raste i ova opasnost!",
+          "snippet": "",
+          "url": "https://www.blic.rs/vremenska-prognoza/najnovije-upozorenje-rhmz-nakon-30-stepeni-stizu-oluje-grmljavina-i-pljusak/31t3y77",
           "source": "Blic"
         },
         {
@@ -19,28 +25,22 @@
           "snippet": "",
           "url": "https://www.tanjug.rs/srbija/drustvo/159161/danas-malo-i-umereno-oblacno-najvisa-temperatura-i-do-30-stepeni/vest",
           "source": "tanjug.rs"
-        },
-        {
-          "title": "Pred nama najtopliji dan u nedelji, od ponedeljka velika promena vremena",
-          "snippet": "",
-          "url": "https://jugmedia.rs/pred-nama-najtopliji-dan-u-nedelji-od-ponedeljka-velika-promena-vremena/",
-          "source": "JuGmedia"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "thunderstorm warning",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 3 May 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAvUTgpFeqNiU187HspBmkGVEvnTjLJmNWPVTxtFQHZRRPlWIklQYohb4NOyI",
-      "pictureSource": "Live 5 News WCSC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgHvW0kyA7us83xiF9bNTFC0IFsvW8BkX1JqkWRX8MvVLRXtRLYzOBaDV4RM",
+      "pictureSource": "Charlotte Observer",
       "relatedSearch": [
         {
-          "title": "Severe thunderstorm warning expire in Orangeburg County",
+          "title": "UPDATE: The severe thunderstorm warning is expected to expire at 1:45 a.m.",
           "snippet": "",
-          "url": "https://www.live5news.com/2025/05/03/severe-thunderstorm-warning-expire-orangeburg-county/",
-          "source": "Live 5 News WCSC"
+          "url": "https://www.charlotteobserver.com/news/weather-news/article305664671.html",
+          "source": "Charlotte Observer"
         },
         {
           "title": "Update: Damaging winds and quarter-sized hail predicted with thunderstorms in Greene and Sumter counties Friday",
@@ -51,8 +51,36 @@
         {
           "title": "UPDATE: Weather alert for Pee Dee Saturday evening – winds gusting up to 40 mph",
           "snippet": "",
-          "url": "https://www.thestate.com/news/weather-news/article305147441.html",
-          "source": "The State"
+          "url": "https://www.heraldonline.com/news/weather-news/article305147441.html",
+          "source": "Rock Hill Herald"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nova rs",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 3 May 2025 23:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrOH35pOEDGkMhuEjSDs4BXmbSDsDEHao2q8KHBcjI-Smkb__Yh_9QzcQc6Tg",
+      "pictureSource": "Nova",
+      "relatedSearch": [
+        {
+          "title": "Čubrilo najavljuje drastičnu promenu vremena, RHMZ popalio meteo-alarme: Ovi delovi Srbije biće najugroženiji",
+          "snippet": "",
+          "url": "https://nova.rs/magazin/lifestyle/dugorocna-prognoza-za-maj-2025-zahladjenje-sa-nepogodama/",
+          "source": "Nova"
+        },
+        {
+          "title": "Grad, pljuskovi i jaka grmljavina pogodiće prvo OVE delove Srbije, evo i kada: Očekuju se i obilnije padavine",
+          "snippet": "",
+          "url": "https://nsuzivo.rs/srbija/grad-pljuskovi-i-jaka-grmljavina-pogodice-prvo-ove-delove-srbije-evo-i-kada-ocekuju-se-i-obilnije-padavine",
+          "source": "NS Uživo"
+        },
+        {
+          "title": "VELIKO NEVREME STIŽE U SRBIJU: Ovi delovi će biti na udaru, evo i kada",
+          "snippet": "",
+          "url": "https://pink.rs/drustvo/690466/veliko-nevreme-stize-u-srbiju-ovi-delovi-ce-biti-na-udaru-evo-i-kada",
+          "source": "Pink.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +89,15 @@
       "title": "арина сабаленка",
       "trafficCount": "100+",
       "pubDate": "Sat, 3 May 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1376zTtDfnQlJlkUdRqU_UAVkw1xCT2xeEyLQezXa7bnyDOn2El2L7U_74OI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRqNH8b-UeNpUoNDOKVbU_2PU3U65YAvqAMNNXiIw6UByt8agFGvyKA7bWVho",
       "pictureSource": "Sport5.by",
       "relatedSearch": [
+        {
+          "title": "Стало известно, сколько заработали Соболенко и Гауфф за финал в Мадриде",
+          "snippet": "",
+          "url": "https://sport5.by/news/tennis/Stalo-izvestno-skolko-zarabotala-Sobolenko-za-pobedu-v-Madride/",
+          "source": "Sport5.by"
+        },
         {
           "title": "Любовь и теннис: Реакция бойфренда Соболенко Франгулиса на ее триумф в Мадриде",
           "snippet": "",
@@ -75,12 +109,6 @@
           "snippet": "",
           "url": "https://www.zakon.kz/sport/6476206-opredelilas-obladatelnitsa-985-tysyach-evro-pobedivshaya-v-turnire-kategorii-WTA1000.html",
           "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Соболенко третий раз в карьере выиграла WTA-1000 в Мадриде",
-          "snippet": "",
-          "url": "https://officelife.media/news/62330-sobolenko-tretiy-raz-v-karere-vyigrala-wta-1000-v-madride/",
-          "source": "officelife.media"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,16 +143,16 @@
     },
     {
       "title": "nuggets vs clippers",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 3 May 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFIdUbmII2TDE50toQlhbaTODIyCyKGAQXI6H9HzFDda-_faHwfE-Rz1tQGCE",
-      "pictureSource": "Flashscore.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNva4FwC_cJWaB_dDmEJCVMZnZa3_gj6Vdmr-KXp00pD7ApcPOgQh9FWWTmdY",
+      "pictureSource": "Denver Stiffs",
       "relatedSearch": [
         {
-          "title": "NBA Playoffs: Denver Nuggets make history in Game 7 beatdown of the Clippers",
+          "title": "Recap: Denver Nuggets down Los Angeles Clippers in a Game 7 blow-out, 120-101",
           "snippet": "",
-          "url": "https://www.flashscore.com/news/basketball-nba-nba-playoffs-denver-nuggets-make-history-in-game-7-beatdown-of-the-clippers/vXh1Ctmn/",
-          "source": "Flashscore.com"
+          "url": "https://www.denverstiffs.com/recap-denver-nuggets-down-los-angeles-clippers-in-a-game-7-blow-out-120-101/",
+          "source": "Denver Stiffs"
         },
         {
           "title": "James Harden Makes His Opinion of Nikola Jokic Crystal Clear",
@@ -229,7 +257,7 @@
       "title": "valladolid vs barcelona",
       "trafficCount": "1000+",
       "pubDate": "Sat, 3 May 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDPIMUdKJ7C6WhrhGeP7PSjsN9FoBGQ_ObUqWTQCraYpq1t8hlkdQlf31zHLE",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhkR_9mri0cgJN45LNkMr9RT0nczCFe2VcOKjzMm3-ou8nOZNzmLHyBxHJV0",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles-video/ter-stegen-returns-with-a-win-and-big-ambitions-we-have-spectacular-matches-ahead-2025-05-03",
           "source": "beIN SPORTS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "интер – верона",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 3 May 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyTztvYEymqtloKYwOFN_8U2AvUemCPvovcryOBydB3WdgfNYDdgqXHGCQ75s",
-      "pictureSource": "Террикон",
-      "relatedSearch": [
-        {
-          "title": "Интер с минимальными перевесом одолел Верону",
-          "snippet": "",
-          "url": "https://terrikon.com/posts/520914",
-          "source": "Террикон"
-        },
-        {
-          "title": "«Интер» вымучил победу над «Вероной»",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/34/1005905828_inter_vyimuchil_pobedu_nad_veronoy",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "«Интер» с минимальным преимуществом обыграл «Верону» в матче чемпионата Италии",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2199388_Inter_s_minimalnym_preimushhestvom_obygral_Veronu_v_matche_chempionata_Italii",
-          "source": "Sportbox"
         }
       ],
       "link": "https://imtaqin.id/"

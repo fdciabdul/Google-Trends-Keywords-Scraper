@@ -1,17 +1,73 @@
 {
-  "lastUpdate": "2025-05-04 07:03:08",
+  "lastUpdate": "2025-05-04 07:13:10",
   "data": [
     {
-      "title": "israel news",
+      "title": "ערוץ 14",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 4 May 2025 00:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiQqPNF6X0_kDwOg0LMOvKvwf4HD-sNvPObyLbwEj1G5u3Ln4XLaA_7vW7UYs",
+      "pictureSource": "Mako",
+      "relatedSearch": [
+        {
+          "title": "\"אני יודעת שזאת הולכת להיות היסטוריה, המשמעות היא להיות חלק מהממלכתיות באופן סופי\"",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-entertainment/2025_q2/Article-f7df142954d8691027.htm",
+          "source": "Mako"
+        },
+        {
+          "title": "הפרופסור וכוכב הפטריוטים תקף את ערוץ 14, חיים לוינסון יצא נגדו",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/culture/tv/article-1193058",
+          "source": "מעריב"
+        },
+        {
+          "title": "ערוץ 14 לא שידר את המשואה של דנה אינטרנשיונל - ולא כתב עליה באתר",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/entertainment/article/r1mnyjbxgl",
+          "source": "ynet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ynet english",
       "trafficCount": "100+",
+      "pubDate": "Sun, 4 May 2025 00:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO5S4PYgZCKme9Cu93lKjTze1AdHD1dxtNkIBAtAGv6dhED-r5XmElB_DI9qA",
+      "pictureSource": "The Times of Israel",
+      "relatedSearch": [
+        {
+          "title": "Ex-security chiefs, Nobel laureates urge IDF to reverse dismissal of reservists who called to free hostages by ending war",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/liveblog_entry/ex-security-chiefs-nobel-laureates-urge-idf-to-reverse-dismissal-of-reservists-who-called-to-free-hostages-by-ending-war/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Israeli pilots' protest letter reveals deepening rift over ongoing war in Gaza",
+          "snippet": "",
+          "url": "https://news.sky.com/story/israeli-pilots-protest-letter-reveals-deepening-rift-over-ongoing-war-in-gaza-13359916",
+          "source": "Sky News"
+        },
+        {
+          "title": "Tens of thousands demonstrate against the gov't demanding hostage deal",
+          "snippet": "",
+          "url": "https://www.jpost.com/israel-news/article-852485",
+          "source": "The Jerusalem Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "israel news",
+      "trafficCount": "200+",
       "pubDate": "Sat, 3 May 2025 23:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdH-UxITvZpD-oUi5L4j4VRE7ZFQzxBBrkMip2A9-fq0D3bqXzNUvmn1NBXs",
       "pictureSource": "The Times of Israel",
       "relatedSearch": [
         {
-          "title": "IDF says ballistic missile launched from Yemen at Israel; sirens expected in central Israel",
+          "title": "IDF says it’s looking into result of attempt to intercept missile",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-ballistic-missile-launched-from-yemen-at-israel-sirens-expected-in-central-israel/",
+          "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-its-looking-into-result-of-attempt-to-intercept-missile/",
           "source": "The Times of Israel"
         },
         {
@@ -21,10 +77,10 @@
           "source": "The Jerusalem Post"
         },
         {
-          "title": "Sirens sound across central Israel as Houthis launch 5th missile in 2 days",
+          "title": "Shrapnel Falls Near Ben Gurion Airport, Grounding Flights, After Missile Launched From Yemen",
           "snippet": "",
-          "url": "https://www.ynetnews.com/article/rkkfwtvglg",
-          "source": "Ynetnews"
+          "url": "https://www.haaretz.com/israel-news/2025-05-04/ty-article-live/qatar-rejects-pms-statement-that-it-must-stop-playing-both-sides-in-gaza-talks/00000196-989d-dc27-a3df-fabd4c200000",
+          "source": "Haaretz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +99,16 @@
           "source": "i24NEWS"
         },
         {
-          "title": "Les troublantes défaillances de l’Unité 8200 le jour du 7 octobre. Par Frédéric Sroussi",
-          "snippet": "",
-          "url": "https://www.tribunejuive.info/2025/04/24/les-troublantes-defaillances-de-lunite-8200-le-jour-du-7-octobre-par-frederic-sroussi/",
-          "source": "- Tribune Juive"
-        },
-        {
           "title": "Affrontant les terroristes, les commandants ont sauvé 100 recrues de la base de Zikim le 7 octobre",
           "snippet": "",
           "url": "https://fr.timesofisrael.com/affrontant-les-terroristes-les-commandants-ont-sauve-100-recrues-de-la-base-de-zikim-le-7-octobre/",
           "source": "The Times of Israel"
+        },
+        {
+          "title": "7 octobre : Comment les instructeurs de la base de Zikim se sont sacrifiés pour sauver leurs recrues",
+          "snippet": "",
+          "url": "https://www.i24news.tv/fr/actu/israel-en-guerre/artc-7-octobre-a-la-base-de-zikim-comment-des-instructeurs-ont-sacrifie-leur-vie-pour-sauver-100-jeunes-recrues",
+          "source": "i24NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +171,7 @@
     },
     {
       "title": "ynet",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Sat, 3 May 2025 23:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJ8g3IJDUZgvHCcjuO3Xer03Yj8stPClFNISZmPgPfWeTIY7iVf5c8MxTq1M",
       "pictureSource": "ynet",
@@ -133,10 +189,10 @@
           "source": "מעריב"
         },
         {
-          "title": "זוהה שיגור מתימן: מיליונים ברחבי הארץ ירדו למקלטים",
+          "title": "בהלת ענק באיזור המרכז",
           "snippet": "",
-          "url": "https://www.israelhayom.co.il/news/defense/article/17879040",
-          "source": "ישראל היום"
+          "url": "https://mobile.srugim.co.il/article/1121552",
+          "source": "סרוגים"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,72 +239,16 @@
           "source": "ynet"
         },
         {
-          "title": "עדן הראל: בטוחה שהאמת תצא לאור",
+          "title": "מגישת ערוץ 14 כותבת בכאב: ''הלב נשבר יחד איתך''",
           "snippet": "",
-          "url": "https://www.srugim.co.il/1121505-%D7%A2%D7%93%D7%9F-%D7%94%D7%A8%D7%90%D7%9C-%D7%91%D7%98%D7%95%D7%97%D7%94-%D7%A9%D7%94%D7%90%D7%9E%D7%AA-%D7%AA%D7%A6%D7%90-%D7%9C%D7%90%D7%95%D7%A8",
-          "source": "סרוגים"
+          "url": "https://www.ice.co.il/social/news/article/1062858",
+          "source": "ice (אייס)"
         },
         {
-          "title": "מייה שם נחשפת: אני התלוננתי על מאמן הסלבס, וזה מה שקרה | ריאיון לוואלה",
+          "title": "לנקות את השם: מה שהבטיחו בפרומו - לעומת מה שנחשף",
           "snippet": "",
-          "url": "https://news.walla.co.il/item/3746658",
-          "source": "וואלה חדשות"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "12",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 3 May 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOrKANEQz9N-JhzTvpjxqI9aZh_RDwHOTH99tYyWn3-Og2r_1MF6WnPqlnKg",
-      "pictureSource": "People.com",
-      "relatedSearch": [
-        {
-          "title": "Father Accused of Beating His 12-Year-Old Son to Death with a Baseball Bat",
-          "snippet": "",
-          "url": "https://people.com/father-accused-killing-12-year-old-son-with-baseball-bat-11727810",
-          "source": "People.com"
-        },
-        {
-          "title": "Branford church to hold service for Anthony Esposito, 12-year-old police say killed by father",
-          "snippet": "",
-          "url": "https://www.trumbulltimes.com/news/article/anthony-esposito-branford-ct-john-bosco-church-20308230.php",
-          "source": "Trumbull Times"
-        },
-        {
-          "title": "Branford man's first court hearing for murder reveals possible motive for killing son",
-          "snippet": "",
-          "url": "https://www.fox61.com/article/news/local/new-haven-county/branford/branford-connecticut-beating-son-to-death-appears-court-arraignment/520-5b449ff7-9496-4acf-a176-88abe8fd6a24",
-          "source": "fox61.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "12+",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 3 May 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAumy7A5hb_r4es1XMO7BziMun5sBYCmk_u6Y6Rc846m5gwG4tpZz1IsKm4k",
-      "pictureSource": "Mako",
-      "relatedSearch": [
-        {
-          "title": "עליית מדרגה: עוקץ החניות בחו\"ל שכמעט אי אפשר לעלות עליו",
-          "snippet": "",
-          "url": "https://www.mako.co.il/travel-news/international/Article-c6e6f6a1cd69691026.htm",
-          "source": "Mako"
-        },
-        {
-          "title": "אחרי 20 שנה: הטייסת שחיל האוויר החליט לסגור",
-          "snippet": "",
-          "url": "https://www.mako.co.il/pzm-soldiers/Article-90df2891ed99691027.htm",
-          "source": "Mako"
-        },
-        {
-          "title": "הבוגדים עולים על המוקד: \"אתה הפושע המושלם\"",
-          "snippet": "",
-          "url": "https://www.mako.co.il/tv-the_traitors/season1-articles/Article-71809cdf9a79691027.htm",
-          "source": "Mako"
+          "url": "https://www.israelhayom.co.il/culture/tv/article/17877135",
+          "source": "ישראל היום"
         }
       ],
       "link": "https://imtaqin.id/"
