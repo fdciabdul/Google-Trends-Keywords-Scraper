@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-04 18:59:05",
+  "lastUpdate": "2025-05-04 19:08:27",
   "data": [
     {
       "title": "מכבי תל אביב כדורסל",
@@ -33,15 +33,9 @@
       "title": "ביתר ירושלים",
       "trafficCount": "2000+",
       "pubDate": "Sun, 4 May 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRonpBhJ1VfbbjdS9FlUilDzZKwOqp8UdPesIEJR66Ckb3z-EFHGdasHTl1ics",
-      "pictureSource": "ספורט 5",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6Vp2ZpDyC6u-xtpTFo482qqSjp9a2Y4IuXXiHRHrAmXYSnUQVz2uoZ3mP9Sk",
+      "pictureSource": "ynet",
       "relatedSearch": [
-        {
-          "title": "\"חורים ברגליים\": ז`אן מרסלן במוקד ברשתות",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=505065",
-          "source": "ספורט 5"
-        },
         {
           "title": "בית\"ר ירושלים ומכבי נתניה יעמדו לדין משמעתי בנסיבות מחמירות",
           "snippet": "",
@@ -53,13 +47,47 @@
           "snippet": "",
           "url": "https://www.one.co.il/Article/491447.html",
           "source": "ONE"
+        },
+        {
+          "title": "המחווה של ההתאחדות לילד שנפגע מאבוקה במשחק של בית\"ר ירושלים",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1540619/",
+          "source": "ספורט 1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מכבי נתניה",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 4 May 2025 10:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8Q7x5iGWo8P0ZZgon22UhESHlZ5nsA7ppR0y-8WtpotkbCSxQzJCF1ZDSsKk",
+      "pictureSource": "ספורט 5",
+      "relatedSearch": [
+        {
+          "title": "טירוף התקפי: המספרים של מכבי נתניה",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=505068",
+          "source": "ספורט 5"
+        },
+        {
+          "title": "סורו בקישור של בית\"ר ירושלים, שינויים בהרכב מכבי נתניה",
+          "snippet": "",
+          "url": "https://sports.walla.co.il/item/3746899",
+          "source": "וואלה ספורט"
+        },
+        {
+          "title": "קאני בהתקפת בית\"ר, פלקושצ'נקו פותח בנתניה",
+          "snippet": "",
+          "url": "https://www.one.co.il/Article/491467.html",
+          "source": "ONE"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "الطقس غدًا",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 4 May 2025 10:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9gn_DNA-EJ_qNKzwQvEuv5p-os1FHrZ3pMbIb0r4pz6FQrwboIJziz7pV3HM",
       "pictureSource": "Masrawy",
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://news.twaslnews.com/%D8%B5%D8%AF%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%AF/355630/",
           "source": "شبكة تواصل الإخبارية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "בית\"ר ירושלים",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 4 May 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6Vp2ZpDyC6u-xtpTFo482qqSjp9a2Y4IuXXiHRHrAmXYSnUQVz2uoZ3mP9Sk",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "בית\"ר ירושלים ומכבי נתניה יעמדו לדין משמעתי בנסיבות מחמירות",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/sport/israelisoccer/article/skixcselgl",
-          "source": "ynet"
-        },
-        {
-          "title": "\"אם לא נגדע מכירות משחקים לא יישאר פה ענף\"",
-          "snippet": "",
-          "url": "https://www.one.co.il/Article/491447.html",
-          "source": "ONE"
-        },
-        {
-          "title": "המחווה של ההתאחדות לילד שנפגע מאבוקה במשחק של בית\"ר ירושלים",
-          "snippet": "",
-          "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1540619/",
-          "source": "ספורט 1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Soccer.ru"
         },
         {
-          "title": "Челси победил Ливерпуль в сражении за Лигу чемпионов: видео голов",
-          "snippet": "",
-          "url": "https://terrikon.com/posts/521036",
-          "source": "Террикон"
-        },
-        {
           "title": "«Челси» - «Ливерпуль»: прямая трансляция, составы, онлайн - 3:1",
           "snippet": "",
           "url": "https://www.euro-football.ru/article/31/1005906071_chelsi_-_liverpul_pryamaya_translyaciya_sostavyi_onlayn",
           "source": "Евро-Футбол"
+        },
+        {
+          "title": "Челси победил Ливерпуль в сражении за Лигу чемпионов: видео голов",
+          "snippet": "",
+          "url": "https://terrikon.com/posts/521036",
+          "source": "Террикон"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Vietnam.vn"
         },
         {
-          "title": "กูกูเรย่า ลั่น เชลซี ตั้งแถวปรบให้ ลิเวอร์พูล แน่นอนก่อนลงเตะ แต่หลังนกหวีดดัง จะสู้สุดกำลังเพื่อสามคะแนน",
-          "snippet": "",
-          "url": "https://mainstand.co.th/index.php/th/news/1/article/21488",
-          "source": "Mainstand"
-        },
-        {
           "title": "โปรแกรมบอล 4 พ.ค. 2568 เชลซีลุ้นแย่งท็อปไฟฟ์ คืนนี้ต้องชนะลิเวอร์พูลให้ได้",
           "snippet": "",
           "url": "https://www.khaosod.co.th/sports/news_9745511",
           "source": "ข่าวสด"
+        },
+        {
+          "title": "อึ้งไปเลย \"สล็อต\" เผยสิ่งแรกที่ทำ หลังพา \"ลิเวอร์พูล\" คว้าแชมป์พรีเมียร์ลีก",
+          "snippet": "",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2856406",
+          "source": "Thairath"
         }
       ],
       "link": "https://imtaqin.id/"
