@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2025-05-04 23:18:16",
+  "lastUpdate": "2025-05-04 23:27:53",
   "data": [
     {
       "title": "날씨",
       "trafficCount": "200000+",
       "pubDate": "Sun, 4 May 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPONO12Ed1xblN6n9-WW70XSZfI4LRIGwtcsasreqVNdEVCCIOORYBAK_lHBw",
+      "picture": "",
       "pictureSource": "YTN",
       "relatedSearch": [
         {
-          "title": "[날씨] 어린이날 오후∼내일 다시 산발적 비...일교차 주의",
+          "title": "[날씨] 어린이날·석가탄신일 전국 비 조금...5∼20mm",
           "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0108_202505050003417913",
+          "url": "https://www.ytn.co.kr/_ln/0108_202505050810449003",
           "source": "YTN"
         },
         {
@@ -33,15 +33,9 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Sun, 4 May 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2IJ_uQTqyg8NnYtDEz94tGrA8s1kSwu-vCk03VErweUER7AzJssMOiyzEi90",
-      "pictureSource": "Yahoo News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSehIBkw8pC7zlpV0ELGPwY4Sd5EK2UvbPJ9lQd6C70eP-spFypbIwyZoWBzeU",
+      "pictureSource": "AZFamily",
       "relatedSearch": [
-        {
-          "title": "The Valley could see thunderstorms, gusty winds and rainfall over the next few days",
-          "snippet": "",
-          "url": "https://news.yahoo.com/valley-could-see-thunderstorms-gusty-212613871.html",
-          "source": "Yahoo News"
-        },
         {
           "title": "First Alert Weather Day for rain chances, Air Quality Alert in Phoenix area",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "AZFamily"
         },
         {
-          "title": "Weather Impact Alert: Showers and scattered thunderstorms in the Valley",
+          "title": "The Valley could see thunderstorms, gusty winds and rainfall over the next few days",
           "snippet": "",
-          "url": "https://www.12news.com/article/weather/showers-scattered-thunderstorms-gusty-winds-heavy-rain-lightning-valley-phoenix-metro-arizona/75-6a6f91f7-5b5b-4559-b503-00139958243f",
-          "source": "12News"
+          "url": "https://news.yahoo.com/valley-could-see-thunderstorms-gusty-212613871.html",
+          "source": "Yahoo News"
+        },
+        {
+          "title": "MOST ACCURATE FORECAST: Storm brings Arizona scattered storms and cooler temperatures",
+          "snippet": "",
+          "url": "https://www.abc15.com/weather/most-accurate-forecast-storm-brings-arizona-scattered-storms-and-cooler-temperatures",
+          "source": "ABC15 Arizona"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "日テレNEWS NNN"
         },
         {
-          "title": "関東以西で空気ヒンヤリ冷たい朝 昼との気温差に注意（ウェザーニューズ）",
+          "title": "関東以西で空気ヒンヤリ冷たい朝 昼との気温差に注意（2025年5月5日）",
           "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/weathernews/nation/weathernews-http_weathernews.jp_news_202505_050076_",
-          "source": "ｄメニューニュース"
+          "url": "https://news.biglobe.ne.jp/domestic/0505/wth_250505_2185857531.html",
+          "source": "BIGLOBEニュース"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,15 @@
       "title": "f1",
       "trafficCount": "500+",
       "pubDate": "Sun, 4 May 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZUFzZvMEKd8P-qp_enPpS3sYk91sgWKt16GmyrTrJx7tep9TjpT6fe-pI_Wk",
-      "pictureSource": "USA Today",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjkM7_wrC-30WCYIOM9-UiQzf4sRgHNRYJ5I4EQLrMnBMVV5ui2I55AEgSntU",
+      "pictureSource": "Formula 1",
       "relatedSearch": [
+        {
+          "title": "Piastri wins as McLaren seal commanding 1-2 in Miami GP",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/piastri-wins-from-norris-and-russell-as-mclaren-seal-commanding-1-2-in-miami.6Vfaf5zEMOKmPHzHdkGdof",
+          "source": "Formula 1"
+        },
         {
           "title": "Formula 1 Miami Grand Prix live updates: Verstappen leads after early tussle with Norris",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://www.bbc.com/sport/formula1/articles/c99pz7ljz2ro",
           "source": "BBC"
-        },
-        {
-          "title": "Verstappen ‘very happy’ with Miami pole position as he explains how he saved risky moment on final Qualifying lap",
-          "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/verstappen-very-happy-with-miami-pole-position-as-he-explains-how-he-saved.16J9jf01QSdwhSmZE9tgko",
-          "source": "Formula 1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,16 +220,16 @@
           "source": "스타뉴스"
         },
         {
+          "title": "세계에서 가장 섹시한 여자 선수, 유벤투스 스타와 결별",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nu-cau-thu-quyen-ru-nhat-the-gioi-chia-tay-sao-juventus",
+          "source": "Vietnam.vn"
+        },
+        {
           "title": "'PL 단 3골' '1340억' 맨유, 애물단지 FW 결국 이탈리아 무대 복귀 초읽기…\"세리에A 명문팀과 초기 접촉 마쳐\"",
           "snippet": "",
           "url": "https://m.news.nate.com/view/20250504n15220",
           "source": "네이트 뉴스"
-        },
-        {
-          "title": "와 초대박! 13골 5도움 아프리카 특급 FW 두고 '아스널·리버풀·첼시·맨유' 4파전 돌입",
-          "snippet": "",
-          "url": "https://sports.news.nate.com/view/20250428n37102",
-          "source": "네이트 스포츠"
         }
       ],
       "link": "https://imtaqin.id/"
