@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2025-05-05 08:25:10",
+  "lastUpdate": "2025-05-05 08:38:46",
   "data": [
+    {
+      "title": "albany",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 5 May 2025 01:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4csbz8D9KIaW-14JL32X3PFkTmXtqwnAqKy3hnmPxz0Xl8UkcGqRPxgXcXLM",
+      "pictureSource": "WNYT.com",
+      "relatedSearch": [
+        {
+          "title": "Albany Police investigating stabbing near Clinton Ave and Ontario St",
+          "snippet": "",
+          "url": "https://wnyt.com/top-stories/albany-police-investigating-stabbing-near-clinton-ave-and-ontario-st/",
+          "source": "WNYT.com"
+        },
+        {
+          "title": "Police investigating 2 stabbings in Albany",
+          "snippet": "",
+          "url": "https://www.news10.com/news/albany-county/police-investigating-2-separate-stabbings-in-albany/",
+          "source": "NEWS10 ABC"
+        },
+        {
+          "title": "Man stabbed on Clinton Avenue, police seek information",
+          "snippet": "",
+          "url": "https://cbs6albany.com/news/local/man-stabbed-on-clinton-avenue-police-seek-information",
+          "source": "WRGB"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "broome",
       "trafficCount": "200+",
       "pubDate": "Mon, 5 May 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn3FwPgclVuhcqK8VsTPer1G1INT-cLVLaH_6Edl3eVkPYooU1wojSI5FJIRM",
-      "pictureSource": "National Indigenous Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9jv4yPAat7mKgxsa28voyHbeNwfYGcZ3V0bkD53r9RoYWmK-PH1xDUMuDoI",
+      "pictureSource": "Australian Broadcasting Corporation",
       "relatedSearch": [
+        {
+          "title": "Man jailed for stealing car with woman and child inside from Broome fuel station",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-05-05/kimberley-man-guilty-stealing-car-woman-and-child-inside-broome/105253408",
+          "source": "Australian Broadcasting Corporation"
+        },
         {
           "title": "Speaking Out youth survey begins in Broome",
           "snippet": "",
@@ -19,40 +53,6 @@
           "snippet": "",
           "url": "https://www.broomead.com.au/news/broome-advertiser/commissioner-for-children-and-young-peoples-2025-speaking-out-survey-launches-in-broome-c-18545312",
           "source": "Broome Advertiser"
-        },
-        {
-          "title": "Cook visits Broome TAFE as training investment grows",
-          "snippet": "",
-          "url": "https://www.broomead.com.au/news/broome-advertiser/premier-tours-broome-tafe-amid-push-for-regional-training-access-c-18585352",
-          "source": "Broome Advertiser"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "perth",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 5 May 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnhjA2RFIDdzFNygF_JA_aWiC2ePJCkqZ1ngQfoCS_Q7qcAOOZjwAhL5Q061Y",
-      "pictureSource": "Australian Broadcasting Corporation",
-      "relatedSearch": [
-        {
-          "title": "Perth burger and ice-cream shop staff sprayed with noxious substance in filmed attack, WA police say",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-05-04/perth-burger-ice-cream-shop-attacked-with-noxious-substance-/105250548",
-          "source": "Australian Broadcasting Corporation"
-        },
-        {
-          "title": "Two charged over bizarre poison attacks on takeaway joints",
-          "snippet": "",
-          "url": "https://thewest.com.au/news/crime/two-20-year-old-men-charged-after-alleged-poison-attacks-on-redcliffe-and-southern-river-fast-food-shops-c-18578295",
-          "source": "The West Australian"
-        },
-        {
-          "title": "WWE returns to Australia this October with Crown Jewel: Perth",
-          "snippet": "",
-          "url": "http://www.wwe.com/shows/wwe-crown-jewel/article/crown-jewel-australia-perth-october",
-          "source": "WWE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,6 +86,62 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "perth",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 5 May 2025 00:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnhjA2RFIDdzFNygF_JA_aWiC2ePJCkqZ1ngQfoCS_Q7qcAOOZjwAhL5Q061Y",
+      "pictureSource": "Australian Broadcasting Corporation",
+      "relatedSearch": [
+        {
+          "title": "Perth burger and ice-cream shop staff sprayed with noxious substance in filmed attack, WA police say",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-05-04/perth-burger-ice-cream-shop-attacked-with-noxious-substance-/105250548",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Two charged over bizarre poison attacks on takeaway joints",
+          "snippet": "",
+          "url": "https://thewest.com.au/news/crime/two-20-year-old-men-charged-after-alleged-poison-attacks-on-redcliffe-and-southern-river-fast-food-shops-c-18578295",
+          "source": "The West Australian"
+        },
+        {
+          "title": "WWE returns to Australia this October with Crown Jewel: Perth",
+          "snippet": "",
+          "url": "http://www.wwe.com/shows/wwe-crown-jewel/article/crown-jewel-australia-perth-october",
+          "source": "WWE"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mazda cx 60",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 5 May 2025 00:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGu1PcphxssBLGeLhtmsau-F8u4K_jz7f99qYpbf8gN9f9OBECBuAux4MHsSw",
+      "pictureSource": "Drive",
+      "relatedSearch": [
+        {
+          "title": "2025 Mazda CX-60 price and specs: Entry price down $10,500 with suspension, transmission tweaks",
+          "snippet": "",
+          "url": "https://www.drive.com.au/news/2025-mazda-cx-60-price-and-specs-entry-price-down-10500-with-suspension-transmission-tweaks/",
+          "source": "Drive"
+        },
+        {
+          "title": "2025 Mazda CX-60 price and specs: Mid-size SUV gets price cuts, mechanical updates",
+          "snippet": "",
+          "url": "https://www.canberratimes.com.au/story/8958493/2025-mazda-cx-60-price-and-specs-mid-size-suv-gets-price-cuts-mechanical-updates/",
+          "source": "The Canberra Times"
+        },
+        {
+          "title": "Upgraded 2025 Mazda CX-60 inbound and way cheaper",
+          "snippet": "",
+          "url": "https://www.carsales.com.au/editorial/details/upgraded-2025-mazda-cx-60-inbound-and-way-cheaper-149289/",
+          "source": "Carsales"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "western australia",
       "trafficCount": "500+",
       "pubDate": "Mon, 5 May 2025 00:20:00 -0700",
@@ -114,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "mazda cx 60",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 5 May 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGu1PcphxssBLGeLhtmsau-F8u4K_jz7f99qYpbf8gN9f9OBECBuAux4MHsSw",
-      "pictureSource": "Drive",
-      "relatedSearch": [
-        {
-          "title": "2025 Mazda CX-60 price and specs: Entry price down $10,500 with suspension, transmission tweaks",
-          "snippet": "",
-          "url": "https://www.drive.com.au/news/2025-mazda-cx-60-price-and-specs-entry-price-down-10500-with-suspension-transmission-tweaks/",
-          "source": "Drive"
-        },
-        {
-          "title": "2025 Mazda CX-60 price and specs: Mid-size SUV gets price cuts, mechanical updates",
-          "snippet": "",
-          "url": "https://www.canberratimes.com.au/story/8958493/2025-mazda-cx-60-price-and-specs-mid-size-suv-gets-price-cuts-mechanical-updates/",
-          "source": "The Canberra Times"
-        },
-        {
-          "title": "Upgraded 2025 Mazda CX-60 inbound and way cheaper",
-          "snippet": "",
-          "url": "https://www.carsales.com.au/editorial/details/upgraded-2025-mazda-cx-60-inbound-and-way-cheaper-149289/",
-          "source": "Carsales"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "federal election results map",
       "trafficCount": "2000+",
       "pubDate": "Mon, 5 May 2025 00:00:00 -0700",
@@ -161,10 +189,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Federal election results 2025 LIVE updates: Albanese gets back to business; Liberals search for new leader",
+          "title": "Second-term Albanese will face policy pressure, devastated Liberals have only bad options",
           "snippet": "",
-          "url": "https://www.smh.com.au/politics/federal/federal-election-results-2025-live-updates-albanese-gets-back-to-business-liberals-search-for-new-leader-20250504-p5lwi7.html",
-          "source": "The Sydney Morning Herald"
+          "url": "https://theconversation.com/second-term-albanese-will-face-policy-pressure-devastated-liberals-have-only-bad-options-255618",
+          "source": "The Conversation"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,22 +205,22 @@
       "pictureSource": "Australian Broadcasting Corporation",
       "relatedSearch": [
         {
-          "title": "Woman, 66, in custody after bodies of two children discovered in Coonabarabran, NSW",
+          "title": "'Heartbreak' as two children found dead in NSW, woman in custody",
           "snippet": "",
           "url": "https://www.abc.net.au/news/2025-05-05/woman-arrested-after-children-found-dead-coonabarabran/105255234",
           "source": "Australian Broadcasting Corporation"
-        },
-        {
-          "title": "Two children dead, woman in custody in rural NSW town",
-          "snippet": "",
-          "url": "https://www.smh.com.au/national/nsw/two-children-dead-woman-in-custody-in-rural-nsw-town-20250505-p5lws0.html",
-          "source": "The Sydney Morning Herald"
         },
         {
           "title": "Horror as two children found dead",
           "snippet": "",
           "url": "https://www.news.com.au/national/nsw-act/crime/woman-in-custody-over-death-of-two-children-in-coonabarabran/news-story/655b20ee8f6d57c60d2ef35034ae8518",
           "source": "News.com.au"
+        },
+        {
+          "title": "Two children aged eight and 10 found dead inside home in NSW's central west",
+          "snippet": "",
+          "url": "https://www.9news.com.au/national/coonabarabran-two-children-found-dead-in-home/db71e75b-c14c-4080-b106-f07fdd2b4ab0",
+          "source": "9News.com.au"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.zerohanger.com/new-afl-video-game-set-to-hit-shelves-promise-major-enhancements-player-rakings-161576/",
           "source": "Zero Hanger"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gina rinehart",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 4 May 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTuzf5EMl3L0jG6jj0Bl9qCvCgDIXnoGNjyyi36lu8AePeX-EDwyjEZv7rdQ",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Gina Rinehart urges Liberals to stick with Trump-like policies in the wake of election loss",
-          "snippet": "",
-          "url": "https://www.theguardian.com/business/2025/may/05/gina-rinehart-liberal-party-trump-australia-election-ntwnfb",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Voters, ‘left media’ to blame for Coalition wipeout: Rinehart",
-          "snippet": "",
-          "url": "https://www.smh.com.au/politics/federal/voters-left-media-to-blame-for-coalition-wipeout-rinehart-20250505-p5lwp9.html",
-          "source": "The Sydney Morning Herald"
-        },
-        {
-          "title": "Rinehart: Liberals were too scared of going full Trump",
-          "snippet": "",
-          "url": "https://www.afr.com/politics/federal/rinehart-liberals-were-too-scared-of-going-full-trump-20250505-p5lwr8",
-          "source": "AFR"
         }
       ],
       "link": "https://imtaqin.id/"
