@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-05-06 06:07:38",
+  "lastUpdate": "2025-05-06 06:20:05",
   "data": [
+    {
+      "title": "audiencias ayer",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 5 May 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8bs1BxoypwkIzSQTpsIgCKjICI9Gua6_QVbxIJmWMonjE5RTcXeMmbKf0XY",
+      "pictureSource": "elDiario.es",
+      "relatedSearch": [
+        {
+          "title": "'Supervivientes: Conexión Honduras' (16.9%) lidera sin apuros ante el estreno en abierto de 'John Wick 4' (11.1%)",
+          "snippet": "",
+          "url": "https://www.eldiario.es/vertele/audiencias-tv/domingo-4-mayo-2025-supervivientes-conexion-honduras-lidera-sin-apuros-estreno-abierto-john-wick-4_1_12269901.html",
+          "source": "elDiario.es"
+        },
+        {
+          "title": "'Supervivientes' se consolida como líder mientras el cine de La 1 se desploma",
+          "snippet": "",
+          "url": "https://www.elperiodico.com/es/yotele/20250505/supervivientes-consolida-lider-cine-1-desploma-117037938",
+          "source": "El Periódico"
+        },
+        {
+          "title": "'Supervivientes' (16,9%) lidera y 'El objetivo' con Richard Gere empata con 'Cuarto milenio' firmando un 6,8%",
+          "snippet": "",
+          "url": "https://www.formulatv.com/noticias/audiencias-4-mayo-supervivientes-objetivo-milenio-132976/",
+          "source": "FormulaTV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "audiencias tv",
       "trafficCount": "100+",
@@ -142,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "rosalia",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 5 May 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTADEF1hHnSVAtZO3ygXBEEA4xLN_XbBYo2-zhnoA1A1BVJIFJSlUQqNyKteys",
-      "pictureSource": "20Minutos",
-      "relatedSearch": [
-        {
-          "title": "Rosalía lleva a la Gala MET un vestido que recrea su cuerpo",
-          "snippet": "",
-          "url": "https://www.20minutos.es/mujer/moda/rosalia-gala-met-2025-vestido-recrea-cuerpo-alfombra-roja-5706575/",
-          "source": "20Minutos"
-        },
-        {
-          "title": "Rosalía, una obra de arte en movimiento con su vestido escultura de la MET Gala",
-          "snippet": "",
-          "url": "https://www.hola.com/moda/20250506830290/rosalia-look-met-gala-2025/",
-          "source": "HOLA"
-        },
-        {
-          "title": "Rosalía viraliza una camiseta con mensaje de Placebo poco antes de asistir a la Met Gala",
-          "snippet": "",
-          "url": "https://www.elperiodico.com/es/estilo-y-famosos/20250505/rosalia-viraliza-camiseta-mensaje-cancion-placebo-met-gala-nueva-york-117035029",
-          "source": "El Periódico"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tiempo en zaragoza",
       "trafficCount": "200+",
       "pubDate": "Mon, 5 May 2025 22:20:00 -0700",
@@ -198,21 +198,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "el tiempo",
-      "trafficCount": "2000+",
+      "title": "gala met",
+      "trafficCount": "500+",
       "pubDate": "Mon, 5 May 2025 21:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tiempo hoy",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 5 May 2025 21:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-Cg8bu_QJ53geMYLIx1IgX_-nI-iVigri0Fe_og60km5_BSh_Pn-VYf-XCtk",
+      "pictureSource": "Mujerhoy",
+      "relatedSearch": [
+        {
+          "title": "Rosalía se viste de escultura clásica en la Gala MET 2025 con el vestido blanco de Balmain que ha dejado a todos sin palabras",
+          "snippet": "",
+          "url": "https://www.mujerhoy.com/moda/no-te-pierdas/rosalia-met-gala-2025-vestido-escultura-clasica-balmain-hecho-medida-20250506063939-nt.html",
+          "source": "Mujerhoy"
+        },
+        {
+          "title": "Rosalía, una obra de arte en movimiento con su vestido escultura de la MET Gala",
+          "snippet": "",
+          "url": "https://www.hola.com/moda/20250506830290/rosalia-look-met-gala-2025/",
+          "source": "HOLA"
+        },
+        {
+          "title": "Rosalía lleva a la Gala MET un vestido que recrea su cuerpo",
+          "snippet": "",
+          "url": "https://www.20minutos.es/mujer/moda/rosalia-gala-met-2025-vestido-recrea-cuerpo-alfombra-roja-5706575/",
+          "source": "20Minutos"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -235,12 +245,21 @@
           "source": "Mujerhoy"
         },
         {
-          "title": "Met Gala 2025: el tema, los invitados y la transmisión en vivo de la gran noche de la moda",
+          "title": "Met Gala 2025: los extravagantes atuendos de las celebridades en la gala más importante del mundo de la moda",
           "snippet": "",
-          "url": "https://elpais.com/us/entretenimiento/2025-05-05/met-gala-2025-el-tema-los-invitados-y-la-transmision-en-vivo-de-la-gran-noche-de-la-moda.html",
-          "source": "EL PAÍS"
+          "url": "https://www.bbc.com/mundo/articles/cedyq411l10o",
+          "source": "BBC"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tiempo hoy",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 5 May 2025 21:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
