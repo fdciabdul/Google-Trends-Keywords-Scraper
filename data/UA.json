@@ -1,13 +1,32 @@
 {
-  "lastUpdate": "2025-05-06 23:09:35",
+  "lastUpdate": "2025-05-06 23:21:00",
   "data": [
     {
-      "title": "укрнет",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 6 May 2025 15:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "київ",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 6 May 2025 15:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrpZk9rLfaOXzyvStGg49_RZEywUi__qDpbBSxDffy7edvttxh0QVx4EXoshQ",
+      "pictureSource": "Вечірній Київ",
+      "relatedSearch": [
+        {
+          "title": "У Києві кілька трамвайних маршрутів до понеділка курсуватимуть інакше",
+          "snippet": "",
+          "url": "https://vechirniy.kyiv.ua/news/112117/",
+          "source": "Вечірній Київ"
+        },
+        {
+          "title": "На Воскресенці у Києві майже на тиждень зупинять трамваї",
+          "snippet": "",
+          "url": "https://sud.ua/uk/news/ukraine/330320-na-voskresenke-v-kieve-pochti-na-nedelyu-ostanovyat-tramvai",
+          "source": "Судово-юридична газета"
+        },
+        {
+          "title": "Фахівці «Київтеплоенерго» усувають пошкодження тепломережі на вул. Остафія Дашкевича",
+          "snippet": "",
+          "url": "https://kyivcity.gov.ua/news/fakhivtsi_kivteploenergo_usuvayut_poshkodzhennya_teplomerezhi_na_vulostafiya_dashkevicha/",
+          "source": "офіційний портал"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -42,34 +61,6 @@
       "title": "новини київ",
       "trafficCount": "200+",
       "pubDate": "Tue, 6 May 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKuTgVGckf_4SxLMvPjVAaornhQcUq_-ORXvPHa9pgbnSPEJ1cV_cFas_C2nY",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Загроза балістики: у Києві працює ППО",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/05/7/7510957/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Росія вдарила по Києву балістикою, почалася пожежа",
-          "snippet": "",
-          "url": "https://www.unian.ua/war/u-kiyevi-prolunali-guchni-vibuhi-13000827.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Повітряна тривога у Києві тривала 40 хвилин",
-          "snippet": "",
-          "url": "https://glavcom.ua/kyiv/news/u-kijevi-oholosheno-povitrjanu-trivohu-1057614.html",
-          "source": "Главком"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "цензор нет",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 6 May 2025 15:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyGiwtBI-od_p4wROjUvkKk22E5Ci_5PnlMMxi2GkW2ehxvAVS0zmIkpDJDxg",
       "pictureSource": "Вечірній Київ",
       "relatedSearch": [
@@ -95,6 +86,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "укрнет",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 6 May 2025 15:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "соломенский район",
       "trafficCount": "1000+",
       "pubDate": "Tue, 6 May 2025 15:10:00 -0700",
@@ -114,10 +114,10 @@
           "source": "УНИАН"
         },
         {
-          "title": "РФ запустила по Киеву баллистику, вспыхнул пожар",
+          "title": "В Киеве прогремели взрывы: Россия атаковала столицу баллистикой",
           "snippet": "",
-          "url": "https://korrespondent.net/city/kiev/4779220-rf-zapustyla-po-kyevu-ballystyku-vspykhnul-pozhar",
-          "source": "Korrespondent.net"
+          "url": "https://24tv.ua/ru/v-kieve-progremeli-vzryvy-rossija-atakovala-stolicu-ballistikoj_n2816400",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -146,6 +146,34 @@
           "snippet": "",
           "url": "https://guberniya.tv/obshhestvo/305894",
           "source": "Брянская Губерния"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 6 May 2025 15:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqUFbSHPGVIplG_cJID0BZ3QZkb2Y9xQjd9rSireClJzpjOLHjZ0fEIzDezo",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "Karoline Leavitt calls CNN's 'softball' interview with alleged cartel member 'despicable'",
+          "snippet": "",
+          "url": "https://www.foxnews.com/video/6372395764112",
+          "source": "Fox News"
+        },
+        {
+          "title": "‘The situation is ugly.’ CNN goes to a secret Mexican hideout to meet the Sinaloa Cartel",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/05/03/world/video/yeung-sinaloa-cartel-mexico-ldn-digvid",
+          "source": "CNN"
+        },
+        {
+          "title": "CNN roasted for interviewing Sinaloa Cartel gangster, asking how he felt about Trump labeling him a terrorist",
+          "snippet": "",
+          "url": "https://nypost.com/2025/05/05/us-news/cnn-roasted-for-interviewing-sinaloa-cartel-gangster-asking-how-he-felt-about-trump-labeling-him-a-terrorist/",
+          "source": "New York Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -186,7 +214,7 @@
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "India says it has launched strikes on Pakistan and Pakistan-administered Kashmir - latest",
+          "title": "India launches air strikes on Pakistan and Pakistan-administered Kashmir",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/cwyneele13qt",
           "source": "BBC"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.flashscore.com/news/tennis-tracker-kvitova-claims-long-awaited-win-as-italian-open-gets-underway/xAwh6zdo/",
           "source": "Flashscore.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "тюрам",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 6 May 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcBSnV-JLYzHN8j4LP7qETHHeIjvj2ox__zZaAan5lUlus1jbVDQexfWpVzQI",
-      "pictureSource": "спорт.ua",
-      "relatedSearch": [
-        {
-          "title": "ВИДЕО. Звезду Интера обвинили в изнасиловании порноактрисы",
-          "snippet": "",
-          "url": "https://sport.ua/news/759484-video-zvezdu-intera-obvinili-v-iznasilovanii-pornoaktrisy",
-          "source": "спорт.ua"
-        },
-        {
-          "title": "Удар по Интеру: Маркус Тюрам получил обвинение от бывшей подруги",
-          "snippet": "",
-          "url": "https://terrikon.com/posts/521183",
-          "source": "Террикон"
-        },
-        {
-          "title": "Нападающего «Интера» обвинили в домашнем насилии (6 мая 2025 г.)",
-          "snippet": "",
-          "url": "https://dynamo.kiev.ua/news/668489-napadayuschego-intera-obvinili-v-domashnem-nasilii",
-          "source": "Динамо Киев от Шурика"
         }
       ],
       "link": "https://imtaqin.id/"
