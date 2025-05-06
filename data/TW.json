@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-06 23:20:57",
+  "lastUpdate": "2025-05-06 23:30:25",
   "data": [
     {
       "title": "美國職棒",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Tue, 6 May 2025 16:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -69,7 +69,7 @@
         {
           "title": "Winter Weather Warnings Issued for 5 States As 3 Feet of Snow To Hit",
           "snippet": "",
-          "url": "https://www.msn.com/en-us/weather/topstories/winter-weather-warnings-issued-for-5-states-as-3-feet-of-snow-to-hit/ar-AA1EfDVf?cvid=26921E7B86E2476DBC06BA908A6EE149&ocid=a2hs",
+          "url": "https://www.msn.com/en-us/weather/topstories/winter-weather-warnings-issued-for-5-states-as-3-feet-of-snow-to-hit/ar-AA1EfDVf",
           "source": "MSN"
         }
       ],
@@ -133,7 +133,7 @@
     },
     {
       "title": "雷達回波",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 6 May 2025 15:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -169,18 +169,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "降雨機率",
-      "trafficCount": "100+",
+      "title": "關稅",
+      "trafficCount": "200+",
       "pubDate": "Tue, 6 May 2025 14:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUY05TfxDsVt_kEe3RV-YFxdunNfVaKJa8841S3mAjktxB7QV_tI4rkXuXcXg",
+      "pictureSource": "奇摩股市",
+      "relatedSearch": [
+        {
+          "title": "〈美股盤後〉Fed決定前市場緊繃 美中貿易缺乏進展 道瓊摔近400點",
+          "snippet": "",
+          "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-fed%E6%B1%BA%E5%AE%9A%E5%89%8D%E5%B8%82%E5%A0%B4%E7%B7%8A%E7%B9%83-%E7%BE%8E%E4%B8%AD%E8%B2%BF%E6%98%93%E7%BC%BA%E4%B9%8F%E9%80%B2%E5%B1%95-%E9%81%93%E7%93%8A%E6%91%94%E8%BF%91400%E9%BB%9E-211343149.html",
+          "source": "奇摩股市"
+        },
+        {
+          "title": "《美股》川普未能紓解關稅疑慮FOMC前標普軟- 新聞",
+          "snippet": "",
+          "url": "https://www.moneydj.com/z/DJA/News/DJANewsDetail_4A4259C2-66A9-4453-AF72-9352B0C63DFF.djhtm",
+          "source": "MoneyDJ"
+        },
+        {
+          "title": "美股｜觀望Fed決議、美貿易談判 美股2連跌 道瓊挫390點",
+          "snippet": "",
+          "url": "https://www.ctee.com.tw/news/20250507700399-430702",
+          "source": "工商時報"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "水庫",
+      "title": "降雨機率",
       "trafficCount": "100+",
-      "pubDate": "Tue, 6 May 2025 14:30:00 -0700",
+      "pubDate": "Tue, 6 May 2025 14:40:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
