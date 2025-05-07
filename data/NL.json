@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-05-07 10:18:19",
+  "lastUpdate": "2025-05-07 10:31:55",
   "data": [
     {
       "title": "jeugdjournaal",
       "trafficCount": "500+",
       "pubDate": "Wed, 7 May 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihbczTxJLPUmbIvfcBKLtQy1tyWv35QGVdB-06c1b8VK4oudhu2gLRPKqU6k",
-      "pictureSource": "NOS Jeugdjournaal",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTeo7SSUF64HsjOkV9EQsX00IdHqQQQKi5PxGBuHxj_KXkdNZo-ORTxEYttVg",
+      "pictureSource": "NOS",
       "relatedSearch": [
-        {
-          "title": "Ochtendjournaal van woensdag 7 mei",
-          "snippet": "",
-          "url": "https://jeugdjournaal.nl/l/2566325",
-          "source": "NOS Jeugdjournaal"
-        },
         {
           "title": "Wekdienst 7/5: Conclaaf begint in Sixtijnse Kapel • Indiase luchtaanval tegen Pakistan",
           "snippet": "",
           "url": "https://nos.nl/l/2566309",
           "source": "NOS"
+        },
+        {
+          "title": "Ochtendjournaal van woensdag 7 mei",
+          "snippet": "",
+          "url": "https://jeugdjournaal.nl/l/2566325",
+          "source": "NOS Jeugdjournaal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,10 +43,10 @@
           "source": "NU"
         },
         {
-          "title": "De PEC Zwolle-metamorfose kan gaan beginnen",
+          "title": "Henry van der Vegt nieuwe hoofdtrainer PEC Zwolle",
           "snippet": "",
-          "url": "https://www.vi.nl/pro/de-pec-zwolle-metamorfose-kan-gaan-beginnen",
-          "source": "Voetbal International"
+          "url": "https://peczwolle.nl/nieuws/henry-van-der-vegt-nieuwe-hoofdtrainer-pec-zwolle",
+          "source": "PEC Zwolle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -73,8 +73,8 @@
         {
           "title": "Dick Van Dyke brengt boek uit vanwege 100e verjaardag",
           "snippet": "",
-          "url": "https://www.msn.com/nl-nl/entertainment/nieuws/dick-van-dyke-brengt-boek-uit-vanwege-100e-verjaardag/ar-AA1EjsgI",
-          "source": "MSN"
+          "url": "https://www.rtl.nl/boulevard/artikel/5507733/dick-van-dyke-brengt-boek-uit-vanwege-100e-verjaardag",
+          "source": "RTL.nl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,9 +167,15 @@
       "title": "a28",
       "trafficCount": "500+",
       "pubDate": "Tue, 6 May 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdjHGqLngTJyCYSGE1RfiFIfdhHFgG55d5QZwv9oJqEO0QDdYEMLcjj9miH3E",
-      "pictureSource": "NOS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtj279u8DZX52fVJMChAhREhdlZP5eKp8rMuTLyq-Gh4pfvSJJ90uRkiOORGY",
+      "pictureSource": "NU",
       "relatedSearch": [
+        {
+          "title": "A28 bij Hoevelaken wordt weer vrijgegeven na urenlange problemen",
+          "snippet": "",
+          "url": "https://www.nu.nl/binnenland/6354898/a28-bij-hoevelaken-wordt-weer-vrijgegeven-na-urenlange-problemen.html",
+          "source": "NU"
+        },
         {
           "title": "A28 bij Hoevelaken weer open na ongeluk vrachtauto",
           "snippet": "",
@@ -177,16 +183,10 @@
           "source": "NOS"
         },
         {
-          "title": "Rijkswaterstaat adviseert reis naar Utrecht uit te stellen na ongeluk op A28",
+          "title": "A28 dicht bij Hoevelaken vanwege gekantelde vrachtwagen",
           "snippet": "",
-          "url": "https://www.nu.nl/binnenland/6354898/rijkswaterstaat-adviseert-reis-naar-utrecht-uit-te-stellen-na-ongeluk-op-a28.html",
-          "source": "NU"
-        },
-        {
-          "title": "A28 weer vrijgegeven: gekantelde vrachtwagen bij knooppunt Hoevelaken zorgde voor urenlange afsluiting",
-          "snippet": "",
-          "url": "https://www.ad.nl/112-nieuws-amersfoort/a28-weer-vrijgegeven-gekantelde-vrachtwagen-bij-knooppunt-hoevelaken-zorgde-voor-urenlange-afsluiting~afaa9f50/",
-          "source": "AD.nl"
+          "url": "https://www.rwsverkeersinfo.nl/nieuws/a28-dicht-bij-hoevelaken-vanwege-gekantelde-vrachtwagen/",
+          "source": "Rijkswaterstaat Verkeersinformatie"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -261,9 +261,9 @@
           "source": "NOS"
         },
         {
-          "title": "Gekonkel al voor het conclaaf begonnen; favoriet voor pausschap van alle kanten onder vuur",
+          "title": "Conclaaf van start: ‘Dan moeten we goed opletten’",
           "snippet": "",
-          "url": "https://www.telegraaf.nl/nieuws/405836489/keiharde-beschuldigingen-en-wilde-geruchten-rond-conclaaf-gedoodverfde-nieuwe-paus-pietro-parolin-van-alle-kanten-onder-vuur",
+          "url": "https://www.telegraaf.nl/video/1164143098/conclaaf-van-start-dan-moeten-we-goed-opletten",
           "source": "Telegraaf"
         },
         {
