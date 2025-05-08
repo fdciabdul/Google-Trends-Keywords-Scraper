@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-05-08 18:00:12",
+  "lastUpdate": "2025-05-08 18:11:27",
   "data": [
+    {
+      "title": "washington post",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 8 May 2025 11:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-NlnpUMsY5zEvfreHxLEB11XjmEpRTykpbcJ07V9pV8DxYKoZyGsVZYlo-A0",
+      "pictureSource": "The Washington Post",
+      "relatedSearch": [
+        {
+          "title": "U.S. pushes nations facing tariffs to approve Musk’s Starlink, cables show",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/business/2025/05/07/elon-musk-starlink-trump-tariffs/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "US is pushing Starlink on nations facing tariffs as Musk stands to benefit from trade deals: report",
+          "snippet": "",
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/starlink-elon-musk-trump-tariffs-b2746783.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "US pushes nations facing tariffs to approve Musk's Starlink, Washington Post reports",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/us/us-pushes-nations-facing-tariffs-approve-musks-starlink-washington-post-reports-2025-05-07/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "trump vestido de papa",
       "trafficCount": "200+",
@@ -61,26 +89,26 @@
       "title": "peru",
       "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTT8rb4TpW7Z37W7o7DeY28-9zvXGh3fh9c68DhFekM2axGIMKkPBXSNSnIlcQ",
-      "pictureSource": "ABC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHegit2hQQ9ZLuo122i9DqmMfFN0S_usfIiuj1ugakxfjqlZ36oQYHMs8xtBI",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Migrantes venezolanos en Perú afectados por recorte de fondos de Usaid",
+          "title": "Curfew in Peru province after 13 mine workers killed",
           "snippet": "",
-          "url": "https://www.abc.es/economia/migrantes-venezolanos-peru-afectados-recorte-fondos-usaid-20250508174515-vi.html",
-          "source": "ABC"
+          "url": "https://www.bbc.com/news/articles/c0l033ezg1po",
+          "source": "BBC"
         },
         {
-          "title": "El doloroso impacto de la suspensión de fondos de cooperación de EE.UU. en Perú",
+          "title": "Grisly Peru mining murders spotlight 'gold curse' in the Andes",
           "snippet": "",
-          "url": "https://www.eldiario.es/desalambre/doloroso-impacto-suspension-fondos-cooperacion-ee-uu-peru_1_12283287.html",
-          "source": "elDiario.es"
+          "url": "https://www.reuters.com/world/americas/grisly-peru-mining-murders-spotlight-gold-curse-andes-2025-05-07/",
+          "source": "Reuters"
         },
         {
-          "title": "Economía/Turismo.- España y Perú se alían para impulsar la industria hotelera peruana",
+          "title": "Gold mining suspended in Peru’s north after 13 miners killed",
           "snippet": "",
-          "url": "https://www.bolsamania.com/peru/noticias/empresas/economiaturismo--espana-y-peru-se-alian-para-impulsar-la-industria-hotelera-peruana--19600942.html",
-          "source": "Bolsamania"
+          "url": "https://www.theguardian.com/world/2025/may/05/perus-north-miners-killed",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,54 @@
       "title": "donald trump",
       "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMWDPRYCY53HBdGnxIwTPEXR45tcclOHMNdBjWDwXTS6HKMaB903m3-CCmEwQ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwdhaeNrM-fKtdu6mKlpN7iXSc6CokloeLFUNj_zQ9DS7cMPnb3EC9BjjzbVI",
+      "pictureSource": "EL PAÍS",
+      "relatedSearch": [
+        {
+          "title": "Estados Unidos y el Reino Unido anuncian un acuerdo comercial para mitigar los aranceles de Trump",
+          "snippet": "",
+          "url": "https://elpais.com/internacional/2025-05-08/el-reino-unido-anuncia-un-inminente-un-pacto-comercial-con-ee-uu-para-mitigar-el-impacto-de-los-aranceles-de-trump.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Acuerdo comercial UK- EEUU: tras el día de 'la liberación', Trump intenta recomponer la situación",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/mundo/2025-05-08/reino-unido-eeuu-acuerdo-comercial-1hms_4125115/",
+          "source": "El Confidencial"
+        },
+        {
+          "title": "Maduro dice que el Ejército Rojo \"liberó a la humanidad\" y le pertenece el triunfo",
+          "snippet": "",
+          "url": "https://www.abc.es/espana/maduro-dice-ejercito-rojo-libero-humanidad-pertenece-20250508184523-vi.html",
+          "source": "ABC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trump pope",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 8 May 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4dzlom6kf6T062dJ0s338QsKvt07XtduRkbyVqmdyQh3-A4KnlH4-WuvmmE4",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Trump announces trade deal with UK as tariffs continue to spark economic uncertainty",
+          "title": "Live updates: Conclave elects Cardinal Robert Prevost to be Pope",
           "snippet": "",
-          "url": "https://www.cnn.com/business/live-news/trump-us-uk-trade-announcement",
+          "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
           "source": "CNN"
         },
         {
-          "title": "Cars, steel and hormone-fed beef: the key points of the UK/US trade deal",
+          "title": "Could there be an American pope? Here's a look at who is eligible",
           "snippet": "",
-          "url": "https://www.theguardian.com/politics/2025/may/08/cars-steel-and-hormone-fed-beef-the-key-points-of-the-ukus-trade-deal",
-          "source": "The Guardian"
+          "url": "https://www.kgw.com/article/news/nation-world/american-pope-conclave-heres-a-look-at-eligibility/507-cd76ffdb-a4d8-4640-ad50-bfd7b016af7c",
+          "source": "KGW"
         },
         {
-          "title": "Trump Announces UK Trade Deal, but Leaves 10% Tariff in Place: Live Updates",
+          "title": "Trump criticised after posting AI image of himself as Pope",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/05/08/us/trump-uk-trade-news",
-          "source": "The New York Times"
+          "url": "https://www.bbc.com/news/articles/cdrg8zkz8d0o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,34 +193,6 @@
           "snippet": "",
           "url": "https://noticiastrabajo.huffingtonpost.es/economia/pensiones/adios-a-jubilarse-con-65-anos-el-gobierno-confirma-cual-es-la-edad-maxima-de-jubilacion/",
           "source": "El HuffPost"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trump pope",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 8 May 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4dzlom6kf6T062dJ0s338QsKvt07XtduRkbyVqmdyQh3-A4KnlH4-WuvmmE4",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Live updates: Conclave elects Cardinal Robert Prevost to be Pope",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
-          "source": "CNN"
-        },
-        {
-          "title": "Could there be an American pope? Here's a look at who is eligible",
-          "snippet": "",
-          "url": "https://www.kgw.com/article/news/nation-world/american-pope-conclave-heres-a-look-at-eligibility/507-cd76ffdb-a4d8-4640-ad50-bfd7b016af7c",
-          "source": "KGW"
-        },
-        {
-          "title": "Trump criticised after posting AI image of himself as Pope",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cdrg8zkz8d0o",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,66 +245,38 @@
           "source": "La Voz de Galicia"
         },
         {
-          "title": "Los escoltas de Yolanda Díaz frenan a un hombre agresivo armado con dos cuchillos",
+          "title": "Los escoltas de Yolanda Díaz detienen a un hombre con dos cuchillos por un incidente cerca del Ateneo de Madrid",
           "snippet": "",
-          "url": "https://www.larazon.es/espana/escoltas-yolanda-diaz-frenan-hombre-agresivo-armado-dos-cuchillos_20250508681cdbb15d71dc778a9da580.html",
-          "source": "La Razón"
+          "url": "https://www.europapress.es/nacional/noticia-sucesos-escoltas-yolanda-diaz-detienen-hombre-dos-cuchillos-incidente-cerca-ateneo-madrid-20250508192255.html",
+          "source": "Europa Press"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chiclayo",
+      "title": "trump",
       "trafficCount": "2000+",
       "pubDate": "Thu, 8 May 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhVTeHYcpqtEyBW5dCNCGa2XtohZmGkj6Kb7_5iP0m0qetU2RMXzCmdE9oPBo",
-      "pictureSource": "Plataforma del Estado Peruano",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8J2b5ExyToatsm-_rJsAfwsiin1ar-1nW9CTgyq9tScn9WOTuwuoedLltKFc",
+      "pictureSource": "NBC4 Washington",
       "relatedSearch": [
         {
-          "title": "MEJORA DEL TRÁNSITO: Avenida Luis Gonzales es vía de doble circulación desde el 2 de mayo",
+          "title": "Trump says he'll pull the nomination of Ed Martin for DC US Attorney after concerns of partisanship",
           "snippet": "",
-          "url": "https://www.gob.pe/institucion/munichiclayo/noticias/1162548-mejora-del-transito-avenida-luis-gonzales-es-via-de-doble-circulacion-desde-el-2-de-mayo",
-          "source": "Plataforma del Estado Peruano"
+          "url": "https://www.nbcwashington.com/news/local/trump-says-hell-pull-the-nomination-of-ed-martin-who-defended-jan-6-rioters-for-dc-us-attorney/3909407/",
+          "source": "NBC4 Washington"
         },
         {
-          "title": "Quién es el nuevo papa León XIV: el estadounidense Robert Francis Prevost",
+          "title": "Column | Why Sen. Thom Tillis was willing to tank Trump’s D.C. prosecutor pick",
           "snippet": "",
-          "url": "https://elpais.com/internacional/2025-05-08/quien-es-el-nuevo-papa-leon-xiv-el-estadounidense-robert-francis-prevost.html",
-          "source": "EL PAÍS"
+          "url": "https://www.washingtonpost.com/politics/2025/05/08/why-sen-thom-tillis-is-willing-oppose-trumps-dc-prosecutor-pick/",
+          "source": "The Washington Post"
         },
         {
-          "title": "'Habemus Papam': el cardenal Robert Prevost es el Papa León XIV",
+          "title": "Trump backs down from Senate fight over DC attorney pick Ed Martin and his Jan. 6 ties",
           "snippet": "",
-          "url": "https://www.abc.es/sociedad/habemus-papam-cardenal-nuevo-jefe-iglesia-catolica-20250508075318-nt.html",
-          "source": "ABC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "leon",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 8 May 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkzZts996i7VrOt_7ZwivrdhKLa5oTOGG4M58gkzJFcWJQDkXI_Ed5sQ57v28",
-      "pictureSource": "Diario de León",
-      "relatedSearch": [
-        {
-          "title": "El lugar de León elegido para visitar una vez en la vida, según National Geographic",
-          "snippet": "",
-          "url": "https://www.diariodeleon.es/ocio/destinos/250508/2041258/lugar-leon-elegido-visitar-vez-vida-national-geographic.html",
-          "source": "Diario de León"
-        },
-        {
-          "title": "Parece otro planeta pero está en España: así es el escondite romano en España que escondía toneladas de oro",
-          "snippet": "",
-          "url": "https://www.elespanol.com/curiosidades/20250508/parece-planeta-espana-escondite-romano-escondia-toneladas-oro/1003743700061_0.html",
-          "source": "El Español"
-        },
-        {
-          "title": "La maravilla del mes está en Castilla y León: Las Médulas, el oro que sostuvo un imperio",
-          "snippet": "",
-          "url": "https://historia.nationalgeographic.com.es/a/maravilla-mes-historia-national-geographic-esta-bierzo-medulas_23550",
-          "source": "Historia National Geographic"
+          "url": "https://www.usatoday.com/story/news/politics/2025/05/08/trump-dc-attorney-ed-martin-gop-opposition/83513513007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
