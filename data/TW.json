@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-08 23:24:49",
+  "lastUpdate": "2025-05-08 23:33:52",
   "data": [
     {
       "title": "台鐵",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 8 May 2025 16:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo0_bTm92So4RUXpLdnCxucoZuLHv4sM6dqifq2oQKvGDS4O4FbU4mTyhz59U",
       "pictureSource": "奇摩新聞",
@@ -30,15 +30,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "火車",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 8 May 2025 16:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "波杜基林特 對 熱刺",
       "trafficCount": "100+",
       "pubDate": "Thu, 8 May 2025 16:10:00 -0700",
@@ -62,6 +53,34 @@
           "snippet": "",
           "url": "https://www.singtao.ca/7148632/2025-05-08/news-%E6%AD%90%E9%9C%B8%E7%9B%83+%7C+%E7%86%B1%E5%88%BA%E5%B0%8F%E5%8B%9D%E6%B3%A2%E6%9D%9C%E5%9F%BA%E6%9E%97%E7%89%B9%E3%80%8C%E5%92%8C%E3%80%8D%E5%91%B3/",
           "source": "singtao.ca"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "火車",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 8 May 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNAbDPrIoWaH-WEkhkR_PRelSfpgHyIBkMG0Lswbpxj-zrlAJt9j0toXdhkLA",
+      "pictureSource": "奇摩新聞",
+      "relatedSearch": [
+        {
+          "title": "越南籍移工搭火車掉400萬現金已做筆錄 檢警將釐清資金來源",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E8%B6%8A%E5%8D%97%E7%B1%8D%E7%A7%BB%E5%B7%A5%E6%90%AD%E7%81%AB%E8%BB%8A%E6%8E%89400%E8%90%AC%E7%8F%BE%E9%87%91%E5%B7%B2%E5%81%9A%E7%AD%86%E9%8C%84-%E6%AA%A2%E8%AD%A6%E5%B0%87%E9%87%90%E6%B8%85%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90-051315698.html",
+          "source": "奇摩新聞"
+        },
+        {
+          "title": "越南移工搭火車遺失400萬鉅款 錢找回卻無法領原因曝",
+          "snippet": "",
+          "url": "https://udn.com/news/story/7320/8727750",
+          "source": "聯合新聞網"
+        },
+        {
+          "title": "越籍移工搭火車掉400萬現金檢警將釐清資金來源| 社會",
+          "snippet": "",
+          "url": "https://www.cna.com.tw/news/asoc/202505080406.aspx",
+          "source": "中央社 CNA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -124,28 +143,28 @@
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 8 May 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsjIkTSDqslEC2KjW0XzwRqBg7cGmdtF5naRltWHHytD_07PemFjjF1U9H-yw",
-      "pictureSource": "Yahoo News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNvIiE0GMqom_rT94lkUy2Mm7ohlKKlWOmz0qKNUNvWHHeVAp055PlM4AjC1Y",
+      "pictureSource": "Durham Herald Sun",
       "relatedSearch": [
         {
-          "title": "Two-inch hail is possible in Knoxville. Here's the severe weather chances, storm timing",
+          "title": "Penny-sized hail forecast with thunderstorms in Madison and Buncombe counties Thursday",
           "snippet": "",
-          "url": "https://news.yahoo.com/two-inch-hail-possible-knoxville-163402322.html",
-          "source": "Yahoo News"
-        },
-        {
-          "title": "SEVERE THUNDERSTORMS SLAM PARTS OF EAST AND MIDDLE TN THURSDAY AFTERNOON",
-          "snippet": "",
-          "url": "https://3bmedianews.com/severe-thunderstorms-slam-parts-of-east-and-middle-tn-thursday-afternoon/",
-          "source": "3B Media News"
-        },
-        {
-          "title": "Severe thunderstorm watch affecting Cherokee and Clay counties until Thursday night",
-          "snippet": "",
-          "url": "https://www.heraldsun.com/news/weather-news/article306015176.html",
+          "url": "https://www.heraldsun.com/news/weather-news/article306015846.html",
           "source": "Durham Herald Sun"
+        },
+        {
+          "title": "Severe threat tonight",
+          "snippet": "",
+          "url": "https://www.wyff4.com/article/severe-threat-tonight/64717722",
+          "source": "WYFF"
+        },
+        {
+          "title": "Large hail, damaging winds, thunderstorms in forecast for Greenville, Spartanburg, Anderson",
+          "snippet": "",
+          "url": "https://www.greenvilleonline.com/story/news/local/2025/05/08/greenville-spartanburg-anderson-forecast-rain-wind-hail-national-weather-service-upstate/83515740007/",
+          "source": "Greenville Online"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -208,7 +227,7 @@
     },
     {
       "title": "曼聯 對 畢爾包",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 14:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwYaWL1SaVMiwq2c0iPLsZY3JM841pzaES2CCLRN_a-vw-1vJwrU1ZoMzZtv8",
       "pictureSource": "奇摩運動",
@@ -235,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "europa league",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 8 May 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYmoEKOnut20tXtET_FqeowHoSwkyYyBfujYZ13t63_a8h1xn1QtDmYVM2SF0",
-      "pictureSource": "UEFA.com",
+      "title": "man utd đấu với ath. bilbao",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 8 May 2025 13:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPamYIcSbJNrglcFtqHOXI0jwbxWExPcbOr6xKua7gqmErq3KwsKL8H2VHG9I",
+      "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
-          "title": "Inter 4-3 Barcelona aet (agg: 7-6): Davide Frattesi settles epic semi second leg to send Nerazzurri into final",
+          "title": "Video bóng đá MU - Athletic Bilbao: Đỉnh cao ngược dòng, Mason Mount chói sáng (Europa League)",
           "snippet": "",
-          "url": "https://www.uefa.com/uefachampionsleague/news/0299-1db1e0d054c8-02dafe0b7237-1000--inter-4-3-barcelona-aet-agg-7-6-davide-frattesi-settles-/",
-          "source": "UEFA.com"
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-athletic-bilbao-hang-thu-toi-do-quy-do-khon-don-europa-league-c48a1663092.html",
+          "source": "Tin tức 24h"
         },
         {
-          "title": "Mount magic against Athletic leads Man Utd to Europa League final",
+          "title": "Paul Scholes chỉ trích quyết định của Garnacho trong trận bán kết Europa League",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2025/5/8/man-utd-beat-athletic-club-to-set-up-europa-league-final-with-tottenham",
-          "source": "Al Jazeera"
+          "url": "https://bongda.com.vn/paul-scholes-chi-trich-quyet-dinh-cua-garnacho-trong-tran-ban-ket-europa-league-d783676.html",
+          "source": "BongDa.com.vn"
         },
         {
-          "title": "Tottenham to face Man Utd in all-English Europa League final",
+          "title": "Nếu có đội nào tạo nên lịch sử không mong muốn ở châu Âu, đó chính là Manchester United của Ruben Amorim",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/tottenham-face-man-utd-english-223100628.html",
-          "source": "Yahoo News UK"
+          "url": "https://thethao.sggp.org.vn/neu-co-doi-nao-tao-nen-lich-su-khong-mong-muon-o-chau-au-do-chinh-la-manchester-united-cua-ruben-amorim-post794327.html",
+          "source": "BÁO SÀI GÒN GIẢI PHÓNG"
         }
       ],
       "link": "https://imtaqin.id/"
