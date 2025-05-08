@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-05-08 16:40:47",
+  "lastUpdate": "2025-05-08 16:51:27",
   "data": [
     {
-      "title": "bbc",
+      "title": "bbc news",
       "trafficCount": "200+",
-      "pubDate": "Thu, 8 May 2025 09:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdOEPdm7dq-sN7eFMAPnQqi3FsSswJDH3QUeyqvRZ97lhjTWtAlyM93vI7qQ4",
-      "pictureSource": "NDTV",
+      "pubDate": "Thu, 8 May 2025 09:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPGWv74VzDgQ7CxXcv4rUxM3JvQpkIQ-Qwb3rNTDYkGHvpQjE3JX0NO611rh4",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Pakistan F-16 Shot Down By Indian Surface-To-Air Missile: Sources",
+          "title": "‘It’s so gloomy’: some of UK’s top broadcasters admit to avoiding news",
           "snippet": "",
-          "url": "https://www.ndtv.com/india-news/pakistan-f-16-shot-down-by-indian-surface-to-air-missile-sources-8365253",
+          "url": "https://www.theguardian.com/media/2025/may/08/uk-top-broadcasters-admit-to-avoiding-news",
+          "source": "The Guardian"
+        },
+        {
+          "title": "How Peter Dutton's Wile E Coyote campaign flew off the cliff",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-05-08/how-peter-dutton-campaign-flew-off-the-cliff/105262896",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "The Peter principle: how Dutton’s election campaign in Dickson went horribly wrong",
+          "snippet": "",
+          "url": "https://www.theguardian.com/australia-news/2025/may/08/the-peter-principle-how-duttons-election-campaign-in-dickson-went-horribly-wrong",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pakistan attack on india",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 8 May 2025 09:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcZk4QFQVAMhzt-HxKfr7KS7KfUTyAlwzqCT5j-x4a-dxOWeFc2fVa0Tgp4qg",
+      "pictureSource": "The Hindu",
+      "relatedSearch": [
+        {
+          "title": "Operation Sindoor updates: India says choice of de-escalation is with Pakistan",
+          "snippet": "",
+          "url": "https://www.thehindu.com/news/national/pahalgam-attack-operation-sindoor-live-updates-may-8-2025/article69551791.ece",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Have India and Pakistan started a drone war?",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/5/8/have-india-and-pakistan-started-a-drone-war",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "India and Pakistan: A Timeline of Tensions Over Kashmir",
+          "snippet": "",
+          "url": "https://time.com/7283794/india-pakistan-kashmir-tensions-timeline-history-conflict/",
+          "source": "Time Magazine"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 8 May 2025 09:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREasYg3mo73EcsiIzEr7_38f8ud-uhCyiLA_uokW_Jllu7DhKam44W-QrO1aQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Pakistan vows retaliation after India launches strikes in wake of Kashmir massacre",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/india-pakistan-operation-sindoor-05-08-25-intl-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "\"Pak Launched Targeted Attacks On Sikhs\": Government Cites Poonch Gurdwara",
+          "snippet": "",
+          "url": "https://www.ndtv.com/india-news/pak-launched-targeted-attacks-on-sikhs-government-cites-poonch-gurdwara-8364293",
           "source": "NDTV"
         },
         {
-          "title": "India-Pakistan live: Air raid sirens sound in Jammu after multiple blasts",
+          "title": "Pakistan again vows retaliation against India amid escalating exchanges",
           "snippet": "",
-          "url": "https://www.independent.co.uk/asia/south-asia/india-pakistan-kashmir-strikes-poonch-war-map-live-updates-b2747121.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "US Consulate General in Pakistan's Lahore directs staff to shelter in place",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/us-consulate-general-pakistans-lahore-directs-staff-shelter-place-2025-05-08/",
-          "source": "Reuters"
+          "url": "https://www.aljazeera.com/news/liveblog/2025/5/8/india-pakistan-live-heavy-shelling-along-line-of-control-dividing-kashmir",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,10 +183,10 @@
           "source": "ESPNcricinfo"
         },
         {
-          "title": "Floodlights at Dharamshala stadium go off during IPL match amid Pak attack in parts of India, match cancelled",
+          "title": "IPL 2025: Punjab Kings vs Delhi Capitals match in Dharamsala called off",
           "snippet": "",
-          "url": "https://www.indiatoday.in/india/story/dharamshala-stadium-ipl-match-cancelled-pak-attack-match-cancelled-2721816-2025-05-08",
-          "source": "India Today"
+          "url": "https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2025-pbks-vs-dc-dharamsala-match-interrupted-blackout-floodlights-off-india-pakistan-operation-sindoor/article69554451.ece",
+          "source": "Sportstar"
         },
         {
           "title": "Punjab Kings vs Delhi Capitals LIVE Score, IPL 2025: PBKS vs DC Called Off, Report Says Fans Asked To Evacuate Stadium Due To...",
@@ -155,10 +211,10 @@
           "source": "BBC"
         },
         {
-          "title": "British & Irish Lions: Pollock in, Farrell out and Itoje captain for Australia tour – as it happened",
+          "title": "British & Irish Lions: Andy Farrell hints door still open for Owen Farrell",
           "snippet": "",
-          "url": "https://www.theguardian.com/sport/live/2025/may/08/british-irish-lions-squad-announcement-tour-australia-rugby-union-live",
-          "source": "The Guardian"
+          "url": "https://www.espn.com.au/rugby/story/_/id/45054054/british-irish-lions-andy-farrell-hints-door-open-owen-farrell",
+          "source": "ESPN"
         },
         {
           "title": "Lions squad 2025 live: Andy Farrell names players for Australia tour",
@@ -199,7 +255,7 @@
     },
     {
       "title": "trump tariffs",
-      "trafficCount": "1000+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 8 May 2025 05:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj0blf3UmtprpLWi_BVxlaXJ-Vlw6-Zpn3XUxZM6ow9P3QHKHWr1XsYqy34u0",
       "pictureSource": "The Sydney Morning Herald",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.skynews.com.au/world-news/united-states/protests-erupt-in-china-after-furious-workers-demand-back-pay-as-donald-trumps-tariffs-on-imports-jolt-economy/news-story/4cc42e909b49ea310ff4e0f0dbfbb9df",
           "source": "Sky News Australia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jack della maddalena",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 8 May 2025 05:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVzpYWZuu2h58p_089ahAittQ5WrroquwLtaHNm-sVH-hVYAs3yJy8wGXY1nM",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Expert picks, best bets: What's Della Maddalena's path to a title win?",
-          "snippet": "",
-          "url": "https://www.espn.com.au/mma/story/_/id/45041226/ufc-315-expert-picks-best-bets-belal-muhammad-vs-jack-della-maddalena",
-          "source": "ESPN"
-        },
-        {
-          "title": "‘The guy is a legend’: How iconic ‘Green Machine’ win inspired our newest title challenger",
-          "snippet": "",
-          "url": "https://www.foxsports.com.au/ufc/the-guy-is-a-legend-the-insane-aussie-combat-upset-that-inspired-our-newest-ufc-title-challenger/news-story/84d175a50aed4b20c00c7984cd370bf3",
-          "source": "Fox Sports"
-        },
-        {
-          "title": "“I’m going to do your boy dirty!”",
-          "snippet": "",
-          "url": "https://www.heraldsun.com.au/sport/ufc/im-going-to-do-your-boy-dirty/video/f9965f40908cf50c5d62087df269fed5",
-          "source": "Herald Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "iga świątek",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 8 May 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCPM23K7HrmHL9ljOnmNg3Y8qBuODt8a0Zi3IyjMoD_SP1vO0qf5Z-ZrK4Bw0",
-      "pictureSource": "Przegląd Sportowy Onet",
-      "relatedSearch": [
-        {
-          "title": "Nigdy wcześniej nie widzieliśmy tego u Igi Świątek. \"Aż krzyknąłem\"",
-          "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/tenis/nigdy-wczesniej-nie-widzielismy-tego-u-igi-swiatek-az-krzyknalem/js1d6q6",
-          "source": "Przegląd Sportowy Onet"
-        },
-        {
-          "title": "52 minuty. Demolka w meczu Igi Świątek",
-          "snippet": "",
-          "url": "https://sportowefakty.wp.pl/tenis/1187293/53-minuty-demolka-w-meczu-igi-swiatek",
-          "source": "SportoweFakty"
-        },
-        {
-          "title": "74 minuty i po wszystkim w meczu Collins - Ruse. Znamy rywalkę Świątek w trzeciej rundzie",
-          "snippet": "",
-          "url": "https://sport.interia.pl/iga-swiatek/news-74-minuty-i-po-wszystkim-w-meczu-collins-ruse-znamy-rywalke-,nId,7961894",
-          "source": "Interia Sport"
         }
       ],
       "link": "https://imtaqin.id/"
