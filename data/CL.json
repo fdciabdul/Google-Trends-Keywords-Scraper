@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-08 14:48:20",
+  "lastUpdate": "2025-05-08 14:55:20",
   "data": [
     {
       "title": "lineas del metro",
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tomás barrios",
-      "trafficCount": "10000+",
-      "pubDate": "Thu, 8 May 2025 06:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAPwd1mnQvJzZpaulHlneu6f550FLlpi3IlDvc8jxN7-VVLU0GoZ0wFFWe5Bw",
-      "pictureSource": "Emol",
-      "relatedSearch": [
-        {
-          "title": "¡En vivo! Barrios enfrenta a Jaume Munar, 66 del mundo, en Roma",
-          "snippet": "",
-          "url": "https://www.emol.com/noticias/Deportes/2025/05/08/1165727/tomas-barrios-munar-roma.html",
-          "source": "Emol"
-        },
-        {
-          "title": "Tomás Barrios hace su estreno en el Masters 1.000 de Madrid",
-          "snippet": "",
-          "url": "https://cooperativa.cl/noticias/deportes/tenis/chilenos/tomas-barrios-hace-su-estreno-en-el-masters-1-000-de-madrid/2025-05-08/090958.html",
-          "source": "Cooperativa.cl"
-        },
-        {
-          "title": "Nicolás Jarry consigue un sólido triunfo en su debut en el Masters 1000 de Roma",
-          "snippet": "",
-          "url": "https://www.latercera.com/el-deportivo/noticia/nicolas-jarry-consigue-un-solido-triunfo-en-su-debut-en-el-masters-1000-de-roma/",
-          "source": "La Tercera"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "cardenal pietro parolin",
       "trafficCount": "1000+",
       "pubDate": "Thu, 8 May 2025 06:00:00 -0700",
@@ -115,7 +87,7 @@
     },
     {
       "title": "allison göhler",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 05:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy-bQ426JI2K1SUWg0aE9DeNKw0TP4D7JMNM6nesTJ6et4n20T58f9P-HMqec",
       "pictureSource": "La Cuarta",
@@ -198,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "junaeb",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 8 May 2025 04:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtsMyNs06-TR_TpQZ8shDVTwEN2kwlzvgVARNalIL5GK8C26afvWgFN1QUI7k",
-      "pictureSource": "El Dínamo",
-      "relatedSearch": [
-        {
-          "title": "¿Hasta cuándo se puede revalidar la TNE?",
-          "snippet": "",
-          "url": "https://www.eldinamo.cl/buen-dato/2025/05/06/hasta-cuando-se-puede-revalidar-la-tne/",
-          "source": "El Dínamo"
-        },
-        {
-          "title": "Convocan a 63.409 estudiantes de Los Lagos a revalidar la Tarjeta Nacional Estudiantil 2025",
-          "snippet": "",
-          "url": "https://www.soychile.cl/Puerto-Montt/Sociedad/2025/05/05/904739/convocan-estudiantes-revalidar-tne.html",
-          "source": "SoyChile.cl"
-        },
-        {
-          "title": "TNE 2025: ¿Cuál es el plazo para poder revalidar el pase y cómo hacerlo?",
-          "snippet": "",
-          "url": "https://www.rockandpop.cl/2025/05/tne-2025-cual-es-el-plazo-para-poder-revalidar-el-pase-y-como-hacerlo/",
-          "source": "Rock&Pop"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "roma open",
       "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 04:00:00 -0700",
@@ -254,29 +198,85 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "junaeb",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 8 May 2025 04:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtsMyNs06-TR_TpQZ8shDVTwEN2kwlzvgVARNalIL5GK8C26afvWgFN1QUI7k",
+      "pictureSource": "El Dínamo",
+      "relatedSearch": [
+        {
+          "title": "¿Hasta cuándo se puede revalidar la TNE?",
+          "snippet": "",
+          "url": "https://www.eldinamo.cl/buen-dato/2025/05/06/hasta-cuando-se-puede-revalidar-la-tne/",
+          "source": "El Dínamo"
+        },
+        {
+          "title": "Convocan a 63.409 estudiantes de Los Lagos a revalidar la Tarjeta Nacional Estudiantil 2025",
+          "snippet": "",
+          "url": "https://www.soychile.cl/puerto-montt/sociedad/2025/05/05/904739/convocan-estudiantes-revalidar-tne.html",
+          "source": "SoyChile.cl"
+        },
+        {
+          "title": "TNE 2025: ¿Cuál es el plazo para poder revalidar el pase y cómo hacerlo?",
+          "snippet": "",
+          "url": "https://www.rockandpop.cl/2025/05/tne-2025-cual-es-el-plazo-para-poder-revalidar-el-pase-y-como-hacerlo/",
+          "source": "Rock&Pop"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tomas barrios",
+      "trafficCount": "10000+",
+      "pubDate": "Thu, 8 May 2025 03:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAPwd1mnQvJzZpaulHlneu6f550FLlpi3IlDvc8jxN7-VVLU0GoZ0wFFWe5Bw",
+      "pictureSource": "Emol",
+      "relatedSearch": [
+        {
+          "title": "¡En vivo! Barrios enfrenta a Jaume Munar, 66 del mundo, en Roma",
+          "snippet": "",
+          "url": "https://www.emol.com/noticias/Deportes/2025/05/08/1165727/tomas-barrios-munar-roma.html",
+          "source": "Emol"
+        },
+        {
+          "title": "Tomás Barrios hace su estreno en el Masters 1.000 de Madrid",
+          "snippet": "",
+          "url": "https://cooperativa.cl/noticias/deportes/tenis/chilenos/tomas-barrios-hace-su-estreno-en-el-masters-1-000-de-madrid/2025-05-08/090958.html",
+          "source": "Cooperativa.cl"
+        },
+        {
+          "title": "Nicolás Jarry consigue un sólido triunfo en su debut en el Masters 1000 de Roma",
+          "snippet": "",
+          "url": "https://www.latercera.com/el-deportivo/noticia/nicolas-jarry-consigue-un-solido-triunfo-en-su-debut-en-el-masters-1000-de-roma/",
+          "source": "La Tercera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfg2WhjMZKsbF6OSVyMGkdEeHe5lSK2L1ZMG16qWu8RagUc2jDvKV2XqlO1n8",
-      "pictureSource": "NJ.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61hTSZfWlTYQkb2XBvMO5dug_Z0MZwqBTMUOF6dmcNzP8DBuPs-jyMVn5KWw",
+      "pictureSource": "AOL.com",
       "relatedSearch": [
         {
-          "title": "N.J. weather: Thunderstorms with up to 3 inches of rain in forecast starting tomorrow",
+          "title": "Damaging hail threatens Helene-ravaged North Carolina ahead of heavy rain, flash flood risk in Southeast",
           "snippet": "",
-          "url": "https://www.nj.com/weather/2025/05/nj-weather-thunderstorms-with-up-to-3-inches-of-rain-in-forecast-starting-tomorrow.html",
-          "source": "NJ.com"
+          "url": "https://www.aol.com/rain-rain-away-widespread-rainfall-040240329.html",
+          "source": "AOL.com"
         },
         {
-          "title": "Storms to soak Garden State with downpours through Friday before sunny weekend break",
+          "title": "Showers and storms return to Maryland later today into Friday",
           "snippet": "",
-          "url": "https://www.shorenewsnetwork.com/2025/05/08/storms-to-soak-garden-state-with-downpours-through-friday-before-sunny-weekend-break/",
-          "source": "Shore News Network"
+          "url": "https://www.cbsnews.com/baltimore/news/showers-and-storms-return-to-maryland-later-today-into-friday-with-beautiful-mothers-day-in-baltimore/",
+          "source": "CBS News"
         },
         {
-          "title": "Dreary, Foggy Tuesday in Newark Brings Rain, Localized Flooding Concerns",
+          "title": "Good chance for scattered showers, thunderstorms Thursday | KENS 5 Weather Impact Forecast",
           "snippet": "",
-          "url": "https://www.rlsmedia.com/node/59805",
-          "source": "RLS Media"
+          "url": "https://www.kens5.com/video/weather/good-chance-for-scattered-showers-thunderstorms-thursday-kens-5-weather-impact-forecast/273-37504cdc-982b-4ac1-b13c-463346b7629b",
+          "source": "kens5.com"
         }
       ],
       "link": "https://imtaqin.id/"
