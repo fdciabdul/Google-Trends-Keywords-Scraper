@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-05-08 17:30:39",
+  "lastUpdate": "2025-05-08 17:39:01",
   "data": [
     {
       "title": "new pope",
       "trafficCount": "200+",
       "pubDate": "Thu, 8 May 2025 10:20:00 -0700",
-      "picture": "",
-      "pictureSource": "Time Magazine",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxjR8RAXMXkqez7rbBq4VAoXDBsNI6-mxSPVq56RzYfF4tPbIQyFlp_-FmkE",
+      "pictureSource": "Vatican News",
       "relatedSearch": [
-        {
-          "title": "10 Surprising Facts About Papal Conclaves",
-          "snippet": "",
-          "url": "https://time.com/7282265/papal-conclaves-surprising-facts-history/",
-          "source": "Time Magazine"
-        },
         {
           "title": "The Conclave from the Middle Ages to the present day",
           "snippet": "",
           "url": "https://www.vaticannews.va/en/pope/news/2025-05/the-conclave-from-the-middle-ages-to-our-days.html",
           "source": "Vatican News"
+        },
+        {
+          "title": "Black smoke vs. white smoke: What does each color mean during conclave?",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/news/world/2025/05/07/pope-conclave-black-white-smoke/83457329007/",
+          "source": "USA Today"
         },
         {
           "title": "How does the conclave pick a new pope? 8 things to know",
@@ -89,34 +89,6 @@
       "title": "погода завтра",
       "trafficCount": "50000+",
       "pubDate": "Thu, 8 May 2025 08:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaw6KfAWbIrspEOFjRfmWXthOLEC3VNNn1V8xJMlDclTJH9qdOg-ID2k7SS6c",
-      "pictureSource": "Диалог.UA",
-      "relatedSearch": [
-        {
-          "title": "Завтра Украину накроет мощный циклон: какие области зальют дожди",
-          "snippet": "",
-          "url": "https://www.dialog.ua/ukraine/313551_1746699379",
-          "source": "Диалог.UA"
-        },
-        {
-          "title": "Украину накроет новая волна холода — прогноз погоды на завтра",
-          "snippet": "",
-          "url": "https://novyny.live/ru/meteo/ukrayinu-nakriie-nova-khvilia-kholodu-prognoz-pogodi-na-zavtra-252354.html",
-          "source": "Новини Live"
-        },
-        {
-          "title": "Мокрый снег, заморозки и дождь: украинцам назвали дату опасной погоды",
-          "snippet": "",
-          "url": "https://glavred.info/synoptic/mokryy-sneg-zamorozki-i-dozhd-ukraincam-nazvali-datu-opasnoy-pogody-10662800.html",
-          "source": "Главред"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода на завтра",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 8 May 2025 07:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSj9wdOexE9f4kDo1JSRMlUUU-nt0ssWlK4MGAUJwKsSc5XnMCWY6tmC8jhFI",
       "pictureSource": "Новини Live",
       "relatedSearch": [
@@ -241,6 +213,34 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "нур",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 7 May 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKV2xEOwl6UP1nzuOGyiuRs0WgLQNa8NrUsEk2tfOZP8nhzf2qPxH1tbjdZac",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Конфликт Индии и Пакистана: МИД Казахстана сделал важное заявление",
+          "snippet": "",
+          "url": "https://www.zakon.kz/politika/6476744-konflikt-indii-i-pakistana-mid-kazakhstana-sdelal-vazhnoe-zayavlenie.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Air Astana обновила расписание рейсов в Индию",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/air-astana-obnovila-raspisanie-reysov-v-indiyu-ef026c",
+          "source": "Казинформ"
+        },
+        {
+          "title": "Вопрос об эвакуации казахстанцев из Индии и Пакистана не рассматривается— МИД",
+          "snippet": "",
+          "url": "https://khabar.kz/ru/news/obshchestvo/172381-diplomaty-kazakhstana-derzhat-na-kontrole-situatsiyu-vokrug-indii-i-pakistana",
+          "source": "khabar.kz"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
