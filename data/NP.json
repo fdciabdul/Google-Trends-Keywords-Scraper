@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2025-05-08 16:52:01",
+  "lastUpdate": "2025-05-08 16:59:17",
   "data": [
     {
-      "title": "cnn",
+      "title": "bbc",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 8 May 2025 09:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScndyOkow1UTEgMbtCYY0ai2VLBrE6WVMl3QOtqdn9xrMWXgO1ypa4eDw8TaU",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "US removes tariffs on UK steel and aluminium, and cuts car rate to 10%, as Trump and Starmer unveil deal",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cn91dxzv4pnt",
+          "source": "BBC"
+        },
+        {
+          "title": "Trump Administration to Announce Trade Deal With Britain",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/05/07/business/economy/trump-trade-britain.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "UK closes in on US trade pact with lower tariff quotas for cars and steel",
+          "snippet": "",
+          "url": "https://www.ft.com/content/ca3837bb-34e3-4e15-b4e6-f4c927a3af5a",
+          "source": "Financial Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "new pope",
       "trafficCount": "100+",
-      "pubDate": "Thu, 8 May 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMWDPRYCY53HBdGnxIwTPEXR45tcclOHMNdBjWDwXTS6HKMaB903m3-CCmEwQ",
+      "pubDate": "Thu, 8 May 2025 09:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYgQgJpjYlrU71-SJSY_FGxw4_u8g-iDoWdWsLUdCrgc3AhNPKapFkQ2id8Sc",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Pope conclave live: White smoke emerges as a new pope is elected",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cn4we7prv4rt",
+          "source": "BBC"
+        },
+        {
+          "title": "10 Surprising Facts About Papal Conclaves",
+          "snippet": "",
+          "url": "https://time.com/7282265/papal-conclaves-surprising-facts-history/",
+          "source": "Time Magazine"
+        },
+        {
+          "title": "How does the conclave pick a new pope? 8 things to know",
+          "snippet": "",
+          "url": "https://www.pbs.org/newshour/world/how-does-the-conclave-pick-a-new-pope-8-things-to-know",
+          "source": "PBS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 8 May 2025 09:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMfryKW7jLWkjMfCoVhGkaBSwRrXlczvOafrvuGSGunPn_UjRvEqqejG56i7Y",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Trump announces trade deal with UK as tariffs continue to spark economic uncertainty",
+          "title": "India and Pakistan are both claiming victory after this week’s clashes. Will cooler heads prevail?",
           "snippet": "",
-          "url": "https://www.cnn.com/business/live-news/trump-us-uk-trade-announcement",
+          "url": "https://www.cnn.com/2025/05/08/asia/india-pakistan-analysis-what-happens-next-intl-hnk",
           "source": "CNN"
         },
         {
-          "title": "Why the U.K. trade agreement matters",
+          "title": "The latest developments in the India-Pakistan conflict",
           "snippet": "",
-          "url": "https://www.axios.com/2025/05/08/us-uk-trade-deal-trump",
-          "source": "Axios"
+          "url": "https://www.reuters.com/world/asia-pacific/latest-developments-india-pakistan-conflict-2025-05-08/",
+          "source": "Reuters"
         },
         {
-          "title": "Fact Sheet: U.S.-UK Reach Historic Trade Deal",
+          "title": "Explosions reported in Jammu city in India-administered Kashmir – live updates",
           "snippet": "",
-          "url": "https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-u-s-uk-reach-historic-trade-deal/",
-          "source": "The White House (.gov)"
+          "url": "https://www.theguardian.com/world/live/2025/may/08/india-pakistan-kashmir-latest-live-news",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "t. natarajan",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 8 May 2025 08:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6cyV4oNhktezFBKiRH9kcovhzqMZY1xM-KogKIVGmIVpseVXotZyCFlQkJOc",
       "pictureSource": "Mint",
@@ -105,10 +161,10 @@
           "source": "PCB"
         },
         {
-          "title": "Drone attack leaves foreign players in a state of panic..!?",
+          "title": "Operation Sindoor: PSL 2025 schedule disrupted",
           "snippet": "",
-          "url": "https://www.indiaherald.com/Breaking/Read/994817759/Drone-attack-leaves-foreign-players-in-a-state-of-panic",
-          "source": "indiaherald.com"
+          "url": "https://www.cricbuzz.com/cricket-news/134307/operation-sindoor-psl-2025-schedule-disrupted",
+          "source": "Cricbuzz.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +189,10 @@
           "source": "Cricbuzz.com"
         },
         {
-          "title": "IPL 2025, PBKS vs DC LIVE Cricket Score: Punjab Kings vs Delhi Capitals game abandoned!",
+          "title": "Punjab Kings vs Delhi Capitals LIVE Score, IPL 2025: PBKS vs DC Called Off, Report Says Fans Asked To Evacuate Stadium Due To...",
           "snippet": "",
-          "url": "https://indianexpress.com/article/sports/cricket/dc-vs-pbks-ipl-2025-live-cricket-score-playing-11-punjab-kings-delhi-capitals-today-match-updates-9989423/",
-          "source": "The Indian Express"
+          "url": "https://sports.ndtv.com/ipl-2025/punjab-kings-vs-delhi-capitals-live-score-ipl-2025-pbks-vs-dc-live-updates-ipl-58th-match-today-shreyas-iyer-axar-patel-8362298",
+          "source": "NDTV Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +201,26 @@
       "title": "uae vs scotland",
       "trafficCount": "2000+",
       "pubDate": "Thu, 8 May 2025 02:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYr9vQqaHqJvsvCzs8jqFYzjnV_AFniavQXQuFEz0gzpPzMlgKM9upEzOExrQ",
-      "pictureSource": "Cricbuzz.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCjIef6KHo0_je2DwvdGp2oV1mUgCjHmLFTS9gTfaXbtQK9FfLrWZOk4oyxBA",
+      "pictureSource": "ICC",
       "relatedSearch": [
         {
-          "title": "Scotland vs United Arab Emirates, 63rd Match",
+          "title": "UAE v Scotland | Match Highlights | ICC Men's Cricket World Cup League 2",
           "snippet": "",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/117593/uae-vs-sco-63rd-match-icc-cricket-world-cup-league-two-2023-27",
-          "source": "Cricbuzz.com"
-        },
-        {
-          "title": "Scotland Vs United Arab Emirates Toss Update, ICC Cricket World Cup League Two: UAE Chose To Bat First - Check Playing XIs",
-          "snippet": "",
-          "url": "https://www.outlookindia.com/sports/cricket/scotland-vs-united-arab-emirates-icc-cricket-world-cup-league-two-toss-update-playing-xis-match-report",
-          "source": "Outlook India"
+          "url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/videos/uae-v-scotland-match-highlights-icc-men-s-cricket-world-cup-league-2",
+          "source": "ICC"
         },
         {
           "title": "Scotland and United Arab Emirates in Netherlands | 3rd ODI",
           "snippet": "",
           "url": "https://news.abplive.com/sports/cricket/live-score/fullscorecard/united-arab-emirates-vs-scotland-226365c",
           "source": "ABP Live English"
+        },
+        {
+          "title": "SCO vs UAE Dream11 Prediction: Today’s Match 63 – Fantasy Cricket Tips, Captain Choices, Playing XI & Injury Updates – ICC Cricket World Cup League Two 2023-27",
+          "snippet": "",
+          "url": "https://uccricket.live/fantasy-cricket/dream11-prediction/sco-vs-uae-match-63-fantasy-tips-captain-choices-playing-xi-icc-cricket-world-cup-league-two-2023-27-56307/",
+          "source": "UC Cricket"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://sports.yahoo.com/article/okc-thunder-did-celtics-cavaliers-101550004.html",
           "source": "Yahoo Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "division 1 féminine",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 7 May 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRry9oonvPOugITvlCyx-gfR4mPjdwminzH9cBfBRtk8bsOxBfDsAY4BdESHYg",
-      "pictureSource": "Foot National",
-      "relatedSearch": [
-        {
-          "title": "Première Ligue : Strasbourg se sauve sur le gong, l’OL termine invaincu, le PFC humilié par Dijon…",
-          "snippet": "",
-          "url": "https://www.foot-national.com/foot-feminin/premiere-ligue-strasbourg-se-sauve-sur-le-gong-lol-termine-invaincu-le-pfc-humilie-par-dijon-913011",
-          "source": "Foot National"
-        },
-        {
-          "title": "VIDÉO. Racing : des joueurs s’invitent dans le vestiaire des joueuses pour danser !",
-          "snippet": "",
-          "url": "https://www.alsasports.fr/football/rc-strasbourg/video-racing-des-joueurs-sinvitent-dans-le-vestiaire-des-joueuses-pour-danser/71405/",
-          "source": "Alsa'Sports"
-        },
-        {
-          "title": "RCSA-SDR (2-1) : Une fin cruelle pour les Rémoises",
-          "snippet": "",
-          "url": "https://www.stade-de-reims.com/rcsa-sdr-2-1-une-fin-cruelle-pour-les-remoises/",
-          "source": "Stade de Reims"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg vs",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 7 May 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF1t48Xv1JXLQCcJU7ACURIkpigVyyr8wV_yFtn3YltzjT5g0_uPI8uPl5WNY",
-      "pictureSource": "Al Jazeera",
-      "relatedSearch": [
-        {
-          "title": "PSG defeat Arsenal to set up Champions League final with Inter Milan",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2025/5/7/psg-defeat-arsenal-to-set-up-champions-league-final-with-inter-milan",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Barcelona president Joan Laporta: ‘Refereeing mistakes’ kept us out of Champions League final",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6340493/2025/05/07/joan-laporta-barcelona-champions-league/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "The miracle of Francesco Acerbi: UCL Moment of the Week",
-          "snippet": "",
-          "url": "https://www.espn.in/espn/story/_/id/45050778/the-miracle-francesco-acerbi-ucl-moment-week-inter-milan-champions-league-final",
-          "source": "ESPN India"
         }
       ],
       "link": "https://imtaqin.id/"

@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-05-08 16:52:11",
+  "lastUpdate": "2025-05-08 16:59:27",
   "data": [
     {
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 8 May 2025 09:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREasYg3mo73EcsiIzEr7_38f8ud-uhCyiLA_uokW_Jllu7DhKam44W-QrO1aQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Pakistan vows retaliation after India launches strikes in wake of Kashmir massacre",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/india-pakistan-operation-sindoor-05-08-25-intl-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "The latest developments in the India-Pakistan conflict",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/asia-pacific/latest-developments-india-pakistan-conflict-2025-05-08/",
+          "source": "Reuters"
+        },
+        {
+          "title": "What are India and Pakistan’s military and nuclear capabilities?",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/5/8/what-are-india-and-pakistans-military-and-nuclear-capabilities",
+          "source": "Al Jazeera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "cnn",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 09:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMWDPRYCY53HBdGnxIwTPEXR45tcclOHMNdBjWDwXTS6HKMaB903m3-CCmEwQ",
       "pictureSource": "CNN",
@@ -30,57 +58,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bbc",
+      "title": "luis antonio tagle",
       "trafficCount": "200+",
       "pubDate": "Thu, 8 May 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4L2Xd-lgJiFrbCjgZ7u9C3OSRwg1g-X5M76yY_udgnbaP00L18K5dYXjAwaY",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw2Xxy4qeJWdtRa9jJcFl4YCi2ulJnmur5Xuuc_u7rO8JUmHQhkIdr5ueiWkQ",
+      "pictureSource": "USA Today",
       "relatedSearch": [
-        {
-          "title": "Overnight Clashes Strain Diplomacy Efforts for India and Pakistan",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/05/08/world/asia/india-pakistan-diplomacy-kashmir.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Pakistan has vowed to respond after India’s missile strikes. Here’s what we know",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/05/07/asia/operation-sindoor-india-pakistan-attack-wwk-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "After deadly cross-border strikes, can India and Pakistan avoid all-out war?",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/world/asia/deadly-cross-border-strikes-can-india-pakistan-avoid-war-rcna205533",
-          "source": "NBC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "luis antonio tagle",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 8 May 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jHENRtzVTEU0DLt9zfJ4r089Yi6BnRnqQ8VbEAVKYHAshs_ji-oJPeAmv20",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Live updates: Conclave elects new Pope",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
-          "source": "CNN"
-        },
-        {
-          "title": "Papal conclave live updates: White smoke pours from Sistine Chapel, signaling new pope has been elected",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/world/the-vatican/live-blog/conclave-2025-live-updates-rcna205525",
-          "source": "NBC News"
-        },
         {
           "title": "Who is Pietro Parolin? What to know about Italian who is a leading candidate to be pope",
           "snippet": "",
           "url": "https://www.usatoday.com/story/news/world/2025/05/06/who-is-pietro-parolin-pope-candidate/83471799007/",
           "source": "USA Today"
+        },
+        {
+          "title": "The conclave's first day in pictures as cardinals look to elect new pope",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-05-08/conclave-day-one-in-pictures-as-cardinals-vote-on-new-pope/105266682",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Eat, nap, vote: Inside the Vatican conclave to choose the next pope",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/5/8/eat-nap-vote-inside-the-conclave-to-choose-the-next-pope",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +117,33 @@
       "title": "pápa",
       "trafficCount": "1000+",
       "pubDate": "Thu, 8 May 2025 09:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-yhGEPLYPuO4smt7P-RKQmq9dE9XZhhokO8QzGiRC2cohhCGHR-PX_gjdjgk",
+      "pictureSource": "Közbeszéd",
+      "relatedSearch": [
+        {
+          "title": "Most érkezett a hír a pápaválasztásról",
+          "snippet": "",
+          "url": "https://www.kozbeszed.hu/most-erkezett-a-hir-a-papavalasztasrol/",
+          "source": "Közbeszéd"
+        },
+        {
+          "title": "Felkerült a kéménycső a Sixtus-kápolna tetejére, amin keresztül elsőre kapunk majd hírt a pápaválasztásról",
+          "snippet": "",
+          "url": "https://refresher.hu/8725-Felkerult-a-kemenycso-a-Sixtus-kapolna-tetejere-amin-keresztul-elsore-kapunk-majd-hirt-a-papavalasztasrol",
+          "source": "refresher.hu"
+        },
+        {
+          "title": "Külföld - A pápa először a Sírószobába vonul, majd így telnek első pillanatai",
+          "snippet": "",
+          "url": "https://index.hu/kulfold/2025/05/08/konklave-uj-papa-siroszoba-halaszgyuru-laterani-fobazilika-szent-peter-ter-beiktatas-ferenc-papa/",
+          "source": "Index.hu"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "vatican news",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 8 May 2025 09:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGZ7hKqLakP_bTX29VAl7n0MxSKbFlNqf6KyPM-YsDxICsd34zx_u4SOc3t94",
       "pictureSource": "la Repubblica",
@@ -154,26 +173,26 @@
       "title": "parolin",
       "trafficCount": "200+",
       "pubDate": "Thu, 8 May 2025 09:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jHENRtzVTEU0DLt9zfJ4r089Yi6BnRnqQ8VbEAVKYHAshs_ji-oJPeAmv20",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2AHWtfD9b8JHY1ldLAqDdWg6ITsMu7Vv0NtuVtwdp3WqV6PE8RAc6wg57EFI",
+      "pictureSource": "PBS",
       "relatedSearch": [
         {
-          "title": "Live updates: Conclave elects new Pope",
+          "title": "How does the conclave pick a new pope? 8 things to know",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
-          "source": "CNN"
+          "url": "https://www.pbs.org/newshour/world/how-does-the-conclave-pick-a-new-pope-8-things-to-know",
+          "source": "PBS"
         },
         {
-          "title": "After two conclave votes, betting odds settle on one cardinal as Pope Francis' successor",
+          "title": "'An African pope would be inspirational'",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/graphics/2025/05/08/the-next-pope-odds-parolin-tagle-pope-francis/83483873007/",
-          "source": "USA Today"
+          "url": "https://www.bbc.com/news/articles/cj68j88pk43o",
+          "source": "BBC"
         },
         {
-          "title": "Conclave: Gamblers bet millions on who will be the next Pope",
+          "title": "Parolin Surges In Papal Betting Odds After Conclave Ends",
           "snippet": "",
-          "url": "https://www.independent.co.uk/news/world/europe/conclave-betting-odds-cardinal-pope-b2747103.html",
-          "source": "The Independent"
+          "url": "https://www.forbes.com/sites/conormurray/2025/05/08/pope-betting-odds-parolin-leads-prediction-markets-while-tagle-surges-though-experts-say-election-is-unpredictable/",
+          "source": "Forbes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,16 +211,16 @@
           "source": "CNN"
         },
         {
-          "title": "Cardinals pick new pope as white smoke seen at Vatican",
+          "title": "White smoke signals election of new Roman Catholic pope",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/05/08/new-pope-white-smoke-vatican.html",
-          "source": "CNBC"
+          "url": "https://www.theguardian.com/world/2025/may/08/white-smoke-signals-election-of-new-roman-catholic-pope",
+          "source": "The Guardian"
         },
         {
-          "title": "Watch Live: Papal conclave sends up white smoke, signaling a new pope has been chosen at Vatican",
+          "title": "The election of a Pope: From white smoke to ‘Habemus Papam’",
           "snippet": "",
-          "url": "https://www.cbsnews.com/news/papal-conclave-2025-new-pope-chosen/",
-          "source": "CBS News"
+          "url": "https://www.vaticannews.va/en/pope/news/2025-05/election-new-pope-white-smoke-sistine-chapel-habemus-papam.html",
+          "source": "Vatican News"
         }
       ],
       "link": "https://imtaqin.id/"
