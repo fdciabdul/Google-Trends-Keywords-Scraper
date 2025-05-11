@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-05-11 09:50:48",
+  "lastUpdate": "2025-05-11 09:57:44",
   "data": [
-    {
-      "title": "белал мухаммад",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 10 May 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvUiXv3nr89_x2Bq9LBeJJiP5fB71lb4sPSG0tRwNSCuatFRR6PTz7wIOX4Q",
-      "pictureSource": "sportarena.kz",
-      "relatedSearch": [
-        {
-          "title": "Сенсационный австралиец лишил Шавката Рахмонова боя за титул в UFC",
-          "snippet": "",
-          "url": "https://sportarena.kz/mma-ufc/1031784-sensatsionnyy-avstraliets-lishil-shavkata-rakhmonova-boya-za-titul-v-UFC.html",
-          "source": "sportarena.kz"
-        },
-        {
-          "title": "Делла Маддалена отобрал титул у Мухаммада в главном событии UFC 315",
-          "snippet": "",
-          "url": "https://vringe.com/mma/news/188760-della-maddalena-otobral-titul-u-mukhammada.htm",
-          "source": "vRINGe.com"
-        },
-        {
-          "title": "Результаты и бонусы UFC 315: Muhammad vs. Della Maddalena",
-          "snippet": "",
-          "url": "https://www.bloodandsweat.ru/2025/05/rezultaty-i-bonusy-ufc-315-muhammad-vs-della-maddalena/",
-          "source": "bloodandsweat.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "роберт фицо",
       "trafficCount": "100+",
@@ -40,7 +12,7 @@
     },
     {
       "title": "валентина шевченко",
-      "trafficCount": "1000+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 10 May 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGC1vNMWt0rZtlvRbQAxG5zHRrBwQjDXZLGFx7lJiLAjEiQyYpPkifU7oxq_4",
       "pictureSource": "Kaktus.media",
@@ -62,6 +34,34 @@
           "snippet": "",
           "url": "https://allboxing.ru/news/20250511-1210/valentina-shevchenko-pobedila-manon-firo",
           "source": "AllBoxing.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "юфс 315",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 10 May 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvUiXv3nr89_x2Bq9LBeJJiP5fB71lb4sPSG0tRwNSCuatFRR6PTz7wIOX4Q",
+      "pictureSource": "sportarena.kz",
+      "relatedSearch": [
+        {
+          "title": "Сенсационный австралиец лишил Шавката Рахмонова боя за титул в UFC",
+          "snippet": "",
+          "url": "https://sportarena.kz/mma-ufc/1031784-sensatsionnyy-avstraliets-lishil-shavkata-rakhmonova-boya-za-titul-v-UFC.html",
+          "source": "sportarena.kz"
+        },
+        {
+          "title": "Делла Маддалена отобрал титул у Мухаммада в главном событии UFC 315",
+          "snippet": "",
+          "url": "https://vringe.com/mma/news/188760-della-maddalena-otobral-titul-u-mukhammada.htm",
+          "source": "vRINGe.com"
+        },
+        {
+          "title": "Результаты и бонусы UFC 315: Muhammad vs. Della Maddalena",
+          "snippet": "",
+          "url": "https://www.bloodandsweat.ru/2025/05/rezultaty-i-bonusy-ufc-315-muhammad-vs-della-maddalena/",
+          "source": "bloodandsweat.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +136,16 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "В матче, где забил Месси, «Интер Майами» потерпел поражение с крупным счетом (видео)",
-          "snippet": "",
-          "url": "https://zamin.uz/ru/sport/149667-v-matche-gde-zabil-messi-inter-mayami-poterpel-porajenie-s-krupnym-schetom-video.html",
-          "source": "Zamin.uz"
-        },
-        {
           "title": "Капризов встретился с Месси перед игрой МЛС в Миннесоте",
           "snippet": "",
           "url": "https://www.sovsport.ru/football/news/kaprizov-vstretilsya-s-messii-pered-igroj-mls-v-minnesote",
           "source": "Советский спорт"
+        },
+        {
+          "title": "Месси забил гол, но Интер Майами потерпел сокрушительное фиаско в матче MLS",
+          "snippet": "",
+          "url": "https://www.ukr.net/ru/news/details/sport/111231757.html",
+          "source": "UKR.NET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,9 +182,15 @@
       "title": "атлетико мадрид – реал сосьедад",
       "trafficCount": "2000+",
       "pubDate": "Sat, 10 May 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIn55oufreKgLH1hHOphgvjzcBvHN5c0IXyW5LXV5cG4_uPMDsUgaxWDsV998",
-      "pictureSource": "Футбол на Куличках",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQecCm2lhrkMZYOUyZE1Fhx8PWglSDw-ZL42WV7lczl0Tx996pnnqYwQwwb-qg",
+      "pictureSource": "Евро-Футбол",
       "relatedSearch": [
+        {
+          "title": "Сорлот оформил покер всего за 30 минут игры с «Реал Сосьедадом»",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/35/1005909804_sorlot_oformil_poker_vsego_za_30_minut_igryi_s_real_sosedadom",
+          "source": "Евро-Футбол"
+        },
         {
           "title": "Обзор матча Атлетико - Реал Сосьедад. 10 мая 2025, Чемпионат Испании, 35 тур - на ФНК",
           "snippet": "",
@@ -192,16 +198,10 @@
           "source": "Футбол на Куличках"
         },
         {
-          "title": "Сорлот установил абсолютный рекорд испанского чемпионата",
+          "title": "Покер за полчаса случился в матче \"Атлетико\" - \"Сосьедад\" в Ла Лиге",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/35/1005909816_sorlot_ustanovil_absolyutnyiy_rekord_ispanskogo_chempionata",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "Сорлот вошел в историю Ла Лиги",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/sorloth-di-vao-lich-su-la-liga",
-          "source": "Vietnam.vn"
+          "url": "https://vesti.kz/spain/poker-polchasa-sluchilsya-matche-atletiko-sosedad-la-lige-363099/",
+          "source": "Vesti.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,19 +210,19 @@
       "title": "садыр жапаров",
       "trafficCount": "500+",
       "pubDate": "Sat, 10 May 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn_ggSgw1KVnigRR2RttfigApQrRTLQ1SGTnr30djAbLH1Hbs9TgJOWRU9VLM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqVoKHkwsflxddQgkXEIhvZHGrmYalGcZ0yuTdZshSVtzIJeqx-veXZtxY6nA",
       "pictureSource": "Kaktus.media",
       "relatedSearch": [
         {
-          "title": "Владимир Путин в прошлом году подарил Садыру Жапарову две машины марки Aurus",
+          "title": "Садыр Жапаров поднял с земли изображение флага Кыргызстана у Кремля (видео)",
           "snippet": "",
-          "url": "https://kaktus.media/doc/523326_vladimir_pytin_v_proshlom_gody_podaril_sadyry_japarovy_dve_mashiny_marki_aurus.html",
+          "url": "https://kaktus.media/doc/523374_sadyr_japarov_podnial_s_zemli_izobrajenie_flaga_kyrgyzstana_y_kremlia_video.html",
           "source": "Kaktus.media"
         },
         {
-          "title": "Садыр Жапаров поднял с земли изображение флага Кыргызстана на церемонии в Москве",
+          "title": "Садыр Жапаров принял участие в параде Победы в Москве. Фоторепортаж",
           "snippet": "",
-          "url": "https://24.kg/obschestvo/328582_sadyir_japarov_podnyal_szemli_izobrajenie_flaga_kyirgyizstana_natseremonii_vmoskve/",
+          "url": "https://24.kg/vlast/328548_sadyir_japarov_prinyal_uchastie_vparade_pobedyi_vmoskve_fotoreportaj/",
           "source": "24.KG"
         },
         {
@@ -254,10 +254,10 @@
           "source": "Евро-Футбол"
         },
         {
-          "title": "Реал будет следить за двумя звездами в топ-матче сезона в чемпионате Португалии – один из них может побеспокоить Трубина — Футбол 24",
+          "title": "«Бенфика» и «Спортинг» сыграли вничью, чемпион Португалии определится в последнем туре",
           "snippet": "",
-          "url": "https://football24.ua/ru/real_budet_sledit_za_dvumja_zvezdami_v_top_matche_sezona_v_chempionate_portugalii__odin_iz_nih_mozhet_pobespokoit_trubina_n875719/",
-          "source": "Футбол 24"
+          "url": "https://matchtv.ru/football/matchtvnews_NI2201922_Benfika_i_Sporting_sygrali_vnichju_chempion_Portugalii_opredelitsa_v_poslednem_ture",
+          "source": "Матч ТВ"
         }
       ],
       "link": "https://imtaqin.id/"
