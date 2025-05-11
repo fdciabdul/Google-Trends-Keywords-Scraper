@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-11 00:16:04",
+  "lastUpdate": "2025-05-11 00:41:48",
   "data": [
     {
       "title": "кндр",
@@ -58,19 +58,38 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "первый канал",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 10 May 2025 14:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "заява путіна",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 10 May 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlWhreFB1wjurSKsOldHF6wgbbXOfJwPjXS4ZEheuytLQA3DcT42KAMXKYKoM",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Путін запропонував прямі переговори з Україною у Стамбулі",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/05/11/7511710/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Путін зробив заяви щодо війни в Україні",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/world/4780443-putin-zrobyv-zaiavy-schodo-viiny-v-ukraini",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Путін запропонував Україні відновити прямі переговори і назвав дату",
+          "snippet": "",
+          "url": "https://tsn.ua/politika/putin-zaproponuvav-ukrayini-vidnovyty-priami-perehovory-2825954.html",
+          "source": "ТСН"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cnn",
       "trafficCount": "200+",
       "pubDate": "Sat, 10 May 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNzopjfg7ThdMlWYjmIKhG26Zk1WGx9hAjZurcGqjJy-wJk5WtRUjRaQwduo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTciYk7nvtfQzScjmr3jlJSYRgkwyKKxGhsm0DcsLF6tJPMizjJjV7fZspRPkw",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
@@ -80,16 +99,16 @@
           "source": "CNN"
         },
         {
+          "title": "Video The White House says it’s considering suspending habeas corpus",
+          "snippet": "",
+          "url": "https://abcnews.go.com/WNT/video/white-house-suspending-habeas-corpus-121677494",
+          "source": "ABC News"
+        },
+        {
           "title": "Top White House adviser Stephen Miller says 'we're actively looking at' suspending due process for migrants",
           "snippet": "",
           "url": "https://www.nbcnews.com/politics/immigration/top-white-house-adviser-stephen-miller-says-actively-looking-suspendin-rcna205942",
           "source": "NBC News"
-        },
-        {
-          "title": "Trump administration 'looking at' suspending habeas corpus for migrants, Stephen Miller says",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/05/09/trump-deportation-habeas-corpus-miller.html",
-          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,18 +142,21 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "первый канал",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 10 May 2025 14:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bbc",
       "trafficCount": "200+",
       "pubDate": "Sat, 10 May 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIgUqHL3oiIj8SwAn52PGgoc7SHsgsG8akWqpLdV96xaAFROqJDtd7gMmcEEA",
-      "pictureSource": "NDTV",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnTg2-6YmmxEeEHjJKdmPXBxyWFyInEXJC5Fzcb40bGlQTjJ794x8hI9gA_E",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Timeline Of India-Pak 100-Hour Missile, Drone War Over Pahalgam Terror Attack",
-          "snippet": "",
-          "url": "https://www.ndtv.com/india-news/india-pakistan-war-india-pakistan-news-india-pakistan-ceasefire-pahalgam-war-timeline-india-pak-100-hour-missile-drone-war-8381457",
-          "source": "NDTV"
-        },
         {
           "title": "India and Pakistan accuse each other of ‘violations’ after ceasefire deal",
           "snippet": "",
@@ -142,10 +164,16 @@
           "source": "BBC"
         },
         {
-          "title": "What led up to the current conflict between India and Pakistan?",
+          "title": "Trump: India and Pakistan agree to immediate ceasefire",
           "snippet": "",
-          "url": "https://www.cbc.ca/news/world/india-pakistan-kashmir-explainer-1.7529335",
-          "source": "CBC"
+          "url": "https://www.pravda.com.ua/eng/news/2025/05/10/7511651/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "What Missiles Does Pakistan Have And How Far Can They Go? From Fatah-II To Shaheen-III- News18",
+          "snippet": "",
+          "url": "https://www.news18.com/explainers/what-missiles-does-pakistan-have-and-how-far-can-they-go-from-fatah-ii-to-shaheen-iii-ws-l-9330900.html",
+          "source": "News18"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,44 +220,16 @@
           "source": "Korrespondent.net"
         },
         {
-          "title": "Песков сообщил, что Путин сделает \"содержательное\" заявление",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1024991",
-          "source": "Интерфакс"
-        },
-        {
           "title": "Российские и иностранные журналисты ждут Путина в Малахитовой гостиной Кремля — видео",
           "snippet": "",
           "url": "https://eadaily.com/ru/news/2025/05/11/rossiyskie-i-inostrannye-zhurnalisty-zhdut-putina-v-malahitovoy-gostinoy-kremlya-video",
           "source": "EADaily"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "миннесота юнайтед – интер майами",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 10 May 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTotZgAKGO3omq8njf9FZMr21jqxLQy5-sNq_u-EIxGKONMJLxWpipD83doutM",
-      "pictureSource": "Soccer365.ru",
-      "relatedSearch": [
-        {
-          "title": "Миннесота Юнайтед — Интер Майами: прогноз",
-          "snippet": "",
-          "url": "https://soccer365.ru/news/22984/",
-          "source": "Soccer365.ru"
         },
         {
-          "title": "Месси забил гол, но Интер Майами потерпел сокрушительное фиаско в матче MLS",
+          "title": "Заявление Президента России для СМИ",
           "snippet": "",
-          "url": "https://sport.ua/news/760769-messi-zabil-gol-no-inter-mayami-poterpel-sokrushitelnoe-fiasko-v-matche-mls",
-          "source": "спорт.ua"
-        },
-        {
-          "title": "«Миннесота Юнайтед» разгромила «Интер Майами», Месси забил гол",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000246211-minnesota-yunayted-rozhromyla-inter-mayami-messi-zabyv-h/",
-          "source": "Tribuna.com"
+          "url": "http://kremlin.ru/events/president/news/76899",
+          "source": "Президент России"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +248,16 @@
           "source": "Радио Свобода"
         },
         {
-          "title": "Диктатура самообмана. Таким образом в фильме Павла Зарубина предстает Владимир Путин — Новая Газета",
-          "snippet": "",
-          "url": "https://novayagazeta.ru/articles/2025/05/06/diktatura-samoobmana",
-          "source": "Новая газета"
-        },
-        {
           "title": "Документальный фильм «России 1» о Путине посмотрели на ТВ почти 8 млн россиян",
           "snippet": "",
           "url": "https://www.vedomosti.ru/media/articles/2025/05/07/1108931-dokumentalnii-film-o-putine",
           "source": "Ведомости"
+        },
+        {
+          "title": "Президент РФ уверен, что без традиционных ценностей страна утратит свою идентичность",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1023978",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
