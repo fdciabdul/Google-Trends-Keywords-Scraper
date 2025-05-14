@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2025-05-14 01:10:42",
+  "lastUpdate": "2025-05-14 01:52:30",
   "data": [
+    {
+      "title": "חדשות",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 13 May 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwywTqQdOr3wCPii7wqZIW-NRsmWatKAqEmfYyIeB6bGO2kurlA3vKg56cpGc",
+      "pictureSource": "מעריב",
+      "relatedSearch": [
+        {
+          "title": "דרמה בחיל האוויר: צה\"ל סגר את הטייסת האדומה לקראת תקיפה באיראן",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/military/article-1195995",
+          "source": "מעריב"
+        },
+        {
+          "title": "מאי : בסימן התעצמות: טייסת 115 מדוממת מנוע",
+          "snippet": "",
+          "url": "https://www.iaf.org.il/9785-62368-he/IAF.aspx",
+          "source": "אתר חיל-האוויר"
+        },
+        {
+          "title": "אחרי 20 שנה: הטייסת שחיל האוויר החליט לסגור",
+          "snippet": "",
+          "url": "https://www.mako.co.il/pzm-soldiers/Article-90df2891ed99691027.htm",
+          "source": "Mako"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "землетрясение",
       "trafficCount": "200+",
       "pubDate": "Tue, 13 May 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRm7LIvkM8UDI72_z5S391wVqFEDW78ENmWcRoX4AYlEjruEQ44dc-DlH8Z28",
-      "pictureSource": "detaly.co.il",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9QeKj8v6PFSVQlKGHoRNbW2gwbu01ecBQLODS4lk733f-rRt3SIfglV0L5l4",
+      "pictureSource": "Oxu.Az",
       "relatedSearch": [
-        {
-          "title": "Жители Израиля ощутили землетрясение",
-          "snippet": "",
-          "url": "https://detaly.co.il/zhiteli-izrailya-oshhutili-zemletryasenie/",
-          "source": "detaly.co.il"
-        },
         {
           "title": "В Италии произошло землетрясение магнитудой 4.4",
           "snippet": "",
@@ -25,34 +47,12 @@
           "snippet": "",
           "url": "https://news.pn/ru/incidents/326263",
           "source": "NEWS.PN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "earthquake israel",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 13 May 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjY9vLicm-LgqbylSzPsFTbiDcyvfBHfjYoypt1UDq8vAOgSYDF9el65HlOcU",
-      "pictureSource": "Israel National News",
-      "relatedSearch": [
-        {
-          "title": "4.6-magnitude earthquake felt across Israel",
-          "snippet": "",
-          "url": "https://www.israelnationalnews.com/news/408317",
-          "source": "Israel National News"
         },
         {
-          "title": "6.3 magnitude earthquake in Crete felt across parts of Israel",
+          "title": "«Страх и ужас среди населения!» — подробности землетрясения в Неаполе",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/6-3-magnitude-earthquake-in-crete-felt-across-parts-of-israel/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "6.0 quake rattles southern Greece prompting local tsunami alert",
-          "snippet": "",
-          "url": "https://www.foxweather.com/extreme-weather/strong-quake-rattles-southern-greece-crete-fry",
-          "source": "FOX Weather"
+          "url": "https://eadaily.com/ru/news/2025/05/13/strah-i-uzhas-sredi-naseleniya-podrobnosti-zemletryaseniya-v-neapole",
+          "source": "EADaily"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +87,7 @@
     },
     {
       "title": "earthquake",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 13 May 2025 15:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdH-UxITvZpD-oUi5L4j4VRE7ZFQzxBBrkMip2A9-fq0D3bqXzNUvmn1NBXs",
       "pictureSource": "The Times of Israel",
@@ -105,10 +105,10 @@
           "source": "FOX Weather"
         },
         {
-          "title": "Tsunami warning: Tourists told to 'move away from coast immediately'",
+          "title": "Strong 6.1 earthquake strikes off Greek island of Kasos, tremors felt across eastern Mediterranean",
           "snippet": "",
-          "url": "https://www.themirror.com/news/science/tsunami-warning-tourists-told-move-1149345",
-          "source": "The Mirror US"
+          "url": "https://timesofindia.indiatimes.com/world/europe/strong-6-1-magnitude-earthquake-strikes-off-greek-island-of-kasos-tremors-felt-across-eastern-mediterranean/articleshow/121149033.cms",
+          "source": "Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,28 +126,9 @@
       "title": "אלבניה",
       "trafficCount": "100+",
       "pubDate": "Tue, 13 May 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb-tmpKwgxISZDW8e6k39_KgxEN7eEL-acm9dliiJssNkj47zWfsDrXgZt0V0",
-      "pictureSource": "POLITICO.eu",
-      "relatedSearch": [
-        {
-          "title": "Rama trounces MAGA-linked opponents to secure historic 4th term in Albania",
-          "snippet": "",
-          "url": "https://www.politico.eu/article/albania-election-edi-rama-socialist-party-maga-opponents-eu-accession/",
-          "source": "POLITICO.eu"
-        },
-        {
-          "title": "Albania’s ruling Socialists secure majority in parliamentary vote",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/5/13/albania-election-results-2025",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Albania’s ‘old sheriff’ on course to win fourth term as prime minister",
-          "snippet": "",
-          "url": "https://www.ft.com/content/9d57c160-0662-4ca7-9b70-f86228bdd63c",
-          "source": "Financial Times"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
