@@ -1,6 +1,15 @@
 {
-  "lastUpdate": "2025-05-14 02:28:15",
+  "lastUpdate": "2025-05-14 03:02:17",
   "data": [
+    {
+      "title": "πρωτο θεμα",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 13 May 2025 16:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "protothema",
       "trafficCount": "200+",
@@ -11,12 +20,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "πρωτο θεμα",
+      "title": "ειδησεισ",
       "trafficCount": "200+",
-      "pubDate": "Tue, 13 May 2025 16:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Tue, 13 May 2025 16:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJ2NycqZYdSm7F1WAWULIHUCpCRNXDhZXixjoGcDDJoI6AbChNaufKGCSqIg",
+      "pictureSource": "ProtoThema",
+      "relatedSearch": [
+        {
+          "title": "Ελληνικό: «Χωρίς να φταίω με βγάζουν δολοφόνο», λέει η οικιακή βοηθός για τον χαμό της οικογένειας στο Ελληνικό",
+          "snippet": "",
+          "url": "https://www.protothema.gr/greece/article/1638407/horis-na-ftaio-me-vgazoun-dolofono-den-eho-kruftei-leei-i-oikiaki-voithos-tis-nekris-oikogeneias-apo-to-elliniko/",
+          "source": "ProtoThema"
+        },
+        {
+          "title": "Ξεσπά η οικιακή βοηθός για τους τρεις θανάτους οικογένειας στο Ελληνικό -«Χωρίς να φταίω, με βγάζουν δολοφόνο",
+          "snippet": "",
+          "url": "https://www.iefimerida.gr/ellada/oikiaki-boithos-gia-thanatoys-oikogeneias-elliniko",
+          "source": "iefimerida.gr"
+        },
+        {
+          "title": "Ελληνικό: Τα άτομα που βρίσκονται στο μικροσκόπιο των Αρχών – Η γυναίκα μυστήριο στο νοσοκομείο που πέθανε η Βέρα",
+          "snippet": "",
+          "url": "https://www.in.gr/2025/05/13/greece/elliniko-ta-atoma-pou-vriskontai-sto-mikroskopio-ton-arxon-gynaika-mystirio-sto-nosokomeio-pou-pethane-vera/",
+          "source": "In.gr"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -43,34 +71,6 @@
           "snippet": "",
           "url": "https://eleftheriaonline.gr/local/koinonia/astynomika/item/336110-kyklomata-me-drasi-kai-sti-messinia-dithen-logistes-eksapatoysan-giatroys-kai-ilikiomenous",
           "source": "ΕΛΕΥΘΕΡΙΑ Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "newsbomb",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 13 May 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJISR-WX5gF3yPYYO1cEH_3LRFPl_Yf4iHm8udb0bS3ptMaBx-q63z_HXIS14",
-      "pictureSource": "ProtoThema",
-      "relatedSearch": [
-        {
-          "title": "Άγνωστοι επιτέθηκαν με μαχαίρι σε θαμώνες καταστήματος στο κέντρο του Βόλου",
-          "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1639128/agnostoi-epitethikan-me-mahairi-se-thamones-katastimatos-sto-kedro-tou-volou/",
-          "source": "ProtoThema"
-        },
-        {
-          "title": "Αγριο περιστατικό στον Βόλο: Αγνωστοι επιτέθηκαν με μαχαίρι σε θαμώνες καταστήματος",
-          "snippet": "",
-          "url": "https://www.taxydromos.gr/magnesia/volos/1196430/agrio-peristatiko-ston-volo-agnostoi-epitethikan-me-machairi-se-katastima/",
-          "source": "taxydromos"
-        },
-        {
-          "title": "Βόλος: Σκηνές τρόμου στο κέντρο της πόλης – Άγρια επίθεση με μαχαίρι σε καφετέρια γεμάτη κόσμο",
-          "snippet": "",
-          "url": "https://www.in.gr/2025/05/13/greece/volos-skines-tromou-sto-kentro-tis-polis-agria-epithesi-maxairi-se-kafeteria-gemati-kosmo/",
-          "source": "In.gr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,44 +145,16 @@
           "source": "Griechenland Zeitung"
         },
         {
-          "title": "Erdbeben erschüttert Insel Kreta",
+          "title": "Starkes Erdbeben in Griechenland – Behörden sprechen Tsunamiwarnung für kleine Insel aus",
           "snippet": "",
-          "url": "https://www.20min.ch/story/naturgewalt-starkes-erdbeben-erschuettert-kreta-griechenland-103342996",
-          "source": "20 Minuten"
+          "url": "https://www.watson.ch/770064636-starkes-erdbeben-in-griechenland-tsunamiwarnung-fuer-insel",
+          "source": "Watson"
         },
         {
           "title": "Kreta: Erdbeben M 4,4 westlich der Insel",
           "snippet": "",
           "url": "https://www.vulkane.net/blogmobil/kreta-erdbeben-m-44-westlich-der-insel/",
           "source": "Vulkane Net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "news",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 13 May 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp60V7iWYL1PRFK7og8fWuBKnQh0KyT-zGhHdadB9B0wk_JBRFr8LmzYOQdqI",
-      "pictureSource": "The Hill",
-      "relatedSearch": [
-        {
-          "title": "5 takeaways from Trump’s day in Saudi Arabia",
-          "snippet": "",
-          "url": "https://thehill.com/homenews/5298539-trump-saudi-arabia-takeaways/",
-          "source": "The Hill"
-        },
-        {
-          "title": "Trump lavishes praise on Saudi crown prince, signaling renewed alliance",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/trump-lavishes-praise-saudi-crown-prince-signaling-renewed-alliance-2025-05-14/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump signs 'strategic economic partnership' with Saudi Arabia",
-          "snippet": "",
-          "url": "https://www.foxbusiness.com/fox-news-world/trump-signs-strategic-economic-partnership-saudi-arabia",
-          "source": "Fox Business"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,6 +183,34 @@
           "snippet": "",
           "url": "https://www.politic.gr/eidiseis/karpathos-to-kalytera-fylagmeno-mystiko-tis-elladas-apokalyptetai-gia-to-kalokairi-tou-2025/",
           "source": "Politic.gr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "news",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 13 May 2025 16:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTaU3OFpl2cw0pObkSj3ALJLB9w3MSp6UkzmIKGqOVkTW7y3TuMcDgf1B1ACI",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Trump touts $142bn arms deal on Saudi visit, lifts sanctions on Syria",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c4g239dwxw2o",
+          "source": "BBC"
+        },
+        {
+          "title": "White House announces $600 billion Saudi investment in U.S. during Trump visit",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/05/13/trump-saudi-investment-speech.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump Faces $2 Trillion Hurdle to Win Money From Saudi Prince",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/features/2025-05-13/trump-visits-riyadh-as-mbs-s-trillion-dollar-agenda-shifts-saudi-priorities",
+          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"
