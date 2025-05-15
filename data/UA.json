@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-15 05:34:02",
+  "lastUpdate": "2025-05-15 05:43:31",
   "data": [
     {
       "title": "15 мая праздник",
@@ -31,7 +31,7 @@
     },
     {
       "title": "день семьи",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 14 May 2025 21:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZa7teRz-EeJ5USqlAFgrV_7iHrTNjgOGgPtzVm61ckEs4wM6MDd9vzgBrAs",
       "pictureSource": "LIGA.net",
@@ -87,7 +87,7 @@
     },
     {
       "title": "привітання з днем вишиванки",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 14 May 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjmTQpnUTQ3gLpYAIV056OQyqy7QbIfx66cRzL3MgxPYKR2CISHN2wptPZx10",
       "pictureSource": "УНІАН",
@@ -142,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "новини волині",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 May 2025 20:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74hA2h1SMcibXZjAcw7iLwuJnYgAo98k1gWxw-CxCxrKAtq-ecyYtxXvC82U",
+      "pictureSource": "Tribuna.com",
+      "relatedSearch": [
+        {
+          "title": "«Барселона» відмовилася гучно святкувати можливе чемпіонство на стадіоні «Еспаньйола» – дізналися, чому",
+          "snippet": "",
+          "url": "https://ua.tribuna.com/uk/football/blogs/3137254-barselona-vidmovylasya-huchno-svyatkuvaty-mozhlyve-chempionstv/",
+          "source": "Tribuna.com"
+        },
+        {
+          "title": "Флік - про можливу перемогу в Ла Лізі: Я зараз не думаю про святкування",
+          "snippet": "",
+          "url": "https://www.ua-football.com/ua/foreign/spain/1747236224-flik-pro-mozhlivu-peremogu-v-la-lizi-ya-zaraz-ne-dumayu-pro-svyatkuvannya.html",
+          "source": "UA-football.com"
+        },
+        {
+          "title": "Влада розповіла перші деталі атаки \"Шахедів\" по Волині",
+          "snippet": "",
+          "url": "https://24tv.ua/vlada-rozpovila-pershi-detali-ataki-shahediv-po-volini_n2822737",
+          "source": "24 Канал"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "новини луцьк",
       "trafficCount": "2000+",
       "pubDate": "Wed, 14 May 2025 20:20:00 -0700",
@@ -149,7 +177,7 @@
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "На Івано-Франківщині пролунали вибухи, працює ППО",
+          "title": "На Івано-Франківщині та Волині пролунали вибухи",
           "snippet": "",
           "url": "https://www.pravda.com.ua/news/2025/05/15/7512309/",
           "source": "Українська правда"
@@ -198,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "останні новини",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 14 May 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK2xbZMoaTaWkkkd9O_LoTKImMzKDiShBUw-gYnJoQqizNeQkYObwKPr1KvmA",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "У день народження Трампа Вашингтоном проїдуть 25 танків Abrams – ЗМІ",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/05/15/7512311/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "У день народження Трампа та 250-річчя армії США вулицями Вашингтона проїдуть 25 танків Abrams, - Reuters",
-          "snippet": "",
-          "url": "https://espreso.tv/svit-u-den-narodzhennya-trampa-ta-250-richchya-armii-ssha-vulitsyami-vashingtona-proidut-25-tankiv-abrams-reuters",
-          "source": "Еспресо"
-        },
-        {
-          "title": "У день народження Трампа та армії США Вашингтоном проїдуть 25 танків Abrams",
-          "snippet": "",
-          "url": "https://interfax.com.ua/news/general/1071902.html",
-          "source": "Інтерфакс-Україна"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "шахед",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 May 2025 19:50:00 -0700",
@@ -239,16 +239,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "В Луцке на фоне атаки дронов раздались взрывы на фоне атаки дронов",
+          "title": "Украину атакуют российские \"Шахеды\": где риск ударов",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/lutsku-tli-ataki-droniv-prolunali-vibuhi-1747279231.html",
+          "url": "https://www.rbc.ua/ukr/news/ukrayinu-atakuyut-rosiyski-shahedi-de-rizik-1747262956.html",
           "source": "РБК-Україна"
         },
         {
-          "title": "В Луцке прогремели взрывы: к городу близится еще один БпЛА",
+          "title": "Силы беспилотных систем уничтожили дроны россиян",
           "snippet": "",
-          "url": "https://24tv.ua/ru/v-lucke-progremeli-vzryvy_n2822716",
-          "source": "24 Канал"
+          "url": "https://korrespondent.net/ukraine/4781595-syly-bespylotnykh-system-unychtozhyly-drony-rossyian",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "бпла",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 May 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSpBM-o8k595-vNZoGQWMxdHz1pFuX3aJGrz4Gb_zBuGVSTchoeUL1UMi-NEA",
-      "pictureSource": "24 Канал",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW1uEW6aDGETXs2PGxH4F4qHhKhk-_UV7VBiMffyZS9fY6JHza_dxmNnUOC2Y",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "На Полтавщині через падіння уламків БпЛА спалахнули житловий будинок та авто",
+          "title": "На Київщині ППО працює по ворожих безпілотниках",
           "snippet": "",
-          "url": "https://24tv.ua/poltavshhini-cherez-padinnya-ulamkiv-bpla-spalahnuli-zhitloviy_n2822734",
-          "source": "24 Канал"
+          "url": "https://www.pravda.com.ua/news/2025/05/15/7512305/",
+          "source": "Українська правда"
         },
         {
-          "title": "На Полтавщині через падіння уламків ворожого БПЛА пошкоджені будівлі, виникла пожежа",
+          "title": "Ворог атакує Україну ударними БпЛА: мапа тривог",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/3993131-na-poltavsini-cerez-padinna-ulamkiv-vorozogo-bpla-poskodzeni-budivli-vinikla-pozeza.html",
-          "source": "Укрінформ"
+          "url": "https://tsn.ua/ato/voroh-atakuye-ukrayinu-udarnymy-bpla-mapa-tryvoh-2828678.html",
+          "source": "ТСН"
         },
         {
-          "title": "На Полтавщині унаслідок дронової атаки загорівся будинок",
+          "title": "Росія запустила безпілотники по Україні: на Київщині працювала ППО",
           "snippet": "",
-          "url": "https://lb.ua/society/2025/05/15/676491_poltavshchini_unaslidok_dronovoi.html",
-          "source": "LB.ua"
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-rosiya-zapustila-bezpilotniki-po-ukraini-situatsiya-vnochi-15-travnya",
+          "source": "Еспресо"
         }
       ],
       "link": "https://imtaqin.id/"
