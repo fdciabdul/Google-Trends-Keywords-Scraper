@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-17 21:07:12",
+  "lastUpdate": "2025-05-17 21:18:01",
   "data": [
     {
       "title": "lille fc",
@@ -117,9 +117,15 @@
       "title": "benfica",
       "trafficCount": "100+",
       "pubDate": "Sat, 17 May 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EZmMTfF8XdKxNWfCHVZoYd92uo-1KNy44j_9M8dQ5Aa9jsFhyt3NAsCF4Hc",
-      "pictureSource": "Record",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV4znXO4m7tWx-tl881vSeTROx6v-50xA3OOvW4_bsfPPZsnETYyboy-P8UFQ",
+      "pictureSource": "Jornal de Notícias",
       "relatedSearch": [
+        {
+          "title": "Título à vista: Pedro Gonçalves coloca o Sporting a vencer",
+          "snippet": "",
+          "url": "https://www.jn.pt/4655016396/titulo-a-vista-pedro-goncalves-coloca-o-sporting-a-vencer/?utm_source=jn.pt&utm_medium=recomendadas&utm_campaign=rec_edit_externo_marcas",
+          "source": "Jornal de Notícias"
+        },
         {
           "title": "Paulo Oliveira: «O Trubin foi conseguindo manter o Benfica em jogo»",
           "snippet": "",
@@ -127,16 +133,10 @@
           "source": "Record"
         },
         {
-          "title": "Igualdade a uma bola em Braga",
+          "title": "Autocarro do Benfica chega à Pedreira com centenas de adeptos a apoiar!",
           "snippet": "",
-          "url": "https://www.ligaportugal.pt/news/24776/igualdade-a-uma-bola-em-braga",
-          "source": "Liga Portugal"
-        },
-        {
-          "title": "Título à vista: Pedro Gonçalves coloca o Sporting a vencer",
-          "snippet": "",
-          "url": "https://www.jn.pt/4655016396/titulo-a-vista-pedro-goncalves-coloca-o-sporting-a-vencer/?utm_source=jn.pt&utm_medium=recomendadas&utm_campaign=rec_edit_externo_marcas",
-          "source": "Jornal de Notícias"
+          "url": "https://maisfutebol.iol.pt/videos/6828b3950cf216cd3ad365b6/autocarro-do-benfica-chega-a-pedreira-com-centenas-de-adeptos-a-apoiar",
+          "source": "Maisfutebol"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "genoa vs atalanta",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 17 May 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrE9xdH5o3W5lZFCMAdlK2fyQFB3oOOl0NE2qiNwlC5nJH4LK3-02Hb45gVR8",
-      "pictureSource": "Sports Mole",
-      "relatedSearch": [
-        {
-          "title": "Preview: Genoa vs. Atalanta BC - prediction, team news, lineups",
-          "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/genoa/preview/preview-genoa-vs-atalanta-prediction-team-news-lineups_572684.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "Gasperini: ‘Party atmosphere, extraordinary Retegui’",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/gasperini-party-atmosphere-extraordinary-retegui-41125832",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Football Bet of the Day for Saturday: Retegui to Shine as Atalanta Visit Genoa",
-          "snippet": "",
-          "url": "https://bettingtips4you.com/news/football-bet-of-the-day-for-saturday-retegui-to-shine-as-atalanta-visit-genoa/",
-          "source": "BettingTips4you.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "braga vs benfica",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 May 2025 11:30:00 -0700",
@@ -226,23 +198,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "genoa vs atalanta",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 17 May 2025 11:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrE9xdH5o3W5lZFCMAdlK2fyQFB3oOOl0NE2qiNwlC5nJH4LK3-02Hb45gVR8",
+      "pictureSource": "Sports Mole",
+      "relatedSearch": [
+        {
+          "title": "Preview: Genoa vs. Atalanta BC - prediction, team news, lineups",
+          "snippet": "",
+          "url": "https://www.sportsmole.co.uk/football/genoa/preview/preview-genoa-vs-atalanta-prediction-team-news-lineups_572684.html",
+          "source": "Sports Mole"
+        },
+        {
+          "title": "Gasperini: ‘Party atmosphere, extraordinary Retegui’",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/article/gasperini-party-atmosphere-extraordinary-retegui-183700004.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Football Bet of the Day for Saturday: Retegui to Shine as Atalanta Visit Genoa",
+          "snippet": "",
+          "url": "https://bettingtips4you.com/news/football-bet-of-the-day-for-saturday-retegui-to-shine-as-atalanta-visit-genoa/",
+          "source": "BettingTips4you.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "psg vs auxerre",
       "trafficCount": "2000+",
       "pubDate": "Sat, 17 May 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdY23jQlJf6kfeZ9qbIDau_gU6kkXJExh8ZdJ7rJOCNS2DqSbJQ2ST8PhrKjo",
-      "pictureSource": "KOHA.net",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdRU86Q2TwvaFJpagsVj8OAdqnF9A0-t_4SlX2EzwHVpCPThfDlmnOu2ppxxk",
+      "pictureSource": "PlanetePSG.com",
       "relatedSearch": [
+        {
+          "title": "PSG Auxerre : Une voix légendaire de retour au Parc des Princes !",
+          "snippet": "",
+          "url": "https://www.planetepsg.com/news-115263-club-une_voix_legendaire_de_retour_au_parc_des_princes.html",
+          "source": "PlanetePSG.com"
+        },
         {
           "title": "Paris joue son dernier match de championnat, en visant la victoire",
           "snippet": "",
           "url": "https://www.koha.net/fr/futboll/parisi-e-luan-ndeshjen-e-fundit-ne-kampionat-synon-fitore",
           "source": "KOHA.net"
-        },
-        {
-          "title": "PSG : Kvaratskhelia répond avec classe face à Auxerre",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a753035021057067430-psg-kvaratskhelia-repond-avec-classe-face-a-auxerre",
-          "source": "Foot Mercato"
         },
         {
           "title": "Ligue 1: Mathias Kiss revient sur ses inspirations pour concevoir le nouveau trophée de la Ligue 1",
