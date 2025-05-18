@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-18 22:18:57",
+  "lastUpdate": "2025-05-18 22:30:32",
   "data": [
     {
       "title": "inter miami - orlando city",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 18 May 2025 15:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRFH7AbEROIUFdiUH3U3fGGXfY6_raHYGaz6gSNm-X0bgWJPfvhWXQyMlP6Ng",
       "pictureSource": "USA Today",
@@ -31,7 +31,7 @@
     },
     {
       "title": "aitana",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 18 May 2025 15:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3pDfwIEZm_LUZqXgKaMfag4Ud19nA20F5BEuG_Yrjgwg19QWayq-XOAF53pY",
       "pictureSource": "EL PAÍS",
@@ -143,11 +143,24 @@
     },
     {
       "title": "morbius",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 18 May 2025 15:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimn9BhhzKrsrCyvm_zdAWbEjSPStxuxx4NxO4svpoeStx3VezY3L3ew4PwR4",
+      "pictureSource": "RTVE.es",
+      "relatedSearch": [
+        {
+          "title": "Cine - Morbius",
+          "snippet": "",
+          "url": "https://www.rtve.es/play/videos/cine-internacional/morbius/16583348/",
+          "source": "RTVE.es"
+        },
+        {
+          "title": "¿Héroe o villano? Todo sobre Morbius, de Jared Leto, y la auténtica conexión con Spiderman",
+          "snippet": "",
+          "url": "https://www.rtve.es/television/20250518/morbius-pelicula-marvel-jared-leto-donde-ver/16585398.shtml",
+          "source": "RTVE.es"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -164,44 +177,16 @@
           "source": "Página | 12"
         },
         {
+          "title": "La Libertad Avanza gana en Buenos Aires y el PRO queda tercero luego de gobernar 18 años la Ciudad",
+          "snippet": "",
+          "url": "https://www.infobae.com/politica/2025/05/18/la-libertad-avanza-gana-en-buenos-aires-y-el-pro-queda-tercero-luego-de-gobernar-18-anos-la-ciudad/",
+          "source": "Infobae"
+        },
+        {
           "title": "Elecciones CABA: los resultados oficiales podrán ser difundidos antes de las 21 por una resolución judicial",
           "snippet": "",
           "url": "https://www.lanacion.com.ar/politica/elecciones-caba-los-resultados-oficiales-podran-ser-difundidos-antes-de-las-21-por-una-resolucion-nid18052025/",
           "source": "La Nación"
-        },
-        {
-          "title": "¿Quiénes son los principales candidatos a legislador de la capital de Argentina?",
-          "snippet": "",
-          "url": "https://www.eldiario.es/politica/son-principales-candidatos-legislador-capital-argentina_1_12307919.html",
-          "source": "elDiario.es"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "shai gilgeous-alexander",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 18 May 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4m9MFWGgB3Aotw1M8iphOedXhXX4KA518nRfYWMC-9wBpbmHV0kCcnP8TgHE",
-      "pictureSource": "Sports Illustrated",
-      "relatedSearch": [
-        {
-          "title": "Ex-Boston Celtics Star Isaiah Thomas Questions NBA's MVP Decision",
-          "snippet": "",
-          "url": "https://www.si.com/fannation/nba/fastbreak/ex-boston-celtics-star-isaiah-thomas-questions-nba-mvp-decision",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Nuggets face epic showdown as Nikola Jokic and Shai Gilgeous-Alexander battle for glory in high-stakes game seven",
-          "snippet": "",
-          "url": "https://motociclismo.pt/en/nuggets-face-epic-showdown-as-nikola-jokic-and-shai-gilgeous-alexander-battle-for-glory-in-high-stakes-game-seven/",
-          "source": "motociclismo.pt"
-        },
-        {
-          "title": "Ja Morant Takes Jab at NBA During Thunder-Nuggets Series",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/ja-morant-takes-jab-nba-224748720.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,10 +239,38 @@
           "source": "El Confidencial"
         },
         {
-          "title": "Israel responde a Sánchez tras el televoto de España en Eurovisión: \"Parece que los españoles han hablado\"",
+          "title": "José Manuel Soto habla, como muchos en España, de este momento de la final de Eurovisión: la clave, en los 12 puntos",
           "snippet": "",
-          "url": "https://www.20minutos.es/internacional/israel-responde-sanchez-televoto-espana-eurovision-parece-espanoles-han-hablado-5713285/",
-          "source": "20Minutos"
+          "url": "https://www.huffingtonpost.es/virales/jose-manuel-soto-habla-espana-momento-final-eurovision-clave-12-puntos.html",
+          "source": "El HuffPost"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "damian quintero",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 May 2025 14:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrhPyH9GEe1tdQnl6P-lBUvY_2e6QxSXNiLa9BddaiPXT3578WRbv33fyCA-4",
+      "pictureSource": "Lecturas",
+      "relatedSearch": [
+        {
+          "title": "El comentario de Damián Quintero en ‘Supervivientes 2025’ por el que se ha visto obligado a pedir perdón",
+          "snippet": "",
+          "url": "https://www.lecturas.com/television/comentario-damian-quintero-supervivientes-2025-por-que-se-ha-visto-obligado-a-pedir-perdon_175164",
+          "source": "Lecturas"
+        },
+        {
+          "title": "El comentario de Damián Quintero en ‘Supervivientes 2025’ por el que se ha visto obligado a pedir perdón: \"A mí no me duele nada\"",
+          "snippet": "",
+          "url": "https://www.lecturas.com/television/comentario-damian-quintero-supervivientes-2025-por-que-se-ha-visto-obligado-pedir-perdon-mi-no-me-duele-nada_175164",
+          "source": "Lecturas"
+        },
+        {
+          "title": "Exigen la expulsión inmediata de Damián Quintero de 'Supervivientes': es impresionante",
+          "snippet": "",
+          "url": "https://edatv.news/corazon/exigen-expulsion-inmediata-damian-quintero-supervivientes-impresionante",
+          "source": "EDATV News"
         }
       ],
       "link": "https://imtaqin.id/"
