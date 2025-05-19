@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-19 09:51:04",
+  "lastUpdate": "2025-05-19 09:58:00",
   "data": [
     {
       "title": "молдова",
@@ -59,7 +59,7 @@
     },
     {
       "title": "буджак",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 19 May 2025 01:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0E0nuGuMXGjkehKmCFVicI5sE7VQDZpgle4jdgqyUdi3VT-Bjx7k2s6fwlyU",
       "pictureSource": "Українська правда",
@@ -105,10 +105,10 @@
           "source": "Hromadske"
         },
         {
-          "title": "Олександр Сак став новим командиром 59 бригади, яка захищає Покровський напрямок",
+          "title": "За наказом Сирського у 59 ОШБр змінили командира, бригаду очолив полковник Сак",
           "snippet": "",
-          "url": "https://rubryka.com/2025/05/19/oleksandr-sak-stav-novym-komandyrom-59-brygady-yaka-zahyshhaye-pokrovskyj-napryamok/",
-          "source": "Рубрика"
+          "url": "https://interfax.com.ua/news/general/1072931.html",
+          "source": "Інтерфакс-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,9 +257,28 @@
       "title": "погода запоріжжя",
       "trafficCount": "100+",
       "pubDate": "Sun, 18 May 2025 20:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAIjF8G07-77mcY-AlZ5bg-5bMCjm8h_O_ZvWxKXSGpQCZwu-VzBtn6fnww2s",
+      "pictureSource": "061.ua",
+      "relatedSearch": [
+        {
+          "title": "В Запорожье объявили штормовое предупреждение",
+          "snippet": "",
+          "url": "https://www.061.ua/ru/news/3946432/v-zaporoze-obavili-stormovoe-preduprezdenie",
+          "source": "061.ua"
+        },
+        {
+          "title": "Циклон з заходу Європи - у Запоріжжі прогнозують продовження дощів",
+          "snippet": "",
+          "url": "https://zprz.city/news/view/tsiklon-z-zahodu-evropi-u-zaporizhzhi-prognozuyut-prodovzhennya-doshhiv",
+          "source": "ZPRZ.CITY"
+        },
+        {
+          "title": "Якою буде погода в Запоріжжі в перші три дні тижня – прогноз синоптиків",
+          "snippet": "",
+          "url": "https://mig.com.ua/iakoiu-bude-pohoda-v-zaporizhzhi-v-pershi-try-dni-tyzhnia-prohnoz-synoptykiv-7/",
+          "source": "Газета МИГ"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
