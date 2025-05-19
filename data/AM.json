@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2025-05-19 07:09:43",
+  "lastUpdate": "2025-05-19 07:21:37",
   "data": [
     {
-      "title": "серия a",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 18 May 2025 13:00:00 -0700",
+      "title": "napoli",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 May 2025 12:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbHqV-8l3Req4tO96VfEYxiBgJeje18ku-YJE5ygDT3XipgefXbh66roVpCBc",
+      "pictureSource": "La Gazzetta dello Sport",
+      "relatedSearch": [
+        {
+          "title": "I pensieri di Inzaghi, i record di Conte: Napoli e Inter, è la notte dello scudetto",
+          "snippet": "",
+          "url": "https://www.gazzetta.it/Calcio/Serie-A/18-05-2025/parma-napoli-e-inter-lazio-la-sfida-scudetto-tra-inzaghi-e-conte.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "Ora il tetris del calendario: l'eventuale spareggio sarà domenica 25 a Roma",
+          "snippet": "",
+          "url": "https://www.ilgiornale.it/news/sport/ora-tetris-calendario-leventuale-spareggio-sar-domenica-25-2481057.html",
+          "source": "il Giornale"
+        },
+        {
+          "title": "Serie A, quando si giocano le partite della 38^ giornata",
+          "snippet": "",
+          "url": "https://gianlucadimarzio.com/serie-a-trentottesima-giornata-calendario-orari/",
+          "source": "Gianluca Di Marzio"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "парма – наполи",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 May 2025 12:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR451GZnLN1lcDwnOHIs6zxVbAipC7FcL9v2BRBoh3XqCRHddUVde5I__juuNU",
       "pictureSource": "Советский спорт",
       "relatedSearch": [
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://football24.ua/ru/napoli_spotknulsja_vmeste_s_interom_juventus_ne_pustil_dovbika_v_zonu_lch_kovalenko_v_beshenoj_bitve_za_vyzhivanie_serija_a_n877235/",
           "source": "Футбол 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "napoli",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 18 May 2025 12:50:00 -0700",
-      "picture": "",
-      "pictureSource": "Virgilio",
-      "relatedSearch": [
-        {
-          "title": "Conte: 'Cosa dirò adesso ai ragazzi? Andiamoci a prendere lo scudetto!'",
-          "snippet": "",
-          "url": "https://www.virgilio.it/italia/napoli/notizielocali/conte_cosa_dir_adesso_ai_ragazzi_andiamoci_a_prendere_lo_scudetto_-75165102.html",
-          "source": "Virgilio"
-        },
-        {
-          "title": "Grande accoglienza per il Napoli al rientro da Parma: tifosi in festa a Capodichino",
-          "snippet": "",
-          "url": "https://www.napolitoday.it/sport/ssc-napoli/tifosi-napoli-capodichino-rientro-parma.html",
-          "source": "NapoliToday"
-        },
-        {
-          "title": "IL PODIO - Parma-Napoli, Maria Mazza a \"NM\": \"1° Politano, 2° McTominay, 3° Anguissa\"",
-          "snippet": "",
-          "url": "https://www.napolimagazine.com/in-evidenza/articolo/il-podio-parma-napoli-maria-mazza-a-nm-1-politano-2-mctominay-3-anguissa-19-05-2025",
-          "source": "Napoli Magazine"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +115,7 @@
     },
     {
       "title": "рома – милан",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 18 May 2025 12:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvYt4dAOIdcvJz13POUBuV4kduC9M_DwlDVr0H81IAq1sRFeO0qu0VeUOgCvs",
       "pictureSource": "Футбол на Куличках",
@@ -127,16 +127,16 @@
           "source": "Футбол на Куличках"
         },
         {
-          "title": "«Рома» уверенно обыграла «Милан» и обеспечила себе место в зоне еврокубков",
-          "snippet": "",
-          "url": "https://sports24.kz/football/news/roma-uverenno-obigrala-milan-i-obespechila-sebe-mesto-v-zone-evrokubkov/",
-          "source": "Sports24.kz"
-        },
-        {
           "title": "Милан впервые за пять лет не сыграет в Лиге чемпионов",
           "snippet": "",
           "url": "https://report.az/ru/futbol/milan-ne-sygraet-v-lige-chempionov-vpervye-za-pyat-let/",
           "source": "Report.az"
+        },
+        {
+          "title": "«Рома» уверенно обыграла «Милан» и обеспечила себе место в зоне еврокубков",
+          "snippet": "",
+          "url": "https://sports24.kz/football/news/roma-uverenno-obigrala-milan-i-obespechila-sebe-mesto-v-zone-evrokubkov/",
+          "source": "Sports24.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +145,26 @@
       "title": "serie a",
       "trafficCount": "500+",
       "pubDate": "Sun, 18 May 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThTTmTyRpjFIAze-c4jLjXQdKbrUZIutndV9qE7JnDW3g1-TZdDhsV9ITdQFg",
-      "pictureSource": "Il Mattino",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS65v0x6qaDEWQ9DzsJku680xjPhtfaA_FyxAaXA33ZgefZjOvUTrUgFd5Rt90",
+      "pictureSource": "Il Sole 24 ORE",
       "relatedSearch": [
         {
-          "title": "Napoli, l'ultimo sforzo per lo scudetto: adesso ci vuole il cuore",
+          "title": "Che notte da Var! Polemiche e veleni. Il Napoli a un passo dallo scudetto",
           "snippet": "",
-          "url": "https://www.ilmattino.it/sport/sscnapoli/napoli_ultimo_sforzo_scudetto_cuore_cagliari-8844351.html",
-          "source": "Il Mattino"
+          "url": "https://www.ilsole24ore.com/art/che-notte-var-polemiche-e-veleni-napoli-un-passo-scudetto-AHw666p",
+          "source": "Il Sole 24 ORE"
+        },
+        {
+          "title": "Serie A Enilive: Scudetto, Europa e salvezza. Tutto rimandato all’ultima giornata",
+          "snippet": "",
+          "url": "https://www.imgpress.it/sport/serie-a-enilive-scudetto-europa-e-salvezza-tutto-rimandato-allultima-giornata/",
+          "source": "imgpress"
         },
         {
           "title": "La domenica vintage e cento colpi di scena",
           "snippet": "",
           "url": "https://www.ilgiornale.it/news/sport/domenica-vintage-e-cento-colpi-scena-2481059.html",
           "source": "il Giornale"
-        },
-        {
-          "title": "Serie A, oggi la 37ª giornata – Tutte le partite in diretta",
-          "snippet": "",
-          "url": "https://www.cremonaoggi.it/2025/05/18/serie-a-oggi-la-37a-giornata-tutte-le-partite-in-diretta/",
-          "source": "Cremonaoggi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "UA-football.com"
         },
         {
-          "title": "Захарян не сыграл за «Реал Сосьедад» в дебютном матче украинского вратаря за «Жирону»",
-          "snippet": "",
-          "url": "https://sport24.ru/football/news-752316-zakharyan-ne-sygral-za-real-sosyedad-v-debyutnom-matche-ukrainskogo-vratarya-za-zhironu",
-          "source": "Sport24.ru"
-        },
-        {
           "title": "Ассист Цыганкова не спас дебют Крапивцова в Жироне, Леганес догоняет Эспаньол, битва Осасуны и Райо за еврокубки — Футбол 24",
           "snippet": "",
           "url": "https://football24.ua/ru/assist_cygankova_ne_spas_debjut_krapivcova_v_zhirone_leganes_dogonjaet_jespanol_bitva_osasuny_i_rajo_za_evrokubki_n877223/",
           "source": "Футбол 24"
+        },
+        {
+          "title": "Ла Лига: Крапивцов дебютировал за Жирону, Цыганков ассистировал и другие матчи",
+          "snippet": "",
+          "url": "https://terrikon.com/posts/522872",
+          "source": "Террикон"
         }
       ],
       "link": "https://imtaqin.id/"
