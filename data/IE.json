@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-19 07:00:01",
+  "lastUpdate": "2025-05-19 07:10:02",
   "data": [
     {
       "title": "weather today",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 18 May 2025 23:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr00nDTQy2rK4xia9viH8uUBuIa6ZSDedOF5WncwotI71f5Z3b_YaOrIHVPfA",
       "pictureSource": "Mint",
@@ -21,10 +21,10 @@
           "source": "The Indian Express"
         },
         {
-          "title": "Heavy to very heavy rainfall expected in Karnataka, Kerala, Tamil Nadu and NE states till May 24",
+          "title": "Delhi to see rain, thunderstorm this week; heavy rainfall in Northeast: IMD",
           "snippet": "",
-          "url": "https://www.cnbctv18.com/india/environment/imd-says-heavy-to-very-heavy-rainfall-in-karnataka-kerala-tamil-nadu-and-ne-states-till-may-24-19606424.htm",
-          "source": "CNBC TV18"
+          "url": "https://www.businesstoday.in/india/story/delhi-to-see-rain-thunderstorm-this-week-heavy-rainfall-in-northeast-imd-476754-2025-05-19",
+          "source": "Business Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "dublin weather",
       "trafficCount": "500+",
       "pubDate": "Sun, 18 May 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw5rsPa5uJhSJ2_FXnYH17VpFrMZK4k33BCs-vcgPonWEQvCHkomF_Gd5jEig",
-      "pictureSource": "Dublin Live",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiMJ2ACWaPMTF8AbvJL_9bxItkYDoRcDkAY_uLsydje4lX0eIHEtFlNcXBeU",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
-        {
-          "title": "Dublin weather: Met Eireann's thunderstorm risk alert with freezing 13C temp drop",
-          "snippet": "",
-          "url": "https://www.dublinlive.ie/news/dublin-news/irish-weather-forecast-heavy-showers-31671069",
-          "source": "Dublin Live"
-        },
         {
           "title": "How an 'Omega block' has given Ireland a dry, warm and sunny May",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.independent.ie/weather/heavy-showers-and-thunderstorms-could-break-sunny-streak-as-temperatures-hit-highs-of-22c/a66251236.html",
           "source": "The Irish Independent"
+        },
+        {
+          "title": "Met Eireann thunderstorm warning as map shows exact day of sudden heatwave end",
+          "snippet": "",
+          "url": "https://www.galwaybeo.ie/news/ireland-news/met-eireann-thunderstorm-warning-map-10192319",
+          "source": "Galway Beo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "weather forecast",
       "trafficCount": "100+",
       "pubDate": "Sun, 18 May 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToY8xo_uEZ9MdA3F_Qne1CJAWWqHFHq0U7KIsR6qOIT5MuyZQkklglN1_5CSA",
-      "pictureSource": "Galway Beo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM2J0AXHN79D0rK5Xk3rb2FfcA1Ho-XpoNITXPT8AoYDF9rNSgqEm8d0dfqKE",
+      "pictureSource": "Agriland",
       "relatedSearch": [
+        {
+          "title": "Weather: Some heavy showers to start the week but turning dry",
+          "snippet": "",
+          "url": "https://www.agriland.ie/farming-news/weather-some-heavy-showers-to-start-the-week-but-turning-dry/",
+          "source": "Agriland"
+        },
         {
           "title": "Ireland in ‘extreme drought’ as Met Éireann issue storm and flood warning in mixed forecast for week ahead",
           "snippet": "",
@@ -71,16 +77,10 @@
           "source": "Galway Beo"
         },
         {
-          "title": "Concerns highlighted for local farms over drought condition",
+          "title": "Dublin weather: Met Eireann's thunderstorm risk alert with freezing 13C temp drop",
           "snippet": "",
-          "url": "https://www.northernsound.ie/news/concerns-highlighted-for-local-farms-over-drought-condition-259413",
-          "source": "NorthernSound"
-        },
-        {
-          "title": "LIVE: Met Éireann's five-day Irish weather forecast for week ahead has some big shocks...",
-          "snippet": "",
-          "url": "https://www.tipperarylive.ie/news/weather/1804945/live-met-eireann-s-five-day-irish-weather-forecast-for-week-ahead-has-some-big-shocks.html",
-          "source": "Tipperary Live"
+          "url": "https://www.dublinlive.ie/news/dublin-news/irish-weather-forecast-heavy-showers-31671069",
+          "source": "Dublin Live"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,38 @@
           "source": "BBC"
         },
         {
-          "title": "Ukraine, Europe urge more pressure on Russia after drone strike kills nine",
+          "title": "Russian drone blows up civilian shuttle bus, leaving nine dead in Sumy border town",
           "snippet": "",
-          "url": "https://www.irishtimes.com/world/europe/2025/05/17/russian-drone-attack-kills-nine-in-ukraine-just-hours-after-peace-talks/",
-          "source": "The Irish Times"
+          "url": "https://euromaidanpress.com/2025/05/17/russian-drone-blows-up-civilian-shuttle-bus-leaving-nine-dead-in-sumy-border-town/",
+          "source": "Euromaidan Press"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tara hill fire",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 18 May 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkaJcVvIv12c1ScKOBFcIM2cBJSY7KRyA1e6u8kxEcsRCeDDm9nrxIOVC7ZzU",
+      "pictureSource": "WexfordLocal.com",
+      "relatedSearch": [
+        {
+          "title": "Large fire engulfs Tara Hill",
+          "snippet": "",
+          "url": "https://wexfordlocal.com/2025/05/19/large-fire-engulfs-tara-hill/",
+          "source": "WexfordLocal.com"
+        },
+        {
+          "title": "Major Fire OverNight in Tara Hill Gorey",
+          "snippet": "",
+          "url": "https://www.southeastradio.ie/major-fire-overnight-in-tara-hill-gorey/",
+          "source": "South East Radio"
+        },
+        {
+          "title": "Tag Archives: Wicklow Fire Service",
+          "snippet": "",
+          "url": "https://wexfordlocal.com/tag/wicklow-fire-service/",
+          "source": "WexfordLocal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,64 +226,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "scottie scheffler majors",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 18 May 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5hOmy7vpTjiAUDT3bman1_2LLv2MS3wTcbuRzCyUOZojpngFDB-QokSvxiMo",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "US PGA Championship 2025: Scottie Scheffler wins by five strokes after holding off Jon Rahm challenge",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/golf/articles/cy90vqdllq8o",
-          "source": "BBC"
-        },
-        {
-          "title": "2025 PGA Championship purse, payouts: How much did Scottie Scheffler earn for his win at Quail Hollow?",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/golf/breaking-news/article/2025-pga-championship-purse-payouts-how-much-did-scottie-scheffler-earn-for-his-win-at-quail-hollow-201224349.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "PGA Championship: Scottie Scheffler holds off Jon Rahm, Bryson DeChambeau to win major thriller at Quail Hollow",
-          "snippet": "",
-          "url": "https://www.skysports.com/golf/news/12176/13370748/pga-championship-scottie-scheffler-holds-off-jon-rahm-bryson-dechambeau-to-win-major-thriller-at-quail-hollow",
-          "source": "Sky Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "gary lineker",
       "trafficCount": "1000+",
       "pubDate": "Sun, 18 May 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMXOY9j7Hl_Sa6zgyu9Ie7e9YCCCjBZoOCYp70HoGSrs1wVjyCF8WezUNn-QI",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkv0mBt-4DMC9R1GEZj2PEZgU9AoujPpOQt3fAH0qXa8ucToaVctaSM4DrETQ",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Lineker expected to announce early BBC exit - report",
+          "title": "Match of the Day host Gary Lineker expected to leave the BBC",
           "snippet": "",
-          "url": "https://www.rte.ie/entertainment/2025/0519/1513601-lineker-expected-to-announce-early-bbc-exit-report/",
-          "source": "RTE.ie"
+          "url": "https://www.bbc.com/news/articles/c626jxp0yz3o",
+          "source": "BBC"
+        },
+        {
+          "title": "Gary Lineker apologises for 'Zionism' re-post featuring image of rat",
+          "snippet": "",
+          "url": "https://news.sky.com/story/gary-lineker-apologises-for-zionism-re-post-featuring-image-of-rat-13367820",
+          "source": "Sky News"
         },
         {
           "title": "Gary Lineker ‘to leave’ BBC this week after anti-Semitism row",
           "snippet": "",
           "url": "https://www.irishtimes.com/world/uk/2025/05/19/gary-lineker-to-leave-bbc-this-week-after-anti-semitism-row/",
           "source": "The Irish Times"
-        },
-        {
-          "title": "Match of the Day host Gary Lineker expected to leave the BBC",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c626jxp0yz3o",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "okc vs nuggets",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 18 May 2025 14:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy7yPfAvMztyzCer8DyTKA5xaDc1QbtYW6puXM9NbewDsESpFOT_lbs2qB9nc",
       "pictureSource": "BBC",
