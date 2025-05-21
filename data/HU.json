@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-05-21 07:38:49",
+  "lastUpdate": "2025-05-21 07:45:42",
   "data": [
-    {
-      "title": "útinform",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 21 May 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFeKQhMBw7j0RCPcbjtbehAGgzGYoHYe1j1OHflnGO3sfRlCy3IQMr-EJHj3g",
-      "pictureSource": "KEMMA",
-      "relatedSearch": [
-        {
-          "title": "FRISS ÚTINFORM: teljesen megbénul az M1-es, itt jöhetnek a gigadugók",
-          "snippet": "",
-          "url": "https://www.kemma.hu/helyi-kozelet/2025/05/m1-es-autopalya-gigadugo-lezarasok",
-          "source": "KEMMA"
-        },
-        {
-          "title": "Súlyos baleset történt, már előre lehet tudni, hogy teljesen le fogják zárni ezt az autópályát este",
-          "snippet": "",
-          "url": "https://magyarnemzet.hu/belfold/2025/05/sulyos-baleset-tortent-mar-elore-lehet-tudni-hogy-teljesen-le-fogjak-zarni-ezt-az-autopalyat-este",
-          "source": "Magyar Nemzet"
-        },
-        {
-          "title": "Teljes lezárás az M1-esen: Éjszakai műszaki mentés miatt korlátozzák a forgalmat",
-          "snippet": "",
-          "url": "https://www.origo.hu/itthon/2025/05/teljes-lezaras-az-m1-autopalya",
-          "source": "ORIGO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "george wendt",
       "trafficCount": "100+",
@@ -86,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "utinform",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 20 May 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC351-SYC3-yM0pBUSNRnfsmtfmz0qaCmE_dgT_Bg_9nL6bxRObRGVIo7qJLw",
+      "pictureSource": "HEOL",
+      "relatedSearch": [
+        {
+          "title": "Zajlanak az M3-as felújítási munkálatai, azaz kedden is torlódással indul a nap a sztrádán",
+          "snippet": "",
+          "url": "https://www.heol.hu/helyi-kozelet/2025/05/torlodas-m3-as-autopalya-kedd",
+          "source": "HEOL"
+        },
+        {
+          "title": "Rejtélyes baleset Jászberénynél: fának hajtott egy autós",
+          "snippet": "",
+          "url": "https://www.szoljon.hu/helyi-kek-hirek/2025/05/baleset-jaszbereny-kek-hirek",
+          "source": "SZOLJON"
+        },
+        {
+          "title": "Baleset, torlódás és útfelújítás",
+          "snippet": "",
+          "url": "https://www.magyarhirlap.hu/kronika/20250520-baleset-torlodas-es-utfelujitas",
+          "source": "Magyar Hírlap"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Tue, 20 May 2025 22:10:00 -0700",
@@ -105,10 +105,10 @@
           "source": "UC Cricket"
         },
         {
-          "title": "IPL 2025 MI vs DC match: Brace for traffic congestion around Wankhede Stadium today; check key details",
+          "title": "IPL 2025: DC's playoffs qualification hopes in limbo? Rain expected to play spoilsport in Mumbai",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/mumbai/ipl-2025-traffic-restrictions-imposed-ahead-of-mi-vs-dc-match-at-wankhede-stadium-today-check-details-here/articleshow/121308607.cms",
-          "source": "Times of India"
+          "url": "https://www.wionews.com/sports/ipl-2025-dc-s-playoffs-qualification-hopes-in-limbo-rain-expected-to-play-spoilsport-in-mumbai-1747802663945",
+          "source": "WION"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,14 +173,14 @@
       "title": "időjárás szeged",
       "trafficCount": "200+",
       "pubDate": "Tue, 20 May 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRINUl5r-9uk1aTFa7sLBktxDAFgNoZOPyzGjvfFmNMcqn_dGW_Yuy9fGR3Qfc",
-      "pictureSource": "Hírstart",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQvBM49dNW7bk0i-R-J-lklVW4lG6tXPAYeOtViwaF5okG1agjKMHdSfJ7_oI",
+      "pictureSource": "delmagyar",
       "relatedSearch": [
         {
-          "title": "Ez a bor nyerte a Szegedi Borfesztivál fődíját: mutatjuk a győztest",
+          "title": "Így vált egy szerkesztőségi álomból az Alföld egyik legnépszerűbb borfesztiváljává",
           "snippet": "",
-          "url": "https://www.hirstart.hu/hk/20250521_nagy_felhajtas_lesz_a_hetvegen_szegeden",
-          "source": "Hírstart"
+          "url": "https://www.delmagyar.hu/helyi-eletstilus/2025/05/szegedi-borfesztival-dlusztus-imre-programok-boraszok",
+          "source": "delmagyar"
         },
         {
           "title": "Esernyős, esőkabátos borfesztiváli szerda",
@@ -217,9 +217,9 @@
           "source": "Player.hu"
         },
         {
-          "title": "A Manchester City nyerte a piros lapok éjszakáját Kerkezék ellen",
+          "title": "Guardiola nem bírt a könnyeivel, De Bruyne szörnyű hibáról beszélt Kerkezék ellen",
           "snippet": "",
-          "url": "https://magyarnemzet.hu/sport/2025/05/kerkez-manchester-city-bournemouth-premier-league-de-bruyne",
+          "url": "https://magyarnemzet.hu/sport/2025/05/kevin-de-bruyne-bucsu-guardiola-konnyek-manchester-city",
           "source": "Magyar Nemzet"
         }
       ],
