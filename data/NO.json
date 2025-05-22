@@ -1,57 +1,29 @@
 {
-  "lastUpdate": "2025-05-22 12:13:30",
+  "lastUpdate": "2025-05-22 12:28:40",
   "data": [
     {
       "title": "rødberg",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 22 May 2025 04:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_hW08T58iscbD0yHfr5PSWSSX2m0Iisf4ZDTwTpvC1trR4FXF7tlByV7l3ks",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkufBKhTUIWL_61Ik4vT-Ns41kRLwbSJcSEbiAgLVzWa9I8y7yEy6MVarGdFw",
       "pictureSource": "Dagbladet",
       "relatedSearch": [
         {
-          "title": "Nyhetsstudio - Voldshendelse på Rødberg - mann truet flere med øks",
+          "title": "Livstruende situasjon på Rødberg",
           "snippet": "",
-          "url": "https://www.dagbladet.no/studio/nyhetsstudio/687?post=182940",
+          "url": "https://www.dagbladet.no/nyheter/livstruende-situasjon-pa-rodberg/83124239",
           "source": "Dagbladet"
+        },
+        {
+          "title": "Politiet: En mann truet flere personer med øks og kniv – en lettere skadet",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/politiet-en-mann-truet-flere-personer-med-oks-og-kniv-en-lettere-skadet/17759868/",
+          "source": "TV2.no"
         },
         {
           "title": "Nyhet, Rødberg | Store politistyrker ute: Mann truet med øks og kniv",
           "snippet": "",
           "url": "https://www.laagendalsposten.no/store-politistyrker-ute-mann-truet-med-oks-og-kniv/s/5-64-1543766",
-          "source": "Laagendalsposten"
-        },
-        {
-          "title": "Politiet: en mann truet flere personer med øks og kniv – en lettere skadet",
-          "snippet": "",
-          "url": "https://www.tv2.no/direkte/jpybz/siste-nytt/682f0ea2053ad505bb3b70d1/politiet-en-mann-truet-flere-personer-med-oks-og-kniv-en-lettere-skadet",
-          "source": "TV2.no"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "laagendalsposten",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 22 May 2025 04:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxRsYalxhIMKvpElTszf2NhRUWdo4Cmnd1vjDZK80Tw7ml3nenl8G5kGagRTM",
-      "pictureSource": "Laagendalsposten",
-      "relatedSearch": [
-        {
-          "title": "Kongsberg Gruppen, Næringsliv | Fikk avtale verdt 75 millioner kroner",
-          "snippet": "",
-          "url": "https://www.laagendalsposten.no/fikk-avtale-verdt-75-millioner-kroner/s/5-64-1543542",
-          "source": "Laagendalsposten"
-        },
-        {
-          "title": "Kongsberg, Nyheter | Frykter at muren skal rase ut",
-          "snippet": "",
-          "url": "https://www.laagendalsposten.no/frykter-at-muren-skal-rase-ut/s/5-64-1543247",
-          "source": "Laagendalsposten"
-        },
-        {
-          "title": "Hytter, Kongsberg | Forbud mot å fjerne vegetasjon i hyttefelt",
-          "snippet": "",
-          "url": "https://www.laagendalsposten.no/forbud-mot-a-fjerne-vegetasjon-i-hyttefelt/s/5-64-1539899",
           "source": "Laagendalsposten"
         }
       ],
@@ -89,15 +61,9 @@
       "title": "nff",
       "trafficCount": "1000+",
       "pubDate": "Thu, 22 May 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO27y7pma2fbsbi7y-FyaRhBkdQOkG5XvBkSBXZcjVoFnRzTboCmidirkqIYg",
-      "pictureSource": "Stavanger Aftenblad",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_2uHyzC1dkKZkb54PQCPY_5SVIaGTjuHZClryqviSETTObJwRiEqt8FPKEgg",
+      "pictureSource": "Norges Fotballforbund",
       "relatedSearch": [
-        {
-          "title": "Direkte fra 10.00: Se trekningen: Dette blir Vikings motstander i NM-kvartfinalen",
-          "snippet": "",
-          "url": "https://www.aftenbladet.no/sport/i/LM7qJ1/se-trekningen-av-nm-kvartfinalene",
-          "source": "Stavanger Aftenblad"
-        },
         {
           "title": "Se NM-trekning torsdag",
           "snippet": "",
@@ -105,10 +71,16 @@
           "source": "Norges Fotballforbund"
         },
         {
-          "title": "Slik spilles kvartfinalene i cupen",
+          "title": "Direkte fra 10.00: Se trekningen: Dette blir Vikings motstander i NM-kvartfinalen",
           "snippet": "",
-          "url": "https://www.tv2.no/sport/fotball/slik-spilles-kvartfinalene-i-cupen/17758059/",
-          "source": "TV2.no"
+          "url": "https://www.aftenbladet.no/sport/i/LM7qJ1/se-trekningen-av-nm-kvartfinalene",
+          "source": "Stavanger Aftenblad"
+        },
+        {
+          "title": "Sport, Fotball | Dette har ikke Lerkendal sett på seks år: RBK fikk drømmetrekninger",
+          "snippet": "",
+          "url": "https://www.nidaros.no/rbk-kjemper-om-to-cupfinaleplasser-forste-motstander-er-trukket/s/5-113-718367",
+          "source": "Nidaros"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,23 +198,32 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "nrk nyheter",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 21 May 2025 23:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nrk.no",
       "trafficCount": "200+",
       "pubDate": "Wed, 21 May 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH104jK3b4PlK30UMrJ2UZt4-M3fH9uBLf9RYVUabIelN3bls_zBHwwASIqUQ",
-      "pictureSource": "NRK",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRagA0xYGjTBiSaSFqa526jz76hxHthbMWdqY2t0VsHzdm0g3K3grk4nGWLO_A",
+      "pictureSource": "VG",
       "relatedSearch": [
+        {
+          "title": "Ingen sommer­varme i sikte: –⁠ Lite trøst å hente",
+          "snippet": "",
+          "url": "https://www.vg.no/nyheter/i/gwlKGJ/ingen-sommervarme-i-sikte-lite-troest-aa-hente",
+          "source": "VG"
+        },
         {
           "title": "Farevarsel om snø i Sør-Noreg",
           "snippet": "",
           "url": "https://www.nrk.no/innlandet/farevarsel-om-sno-i-sor-noreg-1.17427606",
           "source": "NRK"
-        },
-        {
-          "title": "NÅ: Snø i Sør-Norge – blant annet på Hadeland",
-          "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/jQ2nEb/snoe-i-soer-norge-blant-annet-paa-hadeland",
-          "source": "VG"
         },
         {
           "title": "Kommer med både advarsel og gladnyhet til trønderne",
