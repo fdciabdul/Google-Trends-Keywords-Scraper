@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-22 06:35:21",
+  "lastUpdate": "2025-05-22 06:47:23",
   "data": [
     {
       "title": "tiril eckhoff",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 21 May 2025 23:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZFTDzKwFwyUMCDMOMDVALF5Ig7g8eYJTizXdqIgQsUIwyMw6jvlNCo-cu2A",
       "pictureSource": "TV2.no",
@@ -40,17 +40,11 @@
     },
     {
       "title": "nrk.no",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 21 May 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyrv66ykA4gSubdLohCmxQBi_SgPmuwaRG2AScej4KCkDfJI3ImCzKbhEcgRo",
-      "pictureSource": "NRK",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRusmRWIQKNTQ8UWytT_b-zuf3_0le5Kc-tNhwpPahyrg_di1gO1yDk9H62TbY",
+      "pictureSource": "adressa.no",
       "relatedSearch": [
-        {
-          "title": "Supermåling: Støre kan fortsette som statsminister",
-          "snippet": "",
-          "url": "https://www.nrk.no/norge/supermaling_-store-kan-fortsette-som-statsminister-1.17426289",
-          "source": "NRK"
-        },
         {
           "title": "Eksperten om tallene for Ap: - Oppsikts­vekkende",
           "snippet": "",
@@ -62,6 +56,12 @@
           "snippet": "",
           "url": "https://www.an.no/velgerne-kaster-partiet-ut-av-stortinget-i-ny-maling-vi-har-en-jobb-a-gjore/s/5-4-2171830",
           "source": "Avisa Nordland"
+        },
+        {
+          "title": "Krisemåling: – Jeg har ikke gitt opp",
+          "snippet": "",
+          "url": "https://www.ba.no/krisemaling-for-senterpartiet-kjersti-toppe-har-ikke-gitt-opp-stortingsplass/s/5-8-3029305",
+          "source": "Bergensavisen"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +136,16 @@
           "source": "NRK"
         },
         {
+          "title": "Trondheim: Fartøy har gått på grunn",
+          "snippet": "",
+          "url": "https://www.vg.no/nyheter/i/GyRXbB/trondheim-fartoey-har-gaatt-paa-grunne",
+          "source": "VG"
+        },
+        {
           "title": "Våknet med skip utenfor huset",
           "snippet": "",
           "url": "https://www.dagbladet.no/nyheter/vaknet-med-skip-utenfor-huset/83121225",
           "source": "Dagbladet"
-        },
-        {
-          "title": "Våknet til gigantisk skip rett utenfor husveggen: - Vi har hatt flaks",
-          "snippet": "",
-          "url": "https://www.adressa.no/nyheter/trondelag/i/al9ek4/baat-med-16-personer-skal-ha-gaatt-paa-grunne-i-trondheimsfjorden",
-          "source": "adressa.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,26 +154,26 @@
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Wed, 21 May 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOk0tAus5fKbOYe_eFULYaWiNGUbrGjQBzuPTH8O0m47ZfD3rwkT1ODbO9eo",
-      "pictureSource": "Nature",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStrujVWCn28p2z68gvKFnUzyzRnM0W5zXF6mwjkVA2Ueu_Xqaaj-5G9LhbJso",
+      "pictureSource": "Times of India",
       "relatedSearch": [
         {
-          "title": "A foundation model for the Earth system",
+          "title": "Delhi-NCR sees sudden weather shift with dust storms, thunder and rain after days of heat",
           "snippet": "",
-          "url": "https://www.nature.com/articles/s41586-025-09005-y",
-          "source": "Nature"
+          "url": "https://timesofindia.indiatimes.com/india/dust-storms-thunder-and-rain-bring-relief-to-delhi-ncr-after-days-of-40c-heat/articleshow/121320177.cms",
+          "source": "Times of India"
         },
         {
-          "title": "A.I. Is Poised to Revolutionize Weather Forecasting. A New Tool Shows Promise.",
+          "title": "Power Cuts, Traffic Jams, Toppled Hoardings As Storm Hits Delhi-Noida",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html",
-          "source": "The New York Times"
+          "url": "https://www.ndtv.com/india-news/massive-storm-in-delhi-and-nearby-areas-power-cuts-reported-8472709",
+          "source": "NDTV"
         },
         {
-          "title": "Microsoft-backed AI out-forecasts hurricane experts without crunching the physics",
+          "title": "10 Flights Diverted Due to Heavy Rainfall In The National Capital",
           "snippet": "",
-          "url": "https://www.theregister.com/2025/05/21/earth_system_model_hurricane_forecast/",
-          "source": "The Register"
+          "url": "https://www.newsx.com/india/10-flights-diverted-due-to-heavy-rainfall-in-the-national-capital/",
+          "source": "Newsx"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,10 +198,10 @@
           "source": "Yahoo"
         },
         {
-          "title": "Greek fire brigade on high alert after 6.1 magnitude quake strikes off Crete",
+          "title": "Earthquake of magnitude 6 strikes Crete, Greece, felt in central Israel",
           "snippet": "",
-          "url": "https://www.reuters.com/business/environment/greek-fire-brigade-high-alert-after-61-magnitude-quake-strikes-off-crete-2025-05-22/",
-          "source": "Reuters"
+          "url": "https://www.jpost.com/breaking-news/article-854980",
+          "source": "The Jerusalem Post"
         }
       ],
       "link": "https://imtaqin.id/"
