@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-22 07:35:20",
+  "lastUpdate": "2025-05-22 07:43:02",
   "data": [
     {
       "title": "match",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 22 May 2025 00:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOImBRkLUGrilOiVOjsqSmczHSA-7VtcjS398A9fBoAolpRXXdy3yPFBXzNJw",
       "pictureSource": "Wrestlezone",
@@ -86,8 +86,17 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "trygdeoppgjøret 2025",
+      "title": "nrk nyheter",
       "trafficCount": "200+",
+      "pubDate": "Wed, 21 May 2025 23:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trygdeoppgjøret 2025",
+      "trafficCount": "500+",
       "pubDate": "Wed, 21 May 2025 22:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltkgV-QpN0sSR3NwAUVnuH_G-JCOmBAp4DWTr9_ZRSFY9thOzIbsob6xMJAg",
       "pictureSource": "VG",
@@ -145,35 +154,54 @@
       "title": "adressa",
       "trafficCount": "1000+",
       "pubDate": "Wed, 21 May 2025 21:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-BDrrM2GywnGmHSn7UOlswAUUBnvo39uXb2ko9bPBBMZA_8lXYgzfDZXjXo",
+      "pictureSource": "VG",
+      "relatedSearch": [
+        {
+          "title": "Trondheim: Fartøy har gått på grunn",
+          "snippet": "",
+          "url": "https://www.vg.no/nyheter/i/GyRXbB/trondheim-fartoey-har-gaatt-paa-grunne",
+          "source": "VG"
+        },
+        {
+          "title": "Båt på grunn i Trondheimsfjorden",
+          "snippet": "",
+          "url": "https://www.nrk.no/trondelag/bat-pa-grunn-i-trondheimsfjorden-1.17427456",
+          "source": "NRK"
+        },
+        {
+          "title": "Jostein så skipet komme: – Ropte og kauka",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/innenriks/jostein-sa-skipet-komme-ropte-og-kauka/17757697/",
+          "source": "TV2.no"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Wed, 21 May 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCWqz27ljCxKoDRQjAqDSOJ1BOfEnP6Z8mvCTLvBhKL8-cKjv1Hg6Lg2KiMOI",
-      "pictureSource": "Yahoo News UK",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiNYf55yawzWJ-E-Xpmsj9z-8vo9CIk6f0wGjZpT-ErnmxW0YJvV_FA5SRgc8",
+      "pictureSource": "Kauai Now",
       "relatedSearch": [
         {
-          "title": "Thunder and lightning Met Office forecast for Wales today, May 21, as heavy showers move in",
+          "title": "Kauai Weather Forecast for May 22, 2025",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/thunder-lightning-met-office-warning-060352472.html",
-          "source": "Yahoo News UK"
+          "url": "https://kauainownews.com/2025/05/21/kauai-weather-forecast-for-may-22-2025/",
+          "source": "Kauai Now"
         },
         {
-          "title": "Wales breaking news plus weather and traffic updates (Wednesday, May 21)",
+          "title": "Kauai Weather Forecast for May 17, 2025",
           "snippet": "",
-          "url": "https://www.walesonline.co.uk/news/wales-news/wales-breaking-news-plus-weather-31687481",
-          "source": "Wales Online"
+          "url": "https://kauainownews.com/2025/05/16/kauai-weather-forecast-for-may-17-2025/",
+          "source": "Kauai Now"
         },
         {
-          "title": "Wales breaking news plus weather and traffic updates (Thursday, May 22)",
+          "title": "Kauai Weather Forecast for May 21, 2025",
           "snippet": "",
-          "url": "https://www.walesonline.co.uk/news/wales-news/wales-breaking-news-plus-weather-31696566",
-          "source": "Wales Online"
+          "url": "https://kauainownews.com/2025/05/20/kauai-weather-forecast-for-may-21-2025/",
+          "source": "Kauai Now"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,16 +220,16 @@
           "source": "The Independent"
         },
         {
-          "title": "6.1-magnitude quake shakes southern Greek islands",
+          "title": "6.1-magnitude earthquake jolts Greek islands with no reported injuries",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/6-1-magnitude-quake-shakes-040815571.html",
-          "source": "Yahoo"
+          "url": "https://abcnews.go.com/Technology/wireStory/61-magnitude-earthquake-jolts-greek-islands-reported-injuries-122061208",
+          "source": "ABC News"
         },
         {
-          "title": "Southern Greek Islands Hit by 6.1-Magnitude Earthquake",
+          "title": "6.1-magnitude quake shakes southern Greek islands",
           "snippet": "",
-          "url": "https://www.bloomberg.com/en/news/thp/2025-05-22/6-1-magnitude-quake-shakes-southern-greek-islands",
-          "source": "Bloomberg"
+          "url": "https://www.newsday.com/news/nation/greece-crete-earthquake-n30138",
+          "source": "Newsday"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://movierama.fr/valeur-sentimentale-la-tentation-du-vertige/",
           "source": "MovieRama"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "joachim trier",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 21 May 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA91aMTjnYoa5sN768Ixt4I6il9f1p4rCMlEbjN2vce5fPAWVMqUuHhbOJLzo",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Sentimental Value review – Stellan Skarsgård is an egomaniac director in act of ancestor worship",
-          "snippet": "",
-          "url": "https://www.theguardian.com/film/2025/may/21/sentimental-value-review-cannes",
-          "source": "The Guardian"
-        },
-        {
-          "title": "‘Sentimental Value’ review: Renate Reinsve and Joachim Trier reunite for moving family drama",
-          "snippet": "",
-          "url": "https://www.screendaily.com/reviews/sentimental-value-review-renate-reinsve-and-joachim-trier-reunite-for-moving-family-drama/5205383.article",
-          "source": "Screen Daily"
-        },
-        {
-          "title": "Joachim Trier’s ‘Sentimental Value’ Wows Cannes In Premiere, Gets Extraordinary 19-Minute Ovation",
-          "snippet": "",
-          "url": "https://deadline.com/2025/05/joachim-trier-sentimental-value-ovation-cannes-1236407689/",
-          "source": "Deadline"
         }
       ],
       "link": "https://imtaqin.id/"
