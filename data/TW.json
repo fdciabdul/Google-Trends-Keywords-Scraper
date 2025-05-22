@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2025-05-22 11:29:41",
+  "lastUpdate": "2025-05-22 11:37:13",
   "data": [
+    {
+      "title": "天氣預報",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 22 May 2025 04:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrFNgyxV4TAJmTBCd4IcsEDYj94IkuKI6Q_AZNZohxJ9l4mE4eM5R3ueciiwE",
+      "pictureSource": "奇摩新聞",
+      "relatedSearch": [
+        {
+          "title": "典型梅雨要來了！2鋒面接力來襲 雨最大時間曝",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E5%85%B8%E5%9E%8B%E6%A2%85%E9%9B%A8%E8%A6%81%E4%BE%86%E4%BA%86-2%E9%8B%92%E9%9D%A2%E6%8E%A5%E5%8A%9B%E4%BE%86%E8%A5%B2-%E9%9B%A8%E6%9C%80%E5%A4%A7%E6%99%82%E9%96%93%E6%9B%9D-095000861.html",
+          "source": "奇摩新聞"
+        },
+        {
+          "title": "周末全台溼答答 端午連假再有鋒面降雨熱區曝",
+          "snippet": "",
+          "url": "https://udn.com/news/story/7266/8756578",
+          "source": "聯合新聞網"
+        },
+        {
+          "title": "今年來最高! 高雄內門午後高溫飆38.8度 中南部7縣市警戒",
+          "snippet": "",
+          "url": "https://news.tvbs.com.tw/life/2878715",
+          "source": "TVBS新聞網"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "windy",
       "trafficCount": "200+",
       "pubDate": "Thu, 22 May 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy6HjjmiFUldNf-7JJxUBbwW57bZrWszB3fx0DVAOIlwXKF-JLMX7jUApbJ84",
-      "pictureSource": "The Boston Globe",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-zZmGCDnlWFB_GjjXmZhuXUbZ3LnQiuCkCwcvWtpmZpX3Xy0wjDEJ9MFwVg",
+      "pictureSource": "FOX Weather",
       "relatedSearch": [
-        {
-          "title": "These maps show how Thursday’s rain-soaked nor’easter will unfold",
-          "snippet": "",
-          "url": "https://www.bostonglobe.com/2025/05/21/metro/new-england-noreaster-rainstorm-maps/",
-          "source": "The Boston Globe"
-        },
         {
           "title": "Rare May nor’easter pounds Northeast with powerful winds, soaking rain ahead of holiday weekend",
           "snippet": "",
           "url": "https://www.foxweather.com/weather-news/noreaster-memorial-day-weekend-travel-flooding-wind-northeast-mid-atlantic",
           "source": "FOX Weather"
+        },
+        {
+          "title": "Video: Timing of nor'easter's heaviest rain, wind",
+          "snippet": "",
+          "url": "https://www.wcvb.com/article/video-timing-of-nor-easter-s-heaviest-rain-wind/64848074",
+          "source": "WCVB"
         },
         {
           "title": "Nor'easter Bringing Nasty Mix Of Wet, Windy And Chilly Conditions To Northeast",
@@ -68,30 +96,11 @@
     },
     {
       "title": "颱風",
-      "trafficCount": "5000+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 22 May 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrFNgyxV4TAJmTBCd4IcsEDYj94IkuKI6Q_AZNZohxJ9l4mE4eM5R3ueciiwE",
-      "pictureSource": "奇摩新聞",
-      "relatedSearch": [
-        {
-          "title": "典型梅雨要來了！2鋒面接力來襲 雨最大時間曝",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%85%B8%E5%9E%8B%E6%A2%85%E9%9B%A8%E8%A6%81%E4%BE%86%E4%BA%86-2%E9%8B%92%E9%9D%A2%E6%8E%A5%E5%8A%9B%E4%BE%86%E8%A5%B2-%E9%9B%A8%E6%9C%80%E5%A4%A7%E6%99%82%E9%96%93%E6%9B%9D-095000861.html",
-          "source": "奇摩新聞"
-        },
-        {
-          "title": "周末全台溼答答 端午連假再有鋒面降雨熱區曝",
-          "snippet": "",
-          "url": "https://udn.com/news/story/7266/8756578",
-          "source": "聯合新聞網"
-        },
-        {
-          "title": "今年來最高! 高雄內門午後高溫飆38.8度 中南部7縣市警戒",
-          "snippet": "",
-          "url": "https://news.tvbs.com.tw/life/2878715",
-          "source": "TVBS新聞網"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -194,34 +203,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "蕭煌奇",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 22 May 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV0k1TKLnevQpTYflevsQ6nWBbsJ_ftdGTn28dNFcLKG0uBVAlwJGmDKgqf0Y",
-      "pictureSource": "Yahoo運動",
-      "relatedSearch": [
-        {
-          "title": "世壯運》新北市長侯友宜1勝2敗遭淘汰 「我雖敗猶榮」",
-          "snippet": "",
-          "url": "https://tw.sports.yahoo.com/news/%E4%B8%96%E5%A3%AF%E9%81%8B%E3%80%8B%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%BE%AF%E5%8F%8B%E5%AE%9C1%E5%8B%9D2%E6%95%97%E9%81%AD%E6%B7%98%E6%B1%B0-%E3%80%8C%E6%88%91%E9%9B%96%E6%95%97%E7%8C%B6%E6%A6%AE%E3%80%8D-075637961.html",
-          "source": "Yahoo運動"
-        },
-        {
-          "title": "快訊／侯友宜世壯運參賽首秀　桌球小組賽1勝2敗遭淘汰",
-          "snippet": "",
-          "url": "https://sports.ettoday.net/news/2965253",
-          "source": "ETtoday運動雲"
-        },
-        {
-          "title": "蕭煌奇出戰世壯運柔道確定奪牌帶傷上陣盡力表現| 運動",
-          "snippet": "",
-          "url": "https://www.cna.com.tw/news/aspt/202505210218.aspx",
-          "source": "中央社 CNA"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
