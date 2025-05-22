@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-22 18:11:18",
+  "lastUpdate": "2025-05-22 18:24:34",
   "data": [
     {
       "title": "fnc 23",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 22 May 2025 11:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRd66LavQenqQT2IgDM4jADOGP_HJUohiVgoayFvYbLOIMRnh9CHUC9NmzBzXs",
       "pictureSource": "Telegraf.rs",
@@ -117,9 +117,15 @@
       "title": "krit",
       "trafficCount": "500+",
       "pubDate": "Thu, 22 May 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWUaJ6dD_KA-p6dP8BSctUnNhMt7B8OEsuwV6imQDWCgF62WYbTFa5IMVHrro",
-      "pictureSource": "РТС :: Насловна",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiwUDroq2HXfe1aNAbZXppq-_REkCCgIusOc1ImoNIbrbuLrt4H_3WT1lpgCo",
+      "pictureSource": "Blic",
       "relatedSearch": [
+        {
+          "title": "(Mapa) 6 gradova u Evropi u opasnosti od zemljotresa, jedan je na Balkanu",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/mapa-6-gradova-u-evropi-u-opasnosti-od-zemljotresa-jedan-je-na-balkanu/tc5gv9w",
+          "source": "Blic"
+        },
         {
           "title": "Region :: Jak zemljotres u moru kod Krita, izdato upozorenje za cunami",
           "snippet": "",
@@ -131,12 +137,34 @@
           "snippet": "",
           "url": "https://www.b92.net/info/svet/131444/jak-zemljotres-pogodio-krit/vest",
           "source": "B92"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kaja kallas",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 21 May 2025 23:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrb3vsJulWxn7vZ-V_bxCh7Onoio5LjqW9ku8fGxr_NqID-6DBN-lzRq0gwx8",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "OD REFORMI I TAJMINGA, DO UNIVERZITETA I BiH Kaja Kalas je posetila Srbiju i poslala 5 važnih poruka: Pomenula i jednu pozivnicu i put u Moskvu",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/politika/kaja-kalas-u-beogradu-ovo-je-5-glavnih-poruka-koje-je-poslala/3r6cxsh",
+          "source": "Blic"
         },
         {
-          "title": "JAK ZEMLJOTRES JUTROS POGODIO GRČKU Potres registrovan kod Krita, osetio se čak do Atine",
+          "title": "Poseta Kaje Kallas Beogradu: Spoljna politika, Kosovo i evrointegracije u fokusu razgovora",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/jak-zemljotres-registrovan-u-grckoj-treslo-se-od-krita-do-atine/7pjq6vd",
-          "source": "Blic"
+          "url": "https://www.slobodnaevropa.org/a/eu-integracije-kalas-srbija/33421591.html",
+          "source": "Radio Slobodna Evropa"
+        },
+        {
+          "title": "Đorđević nakon sastanka sa Kalas: Vučić je glavna prepreka Srbije na evropskom putu",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/politika/djordjevic-nakon-sastanka-sa-kalas-vucic-je-glavna-prepreka-srbije-na-evropskom-putu/",
+          "source": "Danas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,34 +207,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kaja kalas",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 21 May 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrb3vsJulWxn7vZ-V_bxCh7Onoio5LjqW9ku8fGxr_NqID-6DBN-lzRq0gwx8",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "OD REFORMI I TAJMINGA, DO UNIVERZITETA I BiH Kaja Kalas je posetila Srbiju i poslala 5 važnih poruka: Pomenula i jednu pozivnicu i put u Moskvu",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/politika/kaja-kalas-u-beogradu-ovo-je-5-glavnih-poruka-koje-je-poslala/3r6cxsh",
-          "source": "Blic"
-        },
-        {
-          "title": "Poseta Kaje Kallas Beogradu: Spoljna politika, Kosovo i evrointegracije u fokusu razgovora",
-          "snippet": "",
-          "url": "https://www.slobodnaevropa.org/a/eu-integracije-kalas-srbija/33421591.html",
-          "source": "Radio Slobodna Evropa"
-        },
-        {
-          "title": "Opozicija na sastanku sa Kajom Kalas: Pitanje je vremena, a ne da li će da padne Vučićev režim",
-          "snippet": "",
-          "url": "https://n1info.rs/vesti/opozicija-na-sastanku-sa-kajom-kalas-pitanje-je-vremena-a-ne-da-li-e-da-padne-vuiev-reim/",
-          "source": "N1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "knicks vs pacers",
       "trafficCount": "500+",
       "pubDate": "Wed, 21 May 2025 21:10:00 -0700",
@@ -238,13 +238,13 @@
       "title": "dragana sotirovski",
       "trafficCount": "200+",
       "pubDate": "Wed, 21 May 2025 18:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7znR7FDIHdJJz3bRiwuqgojNwmviJI9okD4jQbm9_vI0Omh18LLsYDXSsMWI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFOogLF_4ny1IKHFvfPmEU7El81wb44EWzTse7pKiv4zJj5MZlhs98D6AieXI",
       "pictureSource": "Južne vesti",
       "relatedSearch": [
         {
-          "title": "Srbija centar: „Sotirovski stvorila kriminalnu hobotnicu uz podršku Vučića“",
+          "title": "Tamara Milenković Kerković traži oduzimanje bespravno stečene imovine Dragane Sotirovski",
           "snippet": "",
-          "url": "https://www.juznevesti.com/politika/srbija-centar-sotirovski-stvorila-kriminalnu-hobotnicu-uz-podrsku-vucica/",
+          "url": "https://www.juznevesti.com/politika/tamara-milenkovic-kerkovic-trazi-oduzimanje-bespravno-stecene-imovine-dragane-sotirovski/",
           "source": "Južne vesti"
         },
         {
@@ -254,10 +254,10 @@
           "source": "Nova"
         },
         {
-          "title": "Uhapšena gradonačelnica Niša sebi kupovala \"Svarovski\" nakit i plaćala saobraćajne kazne od državnih para",
+          "title": "Kriminalna hobotnica Vučićeve gradonačelnice Niša, on lično je postavio na funkciju",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/hronika/kako-je-dragana-sotirovski-ostetila-budzet-grada-nisa-za-milione-novac-isao-i-na/k20t2g4",
-          "source": "Blic"
+          "url": "https://www.ozonpress.net/politika/kriminalna-hobotnica-vuciceve-gradonacelnice-nisa-on-licno-je-postavio-na-funkciju/",
+          "source": "Ozon Press"
         }
       ],
       "link": "https://imtaqin.id/"
