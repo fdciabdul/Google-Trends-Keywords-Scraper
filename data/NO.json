@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-23 03:45:55",
+  "lastUpdate": "2025-05-23 03:57:47",
   "data": [
     {
       "title": "david toska",
@@ -230,12 +230,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nrk rogaland",
-      "trafficCount": "200+",
+      "title": "aftenbladet",
+      "trafficCount": "500+",
       "pubDate": "Thu, 22 May 2025 10:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ84-cPDNmmtVsoEzeSTo7KAf-wsSL4k0HWYB5VLR7uc57cONRYqZdqKdZctzQ",
+      "pictureSource": "Stavanger Aftenblad",
+      "relatedSearch": [
+        {
+          "title": "Låve i full fyr på Jæren – ingen dyr inne",
+          "snippet": "",
+          "url": "https://www.aftenbladet.no/lokalt/i/al9xp4/laave-i-full-fyr-paa-jaeren-ingen-dyr-inne",
+          "source": "Stavanger Aftenblad"
+        },
+        {
+          "title": "Låvebrann på Jæren: – Full overtenning",
+          "snippet": "",
+          "url": "https://www.tv2.no/direkte/jpybz/siste-nytt/682fca896f3d20847188df7a/lavebrann-pa-jaeren-full-overtenning",
+          "source": "TV2.no"
+        },
+        {
+          "title": "«Vondt å se»",
+          "snippet": "",
+          "url": "https://borsen.dagbladet.no/nyheter/over-80-klager-vondt-a-se/83122527",
+          "source": "Dagbladet"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
