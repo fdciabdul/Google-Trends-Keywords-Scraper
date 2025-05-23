@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-23 11:36:34",
+  "lastUpdate": "2025-05-23 11:43:27",
   "data": [
     {
       "title": "sebastian kurz",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 23 May 2025 04:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCPwJupxH8t71R1oKo6UsTwCshNANALR4N_3QDe0qb-eLLqBxTb9TCMaTqfiU",
       "pictureSource": "Kurier",
@@ -142,29 +142,85 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "kriegsschiff unfall nordkorea",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 22 May 2025 21:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd4uny8l1Blp9nhHTREe2g7vll24Ozz1-uUr0c6qWgIhXVJkWQtbDJ2tkQ4pc",
+      "pictureSource": "DiePresse.com",
+      "relatedSearch": [
+        {
+          "title": "Nordkorea: Satellitenbilder zeigen Ausmaß der Zerstörung des 5000 Tonnen schweren Kriegsschiffs",
+          "snippet": "",
+          "url": "https://www.diepresse.com/19716868/nordkorea-satellitenbilder-zeigen-ausmass-der-zerstoerung-des-5000-tonnen-schweren-kriegsschiffs",
+          "source": "DiePresse.com"
+        },
+        {
+          "title": "Satellitenbilder zeigen umgekipptes nordkoreanisches Kriegsschiff im Wasser",
+          "snippet": "",
+          "url": "https://www.faz.net/aktuell/politik/ausland/satellitenbilder-zeigen-umgekipptes-nordkoreanisches-kriegsschiff-im-wasser-110495015.html",
+          "source": "FAZ.NET"
+        },
+        {
+          "title": "Nordkorea: Unfall bei Zeremonie für neues Kriegsschiff",
+          "snippet": "",
+          "url": "https://orf.at/stories/3394572/",
+          "source": "ORF"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bitcoin pizza day",
       "trafficCount": "100+",
       "pubDate": "Thu, 22 May 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQR3f9LNwexCZ-WttaCNtH_KEbiZNLLGOWuReAyug0o1dpo7pHQr999a9K0Lw",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcYbdomwPYkGr4KRS6zy4VRy2ZrscA8pdbhCJu0S9Q5lNF0PSvK9Q5EzT0_pA",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Rosenblatt says this bitcoin rally to new records is different. These stocks may benefit",
+          "title": "Billion dollar pizza? Bitcoin soars on key anniversary of crypto’s growth",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/05/22/rosenblatt-says-these-stocks-will-benefit-from-bitcoin-rally-to-new-record.html",
-          "source": "CNBC"
+          "url": "https://apnews.com/article/bitcoin-pizza-day-trump-laszlo-hanyecz-crypto-9288849c8a3a9767c3b552021f32c509",
+          "source": "AP News"
         },
         {
-          "title": "BTC token hits all-time price high on ‘Bitcoin Pizza’ day",
+          "title": "What’s with all the crypto bros eating pizza?",
           "snippet": "",
-          "url": "https://coingeek.com/btc-token-hits-all-time-price-high-on-bitcoin-pizza-day/",
-          "source": "CoinGeek"
+          "url": "https://www.afr.com/technology/what-s-with-all-the-crypto-bros-eating-pizza-20250522-p5m1b5",
+          "source": "AFR"
         },
         {
-          "title": "Billion dollar pizza? Bitcoin soars on key anniversary of crypto's growth",
+          "title": "What You Didn’t Know About Laszlo Hanyecz, the Bitcoin Pizza Day Legend",
           "snippet": "",
-          "url": "https://www.msn.com/en-ca/news/science/billion-dollar-pizza-bitcoin-soars-on-key-anniversary-of-crypto-s-growth/ar-AA1Fivqi?ocid=finance-verthp-feeds",
-          "source": "MSN"
+          "url": "https://www.coindesk.com/tech/2025/05/22/what-you-didnt-know-about-laszlo-hanyecz-the-bitcoin-pizza-day-legend",
+          "source": "CoinDesk"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetteronline",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 22 May 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfudv7_I79jOzK4HEHPrLY0CXgqJ9FMwEFxb_bOHs9MFC9TlUe0vvyDqzUj7k",
+      "pictureSource": "WetterOnline",
+      "relatedSearch": [
+        {
+          "title": "Kälte Nächte - Frostgefahr in der Landesmitte",
+          "snippet": "",
+          "url": "https://www.wetteronline.de/wetterticker/kaelte-naechte-frostgefahr-in-der-landesmitte--b939c20c-60a2-44e8-acdb-41233fcd531d",
+          "source": "WetterOnline"
+        },
+        {
+          "title": "Frost und Polarluft bringen nochmal Minusgrade",
+          "snippet": "",
+          "url": "https://weather.com/de-DE/wetter/deutschland/news/2025-05-21-frost-kommt-nochmal-nach-deutschland-bevor-es-regnet",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Der Strömungsfilm für Europa für 5 Tage - Wetterumschwung: Kaltluft flutet Deutschland | Video",
+          "snippet": "",
+          "url": "https://www.wetter.de/videos/wetterumschwung-kaltluft-flutet-deutschland-682ef7710fc40e902005ea42.html",
+          "source": "Wetter.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +229,26 @@
       "title": "kim kardashian",
       "trafficCount": "200+",
       "pubDate": "Thu, 22 May 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxzXJViZvIYQcJxJIzP7oyLos1RQRaao73PsqhxDu_hAW8uWjzZfdOiu-bgm8",
-      "pictureSource": "People.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLT11Bi4TcPCgoqjt1Wp1ESTguLmiW4ek9L1kSpyr9X84qNAtumOUKCiCHFuo",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Kim Kardashian Graduates from Law Program After 6 Years: 'Finally!'",
+          "title": "Kim Kardashian and the checkered history of celebrity courtroom dressing",
           "snippet": "",
-          "url": "https://people.com/kim-kardashian-graduates-law-program-after-6-years-11739705",
-          "source": "People.com"
+          "url": "https://www.cnn.com/2025/05/22/style/kim-kardashian-celebrity-courtroom-dressing",
+          "source": "CNN"
         },
         {
-          "title": "Kourtney Kardashian's ex Scott Disick declares 'Kim Is My Lawyer'",
+          "title": "Verdict due in Kim Kardashian’s Paris robbery trial",
           "snippet": "",
-          "url": "https://www.thenews.com.pk/latest/1314425-kourtney-kardashians-ex-scott-disick-declares-kim-is-my-lawyer",
-          "source": "The News International"
+          "url": "https://goss.ie/us-showbiz/verdict-due-in-kim-kardashians-paris-robbery-trial-420458",
+          "source": "Goss.ie"
         },
         {
-          "title": "Kim Kardashian's success in law proves her misogynistic haters wrong",
+          "title": "Kim Kardashian and the world await the fate of the 'grandpa robbers' accused of stealing her jewels",
           "snippet": "",
-          "url": "https://www.msn.com/en-ie/news/world/kim-kardashian-s-success-in-law-proves-her-misogynistic-haters-wrong/ar-AA1FigkJ",
-          "source": "MSN"
+          "url": "https://www.nbcnews.com/world/europe/kim-kardashian-paris-grandpa-robbers-accused-stealing-jewels-rcna208447",
+          "source": "NBC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.bbc.com/sport/basketball/articles/c7v7rg12d73o",
           "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "song contest jj israel",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 22 May 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjv9P7YP2I-6wxMinMr0l2YJqywp2bMmLoQq2odVe4_3NF6Q8k2TxXlp_GJmc",
-      "pictureSource": "ORF",
-      "relatedSearch": [
-        {
-          "title": "Song Contest „ohne Israel“: Bundespräsident reagiert auf JJ-Sager",
-          "snippet": "",
-          "url": "https://orf.at/stories/3394708/",
-          "source": "ORF"
-        },
-        {
-          "title": "ORF-Star Martina Rupp: \"JJ hat sich aus dem Spiel genommen\" und wackelt der ganze Song Contest?",
-          "snippet": "",
-          "url": "https://www.oe24.at/leute/kultur/song-contest/orf-star-martina-rupp-jj-hat-sich-aus-dem-spiel-genommen-und-wackelt-der-ganze-song-contest/634271311",
-          "source": "OE24"
-        },
-        {
-          "title": "Jüdische Künstlerin sieht Frieden \"nur ohne Hamas und Regierung Netanjahu\"",
-          "snippet": "",
-          "url": "https://www.derstandard.at/story/3000000271109/juedische-kuenstlerin-sieht-frieden-nur-ohne-hamas-und-regierung-netanjahu",
-          "source": "Der Standard"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "iihf",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 22 May 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IOdAPqAAEEsg7NFicKF0OtiMt3fjswdmGNvZ_xy7mhx1ZmA8UkUX0Z1y_Rg",
-      "pictureSource": "IIHF",
-      "relatedSearch": [
-        {
-          "title": "Denmark stuns Canada",
-          "snippet": "",
-          "url": "https://www.iihf.com/en/events/2025/wm/news/67952/can_den_qf",
-          "source": "IIHF"
-        },
-        {
-          "title": "Ice hockey-Denmark's 'Miracle Of Midtjylland' sends Canada crashing out",
-          "snippet": "",
-          "url": "https://www.msn.com/en-gb/sport/nhl/ice-hockey-denmark-s-miracle-of-midtjylland-sends-canada-crashing-out/ar-AA1FjbUD",
-          "source": "MSN"
-        },
-        {
-          "title": "Ryan O’Reilly delivers vivid message to Sidney Crosby, Nathan MacKinnon, Canada after disheartening elimina...",
-          "snippet": "",
-          "url": "https://bolavip.com/en/nhl/ryan-oreilly-delivers-vivid-message-to-sidney-crosby-nathan-mackinnon-canada-after-disheartening-elimination-vs-denmark",
-          "source": "Bolavip US English"
         }
       ],
       "link": "https://imtaqin.id/"
