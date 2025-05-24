@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-24 07:44:36",
+  "lastUpdate": "2025-05-24 07:51:30",
   "data": [
     {
       "title": "端午節",
@@ -11,21 +11,59 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "天氣報告",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 23 May 2025 21:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "天氣預報",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 23 May 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOk0tAus5fKbOYe_eFULYaWiNGUbrGjQBzuPTH8O0m47ZfD3rwkT1ODbO9eo",
+      "pictureSource": "Nature",
+      "relatedSearch": [
+        {
+          "title": "A foundation model for the Earth system",
+          "snippet": "",
+          "url": "https://www.nature.com/articles/s41586-025-09005-y",
+          "source": "Nature"
+        },
+        {
+          "title": "From sea to sky: Microsoft’s Aurora AI foundation model goes beyond weather forecasting - Source",
+          "snippet": "",
+          "url": "https://news.microsoft.com/source/features/ai/microsofts-aurora-ai-foundation-model-goes-beyond-weather-forecasting/",
+          "source": "Microsoft"
+        },
+        {
+          "title": "How an AI weather model by Microsoft produces faster, more accurate forecasts",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/weather/2025/05/21/microsoft-ai-weather-model-study/",
+          "source": "The Washington Post"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "天文台",
       "trafficCount": "2000+",
       "pubDate": "Fri, 23 May 2025 21:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt0hcyNo4Izi2cgRAcfyNIB69o2B1HCtTkax5f_awpGo2_DVscDmvTkZBU2Sw",
+      "pictureSource": "Yahoo",
+      "relatedSearch": [
+        {
+          "title": "天文台發特別天氣提示 料未來兩三小時部分地區雨勢較大｜Yahoo",
+          "snippet": "",
+          "url": "https://hk.news.yahoo.com/%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E7%89%B9%E5%88%A5%E5%A4%A9%E6%B0%A3%E6%8F%90%E7%A4%BA-%E6%96%99%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E5%B0%8F%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%EF%BD%9Cyahoo-053125160.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "雷雨區橫過珠江口 未來一兩小時香港廣泛地區可能受大雨影響",
+          "snippet": "",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20250523/bkn-20250523191334772-0523_00822_001.html",
+          "source": "on.cc東網"
+        },
+        {
+          "title": "天氣｜料驟雨及雷暴周六初時續影響珠江口一帶",
+          "snippet": "",
+          "url": "https://news.tvb.com/tc/local/68304cb007d31c2f0f6cd152/%E6%B8%AF%E6%BE%B3-%E5%A4%A9%E6%B0%A3%EF%BD%9C%E6%96%99%E9%A9%9F%E9%9B%A8%E5%8F%8A%E9%9B%B7%E6%9A%B4%E5%91%A8%E5%85%AD%E5%88%9D%E6%99%82%E7%BA%8C%E5%BD%B1%E9%9F%BF%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%B8%80%E5%B8%B6",
+          "source": "news.tvb.com"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -194,15 +232,9 @@
       "title": "knicks vs pacers",
       "trafficCount": "500+",
       "pubDate": "Fri, 23 May 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIkmNptrElTOvcok58MSu2Rulm-tNGe1s76n1JDakuapl20rXDE0u3ssMYuso",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfXzu0GkZgJFWw7BhCN08rh_TfGKXHqhLuFJEuTU4_i-gdDMHTi1DJgm8aHbk",
+      "pictureSource": "USA Today",
       "relatedSearch": [
-        {
-          "title": "Pacers hold off late charge, put Knicks in 2-0 hole",
-          "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/45291394/pacers-hold-late-charge-leads-knicks-2-0-east-finals",
-          "source": "ESPN"
-        },
         {
           "title": "Celebs at Knicks vs. Pacers: Russell Wilson, Ciara at Game 2. See stars at Madison Square Garden",
           "snippet": "",
@@ -210,10 +242,16 @@
           "source": "USA Today"
         },
         {
-          "title": "This version of Josh Hart couldn’t get anything right in ‘tough’ Game 2",
+          "title": "Pacers vs. Knicks score, recap: Pascal Siakam scores 39 to lead Indiana to 114-109 win, 2-0 series lead over New York",
           "snippet": "",
-          "url": "https://nypost.com/2025/05/24/sports/this-version-of-josh-hart-couldnt-get-anything-right-in-tough-game-2/",
-          "source": "New York Post"
+          "url": "https://sports.yahoo.com/nba/article/pacers-vs-knicks-score-recap-pascal-siakam-scores-39-to-lead-indiana-to-114-109-win-2-0-series-lead-over-new-york-024020017.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Pacers 138-135 Knicks (May 21, 2025) Game Recap",
+          "snippet": "",
+          "url": "https://www.espn.com/nba/recap?gameId=401772989",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
