@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-05-24 11:56:05",
+  "lastUpdate": "2025-05-24 12:06:47",
   "data": [
     {
       "title": "secousse sismique",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 24 May 2025 00:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDjlr5OCF3LgLEDc_AzqpZNoKXs2c6oq5yPW4yOP1HJwlt6YxKL8Tz-FnReaM",
       "pictureSource": "Hespress Français - Actualités du Maroc",
@@ -31,7 +31,7 @@
     },
     {
       "title": "زلزال اليوم الرباط",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 24 May 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtddQylapGige78uxgvFL2_-Zvo9MCfe10c6pzStuop9wel_1_r4WoC-6y3CQ",
       "pictureSource": "Hespress",
@@ -145,26 +145,54 @@
       "title": "عاصفة رعدية",
       "trafficCount": "100+",
       "pubDate": "Fri, 23 May 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJIM12n1Furlc8lSx5pOkQ-XRJvVKcvqV8bbO-BDdtjSjWQksCI-XngmaT08",
-      "pictureSource": "Hespress",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBF5aWqeCFy_lKBfUPFpCJbE3-9YlpEfT30VIVYJtFHo9X2fxf4DcpzskJz0",
+      "pictureSource": "هبة بريس",
       "relatedSearch": [
         {
-          "title": "زخات رعدية بعدد من مناطق المغرب",
+          "title": "نشرة إنذارية: زخات رعدية مصحوبة بتساقط للبرد اليوم الجمعة",
           "snippet": "",
-          "url": "https://www.hespress.com/%D8%B2%D8%AE%D8%A7%D8%AA-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-1564599.html",
-          "source": "Hespress"
-        },
-        {
-          "title": "طقس السبت: أجواء حارة نسبيا بعدد من الجهات – اليوم 24",
-          "snippet": "",
-          "url": "https://alyaoum24.com/1967121.html",
-          "source": "اليوم 24"
+          "url": "https://ar.hibapress.com/details-626700.html",
+          "source": "هبة بريس"
         },
         {
           "title": "الحالة الجوية اليوم فبلادنا: الطقس غايبقى حار مع رياح قوية فهاد لبلايص",
           "snippet": "",
           "url": "https://www.goud.ma/%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D8%A8%D9%84%D8%A7%D8%AF%D9%86%D8%A7-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%A7%D9%8A-952692/",
           "source": "كود"
+        },
+        {
+          "title": "طقس السبت: أجواء حارة مرتقبة بعدة أقاليم",
+          "snippet": "",
+          "url": "https://ar.le360.ma/societe/HHAJRPC6S5HOBHGIIQ2M5YMUS4/",
+          "source": "Le 360 Arabe"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "noureddine amrabat",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 23 May 2025 14:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaTRJtZjkafRRaR0AjhxrMmrZNtXvzSHFyUJm23lnDKufQ-pyK_6eRQoGdq3U",
+      "pictureSource": "Morocco World News",
+      "relatedSearch": [
+        {
+          "title": "Nordin Amrabat Arrives in Casablanca Ahead of Official Signing with Wydad AC",
+          "snippet": "",
+          "url": "https://www.moroccoworldnews.com/2025/05/202959/nordin-amrabat-arrives-in-casablanca-ahead-of-official-signing-with-wydad-ac/",
+          "source": "Morocco World News"
+        },
+        {
+          "title": "Amrabat 'agrees' to join African giants for CWC",
+          "snippet": "",
+          "url": "https://www.kickoff.com/news/worldnews/nordin-amrabat-agrees-to-join-african-giants-wydad-athletic-club-for-2025-fifa-club-world-cup?gallery=502120&gallery-page=2",
+          "source": "Kick Off"
+        },
+        {
+          "title": "FRIENDLY MATCH ORGANISED AGAINST WYDAD AC IN CASABLANCA",
+          "snippet": "",
+          "url": "https://sevillafc.es/en/actual/news/friendly-wydad-casablanca-may-2025",
+          "source": "Web oficial Sevilla FC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,15 +257,9 @@
       "title": "lyna khoudri",
       "trafficCount": "2000+",
       "pubDate": "Fri, 23 May 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPLPPOQePJ5d1CS4GqqksCYSX40qBTPDcZpHGWebWJKPU7QvUFi-bzQKrf1vk",
-      "pictureSource": "Le Parisien",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfx-vsTHGgkSLJjPgfUGTg3i3BIFnj8syJWcNowWAW7Ay0byaXqzg7mVfwz4",
+      "pictureSource": "Foot Mercato",
       "relatedSearch": [
-        {
-          "title": "Festival de Cannes : Lyna Khoudri et Karim Benzema arrivent main dans la main sur le tapis rouge",
-          "snippet": "",
-          "url": "https://www.leparisien.fr/culture-loisirs/cinema/festival-de-cannes/festival-de-cannes-lyna-khoudri-et-karim-benzema-arrivent-main-dans-la-main-sur-le-tapis-rouge-23-05-2025-HP5VGIOBHZGHBB2W25VDGW4IFA.php",
-          "source": "Le Parisien"
-        },
         {
           "title": "Karim Benzema s’affiche avec sa nouvelle compagne !",
           "snippet": "",
@@ -245,38 +267,16 @@
           "source": "Foot Mercato"
         },
         {
-          "title": "Lyna Khoudri et Karim Benzema officialisent au Festival de Cannes : l'actrice et le footballeur main dans la main sur le tapis rouge",
+          "title": "Qui est Lyna Khoudri, étoile montante du cinéma français qui s'affiche avec Karim Benzema à Cannes ?",
           "snippet": "",
-          "url": "https://www.purepeople.com/article/lyna-khoudri-et-karim-benzema-officialisent-au-festival-de-cannes-lactrice-et-le-footballeur-main-dans-la-main-sur-le-tapis-rouge_a538486/1",
-          "source": "Purepeople"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "betis",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 23 May 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf01D03YiK7P-OMdFNMfSdTT7dMiXwwkniJ8g3TkFFRbylOCFxp6ETaqCYutc",
-      "pictureSource": "ABC",
-      "relatedSearch": [
-        {
-          "title": "Largas colas en el Villamarín para recoger las banderas de la final",
-          "snippet": "",
-          "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/largas-colas-villamarin-recoger-banderas-final-20250524101540-nts.html",
-          "source": "ABC"
+          "url": "https://fr.yahoo.com/news/lyna-khoudri-%C3%A9toile-montante-cin%C3%A9ma-192854823.html",
+          "source": "Yahoo France"
         },
         {
-          "title": "Joaquín: \"No hay que perder la identidad que nos ha llevado hasta la final\"",
+          "title": "Festival de Cannes : Lyna Khoudri et Karim Benzema arrivent main dans la main sur le tapis rouge",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/betis/2025/05/22/joaquin-hay-perder-identidad-llevado-final.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Locura verdiblanca: los béticos disparan el interés en España por Breslavia un 6.382%",
-          "snippet": "",
-          "url": "https://www.larazon.es/andalucia/sevilla/locura-verdiblanca-beticos-disparan-interes-espana-breslavia-6382_20250523683041009906bf76df7102e9.html",
-          "source": "La Razón"
+          "url": "https://www.leparisien.fr/culture-loisirs/cinema/festival-de-cannes/festival-de-cannes-lyna-khoudri-et-karim-benzema-arrivent-main-dans-la-main-sur-le-tapis-rouge-23-05-2025-HP5VGIOBHZGHBB2W25VDGW4IFA.php",
+          "source": "Le Parisien"
         }
       ],
       "link": "https://imtaqin.id/"
