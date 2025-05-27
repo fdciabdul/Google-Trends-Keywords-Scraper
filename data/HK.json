@@ -1,39 +1,86 @@
 {
-  "lastUpdate": "2025-05-27 22:59:52",
+  "lastUpdate": "2025-05-27 23:09:26",
   "data": [
     {
       "title": "天氣",
       "trafficCount": "2000+",
       "pubDate": "Tue, 27 May 2025 15:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG3NsAgOXc0DFPZEqeZx1UYNmvfDtjdM_GHE9wbtWnvys7h2uj4JSAsVVTU5k",
+      "pictureSource": "Hong Kong Observatory",
+      "relatedSearch": [
+        {
+          "title": "端午節前的「龍舟水」｜香港天文台(HKO)｜天氣隨筆",
+          "snippet": "",
+          "url": "https://www.hko.gov.hk/tc/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E7%AD%86/109535/%E7%AB%AF%E5%8D%88%E7%AF%80%E5%89%8D%E7%9A%84%E3%80%8C%E9%BE%8D%E8%88%9F%E6%B0%B4%E3%80%8D",
+          "source": "Hong Kong Observatory"
+        },
+        {
+          "title": "本周中期迎「龍舟水」 屆時雨勢較頻密 端午過後最高32°C",
+          "snippet": "",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20250526/bkn-20250526192200779-0526_00822_001.html",
+          "source": "on.cc東網"
+        },
+        {
+          "title": "天氣報告｜部分時間有陽光 吹和緩東風 離岸風勢清勁",
+          "snippet": "",
+          "url": "https://news.now.com/home/local/player?newsId=605246",
+          "source": "Now 新聞"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Tue, 27 May 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOk0tAus5fKbOYe_eFULYaWiNGUbrGjQBzuPTH8O0m47ZfD3rwkT1ODbO9eo",
-      "pictureSource": "Nature",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzqZ5oH0wOfM3tI9n55CW4Xo46LmUciD68pDIfR_MTuOQ6GdKZqLyzg6xiQ",
+      "pictureSource": "AppleValleyNewsNow.com",
       "relatedSearch": [
         {
-          "title": "A foundation model for the Earth system",
+          "title": "Breezy Changes Expected by Midweek, Brief Showers and Thunderstorms Possible",
           "snippet": "",
-          "url": "https://www.nature.com/articles/s41586-025-09005-y",
-          "source": "Nature"
+          "url": "https://www.applevalleynewsnow.com/news/breezy-changes-expected-by-midweek-brief-showers-and-thunderstorms-possible/article_d5b6f6ba-06de-4c7e-987b-58714cef7ed6.html",
+          "source": "AppleValleyNewsNow.com"
         },
         {
-          "title": "A.I. Is Poised to Revolutionize Weather Forecasting. A New Tool Shows Promise.",
+          "title": "WEATHER: Hot and dry conditions forecasted for Bellingham this week",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html",
-          "source": "The New York Times"
+          "url": "https://mybellinghamnow.com/news/297792-weather-hot-and-dry-conditions-forecasted-for-bellingham-this-week/",
+          "source": "My Bellingham Now"
         },
         {
-          "title": "Microsoft-backed AI out-forecasts hurricane experts without crunching the physics",
+          "title": "Seattle temps spike to mid-80s this week",
           "snippet": "",
-          "url": "https://www.theregister.com/2025/05/21/earth_system_model_hurricane_forecast/",
-          "source": "The Register"
+          "url": "https://www.axios.com/local/seattle/2025/05/27/seattle-heat-wave-temperatures-85-midweek",
+          "source": "Axios"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ipl",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 27 May 2025 15:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzxPwKVClWDat81YW0_UgezFh6l8MSDMWEeeWQS44OWM_nTdbl311G3hWw2iQ",
+      "pictureSource": "ESPNcricinfo",
+      "relatedSearch": [
+        {
+          "title": "IPL playoffs: How can RCB and GT make it to the top two?",
+          "snippet": "",
+          "url": "https://www.espncricinfo.com/story/ipl-2025-playoffs-how-can-rcb-or-gujarat-titans-make-it-to-the-top-two-1487764",
+          "source": "ESPNcricinfo"
+        },
+        {
+          "title": "IPL 2025 updated Orange Cap, Purple Cap list; final points table standings after league stage - Find who finishes where",
+          "snippet": "",
+          "url": "https://www.livemint.com/sports/cricket-news/ipl-2025-updated-orange-cap-purple-cap-list-final-points-table-standings-after-league-stage-find-who-finishes-where-11748366740316.html",
+          "source": "Mint"
+        },
+        {
+          "title": "IPL Orange and Purple Cap 2025: Royal Challengers Bengaluru defeat Lucknow Super Giants, finish in Top 2",
+          "snippet": "",
+          "url": "https://indianexpress.com/article/sports/ipl/ipl-orange-and-purple-cap-after-today-ipl-match-royal-challengers-bengaluru-lucknow-super-giants-top-2-10032691/",
+          "source": "The Indian Express"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -68,7 +115,7 @@
     },
     {
       "title": "高鈞賢",
-      "trafficCount": "100+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 27 May 2025 09:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -213,15 +260,6 @@
           "source": "UHK 港生活"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "刑偵12",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 27 May 2025 06:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
