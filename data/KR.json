@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-05-27 23:52:29",
+  "lastUpdate": "2025-05-27 23:59:18",
   "data": [
     {
+      "title": "claude",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 27 May 2025 15:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmckLMpIcjNBXyhHS1-imx3mSvLoBGtyvwgpuDbOUoQtyGzhATC4k5l0o7hLk",
+      "pictureSource": "Anthropic",
+      "relatedSearch": [
+        {
+          "title": "Introducing Claude 4",
+          "snippet": "",
+          "url": "https://www.anthropic.com/news/claude-4",
+          "source": "Anthropic"
+        },
+        {
+          "title": "Anthropic launches Claude 4, its most powerful AI model yet",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/05/22/claude-4-opus-sonnet-anthropic.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Introducing Claude 4 in Amazon Bedrock, the most powerful models for coding from Anthropic | Amazon Web Services",
+          "snippet": "",
+          "url": "https://aws.amazon.com/blogs/aws/claude-opus-4-anthropics-most-powerful-model-for-coding-is-now-in-amazon-bedrock/",
+          "source": "Amazon Web Services (AWS)"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "사전투표",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 27 May 2025 15:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9igGIMXeB69r9u8WPnPrxOJ0ROOS2L33Re0x87D_rmGv8eDgLsvC8G2dW_L0",
       "pictureSource": "동아일보",
@@ -45,7 +73,7 @@
         {
           "title": "Tesla Misses Out on European EV Market Growth as Sales Halved Last Month",
           "snippet": "",
-          "url": "https://www.wsj.com/business/autos/tesla-misses-out-on-european-ev-market-growth-as-sales-halved-last-month-84febe77",
+          "url": "https://www.wsj.com/business/autos/tesla-misses-out-on-european-ev-market-growth-as-sales-halved-last-month-84febe77?gaa_at=eafs&gaa_n=ASWzDAh2iVBypHJWEmk_C_3bSzy6AxcO6SpslvluzCxkDqLG177kRGukrOMr&gaa_ts=6836555a&gaa_sig=qUGw9HoKTFyBkdfS-9gFu1sCl_RLEVsWKCZBrjNub_AfE8peRE-TN2oqjjFFCZoi1AqXN4U4AxEL7T01PwpXDA%3D%3D",
           "source": "WSJ"
         },
         {
@@ -61,15 +89,9 @@
       "title": "미세먼지",
       "trafficCount": "200+",
       "pubDate": "Tue, 27 May 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQALCKMxaK-GndczCovCk9jUfbWCaexo3eko-lsYtlT8xd6m8J4FHGbbPQZyE4",
-      "pictureSource": "YTN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaGhJPjFAydKIYt1oW-EnKXKn29xQ-h6kQtwhuW97tgdZQ5y3_n7g2NL-_0yY",
+      "pictureSource": "네이트 뉴스",
       "relatedSearch": [
-        {
-          "title": "[출근길 YTN 날씨 5/28] 오늘도 초여름 날씨...내륙 요란한 소나기",
-          "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0108_202505280648511054",
-          "source": "YTN"
-        },
         {
           "title": "\"출근길 우산 챙기세요\" 곳곳 비소식…내륙 중심 큰 일교차[오늘날씨]",
           "snippet": "",
@@ -81,34 +103,40 @@
           "snippet": "",
           "url": "https://www.yna.co.kr/view/AKR20250528010000055",
           "source": "연합뉴스"
+        },
+        {
+          "title": "낮 기온 25~29도 '초여름 날씨'…일교차 크고 미세먼지 나빠",
+          "snippet": "",
+          "url": "https://www.nocutnews.co.kr/news/6346358",
+          "source": "노컷뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "테슬라",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 27 May 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRokaySiPk2v1WNJNmEV49TYkmQ2I-2bVdIUarw9fYhiV604tEEEZKSGJqqQQI",
-      "pictureSource": "뉴스1",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8EaPNL8_9UEEbQMt9CQ40rGHvPi9Xw0WsxYSACA4cbzn0GYr5FaCbEoaBg",
+      "pictureSource": "한국경제",
       "relatedSearch": [
         {
-          "title": "테슬라 유럽 판매 반토막에도 머스크 한마디에 7% 급등(상보)",
+          "title": "'트럼프 치킨 아웃'(TACO) 거래…추가 반등은 엔비디아 손에 달렸다 [김현석의 월스트리트나우]",
           "snippet": "",
-          "url": "https://www.news1.kr/world/usa-canada/5796392",
-          "source": "뉴스1"
+          "url": "https://www.hankyung.com/article/202505289770i",
+          "source": "한국경제"
         },
         {
-          "title": "테슬라, 유럽 판매량 반토막-中선 가격전쟁…그래도 주가 7% 급등 왜?",
+          "title": "美 빅테크, EU 관세유예에 2% 이상↑…엔비디아 3%·테슬라 7%↑",
           "snippet": "",
-          "url": "https://news.mt.co.kr/mtview.php?no=2025052807130075552",
-          "source": "머니투데이"
+          "url": "https://www.yna.co.kr/view/AKR20250528008900091",
+          "source": "연합뉴스"
         },
         {
-          "title": "테슬라, 유럽서 판매 49% 급감…\"머스크 정치색·中 BYD에 밀렸다\"",
+          "title": "[미 증시 브리핑] 뉴욕증시 일제히 상승…'EU 관세 유예' 뒤늦게 소화",
           "snippet": "",
-          "url": "https://news.nate.com/view/20250527n35928",
-          "source": "네이트 뉴스"
+          "url": "https://biz.sbs.co.kr/article/20000237208",
+          "source": "SBS Biz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,54 +173,26 @@
       "title": "뉴스",
       "trafficCount": "100+",
       "pubDate": "Tue, 27 May 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQW0VQkpZkwPXCNUz5fK51WG6Z1JY409m7pPQKzWKvywbbOqA7x18N9gQX1whs",
-      "pictureSource": "뉴스1",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiQdhEqA_qCHQbhWB2JuzxlLnIKNyLYpBenix5HolU8uQafTltaRIvubAeOwQ",
+      "pictureSource": "연합뉴스",
       "relatedSearch": [
         {
-          "title": "원전 호재 지속, 뉴스케일 17% 폭등…美원전주 또 일제 랠리",
+          "title": "맑지만 미세먼지·오존 짙어…곳곳에 거센 소나기",
           "snippet": "",
-          "url": "https://www.news1.kr/world/usa-canada/5796419",
-          "source": "뉴스1"
-        },
-        {
-          "title": "골드만 “원자력株 투자 관심도↑…투자 전략은?”",
-          "snippet": "",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01338246642173512",
-          "source": "마켓인"
-        },
-        {
-          "title": "美 '원전 강국 재건' 시동…\"원전 수출시장 한국 존재감 커질 것\"",
-          "snippet": "",
-          "url": "https://www.dongascience.com/news.php?idx=71887",
-          "source": "동아사이언스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "엔비디아",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 27 May 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8EaPNL8_9UEEbQMt9CQ40rGHvPi9Xw0WsxYSACA4cbzn0GYr5FaCbEoaBg",
-      "pictureSource": "한국경제",
-      "relatedSearch": [
-        {
-          "title": "'트럼프 치킨 아웃'(TACO) 거래…추가 반등은 엔비디아 손에 달렸다 [김현석의 월스트리트나우]",
-          "snippet": "",
-          "url": "https://www.hankyung.com/article/202505289770i",
-          "source": "한국경제"
-        },
-        {
-          "title": "美 빅테크, EU 관세유예에 2% 이상↑…엔비디아 3%·테슬라 7%↑",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250528008900091",
+          "url": "https://www.yna.co.kr/view/AKR20250528027900530",
           "source": "연합뉴스"
         },
         {
-          "title": "[미 증시 브리핑] 뉴욕증시 일제히 상승…'EU 관세 유예' 뒤늦게 소화",
+          "title": "[이슈날씨] 내일도 낮 더위... 고농도 오존 주위!",
           "snippet": "",
-          "url": "https://biz.sbs.co.kr/article/20000237208",
-          "source": "SBS Biz"
+          "url": "https://www.ytn.co.kr/_ln/0108_202505272322011829",
+          "source": "YTN"
+        },
+        {
+          "title": "[날씨] 서울, 올해 첫 오존주의보‥초여름 더위 계속",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/replay/2025/nwdesk/article/6720019_36799.html",
+          "source": "MBC 뉴스"
         }
       ],
       "link": "https://imtaqin.id/"

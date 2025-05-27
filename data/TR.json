@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-27 23:52:33",
+  "lastUpdate": "2025-05-27 23:59:22",
   "data": [
     {
       "title": "claude",
@@ -21,10 +21,10 @@
           "source": "CNBC"
         },
         {
-          "title": "Anthropic’s New Model Excels at Reasoning and Planning—and Has the Pokémon Skills to Prove It",
+          "title": "Introducing Claude 4 in Amazon Bedrock, the most powerful models for coding from Anthropic | Amazon Web Services",
           "snippet": "",
-          "url": "https://www.wired.com/story/anthropic-new-model-launch-claude-4/",
-          "source": "WIRED"
+          "url": "https://aws.amazon.com/blogs/aws/claude-opus-4-anthropics-most-powerful-model-for-coding-is-now-in-amazon-bedrock/",
+          "source": "Amazon Web Services (AWS)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,16 @@
       "title": "bolu gündem",
       "trafficCount": "500+",
       "pubDate": "Tue, 27 May 2025 15:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPiiMTIsxrNAHVtUEV4jIu6A7oOmxzppmL95B7joVnnDAc9QiOr8f1WNI2RiM",
+      "pictureSource": "Manisa'da Denge'",
+      "relatedSearch": [
+        {
+          "title": "KURBAN BAYRAMI TATİLİ UZATILMADI",
+          "snippet": "",
+          "url": "https://www.manisadenge.com/haber-kurban-bayrami-tatili-uzatilmadi-117275",
+          "source": "Manisa'da Denge'"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -136,16 +143,16 @@
           "source": "NTV Haber"
         },
         {
-          "title": "Son dakika... Bolu'da 3.9 büyüklüğünde deprem",
+          "title": "Bolu'da deprem",
           "snippet": "",
-          "url": "https://www.hurriyet.com.tr/gundem/son-dakika-boluda-3-9-buyuklugunde-deprem-42817883",
-          "source": "Hürriyet"
+          "url": "https://www.trthaber.com/haber/turkiye/boluda-deprem-908621.html",
+          "source": "TRT Haber"
         },
         {
-          "title": "Bolu'da 3.9 büyüklüğünde deprem",
+          "title": "Bolu'da hissedilen şiddetli bir deprem yaşandı",
           "snippet": "",
-          "url": "https://www.dha.com.tr/yerel-haberler/bolu/merkez/boluda-3-9-buyuklugunde-deprem-2647691",
-          "source": "Demirören Haber Ajansı"
+          "url": "https://www.koroglugazetesi.com/boluda-hissedilen-siddetli-bir-deprem-yasandi",
+          "source": "Köroğlu Gazetesi"
         }
       ],
       "link": "https://imtaqin.id/"
