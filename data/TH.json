@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-05-28 23:55:45",
+  "lastUpdate": "2025-05-29 00:15:17",
   "data": [
+    {
+      "title": "อาการโควิด",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 28 May 2025 17:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOanJGUKu4NGXJger1k-4vu8_OCL-hN2PSMMDxNtYjpRkA17iIB_FsAxGZo4s",
+      "pictureSource": "Thai PBS",
+      "relatedSearch": [
+        {
+          "title": "7 วันป่วยโควิด 67,484 คน หลังสงกรานต์พบแล้ว 14 คลัสเตอร์",
+          "snippet": "",
+          "url": "https://www.thaipbs.or.th/news/content/352596",
+          "source": "Thai PBS"
+        },
+        {
+          "title": "สมศักดิ์ ยัน โควิด XEC ติดง่าย หายเร็ว มียาพร้อม ย้ำไม่มีนโนบายปิดเรียน",
+          "snippet": "",
+          "url": "https://www.pptvhd36.com/health/news/6989",
+          "source": "pptvhd36.com"
+        },
+        {
+          "title": "รู้จักโควิดสายพันธุ์ JN.1* ท่ามกลางผู้ป่วยใหม่ทะลุ 5 หมื่นราย",
+          "snippet": "",
+          "url": "https://www.posttoday.com/smart-life/724616",
+          "source": "posttoday"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "ไฮไลท์ฟุตบอล",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.matichon.co.th/sport/footballinter/news_5201934",
           "source": "มติชนออนไลน์"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "อาการโควิด 2568",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 28 May 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGJ_7SWxVuEguZA_JiS5Bdvp8q4KqkYg0ZqhGH3QMoAHYYE47L58Ra8eUQcw",
-      "pictureSource": "Thairath.co.th",
-      "relatedSearch": [
-        {
-          "title": "โควิดพุ่ง 2 แสนคน จี้รับไข้หวัดใหญ่-RSV",
-          "snippet": "",
-          "url": "https://www.thairath.co.th/news/local/2861034",
-          "source": "Thairath.co.th"
-        },
-        {
-          "title": "ยอดป่วยโควิด-19 ปี 68 ทะลุ 2 แสนคน เสียชีวิต 52 คน",
-          "snippet": "",
-          "url": "https://www.thaipbs.or.th/now/infographic/455",
-          "source": "Thai PBS"
-        },
-        {
-          "title": "แพทย์เตือนโควิด2568 ยังระบาดต่อเนื่อง อัตราป่วยตายต่ำแม้กราฟสูงขึ้น",
-          "snippet": "",
-          "url": "https://www.pptvhd36.com/health/news/6999",
-          "source": "pptvhd36.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "เชลซี",
       "trafficCount": "10000+",
       "pubDate": "Wed, 28 May 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3xmyuIg9d1ICeVP_aQluHO-Uwe3NO2wZ96vLBFcunA09m4uY3v_WBil5ae0",
-      "pictureSource": "Siamsport",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9LB4jXyd0eaLl_ejhbRVFUpMwhtQHyyzhjPV-yXp7lGnmLd-YuQCOcjl_OjI",
+      "pictureSource": "bangkokbiznews",
       "relatedSearch": [
+        {
+          "title": "ดูบอลสด เรอัล เบติส พบ เชลซี วิเคราะห์บอล ชิงดำยูฟ่า คอนเฟอเรนซ์ ลีก",
+          "snippet": "",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1182324",
+          "source": "bangkokbiznews"
+        },
         {
           "title": "เรอัล เบติส พบ เชลซี : พาลเมอร์ แจ่ม, สำรองเด็ด! ตัดเกรดแข้งสิงห์บลูส์เกมคว้าแชมป์ คอนเฟอเรนซ์ ลีก",
           "snippet": "",
@@ -103,19 +109,13 @@
           "snippet": "",
           "url": "https://www.khaosod.co.th/sports/news_9780925",
           "source": "ข่าวสด"
-        },
-        {
-          "title": "ดูบอลสด เรอัล เบติส พบ เชลซี วิเคราะห์บอล ชิงดำยูฟ่า คอนเฟอเรนซ์ ลีก",
-          "snippet": "",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1182324",
-          "source": "bangkokbiznews"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "real betis",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 28 May 2025 12:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3-9rj_SyF0EjeiD0Cc_YM6ibUFCHcmvBxWFD5rlkgzjc5WJ-a3nC-6oyFpn0",
       "pictureSource": "MARCA",
@@ -155,16 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "Real Betis 1-4 Chelsea: Blues crowned Conference League champions after Enzo Maresca changes in final spark second-half comeback",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/news/37002/13374961/real-betis-1-4-chelsea-blues-crowned-conference-league-champions-after-enzo-maresca-changes-in-final-spark-second-half-comeback",
-          "source": "Sky Sports"
-        },
-        {
           "title": "Chelsea complete set of UEFA club trophies",
           "snippet": "",
           "url": "https://www.uefa.com/uefaconferenceleague/news/0299-1dde1c08e79d-c3b67b51e270-1000--chelsea-complete-set-of-uefa-club-trophies/",
           "source": "UEFA.com"
+        },
+        {
+          "title": "Chelsea can become the first club to win all four major UEFA trophies – but who else could complete the set?",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/6371965/2025/05/27/winning-all-four-european-trophies-chelsea/",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +173,26 @@
       "title": "the last of us season 1",
       "trafficCount": "100+",
       "pubDate": "Wed, 28 May 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebu8wKSSgpEmBaRKAEJRh7_f4oWQD7wLRAcCiJ2kEVZ3COVgBeS1NCF1AqRI",
-      "pictureSource": "Collider",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwniv9q-E33VAf3822Qps7pEYPXOnFskniyU3uU964KJzsmst3qMyJAD7Hrk",
+      "pictureSource": "USA Today",
       "relatedSearch": [
         {
-          "title": "The 10 Best Characters of 'The Last of Us' Season 2 That Aren’t Joel or Ellie, Ranked",
+          "title": "'The Last of Us' Season 3: Everything we know so far from the game",
           "snippet": "",
-          "url": "https://collider.com/the-last-of-us-season-2-best-characters-not-joel-or-ellie-ranked/",
-          "source": "Collider"
+          "url": "https://www.usatoday.com/story/entertainment/tv/2025/05/26/the-last-of-us-season-3-what-we-know/83790458007/",
+          "source": "USA Today"
         },
         {
-          "title": "The Last Of Us Season 2: Scariest Scenes, Ranked",
+          "title": "'The Last of Us' Finale Reaches 3.7 Million Viewers",
           "snippet": "",
-          "url": "https://gamerant.com/the-last-of-us-season-2-scariest-scenes/",
-          "source": "Game Rant"
+          "url": "https://variety.com/2025/tv/news/the-last-of-us-season-2-finale-ratings-viewers-1236410319/",
+          "source": "Variety"
         },
         {
-          "title": "The Last of Us Season 2 Never Paid Off a Major Moment (And Fans Are Furious)",
+          "title": "The Last of Us: Season 2 Episode 7 – “Convergence” | A WDYWW Spoilercast",
           "snippet": "",
-          "url": "https://comicbook.com/tv-shows/news/the-last-of-us-season-2-ellie-rifle-seth-gun-artwork-removed/",
-          "source": "ComicBook.com"
+          "url": "https://explosionnetwork.com/the-last-of-us-season-2-episode-7-convergence-a-wdyww-spoilercast/",
+          "source": "Explosion Network"
         }
       ],
       "link": "https://imtaqin.id/"
