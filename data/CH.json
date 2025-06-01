@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-06-01 08:44:23",
+  "lastUpdate": "2025-06-01 08:53:30",
   "data": [
     {
       "title": "severe thunderstorm warning",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 1 Jun 2025 00:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTa9JeGtGzY0En0Pz3NpCUMwgvlnSgoQTukBJWXiLT5NJi5bdNEV5UKhJGlev0",
       "pictureSource": "Kansas City Star",
@@ -145,9 +145,15 @@
       "title": "meyer burger",
       "trafficCount": "500+",
       "pubDate": "Sat, 31 May 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWoAvFiCcrkG7b2dpehtJ8d_8DRapieRWN0WQQY7TJG-FJnKWFGoj3owga3IY",
-      "pictureSource": "Cash",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJSk0EULbf0kTNOaWaYPF83vlbJOLI6oWVUmmSMarEQuKfpp74QACvFGW8nOU",
+      "pictureSource": "20 Minuten",
       "relatedSearch": [
+        {
+          "title": "Insolvenz: Meyer Burger kämpft um deutsche Standorte",
+          "snippet": "",
+          "url": "https://www.20min.ch/story/solar-panel-firma-meyer-burger-meldet-insolvenz-in-deutschland-an-103356300",
+          "source": "20 Minuten"
+        },
         {
           "title": "Meyer Burger stellt Insolvenzantrag in Deutschland",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.tagesanzeiger.ch/meyer-burger-schliesst-deutsche-fabriken-600-kuendigungen-487757980655",
           "source": "Tages-Anzeiger"
-        },
-        {
-          "title": "Deutsche Meyer Burger-Töchter insolvent: 600 Jobs in Gefahr",
-          "snippet": "",
-          "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100747996/insolvenz-deutsche-toechter-der-solarfirma-meyer-burger-betroffen.html",
-          "source": "T-Online"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Sat, 31 May 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPHrFj1Ql2iCjl3F1GQgYRVn0byE22KVAnGv8IanM39xnz_Qvceta_ePaq6z4",
-      "pictureSource": "Kauai Now",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChxX2s9n4coXYTAQyVN4uBzvosRSnOPdTwhcRjyL1JisSYPGWakZ10cNuX64",
+      "pictureSource": "Maui Now",
       "relatedSearch": [
         {
-          "title": "Kauai Weather Forecast for June 01, 2025",
+          "title": "Maui Weather Forecast for June 01, 2025",
           "snippet": "",
-          "url": "https://kauainownews.com/2025/05/31/kauai-weather-forecast-for-june-01-2025/",
-          "source": "Kauai Now"
+          "url": "https://mauinow.com/2025/05/31/maui-weather-forecast-for-june-01-2025/",
+          "source": "Maui Now"
         },
         {
-          "title": "Wednesday Weather Forecast | Higher rain chances for Kauai, drier across the state",
+          "title": "Rain drenches Connecticut to wrap up state's third-wettest May on record. Here's what June has in store.",
           "snippet": "",
-          "url": "https://www.kitv.com/video/news/wednesday-weather-forecast-higher-rain-chances-for-kauai-drier-across-the-state/video_f087eb6f-29d7-5b01-a406-654bd07de5ad.html",
-          "source": "KITV"
+          "url": "https://www.ctinsider.com/weather/article/ct-weather-forecast-5-31-25-may-rainiest-months-20352005.php",
+          "source": "CT Insider"
         },
         {
-          "title": "Kauai Weather Forecast for May 31, 2025",
+          "title": "Nice today with rain Wednesday night-Thursday",
           "snippet": "",
-          "url": "https://kauainownews.com/2025/05/30/kauai-weather-forecast-for-may-31-2025/",
-          "source": "Kauai Now"
+          "url": "https://www.wtnh.com/weather/sun-to-a-few-clouds-with-a-stray-pm-shower-on-this-memorial-day-2025/",
+          "source": "WTNH.com"
         }
       ],
       "link": "https://imtaqin.id/"
