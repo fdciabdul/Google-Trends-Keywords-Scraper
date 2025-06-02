@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-06-02 10:34:50",
+  "lastUpdate": "2025-06-02 10:45:19",
   "data": [
     {
+      "title": "407 etr",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Jun 2025 03:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReLZmGcmT82IIg0ZAxnXicizJgNePyZdcFnLv4VaUOeG8o2fvq6xpIkxc_Vyg",
+      "pictureSource": "Toronto Star",
+      "relatedSearch": [
+        {
+          "title": "Highway 407 East now toll-free from Pickering to Clarington",
+          "snippet": "",
+          "url": "https://www.thestar.com/politics/provincial/highway-407-east-now-toll-free-from-pickering-to-clarington/article_8abaa650-7533-5916-a939-4184008038b2.html",
+          "source": "Toronto Star"
+        },
+        {
+          "title": "Ontario ends tolls on part of Hwy 407 and cuts gas tax starting this weekend",
+          "snippet": "",
+          "url": "https://www.blogto.com/city/2025/05/ontario-ends-tolls-part-hwy-407-cuts-gas-tax/",
+          "source": "blogTO"
+        },
+        {
+          "title": "Hwy. 407 East now toll-free from Pickering to Clarington",
+          "snippet": "",
+          "url": "https://torontosun.com/news/local-news/hwy-407-east-now-toll-free-from-pickering-to-clarington",
+          "source": "Toronto Sun"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "julie drolet",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 2 Jun 2025 03:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYfyWnfuTVIrosYIxSL6n-8YmvIzrwftIF8BaV99DzDjVmBaGg8WNH-NGegxQ",
       "pictureSource": "Noovo Moi",
@@ -33,9 +61,15 @@
       "title": "nascar",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Jun 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOcCJsJGFGHPh6CEWHVBPU4VnMNfdAyGUZXucHW-ulZVUggYWZ7FOx0YHyqRc",
-      "pictureSource": "NASCAR.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzzMzl0MwHM12ltZQm6diNej884W-5AMnxQwU5_tSYyO1knWQH7lG7o_y8Q_c",
+      "pictureSource": "Sportsnet.ca",
       "relatedSearch": [
+        {
+          "title": "Ryan Blaney races to first NASCAR Cup Series victory of the year at Nashville",
+          "snippet": "",
+          "url": "https://www.sportsnet.ca/nascar-cup/article/ryan-blaney-races-to-first-nascar-cup-series-victory-of-the-year-at-nashville/",
+          "source": "Sportsnet.ca"
+        },
         {
           "title": "Ryan Blaney hits right notes in Nashville, lands first Cup Series win of season",
           "snippet": "",
@@ -47,40 +81,6 @@
           "snippet": "",
           "url": "https://ca.finance.yahoo.com/news/ryan-blaney-grabs-much-needed-024900107.html",
           "source": "Yahoo"
-        },
-        {
-          "title": "NASCAR Nashville winners and losers: Carson Hocevar is fast, but not making friends",
-          "snippet": "",
-          "url": "https://www.tennessean.com/story/sports/nascar/2025/06/01/nascar-nashville-reaction-winners-losers-ryan-blaney-victory/83925151007/",
-          "source": "The Tennessean"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mirra andreeva",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Jun 2025 03:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAwArnVx9B-l1RGGm8nKeyX7chqM8p2d0q1RgBomefi1tuhAxEVrjOwEbE-4",
-      "pictureSource": "IslanderNews.com",
-      "relatedSearch": [
-        {
-          "title": "Moscow and Kyiv are holding direct negotiations for the first time in three years",
-          "snippet": "",
-          "url": "https://www.islandernews.com/news/national/moscow-and-kyiv-are-holding-direct-negotiations-for-the-first-time-in-three-years/image_b4d04502-446c-5db6-91ce-73e0dc9fa8eb.html",
-          "source": "IslanderNews.com"
-        },
-        {
-          "title": "Saudi security forces stand at attention beneath a portrait of Saudi Arabia's Crown Prince, Mohammed bin Salman, during a military parade as pilgrims arrive for the annual Hajj pilgrimage",
-          "snippet": "",
-          "url": "https://www.islandernews.com/news/national/saudi-security-forces-stand-at-attention-beneath-a-portrait-of-saudi-arabias-crown-prince-mohammed/image_54997c3f-cf14-532d-88e9-ae7e36ea6128.html",
-          "source": "IslanderNews.com"
-        },
-        {
-          "title": "The snakes are a relatively unusual seizure at Mumbai airport",
-          "snippet": "",
-          "url": "https://www.islandernews.com/news/national/the-snakes-are-a-relatively-unusual-seizure-at-mumbai-airport/image_3d9ef921-2acb-5063-a874-4422fbdf60cf.html",
-          "source": "IslanderNews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "Radio-Canada"
         },
         {
-          "title": "C'est officiellement la fin pour La Baie d'Hudson",
+          "title": "Quels défis et occasions d’affaires pour les PME après le réaménagement des magasins La Baie?",
           "snippet": "",
-          "url": "https://www.journaldemontreal.com/2025/06/01/cest-officiellement-la-fin-pour-la-baie-dhudson",
-          "source": "Le Journal de Montréal"
+          "url": "https://www.lesaffaires.com/dossiers/grands-du-droit-2025/quels-defis-et-occasions-daffaires-pour-les-pme-apres-le-reamenagement-des-magasins-la-baie/",
+          "source": "Les Affaires"
         }
       ],
       "link": "https://imtaqin.id/"
