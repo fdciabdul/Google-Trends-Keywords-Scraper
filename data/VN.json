@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-02 23:37:14",
+  "lastUpdate": "2025-06-02 23:45:32",
   "data": [
+    {
+      "title": "날씨",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Jun 2025 16:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDpLphOVsVTmis-kh2Cu3F0ECvKQgGJB1C6kora3FtLUrEL8hdiQ0ZN8KGn_o",
+      "pictureSource": "TBC 티비씨",
+      "relatedSearch": [
+        {
+          "title": "[굿모닝 날씨]흐리다가 맑아져...낮 19~28도",
+          "snippet": "",
+          "url": "https://www.tbc.co.kr/news/view?pno=20250603053348AE06134&id=196236&c1=code&c2=",
+          "source": "TBC 티비씨"
+        },
+        {
+          "title": "'대선 선택의 날' 광주·전남 흐림…한낮 27도·0.1㎜ 빗방울",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20250603_0003199859",
+          "source": "뉴시스"
+        },
+        {
+          "title": "제주 아침까지 곳에 따라 빗방울…차차 맑아져",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250603008200056",
+          "source": "연합뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "giá vàng thế giới hôm nay",
       "trafficCount": "500+",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://soha.vn/kremlin-hop-khan-sat-gio-dam-phan-nga-ukraine-oreshnik-san-sang-ban-my-phat-canh-bao-toi-chau-au-198250602162804809.htm",
           "source": "SOHA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "thời tiết hôm nay",
-      "trafficCount": "200000+",
-      "pubDate": "Mon, 2 Jun 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHBf7zzFP4SROnpvSOUL51ldh1-P7BtOvl47LhPBmamQDQVJGV1VyuGpUX2N0",
-      "pictureSource": "Báo Dân trí",
-      "relatedSearch": [
-        {
-          "title": "Hà Nội: Người lao động \"oằn mình\" mưu sinh dưới cái nắng như thiêu đốt",
-          "snippet": "",
-          "url": "https://dantri.com.vn/xa-hoi/ha-noi-nguoi-lao-dong-oan-minh-muu-sinh-duoi-cai-nang-nhu-thieu-dot-20250602153407317.htm",
-          "source": "Báo Dân trí"
-        },
-        {
-          "title": "Hình ảnh người Hà Nội chật vật giữa nắng nóng, shipper rủ nhau 'đình công'",
-          "snippet": "",
-          "url": "https://vietnamnet.vn/hinh-anh-nguoi-ha-noi-chat-vat-giua-nang-nong-shipper-ru-nhau-dinh-cong-2407086.html",
-          "source": "Báo VietNamNet"
-        },
-        {
-          "title": "Hà Nội vào đỉnh điểm nắng nóng, mặt đường hơn 50 độ C",
-          "snippet": "",
-          "url": "https://tienphong.vn/ha-noi-vao-dinh-diem-nang-nong-mat-duong-hon-50-do-c-post1747257.tpo",
-          "source": "Báo điện tử Tiền Phong"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,20 +145,20 @@
       "title": "tin tức",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Jun 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Bq2iqzSWB6r5etUER8Y02m4dA62W7PmyWyepj92XmkV03BMnhj-CN0iaf8w",
-      "pictureSource": "Báo Dân trí",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrRA756v8aSgfQC6h8S5Dkvt8NL1XOgyorUPK3t8lU3KZDfo5JrZmGp9Y5qgQ",
+      "pictureSource": "Báo Tuổi Trẻ",
       "relatedSearch": [
         {
-          "title": "Các phương án đáp trả của Nga sau chiến dịch \"Mạng nhện\" từ Ukraine",
+          "title": "Video 'drone phá hủy 40 máy bay Nga' là cảnh trong game",
           "snippet": "",
-          "url": "https://dantri.com.vn/the-gioi/cac-phuong-an-dap-tra-cua-nga-sau-chien-dich-mang-nhen-tu-ukraine-20250602213531351.htm",
-          "source": "Báo Dân trí"
+          "url": "https://tuoitre.vn/video-drone-pha-huy-40-may-bay-nga-la-canh-trong-game-20250602185023824.htm",
+          "source": "Báo Tuổi Trẻ"
         },
         {
-          "title": "Cuộc tập kích drone có thể thay đổi quy tắc chiến tranh Nga - Ukraine",
+          "title": "Nhân chứng hé lộ người đứng sau chiến dịch \"Mạng nhện\" của Ukraine",
           "snippet": "",
-          "url": "https://vnexpress.net/cuoc-tap-kich-drone-co-the-thay-doi-quy-tac-chien-tranh-nga-ukraine-4893259.html",
-          "source": "VnExpress"
+          "url": "https://dantri.com.vn/the-gioi/nhan-chung-he-lo-nguoi-dung-sau-chien-dich-mang-nhen-cua-ukraine-20250603062817560.htm",
+          "source": "Báo Dân trí"
         },
         {
           "title": "Cựu quan chức an ninh Mỹ nói Ukraine hành động liều lĩnh trong vụ tấn công sân bay Nga",
@@ -275,7 +275,7 @@
         {
           "title": "Babies Don’t Need Mozart Recordings, Just a Parent Who Sings",
           "snippet": "",
-          "url": "https://www.wsj.com/science/babies-dont-need-mozart-recordings-just-a-parent-who-sings-64d90236?gaa_at=eafs&gaa_n=ASWzDAjB_48fckawGKoNlR7C9CEEmvhKIeUAIvJP5JELZswUhMdh3WtFxPNJ&gaa_ts=683e3894&gaa_sig=xP1IJCcKun-j1lN-UFAaQ_IVZ-GyVYAL8ZtUghsy990xIxhnW5bHn2JegjfZr8GynvafGo7pJ4Y6SNleyAE5lg%3D%3D",
+          "url": "https://www.wsj.com/science/babies-dont-need-mozart-recordings-just-a-parent-who-sings-64d90236?gaa_at=eafs&gaa_n=ASWzDAi5owRGmQO1RMwi20_pkmlsKODVN0fP0SgIOK0KR04WgyBSNSBg8HnO&gaa_ts=683e3a38&gaa_sig=PsaWj1kj7vO4BiMtBoMd9I1KHmkoTgDI6UQGX5hgL09m8i5qwf2lG7GWa_xhjkgy6xyXyv9qEUWTI7pAYSFhig%3D%3D",
           "source": "WSJ"
         }
       ],
