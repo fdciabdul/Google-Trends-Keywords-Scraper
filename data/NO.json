@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-03 10:25:00",
+  "lastUpdate": "2025-06-03 10:38:15",
   "data": [
     {
       "title": "roberto baggio",
@@ -27,26 +27,26 @@
       "title": "storm",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Jun 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsfhUq7nC6crxsD1GNYb-wZr0uQ_oO39-s7mHhnnfCxpknJKahp3SwXxReHc",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6NliyyWwA56rRYsre0pBhbHvJrEJJK1saWSl54a11temo8FrZSaQxiKhtnYg",
+      "pictureSource": "KTVO",
       "relatedSearch": [
         {
-          "title": "Rare Early June Rainfall Could Reach Phoenix",
+          "title": "Scattered severe storms and heavy rain possible on Tuesday",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/05/31/weather/phoenix-rain-weather.html",
-          "source": "The New York Times"
+          "url": "https://ktvo.com/news/local/scattered-severe-storms-possible-on-tuesday",
+          "source": "KTVO"
         },
         {
-          "title": "Weather Wise: Busy start to June",
+          "title": "Forecast: Tracking storm chances, active pattern this week",
           "snippet": "",
-          "url": "https://www.ktvh.com/news/weather-wise/weather-wise-busy-start-to-june",
-          "source": "KTVH"
+          "url": "https://www.komu.com/weather/forecast-tracking-storm-chances-active-pattern-this-week/article_d21774f9-932d-4039-aaa4-6d8f2e228fbe.html",
+          "source": "KOMU 8"
         },
         {
-          "title": "Alvin's Moisture Will Bring Rain To Southwest, Increased Storm Chances In The Plains",
+          "title": "WEATHER ALERT DAY: Strong winds and heavy rain possible by late Tuesday afternoon",
           "snippet": "",
-          "url": "https://www.msn.com/en-us/weather/topstories/severe-weather-could-pack-wind-damage-hail-and-flooding-rain-in-central-us-tuesday/ar-AA1FSF1B",
-          "source": "MSN"
+          "url": "https://abc17news.com/email-alert-weather-alerts/2025/06/02/weather-alert-day-strong-winds-and-heavy-rain-possible-by-late-tuesday-afternoon/",
+          "source": "ABC17NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -83,9 +83,15 @@
       "title": "harstad tidende",
       "trafficCount": "500+",
       "pubDate": "Mon, 2 Jun 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGbdODyHkPBwW2dY5ur6fGqfiaOYXcEoEkI1U97IFC-qH2xQfBwDtKAkWFFLM",
-      "pictureSource": "VG",
+      "picture": "",
+      "pictureSource": "ht.no",
       "relatedSearch": [
+        {
+          "title": "Pressekonferanse i Generalhagen",
+          "snippet": "",
+          "url": "https://www.ht.no/nyheter/i/gw9rd0/pressekonferanse-i-generalhagen",
+          "source": "ht.no"
+        },
         {
           "title": "To døde da bil havnet i vannet på Bjørnfjell: –⁠ Dypt tragisk",
           "snippet": "",
@@ -93,16 +99,10 @@
           "source": "VG"
         },
         {
-          "title": "Personer fra Harstad involvert i dødsulykke: – Vi er et samfunn i dyp sorg",
+          "title": "-Tung dag for Harstad",
           "snippet": "",
-          "url": "https://www.nrk.no/tromsogfinnmark/personer-fra-harstad-involvert-i-dodsulykke_-_-vi-er-et-samfunn-i-dyp-sorg-1.17441163",
-          "source": "NRK"
-        },
-        {
-          "title": "Ulykke, Bilberging | Dette skjer på ulykkesstedet nå",
-          "snippet": "",
-          "url": "https://www.fremover.no/dette-skjer-pa-ulykkesstedet-na/s/5-17-1380045",
-          "source": "Fremover"
+          "url": "https://www.dagbladet.no/nyheter/tung-dag-for-harstad/83170786",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,23 +136,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bjørnfjell",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Jun 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGbdODyHkPBwW2dY5ur6fGqfiaOYXcEoEkI1U97IFC-qH2xQfBwDtKAkWFFLM",
+      "pictureSource": "VG",
+      "relatedSearch": [
+        {
+          "title": "To døde da bil havnet i vannet på Bjørnfjell: –⁠ Dypt tragisk",
+          "snippet": "",
+          "url": "https://www.vg.no/nyheter/i/rP7mjK/bil-havnet-i-vann-i-narvik",
+          "source": "VG"
+        },
+        {
+          "title": "-Tung dag for Harstad",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/tung-dag-for-harstad/83170786",
+          "source": "Dagbladet"
+        },
+        {
+          "title": "Alle de fire i Bjørnfjell-ulykken gikk på samme VGS i Harstad",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/innenriks/alle-de-fire-i-bjornfjell-ulykken-gikk-pa-samme-vgs-i-harstad/17793066/",
+          "source": "TV2.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "jonathan joss",
       "trafficCount": "1000+",
       "pubDate": "Mon, 2 Jun 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjdEVr7_z8HclyGL1iFyn9aMcajHbleQ-6NnMuKEEU2m1pLvUq2crvOtvgfdw",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3w_c13tV402c8HvWCCCpYhw7zXooBAXPcwAfA4px9g_6ftbL4yukLw4ZfnGc",
+      "pictureSource": "People.com",
       "relatedSearch": [
-        {
-          "title": "Jonathan Joss: King of the Hill's John Redcorn actor shot dead",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c3rp3n54d98o",
-          "source": "BBC"
-        },
         {
           "title": "Nick Offerman Says Parks and Recreation Cast 'Has Been Texting' About Jonathan Joss' Tragic Death 'All Day'",
           "snippet": "",
           "url": "https://people.com/nick-offerman-parks-and-recreation-cast-texting-about-jonathan-joss-death-all-day-11746985",
           "source": "People.com"
+        },
+        {
+          "title": "Jonathan Joss, \"King of the Hill\" voice actor, shot and killed in San Antonio, police say",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/jonathan-joss-king-of-the-hill-voice-actor-killed-san-antonio/",
+          "source": "CBS News"
         },
         {
           "title": "Jonathan Joss, ‘King of the Hill’ Actor Who Voiced John Redcorn, Dies in Shooting at 59",
@@ -183,10 +211,10 @@
           "source": "HotNews.ro"
         },
         {
-          "title": "Prima reacție a lui Alex Marcu, după ce a rămas văduv. Ți se face pielea…",
+          "title": "EXCLUSIV. Familia Teodorei Marcu de la Insula Iubirii, mărturii cutremurătoare! Tânăra a petrecut ultimele zil",
           "snippet": "",
-          "url": "https://www.cancan.ro/prima-reactie-a-lui-alex-marcu-dupa-ce-a-ramas-vaduv-ti-se-face-pielea-de-gaina-21209435",
-          "source": "Cancan"
+          "url": "https://spynews.ro/monden/showbiz-intern/exclusiv-familia-teodorei-marcu-de-la-insula-iubirii-marturii-cutremuratoare-tanara-a-petrecut-ultimele-zile-de-viata-in-teroare-sia-sunat-apropiatii-si-lea-spus-ca-e-urmarita-de-robert-lupu-ucigasul-ei-351392.html",
+          "source": "Spynews.ro"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.cbr.com/the-last-of-us-season-2-finale-mel-death/",
           "source": "Comic Book Resources"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mbeumo",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 2 Jun 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoSnosZc0u40j7_Ta4N3DMX3UfpVMfkWfRSCUOzW-tT1qhA-UexIdVbFiHkw",
-      "pictureSource": "TV2.no",
-      "relatedSearch": [
-        {
-          "title": "Fotballryktene: – United-spiss ønsket av CL-finalist",
-          "snippet": "",
-          "url": "https://www.tv2.no/sport/fotball/fotballryktene-united-spiss-onsket-av-cl-finalist/17792605/",
-          "source": "TV2.no"
-        },
-        {
-          "title": "(+) Målpoeng-maskinen som «tar drittjobben»: – Et veldig godt kjøp",
-          "snippet": "",
-          "url": "https://www.united.no/nyheter/malpoeng-maskinen-som-tar-drittjobben-et-veldig-godt-kjop/1376300",
-          "source": "United - forsiden"
-        },
-        {
-          "title": "- Mbeumo har valgt United - sier nei til Arsenal og Newcastle",
-          "snippet": "",
-          "url": "https://www.united.no/nyheter/mbeumo-har-valgt-united-sier-nei-til-arsenal-og-newcastle/1376286",
-          "source": "United - forsiden"
         }
       ],
       "link": "https://imtaqin.id/"
