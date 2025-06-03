@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-03 01:04:18",
+  "lastUpdate": "2025-06-03 01:43:27",
   "data": [
+    {
+      "title": "новости одессы",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Jun 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRH8WWcbB7Ff8OeZNq8SwfUMADWZw7rdR7M1yLkrLC0z201OUpphom-jrWpOd8",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Оккупанты уничтожили отделение Новой Почты в Одесской области",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/05/30/7514749/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Одессе прогремели взрывы, до этого сообщалось об угрозе атаки БПЛА",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/vzryvy-v-odesse-3-iyunya-vo-vremya-vozdushnoy-trevogi-v-gorode-byli-slyshny-vzryvy-novosti-odessy-50518982.html",
+          "source": "NV.ua"
+        },
+        {
+          "title": "В Одессе прозвучали взрывы на фоне налёта БпЛА",
+          "snippet": "",
+          "url": "https://korrespondent.net/city/odessa/4787138-v-odesse-prozvuchaly-vzryvy-na-fone-nalyota-bpla",
+          "source": "Korrespondent.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "мелитополь",
       "trafficCount": "200+",
@@ -49,10 +77,10 @@
           "source": "Футбол 24"
         },
         {
-          "title": "«Не знаю, что произошло»: Карлсен объяснил первое поражение в карьере от 19-летнего чемпиона мира Гукеша",
+          "title": "ВИДЕО. Карлсен взбесился и стукнул кулаком по столу, проиграв партию",
           "snippet": "",
-          "url": "https://sport.nv.ua/other-sport/magnus-karlsen-obyasnil-svoe-porazhenie-ot-dommaradzhu-gukesha-50518844.html",
-          "source": "NV Спорт"
+          "url": "https://sport.ua/news/767127-video-karlsen-vzbesilsya-i-stuknul-kulakom-po-stolu-proigrav-partiyu",
+          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,13 +89,13 @@
       "title": "комаров",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Jun 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWLXCDOvzkHRkOQJLeJeI2tTnxY8Q4r3HOrfuq4f5jzD6Qdezp0NbTnXWm-DQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYqnMDd3Xwq3QMGN7hlXLvUUqbRw88HCmdSdk9myun_MwO2-5TthQxn9S6UIg",
       "pictureSource": "Блокнот Волжский",
       "relatedSearch": [
         {
-          "title": "Экстремальное нашествие мошкары на Волжский: как спастись от гнуса",
+          "title": "Жителей Волжского атаковали противные насекомые",
           "snippet": "",
-          "url": "https://bloknot-volzhsky.ru/news/ekstremalnoe-nashestvie-moshkary-na-volzhskiy-kak--1863282",
+          "url": "https://bloknot-volzhsky.ru/news/zhiteley-volzhskogo-atakovali-protivnye-nasekomye-1862979",
           "source": "Блокнот Волжский"
         },
         {
@@ -214,44 +242,16 @@
           "source": "BBC"
         },
         {
-          "title": "Что меняют удары Украины по дальней авиации РФ",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/cto-menaut-udary-ukrainy-po-dalnej-aviacii-rf/a-72764975",
-          "source": "DW"
-        },
-        {
           "title": "\"Удар в самое уязвимое место\" – к чему приводит недооценка врага",
           "snippet": "",
           "url": "https://www.liga.net/politics/opinion/udar-v-samoe-uyazvimoe-mesto-k-chemu-privodit-nedootsenka-vraga",
           "source": "LIGA.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода чернігів",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Jun 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQssSZshaj00LpzDnLlMUGTtSAKpn89-ccFxPUZteaR-WWgheJ4ZZjufcgIENQ",
-      "pictureSource": "Суспільне | Новини",
-      "relatedSearch": [
-        {
-          "title": "До +30ºС та дощі: синоптики розповіли, якою буде погода на Чернігівщині найближчим часом",
-          "snippet": "",
-          "url": "https://suspilne.media/chernihiv/1032677-do-30s-ta-dosi-sinoptiki-rozpovili-akou-bude-pogoda-na-cernigivsini-najblizcim-casom/",
-          "source": "Суспільне | Новини"
         },
         {
-          "title": "Штормове попередження: на Чернігівщину сунуть грози та град",
+          "title": "На авиабазе \"Иваново\" уничтожен по меньшей мере один самолет А-50: спутниковый снимок",
           "snippet": "",
-          "url": "https://cheline.com.ua/news/society/shtormove-poperedzhennya-na-chernigivshhinu-sunut-grozi-ta-grad-462073",
-          "source": "ЧЕline"
-        },
-        {
-          "title": "Жовтий рівень небезпечності: у Чернігові та області прогнозують грози",
-          "snippet": "",
-          "url": "https://www.0462.ua/news/3951993/zovtij-riven-nebezpecnosti-u-cernigovi-ta-oblasti-prognozuut-grozi",
-          "source": "0462.ua"
+          "url": "https://www.rbc.ua/ukr/news/aviabazi-ivanovo-znishcheno-shchonaymenshe-1748892110.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
