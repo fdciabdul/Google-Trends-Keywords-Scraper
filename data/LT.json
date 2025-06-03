@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-06-03 03:50:34",
+  "lastUpdate": "2025-06-03 04:02:52",
   "data": [
     {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Jun 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w1xRobSsouVV-bI6c2MbpTj2_qtRmftYi6Yk4VSsvQzjX2c3T_TvU1MQpAg",
+      "pictureSource": "Yahoo",
+      "relatedSearch": [
+        {
+          "title": "Scattered storms ahead with heavy rain for some",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/scattered-storms-ahead-heavy-rain-232612625.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "June 2, 2025",
+          "snippet": "",
+          "url": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2025/june",
+          "source": "IFT.org"
+        },
+        {
+          "title": "Pleasant Monday with a smoky sky, soon it will feel like June in North Carolina",
+          "snippet": "",
+          "url": "https://www.wxii12.com/article/north-carolina-pleasant-monday-hazy-sky-smoke-wildfire-summer-heat/64946561",
+          "source": "WXII"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "orai",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 2 Jun 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk2Bqo2vvJxg5pvdE5mUCCD6KivqAzBPHij7KO6AOs3EwTW7_3U7K13SHTmPM",
       "pictureSource": "Delfi",
@@ -21,38 +49,10 @@
           "source": "15min.lt"
         },
         {
-          "title": "Sinoptikas įspėja apie permainingus orus: vasarišką šilumą nuplaus liūtys",
+          "title": "Pasijusime tarsi pirtyje: karštis smogs staiga",
           "snippet": "",
-          "url": "https://www.lrytas.lt/gamta/gamtaorai/2025/06/03/news/sinoptikas-ispeja-apie-permainingus-orus-vasariska-karsti-nuplaus-liutys-38114194",
-          "source": "Lrytas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "15min",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Jun 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaBxkbF1V0bDJqSdxabPwPCUL10mJnVGtnLekvVuvG7wBE3gSkkMYyNc-CF1Y",
-      "pictureSource": "15min.lt",
-      "relatedSearch": [
-        {
-          "title": "Ką daryti, jei dings ryšys? Ekspertai įspėja ruoštis jau dabar",
-          "snippet": "",
-          "url": "https://www.15min.lt/verslas/naujiena/finansai/jei-dingtu-rysys-kaip-lietuva-ruosiasi-scenarijui-x-662-2456368",
-          "source": "15min.lt"
-        },
-        {
-          "title": "Ukraina skelbia naujas detales apie operaciją „Voratinklis“: triuškinantį smūgį planavo 1,5 metų",
-          "snippet": "",
-          "url": "https://www.tv3.lt/1424923",
-          "source": "tv3.lt"
-        },
-        {
-          "title": "Ukraina per taikos derybas Stambule sulaukė grasinimų iš Rusijos",
-          "snippet": "",
-          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/ukraina-per-taikos-derybas-stambule-sulauke-grasinimu-is-rusijos-57-2462382",
-          "source": "15min.lt"
+          "url": "https://www.tv3.lt/naujiena/lietuva/pasijusime-tarsi-pirtyje-karstis-smogs-staiga-n1425251",
+          "source": "Tv3.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +117,9 @@
       "title": "lenkijos prezidento rinkimai",
       "trafficCount": "100+",
       "pubDate": "Sun, 1 Jun 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbR9LdaSB52d7eMj14olffw6AWxUwgXLJwZziSo0-Du8e-HkZFlSD3Hb_BHg",
-      "pictureSource": "Delfi",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstJRAV_QfHcGIlai5xh7Yl2Th7OGxZd6euCxUMSHDZP0rwWNXjEm-MIP1ZRk",
+      "pictureSource": "15min.lt",
       "relatedSearch": [
-        {
-          "title": "Lenkijos prezidentas: nemanau, kad Rusija yra pajėgi užpulti kurią nors kitą šalį",
-          "snippet": "",
-          "url": "https://www.delfi.lt/news/world/lenkijos-prezidentas-nemanau-kad-rusija-yra-pajegi-uzpulti-kuria-nors-kita-sali-120114757",
-          "source": "Delfi"
-        },
         {
           "title": "Lenkijoje prezidentu išrinkus nacionalistą, ministras pirmininkas siekia balsavimo dėl pasitikėjimo",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "15min.lt"
         },
         {
-          "title": "G. Nausėda: nematau priežasčių, kodėl bendradarbiavimas su K. Nawrockiu negalėtų būti toks pat geras kaip su A. Duda",
+          "title": "JAV sveikina nacionalistą Karolį Nawrockį su pergale Lenkijos prezidento rinkimuose",
           "snippet": "",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2025/06/02/news/g-nauseda-nematau-priezasciu-kodel-bendradarbiavimas-su-k-nawrockiu-negaletu-buti-toks-pat-geras-kaip-su-a-duda-38107076",
-          "source": "Lrytas"
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/jav-sveikina-nacionalista-karoli-nawrocki-su-pergale-lenkijos-prezidento-rinkimuose-57-2462400",
+          "source": "15min.lt"
+        },
+        {
+          "title": "Lenkijos prezidentas: nemanau, kad Rusija yra pajėgi užpulti kurią nors kitą šalį",
+          "snippet": "",
+          "url": "https://www.delfi.lt/news/world/lenkijos-prezidentas-nemanau-kad-rusija-yra-pajegi-uzpulti-kuria-nors-kita-sali-120114757",
+          "source": "Delfi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +155,10 @@
           "source": "15min.lt"
         },
         {
-          "title": "Karas Ukrainoje. Prieš taikos derybas Stambule Rusija Ukrainoje pražudė 9 civilius, dar 49 sužeidė",
+          "title": "Karas Ukrainoje. Galingas smūgis Rusijos aerodromui: paviešintos sunaikintų orlaivių nuotraukos",
           "snippet": "",
-          "url": "https://www.delfi.lt/news/world/karas-ukrainoje-pries-taikos-derybas-stambule-rusija-ukrainoje-prazude-9-civilius-dar-49-suzeide-120114487",
-          "source": "Delfi"
+          "url": "https://www.tv3.lt/naujiena/uzsienis/karas-ukrainoje-galingas-smugis-rusijos-aerodromui-paviesintos-sunaikintu-orlaiviu-nuotraukos-n1424923",
+          "source": "tv3.lt"
         },
         {
           "title": "Ukraina smogė 41 strateginės aviacijos lėktuvui keturiuose aerodromuose Rusijos užnugaryje",
