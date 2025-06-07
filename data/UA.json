@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-06-07 07:46:51",
+  "lastUpdate": "2025-06-07 07:53:48",
   "data": [
     {
       "title": "resident evil 9",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 6 Jun 2025 23:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1xB5Fy1XINvk9BbjQFwnDZhNv5jKjMFwrhLWrhQXQqQSdhI02auc_0xjN_BI",
       "pictureSource": "Epic Games",
@@ -71,16 +71,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "Втрати ворога станом на 7 червня 2025 – Генштаб ЗСУ",
-          "snippet": "",
-          "url": "https://glavcom.ua/country/incidents/vtrati-voroha-stanom-na-7-chervnja-2025-henshtab-zsu-1062356.html",
-          "source": "Главком"
-        },
-        {
           "title": "Втрати РФ у війні перевищили 995 тис. бійців",
           "snippet": "",
           "url": "https://ua.korrespondent.net/ukraine/4788423-vtraty-rf-u-viini-perevyschyly-995-tys-biitsiv",
           "source": "Korrespondent.net"
+        },
+        {
+          "title": "Втрати ворога станом на 7 червня 2025 – Генштаб ЗСУ",
+          "snippet": "",
+          "url": "https://glavcom.ua/country/incidents/vtrati-voroha-stanom-na-7-chervnja-2025-henshtab-zsu-1062356.html",
+          "source": "Главком"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "Korrespondent.net"
         },
         {
-          "title": "Керівнику Антимонопольного комітету Кириленку повідомили про нову підозру: НАБУ розкрило деталі",
+          "title": "Дружині українського посадовця оголосили підозру і призначили заставу",
           "snippet": "",
-          "url": "https://www.unian.ua/incidents/kerivniku-amku-kirilenku-povidomili-pro-novu-pidozru-znov-ne-zadeklaruvav-20-ob-yektiv-neruhomosti-ta-lyuksoviy-avtomobil-13029279.html",
-          "source": "УНІАН"
+          "url": "https://donpatriot.news/druzhyni-ukrayinskogo-posadovczya-ogolosyly-pidozru-i-pryznachyly-zastavu",
+          "source": "Патріот Донбасу"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,11 +227,30 @@
     },
     {
       "title": "погода харків",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 6 Jun 2025 18:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSbz6vXLHSMj94q5s_lGsgd7bx5X1-_b5ryN5TSrLpftt6ZCnEtJ7TQEqJZ9E",
+      "pictureSource": "МГ \"Объектив\"",
+      "relatedSearch": [
+        {
+          "title": "Надолго ли Харьковщину «накроет» жара. Синоптики заявляют о «резких перепадах»",
+          "snippet": "",
+          "url": "https://www.objectiv.tv/objectively/2025/06/06/nadolgo-li-harkovshhinu-nakroet-zhara-sinoptiki-zayavlyayut-o-rezkih-perepadah/",
+          "source": "МГ \"Объектив\""
+        },
+        {
+          "title": "В Харьковской обл, 8 июня, ожидается солнечная погода до +38 градусов",
+          "snippet": "",
+          "url": "https://city-izyum.pp.ua/sunny-weather-up-to-38-degrees-is-expected-in-kharkiv-region-on-11june-81099/",
+          "source": "Ізюм Інформаційний"
+        },
+        {
+          "title": "Синоптики сообщили об опасной погоде в Харьковской области 3 июня",
+          "snippet": "",
+          "url": "https://dumka.media/rus/suspilstvo/1748928591-grozy-grad-i-shkvaly-harkovshchinu-nakroet-nepogoda-3-iyunya",
+          "source": "dumka.media"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
