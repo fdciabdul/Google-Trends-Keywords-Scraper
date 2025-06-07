@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-07 00:04:08",
+  "lastUpdate": "2025-06-07 00:37:23",
   "data": [
     {
       "title": "воронеж",
@@ -59,11 +59,17 @@
     },
     {
       "title": "тернопіль вибухи",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 6 Jun 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKBp5XsICIcmhqTcjpwj0LxN745UOtQdGMQz56RZWMFpJXsIKXS9gvSURJrIA",
-      "pictureSource": "24 Канал",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQB_Tr2KhvjoLaM_Y3pQakDwE2ixoBCIJSr8-qCI1S61mzygrv-muiQAy-uFg",
+      "pictureSource": "ТСН",
       "relatedSearch": [
+        {
+          "title": "У Тернополі та Дніпрі вночі пролунали вибухи",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/u-ternopoli-ta-dnipri-vnochi-prolunaly-vybukhy-2844446.html",
+          "source": "ТСН"
+        },
         {
           "title": "Наймасовіша атака в історії Тернополя: яка ситуація в місті після комбінованого обстрілу Росії",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.radiosvoboda.org/a/news-poztrazhdali-kyiv-ternopil-lutsk/33435831.html",
           "source": "Радіо Свобода"
-        },
-        {
-          "title": "В одній з громад Тернопільщини повідомили про пошкодження внаслідок нічної атаки",
-          "snippet": "",
-          "url": "https://suspilne.media/ternopil/1035953-v-odnij-z-gromad-ternopilsini-povidomili-pro-poskodzenna-vnaslidok-nicnoi-ataki/",
-          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,9 +114,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "днепр",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 6 Jun 2025 16:00:00 -0700",
+      "title": "новости днепра",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 6 Jun 2025 16:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuncbbFXo15yNwuzMUcPSaY-gw6ecLaoWftxsAKhun_s0agrweNY_Net079Ik",
       "pictureSource": "24 Канал",
       "relatedSearch": [
@@ -201,20 +201,20 @@
       "title": "mortal shell",
       "trafficCount": "200+",
       "pubDate": "Fri, 6 Jun 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnMOdVQe8A63DEJlaJKQnTaf0j2k2xsbaTRhyfjt3-1CRBl05wkwMMpqf9XDc",
-      "pictureSource": "GameSpot",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF2YWgGOnZZe4tU_S-vU4-eK-uU1My-XL1dt0XCdHPLK87fJ7O4ZlZgfJYIFI",
+      "pictureSource": "Gematsu",
       "relatedSearch": [
-        {
-          "title": "Mortal Shell II Trailer Comes To Rip And Tear At Summer Game Fest",
-          "snippet": "",
-          "url": "https://www.gamespot.com/articles/mortal-shell-ii-trailer-comes-to-rip-and-tear-at-summer-game-fest/1100-6532199/",
-          "source": "GameSpot"
-        },
         {
           "title": "Mortal Shell II announced for PS5, Xbox Series, and PC",
           "snippet": "",
           "url": "https://www.gematsu.com/2025/06/mortal-shell-ii-announced-for-ps5-xbox-series-and-pc",
           "source": "Gematsu"
+        },
+        {
+          "title": "Mortal Shell II Trailer Comes To Rip And Tear At Summer Game Fest",
+          "snippet": "",
+          "url": "https://www.gamespot.com/articles/mortal-shell-ii-trailer-comes-to-rip-and-tear-at-summer-game-fest/1100-6532199/",
+          "source": "GameSpot"
         },
         {
           "title": "They put a revolver in Dark Souls—Mortal Shell 2 looks like it wandered out of an edgy teenager's heavy-metal fantasies, and I cannot wait to play it",
