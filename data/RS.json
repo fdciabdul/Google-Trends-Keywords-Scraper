@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-08 20:06:44",
+  "lastUpdate": "2025-06-08 20:18:06",
   "data": [
     {
       "title": "direktno",
@@ -77,7 +77,7 @@
     },
     {
       "title": "b92",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 8 Jun 2025 12:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5qSeTz8R6O0A0x6G2H0ke_ywjGhIfrAZw7ueey0jMzGzUrlswY3TWJPQMNK8",
       "pictureSource": "Blic",
@@ -107,15 +107,9 @@
       "title": "nova rs",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDLE4xz7-N_Wo4jrqt1iHyWaJtilpTJ9ZqJZhaFL7FnNOuc49y16U2l82mwk",
-      "pictureSource": "Naslovi.net",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQka-8YkaIEKLrEI9eU-Izq5v7I7Lcn_IBx_nsI91AdT0P-ekME98KAAgUoR9c",
+      "pictureSource": "Euronews.rs",
       "relatedSearch": [
-        {
-          "title": "Požar u KBC Zvezdari, vatrogasci izašli na teren",
-          "snippet": "",
-          "url": "https://naslovi.net/2025-06-06/euronews/pozar-u-kbc-zvezdari-vatrogasci-izasli-na-teren/39814141",
-          "source": "Naslovi.net"
-        },
         {
           "title": "Požar u KBC Zvezdari, vatrogasci izašli na teren",
           "snippet": "",
@@ -127,6 +121,12 @@
           "snippet": "",
           "url": "https://nova.rs/vesti/hronika/pozar-u-kbc-zvezdara-na-terenu-vatrogasci-foto/",
           "source": "Nova"
+        },
+        {
+          "title": "Požar u KBC Zvezdari, vatrogasci izašli na teren",
+          "snippet": "",
+          "url": "https://naslovi.net/2025-06-06/euronews/pozar-u-kbc-zvezdari-vatrogasci-izasli-na-teren/39814141",
+          "source": "Naslovi.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -160,6 +160,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "danas",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 8 Jun 2025 12:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3ON2qNUd2q0luERoiVEqSN3-XMm_ufNE1omYrK8MITmKRitcwke_G26Fw-7c",
+      "pictureSource": "N1",
+      "relatedSearch": [
+        {
+          "title": "Vučić: Policija mora da dobije čvršća ovlašćenja, oduzimana su joj i davana tužilaštvu",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/vucic-policija-mora-da-dobije-cvrsca-ovlascenja-oduzimana-su-joj-i-davana-tuzilastvu/",
+          "source": "N1"
+        },
+        {
+          "title": "Vučić predlaže veća ovlašćenja za policiju",
+          "snippet": "",
+          "url": "https://www.slobodnaevropa.org/a/vucic-policija-ovlascenja-tuzilastva/33437181.html",
+          "source": "Radio Slobodna Evropa"
+        },
+        {
+          "title": "Александар Вулин присуствовао централној свечаности поводом обележавања Дана МУП-а Србије",
+          "snippet": "",
+          "url": "https://www.politika.rs/scc/clanak/681338/aleksandar-vulin-prisustvovao-centralnoj-svecanosti-povodom-obelezavanja-dana-mup-a-srbije",
+          "source": "Politika"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "pink",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 12:10:00 -0700",
@@ -173,16 +201,16 @@
           "source": "Pink.rs"
         },
         {
-          "title": "Nedeljkov (CRTA): Mnogi \"policajci\" u Kosjeriću nisu imali legitimaciju, postavlja se pitanje jesu li to zaista",
+          "title": "Preliminarna ocena posmatračke misije Crte o izbornom danu u Kosjeriću i Zaječaru",
           "snippet": "",
-          "url": "https://n1info.rs/vesti/nedeljkov-mnogi-policajci-u-kosjericu-nisu-imali-legitimaciju-postavlja-se-pitanje-jesu-li-to-zaista/",
-          "source": "N1"
+          "url": "https://crta.rs/preliminarna-ocena-posmatracke-misije-crte-o-izbornom-danu-u-kosjericu-i-zajecaru/",
+          "source": "CRTA"
         },
         {
-          "title": "Lista „Ujedinjeni za Kosjerić“ proglasila pobedu: „Odrali smo ih“, kaže Vladan Todorović",
+          "title": "IZBORI U ZAJEČARU I KOSJERIĆU Zatvorena biračka mesta, u Kosjeriću velika izlaznost: Čekaju se rezultati (FOTO, VIDEO)",
           "snippet": "",
-          "url": "https://www.danas.rs/vesti/politika/nova-ujedinjeni-za-kosjeric-proglasila-pobedu-odrali-smo-ih-kaze-vladan-todorovic/",
-          "source": "Danas"
+          "url": "https://www.blic.rs/vesti/politika/izbori-u-kosjericu-i-zajecaru-uzivo-izlaznost-u-kosjericu-70-odsto-u-zajecaru-498/rs1y9dt",
+          "source": "Blic"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,34 +239,6 @@
           "snippet": "",
           "url": "https://n1info.rs/vesti/teska-saobracajna-nesreca-kod-niksica-stradali-majka-i-dete-iz-srbije/",
           "source": "N1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "atp lista",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 8 Jun 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzgGe31lsLdAeAaikdfUxyWorzEj-9wttoiy-SxfAb2L0434YZhTm0e2pawhI",
-      "pictureSource": "Sportal.rs",
-      "relatedSearch": [
-        {
-          "title": "Đoković profitirao od Rolan Garosa: Skočio na ATP listi, a sledeći mu beži samo 170 poena!",
-          "snippet": "",
-          "url": "https://sportal.blic.rs/prica/novak-djokovic-blizi-vrhu-ovo-je-atp-lista-posle-rolan-garosa-2025060816193377795",
-          "source": "Sportal.rs"
-        },
-        {
-          "title": "Novak Đoković i 25. slem: Da ili ne? Strani novinari odgovaraju",
-          "snippet": "",
-          "url": "https://sportklub.n1info.rs/tenis/roland-garros/novak-djokovic-i-25-slem-da-ili-ne-strani-novinari-odgovaraju/",
-          "source": "Sportklub"
-        },
-        {
-          "title": "Evo kako izgleda ATP lista posle Rolan Garosa: Siner i dalje prvi, pogledajte gde je Novak Đoković!",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/sport/tenis/4122840-evo-kako-izgleda-atp-lista-posle-rolan-garosa-siner-i-dalje-prvi-pogledajte-gde-je-novak-djokovic",
-          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
