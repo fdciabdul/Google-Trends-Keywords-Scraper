@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-09 23:32:35",
+  "lastUpdate": "2025-06-09 23:41:09",
   "data": [
     {
       "title": "новини київ",
@@ -33,9 +33,15 @@
       "title": "київ",
       "trafficCount": "500+",
       "pubDate": "Mon, 9 Jun 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjfTSDfJmRXZxkzn3nagHPdhUqYpBPsfTD6qO5jxAJVtql3bRqAghr78ugDcM",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtVZhL9oBfdU_jDVdQUs-88G2a2KwYidzWwou_so36Q59CqXR8EedIFFwEhUc",
+      "pictureSource": "Українські Національні Новини",
       "relatedSearch": [
+        {
+          "title": "Вибухи в Києві: ракета та падіння дрона в Деснянському районі",
+          "snippet": "",
+          "url": "https://unn.ua/news/vybukhy-v-kyievi-raketa-ta-padinnia-drona-v-desnianskomu-raioni",
+          "source": "Українські Національні Новини"
+        },
         {
           "title": "Нічна атака: на Київщині пошкоджено житло і авто",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.radiosvoboda.org/a/news-kyiv-udar-rf/33437649.html",
           "source": "Радіо Свобода"
-        },
-        {
-          "title": "Росіяни атакують столицю \"шахедами\" (доповнюється)",
-          "snippet": "",
-          "url": "https://lb.ua/society/2025/06/10/680908_rosiyani_atakuyut_stolitsyu_shahedami.html",
-          "source": "LB.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "В Киеве во время атаки РФ поврежден офис: что известно о первых последствиях",
+          "title": "В Киеве на фоне ракетной и дроновой атаки прогремели взрывы",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/kievi-pid-chas-ataki-rf-poshkodzheno-ofis-1749426188.html",
+          "url": "https://www.rbc.ua/ukr/news/kievi-tli-raketnoyi-ta-dronovoyi-ataki-prolunali-1749510636.html",
           "source": "РБК-Україна"
         },
         {
-          "title": "Атака на Киев: на Левом берегу повреждено здание",
+          "title": "«Их подвиг — вне времени». В Киеве попрощались с тремя спасателями, которые погибли во время ликвидации после",
           "snippet": "",
-          "url": "https://korrespondent.net/city/kiev/4788770-ataka-na-kyev-na-levom-berehu-povrezhdeno-zdanye",
-          "source": "Korrespondent.net"
+          "url": "https://nv.ua/ukraine/events/udar-po-kievu-6-iyunya-v-stolice-poproshchalis-s-tremya-pogibshimi-spasatelyami-foto-video-50520641.html",
+          "source": "NV.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "РБК-Україна"
         },
         {
-          "title": "Одессу атакуют дроны: несколько «птичек» сбили, есть прилет в медучреждение, вспыхнул пожар (обновляется, фото)",
-          "snippet": "",
-          "url": "https://dumskaya.net/news/odessu-atakuyut-drony-rabotaet-pvo-v-gorode-slys-188138/",
-          "source": "Думская"
-        },
-        {
           "title": "В Одессе БПЛА попал в роддом - СМИ",
           "snippet": "",
           "url": "https://korrespondent.net/city/odessa/4789081-v-odesse-bpla-popal-v-roddom-smy",
           "source": "Korrespondent.net"
+        },
+        {
+          "title": "Одессу атакуют дроны: несколько «птичек» сбили, есть прилет в медучреждение, вспыхнул пожар (обновляется, фото)",
+          "snippet": "",
+          "url": "https://dumskaya.net/news/odessu-atakuyut-drony-rabotaet-pvo-v-gorode-slys-188138/",
+          "source": "Думская"
         }
       ],
       "link": "https://imtaqin.id/"
