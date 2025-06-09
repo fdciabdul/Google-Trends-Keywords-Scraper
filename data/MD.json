@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-09 14:11:24",
+  "lastUpdate": "2025-06-09 14:24:12",
   "data": [
     {
       "title": "aeroport chisinau",
@@ -27,9 +27,15 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Sun, 8 Jun 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPhf-tvh6T5UXR1H94MD43qpqxvnpbYkZurJnD1bSvifTAt_CSLf5UH-1L2_0",
-      "pictureSource": "USA Today",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMvpe9tRgfAB8edC_mONb6Z7C69-xakynzvpuUCj0VF7FsKZogOMb3F0Ydn94",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
+        {
+          "title": "Possible 100 MPH Winds Expected Sunday In These Four States",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/possible-100-mph-winds-expected-183553538.html",
+          "source": "Yahoo"
+        },
         {
           "title": "Severe thunderstorms threaten millions with wicked weather",
           "snippet": "",
@@ -41,12 +47,6 @@
           "snippet": "",
           "url": "https://www.wisn.com/article/weather-spotty-to-sctd-afternoon-storms/65009599",
           "source": "WISN"
-        },
-        {
-          "title": "Possible 100 MPH Winds Expected Sunday In These Four States",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/possible-100-mph-winds-expected-183553538.html",
-          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,29 +89,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "portugalia spania",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 8 Jun 2025 12:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLp0xqohm_MGtrt23TxrvuJxVOhG1ehOXuf_GVMLoGGon-A4RbJBjRN6QAXCg",
+      "pictureSource": "Digi Sport",
+      "relatedSearch": [
+        {
+          "title": "200.000.000€ pentru Lamine Yamal, a doua zi după Portugalia - Spania: numărul 1 în lume",
+          "snippet": "",
+          "url": "https://www.digisport.ro/fotbal/la-liga/200-000-000e-pentru-lamine-yamal-a-doua-zi-dupa-portugalia-spania-numarul-1-in-lume-3634473",
+          "source": "Digi Sport"
+        },
+        {
+          "title": "A apărut lista celor mai scumpi 20 de fotbaliști din lume din acest moment » Toți valorează peste 100.000.000 de euro",
+          "snippet": "",
+          "url": "https://www.gsp.ro/international/campionate/cies-a-publicat-lista-celor-mai-scumpi-20-de-fotbalisti-din-lume-810685.html",
+          "source": "GSP"
+        },
+        {
+          "title": "Lamine Yamal va lua, săptămânal, o sumă la care alții nu ajung într-o viață: salariul său, în Top 5 la Barcelona",
+          "snippet": "",
+          "url": "https://www.sport.ro/fotbal-extern/lamine-yamal-va-lua-saptamanal-o-suma-la-care-altii-nu-ajung-intr-o-viata-salariul-sau-in-top-5-la-barcelona.html",
+          "source": "Sport.ro"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "live tv",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4F_9z0R7JWJVuB5XSCrRrDkYsHtnB5oeTancdYQIukgclNzNruYUF2PN98k",
-      "pictureSource": "CBS News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbkMaSwroBM6E6iIH1jbp_OM5JXAmGwUey4_U6aWweEyXZ5wI1vfM_b5abKEA",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Who won Tony Awards for 2025? See the full winners list here",
+          "title": "Tony awards 2025: Maybe Happy Ending and Nicole Scherzinger win big while George Clooney misses out",
           "snippet": "",
-          "url": "https://www.cbsnews.com/news/tony-awards-winners-2025-list/",
-          "source": "CBS News"
-        },
-        {
-          "title": "CNN will broadcast a Broadway performance of George Clooney in 'Good Night, and Good Luck.' Don't miss it",
-          "snippet": "",
-          "url": "https://www.latimes.com/entertainment-arts/story/2025-06-06/cnn-live-performance-george-clooney-good-night-good-luck-broadway",
-          "source": "Los Angeles Times"
+          "url": "https://www.theguardian.com/stage/2025/jun/09/tony-awards-2025-maybe-happy-ending-and-nicole-scherzinger-win-big-while-george-clooney-misses-out",
+          "source": "The Guardian"
         },
         {
           "title": "How George Clooney’s ‘Good Night, and Good Luck’ Is Preparing to Go Live on CNN",
           "snippet": "",
           "url": "https://www.hollywoodreporter.com/business/business-news/george-clooney-good-night-and-good-luck-live-cnn-1236255646/",
           "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "CNN will broadcast a Broadway performance of George Clooney in 'Good Night, and Good Luck.' Don't miss it",
+          "snippet": "",
+          "url": "https://www.latimes.com/entertainment-arts/story/2025-06-06/cnn-live-performance-george-clooney-good-night-good-luck-broadway",
+          "source": "Los Angeles Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -120,13 +148,13 @@
       "title": "португалия – испания",
       "trafficCount": "5000+",
       "pubDate": "Sun, 8 Jun 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYV79KqX8UANBGXsGKkxSy-GGDhjCTFqyRgz94AW7xJID61QAabms0hLsaB54",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgZjbAbIRepbI-KLSsEkTMYzWlzhYSlgkSTj6zTbZUtD4J6sdwOBV3T-F_Fg",
       "pictureSource": "Евро-Футбол",
       "relatedSearch": [
         {
-          "title": "Тренер Португалии высказался о 40-летнем Роналду",
+          "title": "Мората высказался о решающем промахе в финале с Португалией",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/1003876948/1005924809_trener_portugalii_vyiskazalsya_o_40-letnem_ronaldu",
+          "url": "https://www.euro-football.ru/article/1003876948/1005924811_morata_vyiskazalsya_o_reshayuschem_promahe_v_finale_s_portugaliey",
           "source": "Евро-Футбол"
         },
         {
@@ -146,7 +174,7 @@
     },
     {
       "title": "portugalia - spania",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 8 Jun 2025 11:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKMqxlvOJWi0Z_WiIUkCXCzN9g13TFiTHdMqqlpilIj70oP5NqU8KBzyBqAhQ",
       "pictureSource": "Digi Sport",
