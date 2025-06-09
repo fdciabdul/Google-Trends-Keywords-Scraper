@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-09 11:14:33",
+  "lastUpdate": "2025-06-09 11:25:21",
   "data": [
     {
       "title": "juhannuksen sääennuste",
@@ -33,26 +33,26 @@
       "title": "waymo",
       "trafficCount": "100+",
       "pubDate": "Mon, 9 Jun 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE-eKD92JPL9kp5-rRcGrASNmVvPIr-DyNB8DVeCJbyfAUnpUksgAKehrGck0",
-      "pictureSource": "Fox News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRLB4p_ctTrP1NECxHbp7onuEhKgRDLSJ-vhC7H9qUs8EalCuzPNpcPzQ-xeA",
+      "pictureSource": "Los Angeles Times",
       "relatedSearch": [
         {
-          "title": "Car set on fire during anti-ICE protests in California",
+          "title": "Waymo vehicles set on fire in downtown L.A. as protesters, police clash",
           "snippet": "",
-          "url": "https://www.foxnews.com/video/6374010227112",
-          "source": "Fox News"
+          "url": "https://www.latimes.com/california/story/2025-06-08/waymo-vehicles-set-on-fire-protesters-police-clash",
+          "source": "Los Angeles Times"
         },
         {
-          "title": "L.A. unrest live updates: Crowds protesting immigration raids ordered to leave downtown",
+          "title": "Self-driving cars set on fire during LA protests",
           "snippet": "",
-          "url": "https://www.nbcnews.com/news/us-news/live-blog/la-unrest-live-updates-crowds-protesting-immigration-raids-rcna211757",
-          "source": "NBC News"
+          "url": "https://www.cnn.com/2025/06/08/politics/video/cars-set-on-fire-during-la-protests-digvid",
+          "source": "CNN"
         },
         {
-          "title": "The Mexican Flag Becomes a Potent L.A. Protest Symbol",
+          "title": "Cop cars, Waymos lit on fire amid anti-ICE protests in Los Angeles, San Francisco",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/08/us/mexican-flag-protest-los-angeles.html",
-          "source": "The New York Times"
+          "url": "https://www.ktvu.com/news/cop-cars-waymos-lit-fire-amid-protests-los-angeles-san-francisco",
+          "source": "KTVU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +61,20 @@
       "title": "karoliina partanen",
       "trafficCount": "1000+",
       "pubDate": "Sun, 8 Jun 2025 23:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrRrmND7Q8SbWcMJ30mbcvx5a2Fdtc2yWq6cR2Yw0Uq15cVT3M9F1bk-MlEb4",
-      "pictureSource": "Iltalehti",
+      "picture": "",
+      "pictureSource": "Yle",
       "relatedSearch": [
-        {
-          "title": "Kansanedustajalle lähetettiin ahdistavaa materiaalia – Näin videolla esiintyvä 43-vuotias mies selittää",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/politiikka/a/5c5a7a9a-32d5-4183-bc64-3061b156f20f",
-          "source": "Iltalehti"
-        },
         {
           "title": "43-vuotias mies tuomittiin kokoomuksen kansanedustajan seksuaalisesta ahdistelusta",
           "snippet": "",
           "url": "https://yle.fi/a/74-20166611",
           "source": "Yle"
+        },
+        {
+          "title": "Kansanedustajalle lähetettiin ahdistavaa materiaalia – Näin videolla esiintyvä 43-vuotias mies selittää",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/politiikka/a/5c5a7a9a-32d5-4183-bc64-3061b156f20f",
+          "source": "Iltalehti"
         },
         {
           "title": "Kansanedustajaa seksuaalisesti häirinneelle sakkoja",
@@ -111,15 +111,9 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa4R0BkfdEr2uyLaTNE9lfu-V6Z__8S7vQX7scr5n3ASJ5dhHjvdqw20RUxkY",
-      "pictureSource": "FOX Weather",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjFFzHOGAWSUWrUbocTxZjfUvTpvWbvimOrZPGdHmEFfoXLBaHw3vb8dKinkY",
+      "pictureSource": "FOX 4 News Dallas-Fort Worth",
       "relatedSearch": [
-        {
-          "title": "Potential derecho could rock Dallas area with destructive 90-mph winds, 5-inch hail, tornadoes overnight",
-          "snippet": "",
-          "url": "https://www.foxweather.com/weather-news/dallas-texas-oklahoma-severe-weather-hail-wind-plains-june-2025",
-          "source": "FOX Weather"
-        },
         {
           "title": "LIVE Dallas weather: Severe thunderstorm, flash flood warnings for parts of North Texas",
           "snippet": "",
@@ -127,10 +121,16 @@
           "source": "FOX 4 News Dallas-Fort Worth"
         },
         {
-          "title": "FORECAST: Severe storms likely today",
+          "title": "Potential derecho could rock Dallas area with destructive 90-mph winds, 5-inch hail, tornadoes overnight",
           "snippet": "",
-          "url": "https://www.koco.com/article/forecast-severe-storms-today-oklahoma/65003401",
-          "source": "KOCO"
+          "url": "https://www.foxweather.com/weather-news/dallas-texas-oklahoma-severe-weather-hail-wind-plains-june-2025",
+          "source": "FOX Weather"
+        },
+        {
+          "title": "Severe storms, hail threaten Texas Sunday night. Here’s where.",
+          "snippet": "",
+          "url": "https://www.expressnews.com/san-antonio-weather/forecast/article/severe-sunday-texas-storms-weather-heat-20366196.php",
+          "source": "San Antonio Express-News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -149,16 +149,16 @@
           "source": "Iltalehti"
         },
         {
-          "title": "Aktivistit uskovat toimiinsa negatiivisesta julkisuudesta huolimatta: \"Toimistotyöntekijäkin uskaltaa kuulua Elokapinaan\"",
-          "snippet": "",
-          "url": "https://www.mtvuutiset.fi/artikkeli/aktivistit-uskovat-toimiinsa-negatiivisesta-julkisuudesta-huolimatta-toimistotyontekijakin-uskaltaa-kuulua-elokapinaan/9171724",
-          "source": "mtvuutiset.fi"
-        },
-        {
           "title": "Elokapina haastaa poliisin kiinniottokapasiteettia – Ylikomisario: ”Outo tavoite mielenosoitukselle”",
           "snippet": "",
           "url": "https://yle.fi/a/74-20166555",
           "source": "Yle"
+        },
+        {
+          "title": "Elokapina-​liike osoittaa mieltään Helsingin keskus­tassa – poliisi varautuu kiin­niot­toihin",
+          "snippet": "",
+          "url": "https://www.helsinginuutiset.fi/paikalliset/8591067",
+          "source": "Helsingin Uutiset"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,26 +195,26 @@
       "title": "nba",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUbuhtgZ0t6fcXnS50U_S5l8VLWbBkkxe2Hv5Ed3LE4WhaXnigWCBM06Cpp68",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXRcyMNqA_9xiAKSsjwLPN87j65KSWB1073SDJL_EjG1-svbblVvrCgUadZZ4",
+      "pictureSource": "Xinhua",
       "relatedSearch": [
         {
-          "title": "NBA trophy logos may return on finals courts next year, Adam Silver says - The Athletic",
+          "title": "2024-2025 season NBA Finals: Indiana Pacers vs. Oklahoma City Thunder",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6409506/2025/06/06/nba-trophy-logo-finals-adam-silver/",
-          "source": "The New York Times"
+          "url": "https://english.news.cn/20250609/1902dfacd8cc473dbb9d0384aa2fc5b6/c.html",
+          "source": "Xinhua"
         },
         {
-          "title": "Adam Silver Says Larry O’Brien Floor Graphic May Return In 2026",
+          "title": "'He Hangs in There' -- Mark Daigneault Heaps Praise on Aaron Wiggins' 'Huge' 18-Point Performance Off the Bench",
           "snippet": "",
-          "url": "https://uni-watch.com/2025/06/08/adam-silver-says-larry-obrien-floor-graphic-may-return-in-2026/",
-          "source": "Uni Watch"
+          "url": "https://www.profootballnetwork.com/nba/he-hangs-in-there-mark-daigneault-heaps-praise-on-aaron-wiggins-huge-18-point-performance-off-the-bench/",
+          "source": "PFSN"
         },
         {
-          "title": "NBA fans sent into meltdown by bizarre technical malfunction on Pacers-Thunder TV broadcast",
+          "title": "Shai Gilgeous-Alexander Joins Michael Jordan in NBA History in Game 2 vs Pacers",
           "snippet": "",
-          "url": "https://www.dailymail.co.uk/sport/nba/article-14792803/NBA-Pacers-Thunder-TV-broadcast.html",
-          "source": "Daily Mail"
+          "url": "https://www.si.com/nba/bulls/news/shai-gilgeous-alexander-joins-michael-jordan-in-nba-history-in-game-2-vs-pacers-01jx99w7z0aj",
+          "source": "Sports Illustrated"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -251,26 +251,26 @@
       "title": "pepe",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Jun 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2sDa1k1vRp9ZVuzULF-rF1-aDE1-UnzrRoORYL_D11-VNFeMlAmp4QkiyiNU",
-      "pictureSource": "Crypto News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNyk9-AXfFSuIPKTWXzjmKknG_n6WmJv4pfNIpMRBbXA66yer-wxDa8YpNKgY",
+      "pictureSource": "Decrypt",
       "relatedSearch": [
+        {
+          "title": "'Dogecoin Millionaire' Is Now a Pepe Millionaire—And He’s Stacking These Meme Coins Next",
+          "snippet": "",
+          "url": "https://decrypt.co/324050/dogecoin-millionaire-pepe-stacking-meme-coins-next",
+          "source": "Decrypt"
+        },
+        {
+          "title": "'Dogecoin Millionaire' Is Now a Pepe Millionaire—And He’s Stacking These Meme Coins Next",
+          "snippet": "",
+          "url": "https://www.binance.com/en/square/post/25353059823042",
+          "source": "Binance"
+        },
         {
           "title": "Pepe croaks as whale exodus deepens and buyers flinch",
           "snippet": "",
           "url": "https://crypto.news/pepe-croaks-as-whale-exodus-deepens-and-buyers-flinch/",
           "source": "Crypto News"
-        },
-        {
-          "title": "PEPE, WIF, POPCAT Price Prediction For June — Technical Setups Indicate Memecoin Boom",
-          "snippet": "",
-          "url": "https://www.fxempire.com/forecasts/article/pepe-wif-popcat-price-prediction-for-june-technical-setups-indicate-memecoin-boom-1523447",
-          "source": "FXEmpire"
-        },
-        {
-          "title": "PEPE Powers Up: Successful Retest Of Breakout Zone Sets Stage For Next Leg Higher",
-          "snippet": "",
-          "url": "https://www.tradingview.com/news/newsbtc:8a4288846094b:0-pepe-powers-up-successful-retest-of-breakout-zone-sets-stage-for-next-leg-higher/",
-          "source": "TradingView"
         }
       ],
       "link": "https://imtaqin.id/"
