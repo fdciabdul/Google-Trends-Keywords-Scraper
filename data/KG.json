@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-10 05:59:59",
+  "lastUpdate": "2025-06-10 06:12:16",
   "data": [
     {
       "title": "weather",
@@ -21,10 +21,10 @@
           "source": "Dallas News"
         },
         {
-          "title": "City of Bonham assessing damage after severe weather event",
+          "title": "KTXS news station experiences severe damages from Sunday night storms",
           "snippet": "",
-          "url": "https://www.ntxe-news.com/artman/publish/article_142019.shtml",
-          "source": "North Texas e-News"
+          "url": "https://ktxs.com/news/local/ktxs-news-station-experiences-severe-damages-from-sunday-night-storms",
+          "source": "KTXS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,9 +126,28 @@
       "title": "казахстан – северная македония",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Jun 2025 07:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStzTzzLl-H8ljNJa4Cgf72O_lJvpMy-JS8_C9ILRYqG-ueW84di-Ot5fnl7k4",
+      "pictureSource": "DKnews",
+      "relatedSearch": [
+        {
+          "title": "Казахстан активизирует диалог с Северной Македонией",
+          "snippet": "",
+          "url": "https://dknews.kz/ru/politika/361986-kazahstan-aktiviziruet-dialog-s-severnoy-makedoniey",
+          "source": "DKnews"
+        },
+        {
+          "title": "Нуртлеу встретился с главой МИД Северной Македонии",
+          "snippet": "",
+          "url": "https://ulysmedia.kz/news/53132-nurtleu-vstretilsia-s-glavoi-mid-severnoi-makedonii/",
+          "source": "Ulysmedia.kz"
+        },
+        {
+          "title": "Товары на $320 млн готов экспортировать Казахстан в Северную Македонию",
+          "snippet": "",
+          "url": "https://kokshetau.asia/newskz/tovary-na-320-mln-gotov-eksportirovat-kazahstan-v-severnyu-makedoniu/",
+          "source": "ИА Кокшетау Азия"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
