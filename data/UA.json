@@ -1,9 +1,121 @@
 {
-  "lastUpdate": "2025-06-10 03:05:59",
+  "lastUpdate": "2025-06-10 03:33:46",
   "data": [
     {
-      "title": "синоптик харьков",
+      "title": "новини україни сьогодні",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 9 Jun 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfaH8BC_V8BmlvEG8Cd4D9zmNwQubieM_Y9a5epNtP97nXBNaAmfCvJAk-g7Y",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "Дикий розповів, чому росіяни цілилися по Дубно і чого досягли",
+          "snippet": "",
+          "url": "https://www.unian.ua/war/dubno-dikiy-pro-rezultati-ataki-rosiyan-na-aerodrom-13032579.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "У ПС розповіли, як знищили російські Кинджали",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/ukraine/4788943-u-ps-rozpovily-yak-znyschyly-rosiiski-kyndzhaly",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Деякі укриття під час масованої атаки РФ на Рівненщину були закриті – поліція перевірить чому",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/06/9/7516342/",
+          "source": "Українська правда"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "останні новини",
       "trafficCount": "100+",
+      "pubDate": "Mon, 9 Jun 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AypUZAEXpErtrmqW-z233pmZRcBbk8z7S-EA-_fyeKpd5jrvfMw-dSepl1w",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Київ під обстрілом балістики",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/06/10/7516418/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Україні оголосили масштабну повітряну тривогу",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/ukraine/4788805-v-ukraini-oholosyly-masshtabnu-povitrianu-tryvohu",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "По всій Україні оголошували тривогу. Повітряні сили повідомили про запуск Росією ракет",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/news-ukraina-tryvoha-rakety/33437707.html",
+          "source": "Радіо Свобода"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости мира",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 9 Jun 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8QR1pvU9r-jVAs0Jrt5x6NRA6kWdXYr4bWcLVjuLz-JbhnpcF_7rkUA2rZ38",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Массированная атака РФ 9 июня: ПВО обезвредила 479 дронов и ракет, в том числе 4 \"Кинжала\"",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/06/9/7516280/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Россияне запустили по Украине \"Шахеды\": где угроза ударов",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/rosiyani-zapustili-ukrayini-shahedi-de-zagroza-1749493160.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В Воздушных силах рассказали, что было главной целью российского ночного удара по Украине",
+          "snippet": "",
+          "url": "https://gordonua.com/news/war/v-vozdushnykh-silakh-rasskazali-chto-bylo-hlavnoj-tselju-rossijskoho-nochnoho-udara-po-ukraine-1745092.html",
+          "source": "Гордон"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода харків",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Jun 2025 20:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiXYS1RyueWj2dj31DSCr-UlyUftHp_qHSkdbZfOPuaNMypEMfybX6mrdovyI",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "У Харкові та області 10 червня очікується зниження температури та мінлива хмарність",
+          "snippet": "",
+          "url": "https://suspilne.media/kharkiv/1038109-u-harkovi-ta-oblasti-10-cervna-ocikuetsa-znizenna-temperaturi-ta-minliva-hmarnist/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "У Харкові мінлива хмарність, без опадів – погода",
+          "snippet": "",
+          "url": "https://gwaramedia.com/u-harkovi-minliva-hmarnist-bez-opadiv-pogoda/",
+          "source": "Ґвара Медіа"
+        },
+        {
+          "title": "Небезпечна погода: про що попередили жителів Харкова й області синоптики",
+          "snippet": "",
+          "url": "https://www.objectiv.tv/uk/objectively/2025/06/09/nebezpechna-pogoda-pro-shho-poperedili-zhiteliv-harkova-j-oblasti-sinoptiki/",
+          "source": "Новости Харькова"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "синоптик харьков",
+      "trafficCount": "200+",
       "pubDate": "Mon, 9 Jun 2025 19:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRoGcDT0znQspWbK5VdklXm6AFzq0JDOoCL-mZz3kExh7mUmxAvKj01637fKw",
       "pictureSource": "МГ \"Объектив\"",
@@ -30,8 +142,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "бровары",
+      "title": "нхл",
       "trafficCount": "100+",
+      "pubDate": "Mon, 9 Jun 2025 19:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlz1RCq2MD2ybYfnloT6_vePP81S86zLui1zgo2SCspq3QXWfhZFiOufpc_Is",
+      "pictureSource": "Sport.ua",
+      "relatedSearch": [
+        {
+          "title": "Хоккеист Эдмонтона: «Вздремнуть в самолете непросто из-за шумихи в покере»",
+          "snippet": "",
+          "url": "https://sport.ua/news/768769-dzheff-skinner-vzdremnut-v-samolete-neprosto-iz-za-shumihi-v-pokere",
+          "source": "Sport.ua"
+        },
+        {
+          "title": "«Просто хотел обнять Боба». Бобровский и Маршан стали звездами еще одной невероятной игры финала",
+          "snippet": "",
+          "url": "https://www.sport-express.net/hockey/nhl/reviews/edmonton-florida-igra-bobrovskogo-i-goly-marshana-vo-vtorom-matche-finala-kubka-stenli-7-iyunya-2025-2333324/",
+          "source": "sport-express.ru"
+        },
+        {
+          "title": "Клиенты PARI: «Флорида» вырвется вперед в противостоянии с «Эдмонтоном» в финале Кубка Стэнли",
+          "snippet": "",
+          "url": "https://xn--90aiasbk5as2f.xn--p1ai/hockey-prognoz/pari-florida-edmonton-10-06-2025.html",
+          "source": "Букмекеры.рф"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "бровары",
+      "trafficCount": "200+",
       "pubDate": "Mon, 9 Jun 2025 18:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYN_r9fTKah0bHsX6s2LTe0mAoeRzt4sUEBIJ2dTTJqhJhRzROsXLsfY2eQTU",
       "pictureSource": "strana.ua",
@@ -117,9 +257,15 @@
       "title": "обухов",
       "trafficCount": "500+",
       "pubDate": "Mon, 9 Jun 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyElhLYk9W1kGzqTX0Ul0gDPXD1QsfdD69a2sTx6pYV0U6Y0gXtgBkPZ2vkEE",
-      "pictureSource": "Евро-Футбол",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7eyAo6g2E8wOHomgdmIQbX-dJLmKlIqTuDuubWW-h_ycrgRuUTM5ghLKSX80",
+      "pictureSource": "ФК «Факел»-Воронеж",
       "relatedSearch": [
+        {
+          "title": "Георгий Гонгадзе – снова в «Факеле»!",
+          "snippet": "",
+          "url": "https://fakelfc.ru/news/view/9839-georgij-gongadze-snova-v-fakele",
+          "source": "ФК «Факел»-Воронеж"
+        },
         {
           "title": "Вратарь «Химок» продолжит карьеру в «Факеле»",
           "snippet": "",
@@ -131,152 +277,6 @@
           "snippet": "",
           "url": "https://moe-online.ru/news/sport/1226775",
           "source": "МОЁ! Online. Все новости Воронежа"
-        },
-        {
-          "title": "Форвард Гонгадзе вернулся в «Факел»",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/rus_d1/news/forvard-gongadze-vernulsya-v-fakel-2333924/",
-          "source": "sport-express.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "шахед",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 9 Jun 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqGFJLL-DzopikxEqNJgMIfwbsdmlRXn0PALZWdFDTg_4QV2_CkP56qr6TT8Y",
-      "pictureSource": "NV.ua",
-      "relatedSearch": [
-        {
-          "title": "Пятикратный рост. РФ производит почти 3 тысячи шахедов в месяц и столько же беспилотников-имитаторов — ГУР",
-          "snippet": "",
-          "url": "https://nv.ua/world/countries/obstrel-shahedami-v-gur-rasskazali-skolko-bespilotnikov-proizvodit-rossiya-ezhemesyachno-50520714.html",
-          "source": "NV.ua"
-        },
-        {
-          "title": "В ГУР оценили масштабы производства \"шахедов\"",
-          "snippet": "",
-          "url": "https://korrespondent.net/ukraine/4789010-v-hur-otsenyly-masshtaby-proyzvodstva-shakhedov",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "ГУР: Россия в 2025 году планирует изготовить 35 000 \"шахедов\"",
-          "snippet": "",
-          "url": "https://news.liga.net/politics/news/gur-rossiya-v-2025-godu-planiruet-izgotovit-35-000-shahedov",
-          "source": "LIGA.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "карта",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 9 Jun 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3D08w8v4mRQ7ysdL5Tc1WNTBNk0-Q6aG9DJHyUMldQDZvsahqfIiKCECgn7M",
-      "pictureSource": "НВ",
-      "relatedSearch": [
-        {
-          "title": "«Окупували 10 населених пунктів». Росіяни перебувають ближче, ніж за 20 кілометрів від Сум — OSINT-аналітик",
-          "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/events/na-sumshchini-rosiya-okupuvala-10-naselenih-punktiv-i-zaraz-za-20-km-vid-sum-ekspert-50520233.html",
-          "source": "НВ"
-        },
-        {
-          "title": "Дикий пояснив, як убезпечити Суми від \"кошмарення\" ворожою артилерією і дронами",
-          "snippet": "",
-          "url": "https://www.unian.ua/war/sumska-oblast-dikiy-poyasniv-yak-ubezpechiti-sumi-vid-rosiyskoji-artileriji-i-droniv-13032687.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "У Кіндратівці та Олексіївці на Сумщині армійці РФ накопичують піхоту для руху вглиб області - Deep State",
-          "snippet": "",
-          "url": "https://suspilne.media/sumy/1036963-u-kindrativci-ta-oleksiivci-na-sumsini-armijci-rf-nakopicuut-pihotu-dla-ruhu-vglib-oblasti-deep-state/",
-          "source": "Суспільне | Новини"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода миколаїв",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 9 Jun 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL7QZZdQblu8oOUnNS7IJSTlghkVSjUCSV9UdY-ixnmLgcOdPWLvRJmhPgXmo",
-      "pictureSource": "NV.ua",
-      "relatedSearch": [
-        {
-          "title": "Все зміниться у четвер. Що принесуть із собою в Україну одразу два потужних атмосферних фронти — прогноз пого",
-          "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/events/pogoda-u-chervni-2025-koli-poholodannya-doshchi-ta-grozi-i-koli-teplo-v-ukrajini-prognoz-sinoptika-50520686.html",
-          "source": "NV.ua"
-        },
-        {
-          "title": "В Україні очікуються дощі та грози",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/06/9/7516298/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Україну накриє різке похолодання: температура опуститься до +8 вночі",
-          "snippet": "",
-          "url": "https://www.rbc.ua/rus/news/ukrayinu-nakrie-rizke-poholodannya-temperatura-1749464661.html",
-          "source": "РБК-Україна"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новини київ",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 9 Jun 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVT__DXiNj1ZlxO_EPervDFW2xx_WHVP-FQYYPpvDOrdi4_halYidJA9GdgSA",
-      "pictureSource": "Українські Національні Новини",
-      "relatedSearch": [
-        {
-          "title": "Нічна атака на Київ: є постраждалі, пожежі ледь не в усіх районах міста",
-          "snippet": "",
-          "url": "https://unn.ua/news/nichna-ataka-na-kyiv-ye-postrazhdali-pozhezhi-led-ne-v-usikh-raionakh-mista",
-          "source": "Українські Національні Новини"
-        },
-        {
-          "title": "Київ перебував під масованою атакою російських БпЛА: вирують пожежі, є постраждалі",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/06/10/7516419/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Небо у Києві затягло чорним димом",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/city/kiev/4789095-nebo-u-kyievi-zatiahlo-chornym-dymom",
-          "source": "Korrespondent.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости киев",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 9 Jun 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhSdc5bqIdT2yTK4ENfYN_Zc2nibqqYU_h2shCOez8Z-XVT4dQ-y1jjWdHSWc",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Киев подвергся массированной атаке российских БпЛА и баллистики: бушуют пожары, есть пострадавшие",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/06/10/7516419/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "В Киеве на фоне ракетной и дроновой атаки прогремели взрывы",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/kievi-tli-raketnoyi-ta-dronovoyi-ataki-prolunali-1749510636.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "Тревога уже более 5 часов: каковы последствия массированной атаки на Киевщину",
-          "snippet": "",
-          "url": "https://24tv.ua/ru/obstrel-kievskoj-oblasti-10-ijunja-2025-goda-chto-izvestno-o-posledstvijah-24-kanal_n2842784",
-          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
