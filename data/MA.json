@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-10 11:44:54",
+  "lastUpdate": "2025-06-10 11:51:50",
   "data": [
     {
       "title": "grok",
@@ -31,7 +31,7 @@
     },
     {
       "title": "chatgpt",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Tue, 10 Jun 2025 02:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLsCrB9i4STdoVwJmDlQwBAjKT3EiORngZFdU58u70Vnw7xYYSVaWpKIpD8FQ",
       "pictureSource": "IndyStar",
@@ -49,10 +49,10 @@
           "source": "TechRadar"
         },
         {
-          "title": "ChatGPT goes down — latest news as OpenAI chatbot suffers huge outage",
+          "title": "ChatGPT is having some issues",
           "snippet": "",
-          "url": "https://www.tomsguide.com/news/live/chatgpt-openai-down-outage-6-10-2025",
-          "source": "Tom's Guide"
+          "url": "https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025",
+          "source": "The Verge"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -101,7 +101,7 @@
         {
           "title": "IBM Has a Roadmap to a ‘Fault-Tolerant’ Quantum Computer by 2029",
           "snippet": "",
-          "url": "https://www.wsj.com/articles/ibm-has-a-roadmap-to-a-fault-tolerant-quantum-computer-by-2029-91645d73?gaa_at=eafs&gaa_n=ASWzDAgh9vNWqDlaCpkoUB-cU-3HfqvFEyvvzAwChqmD4QZvADzE5U3BEiVX&gaa_ts=68481e3a&gaa_sig=ldjUO98f4x4XZ8b0sSqySCvlvaD_fXk5eDNyBkiOss8sRc6cNiKL9soixrmEc6g1Y0L2vnFllMJUWkCPMdXtCw%3D%3D",
+          "url": "https://www.wsj.com/articles/ibm-has-a-roadmap-to-a-fault-tolerant-quantum-computer-by-2029-91645d73?gaa_at=eafs&gaa_n=ASWzDAhfIvwUyeOdeswjoA8LXSkVirNnHk24BtvF5vTqvYtf_Uw8I-ZnaWbG&gaa_ts=68481fda&gaa_sig=zLBao9l4QV4OUQhbSGIErHkD4I8_LjlLyhFuKqHGGgK5PcG2Lr61qy-WHl4-4rmgTtIaCeZgn5YOnbALSfbsxA%3D%3D",
           "source": "WSJ"
         },
         {
@@ -170,6 +170,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "gaza",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 10 Jun 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhBMV8EcRD8NyQxMlRZVABQH8Wdev3xy0QxbHMMqfGLtHbZO-0VwYcM-3-lIQ",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Greta Thunberg deported, Israel says, after Gaza aid boat intercepted",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c5y264x3nnno",
+          "source": "BBC"
+        },
+        {
+          "title": "Greta Thunberg departs Israel on flight to Paris after detention aboard aid ship",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/10/middleeast/greta-thunberg-departs-israel-gaza-flotilla-int-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "Madleen Gaza flotilla updates: Israel detains Greta Thunberg, 11 activists",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/4/madleen-gaza-flotilla-live-greta-thunberg-activists-to-arrive-on-june-7",
+          "source": "Al Jazeera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "amazon",
       "trafficCount": "100+",
       "pubDate": "Tue, 10 Jun 2025 01:00:00 -0700",
@@ -189,17 +217,17 @@
           "source": "PA Department of Community & Economic Development (.gov)"
         },
         {
-          "title": "Big Tech to invest big in Pa., but some say it could cost public in long run",
+          "title": "Amazon plans to invest $20 billion in Pennsylvania to expand cloud computing infrastructure and advance AI innovation",
           "snippet": "",
-          "url": "https://www.wfmz.com/news/area/southeastern-pa/big-tech-to-invest-big-in-pa-but-some-say-it-could-cost-public-in/article_fff033c1-e8b3-4b7e-8022-1f4a9ceb7368.html",
-          "source": "WFMZ.com"
+          "url": "https://www.aboutamazon.com/news/aws/amazon-pennsylvania-investment-cloud-infrastructure-ai-innovation",
+          "source": "About Amazon"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ai",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 10 Jun 2025 00:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjfWMqfXdqJ5aS8bNJYlFRLRh0qormvdz2VJzV-yjpqnFjQYSfvMzxp0jWu5s",
       "pictureSource": "The Guardian",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://europeanconservative.com/articles/interviews/trump-american-education-academy-dei-mark-bauerlein/",
           "source": "The European Conservative"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pronostics prix benjamin boutin",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 9 Jun 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3XYh_OUk2tgQ4NfU6FucY3uLSXqTYxLMwUYS44cR1muKd5taOYvqREFOLDaI",
-      "pictureSource": "Equidia",
-      "relatedSearch": [
-        {
-          "title": "Equidia met le feu au Quinté+ du lundi 9 juin à Compiègne",
-          "snippet": "",
-          "url": "https://www.equidia.fr/articles/pour-preparer-vos-paris/equidia-met-le-feu-au-quinte-du-lundi-9-juin-a-compiegne",
-          "source": "Equidia"
-        },
-        {
-          "title": "Tiercé. Les pronostics de \"L'Alsace\" pour lundi 9 juin - Prix Benjamin Boutin",
-          "snippet": "",
-          "url": "https://www.lalsace.fr/actualite/2025/06/08/nos-pronostics-pour-lundi-9-juin-prix-benjamin-boutin",
-          "source": "L'Alsace"
-        },
-        {
-          "title": "PRIX BENJAMIN BOUTIN 1970 Pronostics - COMPIEGNE - Réunion n°1 Course n°3 - Lundi 09 Juin 2025",
-          "snippet": "",
-          "url": "https://m.turfomania.fr/pronostic.php?idcourse=616148",
-          "source": "Turfomania"
         }
       ],
       "link": "https://imtaqin.id/"
