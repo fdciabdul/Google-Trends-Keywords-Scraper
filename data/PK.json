@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-12 09:56:55",
+  "lastUpdate": "2025-06-12 10:07:15",
   "data": [
     {
       "title": "cnn",
@@ -31,11 +31,17 @@
     },
     {
       "title": "bbc",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 12 Jun 2025 02:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTizerY0kjFzv0xfGwsT5ua6TZWClPxMvUoDYVaFIPcGn8hyGl9zymYBwW_Cqg",
-      "pictureSource": "Al Jazeera",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMpq6vEgpF7xTaW26T7kN0M0JLYYodzDKwTot8zwddbQ_Xw-aJ2_HZ8OwDYi8",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Watchdog finds Iran failing to meet nuclear obligations",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/ce3v6w2qr12o",
+          "source": "BBC"
+        },
         {
           "title": "UN nuclear watchdog board finds Iran not complying with nuclear obligations",
           "snippet": "",
@@ -43,23 +49,45 @@
           "source": "Al Jazeera"
         },
         {
-          "title": "IAEA board declares Iran in breach of non-proliferation duties, diplomats say",
+          "title": "IAEA board declares Iran in breach of non-proliferation obligations",
           "snippet": "",
           "url": "https://www.reuters.com/world/china/iaea-board-declares-iran-breach-non-proliferation-duties-diplomats-say-2025-06-12/",
           "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran israel",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 02:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwSspNoG7XRapCvuRBzu4oT-gyfB7ajRCbNHAF5y76fmQF5czT5VqpQPGg1CA",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Israel Appears Ready to Attack Iran, Officials in U.S. and Europe Say",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/11/us/politics/iran-us-iraq-diplomats-middle-east.html",
+          "source": "The New York Times"
         },
         {
-          "title": "IAEA Director General's Introductory Statement to the Board of Governors",
+          "title": "Israel considering military strike on Iran, sources say",
           "snippet": "",
-          "url": "https://www.iaea.org/newscenter/statements/iaea-director-generals-introductory-statement-to-the-board-of-governors-9-june-2025",
-          "source": "IAEA"
+          "url": "https://www.nbcnews.com/world/middle-east/israel-considering-military-strike-iran-sources-say-rcna212528",
+          "source": "NBC News"
+        },
+        {
+          "title": "Opinion | Nixing Iran’s Nukes Isn’t Impossible for Israel",
+          "snippet": "",
+          "url": "https://www.wsj.com/opinion/nixing-irans-nukes-isnt-impossible-for-israel-war-deterrence-trump-air-force-d1f092c4",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "dubai weather",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 02:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5QytxpOMVqHjPHDEZ7hD1ht1lZDR7lL6F8Cd24Yg79RZqb_C0q9TB3-OAdQ",
       "pictureSource": "Gulf News",
@@ -86,57 +114,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "india",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 12 Jun 2025 02:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPtKbTqE6RXP_Rwu4oG1Nj9RGS-KeQT3UF5XyKf0o9ZKZcwwKtokeXGhzStFo",
-      "pictureSource": "Al Jazeera",
-      "relatedSearch": [
-        {
-          "title": "Are India and Pakistan preparing for a naval face-off in a future conflict?",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/6/11/are-india-and-pakistan-preparing-for-a-naval-faceoff-in-a-future-conflict",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "INS Vikrant Moves In, Pakistan Responds; Is A Naval War Coming?",
-          "snippet": "",
-          "url": "https://zeenews.india.com/world/ins-vikrant-moves-in-pakistan-responds-is-a-naval-war-coming-2914635.html",
-          "source": "Zee News"
-        },
-        {
-          "title": "Are India and Pakistan Headed for a Naval Showdown? India Signals Readiness for Future Maritime Conflicts",
-          "snippet": "",
-          "url": "https://weeklyvoice.com/are-india-and-pakistan-headed-for-a-naval-showdown-india-signals-readiness-for-future-maritime-conflicts/",
-          "source": "Weekly Voice"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "air india",
       "trafficCount": "5000+",
       "pubDate": "Thu, 12 Jun 2025 02:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRolOUuY-EWzFwgrqoyc4dbaB665xLjpxTGB1aPNrjNULFQSEU0Th5WN0pXLmw",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVB5SRyUVM2E72_JXq4CvGEeAtl573dfv798_Ml-tc5t_6zaTp4X7w1LM15jQ",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Air India crash live: London-bound passenger plane carrying more 240 people crashes after take-off in India",
+          "title": "Air India crash live: London-bound passenger plane carrying 242 people crashes after take-off in India",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/c8d1r3m8z92t",
           "source": "BBC"
-        },
-        {
-          "title": "Plane crashes at airport in western Indian city of Ahmedabad",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/06/12/asia/plane-crash-india-ahmedabad",
-          "source": "CNN"
         },
         {
           "title": "Air India plane crashes shortly after take off in Ahmedabad",
           "snippet": "",
           "url": "https://www.aljazeera.com/news/2025/6/12/air-india-plane-crashes-shortly-after-take-off-in-ahmedabad",
           "source": "Al Jazeera"
+        },
+        {
+          "title": "Passenger plane crashes near airport in Ahmedabad, India",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/live/c8d1r3m8z92t",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +173,20 @@
       "title": "pi coin",
       "trafficCount": "2000+",
       "pubDate": "Wed, 11 Jun 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvkV8B2q446f-wTR3YFm4fB3mOyjDtDCmiApQELuOWC841LLboCtsmIfjwv0k",
-      "pictureSource": "Binance",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU1Wyj9MVe41_m1iQ8X9zUmnwCZWF-sSYTwu7_58w2PCvv62YHIEiuLMBKnr4",
+      "pictureSource": "The Crypto Times",
       "relatedSearch": [
-        {
-          "title": "Pi NETWORK",
-          "snippet": "",
-          "url": "https://www.binance.com/en/square/post/25394396868545",
-          "source": "Binance"
-        },
         {
           "title": "200M Pi Network Tokens Removed from Liquidity Reserve",
           "snippet": "",
           "url": "https://www.cryptotimes.io/2025/06/11/200m-pi-network-tokens-removed-from-liquidity-reserve/",
           "source": "The Crypto Times"
+        },
+        {
+          "title": "Analyst reveals the strategy behind the GCV vs. GAP market cap",
+          "snippet": "",
+          "url": "https://www.binance.com/en/square/post/25401771205569",
+          "source": "Binance"
         },
         {
           "title": "Pi Network Indicators are Still Bearish – Is There Any Chance for PI Recovery?",
@@ -217,10 +217,10 @@
           "source": "Pakistan Television"
         },
         {
-          "title": "Our Climate Reckoning",
+          "title": "Intense heatwave to persist across Pakistan on Thursday: Met Office",
           "snippet": "",
-          "url": "https://dailytimes.com.pk/1313891/our-climate-reckoning/",
-          "source": "Daily Times"
+          "url": "https://dunyanews.tv/en/Pakistan/888878-intense-heatwave-to-persist-across-pakistan-on-thursday-met-office",
+          "source": "Dunya News"
         }
       ],
       "link": "https://imtaqin.id/"
