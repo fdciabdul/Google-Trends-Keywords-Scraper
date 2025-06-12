@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-12 22:15:49",
+  "lastUpdate": "2025-06-12 22:28:14",
   "data": [
+    {
+      "title": "날씨예보",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g",
+      "pictureSource": "연합뉴스",
+      "relatedSearch": [
+        {
+          "title": "[북한날씨] 전 지역 대체로 맑음…평양 낮 최고기온 30도",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250612012300504",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "북한날씨, 평양 22.8도·개성 21.5도 '백두산 비소식\"",
+          "snippet": "",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3296405",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "[북한날씨] 전 지역에 구름 많고 비…'평양 낮최고 27도'",
+          "snippet": "",
+          "url": "https://www.newstong.co.kr/view3.aspx?seq=13705723&allSeq=27&txtSearch=&cate=0&cnt=-5&subCate=2&order=default&newsNo=0",
+          "source": "뉴스통"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "대구날씨",
       "trafficCount": "100+",
@@ -15,16 +43,16 @@
           "source": "뉴스핌"
         },
         {
-          "title": "울산 흐리다 오후부터 비…최대 80㎜",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20250612_0003211350",
-          "source": "뉴시스"
-        },
-        {
           "title": "[대구·경북 날씨예보] 흐리다 오후 비...내일(14일)까지 최대 80mm",
           "snippet": "",
           "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=49319",
           "source": "더페어"
+        },
+        {
+          "title": "대구·경북 흐리고 비…낮 기온 24∼29도",
+          "snippet": "",
+          "url": "https://www.newstong.co.kr/view3.aspx?seq=13717831&allSeq=27&txtSearch=&cate=0&cnt=-5&subCate=2&order=default&newsNo=0",
+          "source": "뉴스통"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +99,16 @@
           "source": "동아사이언스"
         },
         {
-          "title": "충북 흐리고 밤부터 비…낮 최고 28도",
+          "title": "[날씨] 전국에 비가 내리며 더위 주춤…서울 30도까지 올라",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250613009600064",
-          "source": "연합뉴스"
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008136422",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "제주에 장마 상륙, 주말 전국에 비",
+          "title": "제주, 밤부터 천둥·번개 동반한 장맛비…시간당 30∼50㎜",
           "snippet": "",
-          "url": "https://www.chosun.com/national/transport-environment/2025/06/13/5TXISR6YGJHZLMYAJICTFWNABE/",
-          "source": "조선일보"
+          "url": "https://www.yna.co.kr/view/AKR20250613009300056",
+          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,23 +145,23 @@
       "title": "cloudflare",
       "trafficCount": "100+",
       "pubDate": "Thu, 12 Jun 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIu5pR8gYpX7_TtNJs2XXSRK3H2uoQeedn7dRMhbpDHpXITCd2rAEKiJUCfa8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpJrzcsXxngjPCnGNgY-hx0uIXhNW-RfMNQjzQaL9e5ld9RWo0TXSHZFKQxBI",
       "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Google cloud and other internet services are reporting outages",
+          "title": "Google suffers cloud outage, causing disruptions for OpenAI, Shopify and other services",
           "snippet": "",
           "url": "https://www.cnbc.com/2025/06/12/google-cloud-and-other-internet-services-are-reporting-outages.html",
           "source": "CNBC"
         },
         {
-          "title": "Google Cloud outage hits platforms including Spotify, Discord",
+          "title": "Internet outages reported across Google Cloud, Spotify, more",
           "snippet": "",
-          "url": "https://www.reuters.com/business/google-cloud-down-thousands-users-downdetector-shows-2025-06-12/",
-          "source": "Reuters"
+          "url": "https://www.usatoday.com/story/tech/2025/06/12/google-cloud-down-internet-outage/84171603007/",
+          "source": "USA Today"
         },
         {
-          "title": "Google Cloud is down — latest on Google outage impacting 50+ services",
+          "title": "Google Cloud was down — latest on Google outage that impacted 50+ services",
           "snippet": "",
           "url": "https://www.tomsguide.com/news/live/google-cloud-down-jun-12-outage",
           "source": "Tom's Guide"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.viva100.com/article/20250612501011?site_preference=normal",
           "source": "브릿지경제"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "서현",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 12 Jun 2025 07:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgHPadvqXJNm97l8sOwvhO23OEtBEEVEK1fVc4_QAQIXgJr8-Rj_WbmF5TPhU",
-      "pictureSource": "네이트 뉴스",
-      "relatedSearch": [
-        {
-          "title": "서현, 꽃보다 고운 한복 자태+옥택연과 투 샷…'남주의 첫날밤' 기대감↑",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20250613n02533",
-          "source": "네이트 뉴스"
-        },
-        {
-          "title": "“남주의 첫날밤을 가져버렸다”…서현, 봄빛 속 전율→한복 자태로 압도",
-          "snippet": "",
-          "url": "https://www.msn.com/ko-kr/news/other/%EB%82%A8%EC%A3%BC%EC%9D%98-%EC%B2%AB%EB%82%A0%EB%B0%A4%EC%9D%84-%EA%B0%80%EC%A0%B8%EB%B2%84%EB%A0%B8%EB%8B%A4-%EC%84%9C%ED%98%84-%EB%B4%84%EB%B9%9B-%EC%86%8D-%EC%A0%84%EC%9C%A8-%ED%95%9C%EB%B3%B5-%EC%9E%90%ED%83%9C%EB%A1%9C-%EC%95%95%EB%8F%84/ar-AA1GyKxZ",
-          "source": "MSN"
-        },
-        {
-          "title": "서현,'사랑을 드려요'",
-          "snippet": "",
-          "url": "https://www.msn.com/ko-kr/entertainment/tv/%EC%84%9C%ED%98%84-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%93%9C%EB%A0%A4%EC%9A%94/ar-AA1GtZSS",
-          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
