@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-12 09:49:41",
+  "lastUpdate": "2025-06-12 09:56:47",
   "data": [
     {
       "title": "bbc",
@@ -33,7 +33,7 @@
       "title": "skynews",
       "trafficCount": "100+",
       "pubDate": "Thu, 12 Jun 2025 02:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKClA1QM6vs5afKftbz0Y8pfVUt2yyNoW7heLGLKcYI8exL3CIcThq_R13r2w",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QdxrjY9SO9854zlb3QKDmbDfdjOCndm7domNm3x_yFxeJlgmQjNjOuqq5AI",
       "pictureSource": "The New York Times",
       "relatedSearch": [
         {
@@ -61,20 +61,20 @@
       "title": "air india",
       "trafficCount": "5000+",
       "pubDate": "Thu, 12 Jun 2025 02:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRolOUuY-EWzFwgrqoyc4dbaB665xLjpxTGB1aPNrjNULFQSEU0Th5WN0pXLmw",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyScQm2UJeIBhaz5CoC3uKUAbfBesbg8OJK74-nxyMYxfpopdee9692m6FTJc",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
-        {
-          "title": "Air India crash live: London-bound passenger plane carrying more 240 people crashes after take-off in India",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c8d1r3m8z92t",
-          "source": "BBC"
-        },
         {
           "title": "Passenger plane crashes in India, 242 people on board",
           "snippet": "",
           "url": "https://www.rte.ie/news/asia/2025/0612/1518063-india-plane/",
           "source": "RTE.ie"
+        },
+        {
+          "title": "Air India crash live: London-bound passenger plane carrying more 240 people crashes after take-off in India",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c8d1r3m8z92t",
+          "source": "BBC"
         },
         {
           "title": "India plane crash latest: Aircraft comes down near Ahmedabad airport",
@@ -161,10 +161,10 @@
           "source": "ESPN"
         },
         {
-          "title": "Paul McGinley concerned after Rory McIlroy’s ‘very worrying’ US Open press conference",
+          "title": "US Open: 'It felt impossible' - Rory McIlroy shot 81 during Oakmont practice round",
           "snippet": "",
-          "url": "https://www.independent.ie/sport/golf/paul-mcginley-concerned-after-rory-mcilroys-very-worrying-us-open-press-conference/a1274023131.html",
-          "source": "The Irish Independent"
+          "url": "https://www.bbc.com/sport/golf/articles/cj93xrpyyz0o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,9 +201,15 @@
       "title": "weather",
       "trafficCount": "20000+",
       "pubDate": "Wed, 11 Jun 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlOsJrS5FCLqYXPqDqUwA6I8AMy2fUD_x_SqMo7ZMWcAUxc76BiHBff0B98g",
-      "pictureSource": "BreakingNews.ie",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLE92hTfGKbmIm9ztYuKa07SQUzKA5AawaJ4GzS8wiD704fJGcq9OG3qnW4rU",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
+        {
+          "title": "Thunderstorm warnings in place with damage possible",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/weather/2025/0612/1517989-thunderstorm-warnings/",
+          "source": "RTE.ie"
+        },
         {
           "title": "Thunderstorm warning in place in 20 counties",
           "snippet": "",
@@ -215,12 +221,6 @@
           "snippet": "",
           "url": "https://www.independent.ie/weather/thunderstorm-warnings-issued-for-most-counties-as-met-eireann-warn-of-lightning-and-possible-flash-flooding/a241728750.html",
           "source": "The Irish Independent"
-        },
-        {
-          "title": "Ireland weather: Met Éireann issues thunderstorm warnings with flash flooding and lightning damage possible",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/ireland/2025/06/11/thunderstorm-warnings-issued-for-most-of-ireland-with-some-counties-affected-from-tonight/",
-          "source": "The Irish Times"
         }
       ],
       "link": "https://imtaqin.id/"
