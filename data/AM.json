@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-06-12 10:58:49",
+  "lastUpdate": "2025-06-12 11:08:18",
   "data": [
+    {
+      "title": "atc",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 12 Jun 2025 01:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpmb2RPAL-57ANxgX_RQp_VAZWrBDwHrBtj-j225I2HL31xhqChL3WVO363Fw",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Live updates: Plane crashes in western Indian city of Ahmedabad",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/ahmedabad-india-plane-crash-06-12-25",
+          "source": "CNN"
+        },
+        {
+          "title": "Boeing 787 Crash in India Brings Fresh Scrutiny to Plane Maker’s Safety Record",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/12/business/boeing-787-dreamliner-crash-safety-record.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Air India Ahmedabad-London flight crashes near airport in Meghani area",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/city/ahmedabad/plane-crashes-in-ahmedabads-meghani-area/articleshow/121798487.cms",
+          "source": "Times of India"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Jun 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBlEMCG0j0PMzj1iR3aN8tAQ4R1ERCB9ufnzvQGxxpj-KwvW3jWBSUFMt60GA",
-      "pictureSource": "FOX Weather",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRN-7nUD4pJhjF-cTNalB5L6CPILaiVNQR-ME9UIpKvNiAx9LA1pX-hr9KNxVQ",
+      "pictureSource": "KSAT",
       "relatedSearch": [
         {
-          "title": "Dangerous multiday flood threat continues in Texas as risk grows in Minneapolis",
+          "title": "LIVE COVERAGE: Strong storms moving through San Antonio",
           "snippet": "",
-          "url": "https://www.foxweather.com/weather-news/texas-midwest-minneapolis-flood-severe-weather-threat",
-          "source": "FOX Weather"
+          "url": "https://www.ksat.com/weather/2025/06/11/updated-rainfall-totals-and-what-to-expect-for-the-rest-of-today/",
+          "source": "KSAT"
         },
         {
-          "title": "Severe flash flooding hits Abilene, prompts life-threatening warnings",
+          "title": "Flash flood warning issued for South Texas, San Antonio metro",
           "snippet": "",
-          "url": "https://ktxs.com/news/local/severe-flash-flooding-hits-abilene-prompts-life-threatening-warnings",
-          "source": "KTXS"
+          "url": "https://www.expressnews.com/san-antonio-weather/article/flood-watch-texas-san-antonio-austin-rain-20373236.php",
+          "source": "San Antonio Express-News"
         },
         {
-          "title": "Live updates: Flood Watch as more heavy rain coming!",
+          "title": "When San Antonio could see the next surge of severe storms today",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/live-updates-flood-watch-more-194426164.html",
-          "source": "Yahoo"
+          "url": "https://www.mysanantonio.com/news/weather/article/severe-thunderstorm-san-antonio-weather-20371726.php",
+          "source": "MySA"
         }
       ],
       "link": "https://imtaqin.id/"
