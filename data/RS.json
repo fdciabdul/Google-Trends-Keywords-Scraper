@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-06-13 22:46:26",
+  "lastUpdate": "2025-06-13 22:53:07",
   "data": [
-    {
-      "title": "tel aviv",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 13 Jun 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJ57mdioM4Ujdjc3pq6IIMYwJ0kiezgyZHpc8LUf6Rx1wE7IJHgyctqOfzIA",
-      "pictureSource": "CBS News",
-      "relatedSearch": [
-        {
-          "title": "Iran launches missiles and drones at Israel as Israel attacks Iranian nuclear sites and top commanders, IDF says",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/iran-israel-drone-attack-retaliation-strikes-on-nuclear-sites-and-commanders/",
-          "source": "CBS News"
-        },
-        {
-          "title": "IDF confirms IRGC air force chief, top echelon killed in Israeli strike",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/idf-confirms-irgc-air-force-chief-top-echelon-killed-in-israeli-strike/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "Iran retaliates with missile attacks on Israel, as Netanyahu urges Iranians to stand up to regime",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c93ydeqyq71t",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "alexander zverev",
       "trafficCount": "100+",
@@ -114,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "izrael",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 12 Jun 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY4MFTuqZg-0cJlef0LOY1Aw3AXXjJqk3xzFlgEzkLyLym0_EWQhwgQOHvyRI",
+      "pictureSource": "Al Jazeera Balkans",
+      "relatedSearch": [
+        {
+          "title": "Eksplozije u Tel Avivu, Iran lansirao stotine balističkih projektila",
+          "snippet": "",
+          "url": "https://balkans.aljazeera.net/news/liveblog/2025/6/13/izrael-napao-iran",
+          "source": "Al Jazeera Balkans"
+        },
+        {
+          "title": "Ko ima jaču vojsku, Izrael ili Iran: Ovo su prednosti i mane obe strane",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/ko-ima-jacu-vojsku-izrael-ili-iran-ovo-su-prednosti-i-mane-obe-strane/49czv2h",
+          "source": "Blic"
+        },
+        {
+          "title": "Nebenzja: Rusija najoštrije osuđuje napad Izraela na Iran, grubo kršenje Povelje UN",
+          "snippet": "",
+          "url": "https://www.tanjug.rs/svet/politika/169323/nebenzja-rusija-najostrije-osuduje-napad-izraela-na-iran-grubo-krsenje-povelje-un/vest",
+          "source": "tanjug.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "branko ruzic",
       "trafficCount": "1000+",
       "pubDate": "Thu, 12 Jun 2025 21:20:00 -0700",
@@ -173,26 +173,26 @@
       "title": "iran",
       "trafficCount": "10000+",
       "pubDate": "Thu, 12 Jun 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNPiVhMpGUbV13aLe5zLT15yuD5jfz8sJDLRiN6HjquHICUuTOmy-OAgWWTTQ",
-      "pictureSource": "Al Jazeera Balkans",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgckPZClGc6LZiEx47JdWlNPJsY_VQDlhgDFrWWODqkD8MS89gFndgR3Je8Ak",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Ogorec: Odgovor Irana bi mogao ići u tri smjera",
+          "title": "Everything you need to know about Iran’s nuclear program",
           "snippet": "",
-          "url": "https://balkans.aljazeera.net/video/2025/6/13/ogorec-odgovor-irana-bi-mogao-ici-u-tri-smjera",
-          "source": "Al Jazeera Balkans"
+          "url": "https://www.cnn.com/2025/06/13/middleeast/iran-nuclear-program-explainer-intl-dg",
+          "source": "CNN"
         },
         {
-          "title": "Evo ko ima jaču vojsku - Iran ili Izrael",
+          "title": "Iran launches missiles and drones at Israel as Israel attacks Iranian nuclear sites and top commanders, IDF says",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/ko-ima-jacu-vojsku-izrael-ili-iran-ovo-su-prednosti-i-mane-obe-strane/49czv2h",
-          "source": "Blic"
+          "url": "https://www.cbsnews.com/news/iran-israel-drone-attack-retaliation-strikes-on-nuclear-sites-and-commanders/",
+          "source": "CBS News"
         },
         {
-          "title": "Nebenzja: Rusija najoštrije osuđuje napad Izraela na Iran, grubo kršenje Povelje UN",
+          "title": "Iran launches ballistic missiles at Israel, as Supreme Leader vows to 'inflict heavy blows'",
           "snippet": "",
-          "url": "https://www.tanjug.rs/svet/politika/169323/nebenzja-rusija-najostrije-osuduje-napad-izraela-na-iran-grubo-krsenje-povelje-un/vest",
-          "source": "tanjug.rs"
+          "url": "https://www.bbc.com/news/live/c93ydeqyq71t",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
