@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-13 09:09:37",
+  "lastUpdate": "2025-06-13 09:21:30",
   "data": [
     {
       "title": "msi 선발전",
@@ -30,6 +30,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "날씨누리",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 13 Jun 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1JYPBEFN0ApErnZUyG46zO7wZWUbSEu6M0zQqpV8aHv21PAgvB5-Aa9yn2k",
+      "pictureSource": "YTN 사이언스",
+      "relatedSearch": [
+        {
+          "title": "[날씨] \"벌써 한여름?\" 서울 33.1℃...오늘 제주·남해 집중호우",
+          "snippet": "",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202506131100071406",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "[날씨] 서울 올해 최고 기온…제주 본격 장마 시작",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/MYH20250612022900038",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[포토뉴스] 안개 속 도시…시원하게 걸어요",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202506122101025",
+          "source": "경향신문"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "경기남부경찰청",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Jun 2025 01:00:00 -0700",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.newsis.com/view/NISX20250611_0003209425",
           "source": "뉴시스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "날씨누리",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 13 Jun 2025 01:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1JYPBEFN0ApErnZUyG46zO7wZWUbSEu6M0zQqpV8aHv21PAgvB5-Aa9yn2k",
-      "pictureSource": "YTN 사이언스",
-      "relatedSearch": [
-        {
-          "title": "[날씨] \"벌써 한여름?\" 서울 33.1℃...오늘 제주·남해 집중호우",
-          "snippet": "",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202506131100071406",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "[포토뉴스] 안개 속 도시…시원하게 걸어요",
-          "snippet": "",
-          "url": "https://www.khan.co.kr/article/202506122101025",
-          "source": "경향신문"
-        },
-        {
-          "title": "[날씨] 서울 올해 최고 기온…제주 본격 장마 시작",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/MYH20250612022900038",
-          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "연합뉴스"
         },
         {
-          "title": "주말 전국 곳곳에 비…제주-남부 시간당 30㎜ 이상 쏟아져",
+          "title": "벌써 장마?…1호 태풍 '우딥' 영향으로 16일까지 전국 비소식",
           "snippet": "",
-          "url": "https://www.donga.com/news/Society/article/all/20250613/131799599/1",
-          "source": "동아일보"
+          "url": "https://m.dongascience.com/news.php?idx=72157",
+          "source": "동아사이언스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,15 +145,9 @@
       "title": "근로장려금",
       "trafficCount": "500+",
       "pubDate": "Fri, 13 Jun 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyr64pcxlmidJnFBQ6REx1ip_3lRQsSVJqinR4Cp6ziUvAu3GyUVsaDbQLmNE",
-      "pictureSource": "매일경제",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_5Gw8GdeAET8XYuqBEJ1vxqrfRUYYOgp9vE09wfW8Z-x8cA_Rumi3zlE_6XQ",
+      "pictureSource": "중앙이코노미뉴스",
       "relatedSearch": [
-        {
-          "title": "“뭐하러 열심히 일해, 어차피 나라에서 주는데”...효과 크지 않다는 ‘근로장려금’",
-          "snippet": "",
-          "url": "https://www.mk.co.kr/news/economy/11336311",
-          "source": "매일경제"
-        },
         {
           "title": "2025 근로장려금 지급일 정리, 정기·반기·기한 후 차이 주의",
           "snippet": "",
@@ -165,6 +159,12 @@
           "snippet": "",
           "url": "https://www.cbci.co.kr/news/articleView.html?idxno=505170",
           "source": "CBC뉴스"
+        },
+        {
+          "title": "근로장려금 효과 한계 지적…정부, 제도 개선 착수",
+          "snippet": "",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=153189",
+          "source": "잡포스트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,7 +199,7 @@
     },
     {
       "title": "김병기",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 12 Jun 2025 23:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOlThU_UuxHnb3DjIiuEaGzTeFA2cKXNogsWbbQ-A6g2-ZiXWgIZXP9-gLK5A",
       "pictureSource": "조선일보",
@@ -217,9 +217,9 @@
           "source": "한겨레"
         },
         {
-          "title": "김병기, 개혁입법·추경 속도전 예고…협치·당정관계 과제",
+          "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250613135000001",
+          "url": "https://www.yna.co.kr/view/AKR20250613138200011",
           "source": "연합뉴스"
         }
       ],
