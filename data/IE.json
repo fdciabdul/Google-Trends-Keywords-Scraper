@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-06-13 06:53:23",
+  "lastUpdate": "2025-06-13 07:00:27",
   "data": [
     {
       "title": "news",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 12 Jun 2025 22:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4cPEKutc9fmEwXUaVS_DXfxCRa_a7BzqbH2xyvTpusxSByo9A_eWRE3R9yh4",
       "pictureSource": "RTE.ie",
@@ -31,22 +31,22 @@
     },
     {
       "title": "nhl",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EcKDL65Tnffz8AhCHSY5Bu4OeMbU6k_IL1wqpECjXNHNvbYVhwxynWRtweY",
-      "pictureSource": "NHL.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5rzx_tv2gl8GaalN6VLyTwvM8SH3R0PGVueUhy19paszdRav5K1VR7KnGLCw",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "Stecher, Skinner to enter lineup for Oilers for Game 4 of Cup Final",
-          "snippet": "",
-          "url": "https://www.nhl.com/news/edmonton-considering-lineup-change-game-4-stanley-cup-final-against-florida",
-          "source": "NHL.com"
-        },
         {
           "title": "Oilers stun Panthers in biggest Stanley Cup final road comeback in 106 years",
           "snippet": "",
           "url": "https://www.theguardian.com/sport/2025/jun/12/edmonton-florida-stanley-cup-game-four-taylor-travis",
           "source": "The Guardian"
+        },
+        {
+          "title": "Stanley Cup Final Game 4 live blog, Oilers at Panthers",
+          "snippet": "",
+          "url": "https://www.nhl.com/news/stanley-cup-final-game-4-live-blog-june-12-2025",
+          "source": "NHL.com"
         },
         {
           "title": "Healthier Panthers are nearing full strength in the Stanley Cup Final against the Oilers",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "al jazeera",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 12 Jun 2025 18:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx_x5mUp3kiu1EtPSs5r3SM57kMV4S1NQQmgnW36nMRAFNEHKsHo9AnTI5tSg",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "Egypt deports dozens due to attend march to Gaza",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/world/2025/0612/1518152-gaza-march-egypt/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Egypt deports dozens of activists before planned march to Gaza border",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/6/12/egypt-deports-dozens-of-activists-before-planned-march-to-gaza-border",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Thousands head to Egypt in bid to break Israel’s Gaza blockade",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/06/12/middleeast/global-march-gaza-egypt-israel-blockade-intl",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "iran",
       "trafficCount": "5000+",
       "pubDate": "Thu, 12 Jun 2025 17:10:00 -0700",
@@ -127,16 +155,16 @@
           "source": "RTE.ie"
         },
         {
+          "title": "Live - Israel and Iran conflict: live updates and reactions",
+          "snippet": "",
+          "url": "https://www.euronews.com/my-europe/2025/06/13/israel-and-iran-conflict-live-updates-and-reactions",
+          "source": "Euronews"
+        },
+        {
           "title": "Hossein Salami: Who was Iran's Revolutionary Guards chief killed in Israeli strikes?",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/clyg0yywr4no",
           "source": "BBC"
-        },
-        {
-          "title": "Israel’s strikes on Iran show Trump is unable to restrain Netanyahu as Middle East slips closer to chaos",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/jun/13/israels-strikes-on-iran-show-trump-is-unable-to-restrain-netanyahu-as-middle-east-slips-closer-to-chaos",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-elon-musk-feud-epstein-x-truth-social-democrats-live-updates-b2765886.html",
           "source": "The Independent"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "portadown",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 12 Jun 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTH3ZAYHhpOMuOHg71Q880Ezi_89BBMENcI9IW35dtN6u7ZgAMCfAWkugv7OAU",
-      "pictureSource": "RTE.ie",
-      "relatedSearch": [
-        {
-          "title": "Police attacked during fourth night of unrest in NI",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/ulster/2025/0613/1518225-disorder-northern-ireland/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "PSNI come under attack for fourth consecutive night in Northern Ireland, this time in Co Armagh",
-          "snippet": "",
-          "url": "https://www.thejournal.ie/police-come-under-attack-for-fourth-consecutive-night-in-northern-ireland-6732021-Jun2025/",
-          "source": "The Journal"
-        },
-        {
-          "title": "Three teenagers charged with riot in Ballymena while leisure centre set alight in Larne in third night of violence",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/ireland/2025/06/12/three-teenagers-charged-with-riot-in-ballymena-while-leisure-centre-set-alight-in-larne-in-third-night-of-violence/",
-          "source": "The Irish Times"
         }
       ],
       "link": "https://imtaqin.id/"
