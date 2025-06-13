@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-06-13 04:54:29",
+  "lastUpdate": "2025-06-13 05:01:42",
   "data": [
     {
-      "title": "תחבורה ציבורית",
+      "title": "משרד החינוך",
       "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQ18skDY4voGERALxqvv9INWiVh3BldcYWHHyXa_J14c-3DWDSAcZXaUmH40",
+      "pictureSource": "ערוץ 14",
+      "relatedSearch": [
+        {
+          "title": "לאחר בחינת תאוריה בתיכון: 100,000 תלמידים בדרך לרישיון נהיגה",
+          "snippet": "",
+          "url": "https://www.c14.co.il/article/1236074",
+          "source": "ערוץ 14"
+        },
+        {
+          "title": "בגרות בחקלאות: 2,508 תלמידים ייבחנו היום - זינוק של 36% מאז המלחמה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/activism/article/yokra14404075",
+          "source": "ynet"
+        },
+        {
+          "title": "יצא הנוער לשדות",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/yedioth/article/yokra14404075",
+          "source": "ynet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "תחבורה ציבורית",
+      "trafficCount": "200+",
       "pubDate": "Thu, 12 Jun 2025 19:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDMx43njDOIRoVvkPk8CbzZivbk4N7dZAk8CnbrPYmZtjxVjqnLotmWfSF-I",
       "pictureSource": "מעריב",
@@ -25,6 +53,34 @@
           "snippet": "",
           "url": "https://www.calcalist.co.il/local_news/article/hko4cyi7gg",
           "source": "calcalist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fox news live",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 12 Jun 2025 19:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbto4yx7CjNGwePj0jzm14vlcsj3sqd8gVMzEVDnSxL41QoM8-6fLaHZ5Wd14",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "'Snow White' becomes Disney's worst-performing live-action remake in nearly 10 years",
+          "snippet": "",
+          "url": "https://www.foxnews.com/media/snow-white-becomes-disneys-worst-performing-live-action-remake-nearly-10-years",
+          "source": "Fox News"
+        },
+        {
+          "title": "It’s No Longer 1937...",
+          "snippet": "",
+          "url": "https://quillette.com/2025/06/10/its-no-longer-1937-disney-snow-white-seven-dwarfs-rachel-zegler-gal-gadot/",
+          "source": "Quillette"
+        },
+        {
+          "title": "Disney's 'Snow White' Live-Action Movie Is Streaming Today",
+          "snippet": "",
+          "url": "https://www.cnet.com/tech/services-and-software/disneys-snow-white-live-action-movie-streaming-today/",
+          "source": "CNET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,9 +155,37 @@
           "source": "סרוגים"
         },
         {
-          "title": "ישברו את המצור? מצרים מגיבה לשיירה הפרו פלשתינית מאפריקה שחצתה את הגבול",
+          "title": "כאב הראש הבא של ישראל: אחרי המשט לעזה - שיירת הרכבים שבדרך",
           "snippet": "",
-          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/18168902",
+          "url": "https://news.walla.co.il/item/3756764",
+          "source": "וואלה חדשות"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "טראמפ",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 12 Jun 2025 18:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55Wa74R5GojIsc17MEDxGa17CaVkW7Mo4Tip2RsovPHG2cGgzdmRFqDtt3oU",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "ארה\"ב מתרחקת מהתקיפה הישראלית, טראמפ: מקווה שאיראן תחזור לשולחן המו\"מ",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/by58nqfqxl",
+          "source": "ynet"
+        },
+        {
+          "title": "טראמפ עדיין רוצה לשבת עם האיראנים והודיע: \"נגן על ישראל במידת הצורך\"",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/military/article-1205072",
+          "source": "מעריב"
+        },
+        {
+          "title": "טראמפ על התקיפה: \"אסור שלאיראן תהיה פצצה גרעינית\"",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/18180089",
           "source": "www.israelhayom.com"
         }
       ],
@@ -181,90 +265,6 @@
           "snippet": "",
           "url": "https://www.mediamatters.org/fox-news/foxs-la-fantasy-setting-stage-authoritarian-federal-response",
           "source": "Media Matters for America"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "skynews",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 12 Jun 2025 18:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKbtX-bydpzj170KYKtoQraZGwG5mvqclfA_j3jgPGZ3nugb_IKZTUWpWXTl4",
-      "pictureSource": "Sky News",
-      "relatedSearch": [
-        {
-          "title": "What the Money newsletter has to offer you",
-          "snippet": "",
-          "url": "https://news.sky.com/video/how-sky-newss-money-newsletter-will-help-you-make-the-most-of-your-money-13379534",
-          "source": "Sky News"
-        },
-        {
-          "title": "Sky News launches Money newsletter from award-winning team",
-          "snippet": "",
-          "url": "https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142",
-          "source": "Sky News"
-        },
-        {
-          "title": "Money blog: Ryanair to fine unruly passengers £500; UK economy shrinks after Trump's trade war and stamp duty changes",
-          "snippet": "",
-          "url": "https://news.sky.com/story/money-blog-retailer-cancels-nintendo-switch-2-pre-orders-13040934",
-          "source": "Sky News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "el al",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 12 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQROl4dUKyW6idQKsmnD_Ggu0BBak2aB0dFiApvB51ihcdnT3bEeUZu8VE3WrQ",
-      "pictureSource": "DEBATE",
-      "relatedSearch": [
-        {
-          "title": "Aerolínea El Al Israel suspende vuelos hacia y desde Israel",
-          "snippet": "",
-          "url": "https://www.debate.com.mx/mundo/Aerolinea-El-Al-Israel-suspende-vuelos-hacia-y-desde-Israel-20250612-0284.html",
-          "source": "DEBATE"
-        },
-        {
-          "title": "El Real Betis y el Al-Duhail Sports Club llegan a un acuerdo para el traspaso de Youssouf Sabaly",
-          "snippet": "",
-          "url": "https://www.realbetisbalompie.es/noticias/actualidad/el-real-betis-y-el-al-duhail-sports-club-llegan-a-un-acuerdo-para-el-traspaso-de-youssouf-sabaly-314",
-          "source": "Real Betis Balompié"
-        },
-        {
-          "title": "Sabaly: oficial la segunda venta a Qatar en nueve meses... y hay otra inminente",
-          "snippet": "",
-          "url": "https://www.estadiodeportivo.com/futbol/betis/sabaly-oficial-segunda-venta-qatar-nueve-meses-hay-otra-inminente-20250612-499317.html",
-          "source": "Estadio Deportivo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "טיל בליסטי",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 12 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcResFcElwVy2F-jTEEZ8uCKgdrQDnCQ9K1Vi5tPEKgc3ZYC7OWz-tRRmRfboNs",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "אחרי התקיפה בחודיידה: יורט טיל מתימן - אזעקות הופעלו במרכז, בירושלים ובשפלה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/rjufz1l7lg",
-          "source": "ynet"
-        },
-        {
-          "title": "אחרי תימן: האם התקיפה באיראן תגיע בכלל מהים?",
-          "snippet": "",
-          "url": "https://www.mako.co.il/pzm-magazine/Article-1d8df8f3f556791026.htm",
-          "source": "mako"
-        },
-        {
-          "title": "צה\"ל: \"שוגרו מיירטים נוספים - בשל חשש לנפילת שברי יירוט\" | תיעוד",
-          "snippet": "",
-          "url": "https://www.0404.co.il/article/1078359",
-          "source": "0404"
         }
       ],
       "link": "https://imtaqin.id/"
