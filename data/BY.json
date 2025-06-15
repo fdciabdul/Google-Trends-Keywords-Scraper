@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-15 04:45:22",
+  "lastUpdate": "2025-06-15 04:54:57",
   "data": [
+    {
+      "title": "ирана",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 14 Jun 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvYAHXigTKPYbAaI-kYCB-Kuk4H3bYL1WuxZbtBxB_pc9EPhpOuMhf7UmpS9c",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Противостояние Израиля и Ирана: каковы наихудшие сценарии развития событий?",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cly3ev4jpn4o",
+          "source": "BBC"
+        },
+        {
+          "title": "МАГАТЭ подтвердило утечку радиации на объекте в Натанзе",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/magate-podtverdilo-utecku-radiacii-na-adernom-obekte-v-natanze/a-72905647",
+          "source": "DW"
+        },
+        {
+          "title": "Израиль нанес удары по топливохранилищам в Тегеране",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1031248",
+          "source": "Интерфакс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "с днем медицинского работника",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://newbur.ru/newsdetail/glava_buryatii_pozdravil_medikov_s_dnem_meditsinskogo_rabotnika/",
           "source": "Новая Бурятия"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости мира",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 14 Jun 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzS61JNGRljie9CXiQrpalNXDXPYtX1Nc7_dx2qRWeP0pCIbGhV82ZijxpGRk",
-      "pictureSource": "ИА Ореанда-Новости",
-      "relatedSearch": [
-        {
-          "title": "Putin receives online reports on developments between Israel and Iran",
-          "snippet": "",
-          "url": "https://www.oreanda-news.com/en/gosudarstvo/putin-receives-online-reports-on-developments-between-israel-and-iran/article1561728/",
-          "source": "ИА Ореанда-Новости"
-        },
-        {
-          "title": "Iran appealed to the UN after Israeli strikes",
-          "snippet": "",
-          "url": "https://www.oreanda-news.com/en/v_mire/iran-appealed-to-the-un-after-israeli-strikes/article1561720/",
-          "source": "ИА Ореанда-Новости"
-        },
-        {
-          "title": "Противостояние Израиля и Ирана: каковы наихудшие сценарии развития событий?",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cly3ev4jpn4o",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +136,16 @@
           "source": "Sport5.by"
         },
         {
+          "title": "Иван Мигаль извинился за разгром БАТЭ от «Немана»",
+          "snippet": "",
+          "url": "https://betnews.by/ivan-migal-izvinilsya-za-razgrom-bate-ot-nemana/",
+          "source": "Bet News"
+        },
+        {
           "title": "Разгромные победы \"Немана\" и \"Торпедо-БелАЗа\", минимальная - столичного \"Динамо\". Картина двух игровых дней 12-го тура Betera-Высшей лиги (+ВИДЕО) - Новости : football.by",
           "snippet": "",
           "url": "https://football.by/news/203362",
           "source": "Football.by"
-        },
-        {
-          "title": "Иван Мигаль рассказал о своих требованиях к игрокам БАТЭ",
-          "snippet": "",
-          "url": "https://betnews.by/ivan-migal-rasskazal-o-svoih-trebovaniyah-k-igrokam-bate/",
-          "source": "Bet News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,10 +226,10 @@
           "source": "Прессбол"
         },
         {
-          "title": "Минск, Слуцк и Борисов примут встречи 12-го тура чемпионата Беларуси по футболу",
+          "title": "Вадим Скрипченко: Цепенков отлично сработал",
           "snippet": "",
-          "url": "https://www.sb.by/articles/minsk-slutsk-i-borisov-primut-vstrechi-12-go-tura-chempionata-belarusi-po-futbolu.html",
-          "source": "Беларусь сегодня"
+          "url": "https://betnews.by/vadim-skripchenko-czepenkov-otlichno-srabotal/",
+          "source": "Bet News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,10 +254,10 @@
           "source": "Прессбол"
         },
         {
-          "title": "Дмитрий Молош: нужно было не сдаваться и терпеть",
+          "title": "«Торпедо-БелАЗ» разгромило «Минск» в игре футбольного чемпионата страны",
           "snippet": "",
-          "url": "https://betnews.by/dmitrij-molosh-nuzhno-bylo-ne-sdavatsya-i-terpet/",
-          "source": "Bet News"
+          "url": "https://www.sb.by/articles/torpedo-belaz-razgromilo-minsk-v-igre-futbolnogo-chempionata-strany.html",
+          "source": "Беларусь сегодня"
         }
       ],
       "link": "https://imtaqin.id/"
