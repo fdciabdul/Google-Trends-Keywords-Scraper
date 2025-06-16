@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-06-16 11:55:22",
+  "lastUpdate": "2025-06-16 12:06:41",
   "data": [
     {
       "title": "gjert ingebrigtsen",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Jun 2025 03:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_W4TS2qxQ1QMpHuI4n_vKTXvfxvH4TX9rOv5J1haEz2DWcCvR2qv8m2qzH8",
-      "pictureSource": "Politiken",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw94gg4qqN3QiBH5Y7VI1vrwGHqxqfuQ-SObc5L2Q-Vw5hNi5Qfu-8lq1_RFA",
+      "pictureSource": "Ekstra Bladet",
       "relatedSearch": [
-        {
-          "title": "Far til norsk atletikstjerne frifundet for mishandling af sin berømte søn",
-          "snippet": "",
-          "url": "https://politiken.dk/sport/art10450081/Far-til-norsk-atletikstjerne-frifundet-for-mishandling-af-sin-ber%C3%B8mte-s%C3%B8n",
-          "source": "Politiken"
-        },
         {
           "title": "Den norske atletiktræner Gjert Ingebrigtsen kendt skyldig",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "Ekstra Bladet"
         },
         {
-          "title": "Far til norske løbestjerner får sin dom",
+          "title": "Løbestjernes far dømt til fængsel, men frifundet for mishandling",
           "snippet": "",
-          "url": "https://sport.tv2.dk/live/atletik/2025-06-16-far-til-norske-loebestjerner-faar-sin-dom",
-          "source": "tv2.dk"
+          "url": "https://www.dr.dk/sporten/oevrig/loebestjernes-far-doemt-til-faengsel-men-frifundet-anklager-om-mishandling",
+          "source": "dr.dk"
+        },
+        {
+          "title": "Far til norsk atletikstjerne frifundet for mishandling af sin berømte søn",
+          "snippet": "",
+          "url": "https://politiken.dk/sport/art10450081/Far-til-norsk-atletikstjerne-frifundet-for-mishandling-af-sin-ber%C3%B8mte-s%C3%B8n",
+          "source": "Politiken"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,7 +135,7 @@
         {
           "title": "Advarer om ekstrem varme: 'Meget alvorligt'",
           "snippet": "",
-          "url": "https://www.bt.dk/vejret/advarer-om-ekstrem-varme-meget-alvorligt?gaa_at=eafs&gaa_n=ASWzDAgKKI22SZc9VvTCnJjjx_HQLDg-OWJ6tSlMgrUEJAHld7xrTAcoK9Vn&gaa_ts=685009ad&gaa_sig=gznriwXQLYuo-GBkKMF23QviZTUGhp682h9qXW07VqQFEOSTm2CqOGT9HWTHao7AtlGiHXUbjdRF4Yc3rI1znQ%3D%3D",
+          "url": "https://www.bt.dk/vejret/advarer-om-ekstrem-varme-meget-alvorligt?gaa_at=eafs&gaa_n=ASWzDAhzmRbp9fCCkL8623Zb1wyToYy_5BIqujkVMRS9F1Uoh9YhRJm1Tld4&gaa_ts=68500c54&gaa_sig=f6TDim0Jpr66-9WEeVlC15Hjx9EQlbEv00q7LqRlj_q8oO7DzP728kyixwPmQTnG2PX-1_YKPNggFDwZ9yp3Lw%3D%3D",
           "source": "BT"
         }
       ],
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "dr.dk",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 15 Jun 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNmfYAgWZ5TIib3VdPLWTlUoKHejqO5Fc--HAoOfaz0sAgt6hewawHrw_96Ss",
+      "pictureSource": "tv2.dk",
+      "relatedSearch": [
+        {
+          "title": "Kvinde ramt af skud i København",
+          "snippet": "",
+          "url": "https://nyheder.tv2.dk/live/krimi/2025-06-16-kvinde-ramt-af-skud-i-koebenhavn",
+          "source": "tv2.dk"
+        },
+        {
+          "title": "Kvinde ramt af skud i København",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/indland/kvinde-ramt-af-skud-i-koebenhavn",
+          "source": "dr.dk"
+        },
+        {
+          "title": "Fundet midt på gaden: Kvinde skudt i København",
+          "snippet": "",
+          "url": "https://kobenhavnliv.dk/kobenhavn/fundet-midt-paa-gaden-kvinde-skudt-i-koebenhavn",
+          "source": "KøbenhavnLIV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "vance boelter",
       "trafficCount": "500+",
       "pubDate": "Sun, 15 Jun 2025 20:20:00 -0700",
@@ -217,10 +245,10 @@
           "source": "BBC"
         },
         {
-          "title": "Democratic Minnesota politician fatally shot, another injured in 'politically motivated assassination'",
+          "title": "Suspect in shootings of Minnesota lawmakers caught and charged with murder",
           "snippet": "",
-          "url": "https://www.nbcnews.com/news/us-news/targeted-shootings-minnesota-rcna212831",
-          "source": "NBC News"
+          "url": "https://www.theguardian.com/us-news/2025/jun/16/minnesota-shooting-suspect-arrest-reports",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.imdb.com/de/news/ni65335435/?ref_=tt_nwr_1",
           "source": "IMDb"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "us open golf",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 15 Jun 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE_0L5TnZHH0Lx060agxptibbvw3V-HRH5z5gi4sTytYTot1Dsl0wDOPo9Amw",
-      "pictureSource": "USA Today",
-      "relatedSearch": [
-        {
-          "title": "Weather delay halts 2025 US Open final round at Oakmont for more than 90 minutes",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/sports/golf/pga/2025/06/15/us-open-2025-weather-delay-final-round/84220969007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "US Open 2025: JJ Spaun beats Robert MacIntyre by two shots to win first major",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/golf/articles/c0mrmjp27zro",
-          "source": "BBC"
-        },
-        {
-          "title": "J.J. Spaun wins the 125th US Open, outlasting a brutal course, a crowded leaderboard and Mother Nature",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/06/15/sport/us-open-final-round-spt",
-          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
