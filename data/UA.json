@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-17 04:33:14",
+  "lastUpdate": "2025-06-17 04:45:38",
   "data": [
     {
       "title": "новости запорожья",
@@ -33,9 +33,15 @@
       "title": "погода сьогодні",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Jun 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStE7eArImfMGEntAmeEWmWKfn4PqWVPONqYh9XeWfE_LDc7g7jlG9zfBEZO-0",
-      "pictureSource": "NV.ua",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFkX_JsMX-hEpk32rExniMiAv1SnMe9xGZqVJ04NhhH64n3Sou3su85nF5AGg",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
+        {
+          "title": "Частину України накриють дощі, місцями пригріє до +28: прогноз погоди на сьогодні",
+          "snippet": "",
+          "url": "https://www.rbc.ua/rus/news/chastinu-ukrayini-nakriyut-doshchi-mistsyami-1750075679.html",
+          "source": "РБК-Україна"
+        },
         {
           "title": "Доведеться зачекати неділі. Якою суцільною аномалією виглядатиме передостанній тиждень червня — детальний про",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://donpatriot.news/minlyva-pogoda-v-ukrayini-17-chervnya-doshhi-z-grozamy-ta-teplo-do-30c",
           "source": "Патріот Донбасу"
-        },
-        {
-          "title": "Похолодання і дощі: коли повернеться тепло — прогноз погоди на тиждень",
-          "snippet": "",
-          "url": "https://tsn.ua/ukrayina/ukrayinu-nakryye-khvylia-atmosfernykh-frontiv-koly-chekaty-litnye-teplo-2850605.html",
-          "source": "ТСН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -152,28 +152,28 @@
     },
     {
       "title": "думская",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 16 Jun 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfJjPLb0vED8vZLrYjO30Ml-jFkMPlaxkhrGHUHyjDKO6v8fPvDAlFuKcpA1Q",
-      "pictureSource": "Думская",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYsAvEfHGbHNm9ztnn-Hj8NsPcWka14NDy5fUHnIrFviPwVhqM7nKuWWMrAm4",
+      "pictureSource": "Радіо Свобода",
       "relatedSearch": [
         {
-          "title": "Украли 15 млн на бесперебойниках для светофоров? У одесских коммунальщиков прошли масштабные обыски",
+          "title": "В Одесі число постраждалих через російську атаку зросло, під завалами можуть бути люди – Кіпер",
           "snippet": "",
-          "url": "https://dumskaya.net/news/ushcherb-v-15-millionov-odesskoe-kp-smep-stalo-f-188194/",
-          "source": "Думская"
+          "url": "https://www.radiosvoboda.org/a/news-odesa-poraneni-ataka-rf/33445590.html",
+          "source": "Радіо Свобода"
         },
         {
-          "title": "Правоохранители обыскали офисы одесского коммунального предприятия",
+          "title": "В Одесі пролунали вибухи – ЗМІ",
           "snippet": "",
-          "url": "https://intent.press/ru/news/anticorruption/2025/pravookhraniteli-obyskali-ofisy-odesskogo-kommunalnogo-predpriiatiia/",
-          "source": "Інтент"
+          "url": "https://www.pravda.com.ua/news/2025/06/17/7517456/",
+          "source": "Українська правда"
         },
         {
-          "title": "В Одессе раскрыли коррупционную схему на более чем 15 миллионов: \"СМЭП\" завышало цены на светофоры в пять раз",
+          "title": "Росіяни атакували Одесу дронами",
           "snippet": "",
-          "url": "https://antikor.com.ua/ru/articles/774619-v_odesse_raskryli_korruptsionnuju_shemu_na_bolee_chem_15_millionov_smep_zavyshalo_tseny_na_svetofory_v_pjatj_raz",
-          "source": "АНТИКОР"
+          "url": "https://ua.korrespondent.net/city/odessa/4791174-rosiiany-atakuvaly-odesu-dronamy",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
