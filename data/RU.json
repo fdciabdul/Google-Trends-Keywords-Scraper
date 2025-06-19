@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-06-19 09:24:16",
+  "lastUpdate": "2025-06-19 09:35:09",
   "data": [
+    {
+      "title": "аэс бушер",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 19 Jun 2025 02:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7kl8nIwL229NEifsaOIJNp3FFelITO6V-BXcW2sG8wSY4LZtpoGyqiQ_575I",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "С иранской АЭС \"Бушер\" эвакуировали часть российских сотрудников, возможен вывоз всех",
+          "snippet": "",
+          "url": "https://www.interfax.ru/forumspb/1032040",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Лихачев: израильский удар по иранской АЭС может привести к новому Чернобылю",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2025/06/19/1118243-lihachev-izrailskii-udar",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Росатом готов эвакуировать россиян с АЭС «Бушер» в Иране",
+          "snippet": "",
+          "url": "https://ura.news/news/1052951101",
+          "source": "URA.RU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "бпла",
       "trafficCount": "200+",
@@ -15,10 +43,10 @@
           "source": "Газета «Рабочий путь"
         },
         {
-          "title": "В Курске обломки сбитого беспилотника повредили многоэтажку и три автомобиля",
+          "title": "Минобороны: ночью отражена массированная атака БПЛА на регионы России",
           "snippet": "",
-          "url": "https://dddkursk.ru/lenta/2025/06/19/119755/",
-          "source": "Друг для друга"
+          "url": "https://tverigrad.ru/publication/minoborony-nochju-otrazhena-massirovannaja-ataka-bpla-na-regiony-rossii-3/",
+          "source": "Новости Твери и Тверской области"
         },
         {
           "title": "Минобороны сообщило об уничтожении 85 дронов за ночь",
@@ -30,18 +58,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "сергей кравцов",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 19 Jun 2025 01:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTP1mZM15MygMClWF-VHfGkK5PO52xHbvPF0d-NFF3L0e6RrsCjNUGG4mjZmM0",
+      "pictureSource": "Ведомости",
+      "relatedSearch": [
+        {
+          "title": "Сергей Кравцов: «Мы сформировали единое образовательное пространство»",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/society/characters/2025/06/16/1117120-sergei-kravtsov",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Министр просвещения Кравцов ответил на вопрос об «отупляющем» детей ЕГЭ",
+          "snippet": "",
+          "url": "https://nsk.bfm.ru/news/50106",
+          "source": "BFM-Новосибирск"
+        },
+        {
+          "title": "Туманные перспективы единого школьного учебника",
+          "snippet": "",
+          "url": "https://topwar.ru/266164-tumannye-perspektivy-edinogo-shkolnogo-uchebnika.html",
+          "source": "Военное обозрение"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "новости оренбург",
       "trafficCount": "2000+",
       "pubDate": "Thu, 19 Jun 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX0AuwY1LGoOLhwZNaiQrGFXxHH2FqlBYoA0hYmSGhoIyOSHXAp0cCmv1D6w",
-      "pictureSource": "Гай.ру",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzQ51ZYRXUlJQc85Yz0U00NFp3WwWhSLxDA9fzwkmTuv9h3mGmQMXGeft71T8",
+      "pictureSource": "RIA56",
       "relatedSearch": [
-        {
-          "title": "⚡️ В Оренбуржье объявлен сигнал «Воздушная тревога. Военные переведены в боевую готовность",
-          "snippet": "",
-          "url": "https://vgae.ru/news/society/39123-v-orenburzhe-objavlen-signal-vozdushnaja-trevoga-voennye-perevedeny-v-boevuju-gotovnost.html",
-          "source": "Гай.ру"
-        },
         {
           "title": "В Оренбурге звучит сигнал воздушной тревоги — Новости Оренбурга и Оренбургской области на РИА56",
           "snippet": "",
@@ -53,6 +103,12 @@
           "snippet": "",
           "url": "https://www.vedomosti.ru/society/news/2025/06/19/1118244-rosaviatsiya-vvela-ogranicheniya",
           "source": "Ведомости"
+        },
+        {
+          "title": "Внимание воздушная тревога!",
+          "snippet": "",
+          "url": "https://56.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/vnimanie/5540585",
+          "source": "Главное управление МЧС России по Оренбургской области"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,33 +210,33 @@
       "title": "кравцов",
       "trafficCount": "500+",
       "pubDate": "Thu, 19 Jun 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTP1mZM15MygMClWF-VHfGkK5PO52xHbvPF0d-NFF3L0e6RrsCjNUGG4mjZmM0",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8KRT6EC3V53nOyZx0htdx4wPoBkC7Q2ynNXIjQ7TUvSRXkC8c7LBmBY-iNs0",
+      "pictureSource": "EADaily",
       "relatedSearch": [
+        {
+          "title": "Российский актер нашел орфографическую ошибку у министра",
+          "snippet": "",
+          "url": "https://eadaily.com/ru/news/2025/06/19/rossiyskiy-akter-nashel-orfograficheskuyu-oshibku-u-ministra",
+          "source": "EADaily"
+        },
+        {
+          "title": "Министр просвещения Кравцов поздравил «Артек» «с празником» – без д",
+          "snippet": "",
+          "url": "https://sotaproject.com/news/99333",
+          "source": "SOTA"
+        },
         {
           "title": "Сергей Кравцов: «Мы сформировали единое образовательное пространство»",
           "snippet": "",
           "url": "https://www.vedomosti.ru/society/characters/2025/06/16/1117120-sergei-kravtsov",
           "source": "Ведомости"
-        },
-        {
-          "title": "Министр просвещения Кравцов ответил на вопрос об «отупляющем» детей ЕГЭ",
-          "snippet": "",
-          "url": "https://nsk.bfm.ru/news/50106",
-          "source": "BFM-Новосибирск"
-        },
-        {
-          "title": "Туманные перспективы единого школьного учебника",
-          "snippet": "",
-          "url": "https://topwar.ru/266164-tumannye-perspektivy-edinogo-shkolnogo-uchebnika.html",
-          "source": "Военное обозрение"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "22 июня",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 19 Jun 2025 00:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMUbwRCS4_lOO_ERpEHsYPIujDM6RFH20m8HnGgN2hK8rdgTcpeLBfn_XlPeI",
       "pictureSource": "Govoritsatka.ru",
@@ -202,43 +258,6 @@
           "snippet": "",
           "url": "https://sitv.ru/arhiv/news/na-minutu-gorod-zamret-v-surgute-pochtut-pamyat-geroev-velikoj-otechestvennoj/",
           "source": "SiTV.RU"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "станислав садальский",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 18 Jun 2025 23:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "poizon заработал в россии",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 18 Jun 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ2-re7uhxjVeK1oZlbdkQEElaEYaG-1-6F4OKI6fNHx3L6MWze2eitFmXXSo",
-      "pictureSource": "Москвич Mag",
-      "relatedSearch": [
-        {
-          "title": "В России заработал крупный китайский маркетплейс Poizon",
-          "snippet": "",
-          "url": "https://moskvichmag.ru/gorod/v-rossii-zarabotal-krupnyj-kitajskij-marketplejs-poizon/",
-          "source": "Москвич Mag"
-        },
-        {
-          "title": "В России заработал крупный китайский маркетплейс Poizon. Там продают оригинальную одежду и обувь от известных брендов",
-          "snippet": "",
-          "url": "https://www.iphones.ru/iNotes/v-rossii-zarabotal-krupnyy-kitayskiy-marketpleys-poizon-tam-prodayut-originalnuyu-odezhdu-i-obuv-ot-izvestnyh-brendov",
-          "source": "iPhones.ru"
-        },
-        {
-          "title": "Китайский маркетплейс Poizon заработал в России",
-          "snippet": "",
-          "url": "https://momenty.org/style/29319",
-          "source": "Моменты"
         }
       ],
       "link": "https://imtaqin.id/"
