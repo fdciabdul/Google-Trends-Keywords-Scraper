@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-06-19 13:23:43",
+  "lastUpdate": "2025-06-19 13:39:13",
   "data": [
     {
       "title": "juneteenth",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Jun 2025 05:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwkXRXnl97oevJpuf5mDlEm5BJmWB8XZt-ouvlJ6srZM_vD46MgpJMimSRWBk",
-      "pictureSource": "Austin American-Statesman",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpMhplmgqKI648dlAl4ICXz6CrkJrnM8hqXIoHOwb6BTI6fZnsJ8fpcWNQYtk",
+      "pictureSource": "USA Today",
       "relatedSearch": [
+        {
+          "title": "Is Juneteenth a federal holiday? See 2025 holiday calendar",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/money/2025/06/17/juneteenth-federal-holiday-2025/84230406007/",
+          "source": "USA Today"
+        },
         {
           "title": "Are banks, post offices open on Juneteenth? Here's what's closed on the federal holiday",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "Austin American-Statesman"
         },
         {
-          "title": "Lawyers’ Committee Statement on Juneteenth",
+          "title": "The island city where Juneteenth was born",
           "snippet": "",
-          "url": "https://www.lawyerscommittee.org/lawyers-committee-statement-on-juneteenth/",
-          "source": "Lawyers' Committee for Civil Rights Under Law"
-        },
-        {
-          "title": "Is Juneteenth a paid holiday in Arkansas?",
-          "snippet": "",
-          "url": "https://www.kark.com/news/national-news/is-juneteenth-a-paid-holiday-in-arkansas/",
-          "source": "KARK"
+          "url": "https://www.bbc.com/travel/article/20250618-the-island-city-where-juneteenth-was-born",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,36 +114,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bn",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 19 Jun 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7BJ_Ud7ztn9NfKVgvUEhpRxKuVMKrR_lN9YG0q9sUnsoqNppfR1QoZX_jEAQ",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Sources: Buss family to sell Lakers, valued at $10B",
-          "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/45539931/buss-family-agrees-sell-lakers-mark-walter-sources-say",
-          "source": "ESPN"
-        },
-        {
-          "title": "LeBron James, Luka Doncic Reportedly Have 'Excitement' After Historic Lakers Sale",
-          "snippet": "",
-          "url": "https://bleacherreport.com/articles/25210597-lebron-james-luka-doncic-reportedly-have-excitement-after-historic-lakers-sale",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "Plaschke: Lakers had a great ride with Buss family, but Dodgers owner will give team new life",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/plaschke-lakers-had-great-ride-001813351.html",
-          "source": "Yahoo Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pnp",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 19 Jun 2025 03:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA88G1Rs4Nt_7j66dBetjz_-QuX3aFoNnD3-tOWKSbpYulfSqGbvi0w9RweFU",
       "pictureSource": "LP | Pasión por el Derecho",
@@ -165,6 +137,34 @@
           "snippet": "",
           "url": "https://inforegion.pe/alumnos-de-la-pnp-de-huancayo-construyen-obras-para-evitar-castigos-y-salir-los-fines-de-semana/",
           "source": "INFOREGION"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bn",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 19 Jun 2025 03:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7BJ_Ud7ztn9NfKVgvUEhpRxKuVMKrR_lN9YG0q9sUnsoqNppfR1QoZX_jEAQ",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Sources: Buss family to sell Lakers, valued at $10B",
+          "snippet": "",
+          "url": "https://www.espn.com/nba/story/_/id/45539931/buss-family-agrees-sell-lakers-mark-walter-sources-say",
+          "source": "ESPN"
+        },
+        {
+          "title": "Buss family sale of Lakers signals a new dawn for the franchise — and NBA ownership",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/6436802/2025/06/19/lakers-jeanie-buss-mark-walter-nba-ownership/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Lakers legend Magic Johnson on sale of the team: 'When the Celtics sold for $6B, I knew the Lakers were worth $10B!'",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/nba/article/lakers-legend-magic-johnson-on-sale-of-the-team-when-the-celtics-sold-for-6b-i-knew-the-lakers-were-worth-10b-232426831.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,15 +201,9 @@
       "title": "palmeiras vs. porto",
       "trafficCount": "100+",
       "pubDate": "Wed, 18 Jun 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTejobCrWFRJaM6hb_VmfwmG0Hd0vnsQ3SLff7jPQo4CgP6_1SQVpOLGox3ipE",
-      "pictureSource": "The Hindu",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6mfm8_-0o9A9NOCl3SQIzzVRM2GoW3UPDm5-H7Qh0MWimMPZyZ-7r4SfV73E",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
-        {
-          "title": "Why Cristiano Ronaldo is not at Club World Cup despite Saudi Arabia and FIFA’s attempts",
-          "snippet": "",
-          "url": "https://www.thehindu.com/sport/football/why-cristiano-ronaldo-is-not-at-club-world-cup-despite-saudi-arabia-and-fifas-attempts/article69707905.ece",
-          "source": "The Hindu"
-        },
         {
           "title": "Lionel Messi ‘fine’ and fit to play for Inter Miami against Porto in Club World Cup - The Athletic",
           "snippet": "",
@@ -221,6 +215,12 @@
           "snippet": "",
           "url": "https://www.espn.com/soccer/report/_/gameId/724426",
           "source": "ESPN"
+        },
+        {
+          "title": "Garish Ronaldo statues, culture clashes, puzzling dance cams and rumbling shopping malls: How Palmeiras, Porto brought spice and flavor of Club World Cup to New York",
+          "snippet": "",
+          "url": "https://www.goal.com/en-us/lists/garish-ronaldo-statues-culture-clashes-dance-cams-and-rocking-shopping-malls-how-palmeiras-porto-brought-the-spice-and-flavor-of-the-club-world-cup-to-new-york/blt66fe7b7bcc716077",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
