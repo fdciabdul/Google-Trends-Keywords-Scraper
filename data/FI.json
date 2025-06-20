@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-20 07:54:17",
+  "lastUpdate": "2025-06-20 08:02:20",
   "data": [
     {
       "title": "aamulehti",
@@ -61,7 +61,7 @@
       "title": "psg – botafogo",
       "trafficCount": "500+",
       "pubDate": "Thu, 19 Jun 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYi86nozVXVMAp1gZ1FTacFBaEFxCYVGUT9RWpNrrR9fveGHCdQ9YRDvb4Ft4",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6vfY3Bc91wfNijflHXUgUCKukIvZIpfAXWeDnwmLUltbExMoVVYFjO3ojEdk",
       "pictureSource": "GE",
       "relatedSearch": [
         {
@@ -98,26 +98,26 @@
       "title": "aftonbladet",
       "trafficCount": "100+",
       "pubDate": "Thu, 19 Jun 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-HTsEbDOkWQikzxZdO6tPdclGOjg-dm_zFhy_a1VULQOCdZEB_a3ZawjckbI",
-      "pictureSource": "SVT Nyheter",
+      "picture": "",
+      "pictureSource": "Yle",
       "relatedSearch": [
         {
-          "title": "Aftonbladet klandras av Mediernas etiknämnd: ”Långt över gränsen”",
+          "title": "Spårvagn körde in i pizzeria i Göteborg – åtta skadade",
           "snippet": "",
-          "url": "https://www.svt.se/kultur/aftonbladet-klandras-av-mediernas-etiknamnd",
+          "url": "https://yle.fi/a/7-10080007",
+          "source": "Yle"
+        },
+        {
+          "title": "Spårvagn har kört in i gatukök i Göteborg – åtta till sjukhus",
+          "snippet": "",
+          "url": "https://www.svt.se/nyheter/lokalt/vast/sparvagn-har-kort-in-i-pizzeria-flera-skadade",
           "source": "SVT Nyheter"
         },
         {
-          "title": "Aftonbladet fälls för intervju med Örebroskyttens pappa",
+          "title": "Spårvagnsolycka på Avenyn – flera skadade",
           "snippet": "",
-          "url": "https://www.msn.com/sv-se/nyheter/inrikes/aftonbladet-f%C3%A4lls-f%C3%B6r-intervju-med-%C3%B6rebroskyttens-pappa/ar-AA1GSC63",
-          "source": "MSN"
-        },
-        {
-          "title": "Aftonbladet intervjuade anhörig efter masskjutningen i Örebro",
-          "snippet": "",
-          "url": "https://www.expressen.se/nyheter/sverige/aftonbladet-klandras-for-publicering-om-masskjutningen/",
-          "source": "Expressen"
+          "url": "https://www.gp.se/nyheter/goteborg/sparvagnsolycka-pa-avenyn-flera-skadade.7fcd37b8-2a85-4ec2-9734-95352f549f4c",
+          "source": "GP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +136,44 @@
           "source": "ESPN"
         },
         {
-          "title": "NBA Finals Game 6: Preview, Props & Prediction",
+          "title": "Indiana forced Game 7 against OKC with a huge second quarter",
           "snippet": "",
-          "url": "https://www.thesportsleader.com/news/nba-finals-game-6-preview-props-prediction/",
-          "source": "KNBR – The Sports Leader"
+          "url": "https://www.eurohoops.net/en/nba-news/1839745/indiana-pacers-oklahoma-city-thunder-nba-finals-game-6/",
+          "source": "Eurohoops"
         },
         {
-          "title": "2025 NBA playoff bracket, scores, NBA Finals schedule with Thunder and Pacers set for Game 7",
+          "title": "Pacers thrash Thunder to stay alive in NBA Finals",
           "snippet": "",
-          "url": "https://www.cbssports.com/nba/news/2025-nba-playoff-bracket-scores-nba-finals-schedule-with-thunder-and-pacers-set-for-game-7/",
-          "source": "CBS Sports"
+          "url": "https://www.france24.com/en/live-news/20250620-pacers-thrash-thunder-to-stay-alive-in-nba-finals",
+          "source": "France 24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fifa club world cup",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 19 Jun 2025 14:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXtlgtnFNhXJ4ARbSoUE-lgk14VuFdgJhAINz24D5gSK48Ez_tJKIEVJeagI",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Club World Cup: PSG stunned by Brazilian champions Botafogo",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c4geg45kn11t",
+          "source": "BBC"
+        },
+        {
+          "title": "2025 FIFA Club World Cup prize money list, details — How much will each club make?",
+          "snippet": "",
+          "url": "https://www.nbcsports.com/soccer/news/2025-fifa-club-world-cup-prize-money-list-details-how-much-will-each-club-make",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Brazil international Igor Jesus leads Botafogo to stunning win over PSG, as the Copa Libertadores holders edge the 2025 UCL champions in Club World Cup group stage",
+          "snippet": "",
+          "url": "https://www.goal.com/en/lists/brazil-igor-jesus-botafogo-psg-copa-libertadores-2025-uefa-champions-league-winners-conmebol-ucl/blt4dca5bdddafe4bd1",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,10 +198,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "FIFA Club World Cup: How can Messi and Inter Miami qualify for Round of 16 after win vs Porto?",
+          "title": "Inter Miami beat Porto 2-1: FIFA Club World Cup – as it happened",
           "snippet": "",
-          "url": "https://sportstar.thehindu.com/football/inter-miami-fifa-club-world-cup-2025-qualification-scenarios-can-messi-reach-next-round-latest-updates/article69714833.ece",
-          "source": "Sportstar"
+          "url": "https://www.aljazeera.com/sports/liveblog/2025/6/19/live-inter-miami-vs-porto-fifa-club-world-cup",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,34 +239,6 @@
           "snippet": "",
           "url": "https://www.markets.com/research/rivian-stock-price-analysis-why-now-is-a-good-time-to-buy-rivian-stock",
           "source": "Markets.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "f22 raptor",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 19 Jun 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3N58kmxR91X0yl5QjMI39x8_J91c-SjyCgSB-AB_2qLbl2ehkabEMUaMJKQE",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "If Trump Joins Israel-Iran Conflict, U.S. Troops in Mideast Could Be Vulnerable",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/18/world/middleeast/us-troops-middle-east-iran.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Middle East Aircraft Carrier Commitment Keeps Pressure on U.S. Fleet, Deployment Data Shows",
-          "snippet": "",
-          "url": "https://news.usni.org/2025/06/18/middle-east-aircraft-carrier-commitment-keeps-pressure-on-u-s-fleet-deployment-data-shows",
-          "source": "USNI News"
-        },
-        {
-          "title": "A look at US military bases in the Middle East as Iran threatens strikes",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/a-look-at-us-military-bases-in-the-middle-east-as-iran-threatens-strikes/",
-          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
