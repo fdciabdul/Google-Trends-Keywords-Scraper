@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "2025-06-20 18:50:13",
+  "lastUpdate": "2025-06-20 18:57:29",
   "data": [
     {
       "title": "have i been pwned",
       "trafficCount": "500+",
       "pubDate": "Fri, 20 Jun 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzAckU25qQkrGas5S9JYxuxlAdAyH5RPTlSyhiHN12HcTjjCY60yURQQ43gU8",
-      "pictureSource": "BleepingComputer",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3vf6lZessO707i4U4xrjlEeDw_MTxEM6eIgj3SwZV76pi3hqtYgmruWpHSEQ",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "No, the 16 billion credentials leak is not a new data breach",
+          "title": "Billions of login credentials have been leaked online, Cybernews researchers say",
           "snippet": "",
-          "url": "https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/",
-          "source": "BleepingComputer"
+          "url": "https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed",
+          "source": "AP News"
         },
         {
           "title": "A massive trove of 16 billion stolen passwords was discovered — here's what to do",
@@ -21,10 +21,10 @@
           "source": "Yahoo"
         },
         {
-          "title": "Billions of login credentials have been leaked online, Cybernews researchers say",
+          "title": "16 billion passwords exposed in record-breaking data breach: are you affected?",
           "snippet": "",
-          "url": "https://apnews.com/article/large-login-leak-cybernews-google-apple-meta-2a758a40c398b0a68fb2371a522f70ed",
-          "source": "AP News"
+          "url": "https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/",
+          "source": "Cybernews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "ilta",
       "trafficCount": "100+",
       "pubDate": "Fri, 20 Jun 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTu6qOq0YnuyFq-R5-fq2ti2Duf9mnztIRz6LTuDELRGGkKyRBiAsEWe2-kbI",
-      "pictureSource": "mtvuutiset.fi",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBcw2lIUhjb4KQlCBEINLfSba1csH0p6fWtn0nj-KCKECfbK1Gz_omMQzkb0c",
+      "pictureSource": "Ilta-Sanomat",
       "relatedSearch": [
+        {
+          "title": "Tämän sillan ylittämisellä on kova hinta – tuttu suomalaisille",
+          "snippet": "",
+          "url": "https://www.is.fi/autot/art-2000011311065.html",
+          "source": "Ilta-Sanomat"
+        },
         {
           "title": "Therese Johaugilta uutta tietoa – arvokisauran huipennusta edelsi takaisku: \"Repi minua\"",
           "snippet": "",
@@ -75,12 +81,34 @@
           "snippet": "",
           "url": "https://www.is.fi/maastohiihto/art-2000011315140.html",
           "source": "Ilta-Sanomat"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "komiat",
+      "trafficCount": "5000+",
+      "pubDate": "Fri, 20 Jun 2025 09:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyPqE2oaUM8PdALeUH6G1vg_Vr3m7AEQwMbEt73hbRS9jaUVUqYZhAH9v-XZU",
+      "pictureSource": "HS.fi",
+      "relatedSearch": [
+        {
+          "title": "Lavatanssit | Uuden ajan iskelmäyhtye Komiat on tavoittanut uudet sukupolvet Tiktokissa",
+          "snippet": "",
+          "url": "https://www.hs.fi/kulttuuri/art-2000011303598.html",
+          "source": "HS.fi"
         },
         {
-          "title": "Aaton lämpökeskus yllätti meteorologin – näin sateet liikkuvat juuri nyt",
+          "title": "Katsojat toivoivat muutosta Ylen juhannus­ohjelmaan – Ei tule",
           "snippet": "",
-          "url": "https://www.is.fi/kotimaa/art-2000011310466.html",
-          "source": "Ilta-Sanomat"
+          "url": "https://www.iltalehti.fi/tv-ja-leffat/a/96830c01-dccc-4dd2-abf8-c87b741aa0e9",
+          "source": "Iltalehti"
+        },
+        {
+          "title": "Vihdoinkin lavatansseja tv:ssä - Juhannuksena tanssitaan, bändeinä Yölintu ja Komiat!",
+          "snippet": "",
+          "url": "https://www.suomi24.fi/viihde/vihdoinkin-lavatansseja-tv-ssa-juhannuksena-tanssitaan-bandeina-yolintu-ja-komiat",
+          "source": "Suomi24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.aamulehti.fi/urheilu/art-2000011313932.html",
           "source": "Aamulehti"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "flightradar",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 19 Jun 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8SujFoGH3XoMsRkAVV_sre73IeKA3tHnlno47Db8qJHI9wRweYfQRuKbohPY",
-      "pictureSource": "Fox Business",
-      "relatedSearch": [
-        {
-          "title": "Gordon Chang sounds alarm on suspicious Chinese cargo flights reported near Iranian airspace",
-          "snippet": "",
-          "url": "https://www.foxbusiness.com/media/gordon-chang-sounds-alarm-suspicious-chinese-cargo-flights-reported-near-iranian-airspace",
-          "source": "Fox Business"
-        },
-        {
-          "title": "Chinese flights to Iran likely for evacuations, says Gen. Keane",
-          "snippet": "",
-          "url": "https://www.foxnews.com/video/6374625084112",
-          "source": "Fox News"
-        },
-        {
-          "title": "China sends mystery transport planes into Iran",
-          "snippet": "",
-          "url": "https://www.telegraph.co.uk/world-news/2025/06/17/china-sends-mystery-transport-planes-into-iran/",
-          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
