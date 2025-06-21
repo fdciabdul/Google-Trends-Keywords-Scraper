@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-06-21 14:51:16",
+  "lastUpdate": "2025-06-21 14:58:05",
   "data": [
     {
       "title": "prevoz anikó",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOfCL_FHiy7fQzsqqQj4hYM1ev25SCV4QE57WziUhKRV80PkdPvOkArQdiW8",
-      "pictureSource": "Népszava",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzLayOpEtsRmNYOoJKkw7J__-sbQH24kj6ynRdf6IX_di-qR2HLu8Cxhm-kQw",
+      "pictureSource": "Telex",
       "relatedSearch": [
-        {
-          "title": "Navracsics Tibornak a felesége kommentben szólt, hogy már nem méltó a keresztény értékek hiteles képviseletére",
-          "snippet": "",
-          "url": "https://nepszava.hu/3284470_navracsicsne-prevoz-aniko-navracsics-tibor-kereszteny-ertekek-kdnp-fidesz",
-          "source": "Népszava"
-        },
         {
           "title": "Navracsics felesége szerint a miniszter nem méltó arra, hogy a keresztény értékeket hitelesen képviselje",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://444.hu/2025/06/21/navracsics-felesege-azt-uzente-a-miniszternek-hogy-nem-melto-a-kereszteny-ertekek-hiteles-kepviseletere",
           "source": "444"
+        },
+        {
+          "title": "Navracsicsné a férjének: Őszintén szeretnénk, ha újra méltóvá válhatnál arra, hogy a keresztény értékek hiteles képviselőjeként vehess részt a közéletben",
+          "snippet": "",
+          "url": "https://hvg.hu/elet/20250621_Navracsics-felesege-a-ferjenek-Oszinten-szeretnenk-ha-ujra-meltova-valhatnal-arra-hogy-a-kereszteny-ertekek-hiteles-kepviselojekent-vehess-reszt-a-kozeletben",
+          "source": "| hvg.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "motoros baleset",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 20 Jun 2025 23:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxqXAwMP7RSqmAjYtPyXQV3RoWXQe7uvw9CkKmXYaWJICyrhA7PV5PJhj-9ts",
-      "pictureSource": "Infostart",
-      "relatedSearch": [
-        {
-          "title": "Egy másodperc alatt megtörtént a tragédia – fedélzeti kamera is rögzítette az esetet",
-          "snippet": "",
-          "url": "https://infostart.hu/belfold/2025/06/20/egy-masodperc-alatt-megtortent-a-tragedia-fedelzeti-kamera-is-rogzitette-az-esetet",
-          "source": "Infostart"
-        },
-        {
-          "title": "Autó: Tragikus motoros balesetet rögzített egy autó fedélzeti kamerája Budapesten",
-          "snippet": "",
-          "url": "https://hvg.hu/cegauto/20250620_tragikus-motoros-baleset-video",
-          "source": "| hvg.hu"
-        },
-        {
-          "title": "Brutális motorosbaleset Soroksáron, mentőhelikopter érkezett a sérültért – helyszíni fotókkal",
-          "snippet": "",
-          "url": "https://www.hirstart.hu/hk/20250620_brutalis_motorosbaleset_soroksaron_mentohelikopter_erkezett_a_serultert_helyszini_fotokk",
-          "source": "Hírstart"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "vonatinfo",
       "trafficCount": "2000+",
       "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
@@ -114,23 +86,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hochstein györgy baleset",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxqXAwMP7RSqmAjYtPyXQV3RoWXQe7uvw9CkKmXYaWJICyrhA7PV5PJhj-9ts",
+      "pictureSource": "Infostart",
+      "relatedSearch": [
+        {
+          "title": "Egy másodperc alatt megtörtént a tragédia – fedélzeti kamera is rögzítette az esetet",
+          "snippet": "",
+          "url": "https://infostart.hu/belfold/2025/06/20/egy-masodperc-alatt-megtortent-a-tragedia-fedelzeti-kamera-is-rogzitette-az-esetet",
+          "source": "Infostart"
+        },
+        {
+          "title": "Autó: Tragikus motoros balesetet rögzített egy autó fedélzeti kamerája Budapesten",
+          "snippet": "",
+          "url": "https://hvg.hu/cegauto/20250620_tragikus-motoros-baleset-video",
+          "source": "| hvg.hu"
+        },
+        {
+          "title": "Brutális motorosbaleset Soroksáron, mentőhelikopter érkezett a sérültért – helyszíni fotókkal",
+          "snippet": "",
+          "url": "https://www.hirstart.hu/hk/20250620_brutalis_motorosbaleset_soroksaron_mentohelikopter_erkezett_a_serultert_helyszini_fotokk",
+          "source": "Hirstart"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nyári napforduló",
       "trafficCount": "2000+",
       "pubDate": "Fri, 20 Jun 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP9egMJt_qJezG5hY5w7vTHL9tOVvhA_koj4E-bZW6sDXIVACLzLhyxSu3_zk",
-      "pictureSource": "444",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuQ9F0hkw2q4vNcAczrTJFXgER5hpNYmnYGtLQ7pXYVw7uRSoD782sMb43yMs",
+      "pictureSource": "Ripost",
       "relatedSearch": [
-        {
-          "title": "Szombaton napforduló, hétfőtől kánikula",
-          "snippet": "",
-          "url": "https://444.hu/2025/06/20/szombaton-napfordulo-hetfotol-kanikula",
-          "source": "444"
-        },
         {
           "title": "Óriási átalakulást hoz ennek a 3 csillagjegynek a nyári napforduló",
           "snippet": "",
           "url": "https://ripost.hu/ezo/2025/06/nyari-napfordulo-3-csillagjegynek-atalakula",
           "source": "Ripost"
+        },
+        {
+          "title": "Szombaton napforduló, hétfőtől kánikula",
+          "snippet": "",
+          "url": "https://444.hu/2025/06/20/szombaton-napfordulo-hetfotol-kanikula",
+          "source": "444"
         },
         {
           "title": "Jön a nyári napforduló – innentől kezdve rövidülnek majd a nappalok",
@@ -189,10 +189,10 @@
           "source": "BILD"
         },
         {
-          "title": "\"Ein bisschen mehr Provokation von dem einen oder anderen\": Sieg des FC Bayern München gegen die Boca Juniors von zahlreichen Sticheleien begleitet",
+          "title": "\"Ich habe nach dem Spiel mit Jamal gesprochen\"",
           "snippet": "",
-          "url": "https://www.spox.com/fussball/listen/ein-bisschen-mehr-provokation-von-dem-einen-oder-anderen-sieg-des-fc-bayern-muenchen-gegen-die-boca-juniors-von-zahlreichen-sticheleien-begleitet/bltc4afcdec97cc1d59",
-          "source": "SPOX"
+          "url": "https://www.sport1.de/tv-video/video/kompany-ich-habe-nach-dem-spiel-mit-jamal-gesprochen__7b64f6c2-dab9-4d2c-9105-2bf8efcd7db3",
+          "source": "SPORT1"
         }
       ],
       "link": "https://imtaqin.id/"
