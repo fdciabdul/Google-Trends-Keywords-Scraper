@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-21 10:45:01",
+  "lastUpdate": "2025-06-21 10:52:05",
   "data": [
     {
       "title": "múzeumok éjszakája",
@@ -30,9 +30,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "motoros baleset",
+      "title": "vonatinfo",
       "trafficCount": "1000+",
-      "pubDate": "Fri, 20 Jun 2025 23:20:00 -0700",
+      "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyE4uFVKaKYMTzGmZthTmV1R-FheHh3McR0NwvwMehZKTKb4I8JZIG4E7SFw",
+      "pictureSource": "Telex",
+      "relatedSearch": [
+        {
+          "title": "Megszűnik a Vonatinfó, mától nehezebb látni, melyik vonat késik",
+          "snippet": "",
+          "url": "https://telex.hu/belfold/2025/06/21/vonatinfo-mav-megszunes-emma",
+          "source": "Telex"
+        },
+        {
+          "title": "Vitézy: Lázár tényleg azt hiszi, hogy ettől majd elfelejtik neki a rombolást?",
+          "snippet": "",
+          "url": "https://www.economx.hu/belfold/vitezy-david-mav-lazar-janos-keses-emma-vonatinfo.811373.html",
+          "source": "Economx.hu"
+        },
+        {
+          "title": "Leállították a Vonatinfót, amivel valós időben követni lehetne a vonatok késését",
+          "snippet": "",
+          "url": "https://24.hu/belfold/2025/06/21/vonatinfo-mav-leallas-vonat-kesesvitezy-david/",
+          "source": "24.hu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hochstein györgy baleset",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxqXAwMP7RSqmAjYtPyXQV3RoWXQe7uvw9CkKmXYaWJICyrhA7PV5PJhj-9ts",
       "pictureSource": "Infostart",
       "relatedSearch": [
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.hirstart.hu/hk/20250620_brutalis_motorosbaleset_soroksaron_mentohelikopter_erkezett_a_serultert_helyszini_fotokk",
           "source": "Hirstart"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vonatinfo",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyE4uFVKaKYMTzGmZthTmV1R-FheHh3McR0NwvwMehZKTKb4I8JZIG4E7SFw",
-      "pictureSource": "Telex",
-      "relatedSearch": [
-        {
-          "title": "Megszűnik a Vonatinfó, mától másik térképes felületen lehet követni, merre járnak a vonatok",
-          "snippet": "",
-          "url": "https://telex.hu/belfold/2025/06/21/vonatinfo-mav-megszunes-emma",
-          "source": "Telex"
-        },
-        {
-          "title": "Vitézy: Lázár tényleg azt hiszi, hogy ettől majd elfelejtik neki a rombolást?",
-          "snippet": "",
-          "url": "https://www.economx.hu/belfold/vitezy-david-mav-lazar-janos-keses-emma-vonatinfo.811373.html",
-          "source": "Economx.hu"
-        },
-        {
-          "title": "Leállították a Vonatinfót, amivel valós időben követni lehetne a vonatok késését",
-          "snippet": "",
-          "url": "https://24.hu/belfold/2025/06/21/vonatinfo-mav-leallas-vonat-kesesvitezy-david/",
-          "source": "24.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,9 +245,9 @@
           "source": "N-TV"
         },
         {
-          "title": "Ultimatives Rätsel, Katastrophe, Volltreffer, verkannte Legende: So schlugen sich die 100-Millionen-Euro-Männer vor Florian Wirtz",
+          "title": "\"FC Bayern blamiert\": Englische Medien verhöhnen den Rekordmeister nach gescheitertem Transfer von Florian Wirtz",
           "snippet": "",
-          "url": "https://www.spox.com/fussball/listen/ultimatives-raetsel-katastrophe-volltreffer-verkannte-legende-so-schlugen-sich-die-100-millionen-euro-maenner-vor-florian-wirtz/blt6b25de68734c3b70",
+          "url": "https://www.spox.com/fussball/news/fc-bayern-blamiert-englische-medien-verhoehnen-den-rekordmeister-nach-gescheitertem-transfer-von-florian-wirtz/blt98c31764cb9a3e1b",
           "source": "SPOX"
         }
       ],
