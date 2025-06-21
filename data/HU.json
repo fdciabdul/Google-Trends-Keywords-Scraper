@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-21 09:39:39",
+  "lastUpdate": "2025-06-21 09:47:01",
   "data": [
     {
       "title": "múzeumok éjszakája",
@@ -30,6 +30,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "vonatinfo",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyE4uFVKaKYMTzGmZthTmV1R-FheHh3McR0NwvwMehZKTKb4I8JZIG4E7SFw",
+      "pictureSource": "Telex",
+      "relatedSearch": [
+        {
+          "title": "Megszűnik a Vonatinfó, mától másik térképes felületen lehet követni, merre járnak a vonatok",
+          "snippet": "",
+          "url": "https://telex.hu/belfold/2025/06/21/vonatinfo-mav-megszunes-emma",
+          "source": "Telex"
+        },
+        {
+          "title": "Vitézy: Lázár tényleg azt hiszi, hogy ettől majd elfelejtik neki a rombolást?",
+          "snippet": "",
+          "url": "https://www.economx.hu/belfold/vitezy-david-mav-lazar-janos-keses-emma-vonatinfo.811373.html",
+          "source": "Economx.hu"
+        },
+        {
+          "title": "Leállították a Vonatinfót, amin keresztül követni lehetett a vonatok mozgását",
+          "snippet": "",
+          "url": "https://444.hu/2025/06/21/leallitottak-a-vonatinfot-amin-keresztul-kovetni-lehetett-a-vonatok-mozgasat",
+          "source": "444"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "hochstein györgy baleset",
       "trafficCount": "1000+",
       "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://ripost.hu/nino/2025/06/hochstein-gyorgy-balesete-megrazta-a-kozosseget",
           "source": "Ripost"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vonatinfo",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 20 Jun 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyE4uFVKaKYMTzGmZthTmV1R-FheHh3McR0NwvwMehZKTKb4I8JZIG4E7SFw",
-      "pictureSource": "Telex",
-      "relatedSearch": [
-        {
-          "title": "Megszűnik a Vonatinfó, mától másik térképes felületen lehet követni, merre járnak a vonatok",
-          "snippet": "",
-          "url": "https://telex.hu/belfold/2025/06/21/vonatinfo-mav-megszunes-emma",
-          "source": "Telex"
-        },
-        {
-          "title": "Gazdaság: MÁV: bővülnek és egységesülnek az utastájékoztató térképek, online adatbázisok",
-          "snippet": "",
-          "url": "https://hvg.hu/gazdasag/20250621_MAV-bovulnek-es-egysegesulnek-az-utastajekoztato-terkepek-online-adatbazisok",
-          "source": "| hvg.hu"
-        },
-        {
-          "title": "Vitézy: Lázár tényleg azt hiszi, hogy ettől majd elfelejtik neki a rombolást?",
-          "snippet": "",
-          "url": "https://www.economx.hu/belfold/vitezy-david-mav-lazar-janos-keses-emma-vonatinfo.811373.html",
-          "source": "Economx.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +115,7 @@
     },
     {
       "title": "vékony csongor",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 20 Jun 2025 18:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs12_VBQlu82t7QN5U_fKijtEx0MITlmVnWTsV6R4YRr_dnEf9bsCdNrcJrRU",
       "pictureSource": "444",
@@ -229,20 +229,20 @@
       "title": "florian wirtz",
       "trafficCount": "100+",
       "pubDate": "Fri, 20 Jun 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUxl9mXbrTvCl0NvGNyqkBcr_8qnUjvT8DND49wwc8GQGusH0eak5zL5x6sO8",
-      "pictureSource": "sport.ORF.at",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXniMfYxltXkmrRM_IAROMHPCAoZcSNnKt8mKK9IA-jqqXMz6dMAuqf5UU2DQ",
+      "pictureSource": "BILD",
       "relatedSearch": [
-        {
-          "title": "Fußball: Wirtz-Wechsel zu Liverpool bricht Rekorde",
-          "snippet": "",
-          "url": "https://sport.orf.at/stories/3142624",
-          "source": "sport.ORF.at"
-        },
         {
           "title": "Florian Wirtz über seinen Wechsel: Darum gehe ich wirklich zum FC Liverpool",
           "snippet": "",
           "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-florian-wirtz-erklaert-darum-gehe-ich-wirklich-zum-fc-liverpool-6855ade79725c2004ffc1c81",
           "source": "BILD"
+        },
+        {
+          "title": "Fußball: Wirtz-Wechsel zu Liverpool bricht Rekorde",
+          "snippet": "",
+          "url": "https://sport.orf.at/stories/3142624",
+          "source": "sport.ORF.at"
         },
         {
           "title": "Der teuerste Rookie in der Geschichte der Premier League enthüllt",
