@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-06-21 04:23:38",
+  "lastUpdate": "2025-06-21 04:36:34",
   "data": [
+    {
+      "title": "helsingin sanomat",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 20 Jun 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjnVpgy0EOePpsMDDleoll9fsPfpDm3WSeuWYQ-bpq5sTkP7GEW5YL7EUV_7A",
+      "pictureSource": "HS.fi",
+      "relatedSearch": [
+        {
+          "title": "Juhlat | Evelia Lepineaun häissä Helsingissä ei ollut lainkaan alkoholia, ja se tuli osalle vieraista ”pienenä shokkina”",
+          "snippet": "",
+          "url": "https://www.hs.fi/helsinki/art-2000011306884.html",
+          "source": "HS.fi"
+        },
+        {
+          "title": "Ralli | Eläkeuudistus sai rallilegenda Simo Lampisen palaamaan Hampurista Vantaalle",
+          "snippet": "",
+          "url": "https://www.hs.fi/urheilu/art-2000011282087.html",
+          "source": "HS.fi"
+        },
+        {
+          "title": "IS: Henkilöstö syyttää Suomen Portugalin-suurlähettilästä häirinnästä ja epäasiallisesta käytöksestä",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20168575",
+          "source": "Yle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Fri, 20 Jun 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTljqe75aeCA-B5m0B_T7NuwuhriCb0DV_MV1RIj-KRtgeq-YfvdtYHYhUFHQ",
-      "pictureSource": "The Washington Post",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhqHHFNu8dfoCtUBVtJbxr3qrn4G31Qmz-inmf5KbKSoZ-3K7Gv1P3dNfQ8cE",
+      "pictureSource": "Valley News Live",
       "relatedSearch": [
         {
-          "title": "Maps show the cities about to experience extreme humidity and heat",
+          "title": "FIRST ALERT: Significant severe thunderstorm threat tonight",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/weather/2025/06/17/extreme-humidity-heat-city-forecast-maps/",
-          "source": "The Washington Post"
+          "url": "https://www.valleynewslive.com/2025/06/20/first-alert-significant-severe-thunderstorm-threat-tonight-2/",
+          "source": "Valley News Live"
         },
         {
-          "title": "Heat dome will blanket much of the US, with worrisome temperatures in Midwest",
+          "title": "MN weather: Storms north of Twin Cities developing late Friday",
           "snippet": "",
-          "url": "https://apnews.com/article/heat-dome-index-humidity-extreme-temperatures-e42735a682f43ab29ec3367472f19910",
-          "source": "AP News"
+          "url": "https://www.fox9.com/weather/mn-weather-storms-june-20-2025",
+          "source": "FOX 9 Minneapolis-St. Paul"
         },
         {
-          "title": "Iowa weather: Thunderstorms move out, heat moves in",
+          "title": "Overnight derecho with 105 mph winds possible in Minnesota",
           "snippet": "",
-          "url": "https://www.kcci.com/article/iowa-weather-heatwave-heat-dome-summer-safety-forecast/65114671",
-          "source": "KCCI"
+          "url": "https://bringmethenews.com/minnesota-weather/overnight-derecho-with-105-mph-winds-possible-in-minnesota",
+          "source": "Bring Me The News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +89,28 @@
       "title": "yle uutiset",
       "trafficCount": "200+",
       "pubDate": "Fri, 20 Jun 2025 19:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG6Fx3vvUSfJFoXByFKZFtheYx2K1thJCrFvGBZcXYW_EUf3SOj1tiUgioqZs",
+      "pictureSource": "Yle",
+      "relatedSearch": [
+        {
+          "title": "Tämä kymmenen kuvan testi todistaa, oletko ilmiömäisen hyvä Suomen maantieteessä",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20168449",
+          "source": "Yle"
+        },
+        {
+          "title": "Trump: Yhdysvaltain ei tarvitse nostaa puolustusmenojaan Naton tavoitetasolle",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20168892",
+          "source": "Yle"
+        },
+        {
+          "title": "Espanja ei aio taipua Trumpille",
+          "snippet": "",
+          "url": "https://www.is.fi/ulkomaat/art-2000011314961.html",
+          "source": "Ilta-Sanomat"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -126,9 +173,15 @@
       "title": "flamengo vs chelsea",
       "trafficCount": "100+",
       "pubDate": "Fri, 20 Jun 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgzhBs39N9msub58zmEv_kMKFhrlYYgoWtZsI-3obSPYSULxCCN__jW1C42wI",
-      "pictureSource": "Olympics.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3kddyXvjFohkvHc1t7iuqVKvNGrm5Y7ABy9XFYdB2oBh_-4Qr7fGz6q7oJ4Q",
+      "pictureSource": "CNN Brasil",
       "relatedSearch": [
+        {
+          "title": "Chelsea \"aprende lição\": veja repercussão da vitória do Flamengo no Mundial",
+          "snippet": "",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/chelsea-aprende-licao-veja-repercussao-da-vitoria-do-flamengo-no-mundial/",
+          "source": "CNN Brasil"
+        },
         {
           "title": "Mundial de Clubes 2025: chaveamento e classificados ao mata-mata",
           "snippet": "",
@@ -136,16 +189,10 @@
           "source": "Olympics.com"
         },
         {
-          "title": "Jogo do Flamengo hoje com o Chelsea no Mundial de Clubes: que horas é, onde assistir e escalação",
+          "title": "Flamengo x Chelsea no Mundial de Clubes: onde assistir ao vivo, horário e escalação",
           "snippet": "",
           "url": "https://www.estadao.com.br/esportes/futebol/flamengo-x-chelsea-no-mundial-de-clubes-onde-assistir-ao-vivo-horario-e-escalacao-npres/",
           "source": "Estadão"
-        },
-        {
-          "title": "Imprensa internacional destaca: \"Flamengo amassa o Chelsea\"; veja repercussão",
-          "snippet": "",
-          "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/06/20/imprensa-internacional-destaca-flamengo-amassa-o-chelsea-veja-repercussao.ghtml",
-          "source": "GE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +277,6 @@
           "snippet": "",
           "url": "https://collider.com/harrison-ford-genuine-masterpieces/",
           "source": "Collider"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sean connery",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 20 Jun 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFT8ECh8k3vTlTtTVxJw6q8Z8e6fNm3-QhWCtUxClSk19hPzW3FD8NxUOWPKw",
-      "pictureSource": "BroadwayWorld.com",
-      "relatedSearch": [
-        {
-          "title": "Edinburgh International Film Festival 2025 to Host Premiere of NFTS Sean Connery Talent Lab Short Films",
-          "snippet": "",
-          "url": "https://www.broadwayworld.com/scotland/article/Edinburgh-International-Film-Festival-2025-to-Host-Premiere-of-NFTS-Sean-Connery-Talent-Lab-Short-Films-20250618",
-          "source": "BroadwayWorld.com"
-        },
-        {
-          "title": "The 6 Scottish films created by Sean Connery talent lab to premiere at Edinburgh International Film Festival",
-          "snippet": "",
-          "url": "https://www.scotsman.com/arts-and-culture/edinburgh-festivals/the-6-scottish-films-created-by-sean-connery-talent-lab-to-premiere-at-edinburgh-international-film-festival-5182522",
-          "source": "The Scotsman"
-        },
-        {
-          "title": "Short films created by Sean Connery Talent Lab to premiere at EIFF",
-          "snippet": "",
-          "url": "https://jerseyeveningpost.com/morenews/entertainment/2025/06/18/short-films-created-by-sean-connery-talent-lab-to-premiere-at-eiff/",
-          "source": "Jersey Evening Post"
         }
       ],
       "link": "https://imtaqin.id/"
