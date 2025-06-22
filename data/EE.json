@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-06-22 11:19:48",
+  "lastUpdate": "2025-06-22 11:28:18",
   "data": [
     {
       "title": "cnn",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Jun 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG3_50DiRxTsQfFjdX1-CcXxNVatToIYM7m_M3BUtCdxZLUMezKCki0NcaXqY",
-      "pictureSource": "Australian Broadcasting Corporation",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT--9W4YRURt1-fvb7JefGrNOGrDvusQ7FwSypjzqGy51_4obD6HgWBD1vgCRQ",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Here’s What to Know About Fordo, Iran’s Best-Protected Nuclear Site",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/22/world/middleeast/fordo-iran-nuclear-site.html",
+          "source": "The New York Times"
+        },
         {
           "title": "B-2 stealth bombers have hit three Iranian nuclear sites. This is what we know about the aircraft",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.washingtonpost.com/world/2025/06/21/israel-iran-live-updates-us-trump/",
           "source": "The Washington Post"
-        },
-        {
-          "title": "Fordow: What we know about Iran's secretive 'nuclear mountain' - and why it was so well protected",
-          "snippet": "",
-          "url": "https://news.sky.com/story/fordow-what-we-know-about-irans-secretive-nuclear-mountain-and-how-israel-might-try-to-destroy-it-13385834",
-          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -79,20 +79,20 @@
       "title": "haveibeenpwned",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Jun 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5tqRb2-U_oW1rxmiqGD0aOHHqqJAOUvk_z_s0TRsUdq1eisRMvBk0F-4T4eA",
-      "pictureSource": "Cybernews",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzAckU25qQkrGas5S9JYxuxlAdAyH5RPTlSyhiHN12HcTjjCY60yURQQ43gU8",
+      "pictureSource": "BleepingComputer",
       "relatedSearch": [
-        {
-          "title": "16 billion passwords exposed in record-breaking data breach: are you affected?",
-          "snippet": "",
-          "url": "https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/",
-          "source": "Cybernews"
-        },
         {
           "title": "No, the 16 billion credentials leak is not a new data breach",
           "snippet": "",
           "url": "https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/",
           "source": "BleepingComputer"
+        },
+        {
+          "title": "16 billion passwords exposed in record-breaking data breach: are you affected?",
+          "snippet": "",
+          "url": "https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/",
+          "source": "Cybernews"
         },
         {
           "title": "Internet users advised to change passwords after 16bn logins exposed",
