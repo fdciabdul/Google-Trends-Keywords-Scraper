@@ -1,13 +1,56 @@
 {
-  "lastUpdate": "2025-06-22 02:20:32",
+  "lastUpdate": "2025-06-22 03:02:57",
   "data": [
+    {
+      "title": "telemundo en vivo",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 19:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fox news",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 18:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTMeWE2TLNQ-C3mpBhuD6-tlNuKlovUht29xtmGLOvseuR0zI33ZjoTh1v8cs",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "A split forms in MAGA world as Trump weighs next steps on Iran, with some top stars rebuking him",
+          "snippet": "",
+          "url": "https://apnews.com/article/trump-iran-maga-tucker-carlson-charlie-kirk-409c839e4eadf2a39a1b957213379b08",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump risks MAGA base if he breaks pledge not to “start new wars”",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/video/quotable/2025/6/20/trump-risks-maga-base-if-he-breaks-pledge-not-to-start-new",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Will the U.S. get involved in military action with Iran?",
+          "snippet": "",
+          "url": "https://www.npr.org/2025/06/20/1254460242/podcast-us-iran",
+          "source": "NPR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "b2 bomber",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Jun 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlniWfG2k6Yl2-O6jg2MZl1ANqGXTgApmjf167Q1g-XnygnLKzxLRuIGKw440",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQevmJJHawk4hprBtI-3G53VmmXI0uSN3NHq-z3TLfiZhQG-0E_bFeD1xmJkuM",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Live updates: Trump announces air strikes on nuclear sites in Iran as conflict enters second week",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-21-25-intl-hnk",
+          "source": "CNN"
+        },
         {
           "title": "U.S. Moves B-2 Bombers as Israel and Iran Trade Strikes: Live Updates",
           "snippet": "",
@@ -19,12 +62,6 @@
           "snippet": "",
           "url": "https://www.nbcnews.com/world/middle-east/live-blog/israel-iran-conflict-rcna214241",
           "source": "NBC News"
-        },
-        {
-          "title": "B-2 stealth bombers appear to be on the move hours before Trump expected at White House",
-          "snippet": "",
-          "url": "https://www.foxnews.com/world/b-2-stealth-bombers-appear-move-hours-before-trump-expected-white-house",
-          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +70,54 @@
       "title": "iran",
       "trafficCount": "5000+",
       "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-Aeo68zp-AlrAVVIeTAR6y62AT-AgeffQjt5kjBsBW9u_lyJKGP59DR_O4Uk",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQevmJJHawk4hprBtI-3G53VmmXI0uSN3NHq-z3TLfiZhQG-0E_bFeD1xmJkuM",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Live updates: Trump announces air strikes on nuclear sites in Iran as conflict enters second week",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-21-25-intl-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "US steps into war between Israel and Iran, strikes 3 Iranian nuclear sites",
+          "snippet": "",
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-talks-geneva-news-06-21-2025-a7b0cdaba28b5817467ccf712d214579",
+          "source": "AP News"
+        },
         {
           "title": "Live Updates: U.S. Enters War Against Iran, Bombing Key Nuclear Sites",
           "snippet": "",
           "url": "https://www.nytimes.com/live/2025/06/21/world/iran-israel-trump",
           "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 21 Jun 2025 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfQ2JbtbMoJ5noA748CKlvfIAO3T1vqjpmHPIFP1eEsOubuxLPAbQbWiu8YU",
+      "pictureSource": "NBC News",
+      "relatedSearch": [
+        {
+          "title": "Iran not sure it can trust America after Israeli attack, Iran’s foreign minister tells NBC News",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/world/iran/iran-not-sure-can-trust-america-israeli-attack-irans-foreign-minister-rcna214139",
+          "source": "NBC News"
         },
         {
-          "title": "Trump says U.S. attacked three Iran nuclear facilities",
+          "title": "Amna Attique(@amnattique)'s insights",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/06/21/trump-israel-iran-conflict.html",
-          "source": "CNBC"
+          "url": "https://www.binance.com/en/square/post/25885628070226",
+          "source": "Binance"
         },
         {
-          "title": "US strikes 3 Iranian sites, joining Israeli air campaign against nuclear program",
+          "title": "Iran’s UN Ambassador speaks at security meeting",
           "snippet": "",
-          "url": "https://apnews.com/article/israel-iran-war-nuclear-talks-geneva-news-06-21-2025-a7b0cdaba28b5817467ccf712d214579",
-          "source": "AP News"
+          "url": "https://www.livenowfox.com/video/1662249",
+          "source": "LiveNOW from FOX"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +164,16 @@
           "source": "El Vocero de Puerto Rico"
         },
         {
+          "title": "“No es la mejor opción”: Thomas Rivera Schatz rechaza candidatura de Zayira Jordán a la presidencia de la UPR",
+          "snippet": "",
+          "url": "https://www.elnuevodia.com/noticias/gobierno/notas/no-es-la-mejor-opcion-thomas-rivera-schatz-rechaza-candidatura-de-zayira-jordan-a-la-presidencia-de-la-upr/",
+          "source": "El Nuevo Día"
+        },
+        {
           "title": "Grupos estudiantiles de la UPR repudian nombramiento de Zayira Jordan y llaman a defender la autonomía",
           "snippet": "",
           "url": "https://www.metro.pr/noticias/2025/06/21/grupos-estudiantiles-de-la-upr-repudian-nombramiento-de-zayira-jordan-y-llaman-a-defender-la-autonomia/",
           "source": "Metro Puerto Rico"
-        },
-        {
-          "title": "Junta de Gobierno de la UPR elegirá nuevo presidente de la institución",
-          "snippet": "",
-          "url": "https://wapa.tv/noticias/locales/junta-de-gobierno-de-la-upr-elegir-nuevo-presidente-de-la-instituci-n/article_95649fb2-2b4b-4e10-b573-b61f60b5fc5d.html",
-          "source": "wapa.tv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +238,15 @@
       "title": "alex cora",
       "trafficCount": "100+",
       "pubDate": "Sat, 21 Jun 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRldujtXI_Og4VvDZgCP__O9Q1bE-vlHmfk_rFSs6sw_E2OH83SHRu0P3b_KOc",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO6l6vm1VefZyXh0DXYK3CefNJR_ZuVnhkMEPSrcOjZ4SOj3VOFME2rMydwl8",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Why the Giants had to trade Kyle Harrison for Rafael Devers - The Athletic",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/6435564/2025/06/19/why-giants-traded-kyle-harrison-rafael-devers/",
+          "source": "The New York Times"
+        },
         {
           "title": "'Absolutely botched': How the Red Sox-Devers breakup got so messy",
           "snippet": "",
@@ -187,40 +258,6 @@
           "snippet": "",
           "url": "https://sports.yahoo.com/mlb/article/inside-the-absolute-s-show-that-led-to-the-boston-red-soxs-trade-of-rafael-devers-220018400.html",
           "source": "Yahoo Sports"
-        },
-        {
-          "title": "Red Sox baseball boss Breslow says Devers trade does not mean 'waving of the white flag on 2025'",
-          "snippet": "",
-          "url": "https://apnews.com/article/boston-red-sox-rafael-devers-b8b16792b949b9896c923ba3d8c70b66",
-          "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mlb standings",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 21 Jun 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRylN07JHVO_Y3yhRXVLkS3PBknxl2lKNRISkQGjWNPeWT_DewTtVa5PnWs9P4",
-      "pictureSource": "AP News",
-      "relatedSearch": [
-        {
-          "title": "Rafael Devers hits first home run for Giants against former team Red Sox",
-          "snippet": "",
-          "url": "https://apnews.com/article/giants-rafael-devers-2711cb489e46857e27042044d972aa83",
-          "source": "AP News"
-        },
-        {
-          "title": "Devers goes oppo off former team for 1st home run as a Giant",
-          "snippet": "",
-          "url": "https://www.mlb.com/news/rafael-devers-hits-first-homer-as-a-giant-against-the-red-sox",
-          "source": "MLB.com"
-        },
-        {
-          "title": "MLB: Rafael Devers gets a huge ovation and immediately responds in his Giants debut",
-          "snippet": "",
-          "url": "https://en.albat.com/thedugout/MLB-Rafael-Devers-gets-a-huge-ovation-and-immediately-responds-in-his-Giants-debut-20250617-0060.html",
-          "source": "Al Bat"
         }
       ],
       "link": "https://imtaqin.id/"
