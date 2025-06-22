@@ -1,30 +1,95 @@
 {
-  "lastUpdate": "2025-06-22 03:03:03",
+  "lastUpdate": "2025-06-22 03:37:13",
   "data": [
+    {
+      "title": "svt nyheter",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 21 Jun 2025 19:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "aftonbladet",
       "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQp3-U9et0DpNftFlMMaDSz2-rORplcKh2skTMjWuQLiACvzMELRrd7q0lUpPQ",
-      "pictureSource": "SVT Nyheter",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBjG7TK8bjm7Rwho7Qjl33H_Lv4MYR0C_lXKOr7D5M6O9QsZiPqSagBhLxT30",
+      "pictureSource": "Aftonbladet",
       "relatedSearch": [
         {
-          "title": "USA har bombat tre atomanläggningar i Iran",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/utrikes/usa-har-attackerat-iran",
-          "source": "SVT Nyheter"
-        },
-        {
-          "title": "Ayatollan planerar – för sin egen eventuella död",
-          "snippet": "",
-          "url": "https://www.svd.se/a/QM6L2V/uppgifter-irans-hogsta-ayatolla-ali-khamenei-har-utsett-tre-mojliga-eftertradare",
-          "source": "SvD"
-        },
-        {
-          "title": "USA har anfallit Iran: ”Sex enorma bunkerbomber”",
+          "title": "USA har anfallit Iran: ”Totalt utplånade”",
           "snippet": "",
           "url": "https://www.aftonbladet.se/ettan/a/mPbkV1/trump-vi-har-anfallit-iran",
           "source": "Aftonbladet"
+        },
+        {
+          "title": "FN-basen: ”Farlig eskalering”",
+          "snippet": "",
+          "url": "https://www.svd.se/a/rP6wy8/fn-basen-farlig-eskalering",
+          "source": "SvD"
+        },
+        {
+          "title": "Expert: USA riskerar dras in i utdraget krig efter attacken mot Iran",
+          "snippet": "",
+          "url": "https://www.dn.se/varlden/expert-usa-riskerar-dras-in-i-utdraget-krig/",
+          "source": "DN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 21 Jun 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvkbZipyaOa4fBI1pmJFwWYj59MeHQx4R9kVaAZCk3E7bGSRSoBlzQluWmxrk",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "US intervenes in war between Israel and Iran, striking 3 Iranian nuclear sites",
+          "snippet": "",
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-talks-geneva-news-06-21-2025-a7b0cdaba28b5817467ccf712d214579",
+          "source": "AP News"
+        },
+        {
+          "title": "World leaders react after Trump says U.S. has bombed 3 nuclear sites in Iran, including Fordo",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/06/21/world-leaders-react-after-trump-says-us-has-bombed-3-nuclear-sites-in-iran-including-fordo.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Republican Lawmakers Cheer Strike on Iran as Top Democrats Condemn It",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/21/world/middleeast/congress-iran-strike-republicans-democrats.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nyheter",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 21 Jun 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIQgg0PXw6hk2o7omQJKCPZxuJqjetNX68mIcRvcvjb0w2-KTR0AvviAX_0nc",
+      "pictureSource": "Aftonbladet",
+      "relatedSearch": [
+        {
+          "title": "Aftonbladet Direkt",
+          "snippet": "",
+          "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt",
+          "source": "Aftonbladet"
+        },
+        {
+          "title": "Explosion vid port på Håkanstorp",
+          "snippet": "",
+          "url": "https://www.sydsvenskan.se/artikel/explosion-vid-port-pa-hakanstorp/",
+          "source": "Sydsvenskan"
+        },
+        {
+          "title": "Brand vid port efter smäll i Malmö",
+          "snippet": "",
+          "url": "https://www.vk.se/2025-06-21/brand-vid-port-efter-small-i-malmo-417a8",
+          "source": "Västerbottens-Kuriren"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +108,16 @@
           "source": "Fox News"
         },
         {
-          "title": "What to know about the 3 Iranian nuclear sites that were hit by U.S. strikes",
+          "title": "Israel strikes Iran’s Isfahan nuclear site, buildings on fire in Tel Aviv",
           "snippet": "",
-          "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-3-iranian-nuclear-sites-that-were-hit-by-u-s-strikes",
-          "source": "PBS"
+          "url": "https://www.aljazeera.com/news/2025/6/21/israel-strikes-irans-isfahan-nuclear-site-buildings-on-fire-in-tel-aviv",
+          "source": "Al Jazeera"
         },
         {
-          "title": "Israel says it's preparing for the possibility of a lengthy war against Iran",
+          "title": "Israel-Iran conflict: Fresh attacks as Trump sets two-week deadline for U.S. action",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/diplomatic-breakthrough-elusive-israel-iran-041120123.html",
-          "source": "Yahoo"
+          "url": "https://www.nbcnews.com/world/middle-east/blog/israel-iran-live-updates-trump-two-week-deadline-us-action-uk-eu-talk-rcna214040",
+          "source": "NBC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,57 +151,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "cnn",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 21 Jun 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvnHO3JzapI-2wLq-luVdTDW3eO4xwda_gyvLVSFCzPQYnvvV1LSRG6yctn88",
-      "pictureSource": "The New York Times",
+      "title": "fox news",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9C5waefTNbZ9RBfv1vVVGpYOr2FebS6Ni8QNcQTaFsqmmTrfIg8MlyMrpdvA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "As U.S. Considers Using Bunker-Buster Bombs, Here’s What It Takes to Hit Iran’s Deepest Nuclear Site",
+          "title": "Pakistan plans to nominate Trump for Nobel Peace Prize",
           "snippet": "",
-          "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
-          "source": "The New York Times"
+          "url": "https://www.bbc.com/news/articles/cwyx5yw8y28o",
+          "source": "BBC"
         },
         {
-          "title": "Live updates: Trump announces air strikes on nuclear sites in Iran as conflict enters second week",
+          "title": "Pakistan to nominate Donald Trump for Nobel peace prize",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-conflict-06-21-25-intl-hnk",
-          "source": "CNN"
+          "url": "https://www.theguardian.com/us-news/2025/jun/21/pakistan-trump-nobel-prize-recommendation-india-ceasefire",
+          "source": "The Guardian"
         },
         {
-          "title": "US steps into war between Israel and Iran, strikes 3 Iranian nuclear sites",
+          "title": "\"Won't Get Nobel Prize For Stopping India-Pak War\": Trump Claims Credit Again",
           "snippet": "",
-          "url": "https://apnews.com/article/israel-iran-war-nuclear-talks-geneva-news-06-21-2025-a7b0cdaba28b5817467ccf712d214579",
-          "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "usa",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA1oQmwfZ9rlhqGIJ7cE-2nR61rDl1-JbyhapMQ6M4AogcuXi4IBKxq9PoxWA",
-      "pictureSource": "CBS News",
-      "relatedSearch": [
-        {
-          "title": "U.S. State Department has begun evacuations of Americans from Israel, Huckabee says",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/mike-huckabee-us-evacuation-americans-in-israel/",
-          "source": "CBS News"
-        },
-        {
-          "title": "US evacuates 79 staff and family from embassy in Israel as more Americans ask how to leave",
-          "snippet": "",
-          "url": "https://apnews.com/article/iran-israel-evacuation-americans-0415a2510ae58257042f0e05d2dedc93",
-          "source": "AP News"
-        },
-        {
-          "title": "Huckabee: State Department is evacuating Americans from Israel amid Iran conflict",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/news/world/2025/06/21/americans-evacuated-israel-iran-war/84302426007/",
-          "source": "USA Today"
+          "url": "https://www.ndtv.com/world-news/wont-get-nobel-prize-for-stopping-india-pakistan-war-us-president-donald-trump-claims-credit-again-8722150",
+          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +258,6 @@
           "snippet": "",
           "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2025/06/21/ufc-baku-khalil-rountree-response-magomed-ankalaev-criticism/84303561007/",
           "source": "MMA Junkie"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jack betts",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 21 Jun 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUk4kcU7dlrhSRDW3lY8-WFh6lSgWg8Y3RQjXAOwc46VPcpS9h2ZwbZy_Ehic",
-      "pictureSource": "The Hollywood Reporter",
-      "relatedSearch": [
-        {
-          "title": "Jack Betts, Actor in Spaghetti Westerns and ‘Spider-Man,’ Dies at 96",
-          "snippet": "",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/jack-betts-dead-spider-man-spaghetti-westerns-hunt-powers-1236296256/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "‘Spider-Man’ and ‘One Life to Live’ Actor Dies in His Sleep",
-          "snippet": "",
-          "url": "https://parade.com/news/spider-man-and-one-life-to-live-actor-dies-in-his-sleep",
-          "source": "Parade Magazine"
-        },
-        {
-          "title": "‘A sad day’: Actor known for role in ‘Spiderman,’ spaghetti westerns dies at 96",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/articles/sad-day-actor-known-role-191419720.html",
-          "source": "Yahoo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rafael fiziev",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-zxwdnCHar1tANlsUQsuXUMs8pF6LZIY_LrzWZWlj-GevCYLm2DAbfYncaJs",
-      "pictureSource": "MMA Fighting",
-      "relatedSearch": [
-        {
-          "title": "Ignacio Bahamondes says no judges needed vs. Rafael Fiziev, sad to lose ‘dream fight’ with Dustin Poirier",
-          "snippet": "",
-          "url": "https://www.mmafighting.com/2025/6/21/24452678/ignacio-bahamondes-says-no-judges-needed-in-rafael-fiziev-matchup-sad-dream-fight-dustin-poirier",
-          "source": "MMA Fighting"
-        },
-        {
-          "title": "UFC fan favorite snaps losing streak in high-paced Baku co-main event",
-          "snippet": "",
-          "url": "https://www.si.com/fannation/mma/news/ufc-baku-rafael-fiziev-snaps-losing-streak",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "“Fighting in Front of My People Motivates Me” – Rafael Fiziev on UFC Baku’s Historic Energy",
-          "snippet": "",
-          "url": "https://bvmsports.com/2025/06/19/fighting-in-front-of-my-people-motivates-me-rafael-fiziev-on-ufc-bakus-historic-energy/",
-          "source": "BVM Sports"
         }
       ],
       "link": "https://imtaqin.id/"

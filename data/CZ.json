@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-22 03:02:30",
+  "lastUpdate": "2025-06-22 03:36:41",
   "data": [
     {
       "title": "ct24",
@@ -33,13 +33,19 @@
       "title": "bbc",
       "trafficCount": "100+",
       "pubDate": "Sat, 21 Jun 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9hsFAoNi8GqiyjZT8EGw_KgcspVfm7MrG-I8yIgeOC1YhoOia2wbU7T5HsQE",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjWdMh-Sj6Zxpr_cDIzNYkIAmPRMDQt35JVDXVGk64pd4aarmBxZKs1-Npgg",
+      "pictureSource": "The Times of Israel",
       "relatedSearch": [
         {
-          "title": "BBC pulls Gaza medics documentary due to impartiality concerns",
+          "title": "BBC shelves Gaza documentary over impartiality concerns",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/crenz9d3181o",
+          "url": "https://www.timesofisrael.com/bbc-shelves-gaza-documentary-over-impartiality-concerns/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "BBC statement about Gaza: Doctors Under Attack",
+          "snippet": "",
+          "url": "https://www.bbc.com/mediacentre/statements/gaza-doctors-under-attack",
           "source": "BBC"
         },
         {
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.theguardian.com/world/2025/jun/20/bbc-gaza-medics-documentary-impartiality-coverage",
           "source": "The Guardian"
-        },
-        {
-          "title": "BBC shelves Gaza documentary over impartiality concerns",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/bbc-shelves-gaza-documentary-over-impartiality-concerns/",
-          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,26 @@
       "title": "cnn",
       "trafficCount": "500+",
       "pubDate": "Sat, 21 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHvKH1z6-v45MhB4Z3WBatHivlbJhFPeZibryNwWC6nLFkaOpkK8qoA09dTU",
-      "pictureSource": "NPR",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvkbZipyaOa4fBI1pmJFwWYj59MeHQx4R9kVaAZCk3E7bGSRSoBlzQluWmxrk",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "U.S. completes strikes on Iran nuclear sites, Trump says",
+          "title": "US intervenes in war between Israel and Iran, striking 3 Iranian nuclear sites",
           "snippet": "",
-          "url": "https://www.npr.org/2025/06/21/nx-s1-5441127/iran-us-strike-nuclear-trump",
-          "source": "NPR"
+          "url": "https://apnews.com/article/israel-iran-war-nuclear-talks-geneva-news-06-21-2025-a7b0cdaba28b5817467ccf712d214579",
+          "source": "AP News"
         },
         {
-          "title": "What is Iran’s Fordow nuclear site and why was a US strike needed?",
+          "title": "World leaders react after Trump says U.S. has bombed 3 nuclear sites in Iran, including Fordo",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/jun/22/what-is-irans-fordow-nuclear-site-and-why-was-a-us-strike-needed",
-          "source": "The Guardian"
+          "url": "https://www.cnbc.com/2025/06/21/world-leaders-react-after-trump-says-us-has-bombed-3-nuclear-sites-in-iran-including-fordo.html",
+          "source": "CNBC"
         },
         {
-          "title": "How to watch Trump's address to the nation at 10 p.m. ET",
+          "title": "Republican Lawmakers Cheer Strike on Iran as Top Democrats Condemn It",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/news/politics/2025/06/21/how-to-watch-trump-iran-announcement/84303563007/",
-          "source": "USA Today"
+          "url": "https://www.nytimes.com/2025/06/21/world/middleeast/congress-iran-strike-republicans-democrats.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,9 +155,9 @@
           "source": "CNN"
         },
         {
-          "title": "B-2 stealth bombers: A look at the warplanes that struck Iran",
+          "title": "Where B-2 stealth bombers' mission to strike Iran started in the U.S.",
           "snippet": "",
-          "url": "https://www.usatoday.com/picture-gallery/news/world/2025/06/21/b-2-iran-nuclear-strike/84303889007/",
+          "url": "https://www.usatoday.com/story/news/nation/2025/06/21/b2-stealth-bombers-iran-attack/84299799007/",
           "source": "USA Today"
         },
         {
@@ -239,16 +239,16 @@
           "source": "iDNES.cz"
         },
         {
-          "title": "Jiřina Bohdalová (94): Akutní operace srdce!",
-          "snippet": "",
-          "url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/816005/jirina-bohdalova-94-akutni-operace-srdce.html",
-          "source": "Blesk"
-        },
-        {
           "title": "Jiřina Bohdalová skončila v nemocnici. Musela podstoupit operaci srdce",
           "snippet": "",
           "url": "https://tn.nova.cz/zpravodajstvi/clanek/618561-jirina-bohdalova-skoncila-v-nemocnici-musela-podstoupit-operaci-srdce",
           "source": "TN.cz"
+        },
+        {
+          "title": "Jiřina Bohdalová podstoupila náročnou operaci srdce. Lékaři: Je ve skvělé kondici",
+          "snippet": "",
+          "url": "https://www.expres.cz/celebrity/bohdalova-podstoupila-operaci-srdce-zakrok-ktery-mel-prinest-ulevu.A250621_114851_dx-celebrity_bpet",
+          "source": "Expres.cz"
         }
       ],
       "link": "https://imtaqin.id/"
