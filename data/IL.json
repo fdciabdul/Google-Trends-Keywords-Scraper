@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-06-22 06:11:16",
+  "lastUpdate": "2025-06-22 06:24:53",
   "data": [
     {
       "title": "חיפה",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Jun 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa6dgJ6os0JYZnsr8Md1fLwAYaoP4mGj1PM2EcRki5AWBHxDHFt2xZjYDYjR0",
-      "pictureSource": "הארץ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3RRhMxLIK6UFVQh5JV6lF6T6EhO41Guk0Y3aFYYW1v7biiW6kpoBM7jEd4tU",
+      "pictureSource": "מיינט חיפה",
       "relatedSearch": [
+        {
+          "title": "נפילות באזור חיפה והצפון: פועלים לאיתור נפגעים",
+          "snippet": "",
+          "url": "https://haifa.mynet.co.il/local_news/article/s1ye2emr4xe",
+          "source": "מיינט חיפה"
+        },
         {
           "title": "44 נפצעו בחיפה מפגיעת טיל ששוגר מאיראן, אחד מהם במצב קשה",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "הארץ"
         },
         {
-          "title": "\"מזל שיצאתי בחיים\": פגיעות במסגד, בקונסולייה השוויצרית ובגן ילדים",
+          "title": "נפילות ונפגעים הבוקר בחיפה – ללא אזעקה",
           "snippet": "",
-          "url": "https://www.israelhayom.co.il/news/local/article/18239867",
-          "source": "www.israelhayom.com"
-        },
-        {
-          "title": "גדעון סער מזירת הפגיעה בחיפה: \"החברה הישראלית חזקה, היא תומכת במבצע שלנו באיראן\"",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1207403",
-          "source": "מעריב"
+          "url": "https://www.colbonews.co.il/haifa-news/193763/",
+          "source": "כלבו חיפה"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,25 +99,25 @@
           "source": "i24NEWS"
         },
         {
+          "title": "En direct - Proche-Orient : l'Iran tire 30 missiles sur Israël, annonce la télévision d'Etat iranienne",
+          "snippet": "",
+          "url": "https://www.cnews.fr/monde/2025-06-22/en-direct-proche-orient-liran-tire-30-missiles-sur-israel-annonce-la-television",
+          "source": "CNews"
+        },
+        {
           "title": "EN DIRECT Guerre Israël-Iran : L’Iran avertit que les attaques américaines auront des « conséquences éternelles »…",
           "snippet": "",
           "url": "https://www.20minutes.fr/monde/israel/4159769-20250622-direct-guerre-israel-iran-etats-unis-frappe-trois-sites-nucleaires-iraniens",
           "source": "20 Minutes"
-        },
-        {
-          "title": "Iran lance une attaque de drones contre Israël - 21/06",
-          "snippet": "",
-          "url": "https://www.bfmtv.com/replay-emissions/week-end-direct/video-iran-lance-une-attaque-de-drones-contre-israel-21-06_VN-202506210347.html",
-          "source": "BFMTV"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "נס ציונה",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 21 Jun 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCx7MKEJjgCJ2JOoLMp5CZbVdaaVu-SL5kW1f16YWPLORfyYLaitrhlJvJ3o",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlWXLoa97D4mFk0C0AQ-wCofkZAFaaRxz0mWy7VZKOW2G0mr62Lh-AcBz59Io",
       "pictureSource": "ynet",
       "relatedSearch": [
         {
@@ -127,16 +127,16 @@
           "source": "ynet"
         },
         {
-          "title": "לאחר התקיפה האמריקאית באיראן: מטח כבד לעבר ישראל - אזעקות בכל הארץ",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/military/Blog-1207719",
-          "source": "מעריב"
-        },
-        {
           "title": "לפחות 25 טילים שוגרו מאיראן, 17 בני אדם נפצעו מכמה נפילות בתל אביב, בחיפה ובשפלה",
           "snippet": "",
           "url": "https://www.haaretz.co.il/news/politics/2025-06-22/ty-article/00000197-95f8-d879-a5df-bff9092b0000",
           "source": "הארץ"
+        },
+        {
+          "title": "זירת הנפילה בנס ציונה - בקרבת מרכז גריאטרי של משרד הבריאות",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1207726",
+          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,21 +226,40 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "אשדוד נט",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 21 Jun 2025 21:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ערוץ 13",
       "trafficCount": "5000+",
       "pubDate": "Sat, 21 Jun 2025 21:40:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ערוץ 14",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 21 Jun 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxpitNvUMF-VeKddZfkKT6StQi5byieFHJpUGMs3bhjh4y120a0Z7URqDv2Ek",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "\"דבריו של ינון מגל ראויים לכל גינוי\": הרשות השנייה פתחה הליך הפרה נגד ערוץ 14",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/entertainment/article/hj09khwnee",
+          "source": "ynet"
+        },
+        {
+          "title": "גיא מרוז מגיב לסערה: \"אמירה אומללה; אני מתנצל\"",
+          "snippet": "",
+          "url": "https://www.srugim.co.il/1137790-%D7%92%D7%99%D7%90-%D7%9E%D7%A8%D7%95%D7%96-%D7%9E%D7%92%D7%99%D7%91-%D7%9C%D7%A1%D7%A2%D7%A8%D7%94-%D7%90%D7%9E%D7%99%D7%A8%D7%94-%D7%90%D7%95%D7%9E%D7%9C%D7%9C%D7%94-%D7%90%D7%A0%D7%99-%D7%9E",
+          "source": "סרוגים"
+        },
+        {
+          "title": "\"התבטא בגזענות\": הצעד של הרשות השנייה בעקבות התלונות נגד ינון מגל וערוץ 14",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/culture/tv/article/18234803",
+          "source": "www.israelhayom.com"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
