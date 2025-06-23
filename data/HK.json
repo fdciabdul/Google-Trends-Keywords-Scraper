@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-06-23 22:58:03",
+  "lastUpdate": "2025-06-23 23:07:05",
   "data": [
     {
       "title": "news",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTL7uJTh5sotZvxYr-KQLcCPwycUax67W0m6sv80a03O_InjKoCjAVQnL_H0",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloxmRt4bSsENIl1kNoHCQVcMLpCqyptEDtl24nJvIzppkqkuv51X9HM7PJ1g",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "What to Know About U.S. Warning to Citizens Abroad Amid Israel-Iran Conflict",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/23/travel/travel-advisory-us-citizens-iran-israel.html",
-          "source": "The New York Times"
-        },
         {
           "title": "Did President Trump have legal authority to launch Iran strikes?",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c4gkw04yze1o",
           "source": "BBC"
+        },
+        {
+          "title": "Was Trump’s Iran Attack Illegal? Presidential War Powers, Explained.",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/23/us/politics/trump-iran-war-powers-constitution.html",
+          "source": "The New York Times"
         },
         {
           "title": "How the US bombarded Iranian nuclear sites without detection",
@@ -43,16 +43,16 @@
           "source": "香港文匯網"
         },
         {
+          "title": "世冠盃巴黎聖日耳門與保地花高晉級16強",
+          "snippet": "",
+          "url": "https://hk.sports.yahoo.com/news/%E4%B8%96%E5%86%A0%E7%9B%83%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80%E8%88%87%E4%BF%9D%E5%9C%B0%E8%8A%B1%E9%AB%98%E6%99%89%E7%B4%9A16%E5%BC%B7-224619490.html",
+          "source": "Yahoo"
+        },
+        {
           "title": "世冠盃｜保地花高態勇 有力先下一城",
           "snippet": "",
           "url": "https://www.stheadline.com/football-betting/3466890/%E4%B8%96%E5%86%A0%E7%9B%83%E4%BF%9D%E5%9C%B0%E8%8A%B1%E9%AB%98%E6%85%8B%E5%8B%87-%E6%9C%89%E5%8A%9B%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E",
           "source": "星島頭條"
-        },
-        {
-          "title": "足智夏令營｜保地花高迎馬德里體育會 首名出線一定「德」",
-          "snippet": "",
-          "url": "https://www.hk01.com/article/60249521",
-          "source": "香港01"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "Yahoo"
         },
         {
-          "title": "Fred Smith, Billionaire Founder of FedEx, Is Dead at 80",
+          "title": "Frederick W. Smith, Visionary Founder of FedEx, Dies at 80",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/22/obituaries/fred-smith-billionaire-founder-of-fedex-is-dead-at-80.html",
-          "source": "The New York Times"
+          "url": "https://newsroom.fedex.com/newsroom/global-english/frederick-w-smith-visionary-founder-of-fedex-dies-at-80",
+          "source": "FedEx newsroom"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "新聞",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxwthZ8otF37nyj1wRS1KAv-kmRWFYq5ZaVZtuDoX4HQpxXE9_u2Co2wzZbik",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "トランプ氏、イランの報復は「とても弱かった」 「平和の時だ」とも強調（毎日新聞）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/3d7420993419776129cb2b3337753b3cceedd250",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "イラン・フォルドゥに大穴6カ所 衛星写真分析、米攻撃で着弾痕か",
+          "snippet": "",
+          "url": "https://www.nikkei.com/article/DGXZQOCB230L50T20C25A6000000/",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "政府 中東情勢沈静化へ 外交努力を継続する方針",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/news/html/20250624/k10014842701000.html",
+          "source": "NHK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bbc news",
       "trafficCount": "100+",
       "pubDate": "Mon, 23 Jun 2025 10:40:00 -0700",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.dailymail.co.uk/news/article-14838091/daughter-covid-nurse-kate-shemirani-died-cancer.html",
           "source": "Daily Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "新聞",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt1rmxSfJBjwN8F9IlliCziDtk-5ITdpOL4Gz_igwm3cCqdFrx5aPlq3Oaj_g",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "トランプ氏 イラン報復は弱かった",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/pickup/6543252",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "イラン・フォルドゥに大穴6カ所 衛星写真分析、米攻撃で着弾痕か",
-          "snippet": "",
-          "url": "https://www.nikkei.com/article/DGXZQOCB230L50T20C25A6000000/",
-          "source": "日本経済新聞"
-        },
-        {
-          "title": "政府 中東情勢沈静化へ 外交努力を継続する方針",
-          "snippet": "",
-          "url": "https://www3.nhk.or.jp/news/html/20250624/k10014842701000.html",
-          "source": "NHK"
         }
       ],
       "link": "https://imtaqin.id/"
