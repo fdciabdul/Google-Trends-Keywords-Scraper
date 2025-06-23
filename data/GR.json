@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-23 17:56:01",
+  "lastUpdate": "2025-06-23 18:06:43",
   "data": [
     {
       "title": "dubai",
@@ -31,7 +31,7 @@
     },
     {
       "title": "flight radar",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 10:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThgDCOdfVmfUcXxOxsvJWUp7aXCyodnhqCEyoWa2agIugGMB5WEL8m1qt6cQ0",
       "pictureSource": "Flightradar24",
@@ -59,17 +59,11 @@
     },
     {
       "title": "qatar",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 23 Jun 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwc5Q4UhZip5GMu_I6PCpqg-AD3bpkBMPiMdeukKfcPALuoP7_ofvN-gRy8ug",
-      "pictureSource": "MSNBC News",
+      "picture": "",
+      "pictureSource": "NPR",
       "relatedSearch": [
-        {
-          "title": "Iranian state media reports missiles fired against U.S. base in Qatar",
-          "snippet": "",
-          "url": "https://www.msnbc.com/chris-jansing-reports/watch/iranian-state-media-reports-missiles-fired-against-u-s-base-in-qatar-242097733831",
-          "source": "MSNBC News"
-        },
         {
           "title": "Report: Iran state media say attack has begun on U.S. bases in Qatar and Iraq",
           "snippet": "",
@@ -77,10 +71,16 @@
           "source": "NPR"
         },
         {
-          "title": "Americans in Qatar told to shelter in place and airspace shut down as Iranian military threatens action",
+          "title": "What we know about Iranian strikes on a US military base in Qatar",
           "snippet": "",
-          "url": "https://www.foxnews.com/politics/americans-qatar-told-shelter-place-iranian-military-threatens-action-against-us-interests",
-          "source": "Fox News"
+          "url": "https://www.bbc.com/news/articles/cdjxdgjpd48o",
+          "source": "BBC"
+        },
+        {
+          "title": "Iran targets US military base in Qatar days after nuclear sites bombed: Live updates",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/news/world/2025/06/23/iran-us-conflict-live-updates/84308966007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +89,26 @@
       "title": "καταρ",
       "trafficCount": "2000+",
       "pubDate": "Mon, 23 Jun 2025 09:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsETnSvplMTbb8XOtHjJuMpBGDee-CZOlOKOJPbbdt8CdDYZpvgtX6R5BrtlM",
-      "pictureSource": "Η Εφημερίδα των Συντακτών",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnP0RvSU2DM4g0cSkzDUnkkCble8YAs3X1wBKFzD46xhjceU9CTeccn4M3ot0",
+      "pictureSource": "Documento",
       "relatedSearch": [
-        {
-          "title": "Πύραυλοι - ιρανικά αντίποινα σε βάσεις των ΗΠΑ σε Κατάρ και Ιρακ",
-          "snippet": "",
-          "url": "https://www.efsyn.gr/kosmos/mesi-anatoli/476757_pyrayloi-iranika-antipoina-se-baseis-ton-ipa-se-katar-kai-irak",
-          "source": "Η Εφημερίδα των Συντακτών"
-        },
-        {
-          "title": "Live: Αντίποινα του Ιράν στις ΗΠΑ – Στόχευσαν αμερικανικές βάσεις σε Κατάρ και Ιράκ",
-          "snippet": "",
-          "url": "https://www.ertnews.gr/eidiseis/diethni/live-antipoina-tou-iran-stis-ipa-stoxeysan-amerikanikes-vaseis-se-katar-kai-irak/",
-          "source": "ertnews.gr"
-        },
         {
           "title": "Πυραυλικό χτύπημα του Ιράν σε αμερικανική βάση στο Κατάρ (Video) - Documento",
           "snippet": "",
           "url": "https://www.documentonews.gr/article/pyrayliko-xtypima-toy-iran-se-amerikaniki-vasi-sto-katar-video/",
           "source": "Documento"
+        },
+        {
+          "title": "Το Ιράν εκτόξευσε πυραύλους κατά των βάσεων των ΗΠΑ σε Κατάρ και Ιράκ - Δείτε βίντεο",
+          "snippet": "",
+          "url": "https://www.in.gr/2025/06/23/world/live-o-tramp-tora-mila-gia-allagi-kathestotos-sto-iran-texerani-etoimazei-tin-apantisi-tis/",
+          "source": "In.gr"
+        },
+        {
+          "title": "Axios: Το Ιράν ετοιμάζεται να εξαπολύσει πυραύλους κατά αμερικανικών βάσεων μέσα στα επόμενα λεπτά",
+          "snippet": "",
+          "url": "https://www.naftemporiki.gr/kosmos/1971990/axios-to-iran-etoimazetai-na-exapolysei-pyrayloys-kata-amerikanikon-vaseon-mesa-sta-epomena-lepta/",
+          "source": "η ναυτεμπορικη"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,15 +145,9 @@
       "title": "μονεμβασια",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 08:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP13oc4lGkwehSt9hSwZNa-nQJ4_0x2dbWRiUOCHGS-lc1NNg6CSE_tOfciOQ",
-      "pictureSource": "Cretalive",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ-N2JT66W8eoqXzbU9OUrAhz-HmXMiRAB0k43D8knVMrcE6QGXCLPnMg-boM",
+      "pictureSource": "The TOC",
       "relatedSearch": [
-        {
-          "title": "Ανεξέλεγκτη η φωτιά στη Λακωνία - Εκκενώνονται τα χωριά Καραβοστάσι και Πλύτρα",
-          "snippet": "",
-          "url": "https://www.cretalive.gr/ellada/anexelegkti-i-fotia-sti-lakonia-ekkenonontai-ta-horia-karabostasi-kai-plytra",
-          "source": "Cretalive"
-        },
         {
           "title": "Φωτιά στη Μονεμβασιά: Καλύτερη εικόνα για Καραβοστάσι και Πλύτρα - Μάχη για να οριοθετηθεί πριν νυχτώσει [εικόνες - βίντεο]",
           "snippet": "",
@@ -165,6 +159,12 @@
           "snippet": "",
           "url": "https://www.tovima.gr/2025/06/23/society/fotia-sti-monemvasia-kalyteri-i-eikona-tou-pyrinou-metopou-se-epifylaki-i-pyrosvestikes-dynameis/",
           "source": "ΤΟ ΒΗΜΑ"
+        },
+        {
+          "title": "Μεγάλη φωτιά στη Λακωνία – Εκκενώνονται τα χωριά Καραβοστάσι και Πλύτρα",
+          "snippet": "",
+          "url": "https://www.in.gr/2025/06/23/greece/megali-fotia-sti-lakonia-ekkenonontai-ta-xoria-karavostasi-kai-plytra/",
+          "source": "In.gr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,20 +229,20 @@
       "title": "μαρία πρωτόπαππα",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 06:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMxVzEo53pJNGQMLO8-1XfsIBcEZjdr4R47Ik0l0g11HlyEO_6nV0G7VrATd0",
-      "pictureSource": "Gossip-tv",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbVs6KnJy1Bm6Nf9EybN7w0UfyD1pAspl-RN-jVkfJEKA7rhfDLGRUkvXZ9NI",
+      "pictureSource": "Tlife",
       "relatedSearch": [
-        {
-          "title": "Μαρία Πρωτόπαππα: Το ταξίδι στην Άνδρο και η παραδοχή: «Ήταν δύσκολο να νιώθω ότι είμαι δυσάρεστη»",
-          "snippet": "",
-          "url": "https://www.gossip-tv.gr/media-tv/story/850568/maria-protopappa-to-taksidi-stin-andro-kai-i-paradoxi-itan-dyskolo-na-niotho-oti-eimai-dysaresti",
-          "source": "Gossip-tv"
-        },
         {
           "title": "Μαρία Πρωτόπαππα: «Τον χειμώνα πέρασα κάποιους μήνες στην Άνδρο, το είχα ανάγκη»",
           "snippet": "",
           "url": "https://www.tlife.gr/eidhseis-nea/media/maria-protopappa-ton-xeimona-perasa-kapoious-mines-stin-andro-to-eixa-anagki/1638298/",
           "source": "Tlife"
+        },
+        {
+          "title": "Μαρία Πρωτόπαππα: Το ταξίδι στην Άνδρο και η παραδοχή: «Ήταν δύσκολο να νιώθω ότι είμαι δυσάρεστη»",
+          "snippet": "",
+          "url": "https://www.gossip-tv.gr/media-tv/story/850568/maria-protopappa-to-taksidi-stin-andro-kai-i-paradoxi-itan-dyskolo-na-niotho-oti-eimai-dysaresti",
+          "source": "Gossip-tv"
         },
         {
           "title": "Μαρία Πρωτόπαππα: Ο λόγος που αποφάσισε να απομονωθεί στην Άνδρο",
