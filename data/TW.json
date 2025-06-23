@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-23 20:01:19",
+  "lastUpdate": "2025-06-23 20:11:15",
   "data": [
     {
       "title": "巴林",
@@ -89,15 +89,9 @@
       "title": "地震速報",
       "trafficCount": "2000+",
       "pubDate": "Mon, 23 Jun 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo7xFZibC0dqKCyKMDY8y2_hFr2lKCzme94hWb7YmPuewcx6OqZhxP8R0ehKs",
-      "pictureSource": "岩手日報",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3XJopPAkVBtdVxB8W9NOBU4mxJBjY2084DUAsfpGiG9K4thu2pIvi42eGqA",
+      "pictureSource": "静岡新聞DIGITAL Web",
       "relatedSearch": [
-        {
-          "title": "震源・震度＝気象庁発表（２２日６時２８分）",
-          "snippet": "",
-          "url": "https://www.iwate-np.co.jp/article/kyodo/2025/6/22/1534949",
-          "source": "岩手日報"
-        },
         {
           "title": "北海道で震度３",
           "snippet": "",
@@ -105,9 +99,15 @@
           "source": "静岡新聞DIGITAL Web"
         },
         {
-          "title": "北海道で最大震度1の地震 北海道・根室市",
+          "title": "【地震】岩手県内で震度1 根室半島南東沖を震源とする最大震度3の地震が発生 津波の心配なし",
           "snippet": "",
-          "url": "https://newsdig.tbs.co.jp/articles/-/1994652?display=1",
+          "url": "https://www.fnn.jp/articles/-/890741",
+          "source": "FNNプライムオンライン"
+        },
+        {
+          "title": "北海道で最大震度2の地震 北海道・えりも町、浦幌町",
+          "snippet": "",
+          "url": "https://newsdig.tbs.co.jp/articles/-/1998100",
           "source": "TBS NEWS DIG"
         }
       ],
@@ -198,23 +198,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "flightradar24",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThgDCOdfVmfUcXxOxsvJWUp7aXCyodnhqCEyoWa2agIugGMB5WEL8m1qt6cQ0",
+      "pictureSource": "Flightradar24",
+      "relatedSearch": [
+        {
+          "title": "Following the fuel: how the world tracked the B-2 diversion flights",
+          "snippet": "",
+          "url": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/how-the-world-tracked-the-b2-diversion-flights/",
+          "source": "Flightradar24"
+        },
+        {
+          "title": "Airlines face fresh upheaval as Qatar, Kuwait and Bahrain shut airspace",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/europe/airlines-weigh-middle-east-cancellations-after-us-strikes-iran-strand-thousands-2025-06-23/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Middle East flight disruptions grow after US airstrikes and Iranian missile threats",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/travel/airline-news/2025/06/23/iran-israel-middle-east-flights-canceled/84316516007/",
+          "source": "USA Today"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "qatar",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScl7JwxG3ESV1tm-trdepxLdpHW-ZzT8NNckrYp0xWdIcQ_2_BenZfHrOKuLM",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5m_gEcpPzs8SIX0zSUd3myQ_9wkUDExERvjk1yOeXPE3kY3KnGxt2rYyWWQI",
+      "pictureSource": "Dawn",
       "relatedSearch": [
-        {
-          "title": "Live updates: Attack on Iranian nuclear sites thrusts US into Israel-Iran conflict",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-us-strikes-06-23-25-intl-hnk",
-          "source": "CNN"
-        },
         {
           "title": "What are the main US military bases in the Middle East?",
           "snippet": "",
           "url": "https://www.dawn.com/news/1919442/what-are-the-main-us-military-bases-in-the-middle-east",
           "source": "Dawn"
+        },
+        {
+          "title": "Dow jumps 300 points as oil drops following a restrained retaliation by Iran to U.S. attacks: Live updates",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/06/22/stock-market-today-live-updates.html",
+          "source": "CNBC"
         },
         {
           "title": "Iran-Israel Live Updates: Israel Pounds Tehran Amid Growing Calls for De-Escalation",
@@ -232,34 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "唐佳",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Jun 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb9nzzwTj2Iqso2geGAdKzAhDq7GsYuhBsfnqXND0yEV3REjFQvBxXmHCVa_0",
-      "pictureSource": "Yahoo HK News",
-      "relatedSearch": [
-        {
-          "title": "唐佳逝世 ｜ 行內著名武指曾執導《少林傳人》 與雪妮恩愛五十載形影不離",
-          "snippet": "",
-          "url": "https://hk.news.yahoo.com/%E5%94%90%E4%BD%B3%E9%80%9D%E4%B8%96-%EF%BD%9C-%E8%A1%8C%E5%85%A7%E8%91%97%E5%90%8D%E6%AD%A6%E6%8C%87%E6%9B%BE%E5%9F%B7%E5%B0%8E%E3%80%8A%E5%B0%91%E6%9E%97%E5%82%B3%E4%BA%BA%E3%80%8B-%E8%88%87%E9%9B%AA%E5%A6%AE%E6%81%A9%E6%84%9B%E4%BA%94%E5%8D%81%E8%BC%89%E5%BD%A2%E5%BD%B1%E4%B8%8D%E9%9B%A2-141703994.html",
-          "source": "Yahoo HK News"
-        },
-        {
-          "title": "雪妮丈夫唐佳佐敦墮樓亡模範夫妻恩愛半世紀- 本地",
-          "snippet": "",
-          "url": "https://www.mpweekly.com/entertainment/article/%E9%9B%AA%E5%A6%AE%E4%B8%88%E5%A4%AB%E5%94%90%E4%BD%B3%E4%BD%90%E6%95%A6%E5%A2%AE%E6%A8%93%E4%BA%A1-%E6%A8%A1%E7%AF%84%E5%A4%AB%E5%A6%BB%E6%81%A9%E6%84%9B%E5%8D%8A%E4%B8%96%E7%B4%80",
-          "source": "Ming Pao Weekly"
-        },
-        {
-          "title": "著名武指唐佳墮樓身亡 與太太雪妮經常陪伴開工相愛逾半世紀",
-          "snippet": "",
-          "url": "https://hk.on.cc/hk/bkn/cnt/entertainment/20250623/bkn-20250623223059925-0623_00862_001.html",
-          "source": "on.cc東網"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
