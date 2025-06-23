@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2025-06-23 17:41:30",
+  "lastUpdate": "2025-06-23 17:49:15",
   "data": [
+    {
+      "title": "cnn",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 23 Jun 2025 10:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlyedu_c4k7M6v-eQxe-Cs-jmVK49xZfcZYGRCP9JtWnnLiksNatu8n_sY0Lc",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Iran attacks U.S. military base in Qatar with missiles",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/06/23/iran-qatar-missiles-us-doha.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Report: Iran state media say attack has begun on U.S. bases in Qatar and Iraq",
+          "snippet": "",
+          "url": "https://www.npr.org/2025/06/23/g-s1-74059/iran-attack-us-bases-iraq-qatar",
+          "source": "NPR"
+        },
+        {
+          "title": "Iran confirms missile attack on U.S. military base in Qatar",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/06/23/iran-retaliation-trump-israel-war",
+          "source": "Axios"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Mon, 23 Jun 2025 05:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ9RYM8e3OoJC9-DQoA_lu-YdmEwsVzCJuPgaLaFxu6dDW9leJIkGnblaCgQU",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRsH3BYHDzPo5diFs5fMyh-L-f79LUZYm6xk8IEgKZwKKcFuxXZVKrdpCTnGs",
+      "pictureSource": "WKTV",
       "relatedSearch": [
-        {
-          "title": "3 Dead in Central New York After Severe Storms Lash the Area",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/06/22/nyregion/ny-storm-flood-deaths.html",
-          "source": "The New York Times"
-        },
         {
           "title": "UPDATED: 2 Children, 1 Adult Killed in Storm-Related Incidents in Clark Mills",
           "snippet": "",
@@ -21,10 +43,16 @@
           "source": "WKTV"
         },
         {
-          "title": "EF1 tornado confirmed in the town of Clark Mills",
+          "title": "‘She was his everything’: Clark Mills couple in bed when tornado kills woman, tosses man to safety",
           "snippet": "",
-          "url": "https://cnycentral.com/news/local/ef1-tornado-confirmed-in-the-town-of-clark-mills",
-          "source": "WSTM"
+          "url": "https://www.syracuse.com/news/2025/06/she-was-his-everything-clark-mills-couple-in-bed-when-tornado-kills-woman-tosses-man-to-safety.html",
+          "source": "Syracuse.com"
+        },
+        {
+          "title": "3 Dead in Central New York After Severe Storms Lash the Area",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/06/22/nyregion/ny-storm-flood-deaths.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "pacers",
       "trafficCount": "100+",
       "pubDate": "Sun, 22 Jun 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnqaLPGw3Pod1ZVIEALrJ6TPLYof1QU4tlqThjFy6iG_-vKiuyvIREsYT2Be4",
-      "pictureSource": "Yahoo Sports",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtZ0tFlDOwCvsXEwc7J0RzhePdtrYYJwgHmu1bzcMDPzbTumXWr-1zmPvfMG8",
+      "pictureSource": "beIN SPORTS",
       "relatedSearch": [
-        {
-          "title": "Caitlin Clark Had No Words for Tyrese Haliburton News on Sunday",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/caitlin-clark-had-no-words-070049929.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Rick Carlisle Had Touching Message About Tyrese Haliburton After Achilles Injury",
-          "snippet": "",
-          "url": "https://www.si.com/nba/rick-carlisle-had-touching-message-about-tyrese-haliburton-after-achilles-injury",
-          "source": "Sports Illustrated"
-        },
         {
           "title": "Tyrese Haliburton's Dad Confirms the Worst with His Terrible Injury During NBA Finals’ Game 7",
           "snippet": "",
           "url": "https://www.beinsports.com/en-us/basketball/articles-video/tyrese-haliburton-s-dad-confirms-the-worst-with-his-terrible-injury-during-nba-finals-game-7-2025-06-23",
           "source": "beIN SPORTS"
+        },
+        {
+          "title": "ESPN Cameraman Accused Of 'Inappropriate' Shot During Game 7",
+          "snippet": "",
+          "url": "https://news.yahoo.com/sports/article/espn-cameraman-accused-inappropriate-shot-041834940.html",
+          "source": "Yahoo News"
+        },
+        {
+          "title": "Impact of Haliburton's injury on Game 7",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/live-blogs/pacers-vs-thunder-live-updates-nba-finals-game-7-score-result/up9zagGq4jD1/gDpFvnFxG8gH/",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +189,10 @@
           "source": "NBA"
         },
         {
-          "title": "For Pacers and Thunder, there's no looking back now. All eyes are only on Game 7 in the NBA Finals",
+          "title": "Thunder wins 2025 NBA championship: Highlights from OKC's Game 7 victory over Indiana",
           "snippet": "",
-          "url": "https://apnews.com/article/nba-finals-game-7-pacers-thunder-9e9d497c8c4618258eb3cfc21bd5385a",
-          "source": "AP News"
+          "url": "https://www.usatoday.com/story/sports/nba/playoffs/2025/06/22/thunder-pacers-nba-finals-game-7-score-updates-highlights/84294884007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +201,15 @@
       "title": "manchester city - al ain",
       "trafficCount": "10000+",
       "pubDate": "Sun, 22 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_WyAYrxKxY6qxmQX9ybNLqaS1hJakobFYFUNe6rMZGG6je-hZaf_B4V-mgs",
-      "pictureSource": "Manchester City News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsmdFDqwTaaV_2RLUrv8eypR2HyPzkbSP1Bc62790oeok-jOknVaeoK4CMUuI",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Rudiger allegedly racially abused in stoppage time of Real Madrid's Club World Cup win over Pachuca - The Athletic",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/live-blogs/real-madrid-vs-pachuca-live-updates-club-world-cup-2025-score-result/DNVE0xOJBQUj/",
+          "source": "The New York Times"
+        },
         {
           "title": "Pep Guardiola told he now has a player with 'gold dust' as Man City thrash Al Ain at the Club World Cup",
           "snippet": "",
@@ -183,16 +217,10 @@
           "source": "Manchester City News"
         },
         {
-          "title": "🎥 Inzaghi furious, Echeverri stuns in City 6-0, Cherki scores",
+          "title": "Manchester City thump Al Ain 6-0 at Club World Cup",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/inzaghi-furious-echeverri-stuns-in-city-6-0-cherki-scores-41279314",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Man City hit six to reach Club World Cup last 16, Real Madrid win with 10 men",
-          "snippet": "",
-          "url": "https://www.bangkokpost.com/sports/3055975/man-city-hit-six-to-reach-club-world-cup-last-16-real-madrid-win-with-10-men",
-          "source": "Bangkok Post"
+          "url": "https://www.aljazeera.com/sports/2025/6/23/manchester-city-thump-al-ain-6-0-at-club-world-cup",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://telegrafi.com/en/galatasaray-ka-filluar-te-dyshoje-te-osimhen-nigeriani-nuk-iu-kthen-pergjigje/",
           "source": "Telegrafi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "estados unidos - haití",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 22 Jun 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVwNQm4eHembISZ4n5rqzDiey-6B7kNJ58NlCXlZ1i9g4s_6Rm6RmqjCFs_ss",
-      "pictureSource": "Diez.hn",
-      "relatedSearch": [
-        {
-          "title": "Estados Unidos logra un pleno de victorias en ronda de grupos de Copa Oro y elimina a Haití: ¿Y su rival en cuartos?",
-          "snippet": "",
-          "url": "https://www.diez.hn/copa-oro/estados-unidos-vs-haiti-copa-oro-2025-concacaf-cuartos-final-GE26338284",
-          "source": "Diez.hn"
-        },
-        {
-          "title": "Estados Unidos gana su grupo y elimina a Haití de la Copa Oro",
-          "snippet": "",
-          "url": "https://www.laprensa.hn/videos/deportes/estados-unidos-gana-su-grupo-y-elimina-a-haiti-de-la-copa-oro-EE26339490",
-          "source": "www.laprensa.hn"
-        },
-        {
-          "title": "Estados Unidos expone su invicto ante Haití",
-          "snippet": "",
-          "url": "https://www.latribuna.hn/2025/06/22/estados-unidos-expone-su-invicto-ante-haiti/",
-          "source": "Diario La Tribuna Honduras"
         }
       ],
       "link": "https://imtaqin.id/"
