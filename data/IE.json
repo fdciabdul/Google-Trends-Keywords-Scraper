@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-06-24 09:23:21",
+  "lastUpdate": "2025-06-24 09:35:10",
   "data": [
     {
       "title": "world news",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Jun 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv5YXlF3EnNpd0Y31PAU9TLQc1H6bKL04CqqrOdTMYsKuSriMisz18K9uCl28",
-      "pictureSource": "Sky News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTufitH3QU_1EOfwPe6OYNh99yy6I64bBU7UnndndZFDhWv--bacj2lZLutBVE",
+      "pictureSource": "Reuters",
       "relatedSearch": [
-        {
-          "title": "Israel-Iran live: Ceasefire agreed - as Trump tells two sides: 'Please do not violate it'",
-          "snippet": "",
-          "url": "https://news.sky.com/story/iran-trump-us-strikes-israel-tehran-netanyahu-nuclear-fordow-latest-13382979",
-          "source": "Sky News"
-        },
         {
           "title": "Iran fires missiles at US base in Qatar, Trump calls for peace",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c4gkw04yze1o",
           "source": "BBC"
+        },
+        {
+          "title": "US strikes: How much damage has been done to Iran's nuclear facilities?",
+          "snippet": "",
+          "url": "https://news.sky.com/story/us-strikes-how-much-damage-has-been-done-to-irans-nuclear-facilities-13387590",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "ireland weather heatwave",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Jun 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl-mTmee9h1PnPzhhAU_cxg5a7yt-IFPcQbnEMT6rhkuGXXabo36zeEdxs2tg",
-      "pictureSource": "The Irish Independent",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHNseHmWatBeA2NJuPYn52aN0XBABIrQLNncLbDgpt870oqPvdMIBSPFReDd4",
+      "pictureSource": "Galway Beo",
       "relatedSearch": [
-        {
-          "title": "Temperatures to hit highs of 21 degrees but rain and drizzle dampen summer conditions",
-          "snippet": "",
-          "url": "https://www.independent.ie/weather/temperatures-to-hit-highs-of-21-degrees-but-rain-and-drizzle-dampen-summer-conditions/a1343295287.html",
-          "source": "The Irish Independent"
-        },
         {
           "title": "’Powerful dome’ bringing ‘intense heatwave’ as Met Eireann issue update for Ireland",
           "snippet": "",
@@ -49,10 +43,44 @@
           "source": "Galway Beo"
         },
         {
+          "title": "Temperatures to hit highs of 21 degrees but rain and drizzle dampen summer conditions",
+          "snippet": "",
+          "url": "https://www.independent.ie/weather/temperatures-to-hit-highs-of-21-degrees-but-rain-and-drizzle-dampen-summer-conditions/a1343295287.html",
+          "source": "The Irish Independent"
+        },
+        {
           "title": "LIVE: Met Eireann pinpoints heavy rain and thunder amid 'changeable' weather for week ahead",
           "snippet": "",
           "url": "https://www.limerickleader.ie/news/national-news/1832192/live-met-eireann-pinpoints-heavy-rain-and-thunder-amid-changeable-weather-for-week-ahead.html",
           "source": "Limerick Leader"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "israel iranian",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 23 Jun 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuKa-BTq6sMyxJDLhPc3RzrxLmiHeaPFczOxJCSpyG8c-eEa6BP-72hR0W1Y",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Israel-Iran war live: Israel defence minister says he has ordered attack on Iran after claiming Tehran has violated ceasefire",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Israel orders Iran attack after ceasefire 'violation'",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/middle-east/2025/0624/1519997-middle-east-conflict/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "LIVE: Israel orders ‘intense strikes’ on Tehran; Iran denies breaking truce",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/6/24/live-trump-announces-ceasefire-no-confirmation-from-israel-iran",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +105,10 @@
           "source": "BBC"
         },
         {
-          "title": "Syrian authorities capture 'criminals' linked to brutal church attack that killed dozens: report",
+          "title": "Suicide bomber attack on church in Syria kills at least 20 people",
           "snippet": "",
-          "url": "https://www.foxnews.com/world/syrian-authorities-capture-criminals-linked-brutal-church-attack-killed-dozens-report",
-          "source": "Fox News"
+          "url": "https://www.cnn.com/2025/06/22/middleeast/church-attack-damascus-syria-intl-latam",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +145,26 @@
       "title": "fifa club world cup",
       "trafficCount": "100+",
       "pubDate": "Mon, 23 Jun 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6PJ71CvJy7GZXKahK3LGrxA6YJRphRTn-IBZTgQdIaUMX_YbOsvtrFG7MYUQ",
-      "pictureSource": "Chelsea Football Club",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd-xmByVF1mmsizE1GDM_kIK-LbN6YVbfOXrvsMY4AnVNBv3nvrJc9dL8Ezho",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Chelsea vs ES Tunis: How to watch, TV channel, kick-off time, date | News | Official Site",
+          "title": "Miami's unbeaten run sets up CWC clash with PSG",
           "snippet": "",
-          "url": "https://www.chelseafc.com/en/news/article/chelsea-vs-esperance-de-tunisie-how-to-watch-tv-channel-kick-off-time-date",
-          "source": "Chelsea Football Club"
+          "url": "https://www.espn.com/soccer/story/_/id/45572957/miami-earns-showdown-best-world-psg-club-world-cup-round-16",
+          "source": "ESPN"
         },
         {
-          "title": "ES Tunis vs Chelsea: Get €60 in free bets and €10 casino bonus with BoyleSports, plus 25% boost on your winnings",
+          "title": "Fifa Club World Cup permutations: Who is through and who needs what to qualify?",
           "snippet": "",
-          "url": "https://www.thesun.ie/uncategorized/15424548/es-tunis-vs-chelsea-boylesports-free-bets-join/",
-          "source": "The Irish Sun"
+          "url": "https://www.bbc.com/sport/football/articles/cp3l121dnx4o",
+          "source": "BBC"
         },
         {
-          "title": "Santos question, Delap decision, James absence - Chelsea predicted XI vs Esperance",
+          "title": "Seattle Sounders 0-2 PSG | Match report and highlights",
           "snippet": "",
-          "url": "https://www.football.london/chelsea-fc/news/gallery/santos-question-delap-decision-two-31914784",
-          "source": "Football London"
+          "url": "https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/seattle-sounders-paris-saint-germain-highlights-match-report",
+          "source": "FIFA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,38 +245,10 @@
           "source": "UOL"
         },
         {
-          "title": "Estêvão troca camisa com Messi e cita sentimento após confronto contra o argentino: \"Um prazer\"",
+          "title": "EDITORIAL: O Brasil no ‘eixo dos hipócritas’ - O governo Lula opta por um silêncio cúmplice sobre a agressividade iraniana, enquanto faz questão de condenar as ações preventivas de Israel e dos EUA. Leia o texto completo no #LinkdaBio",
           "snippet": "",
-          "url": "https://www.gazetaesportiva.com/times/palmeiras/estevao-troca-camisa-com-messi-e-cita-sentimento-apos-confronto-contra-o-argentino-um-prazer/",
-          "source": "Gazeta Esportiva"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ceasefire",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 23 Jun 2025 15:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuKa-BTq6sMyxJDLhPc3RzrxLmiHeaPFczOxJCSpyG8c-eEa6BP-72hR0W1Y",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Israel-Iran war live: Israel defence minister says he has ordered attack on Iran after claiming Tehran has violated ceasefire",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar",
-          "source": "The Guardian"
-        },
-        {
-          "title": "At least one ballistic missile launched from Iran at Israel as Tehran breaks ceasefire",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/at-least-one-ballistic-missile-launched-from-iran-at-israel-as-tehran-breaks-ceasefire/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "Israel orders Iran attack after ceasefire 'violation'",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/middle-east/2025/0624/1519997-middle-east-conflict/",
-          "source": "RTE.ie"
+          "url": "https://www.instagram.com/p/DLRxi0rNEaR/",
+          "source": "Instagram"
         }
       ],
       "link": "https://imtaqin.id/"
