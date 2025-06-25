@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-25 13:50:41",
+  "lastUpdate": "2025-06-25 13:59:19",
   "data": [
     {
       "title": "кольцово",
@@ -89,20 +89,20 @@
       "title": "саммите нато",
       "trafficCount": "1000+",
       "pubDate": "Wed, 25 Jun 2025 05:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJtyaQT1djIsieXYtwLo-j9qgyDSwWxxvs8XawhBV0hOe4wyOVqyOyEesC7HA",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbuCZ59m3VPSXXF_mS8_1XYBVavc43obLFlRaUwo4uUXl5lL8tgOI66l3O-JQ",
+      "pictureSource": "Радио Свобода",
       "relatedSearch": [
-        {
-          "title": "Среди друзей, но без гарантий: как Владимира Зеленского приняли на саммите НАТО в Нидерландах",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cvg6eyn6e1go",
-          "source": "BBC"
-        },
         {
           "title": "Трамп и Зеленский встретились в Гааге",
           "snippet": "",
           "url": "https://www.svoboda.org/a/tramp-i-zelenskiy-vstretilisj-v-gaage/33454652.html",
           "source": "Радио Свобода"
+        },
+        {
+          "title": "Генсек НАТО пообещал Украине поддержку на пути к вступлению в альянс",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1033070",
+          "source": "Интерфакс"
         },
         {
           "title": "Трамп указал на тяжелое положение Зеленского",
@@ -143,7 +143,7 @@
     },
     {
       "title": "евгений пригожин",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 25 Jun 2025 03:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdlU04c98oZZzpCOh5xuuaJtGnJCQcmorGXayQYB3ys3PqZ7EGYbaaSAni4U",
       "pictureSource": "ФОНТАНКА.ру",
@@ -182,15 +182,9 @@
       "title": "курс евро к рублю",
       "trafficCount": "2000+",
       "pubDate": "Wed, 25 Jun 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9udNTQ1_9jZ4yOCu10fDnHhZ6easYYlgkP9FmrgD-yq-y0NTMAOCOFiKUdWo",
-      "pictureSource": "Финансы Mail",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnVMFvT02cxx2zDpQjcUHHywVGNlXVedINFG5-AO4M6oimtYb35iXIYAKVNH0",
+      "pictureSource": "Банк России",
       "relatedSearch": [
-        {
-          "title": "Банк России повысил официальный курс доллара на среду",
-          "snippet": "",
-          "url": "https://finance.mail.ru/2025-06-24/oficialnyj-kurs-dollara-na-25-iyunya-2025-66719870/",
-          "source": "Финансы Mail"
-        },
         {
           "title": "Официальные курсы валют на заданную дату, устанавливаемые ежедневно",
           "snippet": "",
@@ -198,9 +192,15 @@
           "source": "Банк России"
         },
         {
-          "title": "Рубль подешевел ко всем основным валютам. ЦБ установил официальные курсы на 25 июня",
+          "title": "Банк России повысил официальный курс доллара на среду",
           "snippet": "",
-          "url": "https://www.banki.ru/news/lenta/?id=11015286",
+          "url": "https://finance.mail.ru/2025-06-24/oficialnyj-kurs-dollara-na-25-iyunya-2025-66719870/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Рубль подешевел. Курсы доллара, евро и юаня на 25 июня 25.06.2025",
+          "snippet": "",
+          "url": "https://www.banki.ru/news/lenta/?id=11015287",
           "source": "Банки.ру"
         }
       ],
