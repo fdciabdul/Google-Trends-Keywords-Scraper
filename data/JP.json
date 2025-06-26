@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-06-26 05:07:00",
+  "lastUpdate": "2025-06-26 05:18:07",
   "data": [
     {
-      "title": "kddi",
-      "trafficCount": "500+",
+      "title": "uq",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 25 Jun 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3lcybXOwN0EH6WunrX4Gl-m9xR44kFgJsiXUUmIfZ5i1RhL5XRGIrwUq64os",
+      "pictureSource": "The University of Queensland",
+      "relatedSearch": [
+        {
+          "title": "Almost nothing known about endangered Queensland seahorse",
+          "snippet": "",
+          "url": "https://www.uq.edu.au/news/article/2025/06/almost-nothing-known-about-endangered-queensland-seahorse",
+          "source": "The University of Queensland"
+        },
+        {
+          "title": "Population survey of 'charismatic little fish' underway in Queensland",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-06-26/qld-university-endangered-whites-seahorse-population-survey/105457362",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Queensland to Deliver Mine Safety Training",
+          "snippet": "",
+          "url": "https://www.sharecafe.com.au/2025/06/26/queensland-to-deliver-mine-safety-training/",
+          "source": "Sharecafe"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "中京競馬場 人身事故",
+      "trafficCount": "20000+",
       "pubDate": "Wed, 25 Jun 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReRGsKHIQRCJ_0fRCpqvOnq7HK4hpm-3j3MqreiKFlkA5qwj-vlsfVtDwR6Tg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK0-ZcHl6kZOz4Mf2AJSEt0Z1xsefj_Hg1ybm9xW1bEc58suZLAgm6-PeGl3g",
       "pictureSource": "Yahoo!ニュース",
       "relatedSearch": [
         {
-          "title": "HPEネリCEO、「AI時代にIT基盤の整備は不可欠」と強調--「GreenLake Intelligence」など発表",
+          "title": "早朝の名鉄名古屋本線で人身事故、女性が死亡 振替輸送のJR金山駅が大混雑し一時入場制限（メ〜テレ（名古屋テレビ））",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/f8048864acbce8a015dcd6d67ccb8a4311ee6588",
+          "url": "https://news.yahoo.co.jp/articles/6cf89fa376cd96e1dad370b91efbf467e8f717f5",
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "KDDIとHPE、25年度内のAIデータセンター稼働開始に向け連携 | 日本ヒューレット・パッカード合同会社のプレスリリース",
+          "title": "朝の駅で急行電車と人が接触 年齢性別不明の1人を意識不明の状態で搬送 一時運転見合わせとなり遅れなどの影響",
           "snippet": "",
-          "url": "https://prtimes.jp/main/html/rd/p/000000182.000045092.html",
-          "source": "PR TIMES"
+          "url": "https://www.fnn.jp/articles/-/892725",
+          "source": "FNNプライムオンライン"
         },
         {
-          "title": "CTC×HPE、AI分野における連携を強化‐生成AIなどのAIビジネスの拡大を目指す",
+          "title": "名鉄名古屋本線 運転再開（８：０２）",
           "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/mycom/business/mycom_3078704?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch7",
-          "source": "ｄメニューニュース"
+          "url": "https://www3.nhk.or.jp/tokai-news/20250626/3000042152.html",
+          "source": "NHK"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -40,16 +68,35 @@
     },
     {
       "title": "通信障害",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 25 Jun 2025 21:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCOsutz2efdnXff-w0F8y0ZbXlTp_Dut0sKpTFmDmMtnRZoBoKYWO9DcdyFa8",
+      "pictureSource": "CNET Japan",
+      "relatedSearch": [
+        {
+          "title": "KDDIで通信障害、全国的に繋がりにくい状況",
+          "snippet": "",
+          "url": "https://japan.cnet.com/article/35234784/",
+          "source": "CNET Japan"
+        },
+        {
+          "title": "【速報】KDDIが全国で通信障害「au」「UQモバイル」などで利用しづらい状況続く 緊急通報にも影響 原因は調査中",
+          "snippet": "",
+          "url": "https://www.mbs.jp/news/kansainews/20250626/GE00066708.shtml",
+          "source": "MBS 毎日放送"
+        },
+        {
+          "title": "【速報】KDDIで通信障害 携帯電話の電波つながりにくく 原因は不明",
+          "snippet": "",
+          "url": "https://news.ntv.co.jp/category/economy/ytb0704a053c5b492d843c43fc09a340b9",
+          "source": "日テレNEWS NNN"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "村上世彰",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 25 Jun 2025 21:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxrCOIMRPFJRC4lAlgXTrr3H3t3vssBhXS75GwWVDOc4sFFau4PNOD0XFFwrI",
       "pictureSource": "日本経済新聞",
@@ -107,9 +154,15 @@
       "title": "ひょっこり男",
       "trafficCount": "200+",
       "pubDate": "Wed, 25 Jun 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5akuWmQWpfrqdVxY4p9uBXCETUpBfpMlEUO-wbvcSosSnSdjDU62V3F6VRE",
-      "pictureSource": "KBC九州朝日放送",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPheItwG1CQJht9KWCZEtwTThIuUvDIFsy25beM36pHr4q08ZQx7n2c2cKX8s",
+      "pictureSource": "ｄメニューニュース",
       "relatedSearch": [
+        {
+          "title": "【速報】自転車”ひょっこり”男 懲役１年の実刑判決（チバテレ＋プラス）",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/chibatv/region/chibatv-202506447973",
+          "source": "ｄメニューニュース"
+        },
         {
           "title": "全国のニュース",
           "snippet": "",
@@ -121,12 +174,6 @@
           "snippet": "",
           "url": "https://www3.nhk.or.jp/news/html/20250626/k10014844971000.html",
           "source": "NHK"
-        },
-        {
-          "title": "自転車で対向車線に飛び出す危険運転 柏市“ひょっこり男”に懲役1年の実刑判決 過去にも埼玉などで同様の犯行し実刑判決 千葉地裁松戸支部（TBS NEWS DIG Powered by JNN）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/401d58c99ce3551d59d89cd678f592abbdd8e6fe",
-          "source": "Yahoo!ニュース"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,34 +258,6 @@
           "snippet": "",
           "url": "https://athlonsports.com/wnba/chicago-sky/angel-reese-admits-she-tired-getting-cussed-out-by-chicago-sky-coaches",
           "source": "Athlon Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "マックス・マンシー",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 25 Jun 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7AXDcZr41XO0tMRU3TA4MitmYgRyhnx7GzCnhF_wAqoA9HD05XmCLQw1PZCo",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "マンシーがまた満塁弾 通算８本目のグランドスラムで１試合６打点（スポーツ報知）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/b939741a567d5a2958ff81591b38a064e21cd4d1",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "マンシーが１２号満塁弾！大谷敬遠後にどでかい一発　１試合６打点の大暴れ　絶好調モードに突入",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/dailysports/sports/20250626069?fm=latestnews",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "マンシー幸運重なる　豪雨にフライ打ち込み、内野手見失うラッキー適時打→12号満塁弾で6打点",
-          "snippet": "",
-          "url": "https://www.nikkansports.com/baseball/mlb/news/202506260000439.html",
-          "source": "nikkansports.com"
         }
       ],
       "link": "https://imtaqin.id/"
