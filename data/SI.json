@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-26 15:42:34",
+  "lastUpdate": "2025-06-26 15:51:11",
   "data": [
     {
       "title": "severe thunderstorm warning",
@@ -33,20 +33,20 @@
       "title": "opozorilo glede močne nevihte",
       "trafficCount": "10000+",
       "pubDate": "Wed, 25 Jun 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS83fpRSF_n8K16tqktbbkilYZIWR5q58Au3MCQeCF4Dx7FzPyTqovjCE9hCWM",
-      "pictureSource": "Siol.net",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTz5GZCdUcDZ70d13V_1mRAFOVE5EAtkDdouh32RIp2IePggl43fzO3DhvAPI",
+      "pictureSource": "Slovenske novice",
       "relatedSearch": [
-        {
-          "title": "Naval na ljubljansko urgenco: kaj je razlog?",
-          "snippet": "",
-          "url": "https://siol.net/novice/slovenija/v-casu-vrocinskega-vala-povecan-obisk-nujne-medicinske-pomoci-v-ljubljani-666030",
-          "source": "Siol.net"
-        },
         {
           "title": "Meteorologi za danes izdali oranžno opozorilo! Zvečer bodo te kraje zajele nevihte",
           "snippet": "",
           "url": "https://www.slovenskenovice.si/novice/slovenija/meteorologi-za-danes-izdali-oranzno-opozorilo-zvecer-bodo-te-kraje-zajele-nevihte/",
           "source": "Slovenske novice"
+        },
+        {
+          "title": "Naval na ljubljansko urgenco: kaj je razlog?",
+          "snippet": "",
+          "url": "https://siol.net/novice/slovenija/v-casu-vrocinskega-vala-povecan-obisk-nujne-medicinske-pomoci-v-ljubljani-666030",
+          "source": "Siol.net"
         },
         {
           "title": "Vročinski val tudi na Balkanu in jugu Evrope. V Čačku izmerili 46 stopinj Celzija.",
@@ -61,15 +61,9 @@
       "title": "novice",
       "trafficCount": "100+",
       "pubDate": "Wed, 25 Jun 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AijTMfrTboxCbDmX4xhXW8tb5IK-hE4BsH6yFu2-UEc8Xyhhd5L3jd0mIYw",
-      "pictureSource": "rtvslo.si",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_UDdjm1dKcxBGMKnawmWP26HAeFREDT-32QUmWsUfIizw-D4m3jccUICCZ7w",
+      "pictureSource": "24ur.com",
       "relatedSearch": [
-        {
-          "title": "Direktor Cie zatrdil, da so iranski jedrski objekti \"močno poškodovani\"",
-          "snippet": "",
-          "url": "https://www.rtvslo.si/svet/direktor-cie-zatrdil-da-so-iranski-jedrski-objekti-mocno-poskodovani/750122",
-          "source": "rtvslo.si"
-        },
         {
           "title": "Ajatola prvič po razglasitvi premirja: Čestitam za zmago nad Izraelom in ZDA",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://n1info.si/novice/svet/sef-ameriskih-obvescevalcev-iranski-jedrski-program-je-bil-resno-poskodovan/",
           "source": "N1 Slovenija"
+        },
+        {
+          "title": "Trump razglasil premirje med Izraelom in Iranom",
+          "snippet": "",
+          "url": "https://www.dnevnik.si/novice/svet/trump-sklenil-premirje-iran-in-izrael-z-novimi-medsebojnimi-napadi-2740435/",
+          "source": "Dnevnik"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +117,14 @@
       "title": "weather tomorrow",
       "trafficCount": "500+",
       "pubDate": "Wed, 25 Jun 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_1lSt1GpAli8oEm-WUnmfzEW0AGK5TywA7GZo57uJvyoT7Vob-fnzcg2o9E4",
-      "pictureSource": "The Washington Post",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxNIUG-4QZ7MzLmxfXX9UNk0fcbZaZxsW_sXQLpGPB3jIYYbkMN7CdHdfpNM",
+      "pictureSource": "Fox 59",
       "relatedSearch": [
         {
-          "title": "CWG Live updates: Heat stays strong today; much cooler Friday",
+          "title": "90° heat holds; is there a break coming soon?",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/weather/2025/06/26/dc-weather-live-updates-hot-thursday-cooler-friday/",
-          "source": "The Washington Post"
+          "url": "https://fox59.com/weather/90-heat-holds-is-there-a-break-coming-soon/",
+          "source": "Fox 59"
         },
         {
           "title": "First Alert Weather Day for dangerous heat and strong storms this evening",
@@ -133,10 +133,10 @@
           "source": "WIS News 10"
         },
         {
-          "title": "90° heat holds; is there a break coming soon?",
+          "title": "Thursday brings more heat and storm chances",
           "snippet": "",
-          "url": "https://fox59.com/weather/90-heat-holds-is-there-a-break-coming-soon/",
-          "source": "Fox 59"
+          "url": "https://www.wcpo.com/weather/when-well-see-pop-up-storms-today",
+          "source": "WCPO 9 Cincinnati"
         }
       ],
       "link": "https://imtaqin.id/"
