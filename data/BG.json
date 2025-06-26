@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-26 18:30:28",
+  "lastUpdate": "2025-06-26 18:44:32",
   "data": [
     {
       "title": "петко рафаилов",
@@ -15,16 +15,16 @@
           "source": "Dnevnik"
         },
         {
-          "title": "Прокурорът по делото за корупция насочи внимание към партиен офис на бул. \"Цар Освободител\" в София",
-          "snippet": "",
-          "url": "https://dnes.dir.bg/na-fokus/prokurorat-po-deloto-za-koruptsiya-posochi-ofis-na-partiya-na-bul-tsar-osvoboditel-v-sofiya",
-          "source": "Dir"
-        },
-        {
           "title": "Никола Барбутов остава в ареста",
           "snippet": "",
           "url": "https://nova.bg/news/view/2025/06/26/502247/%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0-%D0%B1%D0%B0%D1%80%D0%B1%D1%83%D1%82%D0%BE%D0%B2-%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0-%D0%B2-%D0%B0%D1%80%D0%B5%D1%81%D1%82%D0%B0/",
           "source": "Nova.bg"
+        },
+        {
+          "title": "Никола Барбутов остава в ареста",
+          "snippet": "",
+          "url": "https://www.vesti.bg/bulgaria/nikola-barbutov-ostava-v-aresta-6231959",
+          "source": "Vesti.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +61,9 @@
       "title": "георги клисурски",
       "trafficCount": "500+",
       "pubDate": "Wed, 25 Jun 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS82gFpcfUOg3uu9DX9LaaP1YQSK5StuZh2toVcz7OX9SWKToSa0n_BUbKHLTk",
-      "pictureSource": "Mediapool.bg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqe7XDzcTWB0ENfpqAqTA2d4h3qE6BW5jI-MAgV8VEhs6x8romXYl8jQKIV8",
+      "pictureSource": "Новини СЕГА",
       "relatedSearch": [
-        {
-          "title": "Разпад? Заваляха оставки в \"Продължаваме промяната\"",
-          "snippet": "",
-          "url": "https://www.mediapool.bg/razpad-zavalyaha-ostavki-v-prodalzhavame-promyanata-news372640.html",
-          "source": "Mediapool.bg"
-        },
         {
           "title": "Още петима напуснаха \"Продължаваме промяната\"",
           "snippet": "",
@@ -77,10 +71,16 @@
           "source": "Новини СЕГА"
         },
         {
-          "title": "Константин Бачийски за трусовете в \"Продължаваме промяната\"",
+          "title": "Разпад? Заваляха оставки в \"Продължаваме промяната\"",
           "snippet": "",
-          "url": "https://www.btv.bg/shows/lice-v-lice/videos/konstantin-bachijski-za-trusovete-v-prodalzhavame-promjanata.html",
-          "source": "bTV"
+          "url": "https://www.mediapool.bg/razpad-zavalyaha-ostavki-v-prodalzhavame-promyanata-news372640.html",
+          "source": "Mediapool.bg"
+        },
+        {
+          "title": "ДБ реши: Няма да цепим коалицията с ПП “за кефа на Борисов и Пеевски” (Обзор)",
+          "snippet": "",
+          "url": "https://www.24chasa.bg/bulgaria/article/20796140",
+          "source": "www.24chasa.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,26 +105,26 @@
       "title": "поглед инфо",
       "trafficCount": "100+",
       "pubDate": "Wed, 25 Jun 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsH7uccrCKBWxA8voBwmEkjpnXwIadmqh2NTZ8_xno5q0QRm-soS6iwSc5qOY",
-      "pictureSource": "www.24chasa.bg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTs-TuLXsZhRk9az1g8iu7edgv6xiqOOj_tlEEuGkIwsMXfuQzGM9-oGv4CR8",
+      "pictureSource": "News.bg",
       "relatedSearch": [
         {
-          "title": "Шефът на израелското разузнаване: Продължаваме да действаме в Иран",
+          "title": "Мосад остава в Иран и след края на войната",
           "snippet": "",
-          "url": "https://www.24chasa.bg/mezhdunarodni/article/20789384",
-          "source": "www.24chasa.bg"
+          "url": "https://news.bg/int-politics/mosad-ostava-v-iran-i-sled-kraya-na-voynata.html",
+          "source": "News.bg"
+        },
+        {
+          "title": "И след края на войната: Израелското разузнаване ще продължи да действа в Иран",
+          "snippet": "",
+          "url": "https://btvnovinite.bg/svetut/i-sled-kraja-na-vojnata-izraelskoto-razuznavane-shte-prodalzhi-da-dejstva-v-iran.html",
+          "source": "bTV Новините"
         },
         {
           "title": "Директорът на МОСАД: Ще продължим да действаме в Иран",
           "snippet": "",
           "url": "https://www.focus-news.net/novini/mejdunarodni/Direktorut-na-MOSAD-Shte-produlzhim-da-deistvame-v-Iran-2607148",
           "source": "ФОКУС"
-        },
-        {
-          "title": "„Орешник“ също е под удар. Когато е необходимо, те просто ще въведат координатите: Всички ядрени обекти на Русия са като на длан",
-          "snippet": "",
-          "url": "https://pogled.info/svetoven/russia/oreshnik-sashto-e-pod-udar-kogato-e-neobhodimo-te-prosto-shte-vavedat-koordinatite-vsichki-yadreni-obekti-na-rusiya-sa-kato-na-dlan.182936",
-          "source": "Поглед Инфо"
         }
       ],
       "link": "https://imtaqin.id/"
