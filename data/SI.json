@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-06-26 13:40:47",
+  "lastUpdate": "2025-06-26 13:51:29",
   "data": [
     {
       "title": "severe thunderstorm warning",
       "trafficCount": "100+",
       "pubDate": "Thu, 26 Jun 2025 06:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3AlYuRnu3ryc8GmCegedJAlCaDUG2Zb3IIqZ5Rm0XTO2uQeXiLITHj0TrQdc",
-      "pictureSource": "ABC Columbia",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQda9wqMAgJ6msACSPE0nLeXuE3IowLKxWGaCf36YxeHRHbG10aIQ9Ro1hImvY",
+      "pictureSource": "Rock Hill Herald",
       "relatedSearch": [
+        {
+          "title": "Severe thunderstorm watch in place for Midlands until early Thursday",
+          "snippet": "",
+          "url": "https://www.heraldonline.com/news/weather-news/article309445935.html",
+          "source": "Rock Hill Herald"
+        },
         {
           "title": "Severe storms blow through the Midlands",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.islandpacket.com/news/weather-news/article309439805.html",
           "source": "Hilton Head Island Packet"
-        },
-        {
-          "title": "Thunderstorms with damaging winds in Pee Dee Wednesday – gusts up to 60 mph",
-          "snippet": "",
-          "url": "https://www.heraldonline.com/news/weather-news/article309433970.html",
-          "source": "Rock Hill Herald"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,14 +33,14 @@
       "title": "opozorilo glede močne nevihte",
       "trafficCount": "5000+",
       "pubDate": "Wed, 25 Jun 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvCkPqU5QgGuH1Xlv-L8xBwsaJ92NZs26Kb70923eGiArl-_hWX5-JXuDTShU",
-      "pictureSource": "24ur.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQWnNtoVoDliC7YQdqZMpPlSP8hByFTxsvX5jPbWM5y37lwv1-J1Fi_DSz70",
+      "pictureSource": "Slovenske novice",
       "relatedSearch": [
         {
-          "title": "Trojno oranžno opozorilo za vso Slovenijo",
+          "title": "Meteorologi za danes izdali oranžno opozorilo! Zvečer bodo te kraje zajele nevihte",
           "snippet": "",
-          "url": "https://www.24ur.com/novice/slovenija/trojno-opozorilo-za-vso-slovenijo.html",
-          "source": "24ur.com"
+          "url": "https://www.slovenskenovice.si/novice/slovenija/meteorologi-za-danes-izdali-oranzno-opozorilo-zvecer-bodo-te-kraje-zajele-nevihte/",
+          "source": "Slovenske novice"
         },
         {
           "title": "Kaj nas čaka ponoči? Podoben scenarij se je zgodil leta 2023",
@@ -49,10 +49,10 @@
           "source": "Večer.com"
         },
         {
-          "title": "Meteorologi za danes izdali oranžno opozorilo! Zvečer bodo te kraje zajele nevihte",
+          "title": "Trojno oranžno opozorilo za vso Slovenijo",
           "snippet": "",
-          "url": "https://www.slovenskenovice.si/novice/slovenija/meteorologi-za-danes-izdali-oranzno-opozorilo-zvecer-bodo-te-kraje-zajele-nevihte/",
-          "source": "Slovenske novice"
+          "url": "https://www.24ur.com/novice/slovenija/trojno-opozorilo-za-vso-slovenijo.html",
+          "source": "24ur.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +61,20 @@
       "title": "novice",
       "trafficCount": "100+",
       "pubDate": "Wed, 25 Jun 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-_sbnk4BdMlxzu2LjSBgCYkyEAw10Qk-aeSPTqpYxgs1aHAaVXnjNlLS87E",
-      "pictureSource": "rtvslo.si",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKCiSBwJr6cBTBL4UQQey9dwN5L7vxkpXvsO7hk75H-D-VYCB0dE10oeQWlXc",
+      "pictureSource": "24ur.com",
       "relatedSearch": [
-        {
-          "title": "Hamenej: ZDA smo zadali močan udarec. Pentagon: Napadi na Iran so bili zgodovinski uspeh.",
-          "snippet": "",
-          "url": "https://www.rtvslo.si/svet/bliznji-vzhod/hamenej-zda-smo-zadali-mocan-udarec-pentagon-napadi-na-iran-so-bili-zgodovinski-uspeh/750122",
-          "source": "rtvslo.si"
-        },
         {
           "title": "Cia: Iranski jedrski program v ameriških napadih resno poškodovan",
           "snippet": "",
           "url": "https://www.24ur.com/novice/tujina/cia-iranski-jedrski-program-v-ameriskih-napadih-resno-poskodovan.html",
           "source": "24ur.com"
+        },
+        {
+          "title": "Hamenej: ZDA smo zadali močan udarec. Pentagon: Napadi na Iran so bili zgodovinski uspeh.",
+          "snippet": "",
+          "url": "https://www.rtvslo.si/svet/bliznji-vzhod/hamenej-zda-smo-zadali-mocan-udarec-pentagon-napadi-na-iran-so-bili-zgodovinski-uspeh/750122",
+          "source": "rtvslo.si"
         },
         {
           "title": "\"ZDA niso dosegle nič\"",
@@ -127,10 +127,10 @@
           "source": "The Washington Post"
         },
         {
-          "title": "Heat Advisory continues Thursday with chance for storms",
+          "title": "Heat advisory continues today with chances of showers and storms…How long will it be this hot?",
           "snippet": "",
-          "url": "https://www.wbaltv.com/article/heat-advisory-continues-thursday-weather-chance-storms/65200203",
-          "source": "WBAL-TV"
+          "url": "https://www.wdtn.com/weather/daily-forecast/heat-advisory-continues-today-with-chances-of-showers-and-storms-how-long-will-it-be-this-hot/",
+          "source": "WDTN.com"
         },
         {
           "title": "Impact day: Staying steamy, again, but pop-ups possible for brief relief",
