@@ -1,58 +1,39 @@
 {
-  "lastUpdate": "2025-06-28 01:12:33",
+  "lastUpdate": "2025-06-28 01:55:31",
   "data": [
+    {
+      "title": "видео",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Jun 2025 17:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Jun 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQROfgzaGZrCY7Jmp6yQo-mMcTRSzpGfFBhVgcYLNeLkNtLHRVfh13xmo_EEYQ",
-      "pictureSource": "Durham Herald Sun",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ1R9VB5D4ijJz_aORG_JRWITq42NFhoprFMtULZozLd2v6J0vz1GmNCXPHQg",
+      "pictureSource": "WXII",
       "relatedSearch": [
         {
-          "title": "UPDATE: Thunderstorms with penny-sized hail in Mecklenburg County",
+          "title": "Low severe storm risk Friday afternoon, summer pattern continues this weekend",
           "snippet": "",
-          "url": "https://www.heraldsun.com/news/weather-news/article309593610.html",
+          "url": "https://www.wxii12.com/article/storms-friday-hot-summer-pattern-north-carolina-weekend/65223262",
+          "source": "WXII"
+        },
+        {
+          "title": "Severe thunderstorm warning issued Friday for Wake, Durham, Granville, Johnston, Sampson counties",
+          "snippet": "",
+          "url": "https://www.cbs17.com/weather/severe-weather/severe-thunderstorm-warning-issued-friday-for-moore-hoke-counties/",
+          "source": "CBS17.com"
+        },
+        {
+          "title": "Weather alert active for the Piedmont region early Friday evening, says the NWS",
+          "snippet": "",
+          "url": "https://www.heraldsun.com/news/weather-news/article309579105.html",
           "source": "Durham Herald Sun"
-        },
-        {
-          "title": "Midlands residents face outages amid summer storms",
-          "snippet": "",
-          "url": "https://www.wltx.com/article/news/local/summer-storms-power-outages/101-e55d602e-d11c-464a-97b1-4d475ea9764c",
-          "source": "WLTX"
-        },
-        {
-          "title": "Storm leaves Arcadia Lakes residents without power amid June heat",
-          "snippet": "",
-          "url": "https://wach.com/news/local/storm-leaves-arcadia-lakes-residents-without-power-amid-june-heat",
-          "source": "WACH"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vl.ru",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Jun 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM1KxnZjmL2VsnghVgVl3MJkzQtVW8lDHAvVzdZwx2y5XYWKVF-TcNSYzc6x0",
-      "pictureSource": "Новости Владивостока на VL.ru",
-      "relatedSearch": [
-        {
-          "title": "С прибытием во Владивосток задерживаются рейсы из Даляня и Санкт-Петербурга",
-          "snippet": "",
-          "url": "https://www.newsvl.ru/vlad/2025/06/28/232460/",
-          "source": "Новости Владивостока на VL.ru"
-        },
-        {
-          "title": "Несколько воздушных судов из Москвы, Новосибирска и Санкт-Петербурга 27 июня прилетают во Владивосток с задержкой",
-          "snippet": "",
-          "url": "http://trud-ost.ru/?p=944351",
-          "source": "ДВ-РОСС"
-        },
-        {
-          "title": "Все рейсы в аэропорту Владивостока выполняются по расписанию",
-          "snippet": "",
-          "url": "https://www.newsvl.ru/vlad/2025/06/23/232351/",
-          "source": "Новости Владивостока на VL.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +62,34 @@
           "snippet": "",
           "url": "http://government.ru/news/55469/",
           "source": "Правительство России"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vl.ru",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Jun 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM1KxnZjmL2VsnghVgVl3MJkzQtVW8lDHAvVzdZwx2y5XYWKVF-TcNSYzc6x0",
+      "pictureSource": "Новости Владивостока на VL.ru",
+      "relatedSearch": [
+        {
+          "title": "С прибытием во Владивосток задерживаются рейсы из Даляня и Санкт-Петербурга",
+          "snippet": "",
+          "url": "https://www.newsvl.ru/vlad/2025/06/28/232460/",
+          "source": "Новости Владивостока на VL.ru"
+        },
+        {
+          "title": "Несколько воздушных судов из Москвы, Новосибирска и Санкт-Петербурга 27 июня прилетают во Владивосток с задержкой",
+          "snippet": "",
+          "url": "http://trud-ost.ru/?p=944351",
+          "source": "ДВ-РОСС"
+        },
+        {
+          "title": "Все рейсы в аэропорту Владивостока выполняются по расписанию",
+          "snippet": "",
+          "url": "https://www.newsvl.ru/vlad/2025/06/23/232351/",
+          "source": "Новости Владивостока на VL.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://161.ru/text/politics/2025/06/27/75644702/",
           "source": "161.ру"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости москва",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Jun 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP5fGmzPYeQMCEuL98GUw7jMiErCiB5lpusJuFnLTF5kiR13ODO-oDH__NfMo",
-      "pictureSource": "GISMETEO.Новости",
-      "relatedSearch": [
-        {
-          "title": "Погода в Москве: 30 июня пройдет «репетиция осени»",
-          "snippet": "",
-          "url": "https://www.gismeteo.ru/news/weather/pogoda-v-moskve-30-ijunya-projdet-repeticiya-oseni/",
-          "source": "GISMETEO.Новости"
-        },
-        {
-          "title": "Температура в Москве повысится до 25 градусов в середине следующей недели",
-          "snippet": "",
-          "url": "https://www.interfax.ru/moscow/1033300",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Синоптик Шувалов рассказал о прогнозе погоды на июль в Москве",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/66761366/",
-          "source": "Mail.ru"
         }
       ],
       "link": "https://imtaqin.id/"
