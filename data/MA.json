@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-06-29 08:22:04",
+  "lastUpdate": "2025-06-29 08:35:24",
   "data": [
     {
       "title": "météo",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Sat, 28 Jun 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyRHIHAh2TLfnh66VfKy7hJ_SZZbCa6n6xmFJMHN1o-ti8o6_JRFb_6RMSHT8",
-      "pictureSource": "Le Monde.fr",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRidtWWr9PUEijPK5f5gRsrcKSsq6V2SOR_TyO4UjH4SLNKeEzZVj39rEndBGI",
+      "pictureSource": "La Chaîne Météo",
       "relatedSearch": [
+        {
+          "title": "Alerte Météo : Vers une canicule historique ces prochains jours",
+          "snippet": "",
+          "url": "https://actualite.lachainemeteo.com/alerte-meteo/8586-vers-une-canicule-historique-ces-prochains-jours",
+          "source": "La Chaîne Météo"
+        },
         {
           "title": "Canicule : la vigilance orange étendue dimanche à 73 départements, annonce Météo-France",
           "snippet": "",
@@ -19,12 +25,34 @@
           "snippet": "",
           "url": "https://meteofrance.com/actualites-et-dossiers/actualites/canicule-encore-de-tres-fortes-chaleurs",
           "source": "METEO France"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 28 Jun 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPtU05nhTgAPTcbPocHCGEzPmLa3VjJUH5hTnKXdqX36SKP9E8HBaGRQ_mccU",
+      "pictureSource": "CBS News",
+      "relatedSearch": [
+        {
+          "title": "NEXT Weather: 10 p.m. weather report for Saturday, June 28, 2025",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/minnesota/video/next-weather-10-p-m-weather-report-for-saturday-june-28-2025/",
+          "source": "CBS News"
         },
         {
-          "title": "Canicule : les conseils du docteur Jimmy Mohamed pour moins souffrir de la chaleur",
+          "title": "Forecast First Alert: Severe storms Saturday evening, tornado warnings issued in western Minnesota",
           "snippet": "",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/canicule-les-conseils-du-docteur-jimmy-mohamed-pour-moins-souffrir-de-la-chaleur_7341996.html",
-          "source": "France Info"
+          "url": "https://kstp.com/kstp-news/weather-forecast/forecast-first-alert-severe-storms-possible-on-saturday/",
+          "source": "5 EYEWITNESS NEWS"
+        },
+        {
+          "title": "Minnesota weather: 5 reported tornadoes in Carver County",
+          "snippet": "",
+          "url": "https://www.fox9.com/weather/minnesota-weather-tropical-steamy-storms-possible-june-28",
+          "source": "FOX 9 Minneapolis-St. Paul"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -95,8 +123,8 @@
         {
           "title": "MLS Austin Sounders Soccer",
           "snippet": "",
-          "url": "https://www.couriernews.com/sports/mls-austin-sounders-soccer/image_5925a7d5-1820-590d-8585-6678e90ec778.html",
-          "source": "couriernews.com"
+          "url": "https://www.wvnews.com/sports/pro/mls-austin-sounders-soccer/image_81a1a171-3f69-5a3d-bb9b-c8cbff183546.html",
+          "source": "WV News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,15 +189,9 @@
       "title": "di maria",
       "trafficCount": "100+",
       "pubDate": "Sat, 28 Jun 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSufmqP0hMSd6F74x0Nlnq12rUwByxUXWkr1jGzsB3X2ibtPq01BaSGXWF1dQs",
-      "pictureSource": "Prima Milano Ovest",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxs31UoLSewkIqVR28STsS80CT8gsiKTknTCL1Ke1MmnxdppaOfFga6VRNv6g",
+      "pictureSource": "La Gazzetta dello Sport",
       "relatedSearch": [
-        {
-          "title": "A Pechino l’opera di Maria Carmela Suppa",
-          "snippet": "",
-          "url": "https://primamilanoovest.it/attualita/a-pechino-lopera-di-maria-carmela-suppa/",
-          "source": "Prima Milano Ovest"
-        },
         {
           "title": "Benfica - Chelsea: diretta live Coppa del Mondo per Club Calcio 28/06/2025",
           "snippet": "",
@@ -181,6 +203,12 @@
           "snippet": "",
           "url": "https://www.rsi.ch/sport/calcio/Un%E2%80%99interruzione-di-due-ore-che-alimenta-le-polemiche--2938833.html",
           "source": "RSI Radiotelevisione svizzera"
+        },
+        {
+          "title": "Mixed zone, Maresca: “Non è normale interrompere le gare. Siamo qui da due settimane e ne hanno sospese sei o sette, secondo me c’è un problema”",
+          "snippet": "",
+          "url": "https://www.art-news.it/mixed-zone-maresca-non-e-normale-interrompere-le-gare-siamo-qui-da-due-settimane-e-ne-hanno-sospese-sei-o-sette-secondo-me-ce-un-problema/",
+          "source": "ART News - Agenzia Stampa"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,9 +245,15 @@
       "title": "benfica",
       "trafficCount": "500+",
       "pubDate": "Sat, 28 Jun 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHsHvmiw8BH5Tc1GRcGvdjqutwgkbfV2RPC3g56K7ColnfgQuYWZ73PuPkaL0",
-      "pictureSource": "Bola na Rede",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDTJeiLGeq0-v2H3DjbGtHrPqWjQEklt8hciJp5F1vGDjlg6qyErl-T_-N-c",
+      "pictureSource": "CNN Portugal",
       "relatedSearch": [
+        {
+          "title": "Aursnes: «Chelsea fez um jogo muito bom e criou muitas oportunidades»",
+          "snippet": "",
+          "url": "https://cnnportugal.iol.pt/benfica/fredrik-aursnes/aursnes-chelsea-fez-um-jogo-muito-bom-e-criou-muitas-oportunidades",
+          "source": "CNN Portugal"
+        },
         {
           "title": "Bruno Lage faz balanço da época do Benfica incluindo o Mundial de Clubes 2025 e ainda diz: «Há coisas que têm de mudar. Uma de forma radical»",
           "snippet": "",
@@ -231,40 +265,6 @@
           "snippet": "",
           "url": "https://www.flashscore.pt/noticias/futebol-campeonato-do-mundo-de-clubes-ao-vivo-golo-chelsea-nkunku-faz-o-golo-na-recarga-apos-ma-abordagem-de-trubin-109/nu1JezMO/",
           "source": "Flashscore.pt"
-        },
-        {
-          "title": "24h Interrompido jogo de futebol entre Benfica e Chelsea no Mundial de Clubes por ameaça de tempestade",
-          "snippet": "",
-          "url": "https://www.rtp.pt/noticias/noticiario-antena1/24h-interrompido-jogo-de-futebol-entre-benfica-e-chelsea-no-mundial-de-clubes-por-ameaca-de-tempestade_a1_1665608",
-          "source": "RTP"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "موازين",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Jun 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbuWFoDH3G2tmJZkaZeFgNhA8FK3eFtuhQvQW953r2rjJdgsy_4clOTlA5wu8",
-      "pictureSource": "أخبارنا",
-      "relatedSearch": [
-        {
-          "title": "فوضى وطوابير طويلة أمام منصة النهضة قبل حفل شيرين في ختام مهرجان موازين",
-          "snippet": "",
-          "url": "https://www.akhbarona.com/culture/408396.html",
-          "source": "أخبارنا"
-        },
-        {
-          "title": "شيرين عبد الوهاب بلفتة إنسانية وموقف محرج في \"موازين\" (فيديو)",
-          "snippet": "",
-          "url": "https://www.lahamag.com/article/226432-%D8%B4%D9%8A%D8%B1%D9%8A%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%A8%D9%84%D9%81%D8%AA%D8%A9-%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D9%88%D9%82%D9%81-%D9%85%D8%AD%D8%B1%D8%AC-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-          "source": "Laha Magazine"
-        },
-        {
-          "title": "شيرين بالقفطان المغربي وسط حضور كبير في حفل موازين.. صور",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/6/29/%D8%B4%D9%8A%D8%B1%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%82%D9%81%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%88%D8%B3%D8%B7-%D8%AD%D8%B6%D9%88%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AD%D9%81%D9%84-%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D9%86-%D8%B5%D9%88%D8%B1/7037736",
-          "source": "اليوم السابع"
         }
       ],
       "link": "https://imtaqin.id/"
