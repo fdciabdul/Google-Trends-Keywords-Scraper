@@ -1,37 +1,9 @@
 {
-  "lastUpdate": "2025-06-29 04:39:53",
+  "lastUpdate": "2025-06-29 04:53:37",
   "data": [
     {
-      "title": "29 червня",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Jun 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQT0wxEWVvkD1tQ3XvdMswb7NVvVQGtCzH409hZ76PxFZN67UemU6EswzfnsVQ",
-      "pictureSource": "24 Канал",
-      "relatedSearch": [
-        {
-          "title": "Дощі, сильні шквали та до 29 градусів тепла: прогноз погоди на 29 червня",
-          "snippet": "",
-          "url": "https://24tv.ua/pogoda-ukrayini-29-chervnya-2025-roku-prognoz-pogodi-nedilyu_n2857825",
-          "source": "24 Канал"
-        },
-        {
-          "title": "Україну в неділю накриють короткочасні дощі та поривчастий вітер",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/06/28/7519231/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Дощ лише у трьох областях. Синоптики повідомили, яка погода в Україні буде в останній день червня",
-          "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/events/prognoz-pogodi-na-cherven-2025-v-yakih-oblastyah-proyde-doshch-u-ponedilok-i-de-vnochi-bude-lishe-11-50525611.html",
-          "source": "NV.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "матч тв",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Jun 2025 20:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3aiEmbmlL-ISUQWppHGd9M6lKwqbyBZqakBf2SSLO_XHL8ctkrZLIig6SeLQ",
       "pictureSource": "Sportbox",
@@ -58,6 +30,62 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "новини рівне",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Jun 2025 20:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDUkdHLDIPNigQmXofK0StxzPD4YzybeZeMxFLtLP0yg8wouyliivlxGV7adk",
+      "pictureSource": "Рівне Вечірнє",
+      "relatedSearch": [
+        {
+          "title": "У небі над Рівненщиною літають «Шахеди». Область - Новини Рівного та області",
+          "snippet": "",
+          "url": "https://rivnepost.rv.ua/news/u-nebi-nad-rivnenshchinoyu-litayut-shakhedi",
+          "source": "Рівне Вечірнє"
+        },
+        {
+          "title": "Вночі у Рівненській області сталися вибухи: що відомо",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/vnochi-u-rivnenskiy-oblasti-stalysia-vybukhy-shcho-vidomo-2858204.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "На Миколаївщині вибухотехніки знищили осколкові боєприпаси",
+          "snippet": "",
+          "url": "https://suspilne.media/mykolaiv/1052617-na-mikolaivsini-vibuhotehniki-znisili-oskolkovi-boepripasi/",
+          "source": "Суспільне | Новини"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода сьогодні",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Jun 2025 20:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQT0wxEWVvkD1tQ3XvdMswb7NVvVQGtCzH409hZ76PxFZN67UemU6EswzfnsVQ",
+      "pictureSource": "24 Канал",
+      "relatedSearch": [
+        {
+          "title": "Дощі, сильні шквали та до 29 градусів тепла: прогноз погоди на 29 червня",
+          "snippet": "",
+          "url": "https://24tv.ua/pogoda-ukrayini-29-chervnya-2025-roku-prognoz-pogodi-nedilyu_n2857825",
+          "source": "24 Канал"
+        },
+        {
+          "title": "Україну в неділю накриють короткочасні дощі та поривчастий вітер",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/06/28/7519231/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Дощ лише у трьох областях. Синоптики повідомили, яка погода в Україні буде в останній день червня",
+          "snippet": "",
+          "url": "https://nv.ua/ukr/ukraine/events/prognoz-pogodi-na-cherven-2025-v-yakih-oblastyah-proyde-doshch-u-ponedilok-i-de-vnochi-bude-lishe-11-50525611.html",
+          "source": "NV.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "новости украина",
       "trafficCount": "500+",
       "pubDate": "Sat, 28 Jun 2025 19:50:00 -0700",
@@ -71,18 +99,36 @@
           "source": "Українська правда"
         },
         {
-          "title": "Кременчуг под комбинированным обстрелом: ракеты и дроны атаковали город",
+          "title": "Ракеты летели на Львов, под ударом Запад Украины: все о последствиях комбинированной атаки РФ",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/kremenchuk-pid-kombinovanim-obstrilom-raketi-1751156082.html",
+          "url": "https://www.rbc.ua/ukr/news/raketi-letili-lviv-pid-udarom-zahid-ukrayini-1751163247.html",
           "source": "РБК-Україна"
         },
         {
-          "title": "РФ массированно атаковала Украину дронами и ракетами",
+          "title": "РФ впервые за долгое время ударила по Львову: стали известны последствия атаки",
           "snippet": "",
-          "url": "https://www.unian.net/war/ataka-po-ukraine-29-iyunya-rossiyane-zapustili-drony-v-nebe-bombardirovshchiki-tu-95ms-13052109.html",
+          "url": "https://www.unian.net/war/novosti-lvov-rossiya-vpervye-za-dolgoe-vremya-udarila-po-lvovu-13052118.html",
           "source": "УНИАН"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новини укрнет",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Jun 2025 19:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "волинські новини",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 28 Jun 2025 19:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -157,84 +203,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "галич",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Jun 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5HePSdT6haBy9Jv6YjrL_MKLil4GzODf2Xw3SLQbFaMr7_L-s-TWtXYmZVE",
-      "pictureSource": "Информационный портал Sm News",
-      "relatedSearch": [
-        {
-          "title": "Ида Галич показала беременный животик в откровенной фотосессии: Я огромная, заявила она",
-          "snippet": "",
-          "url": "https://sm.news/zvezda-iz-interneta-predstala-v-elegantnom-chernom-plate-no-s-bolshim-zhivotom-71658/",
-          "source": "Информационный портал Sm News"
-        },
-        {
-          "title": "Ида Галич поделилась своей формой во время беременности",
-          "snippet": "",
-          "url": "https://peopletalk.ru/article/ida-galich-podelilas-svoej-formoj-vo-vremya-beremennosti/",
-          "source": "Peopletalk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "молдова",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Jun 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtFxjM0jCFHyzxfgZFWAuoJ-MB-RaRLDWVSjnEEiTmI6VZ9ogrow44YQp6g6U",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "В ЕС пока не рассматривают разделение путей Украины и Молдовы по поводу вступления",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/06/27/7519130/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Президент Румынии заявил, что ошибся, когда говорил о начале переговоров ЕС с Молдовой 4 июля",
-          "snippet": "",
-          "url": "https://nv.ua/world/geopolitics/prezident-rumynii-govorit-chto-oshibsya-kogda-govoril-o-nachale-peregovorov-es-s-moldovoy-50525579.html",
-          "source": "NV.ua"
-        },
-        {
-          "title": "Молдова, вероятно, вступит в ЕС раньше Украины, - политолог",
-          "snippet": "",
-          "url": "https://www.unian.net/world/moldova-veroyatno-vstupit-v-es-ranshe-ukrainy-politolog-13051959.html",
-          "source": "УНИАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "чортків",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Jun 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmfOl53BDwPhY3iKRquH1TRtQ8CvVuZbLtZ5nXmOA7CV_Ew48tznTlN8D3TCE",
-      "pictureSource": "Суспільне | Новини",
-      "relatedSearch": [
-        {
-          "title": "У ДТП на Тернопільщині загинула 17-річна дівчина",
-          "snippet": "",
-          "url": "https://suspilne.media/ternopil/1053811-u-dtp-na-ternopilsini-zaginula-17-ricna-divcina/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "\"Її смерть — це жахливий біль\": названо ім'я 17-річної дівчини, яка загинула у ДТП за участю мотоциклів на Тернопільщині",
-          "snippet": "",
-          "url": "https://www.0352.ua/news/3966213/ii-smert-ce-zahlivij-bil-nazvano-ima-17-ricnoi-divcini-aka-zaginula-u-dtp-za-ucastu-motocikliv-na-ternopilsini",
-          "source": "0352.ua - Сайт міста Тернополя"
-        },
-        {
-          "title": "Смертельна ДТП у Шманьківчиках: не розминулися мотоциклісти",
-          "snippet": "",
-          "url": "https://ternopoliany.te.ua/zhittya/104357-smertelna-dtp-u-shmankivchykakh-ne-rozmynulysia-mototsyklisty",
-          "source": "Тернополяни"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
