@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-07-01 06:57:51",
+  "lastUpdate": "2025-07-01 07:09:30",
   "data": [
+    {
+      "title": "ижевск",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 30 Jun 2025 23:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx7GX_CzKBHPPk0_r4oeXYsLhhFVPLERLNRmlH9hlrRuDH2d9Twyt91isN0wg",
+      "pictureSource": "РБК-Україна",
+      "relatedSearch": [
+        {
+          "title": "В России жалуются на атаку дронов на Ижевск, под ударом завод \"Купол\"",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/rosiyi-poskarzhilis-ataku-droniv-izhevsk-1751353183.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "БпЛА атаковали Ижевск в России: под ударом одно из предприятий города",
+          "snippet": "",
+          "url": "https://24tv.ua/ru/udar-po-izhevsku-01072025-atakovano-predprijatie-video-24-kanal_n2859516",
+          "source": "24 Канал"
+        },
+        {
+          "title": "Беспилотники атаковали одно из предприятий Ижевска",
+          "snippet": "",
+          "url": "https://susanin.news/udmurtia/incidents/20250701-328255/",
+          "source": "ИА «Сусанин"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "таганрог",
       "trafficCount": "200+",
@@ -15,16 +43,16 @@
           "source": "War OBOZREVATEL"
         },
         {
+          "title": "Завод загорелся на Дону после атаки дронов. Спросили у властей, что с ним?",
+          "snippet": "",
+          "url": "https://161.ru/text/incidents/2025/06/26/75640181/",
+          "source": "161.ру"
+        },
+        {
           "title": "Украинские дроны массово атаковали Ростовскую область",
           "snippet": "",
           "url": "https://ura.news/news/1052957029",
           "source": "URA.RU"
-        },
-        {
-          "title": "В Таганроге БПЛА выбил стекла в доме и разбил несколько машин",
-          "snippet": "",
-          "url": "https://www.1rnd.ru/news/proisshestviya/v-taganroge-bpla-vybil-stekla-v-dome-i-razbil-neskolko-mashin/",
-          "source": "Новости Ростова-на-Дону"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +71,16 @@
           "source": "Суспільне | Новини"
         },
         {
-          "title": "Україна вилетіла з першого дивізіону командного чемпіонату Європи",
-          "snippet": "",
-          "url": "https://champion.com.ua/ukr/athletics/ukrajina-viletila-z-pershogo-divizionu-komandnogo-chempionatu-yevropi-1041565/",
-          "source": "Champion.com.ua"
-        },
-        {
           "title": "Легка атлетика: Україна - у другій десятці командного ЧЄ",
           "snippet": "",
           "url": "https://ua.korrespondent.net/sport/4794663-lehka-atletyka-ukraina-u-druhii-desiattsi-komandnoho-chie",
           "source": "Korrespondent.net"
+        },
+        {
+          "title": "Саладуха: Ми понизилися в класі, але це не поразка",
+          "snippet": "",
+          "url": "https://champion.com.ua/ukr/athletics/prezident-flau-mi-ponizilisya-v-klasi-ale-ce-ne-porazka-1041601/",
+          "source": "Champion.com.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,26 +154,54 @@
       "title": "газ",
       "trafficCount": "100+",
       "pubDate": "Mon, 30 Jun 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS--w7c0u_P_OenYwrDycQIyyiMSVXF2waklFibVd7NxBb-nF4TqYEMiAf3SvM",
-      "pictureSource": "УНИАН",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2C591NQnUTVP6A3-PV7RgY_eCdzbOmkRBUt3GXpHrQ_HXDQ-X818-7QQahdA",
+      "pictureSource": "Економічна правда",
       "relatedSearch": [
         {
-          "title": "Газ на июль подорожал: какие тарифы для украинцев установили поставщики",
+          "title": "Российский теневой флот готовит новую попытку наладить экспорт СПГ - Bloomberg",
           "snippet": "",
-          "url": "https://www.unian.net/economics/energetics/tarif-na-gaz-skolko-stoit-1-kub-gaza-v-ukraine-2025-dlya-naseleniya-v-iyule-13053345.html",
-          "source": "УНИАН"
+          "url": "https://epravda.com.ua/rus/energetika/rossiya-mobilizuet-tenevoy-flot-dlya-novoy-popytki-oboyti-sankcii-808613/",
+          "source": "Економічна правда"
         },
         {
-          "title": "Июльские тарифы на газ уже установили: кто будет платить существенно больше",
+          "title": "СМИ узнали о попытках РФ расширить экспорт СПГ",
           "snippet": "",
-          "url": "https://help.hvylya.net/313367-iyulskie-tarify-na-gaz-uzhe-ustanovili-kto-budet-platit-sushchestvenno-bolshe",
-          "source": "hvylya.net"
+          "url": "https://korrespondent.net/world/russia/4794512-smy-uznaly-o-popytkakh-rf-rasshyryt-eksport-sph",
+          "source": "Korrespondent.net"
         },
         {
-          "title": "Изменение тарифов на комуналку может происходить только на основании обоснования со стороны их поставщика — Госпродпотребслужба",
+          "title": "Россия пытается восстановить экспорт сжиженного газа, сорванный санкциями, - Bloomberg",
           "snippet": "",
-          "url": "https://sud.ua/ru/news/ukraine/334790-izmenenie-tarifov-na-komunalku-mozhet-proiskhodit-tolko-na-osnovanii-obosnovaniya-so-storony-ikh-postavschika-gosprodpotrebsluzhba",
-          "source": "Судово-юридична газета"
+          "url": "https://www.rbc.ua/ukr/news/rosiya-namagaetsya-vidnoviti-eksport-skraplenogo-1751262076.html",
+          "source": "РБК-Україна"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "геомагнітні бурі",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 30 Jun 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2gnbEo1bNsBrQ0NZ9wNBxEiIWVXxsRkhJpPnZGDyNkDcK_VoSd1dcE0a8I_M",
+      "pictureSource": "Главком",
+      "relatedSearch": [
+        {
+          "title": "Прогноз магнітних бур на 1-3 липня: якою буде сонячна активність",
+          "snippet": "",
+          "url": "https://glavcom.ua/country/health/prohnoz-mahnitnikh-bur-na-1-3-lipnja-jakoju-bude-sonjachna-aktivnist-1065846.html",
+          "source": "Главком"
+        },
+        {
+          "title": "Магнітна буря 1 липня: чого очікувати від сонячної активності",
+          "snippet": "",
+          "url": "https://tsn.ua/other/mahnitna-buria-1-lypnia-choho-ochikuvaty-vid-soniachnoyi-aktyvnosti-2860310.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Землю накриє магнітна буря \"червоного рівня\": названо небезпечні дні в липні",
+          "snippet": "",
+          "url": "https://www.obozrevatel.com/ukr/novosti-obschestvo/zemlyu-nakrie-magnitna-burya-chervonogo-rivnya-nazvano-nebezpechni-dni-v-lipni.htm",
+          "source": "Obozrevatel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://24tv.ua/ru/bpla-atakujut-odesskuju-oblast-slyshny-vzryvy-rabotaet-pvo_n2858550",
           "source": "24 Канал"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "день ветеранов боевых действий",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 30 Jun 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9wcj9biX9fb7pZHbIX2WjNPlDRXPaTU1BtNWXiF3Y3DPjzceo-vCnT6HTYA",
-      "pictureSource": "Новости Севастополя | ОБЪЕКТИВ",
-      "relatedSearch": [
-        {
-          "title": "Сегодня – Ярилин день, Макушка лета",
-          "snippet": "",
-          "url": "https://obyektiv.press/news/segodnya-yarilin-den-makushka-leta",
-          "source": "Новости Севастополя | ОБЪЕКТИВ"
-        },
-        {
-          "title": "Евгений Первышов поздравил тамбовчан с Днём ветеранов боевых действий",
-          "snippet": "",
-          "url": "https://michpravda.ru/news/society/2025-07-01/evgeniy-pervyshov-pozdravil-tambovchan-s-dnyom-veteranov-boevyh-deystviy-287606",
-          "source": "Мичуринская правда"
-        },
-        {
-          "title": "Руслан Татаринов: ветеранские организации – самая главная и нужная опора государства",
-          "snippet": "",
-          "url": "https://spravedlivo.ru/15331110",
-          "source": "Справедливая Россия"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "уз",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 30 Jun 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBKtv0t8UlvJJMdxTZ_wRzAPAVDlGlrnV296o9iqJ4U8vm1lLUbf7q8qUFx3g",
-      "pictureSource": "ТиКиїв",
-      "relatedSearch": [
-        {
-          "title": "Провідник Укрзалізниці станцював із пасажирами й став популярним у TikTok",
-          "snippet": "",
-          "url": "https://tykyiv.com/news/providnik-ukrzaliznitsi-stantsiuvav-iz-pasazhirami-i-stav-populiarnim-u-tiktok/",
-          "source": "ТиКиїв"
-        },
-        {
-          "title": "В одному з вагонів потяга Укрзалізниці провідник та пасажири влаштували вечірку",
-          "snippet": "",
-          "url": "https://acc.cv.ua/news/ukraine/v-odnomu-z-vagoniv-potyaga-ukrzaliznici-providnik-ta-pasazhiri-vlashtuvali-vechirku-112046",
-          "source": "агентство АСС."
-        },
-        {
-          "title": "Провідник \"Укрзалізниці\" станцював із пасажирами поїзда. Відео з ним набрало 1,4 млн...",
-          "snippet": "",
-          "url": "https://gordonua.com/ukr/news/society/providnik-ukrzaliznitsi-stantsjuvav-z-pasazhirami-pojizdu-video-z-nim-nabralo-1-4-mln-perehljadiv-u-tiktok-1747422.html",
-          "source": "Гордон"
         }
       ],
       "link": "https://imtaqin.id/"
