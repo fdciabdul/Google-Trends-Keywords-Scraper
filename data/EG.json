@@ -1,37 +1,9 @@
 {
-  "lastUpdate": "2025-07-02 17:12:21",
+  "lastUpdate": "2025-07-02 17:24:44",
   "data": [
     {
-      "title": "اخبار الزمالك",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 2 Jul 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTaFl4UbAP4uIuZiXVz6sa5_oT26Nq8vNax-f-pg4jDVo-iZueI1ReVrHO-zA",
-      "pictureSource": "FilGoal",
-      "relatedSearch": [
-        {
-          "title": "خبر في الجول - الأهلي يتوصل لاتفاق لضم محمد شريف",
-          "snippet": "",
-          "url": "https://www.filgoal.com/articles/508507/%D8%AE%D8%A8%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%B5%D9%84-%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D8%B6%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%B4%D8%B1%D9%8A%D9%81",
-          "source": "FilGoal"
-        },
-        {
-          "title": "الزمالك يعلق على تقارير اقتراب عودة محمد شريف الى الأهلي",
-          "snippet": "",
-          "url": "https://www.zamalektoday.com/index.php?go=news&more=168272",
-          "source": "الزمالك اليوم"
-        },
-        {
-          "title": "أحمد شوبير: محمد شريف أهلاوي",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/7/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B4%D9%88%D8%A8%D9%8A%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B4%D8%B1%D9%8A%D9%81-%D8%A3%D9%87%D9%84%D8%A7%D9%88%D9%8A/7042412",
-          "source": "اليوم السابع"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "المغرب اليوم",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Wed, 2 Jul 2025 10:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7R60JiGD8hIqlosBZzfi_BLMu3jHFbLHlXxX6FIwAIsKcwk_cDWIGmKHddg",
       "pictureSource": "جريدة الدستور",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://gate.el-balad.com/3016231",
           "source": "بوابة البلد"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "اخبار الزمالك",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 2 Jul 2025 10:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD_6VeE_HQBd5N3evBAUWILf-ebiYUPeaE6arXlPCBwSxGm5Umj6xX4V2V80c",
+      "pictureSource": "يلاكورة الموقع الرياضى الأول فى الشرق الأوسط",
+      "relatedSearch": [
+        {
+          "title": "مصدر ليلا كورة: الاتفاق تم.. محمد شريف يعود إلى الأهلي",
+          "snippet": "",
+          "url": "https://www.yallakora.com/fifa-cwc/2893/news/515886/%D9%85%D8%B5%D8%AF%D8%B1-%D9%84%D9%8A%D9%84%D8%A7-%D9%83%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AA%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%B4%D8%B1%D9%8A%D9%81-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A",
+          "source": "يلاكورة الموقع الرياضى الأول فى الشرق الأوسط"
+        },
+        {
+          "title": "الزمالك يعلق على تقارير اقتراب عودة محمد شريف الى الأهلي",
+          "snippet": "",
+          "url": "https://www.zamalektoday.com/index.php?go=news&more=168272",
+          "source": "الزمالك اليوم"
+        },
+        {
+          "title": "أحمد شوبير: محمد شريف أهلاوي",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2025/7/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B4%D9%88%D8%A8%D9%8A%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B4%D8%B1%D9%8A%D9%81-%D8%A3%D9%87%D9%84%D8%A7%D9%88%D9%8A/7042412",
+          "source": "اليوم السابع"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,28 +115,28 @@
     },
     {
       "title": "carlos alcaraz",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 2 Jul 2025 09:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_ssK8AhEQvaAu4UWPXz0s0JM-Nj4Ftjf1gy4cL2n0JzpPPR_gfY-r6GvMxUs",
-      "pictureSource": "ATP Tour",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bKedavcerB_kbHYZs2JiHUYT6Q2u80ukEp9aRPIMmQAlkFbiiXx56YI2kvg",
+      "pictureSource": "EL PAÍS",
       "relatedSearch": [
         {
-          "title": "Carlos Alcaraz se blinda en Wimbledon y alcanza 20 victorias en Londres",
+          "title": "Oliver Tarvet - Carlos Alcaraz en directo, el partido de Wimbledon en vivo",
           "snippet": "",
-          "url": "https://www.atptour.com/es/news/wimbledon-2025-miercoles-segunda-ronda-alcaraz-tarvet",
-          "source": "ATP Tour"
+          "url": "https://elpais.com/deportes/tenis/2025-07-02/oliver-tarvet-carlos-alcaraz-en-directo-el-partido-de-wimbledon-en-vivo.html",
+          "source": "EL PAÍS"
         },
         {
-          "title": "Perfil de Oliver Tarvet: ranking, edad, altura, estudio y dinero en premios",
+          "title": "Perfil de Oliver Tarvet: ranking, edad, dinero y restricción por ser ”amateur” en Wimbledon 2025",
           "snippet": "",
           "url": "https://bolavip.com/mx/tenis/perfil-de-oliver-tarvet-ranking-edad-altura-estudio-y-dinero-en-premios",
           "source": "Bolavip"
         },
         {
-          "title": "Oliver Tarvet y el motivo oculto que le impide cobrar su premio de Wimbledon al rival de Alcaraz",
+          "title": "Carlos Alcaraz se blinda en Wimbledon y alcanza 20 victorias en Londres",
           "snippet": "",
-          "url": "https://www.ondacero.es/deportes/tenis/oliver-tarvet-motivo-oculto-que-impide-cobrar-premio-wimbledon-rival-alcaraz_202507026865506377c930725865c327.html",
-          "source": "Onda Cero"
+          "url": "https://www.atptour.com/es/news/wimbledon-2025-miercoles-segunda-ronda-alcaraz-tarvet",
+          "source": "ATP Tour"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "المصري اليوم"
         },
         {
-          "title": "الحلقة 195 من مسلسل المؤسس عثمان: عودة قوية وأساطير جديدة تفتح موسم السابع بإثارة لا تُفوّت",
-          "snippet": "",
-          "url": "https://ar.pressbee.net/show9692644.html?title=%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-195-%D9%85%D9%86-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3-%D8%B9%D8%AB%D9%85%D8%A7%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%88%D8%A3%D8%B3%D8%A7%D8%B7%D9%8A%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%88%D8%B3",
-          "source": "برس بي"
-        },
-        {
           "title": "season 7 بعد طول انتظار.. موعد عرض مسلسل قيامة عثمان الحلقة 195 الموسم السابع والقنوات الناقلة له",
           "snippet": "",
           "url": "https://slashweb.net.eg/93633/season-7-%D8%A8%D8%B9%D8%AF-%D8%B7%D9%88%D9%84-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D9%85%D9%88%D8%B9%D8%AF-%D8%B9%D8%B1%D8%B6-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D9%82%D9%8A%D8%A7%D9%85%D8%A9-%D8%B9/",
           "source": "سلاش ويب"
+        },
+        {
+          "title": "الحلقة 195 من مسلسل المؤسس عثمان: عودة قوية وأساطير جديدة تفتح موسم السابع بإثارة لا تُفوّت",
+          "snippet": "",
+          "url": "https://ar.pressbee.net/show9692644.html?title=%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-195-%D9%85%D9%86-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3-%D8%B9%D8%AB%D9%85%D8%A7%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%88%D8%A3%D8%B3%D8%A7%D8%B7%D9%8A%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%88%D8%B3",
+          "source": "برس بي"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "حامد حمدان",
       "trafficCount": "200+",
       "pubDate": "Wed, 2 Jul 2025 08:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkr-Zgagwnr6pd5srQX4kOwsrYfURlJMLJt3pW5lePOmtD5EF0tEJcne0ems4",
-      "pictureSource": "الزمالك اليوم",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBIVIP4GV376WXE-KAQokhhBaoGDyuB7-PnPPdhv0QEfODtcjEHRJ3Y239Do",
+      "pictureSource": "FilGoal",
       "relatedSearch": [
+        {
+          "title": "خبر في الجول - بتروجت يحدد مطالبه لبيع حامد حمدان لـ الزمالك",
+          "snippet": "",
+          "url": "https://www.filgoal.com/articles/508506/%D8%AE%D8%A8%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84-%D8%A8%D8%AA%D8%B1%D9%88%D8%AC%D8%AA-%D9%8A%D8%AD%D8%AF%D8%AF-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D9%87-%D9%84%D8%A8%D9%8A%D8%B9-%D8%AD%D8%A7%D9%85%D8%AF-%D8%AD%D9%85%D8%AF%D8%A7%D9%86-%D9%84%D9%80-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83",
+          "source": "FilGoal"
+        },
         {
           "title": "تحركات أكثر قوة من الزمالك بشأن صفقة حامد حمدان .. وموقف اللاعب",
           "snippet": "",
@@ -187,12 +193,6 @@
           "snippet": "",
           "url": "https://www.ahlynews.com/%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%8A%D9%81%D8%A7%D8%AC%D8%A6-%D8%A8%D9%86-%D8%B4%D8%B1%D9%82%D9%8A-%D9%88%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-6-%D9%87%D8%AF%D8%A7%D9%8A%D8%A7/",
           "source": "AhlyNews.com"
-        },
-        {
-          "title": "خبر في الجول - جلسة بين الزمالك والبنك الأهلي بشأن أحمد ربيع",
-          "snippet": "",
-          "url": "https://www.filgoal.com/articles/508167",
-          "source": "FilGoal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "الجمهور الإخباري"
         },
         {
-          "title": "«الموبايل ده فركشة»… هاتـــف أوبــو Oppo A78 4G داخل بكاميرا نارية وشحن صاروخي… «جاي يخلصها نار»",
+          "title": "مواصفات Oppo A3 ضد الكسر وأداء سريع مع شاشة AMOLED وشحن فائق السرعة",
           "snippet": "",
-          "url": "https://zahraa.mr/5472483/%D8%A7%D9%84%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84-%D8%AF%D9%87-%D9%81%D8%B1%D9%83%D8%B4%D8%A9-%D9%87%D8%A7%D8%AA%D9%80%D9%80%D9%80%D9%81-%D8%A3%D9%88%D8%A8%D9%80%D9%80%D9%88-oppo-a/",
-          "source": "بوابة الزهراء"
+          "url": "https://atlassport.ps/19262/%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-oppo-a3-%D8%B6%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D8%B1-%D9%88%D8%A3%D8%AF%D8%A7%D8%A1-%D8%B3%D8%B1%D9%8A%D8%B9-%D9%85%D8%B9-%D8%B4%D8%A7%D8%B4%D8%A9-amoled/",
+          "source": "شبكة أطلس سبورت"
         }
       ],
       "link": "https://imtaqin.id/"
