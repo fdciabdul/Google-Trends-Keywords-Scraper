@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-03 23:47:12",
+  "lastUpdate": "2025-07-03 23:53:46",
   "data": [
     {
       "title": "воронеж",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 3 Jul 2025 16:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyBcvqtnxU_UGnsGhPgF63P2rGmAFzotp8kAPhb-hi-a_3QE0kGjGemVgwx6Q",
       "pictureSource": "TV Губерния",
@@ -59,7 +59,7 @@
     },
     {
       "title": "вибухи в києві",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 3 Jul 2025 15:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJZanU7Jyh9uTHSzTdVUyMgtRFRwRmLcUxAzfT2wCqCqnm_XVDIche9-b3xhw",
       "pictureSource": "Korrespondent.net",
@@ -71,16 +71,16 @@
           "source": "Korrespondent.net"
         },
         {
-          "title": "Атака дронів на Київ: наслідки зафіксовані у 13 локаціях",
-          "snippet": "",
-          "url": "https://kyiv.tsn.ua/kyiv/ataka-droniv-na-kyyiv-naslidky-zafiksovani-u-13-lokatsiiakh-2863106.html",
-          "source": "ТСН"
-        },
-        {
           "title": "Росіяни атакують Україну дронами, у Києві пожежі",
           "snippet": "",
           "url": "https://www.unian.ua/war/viyna-v-ukrajini-rosiyani-atakuyut-udarnimi-dronami-13057164.html",
           "source": "УНІАН"
+        },
+        {
+          "title": "Атака Києва російськими безпілотниками: в місті працює Протиповітряна оборона",
+          "snippet": "",
+          "url": "https://suspilne.media/kyiv/1058091-ataka-kieva-rosijskimi-bezpilotnikami-v-misti-pracue-protipovitrana-oborona/",
+          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,9 +182,16 @@
       "title": "кинжал",
       "trafficCount": "500+",
       "pubDate": "Thu, 3 Jul 2025 14:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSM1vvVQvP6YAm7wpom-e7yeDgH_IorbPlUAF1EFpHd6tsPTrRLKX7sexFT1k",
+      "pictureSource": "Новини Live",
+      "relatedSearch": [
+        {
+          "title": "Ukraine is moving closer to EU membership — Zelensky's update",
+          "snippet": "",
+          "url": "https://news.novyny.live/en/gotovi-do-vidkrittia-trokh-klasteriv-zelenskii-pro-vstup-do-ies-264922.html",
+          "source": "Новини Live"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
