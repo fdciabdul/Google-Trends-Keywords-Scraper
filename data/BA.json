@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-06 15:09:28",
+  "lastUpdate": "2025-07-06 15:21:26",
   "data": [
     {
       "title": "f1",
@@ -33,9 +33,28 @@
       "title": "nezavisne novine",
       "trafficCount": "100+",
       "pubDate": "Sat, 5 Jul 2025 22:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo_vtk91PP-yZFw50Oi8P0WubK4UWJZL2f3eWQDHwOH_Sxz25OM6W1Rw1Fc3U",
+      "pictureSource": "Nezavisne novine",
+      "relatedSearch": [
+        {
+          "title": "Detalji o sudaru kod Čelinca: Troje prevezeno u UKC RS",
+          "snippet": "",
+          "url": "https://www.nezavisne.com/novosti/hronika/Detalji-o-sudaru-kod-Celinca-Troje-prevezeno-u-UKC-RS/914483",
+          "source": "Nezavisne novine"
+        },
+        {
+          "title": "Žestok sudar kod Čelinca: Jedno vozilo završilo PORED PUTA, policija na mjestu nesreće",
+          "snippet": "",
+          "url": "https://srpskainfo.com/zestok-sudar-kod-celinca/",
+          "source": "Srpskainfo"
+        },
+        {
+          "title": "Sudar dva automobila u Babićima kod Čelinca",
+          "snippet": "",
+          "url": "https://lat.rtrs.tv/vijesti/vijest.php?id=606267",
+          "source": "RTRS"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -68,21 +87,21 @@
     },
     {
       "title": "zvezde granda",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 5 Jul 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTUabS9YGOPXTibZyg4fNLfJmxuX78X6I6zIOE8jfFcrY4fOYW2RtCfBfc4cA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9bLZc0_VkBZFjF1Q_jh-AOhmvIHrgX1EY1IHQvW_dEr12BdBqjmYpsKrvWGw",
       "pictureSource": "Srpskainfo",
       "relatedSearch": [
         {
-          "title": "Nikola Stanišić POBJEDNIK \"ZVEZDA GRANDA\": Laskava titula otišla u ruke kandidata iz Sjeverne Makedonije",
+          "title": "Prvo oglašavanje Nikole Stanišića nakon pobjede u \"Zvezdama Granda\"",
           "snippet": "",
-          "url": "https://srpskainfo.com/nikola-stanisic-pobjednik-zvezda-granda-laskava-titula-otisla-u-sjevernu-makedoniju/",
+          "url": "https://srpskainfo.com/video-dobio-sam-ono-sto-sam-htio-ovo-posvecujem-mami-prvo-oglasavanje-nikole-stanisica-nakon-pobjede-u-zvezdama-granda/",
           "source": "Srpskainfo"
         },
         {
-          "title": "Ko je Nikola Stanišić: Otac mu se takmičio u \"Nikad nije kasno\", on pobijedio u \"Zvezdama Granda\"",
+          "title": "Nikola Stanišić pobjednik Zvezda Granda za 2025.",
           "snippet": "",
-          "url": "https://www.nezavisne.com/magazin/scena/Ko-je-Nikola-Stanisic-Otac-mu-se-takmicio-u-Nikad-nije-kasno-on-pobijedio-u-Zvezdama-Granda/914478",
+          "url": "https://www.nezavisne.com/kultura/muzika/Nikola-Stanisic-pobjednik-Zvezda-Granda-za-2025/914385",
           "source": "Nezavisne novine"
         },
         {
@@ -95,19 +114,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "zvezde granda finale",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 5 Jul 2025 15:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPaLXbCMmCbgTTtZ5VDJZ6qgyqXm6EN-h_T3iBE4JeilinQkD2rCzgmvCMk4I",
+      "pictureSource": "Srpskainfo",
+      "relatedSearch": [
+        {
+          "title": "\"SAŠIN DUH SE OSJEĆAO\" Keba progovorio o finalu \"Zvezda Granda\", otkrio kako je Popovićeva udovica podnijela sve",
+          "snippet": "",
+          "url": "https://srpskainfo.com/sasin-duh-se-osjecao-keba-progovorio-o-finalu-zvezda-granda-otkrio-kako-je-popoviceva-udovica-podnijela-sve/",
+          "source": "Srpskainfo"
+        },
+        {
+          "title": "\"NATAŠA MI JE TO NAPLATILA\" Keba stigao na finale \"Zvezde Granda\", pa progovorio o ćerki: \"DOBILA JE ZADATAK\" (Video)",
+          "snippet": "",
+          "url": "https://www.blic.rs/zabava/keba-stigao-na-finale-zvezde-granda-pa-progovorio-o-cerki-natasa-mi-je-to-naplatila/r3x48x6",
+          "source": "Blic"
+        },
+        {
+          "title": "Keba prokomentarisao finale ZG pa se setio Saše Popovića: progovorio i o Suzani \"Damski je to podnela...\"",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4139324-keba-prokomentarisao-finale-zg-pa-se-setio-sase-popovica-progovorio-i-o-suzani-damski-je-to-podnela",
+          "source": "Telegraf.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "zvezde granda uzivo",
       "trafficCount": "100+",
       "pubDate": "Sat, 5 Jul 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJek75yCaSlf_LxeG0CQxI6rtHqRomykFPDdJNMPscXp5kF1ABIMp-9vkqRTY",
-      "pictureSource": "Naslovi.net",
-      "relatedSearch": [
-        {
-          "title": "Finale Zvezda Granda započelo je vrelo! Atraktivna kandidatkinja skinula deo kostima, žiri gledao u neverici",
-          "snippet": "",
-          "url": "https://naslovi.net/2025-06-28/telegraf/finale-zvezda-granda-zapocelo-je-vrelo-atraktivna-kandidatkinja-skinula-deo-kostima-ziri-gledao-u-neverici/39973575",
-          "source": "Naslovi.net"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -161,10 +201,10 @@
           "source": "BBC"
         },
         {
-          "title": "Xabi Alonso: \"We’re very lucky to have Thibaut Courtois in goal\"",
+          "title": "Xabi Alonso had it easy and didn't dare, he told Carvajal in the match",
           "snippet": "",
-          "url": "https://www.managingmadrid.com/2025/7/6/24462247/xabi-alonso-were-very-lucky-to-have-thibaut-courtois-in-goal",
-          "source": "Managing Madrid"
+          "url": "https://www.defensacentral.com/en/soccer/xabi-alonso-had-it-easy-and-didn-t-dare-he-told-carvajal-in-the-match_309531_102.html",
+          "source": "Defensa Central"
         },
         {
           "title": "First defeat since Barcelona – BVB out of Club World Cup",
@@ -201,15 +241,6 @@
           "source": "Reuters"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "index hr",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 5 Jul 2025 11:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
