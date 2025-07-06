@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-06 10:35:35",
+  "lastUpdate": "2025-07-06 10:45:10",
   "data": [
     {
       "title": "trasmoz",
@@ -33,9 +33,28 @@
       "title": "rtve play",
       "trafficCount": "500+",
       "pubDate": "Sun, 6 Jul 2025 03:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqTJ45O-31178uvftuByC18ia8LtehXxq7q4bKLYTFyxTVLMS1bDne7U0IAiU",
+      "pictureSource": "HOLA",
+      "relatedSearch": [
+        {
+          "title": "Ocho años sin David Delfín: RTVE prepara documental con sus amigos íntimos Alaska, Mario Vaquerizo y la familia Postigo",
+          "snippet": "",
+          "url": "https://www.hola.com/actualidad/20250702841646/david-delfin-documental-television-con-testimonios-alaska-mario-vaquerizo-y-la-familia-postigo/",
+          "source": "HOLA"
+        },
+        {
+          "title": "RTVE Play prepara un ambicioso documental sobre David Delfín",
+          "snippet": "",
+          "url": "https://www.elperiodico.com/es/ocio-y-cultura/20250702/documental-david-delfin-rtve-play-119290644",
+          "source": "El Periódico"
+        },
+        {
+          "title": "Nadie esperaba lo de Mario Vaquerizo y Alaska: darán el paso después de 8 años",
+          "snippet": "",
+          "url": "https://es.e-noticies.cat/corazon/nadie-esperaba-lo-mario-vaquerizo-y-alaska-daran-paso-despues-8-anos",
+          "source": "e-noticies.cat"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -52,9 +71,9 @@
           "source": "ESPN"
         },
         {
-          "title": "What the data tells us about Max Verstappen, Ferrari and McLaren's chances in the British GP",
+          "title": "Will Max Verstappen's British GP low-downforce choice pay off or bite him?",
           "snippet": "",
-          "url": "https://www.motorsport.com/f1/news/what-the-data-tells-us-about-max-verstappen-ferrari-and-mclarens-chances-in-the-british-gp/10739790/",
+          "url": "https://www.motorsport.com/f1/news/will-max-verstappen-british-gp-low-downforce-choice-pay-off-bite-him/10739810/",
           "source": "Motorsport.com"
         },
         {
@@ -123,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "alsa",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 6 Jul 2025 02:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFVYdK9IhAcuMx7OH17HzWFdajeAyOanh4BiWggWxn2wFHZyD_zdR89VK_PE",
-      "pictureSource": "Cadena SER",
-      "relatedSearch": [
-        {
-          "title": "Palencia y otras cuatro ciudades se suman al programa Bus&Fly de Iberia y Alsa",
-          "snippet": "",
-          "url": "https://cadenaser.com/castillayleon/2025/07/04/palencia-y-otras-cuatro-ciudades-se-suman-al-programa-busfly-de-iberia-y-alsa-radio-palencia/",
-          "source": "Cadena SER"
-        },
-        {
-          "title": "Iberia y Alsa ya venden billetes intermodales que conectan A Coruña con 90 destinos internacionales",
-          "snippet": "",
-          "url": "https://www.laopinioncoruna.es/coruna/2025/07/02/iberia-alsa-venden-billetes-intermodales-119283689.html",
-          "source": "La Opinión A Coruña"
-        },
-        {
-          "title": "Iberia amplía su acuerdo de intermodalidad con Alsa",
-          "snippet": "",
-          "url": "https://www.preferente.com/noticias-de-transportes/noticias-de-aerolineas/iberia-amplia-su-acuerdo-de-intermodalidad-con-alsa-344303.html",
-          "source": "Preferente.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "cadiz",
       "trafficCount": "200+",
       "pubDate": "Sun, 6 Jul 2025 02:50:00 -0700",
@@ -174,6 +165,34 @@
           "snippet": "",
           "url": "https://vivacadiz.es/cadiz/1907744/el-comercio-pide-excluir-de-la-transformacion-de-locales-en-viviendas-17-calles-y-plazas/",
           "source": "Viva Cádiz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "alsa",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 6 Jul 2025 02:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFVYdK9IhAcuMx7OH17HzWFdajeAyOanh4BiWggWxn2wFHZyD_zdR89VK_PE",
+      "pictureSource": "Cadena SER",
+      "relatedSearch": [
+        {
+          "title": "Palencia y otras cuatro ciudades se suman al programa Bus&Fly de Iberia y Alsa",
+          "snippet": "",
+          "url": "https://cadenaser.com/castillayleon/2025/07/04/palencia-y-otras-cuatro-ciudades-se-suman-al-programa-busfly-de-iberia-y-alsa-radio-palencia/",
+          "source": "Cadena SER"
+        },
+        {
+          "title": "Iberia y Alsa ya venden billetes intermodales que conectan A Coruña con 90 destinos internacionales",
+          "snippet": "",
+          "url": "https://www.laopinioncoruna.es/coruna/2025/07/02/iberia-alsa-venden-billetes-intermodales-119283689.html",
+          "source": "La Opinión A Coruña"
+        },
+        {
+          "title": "Iberia amplía su acuerdo de intermodalidad con Alsa",
+          "snippet": "",
+          "url": "https://www.preferente.com/noticias-de-transportes/noticias-de-aerolineas/iberia-amplia-su-acuerdo-de-intermodalidad-con-alsa-344303.html",
+          "source": "Preferente.com"
         }
       ],
       "link": "https://imtaqin.id/"
