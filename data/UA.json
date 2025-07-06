@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-07-06 03:17:26",
+  "lastUpdate": "2025-07-06 03:44:56",
   "data": [
+    {
+      "title": "харьков новости",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 5 Jul 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPSiGTVMeW6wuoBlgcoIvP9tPeAM-J0zFgANsE-EE7V8HRXkrCtgFgoTjWpfY",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Вражеские БпЛА снова атаковали Харьков: возникли пожары, двое пострадавших",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/07/6/7520366/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Нашлась управа на «Шахеды»: обзор фронта на Харьковщине (видео)",
+          "snippet": "",
+          "url": "https://www.objectiv.tv/objectively/2025/07/05/nashlas-uprava-na-shahedy-obzor-fronta-na-harkovshhine-video/",
+          "source": "МГ \"Объектив\""
+        },
+        {
+          "title": "Ночная атака РФ на Харьков: в городе пожары, есть пострадавшие",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/nichna-ataka-rf-harkiv-vorog-vdariv-privatnomu-1751758499.html",
+          "source": "РБК-Україна"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "вк",
       "trafficCount": "100+",
@@ -33,7 +61,7 @@
       "title": "новости запорожья",
       "trafficCount": "100+",
       "pubDate": "Sat, 5 Jul 2025 16:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLrK9YuDPEhpXuovt8XZDJJuir_JetcNfhnt8llabRqOi5Yq_f9hb3BDyH34Q",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmuejTnzYGe_IjdYlRj29wHLqUyuTxYOeFRJn7yHnnVApbTSXxASnVEvLckX4",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
@@ -43,16 +71,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "Поврежденные помещения и разрушенное здание: фото последствий атаки РФ по Запорожью",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/poshkodzheni-primishchennya-ta-zruynovana-1751769518.html",
+          "source": "РБК-Україна"
+        },
+        {
           "title": "Армия РФ атаковала Запорожье шахедами: есть повреждения и пожары",
           "snippet": "",
           "url": "https://nv.ua/ukraine/events/ataka-shahedov-6-iyulya-rf-udarila-po-zaporozhyu-i-oblasti-shahedami-vspyhnuli-pozhary-50527541.html",
           "source": "NV.ua"
-        },
-        {
-          "title": "РФ ударила дронами по Запорожью и области: возникли пожары и есть повреждения",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/rf-vdarila-dronami-zaporizhzhyu-y-oblasti-1751759476.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://ua.tribuna.com/betting/1000000261020-monreal-inter-mayami-live-dyvytysya-onlayn-translyatsiyu/",
           "source": "Tribuna.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости харькова",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 5 Jul 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPSiGTVMeW6wuoBlgcoIvP9tPeAM-J0zFgANsE-EE7V8HRXkrCtgFgoTjWpfY",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Вражеские БпЛА снова атаковали Харьков: возникли пожары, двое пострадавших",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/07/6/7520366/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Нашлась управа на «Шахеды»: обзор фронта на Харьковщине (видео)",
-          "snippet": "",
-          "url": "https://www.objectiv.tv/objectively/2025/07/05/nashlas-uprava-na-shahedy-obzor-fronta-na-harkovshhine-video/",
-          "source": "МГ \"Объектив\""
-        },
-        {
-          "title": "РФ массированно атаковала Чугуев в Харьковской области, много пострадавших",
-          "snippet": "",
-          "url": "https://prm.ua/ru/rf-massyrovanno-atakovala-chuhuev-v-kharkovskoy-oblasty-mnoho-postradavshykh/",
-          "source": "Прямий"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +248,16 @@
           "source": "Європейська правда"
         },
         {
-          "title": "Генсек НАТО надеется на \"гибкость\" США в вопросе поставок оружия Украине",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/07/5/7520268/",
-          "source": "Українська правда"
-        },
-        {
           "title": "Приостановка поставок вооружений от США может стать критичной для хода войны",
           "snippet": "",
           "url": "https://www.liga.net/politics/opinion/priostanovka-postavok-vooruzhenii-ot-ssha-mozhet-stat-kritichnoi-dlya-hoda-voiny",
           "source": "LIGA.net"
+        },
+        {
+          "title": "Генсек НАТО надеется на \"гибкость\" США в вопросе поставок оружия Украине",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/07/5/7520268/",
+          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
