@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2025-07-07 13:21:03",
+  "lastUpdate": "2025-07-07 13:37:50",
   "data": [
+    {
+      "title": "katasztrófavédelem",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 7 Jul 2025 06:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIDWCJaFTFwcPSKg6JzLydDIyIjBoYiQVN5T4OoIy1Um1XhweuPHuaoW9wf0",
+      "pictureSource": "Telex",
+      "relatedSearch": [
+        {
+          "title": "Brutális lehűléssel, szélviharral rúgta be az ajtót a hidegfront",
+          "snippet": "",
+          "url": "https://telex.hu/belfold/2025/07/07/lehules-szelvihar-hidegfront",
+          "source": "Telex"
+        },
+        {
+          "title": "Szélviharral érkezik a front",
+          "snippet": "",
+          "url": "https://www.idokep.hu/hirek/szelviharral-erkezik-a-front",
+          "source": "Időkép"
+        },
+        {
+          "title": "Itthon: A Balaton mindkét partján vasúti káoszt okozott a vihar, 50-60 pótlóbuszt állítottak be",
+          "snippet": "",
+          "url": "https://hvg.hu/itthon/20250707_vihar-Balaton-vonat-vasuti-kaosz-potlobusz-ebx",
+          "source": "| hvg.hu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "utinform",
       "trafficCount": "500+",
       "pubDate": "Mon, 7 Jul 2025 06:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgfhiWppRN6iSDjBsjJK5Iruf2bevdLNxXbyE3cfxCuly631jPacHkMbcXfAA",
-      "pictureSource": "Economx.hu",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNjbLDaHh_j4herYut7l0_sweksQUtYSCBMUjTrafWeFvBVNvPrmcNzuwCD0E",
+      "pictureSource": "24.hu",
       "relatedSearch": [
-        {
-          "title": "Kész rémálom most az utazás, orbitális sorok kígyóznak az autópályákon",
-          "snippet": "",
-          "url": "https://www.economx.hu/belfold/kozlekedes-utinform-autopalyak-torlodas.812175.html",
-          "source": "Economx.hu"
-        },
         {
           "title": "Rossz hír a Balatonra tartóknak: torlódás van az M7-esen",
           "snippet": "",
@@ -21,10 +43,16 @@
           "source": "24.hu"
         },
         {
-          "title": "Balesetek, torlódások, útfelújítások országszerte",
+          "title": "Mutatjuk, melyik autópályákon vannak most kígyózó sorok",
           "snippet": "",
-          "url": "https://www.magyarhirlap.hu/kronika/20250707-balesetek-torlodasok-utfelujitasok-orszagszerte",
-          "source": "Magyar Hírlap"
+          "url": "https://www.portfolio.hu/gazdasag/20250705/mutatjuk-melyik-autopalyakon-vannak-most-kigyozo-sorok-772633",
+          "source": "Portfolio.hu"
+        },
+        {
+          "title": "Nem ez lesz a legkellemesebb nap az autópályákon",
+          "snippet": "",
+          "url": "https://infostart.hu/belfold/2025/07/05/nem-ez-lesz-a-legkellemesebb-nap-az-autopalyakon",
+          "source": "Infostart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,20 +61,20 @@
       "title": "áramszünet",
       "trafficCount": "200+",
       "pubDate": "Mon, 7 Jul 2025 06:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHtEK36pYAizKlNCs215vcdyPfKlXQIxNV1UBLmi74fTRbQlqfD9huMG2bW_0",
-      "pictureSource": "BEOL",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHzMfC1Teo0W46G32COp5FFOyth3sMPTFEIIBOcRmum2WCyS9kG2yypC-S1Us",
+      "pictureSource": "VEOL",
       "relatedSearch": [
-        {
-          "title": "Számítson rá, hogy komoly áramszünet jön!",
-          "snippet": "",
-          "url": "https://www.beol.hu/helyi-gazdasag/2025/07/aramszunet-nem-lesz-legkondi-rekkeno-hoseg-sarkad-utca",
-          "source": "BEOL"
-        },
         {
           "title": "Áramszünet-riadó: ezeken a településeken kapcsolják le az áramot",
           "snippet": "",
           "url": "https://www.veol.hu/helyi-kozelet/2025/07/aramszunet-eon-veszprem-megye-balaton-sotet-szunet",
           "source": "VEOL"
+        },
+        {
+          "title": "Számítson rá, hogy komoly áramszünet jön!",
+          "snippet": "",
+          "url": "https://www.beol.hu/helyi-gazdasag/2025/07/aramszunet-nem-lesz-legkondi-rekkeno-hoseg-sarkad-utca",
+          "source": "BEOL"
         },
         {
           "title": "Áramszünet lesz Komárom-Esztergomban: mondjuk, hol, mikor készülj fel rá",
@@ -77,10 +105,10 @@
           "source": "24.hu"
         },
         {
-          "title": "Retró hétvégét hirdetett a MÁV, de arra senki sem gondolt, hogy a cég pótlóbuszként múzeumi járműveket is bevet",
+          "title": "Nem akármilyen busz állt be vonatot pótolni Keszthelynél",
           "snippet": "",
-          "url": "https://nepszava.hu/3286359_mav-leallas-vonatpotlo-autobuszok-retro",
-          "source": "Népszava"
+          "url": "https://infostart.hu/belfold/2025/07/07/nem-akarmilyen-busz-allt-be-vonatot-potolni-keszthelynel",
+          "source": "Infostart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +143,7 @@
     },
     {
       "title": "lentulai krisztián orbán viktor",
-      "trafficCount": "1000+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 7 Jul 2025 03:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSewtiLlu0L-fMQoXhKuml_CITm8tELijrt0BLKCaIy-Nxuibj1-MpH6p6A_FM",
       "pictureSource": "Index.hu",
@@ -155,16 +183,16 @@
           "source": "444"
         },
         {
-          "title": "Kigyulladt egy raktár Soroksáron",
-          "snippet": "",
-          "url": "https://infostart.hu/belfold/2025/07/07/kigyulladt-egy-raktar-a-soroksarin",
-          "source": "Infostart"
-        },
-        {
           "title": "Tűz ütött ki Budapesten",
           "snippet": "",
           "url": "https://www.portfolio.hu/gazdasag/20250707/tuz-utott-ki-budapesten-772801",
           "source": "Portfolio.hu"
+        },
+        {
+          "title": "Kigyulladt egy raktár Soroksáron",
+          "snippet": "",
+          "url": "https://infostart.hu/belfold/2025/07/07/kigyulladt-egy-raktar-a-soroksarin",
+          "source": "Infostart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "Időkép"
         },
         {
-          "title": "Indul a műsor: így törnek be Magyarországra a zivatarcellák, felvételek érkeztek",
+          "title": "Belföld - Tombol a vihar az országban, zuhan a hőmérséklet, fákat dönt ki a szél",
           "snippet": "",
-          "url": "https://www.portfolio.hu/gazdasag/20250706/indul-a-musor-igy-tornek-be-magyarorszagra-a-zivatarcellak-felvetelek-erkeztek-772725",
-          "source": "Portfolio.hu"
+          "url": "https://index.hu/belfold/2025/07/07/idojaras-jelentes-radar-masodfoku-riasztas-zivatar/",
+          "source": "Index.hu"
         },
         {
-          "title": "Kemény napok jönnek, záporokkal, zivatarokkal rúgja ránk az ajtót a hidegfront",
+          "title": "Esővel, viharokkal érkezik a hidegfront – az ország nagy részére már kiadták a riasztást",
           "snippet": "",
-          "url": "https://index.hu/belfold/2025/07/07/idojaras-radar-meteorologia-hidegfront-zapor-zivatar-szel/",
-          "source": "Index.hu"
+          "url": "https://24.hu/belfold/2025/07/07/ido-idojaras-elorejelzes-vihar/",
+          "source": "24.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://movieweb.com/scarlett-johansson-highest-grossing-actress-all-time-mcu/",
           "source": "MovieWeb"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 6 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMgrx1JU_-v0uIT0DbCFeL9U9ItYrt9djKKTfavSFnGQfEIXDSuDSKsdKOB4",
-      "pictureSource": "Newsweek",
-      "relatedSearch": [
-        {
-          "title": "Hundreds of Thousands Told To Avoid Sun: 'Deadliest Weather Phenomenon'",
-          "snippet": "",
-          "url": "https://www.newsweek.com/extreme-heat-warning-california-arizona-thousands-told-avoid-sun-2095360",
-          "source": "Newsweek"
-        },
-        {
-          "title": "MOST ACCURATE FORECAST: Extreme Heat returns with near-record temperatures this week",
-          "snippet": "",
-          "url": "https://www.abc15.com/weather/most-accurate-forecast-extreme-heat-returns-with-near-record-temperatures-this-week",
-          "source": "ABC15 Arizona"
-        },
-        {
-          "title": "More triple digits highs on the way this week across Southern Arizona",
-          "snippet": "",
-          "url": "https://www.kgun9.com/weather/more-triple-digits-highs-on-the-way-this-week-across-southern-arizona",
-          "source": "KGUN 9"
         }
       ],
       "link": "https://imtaqin.id/"
