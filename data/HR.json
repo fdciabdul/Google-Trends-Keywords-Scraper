@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-07-07 10:00:40",
+  "lastUpdate": "2025-07-07 10:11:01",
   "data": [
     {
       "title": "nevrijeme zagreb",
       "trafficCount": "2000+",
       "pubDate": "Mon, 7 Jul 2025 02:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwZ7LZBAgb2tEnl6RNJDWXG1fIxvTiCKFBMEJLYw7ooNszXOPLTxA5UOd6WLM",
-      "pictureSource": "24sata.hr",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSGEENEjh9W2oCwyeLHwqMzKvq9F6NgOaDnsMsep6psBO-0zNZaqJ47_yCSEs",
+      "pictureSource": "HRT",
       "relatedSearch": [
-        {
-          "title": "Ovo je superćelijski oblak koji je donio kaos u Zagrebu! Ide na Slavoniju. Upalili crveni alarm",
-          "snippet": "",
-          "url": "https://www.24sata.hr/news/ovo-je-supercelijski-oblak-koji-je-donio-kaos-u-zagrebu-ide-na-slavoniju-upalili-crveni-alarm-1061773",
-          "source": "24sata.hr"
-        },
         {
           "title": "U ponedjeljak izraženi pljuskovi, grmljavina i olujni vjetar",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.jutarnji.hr/vijesti/zagreb/snazno-nevrijeme-pogodilo-je-zagreb-pljusti-kisa-odjekuje-grmljavina-15601336",
           "source": "Jutarnji list"
+        },
+        {
+          "title": "TJEDNA PROGNOZA Jače grmljavinsko nevrijeme neće zaobići ni Dalmaciju, oduševit će vas kakve temperature očekuju za samo dva dana",
+          "snippet": "",
+          "url": "https://www.dalmacijadanas.hr/tjedna-prognoza-jace-grmljavinsko-nevrijeme-nece-zaobici-ni-dalmaciju-odusevit-ce-vas-kakve-temperature-ocekuju-za-samo-dva-dana/",
+          "source": "Dalmacija danas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,29 +58,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "24sata.hr",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 6 Jul 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7NreCG0pPGmUjpq3d_KpjKIHLY1GUyHWWUkaN4afj6nogSgDEuqIUY0TfORg",
+      "pictureSource": "Večernji.hr",
+      "relatedSearch": [
+        {
+          "title": "FOTO Kakav dekolte! Navijačica vatrenih privukla pažnju modnom kombinacijom na Thompsonovom koncertu",
+          "snippet": "",
+          "url": "https://www.vecernji.hr/showbiz/foto-kakav-dekolte-navijacica-vatrenih-privukla-paznju-modnom-kombinacijom-na-thompsonovom-koncertu-1874795",
+          "source": "Večernji.hr"
+        },
+        {
+          "title": "Navijačica Magdalena objavila slike s Thompsonovog koncerta",
+          "snippet": "",
+          "url": "https://www.24sata.hr/show/ne-treba-joj-tribina-navijacica-vatrenih-zablistala-i-bez-dresa-na-thompsonovom-koncertu-1061737",
+          "source": "24sata.hr"
+        },
+        {
+          "title": "Prvi dekolte Hipodroma? Navijačica Vatrenih bila u kombinezonu koji je potaknuo komentare...",
+          "snippet": "",
+          "url": "https://showbuzz.dnevnik.hr/celebrity/magdalena-keskic-privukla-paznju-na-hipodromu---922912.html",
+          "source": "Showbuzz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Sun, 6 Jul 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAPq4fhyCW1yc7k509IUCSSjdSQoygcN8ZBF2BMQoFGe0F1o0MByJCs7-mGZs",
-      "pictureSource": "WDW News Today",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIUh35rBZs4o28YTYejQhPH9F3k-lhF9D4I2jHVXWTiq_YuFr4Fg_DA6M8aGA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "FAA Announces Flights to Orlando Are Delayed Due to Severe Weather",
+          "title": "Another UK heatwave possible after weekend Met Office weather warning",
           "snippet": "",
-          "url": "https://wdwnt.com/2025/07/faa-announces-flights-to-orlando-are-delayed-due-to-severe-weather/",
-          "source": "WDW News Today"
+          "url": "https://www.bbc.com/weather/articles/ckgde440z59o",
+          "source": "BBC"
         },
         {
-          "title": "July Fourth Holiday Travel",
+          "title": "UK weather: Britain braces for 39C heat burst in just a few days as horror maps turn dark red",
           "snippet": "",
-          "url": "https://www.wvnews.com/newsfeed/us/july-fourth-holiday-travel/image_c33374e3-8203-5c54-8d53-bd790229303a.html",
-          "source": "WV News"
+          "url": "https://www.mirror.co.uk/news/uk-news/uk-weather-britain-braces-39c-35504939",
+          "source": "The Mirror"
         },
         {
-          "title": "Storms cause delays at Orlando International Airport",
+          "title": "Yet another heatwave on way is a sign of the future",
           "snippet": "",
-          "url": "https://www.wesh.com/article/ground-delays-orlando-international-airport-storms/65304422",
-          "source": "WESH"
+          "url": "https://www.thetimes.com/comment/register/article/yet-another-heatwave-on-way-is-a-sign-of-the-future-vvkxks55q",
+          "source": "The Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +145,9 @@
       "title": "mirko gudelj",
       "trafficCount": "200+",
       "pubDate": "Sun, 6 Jul 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIoBerbIjN2XcOktOgdJfyoUnIagXGAXE3xYNOi1pW_Z53QAa3RFLQMAhvTSE",
-      "pictureSource": "Večernji.hr",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJNR9HlQOA4BIGmOsh_dv60sHEnx5P8SnX9IA3c3LX-ffK7x1GBgW6nnKRlc",
+      "pictureSource": "Index.hr",
       "relatedSearch": [
-        {
-          "title": "Organizator o troškovima spektakla: 'Kada su se te sve karte prodale, sjeli smo s Markom...'",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/vijesti/organizator-koncerta-na-12-milijuna-eura-smo-stali-s-brojanjem-dogovor-je-bio-da-nas-ne-zanima-koliko-ce-kostati-1874755",
-          "source": "Večernji.hr"
-        },
         {
           "title": "Porezna objavila podatke o potrošnji. Thompsonov tim: Što prije počistite Hipodrom",
           "snippet": "",
@@ -133,10 +155,16 @@
           "source": "Index.hr"
         },
         {
-          "title": "Ugostitelj iz Thompsonove fan zone požalio se na zaradu: 'Svi smo u debelom minusu, krivi su njihovi suludi zahtjevi!'",
+          "title": "Organizator o troškovima spektakla: 'Kada su se te sve karte prodale, sjeli smo s Markom...'",
           "snippet": "",
-          "url": "https://www.jutarnji.hr/vijesti/hrvatska/ugostitelj-iz-thompsonove-fan-zone-pozalio-se-na-zaradu-svi-smo-u-debelom-minusu-krivi-su-njihovi-suludi-zahtjevi-15601088",
-          "source": "Jutarnji list"
+          "url": "https://www.vecernji.hr/vijesti/organizator-koncerta-na-12-milijuna-eura-smo-stali-s-brojanjem-dogovor-je-bio-da-nas-ne-zanima-koliko-ce-kostati-1874755",
+          "source": "Večernji.hr"
+        },
+        {
+          "title": "Cifre otkrivene: Organizator Thompsonova koncerta obznanio koliko je koštao cijeli spektakl",
+          "snippet": "",
+          "url": "https://www.tportal.hr/showtime/clanak/cifre-otkrivene-organizator-thompsonova-koncerta-obznanio-koliko-je-kostao-cijeli-spektakl-20250706",
+          "source": "tportal.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.mlive.com/weather-alerts/2025/07/thunderstorms-with-quarter-sized-hail-and-damaging-winds-in-mid-michigan-thursday.html",
           "source": "MLive.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "f1 tv",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 6 Jul 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT27zheHqYIjgxegbJWFzAtnRUTNPL15_HDbx053dF7UH9PWcln5eJeC3vR134",
-      "pictureSource": "Formula 1",
-      "relatedSearch": [
-        {
-          "title": "All the key moments from the 2025 British Grand Prix",
-          "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/silverstone-lowdown-all-the-key-moments-as-norris-triumphs-at-home-and.4megR1iEI2nJ9BbCQC9Uwh",
-          "source": "Formula 1"
-        },
-        {
-          "title": "Live: Piastri cops 10-second penalty, costing him lead in Britian",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-07-06/f1-british-grand-prix-oscar-iastri-lando-norris-silverstone/105484878",
-          "source": "Australian Broadcasting Corporation"
-        },
-        {
-          "title": "What to know ahead of the British Grand Prix at Silverstone",
-          "snippet": "",
-          "url": "https://www.espn.com/f1/story/_/id/45642234/2025-british-grand-prix-f1-preview-s-predictions-stats",
-          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
