@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-07 22:32:26",
+  "lastUpdate": "2025-07-07 22:41:51",
   "data": [
     {
       "title": "天氣預報",
@@ -39,23 +39,32 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "美股新聞",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 7 Jul 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTOLvmKv7Q124ZSJb9Ak4IkdJu2AgElyIfrKvXRmrcs5sDsMVUJAxqFDVEpk",
-      "pictureSource": "奇摩新聞",
+      "title": "花蓮地震",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 7 Jul 2025 13:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "道瓊",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 7 Jul 2025 12:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGDEucSD3-TR2_SbDzryzk-KwlwbQ39PBVjU9osC0jZQ-lNr8Tw1uj5xMm3gY",
+      "pictureSource": "鉅亨網",
       "relatedSearch": [
-        {
-          "title": "川普對日韓祭25%關稅！美股道瓊崩422點",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%B0%8D%E6%97%A5%E9%9F%93%E7%A5%AD25-%E9%97%9C%E7%A8%85-%E7%BE%8E%E8%82%A1%E9%81%93%E7%93%8A%E5%B4%A9422%E9%BB%9E-214306006.html",
-          "source": "奇摩新聞"
-        },
         {
           "title": "〈美股盤後〉川普關稅風暴來襲 美股愁雲慘澹 道瓊一度瀉逾600點",
           "snippet": "",
           "url": "https://news.cnyes.com/news/id/6053592",
           "source": "鉅亨網"
+        },
+        {
+          "title": "川普日韓祭25%關稅美股應聲下跌！道瓊崩422.17點、費半降1.88%",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%97%A5%E9%9F%93%E7%A5%AD25-%E9%97%9C%E7%A8%85%E7%BE%8E%E8%82%A1%E6%87%89%E8%81%B2%E4%B8%8B%E8%B7%8C-%E9%81%93%E7%93%8A%E5%B4%A9422-17%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E9%99%8D1-205200299.html",
+          "source": "奇摩新聞"
         },
         {
           "title": "投資人再度擔憂貿易不確定性 美國股市收挫",
@@ -64,15 +73,6 @@
           "source": "MSN"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "花蓮地震",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 7 Jul 2025 13:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -105,28 +105,28 @@
     },
     {
       "title": "truth social",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 7 Jul 2025 09:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdqVhPxezAWi8_Ipsh3F94Sx0a4_1fRESTEAfU5_HflUaGYDgI6p8Op7UtemQ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTbduQBS-Ua9f1_OEtAtI2senyGjMDCo1CQVkgZn1NpgpBdWrY0_qxEchcKpU",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Trump announces new tariffs of up to 40% on a growing number of countries",
+          "title": "Stocks drop after Trump announces tariffs on countries including Japan and South Korea",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/07/07/economy/trump-letters-tariffs",
+          "url": "https://www.cnn.com/2025/07/07/investing/us-stock-market",
           "source": "CNN"
         },
         {
-          "title": "Trump sends 14 tariff letters and White House says more to follow this week – US politics live",
+          "title": "Dow slides more than 400 points Monday as new Trump tariffs incite sell-off: Live updates",
           "snippet": "",
-          "url": "https://www.theguardian.com/us-news/live/2025/jul/07/donald-trump-elon-musk-new-party-us-politics-live-latest-news",
-          "source": "The Guardian"
+          "url": "https://www.cnbc.com/2025/07/06/stock-market-today-live-updates.html",
+          "source": "CNBC"
         },
         {
-          "title": "US tariffs: Goods from Japan and South Korea hit with 25% levy",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Trump warns of 10% BRICS tariff, deals deadline looms",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cd0vkl31085o",
-          "source": "BBC"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-trump-warns-of-10-brics-tariff-deals-deadline-looms-001624571.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
