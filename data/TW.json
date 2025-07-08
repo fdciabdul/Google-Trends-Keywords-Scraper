@@ -1,6 +1,15 @@
 {
-  "lastUpdate": "2025-07-08 19:29:01",
+  "lastUpdate": "2025-07-08 19:36:39",
   "data": [
+    {
+      "title": "天氣預報",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 8 Jul 2025 12:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "星宇航空",
       "trafficCount": "100+",
@@ -49,10 +58,10 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "鹿児島県で震度4の地震 津波の心配なし（tenki.jp）",
+          "title": "地震情報",
           "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/tenkijp/nation/tenkijp-34544",
-          "source": "ｄメニューニュース"
+          "url": "https://www.kobe-np.co.jp/news/jishin/jishin_20250709035500.shtml",
+          "source": "神戸新聞"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,6 +201,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "下雨",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 8 Jul 2025 08:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjt5HJk4_0NQ_B73dmLDB9Bi2XUpROcpiJvSMd7hIwXNe9-kNj4yM1RydSqOk",
+      "pictureSource": "奇摩新聞",
+      "relatedSearch": [
+        {
+          "title": "明後天水氣更盛中南部防豪雨 周末轉高溫炎熱",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%BE%8C%E5%A4%A9%E6%B0%B4%E6%B0%A3%E6%9B%B4%E7%9B%9B%E4%B8%AD%E5%8D%97%E9%83%A8%E9%98%B2%E8%B1%AA%E9%9B%A8-%E5%91%A8%E6%9C%AB%E8%BD%89%E9%AB%98%E6%BA%AB%E7%82%8E%E7%86%B1-102044760.html",
+          "source": "奇摩新聞"
+        },
+        {
+          "title": "11縣市大雨特報！低壓帶、西南風助攻 新北、桃竹苗小心大雷雨",
+          "snippet": "",
+          "url": "https://udn.com/news/story/7266/8859260",
+          "source": "聯合新聞網"
+        },
+        {
+          "title": "中南部雨還沒下完！週三天氣更不穩定 恐續有局部豪雨",
+          "snippet": "",
+          "url": "https://video.ltn.com.tw/article/mi3gcPevMuU/PLI7xntdRxhw0WAtjar8mbBJH6nFzOOxRb",
+          "source": "自由時報"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "立陶宛",
       "trafficCount": "100+",
       "pubDate": "Tue, 8 Jul 2025 08:20:00 -0700",
@@ -215,62 +252,6 @@
           "snippet": "",
           "url": "https://www.msn.com/zh-tw/news/national/%E6%8E%A5%E8%A6%8B%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%A8%AA%E5%9C%98-%E9%A1%A7%E7%AB%8B%E9%9B%84-%E6%94%9C%E6%89%8B%E6%8E%A8%E5%B1%95%E9%98%B2%E5%8B%99%E5%BC%B7%E5%8C%96%E9%9F%8C%E6%80%A7/ar-AA1I6Gwm",
           "source": "MSN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "打雷",
-      "trafficCount": "20000+",
-      "pubDate": "Tue, 8 Jul 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2c7DrCioudcIA1HN-nIptiB13gjfBk0VWZH6qJfBCtYM3UhDrSp2VsEjxlvQ",
-      "pictureSource": "聯合報數位版",
-      "relatedSearch": [
-        {
-          "title": "彰化致災降雨恐還不會停氣象署解釋關鍵原因| 今日精摘",
-          "snippet": "",
-          "url": "https://vip.udn.com/vip/story/122467/8858827",
-          "source": "聯合報數位版"
-        },
-        {
-          "title": "彰化暴雨逢滿潮多處積淹水 社區大樓停車場被雨灌入｜20250708 公視晚間新聞",
-          "snippet": "",
-          "url": "https://news.pts.org.tw/video/11319",
-          "source": "公視新聞網PNN"
-        },
-        {
-          "title": "「一小時變游泳池」！彰化鹿港地下停車場淹慘 汽車泡水車主心碎了",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%B0%8F%E6%99%82%E8%AE%8A%E6%B8%B8%E6%B3%B3%E6%B1%A0-%E5%BD%B0%E5%8C%96%E9%B9%BF%E6%B8%AF%E5%9C%B0%E4%B8%8B%E5%81%9C%E8%BB%8A%E5%A0%B4%E6%B7%B9%E6%85%98-%E6%B1%BD%E8%BB%8A%E6%B3%A1%E6%B0%B4%E8%BB%8A%E4%B8%BB%E5%BF%83%E7%A2%8E%E4%BA%86-150519295.html",
-          "source": "奇摩新聞"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "旭集",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 8 Jul 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT14quz26X9J3bAe8M46NMAfx4dR0kAG3EIxxir3ebbYQFwCHZlbYA_e04iLiE",
-      "pictureSource": "奇摩股市",
-      "relatedSearch": [
-        {
-          "title": "日料Buffet「旭集 和食集錦」台南西門店7／9開幕 8／15前穿和服用餐贈緣起物",
-          "snippet": "",
-          "url": "https://tw.stock.yahoo.com/news/%E6%97%A5%E6%96%99buffet-%E6%97%AD%E9%9B%86-%E5%92%8C%E9%A3%9F%E9%9B%86%E9%8C%A6-%E5%8F%B0%E5%8D%97%E8%A5%BF%E9%96%80%E5%BA%977-9%E9%96%8B%E5%B9%95-224919101.html",
-          "source": "奇摩股市"
-        },
-        {
-          "title": "匯聚府城魅力旭集台南店開幕獻上府城限定款8/15前穿和服用餐贈緣起物| 政治",
-          "snippet": "",
-          "url": "https://newtalk.tw/news/view/2025-07-08/980660",
-          "source": "Newtalk新聞"
-        },
-        {
-          "title": "旭集進駐台南新天地 打造文化與味蕾共鳴的頂級饗宴 | 熱門亮點 | 商情",
-          "snippet": "",
-          "url": "https://money.udn.com/money/story/5635/8858681",
-          "source": "經濟日報"
         }
       ],
       "link": "https://imtaqin.id/"
