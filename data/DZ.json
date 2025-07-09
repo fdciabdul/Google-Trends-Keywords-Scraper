@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-07-09 15:21:42",
+  "lastUpdate": "2025-07-09 15:33:44",
   "data": [
+    {
+      "title": "wimbledon",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 9 Jul 2025 08:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ4pTIiDwlqh8uLTM9UlGOHf7OG-TQlz7x3TLVb685qyQFS9vtPB5EdQCaEPs",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Queen Camilla meets tennis legends on Wimbledon visit",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/videos/cy0w9q7817jo",
+          "source": "BBC"
+        },
+        {
+          "title": "Royal Box roll call: Day 10",
+          "snippet": "",
+          "url": "https://www.wimbledon.com/en_GB/news/articles/2025-07-09/2025-07-09_royal_box_roll_call_day_10.html?promo=rss",
+          "source": "Wimbledon"
+        },
+        {
+          "title": "‘Oh what a treat’: Queen meets Novak Djokovic on Wimbledon visit",
+          "snippet": "",
+          "url": "https://www.irishnews.com/news/uk/oh-what-a-treat-queen-meets-novak-djokovic-on-wimbledon-visit-CIZAFPKXGRLKTC6UCJD5R4JJCE/",
+          "source": "The Irish News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "elon musk",
       "trafficCount": "100+",
       "pubDate": "Wed, 9 Jul 2025 08:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwrY10askdyDvhdHBy9bxMxFZ8nE7AX8Irbl3DKFdnk93S4JlvX0r0HhECWC4",
-      "pictureSource": "Light Reading",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkqwQXU3LR4BiiTpFEx4Th0W7T2Dts2BYop2MzZ2rCEzbmc0OhHTJ46S2pL1g",
+      "pictureSource": "Al Arabiya English",
       "relatedSearch": [
         {
-          "title": "Elon Musk, EchoStar and the danger to American 6G",
+          "title": "CEO of Elon Musk’s X steps down",
           "snippet": "",
-          "url": "https://www.lightreading.com/6g/elon-musk-echostar-and-the-danger-to-american-6g",
-          "source": "Light Reading"
+          "url": "https://english.alarabiya.net/News/united-states/2025/07/09/ceo-of-elon-musk-s-x-steps-down-",
+          "source": "Al Arabiya English"
         },
         {
-          "title": "Tesla loses $68 billion in value after Elon Musk says he is launching a political party",
+          "title": "Linda Yaccarino announces her departure from Musk's X",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html",
-          "source": "CNBC"
+          "url": "https://www.bbc.com/news/articles/cx2gy3j9xq6o",
+          "source": "BBC"
         },
         {
-          "title": "Meet Andrew Yang, the Former Presidential Candidate Who Is Keen to Help Musk’s America Party",
+          "title": "X boss quits days after Elon Musk launches new US political party",
           "snippet": "",
-          "url": "https://time.com/7300894/andrew-yang-forward-party-elon-musk-america-party-third/",
-          "source": "Time Magazine"
+          "url": "https://www.telegraph.co.uk/business/2025/07/09/x-boss-quits-days-elon-musk-launches-new-us-political-party/",
+          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +61,9 @@
       "title": "سعيدة نغزة",
       "trafficCount": "100+",
       "pubDate": "Wed, 9 Jul 2025 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKJhutRI2a65U2gPjOUSqXXgCBX9shwMruSJ_SM_hcsB4-7ckyUV6-JiYwrqo",
-      "pictureSource": "النهار أونلاين",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKdsQ_gY1HL-3d3wKrVy_eU2PBTDsfyCwhJsEED0SmR18Nd18__phRXvkUHKQ",
+      "pictureSource": "الشروق أونلاين",
       "relatedSearch": [
-        {
-          "title": "4 سنوات حبسًا نافذًا مع الإيداع لبلقاسم ساحلي وسعيدة نغزة وعبد الحكيم حمادي",
-          "snippet": "",
-          "url": "https://www.ennaharonline.com/4-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AD%D8%A8%D8%B3%D9%8B%D8%A7-%D9%86%D8%A7%D9%81%D8%B0%D9%8B%D8%A7-%D9%85%D8%B9-%D8%A7%D9%84%D8%A5%D9%8A%D8%AF%D8%A7%D8%B9-%D9%84%D8%A8%D9%84%D9%82%D8%A7%D8%B3%D9%85/",
-          "source": "النهار أونلاين"
-        },
         {
           "title": "إيداع نغزة وساحلي وحمادي الحبس",
           "snippet": "",
@@ -49,10 +71,16 @@
           "source": "الشروق أونلاين"
         },
         {
-          "title": "التماس عقوبات ثقيلة ضد نغزة وساحلي ومن معهما في المجلس",
+          "title": "التماس 10 سنوات حبسًا نافذًا لثلاثة متهمين راغبين في الترشح لرئاسيات 2024",
           "snippet": "",
-          "url": "https://www.elkhabar.com/nation/%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B3-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%B6%D8%AF-%D9%86%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D8%A7%D8%AD%D9%84%D9%8A-%D9%88%D9%85%D9%86-%D9%85%D8%B9%D9%87%D9%85%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-262705",
-          "source": "الخبر"
+          "url": "https://www.ennaharonline.com/%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B3-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AD%D8%A8%D8%B3%D9%8B%D8%A7-%D9%86%D8%A7%D9%81%D8%B0%D9%8B%D8%A7-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%AA%D9%87%D9%85/",
+          "source": "النهار أونلاين"
+        },
+        {
+          "title": "سجن 3 مرشحين للرئاسيات الجزائرية الأخيرة لأربع سنوات بينهم وزير سابق وسيدة أعمال",
+          "snippet": "",
+          "url": "https://www.alquds.co.uk/%D8%B3%D8%AC%D9%86-3-%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%86-%D9%84%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A/",
+          "source": "القدس العربي"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,36 +114,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "grok",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 9 Jul 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDuDYb8nL8ee9HS2_0sWPHvfXf_JuruTP_iuzlmLINjaWE5rO1BxUdoZZm6Zw",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Grok, Elon Musk’s AI Chatbot, Shares Antisemitic Posts on X",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/07/08/technology/grok-antisemitism-ai-x.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Elon Musk's Grok AI chatbot denies that it praised Hitler and made antisemitic comments",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/07/09/grok-ai-chatbot-hitler-elon-musk.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Elon Musk’s Grok Is Calling for a New Holocaust",
-          "snippet": "",
-          "url": "https://www.theatlantic.com/technology/archive/2025/07/grok-anti-semitic-tweets/683463/",
-          "source": "The Atlantic"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "superman film",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 9 Jul 2025 07:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYwIjhvhMbEbnwJJHmN2BAnDAE_CbyESDwhkk1_9uiIDdO5wKzH0aQyKH7mi8",
       "pictureSource": "The New York Times",
@@ -145,13 +145,13 @@
       "title": "هشام بوداوي",
       "trafficCount": "100+",
       "pubDate": "Wed, 9 Jul 2025 07:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ1Ri0IUQ9JH8bJj548bNGIeYwWiga965Ow6aY5IsdSkqWdc_JIHMWZuDHhHU",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0kD6w-MMv6BIYMTyVDUwVcsq8t8G_Z9Oz0V5FoUnsnxzsDs87GBYFA_zuSz0",
       "pictureSource": "الشروق أونلاين",
       "relatedSearch": [
         {
-          "title": "إدارة نيس تضبط القيمة المالية لـ \"بوداوي\"",
+          "title": "العطلة الصيفية لـ \"بوداوي\" انتهت",
           "snippet": "",
-          "url": "https://www.echoroukonline.com/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%86%D9%8A%D8%B3-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D9%82%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%80-%D8%A8%D9%88%D8%AF%D8%A7%D9%88",
+          "url": "https://www.echoroukonline.com/%D8%A7%D9%84%D8%B9%D8%B7%D9%84%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-%D9%84%D9%80-%D8%A8%D9%88%D8%AF%D8%A7%D9%88%D9%8A-%D8%A7%D9%86%D8%AA%D9%87%D8%AA",
           "source": "الشروق أونلاين"
         },
         {
@@ -161,10 +161,10 @@
           "source": "العين الإخبارية"
         },
         {
-          "title": "ناد ألمانـي ينافس اليونايتد على خدماته…نيــــس يشتـــرط 30 مليــــــون أورو للتخــــلي عن بوداوي",
+          "title": "بوداوي مطلوب في البوندسليغا",
           "snippet": "",
-          "url": "https://www.dzair-tube.dz/%D9%86%D8%A7%D8%AF-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%80%D9%8A-%D9%8A%D9%86%D8%A7%D9%81%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%B9%D9%84%D9%89-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/",
-          "source": "دزاير توب"
+          "url": "https://www.ennaharonline.com/%D8%A8%D9%88%D8%AF%D8%A7%D9%88%D9%8A-%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%88%D9%86%D8%AF%D8%B3%D9%84%D9%8A%D8%BA%D8%A7/",
+          "source": "النهار أونلاين"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "La Gazzetta dello Sport"
         },
         {
-          "title": "«Dopo sono bravi tutti a parlare…»",
+          "title": "Il Real Madrid si prepara al grande scontro con il PSG: Alonso sceglie il sostituto di Huijsen",
           "snippet": "",
-          "url": "https://www.tio.ch/sport/calcio/1850256/fare-puoi-cm-punta-arno",
-          "source": "Ticinonline"
+          "url": "https://www.gazetaexpress.com/it/Il-Real-Madrid-si-prepara-al-grande-scontro-con-il-PSG--Alonso-decide-il-sostituto-di-Huijsen/",
+          "source": "Gazeta Express"
         }
       ],
       "link": "https://imtaqin.id/"
