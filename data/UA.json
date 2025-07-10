@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-10 07:33:14",
+  "lastUpdate": "2025-07-10 07:42:20",
   "data": [
     {
       "title": "зубра",
@@ -40,11 +40,17 @@
     },
     {
       "title": "львів погода",
-      "trafficCount": "2000+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 9 Jul 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbzvY8RW6LDbPnTuzC1DJwY3GZiHipafaazPlJ4ZJEL3A2oU-cxhQ9XICUgY4",
-      "pictureSource": "УНІАН",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRl3eMANCxV-Ad18A0CtV4gQoub5NIpno4waNi7AirKzoe8QvsADlgeMmLWJQw",
+      "pictureSource": "Експрес онлайн",
       "relatedSearch": [
+        {
+          "title": "Негода на Львівщині: затоплені вулиці, плавають автівки, подекуди вода сягає 3 метрів",
+          "snippet": "",
+          "url": "https://expres.online/podrobitsi/negoda-na-lvivshchini-zatopleni-vulitsi-plavayut-avtivki-podekudi-voda-syagae-3-metriv",
+          "source": "Експрес онлайн"
+        },
         {
           "title": "Львівщина потерпає від негоди: Львів пливе, десятки сіл без світла (фото, відео)",
           "snippet": "",
@@ -52,16 +58,10 @@
           "source": "УНІАН"
         },
         {
-          "title": "Затопило річку Зубру та декілька ділянок у Львові: наслідки негоди",
+          "title": "Через підтоплення у Залізничному районі Львова один із тролейбусів тимчасово курсує зі змінами",
           "snippet": "",
-          "url": "https://suspilne.media/lviv/1062941-zatopilo-ricku-zubru-ta-dekilka-dilanok-u-lvovi-naslidki-negodi/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "Львів заливають дощі, у трьох районах є загроза підтоплення",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4013468-lviv-zalivaut-dosi-u-troh-rajonah-e-zagroza-pidtoplenna.html",
-          "source": "Укрінформ"
+          "url": "https://tvoemisto.tv/news/cherez_pidtoplennya_u_zaliznychnomu_rayoni_lvova_odyn_iz_troleybusiv_tymchasovo_kursuie_zi_zminamy_177682.html",
+          "source": "Твоє Місто"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,10 +86,10 @@
           "source": "УНІАН"
         },
         {
-          "title": "Зростання цін на продукти в Україні прискорилося до 23%. Що подорожчало найбільше",
+          "title": "Індекс інфляції за червень 2025 року – 100,8%",
           "snippet": "",
-          "url": "https://www.rbc.ua/rus/news/zrostannya-tsin-produkti-ukrayini-priskorilosya-1752063085.html",
-          "source": "РБК-Україна"
+          "url": "https://7eminar.ua/news/9904-indeks-inflyaciyi-za-cerven-2025-roku",
+          "source": "7eminar"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -140,6 +140,34 @@
           "snippet": "",
           "url": "https://molbuk.ua/chernovtsy_news/340758-na-bukovyni-rizko-zminylasia-pogoda-chogo-chekaty-sogodni-ta-v-naiblyzhchi-dni.html",
           "source": "Молодий буковинець"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода львів",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 9 Jul 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgEaKQDMJXVfCEtsKzrPLe3uJ2UMVWecE4ukInMsDmNZA4UBauBxIG6_iQ9RI",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "У Львові оголосили максимальний рівень небезпеки: що відбувається (інфографіка)",
+          "snippet": "",
+          "url": "https://www.unian.ua/pogoda/news/pogoda-lviv-u-misti-ogolosheno-chervnu-nebezpeku-shcho-vidbuvayetsya-novini-lvova-13062807.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Очікуються надзвичайні дощі: прогноз погоди на Львівщині 10 липня",
+          "snippet": "",
+          "url": "https://suspilne.media/lviv/1062949-ocikuutsa-nadzvicajni-dosi-prognoz-pogodi-na-lvivsini-10-lipna/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "У Львові буревій повалив майже пів сотні дерев і пошкодив автівки",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-regions/4012688-u-lvovi-burevij-povaliv-majze-piv-sotni-derev-i-poskodiv-avtivki.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -224,34 +252,6 @@
           "snippet": "",
           "url": "https://interfax.com.ua/news/general/1086405.html",
           "source": "Інтерфакс-Україна"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода вінниця",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 9 Jul 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VyfVop2ZsU-yYbSLytFfc4616HyReXfMryN3vnMnkipIiAgr6O6SX9ClwPo",
-      "pictureSource": "Нововолинський інформаційний портал",
-      "relatedSearch": [
-        {
-          "title": "9 липня на заході України похолоднішає, а південь розплавиться від пекельної спеки в +39",
-          "snippet": "",
-          "url": "https://nvip.com.ua/2025/07/08/9-lypnya-na-zahodi-ukrayiny-poholodnishaye-a-pivden-rozplavytsya-vid-pekelnoyi-speky-v-39/",
-          "source": "Нововолинський інформаційний портал"
-        },
-        {
-          "title": "Чи прийдуть до України \"пекельні рекорди\": якою буде погода наступного тижня",
-          "snippet": "",
-          "url": "https://nvip.com.ua/2025/07/06/chy-pryydut-do-ukrayiny-pekelni-rekordy-iakoiu-bude-pohoda-nastupnoho-tyznia-2864606-html/",
-          "source": "Нововолинський інформаційний портал"
-        },
-        {
-          "title": "Синоптики попередили українців про небезпечні метеоявища",
-          "snippet": "",
-          "url": "https://tsn.ua/ukrayina/synoptyky-poperedyly-ukrayintsiv-pro-nebezpechni-meteoiavyshcha-2866895.html",
-          "source": "ТСН - Телевізійна служба новин"
         }
       ],
       "link": "https://imtaqin.id/"
