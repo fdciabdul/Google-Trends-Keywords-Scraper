@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-07-10 15:16:16",
+  "lastUpdate": "2025-07-10 15:31:03",
   "data": [
+    {
+      "title": "погода казань",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 10 Jul 2025 08:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH7A9qwRGmnofUjjC-6He5z9K1GCI_jtZtggjDhsUO60Y3cur_XMj6aiGaT00",
+      "pictureSource": "БИЗНЕС Online — Новости Казани",
+      "relatedSearch": [
+        {
+          "title": "В выходные в Татарстане сохранится жара – в субботу будет плюс 32 градуса",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/677203",
+          "source": "БИЗНЕС Online — Новости Казани"
+        },
+        {
+          "title": "В Татарстане 11 июля ожидаются грозы с ветром до 21 м/с",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/66951000/",
+          "source": "Mail.ru"
+        },
+        {
+          "title": "В Татарстане ожидается жаркая погода с дождями и сильным ветром",
+          "snippet": "",
+          "url": "https://entermedia.io/news/v-tatarstane-ozhidaetsya-zharkaya-pogoda-s-dozhdyami-i-silnym-vetrom/",
+          "source": "Enter–media"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "чичваркин",
       "trafficCount": "100+",
@@ -39,34 +67,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "краснодар погода",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 10 Jul 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdYxgevqDLLDnGHU0ILBNfzgd1DLq0DAPlAxEbaBZzcWuYvadHDgTdxVUrySo",
-      "pictureSource": "Кубанские новости",
-      "relatedSearch": [
-        {
-          "title": "Синоптик Попова рассказала, когда ждать пик жары в Краснодарском крае",
-          "snippet": "",
-          "url": "https://kubnews.ru/obshchestvo/2025/07/10/sinoptik-popova-rasskazala-kogda-zhdat-pik-zhary-v-krasnodarskom-krae/",
-          "source": "Кубанские новости"
-        },
-        {
-          "title": "Ветер и аномальную 40-градусную жару прогнозируют в Краснодарском крае 10 июля",
-          "snippet": "",
-          "url": "https://kuban24.tv/item/zhara-40-c-sohranitsya-v-krasnodarskom-krae-10-iyulya",
-          "source": "Новости Краснодара и Краснодарского края : Кубань 24"
-        },
-        {
-          "title": "Жара, тайфуны, потопы: чем удивит конец лета в Приморье в этом году",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/66925671/",
-          "source": "Mail.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "бенчич швентек прогноз",
       "trafficCount": "100+",
       "pubDate": "Thu, 10 Jul 2025 07:20:00 -0700",
@@ -95,10 +95,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "краснодар погода",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 10 Jul 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdYxgevqDLLDnGHU0ILBNfzgd1DLq0DAPlAxEbaBZzcWuYvadHDgTdxVUrySo",
+      "pictureSource": "Кубанские новости",
+      "relatedSearch": [
+        {
+          "title": "Синоптик Попова рассказала, когда ждать пик жары в Краснодарском крае",
+          "snippet": "",
+          "url": "https://kubnews.ru/obshchestvo/2025/07/10/sinoptik-popova-rasskazala-kogda-zhdat-pik-zhary-v-krasnodarskom-krae/",
+          "source": "Кубанские новости"
+        },
+        {
+          "title": "Ветер и аномальную 40-градусную жару прогнозируют в Краснодарском крае 10 июля",
+          "snippet": "",
+          "url": "https://kuban24.tv/item/zhara-40-c-sohranitsya-v-krasnodarskom-krae-10-iyulya",
+          "source": "Новости Краснодара и Краснодарского края : Кубань 24"
+        },
+        {
+          "title": "Жара, тайфуны, потопы: чем удивит конец лета в Приморье в этом году",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/66925671/",
+          "source": "Mail.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "волынская резня",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 10 Jul 2025 07:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMWeJSy-MiuVERAltCqLW5x3ZCrvQqcQIVXQ1k8G_iwq9eRcuwWZFO_EaaCM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQplDCmoCN-eRpemvnpQHLKEkUYrWbzs_zxteQ_JDs6kJhjdy4cFajb3sAXl80",
       "pictureSource": "Рамблер",
       "relatedSearch": [
         {
@@ -226,38 +254,10 @@
           "source": "Банки.ру"
         },
         {
-          "title": "Россияне жалуются на сбои в работе СБП и четырех крупных банков",
+          "title": "В работе СБП произошел сбой",
           "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/677220",
-          "source": "БИЗНЕС Online — Новости Казани"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "арина сергеевна соболенко",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 10 Jul 2025 05:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeOIN-rkUoCEUqY6vxSHgLAKZ6KNG6pDcl20ulbwgXJqnegc585M1kjPFZtc",
-      "pictureSource": "Olympics.com",
-      "relatedSearch": [
-        {
-          "title": "Теннис. Уимблдон 2025. Женщины. Полуфиналы: что ждать и где смотреть",
-          "snippet": "",
-          "url": "https://www.olympics.com/ru/news/tennis-uimbldon-2025-zhenshchiny-polufinaly-chto-zhdat-i-gde-smotret",
-          "source": "Olympics.com"
-        },
-        {
-          "title": "Битвы за финал Уимблдона и дебют Егора Демина за «Бруклин»: что посмотреть сегодня",
-          "snippet": "",
-          "url": "https://sportmail.ru/article/basketball-nba/66944406/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Клиенты PARI ставят на Соболенко в матче с Анисимовой",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/sport/rb/news/sobolenko-anisimova-wimbledon-2025-pari",
-          "source": "Ведомости"
+          "url": "https://frankmedia.ru/209889",
+          "source": "Frank Media"
         }
       ],
       "link": "https://imtaqin.id/"
