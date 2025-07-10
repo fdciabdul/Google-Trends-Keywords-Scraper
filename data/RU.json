@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-10 04:33:01",
+  "lastUpdate": "2025-07-10 04:47:34",
   "data": [
     {
       "title": "погода мурманск",
@@ -12,7 +12,7 @@
     },
     {
       "title": "новости курск",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 9 Jul 2025 20:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRdZgJ2IiDTI4npFP525yJDCcdSZWH8Gvx9B8H61Wt1HpeqbfEDNWdJD09ic",
       "pictureSource": "Meduza",
@@ -98,9 +98,28 @@
       "title": "нгс",
       "trafficCount": "200+",
       "pubDate": "Wed, 9 Jul 2025 19:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCXS0aKrfjxsG1foOMm72RgbAVLAKg6adPdxjGYUfr-dVitc7MAUzthVUHztw",
+      "pictureSource": "BFM-Новосибирск",
+      "relatedSearch": [
+        {
+          "title": "СМИ: в Новосибирске задержали начальника областной госжилинспекции Полищука",
+          "snippet": "",
+          "url": "https://nsk.bfm.ru/news/51111",
+          "source": "BFM-Новосибирск"
+        },
+        {
+          "title": "У начальника ГЖИ Новосибирской области прошли обыски — что случилось - 10 июля 2025",
+          "snippet": "",
+          "url": "https://ngs.ru/text/criminal/2025/07/10/75702257/",
+          "source": "НГС.ру"
+        },
+        {
+          "title": "В Новосибирске полиция пришла с обысками c главе ГЖИ Полищуку",
+          "snippet": "",
+          "url": "https://sib.fm/news/2025/07/10/v-novosibirske-politsiya-prishla-s-obyskami-c-glave-gzhi-polischuku",
+          "source": "Сиб.фм.."
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -207,10 +226,10 @@
           "source": "Meduza"
         },
         {
-          "title": "«Достаточно давно»: уволенный экс-глава Минтранса Старовойт покончил с собой",
+          "title": "Встреча с Андреем Никитиным",
           "snippet": "",
-          "url": "https://rtvi.com/news/eks-glava-mintransa-rossii-roman-starovojt-pokonchil-s-soboj-v-podmoskove/",
-          "source": "RTVI"
+          "url": "http://kremlin.ru/events/president/news/77376",
+          "source": "Президент России"
         }
       ],
       "link": "https://imtaqin.id/"
