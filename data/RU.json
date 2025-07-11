@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-11 20:34:12",
+  "lastUpdate": "2025-07-11 20:43:29",
   "data": [
     {
       "title": "новости россии",
@@ -61,14 +61,33 @@
       "title": "бережковская набережная",
       "trafficCount": "500+",
       "pubDate": "Fri, 11 Jul 2025 12:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUljjBP_WO_Q5R6zewatqBZWXpjuxBP8jmwymCrZ6Lr8uCjeWLWWfjBUJP2sY",
+      "pictureSource": "ФОНТАНКА.ру",
+      "relatedSearch": [
+        {
+          "title": "Кроссовер въехал в толпу пешеходов на набережной в Москве. Под колеса попали дети",
+          "snippet": "",
+          "url": "https://www.fontanka.ru/2025/07/11/75716327/",
+          "source": "ФОНТАНКА.ру"
+        },
+        {
+          "title": "Автомобиль въехал в толпу пешеходов на Бережковской набережной в Москве",
+          "snippet": "",
+          "url": "https://www.bfm.ru/news/578043",
+          "source": "BFM.ru"
+        },
+        {
+          "title": "Пять человек пострадали в ДТП на Бережковской набережной в центре Москвы",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1035859",
+          "source": "Интерфакс"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "полнолуние",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 11 Jul 2025 12:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDbqCgk1CimztwOcQXBUfgLZJtssPX3Y-MuERbkUrvqqDrOtAdnB57G7uBjCw",
       "pictureSource": "Новости Саратова — Регион 64",
