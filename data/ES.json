@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-07-12 18:54:08",
+  "lastUpdate": "2025-07-12 19:01:07",
   "data": [
     {
+      "title": "reacción en cadena",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 12 Jul 2025 11:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0QmVDACWRVFEOfZYbf06eYVcrTjejyrbHCXyGfzI1hlJLFgWt8_c3fwPAD00",
+      "pictureSource": "El Correo",
+      "relatedSearch": [
+        {
+          "title": "Telecinco adelanta el adiós de Ion Aramendi y pone fin a 'Reacción en cadena' este sábado",
+          "snippet": "",
+          "url": "https://www.elcorreo.com/gente-estilo/telecinco-adelanta-adios-ion-aramendi-pone-fin-20250711192028-nt.html",
+          "source": "El Correo"
+        },
+        {
+          "title": "Agárrate al sillón",
+          "snippet": "",
+          "url": "https://www.elmundo.es/television/programacion-tv/programas/55677304_agarrate-al-sillon.html",
+          "source": "El Mundo"
+        },
+        {
+          "title": "Telecinco usa la final del Mundial de Clubes para estrenar 'Agárrate al sillón', su nueva apuesta de las tardes",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/television/programas-tv/2025-07-11/agarrate-al-sillon-estreno-domingo-reaccion-en-cadena_4171017/",
+          "source": "El Confidencial"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "flamengo - são paulo",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 12 Jul 2025 11:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbCB_cCKLLw5ZRrZP6pY2SkvENnVSaSAZvNoouQiQxrYmrUvNxd3KyBEIIaY",
       "pictureSource": "ge",
@@ -21,38 +49,10 @@
           "source": "Instagram"
         },
         {
-          "title": "Wilton Pereira apitará jogo do São Paulo x Flamengo e coleciona polêmicas",
+          "title": "Resultados dos últimos 15 jogos entre Flamengo x São Paulo",
           "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/wilton-pereira-apitara-jogo-do-sao-paulo-x-flamengo-e-coleciona-polemicas-41366225",
-          "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "suecia - alemania",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 12 Jul 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxe2qoBr14BVSEO_N3Z8kjDDcMkQTtxPfXBZJEjqlmP4U8VDw4uGoP1_PyDPQ",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Candidatura a prueba",
-          "snippet": "",
-          "url": "https://as.com/futbol/femenino/candidatura-a-prueba-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Suecia - Alemania en directo - Eurocopa: Resultados y resúmenes de Fútbol - 12/07/2025",
-          "snippet": "",
-          "url": "https://www.eurosport.es/futbol/eurocopa/2025/live-suecia-alemania_mtc1574257/live-commentary.shtml",
-          "source": "Eurosport"
-        },
-        {
-          "title": "Suecia vs Alemania en vivo minuto a minuto hoy | Eurocopa Femenina",
-          "snippet": "",
-          "url": "https://www.mundodeportivo.com/us/futbol/20250712/725854/suecia-vs-alemania-vivo-minuto-minuto-hoy-eurocopa-femenina-drca1.html",
-          "source": "Mundo Deportivo"
+          "url": "https://www.nsctotal.com.br/noticias/resultados-dos-ultimos-15-jogos-entre-flamengo-x-sao-paulo",
+          "source": "NSC Total"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "suecia - alemania",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 12 Jul 2025 11:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxe2qoBr14BVSEO_N3Z8kjDDcMkQTtxPfXBZJEjqlmP4U8VDw4uGoP1_PyDPQ",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "Candidatura a prueba",
+          "snippet": "",
+          "url": "https://as.com/futbol/femenino/candidatura-a-prueba-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Suecia - Alemania en directo - Eurocopa: Resultados y resúmenes de Fútbol - 12/07/2025",
+          "snippet": "",
+          "url": "https://www.eurosport.es/futbol/eurocopa/2025/live-suecia-alemania_mtc1574257/live-commentary.shtml",
+          "source": "Eurosport"
+        },
+        {
+          "title": "Suecia vs Alemania en vivo minuto a minuto hoy | Eurocopa Femenina",
+          "snippet": "",
+          "url": "https://www.mundodeportivo.com/us/futbol/20250712/725854/suecia-vs-alemania-vivo-minuto-minuto-hoy-eurocopa-femenina-drca1.html",
+          "source": "Mundo Deportivo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "jodie foster",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 12 Jul 2025 11:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbmrkJIlA_OxPhg63hgcly4qyP5iTSoGyhir6AiN1dZ8pqcmiCO3eFqoziFaA",
       "pictureSource": "Mujerhoy",
@@ -143,7 +171,7 @@
     },
     {
       "title": "ümraniyespor - galatasaray",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 12 Jul 2025 11:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18-9ZKs_mXgOSW9b_u2WvSfJocCZ_YQXj6hc6QmF4y6ZACRMAlNuAxYowheo",
       "pictureSource": "Fanatik",
@@ -170,8 +198,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "fernando robleño",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 12 Jul 2025 11:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRphTW4viZLAa2wfyQ7SvSn1zEYpDOlUjTVB40qn8ytpa66_SIv_QLuWzH8f4k",
+      "pictureSource": "Diario de Noticias de Navarra",
+      "relatedSearch": [
+        {
+          "title": "Fernando Robleño: “La decisión de retirarme es firme, está muy meditada, pero seguiré vinculado al toro dirigiendo la Escuela Taurina de Madrid”",
+          "snippet": "",
+          "url": "https://www.noticiasdenavarra.com/san-fermin/2025/07/12/fernando-robleno-decision-retirarme-firme-9871691.html",
+          "source": "Diario de Noticias de Navarra"
+        },
+        {
+          "title": "Fernando Robleño, ‘torero de Ceret’ (Vídeo)",
+          "snippet": "",
+          "url": "https://www.mundotoro.com/noticia/fernando-robleno-torero-de-ceret-video/1871526",
+          "source": "mundotoro.com"
+        },
+        {
+          "title": "Corrida de José Escolar en la Feria del Toro de San Fermín 2025: peligrosa tarde de toros en Pamplona",
+          "snippet": "",
+          "url": "https://www.diariodenavarra.es/noticias/san-fermin/toros/2025/07/12/corrida-jose-escolar-feria-toro-san-fermin-2025-directo-654003-3388.html",
+          "source": "diariodenavarra.es"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "lluvias valencia",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 12 Jul 2025 11:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRL966g6eg-h9SOw7Xa31leT_MnSBQsBV_GvI0ENMuZb-QUqxvloxw8ZOYofkI",
       "pictureSource": "Levante-EMV",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.diariodesevilla.es/sevillafc/carlos-caszely-suazo-sera-gran_0_2004347966.html",
           "source": "Diario de Sevilla"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cadiz cf",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 12 Jul 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0zh_JioMosukKCFNWytns75gf1EybHOkWsuQDmsDOBEhbI6GEUQuu7VTRrsM",
-      "pictureSource": "Diario de Cádiz",
-      "relatedSearch": [
-        {
-          "title": "Juan Cala y el difícil trago de enseñar la puerta de salida a los que fueron sus compañeros",
-          "snippet": "",
-          "url": "https://www.diariodecadiz.es/cadizcf/juan-cala-dificil-trago-senalar-puerta-salida-fueron-companeros_0_2004350977.html",
-          "source": "Diario de Cádiz"
-        },
-        {
-          "title": "Primera sesión de pretemporada",
-          "snippet": "",
-          "url": "https://www.cadizcf.com/noticias/primera-sesion-de-pretemporada",
-          "source": "Cádiz CF"
-        },
-        {
-          "title": "Cinco centrocampistas para la primera plantilla del Cádiz CF",
-          "snippet": "",
-          "url": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/cinco-centrocampistas-primera-plantilla-cadiz-20250710191538-ntv.html",
-          "source": "La Voz Digital"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rafaelillo",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 12 Jul 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNeT34lHG6RDSBQLJb1NQb_WBMUllzhyfB0P90U2iRvibnogNjlGzoei6FWew",
-      "pictureSource": "mundotoro.com",
-      "relatedSearch": [
-        {
-          "title": "Rafaelillo, trasladado al hospital para realizarle más pruebas tras su percance ante el cuarto",
-          "snippet": "",
-          "url": "https://www.mundotoro.com/noticia/rafaelillo-dura-cogida-ante-el-cuarto-de-escolar/1872430",
-          "source": "mundotoro.com"
-        },
-        {
-          "title": "Vídeo de Rafaelillo con el primer toro de la tarde",
-          "snippet": "",
-          "url": "https://www.diariodenavarra.es/multimedia/videos/san-fermin/toros/2025/07/12/video-rafaelillo-el-primer-toro-tarde.html",
-          "source": "diariodenavarra.es"
-        },
-        {
-          "title": "Rafaelillo: 'Tenía peligro y, encima, no decía nada. He estado con oficio, sacando muletazos meritorios de uno en uno'",
-          "snippet": "",
-          "url": "https://www.mundotoro.com/noticia/copy-13/1872370",
-          "source": "mundotoro.com"
         }
       ],
       "link": "https://imtaqin.id/"
