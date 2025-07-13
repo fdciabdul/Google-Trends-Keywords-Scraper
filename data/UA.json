@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-07-13 05:09:19",
+  "lastUpdate": "2025-07-13 05:21:45",
   "data": [
-    {
-      "title": "синоптик харьков",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 12 Jul 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2fBirbpQb7YU-L-9JRGhaLdZp7oqIlmDHLkQW-7PbqB5fHmSaZshpkQiXpr0",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Харьков и область накрыла непогода: есть погибшая, среди пострадавших – ребенок",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/07/13/7521481/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "В сети появились апокалиптические кадры мощного ливня в Харькове (фото, видео)",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/merezhi-z-yavilisya-apokaliptichni-kadri-1752348245.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "В Харькове завтра будет до +35 °С — прогноз погоды",
-          "snippet": "",
-          "url": "https://112.ua/ru/u-harkovi-zavtra-pektime-do-35-s-prognoz-pogodi-69860",
-          "source": "112.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "магнітні бурі",
       "trafficCount": "200+",
@@ -87,7 +59,7 @@
     },
     {
       "title": "13 липня свято",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 12 Jul 2025 19:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT63Fx04xxXu6T4kh-TMBsfrJzoXsOrW1v6phWIe2KQnEWGAzgwColGijMGduE",
       "pictureSource": "УНІАН",
@@ -115,7 +87,7 @@
     },
     {
       "title": "буданов",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 12 Jul 2025 19:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgYNKsB5jHguEKwA0GGT3HoMpqDJOdJL4lAadd5_-e38Pgi3AhPXFfgw10Ocs",
       "pictureSource": "NV.ua",
@@ -127,16 +99,44 @@
           "source": "NV.ua"
         },
         {
-          "title": "Коли може відбутися припинення вогню в Україні: Буданов зробив заяву",
+          "title": "Завершення війни, таємна допомога США, зброя КНДР для Росії: головне з інтерв’ю керівника ГУР Кирила Буданова",
           "snippet": "",
-          "url": "https://www.unian.ua/war/budanov-nachalnik-gur-ociniv-koli-mozhe-vidbutisya-pripinennya-vognyu-v-ukrajini-13064394.html",
-          "source": "УНІАН"
+          "url": "https://tsn.ua/ukrayina/4-zavershennia-viyny-tayemna-dopomoha-ssha-zbroia-kndr-dlia-rf-holovne-z-interviu-kerivnyka-hur-2868128.html",
+          "source": "ТСН"
         },
         {
           "title": "Росія не зможе захопити всю Донеччину до кінця 2025 року – Буданов",
           "snippet": "",
           "url": "https://www.radiosvoboda.org/a/news-budanov-donechchyna-rf/33471693.html",
           "source": "Радіо Свобода"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "харьков",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 12 Jul 2025 19:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2fBirbpQb7YU-L-9JRGhaLdZp7oqIlmDHLkQW-7PbqB5fHmSaZshpkQiXpr0",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Харьков и область накрыла непогода: есть погибшая, среди пострадавших – ребенок",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/07/13/7521481/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В сети появились апокалиптические кадры мощного ливня в Харькове (фото, видео)",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/merezhi-z-yavilisya-apokaliptichni-kadri-1752348245.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В Харькове завтра будет до +35 °С — прогноз погоды",
+          "snippet": "",
+          "url": "https://112.ua/ru/u-harkovi-zavtra-pektime-do-35-s-prognoz-pogodi-69860",
+          "source": "112.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +173,26 @@
       "title": "интер майами – нэшвилл",
       "trafficCount": "1000+",
       "pubDate": "Sat, 12 Jul 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOGWjogeg8zpEszm6iuqv-ZhUAIYoz5_sC3dosFNK24NGLFlvd08lLLNPp-cg",
-      "pictureSource": "Sport.ua",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1K6nFgtIqdDKzD--6QkX5dGDNqu0yB089bZXhLaz3rVPopUAMGS6raSxknM",
+      "pictureSource": "Champion.com.ua",
       "relatedSearch": [
         {
-          "title": "Интер Майами – Нэшвилл. Прогноз и анонс на матч MLS",
+          "title": "Обновил собственный рекорд: очередные голы Месси помогли Интеру переиграть Нэшвилл",
           "snippet": "",
-          "url": "https://sport.ua/news/777793-inter-mayami-neshvill-prognoz-i-anons-na-match-mls",
+          "url": "https://champion.com.ua/rus/football/dubl-messi-pomog-interu-pereigrat-neshvill-videoobzor-matcha-mls-1043060/",
+          "source": "Champion.com.ua"
+        },
+        {
+          "title": "Лео продолжает феерить: дубль Месси принес Интер Майами победу в матче MLS",
+          "snippet": "",
+          "url": "https://sport.ua/news/778072-leo-prodolzhaet-feerit-dubl-messi-prines-inter-mayami-pobedu-v-matche-mls",
           "source": "Sport.ua"
         },
         {
-          "title": "Интер Майами 2:1 Нэшвилл - 12 июля 2025 - прямая онлайн трансляция футбольного матча.",
+          "title": "Лионель Месси установил сразу два интересных рекорда за один матч – в одном из них обошел Пеле",
           "snippet": "",
-          "url": "https://www.liveresult.ru/football/matches/match1579354_Inter_Miami_CF-Nashville_SC-live-online",
-          "source": "LiveResult"
-        },
-        {
-          "title": "«Интер Майами» – «Нэшвилл»: прямая онлайн-трансляция МЛС 13 июля, где смотреть матч бесплатно",
-          "snippet": "",
-          "url": "https://metaratings.ru/news/inter-majami-nehshvill-pryamaya-onlajn-translyaciya-mls-13-iyulya-gde-smotret-match-besplatno/",
-          "source": "Metaratings"
+          "url": "https://ua.tribuna.com/football/blogs/3141550-lionel-messi-vstanovyv-vidrazu-dva-tsikavykh-rekordy-za-odyn-m/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
