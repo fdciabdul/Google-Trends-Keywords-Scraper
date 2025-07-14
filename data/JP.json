@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-07-14 05:15:03",
+  "lastUpdate": "2025-07-14 05:29:19",
   "data": [
+    {
+      "title": "バリュエンスジャパン",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 13 Jul 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL06Ak_l94DCMPj_bSfJwTbPqQp68PjM8MkXeO94RKHlhF5cFU-p5SnsopLKc",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "成長する中古高級品の市場、エルメスのオリジナル「バーキン」が14.7億円で落札",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/82c18dadf6ebe913179ad5e649ae722c89e4a411",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "＜コラム 筆洗＞サンダルや「つっかけ」のことを「ヘップ」と呼ぶ方は最近はあ…",
+          "snippet": "",
+          "url": "https://www.tokyo-np.co.jp/article/420498",
+          "source": "東京新聞デジタル"
+        },
+        {
+          "title": "１４億円バーキン落札 予算は「考えられへんぐらいドンピシャ」…「なんぼや」運営・嵜本晋輔氏が激白",
+          "snippet": "",
+          "url": "https://hochi.news/articles/20250711-OHT1T51326.html",
+          "source": "スポーツ報知"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "徳島自動車道",
       "trafficCount": "200+",
@@ -21,10 +49,10 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "【速報】徳島道でバスとトラックが正面衝突 けが人多数の模様【徳島】",
+          "title": "徳島自動車道でバスとトラックが衝突、炎上",
           "snippet": "",
-          "url": "https://news.ntv.co.jp/n/jrt/category/society/jr096cef943456494e8dcf594fdfd169d7",
-          "source": "日テレNEWS NNN"
+          "url": "https://www.nikkei.com/article/DGXZQOUD144QA0U5A710C2000000/",
+          "source": "日本経済新聞"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -67,34 +95,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "消費税",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 13 Jul 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxN4vvelmtTEGvwR-BpVEcE7Vc2DoQDEKYurOQ_iEzxj373VYKUAfnveuoBQ",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "「どの口がｗ」「おま言う」→石破首相「国が滅びる」演説がトレンド騒ぎの何故？ 「巨大ブーメラン」「ここまで美しいブーメランは初めて」「説得力ある」（デイリースポーツ）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/635d5acb8c5ac0d01a8e1169434b8457c488c418",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "【速報】首相、立民と共産に国を任せられないと批判",
-          "snippet": "",
-          "url": "https://www.47news.jp/12852224.html",
-          "source": "47NEWS"
-        },
-        {
-          "title": "石破茂総理が仙台市で参院選自民党候補の応援演説",
-          "snippet": "",
-          "url": "https://www.khb-tv.co.jp/news/15900842",
-          "source": "khb東日本放送"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "さや",
       "trafficCount": "1000+",
       "pubDate": "Sun, 13 Jul 2025 21:20:00 -0700",
@@ -123,12 +123,74 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "消費税",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 13 Jul 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxN4vvelmtTEGvwR-BpVEcE7Vc2DoQDEKYurOQ_iEzxj373VYKUAfnveuoBQ",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "「どの口がｗ」「おま言う」→石破首相「国が滅びる」演説がトレンド騒ぎの何故？ 「巨大ブーメラン」「ここまで美しいブーメランは初めて」「説得力ある」（デイリースポーツ）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/635d5acb8c5ac0d01a8e1169434b8457c488c418",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【速報】首相、立民と共産に国を任せられないと批判",
+          "snippet": "",
+          "url": "https://www.47news.jp/12852224.html",
+          "source": "47NEWS"
+        },
+        {
+          "title": "石破茂総理が仙台市で参院選自民党候補の応援演説",
+          "snippet": "",
+          "url": "https://www.khb-tv.co.jp/news/15900842",
+          "source": "khb東日本放送"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ヒルナンデス",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 13 Jul 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMYLFCAD98FJZP1_IVr3qy7li85KNHnySJyTpiTLKHs3j0dHr4RrwZ58eRTu4",
+      "pictureSource": "ｄメニューニュース",
+      "relatedSearch": [
+        {
+          "title": "７月１４日（月）のヒルナンデス！は★今行きたい！日暮里期間限定スポット★（日テレTOPICS）",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/ntv_topics/entertainment/www.ntv.co.jp-hirunan-articles-3081y4p318plglkgdzzw-html",
+          "source": "ｄメニューニュース"
+        },
+        {
+          "title": "「最高です」〝ヒルナンデス〟オシャレ企画優勝で話題、41歳女性アナ〝チラリ〟ショットに反響「ばりばりカワイイ」「年々若返ってませんか」の声（西スポWEB OTTO！）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/203551c2e04a60004baf03c00b559159ce21a5f4",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "７月１４日（月）のヒルナンデス！は★医者から学ぶ食事術★（日テレTOPICS）",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/ntv_topics/entertainment/www.ntv.co.jp-hirunan-articles-3081d37xo4n15bqr6omg-html",
+          "source": "ｄメニューニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "マイナンバー",
       "trafficCount": "200+",
       "pubDate": "Sun, 13 Jul 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1awpCHjwj6QX-iX6wQAmwedWOLlYC9_3j-b_lYuipeloGINdaSkzLmkLKulo",
-      "pictureSource": "NHK",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUugLYXfKQJK-lChK2K0BVk-bKM04W1oxhcbZ5loi_MB_kQzaW9oYxSqVPx4g",
+      "pictureSource": "インファクト",
       "relatedSearch": [
+        {
+          "title": "【参議院選25FactCheck】石破首相「マイナンバー保有者が8割、口座紐付けが5割」を検証",
+          "snippet": "",
+          "url": "https://infact.press/2025/07/post-25636/",
+          "source": "インファクト"
+        },
         {
           "title": "埼玉 所沢 親族のマイナンバーを不正に入手か 市役所職員逮捕 | NHK",
           "snippet": "",
@@ -140,12 +202,6 @@
           "snippet": "",
           "url": "https://mainichi.jp/articles/20250710/k00/00m/040/040000c",
           "source": "毎日新聞"
-        },
-        {
-          "title": "公務員権限悪用し親族のマイナンバー不正入手した疑いで所沢市職員・田中海斗容疑者（31）逮捕「税金還付などで自分や妻の扶養に入れられるか調べたかった」",
-          "snippet": "",
-          "url": "https://www.fnn.jp/articles/-/900081",
-          "source": "FNNプライムオンライン"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://cdp-japan.jp/news/20250711_9479",
           "source": "立憲民主党"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "神田愛花",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 13 Jul 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1ZjZx0owEwCtnAr1sKXroyvrVNDOgcCS1JerlhWkJbHWsRn1AaPbZ4yiYjvk",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "フリーアナウンサー・神田愛花『夜の山手線』（FRIDAY）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/67d20c8a85b22a778f44cd42d68e58a666821f8c",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "川合俊一会長、女子選手“シカト”する理由明かす　大林素子「ずっと嫌われていると思っていた」",
-          "snippet": "",
-          "url": "https://www.nikkansports.com/entertainment/news/202507110000732.html",
-          "source": "nikkansports.com"
-        },
-        {
-          "title": "62歳元バレー日本代表、現役時代衝撃逸話　熱狂的女性ファン「ホテルの部屋の前に数人寝てた」",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-250711-202507110000579",
-          "source": "ｄメニューニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "チームみらい 政策",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 13 Jul 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0iYEIyzqKqGAK7KF2lsesGjmQomtaMda9HAwnxvE4VtrGDZPGw9Vxjkn2smQ",
-      "pictureSource": "NHK",
-      "relatedSearch": [
-        {
-          "title": "参議院選挙2025・東京選挙区 峰島侑也氏（みらい・新）演説全文 ノーカット動画掲載 候補者の訴え 可視化でわかりやすく",
-          "snippet": "",
-          "url": "https://www.nhk.or.jp/shutoken/articles/101/025/42/",
-          "source": "NHK"
-        },
-        {
-          "title": "チームみらい・安野貴博氏「テクノロジーで政治と未来を良くする」有権者と“一緒に考える”政策も日々バージョンアップ「批判や賛同を3000件以上いただいた」（ABEMA TIMES）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/e1b509a4cbea9d03c52da9a138d78d091d7bcc35?page=2",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "１議席から、みらいは変わる",
-          "snippet": "",
-          "url": "https://go2senkyo.com/seijika/196527/posts/1156364",
-          "source": "選挙ドットコム"
         }
       ],
       "link": "https://imtaqin.id/"
