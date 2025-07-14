@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-07-14 18:12:02",
+  "lastUpdate": "2025-07-14 18:26:13",
   "data": [
     {
+      "title": "cnn",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 14 Jul 2025 11:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYc96J_scHTgwJxM8W88_XhJccOVeRufFZc1aSyKFchFSl-WSQU94tic2QmTE",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c36xrr9kj11t",
+          "source": "BBC"
+        },
+        {
+          "title": "Why Trump has vowed to send billion-dollar Patriot missiles to Ukraine",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-07-15/why-trump-is-sending-patriot-missiles-to-ukraine/105531540",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "What is the Patriot missile system and how is it helping Ukraine?",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/aerospace-defense/what-is-patriot-missile-system-how-is-it-helping-ukraine-2025-07-14/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ird",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 14 Jul 2025 10:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6w2IFy3Lq2UaXdz8OH1FD3kPmvOZnilpB-wHaSnziv5S5WfJAjziVUBH_G5M",
       "pictureSource": "Stuff",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "eng vs ind",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 14 Jul 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0ujUkuDF_iOMphBm3hrcWQw32bxAV8QW08kK9Tup779YijLTnc7pYfyAlUrE",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "England vs India: Ben Stokes conjures tense victory at Lord's",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/cricket/articles/cp82pl85dl2o",
-          "source": "BBC"
-        },
-        {
-          "title": "England beat India by 22 runs in Lord’s thriller: third men’s cricket Test, day five – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/sport/live/2025/jul/14/england-v-india-third-mens-cricket-test-day-five-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Washington and Carse light up Lord's as gripping finish looms",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/series/india-in-england-2025-1445348/england-vs-india-3rd-test-1448351/match-report",
-          "source": "ESPNcricinfo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "zimbabwe vs south africa",
       "trafficCount": "200+",
       "pubDate": "Mon, 14 Jul 2025 05:40:00 -0700",
@@ -127,16 +127,16 @@
           "source": "BBC"
         },
         {
-          "title": "Small plane crashes in fireball at London airport",
+          "title": "Small plane crashes after takeoff at London Southend Airport",
           "snippet": "",
-          "url": "https://www.stuff.co.nz/world-news/360756155/small-plane-crashes-london-southend-airport",
-          "source": "Stuff"
+          "url": "https://edition.cnn.com/2025/07/13/europe/plane-crash-london-southend-airport-intl-latam",
+          "source": "CNN"
         },
         {
-          "title": "Southend plane crash: four people dead, police confirm",
+          "title": "All four people killed in Southend plane crash thought to be foreign nationals, police say",
           "snippet": "",
-          "url": "https://www.theguardian.com/uk-news/2025/jul/14/southend-plane-crash-essex-casualties-investigation",
-          "source": "The Guardian"
+          "url": "https://news.sky.com/story/fireball-at-southend-airport-after-small-plane-crashes-13396214",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
