@@ -1,18 +1,37 @@
 {
-  "lastUpdate": "2025-07-15 13:47:46",
+  "lastUpdate": "2025-07-15 13:57:54",
   "data": [
     {
       "title": "цифровой рубль",
       "trafficCount": "200+",
       "pubDate": "Tue, 15 Jul 2025 05:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgBx_rYtzvAp73ppXflScTNBtWFKJvy_4qRrgZ4S9IWcHrHVLoSTEsG-q4jU",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Госдума определила сроки массового внедрения цифрового рубля",
+          "snippet": "",
+          "url": "https://finance.mail.ru/2025-07-15/gosduma-opredelila-sroki-massovogo-vnedreniya-cifrovogo-rublya-67016675/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Принят закон об использовании банками цифрового рубля и введении единого QR-кода",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1036319",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Госдума приняла закон о массовом внедрении цифрового рубля с сентября 2026 года 15.07.2025",
+          "snippet": "",
+          "url": "https://www.finam.ru/publications/item/gosduma-prinyala-zakon-o-massovom-vnedrenii-tsifrovogo-rublya-s-sentyabrya-2026-goda-20250715-1536/",
+          "source": "Финам"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "шмыгаль",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 15 Jul 2025 05:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SxTqZN139-pzCPH-IQ6398PfUasHcrG46boYleWqczjl3IJd0HHXEMZW2Sk",
       "pictureSource": "Meduza",
@@ -132,34 +151,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новости москва",
-      "trafficCount": "20000+",
-      "pubDate": "Tue, 15 Jul 2025 02:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Bs0zpHJP2ye3pkIaLNoqNOtex7Io6GMO5CNp6YrMRK49hRzGyk6GrlOaLCY",
-      "pictureSource": "Гидрометцентр",
-      "relatedSearch": [
-        {
-          "title": "В Москве в середине лета теплая погода с грозовыми дождями",
-          "snippet": "",
-          "url": "https://meteoinfo.ru/novosti/21301-v-moskve-v-seredine-leta-teplaya-pogoda-s-grozovymi-dozhdyami",
-          "source": "Гидрометцентр"
-        },
-        {
-          "title": "Гроза и град ожидаются в Москве",
-          "snippet": "",
-          "url": "https://www.interfax.ru/moscow/1036221",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Ливень, грозу и град прогнозируют в столице в течение дня / Новости города / Сайт Москвы",
-          "snippet": "",
-          "url": "https://www.mos.ru/news/item/156771073/",
-          "source": "mos.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "юра борисов",
       "trafficCount": "500+",
       "pubDate": "Tue, 15 Jul 2025 02:40:00 -0700",
@@ -216,10 +207,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода москва",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 15 Jul 2025 01:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Bs0zpHJP2ye3pkIaLNoqNOtex7Io6GMO5CNp6YrMRK49hRzGyk6GrlOaLCY",
+      "pictureSource": "Гидрометцентр",
+      "relatedSearch": [
+        {
+          "title": "В Москве в середине лета теплая погода с грозовыми дождями",
+          "snippet": "",
+          "url": "https://meteoinfo.ru/novosti/21301-v-moskve-v-seredine-leta-teplaya-pogoda-s-grozovymi-dozhdyami",
+          "source": "Гидрометцентр"
+        },
+        {
+          "title": "Гроза и град ожидаются в Москве",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1036221",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Ливень, грозу и град прогнозируют в столице в течение дня / Новости города / Сайт Москвы",
+          "snippet": "",
+          "url": "https://www.mos.ru/news/item/156771073/",
+          "source": "mos.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "осадки москва",
       "trafficCount": "1000+",
       "pubDate": "Tue, 15 Jul 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfrNBVOgrSdww3-Mo2cuTtuRIkQ21sjShCk9bdX4cbJXNVgUm24JCA5G1mL1s",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3hHLGGKNBJ7S1pqPPUPSoZXG1-LsUf60IxILrOPuvYbENGM_reicxEQGvpp0",
       "pictureSource": "Mail.ru",
       "relatedSearch": [
         {
