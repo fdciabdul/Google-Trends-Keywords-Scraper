@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-15 10:52:47",
+  "lastUpdate": "2025-07-15 10:59:39",
   "data": [
     {
       "title": "риз уизерспун",
@@ -89,9 +89,15 @@
       "title": "погода москва",
       "trafficCount": "20000+",
       "pubDate": "Tue, 15 Jul 2025 01:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Bs0zpHJP2ye3pkIaLNoqNOtex7Io6GMO5CNp6YrMRK49hRzGyk6GrlOaLCY",
-      "pictureSource": "Гидрометцентр",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UYuYVgZ0ndsmehIt8eXekGVMebf89cu5WHKMqcsHMWwBQth14evcsx6h9Cw",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
+        {
+          "title": "Гроза и град ожидаются в Москве",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1036221",
+          "source": "Интерфакс"
+        },
         {
           "title": "В Москве в середине лета теплая погода с грозовыми дождями",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://pogoda.mail.ru/news/67009984/",
           "source": "Mail.ru"
-        },
-        {
-          "title": "Ливень, грозу и град прогнозируют в столице в течение дня / Новости города / Сайт Москвы",
-          "snippet": "",
-          "url": "https://www.mos.ru/news/item/156771073/",
-          "source": "mos.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +117,20 @@
       "title": "осадки москва",
       "trafficCount": "1000+",
       "pubDate": "Tue, 15 Jul 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyabJH7fN9OwG3xQxZ5UybeZ-bi3_gqFlL-v5ydNwD53wLEdLxpDnZG4Z--l8",
-      "pictureSource": "GISMETEO.Новости",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVfvZVlUWsTRRd71g85H9m8OmRre5pB4HgiPdgJU2a-XocqawS1RF3PFNq_-k",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
-        {
-          "title": "Грозы в столице: Москву затопило, из-за гроз возникли пожары",
-          "snippet": "",
-          "url": "https://www.gismeteo.ru/news/nature/grozy-v-stolice-moskvu-zatopilo-iz-za-groz-voznikli-pozhary/",
-          "source": "GISMETEO.Новости"
-        },
         {
           "title": "Месячная норма осадков выпала в нескольких районах Москвы",
           "snippet": "",
           "url": "https://www.interfax.ru/moscow/1036278",
           "source": "Интерфакс"
+        },
+        {
+          "title": "Грозы в столице: Москву затопило, из-за гроз возникли пожары",
+          "snippet": "",
+          "url": "https://www.gismeteo.ru/news/nature/grozy-v-stolice-moskvu-zatopilo-iz-za-groz-voznikli-pozhary/",
+          "source": "GISMETEO.Новости"
         },
         {
           "title": "Чуть меньше четверти месячной нормы осадков выпало в Строгино за день",
