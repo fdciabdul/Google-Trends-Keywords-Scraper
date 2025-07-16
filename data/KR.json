@@ -1,6 +1,15 @@
 {
-  "lastUpdate": "2025-07-16 22:08:34",
+  "lastUpdate": "2025-07-16 22:20:13",
   "data": [
+    {
+      "title": "코레일톡",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 16 Jul 2025 13:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "지하철",
       "trafficCount": "200+",
@@ -87,7 +96,7 @@
     },
     {
       "title": "코레일",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 16 Jul 2025 13:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHyJdk0o_1olpbWrfL68GBvnXkRjcKhz3fK-Nf3TvTZ5j4wASyqh0eYKRD4i4",
       "pictureSource": "MBC 뉴스",
@@ -105,10 +114,10 @@
           "source": "네이트 뉴스"
         },
         {
-          "title": "[속보] 코레일, 집중호우로 열차 운행 일시 조정",
+          "title": "코레일, 집중호우로 서울∼대전 등 일반열차 일부 운행 중지",
           "snippet": "",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20250717061012647",
-          "source": "연합뉴스TV"
+          "url": "https://www.hani.co.kr/arti/society/society_general/1208395.html",
+          "source": "한겨레"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,13 +126,13 @@
       "title": "서울날씨",
       "trafficCount": "100+",
       "pubDate": "Wed, 16 Jul 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcYBt7SSC2Hvdh9J0nXlqalOJo1Di-NrZVh40x1DKYmMXKK2bLjIvFY9DT6lc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJsE7WS8CfqUS04GqFgKyJVapQN8rW7m95hZyEDQu2wLBFmT_lqIEC99TGfQI",
       "pictureSource": "네이트 뉴스",
       "relatedSearch": [
         {
-          "title": "오늘의 날씨 - 오전 (2025년 07월 17일)",
+          "title": "[오늘날씨] 전국 대부분 지역 비…낮 최고 기온 32도",
           "snippet": "",
-          "url": "https://news.nate.com/view/20250717n02098",
+          "url": "https://news.nate.com/view/20250717n03139",
           "source": "네이트 뉴스"
         },
         {
@@ -145,25 +154,53 @@
       "title": "뉴스",
       "trafficCount": "100+",
       "pubDate": "Wed, 16 Jul 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyitQsDkwfsZV9edE0GRZWKZRreTfI-lZDAQaxgAzXsAF2TOcxa8RDjbcW9eM",
+      "picture": "",
       "pictureSource": "연합뉴스",
       "relatedSearch": [
         {
-          "title": "[속보] 천안 성환천 수위 상승…저지대 주민 대피 안내",
+          "title": "\"재산세 납기 놓치지 마세요\"…서초구 납세편의 서비스 운영",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/MYH20250717004200038?section=safe/video",
+          "url": "https://www.yna.co.kr/view/AKR20250717016100004",
           "source": "연합뉴스"
         },
         {
-          "title": "[업앤다운]그룹주 하락…현대차↓·GS",
+          "title": "당진시, 7월 재산세 납세자 위해 ‘야간 세무민원실’ 운영",
           "snippet": "",
-          "url": "https://www.nspna.com/news/?mode=view&newsid=766609",
-          "source": "NSP통신"
+          "url": "https://www.news1.kr/local/daejeon-chungnam/5846474",
+          "source": "뉴스1"
         },
         {
-          "title": "[속보] 트럼프 \"인도네시아와 훌륭한 무역협정 완료…내가 직접 협상\"",
+          "title": "부산진구 '야간 재산세 민원실' 운영",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250715170600071",
+          "url": "https://news.nate.com/view/20250715n08202?mid=n1101",
+          "source": "네이트 뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "폭우",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 16 Jul 2025 12:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofUb995J2fFYVwb_T07KaE7O4u80fZXiTTtB97cImpsNjrbpm-G8yYMgj5GM",
+      "pictureSource": "조선일보",
+      "relatedSearch": [
+        {
+          "title": "[속보] 충남 시간당 100㎜ 극한호우…하천 범람, 열차도 중단",
+          "snippet": "",
+          "url": "https://www.chosun.com/national/national_general/2025/07/17/6RWFXZRIEREBBJJ4GNII3CUMVI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[속보]예산 구만교·서계양교, 당진 채운교 ‘홍수 경보’",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202507170553001",
+          "source": "경향신문"
+        },
+        {
+          "title": "'물폭탄' 충남서 침수·산사태 우려 속 주민 124명 대피",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20250717017700063",
           "source": "연합뉴스"
         }
       ],
@@ -201,15 +238,9 @@
       "title": "genius act",
       "trafficCount": "100+",
       "pubDate": "Wed, 16 Jul 2025 09:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMywgXSJ3X-TY-xT0hBzB3U_sFGynPOY1zv2P6iarvVRUcNTWYhdtq6Q1OTUg",
-      "pictureSource": "Politico",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm01Xs28oQaF3CXik5FtlQN0354LTUGiFdT3jy48P_WAvGM-VDAt2NwizpkQk",
+      "pictureSource": "CNBC",
       "relatedSearch": [
-        {
-          "title": "Crypto standoff drags on",
-          "snippet": "",
-          "url": "https://www.politico.com/live-updates/2025/07/16/congress/crypto-standoff-drags-on-00458662",
-          "source": "Politico"
-        },
         {
           "title": "Crypto regulation stumbles in Congress for a second day",
           "snippet": "",
@@ -221,62 +252,12 @@
           "snippet": "",
           "url": "https://www.nytimes.com/2025/07/16/technology/crypto-week-congress-bills.html",
           "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "okx",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 16 Jul 2025 08:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgM25P4L0p9u5fDR32vUTrg-1QtQnqyvrgdKun5MjBCa_bd8sXYlUgBf_sCGM",
-      "pictureSource": "Cointelegraph",
-      "relatedSearch": [
-        {
-          "title": "Crypto spot trading down 22% in Q2 despite Bitcoin rally: Report",
-          "snippet": "",
-          "url": "https://cointelegraph.com/news/crypto-spot-trading-volumes-plunge-q2-2025-despite-bitcoin-rally",
-          "source": "Cointelegraph"
         },
         {
-          "title": "Binance, OKX, Bybit and Bitget dominate Q2 exchange market share: TokenInsight",
+          "title": "Crypto bills stall amid GOP infighting, leaving House in limbo",
           "snippet": "",
-          "url": "https://www.cryptopolitan.com/binance-okx-bybit-bitget-dominate-q2-market/",
-          "source": "Cryptopolitan"
-        },
-        {
-          "title": "Bitcoin Surge and ETF Inflows Drive Market Recovery: Token Insights Q2 Exchange Report",
-          "snippet": "",
-          "url": "https://news.bitcoin.com/bitcoin-surge-and-etf-inflows-drive-market-recovery-token-insights-q2-exchange-report/",
-          "source": "Bitcoin.com News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "이더리움",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 16 Jul 2025 07:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGiQDZ_cTBCUZpq9TkK8WlWC5fxTvUuAoJWLb6VeUaUJXpKpLNg2tqomH2lc",
-      "pictureSource": "디지털투데이",
-      "relatedSearch": [
-        {
-          "title": "이더리움 1110% 상승 전망…비트코인 따라 최고가 경신할까",
-          "snippet": "",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577634",
-          "source": "디지털투데이"
-        },
-        {
-          "title": "이더리움 폭주에…'자매 코인' 이더리움네임서비스·이더파이도 ↑[특징코인]",
-          "snippet": "",
-          "url": "https://www.news1.kr/finance/blockchain-fintech/5848602",
-          "source": "뉴스1"
-        },
-        {
-          "title": "Otsaw Limited, 주당 $4.50-$5.50에 444만 주 IPO 신청 By Investing.com",
-          "snippet": "",
-          "url": "https://kr.investing.com/news/stock-market-news/article-432SI-1550601",
-          "source": "Investing.com 한국어"
+          "url": "https://thehill.com/homenews/house/5404928-crypto-bills-gop-house-limbo/",
+          "source": "The Hill"
         }
       ],
       "link": "https://imtaqin.id/"
