@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-16 22:53:41",
+  "lastUpdate": "2025-07-16 23:00:26",
   "data": [
     {
       "title": "날씨",
-      "trafficCount": "100000+",
+      "trafficCount": "200000+",
       "pubDate": "Wed, 16 Jul 2025 14:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFzCdDWQiFXih6vnm36zZYBitOZhPtPepQ_GJPjJBMiwfiPlKBjetEE8KMWsw",
       "pictureSource": "MBC 뉴스",
@@ -21,10 +21,10 @@
           "source": "KBS 뉴스"
         },
         {
-          "title": "[오늘의 날씨]2025년 7월 17일 밤새 거세진 빗줄기…산사태·침수 주의",
+          "title": "[속보] 당진시 \"당진천 범람 중, 당진초·국민체육센터로 대피해야\"",
           "snippet": "",
-          "url": "https://www.khan.co.kr/article/202507162012005",
-          "source": "경향신문"
+          "url": "https://www.yna.co.kr/view/AKR20250717009800063",
+          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "thời tiết",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 16 Jul 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzMdUTqBAvSBK8K8isZt_tiMn-Yda-55NG1SMqCYqC9_n6oqYTZi8M7qvoq8",
-      "pictureSource": "Báo Nhân Dân điện tử",
-      "relatedSearch": [
-        {
-          "title": "[Video] Dự báo thời tiết ngày 17/7/2025: Nắng nóng ở Trung Bộ gia tăng",
-          "snippet": "",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-1772025-nang-nong-o-trung-bo-gia-tang-post894159.html",
-          "source": "Báo Nhân Dân điện tử"
-        },
-        {
-          "title": "Hải Phòng không mưa, ngày nắng",
-          "snippet": "",
-          "url": "https://baohaiphongplus.vn/hai-phong-khong-mua-ngay-nang-416450.html",
-          "source": "baohaiphongplus.vn"
-        },
-        {
-          "title": "Dự báo thời tiết 17/7: Nắng gắt bao trùm miền Bắc và Trung, cao nhất vượt 38°C",
-          "snippet": "",
-          "url": "https://vtcnews.vn/du-bao-thoi-tiet-17-7-nang-gat-bao-trum-mien-bac-va-trung-cao-nhat-vuot-38-c-ar954730.html",
-          "source": "Báo điện tử VTC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "天气",
       "trafficCount": "1000+",
       "pubDate": "Wed, 16 Jul 2025 14:30:00 -0700",
@@ -114,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "thời tiết",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 16 Jul 2025 14:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzMdUTqBAvSBK8K8isZt_tiMn-Yda-55NG1SMqCYqC9_n6oqYTZi8M7qvoq8",
+      "pictureSource": "Báo Nhân Dân điện tử",
+      "relatedSearch": [
+        {
+          "title": "[Video] Dự báo thời tiết ngày 17/7/2025: Nắng nóng ở Trung Bộ gia tăng",
+          "snippet": "",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-1772025-nang-nong-o-trung-bo-gia-tang-post894159.html",
+          "source": "Báo Nhân Dân điện tử"
+        },
+        {
+          "title": "Hải Phòng không mưa, ngày nắng",
+          "snippet": "",
+          "url": "https://baohaiphongplus.vn/hai-phong-khong-mua-ngay-nang-416450.html",
+          "source": "baohaiphongplus.vn"
+        },
+        {
+          "title": "Dự báo thời tiết 17/7: Nắng gắt bao trùm miền Bắc và Trung, cao nhất vượt 38°C",
+          "snippet": "",
+          "url": "https://vtcnews.vn/du-bao-thoi-tiet-17-7-nang-gat-bao-trum-mien-bac-va-trung-cao-nhat-vuot-38-c-ar954730.html",
+          "source": "Báo điện tử VTC News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "기상청",
       "trafficCount": "1000+",
       "pubDate": "Wed, 16 Jul 2025 13:50:00 -0700",
@@ -133,10 +133,10 @@
           "source": "스트레이트뉴스"
         },
         {
-          "title": "흙탕물로 변한 울릉 도동항",
+          "title": "대구·경북, 흐리고 비…경북북부내륙 중심 시간당 30㎜ 폭우",
           "snippet": "",
-          "url": "https://news.nate.com/view/20250714n07639",
-          "source": "네이트 뉴스"
+          "url": "https://www.newsis.com/view/NISX20250716_0003254857",
+          "source": "뉴시스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "하남일보"
         },
         {
-          "title": "경기도 '강동하남남양주선' 2∼6공구 계약 의뢰…2027년 착공",
+          "title": "왕숙지구 교통개선, 강동하남남양주선 가속도",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20250716077600060",
-          "source": "연합뉴스"
+          "url": "https://www.kyeongin.com/article/1746345",
+          "source": "경인일보"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "네이트 뉴스"
         },
         {
-          "title": "밤사이 폭우에 열차 운행 잇단 중지…코레일 \"강수량에 따라 재개\"",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20250717061205587",
-          "source": "Daum"
-        },
-        {
           "title": "[속보] 폭우에 전국 일부 열차 운행 중지‥\"강수량 따라 운행 재개\"",
           "snippet": "",
           "url": "https://imnews.imbc.com/news/2025/society/article/6736296_36718.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보] 시간당 100㎜ '극한호우'…경부선·장항선·서해선 일부 일반열차 운행 중지",
+          "snippet": "",
+          "url": "https://www.sedaily.com/NewsView/2GVDU3ES2H",
+          "source": "서울경제"
         }
       ],
       "link": "https://imtaqin.id/"
