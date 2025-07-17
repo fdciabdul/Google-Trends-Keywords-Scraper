@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-07-17 11:02:38",
+  "lastUpdate": "2025-07-17 11:12:44",
   "data": [
     {
       "title": "severe thunderstorm warning",
       "trafficCount": "100+",
       "pubDate": "Wed, 16 Jul 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkrbsJOnEKYakxunH8xiqoY2HAZBvU9uMtCEu__9fCv6aMcqkFEcdAa7MnCu4",
-      "pictureSource": "KVOE",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqpMgd8hZLMjvO-M24AJQBD3ixmWeOlslDmsJE1VkjKRo8tM8OLc2XNNigwjY",
+      "pictureSource": "KSHB 41 Kansas City",
       "relatedSearch": [
-        {
-          "title": "Another marginal severe weather risk day for area counties",
-          "snippet": "",
-          "url": "https://kvoe.com/2025/07/11/another-marginal-severe-weather-risk-day-for-area-counties/",
-          "source": "KVOE"
-        },
         {
           "title": "Severe Thunderstorm Warning issued for parts of the KC Metro",
           "snippet": "",
           "url": "https://www.kshb.com/news/local-news/severe-thunderstorm-warning-issued-for-parts-of-the-kc-metro-until-3-a-m",
           "source": "KSHB 41 Kansas City"
+        },
+        {
+          "title": "Live Blog: Heavy storms move into the Kansas City metro",
+          "snippet": "",
+          "url": "https://www.kctv5.com/2025/07/17/live-blog-heavy-storms-move-into-kansas-city-metro/",
+          "source": "KCTV"
         },
         {
           "title": "Tornado Watch in effect for eight north Missouri counties until 8 p.m.",
@@ -198,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kas jauns",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 16 Jul 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREG_z2yRFdtYjVT0X_9n4iKPAwnYGyRGV1qFM9LPd1CH1_S1V4Aplz17Y2ufE",
-      "pictureSource": "Jauns.lv",
-      "relatedSearch": [
-        {
-          "title": "Žurnālisti atklājuši “daktera Ļaunuma” identitāti - ārsts Mordovijas kolonijā spīdzināja ukraiņu karagūstekņus",
-          "snippet": "",
-          "url": "https://jauns.lv/raksts/arzemes/664604-zurnalisti-atklajusi-daktera-launuma-identitati-arsts-mordovijas-kolonija-spidzinaja-ukrainu-karagusteknus",
-          "source": "Jauns.lv"
-        },
-        {
-          "title": "Šo zvanu viņš nožēloja! Rēzeknes prokurore veikli apšmauc krāpnieku un noorganizē viņa aizturēšanu",
-          "snippet": "",
-          "url": "https://jauns.lv/raksts/zinas/664595-so-zvanu-vins-nozeloja-rezeknes-prokurore-veikli-apsmauc-krapnieku-un-noorganize-vina-aizturesanu",
-          "source": "Jauns.lv"
-        },
-        {
-          "title": "Krāpnieki pazvana Latgales prokurorei – viņa izliekas par “upuri” un ievilina policijas rokudzelžos",
-          "snippet": "",
-          "url": "https://tv3.lv/degpunkta/degpunkta-dazadi/krapnieki-pazvana-latgales-prokurorei-vina-izliekas-par-upuri-un-ievilina-policijas-rokudzelzos/",
-          "source": "tv3.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "rīgas satiksme",
       "trafficCount": "500+",
       "pubDate": "Wed, 16 Jul 2025 16:20:00 -0700",
@@ -249,6 +221,34 @@
           "snippet": "",
           "url": "https://lente.lv/latvija/raksts/beidzot-ieviesta-rigas-vienota-bilete-jauna-era-pilsetas-sabiedriskaja-transporta-25934.html",
           "source": "Lente.lv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kas jauns",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 16 Jul 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREG_z2yRFdtYjVT0X_9n4iKPAwnYGyRGV1qFM9LPd1CH1_S1V4Aplz17Y2ufE",
+      "pictureSource": "Jauns.lv",
+      "relatedSearch": [
+        {
+          "title": "Žurnālisti atklājuši “daktera Ļaunuma” identitāti - ārsts Mordovijas kolonijā spīdzināja ukraiņu karagūstekņus",
+          "snippet": "",
+          "url": "https://jauns.lv/raksts/arzemes/664604-zurnalisti-atklajusi-daktera-launuma-identitati-arsts-mordovijas-kolonija-spidzinaja-ukrainu-karagusteknus",
+          "source": "Jauns.lv"
+        },
+        {
+          "title": "Šo zvanu viņš nožēloja! Rēzeknes prokurore veikli apšmauc krāpnieku un noorganizē viņa aizturēšanu",
+          "snippet": "",
+          "url": "https://jauns.lv/raksts/zinas/664595-so-zvanu-vins-nozeloja-rezeknes-prokurore-veikli-apsmauc-krapnieku-un-noorganize-vina-aizturesanu",
+          "source": "Jauns.lv"
+        },
+        {
+          "title": "Krāpnieki pazvana Latgales prokurorei – viņa izliekas par “upuri” un ievilina policijas rokudzelžos",
+          "snippet": "",
+          "url": "https://tv3.lv/degpunkta/degpunkta-dazadi/krapnieki-pazvana-latgales-prokurorei-vina-izliekas-par-upuri-un-ievilina-policijas-rokudzelzos/",
+          "source": "tv3.lv"
         }
       ],
       "link": "https://imtaqin.id/"
