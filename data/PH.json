@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-17 23:15:18",
+  "lastUpdate": "2025-07-17 23:28:34",
   "data": [
     {
       "title": "weather",
@@ -21,10 +21,10 @@
           "source": "NBC10 Philadelphia"
         },
         {
-          "title": "Yellow Alert Weather: High heat and flash flood threat on Wednesday",
+          "title": "Severe thunderstorm watch issued for Northern New England. Muggy, cloudy conditions persist in Boston area.",
           "snippet": "",
-          "url": "https://www.whec.com/top-news/first-alert-weather-yellow-alert-for-high-heat-and-flash-flood-threat-today/",
-          "source": "WHEC.com"
+          "url": "https://www.bostonglobe.com/2025/07/16/metro/boston-weather-forecast/",
+          "source": "The Boston Globe"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "The Washington Post"
         },
         {
-          "title": "Storms lead to double-digit drop in temperatures in Milwaukee area, with highs in 60s",
+          "title": "A pleasant mid-July day ahead; chances of showers and thunderstorms look to return Friday night",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/storms-lead-double-digit-drop-121727336.html",
-          "source": "Yahoo"
+          "url": "https://www.wxow.com/weather/a-pleasant-mid-july-day-ahead-chances-of-showers-and-thunderstorms-look-to-return-friday/article_81c10a57-7a43-4ea4-a70f-b2054209490d.html",
+          "source": "WXOW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +61,20 @@
       "title": "manila weather",
       "trafficCount": "100+",
       "pubDate": "Thu, 17 Jul 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqyYuZWj8nP91JtkOo3bmdjVyO-rajrQ-HnhOLwsVQtsvssZX1BKWUZajfMgM",
-      "pictureSource": "Philippine News Agency",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOlSfFk6LHvrHk0CfBFf2eaiKZogvNQUxEn1mqSp0ndjMXV80VePpybzCJyHY",
+      "pictureSource": "Inquirer.net",
       "relatedSearch": [
-        {
-          "title": "DENR to LGUs: Be proactive in addressing NCR flooding",
-          "snippet": "",
-          "url": "https://www.pna.gov.ph/articles/1254506",
-          "source": "Philippine News Agency"
-        },
         {
           "title": "DENR: Before you blame Manila dolomite beach for flood . . .",
           "snippet": "",
           "url": "https://newsinfo.inquirer.net/2083614/denr-before-you-blame-manila-dolomite-beach-for-flood",
           "source": "Inquirer.net"
+        },
+        {
+          "title": "DENR to LGUs: Be proactive in addressing NCR flooding",
+          "snippet": "",
+          "url": "https://www.pna.gov.ph/articles/1254506",
+          "source": "Philippine News Agency"
         },
         {
           "title": "Dolomite beach not to blame? DENR claims climate change cause of Metro floods",
@@ -87,7 +87,7 @@
     },
     {
       "title": "tom bateman",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 17 Jul 2025 15:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPHq1MIt4jniEEoA8IR40s7twp4WTxjCDGS39JpBZ-YUjDGcAz6W5IrJesEJw",
       "pictureSource": "Deadline",
@@ -115,7 +115,7 @@
     },
     {
       "title": "nba summer league standings",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 17 Jul 2025 15:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIvQsOlh93zD57TUFxLfhsV6qgxgsfoK3fR5Qg9OOldBrxT8puw-rbed6b-Og",
       "pictureSource": "NBA",
@@ -173,9 +173,15 @@
       "title": "damian lillard",
       "trafficCount": "500+",
       "pubDate": "Thu, 17 Jul 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ2dTkKqWtZSvJl6aX3Zk8VRMRIAd_6XrQcG990YCinlQ7OsFz51fJfibfqR4",
-      "pictureSource": "Yahoo Sports",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVKcv-n4UXjI2P4HcOSa11g5dNgOR0j_6DU2VmFINSKUBdqsea4PRZ8e8qdVU",
+      "pictureSource": "NBA",
       "relatedSearch": [
+        {
+          "title": "Damian Lillard to reportedly return to Trail Blazers on 3-year deal",
+          "snippet": "",
+          "url": "https://www.nba.com/news/damian-lillard-to-return-to-trail-blazers",
+          "source": "NBA"
+        },
         {
           "title": "Damian Lillard finalizing deal to return to Trail Blazers after suffering Achilles injury during playoffs: Reports",
           "snippet": "",
@@ -187,12 +193,6 @@
           "snippet": "",
           "url": "https://www.theguardian.com/sport/2025/jul/17/damian-lillard-returns-trail-blazers-contract",
           "source": "The Guardian"
-        },
-        {
-          "title": "Lowe: Blazers, Lillard Have Mutual Interest In Reunion",
-          "snippet": "",
-          "url": "https://www.hoopsrumors.com/2025/07/lowe-blazers-lillard-have-mutual-interest-in-reunion.html",
-          "source": "Hoops Rumors"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +227,7 @@
     },
     {
       "title": "weather forecast",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 17 Jul 2025 14:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-dhSti4UWVMyY6-9gmhDryrwH_NS1oj2pQEnqp3LZURi-UJVcS9hyqXOdJXM",
       "pictureSource": "WESH",
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "felix baumgartner",
+      "title": "chronic venous insufficiency",
       "trafficCount": "200+",
       "pubDate": "Thu, 17 Jul 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6PeoS4_O2ediw_ejqvUAdK1p8G3GxpxnikrPa75ls6bmJGqgWf_KxBfeMqKY",
-      "pictureSource": "ORF",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOkBtZHr7rnIrfytxroecKEEppkvFDhALl9g2o9bnaoI4pkdPQ1dpz08CQ7w",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Felix Baumgartner ist tot",
+          "title": "White House says Trump diagnosed with vein condition",
           "snippet": "",
-          "url": "https://orf.at/stories/3399981/",
-          "source": "ORF"
+          "url": "https://www.bbc.com/news/articles/c1jw1pdyp0jo",
+          "source": "BBC"
         },
         {
-          "title": "Felix Baumgartner: Ein Teufelskerl mit eigenem Kopf",
+          "title": "Trump diagnosed with chronic venous insufficiency following leg swelling",
           "snippet": "",
-          "url": "https://www.derstandard.de/story/3000000279972/felix-baumgartner-ein-teufelskerl-mit-eigenem-kopf",
-          "source": "derStandard.de"
+          "url": "https://www.cnn.com/2025/07/17/politics/trump-leg-swelling-chronic-venous-insufficiency",
+          "source": "CNN"
         },
         {
-          "title": "Felix Baumgartner in Italien verunglückt: Mihaela Schwartzenberg war seine große Liebe",
+          "title": "White House releases Trump health update after speculation over swollen legs, bruised hands",
           "snippet": "",
-          "url": "https://www.rtl.de/sport/felix-baumgartner-in-italien-verunglueckt-mihaela-schwartzenberg-war-seine-grosse-liebe-id6497036.html",
-          "source": "RTL.de"
+          "url": "https://www.foxnews.com/politics/white-house-releases-trump-health-update-after-speculation-over-swollen-legs-bruised-hands",
+          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
