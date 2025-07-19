@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-19 08:01:30",
+  "lastUpdate": "2025-07-19 08:12:04",
   "data": [
     {
       "title": "魔鷹",
@@ -23,20 +23,20 @@
       "title": "hong kong typhoon",
       "trafficCount": "500+",
       "pubDate": "Fri, 18 Jul 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9dNjCiv754KHagUf6Tw5W5cLfm4iPbtsju3w6IMp5s5nBXJFk0VsQPjXQmmI",
-      "pictureSource": "香港電台",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR74CYyVtUK1wIoVn-nReFfQxKm7EMq_pTTbUZqXnCf-7zYoYvJv_DwcQ2VCZ0",
+      "pictureSource": "South China Morning Post",
       "relatedSearch": [
+        {
+          "title": "Wipha: Hong Kong issues T3 warning, with T8 possible on Sunday morning",
+          "snippet": "",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3318840/wipha-hong-kong-observatory-could-issue-t8-signal-small-hours-sunday",
+          "source": "South China Morning Post"
+        },
         {
           "title": "T8 signal may be issued early on Sunday",
           "snippet": "",
           "url": "https://news.rthk.hk/rthk/en/component/k2/1814098-20250719.htm",
           "source": "香港電台"
-        },
-        {
-          "title": "Hong Kong braces for Wipha: all you need to know about cyclone and T8",
-          "snippet": "",
-          "url": "https://www.scmp.com/news/hong-kong/society/article/3318825/hong-kong-braces-wipha-all-you-need-know-about-cyclone-and-potential-t8",
-          "source": "South China Morning Post"
         },
         {
           "title": "HKO to Issue Standby Signal, No. 1 Around Midnight Tonight",
@@ -76,6 +76,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "今日天氣",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 18 Jul 2025 16:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgOM0WoTFxLjGPs0JJuo7quqCcURQrks6DF7ATho4s8LNHuN51lfjQi7fkpfg",
+      "pictureSource": "香港電台",
+      "relatedSearch": [
+        {
+          "title": "黃色工作暑熱警告生效",
+          "snippet": "",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1814091-20250719.htm",
+          "source": "香港電台"
+        },
+        {
+          "title": "天氣報告｜日間酷熱 有幾陣驟雨 最高氣溫約33度",
+          "snippet": "",
+          "url": "https://hk.news.yahoo.com/%E5%A4%A9%E6%B0%A3%E5%A0%B1%E5%91%8A-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1-%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8433%E5%BA%A6-002407556.html",
+          "source": "Yahoo HK News"
+        },
+        {
+          "title": "今日部分時間有陽光 有幾陣驟雨 最高氣溫33°C",
+          "snippet": "",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20250719/bkn-20250719080010081-0719_00822_001.html",
+          "source": "on.cc東網"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "5000+",
       "pubDate": "Fri, 18 Jul 2025 15:30:00 -0700",
@@ -104,34 +132,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "香港天氣",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 18 Jul 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgOM0WoTFxLjGPs0JJuo7quqCcURQrks6DF7ATho4s8LNHuN51lfjQi7fkpfg",
-      "pictureSource": "香港電台",
-      "relatedSearch": [
-        {
-          "title": "黃色工作暑熱警告生效",
-          "snippet": "",
-          "url": "https://news.rthk.hk/rthk/ch/component/k2/1814091-20250719.htm",
-          "source": "香港電台"
-        },
-        {
-          "title": "天氣報告｜日間酷熱 有幾陣驟雨 最高氣溫約33度",
-          "snippet": "",
-          "url": "https://hk.news.yahoo.com/%E5%A4%A9%E6%B0%A3%E5%A0%B1%E5%91%8A-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1-%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8433%E5%BA%A6-002407556.html",
-          "source": "Yahoo HK News"
-        },
-        {
-          "title": "今日部分時間有陽光 有幾陣驟雨 最高氣溫33°C",
-          "snippet": "",
-          "url": "https://hk.on.cc/hk/bkn/cnt/news/20250719/bkn-20250719080010081-0719_00822_001.html",
-          "source": "on.cc東網"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "天文台颱風消息即時",
       "trafficCount": "20000+",
       "pubDate": "Fri, 18 Jul 2025 14:40:00 -0700",
@@ -151,10 +151,10 @@
           "source": "香港電台"
         },
         {
-          "title": "星期日打風｜韋帕打到正、港珠澳大橋今晚11時至明早8時臨時封閉天文台：已改發3號風球、考慮凌晨改8號（不斷更新）",
+          "title": "風暴韋帕｜杏花邨多個向海單位玻璃貼滿膠紙 九龍城街市人頭湧湧",
           "snippet": "",
-          "url": "https://inews.hket.com/article/3980096/%E6%98%9F%E6%9C%9F%E6%97%A5%E6%89%93%E9%A2%A8%EF%BD%9C%E9%9F%8B%E5%B8%95%E6%89%93%E5%88%B0%E6%AD%A3%E3%80%81%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E4%BB%8A%E6%99%9A11%E6%99%82%E8%87%B3%E6%98%8E%E6%97%A98%E6%99%82%E8%87%A8%E6%99%82%E5%B0%81%E9%96%89%E3%80%80%E5%A4%A9%E6%96%87%E5%8F%B0%EF%BC%9A%E5%B7%B2%E6%94%B9%E7%99%BC3%E8%99%9F%E9%A2%A8%E7%90%83%E3%80%81%E8%80%83%E6%85%AE%E5%87%8C%E6%99%A8%E6%94%B98%E8%99%9F%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89",
-          "source": "香港經濟日報HKET"
+          "url": "https://news.tvb.com/sc/local/687b266d54d16ed89ef14291/%E6%B8%AF%E6%BE%B3-%E9%A2%A8%E6%9A%B4%E9%9F%8B%E5%B8%95%EF%BD%9C%E6%9D%8F%E8%8A%B1%E9%82%A8%E5%A4%9A%E5%80%8B%E5%90%91%E6%B5%B7%E5%96%AE%E4%BD%8D%E7%8E%BB%E7%92%83%E8%B2%BC%E6%BB%BF%E8%86%A0%E7%B4%99-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E8%A1%97%E5%B8%82%E4%BA%BA%E9%A0%AD%E6%B9%A7%E6%B9%A7",
+          "source": "news.tvb.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,16 +173,16 @@
           "source": "Hindustan Times"
         },
         {
-          "title": "Top 5 entertainment news: Vijay Deverakonda, Rana Daggubati among 29 celebs booked by ED, Salman Khan's g",
+          "title": "Google, Meta summoned by ED in betting app case",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-rana-among-29-celebs-booked-by-ed-neha-dhupia-opens-on-being-pregnant-before-marrying-angad-bedi-salman-khans-gentlemanly-gesture-towards-ex-girlfriend-sangeeta-bijlani-top-5-entertainment-news-of-the-day/articleshow/122367033.cms",
-          "source": "Times of India"
+          "url": "https://www.deccanherald.com/business/google-meta-summoned-by-ed-in-betting-app-case-3638236",
+          "source": "Deccan Herald"
         },
         {
-          "title": "Complaint leads to action on celebrity-endorsed betting platforms | Tap to know more | Inshorts",
+          "title": "Why no betting cases against Pawan and Balayya?..",
           "snippet": "",
-          "url": "https://inshorts.com/en/news/complaint-leads-to-action-on-celebrity-endorsed-betting-platforms-1752140915366",
-          "source": "Inshorts"
+          "url": "https://www.greatandhra.com/politics/andhra-news/why-no-betting-cases-against-pawan-and-balayya-147622",
+          "source": "Greatandhra.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -216,10 +216,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Transfer news LIVE: Arsenal make announcement as Man Utd plot double deal | Football | Sport",
+          "title": "Arsenal and Sporting Lisbon 'FAIL to agree terms for Victor Gyokeres' move to north London in time for Gunners' tour of Asia' - Mikel Arteta's deadline for a new striker",
           "snippet": "",
-          "url": "https://www.express.co.uk/sport/football/2083542/transfer-news-live-Arsenal-Man-Utd-Livepool-Ekitike",
-          "source": "Daily Express"
+          "url": "https://www.dailymail.co.uk/sport/football/article-14920235/Arsenal-Sporting-Lisbon-Victor-Gyokeres-tour-Asia-Mikel-Arteta.html",
+          "source": "Daily Mail"
         }
       ],
       "link": "https://imtaqin.id/"
