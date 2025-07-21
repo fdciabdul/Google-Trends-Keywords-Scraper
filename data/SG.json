@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-21 12:35:30",
+  "lastUpdate": "2025-07-21 12:59:22",
   "data": [
     {
       "title": "张艺洋",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 21 Jul 2025 04:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmidax0f9O5ka42CMpWHr9-RODy-hiwb_UytMskN9iBJdw55GjYcWirJd9gds",
       "pictureSource": "Zaobao",
@@ -61,15 +61,9 @@
       "title": "plane crash",
       "trafficCount": "500+",
       "pubDate": "Mon, 21 Jul 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTHCjeVwjXySFX3byA_xBMpxUL-v64y8dFvfM8kCw8mrNAOnaC58FIEds9S70",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ88pdzmOfLoSdpY323LExCbqo5SGhoyuDhaej1FP6jrBprS3mSLAgkXZBw7U",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "16 killed after Bangladesh air force jet crashes into Dhaka school",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/07/21/asia/bangladesh-air-force-jet-dhaka-school-intl",
-          "source": "CNN"
-        },
         {
           "title": "Bangladesh crash: At least 19 dead after air force jet crashes into school",
           "snippet": "",
@@ -77,7 +71,13 @@
           "source": "BBC"
         },
         {
-          "title": "At least 19 killed as Bangladesh air force plane crashes into college campus",
+          "title": "At least 18 killed after Bangladesh air force jet crashes into Dhaka school",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/07/21/asia/bangladesh-air-force-jet-dhaka-school-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "At least 19 killed as Bangladesh Air Force plane crashes into college campus",
           "snippet": "",
           "url": "https://www.channelnewsasia.com/asia/bangladesh-air-force-plane-crash-college-campus-people-killed-5249621",
           "source": "CNA"
@@ -173,9 +173,15 @@
       "title": "typhoon",
       "trafficCount": "200+",
       "pubDate": "Sun, 20 Jul 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyMqOr-oGrGWvM_N4tYODv3hdAlVM9KQuMbm3XbsfAwDHr7AIbYnIP80eQgfg",
-      "pictureSource": "CNA",
+      "picture": "",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Map: Tracking Tropical Storm Wipha",
+          "snippet": "",
+          "url": "https://www.nytimes.com/interactive/2025/07/20/world/wipha-map-path-tracker.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Storms hit southern China in wake of Typhoon Wipha",
           "snippet": "",
@@ -187,12 +193,6 @@
           "snippet": "",
           "url": "https://www.cnn.com/2025/07/20/asia/wipha-hong-kong-guangdong-typhoon-intl",
           "source": "CNN"
-        },
-        {
-          "title": "Vietnamese coastal provinces on emergency footing as Typhoon Wipha nears",
-          "snippet": "",
-          "url": "https://www.straitstimes.com/asia/vietnamese-coastal-provinces-on-emergency-footing-as-typhoon-wipha-nears",
-          "source": "The Straits Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,14 +201,14 @@
       "title": "russia earthquake tsunami warning",
       "trafficCount": "200+",
       "pubDate": "Sun, 20 Jul 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFBAMBWjMJ3V1-35j5lm8Nnmi4cqCDKGzlyBx_GoYwroHLt3s9YD3vHiZYwRE",
-      "pictureSource": "The Straits Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwK1EOJVW-IECqVKzzTzT_-UKjvutIeQADBjL-W1QonIhwp4QB_jEswmFt5A",
+      "pictureSource": "Nation Thailand",
       "relatedSearch": [
         {
-          "title": "Tsunami alert after powerful quakes strike off coast of Russia: USGS",
+          "title": "Series of strong quakes strike near Kamchatka, tsunami threat lifted",
           "snippet": "",
-          "url": "https://www.straitstimes.com/world/tsunami-alert-after-powerful-quakes-strike-off-coast-of-russia-usgs1",
-          "source": "The Straits Times"
+          "url": "https://www.nationthailand.com/blogs/news/40052795",
+          "source": "Nation Thailand"
         },
         {
           "title": "Tsunami warning issued for Russia after two earthquakes",
@@ -217,10 +217,10 @@
           "source": "Australian Broadcasting Corporation"
         },
         {
-          "title": "Series of strong quakes strike near Kamchatka, tsunami threat lifted",
+          "title": "7.4 magnitude earthquake hits off Russian coast, prompting brief tsunami alerts in Russia, Hawaii",
           "snippet": "",
-          "url": "https://www.nationthailand.com/blogs/news/40052795",
-          "source": "Nation Thailand"
+          "url": "https://abcnews.go.com/International/russia-earthquake-usgs-hawaii-issues-tsunami-watch/story?id=123901235",
+          "source": "ABC News"
         }
       ],
       "link": "https://imtaqin.id/"
