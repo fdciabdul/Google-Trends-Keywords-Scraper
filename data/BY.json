@@ -1,30 +1,39 @@
 {
-  "lastUpdate": "2025-07-21 03:59:58",
+  "lastUpdate": "2025-07-21 04:24:58",
   "data": [
     {
       "title": "новости",
       "trafficCount": "100+",
       "pubDate": "Sun, 20 Jul 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNSTVqxyq9ujMTBYAlZvLoBtstUd1M0xewxR_edQ9F-Pg5-ZfZoRhHkpULcv4",
-      "pictureSource": "BBC",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "валентин катаев",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 20 Jul 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAMDteP3lR1QoMkwopWOloF0A9alRcjLjU2gF1lisD2ypAdLfD6-01ArLMgis",
+      "pictureSource": "Tochka.by",
       "relatedSearch": [
         {
-          "title": "Друзы, аш-Шараа, бедуины, Израиль: отвечаем на основные вопросы о вооруженном конфликте в Сирии",
+          "title": "В Беларуси запретили книги Корнея Чуковского и Валентина Катаева",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cn9yng9ngnwo",
-          "source": "BBC"
+          "url": "https://tochka.by/articles/life/v_belarusi_zapretili_knigi_korneya_chukovskogo_i_valentina_kataeva/",
+          "source": "Tochka.by"
         },
         {
-          "title": "Число погибших в ходе столкновений в Сирии превысило 1 тыс.",
+          "title": "Книжный контроль в Беларуси: запрет на ввоз книг \"Цветик-Семицветик\" и \"Крокодил\" из РФ",
           "snippet": "",
-          "url": "https://belta.by/world/view/chislo-pogibshih-v-hode-stolknovenij-v-sirii-prevysilo-1-tys-727466-2025/",
+          "url": "https://sm.news/valentin-kataev-i-kornej-chukovskij-pod-zapretom-v-belarusi-knizhnyj-kontrol-71660/",
+          "source": "Информационный портал Sm News"
+        },
+        {
+          "title": "В Беларуси в список опасной продукции попали отдельные издания Катаева и Чуковского",
+          "snippet": "",
+          "url": "https://belta.by/socium/view/v-belarusi-v-spisok-opasnoj-produktsii-popali-otdelnye-izdanija-kataeva-i-chukovskogo-727214-2025/",
           "source": "БелТА"
-        },
-        {
-          "title": "Бедуины отступили из Эс-Сувейды, что дает надежду на прочное перемирие",
-          "snippet": "",
-          "url": "https://ru.euronews.com/2025/07/20/syria-ceasefire-update-sunday",
-          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +42,26 @@
       "title": "шереметьево задержка рейсов",
       "trafficCount": "200+",
       "pubDate": "Sun, 20 Jul 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJPWFCFvrKGrE6ibMEvmB6OV-Oq6O65R6wOBk69gUypFZhKpFhH-CzgdfYrG0",
-      "pictureSource": "Муксун.фм",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-27dpgz1z3-Edx48FuY2uuCk4nwKiEPK3x0rgLrjAQ9Mbf6RYRkhqLY5Sqg",
+      "pictureSource": "МСК1.ру",
       "relatedSearch": [
         {
-          "title": "«По решению авиакомпании». В аэропортах ХМАО массово отменили рейсы в Москву",
+          "title": "Табло горит красным, люди спят на полу. Что творится в «Шереметьево» во время массовых отмен и задержек рейсов: фото",
           "snippet": "",
-          "url": "https://muksun.fm/news/2025-07-20/po-resheniyu-aviakompanii-v-aeroportah-hmao-massovo-otmenili-reysy-v-moskvu-5439864",
-          "source": "Муксун.фм"
+          "url": "https://msk1.ru/text/transport/2025/07/20/75749951/",
+          "source": "МСК1.ру"
         },
         {
-          "title": "Волгоградцы обсуждают отмену авиарейсов, ливень и молнию",
+          "title": "Московские аэропорты закрывали 10 раз за сутки, отменены 140 рейсов",
           "snippet": "",
-          "url": "https://vpravda.ru/obshchestvo/volgogradcy-obsuzhdayut-otmenu-aviareysov-liven-i-molniyu-210966/",
-          "source": "Волгоградская Правда"
+          "url": "https://www.atorus.ru/article/moskovskie-aeroporty-zakryvali-10-raz-za-sutki-otmeneny-140-reysov-63135",
+          "source": "Ассоциация Туроператоров"
         },
         {
-          "title": "В аэропорту Красноярск снова задержали рейсы в Москву из-за ограничений",
+          "title": "В \"Шереметьево\" отменили ограничения",
           "snippet": "",
-          "url": "https://www.enisey.tv/news/post-83700/",
-          "source": "Телеканал Енисей"
+          "url": "https://www.interfax.ru/moscow/1037130",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,9 +201,9 @@
           "source": "ANDY GOLDRED"
         },
         {
-          "title": "Шоу «Большой куш. Бангкок», 3-й выпуск: коалиции распадались, Анна Хилькевич манипулировала, а у Айзы сдали нервы",
+          "title": "«Игра замораживается»: участники сорвали церемонию обмена чемоданами в 3-м выпуске шоу «Большой куш. Бангкок»",
           "snippet": "",
-          "url": "https://www.vokrug.tv/article/show/17530182981/",
+          "url": "https://www.vokrug.tv/article/show/17530347801/",
           "source": "Vokrug.tv"
         },
         {
@@ -230,34 +239,6 @@
           "snippet": "",
           "url": "https://www.sb.by/articles/futbolisty-krasnodara-razgromili-pari-nizhniy-novgorod-v-igre-pervogo-tura-chempionata-rossii.html",
           "source": "Беларусь сегодня"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "александр усик",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 20 Jul 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpegEyenhvB69a54NRa_2AyKqQnb80h20m9DqEOmx0d7w05kCNMBXMDxdFfQY",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Усик победил Дюбуа нокаутом и стал трехкратным абсолютным чемпионом",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cnvmlrl94l0o",
-          "source": "BBC"
-        },
-        {
-          "title": "Боксер Усик вернул звание абсолютного чемпиона мира, победив Дюбуа",
-          "snippet": "",
-          "url": "https://belta.by/sport/view/bokser-usik-vernul-zvanie-absoljutnogo-chempiona-mira-pobediv-djubua-727417-2025/",
-          "source": "БелТА"
-        },
-        {
-          "title": "Брюссель планирует урезать расходы на сельское хозяйство",
-          "snippet": "",
-          "url": "https://ctv.by/news/v-mire/usik-snova-absolyutnyj-chempion-mira-otpravil-v-nokaut-dyubua-v-5-m-raunde",
-          "source": "CTV.BY"
         }
       ],
       "link": "https://imtaqin.id/"
