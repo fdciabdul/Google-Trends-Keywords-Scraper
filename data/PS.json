@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-07-21 01:21:13",
+  "lastUpdate": "2025-07-21 02:08:41",
   "data": [
     {
       "title": "الطقس غدًا",
       "trafficCount": "2000+",
       "pubDate": "Sun, 20 Jul 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNqtCakYA6rVHUlrz-Dq_ABdcLg_f5rNhONDV7PHQv5LfGeqO8abLIEtmkMNM",
-      "pictureSource": "طقس العرب",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRK3YX5GrZ6fWa3U85AWu5TQdnW2V_s0xMcBfy8j4XkGUqNPoBbMGkJShqXmiY",
+      "pictureSource": "بوابة دار المعارف",
       "relatedSearch": [
+        {
+          "title": "تحذير عاجل من الأرصاد للمواطنين بشأن طقس اليوم",
+          "snippet": "",
+          "url": "https://daralmaref.com/News/2305548.aspx",
+          "source": "بوابة دار المعارف"
+        },
         {
           "title": "مصر: موجة حارة تؤثر على الجمهورية خلال الأيام القادمة.. كم تبلغ درجات الحرارة في القاهرة؟",
           "snippet": "",
@@ -19,12 +25,34 @@
           "snippet": "",
           "url": "https://www.khaligyoun.com/545520/",
           "source": "خليجيون - نيوز"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 20 Jul 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-ulZ2ZNfNbVNihVtEFfIsujsJZPLMrisYbW5IilGOY8zsyfqEfzx_bhfW5c",
+      "pictureSource": "WKYT",
+      "relatedSearch": [
+        {
+          "title": "FIRST ALERT WEATHER DAY | Significant flash flooding possible Saturday evening",
+          "snippet": "",
+          "url": "https://www.wkyt.com/2025/07/19/first-alert-weather-day-significant-flash-flooding-possible-saturday-evening/",
+          "source": "WKYT"
         },
         {
-          "title": "موجة حر تضرب مصر.. درجات حرارة مرتفعة وتحذيرات رسمية",
+          "title": "A quiet Sunday morning with showers returning by the afternoon",
           "snippet": "",
-          "url": "https://almashhad.com/article/459217420284850-entertainment/744226567673234-%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%B1-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%85%D8%B5%D8%B1-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9/",
-          "source": "قناة ومنصة المشهد"
+          "url": "https://www.wjhl.com/wjhl-weather/forecast/a-quiet-morning-with-showers-returning-by-the-afternoon/",
+          "source": "WJHL"
+        },
+        {
+          "title": "LIVE RADAR: Tracking heavy rain in Kentucky and southern Indiana",
+          "snippet": "",
+          "url": "https://www.whas11.com/article/weather/weather-impact/indiana-kentucky-weather-alerts-radar-storms-flash-flooding/417-862d3eb7-a3a8-46a5-94a8-b0b1c282f6c7",
+          "source": "WHAS11"
         }
       ],
       "link": "https://imtaqin.id/"
