@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-22 05:13:03",
+  "lastUpdate": "2025-07-22 05:26:56",
   "data": [
     {
       "title": "dr nyheder",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 21 Jul 2025 21:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkadgtrI0PxA2YgNRUK2ScGha8mG0RlRCb6OfGcuPusuJWk8H-wGtIEBnExD4",
       "pictureSource": "DR",
@@ -33,26 +33,26 @@
       "title": "tv2 østjylland",
       "trafficCount": "100+",
       "pubDate": "Mon, 21 Jul 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIpE9wntCqf_K0yZsgXk16yS58eb_CYYlRWL_9coZpsL9ChxhatdVzXHg_Tic",
-      "pictureSource": "TV 2 Nyheder",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuuHGupYE_-Hm15NEiLcAGr4Gt4uGjvfBRYJVLUPJf9JTJ3E9ugu_oEY-gT8",
+      "pictureSource": "TV2 Østjylland",
       "relatedSearch": [
         {
-          "title": "Livreddertårne udsat for indbrud: Tyve har stjålet livsvigtigt udstyr",
+          "title": "Byens stolthed: Vi ville sætte Djursland på landkortet",
           "snippet": "",
-          "url": "https://nyheder.tv2.dk/samfund/2025-07-21-livreddertaarne-udsat-for-indbrud-tyve-har-stjaalet-livsvigtigt-udstyr",
-          "source": "TV 2 Nyheder"
+          "url": "https://www.tv2ostjylland.dk/norddjurs/vi-ville-saette-djursland-pa-landkortet-c10c8",
+          "source": "TV2 Østjylland"
         },
         {
-          "title": "Opfordring fra livreddere ved østjyske strande: Hold gerne øje med livreddertårnet",
+          "title": "Skal du køre hjem fra sommerhus? Det betyder det, når DMI varsler 'meget farligt' vejr",
           "snippet": "",
-          "url": "https://amtsavisen.dk/oestjylland/opfordring-fra-livreddere-ved-oestjyske-strande-hold-gerne-oeje-med-livreddertaarnet",
-          "source": "Randers Amtsavis"
+          "url": "https://www.dr.dk/nyheder/indland/skal-du-koere-hjem-fra-sommerhus-det-betyder-det-naar-dmi-varsler-meget-farligt-vejr",
+          "source": "DR"
         },
         {
-          "title": "Indbrud i tre livreddertårne: Hold øje med dem",
+          "title": "Styrelse advarer: Sådan skal du gøre, hvis dit hus oversvømmes",
           "snippet": "",
-          "url": "https://www.msn.com/da-dk/nyheder/other/indbrud-i-tre-livreddert%C3%A5rne-hold-%C3%B8je-med-dem/ar-AA1IQUn5",
-          "source": "MSN"
+          "url": "https://www.tv2nord.dk/nordjylland/sadan-skal-du-gore-hvis-dit-hus-oversvommes-b391a",
+          "source": "TV2 Nord"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +81,56 @@
           "snippet": "",
           "url": "https://www.dr.dk/nyheder/indland/bjarke-kristensen-har-slaaet-sin-rekord-i-udlejning-af-luksusbiler-under-uge-29",
           "source": "DR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dr.dk",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 21 Jul 2025 20:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKrev5HgX75W3zanRg0koPZ4bQxy8W0MAWRdG54ICUdDuN5wgExiP5df3ZqVI",
+      "pictureSource": "DR",
+      "relatedSearch": [
+        {
+          "title": "Skal du køre hjem fra sommerhus? Det betyder det, når DMI varsler 'meget farligt' vejr",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/indland/skal-du-koere-hjem-fra-sommerhus-det-betyder-det-naar-dmi-varsler-meget-farligt-vejr",
+          "source": "DR"
+        },
+        {
+          "title": "Styrelse advarer: Sådan skal du gøre, hvis dit hus oversvømmes",
+          "snippet": "",
+          "url": "https://www.tv2nord.dk/nordjylland/sadan-skal-du-gore-hvis-dit-hus-oversvommes-b391a",
+          "source": "TV2 Nord"
+        },
+        {
+          "title": "Farligt vejr på vej: Første skybrud fra det varslede uvejr har ramt Falster",
+          "snippet": "",
+          "url": "https://politiken.dk/danmark/art10489293/F%C3%B8rste-skybrud-fra-det-varslede-uvejr-har-ramt-Falster",
+          "source": "Politiken"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dr",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 21 Jul 2025 19:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwDDlpjvJRc3f5-AW7qQWeCumHXWI7jeQ7T4fGMn3nJyZbPhd45epyoFmewI8",
+      "pictureSource": "Politiken",
+      "relatedSearch": [
+        {
+          "title": "DR leverer et fremragende eksempel på fejlslagen filmatisering",
+          "snippet": "",
+          "url": "https://politiken.dk/kultur/set_og_hoert/art10453393/DR-leverer-et-fremragende-eksempel-p%C3%A5-fejlslagen-filmatisering",
+          "source": "Politiken"
+        },
+        {
+          "title": "Mediekritik: DR misbrugte interview med mig til Netanyahu-propaganda",
+          "snippet": "",
+          "url": "https://solidaritet.dk/mediekritik-dr-misbrugte-interview-med-mig-til-netanyahu-propaganda/",
+          "source": "Solidaritet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +167,26 @@
       "title": "tyskland",
       "trafficCount": "100+",
       "pubDate": "Mon, 21 Jul 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzWU6tOAB73YBWhzivvOyaU1dP9tOPYDjJIjsK_1l1R3Xk9r-sl7z9AaLDZAk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvgWlB66PHiVYWlgBb1jeZrobpGfPE96vNkwu3_9yCH9A4Jxk4POPAXbYwxac",
       "pictureSource": "DW",
       "relatedSearch": [
         {
-          "title": "Germany updates: Companies pledge €631 billion investment",
+          "title": "Ukraine updates: Germany to help provide 5 Patriot systems",
           "snippet": "",
-          "url": "https://www.dw.com/en/germany-updates-companies-pledge-631-billion-investment/live-73345843",
+          "url": "https://www.dw.com/en/ukraine-updates-germany-to-help-provide-5-patriot-systems/live-73347740",
           "source": "DW"
         },
         {
-          "title": "Companies pledge to invest more than $700 billion in Germany over the next 3 years",
+          "title": "Germany Closes In on Deal With US to Deliver Air Defense to Kyiv",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/companies-pledge-invest-over-700-131635460.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.bloomberg.com/news/articles/2025-07-21/germany-closes-in-on-deal-with-us-to-deliver-air-defense-to-kyiv",
+          "source": "Bloomberg"
         },
         {
-          "title": "Germany’s Top Firms Kick Off €100 Billion Investment Push",
+          "title": "US and Germany agree to deliver five Patriot air defence systems to Ukraine, Berlin says",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-07-21/germany-s-top-firms-launch-investment-push-to-help-revive-growth",
-          "source": "Bloomberg"
+          "url": "https://www.euronews.com/my-europe/2025/07/21/us-and-germany-agree-to-deliver-five-patriot-air-defence-systems-to-ukraine-berlin-says",
+          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,33 +195,33 @@
       "title": "tom cruise",
       "trafficCount": "100+",
       "pubDate": "Mon, 21 Jul 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCR7o_92gOcYW33NsoN3mE89P5uW0HJTBw-trZJP64TNcdIj1vIZIk8vXOZLk",
-      "pictureSource": "Comic Book Resources",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJIe3x1X4ynB9bggDiHkUGGO50mBt2yCPKggnECLYAueFWFFREVCubEzvCx0",
+      "pictureSource": "Yahoo.co",
       "relatedSearch": [
         {
-          "title": "The Best War Movie Tom Cruise Ever Made Isn’t What You Think",
+          "title": "'Risky Business' Star, 65, Opens up About Romance With Tom Cruise",
           "snippet": "",
-          "url": "https://www.cbr.com/the-best-tom-cruise-war-movie-edge-of-tomorrow/",
-          "source": "Comic Book Resources"
-        },
-        {
-          "title": "Katie Holmes' Quiet Reaction to Tom Cruise & Ana de Armas Romance Rumors Flew Under the Radar",
-          "snippet": "",
-          "url": "https://entertainmentnow.com/news/katie-holmes-reacts-tom-cruise-de-armas/",
-          "source": "EntertainmentNow"
+          "url": "https://www.yahoo.com/entertainment/articles/risky-business-star-65-opens-193151492.html",
+          "source": "Yahoo.co"
         },
         {
           "title": "‘Risky Business’ actress Rebecca De Mornay gushes over ex Tom Cruise: ‘I’m really proud of knowing him’",
           "snippet": "",
           "url": "https://pagesix.com/2025/07/19/entertainment/risky-business-actress-rebecca-de-mornay-gushes-over-ex-tom-cruise/",
           "source": "Page Six"
+        },
+        {
+          "title": "Tom Cruise Praised by His “Risky Business” Costar and Ex Rebecca De Mornay: 'Really Proud of Him'",
+          "snippet": "",
+          "url": "https://www.aol.com/tom-cruise-praised-risky-business-211135198.html",
+          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "tv2 vejret",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 21 Jul 2025 13:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKrev5HgX75W3zanRg0koPZ4bQxy8W0MAWRdG54ICUdDuN5wgExiP5df3ZqVI",
       "pictureSource": "DR",
@@ -183,10 +233,10 @@
           "source": "DR"
         },
         {
-          "title": "Liveblog: Historisk regnvejrsvarsel i Østjylland",
+          "title": "Styrelse advarer: Sådan skal du gøre, hvis dit hus oversvømmes",
           "snippet": "",
-          "url": "https://www.tv2ostjylland.dk/oestjylland/saerdeles-kraftig-regn-vil-ramme-ostjylland-76350",
-          "source": "TV2 Østjylland"
+          "url": "https://www.tv2nord.dk/nordjylland/sadan-skal-du-gore-hvis-dit-hus-oversvommes-b391a",
+          "source": "TV2 Nord"
         },
         {
           "title": "Farligt vejr på vej: Første skybrud fra det varslede uvejr har ramt Falster",
@@ -221,56 +271,6 @@
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/articles/c77vp1x32g5o",
           "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "peter tanev",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 21 Jul 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKrev5HgX75W3zanRg0koPZ4bQxy8W0MAWRdG54ICUdDuN5wgExiP5df3ZqVI",
-      "pictureSource": "DR",
-      "relatedSearch": [
-        {
-          "title": "Skal du køre hjem fra sommerhus? Det betyder det, når DMI varsler 'meget farligt' vejr",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/indland/skal-du-koere-hjem-fra-sommerhus-det-betyder-det-naar-dmi-varsler-meget-farligt-vejr",
-          "source": "DR"
-        },
-        {
-          "title": "Liveblog: Historisk regnvejrsvarsel i Østjylland",
-          "snippet": "",
-          "url": "https://www.tv2ostjylland.dk/oestjylland/saerdeles-kraftig-regn-vil-ramme-ostjylland-76350",
-          "source": "TV2 Østjylland"
-        },
-        {
-          "title": "Farligt vejr på vej: Første skybrud fra det varslede uvejr har ramt Falster",
-          "snippet": "",
-          "url": "https://politiken.dk/danmark/art10489293/F%C3%B8rste-skybrud-fra-det-varslede-uvejr-har-ramt-Falster",
-          "source": "Politiken"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bergerac",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 21 Jul 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpI57bv6GKo5rEfxWhnA2JRYkVKhTQYFJz0jMAFrgDOVMVA4FJ02UVNbJ3mE0",
-      "pictureSource": "Le Journal Des Arts",
-      "relatedSearch": [
-        {
-          "title": "Bergerac ouvre un centre dédié à la photographie",
-          "snippet": "",
-          "url": "https://www.lejournaldesarts.fr/actualites/bergerac-ouvre-un-centre-dedie-la-photographie-178937",
-          "source": "Le Journal Des Arts"
-        },
-        {
-          "title": "Quel temps fera-t-il à Bergerac et ses environs le lundi 21 juillet 2025 ?",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/nouvelle-aquitaine/bergerac-24100/la-meteo-du-jour-a-bergerac-6e6c152f-948e-5581-b7e2-19521cda5ed2",
-          "source": "Ouest-France"
         }
       ],
       "link": "https://imtaqin.id/"
