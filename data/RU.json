@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-23 22:19:46",
+  "lastUpdate": "2025-07-23 22:32:59",
   "data": [
     {
       "title": "новости сочи сейчас",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 23 Jul 2025 15:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYV1s1NxHrY8NlMCRcauFmHgstoMAWi3gxnXdaw9FuynfgxPlt3Px-A9RU0as",
       "pictureSource": "СОЧИ1.ру",
@@ -43,10 +43,10 @@
           "source": "Новости Краснодара и Краснодарского края : Кубань 24"
         },
         {
-          "title": "21 украинский дрон нейтрализован вечером в среду",
+          "title": "Десятки дронов сбили над Россией",
           "snippet": "",
-          "url": "https://www.interfax.ru/russia/1037762",
-          "source": "Интерфакс"
+          "url": "https://ura.news/news/1052968778",
+          "source": "URA.RU"
         },
         {
           "title": "Развожаев сообщил о падении осколков сбитых БПЛА в Севастополе",
@@ -59,21 +59,15 @@
     },
     {
       "title": "пво",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 23 Jul 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-Q4EuRhBlEFD6_P-cd6VHwMJxD85R9CpU5Pq2jMmcH4L6lHzUUWZYRYxUym8",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjBaLiPYduJexAS97nOFdnlbgPLbqhUG1-3qvmsvFNgpYbZqkQvxbkmZEBkhQ",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Губернатор Орловской области рассказал о предотвращении атаки четырех БПЛА",
+          "title": "В Стамбуле завершился третий раунд переговоров между Россией и Украиной",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/strana/central/news/2025/07/23/1126270-gubernator-orlovskoi-oblasti",
-          "source": "Ведомости"
-        },
-        {
-          "title": "Временные ограничения введены в аэропорту Сочи",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1037760",
+          "url": "https://www.interfax.ru/world/1037738",
           "source": "Интерфакс"
         },
         {
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://www.mos.ru/mayor/themes/13143050/",
           "source": "mos.ru"
+        },
+        {
+          "title": "За ночь силы ПВО сбили 18 беспилотников на подлете к Москве",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2025/07/21/1125633-sili-pvo-sbili-18-bespilotnikov",
+          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +89,9 @@
       "title": "новости сочи",
       "trafficCount": "2000+",
       "pubDate": "Wed, 23 Jul 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTIyfUhCYnIWL8MYeetfhZMBl30Dd4jT4wrkaDm7nTr5pEYi9RCrV_kfyB-8",
-      "pictureSource": "URA.RU",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsY4rfM1J1bEA9tvg7HKGfhccwAjin9sEvHpz4udq55Ys3yWCCeYjzfJja0io",
+      "pictureSource": "СОЧИ1.ру",
       "relatedSearch": [
-        {
-          "title": "В районе сочинского аэропорта прогремел мощный взрыв",
-          "snippet": "",
-          "url": "https://ura.news/news/1052968774",
-          "source": "URA.RU"
-        },
         {
           "title": "Жители Сочи слышали несколько взрывов — над курортом работает ПВО - 24 июля 2025 | СОЧИ1.ру",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "СОЧИ1.ру"
         },
         {
-          "title": "Момент уничтожения дрона в небе над Сочи сняли на видео",
+          "title": "В районе сочинского аэропорта прогремел мощный взрыв",
           "snippet": "",
-          "url": "https://sochistream.ru/novosti/proishestviya/moment-unichtozheniya-drona-v-nebe-nad-sochi-snyali-na-video-170341/",
-          "source": "СочиСтрим"
+          "url": "https://ura.news/news/1052968774",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Из-за атаки беспилотников и работы ПВО в Сириусе включили сирены",
+          "snippet": "",
+          "url": "https://kuban24.tv/item/iz-za-ugrozy-ataki-bespilotnikov-i-raboty-pvo-v-siriuse-vklyuchili-sireny",
+          "source": "Новости Краснодара и Краснодарского края : Кубань 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "kick",
       "trafficCount": "200+",
       "pubDate": "Wed, 23 Jul 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9Mun6y2OtXfmvQWZDqgYeBU3CEew9y9GM80Gbrl360uei8xVOOH-3j1jdWOc",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5cfdsSv545IcW1QEu7DzWYizgpCp2JGFIY061npWaHtODKA7XLkRK2ZSUSA",
+      "pictureSource": "Charlie's Chalkboard",
       "relatedSearch": [
         {
-          "title": "Kelly and Agyemang fire England into Euro 2025 final after comeback against Italy",
+          "title": "Bengals training camp observations: Physical defense starts establishing a different foundation",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/jul/22/england-italy-euro-2025-semi-final-match-report",
-          "source": "The Guardian"
+          "url": "https://charlieschalkboard.substack.com/p/bengals-training-camp-observations",
+          "source": "Charlie's Chalkboard"
         },
         {
-          "title": "Harry Kane sends special message to Lionesses after Sarina Wiegman's side reach second successive European Championship final in dramatic style",
+          "title": "Joe Burrow Addresses Bengals' Contract Disputes With Trey Hendrickson, Shemar Stewart",
           "snippet": "",
-          "url": "https://www.goal.com/en-us/lists/harry-kane-special-message-lionesses-reach-second-successive-european-championship-final/bltfb07aae8cb080bd5",
-          "source": "Goal.com"
+          "url": "https://www.msn.com/en-us/sports/nfl/joe-burrow-addresses-bengals-contract-disputes-with-trey-hendrickson-shemar-stewart/ar-AA1Jafss",
+          "source": "MSN"
         },
         {
-          "title": "Dutch manager Sarina Wiegman breaks record with five tournament final in a row",
+          "title": "Bengals Camp Football",
           "snippet": "",
-          "url": "https://nltimes.nl/2025/07/23/dutch-manager-sarina-wiegman-breaks-record-five-tournament-final-row",
-          "source": "NL Times"
+          "url": "https://www.ncnewsonline.com/sports/national_sports/bengals-camp-football/image_8ed92e14-a78e-5e1e-87ef-7ae76b19acc7.html",
+          "source": "New Castle News"
         }
       ],
       "link": "https://imtaqin.id/"
