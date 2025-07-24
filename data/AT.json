@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-24 18:25:16",
+  "lastUpdate": "2025-07-24 18:42:39",
   "data": [
     {
       "title": "rapid wien",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 24 Jul 2025 11:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzkMy4O5wNhi9cm5npbdpCupz7lrgpvmrMFYsK6kK_nj84Ut_2YoOwtITsVBw",
       "pictureSource": "sport.ORF.at",
@@ -31,7 +31,7 @@
     },
     {
       "title": "ht spor",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 24 Jul 2025 11:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm0PhW1avUJ3y14mCVf4zXzlLXa9wKz5UtoRAEatjIvYofX1G7_z2DgC1U7f8",
       "pictureSource": "Fanatik",
@@ -71,10 +71,10 @@
           "source": "sport.ORF.at"
         },
         {
-          "title": "Conference League live: Austria vs. Spaeri Tiflis und Decic Tuzi vs. SK Rapid, ab 20.30 Uhr",
+          "title": "Aufstellungen: So starten Austria und Rapid zum EC-Auftakt",
           "snippet": "",
-          "url": "https://www.derstandard.at/jetzt/livebericht/3000000280829/conference-league-live-austria-vs-spaeri-tiflis-und-decic-tuzi-vs-sk-rapid-ab-2030-uhr",
-          "source": "Der Standard"
+          "url": "https://www.skysportaustria.at/aufstellungen-auftakt-in-die-europacup-saison-so-starten-rapid-und-austria/",
+          "source": "Sky Sport Austria"
         },
         {
           "title": "Dieser TV-Sender zeigt Austria Wien gegen Spaeri Tiflis",
@@ -86,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "slash",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 24 Jul 2025 10:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhE7FZ5PHgAaTNiMTXympana9vS1Ev5ltfLyMvAFF8HWwdFeGcCZRYfGcaKRk",
+      "pictureSource": "KTLA",
+      "relatedSearch": [
+        {
+          "title": "Slash, Universal Studios Hollywood team up to bring new experiences to Halloween Horror Nights",
+          "snippet": "",
+          "url": "https://ktla.com/news/theme-parks/universal-studios/slash-universal-studios-hollywood-team-up-to-bring-new-experiences-to-halloween-horror-nights/",
+          "source": "KTLA"
+        },
+        {
+          "title": "Universal’s Horror Nights teams up with Slash on Scarecrow maze",
+          "snippet": "",
+          "url": "https://www.ocregister.com/2025/07/24/universals-horror-nights-teams-up-with-slash-on-scarecrow-maze/",
+          "source": "Orange County Register"
+        },
+        {
+          "title": "Halloween Horror Nights Announces Slash-Themed & Scored Haunted House Titled \"Scarecrow\"",
+          "snippet": "",
+          "url": "https://www.syfy.com/syfy-wire/halloween-horror-nights-2025-haunted-house-slash-scarecrow",
+          "source": "SYFY"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "india vs england",
       "trafficCount": "100+",
       "pubDate": "Thu, 24 Jul 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaJR-lgDkpIL7GFRsAJ8hX_rrJ7jb1Z3C6bSfm1ELcoK5GJ1IWoBBTg9mgEJo",
-      "pictureSource": "ICC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnagQeKP1aMQe-b93rYdqzIBacRxa3f826YhB8M761leXLf8VLM8Xqa3x0fPg",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Latest update sheds light on Rishabh Pant's availability | ICC World Test Championship | ICC",
-          "snippet": "",
-          "url": "https://www.icc-cricket.com/news/latest-update-sheds-light-on-rishabh-pant-s-availability",
-          "source": "ICC"
-        },
-        {
-          "title": "Former CSK player in race to replace injured Rishabh Pant for 5th England Test after Ishan Kishan's rejection: Report",
-          "snippet": "",
-          "url": "https://www.hindustantimes.com/cricket/former-csk-player-jagadeesan-in-race-to-replace-injured-rishabh-pant-for-5th-england-test-after-ishan-kishan-rejection-101753365125101.html",
-          "source": "Hindustan Times"
-        },
         {
           "title": "England vs India: Rishabh Pant injury alters tight first day of fourth Test",
           "snippet": "",
           "url": "https://www.bbc.com/sport/cricket/articles/cg4r6g0rgdpo",
           "source": "BBC"
+        },
+        {
+          "title": "Eng vs Ind, 4th Test - Rishabh Pant suffers foot fracture, set to miss remainder of series",
+          "snippet": "",
+          "url": "https://www.espncricinfo.com/story/eng-vs-ind-4th-test-rishabh-pant-fractures-foot-unlikely-to-take-part-in-remainder-of-old-trafford-test-1496471",
+          "source": "ESPNcricinfo"
+        },
+        {
+          "title": "India feel the Bazball heat despite Pant heroics",
+          "snippet": "",
+          "url": "https://www.hindustantimes.com/cricket/india-feel-the-bazball-heat-despite-pant-heroics-101753380532939.html",
+          "source": "Hindustan Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "ORF"
         },
         {
-          "title": "WWE: Hulk Hogan ist tot! Sein letzter Auftritt endete im Desaster",
+          "title": "US-Wrestling-Legende Hulk Hogan gestorben",
           "snippet": "",
-          "url": "https://www.bild.de/sport/mehr-sport/wwe-hulk-hogan-ist-tot-sein-letzter-auftritt-endete-im-desaster-68825bba86cdbb24296e1838",
-          "source": "BILD"
+          "url": "https://www.tagesschau.de/ausland/amerika/hulk-hogan-tot-100.html",
+          "source": "tagesschau.de"
         },
         {
           "title": "„Herzstillstand“ - Wrestling-Welt unter Schock: Hulk Hogan ist tot!",
           "snippet": "",
           "url": "https://www.krone.at/3851376",
           "source": "Kronen Zeitung"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pedro pascal",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 24 Jul 2025 09:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgyZihhEArM7zQPDVziyyOcfe_mpqcKsAWN8g-unLqvPVcfM7RbbormeLXAQY",
-      "pictureSource": "The Independent",
-      "relatedSearch": [
-        {
-          "title": "The Fantastic Four: First Steps post-credits scene explained",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/arts-entertainment/films/news/fantastic-four-post-credits-scene-b2795043.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "‘The Fantastic Four: First Steps’ Review: Marvel Gets Its Mojo Back With a Satisfying Retro-Styled Reboot",
-          "snippet": "",
-          "url": "https://variety.com/2025/film/reviews/the-fantastic-four-first-steps-review-1236466922/",
-          "source": "Variety"
-        },
-        {
-          "title": "The Fantastic Four: First Steps Review – 'The best Marvel movie in years'",
-          "snippet": "",
-          "url": "https://www.empireonline.com/movies/reviews/the-fantastic-four-first-steps/",
-          "source": "Empire"
         }
       ],
       "link": "https://imtaqin.id/"
