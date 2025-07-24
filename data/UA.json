@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-24 05:59:49",
+  "lastUpdate": "2025-07-24 06:13:44",
   "data": [
     {
       "title": "1984",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 23 Jul 2025 22:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1CIxnh6qgIkN_hsa-ISkCAdOxU0FXXIVbmLKQvb5oJoPivFsOxf6qJ7dFvOc",
       "pictureSource": "KRCR",
@@ -31,7 +31,7 @@
     },
     {
       "title": "24 липня",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 23 Jul 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpJ8wcYOJpEt4Q9hj8_TACJySxkiEAxrLk-5-FEh6CsqXbTELSF4vo98DxIrQ",
       "pictureSource": "УНІАН",
@@ -86,23 +86,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "вибух",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 23 Jul 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyaerql4qAeSP8sH1vcP9y_XA6Dh3TXKJzxAJO8yfzU3Qnc4hNqi7MhlhAinw",
+      "pictureSource": "Європейська правда",
+      "relatedSearch": [
+        {
+          "title": "Європа погрожує Україні, Зеленський обіцяє поступки по НАБУ, перемовини з РФ: новини дня",
+          "snippet": "",
+          "url": "https://www.eurointegration.com.ua/news/2025/07/23/7216558/",
+          "source": "Європейська правда"
+        },
+        {
+          "title": "Україна пропонує зустріч лідерів за участі Ердогана та Трампа, Зеленський підписав закон про НАБУ і САП. 1246 день війни",
+          "snippet": "",
+          "url": "https://suspilne.media/1073165-zelenskij-pidpisav-zakonoproekt-sodo-nabu-ta-sap-umerov-ocolit-delegaciu-ukraini-na-peremovinah-z-rf-1246-den-vijni/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Нічна атака БпЛА, ситуація на фронті: головні новини ночі 24 липня 2025 року",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/nichna-ataka-bpla-sytuatsiia-na-fronti-holovni-novyny-nochi-24-lypnia-2025-roku-2876276.html",
+          "source": "ТСН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "новини черкас",
       "trafficCount": "1000+",
       "pubDate": "Wed, 23 Jul 2025 19:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_r6s8t5XIGGVxENcVncxjYG0HYyYtYTZbXDZd_Yssgtjaj9xnLudDyHTwlE",
-      "pictureSource": "Патріот Донбасу",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt3aeeZFQX-tSknbhMgHHggxsk5oYWBuF_4O5nZBnZF3CBB0H-aE2-KzhRrNU",
+      "pictureSource": "Суспільне | Новини",
       "relatedSearch": [
-        {
-          "title": "Росія вдарила ракетами по Черкасах: зайнялися пожежі, постраждали люди",
-          "snippet": "",
-          "url": "https://donpatriot.news/rosiya-vdaryla-raketamy-po-cherkasah-zajnyalysya-pozhezhi-postrazhdaly-lyudy",
-          "source": "Патріот Донбасу"
-        },
         {
           "title": "\"Це були ракети зі шрапнеллю\": Табурець розповів про наслідки атаки на Черкаси",
           "snippet": "",
           "url": "https://suspilne.media/cherkasy/1074133-ce-buli-raketi-zi-srapnellu-kerivnik-ova-rozpoviv-pro-naslidki-raketnoi-ataki-na-cerkasi/",
           "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Атака РФ по Черкасах: зросла кількість постраждалих, серед них є дитина",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/news-cherkasy-ataka-rf-postrazhdali/33482507.html",
+          "source": "Радіо Свобода"
         },
         {
           "title": "Ворог завдав ракетного удару по Черкасах: семеро поранених, руйнування на цвинтарі",
@@ -161,27 +189,21 @@
           "source": "Soccer.ru"
         },
         {
-          "title": "Флуминенсе – Палмейрас Сан-Паулу: прогноз и ставка на ТС от искусственного интеллекта — 23 июля 2025",
+          "title": "Флуминенсе – Палмейрас. Прогнозы эксперта (24.07.2025)",
           "snippet": "",
-          "url": "https://www.liveresult.ru/tips/football/Brazil/tip283333-Fluminense-Palmeiras",
-          "source": "LiveResult"
+          "url": "https://xn--90aiasbk5as2f.xn--p1ai/football-prognoz/24-07-2025-%D1%84%D0%BB%D1%83%D0%BC%D0%B8%D0%BD%D0%B5%D0%BD%D1%81%D0%B5-%D0%BF%D0%B0%D0%BB%D0%BC%D0%B5%D0%B9%D1%80%D0%B0%D1%81.html",
+          "source": "Букмекеры.рф"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "привоз",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 23 Jul 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSYOhDLP4MHoREupwjYGMAlXlriWO_yYS5h3WlxRB3L1hOFTdzYh3L4ooyCCE",
-      "pictureSource": "УНІАН",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiJcy36YjojublBlf3LN16i4QLZt8JEApMj1brSornnT-_aK6xLWrX7kmL15I",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
-        {
-          "title": "Росіяни атакували Одесу, спалахнули пожежі, пошкоджено історичний центр (відео)",
-          "snippet": "",
-          "url": "https://www.unian.ua/war/rosiyani-atakuvali-odesu-spalahnuli-pozhezhi-poshkodzheno-istorichniy-centr-video-novini-odesi-13076595.html",
-          "source": "УНІАН"
-        },
         {
           "title": "В Одесі горить ринок \"Привоз\" після атаки РФ: з'явилися фото наслідків",
           "snippet": "",
@@ -189,10 +211,16 @@
           "source": "РБК-Україна"
         },
         {
-          "title": "Атака на Одесу: зруйновано під'їзд 9-поверхівки",
+          "title": "Росіяни атакували Одесу, спалахнули пожежі, пошкоджено історичний центр (відео)",
           "snippet": "",
-          "url": "https://ua.korrespondent.net/city/odessa/4801694-ataka-na-odesu-zruinovano-pidizd-9-poverkhivky",
-          "source": "Korrespondent.net"
+          "url": "https://www.unian.ua/war/rosiyani-atakuvali-odesu-spalahnuli-pozhezhi-poshkodzheno-istorichniy-centr-video-novini-odesi-13076595.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Одессу атаковали вражеские ударные беспилотники. Есть погибшая и пострадавшие. Фото, видео",
+          "snippet": "",
+          "url": "https://omr.gov.ua/ru/news/242474/",
+          "source": "Офіційний сайт міста Одеса"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +245,10 @@
           "source": "РБК-Україна"
         },
         {
-          "title": "В Одесской области прогремели взрывы — что известно об обстреле",
+          "title": "Есть угроза обвала конструкций. Спасатели показали последствия российского удара по многоэтажке в Одессе — фо",
           "snippet": "",
-          "url": "https://odesa.novyny.live/ru/na-odeshchini-progrimili-vibukhi-shcho-vidomo-pro-obstril-269507.html",
-          "source": "Новини Live"
+          "url": "https://nv.ua/ukraine/events/obstrel-odessy-spasateli-pokazali-foto-posledstviy-ataki-50532084.html",
+          "source": "NV.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.on3.com/rivals/news/elite-2027-recruit-jezelle-gg-banks-talks-recruitment-breaks-down-lsu-south-carolina-and-others/",
           "source": "On3"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "карта тривог",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 23 Jul 2025 18:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtWAxISeuCiunpsV4dGRRFht4pUViWTO3p8AWAcC3BQ3GY4qCkw9f4cDzOWjU",
-      "pictureSource": "ТСН",
-      "relatedSearch": [
-        {
-          "title": "Росія атакує Україну БпЛА: напрямки руху цілей",
-          "snippet": "",
-          "url": "https://tsn.ua/ukrayina/rosiia-atakuye-ukrayinu-bpla-napriamky-rukhu-tsiley-2876237.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "У низці регіонів оголошена тривога через загрозу балістики, у Черкасах пролунали вибухи",
-          "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/events/raketna-zagroza-i-droni-nad-centralnoyu-ukrajinoyu-vnochi-24-lipnya-50532079.html",
-          "source": "NV.ua"
-        },
-        {
-          "title": "ППО вночі збила 27 російських дронів із 71, локаційно втрачені ще 18",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-ato/4017891-ppo-vnoci-zbila-27-rosijskih-droniv-iz-71-lokacijno-vtraceni-se-18.html",
-          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
