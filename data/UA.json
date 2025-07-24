@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-24 12:15:35",
+  "lastUpdate": "2025-07-24 12:31:49",
   "data": [
     {
       "title": "стамбулі",
@@ -43,7 +43,7 @@
           "source": "Українська правда"
         },
         {
-          "title": "РФ вдарила по центру Харкова авіабомбами: палають автівки, є постраждалі",
+          "title": "РФ вдарила по центру Харкова авіабомбами: загорілись автівки, є постраждалі (фото, відео)",
           "snippet": "",
           "url": "https://www.unian.ua/war/rf-vdarila-po-centru-harkova-aviabombami-palayut-avtivki-ye-postrazhdali-novini-harkova-13076865.html",
           "source": "УНІАН"
@@ -71,16 +71,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "Россия могла обстрелять Харьков новыми авиабомбами: что о них известно",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/rosiya-mogla-obstrilyati-harkiv-novimi-aviabombami-1753357799.html",
+          "source": "РБК-Україна"
+        },
+        {
           "title": "Обстрел Харькова: Среди пострадавших — младенец и беременная женщина",
           "snippet": "",
           "url": "https://hromadske.ua/ru/regiony/248571-obstrel-harkova-sredi-postradavshih-mladenets-i-beremennaya-zhenschina",
           "source": "Hromadske"
-        },
-        {
-          "title": "Удар по Харькову: количество раненых стремительно растет, среди них ребенок",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/udar-harkovu-kilkist-poranenih-strimko-zrostae-1753349652.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,10 +114,10 @@
           "source": "BBC"
         },
         {
-          "title": "В Амурской области разбился пассажирский самолет Ан-24",
+          "title": "В Амурской области разбился самолет Ан-24. Обломки нашли на склоне горы",
           "snippet": "",
-          "url": "https://www.dw.com/ru/v-amurskoj-oblasti-razbilsa-passazirskij-samolet-an24/a-73392202",
-          "source": "DW"
+          "url": "https://meduza.io/feature/2025/07/24/v-amurskoy-oblasti-razbilsya-samolet-an-24-oblomki-nashli-na-sklone-gory",
+          "source": "Meduza"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -207,34 +207,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "24 липня",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 23 Jul 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Rw4MOf87xH-MhJsxA-S4QpcqdGCk7EZ0bUl-1aNvVYJlF80Fq0zFgpRA2uo",
-      "pictureSource": "УНІАН",
-      "relatedSearch": [
-        {
-          "title": "Росіяни ударили по кількох обласних центрах: виникли пожежі, є постраждалі (фото, відео)",
-          "snippet": "",
-          "url": "https://www.unian.ua/war/rosiyani-udarili-po-cherkasah-odesi-ta-mikolayevu-vinikli-pozhezhi-ye-postrazhdali-novini-odesi-13076601.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Семеро травмованих, серед них дитина: Черкаси вночі 24 липня атакували ракетами",
-          "snippet": "",
-          "url": "https://suspilne.media/cherkasy/1073459-na-cerkasini-u-nic-na-24-lipna-bulo-cutno-vibuhi/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "Обстріл Черкас: росіяни пошкодили місцевий цвинтар, держзаклади та багатоповерхівки",
-          "snippet": "",
-          "url": "https://hromadske.ua/rehiony/248556-obstril-cherkas-rosiiany-poshkodyly-mistsevyy-tsvyntar-derzzaklady-ta-bahatopoverkhivky",
-          "source": "Hromadske"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "вибух",
       "trafficCount": "100+",
       "pubDate": "Wed, 23 Jul 2025 20:40:00 -0700",
@@ -248,16 +220,44 @@
           "source": "Радіо Свобода"
         },
         {
-          "title": "На Одещині вибухнуло цивільне судно: є загиблі та поранені",
-          "snippet": "",
-          "url": "https://www.unian.ua/incidents/na-odeshchini-vibuhnulo-civilne-sudno-ye-zagibli-ta-poraneni-novini-odesi-13077045.html",
-          "source": "УНІАН"
-        },
-        {
           "title": "На українському судні в гирлі Дунаю стався вибух: є загиблі та травмовані",
           "snippet": "",
           "url": "https://tsn.ua/ukrayina/na-ukrayinskomu-sudni-v-hyrli-dunaiu-stavsia-vybukh-ye-zahybli-ta-travmovani-2876585.html",
           "source": "ТСН"
+        },
+        {
+          "title": "На Одещині вибухнуло цивільне судно: є загиблі та поранені",
+          "snippet": "",
+          "url": "https://www.unian.ua/incidents/na-odeshchini-vibuhnulo-civilne-sudno-ye-zagibli-ta-poraneni-novini-odesi-13077045.html",
+          "source": "УНІАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "экстремальная жара",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 23 Jul 2025 19:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKXkh66wzIOZwmxc8R0h1WhwVI2YpT4fn-rG0emTDtyW5DLdvcr22aCmwi7g",
+      "pictureSource": "Європейська правда",
+      "relatedSearch": [
+        {
+          "title": "В Греции во второй раз за две недели ограничили посещение Акрополя из-за жары",
+          "snippet": "",
+          "url": "https://www.eurointegration.com.ua/rus/news/2025/07/22/7216461/",
+          "source": "Європейська правда"
+        },
+        {
+          "title": "Экстремальная жара в Греции и на Кипре сохранится в выходные",
+          "snippet": "",
+          "url": "https://ru.euronews.com/green/2025/07/23/greece-cyprus-heatwave",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "В Греции теперь будут штрафовать за работу после обеда",
+          "snippet": "",
+          "url": "https://www.ukr.net/ru/news/details/world/112557262.html",
+          "source": "UKR.NET"
         }
       ],
       "link": "https://imtaqin.id/"
