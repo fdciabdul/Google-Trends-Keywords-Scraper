@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-07-24 12:31:21",
+  "lastUpdate": "2025-07-24 12:53:54",
   "data": [
     {
       "title": "sinilevätilanne",
       "trafficCount": "200+",
       "pubDate": "Thu, 24 Jul 2025 05:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnBeMzmACT-566bJSVAFcTp9jg7eW2rt9NmTr3ykbN73ptPahGDX9R99FQ2cM",
-      "pictureSource": "HS.fi",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuSieELgRFUBNYUsuK8PfedbqTb5WXDCb-T3sxRr1KT7n04kwT1iNnEv1TgK0",
+      "pictureSource": "Ilta-Sanomat",
       "relatedSearch": [
+        {
+          "title": "Näissä paikoissa havaittu runsaasti sinilevää",
+          "snippet": "",
+          "url": "https://www.is.fi/kotimaa/art-2000011385526.html",
+          "source": "Ilta-Sanomat"
+        },
         {
           "title": "Sinilevä | Kuvasimme Suomenlahtea vallanneet myrkynvihreät sinilevälautat",
           "snippet": "",
           "url": "https://www.hs.fi/suomi/art-2000011382696.html",
           "source": "HS.fi"
-        },
-        {
-          "title": "Kiuruvedellä havaittu runsaasti sinilevää",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20174182",
-          "source": "Yle"
         },
         {
           "title": "Sinilevätilanne jatkuu monin paikoin samankaltaisena, avomerialueilla havainnot ovat lisääntyneet",
@@ -77,10 +77,10 @@
           "source": "Yle"
         },
         {
-          "title": "Aasia | Yli 10 kuollut Thaimaan ja Kambodžan laukaustenvaihdossa",
+          "title": "Ainakin 11 siviilin kerrotaan kuolleen – Thaimaa iskenyt Kambodzhan sotilaskohteisiin",
           "snippet": "",
-          "url": "https://www.hs.fi/maailma/art-2000011384109.html",
-          "source": "HS.fi"
+          "url": "https://www.is.fi/ulkomaat/art-2000011384282.html",
+          "source": "Ilta-Sanomat"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,20 +89,20 @@
       "title": "south park",
       "trafficCount": "200+",
       "pubDate": "Thu, 24 Jul 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR66hyg0pyEqvXL-QgZrohfrjg9MSMP3EU3K8w5hqL3aQyxfO2tJU8KSuuKc0U",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5XR24OCpyT-JPQu8d5ARqLDwZ8vplTmBKkJnuilEuDU6YOBVThycrj16dWY",
+      "pictureSource": "Deadline",
       "relatedSearch": [
+        {
+          "title": "'South Park' Creators Ink New Deal; Show Now On Paramount+",
+          "snippet": "",
+          "url": "https://deadline.com/2025/07/south-park-creaors-overall-deal-paramount-streaming-1236466139/",
+          "source": "Deadline"
+        },
         {
           "title": "South Park: Satirical cartoon to stream on Paramount+ after bidding war",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cr4wgywwg0qo",
           "source": "BBC"
-        },
-        {
-          "title": "Paramount Global and Park County Extend Overall Deal",
-          "snippet": "",
-          "url": "https://www.prnewswire.com/news-releases/paramount-global-and-park-county-extend-overall-deal-302512227.html",
-          "source": "PR Newswire"
         },
         {
           "title": "‘South Park’ creators reach $1.5-billion streaming deal with Paramount",
@@ -170,9 +170,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kempower",
+      "title": "kauppalehti",
       "trafficCount": "200+",
-      "pubDate": "Thu, 24 Jul 2025 01:10:00 -0700",
+      "pubDate": "Thu, 24 Jul 2025 00:20:00 -0700",
+      "picture": "",
+      "pictureSource": "Yle",
+      "relatedSearch": [
+        {
+          "title": "EKP piti ohjauskoron ennallaan",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20174207",
+          "source": "Yle"
+        },
+        {
+          "title": "Rahapolitiikka | Euroopan keskuspankki jätti korot ennalleen",
+          "snippet": "",
+          "url": "https://www.hs.fi/talous/art-2000011385296.html",
+          "source": "HS.fi"
+        },
+        {
+          "title": "EKP piti ohjauskorot ennallaan, Dansken Kuoppamäki: Syyskuussa saattaa vielä yksi lasku tulla – KL seuraa markkinapäivää",
+          "snippet": "",
+          "url": "https://www.kauppalehti.fi/uutiset/a/a1619620-37ff-4793-904c-b601aeb192c8",
+          "source": "Kauppalehti"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kempower osake",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 24 Jul 2025 00:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmtIVUUSeX7Dea_49J642p8hYWorgc0xQjXSI0RcnpCEkVJkRIkQJbleW-UZ0",
       "pictureSource": "Arvopaperi",
       "relatedSearch": [
@@ -193,34 +221,6 @@
           "snippet": "",
           "url": "https://www.hs.fi/talous/art-2000011384468.html",
           "source": "HS.fi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kempower osake",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 24 Jul 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqSA_E9smCm-OBwTkl10My7yKwuE2H8pcEoMqoNNqwKEi77WTYjheRQ9cdoo",
-      "pictureSource": "Kauppalehti",
-      "relatedSearch": [
-        {
-          "title": "Sijoittajien katseet kääntyvät tulospäivästä EKP:n korkopäätökseen – KL seuraa markkinapäivää",
-          "snippet": "",
-          "url": "https://www.kauppalehti.fi/uutiset/a/a1619620-37ff-4793-904c-b601aeb192c8",
-          "source": "Kauppalehti"
-        },
-        {
-          "title": "Markkinaviikon tärpit: Helsingin pörssissä 20 yhtiötä julkistaa tuloksensa, EKP:lta korkopäätös",
-          "snippet": "",
-          "url": "https://www.arvopaperi.fi/uutiset/a/de548c6f-f22b-46d6-94a1-bc152d866dfe",
-          "source": "Arvopaperi"
-        },
-        {
-          "title": "Johtaja söi luksusravintoloissa ja ajeli taksilla firman piikkiin – Tuomio tuli",
-          "snippet": "",
-          "url": "https://www.kauppalehti.fi/uutiset/a/199cfc81-cd38-48fd-9dcd-95a7ec70554a",
-          "source": "Kauppalehti"
         }
       ],
       "link": "https://imtaqin.id/"
