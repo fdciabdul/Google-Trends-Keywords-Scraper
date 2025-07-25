@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-07-25 05:44:25",
+  "lastUpdate": "2025-07-25 05:55:08",
   "data": [
+    {
+      "title": "aemet malaga",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 24 Jul 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn9wytolf7kuxCJ1C5fMR7idkDtesK4lCbey4vsYQGkmRxGvcABQ8-4WdJi78",
+      "pictureSource": "ABC",
+      "relatedSearch": [
+        {
+          "title": "La Aemet anuncia lluvias en estas provincias de Andalucía a partir del jueves",
+          "snippet": "",
+          "url": "https://www.abc.es/espana/andalucia/aemet-anuncia-lluvias-provincias-andalucia-partir-jueves-20250723125142-nts.html",
+          "source": "ABC"
+        },
+        {
+          "title": "Prepárate antes de salir: conoce el pronóstico del tiempo en Almería",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/el-tiempo/2025-07-24/el-tiempo-en-almeria-jueves_4179023/",
+          "source": "El Confidencial"
+        },
+        {
+          "title": "Alerta por tormentas en Andalucía",
+          "snippet": "",
+          "url": "https://www.larazon.es/andalucia/alerta-tormentas-andalucia_20250724688290ceabb2960d1fb4e1cb.html",
+          "source": "La Razón"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "menorca info",
       "trafficCount": "100+",
@@ -89,13 +117,19 @@
       "title": "juana rivas arcuri",
       "trafficCount": "500+",
       "pubDate": "Thu, 24 Jul 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOc9_VONd7oJBf8jjdOVdqtPCeAODnYqhI_urtZOOC-xUukXmCQ2fMfHTnHY",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu6lUxzyaKExHGWkrh3Iz38-owVEe-Kb2U1AlhdJfmlQwulgvxtQTLG-lMmkw",
+      "pictureSource": "El Mundo",
       "relatedSearch": [
         {
-          "title": "Qué ocurrió la mañana del martes en el punto de encuentro: así se frustró la entrega del hijo de Juana Rivas a su padre",
+          "title": "Una 'operación jaula' para dar esquinazo a la asesora de Juana Rivas y garantizar la entrega de Daniel a su padre",
           "snippet": "",
-          "url": "https://elpais.com/sociedad/2025-07-24/que-ocurrio-la-manana-del-martes-en-el-punto-de-encuentro-asi-se-frustro-la-entrega-del-hijo-de-juana-rivas-a-su-padre.html",
+          "url": "https://www.elmundo.es/espana/2025/07/24/68826ba4e85ece571d8b4598.html",
+          "source": "El Mundo"
+        },
+        {
+          "title": "Así se ha fijado la entrega del hijo menor de Juana Rivas al padre: un procedimiento íntimo y sin sobreexposición",
+          "snippet": "",
+          "url": "https://elpais.com/sociedad/2025-07-25/asi-se-ha-fijado-la-entrega-del-hijo-menor-de-juana-rivas-al-padre-un-procedimiento-intimo-y-sin-sobreexposicion.html",
           "source": "EL PAÍS"
         },
         {
@@ -103,12 +137,6 @@
           "snippet": "",
           "url": "https://www.abc.es/espana/andalucia/granada/granada-vive-expectante-segundo-intento-hijo-menor-20250725172315-nts.html",
           "source": "ABC"
-        },
-        {
-          "title": "\"¿Y el niño? Del niño no sabemos\"",
-          "snippet": "",
-          "url": "https://www.elmundo.es/espana/2025/07/25/68826f40e4d4d8884a8b45b5.html",
-          "source": "El Mundo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,9 +154,28 @@
       "title": "diario de burgos",
       "trafficCount": "100+",
       "pubDate": "Thu, 24 Jul 2025 22:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdpIik2r6nGfGzP7iyFynezDNtd4urrKpKwOQKar5yIl0KmAhNa_Jko6MTG-o",
+      "pictureSource": "Diario de Burgos",
+      "relatedSearch": [
+        {
+          "title": "Kilómetros de retenciones en la AP-1 y N-1 cerca de Briviesca",
+          "snippet": "",
+          "url": "https://www.diariodeburgos.es/noticia/z2c2b1763-9741-4a1d-a7eb6ed90a4c36e2/202507/kilometros-de-retenciones-en-la-ap-1-y-n-i-cerca-de-briviesca",
+          "source": "Diario de Burgos"
+        },
+        {
+          "title": "Un accidente en la AP-1 en Burgos provoca un atasco kilométrico",
+          "snippet": "",
+          "url": "https://www.burgosconecta.es/provincia/accidente-ap1-burgos-provoca-atasco-kilometrico-20250718172324-nt.html",
+          "source": "BURGOSconecta"
+        },
+        {
+          "title": "Una miseria para el Canal de Castilla en Burgos",
+          "snippet": "",
+          "url": "https://www.diariodeburgos.es/noticia/zdc8c3e47-bbac-42f5-a3ffc3d57598528f/202507/una-miseria-para-el-canal-de-castilla-en-burgos",
+          "source": "Diario de Burgos"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -160,36 +207,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "escenas post créditos 4 fantásticos",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 24 Jul 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL2O3X-IFuSlGyWxNmEjGOqWRtp1QpZTUfj5a4YwFRO3fRZxEmthPZ3SXoZww",
-      "pictureSource": "El Confidencial",
-      "relatedSearch": [
-        {
-          "title": "'Los cuatro fantásticos: primeros pasos': por fin otra comedia de Marvel que no insulta al espectador",
-          "snippet": "",
-          "url": "https://www.elconfidencial.com/cultura/2025-07-25/cuatro-fantasticos-pedro-pascal-marvel_4179336/",
-          "source": "El Confidencial"
-        },
-        {
-          "title": "La maldición de la familia maravilla: 30 años de fracasos de 'Los 4 Fantásticos'",
-          "snippet": "",
-          "url": "https://www.elmundo.es/papel/cultura/2025/07/24/687fac08e9cf4aaf018b4587.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "«Los 4 Fantásticos: primeros pasos»: el regreso de un clásico a la pantalla grande",
-          "snippet": "",
-          "url": "https://www.lavozdegalicia.es/noticia/cultura/2025/07/23/4-fantasticos-primeros-pasos-regreso-clasico-pantalla-grande/00031753257065459124997.htm",
-          "source": "La Voz de Galicia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tiempo hoy",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 24 Jul 2025 21:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI0ahhZoN1OWGKoe8tNX0yK-t7o2TqzJ0m9iWD3P7jlh9D-IHVQlEcnLcYaoY",
       "pictureSource": "El Mundo",
