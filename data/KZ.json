@@ -1,6 +1,15 @@
 {
-  "lastUpdate": "2025-07-26 06:41:27",
+  "lastUpdate": "2025-07-26 06:53:55",
   "data": [
+    {
+      "title": "марат жыланбаев",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 25 Jul 2025 23:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "иван попов",
       "trafficCount": "100+",
@@ -31,7 +40,7 @@
     },
     {
       "title": "прогноз погоды",
-      "trafficCount": "10000+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 25 Jul 2025 22:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5-7MCvEH5TGqkx0drTtrU-iQE7eYw5LCIGXPE7k-SGHsqCDWEQJX7500DQG0",
       "pictureSource": "Новости Zakon.kz",
@@ -61,9 +70,15 @@
       "title": "новости алматы",
       "trafficCount": "100+",
       "pubDate": "Fri, 25 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ7ZMjIWS0l7YYQIttgc6FElYrC8vGfZ9Jgfo70zLOekNJOfGAEgkLKUKwDBQ",
-      "pictureSource": "Tengrinews",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj20K29JGQfD3cQ22dsndOkifhBFRlhqiraTkrxyuQzSpX5gd9NxGyrBdVsN8",
+      "pictureSource": "КазТАГ: Казахское телеграфное агентство",
       "relatedSearch": [
+        {
+          "title": "Пожар в торговом центре в Алматы потушен",
+          "snippet": "",
+          "url": "https://kaztag.kz/ru/news/pozhar-v-torgovom-tsentre-v-almaty-potushen",
+          "source": "КазТАГ: Казахское телеграфное агентство"
+        },
         {
           "title": "Торговый центр горел в Алматы",
           "snippet": "",
@@ -75,12 +90,6 @@
           "snippet": "",
           "url": "https://www.nur.kz/incident/emergency/2269152-pozhar-proizoshel-v-odnom-iz-tc-v-almaty/",
           "source": "NUR.KZ"
-        },
-        {
-          "title": "Пожар произошел в торговом центре Алматы",
-          "snippet": "",
-          "url": "https://www.inform.kz/ru/pozhar-proizoshel-v-torgovom-tsentre-almati-22bcf8",
-          "source": "Казинформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +126,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Fri, 25 Jul 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwk9iMbkCD7A3dWp3RPiSFejisXSHvBGFeP7N29GnciHUR3yCGLuAwdjMh0lk",
-      "pictureSource": "RNZ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8BFKPZgwl_U6CV4ry5d9l1SSMK2u90WNy1h9obki5MAQNcgCqFieIXw2Y4A",
+      "pictureSource": "The Fermanagh Herald",
       "relatedSearch": [
         {
-          "title": "Fine weather set to continue for most this weekend",
+          "title": "Today’s weather forecast for Co Fermanagh",
           "snippet": "",
-          "url": "https://www.rnz.co.nz/news/national/568039/fine-weather-set-to-continue-for-most-this-weekend",
-          "source": "RNZ"
+          "url": "https://fermanaghherald.com/2025/07/todays-weather-forecast-for-co-fermanagh-201/",
+          "source": "The Fermanagh Herald"
         },
         {
-          "title": "Coldest morning of the year set to give way to ‘warm, wet and windy’ conditions",
+          "title": "Today’s weather forecast for Co Tyrone",
           "snippet": "",
-          "url": "https://www.stuff.co.nz/nz-news/360770550/lowest-temperatures-year-set-give-way-warm-wet-and-windy-conditions",
-          "source": "Stuff"
+          "url": "https://wearetyrone.com/news/todays-weather-forecast-for-co-fermanagh-2/",
+          "source": "We Are Tyrone"
         },
         {
-          "title": "Coldest morning of the year hits Hamilton, Taupō bottoms at -4.6C",
+          "title": "Today’s weather forecast for Co Fermanagh",
           "snippet": "",
-          "url": "https://www.waikatotimes.co.nz/nz-news/360769844/coldest-morning-hits-hamilton-taupo-claims-winter-low",
-          "source": "Waikato Times"
+          "url": "https://fermanaghherald.com/2025/07/todays-weather-forecast-for-co-fermanagh-200/",
+          "source": "The Fermanagh Herald"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +220,16 @@
           "source": "Sportbox"
         },
         {
-          "title": "Медведев разбил спортивную бутылку после поражения от Муте",
-          "snippet": "",
-          "url": "https://www.sport-express.net/tennis/atp/news/medvedev-razbil-sportivnuyu-butylku-posle-porazheniya-ot-mute-2345752/",
-          "source": "sport-express.ru"
-        },
-        {
           "title": "Муте обыграл Медведева и второй раз в сезоне вышел в полуфинал ATP",
           "snippet": "",
           "url": "https://sportmail.ru/news/tennis/67170286/",
           "source": "Спорт Mail"
+        },
+        {
+          "title": "Медведев разбил спортивную бутылку после поражения от Муте",
+          "snippet": "",
+          "url": "https://www.sport-express.net/tennis/atp/news/medvedev-razbil-sportivnuyu-butylku-posle-porazheniya-ot-mute-2345752/",
+          "source": "sport-express.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://www.zakon.kz/proisshestviia/6485384-pozhar-v-gorakh-almaty-stali-izvestny-novye-podrobnosti.html",
           "source": "Новости Zakon.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "крылья советов – пари нн",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 25 Jul 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOW_TqatKPGci4DGtvi3oNe4Q5YVkF6uv5uahDDdYIiJck4Q0ce-SHqYLq9c",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Адиев о 2:0 с «Пари НН»: «Крылья» хорошо играли, в концовке дожали. Команда только строится, для большей уверенности важно побеждать\"",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/67170708/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Нападающий «Крыльев Советов» Раков признан лучшим игроком матча РПЛ против «Пари НН»",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbnews_NI2225138_Napadajushhij_Kryljev_Sovetov_Rakov_priznan_luchshim_igrokom_matcha_RPL_protiv_Pari_NN",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Экс-тренера \"Кайрата\" обвиняют в провале в РПЛ. Его обыграл Адиев",
-          "snippet": "",
-          "url": "https://vesti.kz/footballrus/eks-trenera-kayrata-obvinyayut-provale-rpl-obyigral-adiev-366889/",
-          "source": "Vesti.kz"
         }
       ],
       "link": "https://imtaqin.id/"
