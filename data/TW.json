@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-28 22:35:01",
+  "lastUpdate": "2025-07-28 22:46:23",
   "data": [
     {
       "title": "新竹天氣",
@@ -40,7 +40,7 @@
     },
     {
       "title": "一週天氣",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 28 Jul 2025 15:00:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -60,9 +60,15 @@
       "title": "新聞",
       "trafficCount": "200+",
       "pubDate": "Mon, 28 Jul 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1TYBaVl_wVZoXx-6jJPAiOSb7WCf_li76zTtulqpOJNeDE6OUdr56gAKr1QU",
-      "pictureSource": "山陰中央新報デジタル",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS05QkM92UnTz60Oj4G29tCvMZ4m1KxBE8WeZNFTJfg1mEaPn0yibEOfF7p5OI",
+      "pictureSource": "NHK",
       "relatedSearch": [
+        {
+          "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月29日の動き）",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/news/html/20250729/k10014834701000.html",
+          "source": "NHK"
+        },
         {
           "title": "米、８月上旬までの停戦要求",
           "snippet": "",
@@ -74,12 +80,34 @@
           "snippet": "",
           "url": "https://news.nifty.com/topics/jiji/250729853660/",
           "source": "ニフティニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cwa",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 28 Jul 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwvwPHigZdaP38rpF1ojxMTvauJr1yC3I8K1ny-OXamWQELSUImESscSv_9o",
+      "pictureSource": "Focus Taiwan",
+      "relatedSearch": [
+        {
+          "title": "Wet weather to prevail in central, southern Taiwan through Friday",
+          "snippet": "",
+          "url": "https://focustaiwan.tw/society/202507270014",
+          "source": "Focus Taiwan"
         },
         {
-          "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月29日の動き）",
+          "title": "Flooded site",
           "snippet": "",
-          "url": "https://www3.nhk.or.jp/news/html/20250729/k10014834701000.html",
-          "source": "NHK"
+          "url": "https://www.taipeitimes.com/News/biz/archives/2025/07/29/2003841074",
+          "source": "Taipei Times"
+        },
+        {
+          "title": "Heavy rain suspends classes and work in parts of central and southern Taiwan",
+          "snippet": "",
+          "url": "https://www.taiwannews.com.tw/news/6165257",
+          "source": "Taiwan News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,34 +201,6 @@
           "snippet": "",
           "url": "https://sports.ettoday.net/news/3004571",
           "source": "ETtoday運動雲"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "盧秀燕",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 28 Jul 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlw_-iXw5v3kkLHnd1OWo-TL4n55YraSAs_psO59RPmCTJ52KbUsy2bhaOo9U",
-      "pictureSource": "奇摩新聞",
-      "relatedSearch": [
-        {
-          "title": "藍委挺過罷免危機卻突宣布「取消車掃」 原因曝光：深思熟慮的決定",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E8%97%8D%E5%A7%94%E6%8C%BA%E9%81%8E%E7%BD%B7%E5%85%8D%E5%8D%B1%E6%A9%9F%E5%8D%BB%E7%AA%81%E5%AE%A3%E5%B8%83-%E5%8F%96%E6%B6%88%E8%BB%8A%E6%8E%83-%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-%E6%B7%B1%E6%80%9D%E7%86%9F%E6%85%AE%E7%9A%84%E6%B1%BA%E5%AE%9A-071500695.html",
-          "source": "奇摩新聞"
-        },
-        {
-          "title": "反罷成功！盧秀燕謝白營和小草「續並肩前行」",
-          "snippet": "",
-          "url": "https://udn.com/news/story/124323/8900266",
-          "source": "聯合新聞網"
-        },
-        {
-          "title": "盧秀燕感謝黃國昌、民眾黨小草喊話續並肩前行| 政治",
-          "snippet": "",
-          "url": "https://www.cna.com.tw/news/aipl/202507270111.aspx",
-          "source": "中央社 CNA"
         }
       ],
       "link": "https://imtaqin.id/"
