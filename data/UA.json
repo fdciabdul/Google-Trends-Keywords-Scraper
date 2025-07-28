@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-28 03:58:19",
+  "lastUpdate": "2025-07-28 04:25:50",
   "data": [
     {
       "title": "экстремальная жара",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sun, 27 Jul 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-QJCBoVSqac9CUeryjXWJfAo-iMV644PaPGmidjWH-hFmFv07OlZMq5zTOTQ",
       "pictureSource": "DW",
@@ -67,6 +67,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "новини київ",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 27 Jul 2025 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSYOhDLP4MHoREupwjYGMAlXlriWO_yYS5h3WlxRB3L1hOFTdzYh3L4ooyCCE",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "Україна під атакою дронами й ракетами: у Києві є постраждалі",
+          "snippet": "",
+          "url": "https://www.unian.ua/war/viyna-v-ukrajini-rosiyani-atakuyut-ukrajinski-mista-dronami-13080045.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Вибухи в Києві, Запоріжжі: є постраждалі",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/ukraine/4802701-vybukhy-v-kyievi-zaporizhzhi-ye-postrazhdali",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Вибухи у Києві: ППО відбиває атаку ворога",
+          "snippet": "",
+          "url": "https://vechirniy.kyiv.ua/news/115412/",
+          "source": "Вечірній Київ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "погода київ",
       "trafficCount": "2000+",
       "pubDate": "Sun, 27 Jul 2025 19:20:00 -0700",
@@ -124,7 +152,7 @@
     },
     {
       "title": "новини львів",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 27 Jul 2025 18:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYq1qVuEk4DV_NzDbjAE80ncsh6prki97Fal-7dEdPV2X8q5kvicpCAl_1syI",
       "pictureSource": "Львівський портал",
@@ -142,38 +170,10 @@
           "source": "DailyLviv.com"
         },
         {
-          "title": "Цієї ночі на Львівщині та в інших містах п'ять разів оголошували тривогу. Які наслідки",
+          "title": "Поліція Львівщини опрацювала 1649 звернень за добу",
           "snippet": "",
-          "url": "https://tvoemisto.tv/news/tsiiei_nochi_na_lvivshchyni_pyat_raziv_ogoloshuvaly_tryvogu_177974.html",
-          "source": "Твоє Місто"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "карта повітряних тривог",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 27 Jul 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSYOhDLP4MHoREupwjYGMAlXlriWO_yYS5h3WlxRB3L1hOFTdzYh3L4ooyCCE",
-      "pictureSource": "УНІАН",
-      "relatedSearch": [
-        {
-          "title": "Україна під атакою дронами й ракетами: у Києві є постраждалі",
-          "snippet": "",
-          "url": "https://www.unian.ua/war/viyna-v-ukrajini-rosiyani-atakuyut-ukrajinski-mista-dronami-13080045.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Вибухи в Києві, Запоріжжі: є постраждалі",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/ukraine/4802701-vybukhy-v-kyievi-zaporizhzhi-ye-postrazhdali",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "Вибухи у Києві: ППО відбиває атаку ворога",
-          "snippet": "",
-          "url": "https://vechirniy.kyiv.ua/news/115412/",
-          "source": "Вечірній Київ"
+          "url": "https://golossokal.com.ua/ru/podii/politsiia-lvivshchyny-opratsiuvala-1649-zvernen-za-dobu.html",
+          "source": "Голос Сокальщини"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,16 +192,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "Киев под ударом \"Шахедов\": число пострадавших растет, что известно о последствиях",
+          "title": "В Киеве из-за атаки РФ повреждены дом и квартиры — фото",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/kiyiv-pid-udarom-shahediv-p-yatero-postrazhdalih-1753660082.html",
-          "source": "РБК-Україна"
+          "url": "https://kyiv.novyny.live/ru/u-kiievi-cherez-ataku-rf-poshkodzheno-budinok-ta-kvartiri-foto-270252.html",
+          "source": "Новини Live"
         },
         {
-          "title": "Оккупанты атаковали Киев: пострадали пять человек, среди них – ребенок",
+          "title": "В Киеве и Запорожье прогремели взрывы: новые группы \"Шахедов\" заходят в Украину",
           "snippet": "",
-          "url": "https://war.obozrevatel.com/okkupantyi-atakovali-kiev-postradali-pyat-chelovek-sredi-nih-rebenok.htm",
-          "source": "War OBOZREVATEL"
+          "url": "https://www.rbc.ua/ukr/news/kievi-ta-zaporizhzhi-prolunali-vibuhi-ataka-1753651340.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
