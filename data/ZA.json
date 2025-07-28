@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-07-28 05:17:40",
+  "lastUpdate": "2025-07-28 05:32:59",
   "data": [
     {
-      "title": "temperature",
-      "trafficCount": "50000+",
-      "pubDate": "Sun, 27 Jul 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_g4vKLnEWA8BAFA53zqrQ-k7K3kQkcRRRNw2izMduwHkj378BN0DkrwW2W4",
-      "pictureSource": "The Weather Channel",
+      "title": "world news",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 27 Jul 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRySJRk_oYeDYFNtFCf_3CHh_idHL-eId7_QXg2dA1UOiN1BjpczSUnhULF6JU",
+      "pictureSource": "The Economist",
       "relatedSearch": [
         {
-          "title": "South To See Dangerous Heat, Possible Records, As Midwest, Northeast Eye Pattern Change",
+          "title": "Europe averts its Trumpian trade nightmare",
           "snippet": "",
-          "url": "https://weather.com/forecast/regional/news/2025-07-25-south-heat-records-midwest-northeast-pattern-change-forecast",
-          "source": "The Weather Channel"
+          "url": "https://www.economist.com/finance-and-economics/2025/07/28/europe-averts-its-trumpian-trade-nightmare",
+          "source": "The Economist"
         },
         {
-          "title": "Summer sizzles a little longer ahead of big pattern shift",
+          "title": "EU-US tariffs: five key takeaways from the trade deal",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/summer-sizzles-little-longer-ahead-012623309.html",
-          "source": "Yahoo.co"
+          "url": "https://www.theguardian.com/us-news/2025/jul/28/eu-us-trade-deal-tariffs-european-union-five-key-takeaways",
+          "source": "The Guardian"
         },
         {
-          "title": "More than 130 million people brace for sweltering conditions across most of the US",
+          "title": "Trump announces trade deal with European Union",
           "snippet": "",
-          "url": "https://abcnews.go.com/US/130-million-people-brace-sweltering-conditions-us/story?id=124112918",
-          "source": "ABC News"
+          "url": "https://www.foxnews.com/politics/trump-announces-trade-deal-european-union",
+          "source": "Fox News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather forecast",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 27 Jul 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkTEA7iMZf4sVO0SKw8bU6rSIw4Fv7QoSwWLKGcOUIqIXuPWZs2xaGoQi9PL0",
+      "pictureSource": "The Ross Gazette",
+      "relatedSearch": [
+        {
+          "title": "Patchy rain morning, sunny afternoon: Light rain tomorrow",
+          "snippet": "",
+          "url": "https://www.rossgazette.com/weather-forecasts/patchy-rain-likely-today-and-moderate-rain-tomorrow-816383",
+          "source": "The Ross Gazette"
+        },
+        {
+          "title": "Partly cloudy today: Patchy rain tomorrow",
+          "snippet": "",
+          "url": "https://www.mnrjournal.co.uk/weather-forecasts/sunday-partly-cloudy-monday-patchy-rain-816295",
+          "source": "www.mnrjournal.co.uk"
+        },
+        {
+          "title": "Today: Patchy rain, tomorrow: Partly cloudy",
+          "snippet": "",
+          "url": "https://www.middevonadvertiser.co.uk/weather-forecasts/patchy-rain-with-cloudy-skies-for-day-and-more-showers-tomorrow-816301",
+          "source": "Mid Devon Advertiser"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "weather today",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 27 Jul 2025 20:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlhBiRh69oOZNwfYs_jvsNwNxTg8870lvA6aus-3Ydsjva8OsQWD_CtTS0VhA",
+      "pictureSource": "Mint",
+      "relatedSearch": [
+        {
+          "title": "RED ALERT in Rajasthan, Madhya Pradesh, Gujarat after heavy rain wreaks havoc in Kerala, causes landslides in Himachal",
+          "snippet": "",
+          "url": "https://www.livemint.com/news/red-alert-rajasthan-madhya-pradesh-gujarat-after-heavy-rain-wreaks-havoc-kerala-landslides-himachal-imd-weather-forecast-11753579807174.html",
+          "source": "Mint"
+        },
+        {
+          "title": "Dark Skies Likely to Loom as Delhi Awaits Rainfall Relief on Third Monday of Saavan — Full Forecast",
+          "snippet": "",
+          "url": "https://www.timesnownews.com/delhi/dark-skies-likely-to-loom-as-delhi-awaits-rainfall-relief-on-third-monday-of-saavan-full-forecast-article-152359693",
+          "source": "Times Now"
+        },
+        {
+          "title": "Weather Update: Heavy Rain Batters Several States, Here's What IMD Predicts For Delhi",
+          "snippet": "",
+          "url": "https://www.msn.com/en-in/news/India/weather-update-heavy-rain-batters-several-states-here-s-what-imd-predicts-for-delhi/ar-AA1Jpbfx",
+          "source": "MSN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "todays weather",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 27 Jul 2025 19:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8BFKPZgwl_U6CV4ry5d9l1SSMK2u90WNy1h9obki5MAQNcgCqFieIXw2Y4A",
       "pictureSource": "The Fermanagh Herald",
@@ -105,10 +161,10 @@
           "source": "SABC News"
         },
         {
-          "title": "2025 DC Open Men’s Final: Start Time, How to Watch",
+          "title": "Epic Battle in D.C.: Alex de Minaur claims 10th career title after saving three match points",
           "snippet": "",
-          "url": "https://globelynews.com/sports/dc-open-mens-final-start-time-how-to-watch/",
-          "source": "Globely News"
+          "url": "https://www.tennismajors.com/atp/washington-citi-open-atp-500-atp/epic-battle-in-d-c-alex-de-minaur-claims-10th-career-title-after-saving-three-match-points-831730.html",
+          "source": "Tennis Majors"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +189,10 @@
           "source": "GE"
         },
         {
-          "title": "Gol perdido por Rony em Flamengo x Atlético-MG viraliza: 'Inacreditável'",
+          "title": "Gol perdido por Rony no Maracanã choca torcedores no Brasileirão",
           "snippet": "",
-          "url": "https://www.msn.com/pt-br/esportes/futebol/gol-perdido-por-rony-em-flamengo-x-atl%C3%A9tico-mg-viraliza-inacredit%C3%A1vel/ar-AA1JoPxl?cvid=2B59E3F5AF0C46CEAD15E2137F389ADD&ocid=hpmsn",
-          "source": "MSN"
+          "url": "https://www.mixvale.com.br/2025/07/27/gol-perdido-por-rony-no-maracana-choca-torcedores-no-brasileirao/",
+          "source": "Mix Vale"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,82 +251,26 @@
       "title": "vanessa kirby",
       "trafficCount": "100+",
       "pubDate": "Sun, 27 Jul 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvZ3L6VMrRG_BJFnKWVrUxcW0E0lxyHkzjRe2ug66fmC13Tmdkrx1RKHuxUo",
-      "pictureSource": "Hindustan Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSld-xiWtxkYEStkk0tPnfEXexYITV7yf9jCAyhx0ylPIHUsaNb9PfBykXReYQ",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Vanessa Kirby's fake baby bump in Fantastic Four was heavier than real pregnancy: ‘Gave myself a backache for no reason’",
+          "title": "‘The Fantastic Four: First Steps’ rockets to $118 million",
           "snippet": "",
-          "url": "https://www.hindustantimes.com/htcity/cinema/vanessa-kirbys-fake-baby-bump-in-fantastic-four-was-heavier-than-real-pregnancy-gave-myself-a-backache-for-no-reason-101753441344228.html",
-          "source": "Hindustan Times"
+          "url": "https://www.cnn.com/2025/07/27/business/fantastic-four-box-office",
+          "source": "CNN"
         },
         {
-          "title": "Yes, that is Robert Downey Jr. as Doctor Doom in Fantastic Four, Marvel director confirms",
+          "title": "REVIEW | Fantastic Four: First Steps - is it enough to get Marvel back on top?",
           "snippet": "",
-          "url": "https://www.gamesradar.com/entertainment/marvel-movies/yes-that-is-robert-downey-jr-as-doctor-doom-in-fantastic-four-marvel-director-confirms/",
-          "source": "GamesRadar+"
+          "url": "https://www.news24.com/life/arts-and-entertainment/film/reviews/review-fantastic-four-first-steps-is-it-enough-to-get-marvel-back-on-top-20250725-1115",
+          "source": "News24"
         },
         {
-          "title": "Vanessa Kirby makes rare remark working with Robert Downey Jr",
+          "title": "'The Fantastic Four: First Steps' Post Credit Scenes Explained",
           "snippet": "",
-          "url": "https://www.geo.tv/latest/616089-vanessa-kirby-gushes-over-working-with-robert-downey-jr",
-          "source": "Geo.tv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sky vs fever",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 27 Jul 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwWBdVW_NODXFziwFIz_CjRO60nrZ0Aaqgf_3Ge6j83yHl55l4bDbP1SAnxDI",
-      "pictureSource": "MSN",
-      "relatedSearch": [
-        {
-          "title": "Caitlin Clark Had Classy Move for Adoring Fans at Fever’s Road Game vs. Sky",
-          "snippet": "",
-          "url": "https://www.msn.com/en-us/sports/nba/caitlin-clark-had-classy-move-for-adoring-fans-at-fever-s-road-game-vs-sky/ar-AA1JowmU",
-          "source": "MSN"
-        },
-        {
-          "title": "Stephanie White discusses Kelsey Mitchell's big day, Makayla Timpson's contributions",
-          "snippet": "",
-          "url": "https://www.indystar.com/videos/sports/basketball/wnba/fever/2025/07/27/kelsey-mitchell-makayla-timpson-have-season-highs-fever-vs-sky/85398776007/",
-          "source": "IndyStar"
-        },
-        {
-          "title": "Aliyah Boston Makes WNBA History in Win Over Chicago Sky",
-          "snippet": "",
-          "url": "https://athlonsports.com/wnba/indiana-fever/aliyah-boston-makes-wnba-history-in-win-over-chicago-sky",
-          "source": "Athlon Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "leylah fernandez",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 27 Jul 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcJKoM3NAmRPvN0aVTSJSzSQx0L99mwF6qycwibBlI_J3ORyVL-JxaugTBl2w",
-      "pictureSource": "SuperSport",
-      "relatedSearch": [
-        {
-          "title": "Leylah Fernandez v Elena Rybakina | Citi DC Open | SF1 | Highlights | WTA 500",
-          "snippet": "",
-          "url": "https://supersport.com/tennis/wta/video/502f37f3-a663-4b72-877a-b30d560cf0eb/leylah-fernandez-v-elena-rybakina-citi-dc-open-sf1-highlights-wta-500",
-          "source": "SuperSport"
-        },
-        {
-          "title": "Emma Raducanu beaten in Washington Open semi-final by Russia's Anna Kalinskaya",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/articles/clyd9pjjwnvo",
-          "source": "BBC"
-        },
-        {
-          "title": "Emma Raducanu loses to Anna Kalinskaya in semi-finals of the Mubadala Citi DC Open in Washington",
-          "snippet": "",
-          "url": "https://www.skysports.com/tennis/news/12110/13402399/emma-raducanu-loses-to-anna-kalinskaya-in-semi-finals-of-the-mubadala-citi-dc-open-in-washington",
-          "source": "Sky Sports"
+          "url": "https://nofilmschool.com/fantastic-four-post-credit-scenes-explained",
+          "source": "No Film School"
         }
       ],
       "link": "https://imtaqin.id/"
