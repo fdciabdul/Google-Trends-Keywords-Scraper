@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-28 04:25:50",
+  "lastUpdate": "2025-07-28 04:46:22",
   "data": [
     {
       "title": "экстремальная жара",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 27 Jul 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-QJCBoVSqac9CUeryjXWJfAo-iMV644PaPGmidjWH-hFmFv07OlZMq5zTOTQ",
       "pictureSource": "DW",
@@ -31,7 +31,7 @@
     },
     {
       "title": "погода вінниця",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 27 Jul 2025 20:00:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -40,11 +40,17 @@
     },
     {
       "title": "погода киев",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 27 Jul 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf2m2MIGcbKKHyWxFeTtI0DlfcovDJVXxWFcmSkoZ53cfusBDGsQR8I2ddiB0",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXt0NtCmvStojTPYbzDYcvqpRN71vnwiz5zD04VuobqM935iIq0jwQX4Yaj98",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
+        {
+          "title": "Погода ухудшится: где ждать дождей с грозами сегодня",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/pogoda-pogirshitsya-de-chekati-doshchiv-grozami-1753624804.html",
+          "source": "РБК-Україна"
+        },
         {
           "title": "В воскресенье запад и центр Украины накроют дожди и грозы",
           "snippet": "",
@@ -56,12 +62,6 @@
           "snippet": "",
           "url": "https://nv.ua/ukraine/events/pogoda-v-ukraine-gde-v-ponedelnik-proydet-grozovoy-dozhd-budet-zhara-37-bez-osadkov-50532531.html",
           "source": "NV.ua"
-        },
-        {
-          "title": "Синоптик предупредила о приближении особо жарких дней в Киеве: когда ждать",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/sinoptik-poperedila-osoblivu-speku-kievi-1753534681.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -80,16 +80,16 @@
           "source": "УНІАН"
         },
         {
+          "title": "У Києві та області працювала ППО",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/07/28/7523679/",
+          "source": "Українська правда"
+        },
+        {
           "title": "Вибухи в Києві, Запоріжжі: є постраждалі",
           "snippet": "",
           "url": "https://ua.korrespondent.net/ukraine/4802701-vybukhy-v-kyievi-zaporizhzhi-ye-postrazhdali",
           "source": "Korrespondent.net"
-        },
-        {
-          "title": "Вибухи у Києві: ППО відбиває атаку ворога",
-          "snippet": "",
-          "url": "https://vechirniy.kyiv.ua/news/115412/",
-          "source": "Вечірній Київ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,23 +136,23 @@
           "source": "Українська правда"
         },
         {
+          "title": "Россия атакует Украину ракетами: объявлена масштабная воздушная тревога",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/rosiya-atakue-ukrayinu-raketami-ogolosheno-1753665202.html",
+          "source": "РБК-Україна"
+        },
+        {
           "title": "За ночь россия запустила по Украине 83 дрона: большинство из них обезвредили, но пять попали",
           "snippet": "",
           "url": "https://hromadske.ua/ru/voyna/248706-za-noch-rossiya-zapustila-po-ukraine-83-drona-bolshinstvo-iz-nih-obezvredili-no-pyat-popali",
           "source": "Hromadske"
-        },
-        {
-          "title": "Россия запустила по Украине \"Шахеды\": где угроза ударов",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/rosiya-zapustila-ukrayini-shahedi-de-zagroza-1753643548.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "новини львів",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sun, 27 Jul 2025 18:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYq1qVuEk4DV_NzDbjAE80ncsh6prki97Fal-7dEdPV2X8q5kvicpCAl_1syI",
       "pictureSource": "Львівський портал",
@@ -164,16 +164,16 @@
           "source": "Львівський портал"
         },
         {
-          "title": "Повітряну тривогу на Львівщині скасували. Ракетної загрози зараз немає",
+          "title": "Новини Львів: Повітряну тривогу на Львівщині скасували. Ракетної загрози зараз немає",
           "snippet": "",
           "url": "https://dailylviv.com/news/sytuatsiyi-i-pryhody/povitryanu-tryvohu-na-lvivshchyni-skasuvaly-raketnoyi-zahrozy-zaraz-nemaie-139077",
           "source": "DailyLviv.com"
         },
         {
-          "title": "Поліція Львівщини опрацювала 1649 звернень за добу",
+          "title": "На Львівщині викликали поліцію 505 разів",
           "snippet": "",
-          "url": "https://golossokal.com.ua/ru/podii/politsiia-lvivshchyny-opratsiuvala-1649-zvernen-za-dobu.html",
-          "source": "Голос Сокальщини"
+          "url": "https://prozahid.com/na-lvivshchyni-vyklykaly-politsiiu-505-raziv/",
+          "source": "Про Захід"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,16 +192,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "Киев под ударом \"Шахедов\": число пострадавших растет, что известно о последствиях",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/kiyiv-pid-udarom-shahediv-p-yatero-postrazhdalih-1753660082.html",
+          "source": "РБК-Україна"
+        },
+        {
           "title": "В Киеве из-за атаки РФ повреждены дом и квартиры — фото",
           "snippet": "",
           "url": "https://kyiv.novyny.live/ru/u-kiievi-cherez-ataku-rf-poshkodzheno-budinok-ta-kvartiri-foto-270252.html",
           "source": "Новини Live"
-        },
-        {
-          "title": "В Киеве и Запорожье прогремели взрывы: новые группы \"Шахедов\" заходят в Украину",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/kievi-ta-zaporizhzhi-prolunali-vibuhi-ataka-1753651340.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,15 +210,9 @@
       "title": "черкаси",
       "trafficCount": "200+",
       "pubDate": "Sun, 27 Jul 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1tgZMIp88IDxPMl9pBUGrTOM_NIKyW1-pZxNI8rGEjppGT132m8jaIy4n-I",
-      "pictureSource": "Суспільне | Новини",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Rw4MOf87xH-MhJsxA-S4QpcqdGCk7EZ0bUl-1aNvVYJlF80Fq0zFgpRA2uo",
+      "pictureSource": "УНІАН",
       "relatedSearch": [
-        {
-          "title": "\"Ймовірно, цілили в Алею Героїв\": у Черкасах ракета влучила у цвинтар",
-          "snippet": "",
-          "url": "https://suspilne.media/cherkasy/1074323-jmovirno-cilili-v-aleu-geroiv-u-cerkasah-raketa-vlucila-u-cvintar/",
-          "source": "Суспільне | Новини"
-        },
         {
           "title": "Росіяни ударили по кількох обласних центрах: виникли пожежі, є постраждалі (фото, відео)",
           "snippet": "",
@@ -230,6 +224,12 @@
           "snippet": "",
           "url": "https://procherk.info/news/viyna/127625-chotiri-rosijski-bpla-zneshkodili-na-cherkaschini-pid-chas-zagrozi-z-povitrja",
           "source": "ПРОЧЕРК.інфо"
+        },
+        {
+          "title": "Понад 700 вибитих вікон і десятки пошкоджених могил: Черкаси відновлюються після ракетного удару",
+          "snippet": "",
+          "url": "https://zmi.ck.ua/cherkassy/ponad-700-vibitih-vkon-desyatki-poshkodjenih-mogil-cherkasi-vdnovlyuyutsya-pslya-raketnogo-udaru.html",
+          "source": "Zmi.ck.ua"
         }
       ],
       "link": "https://imtaqin.id/"
