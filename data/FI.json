@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-07-28 15:35:30",
+  "lastUpdate": "2025-07-28 15:46:09",
   "data": [
     {
       "title": "gnistan – hjk",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 28 Jul 2025 08:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFd917SDFB1T4npaXx16GtCpQHytHr6Xm8nF-8U_uGp5LrvZ8I2HXNMe8GjdM",
       "pictureSource": "Helsingin Uutiset",
@@ -33,18 +33,31 @@
       "title": "panu tuomi",
       "trafficCount": "500+",
       "pubDate": "Mon, 28 Jul 2025 07:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHd1yfIMK95aOncBTZWe7dCv8HBXYm2y0IRxZZ37Ls7MqZ0nHJnKO5apwaD_8",
+      "pictureSource": "mtvuutiset.fi",
+      "relatedSearch": [
+        {
+          "title": "Runoilija Panu Tuomi on kuollut",
+          "snippet": "",
+          "url": "https://www.mtvuutiset.fi/artikkeli/runoilija-panu-tuomi-on-kuollut/9195732",
+          "source": "mtvuutiset.fi"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ukkoset",
       "trafficCount": "20000+",
       "pubDate": "Mon, 28 Jul 2025 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTuvwrKkBk9gnxkQXZU1AZPHBp-ZuYq8y2b7f-cR40eN9iLRedCtRYOqZwl9U",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF2_09x3T6OJOAgRDEgTuROtV2Bte2cZAZPby1CcBP7lKHYBtMl9-uyOWuLj8",
+      "pictureSource": "Yle",
       "relatedSearch": [
+        {
+          "title": "Helteelle ei näy loppua – kuuma ja kostea sää aiheuttaa ukkosia ympäri maata",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20174721",
+          "source": "Yle"
+        },
         {
           "title": "Helle-ennätys taas rikki!",
           "snippet": "",
@@ -56,12 +69,6 @@
           "snippet": "",
           "url": "https://www.iltalehti.fi/saauutiset/a/e984b0f3-cd28-4c24-8933-6ca5e34a3972",
           "source": "Iltalehti"
-        },
-        {
-          "title": "Helteelle ei näy loppua – kuuma ja kostea sää aiheuttaa ukkosia ympäri maata",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20174721",
-          "source": "Yle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,20 +105,20 @@
       "title": "oulun ukkosmyrsky",
       "trafficCount": "200+",
       "pubDate": "Mon, 28 Jul 2025 05:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU91wGxwSP_0f0ryq_2BVpFEGYEd9IlLMJ5EKYdmfvBdE2B5tP6qKGmKxfxTM",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpzJP0auzGgQqNeo9PudF1RMoJjSjEAaW2tTkheBbOnNYxMA5NAyZVoLM9c88",
+      "pictureSource": "Kaleva",
       "relatedSearch": [
-        {
-          "title": "Hurja sadealue upottaa Suomea - Oulussa tulvaa ja ukkosta",
-          "snippet": "",
-          "url": "https://www.is.fi/oulun-seutu/art-2000011390182.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "Voimakas ukkonen iski Ouluun – katso lukijoiden kuvia ympäri Oulua",
           "snippet": "",
           "url": "https://www.kaleva.fi/voimakas-ukkonen-iski-ouluun-katso-lukijoiden-kuvi/11715814",
           "source": "Kaleva"
+        },
+        {
+          "title": "Hurja sadealue upottaa Suomea - Oulussa tulvaa ja ukkosta",
+          "snippet": "",
+          "url": "https://www.is.fi/oulun-seutu/art-2000011390182.html",
+          "source": "Ilta-Sanomat"
         },
         {
           "title": "Ukonilma sekoitti Oulun",
@@ -254,10 +261,10 @@
           "source": "Tamperelainen"
         },
         {
-          "title": "Helle-ennätys taas rikki!",
+          "title": "Helteelle ei näy loppua – kuuma ja kostea sää aiheuttaa ukkosia ympäri maata",
           "snippet": "",
-          "url": "https://www.is.fi/kotimaa/art-2000011390528.html",
-          "source": "Ilta-Sanomat"
+          "url": "https://yle.fi/a/74-20174721",
+          "source": "Yle"
         }
       ],
       "link": "https://imtaqin.id/"
