@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-07-29 15:42:10",
+  "lastUpdate": "2025-07-29 15:52:09",
   "data": [
     {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Mon, 28 Jul 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMi4IpyBC0noMR6C-8g4ucvhsmeqc_tCVYizJQ1DtbwYpwTjG5EBL82MO6ZGI",
-      "pictureSource": "KIMT",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6teu2Kb6VoxDefeLBvi0sCPHST-a9PrvQa-0s5s2WYsoWXFLMWwU-gdLLV20",
+      "pictureSource": "WISN",
       "relatedSearch": [
+        {
+          "title": "Mid 80s and Shower Chances for SE Wisconsin",
+          "snippet": "",
+          "url": "https://www.wisn.com/article/tuesday-mid-80s-and-shower-chances-for-se-wisconsin/65538149",
+          "source": "WISN"
+        },
         {
           "title": "StormTrack 3: Low-end severe threat Tuesday, much calmer for rest of week",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.kxly.com/video/a-look-at-rain-and-storm-chances-day-by-day/video_5c798926-909d-51b5-88bb-0d8aafa962ce.html",
           "source": "KXLY.com"
-        },
-        {
-          "title": "Mid 80s and Shower Chances for SE Wisconsin",
-          "snippet": "",
-          "url": "https://www.wisn.com/article/tuesday-mid-80s-and-shower-chances-for-se-wisconsin/65538149",
-          "source": "WISN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,20 +33,20 @@
       "title": "weather tomorrow",
       "trafficCount": "1000+",
       "pubDate": "Mon, 28 Jul 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThzJbJD_IzIj_wDsz7NH2ggLMJs4lXI4WnN-2bqEbeX7-yLIkFexukZjGUWKM",
-      "pictureSource": "NBC News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiXluaoy_PzodV8NVzZeXNTUyvbjqmZOAg3QOjBmCp6AGD1zXTg55wwykqm9Y",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
-        {
-          "title": "100-degree temps scorch large swaths of U.S.; over 150 million people under heat alerts",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/weather/heat/100-degree-temps-scorch-large-swaths-us-150-million-people-heat-alerts-rcna221678",
-          "source": "NBC News"
-        },
         {
           "title": "Extreme Heat Persists in the Southeast",
           "snippet": "",
           "url": "https://www.nytimes.com/2025/07/28/weather/heat-wave-georgia-florida-carolina-us-forecast.html",
           "source": "The New York Times"
+        },
+        {
+          "title": "100-degree temps scorch large swaths of U.S.; over 150 million people under heat alerts",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/weather/heat/100-degree-temps-scorch-large-swaths-us-150-million-people-heat-alerts-rcna221678",
+          "source": "NBC News"
         },
         {
           "title": "Eastern US swelters from heatwave as high temperatures affect half of country",
