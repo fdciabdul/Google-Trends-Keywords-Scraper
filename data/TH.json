@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-07-29 10:10:12",
+  "lastUpdate": "2025-07-29 10:22:25",
   "data": [
-    {
-      "title": "אלון אבוטבול",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 29 Jul 2025 01:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0RcWY6V9BZhPghGPE6PkNhyFbBP3RZ4eL31BzvhWWZ6Z_SLetKPe2sWQwPAg",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "אלון אבוטבול, מגדולי השחקנים בישראל, הלך לעולמו בגיל 60",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/entertainment/article/b1hupklwxe",
-          "source": "ynet"
-        },
-        {
-          "title": "הלם בעולם התרבות: שחקן מוכר וידוע מאוד בן 60 התמוטט בחוף הבונים ומותו נקבע לאחר נסיונות החייאה",
-          "snippet": "",
-          "url": "https://newzim.co.il/zafon/?p=68266",
-          "source": "ניוזים"
-        },
-        {
-          "title": "חדשות היום, 29 ביולי",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/dailynews/2025-07-29/ty-article-live/00000198-52f3-d669-a99d-7ef7ddd30000",
-          "source": "הארץ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "มัมลาโคนิค",
       "trafficCount": "1000+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://mgronline.com/entertainment/detail/9680000071630",
           "source": "ผู้จัดการออนไลน์"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "אלון אבוטבול",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 29 Jul 2025 01:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0RcWY6V9BZhPghGPE6PkNhyFbBP3RZ4eL31BzvhWWZ6Z_SLetKPe2sWQwPAg",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "אלון אבוטבול, מגדולי השחקנים בישראל, הלך לעולמו בגיל 60",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/entertainment/article/b1hupklwxe",
+          "source": "ynet"
+        },
+        {
+          "title": "הלם בעולם התרבות: שחקן מוכר וידוע מאוד בן 60 התמוטט בחוף הבונים ומותו נקבע לאחר נסיונות החייאה",
+          "snippet": "",
+          "url": "https://newzim.co.il/zafon/?p=68266",
+          "source": "ניוזים"
+        },
+        {
+          "title": "השחקן אלון אבוטבול מת בגיל 60",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/gallery/cinema/2025-07-29/ty-article/.premium/00000198-54e4-dae7-abbb-ddf43e0c0000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +117,20 @@
       "title": "พระวิหาร",
       "trafficCount": "5000+",
       "pubDate": "Tue, 29 Jul 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9bdna_Z00BZrGtMnRsu8oZZAupE9iJ5fhoxFcg0IMqHrdto18QN1VOFgGELQ",
-      "pictureSource": "ThaiPost",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyec5Yc0oV9kf_-8nMPZ_wlBsZxLBS2MxcqQaz_0ZCW_P1j20cd7Y7xJFwuo4",
+      "pictureSource": "Thairath",
       "relatedSearch": [
-        {
-          "title": "รอบดึกเดือด! F-16 ไทยถล่มแนวปืนใหญ่เขมร ตัดเส้นส่งกำลัง ‘ปราสาทตาควาย’",
-          "snippet": "",
-          "url": "https://www.thaipost.net/hi-light/832893/",
-          "source": "ThaiPost"
-        },
         {
           "title": "กองทัพอากาศ แจง F-16 กริพเพน ขึ้นปฏิบัติการ โจมตีศูนย์การรบของกัมพูชา ทำลายคลังอาวุธ",
           "snippet": "",
           "url": "https://www.thairath.co.th/news/local/northeast/2873376",
           "source": "Thairath"
+        },
+        {
+          "title": "รอบดึกเดือด! F-16 ไทยถล่มแนวปืนใหญ่เขมร ตัดเส้นส่งกำลัง ‘ปราสาทตาควาย’",
+          "snippet": "",
+          "url": "https://www.thaipost.net/hi-light/832893/",
+          "source": "ThaiPost"
         },
         {
           "title": "“อ๋อม สกาวใจ” เรียกร้องรัฐบาลแถลงสื่อสารกับคนในชาติ เหตุปะทะชายแดนไทย-กัมพูชา เชื่อทุกเวลา ปชช.ก็รอฟัง",
@@ -211,44 +211,16 @@
           "source": "BBC"
         },
         {
-          "title": "Thai, Cambodian generals agree to halt strikes, reinforcement until Monday",
+          "title": "Thai govt tells the world Cambodia broke ceasefire agreement",
           "snippet": "",
-          "url": "https://www.bangkokpost.com/thailand/general/3077582/thai-cambodian-generals-agree-to-halt-strikes-reinforcement-until-monday",
+          "url": "https://www.bangkokpost.com/thailand/general/3077640/thai-govt-tells-the-world-cambodia-broke-ceasefire-agreement",
           "source": "Bangkok Post"
         },
         {
-          "title": "Thailand seeks to ease fears amid shaky ceasefire deal with Cambodia",
+          "title": "‘Like my other half’: man mourns wife and children killed buying snacks amid Thailand-Cambodia clashes",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/jul/29/thailand-cambodia-ceasefire",
+          "url": "https://www.theguardian.com/world/2025/jul/27/woman-and-children-killed-sisaket-thailand-cambodia-border-dispute",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "นายพลจัตวา",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 28 Jul 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Lj117A5w4lpR9fRo_FVLc9q-Y5yxYCTERNgZ5pitvIwSf6wuiWKVopLjSGE",
-      "pictureSource": "ผู้จัดการออนไลน์",
-      "relatedSearch": [
-        {
-          "title": "\"เรวัช\" เตือนอย่าประมาท \"นายพลมัมมี่\" คาดเป็นทหารเขมรแดงเก่า ชำนาญในพื้นที่รบ",
-          "snippet": "",
-          "url": "https://mgronline.com/crime/detail/9680000071046",
-          "source": "ผู้จัดการออนไลน์"
-        },
-        {
-          "title": "ชาวเน็ตแชร์สนั่น หลัง ฮุน เซน ส่ง นายพลจัตวา วัย 89 ปี ลงสนาม | News In Thailand",
-          "snippet": "",
-          "url": "https://today.line.me/th/v3/article/60la9m6",
-          "source": "LINE TODAY"
-        },
-        {
-          "title": "นายพลจัตวากัมพูชา ไวรัลถามสนั่น \"ฮุน เซน\" ส่งรบวัย 89 เรวัช อัดคลิปเฉลย",
-          "snippet": "",
-          "url": "https://thethaiger.com/th/news/1434379/",
-          "source": "Thaiger"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,14 +229,14 @@
       "title": "มาลี",
       "trafficCount": "500+",
       "pubDate": "Mon, 28 Jul 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-z9XHoSysftepOuIigkI36FlvMR8NiXWCf0zDe1gHiPgqS6Fsqp7_F_qEmCE",
-      "pictureSource": "Thairath",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqTQgxU7yUceUVMnJEGdbM0XNyfxfeVc9UZAEFLoEgzDcUkHyDrEoeZahPJdU",
+      "pictureSource": "Thai PBS",
       "relatedSearch": [
         {
-          "title": "มาลี โสเจียตา รู้จักคีย์แมนสำคัญ โฆษกกลาโหมกัมพูชา",
+          "title": "กองทัพไทยซัดกัมพูชา \"มาลี\" โฆษกกลาโหมสร้างภาพลวงโลก",
           "snippet": "",
-          "url": "https://www.thairath.co.th/scoop/theissue/2873270",
-          "source": "Thairath"
+          "url": "https://www.thaipbs.or.th/news/content/354788",
+          "source": "Thai PBS"
         },
         {
           "title": "'พันเอกหญิงไทย' ถล่ม 'พลโทหญิงเขมร' สร้างภาพลวงโลก หลอกตัวเอง หยุดยิงไม่จริง กระทุ้งประชาคมโลก อย่าหลงเชื่อ",
@@ -273,10 +245,38 @@
           "source": "ThaiPost"
         },
         {
-          "title": "'กองทัพไทย'ซัดเดือด'พลโทหญิงมาลี'ลวงโลก 'กัมพูชา'ยังยิงเข้ามาฝั่งไทยหลังเดดไลน์หยุดยิง",
+          "title": "ข่าวปลอมรุมเร้า ไทยตอบโต้เดือด !",
           "snippet": "",
-          "url": "https://www.naewna.com/politic/902771",
-          "source": "แนวหน้า"
+          "url": "https://www.ch7.com/sports/817733",
+          "source": "Ch7"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "เที่ยงวันทันเหตุการณ์",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 28 Jul 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRee8E0O_91iB-xDuSrQk1I3Set1sZtRFEO-xDGzGTqk8QZhokQhXsEov8VTF8",
+      "pictureSource": "ช่อง3",
+      "relatedSearch": [
+        {
+          "title": "คลิปเต็มรายการเที่ยงวันทันเหตุการณ์ 29 กรกฎาคม 2568",
+          "snippet": "",
+          "url": "https://ch3plus.com/news/fullprogram/middaynews/444698",
+          "source": "ช่อง3"
+        },
+        {
+          "title": "คลิปเต็มรายการเที่ยงวันทันเหตุการณ์ 22 กรกฎาคม 2568",
+          "snippet": "",
+          "url": "https://ch3plus.com/news/news/category/444243",
+          "source": "ช่อง3"
+        },
+        {
+          "title": "คลิปเต็มรายการเที่ยงวันทันเหตุการณ์ 28 กรกฎาคม 2568",
+          "snippet": "",
+          "url": "https://ch3plus.com/news/fullprogram/middaynews/444628",
+          "source": "ช่อง3"
         }
       ],
       "link": "https://imtaqin.id/"
