@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-07-30 07:13:04",
+  "lastUpdate": "2025-07-30 07:26:49",
   "data": [
     {
-      "title": "cnn",
+      "title": "earthquake",
       "trafficCount": "100+",
+      "pubDate": "Wed, 30 Jul 2025 00:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Y3eF-THsba4tnRSbN2w2lP4Wsa87UxPMUCYqzA2MNxnlUFUfLCu8zho7EyU",
+      "pictureSource": "Hawaii News Now",
+      "relatedSearch": [
+        {
+          "title": "LIVE: Tsunami warning issued for Hawaii after M8.8 earthquake off Russia",
+          "snippet": "",
+          "url": "https://www.hawaiinewsnow.com/2025/07/29/tsunami-watch-issued-hawaii-after-m8-earthquake-off-russia/",
+          "source": "Hawaii News Now"
+        },
+        {
+          "title": "Tsunami waves reach Hawaii after huge quake rattles Russia's Far East",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/environment/tsunami-waves-reach-hawaii-after-huge-quake-rattles-russias-far-east-2025-07-30/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Map of California tsunami hazard zones: Look up your address",
+          "snippet": "",
+          "url": "https://www.sfchronicle.com/california/article/map-california-tsunami-hazard-zones-look-address-20792884.php",
+          "source": "San Francisco Chronicle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "200+",
       "pubDate": "Tue, 29 Jul 2025 22:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGPIUnfUyuwP7X_3ZfBB6B1Ku7hc5-m1z_l_sQrTa09H-NOHk7GiRwGRx6xXI",
       "pictureSource": "Daily Mail",
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://glasjuga.rs/oluja-primorala-avion-iz-nisa-da-leti-preko-tri-drzave-do-beograda/",
           "source": "Glas Juga"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "telegraf",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 29 Jul 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE_nGOU1GZg58lI9Zgg-dyS6A-WggF7EMCNMK1AZ2IOIFaPt_I8-Za7skFDaQ",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "TALASI UDARAJU U OBALU, VODA GUTA SVE Prvi snimci cunamija posle razornog zemljotresa u Rusiji (VIDEO)",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/prvi-snimci-cunamija-posle-razornog-zemljotresa-u-rusiji-voda-guta-sve-video/4d4wkhm",
-          "source": "Blic"
-        },
-        {
-          "title": "Јак земљотрес 8,8 степени у Русији изазвао цунами, Јапан и Хаваји наредили евакуацију",
-          "snippet": "",
-          "url": "https://rts.rs/vesti/svet/5760494/jak-zemljotres-88-stepeni-u-rusiji-izazvao-cunami-japan-i-havaji-naredili-evakuaciju.html",
-          "source": "Радио Телевизија Србије"
-        },
-        {
-          "title": "Zemljotres jačine 8,7 stepeni pogodio rusku obalu: Cunami visine do 4 metra na Kamčatki, Japan naredio evakuacije",
-          "snippet": "",
-          "url": "https://nova.rs/vesti/svet/zemljotres-87-stepeni-pogodio-rusiju-cunami-visine-4m-u-kamcatki/",
-          "source": "Nova"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Blic"
         },
         {
-          "title": "Milan Vasić dobio sina u 46. godini. čestitke pljušte: \"Despote, dobro došao i radost doneo\"",
-          "snippet": "",
-          "url": "https://www.blic.rs/zabava/milan-vasic-dobio-sina-u-46-godini-cestitke-pljuste-despote-dobro-dosao-i-radost/yf0mv12",
-          "source": "Blic"
-        },
-        {
           "title": "Porodila se žena Milana Vasića: Glumac se oglasio i otkrio pol i ime bebe FOTO",
           "snippet": "",
           "url": "https://nova.rs/zabava/showbiz/porodila-se-zena-milana-vasica/",
           "source": "Nova"
+        },
+        {
+          "title": "Oglasio se kum Milana Vasića: Milan Kalinić prvi saznao, otkrio kako će i gde da slave prinovu",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4153977-oglasio-se-kum-milana-vasica-milan-kalinic-prvi-saznao-otkrio-kako-ce-i-gde-da-slave-prinovu",
+          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -261,7 +261,7 @@
       "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Marija Mikić operisana u Turskoj, a njen bivši fotošopirao struk i ISKRIVIO WC ŠOLJU - Mreže gore nakon njegove objave i nema ko nije šokiran: \"Au, šta ti se desilo?\"",
+          "title": "Marija Mikić operisana u Turskoj, a njen bivši se slika polu go i fotošopira slike",
           "snippet": "",
           "url": "https://www.blic.rs/zabava/marija-mikic-operisana-u-turskoj-a-njen-bivsi-se-slika-polu-go-i-fotosopira-slike/lwqc1y3",
           "source": "Blic"
