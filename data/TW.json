@@ -1,36 +1,26 @@
 {
-  "lastUpdate": "2025-07-30 04:46:46",
+  "lastUpdate": "2025-07-30 05:02:12",
   "data": [
     {
-      "title": "南投淹水",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 29 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJc0u7BiOSe9eH3DAV7lEcTO-31SF9ULVD2mBhhdhC0_J1N3K2icPQ-zv3R4",
-      "pictureSource": "Newtalk新聞",
-      "relatedSearch": [
-        {
-          "title": "不斷更新》南投信義鄉上午9:30起停班停課！7/30最新停班停課一覽| 生活",
-          "snippet": "",
-          "url": "https://newtalk.tw/news/view/2025-07-30/984721",
-          "source": "Newtalk新聞"
-        },
-        {
-          "title": "中南部豪雨通報273處災情 南投市積淹水達車輛輪胎高 ｜ 公視新聞網 PNN",
-          "snippet": "",
-          "url": "https://news.pts.org.tw/article/763182",
-          "source": "公視新聞網PNN"
-        },
-        {
-          "title": "影／南投豪雨夜襲 竹山電桿倒、南投市貓羅溪泛濫汽機車泡水",
-          "snippet": "",
-          "url": "https://udn.com/news/story/124561/8905774",
-          "source": "聯合新聞網"
-        }
-      ],
+      "title": "朱松偉",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 29 Jul 2025 21:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "經濟部",
+      "title": "華新",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 29 Jul 2025 21:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "郭智輝",
       "trafficCount": "500+",
       "pubDate": "Tue, 29 Jul 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1we4Bv6eIfNu4UoluxEujtDXppcEweV_eVodUXZE0gP0y9vX1yYzGqO2Ko3o",
@@ -58,29 +48,85 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "警報",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 29 Jul 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdGAB9h1NA6zU8WBzcYJNzeO1A8G7XE3oBYVmIMy0TQj1m5ktGSRc9zgx6XjY",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "津波 全国90万人超に避難指示",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/pickup/6547364",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【太平洋側中心に津波警報発表】各地の自治体の対応は",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/news/html/20250730/k10014878701000.html",
+          "source": "NHK"
+        },
+        {
+          "title": "無線響き、高台へ渋滞 夏休みの観光地混乱",
+          "snippet": "",
+          "url": "https://www.sponichi.co.jp/society/news/2025/07/30/kiji/20250730s00042000185000c.html",
+          "source": "スポニチ Sponichi Annex"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "南投",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 29 Jul 2025 20:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJc0u7BiOSe9eH3DAV7lEcTO-31SF9ULVD2mBhhdhC0_J1N3K2icPQ-zv3R4",
+      "pictureSource": "Newtalk新聞",
+      "relatedSearch": [
+        {
+          "title": "不斷更新》南投信義鄉上午9:30起停班停課！7/30最新停班停課一覽| 生活",
+          "snippet": "",
+          "url": "https://newtalk.tw/news/view/2025-07-30/984721",
+          "source": "Newtalk新聞"
+        },
+        {
+          "title": "中南部豪雨通報273處災情 南投市積淹水達車輛輪胎高 ｜ 公視新聞網 PNN",
+          "snippet": "",
+          "url": "https://news.pts.org.tw/article/763182",
+          "source": "公視新聞網PNN"
+        },
+        {
+          "title": "南投暴雨狂襲！駕訓班淹成小湖 排水溝與道路已分不清",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E6%9A%B4%E9%9B%A8%E7%8B%82%E8%A5%B2-%E9%A7%95%E8%A8%93%E7%8F%AD%E6%B7%B9%E6%88%90%E5%B0%8F%E6%B9%96-%E6%8E%92%E6%B0%B4%E6%BA%9D%E8%88%87%E9%81%93%E8%B7%AF%E5%B7%B2%E5%88%86%E4%B8%8D%E6%B8%85-041545934.html",
+          "source": "奇摩新聞"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "亞歷山大·茲維列夫",
       "trafficCount": "200+",
       "pubDate": "Tue, 29 Jul 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZHNN2y3VWR1gnz4yVbvcs03K5pqfTF63bbJHxncmPsS7nB3-eP0IUDUuhb_c",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0IciXKbl8V0-Xn6OdCCHtWOdqHLJD4YiFqlhJI0IakPKnvN_yO22vknP1Ak",
+      "pictureSource": "ATP Tour",
       "relatedSearch": [
         {
-          "title": "Top seeds Zverev, Gauff advance at Canadian Open",
+          "title": "Hot Shot: Zverev survives lung-busting 52-shot rally to earn set point in Toronto 2025",
           "snippet": "",
-          "url": "https://www.reuters.com/sports/tennis/top-seeds-zverev-gauff-advance-canadian-open-2025-07-30/",
-          "source": "Reuters"
+          "url": "https://www.atptour.com/en/video/hot-shot-zverev-survives-lung-busting-52-shot-rally-to-earn-set-point-in-toronto-2025",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "ATP Toronto Day 3 Predictions Including Alexander Zverev vs Adam Walton",
+          "snippet": "",
+          "url": "https://lastwordonsports.com/tennis/2025/07/28/atp-toronto-day-3-predictions-zverev-walton/",
+          "source": "Last Word On Sports"
         },
         {
           "title": "Top seed Alexander Zverev of Germany celebrates a victory over Australian Adam Walton to reach the third round of the ATP Canadian Open",
           "snippet": "",
           "url": "https://www.yoursun.com/apgstate/top-seed-alexander-zverev-of-germany-celebrates-a-victory-over-australian-adam-walton-to-reach/image_31f6bda3-6f53-54b0-a7ba-985bced8a80b.html",
           "source": "yoursun.com"
-        },
-        {
-          "title": "Zverev, Musetti and Rune win opening matches at National Bank Open",
-          "snippet": "",
-          "url": "https://www.galvnews.com/news_ap/sports/zverev-musetti-and-rune-win-opening-matches-at-national-bank-open/article_e70217fd-2aa1-54cc-bd5c-199955c33a49.html?block_id=531919",
-          "source": "Galveston County Daily News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,34 +169,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "1301",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 29 Jul 2025 19:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRgamm868UgZaOscWHW-y6pee8rWzKwGS8vnfCOgbDH9swutUFy7gAxqNmJJ8",
-      "pictureSource": "奇摩股市",
-      "relatedSearch": [
-        {
-          "title": "台股持續走強！居家、塑膠股強勢勁揚 台塑最高漲破7%",
-          "snippet": "",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%8C%81%E7%BA%8C%E8%B5%B0%E5%BC%B7-%E5%B1%85%E5%AE%B6-%E5%A1%91%E8%86%A0%E8%82%A1%E5%BC%B7%E5%8B%A2%E5%8B%81%E6%8F%9A-%E5%8F%B0%E5%A1%91%E6%9C%80%E9%AB%98%E6%BC%B2%E7%A0%B47-023200904.html",
-          "source": "奇摩股市"
-        },
-        {
-          "title": "科技維新 台塑四寶都動了",
-          "snippet": "",
-          "url": "https://money.udn.com/money/story/10871/8900258",
-          "source": "經濟日報"
-        },
-        {
-          "title": "【數報】盤中快報:1326(台化)股價漲停鎖定在29.60元，委託買量14480張。",
-          "snippet": "",
-          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=187622030&PU=0011",
-          "source": "富聯網"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "台塑",
       "trafficCount": "5000+",
       "pubDate": "Tue, 29 Jul 2025 19:10:00 -0700",
@@ -164,83 +182,27 @@
           "source": "奇摩股市"
         },
         {
+          "title": "〈焦點股〉台塑四寶翻身變飆股 南亞飆成注意股 帶動三寶聚頂齊漲停",
+          "snippet": "",
+          "url": "https://news.cnyes.com/news/id/6082302",
+          "source": "鉅亨網"
+        },
+        {
           "title": "台塑亮燈！4寶領軍護大盤傳產齊衝　盤中漲逾240點",
           "snippet": "",
           "url": "https://finance.ettoday.net/news/3005725",
           "source": "ETtoday財經雲"
-        },
-        {
-          "title": "南亞短線飆4成藏什麼利多？ 法人也罕見喊買目標價喊上這數字- 證券",
-          "snippet": "",
-          "url": "https://www.ctee.com.tw/news/20250729700681-430201",
-          "source": "工商時報"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "祝緒丹",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 29 Jul 2025 19:10:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tsunami",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 29 Jul 2025 18:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTowIsJ9TBDs7pFZFBi8OPOdraPNKvQjqvzIrDQ0ABJ6t6vsUHSDdQSzhn2LL4",
-      "pictureSource": "ABC News",
-      "relatedSearch": [
-        {
-          "title": "Tsunami evacuations in Hawaii after 8.8 earthquake near Russia; alerts for West Coast",
-          "snippet": "",
-          "url": "https://abcnews.go.com/US/tsunami-watch-issued-hawaii-after-80-magnitude-earthquake/story?id=124190121",
-          "source": "ABC News"
-        },
-        {
-          "title": "Taiwan issues tsunami alert after magnitude 8.7 quake strikes off Russia's coast",
-          "snippet": "",
-          "url": "https://focustaiwan.tw/society/202507300005",
-          "source": "Focus Taiwan"
-        },
-        {
-          "title": "Evacuations in Japan and US as major earthquake off Russia triggers widespread tsunami warnings",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c3r4x9yrrg4t",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nhk",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 29 Jul 2025 18:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIkUVQNkbKlSuNyhfk7WYX7Eh1ADkA-lfH7b1eyME7qCra-6FqZXG034A8_Gg",
-      "pictureSource": "中日新聞Web",
-      "relatedSearch": [
-        {
-          "title": "博多大吉、生放送で芸人をガチ注意「ちょっとあの…」鈴木アナも「NHKなので…」と”追撃”、本人は「アナがイヤな言い方ですね～」と反撃見せる",
-          "snippet": "",
-          "url": "https://www.chunichi.co.jp/article/1107861?rct=entertainment",
-          "source": "中日新聞Web"
-        },
-        {
-          "title": "NHK朝の人気情報番組『あさイチ』に富山のご当地回転ずしが登場！7月30日8:15〜9:55放送。",
-          "snippet": "",
-          "url": "https://toyamadays.com/archives/47289414.html",
-          "source": "とやま速報"
-        },
-        {
-          "title": "博多大吉「そろそろNHKを意識していただいて。あまり店名は…」",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/sanspo/entertainment/sanspo-_entertainment_geino_BBM54YD4PNEUVBOJWDQYW4HLPU",
-          "source": "ｄメニューニュース"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
