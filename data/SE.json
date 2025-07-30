@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2025-07-30 08:08:50",
+  "lastUpdate": "2025-07-30 08:21:42",
   "data": [
     {
-      "title": "hawaii",
+      "title": "jordbävning",
       "trafficCount": "2000+",
-      "pubDate": "Tue, 29 Jul 2025 21:10:00 -0700",
+      "pubDate": "Tue, 29 Jul 2025 22:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ7i3XnQvpUOaNhrRNdr6nZqUluMbyE6mOw_n7z-O-XHcM-w6zXTr39E2TFRo",
       "pictureSource": "SVT Nyheter",
       "relatedSearch": [
@@ -15,16 +15,16 @@
           "source": "SVT Nyheter"
         },
         {
-          "title": "Tsunamivågor framme vid Hawaii – faran inte över",
+          "title": "”Tsunamivågorna rör sig lika snabbt som ett flygplan”",
           "snippet": "",
-          "url": "https://omni.se/tsunamivagor-framme-vid-hawai-faran-inte-over/a/5E5QGz",
-          "source": "Omni"
+          "url": "https://www.aftonbladet.se/nyheter/a/mPqnRq/expert-om-tsunamivagorna-ror-sig-lika-snabbt-som-ett-flygplan",
+          "source": "Aftonbladet"
         },
         {
-          "title": "Svenskar flyr tsunamin på Hawaii: ”Folk får panik”",
+          "title": "”Kan bli stor skada i kustnära orter”",
           "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/a/bmVwbd/kajsa-28-flyr-tsunamin-pa-hawaii-folk-far-panik",
-          "source": "Aftonbladet"
+          "url": "https://www.svd.se/a/0V1zRB/jordbavningen-i-stilla-havet-expert-kan-bli-stora-skador",
+          "source": "SvD"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -159,27 +159,55 @@
     },
     {
       "title": "tsunami",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Tue, 29 Jul 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyiPWnLERegIi6eLwd4KTsBVLbiHzWYushwMV_7yBbuuSaT1wQWCCA63XQrY4",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWYtEUb3vPlo96wp48CorPKuB0QXTq983gPeYTxfS0O_RH38HpNnQSvuqW6_g",
+      "pictureSource": "Los Angeles Times",
       "relatedSearch": [
         {
-          "title": "Watch: Major earthquake off Russia triggers widespread tsunami warnings",
+          "title": "California coast under tsunami alert; North Coast upgraded to highest warning",
           "snippet": "",
-          "url": "https://www.bbc.com/news/videos/cwy01l5kgxno",
-          "source": "BBC"
-        },
-        {
-          "title": "Hawaii gauge records ‘4 foot amplitude’",
-          "snippet": "",
-          "url": "https://www.news.com.au/travel/travel-updates/incidents/hawaiians-brace-for-wraparound-tsunami-waves-after-russia-earthquake/news-story/aff52e7d88aaff41f908fce13fadfc31",
-          "source": "News.com.au"
+          "url": "https://www.latimes.com/california/story/2025-07-29/tsunami-warning-issued-california-coast-massive-russian-earthquake",
+          "source": "Los Angeles Times"
         },
         {
           "title": "Tsunami warnings - latest: Japan, Hawaii and Alaska on alert after powerful 8.8-magnitude earthquake off Russia's Far East coast",
           "snippet": "",
           "url": "https://news.sky.com/story/tsunami-warnings-latest-japan-hawaii-and-alaska-on-alert-after-powerful-8-8-magnitude-earthquake-off-russias-far-east-coast-13403800",
+          "source": "Sky News"
+        },
+        {
+          "title": "LIVE: Tsunami alert for US, Russia, Japan after 8.8 quake off Russia’s east",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/7/30/live-tsunami-warning-after-magnitude-8-6-earthquake-off-russian-east-coast",
+          "source": "Al Jazeera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cnn",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 29 Jul 2025 19:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0Y6ZOfTsT7eUYMe8pFfpLQk1z7ie60vk3CucDtODIQxYNgkmRbSJBVFKsU_s",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Trump says Epstein ‘stole’ Virginia Giuffre from Mar-a-Lago staff role | Donald Trump",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/jul/29/trump-epstein-virginia-giuffre",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Trump says Epstein 'stole' young women from his Mar-a-Lago spa",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cyvn7ee3539o",
+          "source": "BBC"
+        },
+        {
+          "title": "Trump claims Epstein 'stole' Prince Andrew accuser Virginia Giuffre from his Mar-a-Lago resort",
+          "snippet": "",
+          "url": "https://news.sky.com/story/trump-claims-epstein-stole-prince-andrew-accuser-virginia-giuffre-from-his-mar-a-lago-resort-13403791",
           "source": "Sky News"
         }
       ],
@@ -209,34 +237,6 @@
           "snippet": "",
           "url": "https://omni.se/carolina-gynning-at-sin-kanin-stampe-till-middag/a/rPqOBw",
           "source": "Omni"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "virginia giuffre",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 29 Jul 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0Y6ZOfTsT7eUYMe8pFfpLQk1z7ie60vk3CucDtODIQxYNgkmRbSJBVFKsU_s",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Trump says Epstein ‘stole’ Virginia Giuffre from Mar-a-Lago staff role | Donald Trump",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2025/jul/29/trump-epstein-virginia-giuffre",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Trump says Epstein 'stole' young women from his Mar-a-Lago spa",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cyvn7ee3539o",
-          "source": "BBC"
-        },
-        {
-          "title": "Trump claims Epstein 'stole' Prince Andrew accuser Virginia Giuffre from his Mar-a-Lago resort",
-          "snippet": "",
-          "url": "https://news.sky.com/story/trump-claims-epstein-stole-prince-andrew-accuser-virginia-giuffre-from-his-mar-a-lago-resort-13403791",
-          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
