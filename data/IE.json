@@ -1,37 +1,59 @@
 {
-  "lastUpdate": "2025-07-30 07:26:36",
+  "lastUpdate": "2025-07-30 07:39:14",
   "data": [
     {
-      "title": "news",
+      "title": "the guardian",
       "trafficCount": "200+",
-      "pubDate": "Tue, 29 Jul 2025 23:30:00 -0700",
-      "picture": "",
-      "pictureSource": "The White House (.gov)",
+      "pubDate": "Tue, 29 Jul 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0SdDwuuTH9czKqUUeiLeM8P2tDWJO_pnL6dsUakkt0U6xqxurcrfSotrV9l0",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "WHAT THEY ARE SAYING: Landmark U.S.-EU Trade Deal Is Another Big Win for Americans",
+          "title": "An effigy of refugees, burned by a crowd: this is where Europe’s brutal fantasy of border control has led us",
           "snippet": "",
-          "url": "https://www.whitehouse.gov/articles/2025/07/what-they-are-saying-landmark-u-s-eu-trade-deal-is-another-big-win-for-americans/",
-          "source": "The White House (.gov)"
+          "url": "https://www.theguardian.com/commentisfree/2025/jul/30/europe-refugees-border-control-militarise-human-northern-ireland",
+          "source": "The Guardian"
         },
         {
-          "title": "US confirms 15% tariff for EU includes pharmaceuticals and semiconductors",
+          "title": "Sarah Jessica Parker in possible conflict of interest over Booker longlisted author",
           "snippet": "",
-          "url": "https://www.rte.ie/news/business/2025/0729/1525825-trade-forum-meeting/",
+          "url": "https://www.theguardian.com/books/2025/jul/29/sarah-jessica-parker-booker-longlist-conflict-interest",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "news headlines",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 29 Jul 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzsXEZhG8mMGwI16Er2Ev-9oaPeUxcmX38N1r9YzAVx_IlRem5Ic9y58eGjUc",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "'Weak' Wiffen survives Singapore scare to make final",
+          "snippet": "",
+          "url": "https://www.rte.ie/sport/swimming/2025/0729/1525850-world-aquatics-championships/",
           "source": "RTE.ie"
         },
         {
-          "title": "Denis Staunton: Ursula von der Leyen stooped to conquer with the EU-US trade deal",
+          "title": "Daniel Wiffen narrowly qualifies for 800m freestyle final at World Championships",
           "snippet": "",
-          "url": "https://www.irishtimes.com/opinion/2025/07/28/denis-staunton-ursula-von-der-leyen-stooped-to-conquer-with-the-eu-us-trade-deal/",
+          "url": "https://www.irishtimes.com/sport/2025/07/29/daniel-wiffen-narrowly-qualifies-for-800m-freestyle-final-at-world-championships/",
           "source": "The Irish Times"
+        },
+        {
+          "title": "World Aquatics Championships LIVE: Follow live radio coverage of the World Aquatics Championships in Singapore",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/swimming/live/czjkl3vkv8kt",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cnn news",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 29 Jul 2025 22:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUFFkDes_eRURduWvkqW7egwdlW7Bb8o35kGyLQaskoEj8Fm4opn74FDbzxPI",
       "pictureSource": "RTE.ie",
@@ -53,28 +75,6 @@
           "snippet": "",
           "url": "https://apnews.com/article/victims-office-shooting-new-york-nfl-2869b5bb31e6480dc2c20175d270ad88",
           "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "the guardian",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 29 Jul 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0SdDwuuTH9czKqUUeiLeM8P2tDWJO_pnL6dsUakkt0U6xqxurcrfSotrV9l0",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "An effigy of refugees, burned by a crowd: this is where Europe’s brutal fantasy of border control has led us",
-          "snippet": "",
-          "url": "https://www.theguardian.com/commentisfree/2025/jul/30/europe-refugees-border-control-militarise-human-northern-ireland",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Sarah Jessica Parker in possible conflict of interest over Booker longlisted author",
-          "snippet": "",
-          "url": "https://www.theguardian.com/books/2025/jul/29/sarah-jessica-parker-booker-longlist-conflict-interest",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,7 +137,7 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 29 Jul 2025 21:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0Y6ZOfTsT7eUYMe8pFfpLQk1z7ie60vk3CucDtODIQxYNgkmRbSJBVFKsU_s",
       "pictureSource": "The Guardian",
@@ -167,26 +167,26 @@
       "title": "sky news",
       "trafficCount": "2000+",
       "pubDate": "Tue, 29 Jul 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYzQC7VpEiDObaCxBIji2Q3BFYrOfNp5mCajRZgQn9CsrinV8F4obvayr_Hb8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf7t22jxshjt9hPDKs5lNu4DHG-rUiJJ5toMCxcoeMo_p0AMnxAS86cHWuSS4",
       "pictureSource": "Sky News",
       "relatedSearch": [
         {
-          "title": "'Simmering' division in town where hotel for asylum seekers is beacon for unrest",
+          "title": "Money blog: Happiest places to retire in Britain listed - and first place isn't on the coast",
           "snippet": "",
-          "url": "https://news.sky.com/story/simmering-division-in-town-where-hotel-for-asylum-seekers-is-beacon-for-unrest-13403750",
+          "url": "https://news.sky.com/story/money-latest-consumer-personal-finance-sky-news-13040934",
           "source": "Sky News"
         },
         {
-          "title": "Protest in Norwich near hotel housing asylum seekers, clashes with police",
+          "title": "'Attractive market town' in Sussex named one of Britain’s best places to retire",
           "snippet": "",
-          "url": "https://apnews.com/video/protest-in-norwich-near-hotel-housing-asylum-seekers-clashes-with-police-76a6c1f589f441b7aeaadee6319e5c93",
-          "source": "AP News"
+          "url": "https://uk.news.yahoo.com/attractive-market-town-sussex-named-230100712.html",
+          "source": "Yahoo.co"
         },
         {
-          "title": "Protesters clash outside Altrincham hotel housing asylum seekers",
+          "title": "This area of Powys is one of the best places to retire in Wales",
           "snippet": "",
-          "url": "https://www.lbc.co.uk/news/uk/protesters-altrincham-hotel-asylum-seekers/",
-          "source": "LBC"
+          "url": "https://www.countytimes.co.uk/news/25350878.brecon-radnor-cwm-tawe-among-wales-best-places-retire/",
+          "source": "County Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,15 +195,9 @@
       "title": "tsunami",
       "trafficCount": "5000+",
       "pubDate": "Tue, 29 Jul 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS55qAiOwVCw8u3313ZFykdrkExlzEzJsHoXSBlO11-dRA6MgLvQImeG60Ptk",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQLR45PDkgcQQ1-DH0yHrZejDvaLHdJcF1UMPsmr8NciLll3ZvMXQgYgXYeyM",
+      "pictureSource": "Sky News",
       "relatedSearch": [
-        {
-          "title": "Tsunami waves hit Hawaii as earthquake off Russia triggers evacuations across Pacific - live updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c3r4x9yrrg4t",
-          "source": "BBC"
-        },
         {
           "title": "Tsunami warnings latest: First waves hit Hawaii after massive earthquake triggers tsunami warnings around Pacific region",
           "snippet": "",
@@ -215,6 +209,12 @@
           "snippet": "",
           "url": "https://www.rte.ie/news/world/2025/0730/1526047-russia-earthquake/",
           "source": "RTE.ie"
+        },
+        {
+          "title": "Estimated Tsunami Timings For California, Washington, Oregon",
+          "snippet": "",
+          "url": "https://www.ndtv.com/world-news/when-hawaii-california-washington-may-witness-tsunami-arrival-8980343",
+          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
