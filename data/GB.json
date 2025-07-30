@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-07-30 04:26:24",
+  "lastUpdate": "2025-07-30 04:46:50",
   "data": [
     {
-      "title": "weather forecast heatwave",
+      "title": "sky news",
       "trafficCount": "1000+",
-      "pubDate": "Tue, 29 Jul 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmZ6q0zu0mpeXhdH9Xetp2HFyosJfbCPwKrmHHcK4jeLMiRUIpfXnXFCFW7Q",
+      "pubDate": "Tue, 29 Jul 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWxOnjGeya2ikWND2uanIQZoy0uV-Q-hFLRqbzjXUJw3ZsTqA7UKUybGR5MGU",
+      "pictureSource": "Sky News",
+      "relatedSearch": [
+        {
+          "title": "Gary Neville hits out at national insurance rise - and makes prediction for Manchester United's season",
+          "snippet": "",
+          "url": "https://news.sky.com/story/gary-neville-hits-out-at-national-insurance-rise-and-makes-prediction-for-manchester-uniteds-season-13403349",
+          "source": "Sky News"
+        },
+        {
+          "title": "Gary Neville slams Rachel Reeves's National Insurance tax rise: 'Could've been held back'",
+          "snippet": "",
+          "url": "https://www.express.co.uk/news/politics/2088554/gary-neville-rachel-reeves-national-insurance",
+          "source": "Daily Express"
+        },
+        {
+          "title": "Gary Neville: National insurance rise 'could have been held back'",
+          "snippet": "",
+          "url": "https://news.sky.com/video/gary-neville-national-insurance-rise-could-have-been-held-back-13403596",
+          "source": "Sky News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news live",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 29 Jul 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKbHPVeonWpcDgRREDcxzXnK-TXzpcAwojg4028rnVlUkGQVpXmfARVOgK1NE",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "UK weather: Will we get another heatwave in August?",
+          "title": "Ozzy Osbourne: Birmingham to say final goodbye to Black Sabbath singer",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/weather/articles/c2le5vzqnr4o",
+          "url": "https://www.bbc.co.uk/news/articles/c3v3lle5z3wo",
           "source": "BBC"
         },
         {
-          "title": "How hot will the UK weather be for the rest of the summer holidays?",
+          "title": "Ozzy Osbourne’s funeral procession to pass through Birmingham city centre",
           "snippet": "",
-          "url": "https://uk.news.yahoo.com/uk-summer-weather-forecast-met-office-next-heatwave-151010334.html",
-          "source": "Yahoo.co"
+          "url": "https://www.theguardian.com/music/2025/jul/29/ozzy-osbourne-funeral-procession-birmingham-black-sabbath-bridge",
+          "source": "The Guardian"
         },
         {
-          "title": "Week-long summer holiday heatwave will see Brits bask in 37C jet stream scorcher",
+          "title": "Book of condolence for Ozzy Osbourne — volume 3",
           "snippet": "",
-          "url": "https://www.dailystar.co.uk/news/latest-news/week-long-summer-holiday-heatwave-35633921",
-          "source": "Daily Star"
+          "url": "https://www.birmingham.gov.uk/blog/Ozzy",
+          "source": "Birmingham City Council"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +99,44 @@
           "source": "New York Post"
         },
         {
-          "title": "MAGA Pundits Rage Over CNN’s ‘Possibly White’ Comment — Facts Be Damned",
+          "title": "Fact Check: CNN referred to New York shooter as 'possibly white.' Here's context",
           "snippet": "",
-          "url": "https://www.mediaite.com/opinion/maga-pundits-rage-over-cnns-possibly-white-comment-facts-be-damned/",
-          "source": "Mediaite"
+          "url": "https://www.yahoo.com/news/articles/fact-check-cnn-referred-york-230300038.html",
+          "source": "Yahoo.co"
         },
         {
           "title": "The horrifying truth about the 'possibly white' Manhattan shooter",
           "snippet": "",
           "url": "https://www.dailymail.co.uk/news/article-14952911/manhattan-shooting-blackstone-maureen-callahan.html",
           "source": "Daily Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "uk heatwave weather forecast",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 29 Jul 2025 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmZ6q0zu0mpeXhdH9Xetp2HFyosJfbCPwKrmHHcK4jeLMiRUIpfXnXFCFW7Q",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "UK weather: Will we get another heatwave in August?",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/weather/articles/c2le5vzqnr4o",
+          "source": "BBC"
+        },
+        {
+          "title": "How hot will the UK weather be for the rest of the summer holidays?",
+          "snippet": "",
+          "url": "https://uk.news.yahoo.com/uk-summer-weather-forecast-met-office-next-heatwave-151010334.html",
+          "source": "Yahoo.co"
+        },
+        {
+          "title": "Week-long summer holiday heatwave will see Brits bask in 37C jet stream scorcher",
+          "snippet": "",
+          "url": "https://www.dailystar.co.uk/news/latest-news/week-long-summer-holiday-heatwave-35633921",
+          "source": "Daily Star"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "Tsunami warnings - latest: Japan and parts of US on alert after powerful 8.8-magnitude earthquake off Russia's Far East coast",
-          "snippet": "",
-          "url": "https://news.sky.com/story/tsunami-warnings-latest-japan-hawaii-and-alaska-on-alert-after-powerful-8-8-magnitude-earthquake-off-russias-far-east-coast-13403800",
-          "source": "Sky News"
-        },
-        {
           "title": "10-foot tsunami waves possible in Hawaii after massive quake hits Russia’s far east",
           "snippet": "",
           "url": "https://www.cnn.com/world/live-news/russia-japan-tsunami-earthquake-hnk-intl-07-30-25",
           "source": "CNN"
+        },
+        {
+          "title": "Powerful 8.8-magnitude earthquake causes tsunami in Russia's Far East - with warnings issued for Japan, Hawaii and California",
+          "snippet": "",
+          "url": "https://news.sky.com/story/powerful-8-7-magnitude-earthquake-causes-tsunami-in-russias-far-east-with-warnings-issued-for-japan-hawaii-and-alaska-13403770",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,6 +193,34 @@
           "snippet": "",
           "url": "https://sportstar.thehindu.com/tennis/canadian-open-2025-gauff-reaches-third-round-ito-beats-paolini-latest-news-updates/article69872140.ece",
           "source": "Sportstar"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "national lottery euromillions jackpot",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 29 Jul 2025 16:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7iXWiBdWp9XcZICmn_4AD338peaZZ_soArjTl3TWXjWJILEYp69E-TinYsL0",
+      "pictureSource": "Manchester Evening News",
+      "relatedSearch": [
+        {
+          "title": "EuroMillions results live: Lottery numbers for £131million draw on Tuesday, July 29",
+          "snippet": "",
+          "url": "https://www.manchestereveningnews.co.uk/news/uk-news/euromillions-results-live-lottery-numbers-32162515",
+          "source": "Manchester Evening News"
+        },
+        {
+          "title": "Winning EuroMillions numbers tonight: Full National Lottery results £131m jackpot Tuesday, July 29",
+          "snippet": "",
+          "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/winning-euromillions-numbers-tonight-full-32162048",
+          "source": "Liverpool Echo"
+        },
+        {
+          "title": "MID games of chance: 141 million francs new in the Euro Millions jackpot | blue News",
+          "snippet": "",
+          "url": "https://www.bluewin.ch/en/news/141-million-francs-new-in-the-euro-millions-jackpot-2799366.html",
+          "source": "blue News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.espn.co.uk/football/story/_/id/45851725/kieffer-moore-wrexham-championship-phil-parkinson",
           "source": "ESPN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "louisville city fc vs eintracht frankfurt",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 29 Jul 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZNXB2RBUFv2-WgWgB_ZyUVNpVoa2bPHN5TSaxhLpq8eGC99_gQ4z-89rPdBw",
-      "pictureSource": "OneFootball",
-      "relatedSearch": [
-        {
-          "title": "‘The Business of Sports’",
-          "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/the-business-of-sports-41442088",
-          "source": "OneFootball"
-        },
-        {
-          "title": "How to watch today's Louisville City vs Eintracht Frankfurt friendly game: Live stream, TV channel, and start time",
-          "snippet": "",
-          "url": "https://www.goal.com/en-us/news/where-to-watch-louisville-v-frankfurt-live-stream-online-tv/blt47695e23f0e40ae2",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Eintracht Frankfort back for another summer stop in Louisville",
-          "snippet": "",
-          "url": "https://www.wdrb.com/sports/eintracht-frankfort-back-for-another-summer-stop-in-louisville/article_bb0c7e4f-67ca-42d7-ac42-2b573e8afdcf.html",
-          "source": "WDRB"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "taiwan",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 29 Jul 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8cu4gEAfZ6BtBds7y6mf6i22rDyEpYPniz34ja3-4ArVSLnT9MBKFyFqJ3e0",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Taiwan president scraps Latin America trip amid reports the US opposed stopover in New York",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/jul/30/taiwan-president-cancels-latin-america-trip-us-opposed-nyc-stopover",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Donald Trump blocks Taiwan’s President Lai Ching-te from New York stopover",
-          "snippet": "",
-          "url": "https://www.ft.com/content/21575bec-5cdd-47ee-9db2-3031c4ea7ca7",
-          "source": "Financial Times"
-        },
-        {
-          "title": "US stopover by Taiwan’s president cancelled; Trump mulls China trip: Report",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/7/29/us-stopover-by-taiwans-president-cancelled-trump-mulls-china-trip-report",
-          "source": "Al Jazeera"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "michael b jordan",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 29 Jul 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKAAM3ORndZOKDQ4jc723Nh8aNLoGsEokR_Ffk8JyeopSFt2DlKWWUa4df6tY",
-      "pictureSource": "The Movie Blog",
-      "relatedSearch": [
-        {
-          "title": "Taylor Russell’s Abrupt Exit Linked to Rumored Romance",
-          "snippet": "",
-          "url": "https://www.themovieblog.com/2025/07/taylor-russells-abrupt-exit-linked-to-rumored-romance/",
-          "source": "The Movie Blog"
-        },
-        {
-          "title": "MICHAEL B. JORDAN & TAYLOR RUSSELL: THE ART OF CATCHING FEELINGS?",
-          "snippet": "",
-          "url": "https://www.deuxmoi.world/latest/michael-b-jordan-taylor-russell",
-          "source": "Deuxmoi"
-        },
-        {
-          "title": "Adria Arjona Signs On to Take Over Lead Role Opposite Michael B. Jordan in Remake of THE THOMAS CROWN AFFAIR",
-          "snippet": "",
-          "url": "https://geektyrant.com/news/adria-arjona-signs-on-to-take-over-lead-role-opposite-michael-b-jordan-in-remake-of-the-thomas-crown-affair",
-          "source": "GeekTyrant"
         }
       ],
       "link": "https://imtaqin.id/"
