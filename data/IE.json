@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-07-31 14:48:02",
+  "lastUpdate": "2025-07-31 14:57:14",
   "data": [
-    {
-      "title": "brothers drowned in spain",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 31 Jul 2025 07:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRb1D9gwf63iYa9UyE-bDb5XPx-Gx1Wpsk7Av5pqSITNShXI9gt0l13Dcf5RoU",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "British brother and sister, 11 and 13, drown off beach in Spain",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/jul/30/two-british-brothers-11-and-13-drown-off-beach-in-spain",
-          "source": "The Guardian"
-        },
-        {
-          "title": "British brother and sister, aged 11 and 13, drown off Spanish beach",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/czjm7gv13g2o",
-          "source": "BBC"
-        },
-        {
-          "title": "Two British children, 11 and 13, drown off Catalan coast, Spanish officials say",
-          "snippet": "",
-          "url": "https://news.sky.com/story/two-british-children-11-and-13-drown-off-catalan-coast-spanish-officials-say-13403947",
-          "source": "Sky News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "conor mcgregor",
       "trafficCount": "500+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cd6n04xjj1qo",
           "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "brothers drowned in spain",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 31 Jul 2025 07:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRb1D9gwf63iYa9UyE-bDb5XPx-Gx1Wpsk7Av5pqSITNShXI9gt0l13Dcf5RoU",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "British brother and sister, 11 and 13, drown off beach in Spain",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/jul/30/two-british-brothers-11-and-13-drown-off-beach-in-spain",
+          "source": "The Guardian"
+        },
+        {
+          "title": "British brother and sister, aged 11 and 13, drown off Spanish beach",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/czjm7gv13g2o",
+          "source": "BBC"
+        },
+        {
+          "title": "Two British children, 11 and 13, drown off Catalan coast, Spanish officials say",
+          "snippet": "",
+          "url": "https://news.sky.com/story/two-british-children-11-and-13-drown-off-catalan-coast-spanish-officials-say-13403947",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "RTE.ie"
         },
         {
-          "title": "Tsunami risk appears to pass for U.S. after massive Russian earthquake; South American countries issue new warnings",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/tsunami-wave-hawaii-8-8-earthquake-russia/",
-          "source": "CBS News"
-        },
-        {
           "title": "Why did such a powerful earthquake and tsunami cause so little damage?",
           "snippet": "",
           "url": "https://www.theguardian.com/world/2025/jul/31/why-did-wednesday-earthquake-tsunami-produce-so-little-damage",
           "source": "The Guardian"
+        },
+        {
+          "title": "'Monster' earthquake in Russia was one that some seismologists were anticipating",
+          "snippet": "",
+          "url": "https://news.sky.com/story/monster-earthquake-in-russia-was-one-that-some-seismologists-were-anticipating-13404144",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,15 +257,9 @@
       "title": "irish rail incident today",
       "trafficCount": "2000+",
       "pubDate": "Thu, 31 Jul 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsT6tklZQ2Q_77e1uiHIf8RVpKX_cfguIKyRA8ZLoDNeOZU7adVOhshuFyPgo",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSf4Bahcoccmy5V27O4q2r_znhgtc4dSEUG0BxAuc1InK-S3HOKF4dTn2szI",
+      "pictureSource": "The Irish Times",
       "relatedSearch": [
-        {
-          "title": "Delays ease on Dublin commuter, Belfast train services",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/regional/2025/0731/1526251-rail-incident/",
-          "source": "RTE.ie"
-        },
         {
           "title": "Rail line between Skerries and Malahide reopens after major disruption",
           "snippet": "",
@@ -273,9 +267,15 @@
           "source": "The Irish Times"
         },
         {
-          "title": "Morning commute: Rail services suspended after incident on the line, while M50 crash causes some delays",
+          "title": "Delays ease on Dublin commuter, Belfast train services",
           "snippet": "",
-          "url": "https://www.independent.ie/regionals/dublin/morning-commute-rail-services-suspended-after-incident-on-the-line-while-m50-crash-causes-some-delays/a71657741.html",
+          "url": "https://www.rte.ie/news/regional/2025/0731/1526251-rail-incident/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Northern rail services remain suspended after incident on the line",
+          "snippet": "",
+          "url": "https://www.independent.ie/regionals/dublin/northern-rail-services-remain-suspended-after-incident-on-the-line/a71657741.html",
           "source": "The Irish Independent"
         }
       ],
