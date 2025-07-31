@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-07-31 22:58:30",
+  "lastUpdate": "2025-07-31 23:08:30",
   "data": [
     {
       "title": "1 de agosto",
       "trafficCount": "100+",
       "pubDate": "Thu, 31 Jul 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRBlZH-hWOGvX8GJcRC4HqQtfTOxV8sw-RelvHOta3IhB5z7_5J76c1gqBwCw",
-      "pictureSource": "CNN Chile",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9pYrZECUl2oRtRrnlUUxEe0d1k4F24cmPAZk9YFY9xCV2mCB-2LwjthMJXAA",
+      "pictureSource": "megatiempo.cl",
       "relatedSearch": [
-        {
-          "title": "Lluvias en gran parte del país: Revisa el pronóstico en tu ciudad para el viernes 1 de agosto",
-          "snippet": "",
-          "url": "https://www.cnnchile.com/programas-completos/lluvias-en-gran-parte-del-pais-revisa-el-pronostico-en-tu-ciudad-para-el-viernes-1-de-agosto_20250731/",
-          "source": "CNN Chile"
-        },
         {
           "title": "Viernes de lluvia en sectores de 14 regiones: Estas ciudades se mantendrán con chubascos y viento de hasta 70 km/h",
           "snippet": "",
@@ -21,9 +15,15 @@
           "source": "megatiempo.cl"
         },
         {
-          "title": "Nuevos montos: Revisa la actualización del sistema frontal en la Región de Coquimbo",
+          "title": "Lluvias en gran parte del país: Revisa el pronóstico en tu ciudad para el viernes 1 de agosto",
           "snippet": "",
-          "url": "https://www.diarioeldia.cl/noticias/2025/07/31/127878-nuevos-montos-revisa-la-actualizacion-del-sistema-frontal-en-la-region-de-coquimbo",
+          "url": "https://www.cnnchile.com/programas-completos/lluvias-en-gran-parte-del-pais-revisa-el-pronostico-en-tu-ciudad-para-el-viernes-1-de-agosto_20250731/",
+          "source": "CNN Chile"
+        },
+        {
+          "title": "Revisa las comunas que han suspendido sus clases para este viernes 1 de agosto",
+          "snippet": "",
+          "url": "https://www.diarioeldia.cl/noticias/2025/07/31/127880-revisa-las-comunas-que-han-suspendido-sus-clases-para-este-viernes-1-de-agosto",
           "source": "El Día"
         }
       ],
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "temblor chile hoy",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 31 Jul 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8Yux1KqCSVdbt1KjW0VKPs6AT2eGV4l7WdkL8zec8f-gGAEw0TpHl_L65f1g",
-      "pictureSource": "La Tercera",
-      "relatedSearch": [
-        {
-          "title": "Temblor hoy, jueves 31 de julio en Chile: consulta epicentro y magnitud",
-          "snippet": "",
-          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-jueves-31-de-julio-en-chile-consulta-epicentro-y-magnitud/",
-          "source": "La Tercera"
-        },
-        {
-          "title": "Sismo de mediana intensidad fue percibido en Socaire: Revisa la magnitud",
-          "snippet": "",
-          "url": "https://www.cnnchile.com/pais/sismo-mediana-intensidad-chile-socaire_20250729/",
-          "source": "CNN Chile"
-        },
-        {
-          "title": "Temblor de magnitud 4,3 se registró en la Región de Antofagasta",
-          "snippet": "",
-          "url": "https://www.maray.cl/pais/29/07/2025/temblor-de-magnitud-43-se-registro-en-la-region-de-antofagasta/",
-          "source": "Radio Maray"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "são paulo - paranaense",
       "trafficCount": "1000+",
       "pubDate": "Thu, 31 Jul 2025 14:50:00 -0700",
@@ -143,21 +115,49 @@
     },
     {
       "title": "temblor hoy",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 31 Jul 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8Yux1KqCSVdbt1KjW0VKPs6AT2eGV4l7WdkL8zec8f-gGAEw0TpHl_L65f1g",
+      "pictureSource": "La Tercera",
+      "relatedSearch": [
+        {
+          "title": "Temblor hoy, jueves 31 de julio en Chile: consulta epicentro y magnitud",
+          "snippet": "",
+          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-jueves-31-de-julio-en-chile-consulta-epicentro-y-magnitud/",
+          "source": "La Tercera"
+        },
+        {
+          "title": "Sismo de mediana intensidad fue percibido en Socaire: Revisa la magnitud",
+          "snippet": "",
+          "url": "https://www.cnnchile.com/pais/sismo-mediana-intensidad-chile-socaire_20250729/",
+          "source": "CNN Chile"
+        },
+        {
+          "title": "Temblor de magnitud 4,3 se registró en la Región de Antofagasta",
+          "snippet": "",
+          "url": "https://www.maray.cl/pais/29/07/2025/temblor-de-magnitud-43-se-registro-en-la-region-de-antofagasta/",
+          "source": "Radio Maray"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "temblor en chile",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 31 Jul 2025 14:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1Nlx71m59cSHpcFtFvohJkH_BNZZctCD8MaXkno9t0ZL6f76t8A8jS29w1wk",
       "pictureSource": "BioBioChile",
       "relatedSearch": [
         {
-          "title": "Temblor magnitud 4,3 se sintió en la zona central de Chile",
+          "title": "Temblor magnitud 4,1 se sintió en la zona central de Chile",
           "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/nacional/region-de-ohiggins/2025/07/31/temblor-magnitud-41-se-sintio-en-la-zona-central-de-chile.shtml",
+          "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2025/07/31/temblor-magnitud-41-se-sintio-en-la-zona-central-de-chile.shtml",
           "source": "BioBioChile"
         },
         {
-          "title": "Terremoto moderado mag. 4.1 - Cachapoal, O'Higgins, 61 km al sur de Santiago de Chile, Santiago, Metropolitana, Chile, jueves 31 jul 2025 a las 21:34 (Tiempo Universal)",
+          "title": "Terremoto leve mag. 3.4 - Océano Pacífico Sur, 30 km al suroeste de La Serena, Elqui, Coquimbo, Chile, jueves 31 jul 2025 a las 04:04 (GMT -4)",
           "snippet": "",
-          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22011333/quake-felt-Jul-31-2025-Near-Santiago-Santiago-Metropolitan-Chile.html",
+          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22009573/mag3quake-Jul-31-2025-Offshore-Coquimbo-Chile.html",
           "source": "Volcano Discovery"
         },
         {
@@ -257,26 +257,26 @@
       "title": "sporting lisboa - benfica",
       "trafficCount": "2000+",
       "pubDate": "Thu, 31 Jul 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp-5nLvOhIVR3jHUemyy7pzK3oq0e2j5uRdt4jeOJiCQ3XmN0ebEQ1xgJ1dto",
-      "pictureSource": "O Jogo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpllIV6st2DmTZ0kiLIhppjyIgDQcm97QL9wv8PMOVRPcOGPvoUpLdlWBykqM",
+      "pictureSource": "ESPN Chile",
       "relatedSearch": [
         {
-          "title": "Pavlidis: \"Estamos de volta e cheios de energia\"",
+          "title": "Luis Suárez y Richard Ríos se podrían enfrentar en la final de la Supercopa de Portugal",
           "snippet": "",
-          "url": "https://www.ojogo.pt/2731661700/pavlidis-estamos-de-volta-e-cheios-de-energia/",
-          "source": "O Jogo"
+          "url": "https://www.espn.cl/futbol/mundial/nota/_/id/15486855/benfica-vs-sporting-supercopa-portugal-equipo-fecha-hora-y-tv-en-vivo",
+          "source": "ESPN Chile"
         },
         {
-          "title": "ASSISTIR@!!..Benfica x Sporting EM Direto ONLINE GRÁTIS TV 31. 07. 2025",
+          "title": "Benfica se impuso en el clásico ante Sporting y conquistó su décima Supercopa de Portugal",
           "snippet": "",
-          "url": "https://www.chess.com/pt/forum/view/general/assistir-benfica-x-sporting-em-direto-online-gratis-tv-31-07-2025?",
-          "source": "Chess.com"
+          "url": "https://cooperativa.cl/noticias/deportes/futbol/liga-portuguesa/benfica-se-impuso-en-el-clasico-ante-sporting-y-conquisto-su-decima/2025-07-31/182059.html",
+          "source": "Cooperativa.cl"
         },
         {
-          "title": "Foi preciso um Río(s) para atravessar o deserto de ideias (a crónica da final da Supertaça entre Sporting e Benfica)",
+          "title": "Benfica Claims the SuperTaça: Pavlidis Makes the Difference in the Lisbon Derby",
           "snippet": "",
-          "url": "https://observador.pt/2025/07/31/foi-preciso-um-rios-para-atravessar-o-deserto-de-ideias-a-cronica-da-final-da-supertaca-entre-sporting-e-benfica/",
-          "source": "Observador"
+          "url": "https://www.beinsports.com/en-us/soccer/articles/benfica-claims-the-superta%C3%A7a-pavlidis-makes-the-difference-in-the-lisbon-derby-2025-07-31",
+          "source": "beIN SPORTS"
         }
       ],
       "link": "https://imtaqin.id/"
