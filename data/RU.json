@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-08-01 05:50:11",
+  "lastUpdate": "2025-08-01 05:59:32",
   "data": [
+    {
+      "title": "ижевск",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 31 Jul 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjRO0eiIjnDM9p7Wk-OdMZmMh4Ya130arWoWemTt26lccc4WpYfgIoiwW6Jjs",
+      "pictureSource": "ИА «Сусанин",
+      "relatedSearch": [
+        {
+          "title": "Отремонтированные подземные переходы в Ижевске оснастят камерами наблюдения",
+          "snippet": "",
+          "url": "https://susanin.news/udmurtia/everyday/20250801-329168/",
+          "source": "ИА «Сусанин"
+        },
+        {
+          "title": "Подрядчика на ремонт подземных переходов определили в Ижевске",
+          "snippet": "",
+          "url": "https://nta-pfo.ru/news/jkh/2025/news_721194/",
+          "source": "НТА Приволжье"
+        },
+        {
+          "title": "Чистяков: Подземные переходы в центре Ижевска капитально отремонтируют до конца года",
+          "snippet": "",
+          "url": "https://izhlife.ru/city/chistyakov-podzemnye-perekhody-v-tsentre-izhevska-kapitalno-otremontiruyut-do-kontsa-goda.html",
+          "source": "Izhlife.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода абакан",
       "trafficCount": "100+",
@@ -12,7 +40,7 @@
     },
     {
       "title": "степанакерт",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 31 Jul 2025 21:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHmS8RPxRIGDRqHAorD-GNcZ49Hhv4KzRH6npMmbleCHhzsNqFRqJqxEwjszk",
       "pictureSource": "БИЗНЕС Online — Новости Казани",
@@ -67,34 +95,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода пенза",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 31 Jul 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqtUZwRRIMfIIjoAkUvbmMic-2Qc8gNDiBpYPR6j1DSICphJtPcSdkeXV5Eg",
-      "pictureSource": "Пенза-Взгляд: новости Пензы и области сегодня",
-      "relatedSearch": [
-        {
-          "title": "В Пензенской области август начнется с +31 градуса жары",
-          "snippet": "",
-          "url": "https://penzavzglyad.ru/news/186990/v-penzenskoy-oblasti-avgust-nachnetsya-s-31-gradusa-zhary",
-          "source": "Пенза-Взгляд: новости Пензы и области сегодня"
-        },
-        {
-          "title": "На 30 июля объявлен желтый уровень погодной опасности",
-          "snippet": "",
-          "url": "https://www.penzainform.ru/news/social/2025/07/29/na_30_iyulya_obyavlen_zheltij_uroven_pogodnoj_opasnosti.html",
-          "source": "PenzaInform.ru"
-        },
-        {
-          "title": "Пензенцам сообщили о прогнозе погоды на август",
-          "snippet": "",
-          "url": "http://ng58.ru/news/news/penzentsam_soobshchili_o_prognoze_pogody_na_avgust/",
-          "source": "NG58.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "орынбор",
       "trafficCount": "100+",
       "pubDate": "Thu, 31 Jul 2025 21:30:00 -0700",
@@ -118,6 +118,34 @@
           "snippet": "",
           "url": "https://www.ural56.ru/news/750641/",
           "source": "Урал56.Ру"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода пенза",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 31 Jul 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqtUZwRRIMfIIjoAkUvbmMic-2Qc8gNDiBpYPR6j1DSICphJtPcSdkeXV5Eg",
+      "pictureSource": "Пенза-Взгляд: новости Пензы и области сегодня",
+      "relatedSearch": [
+        {
+          "title": "В Пензенской области август начнется с +31 градуса жары",
+          "snippet": "",
+          "url": "https://penzavzglyad.ru/news/186990/v-penzenskoy-oblasti-avgust-nachnetsya-s-31-gradusa-zhary",
+          "source": "Пенза-Взгляд: новости Пензы и области сегодня"
+        },
+        {
+          "title": "На 30 июля объявлен желтый уровень погодной опасности",
+          "snippet": "",
+          "url": "https://www.penzainform.ru/news/social/2025/07/29/na_30_iyulya_obyavlen_zheltij_uroven_pogodnoj_opasnosti.html",
+          "source": "PenzaInform.ru"
+        },
+        {
+          "title": "Пензенцам сообщили о прогнозе погоды на август",
+          "snippet": "",
+          "url": "http://ng58.ru/news/news/penzentsam_soobshchili_o_prognoze_pogody_na_avgust/",
+          "source": "NG58.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,13 +182,13 @@
       "title": "часов яр карта боевых действий",
       "trafficCount": "1000+",
       "pubDate": "Thu, 31 Jul 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScA8hXsycJiItjofnfyx2VwsxwRhpUGgNvMJaV8OcLqmCmDolmleC79zabdi4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZm8S5UkAJVxGbRTTBNdLfmMrn-BWm98HkjSLaYwz5oI9AgS0Zjzhf3tZVjM",
       "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Полсотни украинских военнослужащих взяты в плен в Часовом Яре",
+          "title": "Минобороны РФ оценило потери ВСУ в ходе боев за Часов Яр в 7,5 тыс. человек",
           "snippet": "",
-          "url": "https://www.interfax.ru/russia/1038997",
+          "url": "https://www.interfax.ru/russia/1039079",
           "source": "Интерфакс"
         },
         {
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://kino.mail.ru/news/96724-page-six-prichinoj-smerti-restlera-halka-hogana-stal-ostryij-infarkt/",
           "source": "Кино Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "медовый спас 2025",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 31 Jul 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaq7wuOKO1XsUlkZ9DpttaOkM9IPZoagQIAwLLY2s6MM5RdNfTniNqHzSrfQw",
-      "pictureSource": "URA.RU",
-      "relatedSearch": [
-        {
-          "title": "Какие праздники отмечают 1 августа 2025: что можно и нельзя делать в этот день",
-          "snippet": "",
-          "url": "https://ura.news/news/1052972815",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Какой церковный праздник 1 августа 2025 года у православных христиан: история и традиции",
-          "snippet": "",
-          "url": "https://www.vokrugsveta.ru/history/kakoi-cerkovnyi-prazdnik-1-avgusta-2025-goda-u-pravoslavnykh-khristian-istoriya-i-tradicii-id6463548/",
-          "source": "Вокруг света"
-        },
-        {
-          "title": "Маковея 1 августа - какой сегодня церковный праздник, что нельзя делать - lifestyle 24",
-          "snippet": "",
-          "url": "https://24tv.ua/lifestyle24/ru/makoveja-1-avgusta-kakoj-segodnja-cerkovnyj-prazdnik-chto-nelzja_n2881311",
-          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
