@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-02 15:11:56",
+  "lastUpdate": "2025-08-02 15:24:38",
   "data": [
     {
       "title": "dortmund - losc",
@@ -31,7 +31,7 @@
     },
     {
       "title": "bayern - lyon",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 2 Aug 2025 06:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRQptzXPaXXVLkUUjxD_6nrXsLZzOdT-grqGwPhlXZrBs-JI3Prmn6sNH_cnU",
       "pictureSource": "Olympique & Lyonnais",
@@ -43,16 +43,16 @@
           "source": "Olympique & Lyonnais"
         },
         {
+          "title": "Amical : Bayern 0-0 Lyon (mi-tps)",
+          "snippet": "",
+          "url": "https://m.maxifoot.fr/amical/bayern-0-0-lyon-mi-tps-foot-438173.htm",
+          "source": "Maxifoot"
+        },
+        {
           "title": "🔴 Bayern - OL : L’OL fait mieux que résister",
           "snippet": "",
           "url": "https://www.ol.fr/fr/actualites/bayern-ol-compte-rendu-4",
           "source": "OL.fr"
-        },
-        {
-          "title": "Football. À Munich, l’OL arrive dans une autre dimension",
-          "snippet": "",
-          "url": "https://www.leprogres.fr/sport/2025/08/01/l-ol-arrive-dans-une-autre-dimension",
-          "source": "Le Progrès"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Sat, 2 Aug 2025 05:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4S0aJnZ6xI8jpZYlJsMXRbSzGXhgWaJjVOcoEEI2heDEEi2LIRHDRHOmUyX4",
-      "pictureSource": "Yahoo.co",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qZv4HqpRsESO5FH0ir1P_M38oJIp5qOoB-F7so-Bruj8GSBbk5NCAT3n-ss",
+      "pictureSource": "CBS 42",
       "relatedSearch": [
         {
-          "title": "Comfortable temperatures and hazy sunshine this weekend",
+          "title": "Weather Around the Clock: Morning Edition 8/2",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/comfortable-temperatures-hazy-sunshine-weekend-121809137.html",
-          "source": "Yahoo.co"
+          "url": "https://www.cbs42.com/cbs-42-weather-around-the-clock/weather-around-the-clock-morning-edition-8-2/",
+          "source": "CBS 42"
         },
         {
-          "title": "Meteorologist Matt Bednar Explains Movement of Wildfire Smoke into Central Illinois",
+          "title": "Weather Around the Clock: Afternoon Edition 7/31",
           "snippet": "",
-          "url": "https://newschannel20.com/features/marketplace/meteorologist-matt-bednar-explains-movement-of-wildfire-smoke-into-central-illinois",
-          "source": "WICS"
+          "url": "https://www.cbs42.com/cbs-42-weather-around-the-clock/weather-around-the-clock-afternoon-edition-7-31/",
+          "source": "CBS 42"
         },
         {
-          "title": "NEXT Weather: Noon forecast from Aug. 1, 2025",
+          "title": "Weather Around the Clock: Afternoon Edition 8/1",
           "snippet": "",
-          "url": "https://www.cbsnews.com/minnesota/video/next-weather-noon-forecast-from-aug-1-2025/",
-          "source": "CBS News"
+          "url": "https://www.cbs42.com/cbs-42-weather-around-the-clock/weather-around-the-clock-afternoon-edition-8-1/",
+          "source": "CBS 42"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +89,9 @@
       "title": "mlb",
       "trafficCount": "200+",
       "pubDate": "Fri, 1 Aug 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBr7jlaYqeV5YkcDkpZBIY5CYTnJZPNouMd7SwTUSBzGWosfpP3wYtcPQ8qL0",
-      "pictureSource": "Knoxville News Sentinel",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsdLnXCW4quxSgE98_To2vK1Zx5dfHGJD2sdWbmChUd1kxNQG0FETU4oG7f-Y",
+      "pictureSource": "AP News",
       "relatedSearch": [
-        {
-          "title": "What channel is Braves vs Reds on today? Time, TV schedule for Bristol MLB Speedway Classic game",
-          "snippet": "",
-          "url": "https://www.knoxnews.com/story/sports/2025/08/02/mlb-bristol-braves-reds-speedway-classic-channel-today-time-tv-schedule-streaming-info/85480224007/",
-          "source": "Knoxville News Sentinel"
-        },
         {
           "title": "Bristol Motor Speedway game tops 85,000 in ticket sales, will break MLB attendance record",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "AP News"
         },
         {
-          "title": "Cincinnati Reds’ Pitching Rotation Shines in Wild Card Chase",
+          "title": "Cincinnati Reds' pitching rotation is on an insane run of brilliance",
           "snippet": "",
-          "url": "https://bvmsports.com/2025/08/02/cincinnati-reds-pitching-rotation-shines-in-wild-card-chase/",
-          "source": "BVM Sports"
+          "url": "https://ca.sports.yahoo.com/news/cincinnati-reds-pitching-rotation-insane-134152197.html",
+          "source": "Yahoo.co"
+        },
+        {
+          "title": "SportsCenter to Bristol: ESPN’s 50 States in 50 Days Tour highlights MLB Speedway Classic in Tennessee",
+          "snippet": "",
+          "url": "https://www.wjhl.com/news/local/mlb-speedway-classic/sportscenter-to-bristol-espns-50-states-in-50-days-tour-highlights-mlb-speedway-classic-in-tennessee/",
+          "source": "WJHL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,57 +142,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "yankees",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 1 Aug 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9OrDxMxU5USmpTngAflxb0rsXSdM1jU56It_g2O0ZSwqKIQZ-KjqeEcTuHg",
-      "pictureSource": "FantasyPros",
-      "relatedSearch": [
-        {
-          "title": "Carlos Rodon struggles in short outing against Marlins",
-          "snippet": "",
-          "url": "https://www.fantasypros.com/mlb/news/532542/carlos-rodon-struggles-short-outing-against-marlins.php",
-          "source": "FantasyPros"
-        },
-        {
-          "title": "Carlos Rodon News: Uneven showing in no-decision",
-          "snippet": "",
-          "url": "https://www.rotowire.com/baseball/headlines/carlos-rodon-news-uneven-showing-in-no-decision-977772",
-          "source": "RotoWire"
-        },
-        {
-          "title": "Yankees’ Carlos Rodon’s outing undone by control issues",
-          "snippet": "",
-          "url": "https://nypost.com/2025/08/02/sports/yankees-carlos-rodons-outing-undone-by-control-issues/",
-          "source": "New York Post"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "marlins - yankees",
       "trafficCount": "1000+",
       "pubDate": "Fri, 1 Aug 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXJA4f-vLpB6mJJmZPJRwLsOISxDhBa8qo791wTvq8i_jUryHb3TJSkRqyMlQ",
-      "pictureSource": "Mint",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP7JyGtKzmY3qIcQ0q8FGNJjW9eBBG_xxfa7riWf_zfAWDXVmQviOD72avxS8",
+      "pictureSource": "MLB.com",
       "relatedSearch": [
         {
-          "title": "Marlins seek to build on comeback win over Yankees",
+          "title": "Rough debuts mark a Yankees loss not seen in 85 years",
           "snippet": "",
-          "url": "https://www.livemint.com/sports/news/marlins-seek-to-build-on-comeback-win-over-yankees-11754143137483.html",
-          "source": "Mint"
+          "url": "https://www.mlb.com/news/anthony-volpe-s-big-game-wasted-in-yankees-walk-off-loss",
+          "source": "MLB.com"
         },
         {
-          "title": "NYY @ MIA: Carlos Rodón vs. Janson Junk",
+          "title": "Today on Pinstripe Alley - 8/2/25",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/nyy-mia-carlos-rod-n-223500013.html",
+          "url": "https://sports.yahoo.com/article/today-pinstripe-alley-8-2-100000679.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Marlins face Yankees at LoanDepot Park in Miami",
+          "title": "Yankees’ new bullpen acquisitions implode in loss to Marlins",
           "snippet": "",
-          "url": "https://www.cbsnews.com/miami/video/marlins-face-yankees-at-loandepot-park-in-miami/",
-          "source": "CBS News"
+          "url": "https://www.bostonglobe.com/2025/08/02/sports/yankees-marlins/",
+          "source": "The Boston Globe"
         }
       ],
       "link": "https://imtaqin.id/"
