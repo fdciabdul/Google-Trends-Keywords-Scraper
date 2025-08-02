@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-02 14:46:56",
+  "lastUpdate": "2025-08-02 14:54:08",
   "data": [
     {
       "title": "karviná – zlín",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 2 Aug 2025 07:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnr75SdaUW7hRYBzX_3pej2tAOZ7LmOyYgVOultZuGPSukmIN-O839o6UaTwk",
       "pictureSource": "iROZHLAS",
@@ -49,10 +49,10 @@
           "source": "iDNES.cz"
         },
         {
-          "title": "Chance Liga - preview 3. kola: Karviná hájí stoprocentní bilanci, Olomouc proti Liberci",
+          "title": "ŽIVĚ: Fotbalisté Teplic hostí pražské Bohemians, Karviná bude hájit ligovou neporazitelnost proti Zlínu",
           "snippet": "",
-          "url": "https://www.eurofotbal.cz/clanky/chance-liga-preview-3-kola-karvina-haji-stoprocentni-bilanci-olomouc-proti-liberci-773937/",
-          "source": "Eurofotbal"
+          "url": "https://www.irozhlas.cz/sport/fotbal/fk-teplice-bohemians-praha-primy-prenos-vysilani-chance-liga_2508021630_mim",
+          "source": "iROZHLAS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "teplice – bohemians",
       "trafficCount": "1000+",
       "pubDate": "Sat, 2 Aug 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ171pbILwrGZ2b0P8zvqTC3vuvb8BahqlF_OGZa0l0we8qWErw2Pfkc5hOLU8",
-      "pictureSource": "FK Teplice",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl8XrE_84V0dvCump-ikNCUPGIk1PFDB2k045f70fKFSKiOt9H1rq76FOOw4g",
+      "pictureSource": "iDNES.cz",
       "relatedSearch": [
+        {
+          "title": "ONLINE: Teplice - Bohemians, domácí usilují o první body v novém ročníku",
+          "snippet": "",
+          "url": "https://www.idnes.cz/fotbal/prvni-liga/chance-liga-3-kolo-teplice-bohemians-online-zpravodajstvi.A250801_130256_fotbal_tals",
+          "source": "iDNES.cz"
+        },
         {
           "title": "ŽLUTÁ-MODRÁ znovu vychází v aplikaci FK Teplice, tentokrát s nádechem historie",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.idnes.cz/fotbal/prvni-liga/fanousci-teplic-vyzyvaji-k-oslavam-vyroci-klubu.A250731_093156_fotbal_pbi",
           "source": "iDNES.cz"
-        },
-        {
-          "title": "V sobotu všichni ve žlutém! Teplice slaví 80 let",
-          "snippet": "",
-          "url": "https://www.zitteplice.cz/v-sobotu-vsichni-ve-zlutem-teplice-slavi-80-let/",
-          "source": "Žít Teplice"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,44 @@
           "source": "Olympique & Lyonnais"
         },
         {
-          "title": "Football. À Munich, l’OL arrive dans une autre dimension",
+          "title": "Amical : Bayern 0-0 Lyon (mi-tps)",
           "snippet": "",
-          "url": "https://www.leprogres.fr/sport/2025/08/01/l-ol-arrive-dans-une-autre-dimension",
-          "source": "Le Progrès"
+          "url": "https://m.maxifoot.fr/amical/bayern-0-0-lyon-mi-tps-foot-438173.htm",
+          "source": "Maxifoot"
         },
         {
           "title": "🔴 Bayern - OL : L’OL fait mieux que résister",
           "snippet": "",
           "url": "https://www.ol.fr/fr/actualites/bayern-ol-compte-rendu-4",
           "source": "OL.fr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rusko",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 2 Aug 2025 05:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmDUaUk7d9j3PrgETmgVyAwYLd5wuevbf3-2I1XaPWzbvyjCsHJM3GqFIqQFg",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Trump zveřejnil ruské a ukrajinské ztráty za tento rok",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-trump-zverejnil-ruske-a-ukrajinske-ztraty-za-tento-rok-40532757",
+          "source": "Novinky"
+        },
+        {
+          "title": "Kreml se Trumpa nebojí. Vůči sankcím jsme imunní, hlásí",
+          "snippet": "",
+          "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-kreml-peskov-sankce-trump-usa-valka.A250730_143034_zahranicni_bro",
+          "source": "iDNES.cz"
+        },
+        {
+          "title": "Trumpovi vadí pocit, že by s ním někdo manipuloval, proto lhůtu pro Rusko zkrátil, míní Bříza",
+          "snippet": "",
+          "url": "https://www.irozhlas.cz/zpravy-svet/trumpovi-vadi-pocit-ze-s-nim-nekdo-manipuloval-proto-lhutu-pro-rusko-zkratil_2508011732_vdv",
+          "source": "iROZHLAS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "iROZHLAS"
         },
         {
+          "title": "Výluka v pražském metru na lince C potrvá ještě celý týden",
+          "snippet": "",
+          "url": "https://prazsky.denik.cz/zpravy_region/vyluka-metro-linkac-praha.html",
+          "source": "Pražský deník"
+        },
+        {
           "title": "Velká výluka od soboty ochromí metro C",
           "snippet": "",
           "url": "https://ct24.ceskatelevize.cz/clanek/regiony/velka-vyluka-od-soboty-ochromi-metro-c-363582",
           "source": "ČT24"
-        },
-        {
-          "title": "Podstatná část linky metra C nejede, a to až do neděle 10. srpna",
-          "snippet": "",
-          "url": "https://prazsky.denik.cz/zpravy_region/podstatna-cast-linky-metra-c-nejede-a-to-az-do-nedele-10-srpna.html",
-          "source": "Pražský deník"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +257,14 @@
       "title": "prague pride 2025",
       "trafficCount": "2000+",
       "pubDate": "Fri, 1 Aug 2025 23:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3OPB27MGtCt8QDSEx9nXB-mm9DCnwIEsQJxYzTszbrTv6WFBzY_vKHzbYDLs",
-      "pictureSource": "Novinky",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW_HZVdTFYe8Bku7G8b0j5m4FvTw8S4TfAatOd01kKBdSbGGlMrCpb3ws2N98",
+      "pictureSource": "ČT24",
       "relatedSearch": [
         {
-          "title": "Ulicemi Prahy prochází desetitisícový průvod Prague Pride",
+          "title": "Hlavním městem prošel pochod Prague Pride",
           "snippet": "",
-          "url": "https://www.novinky.cz/clanek/domaci-do-ulic-prahy-vyrazil-duhovy-pruvod-prague-pride-40532788",
-          "source": "Novinky"
+          "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pochod-prague-pride-vyrazil-na-letenskou-plan-363611",
+          "source": "ČT24"
         },
         {
           "title": "OBRAZEM: Jak probíhal duhový průvod na festivalu Prague Pride",
@@ -245,38 +273,10 @@
           "source": "Lidovky.cz"
         },
         {
-          "title": "Pochodem na Letnou za koncerty. Festival Prague Pride vrcholí, zatím bez konfliktů",
+          "title": "GALERIE: Hrdost LGBT zaplnila Prahu, v čele Lipavský a Hřib. Podívejte se na fotky z Prague Pride",
           "snippet": "",
-          "url": "https://www.idnes.cz/zpravy/domaci/prague-pride-pruvod-praha-festival-lgbt.A250802_114023_domaci_dyn",
-          "source": "iDNES.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pokrovsk",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 1 Aug 2025 23:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOh-zxuscOaj32pRrWh34fP2vmRUBekHj5kav9rNNQKfkFXKjcImtcPfWLNwc",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Russia’s summer offensive is turning into an escalating crisis for Ukraine",
-          "snippet": "",
-          "url": "https://edition.cnn.com/2025/07/30/europe/russias-summer-offensive-ukraine-analysis-latam-intl",
-          "source": "CNN"
-        },
-        {
-          "title": "Russia at the gates: How Ukraine defended a strategic city for months",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/europe/russia-gates-how-ukraine-defended-strategic-city-months-2025-07-28/",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK Defence Intelligence analyses situation around Pokrovsk, Donetsk Oblast",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/eng/news/2025/08/2/7524525/",
-          "source": "Українська правда"
+          "url": "https://www.reflex.cz/clanek/fotogalerie/131426/galerie-hrdost-lgbt-zaplnila-prahu-v-cele-lipavsky-a-hrib-podivejte-se-na-fotky-z-prague-pride.html",
+          "source": "Reflex.cz"
         }
       ],
       "link": "https://imtaqin.id/"
