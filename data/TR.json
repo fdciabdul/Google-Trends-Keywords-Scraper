@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-02 06:11:46",
+  "lastUpdate": "2025-08-02 06:25:25",
   "data": [
     {
       "title": "şanlıurfa hava durumu",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 1 Aug 2025 22:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kKdjICARvCVhw1O4thqCHBno9eLi21nzGT53wiRxsip22YDo5zhnOkxOLS8",
       "pictureSource": "Anadolu Ajansı",
@@ -31,7 +31,7 @@
     },
     {
       "title": "weer",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 1 Aug 2025 22:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5u2M2NQPyOFQ4238A50hyiLJEU0AH2vdtx1hCNtRjOJsI-yrDcCqijSSHwf8",
       "pictureSource": "TheaterMania",
@@ -58,27 +58,68 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "yılmaz özdil",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 1 Aug 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpwhz5cFpoqTlBLmdsSfhjML0pJUa_mykUMAgDhMsp7Yd9oR31L-d3FD1ehBI",
+      "pictureSource": "T24",
+      "relatedSearch": [
+        {
+          "title": "Milli birlik!",
+          "snippet": "",
+          "url": "https://t24.com.tr/yazarlar/mehmet-y-yilmaz/milli-birlik,50937",
+          "source": "T24"
+        },
+        {
+          "title": "\"Muhalefetin Demokrasi Sınavı\"",
+          "snippet": "",
+          "url": "https://www.sokeekspres.com/makale/25846425/galip-kamiloglu/muhalefetin-demokrasi-sinavi",
+          "source": "Söke Ekspres"
+        },
+        {
+          "title": "Komisyon",
+          "snippet": "",
+          "url": "https://www.sozcu.com.tr/komisyon-p200884",
+          "source": "Sözcü"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "giresun hava durumu",
       "trafficCount": "200+",
       "pubDate": "Fri, 1 Aug 2025 21:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT581o48LAaST-6Hb39af7Dp_yIfNK6jUopD7VlHYSZWJgVHx52UCf3K7sGQqY",
+      "pictureSource": "yildizhaber.com.tr",
+      "relatedSearch": [
+        {
+          "title": "Giresun dün gece tropikal sıcaklıklardan nasibini aldı",
+          "snippet": "",
+          "url": "https://www.yildizhaber.com.tr/haber-giresun-dun-gece-tropikal-sicakliklardan-nasibini-aldi-160666.html",
+          "source": "yildizhaber.com.tr"
+        },
+        {
+          "title": "Gümüşhane Valiliği'nden Sıcak Hava Dalgası Uyarısı: Kronik Hastalar, Yaşlılar ve Çocuklar Dikkat!",
+          "snippet": "",
+          "url": "https://www.gumuskoza.com.tr/haber/25806303/gumushane-valiliginden-sicak-hava-dalgasi-uyarisi-kronik-hastalar-yaslilar-ve-cocuklar-dikkat",
+          "source": "Gümüşkoza Gazetesi"
+        },
+        {
+          "title": "Gümüşhane’de Sıcaklık Alarmı: Orman Yangını Uyarısı Yapıldı",
+          "snippet": "",
+          "url": "https://www.gumushane.gen.tr/gumushane/gumushanede-sicaklik-alarmi-orman-yangini-uyarisi-yapildi/70587",
+          "source": "Dünyanın En Büyük Gümüşhane Sitesi"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "lafc - pachuca",
       "trafficCount": "500+",
       "pubDate": "Fri, 1 Aug 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPeLiMirPb5TilF9s7hAT6AP50wPPrjj7B47SkrOfCX3pLENm-8AAgEpan63Q",
-      "pictureSource": "FDP Radio",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2uQEb2I6-cj91fHi410rsyx9BcG5G0zcWz5STW-ypkOJ2oBbsSevXdb5xsvc",
+      "pictureSource": "RÉCORD",
       "relatedSearch": [
-        {
-          "title": "Los de casa se llevaron el duelo en los penales",
-          "snippet": "",
-          "url": "https://fdpradio.com/los-de-casa-se-llevaron-el-duelo-en-los-penales/",
-          "source": "FDP Radio"
-        },
         {
           "title": "Las importantes bajas de Pachuca para enfrentar a LAFC",
           "snippet": "",
@@ -90,6 +131,12 @@
           "snippet": "",
           "url": "https://www.clarosports.com/futbol/leagues-cup/jaime-lozano-se-va-con-un-mal-sabor-de-boca-tras-la-derrota-en-penales-ante-lafc/",
           "source": "ClaroSports"
+        },
+        {
+          "title": "Tigres con paso perfecto; Pachuca suma un empate, en la Leagues Cup",
+          "snippet": "",
+          "url": "https://www.noroeste.com.mx/deportes/futbol/tigres-con-paso-perfecto-pachuca-suma-un-empate-en-la-leagues-cup-EJ14955463",
+          "source": "www.noroeste.com.mx"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -194,34 +241,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sabah ezanı",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 1 Aug 2025 19:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmuFq_Bi86E8bzIEOUmts0xU_SSMagfoCL50UbPiX17Q-uJx4BUgPsXWAIrk",
-      "pictureSource": "İLKHABER-Gazetesi",
-      "relatedSearch": [
-        {
-          "title": "2 Ağustos Cumartesi Mersin namaz vakitleri ne zaman? Mersin'de sabah, öğle, ikindi, akşam, yatsı namazı saat kaçta?",
-          "snippet": "",
-          "url": "https://www.ilkhaber-gazetesi.com/yerel/2-agustos-cumartesi-mersin-namaz-vakitleri-ne-zaman-mersin-de-sabah-ogle-ikindi-aksam-yatsi-namazi-saat-kacta-309021",
-          "source": "İLKHABER-Gazetesi"
-        },
-        {
-          "title": "31 Temmuz Perşembe Mersin namaz vakitleri ne zaman? Mersin'de sabah, öğle, ikindi, akşam, yatsı namazı saat kaçta?",
-          "snippet": "",
-          "url": "https://www.ilkhaber-gazetesi.com/yerel/31-temmuz-persembe-mersin-namaz-vakitleri-ne-zaman-mersin-de-sabah-ogle-ikindi-aksam-yatsi-namazi-saat-kacta-308407",
-          "source": "İLKHABER-Gazetesi"
-        },
-        {
-          "title": "1 Ağustos Cuma Mersin namaz vakitleri ne zaman? Mersin'de sabah, öğle, ikindi, akşam, yatsı namazı saat kaçta?",
-          "snippet": "",
-          "url": "https://www.ilkhaber-gazetesi.com/yerel/1-agustos-cuma-mersin-namaz-vakitleri-ne-zaman-mersin-de-sabah-ogle-ikindi-aksam-yatsi-namazi-saat-kacta-308808",
-          "source": "İLKHABER-Gazetesi"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
