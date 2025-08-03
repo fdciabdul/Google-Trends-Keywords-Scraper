@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-03 05:39:02",
+  "lastUpdate": "2025-08-03 05:50:28",
   "data": [
     {
       "title": "דדי בורוביץ",
@@ -33,9 +33,15 @@
       "title": "אינטר מיאמי",
       "trafficCount": "200+",
       "pubDate": "Sat, 2 Aug 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt3cJjeR_XRAavuvX2Ta-VZBckCxUK2UWFeqxD8IhdtqC1Sqv0nt02hPBUvKg",
-      "pictureSource": "ynet",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz5q14wCycIP_3rS0jtcIRQHzwhxzF2gnAog2cQAyvFg6sxElFg7qivn9VkJk",
+      "pictureSource": "ONE",
       "relatedSearch": [
+        {
+          "title": "מדאיג: מסי נפצע והוחלף, מיאמי ניצחה בפנדלים",
+          "snippet": "",
+          "url": "https://www.one.co.il/Article/25-26/3,1203,9579,32662/498049.html",
+          "source": "ONE"
+        },
         {
           "title": "סיבה לדאגה? לאו מסי נפצע והוחלף אחרי 11 דקות בלבד",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.sport5.co.il/articles.aspx?FolderID=11355&docID=514329",
           "source": "ספורט 5"
-        },
-        {
-          "title": "עולם הכדורגל עוקב בדאגה: מסי נפצע וירד מהמגרש על סף דמעות",
-          "snippet": "",
-          "url": "https://sports.walla.co.il/item/3770103",
-          "source": "וואלה ספורט"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,16 +164,16 @@
           "source": "מעריב"
         },
         {
-          "title": "כוכב ערוץ 14 מסתבך אחרי אמירה אומללה: ''פשוט מאוד טיפש''",
-          "snippet": "",
-          "url": "https://www.ice.co.il/tv/news/article/1077388",
-          "source": "ice (אייס)"
-        },
-        {
           "title": "\"טיפש כזה לא ראיתי\": זו כנראה הפדיחה המביכה ביותר של ערוץ 14",
           "snippet": "",
           "url": "https://www.maariv.co.il/culture/tv/article-1220096",
           "source": "מעריב"
+        },
+        {
+          "title": "כוכב ערוץ 14 מסתבך אחרי אמירה אומללה: ''פשוט מאוד טיפש''",
+          "snippet": "",
+          "url": "https://www.ice.co.il/tv/news/article/1077388",
+          "source": "ice (אייס)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -207,40 +207,34 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "בית המקדש",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 2 Aug 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEiKtjW5qx0e_vU27NL6cFBzna6Q38li-Q_Hky2L_xaHPy-kQk7nqIS0SqEC8",
-      "pictureSource": "ערוץ 7",
-      "relatedSearch": [
-        {
-          "title": "הדרך הנכונה לבנות את בית המקדש",
-          "snippet": "",
-          "url": "https://www.inn.co.il/news/675503",
-          "source": "ערוץ 7"
-        },
-        {
-          "title": "דבר תורה מהרב ציון כהן על פרשת דברים / שבת חזון",
-          "snippet": "",
-          "url": "https://www.bhol.co.il/news/1701141",
-          "source": "בחדרי חרדים"
-        },
-        {
-          "title": "מה התרומה שלי לבנין בית המקדש? | הגאון רבי ציון כהן",
-          "snippet": "",
-          "url": "https://hm-news.co.il/572465/",
-          "source": "המחדש"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "קול חי",
       "trafficCount": "200+",
       "pubDate": "Sat, 2 Aug 2025 11:30:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מאי גולן",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 2 Aug 2025 11:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuEPFI-57NLKOKVtG-ZRRsKv-IXLVjLN9opYyf6_To5dVtmdCPP--4kzcDe98",
+      "pictureSource": "Mako",
+      "relatedSearch": [
+        {
+          "title": "\"הציעו לנו תקציב של שלושה מיליון\": עדות השוחד שמסבכת את השרה מאי גולן",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-politics/2025_q3/Article-2623a6b298b6891027.htm",
+          "source": "Mako"
+        },
+        {
+          "title": "השרה מאי גולן מסתבכת בענק: \"הציעו לי שוחד במיליונים\"",
+          "snippet": "",
+          "url": "https://www.ice.co.il/law/news/article/1077463",
+          "source": "ice (אייס)"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
