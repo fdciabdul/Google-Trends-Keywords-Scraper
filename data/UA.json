@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-04 04:34:25",
+  "lastUpdate": "2025-08-04 04:58:46",
   "data": [
     {
       "title": "погода у львові",
@@ -61,26 +61,26 @@
       "title": "корреспондент",
       "trafficCount": "100+",
       "pubDate": "Sun, 3 Aug 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsjIW8S5YmLmsf5684q8MbO6NoMg6c7REqdk1kOT9SzTuDZpVHcNVhK8UuXY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFPwvETpvW97oyxmFXH15p9OMDNSw-JXzbgH_DBpmzlJOTkxjEjcLOpe-bEMo",
       "pictureSource": "Korrespondent.net",
       "relatedSearch": [
         {
-          "title": "Польща матиме найбільше танків у Європі",
+          "title": "Підсумки 03.08: Сутичка селян з ТЦК і анонс обміну",
           "snippet": "",
-          "url": "https://ua.korrespondent.net/world/4804817-polscha-matyme-naibilshe-tankiv-u-yevropi",
+          "url": "https://ua.korrespondent.net/ukraine/4804751-pidsumky-0308-sutychka-selian-z-ttsk-i-anons-obminu",
           "source": "Korrespondent.net"
         },
         {
-          "title": "Польща закупить ще 180 корейських танків К2 на 6,7 мільярда доларів",
+          "title": "У Миколаївській області селяни з битами напали на військових ТЦК, є постраждалі",
           "snippet": "",
-          "url": "https://www.eurointegration.com.ua/news/2025/08/1/7217126/",
-          "source": "Європейська правда"
+          "url": "https://www.pravda.com.ua/news/2025/08/3/7524618/",
+          "source": "Українська правда"
         },
         {
-          "title": "Початок відродження танкобудування Польщі: підписано контракт про закупівлю локалізованих K2PL на $6,7 млрд",
+          "title": "На Миколаївщині селяни з битами та металевими трубами напали на військовослужбовців ТЦК. Є постраждалі",
           "snippet": "",
-          "url": "https://defence-ua.com/weapon_and_tech/pochatok_vidrodzhennja_tankobuduvannja_polschi_pidpisano_kontrakt_pro_zakupivlju_lokalizovanih_k2pl_na_67_mlrd_dolariv-19735.html",
-          "source": "Defense Express"
+          "url": "https://hromadske.ua/rehiony/249046-na-mykolayivshchyni-liudy-z-bytamy-ta-metalevymy-trubamy-napaly-na-viyskovosluzbovtsiv-ttsk-ye-postrazdali",
+          "source": "Hromadske"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +89,54 @@
       "title": "погода днепр",
       "trafficCount": "1000+",
       "pubDate": "Sun, 3 Aug 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuTXbk7O1Qd6VOHX4kg0vorUdqRK7hf3VLStRuOfaFhyFFnKS3pUstuDfRaNM",
-      "pictureSource": "Politeka",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQcqUKI44Z8ETCDJJwdmoDBJsd1fDFkpetnE9wLyPzqhV4B1ldvPrjzQGikg",
+      "pictureSource": "УНИАН",
       "relatedSearch": [
         {
-          "title": "Прогноз погоды в Днепре на неделю с 4 по 10 августа: синоптики назвали даты, когда придет прохлада",
+          "title": "В Днепре срочно объявили І уровень опасности: что произошло (инфографика)",
           "snippet": "",
-          "url": "https://first.politeka.net/456178-prognoz-pogodi-u-dnipri-na-tizhden-z-4-po-10-serpnya-sinoptiki-nazvali-dati-koli-priyde-proholoda",
+          "url": "https://www.unian.net/pogoda/news/pogoda-v-dnepre-srochno-obyavili-i-uroven-opasnosti-v-dnepre-srochno-obyavili-i-uroven-opasnosti-novosti-dnepra-13082382.html",
+          "source": "УНИАН"
+        },
+        {
+          "title": "Прогноз погоды по Днепропетровской области и городу Днепр на 1 августа.",
+          "snippet": "",
+          "url": "https://dnepr.news/news/prognoz-pogody-po-dnepropetrovskoy-oblasti-i-gorodu-dnepr-na-1-avgusta",
+          "source": "Dnepr.news"
+        },
+        {
+          "title": "Испытание жарой заканчивается: на Днепр и область надвигается непогода",
+          "snippet": "",
+          "url": "https://www.056.ua/ru/news/3980029/ispytanie-zaroj-zakancivaetsa-na-dnepr-i-oblast-nadvigaetsa-nepogoda",
+          "source": "056.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода запоріжжя",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 3 Aug 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ9ieFA_YWOtf8mu834siHqWbWXheN52p0y--5NHlXV1czVwaoW-LOQAjuSY8",
+      "pictureSource": "Газета МИГ",
+      "relatedSearch": [
+        {
+          "title": "Какой будет погода в Запорожье в первые три дня недели – прогноз синоптиков",
+          "snippet": "",
+          "url": "https://mig.com.ua/ru/kakoj-budet-pohoda-v-zaporozhe-v-pervye-try-dnia-nedely-prohnoz-synoptykov-18/",
+          "source": "Газета МИГ"
+        },
+        {
+          "title": "В Запорожской области объявили штормовое предупреждение: ожидаются грозы и шквалы",
+          "snippet": "",
+          "url": "https://www.061.ua/ru/news/3981658/v-zaporozskoj-oblasti-obavili-stormovoe-preduprezdenie-ozidautsa-grozy-i-skvaly",
+          "source": "061.ua"
+        },
+        {
+          "title": "Прогноз погоды в Запорожье на неделю с 4 по 10 августа: жара отступит, когда столбики термометра опустятс...",
+          "snippet": "",
+          "url": "https://first.politeka.net/456177-prognoz-pogodi-u-zaporizhzhi-na-tizhden-z-4-po-10-serpnya-speka-vidstupit-koli-stovbchiki-termometra-opustyatsya",
           "source": "Politeka"
-        },
-        {
-          "title": "Берите зонтики: в Днепре 3 августа возможен слабый дождь",
-          "snippet": "",
-          "url": "https://dp.informator.ua/ru/berite-zontiki-v-dnepre-3-avgusta-vozmozhen-slabyy-dozhd",
-          "source": "Інформатор Дніпро"
-        },
-        {
-          "title": "Какая будет погода в Днепре в августе 2025 года",
-          "snippet": "",
-          "url": "https://dp.vgorode.ua/news/sobytyia/a1280064-kakaja-budet-pohoda-v-dnepre-v-avhuste-2025-hoda",
-          "source": "Vgorode.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,13 +145,13 @@
       "title": "4 серпня свято",
       "trafficCount": "100+",
       "pubDate": "Sun, 3 Aug 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGIoXuVkbKwOyWayRjAnZZDEKl3dCRUZIBItpEtRcee6Ho8kow4TM2oOHh14Y",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEFNLzEGiRXentG9_HtWrBwNuNysSr_o-bmD75OYqprG5DsmBhm5Ubhda8io",
       "pictureSource": "УНІАН",
       "relatedSearch": [
         {
-          "title": "4 серпня: сьогодні церковне свято, що важливо встигнути зробити на городі",
+          "title": "Чому сьогодні потрібно їсти ягоди: обов'язковий звичай у свято 4 серпня 2025",
           "snippet": "",
-          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-4-serpnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13085535.html",
+          "url": "https://www.unian.ua/lite/holidays/kakoy-segodnya-prazdnik-4-avgusta-2025-primety-tradicii-zaprety-13074651.html",
           "source": "УНІАН"
         },
         {
@@ -133,10 +161,10 @@
           "source": "ТСН"
         },
         {
-          "title": "4 серпня: яке сьогодні свято, традиції та заборони",
+          "title": "4 серпня: Яке сьогодні свято, все про цей день",
           "snippet": "",
-          "url": "https://glavcom.ua/country/society/4-serpnja-jake-sohodni-svjato-traditsiji-ta-zaboroni-1071462.html",
-          "source": "Главком"
+          "url": "https://interfax.com.ua/news/general/1092947.html",
+          "source": "Інтерфакс-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://sport24.ua/ru/football/news/123717-chernomorec-obygral-klub-legendy-shahtera-v-debjutnom-matche-novogo-sezona-pervoj-ligi",
           "source": "Спорт 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "манчестер юнайтед",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 3 Aug 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0kG9sBduD4EXRQTWxj-gQ41iE4Wi7Le5gMTumvsvLWj7rRdoOv5_Qas66goc",
-      "pictureSource": "Champion.com.ua",
-      "relatedSearch": [
-        {
-          "title": "Аморим: Хочу остаться в Манчестер Юнайтед на следующие 20 лет",
-          "snippet": "",
-          "url": "https://champion.com.ua/rus/football/amorim-rasskazal-skolko-on-hochet-trenirovat-manchester-yunayted-1045476/",
-          "source": "Champion.com.ua"
-        },
-        {
-          "title": "Аморим рассказал о наказании для игроков «МЮ» — его можно получить всего за одну плохую тренировку",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/blogs/3143529-amorim-rozpoviv-pro-pokarannya-dlya-hravtsiv-myu-yoho-mozhna-o/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Аморим: «Новое здание в Каррингтоне достроено очень вовремя»",
-          "snippet": "",
-          "url": "https://manutd.one/news/14974-amorim-novoe-zdanie-v-karringtone-dostroeno-ochen-vovremja.html",
-          "source": "Манчестер Юнайтед | ManUtd.One"
         }
       ],
       "link": "https://imtaqin.id/"
