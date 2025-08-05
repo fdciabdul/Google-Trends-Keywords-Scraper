@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2025-08-05 17:48:30",
+  "lastUpdate": "2025-08-05 17:56:13",
   "data": [
     {
-      "title": "openai",
+      "title": "gpt oss",
       "trafficCount": "2000+",
       "pubDate": "Tue, 5 Aug 2025 10:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAlIrarKhxnS5jB6KsOXedvycyqCEblcQxfo1Gjc2k1GGm5r24RhBx2cDLv4I",
@@ -30,29 +30,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "vaccines",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk7qj90jiYeKLoBEOKaRPWnFbNGkZ1s7t94F9zNjixlnRJBHvbkw9eJlj7G7w",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Covid cases rising in US as officials plan to restrict booster vaccines",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/aug/05/us-covid-cases-rising",
+          "source": "The Guardian"
+        },
+        {
+          "title": "KFF Tracking Poll on Health Information and Trust: COVID-19 Vaccine Update",
+          "snippet": "",
+          "url": "https://www.kff.org/health-information-trust/poll-finding/kff-tracking-poll-on-health-information-and-trust-covid-19-vaccine-update/",
+          "source": "KFF"
+        },
+        {
+          "title": "KFF poll shows most Americans plan to skip fall COVID booster",
+          "snippet": "",
+          "url": "https://www.cidrap.umn.edu/covid-19/kff-poll-shows-most-americans-plan-skip-fall-covid-booster",
+          "source": "CIDRAP"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "immunizations",
       "trafficCount": "2000+",
       "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9tXnBVuce028jrsn3MVBRo2kU_MG6KnBZonoY5quczbq9h1TLP0jOmffkZPw",
-      "pictureSource": "352today",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQovZPZ2HufTWE9aOpzQj_6lAv3Jb7kHUp5OA7Yp2Rzf_J6Fn4k-W_ZxyL1HSs",
+      "pictureSource": "ABC11",
       "relatedSearch": [
         {
-          "title": "DOH-Marion hosts back-to-school immunization clinics across county",
+          "title": "Back to school vaccine list | Wake County Public Health Department hosting first back-to-school immunization clinic",
           "snippet": "",
-          "url": "https://352today.com/news/257752-doh-marion-hosts-back-to-school-immunization-clinics-across-county/",
-          "source": "352today"
+          "url": "https://abc11.com/post/back-school-vaccine-list-wake-county-public-health-department-hosting-first-immunization-clinic/17440019/",
+          "source": "ABC11"
         },
         {
-          "title": "CDC data: Connecticut has highest measles vaccination rate in country",
+          "title": "Do students need to be vaccinated to go to school in SLO County? What to know",
           "snippet": "",
-          "url": "https://www.wtnh.com/news/health/cdc-data-connecticut-has-highest-measles-vaccination-rate-in-country/",
-          "source": "WTNH.com"
+          "url": "https://www.sanluisobispo.com/news/health-and-medicine/article311553203.html",
+          "source": "San Luis Obispo Tribune"
         },
         {
-          "title": "Opinion | Connecticut Rises Above Quackery Of US Secretary Of Health And Human Services",
+          "title": "Former CDC director encourages vaccines as children head back to school",
           "snippet": "",
-          "url": "https://ctnewsjunkie.com/2025/07/30/opinion-connecticut-rises-above-quackery-of-us-secretary-of-health-and-human-services/",
-          "source": "CT News Junkie"
+          "url": "https://www.kcra.com/article/former-cdc-director-encourages-vaccines-children-back-to-school/65592657",
+          "source": "KCRA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,62 +109,6 @@
           "snippet": "",
           "url": "https://www.realclearhealth.com/2025/07/30/a_badly-needed_mercury_chemistry_lesson_for_rfk_jr_1125899.html",
           "source": "RealClearHealth"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vaccines",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQovZPZ2HufTWE9aOpzQj_6lAv3Jb7kHUp5OA7Yp2Rzf_J6Fn4k-W_ZxyL1HSs",
-      "pictureSource": "ABC11",
-      "relatedSearch": [
-        {
-          "title": "Back to school vaccine list | Wake County Public Health Department hosting first back-to-school immunization clinic",
-          "snippet": "",
-          "url": "https://abc11.com/post/back-school-vaccine-list-wake-county-public-health-department-hosting-first-immunization-clinic/17440019/",
-          "source": "ABC11"
-        },
-        {
-          "title": "Do students need to be vaccinated to go to school in SLO County? What to know",
-          "snippet": "",
-          "url": "https://www.sanluisobispo.com/news/health-and-medicine/article311553203.html",
-          "source": "San Luis Obispo Tribune"
-        },
-        {
-          "title": "Former CDC director encourages vaccines as children head back to school",
-          "snippet": "",
-          "url": "https://www.kcra.com/article/former-cdc-director-encourages-vaccines-children-back-to-school/65592657",
-          "source": "KCRA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vaccinations",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 5 Aug 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk7qj90jiYeKLoBEOKaRPWnFbNGkZ1s7t94F9zNjixlnRJBHvbkw9eJlj7G7w",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Covid cases rising in US as officials plan to restrict booster vaccines",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/aug/05/us-covid-cases-rising",
-          "source": "The Guardian"
-        },
-        {
-          "title": "KFF Tracking Poll on Health Information and Trust: COVID-19 Vaccine Update",
-          "snippet": "",
-          "url": "https://www.kff.org/health-information-trust/poll-finding/kff-tracking-poll-on-health-information-and-trust-covid-19-vaccine-update/",
-          "source": "KFF"
-        },
-        {
-          "title": "KFF poll shows most Americans plan to skip fall COVID booster",
-          "snippet": "",
-          "url": "https://www.cidrap.umn.edu/covid-19/kff-poll-shows-most-americans-plan-skip-fall-covid-booster",
-          "source": "CIDRAP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,10 +155,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "House committee subpoenas the Clintons and several top former DOJ officials for testimony on Jeffrey Epstein",
+          "title": "Trump tells reporters to look at Clinton, former Treasury Secretary Larry Summers when asked about Epstein",
           "snippet": "",
-          "url": "https://www.nbcnews.com/politics/congress/house-committee-subpoenas-clintons-several-top-former-doj-officials-te-rcna223127",
-          "source": "NBC News"
+          "url": "https://www.foxnews.com/politics/comer-subpoenas-clintons-trumps-doj-house-oversights-epstein-probe",
+          "source": "Fox News"
         },
         {
           "title": "House Republicans issue subpoena for Jeffrey Epstein files",
@@ -241,8 +213,8 @@
         {
           "title": "Her parents died 9 days apart, but Sarah Silverman gets the last laugh in 'PostMortem'",
           "snippet": "",
-          "url": "https://www.vpm.org/npr-news/2025-08-05/her-parents-died-9-days-apart-but-sarah-silverman-gets-the-last-laugh-in-postmortem",
-          "source": "VPM"
+          "url": "https://www.ideastream.org/2025-08-05/her-parents-died-9-days-apart-but-sarah-silverman-gets-the-last-laugh-in-postmortem",
+          "source": "Ideastream"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,10 +239,38 @@
           "source": "RPP"
         },
         {
-          "title": "Ver Liga 1 MAX EN VIVO: Universitario - Alianza Universidad por internet",
+          "title": "Jorge Fossati sobre el choque con Alianza UDH: «Sera un partido duro»",
           "snippet": "",
-          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/liga-1-max-en-vivo-por-internet-donde-ver-universitario-vs-alianza-universidad-online-gratis-hoy-via-futbol-libre-tv-online-video-noticia/",
-          "source": "El Comercio Perú"
+          "url": "https://tudiariohuanuco.pe/deporte/jorge-fossati-sobre-el-choque-con-alianza-udh-sera-un-partido-duro/",
+          "source": "Tu Diario Huánuco"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "james cook",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 5 Aug 2025 09:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0sdNHizoLeOhMzte4CZpsFu2jJ3hXO-XrmxvcqjvWz3dEbALxjoeO4ylktHI",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Bills RB Cook, seeking extension, sits out again",
+          "snippet": "",
+          "url": "https://www.espn.com/nfl/story/_/id/45900294/bills-rb-james-cook-seeking-extension-sits-again",
+          "source": "ESPN"
+        },
+        {
+          "title": "Brandon Beane: James Cook Update, Early Camp Standouts",
+          "snippet": "",
+          "url": "https://www.buffalobills.com/video/brandon-beane-james-cook-update-early-camp-standouts",
+          "source": "Buffalo Bills"
+        },
+        {
+          "title": "James Cook sits out Bills practices amid contract negotiations, calls it ‘business’",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/6533534/2025/08/03/bills-james-cook-practice-contract/",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
