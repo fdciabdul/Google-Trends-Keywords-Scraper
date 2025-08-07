@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-08-07 08:08:48",
+  "lastUpdate": "2025-08-07 08:21:51",
   "data": [
     {
       "title": "новости крыма",
       "trafficCount": "200+",
       "pubDate": "Wed, 6 Aug 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FjJrX-5MTGuPXcRHWKaF9f97MVyyPo4B1DxW4YCjIkia_b86vsgaU94r2HA",
-      "pictureSource": "Новости Севастополя | ОБЪЕКТИВ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7G8N3-ITXHNjsR3exDYdLYTIL4jFoJGcOhq6prXKin78LcatI0zHeer3DFg0",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
+        {
+          "title": "Задерживаются 11 поездов в Крым и из Крыма",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1040040",
+          "source": "Интерфакс"
+        },
         {
           "title": "Поезда из Крыма и в Крым задерживаются",
           "snippet": "",
           "url": "https://obyektiv.press/news/poezda-iz-kryma-i-v-krym-zaderzhivayutsya",
           "source": "Новости Севастополя | ОБЪЕКТИВ"
-        },
-        {
-          "title": "В Крым и из Крыма задерживаются одиннадцать поездов «Таврия»",
-          "snippet": "",
-          "url": "https://stv92.ru/news/news-11595/",
-          "source": "stv92"
         },
         {
           "title": "Более 10 поездов задерживаются по пути в Крым и обратно",
@@ -33,26 +33,54 @@
       "title": "херсон",
       "trafficCount": "200+",
       "pubDate": "Wed, 6 Aug 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4i5VeQPifbkp-oKqQTG8KxqVtX0nW9KyWY_Fdqhpl66v9B3mgJXx031yXXMM",
-      "pictureSource": "Інтерфакс-Україна",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCdIZCO4wKQAPwXqm4eMfR0aE3PdUppRXXfYsIG-1gpCo-RdqvUK2YxHmVZF8",
+      "pictureSource": "Укрінформ",
       "relatedSearch": [
         {
-          "title": "УКК помогает эвакуировать жителей микрорайона Корабел в Херсоне",
+          "title": "У Херсоні показали, як виглядає зсередини зруйнована росіянами будівля ОДА",
           "snippet": "",
-          "url": "https://ua.interfax.com.ua/news/general/1093748.html",
-          "source": "Інтерфакс-Україна"
+          "url": "https://www.ukrinform.ua/rubric-regions/4022774-u-hersoni-pokazali-ak-vigladae-zseredini-zrujnovana-rosianami-budivla-oda.html",
+          "source": "Укрінформ"
         },
         {
-          "title": "Силы обороны юга рассказали об обстановке вокруг Херсона и опровергли \"высадку ДРГ в городе\"",
+          "title": "«Це був кінець світу». Обстрілом мосту до «Острова» Росія розпочинає наступ на Херсон?",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/08/5/7524882/",
-          "source": "Українська правда"
+          "url": "https://www.radiosvoboda.org/a/novyny-pryazovya-kherson-udar-mist-ostriv-nastup/33494339.html",
+          "source": "Радіо Свобода"
         },
         {
-          "title": "«Акт террора». Появились первые фото изнутри разрушенного Россией здания Херсонской ОВА",
+          "title": "У Херсоні триває евакуація з райну Корабел",
           "snippet": "",
-          "url": "https://nv.ua/ukraine/events/obstrel-hersona-vpervye-opublikovany-foto-razrusheniy-iz-zdaniya-hersonskoy-ova-voyna-v-ukraine-50535182.html",
-          "source": "NV.ua"
+          "url": "https://ua.korrespondent.net/ukraine/4805621-u-khersoni-tryvaie-evakuatsiia-z-rainu-korabel",
+          "source": "Korrespondent.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "7 серпня",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 6 Aug 2025 21:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQjNi6WZ5dnsOepES_dlRXr2JbWjlMWfHEOAQWzuNNKd9YYLUq0Uu8ivNjtU",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "Гороскоп на 7 серпня за картами Таро: Рибам - радість, Близнюкам - тривога",
+          "snippet": "",
+          "url": "https://www.unian.ua/lite/astrology/goroskop-na-zavtra-za-kartami-taro-ribam-radist-bliznyukam-trivoga-13089582.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Гороскоп на 7 серпня для всіх знаків зодіаку: день, коли небеса влаштують нам на іспит на витримку",
+          "snippet": "",
+          "url": "https://tsn.ua/lady/astrologiya/horoskop-na-7-serpnia-dlia-vsikh-znakiv-zodiaku-den-koly-nebesa-vlashtuiut-nam-na-ispyt-na-vytrymku-2883302.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Притягнуть удачу, кохання та гроші: ці 4 знаки Зодіаку знайдуть своє щастя",
+          "snippet": "",
+          "url": "https://www.rbc.ua/rus/news/prityagnut-udachu-kohannya-ta-groshi-tsi-1754418993.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "украинская правда",
       "trafficCount": "100+",
       "pubDate": "Wed, 6 Aug 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEt6PKlROhkWqCijhf1y67Evivn4ibuxa3OfiTKOA1HbeBgtm93jZkRFFgDiI",
-      "pictureSource": "NV.ua",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbA3qaExTxcbl_7scpyYlt6615WxuF47MYBUEVEeYKnk0sGq-oF1I1Z2gRCCE",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Россию массированно атаковали дроны: в Краснодарском крае горят НПЗ и воинская часть — фото, видео",
+          "title": "Экс-начальник СИЗО в Таганроге лично приказывал пытать журналистку Рощину – Нацполиция",
           "snippet": "",
-          "url": "https://nv.ua/world/countries/ataka-bpla-na-krasnodarskiy-kray-pozhar-na-voinskoy-chasti-i-npz-50535296.html",
-          "source": "NV.ua"
+          "url": "https://www.pravda.com.ua/rus/news/2025/08/7/7525101/",
+          "source": "Українська правда"
         },
         {
-          "title": "Неизвестные дроны атаковали Краснодарский край РФ: горит НПЗ и военная часть",
+          "title": "Экс-начальник Таганрогского СИЗО сам приказывал пытать журналистку Викторию Рощину. Ему сообщили о подозрении",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/nevidomi-droni-atakuvali-krasnodarskiy-kray-1754543161.html",
+          "url": "https://hromadske.ua/ru/obshchestvo/249230-eks-nachalnik-taganrogskogo-sizo-sam-prikazyval-pytat-zhurnalistku-viktoriyu-roschinu-emu-soobschili-o-podozrenii",
+          "source": "Hromadske"
+        },
+        {
+          "title": "Организовал пытки украинской журналистки Рощиной: руководителю СИЗО объявили подозрение",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/organizuvav-torturi-ukrayinskoyi-zhurnalistki-1754549648.html",
           "source": "РБК-Україна"
-        },
-        {
-          "title": "Дроны атаковали Афипский НПЗ в Краснодарском крае",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/drony-atakovali-afipskij-npz-v-krasnodarskom-krae-i-drugie-obekty/a-73554848",
-          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://atn.ua/kharkiv/pohirshennia-pohody-na-kharkivshchyni-sohodni-prohnozuiut-hrozy-shkvaly-ta-hrad-483249/",
           "source": "АТН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода кривой рог",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 6 Aug 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHB5QSs6G5kcFHrNPt03fqjlBh6Hke3BuHuFp6SOxu2Roc0CPtEtGzDxaxpJk",
-      "pictureSource": "Первый Криворожский",
-      "relatedSearch": [
-        {
-          "title": "Жара спадет: погода в Кривом Роге 7 августа",
-          "snippet": "",
-          "url": "https://1kr.ua/news-104420.html",
-          "source": "Первый Криворожский"
-        },
-        {
-          "title": "Какую погоду прогнозируют в Кривом Роге 6 августа",
-          "snippet": "",
-          "url": "https://1kr.ua/news-104392.html",
-          "source": "Первый Криворожский"
-        },
-        {
-          "title": "Какая погода будет в Кривом Роге 3 августа",
-          "snippet": "",
-          "url": "https://1kr.ua/news-104321.html",
-          "source": "Первый Криворожский"
         }
       ],
       "link": "https://imtaqin.id/"
