@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2025-08-07 05:08:29",
+  "lastUpdate": "2025-08-07 05:22:11",
   "data": [
     {
-      "title": "7 серпня",
+      "title": "украинская правда",
       "trafficCount": "100+",
-      "pubDate": "Wed, 6 Aug 2025 21:50:00 -0700",
+      "pubDate": "Wed, 6 Aug 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREODzH55Y5hvzUlg-AnVrb505r_2sCP2ib8CYLGnHFDjXPPuewbLl2v9xhJPo",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Дроны атаковали НПЗ и воинскую часть в Краснодарском крае РФ – бушуют пожары",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/08/7/7525082/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Неизвестные дроны атаковали Краснодарский край РФ: горит НПЗ и военная часть",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/nevidomi-droni-atakuvali-krasnodarskiy-kray-1754543161.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Мирный житель пострадал при атаке БПЛА на Краснодарский край",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1040011",
+          "source": "Интерфакс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "7 серпня свято",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 6 Aug 2025 21:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0G9Sus2bdeEuYNcdmXf09OeR3GNqvRxLJV_18Fyuv2s38AWlHGMVlJa_ZCds",
       "pictureSource": "УНІАН",
       "relatedSearch": [
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://glavcom.ua/country/society/7-serpnja-jake-sohodni-svjato-traditsiji-ta-zaboroni-1072025.html",
           "source": "Главком"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "украинская правда",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 6 Aug 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbimA66IW-7aq3LlcaZN4oqzGRyvy7QVuYjDgZmUVM76ncgSDHfKZ4HomGtM",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Рубио озвучил предпосылки встречи Трампа с Зеленским и Путиным",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/08/7/7525070/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "CNN: идею о встрече с Трампом Путин предложил на переговорах с Уиткоффом",
-          "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2025/08/7/7217491/",
-          "source": "Європейська правда"
-        },
-        {
-          "title": "Трамп призвал свою команду быстро готовить встречи с Путиным и Зеленским, - CNN",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/tramp-zaklikav-svoyu-komandu-shvidko-gotuvati-1754531266.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "погода на сьогодні",
       "trafficCount": "200+",
       "pubDate": "Wed, 6 Aug 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6g802ZuIzV6fn0CsOP8wxChHsBN_sBA8tBb8-htYpoKZysXpqSnpL2hjUag",
-      "pictureSource": "Патріот Донбасу",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYTkyhKVy0Av0qMQjFDhQE_kheKDHu_gKDSxfzPkhDAo8E4ARcltzRJ8mVJcs",
+      "pictureSource": "ТСН",
       "relatedSearch": [
+        {
+          "title": "Прогноз на 7 серпня: погода в Україні кардинально зміниться",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/prohnoz-na-7-serpnia-pohoda-v-ukrayini-kardynalno-zminytsia-2885660.html",
+          "source": "ТСН"
+        },
         {
           "title": "Погода 7 серпня: в Україні стане прохолодніше, опадів не передбачається",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://agrotimes.ua/agronomiya/pogoda-v-ukrayini-u-bilshosti-regioniv-projdut-doshhi/",
           "source": "Форум «ДЕНЬ АГРОНОМА»"
-        },
-        {
-          "title": "Дощі зі шквалистим вітром: де сьогодні суттєво погіршиться погода",
-          "snippet": "",
-          "url": "https://www.rbc.ua/rus/news/doshchi-zi-shkvalistim-vitrom-de-sogodni-1754400567.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Суспільне | Новини"
         },
         {
+          "title": "У четвер на Харківщині можливе погіршення погоди | Новини Харкова та України - АТН",
+          "snippet": "",
+          "url": "https://atn.ua/kharkiv/u-chetver-na-kharkivshchyni-mozhlyve-pohirshennia-pohody-483213/",
+          "source": "АТН"
+        },
+        {
           "title": "Погода - прогноз на 7 серпня, в яких областях будуть грози, град, шквали - новини України - 24 Канал",
           "snippet": "",
           "url": "https://24tv.ua/pogoda-prognoz-7-serpnya-yakih-oblastyah-budut-grozi-grad-shkvali_n2888044",
           "source": "24 Канал"
-        },
-        {
-          "title": "У Харкові завтра до +32°С: синоптики попередили про спекотний день без опадів",
-          "snippet": "",
-          "url": "https://112.ua/speka-ne-vidstupae-cogo-ocikuvati-harkivanam-vid-pogodi-zavtra-75519",
-          "source": "112.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "Патріот Донбасу"
         },
         {
-          "title": "У Черкасах хореографка зібрала понад 1 млн грн на поїздку дітей до Грузії і програла у казино. Жінці повідомлено про підозру",
-          "snippet": "",
-          "url": "https://gp.gov.ua/ua/posts/u-cerkasax-xoreografka-zibrala-ponad-1-mln-grn-na-poyizdku-ditei-do-gruziyi-i-prograla-u-kazino-zinci-povidomleno-pro-pidozru",
-          "source": "Офіс Генерального прокурора"
-        },
-        {
           "title": "Програш у азартні ігри понад 1,3 мільйона: черкаській тренерці повідомили про підозру у шахрайстві",
           "snippet": "",
           "url": "https://suspilne.media/cherkasy/1071563-zibrala-ponad-miljon-griven-na-poizdku-z-ucnami-u-gruziu-cerkaskij-vcitelci-z-horeografii-povidomili-pro-pidozru/",
           "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Програла в казино ₴1 мільйон на дитячу поїздку до Грузії: оголосили підозру хореографині з Черкас",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-regions/4022765-prograla-v-kazino-1-miljon-na-ditacu-poizdku-do-gruzii-ogolosili-pidozru-horeografini-z-cerkas.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
