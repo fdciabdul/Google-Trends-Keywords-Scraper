@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-08-10 17:50:39",
+  "lastUpdate": "2025-08-10 17:57:39",
   "data": [
-    {
-      "title": "haberler",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 10 Aug 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfq4HRAM6Z4OeC2zV_ieQ1ouEkuZfbW15tzwDNAO6IW8DLW7UAIDODuLhtrA",
-      "pictureSource": "Milliyet",
-      "relatedSearch": [
-        {
-          "title": "Kara yolu bir anda çöktü! Söke-Kuşadası yolu ulaşıma kapatıldı",
-          "snippet": "",
-          "url": "https://www.milliyet.com.tr/milliyet-tv/kara-yolu-bir-anda-coktu-soke-kusadasi-yolu-ulasima-kapatildi-video-7424249",
-          "source": "Milliyet"
-        },
-        {
-          "title": "Aydın'da yol çöktü",
-          "snippet": "",
-          "url": "https://www.bursasaati.com.tr/aydinda-yol-coktu",
-          "source": "Bursa Saati Gazetesi"
-        },
-        {
-          "title": "Söke-Kuşadası yolunda çökme",
-          "snippet": "",
-          "url": "https://www.aydindenge.com.tr/soke/10/08/2025/sokekusadasi-yolunda-cokme",
-          "source": "Aydın Denge Haber"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "türkei",
       "trafficCount": "500+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://rp-online.de/politik/ausland/starker-anstieg-tuerkei-haelt-so-viele-deutsche-fest-wie-nie_aid-132558189",
           "source": "RP Online"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "haberler",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 10 Aug 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdg4Vv_z20JQNoGBHWYPy4ZKXE1AZWybWCHZFtG_p_4-OQnugm56sSI74bgss",
+      "pictureSource": "Kayseri Deniz Postası",
+      "relatedSearch": [
+        {
+          "title": "Altından bile çok kazandıracak: Yeni yatırım açıklandı",
+          "snippet": "",
+          "url": "https://www.denizpostasi.com/altindan-bile-cok-kazandiracak-yeni-yatirim-aciklandi",
+          "source": "Kayseri Deniz Postası"
+        },
+        {
+          "title": "Emtia piyasalarında bu hafta jeopolitik gelişmeler ve Fed’in faiz indirimi fiyatlandı",
+          "snippet": "",
+          "url": "https://www.ekoturk.com/haberler/emtia-piyasalarinda-bu-hafta-jeopolitik-gelismeler-ve-fedin-faiz-indirimi-fiyatlandi/",
+          "source": "ekotürk"
+        },
+        {
+          "title": "HSBC Bank , gümüş fiyatı tahminlerini yükseltti",
+          "snippet": "",
+          "url": "https://www.ekonomidunya.com/hsbc-bank-gumus-fiyati-tahminlerini-yukseltti/85548/",
+          "source": "Ekonomi Dünya"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "FAZ"
         },
         {
-          "title": "Bas und Chrupalla beim Sommerinterview: Alle Informationen zu den Live-Sendungen",
-          "snippet": "",
-          "url": "https://www.fr.de/politik/bas-und-chrupalla-beim-sommerinterview-alle-infos-zur-live-sendung-zr-93875926.html",
-          "source": "Frankfurter Rundschau"
-        },
-        {
           "title": "Sommerinterview mit Bas und Chrupalla: Hier können Sie die Live-Sendungen sehen",
           "snippet": "",
           "url": "https://www.merkur.de/politik/sommerinterview-mit-bas-und-chrupalla-hier-koennen-sie-die-live-sendungen-sehen-93876063.html",
           "source": "Merkur"
+        },
+        {
+          "title": "AfD-Chef über Merz-Regierung: Chrupalla im \"Berlin direkt - Sommerinterview\" - Hier im Livestream ansehen",
+          "snippet": "",
+          "url": "https://www.prosieben.de/serien/newstime/news/afd-chef-ueber-merz-regierung-chrupalla-im-berlin-direkt-sommerinterview-hier-im-livestream-ansehen-575225",
+          "source": "ProSieben"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "FAZ"
         },
         {
-          "title": "Premier verteidigt Gaza-Plan: Netanjahu sieht Merz von Fake News beeinflusst",
+          "title": "AfD-Chef: Chrupalla unterstützt Merz‘ Waffenlieferstopp",
           "snippet": "",
-          "url": "https://www.n-tv.de/politik/Netanjahu-sieht-Merz-von-Fake-News-beeinflusst-article25956611.html",
-          "source": "Ntv"
+          "url": "https://www.welt.de/politik/deutschland/article68988d93204e050eae23552b/afd-chef-chrupalla-unterstuetzt-merz-waffenlieferstopp.html",
+          "source": "WELT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,9 +257,15 @@
       "title": "görlitz",
       "trafficCount": "1000+",
       "pubDate": "Sun, 10 Aug 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe-rVNfXQOawIC_et1OizLRW4qw7dfZbanfwxAtpzLhdbEIvgocZtv0Lq8X-Q",
-      "pictureSource": "Sächsische Zeitung",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiR6CYwlZYk8S2ma75QX3OlA_rkqWcSkq-EiIdhO55ePWFMyRL8w3w0qAn-tU",
+      "pictureSource": "MDR",
       "relatedSearch": [
+        {
+          "title": "Chris de Burgh begeistert bei Konzert in Görlitz",
+          "snippet": "",
+          "url": "https://www.mdr.de/video/mdr-videos/a/video-945814.html",
+          "source": "MDR"
+        },
         {
           "title": "Chris de Burgh in Topform: Mitreißendes Konzert in Görlitz",
           "snippet": "",
@@ -271,12 +277,6 @@
           "snippet": "",
           "url": "https://www.schwaebische.de/kultur/wuerdiges-festival-finale-de-burgh-performt-114-minuten-nonstop-mit-klaren-botschaften-im-gepaeck-3810960",
           "source": "Schwaebische.de"
-        },
-        {
-          "title": "Eyrichshof: Leise Töne auf der Schlossbühne in Eyrichshof: Chris de Burgh blickte zurück auf 50 Jahre seiner Karriere",
-          "snippet": "",
-          "url": "https://www.mainpost.de/hassberge/botevomhassgau/eyrichshof-leise-toene-auf-der-schlossbuehne-in-eyrichshof-chris-de-burgh-blickte-zurueck-auf-50-jahre-seiner-karriere-110449040",
-          "source": "Main-Post"
         }
       ],
       "link": "https://imtaqin.id/"
