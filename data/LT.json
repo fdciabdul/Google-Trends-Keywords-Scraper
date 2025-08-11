@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-11 10:04:47",
+  "lastUpdate": "2025-08-11 10:16:07",
   "data": [
     {
       "title": "horoskopas",
@@ -33,13 +33,19 @@
       "title": "lama bpo",
       "trafficCount": "1000+",
       "pubDate": "Sun, 10 Aug 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf5Ot-mk8CghlbSdQaxG7t2GUsUbF-qssmDKNfeD3kG8uxa62J6oyXXQ2PhNg",
-      "pictureSource": "LRT",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfmjWvxli-rvxq4uSQilT-hYQ9AHiKjaLs4mRCVQeShsVT1qOIQRMUoJu6-_s",
+      "pictureSource": "15min.lt",
       "relatedSearch": [
         {
           "title": "LAMA BPO skelbs pagrindinio priėmimo į aukštąsias mokyklas rezultatus",
           "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/svietimas/45/2640019/lama-bpo-skelbs-pagrindinio-priemimo-i-aukstasias-mokyklas-rezultatus",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/lama-bpo-skelbs-pagrindinio-priemimo-i-aukstasias-mokyklas-rezultatus-56-2503958",
+          "source": "15min.lt"
+        },
+        {
+          "title": "Kolegijos ir universitetai ruošiasi studentų antplūdžiui",
+          "snippet": "",
+          "url": "https://www.lrt.lt/radioteka/irasas/2000460038/kolegijos-ir-universitetai-ruosiasi-studentu-antpludziui",
           "source": "LRT"
         },
         {
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://kauno.diena.lt/naujienos/lietuva/salies-pulsas/po-dovanos-abiturientams-desimtmeti-neregeta-situacija-1714617",
           "source": "Kauno diena"
-        },
-        {
-          "title": "Prašymus studijuoti pirmosios pakopos ir vientisąsias studijas pateikė 27,2 tūkst. stojančiųjų",
-          "snippet": "",
-          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/prasymus-studijuoti-pirmosios-pakopos-ir-vientisasias-studijas-pateike-272-tukst-stojanciuju-56-2502390",
-          "source": "15min.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "tv3 play",
       "trafficCount": "500+",
       "pubDate": "Sun, 10 Aug 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBwbY8YalT64VALiN_ervCSYDigkb3_E7LJ5FmBjN3BXKJQSg7QD9miFQbfPc",
-      "pictureSource": "tv3.lt",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYPZJL6Fg3C6WTWnBE3HJmVgFgo9FvUP2H7nGpjvcnJr4soFa3ebK53YFAUPo",
+      "pictureSource": "Delfi",
       "relatedSearch": [
+        {
+          "title": "Zelenskis nevynioja į vatą – Rusija apgaudinėja Vašingtoną",
+          "snippet": "",
+          "url": "https://www.delfi.lt/news/daily/world/zelenskis-nevynioja-i-vata-rusija-apgaudineja-vasingtona-120135255",
+          "source": "Delfi"
+        },
         {
           "title": "Zelenskis įspėja apie Maskvos planus derybose su Trumpu: „Mes to neleisime“",
           "snippet": "",
@@ -75,12 +81,34 @@
           "snippet": "",
           "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2640016/karas-ukrainoje-zelenskis-ragina-didinti-spaudima-rusijai-taikyti-grieztesnes-sankcijas",
           "source": "LRT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tv3 tiesiogiai",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 10 Aug 2025 09:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGIzNXxX14_ccFvQGXEM0cv-scJH6cFICpoXDviqQKZP8Kfoy4BkVlASjGI78",
+      "pictureSource": "Delfi",
+      "relatedSearch": [
+        {
+          "title": "Po ilgo laukimo su rinktinės marškinėliais pasirodęs Valančiūnas: bandysiu pasivyti",
+          "snippet": "",
+          "url": "https://www.delfi.lt/krepsinis/eurobasket-2025/po-ilgo-laukimo-su-rinktines-marskineliais-pasirodes-valanciunas-bandysiu-pasivyti-120135209",
+          "source": "Delfi"
         },
         {
-          "title": "Vokiečių kancleris: tikimės, kad šiame susitikime dalyvaus ir Zelenskis",
+          "title": "Valančiūno forma stebėjęsis Kurtinaitis: „Jis – besąlygiškas mūsų lyderis“ / Naujienos",
           "snippet": "",
-          "url": "https://diena.lt/naujienos/pasaulis/ekonomika-ir-politika/vokieciu-kancleris-tikimes-kad-siame-susitikime-dalyvaus-ir-zelenskis-1714783",
-          "source": "Diena.lt"
+          "url": "https://www.basketnews.lt/news-229168-valanciuno-forma-stebejesis-kurtinaitis-jis-besalygiskas-musu-lyderis.html",
+          "source": "BasketNews.lt"
+        },
+        {
+          "title": "Iš Valančiūno pakrizenęs Jokubaitis – atviras dėl tikslo EČ: „Nebijome apie tai kalbėti“",
+          "snippet": "",
+          "url": "https://www.15min.lt/24sek/naujiena/lietuva/is-valanciuno-pakrizenes-jokubaitis-atviras-del-tikslo-ec-nebijome-apie-tai-kalbeti-875-2503950",
+          "source": "15min.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,34 +137,6 @@
           "snippet": "",
           "url": "https://www.tv3.lt/naujiena/zmones/broliai-maciai-po-12-metu-pertraukos-atvyko-i-krepsinio-varzybas-jiems-tai-istorine-diena-n1442701",
           "source": "tv3.lt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lietuva sakartvelas",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 10 Aug 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpsmBqaS1kj7bQ1Pof2jN8iOpVuvXJf7IEW6bjMqZ5erNvVXGWtO425djePPE",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Po ilgo laukimo su rinktinės marškinėliais pasirodęs Valančiūnas: bandysiu pasivyti",
-          "snippet": "",
-          "url": "https://www.delfi.lt/krepsinis/eurobasket-2025/po-ilgo-laukimo-su-rinktines-marskineliais-pasirodes-valanciunas-bandysiu-pasivyti-120135209",
-          "source": "Delfi"
-        },
-        {
-          "title": "Valančiūno forma stebėjęsis Kurtinaitis: „Jis – besąlygiškas mūsų lyderis“ / Naujienos",
-          "snippet": "",
-          "url": "https://www.basketnews.lt/news-229168-valanciuno-forma-stebejesis-kurtinaitis-jis-besalygiskas-musu-lyderis.html",
-          "source": "BasketNews.lt"
-        },
-        {
-          "title": "Iš Valančiūno pakrizenęs Jokubaitis – atviras dėl tikslo EČ: „Nebijome apie tai kalbėti“",
-          "snippet": "",
-          "url": "https://www.15min.lt/24sek/naujiena/lietuva/is-valanciuno-pakrizenes-jokubaitis-atviras-del-tikslo-ec-nebijome-apie-tai-kalbeti-875-2503950",
-          "source": "15min.lt"
         }
       ],
       "link": "https://imtaqin.id/"
