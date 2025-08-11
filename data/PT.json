@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-11 15:18:13",
+  "lastUpdate": "2025-08-11 15:32:11",
   "data": [
     {
       "title": "taiwan",
@@ -31,7 +31,7 @@
     },
     {
       "title": "pablo rosario",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 11 Aug 2025 07:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo3cRMVV9YQF3vZ3RIc3LffneMer7mGR7HS6w45I6MCyPw36fRPsMJtXIAhcQ",
       "pictureSource": "A Bola",
@@ -117,9 +117,16 @@
       "title": "temperaturas",
       "trafficCount": "500+",
       "pubDate": "Mon, 11 Aug 2025 05:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3NJqyEMJiWzanYbCprDwRqTbvfKIA3u1Z2LlinPr_GWGpBH_MEEAh1S_8ZnU",
+      "pictureSource": "Teleprensa",
+      "relatedSearch": [
+        {
+          "title": "El calor activa mañana los avisos en más de una treintena de provincias, con máximas de hasta 42ºC",
+          "snippet": "",
+          "url": "https://www.teleprensa.com/articulo/nacional-3/calor-activa-manana-avisos-mas-treintena-provincias-maximas-42oc/202508031442202186638.html",
+          "source": "Teleprensa"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -136,16 +143,16 @@
           "source": "A Bola"
         },
         {
-          "title": "Al Nassr fecha mais um reforço sonante depois de garantir João Félix",
-          "snippet": "",
-          "url": "https://www.ojogo.pt/5938063533/al-nassr-fecha-mais-um-reforco-sonante-depois-de-garantir-joao-felix/",
-          "source": "O Jogo"
-        },
-        {
           "title": "Al Nassr: Jorge Jesus e Cristiano Ronaldo recebem reforço de peso vindo do Bayern Munique",
           "snippet": "",
           "url": "https://sportinforma.sapo.pt/futebol/super-liga-saudita/artigos/al-nassr-jorge-jesus-e-cristiano-ronaldo-recebem-reforco-de-peso-vindo-do-bayern-munique",
           "source": "Sportinforma"
+        },
+        {
+          "title": "Mercado: reforços em Casa Pia e Rio Ave, Sesko oficial e Samu e Pavlidis protegidos",
+          "snippet": "",
+          "url": "https://www.ojogo.pt/8409523731/mercado-reforcos-em-casa-pia-e-rio-ave-sesko-oficial-e-samu-e-pavlidis-protegidos/",
+          "source": "O Jogo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,9 +199,9 @@
           "source": "EL PAÍS"
         },
         {
-          "title": "Se apaga la vida de un joven que encarnaba los anhelos por una nueva Colombia: Consejo de Estado",
+          "title": "“Me mostraba orgulloso cada vez que su hijo hacía cualquier cosa”: Carlos Meisel sobre Miguel Uribe",
           "snippet": "",
-          "url": "https://www.wradio.com.co/2025/08/11/se-apaga-la-vida-de-un-joven-que-encarnaba-los-anhelos-por-una-nueva-colombia-consejo-de-estado/",
+          "url": "https://www.wradio.com.co/2025/08/11/me-mostraba-orgulloso-cada-vez-que-su-hijo-hacia-cualquier-cosa-carlos-meisel-sobre-miguel-uribe/",
           "source": "W Radio"
         },
         {
@@ -248,10 +255,10 @@
           "source": "G1"
         },
         {
-          "title": "Avião de deputado cai nos Lençóis Maranhenses e deixa dois mortos",
+          "title": "Dois mortos em queda de avião de deputado brasileiro no estado do Maranhão",
           "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ma/aviao-de-deputado-cai-nos-lencois-maranhenses-e-deixa-dois-mortos/",
-          "source": "CNN Brasil"
+          "url": "https://www.cmjornal.pt/mundo/detalhe/dois-mortos-em-queda-de-aviao-de-deputado-brasileiro-no-estado-do-maranhao",
+          "source": "Correio da Manhã"
         },
         {
           "title": "Veterinária morta em queda de avião no MA viajava para ver o pai",
