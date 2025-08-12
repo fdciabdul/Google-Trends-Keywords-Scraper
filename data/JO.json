@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-08-12 13:11:07",
+  "lastUpdate": "2025-08-12 13:26:30",
   "data": [
     {
       "title": "سمير حليلة",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 12 Aug 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmW7VHRiRXpGZjVQrycJAcBJeqDHSPjiv-QFo_4w66NCu0WXcakAVaDxDhmCA",
-      "pictureSource": "القدس العربي",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0fsh_-xqYpi-qOhff2eF0pC_YnOvzsrDvHUAOkkK-Ap44ACPjkZeZrWbdsWQ",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "سمير حليلة يقول إنَّ \"المقترح الأمريكي\" بشأن إدارة غزة شهد انقساماً بين الدول العربية، و\"الرئاسة الفلسطينية\" تنفي تعيين حاكم للقطاع",
+          "snippet": "",
+          "url": "https://www.bbc.com/arabic/articles/cqxggqpe9rzo",
+          "source": "BBC"
+        },
         {
           "title": "رجل أعمال يبدي موافقته على تعيينه حاكما لقطاع غزة بشروط.. والرئاسة الفلسطينية ترد- (فيديو)",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.maannews.net/news/2145031.html",
           "source": "وكـالـة مـعـا الاخـبـارية"
-        },
-        {
-          "title": "إعلام فلسطيني: اتفاق وشيك لوقف إطلاق النار في غزة سيُعلنه ترامب يتضمن وقف اجتياح المدينة ودخول الجيش المصري",
-          "snippet": "",
-          "url": "https://www.sarayanews.com/mobile/article/1028016/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%88%D8%B4%D9%8A%D9%83-%D9%84%D9%88%D9%82%D9%81-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9",
-          "source": "سرايا"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,13 +61,69 @@
       "title": "طقس عمان",
       "trafficCount": "500+",
       "pubDate": "Mon, 11 Aug 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwH_zXkM-kB57DYhAIR7MYzLGhFAptR7Zcp8Hudjm1jw08ZurQGjkZtHKS6lc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEum31yGILSDNAI7t-SEQYCPCYGAG47rBlu-AheAuMZQBrCuWlhMB-VUP_8LQ",
       "pictureSource": "رؤيا الإخباري",
       "relatedSearch": [
         {
-          "title": "طقس العرب: الأغوار الوسطى على رأس قائمة المناطق الأشد حرارة على مستوى المملكة اليوم الاثنين",
+          "title": "طقس العرب: موجات غبارية كثيفة تتسبب في تدنٍّ كبير بمدى الرؤية بعدة مناطق في الأردن",
           "snippet": "",
-          "url": "https://royanews.tv/news/356254",
+          "url": "https://royanews.tv/news/356174",
+          "source": "رؤيا الإخباري"
+        },
+        {
+          "title": "\"الأرصاد الجوية\": تشكل غيوم رعدية في مختلف المناطق",
+          "snippet": "",
+          "url": "https://www.sarayanews.com/mobile/article/1027881/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%B4%D9%83%D9%84-%D8%BA%D9%8A%D9%88%D9%85-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82",
+          "source": "سرايا"
+        },
+        {
+          "title": "أجواء غبارية.. ودعوات لمرضى التنفسية للتعامل بحذر مع الطقس...",
+          "snippet": "",
+          "url": "https://alghad.com/Section-199/%D8%A7%D9%84%D8%BA%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A/%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%BA%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%85%D8%B1%D8%B6%D9%89-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AD%D8%B0%D8%B1-%D9%85%D8%B9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-2041174",
+          "source": "جريدة الغد"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 11 Aug 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU4AcjJIX_UWI8okoCeVeeTaVMwkwuU4D7_PM0OclWegV3aQyLynr__D0CETg",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Why weather forecasters often get it wrong - or appear to",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/articles/cwy1epz58pyo",
+          "source": "BBC"
+        },
+        {
+          "title": "BBC's Carol Kirkwood admits she 'occasionally gets it wrong'",
+          "snippet": "",
+          "url": "https://www.walesonline.co.uk/lifestyle/showbiz/bbcs-carol-kirkwood-admits-occasionally-32214720",
+          "source": "Wales Online"
+        },
+        {
+          "title": "BBC and Met Office kiss and make up",
+          "snippet": "",
+          "url": "https://www.newsbiscuit.com/post/bbc-and-met-office-kiss-and-make-up",
+          "source": "NewsBiscuit"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس العرب عمان",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 11 Aug 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdFWCFst9lVit5KOkCHgGbs9AZJceeUgFGU1PpnAlyUnU_Vk26vQG2xm0llHo",
+      "pictureSource": "رؤيا الإخباري",
+      "relatedSearch": [
+        {
+          "title": "الموجة الحارة تبلغ ذروتها في الأردن الثلاثاء والأربعاء والخميس (تفاصيل)",
+          "snippet": "",
+          "url": "https://royanews.tv/news/356302",
           "source": "رؤيا الإخباري"
         },
         {
@@ -86,59 +142,12 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weather",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 11 Aug 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7jQynP1VEcC_qORYJj0bs94pI33VSUAq92rPL9ONHpFznOwq2LoxH0Hnrro",
-      "pictureSource": "Yahoo News Canada",
-      "relatedSearch": [
-        {
-          "title": "Brits flock outdoors as temperatures hit 29°C in parts of England",
-          "snippet": "",
-          "url": "https://ca.news.yahoo.com/brits-flock-outdoors-temperatures-hit-074338349.html",
-          "source": "Yahoo News Canada"
-        },
-        {
-          "title": "Interactive map shows London's coolest places to relax as city boils in 34C heatwave",
-          "snippet": "",
-          "url": "https://www.standard.co.uk/news/london/interactive-map-london-coolest-places-heatwave-b1242578.html",
-          "source": "London Evening Standard"
-        },
-        {
-          "title": "Met Office week ahead forecast: Hot spells for much of the UK",
-          "snippet": "",
-          "url": "https://www.metoffice.gov.uk/blog/2025/met-office-week-ahead-forecast-august-12",
-          "source": "Met Office"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "جامعة الزرقاء",
       "trafficCount": "100+",
       "pubDate": "Mon, 11 Aug 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWsgPcuTJtSHhAdBFMZfNTpo6QMM0D4SWKd8cPowCoj5u51XRxqjvPiN8hLbg",
-      "pictureSource": "طلبة نيوز للإعلام الحر",
-      "relatedSearch": [
-        {
-          "title": "إعلان توظيف صادر عن جامعة الزرقاء",
-          "snippet": "",
-          "url": "https://www.talabanews.net/ar/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1-12",
-          "source": "طلبة نيوز للإعلام الحر"
-        },
-        {
-          "title": "جامعة الزرقاء تعلن حاجتها لتعيين عضو هيئة تدريس في قسم الرياضيات",
-          "snippet": "",
-          "url": "https://alsaa.net/article/614383/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AD%D8%A7%D8%AC%D8%AA%D9%87%D8%A7",
-          "source": "مدار الساعة"
-        },
-        {
-          "title": "«فرص واعدة» وظائف الجامعات تفتح أبوابها للكفاءات الأكاديمية",
-          "snippet": "",
-          "url": "https://iqraa24.com/29182/%D9%81%D8%B1%D8%B5-%D9%88%D8%A7%D8%B9%D8%AF%D8%A9-%D9%88%D8%B8%D8%A7%D8%A6%D9%81-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-2/",
-          "source": "اقرأ 24"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -213,7 +222,7 @@
         {
           "title": "الأردن يطلق أول تخصص جامعي للطائرات المسيرة",
           "snippet": "",
-          "url": "https://www.sarayanews.com/mobile/article/1028002/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%B7%D9%84%D9%82-%D8%A3%D9%88%D9%84-%D8%AA%D8%AE%D8%B5%D8%B5-%D8%AC%D8%A7%D9%85%D8%B9%D9%8A-%D9%84%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9",
+          "url": "https://www.sarayanews.com/article/1028002/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%B7%D9%84%D9%82-%D8%A3%D9%88%D9%84-%D8%AA%D8%AE%D8%B5%D8%B5-%D8%AC%D8%A7%D9%85%D8%B9%D9%8A-%D9%84%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9",
           "source": "سرايا"
         },
         {
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://www.almasryalyoum.com/news/details/3522977",
           "source": "المصري اليوم"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "عوني مطيع",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 11 Aug 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKXWZQcSKb2MiwN77o7dBvCoUqfp7I1pZKyPWHxhS-MME8avdEXZaCTVqupZA",
-      "pictureSource": "سرايا",
-      "relatedSearch": [
-        {
-          "title": "ملف \"قضية الدخان\" يعود للواجهة بطلب تسوية من عوني مطيع",
-          "snippet": "",
-          "url": "https://www.sarayanews.com/mobile/article/1027843/%D9%85%D9%84%D9%81-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86-%D9%8A%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A8%D8%B7%D9%84%D8%A8-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%88%D9%86%D9%8A-%D9%85%D8%B7%D9%8A%D8%B9",
-          "source": "سرايا"
-        },
-        {
-          "title": "عوني مطيع يطلب تسوية مع الحكومة في \"قضية الدخان\"",
-          "snippet": "",
-          "url": "https://factjo.com/news.aspx?Id=243400",
-          "source": "وكالة الحقيقة الدولية الاخبارية"
-        },
-        {
-          "title": "الأردن.. طلب تسوية من عوني مطيع يعيد قضية الدخان إلى الواجهة",
-          "snippet": "",
-          "url": "https://almashhad.com/article/773112298002792-News/810961184999541-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%B7%D9%84%D8%A8-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%88%D9%86%D9%8A-%D9%85%D8%B7%D9%8A%D8%B9-%D9%8A%D8%B9%D9%8A%D8%AF-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%AE%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9/",
-          "source": "قناة ومنصة المشهد"
         }
       ],
       "link": "https://imtaqin.id/"
