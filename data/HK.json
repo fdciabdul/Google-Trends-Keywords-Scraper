@@ -1,9 +1,46 @@
 {
-  "lastUpdate": "2025-08-13 23:50:18",
+  "lastUpdate": "2025-08-13 23:57:13",
   "data": [
     {
-      "title": "天",
+      "title": "weather today",
       "trafficCount": "100+",
+      "pubDate": "Wed, 13 Aug 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToo9GVj4WJek6V7uD2yyl2U9kFoIQvoMM7hzdqcwyQrdEvNE-4X1dHML_Vjuw",
+      "pictureSource": "Maui Now",
+      "relatedSearch": [
+        {
+          "title": "Maui Weather Forecast for August 13, 2025",
+          "snippet": "",
+          "url": "https://mauinow.com/2025/08/13/maui-weather-forecast-for-august-13-2025/",
+          "source": "Maui Now"
+        },
+        {
+          "title": "Maui Weather Forecast for August 10, 2025",
+          "snippet": "",
+          "url": "https://mauinow.com/2025/08/10/maui-weather-forecast-for-august-10-2025/",
+          "source": "Maui Now"
+        },
+        {
+          "title": "Maui Weather Forecast for August 12, 2025",
+          "snippet": "",
+          "url": "https://mauinow.com/2025/08/12/maui-weather-forecast-for-august-12-2025/",
+          "source": "Maui Now"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "紅雨停課",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 13 Aug 2025 16:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "天",
+      "trafficCount": "200+",
       "pubDate": "Wed, 13 Aug 2025 16:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGwkWCwpmJSLLv0r3rlJFe4WihOgTsTsSRvqPinjEkMsCHUgbFkiNaO5lHGII",
       "pictureSource": "Yahoo 財經",
@@ -59,7 +96,7 @@
     },
     {
       "title": "observatory",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 13 Aug 2025 16:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFhjTNJe5XGKCdg6SUID4kiQibNE4RzJZTKO8R0qFTQnJh7nCdYuvM3wKSjq8",
       "pictureSource": "NASA (.gov)",
@@ -86,21 +123,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "停課",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 13 Aug 2025 16:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "天文台",
-      "trafficCount": "20000+",
+      "trafficCount": "50000+",
       "pubDate": "Wed, 13 Aug 2025 15:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8YtZWd-cJk8J_tCtzCsPvRW--ECdpwXgeVYgSLNEfhlEdLv61KXl4r1SLoHw",
+      "pictureSource": "Yahoo 財經",
+      "relatedSearch": [
+        {
+          "title": "本地｜天文台上午7時50分改發黑色暴雨警告",
+          "snippet": "",
+          "url": "https://hk.finance.yahoo.com/news/%E6%9C%AC%E5%9C%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E4%B8%8A%E5%8D%887%E6%99%8250%E5%88%86%E6%94%B9%E7%99%BC%E9%BB%91%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A-235134788.html",
+          "source": "Yahoo 財經"
+        },
+        {
+          "title": "颱風楊柳｜一號風球生效 今日間中有驟雨狂風雷暴 雨勢有時頗大",
+          "snippet": "",
+          "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60266396/%E9%A2%B1%E9%A2%A8%E6%A5%8A%E6%9F%B3-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E7%94%9F%E6%95%88-%E4%BB%8A%E6%97%A5%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E9%A0%97%E5%A4%A7",
+          "source": "香港01"
+        },
+        {
+          "title": "天氣｜港島南區有大暴雨或現嚴重水浸 每小時雨量料或已逾100毫米",
+          "snippet": "",
+          "url": "https://news.tvb.com/tc/local/689cc3c998fc21abcad96801/%E6%B8%AF%E6%BE%B3-%E5%A4%A9%E6%B0%A3%EF%BD%9C%E6%B8%AF%E5%B3%B6%E5%8D%97%E5%8D%80%E6%9C%89%E5%A4%A7%E6%9A%B4%E9%9B%A8%E6%88%96%E7%8F%BE%E5%9A%B4%E9%87%8D%E6%B0%B4%E6%B5%B8-%E6%AF%8F%E5%B0%8F%E6%99%82%E9%9B%A8%E9%87%8F%E6%96%99%E6%88%96%E5%B7%B2%E9%80%BE100%E6%AF%AB%E7%B1%B3",
+          "source": "news.tvb.com"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -160,8 +207,17 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "紅雨 返工",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 13 Aug 2025 15:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather forecast",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 13 Aug 2025 15:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlTSUxq6jY0UewQ8vAjRUEomOot6Pxv1fYjrbqSBhZKJXB5Vmd_BKiYoKTQgw",
       "pictureSource": "NEWS10 ABC",
@@ -185,43 +241,6 @@
           "source": "WPTV"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "10000+",
-      "pubDate": "Wed, 13 Aug 2025 15:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIXmg6iTCVlP1jfBNPUchXRpzO8jAFRdj-S7J2aMNA6fXi8JHoGpe0cdcooVA",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Typhoon Podul blows through southern Taiwan leaving one person missing",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/environment/typhoon-podul-blows-through-southern-taiwan-leaving-one-person-missing-2025-08-13/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Typhoon Podul brings no major damage as it crosses Taiwan and heads for China",
-          "snippet": "",
-          "url": "https://apnews.com/article/taiwan-typhoon-crop-damage-7ac077d3644bb29e9ba43467a0c77c3d",
-          "source": "AP News"
-        },
-        {
-          "title": "Typhoon Podul lashes southern Taiwan leaving one person missing",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2025/8/13/typhoon-podul-intensifies-on-approach-to-southern-taiwan",
-          "source": "Al Jazeera"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "教育局",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 13 Aug 2025 15:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
