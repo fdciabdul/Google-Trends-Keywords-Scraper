@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-13 05:37:08",
+  "lastUpdate": "2025-08-13 05:46:53",
   "data": [
     {
       "title": "全運會",
@@ -42,16 +42,16 @@
           "source": "香港01"
         },
         {
-          "title": "惡劣天氣引發舊樓危機｜何鉅業",
-          "snippet": "",
-          "url": "https://www.stheadline.com/realtime-property/3489268/%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E5%BC%95%E7%99%BC%E8%88%8A%E6%A8%93%E5%8D%B1%E6%A9%9F%E4%BD%95%E9%89%85%E6%A5%AD",
-          "source": "星島頭條"
-        },
-        {
           "title": "高宏苑黑雨後單位滲水苦主逾百 房署：或與業主自行改動有關",
           "snippet": "",
           "url": "https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813120620222-0813_00822_001.html",
           "source": "on.cc東網"
+        },
+        {
+          "title": "惡劣天氣引發舊樓危機｜何鉅業",
+          "snippet": "",
+          "url": "https://www.stheadline.com/realtime-property/3489268/%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E5%BC%95%E7%99%BC%E8%88%8A%E6%A8%93%E5%8D%B1%E6%A9%9F%E4%BD%95%E9%89%85%E6%A5%AD",
+          "source": "星島頭條"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -70,10 +70,10 @@
           "source": "CNBC"
         },
         {
-          "title": "AI start-up Perplexity makes surprise $34.5bn bid for Google Chrome",
+          "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c3dpr0kkyz4o",
-          "source": "BBC"
+          "url": "https://www.cnn.com/2025/08/12/tech/perplexity-google-chrome-bid",
+          "source": "CNN"
         },
         {
           "title": "Perplexity’s PR Genius",
@@ -151,7 +151,7 @@
     },
     {
       "title": "台灣颱風",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Tue, 12 Aug 2025 16:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGtdKT1ZDwTOsyQ4NL1H_F_4UrfGV6e9o8jzqbTTWy_ooF1PHFjirxSer8UnA",
       "pictureSource": "奇摩新聞",
@@ -181,9 +181,28 @@
       "title": "颱風",
       "trafficCount": "1000+",
       "pubDate": "Tue, 12 Aug 2025 16:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzDnlzuBVF6i_m7IMG2ATrhWDNZbY6kR1uX_iuwIGcBmEHQmK-m4-Iom6s4s8",
+      "pictureSource": "Yahoo News - HK",
+      "relatedSearch": [
+        {
+          "title": "打風評估・楊柳｜天文台 08:40 發一號波評估需否今日稍後至周四初時改發更高信號｜不斷更新｜Yahoo",
+          "snippet": "",
+          "url": "https://hk.news.yahoo.com/%E6%89%93%E9%A2%A8%E8%A9%95%E4%BC%B0%E3%83%BB%E6%A5%8A%E6%9F%B3%EF%BD%9C%E5%A4%A9%E6%96%87%E5%8F%B0-0840-%E7%99%BC%E4%B8%80%E8%99%9F%E6%B3%A2-%E8%A9%95%E4%BC%B0%E9%9C%80%E5%90%A6%E4%BB%8A%E6%97%A5%E7%A8%8D%E5%BE%8C%E8%87%B3%E5%91%A8%E5%9B%9B%E5%88%9D%E6%99%82%E6%94%B9%E7%99%BC%E6%9B%B4%E9%AB%98%E4%BF%A1%E8%99%9F%EF%BD%9C%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BD%9Cyahoo-045227919.html",
+          "source": "Yahoo News - HK"
+        },
+        {
+          "title": "一號信號料今日日間維持 天文台評估是否今晚至明早改發三號信號",
+          "snippet": "",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1817925-20250813.htm",
+          "source": "香港電台"
+        },
+        {
+          "title": "天文台：今日大部分時間維持一號戒備信號財經新聞Financial News",
+          "snippet": "",
+          "url": "http://www.aastocks.com/tc/mobile/news.aspx?newsid=NOW.1460637&newstype=71&newssource=AAFN",
+          "source": "AASTOCKS.com"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
