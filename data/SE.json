@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-14 19:07:38",
+  "lastUpdate": "2025-08-14 19:18:20",
   "data": [
     {
       "title": "الطقس غدًا",
@@ -133,38 +133,10 @@
           "source": "Västerbottens-Kuriren"
         },
         {
-          "title": "Oväder drar in över länet – SMHI åskvarnar",
+          "title": "Varning för åskoväder",
           "snippet": "",
-          "url": "https://www.op.se/2025-08-14/ovader-drar-in-over-lanet-smhi-askvarnar/",
-          "source": "Östersunds-Posten"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nerja",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 14 Aug 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnZV_pZJBZY-W_f1uzXApt0sLhg8GTAxTeypL7bChXrpc-W8NtYo70FzpXLUo",
-      "pictureSource": "Ayuntamiento de Nerja",
-      "relatedSearch": [
-        {
-          "title": "Sesión Ordinaria del Pleno de la Corporación",
-          "snippet": "",
-          "url": "https://www.nerja.es/sesion-ordinaria-del-pleno-de-la-corporacion-54/",
-          "source": "Ayuntamiento de Nerja"
-        },
-        {
-          "title": "“Andalucía en tu Sombrilla” emite desde Nerja y realza los tesoros de nuestro destino",
-          "snippet": "",
-          "url": "https://www.infonerja.com/andalucia-en-tu-sombrilla-emite-desde-nerja-y-realza-los-tesoros-de-nuestro-destino/",
-          "source": "Infonerja"
-        },
-        {
-          "title": "Día 31. Nerja, el municipio más televisivo de los 80 que vive asomado a un balcón frente al Mediterráneo",
-          "snippet": "",
-          "url": "https://www.cope.es/emisoras/andalucia/noticias/dia-31-nerja-municipio-televisivo-80-vive-asomado-balcon-frente-mediterraneo-20250813_3198901.html",
-          "source": "COPE"
+          "url": "https://www.vlt.se/2025-08-14/varning-for-askovader/",
+          "source": "VLT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,6 +165,34 @@
           "snippet": "",
           "url": "https://www.cnn.com/2025/08/14/europe/putin-trump-alaska-nuclear-meeting-intl",
           "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nerja",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 14 Aug 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnZV_pZJBZY-W_f1uzXApt0sLhg8GTAxTeypL7bChXrpc-W8NtYo70FzpXLUo",
+      "pictureSource": "Ayuntamiento de Nerja",
+      "relatedSearch": [
+        {
+          "title": "Sesión Ordinaria del Pleno de la Corporación",
+          "snippet": "",
+          "url": "https://www.nerja.es/sesion-ordinaria-del-pleno-de-la-corporacion-54/",
+          "source": "Ayuntamiento de Nerja"
+        },
+        {
+          "title": "“Andalucía en tu Sombrilla” emite desde Nerja y realza los tesoros de nuestro destino",
+          "snippet": "",
+          "url": "https://www.infonerja.com/andalucia-en-tu-sombrilla-emite-desde-nerja-y-realza-los-tesoros-de-nuestro-destino/",
+          "source": "Infonerja"
+        },
+        {
+          "title": "Día 31. Nerja, el municipio más televisivo de los 80 que vive asomado a un balcón frente al Mediterráneo",
+          "snippet": "",
+          "url": "https://www.cope.es/emisoras/andalucia/noticias/dia-31-nerja-municipio-televisivo-80-vive-asomado-balcon-frente-mediterraneo-20250813_3198901.html",
+          "source": "COPE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "aftonbladet sport",
+      "title": "rosenborg bk",
       "trafficCount": "200+",
       "pubDate": "Thu, 14 Aug 2025 10:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvQKpnw4rZhdOA0_5m_OyuK2d1kBwxY_d2QTmW5flvkoz2ElLlE7sGIJfLu0g",
+      "pictureSource": "Aftonbladet",
+      "relatedSearch": [
+        {
+          "title": "Hammarby straffas med böter av Uefa",
+          "snippet": "",
+          "url": "https://www.aftonbladet.se/sportbladet/fotboll/a/RzWBmd/uefa-straffar-hammarby-med-boter-efter-rosenborg-motet",
+          "source": "Aftonbladet"
+        },
+        {
+          "title": "Hammarby straffas - tvingas betala böter",
+          "snippet": "",
+          "url": "https://www.fotbollskanalen.se/europa-conference-league-kval/hammarby-straffas-tvingas-betala-boter/",
+          "source": "Fotbollskanalen"
+        },
+        {
+          "title": "Tvingas böta efter Hammarby-mötet",
+          "snippet": "",
+          "url": "https://www.expressen.se/sport/fotboll/allsvenskan/rosenborg-tvingas-bota-efter-matchen-mot-hammarby/",
+          "source": "Expressen"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
