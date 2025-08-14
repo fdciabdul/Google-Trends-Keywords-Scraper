@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-08-14 04:25:27",
+  "lastUpdate": "2025-08-14 04:40:53",
   "data": [
+    {
+      "title": "news aktuell",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 13 Aug 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1KYXGibydLNdXqoyfWBMA7PmG2AExTiCs-gk1GeY-VLkylzrcV4Cqx3228TM",
+      "pictureSource": "WDR",
+      "relatedSearch": [
+        {
+          "title": "Frontalzusammenstoß in Essen-Horst: Ehepaar schwer verletzt",
+          "snippet": "",
+          "url": "https://www1.wdr.de/nachrichten/ruhrgebiet/unfall-essen-horst-frontal-100.html",
+          "source": "WDR"
+        },
+        {
+          "title": "Zwei Männer bei Frontalzusammenstoß schwer verletzt",
+          "snippet": "",
+          "url": "https://www.ivz-aktuell.de/articles/428062?identifier=2&label=Lokales&sort=Newest&take=10&skip=0",
+          "source": "IVZ-Aktuell"
+        },
+        {
+          "title": "Unfall in Essen-Horst: Flüchtiger Fahrer stellt sich",
+          "snippet": "",
+          "url": "https://www.radioessen.de/artikel/unfall-in-essen-fluechtiger-fahrer-stellt-sich-2409474.html",
+          "source": "Radio Essen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "bild zeitung",
       "trafficCount": "100+",
@@ -33,26 +61,26 @@
       "title": "wetter hitzewelle",
       "trafficCount": "10000+",
       "pubDate": "Wed, 13 Aug 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0XBDcyBk3Iq14456Q6GaxGExImqW-RC-QaEOcOAMTeJ9Rqro7jJcjAOQklYw",
-      "pictureSource": "NDR.de",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu3QeRvsT4k2KrRigio7EK9OlG6fudfud1VdcKVNmVt8N-aSdNbhh_ByDfrlk",
+      "pictureSource": "BILD",
       "relatedSearch": [
-        {
-          "title": "Hitze-Marke von 30 Grad im Norden geknackt: Ansturm auf Freibäder und an den Küsten",
-          "snippet": "",
-          "url": "https://www.ndr.de/nachrichten/info/hochsommer-ist-zurueck-im-norden-es-bleibt-weiter-heiss,wetter-736.html",
-          "source": "NDR.de"
-        },
-        {
-          "title": "Wetterbericht - Wetterdienst warnt vor extremer Wärmebelastung - Panorama - SZ.de",
-          "snippet": "",
-          "url": "https://www.sueddeutsche.de/panorama/wetterbericht-wetterdienst-warnt-vor-extremer-waermebelastung-dpa.urn-newsml-dpa-com-20090101-250814-930-909565",
-          "source": "SZ.de"
-        },
         {
           "title": "Hitzewelle in Deutschland: Neue Rekorde – alle News im Live-Ticker",
           "snippet": "",
           "url": "https://www.bild.de/news/inland/hitzewelle-in-deutschland-heisse-julia-grillt-schon-den-sueden-und-westen-689b34acf3b330071983f56f",
           "source": "BILD"
+        },
+        {
+          "title": "Hitze-Marke von 30 Grad im Norden geknackt: Ansturm auf Freibäder und an den Küsten",
+          "snippet": "",
+          "url": "https://www.ndr.de/nachrichten/info/neuer-hochsommer-tag-im-norden-beginnt,wetter-736.html",
+          "source": "NDR.de"
+        },
+        {
+          "title": "Bis zu 38 Grad und Tropennächte Meteorologen erwarten Höhepunkt der Hitzewelle am Donnerstag",
+          "snippet": "",
+          "url": "https://www.tagesspiegel.de/gesellschaft/panorama/bis-zu-38-grad-und-tropennachte-meteorologen-erwarten-hohepunkt-der-hitzewelle-am-donnerstag-14169074.html",
+          "source": "Tagesspiegel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +89,15 @@
       "title": "donald trump putin",
       "trafficCount": "2000+",
       "pubDate": "Wed, 13 Aug 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC1lCciaYjmbu4DSu5FsOwvCMyzncEgpPcJMP1Ya_s__1HEhTs-8pinzfWnsw",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUlKBrY3DP6zhXRG6kePFRBAnAjAaPdYH_WjfqqiynjyeSlpie83hJfXgjKiA",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Trump-Putin meeting: European leaders tentatively hopeful after call with Trump ahead of Ukraine summit",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cpv0l9e187yo",
+          "source": "BBC"
+        },
         {
           "title": "Ukraine updates: Trump floats meeting with Putin, Zelenskyy",
           "snippet": "",
@@ -71,16 +105,38 @@
           "source": "DW"
         },
         {
-          "title": "‘There will be severe consequences’ if Russia doesn’t agree to end war, Trump warns – Europe live",
+          "title": "After Reassuring Europe, Trump Strikes a Different Tone About Russian Threats",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/aug/13/europe-leaders-ukraine-summit-zelenskyy-trump-putin-live-news-updates",
-          "source": "The Guardian"
+          "url": "https://www.nytimes.com/2025/08/13/us/politics/trump-putin-russian-threats.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "alica schmidt",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 13 Aug 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWa7f-S1HH1GPchpcRbbtGKv9HIhJ_FfM1OjvrlTvLvQYYELa2_nONyUrzpWQ",
+      "pictureSource": "BILD",
+      "relatedSearch": [
+        {
+          "title": "Alica Schmidt verkündet Saisonaus! „Es macht keinen Sinn“",
+          "snippet": "",
+          "url": "https://www.bild.de/sport/mehr-sport/alica-schmidt-verkuendet-saisonaus-es-macht-keinen-sinn-689cb781f3b3300719840d88",
+          "source": "BILD"
         },
         {
-          "title": "Trump-Putin meeting: European leaders tentatively hopeful after call with Trump ahead of Ukraine summit",
+          "title": "„Sexiester Sportler der Welt“ auf dem Rückzug",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cpv0l9e187yo",
-          "source": "BBC"
+          "url": "https://www.vietnam.vn/de/vdv-dien-kinh-quyen-ru-nhat-the-gioi-sa-sut",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Sorgen um Alica Schmidt nach Verkündung von Saison-Aus",
+          "snippet": "",
+          "url": "https://www.bild.de/sport/mehr-sport/alica-schmidt-spricht-offen-ueber-den-grund-fuer-das-ende-ihrer-saison-689ccee3f3b3300719840e77",
+          "source": "BILD"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,6 +165,34 @@
           "snippet": "",
           "url": "https://www.nj.com/shopping-deals/2025/08/wayfairs-limited-time-clearout-sale-ends-soon-save-up-to-84-off-furniture-bedding-outdoor-finds-more.html",
           "source": "NJ.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "btc usd",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 13 Aug 2025 20:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi1eTTqfwSXKy4TQ1lxh4U4Bgb9einSOxd_qbIKH89Pn13Z9Pq85ikS93BPc4",
+      "pictureSource": "Ntv",
+      "relatedSearch": [
+        {
+          "title": "Der Börsen-Tag: Zinsspekulationen drücken auf den Dollar",
+          "snippet": "",
+          "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Zinsspekulationen-druecken-auf-den-Dollar-article25964417.html",
+          "source": "Ntv"
+        },
+        {
+          "title": "Bank of America: Devisenmarkt positioniert sich vor CPI-Daten gegen den US-Dollar",
+          "snippet": "",
+          "url": "https://de.investing.com/news/forex-news/bank-of-america-devisenmarkt-positioniert-sich-vor-cpidaten-gegen-den-usdollar-93CH-3110262",
+          "source": "Investing.com Deutsch"
+        },
+        {
+          "title": "Tagesvideo vom 12. August: Börsen in Wartestellung - Entscheidende Inflationsdaten um 14:30 Uhr! - Treffen zwischen Trump und Putin als Blackbox",
+          "snippet": "",
+          "url": "https://www.cashkurs.com/cashkurs-tv/beitrag/tagesvideo-vom-12-august",
+          "source": "Cashkurs.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,100 +267,16 @@
           "source": "Onet Wiadomości"
         },
         {
-          "title": "IMGW rozszerza alerty. Zapowiada się okropny skwar",
+          "title": "Fala upałów Polsce. Będzie niebezpiecznie",
           "snippet": "",
-          "url": "https://wiadomosci.wp.pl/imgw-rozszerza-alerty-zapowiada-sie-okropny-skwar-7188835181460224a",
+          "url": "https://wiadomosci.wp.pl/fala-upalow-polsce-bedzie-niebezpiecznie-7188790694836832a",
           "source": "WP Wiadomości"
         },
         {
-          "title": "Letni alarm w Polsce, 11 województw z alertami drugiego stopnia. Wszystko zaczyna się w środę",
+          "title": "To był najgorętszy punkt na mapie Polski",
           "snippet": "",
-          "url": "https://wydarzenia.interia.pl/kraj/news-wzbiera-upalna-fala-w-srode-poczujemy-wyrazna-zmiane,nId,22174163",
-          "source": "Wydarzenia w INTERIA.PL"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cardano",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 13 Aug 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCfUdqQJXjnWGS6RAiIgtCYarxoUxtnOO6M1XYQOwbUyiytpjH-t4WQaPaLf0",
-      "pictureSource": "The Block",
-      "relatedSearch": [
-        {
-          "title": "Grayscale registers Cardano, Hedera Trust ETF entities in Delaware, signaling potential S-1 filings",
-          "snippet": "",
-          "url": "https://www.theblock.co/post/366692/grayscale-cardano-hedera-etf-delaware",
-          "source": "The Block"
-        },
-        {
-          "title": "Cardano ETF Approval Odds Hit 80% for 2025 as Grayscale Sparks ADA Rally",
-          "snippet": "",
-          "url": "https://www.bitget.com/news/detail/12560604910497",
-          "source": "Bitget"
-        },
-        {
-          "title": "Grayscale Cardano Trust ETF Registered in Delaware",
-          "snippet": "",
-          "url": "https://www.binance.com/square/post/28236381678474",
-          "source": "Binance"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lottozahlen lotto ziehung",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 13 Aug 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWDdVaTlGumnzkqWu2zW_oT6ibs54o5KHSWbnOyYi8umnDCp85aplegdSobTQ",
-      "pictureSource": "BILD",
-      "relatedSearch": [
-        {
-          "title": "Lotto 6aus49 vom 13.8.2025: Die Lottozahlen von heute",
-          "snippet": "",
-          "url": "https://www.bild.de/news/inland/lotto-6aus49-vom-13-8-2025-die-lottozahlen-von-heute-689c7b48f3b33007198406be",
-          "source": "BILD"
-        },
-        {
-          "title": "Lotto am Mittwoch: Das sind die aktuellen Lotto-Zahlen vom 13. August 2025",
-          "snippet": "",
-          "url": "https://web.de/magazine/panorama/lotto/lotto-mittwoch-aktuellen-lotto-zahlen-13-august-2025-41270576",
-          "source": "WEB.DE"
-        },
-        {
-          "title": "Hier finden Sie die Lottozahlen von Mittwoch, 13. August 2025",
-          "snippet": "",
-          "url": "https://www.stern.de/panorama/weltgeschehen/lottozahlen-heute--die-gewinnzahlen-von-mittwoch--13--august-2025-35963558.html",
-          "source": "STERN.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "térence atmane",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 13 Aug 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2duhzb9tjWftEyefPmCP75MaHYSrqls2_mhi58h4zwuijs-N9tHuh3uHVxlw",
-      "pictureSource": "ATP Tour",
-      "relatedSearch": [
-        {
-          "title": "World No. 136 Atmane shocks Fritz in Cincinnati stunner",
-          "snippet": "",
-          "url": "https://www.atptour.com/en/news/atmane-fritz-cincinnati-2025-upset",
-          "source": "ATP Tour"
-        },
-        {
-          "title": "Khachanov vs. Zverev Prediction at the Western & Southern Open – Wednesday, August 13",
-          "snippet": "",
-          "url": "https://www.bleachernation.com/picks/2025/08/13/khachanov-vs-zverev-prediction-at-the-western-southern-open-wednesday-august-13/",
-          "source": "Bleacher Nation"
-        },
-        {
-          "title": "Terrence Atmane’s Rise to Prominence Continues in Cincinnati",
-          "snippet": "",
-          "url": "https://lastwordonsports.com/tennis/2025/08/12/atmanes-rise-continues-in-cincinnati/",
-          "source": "Last Word On Sports"
+          "url": "https://tvn24.pl/tvnmeteo/polska/to-byl-najgoretszy-punkt-na-mapie-polski-st8598592",
+          "source": "TVN24"
         }
       ],
       "link": "https://imtaqin.id/"
