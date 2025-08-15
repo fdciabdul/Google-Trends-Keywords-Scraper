@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-08-15 23:34:31",
+  "lastUpdate": "2025-08-15 23:43:03",
   "data": [
-    {
-      "title": "новости сегодня",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 15 Aug 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgwOXGX0_TD0EwOUpsULc8zlTR_5EDXLf--xQVXREC9c9u_4Wr09ObepzOr8",
-      "pictureSource": "МОЁ! Online. Все новости Воронежа",
-      "relatedSearch": [
-        {
-          "title": "Скончался легендарный воронежский врач",
-          "snippet": "",
-          "url": "https://moe-online.ru/news/pamyatnoe/1234025",
-          "source": "МОЁ! Online. Все новости Воронежа"
-        },
-        {
-          "title": "🕯 Скончался легендарный воронежский врач",
-          "snippet": "",
-          "url": "https://ok.ru/group/50878141235266/topic/156899786180674",
-          "source": "Одноклассники"
-        },
-        {
-          "title": "Выдающийся врач воронежского онкоцентра умер после долгой болезни",
-          "snippet": "",
-          "url": "https://bloknot-voronezh.ru/news/vydayushchiysya-vrach-voronezhskogo-onkotsentra-um-1888980",
-          "source": "Блокнот Воронеж"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "августа",
       "trafficCount": "100+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://primamedia.ru/news/2187463/",
           "source": "PrimaMedia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости сегодня",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 15 Aug 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgwOXGX0_TD0EwOUpsULc8zlTR_5EDXLf--xQVXREC9c9u_4Wr09ObepzOr8",
+      "pictureSource": "МОЁ! Online. Все новости Воронежа",
+      "relatedSearch": [
+        {
+          "title": "Скончался легендарный воронежский врач",
+          "snippet": "",
+          "url": "https://moe-online.ru/news/pamyatnoe/1234025",
+          "source": "МОЁ! Online. Все новости Воронежа"
+        },
+        {
+          "title": "🕯 Скончался легендарный воронежский врач",
+          "snippet": "",
+          "url": "https://ok.ru/group/50878141235266/topic/156899786180674",
+          "source": "Одноклассники"
+        },
+        {
+          "title": "Выдающийся врач воронежского онкоцентра умер после долгой болезни",
+          "snippet": "",
+          "url": "https://bloknot-voronezh.ru/news/vydayushchiysya-vrach-voronezhskogo-onkotsentra-um-1888980",
+          "source": "Блокнот Воронеж"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +136,16 @@
           "source": "WIRED"
         },
         {
-          "title": "Musk chatbot Grok says it was 'censored' after suspension from X over Gaza posts",
-          "snippet": "",
-          "url": "https://www.france24.com/en/live-news/20250813-chatbot-grok-stirs-confusion-over-suspension-after-gaza-claims",
-          "source": "France 24"
-        },
-        {
           "title": "‘MechaHitler’ Grok may have sunk Elon Musk’s xAI government contract hopes",
           "snippet": "",
           "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-musk-xai-grok-hitler-b2808460.html",
           "source": "The Independent"
+        },
+        {
+          "title": "Musk chatbot Grok says it was 'censored' after suspension from X over Gaza posts",
+          "snippet": "",
+          "url": "https://www.france24.com/en/live-news/20250813-chatbot-grok-stirs-confusion-over-suspension-after-gaza-claims",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,20 +154,20 @@
       "title": "chatgpt",
       "trafficCount": "1000+",
       "pubDate": "Fri, 15 Aug 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNQtl2B61w1vQSkKIYZei7m8v6TZTNsm40MIOAfcmay7uCBHYrBmKC9ZynBWU",
-      "pictureSource": "OpenAI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuXyYebEqoQqyJxmS1Obf4HXbrCZTA2FZYaYriJ6giTSdq3Q2opncUX_PqQ8o",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "Introducing GPT-5",
-          "snippet": "",
-          "url": "https://openai.com/index/introducing-gpt-5/",
-          "source": "OpenAI"
-        },
         {
           "title": "The latest ChatGPT is supposed to be ‘PhD level’ smart. It can’t even label a map",
           "snippet": "",
           "url": "https://edition.cnn.com/2025/08/14/business/chatgpt-rollout-problems",
           "source": "CNN"
+        },
+        {
+          "title": "GPT-5 is here",
+          "snippet": "",
+          "url": "https://openai.com/gpt-5/",
+          "source": "OpenAI"
         },
         {
           "title": "Women with AI ‘boyfriends’ mourn lost love after ‘cold’ ChatGPT upgrade",
