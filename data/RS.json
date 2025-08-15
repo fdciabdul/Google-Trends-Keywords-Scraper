@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-08-15 06:59:51",
+  "lastUpdate": "2025-08-15 07:10:15",
   "data": [
-    {
-      "title": "najnovije vesti",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 14 Aug 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJwHb8WeubKtYsLaJkvHKzZM2HI4SB3Q87LB4StvP9F927oaYEarzQokBVxY",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "Burno u Beogradu: Bačen topovski udar, lete baklje i suzavac! (VIDEO)",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/politika/uzivo-protesti-u-novom-sadu-i-beogradu-baklje-i-topovski-udari-kod-generalstaba/wt3n6vc",
-          "source": "Blic"
-        },
-        {
-          "title": "FOTO Haos u Kneza Miloša - iz kadra u kadar: Pogledajte kako su naprednjaci napali Beograđane pirotehnikom",
-          "snippet": "",
-          "url": "https://nova.rs/vesti/hronika/foto-haos-u-kneza-milosa-iz-kadra-u-kadar-pogledajte-kako-su-naprednjaci-napali-beogradjane-pirotehnikom/",
-          "source": "Nova"
-        },
-        {
-          "title": "Čavić: Strašno je ako se policija koristi kao topovsko meso i na taj način produbljuje sukob",
-          "snippet": "",
-          "url": "https://n1info.rs/vesti/covic-strasno-je-ako-se-policija-koristi-kao-topovsko-meso-i-na-taj-nacin-produbljuje-sukob/",
-          "source": "N1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "jugmedia",
       "trafficCount": "100+",
@@ -114,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "sportske vesti",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 14 Aug 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSakgLMLO906q9B_Skye_VbAEu9Yw3ZSwQV9YJrmABPfEH9ZVQR8aC0My3nwqY",
+      "pictureSource": "B92",
+      "relatedSearch": [
+        {
+          "title": "Srbija bez Micića na Evrobasketu?!",
+          "snippet": "",
+          "url": "https://www.b92.net/sport/kosarka/vesti/155024/vasilije-micic-ne-ide-na-evrobasket/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Gde gledati meč Srbija – Češka? Pešiću će ovo biti od velikog značaja",
+          "snippet": "",
+          "url": "https://nova.rs/sport/kosarka/srbija-ceska-uzivo-prenos-gde-gledati/",
+          "source": "Nova"
+        },
+        {
+          "title": "Svetislav Pešić otkrio loše vesti za Srbiju: \"Nismo baš sjajni, brine me da li ćemo računati na njega, ne ide\"",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/sport/kosarka/4163412-svetislav-pesic-otkrio-lose-vesti-za-srbiju-nismo-bas-sjajni-brine-me-da-li-cemo-racunati-na-njega-ne-ide",
+          "source": "Telegraf.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "jutro ce promeniti sve",
       "trafficCount": "100+",
       "pubDate": "Thu, 14 Aug 2025 15:40:00 -0700",
@@ -154,54 +154,26 @@
       "title": "jannik sinner",
       "trafficCount": "100+",
       "pubDate": "Thu, 14 Aug 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnacHVa6OTRPREqpmlrP7F33GLE3l11OUX6jFLKe8dr0RqgYHh5V45A-vGT50",
-      "pictureSource": "OA Sport",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRcLyWg54kZESext8fdbF8F_8Bx3tBf3FCb-zA4FSelyj5n0flaxfQZcyuQis",
+      "pictureSource": "il Giornale",
       "relatedSearch": [
         {
-          "title": "Quando giocherà Sinner la semifinale a Cincinnati? Orario, avversario, tv. C’è il giorno di pausa",
+          "title": "Sinner sfata il tabù Auger-Aliassime, è in semifinale",
           "snippet": "",
-          "url": "https://www.oasport.it/2025/08/quando-giochera-sinner-la-semifinale-a-cincinnati-ce-il-giorno-di-pausa-programma-avversario-possibile-orario-tv/",
-          "source": "OA Sport"
+          "url": "https://www.ilgiornale.it/news/tennis/sinner-sfata-tab-auger-aliassime-semifinale-2523334.html",
+          "source": "il Giornale"
         },
         {
-          "title": "Sinner-Auger Aliassime: orario, precedenti e dove vederla in tv",
+          "title": "Atp Cincinnati puntata 5: Sinner e Paolini spietati",
           "snippet": "",
-          "url": "https://www.zetatielle.com/sinner-auger-aliassime-orario-precedenti-e-dove-vederla-in-tv/",
-          "source": "ZetaTiElle"
+          "url": "https://www.oasport.it/2025/08/atp-cincinnati-puntata-5-sinner-e-paolini-spietati/",
+          "source": "OA Sport"
         },
         {
           "title": "Mannarino, dagli attacchi al dietrofront: \"Sinner un altro livello\"",
           "snippet": "",
           "url": "https://www.ilquaderno.it/mannarino-dagli-attacchi-dietrofront--quot;sinner-altro-livello-quot;-158525.html",
           "source": "il Quaderno"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "informer uzivo",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 14 Aug 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRttef5skBuO22E-LyIsZ9nG45eSHTkQ9gDsWJJXDiw4qGvBCTwBlFc9PIuoAw",
-      "pictureSource": "Informer",
-      "relatedSearch": [
-        {
-          "title": "(VIDEO) Kakav šok u Nemačkoj: General uživo na TV sasuo istinu o Rusiji celoj naciji u lice - znate li šta će se dogoditi...",
-          "snippet": "",
-          "url": "https://informer.rs/planeta/vesti/1041760/rusija-ukrajina-rat-nemacki-general-pokrovsk",
-          "source": "Informer"
-        },
-        {
-          "title": "Komentari na vest Blagojević na konferenciji: Nemojte drvlje i kamenje ka Simiću! Ništa nije rekao sudiji",
-          "snippet": "",
-          "url": "https://www.mozzartsport.com/fudbal/vesti/blagojevic-na-konferenciji-nemojte-drvlje-i-kamenje-ka-simicu-nista-nije-rekao-sudiji/520516/komentari",
-          "source": "Mozzart Sport"
-        },
-        {
-          "title": "Nikola Simić je nokautirao Partizan: Na pripremama hvatao loptu rukama, sad dobio crveni za glupost",
-          "snippet": "",
-          "url": "https://sportal.blic.rs/video/nikola-simic-je-nokautirao-partizan-na-pripremama-hvatao-loptu-rukama-sad-dobio-crveni-za-glupost-2025081420272399142",
-          "source": "Sportal.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,23 +192,23 @@
           "source": "The Edinburgh Reporter"
         },
         {
-          "title": "'Mathematical' karaoke booths pop up at Edinburgh Fringe aiming to boost mental health",
+          "title": "Partizanova deca „lavljeg srca“ i crveni kartoni koji će skupo koštati crno-bele",
           "snippet": "",
-          "url": "https://news.stv.tv/east-central/mathematical-karaoke-booths-pop-up-at-edinburgh-fringe-aiming-to-boost-mental-health",
-          "source": "STV News"
+          "url": "https://nova.rs/sport/fudbal/partizanova-deca-lavljeg-srca-i-crveni-kartoni-koji-ce-skupo-kostati-crno-bele/",
+          "source": "Nova"
         },
         {
-          "title": "Nesrećni Partizan između tuge i ponosa",
+          "title": "Bivši napadač Partizana i Zvezde oduševljen crno-belim klincima: \"Kapa dole, majstori!\"",
           "snippet": "",
-          "url": "https://www.b92.net/sport/fudbal/evrokupovi/154970/b92sport-skener-hibernijan-partizan-23-kvalifikacije-za-ligu-konferencije/vest",
-          "source": "B92"
+          "url": "https://www.telegraf.rs/sport/fudbal/4163392-bivsi-napadac-partizana-i-zvezde-odusevljen-crno-belim-klincima-kapa-dole-majstori",
+          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "n1 uživo",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 14 Aug 2025 11:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzRDyWQgAMb9Cu4bn-UATV9VXaT0ZtMzoF6NiNW_HYQTICuhIe5b2OyqtJw1M",
       "pictureSource": "Blic",
@@ -248,16 +220,44 @@
           "source": "Blic"
         },
         {
-          "title": "Vučić ponovo broji ljude na protestu: U Beogradu 3.100, biće više uhapšenih nego juče",
-          "snippet": "",
-          "url": "https://n1info.rs/vesti/vucic-ponovo-broji-ljude-na-protestu-u-beogradu-3100-ljudi-bice-vise-uhapsenih-nego-juce/",
-          "source": "N1"
-        },
-        {
           "title": "Ko se Vučića boji još: Najavljena čistka, kadrovi izabrali more, a ne predsednika",
           "snippet": "",
           "url": "https://www.danas.rs/vesti/politika/vucic-cistka-letovanje/",
           "source": "Danas"
+        },
+        {
+          "title": "VIDEO Policija se tuče sa građanima u Kosovskoj ulici u Novom Sadu",
+          "snippet": "",
+          "url": "https://nova.rs/vesti/hronika/video-policija-se-tuce-sa-gradjanima-u-kosovskoj-ulici-u-novom-sadu/",
+          "source": "Nova"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "admiralbet",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 14 Aug 2025 11:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKm5GjG-qZbu3t-_Vs5yROmdgLo1PYiQwnKNL8VEfXw3XvRhV5CmBBMLYZ334",
+      "pictureSource": "Telesport",
+      "relatedSearch": [
+        {
+          "title": "Karaičić i zvanično doveo najboljeg poentera ABA lige!",
+          "snippet": "",
+          "url": "https://telesport.rs/2025/08/13/karaicic-i-zvanicno-doveo-najboljeg-poentera-aba-lige/",
+          "source": "Telesport"
+        },
+        {
+          "title": "Karaičić dovodi Adetokunba",
+          "snippet": "",
+          "url": "https://www.mozzartsport.com/kosarka/vesti/karaicic-dovodi-adetokunba/520389",
+          "source": "Mozzart Sport"
+        },
+        {
+          "title": "Karaičiću došao Adetokumbo",
+          "snippet": "",
+          "url": "https://www.zurnal.rs/sr/clanak/222771/kosarka/sirom-planete/karaicicu-dosao-adetokumbo",
+          "source": "СПОРТСКИ ЖУРНАЛ"
         }
       ],
       "link": "https://imtaqin.id/"
