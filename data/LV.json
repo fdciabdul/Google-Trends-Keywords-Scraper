@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-08-16 09:12:58",
+  "lastUpdate": "2025-08-16 09:25:41",
   "data": [
     {
       "title": "новости",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo-AlWTBacD0OTLWHSLXDnYz6StrfY8pfTBthGTRar44jE_ixIuqKB72Bi-mc",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVL2VeEiG53Hj66zXzH4wkbqhsVLT27KouJrfiJTTPqcpUqX7n33ErI7cKtoA",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
+        {
+          "title": "Президент РФ завершил свой визит на Аляску",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1042536",
+          "source": "Интерфакс"
+        },
         {
           "title": "На Аляске завершились переговоры Трампа и Путина",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://meduza.io/news/2025/08/16/teper-vse-zavisit-ot-zelenskogo-tramp-ob-itogah-peregovorov-s-putinym",
           "source": "Meduza"
-        },
-        {
-          "title": "Трамп предупредил, что НАТО и Зеленскому придется согласиться с достигнутыми договоренностями",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1042542",
-          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +33,54 @@
       "title": "tvnet",
       "trafficCount": "1000+",
       "pubDate": "Fri, 15 Aug 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzP1kZQ4hNtvUnvaaSaAcPsxps54xh9k2MhMDL8iJ7jJIyUVYd9NBZojQ9JSs",
-      "pictureSource": "LSM",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY55C59yYut6_FpflKsRcxg9om8zV6L1e5g4MSEqX42HmJVwvFmsjv5tfEuW4",
+      "pictureSource": "LA.LV",
       "relatedSearch": [
-        {
-          "title": "Pētnieks: Nevar teikt, ka Trampa un Putina tikšanās būtu beigusies bez rezultātiem / Raksts",
-          "snippet": "",
-          "url": "https://www.lsm.lv/raksts/zinas/arzemes/16.08.2025-petnieks-nevar-teikt-ka-trampa-un-putina-tiksanas-butu-beigusies-bez-rezultatiem.a610632/",
-          "source": "LSM"
-        },
-        {
-          "title": "Tramps informē Zelenski par sarunām ar Putinu; Ukrainas līderis dosies uz Vašingtonu",
-          "snippet": "",
-          "url": "https://www.delfi.lv/46713439/arzemes/120083772/tramps-informe-zelenski-par-sarunam-ar-putinu-ukrainas-lideris-dosies-uz-vasingtonu",
-          "source": "Delfi"
-        },
         {
           "title": "“Ukraina pamodīsies pasaulē, kas nav mainījusies.” Eksperti norāda, ka Putins Aļaskā guvis divas nozīmīgas uzvaras",
           "snippet": "",
           "url": "https://www.la.lv/ukraina-pamodisies-pasaule-kas-nav-mainijusies-eksperti-norada-ka-putins-alaska-guvis-divas-nozimigas-uzvaras",
           "source": "LA.LV"
+        },
+        {
+          "title": "Zelenskis pirmdien Vašingtonā tiksies ar Trampu / Raksts",
+          "snippet": "",
+          "url": "https://www.lsm.lv/raksts/zinas/arzemes/16.08.2025-zelenskis-pirmdien-vasingtona-tiksies-ar-trampu.a610635/",
+          "source": "LSM"
+        },
+        {
+          "title": "Trampa un Putina sarunās pamiers nav panākts, bet arī sankcijas pret Krieviju neseko",
+          "snippet": "",
+          "url": "https://www.delfi.lv/46713439/arzemes/120083763/trampa-un-putina-sarunas-pamiers-nav-panakts-bet-ari-sankcijas-pret-krieviju-neseko",
+          "source": "Delfi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "аляска",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 15 Aug 2025 12:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNd9VtHHwkxOZ5Guth5pASK1QlkEKNpR9Hc5q3b2mC-QPAnSX7h_CDPOQZho",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "«Прогресс есть. Сделки нет». Кратчайший пересказ пресс-конференции Путина и Трампа на Аляске",
+          "snippet": "",
+          "url": "https://meduza.io/paragraph/2025/08/16/progress-est-sdelki-net",
+          "source": "Meduza"
+        },
+        {
+          "title": "Трамп и Путин провели совместную пресс-конференцию",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/tramp-i-putin-proveli-sovmestnuu-presskonferenciu/live-73656233",
+          "source": "DW"
+        },
+        {
+          "title": "Совместная пресс-конференция Президента России и Президента США",
+          "snippet": "",
+          "url": "http://kremlin.ru/events/president/news/77793",
+          "source": "Президент России"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +89,26 @@
       "title": "bbc",
       "trafficCount": "500+",
       "pubDate": "Fri, 15 Aug 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTD0jj6Cier1nVc3SV2gXGzaR-LuKIyDNLj8_NYT7tPKLtsc81SDZ4KHJ-iJy8",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTio2vgdrFaDeEeIuaJdIed9Y467M3fmq5REE6-p1B66Ju8zcidxB0KZUXS38Y",
+      "pictureSource": "Essex Fire and Rescue Service",
       "relatedSearch": [
         {
-          "title": "Threatened bee species get lifeline through coastal habitat project",
+          "title": "Warehouse fire in Southend",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cn43j1el9w3o",
+          "url": "https://www.essex-fire.gov.uk/incidents/warehouse-fire-southend-2025-08-15-23-26",
+          "source": "Essex Fire and Rescue Service"
+        },
+        {
+          "title": "Crews tackle Southend-on-Sea warehouse blaze",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/articles/cr5rzqlgynqo",
           "source": "BBC"
         },
         {
-          "title": "Firefighters put out underground car blaze in St Peter Port",
+          "title": "Warehouse fire breaks out at industrial estate close to A127 in Southend",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cn9285vlqe0o",
-          "source": "BBC"
-        },
-        {
-          "title": "Firefighters put out car blaze in underground garage",
-          "snippet": "",
-          "url": "https://www.aol.com/firefighters-put-car-blaze-underground-073237757.html",
-          "source": "AOL.com"
+          "url": "https://uk.news.yahoo.com/warehouse-fire-breaks-industrial-estate-071349234.html",
+          "source": "Yahoo News UK"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +133,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Live updates: Trump meets Putin in Alaska for Ukraine talks",
+          "title": "Zelensky says he will meet US president in Washington",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/news/live/c2kzn1nw1d4t?page=3",
-          "source": "BBC"
+          "url": "https://www.france24.com/en/video/20250816-zelensky-says-he-will-meet-us-president-in-washington",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
