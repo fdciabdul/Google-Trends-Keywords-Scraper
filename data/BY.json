@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-16 09:25:23",
+  "lastUpdate": "2025-08-16 09:34:24",
   "data": [
     {
       "title": "погода минск",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 16 Aug 2025 01:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS09A4HpVMeGIaG2YBc4l-hNHIBhdL61PR1J6HJysXkB7kzLkX0VZ7jxq5xTic",
       "pictureSource": "Myfin.by",
@@ -31,7 +31,7 @@
     },
     {
       "title": "брест",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 16 Aug 2025 00:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXCv4teNcRDQesXCA2YQ1Wx_PGeQg9h0_Oe-peKLTOHfwexy-Gkvkdpi_DzfY",
       "pictureSource": "БелТА",
@@ -229,20 +229,20 @@
       "title": "очередь на границе брест",
       "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfJMn9us2eOKGm1yjPELivYMzSZzBlnwGz7_hZI-ekZRGVF9enadtXGovuICI",
-      "pictureSource": "Myfin.by",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLo402bbopcLOcF38rMMbD2ptWpwDjWpy16AeRFhHffRyqb5pxu77GXFfzcfY",
+      "pictureSource": "Onlíner",
       "relatedSearch": [
-        {
-          "title": "Новый рекорд? В Бресте на выезд из Беларуси образовалась гигантская очередь из авто",
-          "snippet": "",
-          "url": "https://myfin.by/article/zhizn/novyj-rekord-v-breste-na-vyezd-iz-belarusi-obrazovalas-gigantskaa-ocered-39616",
-          "source": "Myfin.by"
-        },
         {
           "title": "Очередь на пересечение границы выросла до рекордных масштабов",
           "snippet": "",
           "url": "https://auto.onliner.by/2025/08/16/ochered-na-peresechenie",
           "source": "Onlíner"
+        },
+        {
+          "title": "Новый рекорд? В Бресте на выезд из Беларуси образовалась гигантская очередь из авто",
+          "snippet": "",
+          "url": "https://myfin.by/article/zhizn/novyj-rekord-v-breste-na-vyezd-iz-belarusi-obrazovalas-gigantskaa-ocered-39616",
+          "source": "Myfin.by"
         },
         {
           "title": "ГПК: въезда в Польшу на границе ожидают более 3600 авто и 80 автобусов",
@@ -255,11 +255,24 @@
     },
     {
       "title": "новости мира",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 15 Aug 2025 18:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1BFsqW7CmGWW6TSWJzwqliyFbaE8IxLD8vc9wdOyb9nUZiqPGs7K4drRdwo",
+      "pictureSource": "Ореанда-Новости",
+      "relatedSearch": [
+        {
+          "title": "Putin flew to Magadan before meeting with Trump in Alaska",
+          "snippet": "",
+          "url": "https://www.oreanda-news.com/en/gosudarstvo/putin-flew-to-magadan-before-meeting-with-trump-in-alaska/article1569110/",
+          "source": "Ореанда-Новости"
+        },
+        {
+          "title": "Трамп заявил, что пока сделки по Украине нет",
+          "snippet": "",
+          "url": "https://vot-tak.tv/88354380/sdelki-net",
+          "source": "Вот Так"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
