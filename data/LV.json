@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-08-16 04:15:44",
+  "lastUpdate": "2025-08-16 04:30:19",
   "data": [
     {
-      "title": "аляска",
+      "title": "новости",
       "trafficCount": "100+",
-      "pubDate": "Fri, 15 Aug 2025 12:40:00 -0700",
+      "pubDate": "Fri, 15 Aug 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2gFIdBku9BeE3hAj2R2Pr1amTRtCtOumFFyAeyN0CAbz0_JJB6Nzi2XMm7TE",
       "pictureSource": "DW",
       "relatedSearch": [
         {
-          "title": "Трамп анонсировал звонки Зеленскому и партнерам по НАТО",
+          "title": "Трамп и Путин провели совместную пресс-конференцию",
           "snippet": "",
-          "url": "https://www.dw.com/ru/tramp-anonsiroval-zvonki-zelenskomu-i-partneram-po-nato/live-73656233",
+          "url": "https://www.dw.com/ru/tramp-i-putin-proveli-sovmestnuu-presskonferenciu/live-73656233",
           "source": "DW"
+        },
+        {
+          "title": "Совместная пресс-конференция Президента России и Президента США",
+          "snippet": "",
+          "url": "http://kremlin.ru/events/president/news/77793",
+          "source": "Президент России"
         },
         {
           "title": "«Прогресс есть. Сделки нет». Кратчайший пересказ пресс-конференции Путина и Трампа на Аляске",
           "snippet": "",
           "url": "https://meduza.io/paragraph/2025/08/16/progress-est-sdelki-net",
           "source": "Meduza"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 15 Aug 2025 15:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQSuWA40enEhw6NpUFuNVxK6tGQjGNfbvf8lkX41-I1Kj49orbuFUmXQlat8",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Iceland supermarket offering £1 reward for reporting shoplifters",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c707rzen2zvo",
+          "source": "BBC"
         },
         {
-          "title": "Путин и Трамп начали встречу",
+          "title": "Iceland offering £1 reward scheme for customers who report a shoplifter",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1042510",
-          "source": "Интерфакс"
+          "url": "https://www.theguardian.com/business/2025/aug/15/iceland-pay-customers-1-report-shoplifter",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Supermarket to reward customers for pointing out shoplifters",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/money/consumer-affairs/iceland-to-reward-customers-for-pointing-out-shoplifters/",
+          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +61,15 @@
       "title": "путин",
       "trafficCount": "100+",
       "pubDate": "Fri, 15 Aug 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQOsMtKv45NCzuUK19O3t_O3P4UAdgd2ykKjNvRF1d4Sr-yntw5Nx7oEi_8nI",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDE65uJLbSwe3iNXlHMX0lPh9QGK1W_P7j3JTsvqyHwPU432sipUzdf-ar3ms",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Пресс-конференция после переговоров Путина и Трампа: спецэфир Русской службы Би-би-си",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/ceqy1jl8ynyo",
+          "source": "BBC"
+        },
         {
           "title": "Трамп и Путин покинули военную базу на Аляске после встречи",
           "snippet": "",
@@ -43,23 +77,17 @@
           "source": "DW"
         },
         {
-          "title": "Выступление Владимира Путина на пресс-конференции по итогам российско-американских переговоров",
+          "title": "Владимир Путин завершил свой визит на Аляску",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1042541",
+          "url": "https://www.interfax.ru/world/1042536",
           "source": "Интерфакс"
-        },
-        {
-          "title": "Путин и Трамп почти три часа вели переговоры в Анкоридже. Судя по всему, они ни о чем не договорились. Главное",
-          "snippet": "",
-          "url": "https://meduza.io/feature/2025/08/16/putin-i-tramp-pochti-tri-chasa-veli-peregovory-na-alyaske-sudya-po-vsemu-oni-ni-o-chem-ne-dogovorilis-glavnoe",
-          "source": "Meduza"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bbc",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 15 Aug 2025 12:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyGeTtfVJvekJeEyk64FTOiRIuC_-q3EFrVYRwsbAf9GsADOfFOZit9D8__eY",
       "pictureSource": "The Sun",
@@ -105,10 +133,10 @@
           "source": "CNN"
         },
         {
-          "title": "Trump-Putin summit live: No Ukraine ceasefire after Alaska talks",
+          "title": "Trump to offer Putin minerals for peace",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/15/trump-putin-summit-live-leaders-to-meet-in-alaska-for-talks-on-ukraine-war",
-          "source": "Al Jazeera"
+          "url": "https://www.telegraph.co.uk/us/news/2025/08/13/trump-to-present-minerals-deal-to-putin-in-alaska/",
+          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +145,9 @@
       "title": "rīgas svētki 2025",
       "trafficCount": "2000+",
       "pubDate": "Thu, 14 Aug 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo84e_J6mC5TGRrTzdIOB3W2eKY9LnRi_q6Ejkh6SgTxpKpsYhtbpQc2UnOP4",
-      "pictureSource": "Jekabpils novada pašvaldība",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaX-fdvCD4ginEkIGMf4Rxa5XSqLD9dItGR1Z2llw0Vd2LN8W-Gn3ech-4hds",
+      "pictureSource": "Rīgas satiksme",
       "relatedSearch": [
-        {
-          "title": "Satiksmes ierobežojumi svētku laikā un bezmaksas stāvvietas",
-          "snippet": "",
-          "url": "https://www.jekabpils.lv/lv/jaunums/satiksmes-ierobezojumi-svetku-laika-un-bezmaksas-stavvietas",
-          "source": "Jekabpils novada pašvaldība"
-        },
         {
           "title": "Rīgas svētkos par sabiedrisko transportu un autostāvvietām nav jāmaksā; būs sabiedriskā transporta papildreisi",
           "snippet": "",
@@ -137,6 +159,12 @@
           "snippet": "",
           "url": "https://jauns.lv/raksts/zinas/668787-terini-milzigi-bet-ienemumi-kleinbergs-skaidro-vai-rigas-dome-no-svetkiem-ko-ari-nopelna",
           "source": "Jauns.lv"
+        },
+        {
+          "title": "Satiksmes ierobežojumi svētku laikā un bezmaksas stāvvietas",
+          "snippet": "",
+          "url": "https://www.jekabpils.lv/lv/jaunums/satiksmes-ierobezojumi-svetku-laika-un-bezmaksas-stavvietas",
+          "source": "Jekabpils novada pašvaldība"
         }
       ],
       "link": "https://imtaqin.id/"
