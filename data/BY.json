@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-16 10:05:40",
+  "lastUpdate": "2025-08-16 10:16:46",
   "data": [
     {
       "title": "погода минск",
@@ -87,7 +87,7 @@
     },
     {
       "title": "актриса екатерина васильева",
-      "trafficCount": "2000+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 Aug 2025 22:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSdot7Zd7pxGJv1yLP7ovc-p6ZD_aNVUj1zQMy5N3AXmJdR1mI0pTbxBHRf2k",
       "pictureSource": "Кино Mail",
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новости мира",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 15 Aug 2025 18:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "новости",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 15 Aug 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAKDslk3Gy0FRWjOctJIGnlgZsv8UBJ4CQf8yCJe-UMUeO2X0CxmFbSwzvMPE",
+      "pictureSource": "Светлы Шлях",
+      "relatedSearch": [
+        {
+          "title": "Дипломами республиканского уровня награждены учащиеся СШ №2",
+          "snippet": "",
+          "url": "https://www.shliah.by/news/obshhestvo/news46777.html",
+          "source": "Светлы Шлях"
+        },
+        {
+          "title": "Как школьник из Крупского района удивил своей необычной работой?",
+          "snippet": "",
+          "url": "https://krupki.by/index.php/obshchestv/28099-kak-shkolnik-iz-krupskogo-rajona-udivil-svoej-neobychnoj-rabotoj",
+          "source": "krupki.by"
+        },
+        {
+          "title": "СМИ: Мелания Трамп передала через мужа письмо Путину",
+          "snippet": "",
+          "url": "https://belta.by/world/view/smi-melanija-tramp-peredala-cherez-muzha-pismo-putinu-732284-2025/",
+          "source": "БелТА"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
