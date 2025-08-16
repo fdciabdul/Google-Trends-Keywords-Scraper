@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-16 08:36:03",
+  "lastUpdate": "2025-08-16 08:46:46",
   "data": [
     {
       "title": "err",
@@ -40,11 +40,17 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 Aug 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1sxfKTWPFO8FmnGV6SpG_fZvwKsl33KCJuQeXdWW5bipzuJoCSt8Vpb4wOjs",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDpsyYwJEUDjwt39nfmLXoL8JNRdKhK1_sozgxfTuVjxz8XToLQFqDsAw9eWc",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Live updates: Trump meets Putin in Alaska for Ukraine talks",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c2kzn1nw1d4t",
+          "source": "BBC"
+        },
         {
           "title": "Takeaways from Trump and Putin’s summit in Alaska",
           "snippet": "",
@@ -56,12 +62,34 @@
           "snippet": "",
           "url": "https://www.economist.com/europe/2025/08/16/donald-trumps-gift-to-vladimir-putin",
           "source": "The Economist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "alaska",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 15 Aug 2025 11:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_Sf2ViiqYmXnsMH0oK7aKPHyWp0eeWrsL5-1uPjOskngFcgwUsEfoqkKP4o",
+      "pictureSource": "Alaska Beacon",
+      "relatedSearch": [
+        {
+          "title": "Students plan their future role in Alaska",
+          "snippet": "",
+          "url": "https://alaskabeacon.com/2025/08/15/students-plan-their-future-role-in-alaska/",
+          "source": "Alaska Beacon"
         },
         {
-          "title": "Trump warns of ‘very severe consequences’ if Putin continues Ukraine war",
+          "title": "From EMT skills to welding sparks, teens explore their future at UAF",
           "snippet": "",
-          "url": "https://apnews.com/live/donald-trump-news-updates-8-13-2025",
-          "source": "AP News"
+          "url": "https://www.newsminer.com/news/education/from-emt-skills-to-welding-sparks-teens-explore-their-future-at-uaf/article_fe079e47-25c7-4187-9508-60a641c31270.html",
+          "source": "Fairbanks Daily News-Miner"
+        },
+        {
+          "title": "Students plan their future role in Alaska",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/articles/students-plan-future-role-alaska-235432124.html",
+          "source": "www.yahoo.com"
         }
       ],
       "link": "https://imtaqin.id/"
