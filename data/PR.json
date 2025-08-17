@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-08-17 10:48:13",
+  "lastUpdate": "2025-08-17 10:55:11",
   "data": [
     {
       "title": "luma energy",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 16 Aug 2025 17:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyrcVHnOkYs1PeJIF8awJXLybknDM6uTRJ9e0QBJyQnFVNu5UKcff-p_dX5d8",
       "pictureSource": "El Vocero de Puerto Rico",
@@ -83,26 +83,26 @@
       "title": "severe thunderstorm warning",
       "trafficCount": "5000+",
       "pubDate": "Sat, 16 Aug 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAJAI9De5qUVyKnYbkQF9fE20A9jbI1OAt6BrwiU-RytD5c5a-6R6Xfo83wqk",
-      "pictureSource": "WSAW",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKdyZWIL_w_xspPNO9FJbl_BRN0IqK4LyeR-g1aL2yBMEGTNsHurC0NnFkMs4",
+      "pictureSource": "WGAL",
       "relatedSearch": [
         {
-          "title": "More showers and storms on tap for the early part of the new week",
+          "title": "Severe Thunderstorm Warning in effect for Cumberland, Franklin and Perry counties",
           "snippet": "",
-          "url": "https://www.wsaw.com/2025/08/16/more-showers-storms-tap-early-part-new-week/",
-          "source": "WSAW"
+          "url": "https://www.wgal.com/article/severe-thunderstorm-warning-cumberland-franklin-perry-county/65797273",
+          "source": "WGAL"
         },
         {
-          "title": "Weather: Storm threat continues for southeast Wisconsin",
+          "title": "Thunderstorms with marble-sized hail in Tuscola and Sanilac counties Saturday",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/videos/weather-storm-threat-continues-southeast-224112980.html",
-          "source": "Yahoo Canada Sports"
+          "url": "https://www.mlive.com/weather-alerts/2025/08/thunderstorms-with-marble-sized-hail-in-tuscola-and-sanilac-counties-saturday.html",
+          "source": "MLive.com"
         },
         {
-          "title": "VIDEO: Second severe thunderstorm warning of the day for Fond du Lac County",
+          "title": "Update: The current severe thunderstorm warning for part of Pennsylvania will expire at 2:15 p.m.",
           "snippet": "",
-          "url": "https://kfiz.com/video-second-severe-thunderstorm-warning-of-the-day-for-fond-du-lac-county/",
-          "source": "KFIZ"
+          "url": "https://www.pennlive.com/weather-alerts/2025/08/thunderstorms-with-damaging-winds-and-quarter-sized-hail-in-part-of-pennsylvania-saturday-gusts-to-h.html",
+          "source": "PennLive.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,10 +177,10 @@
           "source": "Primera Hora"
         },
         {
-          "title": "Emiten Aviso de Inundaciones Repentinas para municipios de la isla por efectos del huracán Erin",
+          "title": "Huracán Erin es categoría 5",
           "snippet": "",
-          "url": "https://wapa.tv/noticias/eltiempo/emiten-aviso-de-inundaciones-repentinas-para-municipios-de-la-isla-por-efectos-del-hurac-n/article_18a36364-2dc1-4160-b120-0bc90916f07b.html",
-          "source": "wapa.tv"
+          "url": "https://www.telemundopr.com/noticias/puerto-rico/boletin-11am-huracan-erin-es-categoria-5/2739296/",
+          "source": "Telemundo Puerto Rico"
         },
         {
           "title": "Cancelan más vuelos debido al paso cercano del huracán Erin por Puerto Rico",
@@ -220,6 +220,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hurricane tracker",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 16 Aug 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQedAAzOeL3jzoTPoiDtZIKdexP2-wGhbh4MNyTTq7rrTpILG9PvAAirzcbzN0",
+      "pictureSource": "The Weather Channel",
+      "relatedSearch": [
+        {
+          "title": "Erin: Hurricane Hunters Find Eyewall Replacement As Storm Weakens Slightly",
+          "snippet": "",
+          "url": "https://weather.com/storms/hurricane/news/2025-08-16-major-hurricane-erin-caribbean-east-coast-bermuda",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Coast Guard to set Port Condition YANKEE for 2 seaports in the U.S. Virgin Islands, 6 othe",
+          "snippet": "",
+          "url": "https://www.news.uscg.mil/Press-Releases/Article/4276705/coast-guard-to-set-port-condition-yankee-for-2-seaports-in-the-us-virgin-island/",
+          "source": "United States Coast Guard News (.mil)"
+        },
+        {
+          "title": "Hurricane Erin is one of the fastest rapidly intensifying storms in Atlantic history",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/08/17/weather/hurricane-erin-tracking-atlantic-climate",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "la liga",
       "trafficCount": "200+",
       "pubDate": "Sat, 16 Aug 2025 10:00:00 -0700",
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://foot-africa.com/en/news/controversy-erupts-in-la-liga-opener-as-star-striker-sees-red-840864/",
           "source": "Foot Africa"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hurricane erin puerto rico",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 16 Aug 2025 05:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQedAAzOeL3jzoTPoiDtZIKdexP2-wGhbh4MNyTTq7rrTpILG9PvAAirzcbzN0",
-      "pictureSource": "The Weather Channel",
-      "relatedSearch": [
-        {
-          "title": "Erin: Hurricane Hunters Find Eyewall Replacement As Storm Weakens Slightly",
-          "snippet": "",
-          "url": "https://weather.com/storms/hurricane/news/2025-08-16-major-hurricane-erin-caribbean-east-coast-bermuda",
-          "source": "The Weather Channel"
-        },
-        {
-          "title": "Coast Guard to set Port Condition YANKEE for 2 seaports in the U.S. Virgin Islands, 6 othe",
-          "snippet": "",
-          "url": "https://www.news.uscg.mil/Press-Releases/Article/4276705/coast-guard-to-set-port-condition-yankee-for-2-seaports-in-the-us-virgin-island/",
-          "source": "United States Coast Guard News (.mil)"
-        },
-        {
-          "title": "Hurricane Erin is one of the fastest rapidly intensifying storms in Atlantic history",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/08/17/weather/hurricane-erin-tracking-atlantic-climate",
-          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
