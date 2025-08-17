@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-08-17 20:23:15",
+  "lastUpdate": "2025-08-17 20:33:50",
   "data": [
     {
+      "title": "der schuh des manitu",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 17 Aug 2025 13:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjaOMoUFZXnKqJYFdNrKC4-zXG--BvxP5omYbJOsfdtlnl-C6UhWydDAR2BEA",
+      "pictureSource": "FAZ",
+      "relatedSearch": [
+        {
+          "title": "„Das Kanu des Manitu“: Schöner deutscher Nonsens?",
+          "snippet": "",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/das-kanu-des-manitu-schoener-deutscher-nonsens-110637962.html",
+          "source": "FAZ"
+        },
+        {
+          "title": "\"Kanu des Manitu\": Michael Bully Herbig auf Kinotour",
+          "snippet": "",
+          "url": "https://www.ardmediathek.de/video/hamburg-journal/kanu-des-manitu-michael-bully-herbig-auf-kinotour/ndr/Y3JpZDovL25kci5kZS8xMzQ3MGI1NS0xODA2LTRlY2QtYTY0ZS02ZWYzOTEwOGIwNDE",
+          "source": "ARD Mediathek"
+        },
+        {
+          "title": "Jessica Schwarz: Mein „Manitu“-Geheimnis",
+          "snippet": "",
+          "url": "https://www.bild.de/unterhaltung/stars-und-leute/jessica-schwarz-mein-manitu-geheimnis-689bbfdcb7e38d4fabb2133c",
+          "source": "BILD"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "maxima",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 17 Aug 2025 13:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_q1yt28fbHkFkbbbud2mSfRcqJcF9ksdWCknmPO-4ppLsX4Sq74iZs47j1-U",
       "pictureSource": "Spielfilm.de",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "skye stout",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 17 Aug 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfD6SJjwCtT2aEalr5yC4pJ72swoss-pDpriL6EVkrQOiKa8ANjqeYr0AK2XI",
-      "pictureSource": "Wales Online",
-      "relatedSearch": [
-        {
-          "title": "Teenage footballer ridiculed by online trolls as club pull big announcement",
-          "snippet": "",
-          "url": "https://www.walesonline.co.uk/sport/football/football-news/teenage-footballer-ridiculed-online-trolls-32287907",
-          "source": "Wales Online"
-        },
-        {
-          "title": "Kilmarnock teen Skye Stout sent message by Ally McCoist after vile online abuse",
-          "snippet": "",
-          "url": "https://www.heraldscotland.com/news/25395748.kilmarnocks-skye-stout-sent-message-ally-mccoist-vile-abuse/",
-          "source": "The Herald"
-        },
-        {
-          "title": "Killie starlet Stout the latest example of constant abuse sports women continue to face on social media",
-          "snippet": "",
-          "url": "https://www.dailymail.co.uk/sport/football/article-15005055/Killie-starlet-Stout-latest-example-constant-abuse-sports-women-continue-face-social-media.html",
-          "source": "Daily Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tramitz",
       "trafficCount": "200+",
       "pubDate": "Sun, 17 Aug 2025 13:10:00 -0700",
@@ -114,29 +114,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ochsenknecht",
-      "trafficCount": "100+",
+      "title": "skye stout",
+      "trafficCount": "200+",
       "pubDate": "Sun, 17 Aug 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2gM2XuBUDm6z-lq2PaoH3a-gTF-4Z_ZMFkvCxJQTiF1JcbmybnHpFjyz4isA",
-      "pictureSource": "WEB.DE",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfD6SJjwCtT2aEalr5yC4pJ72swoss-pDpriL6EVkrQOiKa8ANjqeYr0AK2XI",
+      "pictureSource": "Wales Online",
       "relatedSearch": [
+        {
+          "title": "Teenage footballer ridiculed by online trolls as club pull big announcement",
+          "snippet": "",
+          "url": "https://www.walesonline.co.uk/sport/football/football-news/teenage-footballer-ridiculed-online-trolls-32287907",
+          "source": "Wales Online"
+        },
+        {
+          "title": "Kilmarnock teen Skye Stout sent message by Ally McCoist after vile online abuse",
+          "snippet": "",
+          "url": "https://www.heraldscotland.com/news/25395748.kilmarnocks-skye-stout-sent-message-ally-mccoist-vile-abuse/",
+          "source": "The Herald"
+        },
+        {
+          "title": "Killie starlet Stout the latest example of constant abuse sports women continue to face on social media",
+          "snippet": "",
+          "url": "https://www.dailymail.co.uk/sport/football/article-15005055/Killie-starlet-Stout-latest-example-constant-abuse-sports-women-continue-face-social-media.html",
+          "source": "Daily Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ochsenknecht",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 17 Aug 2025 13:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2Z6GftJeH_PCxd74ckwrmo7Wx1BCnGen8hoKG08mEYwNPe0kZEuwKdjYrZF0",
+      "pictureSource": "T-Online",
+      "relatedSearch": [
+        {
+          "title": "Dunkle Haare, roter Lippenstift: Natascha Ochsenknecht sah früher ganz anders aus",
+          "snippet": "",
+          "url": "https://www.t-online.de/unterhaltung/stars/id_84943140/natascha-ochsenknecht-so-sah-das-model-frueher-aus.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Uwe Ochsenknecht: „Ich lag gar nicht so falsch damit, Schauspieler zu werden“",
+          "snippet": "",
+          "url": "https://www.swr.de/swrkultur/film-und-serie/uwe-ochsenknecht-erhaelt-preis-fuer-schauspielkunst-ludwigshafen-100.html",
+          "source": "SWR"
+        },
         {
           "title": "Jimi Blue Ochsenknecht: Habe die Ruhe im Gefängnis etwas genossen",
           "snippet": "",
           "url": "https://web.de/magazine/unterhaltung/stars/jimi-blue-ochsenknecht-ruhe-gefaengnis-genossen-41277630",
           "source": "WEB.DE"
-        },
-        {
-          "title": "\"Alleine mit seinen Gedanken\": Wie Jimi Blue Ochsenknecht die Zeit in Haft verbrachte",
-          "snippet": "",
-          "url": "https://www.t-online.de/unterhaltung/stars/id_100866454/jimi-blue-ochsenknecht-berichtet-so-verbrachte-er-die-zeit-in-haft.html",
-          "source": "T-Online"
-        },
-        {
-          "title": "„Hab viele Autogramme gegeben“: Jimi Blue Ochsenknecht packt über Haft in Innsbruck aus",
-          "snippet": "",
-          "url": "https://www.rosenheim24.de/rosenheim/inntal/tirol-ort29573/jimi-blue-ochsenknecht-spricht-ueber-haft-in-tirol-hab-mir-schlimmer-vorgestellt-93883238.html",
-          "source": "Rosenheim24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,36 +226,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "agatha christie",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 17 Aug 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgmxs9g0JV1tg-Om-3ZrYgAk5sDbc6KQSWG0zVzheetoNaSkv2FvpOBCqhY_c",
-      "pictureSource": "Brit + Co",
-      "relatedSearch": [
-        {
-          "title": "The 12 Best Agatha Christie Shows You Can Stream On BritBox Right Now",
-          "snippet": "",
-          "url": "https://www.brit.co/agatha-christie-shows-on-britbox/",
-          "source": "Brit + Co"
-        },
-        {
-          "title": "A Will Smith Sci-Fi Movie Originally Had An Agatha Christie Vibe",
-          "snippet": "",
-          "url": "https://www.slashfilm.com/1938549/will-smith-sci-fi-movie-i-robot-agatha-christie-mystery-vibes/",
-          "source": "SlashFilm"
-        },
-        {
-          "title": "Joan Collins, 92, dazzles in swimsuit as she teases Agatha Christie-inspired movie sequel",
-          "snippet": "",
-          "url": "https://www.hellomagazine.com/celebrities/850591/joan-collins-dazzles-in-swimsuit-at-92/",
-          "source": "HELLO!"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "sky du mont",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 17 Aug 2025 12:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNtiB4Befgwipq3by3n5t8q7XzOQHVsgEuxYneIpIi-IQteQuHHwBHn7sZmbU",
       "pictureSource": "SZ.de",
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "paolini",
-      "trafficCount": "200+",
+      "title": "agatha christie",
+      "trafficCount": "500+",
       "pubDate": "Sun, 17 Aug 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-R5rnFJcYdF46OQ2IbKKtiY4THH05geqFzOHi5p-5IgnN0stPAqwBFGyy_xk",
-      "pictureSource": "Olympics.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgmxs9g0JV1tg-Om-3ZrYgAk5sDbc6KQSWG0zVzheetoNaSkv2FvpOBCqhY_c",
+      "pictureSource": "Brit + Co",
       "relatedSearch": [
         {
-          "title": "Jannik Sinner - Carlos Alcaraz a Cincinnati Open 2025: orario finale, programma e dove vedere la partita in diretta tv · Tennis ATP",
+          "title": "The 12 Best Agatha Christie Shows You Can Stream On BritBox Right Now",
           "snippet": "",
-          "url": "https://www.olympics.com/it/notizie/tennis-sinner-alcaraz-cincinnati-open-2025-finale-programma-dove-vedere",
-          "source": "Olympics.com"
+          "url": "https://www.brit.co/agatha-christie-shows-on-britbox/",
+          "source": "Brit + Co"
         },
         {
-          "title": "LIVE Paolini-Kudermetova 6-3 4-3, Jasmine avanti di set e break",
+          "title": "A Will Smith Sci-Fi Movie Originally Had An Agatha Christie Vibe",
           "snippet": "",
-          "url": "https://www.gazzetta.it/Tennis/WTA/17-08-2025/paolini-kudermetova-live-semifinale-cincinnati.shtml",
-          "source": "La Gazzetta dello Sport"
+          "url": "https://www.slashfilm.com/1938549/will-smith-sci-fi-movie-i-robot-agatha-christie-mystery-vibes/",
+          "source": "SlashFilm"
         },
         {
-          "title": "Atp Cincinnati, il programma di oggi: partite e orari",
+          "title": "Joan Collins, 92, dazzles in swimsuit as she teases Agatha Christie-inspired movie sequel",
           "snippet": "",
-          "url": "https://sport.sky.it/tennis/2025/08/16/atp-cincinnati-2025-partite-oggi-16-agosto",
-          "source": "Sky Sport"
+          "url": "https://www.hellomagazine.com/celebrities/850591/joan-collins-dazzles-in-swimsuit-at-92/",
+          "source": "HELLO!"
         }
       ],
       "link": "https://imtaqin.id/"
