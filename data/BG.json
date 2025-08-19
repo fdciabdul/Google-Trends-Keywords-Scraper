@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-08-19 05:41:30",
+  "lastUpdate": "2025-08-19 05:48:32",
   "data": [
     {
       "title": "новини",
       "trafficCount": "500+",
       "pubDate": "Mon, 18 Aug 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTA9UMg1aXFCLr6h3HgZMsg09C0BTU7hcyDFTlEvfMTHyUupzZCM2Zlv3TlNpQ",
-      "pictureSource": "offnews.bg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0wnDHiOkdkMSGVzCHmf3Oz4fl-1S6a1fQpGOjvEb_Fv3X7Yxm8KOFOgiQ0ng",
+      "pictureSource": "News.bg",
       "relatedSearch": [
+        {
+          "title": "Тръмп: Обадих се на Путин, започнах подготовката за среща на върха за края на войната",
+          "snippet": "",
+          "url": "https://news.bg/int-politics/tramp-obadih-se-na-putin-zapochnah-podgotovkata-za-sreshta-na-varha-za-kraya-na-voynata.html",
+          "source": "News.bg"
+        },
         {
           "title": "Гаранции, връщане на отвлечените деца и пленените, среща с Путин. Зеленски разказа какво е договорено",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://nova.bg/news/view/2025/08/18/507697/%D1%82%D1%80%D1%8A%D0%BC%D0%BF-%D0%BF%D1%80%D0%B5%D0%BA%D1%8A%D1%81%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B0-%D1%81-%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%B8-%D0%B7%D0%B0-%D0%B4%D0%B0-%D1%81%D0%B5-%D0%BE%D0%B1%D0%B0%D0%B4%D0%B8-%D0%BD%D0%B0-%D0%BF%D1%83%D1%82%D0%B8%D0%BD/",
           "source": "Nova.bg"
-        },
-        {
-          "title": "Тръмп, евролидерите и Зеленски с костюм - срещата в Белия дом в снимки (галерия)",
-          "snippet": "",
-          "url": "https://dnes.dir.bg/svyat/tramp-evroliderite-i-zelenski-s-kostyum-sreshtata-v-beliya-dom-v-snimki-galeriya",
-          "source": "Dir"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +33,26 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Mon, 18 Aug 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyGeY401akEPoFsAiS1LKOKHD2vJ3IrB5EyJOuUsrBHaGazBDegBZlXgG4OQM",
-      "pictureSource": "Yahoo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRV5ETeKjb6TtruItd840P-URBrQ0V-QL3wTfNocwZ_IP1TTteKHLwEuxUeA8",
+      "pictureSource": "marshallindependent.com",
       "relatedSearch": [
+        {
+          "title": "‘Unprecedented’ weather pummels city",
+          "snippet": "",
+          "url": "https://www.marshallindependent.com/news/local-news/2025/08/unprecedented-weather-pummels-city/",
+          "source": "marshallindependent.com"
+        },
+        {
+          "title": "Winds hammer Marshall Sat. morning",
+          "snippet": "",
+          "url": "https://www.marshallindependent.com/news/local-news/2025/08/winds-hammer-marshall-sat-morning/",
+          "source": "marshallindependent.com"
+        },
         {
           "title": "Tropical downpours soak Texas as heavy rain is expected across Lone Star State",
           "snippet": "",
           "url": "https://www.yahoo.com/news/videos/tropical-downpours-soak-texas-heavy-175503953.html",
           "source": "Yahoo"
-        },
-        {
-          "title": "Atmospheric cocktail will bring rounds of showers to San Antonio area",
-          "snippet": "",
-          "url": "https://www.tpr.org/environment/2025-08-18/atmospheric-cocktail-will-bring-rounds-of-showers-to-san-antonio-area",
-          "source": "Texas Public Radio | TPR"
-        },
-        {
-          "title": "Timeline: Thunderstorm threat for San Antonio amid tropical moisture",
-          "snippet": "",
-          "url": "https://www.msn.com/en-us/weather/topstories/timeline-thunderstorm-threat-for-san-antonio-amid-tropical-moisture/ar-AA1KD272",
-          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "Sky Sports"
         },
         {
-          "title": "Why Bijol is unavailable for first Leeds United match after Udinese transfer",
+          "title": "Daniel Farke: We deserved to win",
           "snippet": "",
-          "url": "https://football-italia.net/why-bijol-is-unavailable-for-first-leeds-match/",
-          "source": "Football Italia"
+          "url": "https://onefootball.com/en/news/daniel-farke-we-deserved-to-win-41531511",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,20 +201,20 @@
       "title": "лийдс срещу евъртън",
       "trafficCount": "2000+",
       "pubDate": "Mon, 18 Aug 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmqebiHCTkRkFCx9gw3LQpcGYvzpi6e3DospUiD4y87bzOf5afaRkpQGraWYg",
-      "pictureSource": "Gong.bg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzOwggU0Pwexmb-Y0znGHQvFN2rRvP-l4ZKJJ2VWr5DFQDgtQgd0_Rxewf4EY",
+      "pictureSource": "Dnes.bg",
       "relatedSearch": [
-        {
-          "title": "Спортни новини от България и света",
-          "snippet": "",
-          "url": "https://gong.bg/football-sviat/anglia/iliia-gruev-vleze-v-igra-i-debiutira-vyv-visshata-liga-856116",
-          "source": "Gong.bg"
-        },
         {
           "title": "След 11 години българин отново игра във Висшата лига",
           "snippet": "",
           "url": "https://www.dnes.bg/a/9-sport/690008-sled-11-godini-balgarin-otnovo-igra-vav-visshata-liga",
           "source": "Dnes.bg"
+        },
+        {
+          "title": "Спортни новини от България и света",
+          "snippet": "",
+          "url": "https://gong.bg/football-sviat/anglia/iliia-gruev-vleze-v-igra-i-debiutira-vyv-visshata-liga-856116",
+          "source": "Gong.bg"
         },
         {
           "title": "Лийдс излъга Евертън, Илия Груев дебютира във Висшата лига",
@@ -239,16 +239,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "Chiefs’ Travis Kelce called Taylor Swift’s ‘black cat boyfriend,’ compared to Gillmore Girls, One Tree Hill characters",
+          "title": "Taylor Swift Puts Vinyl Variants of ‘The Life of a Showgirl’ Up for Sale, and They Sell Out in Less Than an Hour",
           "snippet": "",
-          "url": "https://sports.yahoo.com/article/chiefs-travis-kelce-called-taylor-134255634.html",
-          "source": "Yahoo Sports"
+          "url": "https://variety.com/2025/music/news/taylor-swift-vinyl-variants-life-of-a-showgirl-1236492058/",
+          "source": "Variety"
         },
         {
-          "title": "How Travis Kelce influenced Taylor Swift’s risqué new album cover for ‘The Life of a Showgirl’",
+          "title": "The biggest winners of the Taylor Swift-Travis Kelce podcast",
           "snippet": "",
-          "url": "https://pagesix.com/2025/08/18/entertainment/how-travis-kelce-influenced-taylor-swifts-risque-life-of-a-showgirl-album-cover/",
-          "source": "Page Six"
+          "url": "https://www.morningstar.com/news/marketwatch/2025081875/the-biggest-winners-of-the-taylor-swift-travis-kelce-podcast",
+          "source": "Morningstar"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "WBAL-TV"
         },
         {
-          "title": "First Alert Weather: Near perfect weather today, but it will not last",
+          "title": "Weather: Ava Marie tracking Tropical Storm Erin’s impact in Maryland",
           "snippet": "",
-          "url": "https://www.whec.com/top-news/first-alert-weather-near-perfect-weather-today-but-it-will-not-last/",
-          "source": "WHEC.com"
+          "url": "https://www.wbal.com/weather-ava-marie-tracking-tropical-storm-erins-impact-in-maryland",
+          "source": "WBAL News Radio"
         }
       ],
       "link": "https://imtaqin.id/"
