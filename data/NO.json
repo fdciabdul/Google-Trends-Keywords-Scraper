@@ -1,58 +1,30 @@
 {
-  "lastUpdate": "2025-08-19 22:41:19",
+  "lastUpdate": "2025-08-19 22:48:02",
   "data": [
-    {
-      "title": "nettavisen",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 19 Aug 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0LEwPwRR6NyJQk8afXogKVXDjDi7LGURDC58PvPYTUsFhUFqGMuXuuawT20",
-      "pictureSource": "Dagbladet",
-      "relatedSearch": [
-        {
-          "title": "Erna ut av skyggen",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/meninger/erna-ut-av-skyggen/83477512",
-          "source": "Dagbladet"
-        },
-        {
-          "title": "Partilederdebatten: Ikke en gang Sylvi Listhaug (Frp) støttet Listhaug som statsminister",
-          "snippet": "",
-          "url": "https://www.aftenposten.no/norge/politikk/i/MnQOmK/partilederdebatten-ikke-en-gang-sylvi-listhaug-frp-stoettet-listhaug-som-statsminister",
-          "source": "Aftenposten"
-        },
-        {
-          "title": "Terningkast: Dette er vinneren av partilederdebatten",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/dette-er-vinneren-av-partilederdebatten/18009026/",
-          "source": "TV2.no"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "us open",
       "trafficCount": "100+",
       "pubDate": "Tue, 19 Aug 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd582pRe3bu2_l4TW4bw9pFyesMmiVojRMJwFCiPWQItNYTIbLSHNDnSpY6p8",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4F75kWfqc65LSiVNZlZhnL9lLNP8qyMkzKCEQanwDQ8y-x9x63svXGL7GmbE",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Sinner illness gives Alcaraz Cincinnati Open title and Swiatek takes women’s crown",
+          "title": "US Open 2025 LIVE: Raducanu & Alcaraz vs Draper & Pegula in mixed doubles - scores & updates",
           "snippet": "",
-          "url": "https://www.theguardian.com/sport/2025/aug/18/carlos-alcaraz-wins-cincinnati-open-as-sinner-retires-from-final-with-illness",
-          "source": "The Guardian"
+          "url": "https://www.bbc.com/sport/tennis/live/cvgv157jxnet",
+          "source": "BBC"
         },
         {
-          "title": "Alcaraz extends Big Titles lead over Sinner with Cincinnati victory",
+          "title": "Sinner withdraws from US Open mixed doubles",
           "snippet": "",
-          "url": "https://www.atptour.com/en/news/cincinnati-2025-big-titles",
+          "url": "https://www.atptour.com/en/news/sinner-siniakova-us-open-2025-mixed-doubles-withdrawal",
           "source": "ATP Tour"
         },
         {
-          "title": "Carlos Alcaraz wins Cincinnati Open after Jannik Sinner retires through illness after 5 games - The Athletic",
+          "title": "US Open mixed doubles: Draper/Pegula beat Alcaraz/Raducanu, Djokovic/Danilovic in action – live",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6560644/2025/08/18/alcaraz-sinner-cincinnati-open-final-result-analysis/",
-          "source": "The New York Times"
+          "url": "https://www.theguardian.com/sport/live/2025/aug/19/us-open-mixed-doubles-draperpegula-v-alcarazraducanu-and-more-live",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tv2 partilederdebatt",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 19 Aug 2025 13:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0LEwPwRR6NyJQk8afXogKVXDjDi7LGURDC58PvPYTUsFhUFqGMuXuuawT20",
+      "pictureSource": "Dagbladet",
+      "relatedSearch": [
+        {
+          "title": "Erna ut av skyggen",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/meninger/erna-ut-av-skyggen/83477512",
+          "source": "Dagbladet"
+        },
+        {
+          "title": "Partilederdebatten: Ikke en gang Sylvi Listhaug (Frp) støttet Listhaug som statsminister",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/norge/politikk/i/MnQOmK/partilederdebatten-ikke-en-gang-sylvi-listhaug-frp-stoettet-listhaug-som-statsminister",
+          "source": "Aftenposten"
+        },
+        {
+          "title": "Terningkast: Dette er vinneren av partilederdebatten",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/dette-er-vinneren-av-partilederdebatten/18009026/",
+          "source": "TV2.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tv2",
       "trafficCount": "5000+",
       "pubDate": "Tue, 19 Aug 2025 13:20:00 -0700",
@@ -105,10 +105,10 @@
           "source": "Nettavisen"
         },
         {
-          "title": "Avtroppende TV 2-profil: – Nå er det mer usikkert",
+          "title": "Erna ut av skyggen",
           "snippet": "",
-          "url": "https://www.nettavisen.no/nyheter/tv-2-profil-arill-riise-na-er-mediebransjen-mer-usikker/s/5-95-2574341",
-          "source": "Nettavisen"
+          "url": "https://www.dagbladet.no/meninger/erna-ut-av-skyggen/83477512",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "MARCA"
         },
         {
-          "title": "Real Madrid - Osasuna, hoy en directo: resumen, goles y resultado",
+          "title": "Mbappé reinicia su cuenta",
           "snippet": "",
-          "url": "https://www.sport.es/es/noticias/real-madrid/real-madrid-osasuna-liga-directo-120762142",
-          "source": "SPORT"
+          "url": "https://es-us.noticias.yahoo.com/deportes/mbapp%C3%A9-reinicia-210719623.html",
+          "source": "Yahoo Deportes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "partilederdebatt",
       "trafficCount": "500+",
       "pubDate": "Tue, 19 Aug 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXKf_1xFmYL-Y8qN1HFvblf60kXeerYx7ux4xvKYEoeqRvtBCWCeN70t-nsRg",
-      "pictureSource": "VG",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0LEwPwRR6NyJQk8afXogKVXDjDi7LGURDC58PvPYTUsFhUFqGMuXuuawT20",
+      "pictureSource": "Dagbladet",
       "relatedSearch": [
         {
-          "title": "Straks klart for partileder­debatt i Bergen",
+          "title": "Barker sammen",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/Pp1MWX/straks-klart-for-partilederdebatt-i-bergen",
-          "source": "VG"
-        },
-        {
-          "title": "Erna Solberg irritert på TV 2: – Kaos",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/erna-solberg-irritert-pa-tv-2-kaos/18012983/",
-          "source": "TV2.no"
+          "url": "https://www.dagbladet.no/nyheter/barker-sammen/83478504",
+          "source": "Dagbladet"
         },
         {
           "title": "Valg 2025: Parti­lederdebatt i Bergen",
           "snippet": "",
           "url": "https://www.nrk.no/vestland/valg-2025_-partilederdebatt-i-bergen-1.17533937",
           "source": "NRK"
+        },
+        {
+          "title": "Erna Solberg irritert på TV 2: – Kaos",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/erna-solberg-irritert-pa-tv-2-kaos/18012983/",
+          "source": "TV2.no"
         }
       ],
       "link": "https://imtaqin.id/"
