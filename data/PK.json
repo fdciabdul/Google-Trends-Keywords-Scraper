@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-20 06:49:53",
+  "lastUpdate": "2025-08-20 06:58:28",
   "data": [
     {
       "title": "connection",
@@ -31,7 +31,7 @@
     },
     {
       "title": "punjab",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 19 Aug 2025 22:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB8gGdOnSYLYfGdw-tvdx8-X27xb-A9Lb93wWitft9kcAJV6XXRp7rjiqXoII",
       "pictureSource": "The Express Tribune",
@@ -61,20 +61,20 @@
       "title": "security",
       "trafficCount": "100+",
       "pubDate": "Tue, 19 Aug 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3A6AfcAVeDbW8riXgk8AjsFeTxMpnCCMkMsHGoQymLE4BiYV8NQJl7vA0VM",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj9E5FDEVqW_Vs_7TSJ2ElgshnOInbG_8XrsYHnnITSQaIrEypQ7uoZgB2yJU",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "Trump news at a glance: Gabbard strips security clearance from dozens of intelligence officials",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2025/aug/20/trump-administration-news-today-latest",
-          "source": "The Guardian"
-        },
         {
           "title": "Tulsi Gabbard revokes security clearances of 37 current and former national security officials",
           "snippet": "",
           "url": "https://www.cnn.com/2025/08/19/politics/tulsi-gabbard-revokes-security-clearances",
           "source": "CNN"
+        },
+        {
+          "title": "Trump news at a glance: Gabbard strips security clearance from dozens of intelligence officials",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/aug/20/trump-administration-news-today-latest",
+          "source": "The Guardian"
         },
         {
           "title": "Gabbard removes clearances from 37 officials at Trump's direction over politicizing intelligence",
@@ -145,9 +145,15 @@
       "title": "on",
       "trafficCount": "100+",
       "pubDate": "Tue, 19 Aug 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbyJnoeWZCb0tUJOWi2CoxdKFwCfhZTzgok4z7oWnPCd-6VwzHOFGaeGpeFoM",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXvjRJFAGwODRXtSLBVqPQ69JipaFR3cpKpX3AJFX42gxpR0ty4DrVXg9eNMU",
+      "pictureSource": "inkl",
       "relatedSearch": [
+        {
+          "title": "‘Sitting on a volcano’: Two Indian temples clash as politics and faith mix",
+          "snippet": "",
+          "url": "https://www.inkl.com/news/sitting-on-a-volcano-two-indian-temples-clash-as-politics-and-faith-mix",
+          "source": "inkl"
+        },
         {
           "title": "Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/19/live-at-least-killed-since-dawn-as-hamas-approves-ceasefire-proposal",
           "source": "Al Jazeera"
-        },
-        {
-          "title": "Ben-Gvir says Netanyahu ‘has no mandate to pursue’ Gaza deal",
-          "snippet": "",
-          "url": "https://www.dawn.com/news/1931700",
-          "source": "Dawn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,14 +173,14 @@
       "title": "b",
       "trafficCount": "200+",
       "pubDate": "Tue, 19 Aug 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX3SL7Ivvv0lE3TaKwaXIB4lC5Kniap5YItbD4qGEKpHxWH2kpkOvScnHYiqE",
-      "pictureSource": "Decrypt",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPDvKaOmnhNDKVyhMIpumtINmhWjgdFyj_uDRfDu3P3F_QaUSJwy4Xo2QwEOY",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Ethereum Price at Two-Week Low as $4B Supply Overhang Looms",
+          "title": "Billions in Ethereum Waiting to Be Unstaked Could Add Sell Pressure to ETH: Analyst",
           "snippet": "",
-          "url": "https://decrypt.co/335938/ethereum-price-two-week-low-4b-supply-overhang-looms",
-          "source": "Decrypt"
+          "url": "https://finance.yahoo.com/news/billions-ethereum-waiting-unstaked-could-130003322.html",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Ether unstaking queue hits $3.8B: What does it mean for ETH price?",
@@ -189,10 +189,10 @@
           "source": "Cointelegraph"
         },
         {
-          "title": "Billions in Ethereum Waiting to Be Unstaked Could Add Sell Pressure to ETH: Analyst",
+          "title": "Ethereum Faces Sell Pressure From Record Unstaking Queue",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/billions-ethereum-waiting-unstaked-could-130003322.html",
-          "source": "Yahoo Finance"
+          "url": "https://coinmarketcap.com/academy/article/ethereum-faces-sell-pressure-from-record-unstaking-queue",
+          "source": "CoinMarketCap"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,54 +201,26 @@
       "title": "online",
       "trafficCount": "500+",
       "pubDate": "Tue, 19 Aug 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNrFz9YAAiU1VFwZMy0ev1NttIwTG83c8xj1wmkpXleRQGIgbria2rGEaphzY",
-      "pictureSource": "NewsDrum",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSd-zscc88G5ZRRrJ9DsV7auzLhYPaWwHlOVutY1y-NByF86C_n_lGAnmCIjBQ",
+      "pictureSource": "Storyboard18",
       "relatedSearch": [
         {
-          "title": "Blanket ban on online real money gaming will kill jobs, revenue, innovation: Priyank Kharge",
+          "title": "₹2,000-crore AdEx Black Hole: Meta, Broadcasters stare at RMG ban fallout",
           "snippet": "",
-          "url": "https://www.newsdrum.in/national/blanket-ban-on-online-real-money-gaming-will-kill-jobs-revenue-innovation-minister-kharge-9679249",
-          "source": "NewsDrum"
-        },
-        {
-          "title": "Karnataka Readies Tougher Law to Rein In Illegal Online Betting",
-          "snippet": "",
-          "url": "https://www.igamingtoday.com/karnataka-readies-tougher-law-to-rein-in-illegal-online-betting/",
-          "source": "iGamingToday.com"
-        },
-        {
-          "title": "K'taka IT Minister Priyank Kharge sounds alarm as Indian gamers flee to foreign servers",
-          "snippet": "",
-          "url": "https://www.storyboard18.com/gaming-news/ktaka-it-minister-priyank-kharge-sounds-alarm-as-indian-gamers-flee-to-foreign-servers-78814.htm",
+          "url": "https://www.storyboard18.com/gaming-news/%E2%82%B92000-crore-adex-black-hole-meta-broadcasters-stare-at-rmg-ban-fallout-79229.htm",
           "source": "Storyboard18"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bahawalpur",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 19 Aug 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStORrdybLOuxPbxYg1Amc4ezZ4efhBbc42qkA-L2LIQBXIjWqJSzq665mX-9o",
-      "pictureSource": "The Nation (Pakistan )",
-      "relatedSearch": [
-        {
-          "title": "Sutlej breach damages crops in Bahawalpur",
-          "snippet": "",
-          "url": "https://www.nation.com.pk/20-Aug-2025/sutlej-breach-damages-crops-in-bahawalpur",
-          "source": "The Nation (Pakistan )"
         },
         {
-          "title": "Sinking orchards of Swat: Peaches, apples, and hopes washed away",
+          "title": "Video | Online Gaming Bill | What Is Online Gaming Bill & Why Was It Introduced? | Explained",
           "snippet": "",
-          "url": "https://www.nation.com.pk/18-Aug-2025/sinking-orchards-of-swat-peaches-apples-and-hopes-washed-away",
-          "source": "The Nation"
+          "url": "https://www.ndtv.com/video/online-gaming-bill-what-is-online-gaming-bill-why-was-it-introduced-explained-982939",
+          "source": "NDTV"
         },
         {
-          "title": "Radio Pakistan Bahawalpur celebrates Golden Jubilee",
+          "title": "Stocks On The Move | Hormaz Fatakia is here with the trending stocks to watch out for today, August 20, 2025. #topstocksinfocus #buzzingstocks #stockmarketupdates #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettod",
           "snippet": "",
-          "url": "https://www.app.com.pk/domestic/radio-pakistan-bahawalpur-celebrates-golden-jubilee/",
-          "source": "Associated Press of Pakistan"
+          "url": "https://www.linkedin.com/posts/cnbc-tv18_topstocksinfocus-buzzingstocks-stockmarketupdates-activity-7363778605471985667-2tpH",
+          "source": "LinkedIn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.cnn.com/2025/08/19/politics/trump-zelensky-meeting-oval-office-putin-war-analysis",
           "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "2024",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 19 Aug 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNdnEN0R3KnIfMqwGMkWY_ky3sTx9q4rHT1eE3MxNxhgWp61tj-Eikdz2A4-I",
+      "pictureSource": "Baptist News Global",
+      "relatedSearch": [
+        {
+          "title": "2024 Election Post-Mortem: Nothing in Particulars",
+          "snippet": "",
+          "url": "https://baptistnews.com/article/2024-election-post-mortem-nothing-in-particulars/",
+          "source": "Baptist News Global"
+        },
+        {
+          "title": "Hollywood star almost left US after 2024 election",
+          "snippet": "",
+          "url": "https://www.geo.tv/latest/619557-mark-hamill-recalls-nearly-making-major-decision",
+          "source": "Geo.tv"
+        },
+        {
+          "title": "'Star Wars' Mark Hamill Goes Off The Deep End Again On Donald Trump",
+          "snippet": "",
+          "url": "https://www.outkick.com/analysis/mark-hamills-wife-talks-him-out-leaving-america-after-trump-win-with-one-clever-response",
+          "source": "OutKick"
         }
       ],
       "link": "https://imtaqin.id/"
