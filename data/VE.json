@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-22 21:52:51",
+  "lastUpdate": "2025-08-22 21:59:48",
   "data": [
     {
       "title": "angelique boyer",
@@ -31,7 +31,7 @@
     },
     {
       "title": "americup",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 22 Aug 2025 13:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdZrFyBjI0Y0QFJVSvXV7JpbI-nu4tzGKTqhU_vYRDbla1q0hEKCyrGYL7cTo",
       "pictureSource": "Yvke Mundial",
@@ -61,9 +61,15 @@
       "title": "leganés - cádiz",
       "trafficCount": "200+",
       "pubDate": "Fri, 22 Aug 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkbx78LF_CX-s6vR1_WLQafAVrjmWz46wmcsggoeUgBCnZ5shoUJq9A8iCTE",
-      "pictureSource": "MARCA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs5iPS6TshyZPYfsoX4Pm_FIhg6j_wEVWCRNiRR95k7qjFdkw-GsUP6NSecHw",
+      "pictureSource": "C.D. Leganés",
       "relatedSearch": [
+        {
+          "title": "El C.D. Leganés recibe al Cádiz C.F. en su estreno en casa",
+          "snippet": "",
+          "url": "https://www.cdleganes.com/noticias/el-cd-leganes-recibe-al-cadiz-cf-en-su-estreno-en-casa",
+          "source": "C.D. Leganés"
+        },
         {
           "title": "El Cádiz suma un punto ante el Lega al perdonar en la última jugada",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.lavanguardia.com/deportes/futbol/20250822/21057/horario-partido-ca-leganes-cadiz-ctx.html",
           "source": "La Vanguardia"
-        },
-        {
-          "title": "El Cádiz CF consigue un empate Butarque (1-1)",
-          "snippet": "",
-          "url": "https://www.cadizcf.com/noticias/el-cadiz-cf-consigue-un-empate-butarque-1-1",
-          "source": "Cádiz Club de Fútbol"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ligue 1",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 22 Aug 2025 12:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPB0Dh7RroEFiDlcupCCppeYPSbnltEz3yVkIiddMbTwshqyr2_AHYfy7l-lY",
-      "pictureSource": "L'Équipe",
-      "relatedSearch": [
-        {
-          "title": "La Ligue recadre sèchement Canal+ sur la distribution du Championnat de France et menace la chaîne de poursuites",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/Article/La-ligue-recadre-sechement-canal-sur-la-distribution-du-championnat-de-france-et-menace-la-chaine-de-poursuites/1586469",
-          "source": "L'Équipe"
-        },
-        {
-          "title": "Nicolas de Tavernost sur les débuts réussis de Ligue 1 + : « C’est nettement au-dessus de nos projections",
-          "snippet": "",
-          "url": "https://www.leparisien.fr/sports/football/ligue-1/nicolas-de-tavernost-sur-les-debuts-reussis-de-ligue-1-cest-nettement-au-dessus-de-nos-projections-18-08-2025-SHBJTRP74FCEDNJ6NDOLP6RXXM.php",
-          "source": "Le Parisien"
-        },
-        {
-          "title": "L'inside, ce pari à la Française",
-          "snippet": "",
-          "url": "https://www.eurosport.fr/football/ligue-1/2025-2026/football-ligue-1-et-ses-insides-un-pari-a-la-francaise-que-lon-ne-retrouve-nulle-part-ailleurs-dans-le-football_sto23213405/story.shtml",
-          "source": "Eurosport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "bayern munich",
       "trafficCount": "1000+",
       "pubDate": "Fri, 22 Aug 2025 12:00:00 -0700",
@@ -170,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ligue 1",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 22 Aug 2025 12:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPB0Dh7RroEFiDlcupCCppeYPSbnltEz3yVkIiddMbTwshqyr2_AHYfy7l-lY",
+      "pictureSource": "L'Équipe",
+      "relatedSearch": [
+        {
+          "title": "La Ligue recadre sèchement Canal+ sur la distribution du Championnat de France et menace la chaîne de poursuites",
+          "snippet": "",
+          "url": "https://www.lequipe.fr/Football/Article/La-ligue-recadre-sechement-canal-sur-la-distribution-du-championnat-de-france-et-menace-la-chaine-de-poursuites/1586469",
+          "source": "L'Équipe"
+        },
+        {
+          "title": "Nicolas de Tavernost sur les débuts réussis de Ligue 1 + : « C’est nettement au-dessus de nos projections",
+          "snippet": "",
+          "url": "https://www.leparisien.fr/sports/football/ligue-1/nicolas-de-tavernost-sur-les-debuts-reussis-de-ligue-1-cest-nettement-au-dessus-de-nos-projections-18-08-2025-SHBJTRP74FCEDNJ6NDOLP6RXXM.php",
+          "source": "Le Parisien"
+        },
+        {
+          "title": "L'inside, ce pari à la Française",
+          "snippet": "",
+          "url": "https://www.eurosport.fr/football/ligue-1/2025-2026/football-ligue-1-et-ses-insides-un-pari-a-la-francaise-que-lon-ne-retrouve-nulle-part-ailleurs-dans-le-football_sto23213405/story.shtml",
+          "source": "Eurosport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "betis - alavés",
       "trafficCount": "5000+",
       "pubDate": "Fri, 22 Aug 2025 11:50:00 -0700",
@@ -189,10 +189,10 @@
           "source": "Olé"
         },
         {
-          "title": "El Betis estrena La Cartuja ante el Alavés",
+          "title": "🚨Formaciones listas: Betis busca su primer victoria en La Liga",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/laliga/20250822/1002518383/betis-estrena-cartuja-alaves.html",
-          "source": "Mundo Deportivo"
+          "url": "https://onefootball.com/es/noticias/formaciones-listas-betis-busca-su-primer-victoria-en-la-liga-41550565",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
