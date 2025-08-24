@@ -1,17 +1,45 @@
 {
-  "lastUpdate": "2025-08-24 18:34:53",
+  "lastUpdate": "2025-08-24 18:45:10",
   "data": [
     {
-      "title": "pga tour",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 24 Aug 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMhDq511UrcaYH_uIwnGSUhC8I6mh4UNUuPPrKAnlkjHYzMkN-TsXtIb08vbU",
+      "title": "auckland weather",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 24 Aug 2025 11:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKgqzlw7l-IZjCNvSd5ejJxfxxAIn13SeyWlB26TrywvVPnu3Vw4SSX7cx12o",
+      "pictureSource": "Stuff",
+      "relatedSearch": [
+        {
+          "title": "Hail so thick it looks like snow hits upper North Island",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/nz-news/360801080/hail-storms-coat-ground-upper-north-island",
+          "source": "Stuff"
+        },
+        {
+          "title": "Hailstorm catches Aucklanders by surprise, more possibly on the way",
+          "snippet": "",
+          "url": "https://www.nzherald.co.nz/nz/surprise-hailstorm-hits-auckland-after-warm-winter-day-more-possible-today/RKQNOE3NNBGKDC6PLOJZVWQ5WU/",
+          "source": "NZ Herald"
+        },
+        {
+          "title": "Hailstorm catches Aucklanders by surprise, more possibly on the way",
+          "snippet": "",
+          "url": "https://www.newstalkzb.co.nz/news/national/surprise-hailstorm-hits-auckland-after-warm-winter-day-more-possible-today/",
+          "source": "Newstalk ZB"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tour championship",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 24 Aug 2025 11:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQg8End1yvGp8c82OYd_WI6zg9Zq9xgZgKS9TQhHDrcRw-F_GfCOxU3a0fNq-o",
       "pictureSource": "Golf.com",
       "relatedSearch": [
         {
-          "title": "2025 Tour Championship Sunday TV coverage: How to watch Round 4 at East Lake",
+          "title": "2025 Tour Championship purse: Payout info, winner’s share",
           "snippet": "",
-          "url": "https://golf.com/news/2025-tour-championship-sunday-tv-coverage-watch-round-4/",
+          "url": "https://golf.com/news/2025-tour-championship-purse-payout-winners-share/",
           "source": "Golf.com"
         },
         {
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.pgatour.com/article/news/latest/2025/08/21/tour-championship-tee-times-moved-up-weather-storms-friday-round-2-east-lake-fedexcup",
           "source": "PGA Tour"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "premier league",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 24 Aug 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGV6ANAXJLYKlbCrEh121CdFesEQzDBq54312J7NxRgJKlseyhq13JKoJXJcc",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Jack Grealish: England hopeful inspires Everton to winning start at new stadium",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/ckgj4x7z9j2o",
-          "source": "BBC"
-        },
-        {
-          "title": "Everton 2-0 Brighton: Jack Grealish stars at Hill Dickinson Stadium as Toffees win in new stadium opener",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/news/11095/13415536/everton-2-0-brighton-jack-grealish-stars-at-hill-dickinson-stadium-as-toffees-win-in-new-stadium-opener",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Everton vs Brighton: Preview and Predicted Lineups",
-          "snippet": "",
-          "url": "https://www.toffeeweb.com/season/24-25/news/46581.html",
-          "source": "ToffeeWeb"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,10 +142,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "premier league games",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 24 Aug 2025 09:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGV6ANAXJLYKlbCrEh121CdFesEQzDBq54312J7NxRgJKlseyhq13JKoJXJcc",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Jack Grealish: England hopeful inspires Everton to winning start at new stadium",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/articles/ckgj4x7z9j2o",
+          "source": "BBC"
+        },
+        {
+          "title": "Everton send Brighton packing as Jack Grealish ignites win in club’s new home",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2025/aug/24/everton-brighton-premier-league-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Everton 2-0 Brighton: Jack Grealish stars at Hill Dickinson Stadium as Toffees win in new stadium opener",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/news/11095/13415536/everton-2-0-brighton-jack-grealish-stars-at-hill-dickinson-stadium-as-toffees-win-in-new-stadium-opener",
+          "source": "Sky Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "fulham vs man united",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 24 Aug 2025 09:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1yNgN9mJcRnPdYR7nTh7Xaw-R7aIHvLXX72yjMth7Uc709cm-egcaW3cuges",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQo9jGQWfEicVG2YjQCbt7OyfbreBFGBkwYexquneqfUWXfwyDdTiUQ_1mHU",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
@@ -170,8 +198,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "us open tennis",
+      "title": "dp world tour",
       "trafficCount": "100+",
+      "pubDate": "Sun, 24 Aug 2025 09:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTY0XOHtFwmv6WLftW9J50GJfMf-3_5Xg5G9wKg2IKCP5KpIZxgqOeuYx-o0ks",
+      "pictureSource": "supersport.com",
+      "relatedSearch": [
+        {
+          "title": "Noren secures second British Masters title",
+          "snippet": "",
+          "url": "https://supersport.com/golf/dp-world-tour/news/853be00e-2fc2-4dfd-9066-ba2d3c068418/noren-secures-second-british-masters-title",
+          "source": "supersport.com"
+        },
+        {
+          "title": "Nordic joy for Noren and Hojgaard at British Masters",
+          "snippet": "",
+          "url": "https://www.riverineherald.com.au/golf/nordic-joy-for-noren-and-hojgaard-at-british-masters/",
+          "source": "Riverine Herald"
+        },
+        {
+          "title": "Alex Noren wins DP World Tour's Betfred British Masters, ends 7-year winless drought",
+          "snippet": "",
+          "url": "https://golfweek.usatoday.com/story/sports/golf/2025/08/24/dp-world-tour-betfred-british-masters-alex-noren-wins/85807756007/",
+          "source": "Golfweek"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "us open tennis",
+      "trafficCount": "200+",
       "pubDate": "Sun, 24 Aug 2025 09:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScSl__q3hnn8MHyq554j5_uSv36EjeV0QHmC65dXAsyZ0vZbViJoP2kL2bmRI",
       "pictureSource": "BBC",
@@ -211,72 +267,16 @@
           "source": "BBC"
         },
         {
+          "title": "Hudson-Odoi earns Nottingham Forest a point in ‘El Casico’ at Crystal Palace",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/2025/aug/24/crystal-palace-nottingham-forest-premier-league-match-report",
+          "source": "The Guardian"
+        },
+        {
           "title": "Crystal Palace 1-1 Nottingham Forest: Callum Hudson-Odoi scores to earn Nuno Espirito Santo's side a point at Selhurst Park",
           "snippet": "",
           "url": "https://www.skysports.com/football/news/11095/13415535/crystal-palace-1-1-nottingham-forest-callum-hudson-odoi-scores-to-earn-nuno-espirito-santos-side-a-point-at-selhurst-park",
           "source": "Sky Sports"
-        },
-        {
-          "title": "Tense meeting awaits after Crystal Palace’s bitter European battle with Forest",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/aug/23/crystal-palace-nottingham-forest-premier-league-selhurst-park-europa-conference-league",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hostage netflix",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 24 Aug 2025 00:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ67FQLy03QRidVzKNH1H8v44pSPjXhKSG7GaTAWJq9qzC6jEJJg4VGSABS_BA",
-      "pictureSource": "Rotten Tomatoes",
-      "relatedSearch": [
-        {
-          "title": "Limited Series – Hostage",
-          "snippet": "",
-          "url": "https://www.rottentomatoes.com/tv/hostage_2025/s01",
-          "source": "Rotten Tomatoes"
-        },
-        {
-          "title": "Hostage review – five hours of fast, furious fun, featuring Suranne Jones as prime minister",
-          "snippet": "",
-          "url": "https://www.theguardian.com/tv-and-radio/2025/aug/21/hostage-review-suranne-jones-prime-minister-netflix-drama",
-          "source": "The Guardian"
-        },
-        {
-          "title": "London Film Locations On-Screen: August 2025",
-          "snippet": "",
-          "url": "https://filmlondon.org.uk/latest/london-film-locations-on-screen-august-2025",
-          "source": "Film London"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "aus vs sa",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 23 Aug 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM_c4t_hPVg72iSTCLSTGRHGpkPE4jGyMxHfYGz5eRfgBSHGzXn7jShs8xsjs",
-      "pictureSource": "ESPNcricinfo",
-      "relatedSearch": [
-        {
-          "title": "Green, Head and Marsh flay centuries as Australia put on a show",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/series/south-africa-in-australia-2025-1478879/australia-vs-south-africa-3rd-odi-1478903/match-report",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "Australia thrash South Africa by 276 runs to avoid ODI whitewash",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/cricket/articles/cvgn5p40j77o",
-          "source": "BBC"
-        },
-        {
-          "title": "Australia Script History En Route Whopping 431/2 Against South Africa",
-          "snippet": "",
-          "url": "https://sports.ndtv.com/cricket/australia-script-history-en-route-whopping-431-2-against-south-africa-9149450",
-          "source": "NDTV Sports"
         }
       ],
       "link": "https://imtaqin.id/"
