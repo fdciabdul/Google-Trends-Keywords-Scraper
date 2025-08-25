@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-25 09:57:44",
+  "lastUpdate": "2025-08-25 10:09:03",
   "data": [
     {
       "title": "domo",
@@ -117,20 +117,20 @@
       "title": "vremea",
       "trafficCount": "200+",
       "pubDate": "Sun, 24 Aug 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh0gODtZKI1-T20tnveNMDhiJ-M0CU1UYuIKCg1QqGCloUIhkU7_GYvJDIHyI",
-      "pictureSource": "MeteoRadar.ro",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5cIOTt8MskODHZi8Btqzvgz_C09Tqgy7LbFS1shgAJf5TM_3hxSzjrj7k0iM",
+      "pictureSource": "Mediafax",
       "relatedSearch": [
-        {
-          "title": "Urmează o noapte răcoroasă: până la 5°C pe alocuri",
-          "snippet": "",
-          "url": "https://www.meteoradar.ro/stiri-meteo/urmeaza-o-noapte-racoroasa-pana-la-5c-pe-alocuri--792d94f8-ef71-478b-bcaf-d5ca30b6e1df",
-          "source": "MeteoRadar.ro"
-        },
         {
           "title": "Temperaturi minime record la final de vară: Cea mai friguroasă dimineață de 25 august din…",
           "snippet": "",
           "url": "https://www.mediafax.ro/meteo/temperaturi-minime-record-la-final-de-vara-cea-mai-friguroasa-dimineata-de-25-august-din-ultimii-45-50-de-ani-23600285",
           "source": "Mediafax"
+        },
+        {
+          "title": "Urmează o noapte răcoroasă: până la 5°C pe alocuri",
+          "snippet": "",
+          "url": "https://www.meteoradar.ro/stiri-meteo/urmeaza-o-noapte-racoroasa-pana-la-5c-pe-alocuri--792d94f8-ef71-478b-bcaf-d5ca30b6e1df",
+          "source": "MeteoRadar.ro"
         },
         {
           "title": "Vreme la extreme în ultima săptămână de vară: temperaturile au coborât până la -1,7 grade. Meteorologii...",
@@ -142,18 +142,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "gazeta sporturilor",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 24 Aug 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZmEPJRMDcM51bgiI4SP6aH1zGi68dtZB6c4UJ3Gtad41B1wFnqP0XZTS_JHc",
+      "pictureSource": "GSP",
+      "relatedSearch": [
+        {
+          "title": "Adrian Mititelu a găsit soluția pentru ca FCU Craiova să scape de excluderea din campionat",
+          "snippet": "",
+          "url": "https://www.gsp.ro/fotbal/liga-3/adrian-mititelu-fcu-craiova-concordat-preventiv-834444.html",
+          "source": "GSP"
+        },
+        {
+          "title": "Englezii au rămas \"mască\", după ce au aflat de echipa din România cu -94 puncte! Ce au scris",
+          "snippet": "",
+          "url": "https://www.digisport.ro/fotbal/englezii-au-ramas-masca-dupa-ce-au-aflat-de-echipa-din-romania-cu-94-puncte-ce-au-scris-3765445",
+          "source": "Digi Sport"
+        },
+        {
+          "title": "FCU Craiova, la un pas de prăbușire. Penalizare drastică de 94 de puncte și risc de excludere totală din...",
+          "snippet": "",
+          "url": "https://adevarul.ro/sport/fcu-craiova-la-un-pas-de-prabusire-penalizare-2466912.html",
+          "source": "Adevarul"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "gazeta de sud",
       "trafficCount": "200+",
       "pubDate": "Sun, 24 Aug 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsppIokT4es0XvTw3h4GKN2V13myQy-oMLZO8BpLNoDZTVl0KKGQvk2N-uDoo",
-      "pictureSource": "Gazeta de Sud",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfDs1_gNxFkZIhAu0BvzseH996XFw2tjGoDSjLgdOZNGHsDfhrr6ybnozqyU",
+      "pictureSource": "Știrile Pro TV",
       "relatedSearch": [
-        {
-          "title": "Bancul zilei",
-          "snippet": "",
-          "url": "https://www.gds.ro/bancuri/2025-08-25/bancul-zilei-2703/",
-          "source": "Gazeta de Sud"
-        },
         {
           "title": "Un bebeluș s-a născut în ambulanță, în drum spre un spital din Capitală. Primele plânsete au adus emoție în autospecială",
           "snippet": "",
@@ -165,6 +187,12 @@
           "snippet": "",
           "url": "https://adevarul.ro/stiri-locale/bucuresti/bebelus-nascut-in-ambulanta-pe-drumul-spre-2467129.html",
           "source": "Adevarul"
+        },
+        {
+          "title": "Debut medical emoționant pentru o asistentă. A adus un copil pe lume în ambulanță: „Plânsetele au umplut autospeciala”",
+          "snippet": "",
+          "url": "https://www.libertatea.ro/stiri/bebelus-nascut-ambulanta-drum-spital-bucuresti-5425272",
+          "source": "Libertatea"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "Managing Madrid"
         },
         {
-          "title": "Vinícius scores and assists from the bench, but controversy still surrounds him: Mbappé saves him from red card",
+          "title": "'You have to demand respect' - Xabi Alonso explains why Vinicius Jr was benched for La Liga clash with Real Oviedo amid contract stand off with Real Madrid",
           "snippet": "",
-          "url": "https://www.gamereactor.eu/vinicius-scores-and-assists-from-the-bench-but-controversy-still-surrounds-him-mbappe-saves-him-from-red-card-1590253/",
-          "source": "Gamereactor UK"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "raja jackson",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 24 Aug 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvN1tM03qndyujKZRJnfLIcK060cN0f774VbHiL-_2jJ3-iQjuoetUJSFw8Nk",
-      "pictureSource": "TMZ",
-      "relatedSearch": [
-        {
-          "title": "Cops Investigating Quinton 'Rampage' Jackson's Son Raja's Brutal Beatdown",
-          "snippet": "",
-          "url": "https://www.tmz.com/2025/08/24/cops-investigating-raja-jackson-beatdown-wrestling-event/",
-          "source": "TMZ"
-        },
-        {
-          "title": "Livestream Shows M.M.A. Fighter Raja Jackson Assaulting Pro Wrestler",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/08/24/us/raja-jackson-wrestler-assault.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Ex-UFC champion Rampage Jackson ‘very upset’ after son appears to beat motionless wrestler in bout gone ‘wrong’",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/08/24/sport/wrestling-rampage-jackson-son-raja-spt",
-          "source": "CNN"
+          "url": "https://www.goal.com/en-om/lists/xabi-alonso-explains-why-vinicius-jr-benched-la-liga-clash-real-oviedo-contract-stand-off-real-madrid/blt98d9b32bcb2b5ec6",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
