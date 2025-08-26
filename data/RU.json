@@ -1,11 +1,39 @@
 {
-  "lastUpdate": "2025-08-26 05:21:15",
+  "lastUpdate": "2025-08-26 05:32:58",
   "data": [
+    {
+      "title": "нижневартовск",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 25 Aug 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYkoUqjGGsOXmOsyb3Em_dK_I-YwZ-445jq-ST7g_6229WjGilZZ58HlckGw",
+      "pictureSource": "NEWS.ru",
+      "relatedSearch": [
+        {
+          "title": "Трамп объявил о намерении встретиться с Ким Чен Ыном",
+          "snippet": "",
+          "url": "https://news.ru/usa/tramp-obyavil-o-namerenii-vstretitsya-s-kim-chen-ynom",
+          "source": "NEWS.ru"
+        },
+        {
+          "title": "«Стратеги» Ту-95МС, истребители Су-35С и Су-30СМ пролетели над Японским морем",
+          "snippet": "",
+          "url": "https://www1.ru/news/2025/08/19/strategi-tu-95ms-istrebiteli-su-35s-i-su-30sm-proleteli-nad-iaponskim-morem.html",
+          "source": "www1.ru"
+        },
+        {
+          "title": "Русские «медведи» провели четырехчасовой полет над Баренцевым морем",
+          "snippet": "",
+          "url": "http://armiya.az/ru/news/231941/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%C2%AB%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B8%C2%BB-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8-%D1%87%D0%B5%D1%82%D1%8B%D1%80%D0%B5%D1%85%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82-%D0%BD%D0%B0%D0%B4-%D0%91%D0%B0%D1%80%D0%B5%D0%BD%D1%86%D0%B5%D0%B2%D1%8B%D0%BC-%D0%BC%D0%BE%D1%80%D0%B5%D0%BC",
+          "source": "Armiya.az"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "фонтанка ру",
       "trafficCount": "200+",
       "pubDate": "Mon, 25 Aug 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsaczoobHqQ7R2Ne7FYEjy6w0f9erl6v9uqJt1t0ROoUGdw58lg5iy9wkQmhQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9OojLIC5jCutXUqAzb36FscZsh7I_Q4zK9OaPjo4N0gHB8bH6tpxZ_yEMbSw",
       "pictureSource": "ФОНТАНКА.ру",
       "relatedSearch": [
         {
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://bcs-express.ru/novosti-i-analitika/na-predpriiatii-novateka-v-ust-luge-proizoshel-pozhar-mnenie-analitikov",
           "source": "BCS Express"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "1 сентября",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 25 Aug 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg5UkBiQ68hbMrA1imsz87UqthEs6zGZvYfSfffzHy8z7kUd9Y-tTZqS6LdQ0",
-      "pictureSource": "Интерфакс",
-      "relatedSearch": [
-        {
-          "title": "Летняя погода, предварительно, будет 1 сентября в Москве",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1043968",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Заморозки и аномалии вместо бабьего лета, обильные дожди: какой будет погода в регионах России в сентябре",
-          "snippet": "",
-          "url": "https://ura.news/news/1052985706",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Осень опаздывает: синоптик Ильин рассказал о погоде на 1 сентября",
-          "snippet": "",
-          "url": "https://vfokuse.mail.ru/article/osen-opazdyvaet-sinoptik-ilin-rasskazal-o-pogode-na-1-sentyabrya-67577624/",
-          "source": "ВФокусе Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,16 +267,16 @@
           "source": "Взгляд-инфо"
         },
         {
-          "title": "В трех районах Саратова отключили воду: адреса",
-          "snippet": "",
-          "url": "https://nversia.ru/news/v-treh-rayonah-saratova-otklyuchili-vodu-adresa_2025-08-25_11-27/",
-          "source": "ИА «Версия-Саратов"
-        },
-        {
           "title": "В зону отключения воды попали дома в двух районах Саратова",
           "snippet": "",
           "url": "https://sarnovosti.ru/news/v-zonu-otklyucheniya-vody-popali-doma-v-dvukh-rayonakh-saratova-3/",
           "source": "Новости Саратова — Регион 64"
+        },
+        {
+          "title": "В трех районах Саратова отключили воду: адреса",
+          "snippet": "",
+          "url": "https://nversia.ru/news/v-treh-rayonah-saratova-otklyuchili-vodu-adresa_2025-08-25_11-27/",
+          "source": "ИА «Версия-Саратов"
         }
       ],
       "link": "https://imtaqin.id/"
