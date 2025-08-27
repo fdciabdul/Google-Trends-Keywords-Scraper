@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-08-27 05:07:57",
+  "lastUpdate": "2025-08-27 05:19:19",
   "data": [
-    {
-      "title": "perth news",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 26 Aug 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3EJ59l3vXhpGIS3ZCjDVcuIhtYhD8vvi3RTsUW2ZhWyTYRln5dC1arrfSqBE",
-      "pictureSource": "PerthNow",
-      "relatedSearch": [
-        {
-          "title": "Police incident on freeway causes heavy delays",
-          "snippet": "",
-          "url": "https://www.perthnow.com.au/wa/traffic/perth-traffic-serious-police-incident-on-mitchell-freeway-results-in-heavy-delays-for-motorists-c-19820845",
-          "source": "PerthNow"
-        },
-        {
-          "title": "Perth restaurateur guilty of sexually assaulting three women",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-08-26/italian-restauranteur-alberto-nicoletti-guilty-of-sexual-assault/103628664",
-          "source": "Australian Broadcasting Corporation"
-        },
-        {
-          "title": "Third sex assault conviction for disgraced Como restaurateur",
-          "snippet": "",
-          "url": "https://thewest.com.au/news/court-justice/alberto-nicoletti-restaurant-owner-found-guilty-of-rape-after-two-earlier-sexual-assault-convictions-c-19810226",
-          "source": "The West Australian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "perth now",
       "trafficCount": "500+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.skynews.com.au/australia-news/weather/cold-front-to-bring-showers-to-perth-as-flood-warnings-remain-on-the-midnorth-coast-of-nsw/news-story/f0265bb3850afbd29c9441532d8bc7c8",
           "source": "Sky News Australia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "perth traffic",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 26 Aug 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3EJ59l3vXhpGIS3ZCjDVcuIhtYhD8vvi3RTsUW2ZhWyTYRln5dC1arrfSqBE",
+      "pictureSource": "PerthNow",
+      "relatedSearch": [
+        {
+          "title": "Police incident on freeway causes heavy delays",
+          "snippet": "",
+          "url": "https://www.perthnow.com.au/wa/traffic/perth-traffic-serious-police-incident-on-mitchell-freeway-results-in-heavy-delays-for-motorists-c-19820845",
+          "source": "PerthNow"
+        },
+        {
+          "title": "Perth restaurateur guilty of sexually assaulting three women",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-08-26/italian-restauranteur-alberto-nicoletti-guilty-of-sexual-assault/103628664",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Third sex assault conviction for disgraced Como restaurateur",
+          "snippet": "",
+          "url": "https://thewest.com.au/news/court-justice/alberto-nicoletti-restaurant-owner-found-guilty-of-rape-after-two-earlier-sexual-assault-convictions-c-19810226",
+          "source": "The West Australian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "News.com.au"
         },
         {
-          "title": "AUDIO: Linda Reynolds wins defamation battle against Brittany Higgins",
+          "title": "Former WA senator Linda Reynolds secures $315,000 payout in Brittany Higgins defamation ruling",
           "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-08-27/naus_reynoldswinsnr_2708/105703836",
-          "source": "Australian Broadcasting Corporation"
+          "url": "https://www.theage.com.au/national/western-australia/former-wa-senator-linda-reynolds-secures-315-000-payout-in-brittany-higgins-defamation-ruling-20250827-p5mq8r.html",
+          "source": "The Age"
         },
         {
-          "title": "Australia news LIVE: Reynolds wins defamation case against Higgins; Inflation jumps in July; Iran rejects link to antisemitic attacks",
+          "title": "Court finds Higgins made false claims",
           "snippet": "",
-          "url": "https://www.smh.com.au/national/australia-news-live-iran-rejects-link-to-australian-antisemitic-attacks-trump-administration-praises-albanese-s-response-marles-meets-vance-amid-aukus-review-20250827-p5mq4e.html",
-          "source": "The Sydney Morning Herald"
+          "url": "https://www.theaustralian.com.au/news/court-finds-higgins-made-false-claims/news-story/51fa12667538f7a2220169beedfeb988",
+          "source": "The Australian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "NZ Herald"
         },
         {
-          "title": "Ticketek Entertainment Group buys Eventfinda",
-          "snippet": "",
-          "url": "https://www.stuff.co.nz/culture/360803085/ticketek-entertainment-group-buys-eventfinda",
-          "source": "Stuff"
-        },
-        {
           "title": "TEG To Acquire The New Zealand Ticketing Platform Eventfinda",
           "snippet": "",
           "url": "https://celebrityaccess.com/2025/08/26/teg-to-acquire-the-new-zealand-ticketing-platform-eventfinda/",
           "source": "CelebrityAccess"
+        },
+        {
+          "title": "James McGlinn: Eventfinda co-founder on the company being acquired by Ticketek Entertainment Group",
+          "snippet": "",
+          "url": "https://www.iheart.com/podcast/211-heather-du-plessis-allan-d-24837940/episode/james-mcglinn-eventfinda-co-founder-on-the-290784225/",
+          "source": "iHeart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,7 +217,7 @@
           "source": "Australian Broadcasting Corporation"
         },
         {
-          "title": "ASX 200 LIVE: ASX up as Tab, SiteMinder surge 20pc; July inflation rises to 2.8pc",
+          "title": "ASX 200 LIVE: ASX edges up; Tab, Nine rocket as Woolworths, WiseTech tumble",
           "snippet": "",
           "url": "https://www.afr.com/markets/equity-markets/asx-to-rise-us-equities-edge-up-as-trump-battles-the-fed-20250827-p5mq3t",
           "source": "AFR"
