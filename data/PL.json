@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-27 06:00:24",
+  "lastUpdate": "2025-08-27 06:11:49",
   "data": [
     {
       "title": "labubu",
@@ -31,7 +31,7 @@
     },
     {
       "title": "cracker barrel",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 26 Aug 2025 22:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGwMdvFjZq60Q8_fWZl17pLSb_uevE9ZS2JGyD5UV9LS9mHnmLOOfZLGC84Zk",
       "pictureSource": "ABC News",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "pogoda opole",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 26 Aug 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvfTPtJMXIvlIRQODiobdVAfIbKhu4v4V1UtZ6RKx_Z1VyYhRmhwh7JiwzjVc",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Opole. Sprawdź prognozę pogody w dniu 27.08.2025",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-27082025/g2451tp",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Pogoda tygodniowa dla Opola. Sprawdź, jaka pogoda będzie od jutra (28.08) do wtorku",
+          "snippet": "",
+          "url": "https://opole.naszemiasto.pl/pogoda-tygodniowa-dla-opola-sprawdz-jaka-pogoda-bedzie-od-jutra-28-08-do-wtorku/ar/c1p1-19943987",
+          "source": "Opole Nasze Miasto"
+        },
+        {
+          "title": "Opole - 25.08.2025. Pogoda na dziś",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-25082025/wgmd7gk",
+          "source": "Onet Wiadomości"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "pogoda toruń",
       "trafficCount": "200+",
       "pubDate": "Tue, 26 Aug 2025 21:10:00 -0700",
@@ -137,34 +165,6 @@
           "snippet": "",
           "url": "https://ototorun.pl/artykul/do-torunia-wroci-lato-n1735658",
           "source": "otoTorun.pl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda opole",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 26 Aug 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvfTPtJMXIvlIRQODiobdVAfIbKhu4v4V1UtZ6RKx_Z1VyYhRmhwh7JiwzjVc",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Opole. Sprawdź prognozę pogody w dniu 27.08.2025",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-27082025/g2451tp",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Pogoda tygodniowa dla Opola. Sprawdź, jaka pogoda będzie od jutra (28.08) do wtorku",
-          "snippet": "",
-          "url": "https://opole.naszemiasto.pl/pogoda-tygodniowa-dla-opola-sprawdz-jaka-pogoda-bedzie-od-jutra-28-08-do-wtorku/ar/c1p1-19943987",
-          "source": "Opole Nasze Miasto"
-        },
-        {
-          "title": "Opole - 25.08.2025. Pogoda na dziś",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-25082025/wgmd7gk",
-          "source": "Onet Wiadomości"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,16 +267,16 @@
           "source": "Przegląd Sportowy Onet"
         },
         {
-          "title": "Sensacja w Lidze Mistrzów. Gigant wypadł z gry, Kazachowie zszokowali świat",
-          "snippet": "",
-          "url": "https://sport.interia.pl/pilka-nozna/liga-mistrzow/news-sensacja-w-lidze-mistrzow-gigant-wypadl-z-gry-kazachowie-zsz,nId,22178407",
-          "source": "Sport w INTERIA.PL"
-        },
-        {
           "title": "Liga Mistrzów trafi do Kazachstanu. To będzie niespodziewany debiut",
           "snippet": "",
           "url": "https://sportowefakty.wp.pl/pilka-nozna/1206273/liga-mistrzow-trafi-do-kazachstanu-debiutant-z-awansem",
           "source": "SportoweFakty"
+        },
+        {
+          "title": "Sensacja w Lidze Mistrzów. Gigant wypadł z gry, Kazachowie zszokowali świat",
+          "snippet": "",
+          "url": "https://sport.interia.pl/pilka-nozna/liga-mistrzow/news-sensacja-w-lidze-mistrzow-gigant-wypadl-z-gry-kazachowie-zsz,nId,22178407",
+          "source": "Sport w INTERIA.PL"
         }
       ],
       "link": "https://imtaqin.id/"
