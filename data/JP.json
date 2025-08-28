@@ -1,41 +1,88 @@
 {
-  "lastUpdate": "2025-08-28 20:10:28",
+  "lastUpdate": "2025-08-28 20:22:35",
   "data": [
     {
-      "title": "地震情報",
-      "trafficCount": "2000+",
+      "title": "地震速報",
+      "trafficCount": "10000+",
       "pubDate": "Thu, 28 Aug 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-saw-pSGQ5w98qTF0kygcmiDod18Y5Vax-iIg6Uud15FBRj1sorxioSrbxqI",
-      "pictureSource": "Yahoo!ニュース",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdYHZyRVH58KDF9qUIYM3MKR_GNdpQ1xPMrtJH1g7mmnAKA4Y0ZAaTIQtI-mM",
+      "pictureSource": "NHK",
       "relatedSearch": [
         {
-          "title": "【地震情報】越前市などで震度1 震源は福井県嶺北 津波の心配なし 震源の深さは10キロ M3.6と推定（FBC 福井放送）",
+          "title": "緊急地震速報の“過大予報” 制御プログラムが原因 気象庁",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/db3aef0b7031556a37d934929ff98f0ec3326547",
+          "url": "https://www3.nhk.or.jp/news/html/20250827/k10014904821000.html",
+          "source": "NHK"
+        },
+        {
+          "title": "東海沖地震計の利用再開",
+          "snippet": "",
+          "url": "https://news.at-s.com/article/1792430",
+          "source": "静岡新聞DIGITAL"
+        },
+        {
+          "title": "東海沖の地震計、緊急速報への利用再開（共同通信）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/1d954fbca07a40e2e4e0ce511c7c379306f43996",
+          "source": "Yahoo!ニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "カブス",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 28 Aug 2025 13:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyMJRR_z0X5lXQxJePvETXf_T2ZGDYHo3dLoOZhBuoS8eAFpUB3nPiJvSMqjU",
+      "pictureSource": "NHK",
+      "relatedSearch": [
+        {
+          "title": "カブス 鈴木誠也 2打数無安打 チームも敗れる",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/news/html/20250828/k10014905851000.html",
+          "source": "NHK"
+        },
+        {
+          "title": "【MLB】カブス12失点でジャイアンツに連敗 鈴木誠也は2打数ノーヒット2四球 あすは今永vsウェブ（MLB公式日本語サイト）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/59202cbca98a6d5d258ac2b665e998ef24d8c5d6",
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "岐阜県で最大震度2の地震 岐阜県・揖斐川町",
+          "title": "鈴木誠也、２四球で４試合ぶりに無安打 打率.243、27本塁打、87打点 カブスは大敗",
           "snippet": "",
-          "url": "https://newsdig.tbs.co.jp/articles/-/2135873?display=1",
-          "source": "TBS NEWS DIG"
-        },
-        {
-          "title": "震度＝気象庁発表（２８日２３時３７分）　：地震",
-          "snippet": "",
-          "url": "https://www.oita-press.co.jp/1002000000/2025/08/28/NP2025082802000061",
-          "source": "大分合同新聞"
+          "url": "https://sportsbull.jp/p/2170922/",
+          "source": "スポーツブル"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "地震",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Thu, 28 Aug 2025 12:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_SwM41bzW4VlnvHFpNmcHYprV_kbLOS6KeG03J2PaNVDzU5QVYFY5LtqYGA4",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "【地震】山形県内で震度1 茨城県沖を震源とする最大震度3の地震が発生 津波の心配なし（さくらんぼテレビ）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/adc41ec876025cea7723be57c5a37d98ba88372d",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "震度＝気象庁発表（２９日５時０分） ：地震",
+          "snippet": "",
+          "url": "https://www.chugoku-np.co.jp/articles/-/702781",
+          "source": "中国新聞デジタル"
+        },
+        {
+          "title": "茨城県南部で震度2 津波の心配なし（１０：０７）",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/lnews/mito/20250828/1070028248.html",
+          "source": "NHK"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -68,21 +115,21 @@
     },
     {
       "title": "米澤かおり",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 28 Aug 2025 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt978Jo6ydiMgn9oVfR-tOOROzWoFeZJEKURJe1j2spimSxenHeY5M-6MikQE",
-      "pictureSource": "au Webポータル",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_Q4rF6iYEZZVDW7tu4UzeSkcHWLbVVNexkhohVAqa1AGhY32VN05QxSeyzMU",
+      "pictureSource": "Yahoo!ニュース",
       "relatedSearch": [
         {
-          "title": "米澤かおりアナ「Ｏｈａ４！」卒業 出演最終日に「実はまだ実感が沸いていません」…第１子妊娠中",
+          "title": "米澤かおりアナ「Ｏｈａ４！」卒業 出演最終日に「実はまだ実感が沸いていません」…第１子妊娠中（スポーツ報知）",
           "snippet": "",
-          "url": "https://article.auone.jp/detail/1/5/9/202_9_r_20250829_1756410612386226",
-          "source": "au Webポータル"
+          "url": "https://news.yahoo.co.jp/articles/468a88932ef66a9b78dafba3d6354da82d61b0ef",
+          "source": "Yahoo!ニュース"
         },
         {
-          "title": "「はじめての育児講座」…来月２５日",
+          "title": "「対象６割」避難 自治体も…カムチャツカ地震 高齢者らの状況 把握課題",
           "snippet": "",
-          "url": "https://www.yomiuri.co.jp/life/kosodate/20250828-OYT8T50129/",
+          "url": "https://www.yomiuri.co.jp/national/20250829-OYT1T50017/",
           "source": "読売新聞オンライン"
         },
         {
@@ -108,16 +155,16 @@
           "source": "ｄメニューニュース"
         },
         {
-          "title": "趣里 三山凌輝と結婚、妊娠も 占い師に注意促されるも「俳優さんとか業界の人と結婚する」と告げられる（スポニチアネックス）",
+          "title": "趣里 三山凌輝と結婚していた 妊娠も 29日正式発表へ 水谷豊、伊藤蘭夫妻見守る 初孫…深い家族の絆（スポニチアネックス）",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/b7b0479fec4fad30df541557bcc628d4c676cead",
+          "url": "https://news.yahoo.co.jp/articles/3e2c6d3b46f397ebe4bdfc2a1cb81a6854d4ef08",
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "《膨らんだお腹への誓い》BE:FIRSTのRYOKI「生まれ変わらなければ」「ボーカル復帰も？」趣里への“改心宣言”に水谷豊・伊藤蘭夫婦の懊悩 (1/3)",
+          "title": "《お腹にそっと手を当てて》ひとり娘の趣里は区役所を訪れ…背中を押す水谷豊・伊藤蘭、育んできた3人家族の「絆」",
           "snippet": "",
-          "url": "https://j7p.jp/?p=148820",
-          "source": "女性セブンプラス"
+          "url": "https://www.news-postseven.com/archives/20250826_2059586.html?DETAIL",
+          "source": "NEWSポストセブン"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,10 +183,10 @@
           "source": "日本経済新聞"
         },
         {
-          "title": "【市況】 ＮＹ各市場 ３時台 ダウ平均は小幅高 ナスダックもプラス圏での推移",
+          "title": "NY株、史上最高値（時事通信）",
           "snippet": "",
-          "url": "https://kabutan.jp/news/marketnews/?&b=n202508290024",
-          "source": "かぶたん"
+          "url": "https://news.yahoo.co.jp/articles/ed73701de0545bae583c791b72449e01aa9a2bc6",
+          "source": "Yahoo!ニュース"
         },
         {
           "title": "（朝）米国市場は主要3指数が揃って続伸　エヌビディアは決算後の時間外で終値比下落",
@@ -170,10 +217,10 @@
           "source": "NHK"
         },
         {
-          "title": "佐々木朗希、3回2/3を3失点 3Aで3度目リハビリ登板",
+          "title": "佐々木朗希、３回２／３を３失点 ３Ａで３度目リハビリ登板",
           "snippet": "",
-          "url": "https://www.iwate-np.co.jp/article/2025/8/27/186194",
-          "source": "岩手日報"
+          "url": "https://www.tokyo-np.co.jp/article/431381",
+          "source": "東京新聞デジタル"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,34 +258,6 @@
           "snippet": "",
           "url": "https://www.as-web.jp/f1/1244646/attachment/01-1642/",
           "source": "autosport web"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "気象庁 地震",
-      "trafficCount": "10000+",
-      "pubDate": "Thu, 28 Aug 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdYHZyRVH58KDF9qUIYM3MKR_GNdpQ1xPMrtJH1g7mmnAKA4Y0ZAaTIQtI-mM",
-      "pictureSource": "NHK",
-      "relatedSearch": [
-        {
-          "title": "緊急地震速報の“過大予報” 制御プログラムが原因 気象庁",
-          "snippet": "",
-          "url": "https://www3.nhk.or.jp/news/html/20250827/k10014904821000.html",
-          "source": "NHK"
-        },
-        {
-          "title": "東海沖地震計の利用再開",
-          "snippet": "",
-          "url": "https://news.at-s.com/article/1792430",
-          "source": "静岡新聞DIGITAL"
-        },
-        {
-          "title": "東海沖の地震計、緊急速報への利用再開（共同通信）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/1d954fbca07a40e2e4e0ce511c7c379306f43996",
-          "source": "Yahoo!ニュース"
         }
       ],
       "link": "https://imtaqin.id/"
