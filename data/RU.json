@@ -1,24 +1,89 @@
 {
-  "lastUpdate": "2025-08-29 21:31:27",
+  "lastUpdate": "2025-08-29 21:38:19",
   "data": [
+    {
+      "title": "буйнов",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 29 Aug 2025 14:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "игорь чайка",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 29 Aug 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFSz69sI36rWEkiF7v9HR7Kim9BR1N_CvIZrox3z6za5gFYQ9IOFAhnQkd-I",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Путин закрыл два кремлевских управления, которые курировал Дмитрий Козак. NYT называла его единственным противником войны с Украиной в окружении президента",
+          "snippet": "",
+          "url": "https://meduza.io/news/2025/08/29/putin-zakryl-dva-kremlevskih-upravleniya-kotorye-kuriroval-dmitriy-kozak-nyt-nazyvala-ego-edinstvennym-protivnikom-voyny-s-ukrainoy-v-okruzhenii-prezidenta",
+          "source": "Meduza"
+        },
+        {
+          "title": "Путин упразднил два управления в администрации президента",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/681584",
+          "source": "БИЗНЕС Online — Новости Казани"
+        },
+        {
+          "title": "Путин расформировал два курируемых Козаком внешнеполитических управления АП. Его «с понижением» назначат полпредом",
+          "snippet": "",
+          "url": "https://theins.ru/news/284481",
+          "source": "The Insider"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ватикан",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 29 Aug 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmLkLwTCIBTjqVgMkI15DY8OSmKRACHYUd9Gt1A3cTZCQTHhcI9SQ9otPGBNk",
+      "pictureSource": "Vatican News",
+      "relatedSearch": [
+        {
+          "title": "Тридцать казахстанцев прошли через Святые врата в Ватикане",
+          "snippet": "",
+          "url": "https://www.vaticannews.va/ru/church/news/2025-08/tridcat-kazahstancev-proshli-cherez-svjatye-vrata-v-vatikane.html",
+          "source": "Vatican News"
+        },
+        {
+          "title": "Чиновник приговорён к смертной казни за взятки на $44 миллиона в Китае",
+          "snippet": "",
+          "url": "https://newshub.kz/en/post/papa-rimskii-obratilsia-k-kazaxstancam-1756352472",
+          "source": "Newshub.kz"
+        },
+        {
+          "title": "Папа Римский поприветствовал паломников из Караганды",
+          "snippet": "",
+          "url": "https://ulysmedia.kz/news/57933-papa-rimskii-poprivetstvoval-palomnikov-iz-karagandy/",
+          "source": "Ulysmedia.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "венесуэла",
       "trafficCount": "200+",
       "pubDate": "Fri, 29 Aug 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMkdsbcVPeHdaXxTkiWg-Pxu2oLwy2sXRl4tlrCQB9uWUkBMkh5rvYjGPqXZc",
-      "pictureSource": "БИЗНЕС Online — Новости Казани",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwLOHFW1JBEYzrVLBizYZh4i3XD7ftt4fnqOPycKOX1aWF8rLn-Iri1AyCPXw",
+      "pictureSource": "Meduza",
       "relatedSearch": [
-        {
-          "title": "Axios: Трамп может попытаться свергнуть Мадуро – к берегам Венесуэлы движутся 7 кораблей ВМС и тысячи солдат",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/681589",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
         {
           "title": "Трамп отправил восемь военных кораблей в сторону Венесуэлы в рамках «операции по борьбе с наркотрафиком»",
           "snippet": "",
           "url": "https://meduza.io/news/2025/08/29/tramp-otpravil-vosem-voennyh-korabley-v-storonu-venesuely-v-ramkah-operatsii-po-borbe-s-narkotrafikom",
           "source": "Meduza"
+        },
+        {
+          "title": "Axios: Трамп может попытаться свергнуть Мадуро – к берегам Венесуэлы движутся 7 кораблей ВМС и тысячи солдат",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/681589",
+          "source": "БИЗНЕС Online — Новости Казани"
         },
         {
           "title": "Венесуэла проведет призыв резервистов в связи с угрозами со стороны США",
@@ -193,90 +258,6 @@
           "snippet": "",
           "url": "https://oxu.az/ru/v-mire/laureat-nobelevskoj-premii-sejmur-hersh-vnesen-v-bazu-mirotvorca",
           "source": "Oxu.Az"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "игорь крутой",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 29 Aug 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyDMthUYxmINvz0NFahX4XZAL86aj_ei01deUrhARc_ysR-fEoiRvTcnHJqts",
-      "pictureSource": "Вечерняя Казань",
-      "relatedSearch": [
-        {
-          "title": "Татарские артисты недотягивают до уровня «Новой волны»",
-          "snippet": "",
-          "url": "https://www.evening-kazan.ru/obshhestvo/news/tatarskie-artisty-nedotyagivayut-do-urovnya-novoy-volny",
-          "source": "Вечерняя Казань"
-        },
-        {
-          "title": "Mediascope: Открытие «Новой волны» в Казани заняло 6-е место среди самых популярных программ на ТВ",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/681334",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "Камчатский краб за 25 тысяч и чак-чак за 600 рублей: меню «Новой волны» — Новости Казани и Татарстана",
-          "snippet": "",
-          "url": "https://inkazan.ru/news/2025-08-27/kamchatskiy-krab-za-25-tysyach-i-chak-chak-za-600-rubley-menyu-novoy-volny-5463444",
-          "source": "Inkazan"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сергей лазарев",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 29 Aug 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1VDypljUhrr7Nwiy3yAySo6kH4k2BqD1TZT6Ek591C4z8E__bx9NqPqLlehc",
-      "pictureSource": "Новости Zakon.kz",
-      "relatedSearch": [
-        {
-          "title": "\"Чувства остались\": Сергей Лазарев объяснился за нецензурную перепалку с Лерой Кудрявцевой",
-          "snippet": "",
-          "url": "https://www.zakon.kz/kultura-shoubiz/6488968-chuvstva-ostalis-sergey-lazarev-obyasnilsya-za-netsenzurnuyu-perepalku-s-leroy-kudryavtsevoy.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Что ты во мне несколько лет находила: Лера Кудрявцева и Сергей Лазарев обменялись колкостями на сцене",
-          "snippet": "",
-          "url": "https://www.pravda.ru/news/showbiz/2268131-sergei-lazarev/",
-          "source": "Правда.Ру"
-        },
-        {
-          "title": "Сергей Лазарев прокомментировал возможные отношения с Лерой Кудрявцевой",
-          "snippet": "",
-          "url": "https://muz-tv.ru/news/sergey-lazarev-prokommentiroval-vozmozhnye-otnosheniya-s-leroy-kudryavcevoy/",
-          "source": "muz-tv.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "крутой",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 29 Aug 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyzzPQ9t5140-Qv2Gm801zHW5cCkdsmgU_zPE592nEQCOV_b-WbIvJQfybm5k",
-      "pictureSource": "muz-tv.ru",
-      "relatedSearch": [
-        {
-          "title": "Коллега Ирины Аллегровой объяснила затворничество певицы: «Есть что скрывать»",
-          "snippet": "",
-          "url": "https://muz-tv.ru/news/kollega-iriny-allegrovoy-obyasnila-zatvornichestvo-pevicy-est-chto-skryvat/",
-          "source": "muz-tv.ru"
-        },
-        {
-          "title": "Аллегрова сделала заявление по поводу дальнейшей карьеры",
-          "snippet": "",
-          "url": "https://ura.news/news/1052986623",
-          "source": "URA.RU"
-        },
-        {
-          "title": "73-летняя Ирина Аллегрова высказалась о продолжении карьеры",
-          "snippet": "",
-          "url": "https://spbdnevnik.ru/news/2025-08-28/73letnyaya-irina-allegrova-vyskazalas-o-prodolzhenii-kariery",
-          "source": "spbdnevnik.ru"
         }
       ],
       "link": "https://imtaqin.id/"
