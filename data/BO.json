@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-29 18:09:36",
+  "lastUpdate": "2025-08-29 18:22:30",
   "data": [
     {
       "title": "carlos alcaraz",
@@ -21,10 +21,10 @@
           "source": "El Deber"
         },
         {
-          "title": "Alcaraz - Darderi | Resumen y resultado del partido de tercera ronda del US Open 2025",
+          "title": "Alcaraz y Djokovic apuntan a octavos del US Open y Sabalenka a revancha",
           "snippet": "",
-          "url": "https://www.marca.com/tenis/us-open/luciano-darderi-carlos-alcaraz/2025/08/29/04_0404_20250829_112-directo.html",
-          "source": "MARCA"
+          "url": "https://www.lanacion.com.ar/agencias/alcaraz-y-djokovic-apuntan-a-octavos-del-us-open-y-sabalenka-a-revancha-nid29082025/",
+          "source": "La Nación"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +59,7 @@
     },
     {
       "title": "elche c. f. - levante",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 29 Aug 2025 10:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9vYjz-yuhGbRHgIbQ2nUyr_Yba0yXPZ1snV6T8pYUTPfNzcMrx4GeD9L5rQY",
       "pictureSource": "Eurosport",
@@ -142,37 +142,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "unión - river plate",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 28 Aug 2025 16:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTHlf_tjbOL30l3fawgjYT-piGX3muS7Vw4RpUsecv5WPl2R1HQ3tfOg8-BKM",
-      "pictureSource": "Infobae",
-      "relatedSearch": [
-        {
-          "title": "River venció por penales a Unión y avanzó a cuartos de final de la Copa Argentina",
-          "snippet": "",
-          "url": "https://www.infobae.com/deportes/2025/08/28/river-plate-buscara-el-pase-a-los-cuartos-de-final-de-la-copa-argentina-ante-union-hora-tv-y-formaciones/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Gallarado habló tras la clasificación ante Unión: \"Tenemos que mejorar para ganar, estamos cinco puntos\"",
-          "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/argentina/nota/_/id/15605646/marcelo-gallardo-penales-declaraciones-river-vs-union-octavos-de-final-copa-argentina",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "Unión, con el sello Madelón: un equipo sólido, intenso y competitivo",
-          "snippet": "",
-          "url": "https://www.unosantafe.com.ar/union/union-el-sello-madelon-un-equipo-solido-intenso-y-competitivo-n10215727.html",
-          "source": "Diario Uno Santa Fe"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "copa argentina",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 28 Aug 2025 16:40:00 -0700",
+      "title": "river vs",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 28 Aug 2025 19:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwoVjSQAN_gceDFyK116KKliXi39f09dZloNRGB-Epl-IS67aZwix9eDBIBXg",
       "pictureSource": "TyC Sports",
       "relatedSearch": [
@@ -193,6 +165,34 @@
           "snippet": "",
           "url": "https://www.infobae.com/deportes/2025/08/29/tras-la-clasificacion-de-river-por-penales-asi-quedo-el-cuadro-de-los-cuartos-de-final-de-la-copa-argentina/",
           "source": "Infobae"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "unión - river plate",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 28 Aug 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTHlf_tjbOL30l3fawgjYT-piGX3muS7Vw4RpUsecv5WPl2R1HQ3tfOg8-BKM",
+      "pictureSource": "Infobae",
+      "relatedSearch": [
+        {
+          "title": "River venció por penales a Unión y avanzó a cuartos de final de la Copa Argentina",
+          "snippet": "",
+          "url": "https://www.infobae.com/deportes/2025/08/28/river-plate-buscara-el-pase-a-los-cuartos-de-final-de-la-copa-argentina-ante-union-hora-tv-y-formaciones/",
+          "source": "Infobae"
+        },
+        {
+          "title": "Gallarado habló tras la clasificación ante Unión: \"Tenemos que mejorar para ganar, estamos cinco puntos\"",
+          "snippet": "",
+          "url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/15605646/marcelo-gallardo-penales-declaraciones-river-vs-union-octavos-de-final-copa-argentina",
+          "source": "ESPN Argentina"
+        },
+        {
+          "title": "Unión, con el sello Madelón: un equipo sólido, intenso y competitivo",
+          "snippet": "",
+          "url": "https://www.unosantafe.com.ar/union/union-el-sello-madelon-un-equipo-solido-intenso-y-competitivo-n10215727.html",
+          "source": "Diario Uno Santa Fe"
         }
       ],
       "link": "https://imtaqin.id/"
