@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-01 10:51:22",
+  "lastUpdate": "2025-09-01 10:58:20",
   "data": [
     {
       "title": "road police",
@@ -33,20 +33,20 @@
       "title": "news",
       "trafficCount": "100+",
       "pubDate": "Sun, 31 Aug 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFwBmgEzr6BCCxUYo3-maKQjebfVr6ssj1J5gCCfe_ZevyuQUzZdt6U3eWabM",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfsVnN3YqUUIB9P3nSE2GDk3SstPPsDYbWTlihEMRHST6OB5IEAW0m2kba_uc",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "Afghanistan earthquake live: More than 600 killed as entire villages reduced to rubble",
+          "title": "Earthquake in Afghanistan kills 800, injures 2,800",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/cy8kkxxxj3xt",
-          "source": "BBC"
+          "url": "https://www.reuters.com/world/asia-pacific/earthquake-afghanistan-kills-800-injures-2800-2025-09-01/",
+          "source": "Reuters"
         },
         {
-          "title": "A look at Afghanistan's latest quake, and the devastation it caused",
+          "title": "At Least 800 Dead and 1,300 Injured After 6.0 Magnitude Earthquake Hits Afghanistan",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/look-afghanistans-latest-quake-devastation-102827638.html",
-          "source": "www.yahoo.com"
+          "url": "https://people.com/at-least-800-dead-injured-after-earthquake-afghanistan-11801205",
+          "source": "People.com"
         },
         {
           "title": "Afghanistan earthquake: At least 800 killed in 6.0-magnitude quake",
@@ -117,9 +117,15 @@
       "title": "la liga",
       "trafficCount": "200+",
       "pubDate": "Sun, 31 Aug 2025 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTXR70nzcIrnT41cAr0jqX_Xsb1IqJmQwrA4DGZVoKy3aCABZrK21ZZKxU0M",
-      "pictureSource": "Barca Universal",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj2gCH75ZPNCaWBvX5wo2TTod-gFa2v3PjzRVAcjQpILYHv3gwYJmwJ1dC35k",
+      "pictureSource": "Yahoo Sports",
       "relatedSearch": [
+        {
+          "title": "La Liga Transfer Round-Up: Girona to bring in new forward, Carlos Soler nears La Liga return",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/article/la-liga-transfer-round-girona-162200940.html",
+          "source": "Yahoo Sports"
+        },
         {
           "title": "Hansi Flick calls for improvement after Rayo Vallecano 1-1 Barcelona - 'Not happy with my team'",
           "snippet": "",
@@ -127,16 +133,38 @@
           "source": "Barca Universal"
         },
         {
-          "title": "🚨Mediapro’s vague explanation for the VAR blunder in Vallecas",
+          "title": "Gonzalo Miró says what many think about Barça after what happened in Vallecas: 'It was very...'",
           "snippet": "",
-          "url": "https://onefootball.com/fr/news/mediapros-vague-explanation-for-the-var-blunder-in-vallecas-41598618",
-          "source": "OneFootball"
+          "url": "https://e-noticies.cat/en/soccer/gonzalo-miro-says-many-people-think-rayo-barcelona",
+          "source": "e-noticies.cat"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "barca",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 31 Aug 2025 14:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShs7nZ3ZW-4ZbH_1yV-EOoOeXPqjADBp-SHZXPxaPnRMURm-hOmaK3voVKz0M",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Flick thanks Barça keeper: Point all we deserved",
+          "snippet": "",
+          "url": "https://www.espn.com/soccer/story/_/id/46123568/barcelona-coach-flick-says-team-deserve-more-point",
+          "source": "ESPN"
         },
         {
-          "title": "Barcelona draw with Rayo Vallecano in La Liga after VAR outage",
+          "title": "Barca drop points at Rayo Vallecano with faulty VAR causing controversy",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2025/9/1/barcelona-draw-with-rayo-vallecano-in-la-liga-after-var-outage",
-          "source": "Al Jazeera"
+          "url": "https://www.reuters.com/sports/soccer/barca-drop-points-rayo-vallecano-with-faulty-var-causing-controversy-2025-08-31/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Yamal scores from penalty spot but Barcelona needs goalkeeper Joan García to leave Rayo with a point",
+          "snippet": "",
+          "url": "https://apnews.com/article/barcelona-rayo-yamal-joan-garcia-liga-4aa77c42bd31d6edaaa201e99c864377",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +189,10 @@
           "source": "Sporting News"
         },
         {
-          "title": "La defensa sigue sin funcionar",
+          "title": "El pinchazo del Barça deja líder al Madrid en LaLiga",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/la-defensa-sigue-sin-funcionar-41598321",
-          "source": "OneFootball"
+          "url": "https://es-us.noticias.yahoo.com/pinchazo-bar%C3%A7a-deja-l%C3%ADder-madrid-060749601.html",
+          "source": "es-us.noticias.yahoo.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://sempreinter.com/2025/09/01/dumfries-handball-inter-1-2-udinese-clear-penalty/",
           "source": "SempreInter.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "интер – удинезе",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 31 Aug 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqkPBYDIWXAT_M7LTpVUoa2kPh2a6cAuf7Bh7dReH562lej_P8md2nmuS_M2g",
-      "pictureSource": "Armenpress",
-      "relatedSearch": [
-        {
-          "title": "“Интер” уступил “Удинезе”: Генрих Мхитарян выходил на замену",
-          "snippet": "",
-          "url": "https://armenpress.am/ru/article/1228509",
-          "source": "Armenpress"
-        },
-        {
-          "title": "Прогноз на матч Интер – Удинезе. Ещё одна победа «нерадзурри»",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/futbol/inter-udineze-prognoz-na-match-serii-a-31-avgusta-2025-goda/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "«Интер» уступил «Удинезе» в домашнем матче Серии А",
-          "snippet": "",
-          "url": "https://sravni.bet/mag/novosti/inter-ustupil-udineze-v-domashnem-matche-serii-a/",
-          "source": "sravni.bet"
         }
       ],
       "link": "https://imtaqin.id/"
