@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-09-01 03:39:11",
+  "lastUpdate": "2025-09-01 03:58:55",
   "data": [
     {
       "title": "severe rainfall warning",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 31 Aug 2025 19:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGVPpL5jDwxbA5BR0r8duELQbIbdEQCIs3wfClQqhKbhne1RkdZHzkaAKwU0k",
       "pictureSource": "The Hindu",
@@ -30,23 +30,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bitcoin",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 31 Aug 2025 19:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT263FaWcG6DBUazUez0XuqSZHt5c4YMLMdsVEyuFqrNdSb7dp1zXcJwPcbDMI",
+      "pictureSource": "Cointelegraph",
+      "relatedSearch": [
+        {
+          "title": "Skepticism will dog Bitcoin even at $10M price, says analyst",
+          "snippet": "",
+          "url": "https://cointelegraph.com/news/bitcoin-price-skepticism-continue-btc-millions-analyst",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin At $10 Million? Adviser Says Doubters Still Won’t Believe It",
+          "snippet": "",
+          "url": "https://www.mitrade.com/au/insights/news/live-news/article-3-1082866-20250831",
+          "source": "Mitrade"
+        },
+        {
+          "title": "Analyst Predicts a $10M Bitcoin as Bitcoin Hyper Catches Steam",
+          "snippet": "",
+          "url": "https://bitcoinist.com/analyst-predicts-bitcoin-to-10m-bitcoin-hyper-gains/",
+          "source": "Bitcoinist.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "alerta de lluvias intensas",
       "trafficCount": "2000+",
       "pubDate": "Sun, 31 Aug 2025 18:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHF4senf11QSON92yezxPAfJlzfdfWx-KDJ5Ucsk-wkN0OuaWxBD9kov290OA",
-      "pictureSource": "elDiario.es",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTljVT-d2Xi4oKTLy_UkPuiHpxXEMkYjKNj8xX5y88vMvYvGCBk_emduzGaPjo",
+      "pictureSource": "El Periódico",
       "relatedSearch": [
-        {
-          "title": "Catalunya activa la alerta por fuertes tormentas en los Pirineos, la zona central y el prelitoral",
-          "snippet": "",
-          "url": "https://www.eldiario.es/catalunya/catalunya-activa-alerta-fuertes-tormentas-pirineos-zona-central-prelitoral_1_12567827.html",
-          "source": "elDiario.es"
-        },
         {
           "title": "El tiempo hoy en Catalunya y el resto de España, en directo: alertas por lluvias intensas y tormentas y última hora de Aemet y Meteocat",
           "snippet": "",
           "url": "https://www.elperiodico.com/es/sociedad/20250831/dana-cataluna-espana-barcelona-lluvias-aemet-meteocat-ultima-hora-directo-120867297",
           "source": "El Periódico"
+        },
+        {
+          "title": "Catalunya activa la alerta por fuertes tormentas en los Pirineos, la zona central y el prelitoral",
+          "snippet": "",
+          "url": "https://www.eldiario.es/catalunya/catalunya-activa-alerta-fuertes-tormentas-pirineos-zona-central-prelitoral_1_12567827.html",
+          "source": "elDiario.es"
         },
         {
           "title": "Cataluña activa la alerta del Inuncat por lluvias este domingo por la tarde y de madrugada",
@@ -201,15 +229,9 @@
       "title": "inter miami",
       "trafficCount": "2000+",
       "pubDate": "Sun, 31 Aug 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThdt4163BliMObOmRFmS-OZvpI_LtizPb9qHw0rLFj_mIcaXrqFDkViEOZFXQ",
-      "pictureSource": "MARCA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLGrrofrMSIsl1W-psEMf1I5fDg8ItzKiMKQXoNGEUIICEUDr7HYknyIe_HUI",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
-        {
-          "title": "Inter Miami vs Seattle Sounders: What time does Messi play and where to watch the 2025 Leagues Cup final?",
-          "snippet": "",
-          "url": "https://www.marca.com/en/football/leagues-cup/2025/08/30/68b31d9b22601d4f468b45b5.html",
-          "source": "MARCA"
-        },
         {
           "title": "Messi’s full trophy record as Leagues Cup provides chance at history",
           "snippet": "",
@@ -217,10 +239,16 @@
           "source": "Diario AS"
         },
         {
-          "title": "'None of us like to see this' - Javier Mascherano condemns Luis Suárez-sparked brawl in Inter Miami and Seattle Sounders’ Leagues Cup final",
+          "title": "The Messi effect could give Lumen Field a new record in the Leagues Cup final",
           "snippet": "",
-          "url": "https://www.goal.com/en/lists/javier-mascherano-inter-miami-seattle-sounders-leagues-cup-final/blt8b62064d41949ac1",
-          "source": "Goal.com"
+          "url": "https://www.marca.com/en/football/leagues-cup/2025/08/30/68b2c7a6268e3ecd3a8b45a5.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "Disgusting footage shows Luis Suarez spitting on rival coach after wild brawl breaks out in Inter Miami cup final loss",
+          "snippet": "",
+          "url": "https://www.dailymail.co.uk/sport/football/article-15053241/Footage-Luis-Suarez-spitting-rival-coach-Inter-Miami-cup-final-loss.html",
+          "source": "Daily Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,15 +257,9 @@
       "title": "lukebakio",
       "trafficCount": "500+",
       "pubDate": "Sun, 31 Aug 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSU3W2_JkrCHOUi7wXxBgkQuLyvNdgUdikcBm81A_WVmnAx7O7GaJIc9Dgk5E",
-      "pictureSource": "ABC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXJn8RnUsE0Ghm8FkOMQR66js7RXwLPreabse4H9NUbEKIdCUf3cGKFDnT_DA",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
-        {
-          "title": "El Sevilla FC avanza en la venta de Lukebakio y los fichajes aguardan",
-          "snippet": "",
-          "url": "https://www.abc.es/deportes/orgullodenervion/fichajes-sevilla-fc/sevilla-avanza-venta-lukebakio-fichajes-aguardan-20250831181243-nts.html",
-          "source": "ABC"
-        },
         {
           "title": "Lukebakio, al Benfica",
           "snippet": "",
@@ -245,38 +267,16 @@
           "source": "Diario AS"
         },
         {
+          "title": "El Sevilla FC avanza en la venta de Lukebakio y los fichajes aguardan",
+          "snippet": "",
+          "url": "https://www.abc.es/deportes/orgullodenervion/fichajes-sevilla-fc/sevilla-avanza-venta-lukebakio-fichajes-aguardan-20250831181243-nts.html",
+          "source": "ABC"
+        },
+        {
           "title": "Cierre del mercado del Sevilla: Traspaso de Lukébakio al Benfica y llegada de Alexis Sánchez",
           "snippet": "",
           "url": "https://www.diariodesevilla.es/sevillafc/sevilla-alexis-sanchez-traspaso-obligatorio-adios-lukebakio-claves-mercado-cierre_0_2004667445.html",
           "source": "Diario de Sevilla"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "novak djokovic",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 31 Aug 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjuPECJvT3DskZLNvuZSi4Q2_4JdnEY3rPAhw3tqGFxAPYB3WdjoG6I0LhVSw",
-      "pictureSource": "Eurosport",
-      "relatedSearch": [
-        {
-          "title": "Previa del Novak Djokovic-Jan-Lennard Struff: 'Nole' no entiende de sustos (01:00)",
-          "snippet": "",
-          "url": "https://www.eurosport.es/tenis/us-open-masculino/2025/novak-djokovic-jan-lennard-struff-octavos-final-previa-estadisticas-horario-donde-ver-tv-online-streaming-tennis-hoy_sto23216738/story.shtml",
-          "source": "Eurosport"
-        },
-        {
-          "title": "El aplastante dato de Djokovic que amenaza el favoritismo de Alcaraz y Sinner en el US Open",
-          "snippet": "",
-          "url": "https://www.lasexta.com/noticias/deportes/tenis/aplastante-dato-djokovic-que-amenaza-favoritismo-alcaraz-sinner-open_2025083168b485bd506ef67d06ea3c6b.html",
-          "source": "LaSexta"
-        },
-        {
-          "title": "Novak Djokovic avanza en NYC: paso al jefe de los Grand Slams",
-          "snippet": "",
-          "url": "https://as.com/tenis/us_open/novak-djokovic-avanza-en-nyc-paso-al-jefe-de-los-grand-slams-n/",
-          "source": "Diario AS"
         }
       ],
       "link": "https://imtaqin.id/"
