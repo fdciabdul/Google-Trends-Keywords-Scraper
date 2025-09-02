@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-09-02 05:05:44",
+  "lastUpdate": "2025-09-02 05:16:41",
   "data": [
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Mon, 1 Sep 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfeunh_ZybbV677IqU0HfdJmeZm4kMG1DyaiDtN1cOTy0i8KvlWticMeASp6s",
-      "pictureSource": "WAKA 8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLDPMstcgi1PpcoV4Tk7QeKnSw71ae563IexPFaw3nxLhoil2DJ5V6hDqZHxg",
+      "pictureSource": "Cleveland.com",
       "relatedSearch": [
         {
-          "title": "A Fairly Quiet Weather Pattern For Now",
+          "title": "Northeast Ohio Tuesday weather forecast: Another sunny day",
           "snippet": "",
-          "url": "https://www.waka.com/2025/09/01/a-fairly-quiet-weather-pattern-for-now/",
-          "source": "WAKA 8"
+          "url": "https://www.cleveland.com/weather/2025/09/northeast-ohio-tuesday-weather-forecast-another-sunny-day.html",
+          "source": "Cleveland.com"
         },
         {
-          "title": "Enjoy the cool weather because the heat returns at the end of the week!",
+          "title": "Cloudy conditions into Tuesday morning before sunshine and warmth prevails midweek",
           "snippet": "",
-          "url": "https://www.wdhn.com/weather/enjoy-the-cool-weather-because-the-heat-returns-at-the-end-of-the-week/",
-          "source": "WDHN"
+          "url": "https://www.wcax.com/video/2025/09/01/cloudy-conditions-into-tuesday-morning-before-sunshine-warmth-prevails-midweek/",
+          "source": "WCAX"
         },
         {
-          "title": "Mostly clear this evening, slight chance of t-showers later tonight",
+          "title": "Gorgeous day ahead for Tuesday",
           "snippet": "",
-          "url": "https://www.brainerddispatch.com/video/fYj7Vm8N",
-          "source": "Brainerd Dispatch"
+          "url": "https://www.nbcphiladelphia.com/video/weather/gorgeous-day-ahead-for-tuesday/4259584/",
+          "source": "NBC10 Philadelphia"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pogoda toruń",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 1 Sep 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXfa-OmzJxeDX6aIz9qgeYTE7Jd2MXXzg2ku8cfo3kZKYPIHOhgATpv3tyPfE",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Toruń. Sprawdź prognozę pogody w dniu 02.09.2025",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-02092025/z64clsg",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Pogoda tygodniowa dla Torunia. Prognoza od jutra (3.09) do poniedziałku",
-          "snippet": "",
-          "url": "https://torun.naszemiasto.pl/pogoda-tygodniowa-dla-torunia-prognoza-od-jutra-3-09-do-poniedzialku/ar/c1p1-19943961",
-          "source": "Toruń Nasze Miasto"
-        },
-        {
-          "title": "Upalny czwartek",
-          "snippet": "",
-          "url": "https://torun.pl/pl/aktualnosc/upalny-czwartek",
-          "source": "Torun.pl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pogoda konin",
       "trafficCount": "100+",
       "pubDate": "Mon, 1 Sep 2025 21:30:00 -0700",
@@ -109,6 +81,34 @@
           "snippet": "",
           "url": "https://konin.naszemiasto.pl/pogoda-w-koninie-w-niedziele-31-08-zobacz-prognoze-pogody-na-jutro-dla-konina/ar/c1p1-19942955",
           "source": "Konin Nasze Miasto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda toruń",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 1 Sep 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXfa-OmzJxeDX6aIz9qgeYTE7Jd2MXXzg2ku8cfo3kZKYPIHOhgATpv3tyPfE",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Toruń. Sprawdź prognozę pogody w dniu 02.09.2025",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-02092025/z64clsg",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Pogoda tygodniowa dla Torunia. Prognoza od jutra (3.09) do poniedziałku",
+          "snippet": "",
+          "url": "https://torun.naszemiasto.pl/pogoda-tygodniowa-dla-torunia-prognoza-od-jutra-3-09-do-poniedzialku/ar/c1p1-19943961",
+          "source": "Toruń Nasze Miasto"
+        },
+        {
+          "title": "Upalny czwartek",
+          "snippet": "",
+          "url": "https://torun.pl/pl/aktualnosc/upalny-czwartek",
+          "source": "Torun.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "pogoda szczecin",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 1 Sep 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9B5BrcAvRiTwSfpPNAmMApUA7CGqSijxoR3Y1lme333rLwSHMk6cxzDLO3IU",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Szczecin - jakiej pogody możemy się spodziewać 01.09.2025?",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-01092025/5d82j6w",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Pogoda w weekend w Szczecinie: prognozy na piątek (29.08), sobotę (30.08),niedzielę (31.08). Długoterminowa prognoza pogody",
+          "snippet": "",
+          "url": "https://szczecin.naszemiasto.pl/pogoda-w-weekend-w-szczecinie-prognozy-na-piatek-29-08-sobote-30-08-niedziele-31-08-dlugoterminowa-prognoza-pogody/ar/c1p1-19945199",
+          "source": "Szczecin Nasze Miasto"
+        },
+        {
+          "title": "Pogoda tygodniowa dla Szczecina. Prognoza od jutra (31.08) do piątku",
+          "snippet": "",
+          "url": "https://szczecin.naszemiasto.pl/pogoda-tygodniowa-dla-szczecina-prognoza-od-jutra-31-08-do-piatku/ar/c1p1-19943941",
+          "source": "Szczecin Nasze Miasto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "pogoda kielce",
       "trafficCount": "500+",
       "pubDate": "Mon, 1 Sep 2025 21:00:00 -0700",
@@ -226,34 +254,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pogoda szczecin",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 1 Sep 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9B5BrcAvRiTwSfpPNAmMApUA7CGqSijxoR3Y1lme333rLwSHMk6cxzDLO3IU",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Szczecin - jakiej pogody możemy się spodziewać 01.09.2025?",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-01092025/5d82j6w",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Pogoda w weekend w Szczecinie: prognozy na piątek (29.08), sobotę (30.08),niedzielę (31.08). Długoterminowa prognoza pogody",
-          "snippet": "",
-          "url": "https://szczecin.naszemiasto.pl/pogoda-w-weekend-w-szczecinie-prognozy-na-piatek-29-08-sobote-30-08-niedziele-31-08-dlugoterminowa-prognoza-pogody/ar/c1p1-19945199",
-          "source": "Szczecin Nasze Miasto"
-        },
-        {
-          "title": "Pogoda tygodniowa dla Szczecina. Prognoza od jutra (31.08) do piątku",
-          "snippet": "",
-          "url": "https://szczecin.naszemiasto.pl/pogoda-tygodniowa-dla-szczecina-prognoza-od-jutra-31-08-do-piatku/ar/c1p1-19943941",
-          "source": "Szczecin Nasze Miasto"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "prognoza pogody",
       "trafficCount": "200+",
       "pubDate": "Mon, 1 Sep 2025 21:00:00 -0700",
@@ -267,16 +267,16 @@
           "source": "Gazeta"
         },
         {
+          "title": "Pogoda na dziś - wtorek 2.09. W części kraju będzie bardzo gorąco",
+          "snippet": "",
+          "url": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-wtorek-2-09-w-czesci-kraju-bedzie-bardzo-goraco-st8626469",
+          "source": "TVN24"
+        },
+        {
           "title": "Deszcz i grad. W których regionach? Prognoza pogody na wtorek, 2 września",
           "snippet": "",
           "url": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/9875566,deszcz-i-grad-w-ktorych-regionach-prognoza-pogody-na-wtorek-2-wrzesnia.html",
           "source": "Wiadomości z kraju i ze świata - Dziennik.pl"
-        },
-        {
-          "title": "Prognoza burzowa na 2.09.2025 i noc z 2/3.09.2025 - Mapa burzowa - gdzie jest burza?",
-          "snippet": "",
-          "url": "https://obserwatorzy.info/prognoza-burzowa-na-2-09-2025-i-noc-z-2-3-09-2025/",
-          "source": "Sieć Obserwatorów Burz"
         }
       ],
       "link": "https://imtaqin.id/"
