@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-02 23:37:38",
+  "lastUpdate": "2025-09-02 23:44:32",
   "data": [
     {
       "title": "john wick",
@@ -157,8 +157,8 @@
         {
           "title": "Paula Vesala kertoo olevansa raskaana – \"Sanottiin, että olisi mahdotonta\"",
           "snippet": "",
-          "url": "https://www.ess.fi/uutissuomalainen/8815716",
-          "source": "Etelä-Suomen Sanomat"
+          "url": "https://www.ksml.fi/uutissuomalainen/8815716",
+          "source": "Keskisuomalainen"
         },
         {
           "title": "Paula Vesala on raskaana: \"Potkuja!\"",
@@ -199,28 +199,56 @@
     },
     {
       "title": "trump",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 2 Sep 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGoken7P2BBHY7E-GWH3a_EJdKtAC9clHe3FAhpxfzJaZP-3QoFMpUFQayRHE",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn7QteysF6GxX_PriNGW4lTAoreHfZ6Fo5ReWAHhbQjX2u0r535rDf1wEWIbE",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Trump Live Updates: Latest News on U.S. Space Command, National Guard and More",
+          "snippet": "",
+          "url": "https://www.nytimes.com/live/2025/09/02/us/trump-news",
+          "source": "The New York Times"
+        },
+        {
+          "title": "At least 58 people shot, 8 fatally, during Labor Day weekend in Chicago",
+          "snippet": "",
+          "url": "https://www.nbcchicago.com/news/local/at-least-54-people-shot-7-fatally-during-labor-day-weekend-in-chicago/3818070/",
+          "source": "NBC 5 Chicago"
+        },
+        {
+          "title": "Trump admin live updates: Trump says 'we're going in' to Chicago",
+          "snippet": "",
+          "url": "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863",
+          "source": "ABC News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trump announcement",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 2 Sep 2025 11:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZpBhoD_TJfA2X-KI8Ll2gruYeQIYZ30POJGViKu7XLuh93XCkZsMUM7OOQag",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Trump announces Space Command move to Alabama, reversing Biden-era decision",
+          "title": "Trump takes questions at White House, countering theories about his absence",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/09/02/science/trump-space-command-huntsville-alabama",
+          "url": "https://www.cnn.com/politics/live-news/trump-administration-news-09-02-25",
           "source": "CNN"
         },
         {
-          "title": "Huntsville's infrastructure ready for Space Command, officials say",
+          "title": "Trump announces Space Command will move from Colorado to Alabama – live",
           "snippet": "",
-          "url": "https://www.axios.com/local/huntsville/2025/09/02/huntsville-space-command-infrastructure-alabama-tommy-battle",
-          "source": "Axios"
+          "url": "https://www.theguardian.com/us-news/live/2025/sep/02/congress-returns-government-shutdown-funding-trump-announcement-us-politics-live-latest-updates",
+          "source": "The Guardian"
         },
         {
-          "title": "Trump to move Space Command headquarters to Alabama from Colorado",
+          "title": "Trump to unveil major military announcement — all eyes on Space Command HQ",
           "snippet": "",
-          "url": "https://www.reuters.com/business/aerospace-defense/trump-move-space-command-headquarters-alabama-colorado-2025-09-02/",
-          "source": "Reuters"
+          "url": "https://www.foxnews.com/politics/trump-unveil-major-military-announcement-all-eyes-space-command-hq",
+          "source": "Fox News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.hs.fi/politiikka/art-2000011468190.html",
           "source": "HS.fi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cnn",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 2 Sep 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeu2CxbAwFGENhLVIEw-NEeINgt_uTIH2x1Db7-DvqhfyPNp0_FbVyG5gxAuo",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Trump takes questions at White House, countering theories about his absence",
-          "snippet": "",
-          "url": "https://www.cnn.com/politics/live-news/trump-administration-news-09-02-25",
-          "source": "CNN"
-        },
-        {
-          "title": "Trump addresses online health rumours in Oval Office",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/videos/c62724wdxzwo",
-          "source": "BBC"
-        },
-        {
-          "title": "President Trump Makes Defense Announcement",
-          "snippet": "",
-          "url": "https://www.c-span.org/event/white-house-event/president-trump-makes-defense-announcement/436065",
-          "source": "C-SPAN"
         }
       ],
       "link": "https://imtaqin.id/"
