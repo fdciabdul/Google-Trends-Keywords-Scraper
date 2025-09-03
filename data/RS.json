@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03 13:40:47",
+  "lastUpdate": "2025-09-03 13:48:01",
   "data": [
     {
       "title": "rhmz",
@@ -31,28 +31,28 @@
     },
     {
       "title": "vijesti",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Wed, 3 Sep 2025 05:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMLRDzok6j1hFXTm2FNNBWN-0zlR40Th7Fo4ztNDBBvCvPOsLqywFY_0XOhNI",
-      "pictureSource": "B92",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQJvIhuHSISa0uxSQCHQqoeS8XU5lzVrGIzFYThma3_tMCaXKCjZ0y0sHo5IQ",
+      "pictureSource": "Radio Slobodna Evropa",
       "relatedSearch": [
         {
-          "title": "Nikola Vučević u suzama: \"Danas mi je žao...\" VIDEO",
+          "title": "Crnogorski inspektori odbili da preuzmu uhapšenog u Švajcarskoj, jer nije osoba sa potjernice",
           "snippet": "",
-          "url": "https://www.b92.net/sport/kosarka/vesti/160595/nikola-vucevic-plakao-posle-poraza-od-v-britanije/vest",
-          "source": "B92"
+          "url": "https://www.slobodnaevropa.org/a/interpol-crna-gora-svajcarska-vujic-krsto-potjernica/33519730.html",
+          "source": "Radio Slobodna Evropa"
         },
         {
-          "title": "Eurobasket, poslednje kolo, uživo rezultati: Ko će dalje a ko ispada?",
+          "title": "Umesto Crnogorca, stigao Slovenac: Ko je Krsto Vujić, visokopozicionirani škaljarac koji je trebalo da bude izručen Crnoj Gori?",
           "snippet": "",
-          "url": "https://sportal.blic.rs/prica/eurobasket-poslednje-kolo-uzivo-rezultati-ko-ce-dalje-a-ko-ispada-2025090308195800467",
-          "source": "Sportal.rs"
+          "url": "https://nova.rs/vesti/hronika/umesto-crnogorca-stigao-slovenac-ko-je-krsto-vujic-visokopozicionirani-skaljarac-koji-je-trebalo-da-bude-izrucen-crnoj-gori/",
+          "source": "Nova"
         },
         {
-          "title": "Crnogorsko samoubistvo: Ispali sa Evrobasketa od Velike Britanije",
+          "title": "Crnogorska policija otišla po škaljarca Krsta Vujića u Bern, a onda je usledio šok",
           "snippet": "",
-          "url": "https://www.mozzartsport.com/kosarka/vesti/crnogorsko-samoubistvo-ispali-sa-evrobasketa-od-velike-britanije/522172",
-          "source": "Mozzart Sport"
+          "url": "https://www.blic.rs/vesti/hronika/crnogorska-policija-otisla-po-skaljarca-krsta-vujica-u-bern-a-onda-je-usledio-sok/pz4rmfw",
+          "source": "Blic"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "РАДИО-ТЕЛЕВИЗИЈА ВОЈВОДИНЕ"
         },
         {
-          "title": "Delovi Novog Sada i Ledinaca bez vode zbog havarija",
+          "title": "Veternik sutra bez vode",
           "snippet": "",
-          "url": "https://www.mojnovisad.com/vesti/delovi-novog-sada-i-ledinaca-bez-vode-zbog-havarija-id71807.html",
-          "source": "Moj Novi Sad"
+          "url": "https://nsuzivo.rs/servisne-informacije/veternik-sutra-bez-vode/",
+          "source": "NS Uživo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "b92",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 2 Sep 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMLRDzok6j1hFXTm2FNNBWN-0zlR40Th7Fo4ztNDBBvCvPOsLqywFY_0XOhNI",
+      "pictureSource": "B92",
+      "relatedSearch": [
+        {
+          "title": "Nikola Vučević u suzama: \"Danas mi je žao...\" VIDEO",
+          "snippet": "",
+          "url": "https://www.b92.net/sport/kosarka/vesti/160595/nikola-vucevic-plakao-posle-poraza-od-v-britanije/vest",
+          "source": "B92"
+        },
+        {
+          "title": "EUROBASKET, POSLEDNJE KOLO Šok za Crnogorce - pobedila ih Britanija i izbacila i sebe i njih sa turnira! Počeo duel za prolaz u našoj grupi - sve mečeve pratite uživo na Sportalu",
+          "snippet": "",
+          "url": "https://sportal.blic.rs/prica/eurobasket-poslednje-kolo-uzivo-rezultati-ko-ce-dalje-a-ko-ispada-2025090308195800467",
+          "source": "Sportal.rs"
+        },
+        {
+          "title": "Crnogorsko samoubistvo: Ispali sa Evrobasketa od Velike Britanije",
+          "snippet": "",
+          "url": "https://www.mozzartsport.com/kosarka/vesti/crnogorsko-samoubistvo-ispali-sa-evrobasketa-od-velike-britanije/522172",
+          "source": "Mozzart Sport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "rezultati",
       "trafficCount": "200+",
       "pubDate": "Tue, 2 Sep 2025 20:40:00 -0700",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://naslovi.net/2025-09-02/dnevnik/srbija-dobila-dva-loto-milionera-ovo-su-izvuceni-brojevi-69-kola/40400057",
           "source": "Naslovi.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "djokovic fritz",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 2 Sep 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWO-le9DhLWPEnj6Ta9RmJYDgS59G8uuzLRTZALRMltj5uhf4VSaQt1hb_k8",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "US Open 2025 live updates: Quarterfinals schedule, order of play with Sinner, Osaka and more in action",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/live-blogs/us-open-2025-live-updates-quarterfinals-scores-results/fb6e55hpLEAw/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "'Lucky' Djokovic to face Alcaraz after battling past Fritz",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/tennis/articles/c4gzgdl6dklo",
-          "source": "BBC"
-        },
-        {
-          "title": "2025 U.S. Open quarterfinals: How to watch the tennis tournament today without cable, full schedule, seeds and more",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/tennis/article/2025-us-open-quarterfinals-how-to-watch-the-tennis-tournament-today-without-cable-full-schedule-seeds-and-more-175416690.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
