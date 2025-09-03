@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-09-03 04:46:48",
+  "lastUpdate": "2025-09-03 04:53:47",
   "data": [
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 2 Sep 2025 21:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2wXtHTG2QGH1UBg6kEtwfSyeYz-xJETjtHELwhVRgXYxzmsp1_0LsjjMtzco",
       "pictureSource": "WAVE News",
@@ -33,9 +33,15 @@
       "title": "vreme",
       "trafficCount": "500+",
       "pubDate": "Tue, 2 Sep 2025 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE01DVbOHcdldcQIDDhUy1hsDpiwU0eQyR1eywZZJpsn8qxrPs30jsRhCtWdo",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYuhKhqO5-gK2QHFItWgrK1s9nOSWYGEaf7HGhqhF6iyFnUSDnVqkSUExcxxw",
+      "pictureSource": "Радио Телевизија Србије",
       "relatedSearch": [
+        {
+          "title": "После сунчаног јутра биће потребни кишобрани, температура до 29 степени",
+          "snippet": "",
+          "url": "https://www.rts.rs/vesti/vreme/5781433/vremenska-prognoza.html",
+          "source": "Радио Телевизија Србије"
+        },
         {
           "title": "NOĆAS STIŽE NEVREME! Oglasio se RHMZ i najavio prodor hladnog fronta: Posle PLJUSKOVA i jakog VETRA, novi obrt od petka (FOTO)",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.tanjug.rs/srbija/drustvo/189176/danas-prepodne-pretezno-suncano-u-drugom-delu-dana-kisa-grad-i-olujni-vetar/vest",
           "source": "tanjug.rs"
-        },
-        {
-          "title": "Vremenska prognoza za 3. septembar",
-          "snippet": "",
-          "url": "https://013info.rs/srbija/vremenska-prognoza-za-3-septembar/",
-          "source": "013 Info"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,51 +114,23 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "b92 sport",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 2 Sep 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLd9S3F7ISWVO6GBJIiVDbtLb7jsdjKG20MvdB6OCICpGngKAIBeqhxGCJVE0",
-      "pictureSource": "Danas",
-      "relatedSearch": [
-        {
-          "title": "Evrobasket, 8. dan: Srbija u derbiju A grupe kao poslastica, meč lopta za Crnu Goru",
-          "snippet": "",
-          "url": "https://www.danas.rs/sport/evrobasket-sreda-raspored-srbija-turska/",
-          "source": "Danas"
-        },
-        {
-          "title": "Osmina finala na Evrobasketu: Ko će na koga – sve objašnjeno",
-          "snippet": "",
-          "url": "https://sportklub.n1info.rs/kosarka/eurobasket/srbija-eurobasket-osmina-finala-ukrstanje-tabela-kostur/",
-          "source": "Sportklub"
-        },
-        {
-          "title": "Pešić pred Tursku: \"Povrede su velike nesreće – nadamo se da će Micić biti boljI\" VIDEO",
-          "snippet": "",
-          "url": "https://www.b92.net/sport/kosarka/vesti/160388/pesic-pred-tursku-povrede-su-velike-nesrece-nadamo-se-da-ce-micic-biti-bolji-video/vest",
-          "source": "B92"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "novak djokovic",
       "trafficCount": "2000+",
       "pubDate": "Tue, 2 Sep 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ5n1g15nCFrlSIQDxRmtLR7Y_Vo0SUHw8Ky7TKfdeWzTUKQHlB5tNJUt8zjY",
-      "pictureSource": "Sportklub",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2u2fULa1u3SNVA2joQigmkH1DT-G9QDlfzy6Khc15agN0LeZ4IoYwJA2k5gU",
+      "pictureSource": "021.rs",
       "relatedSearch": [
-        {
-          "title": "Đoković: Da budem iskren, ne znam kako sam uspeo",
-          "snippet": "",
-          "url": "https://sportklub.n1info.rs/tenis/us-open/djokovic-da-budem-iskren-ne-znam-kako-sam-uspeo/",
-          "source": "Sportklub"
-        },
         {
           "title": "Đoković preko Frica do polufinala US opena, sledeći Alkaraz",
           "snippet": "",
           "url": "https://www.021.rs/info/sport/419809/djokovic-preko-frica-do-polufinala-us-opena-sledeci-alkaraz",
           "source": "021.rs"
+        },
+        {
+          "title": "Najopasniji meč za Novaka Đokovića na US openu: Kad ti je 10 pobeda minus, a ne plus",
+          "snippet": "",
+          "url": "https://www.danas.rs/sport/novak-djokovic-tejlor-fric-us-open-najava/",
+          "source": "Danas"
         },
         {
           "title": "Kad nekog dobiješ svaki put, onda je to demonstracija sile! Fricu nije pomogla ni buka sa tribina",
@@ -171,7 +143,7 @@
     },
     {
       "title": "ubistvo u novom sadu",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 2 Sep 2025 16:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB8LqyXv5hE_ndJCwmh9dr92SZBfImCF3YFqHelBgvTFBJwLO3LESSH3OpCgI",
       "pictureSource": "Blic",
@@ -238,26 +210,54 @@
       "title": "carlos alcaraz",
       "trafficCount": "200+",
       "pubDate": "Tue, 2 Sep 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXmTyBiqV7dP15rhqC3PT5-vODsdAQX0PFBimzM-pWpAtqxeiDFu3DA-oMWZA",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRtNac1kM0RojjgFnHk3EiBpu72xnn3v35mThaGAZoPLYj_lPhYcyjezgdQ4",
       "pictureSource": "Punto de Break",
       "relatedSearch": [
         {
-          "title": "Alcaraz, sobre un posible duelo ante Djokovic en semifinales: \"Tengo muchas ganas de vengarme\"",
+          "title": "Alcaraz, tras los pasos de Borg y Nadal: tercer tenista más joven en alcanzar su novena semifinal de Grand Slam",
           "snippet": "",
-          "url": "https://www.puntodebreak.com/2025/09/03/alcaraz-posible-duelo-djokovic-semifinales-ganas-vengarme",
+          "url": "https://www.puntodebreak.com/2025/09/02/alcaraz-pasos-borg-nadal-tercer-tenista-mas-joven-alcanzar-novena-semifinal-grand-slam",
           "source": "Punto de Break"
         },
         {
-          "title": "Taylor Fritz propuso ganar US Open by ESPN Star antes de Novak Djokovic Match",
+          "title": "Alcaraz vence a Lehecka y vuelve a unas semifinales en Nueva York",
           "snippet": "",
-          "url": "https://masmma.com.mx/noticias/taylor-fritz-propuso-ganar-us-open-by-espn-star-antes-de-novak-djokovic-match/83134/",
-          "source": "MMA"
+          "url": "https://quepasamedia.com/noticias/deportes/alcaraz-vence-a-lehecka-y-vuelve-a-unas-semifinales-en-nueva-york/",
+          "source": "Qué Pasa"
         },
         {
-          "title": "Definen los primeros semifinalistas del US Open",
+          "title": "Carlos Alcaraz - Jiri Lehecka del US Open, en directo: resultado y última hora de los cuartos de final",
           "snippet": "",
-          "url": "https://mediosrioja.com.ar/definen-los-primeros-semifinalistas-del-us-open/",
-          "source": "Medios Rioja"
+          "url": "https://www.msn.com/es-es/deportes/tenis/carlos-alcaraz-jiri-lehecka-del-us-open-en-directo-resultado-y-%C3%BAltima-hora-de-los-cuartos-de-final/ar-AA1LKeYS",
+          "source": "MSN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kosarka srbija turska",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 2 Sep 2025 11:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLd9S3F7ISWVO6GBJIiVDbtLb7jsdjKG20MvdB6OCICpGngKAIBeqhxGCJVE0",
+      "pictureSource": "Danas",
+      "relatedSearch": [
+        {
+          "title": "Evrobasket, 8. dan: Srbija u derbiju A grupe kao poslastica, meč lopta za Crnu Goru",
+          "snippet": "",
+          "url": "https://www.danas.rs/sport/evrobasket-sreda-raspored-srbija-turska/",
+          "source": "Danas"
+        },
+        {
+          "title": "Osmina finala na Evrobasketu: Ko će na koga – sve objašnjeno",
+          "snippet": "",
+          "url": "https://sportklub.n1info.rs/kosarka/eurobasket/srbija-eurobasket-osmina-finala-ukrstanje-tabela-kostur/",
+          "source": "Sportklub"
+        },
+        {
+          "title": "Pešić pred Tursku: \"Povrede su velike nesreće – nadamo se da će Micić biti boljI\" VIDEO",
+          "snippet": "",
+          "url": "https://www.b92.net/sport/kosarka/vesti/160388/pesic-pred-tursku-povrede-su-velike-nesrece-nadamo-se-da-ce-micic-biti-bolji-video/vest",
+          "source": "B92"
         }
       ],
       "link": "https://imtaqin.id/"
