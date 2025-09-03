@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-09-03 13:15:33",
+  "lastUpdate": "2025-09-03 13:30:09",
   "data": [
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Wed, 3 Sep 2025 05:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzyrmJd4mJHtwIT9hlyFx_uP2BOjQTsRfQoB-ihUijh4pG6TzMrN8FgNU_l2w",
-      "pictureSource": "WBTW",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJMfhqZvj9MzYdc2vDc_siznyD7mH_IkKZbjtiv4gYjobbD_qnVs_9rfpz-sc",
+      "pictureSource": "Los Angeles Times",
       "relatedSearch": [
         {
-          "title": "Color the Weather: Gloria Robinson",
+          "title": "Heat wave gives way to late-summer thunderstorms as California's extreme weather continues",
           "snippet": "",
-          "url": "https://www.wbtw.com/weather-news/color-the-weather/color-the-weather-gloria-robinson-7/",
-          "source": "WBTW"
+          "url": "https://www.latimes.com/california/story/2025-09-02/la-me-thunderstorms-danger",
+          "source": "Los Angeles Times"
         },
         {
-          "title": "Color the Weather: Eva Laine",
+          "title": "How hot will it be today? SoCal, Central California face storms, flood threat",
           "snippet": "",
-          "url": "https://www.wbtw.com/weather-news/color-the-weather/color-the-weather-eva-laine/",
-          "source": "WBTW"
+          "url": "https://www.desertsun.com/story/news/nation/california/2025/09/02/how-hot-will-it-be-today-southern-california-weather-forecast/85938171007/",
+          "source": "The Desert Sun"
         },
         {
-          "title": "Color the Weather: Davis Allen",
+          "title": "Heat advisory extended as persisting sweltering temperatures continue to impact much of Southern California",
           "snippet": "",
-          "url": "https://www.wbtw.com/weather-news/color-the-weather/color-the-weather-davis-allen-2/",
-          "source": "WBTW"
+          "url": "https://www.cbsnews.com/losangeles/news/heat-advisory-extended-southern-california-heat-temperatures/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "chat gpt",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 3 Sep 2025 01:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlOpXJ5N0rxIAT-0gH1w3derS7otNZ_C3w6wqbmPpWqah5J0tIQMrfTbb0XSo",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Family of dead teen say ChatGPT's new parental controls not enough",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cg505mn84ydo",
+          "source": "BBC"
+        },
+        {
+          "title": "'Capitalism at its best': OpenAI 'going in the right direction' with parental controls",
+          "snippet": "",
+          "url": "https://www.foxnews.com/video/6378265724112",
+          "source": "Fox News"
+        },
+        {
+          "title": "A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "chatgpt",
       "trafficCount": "2000+",
       "pubDate": "Wed, 3 Sep 2025 01:00:00 -0700",
@@ -117,15 +145,9 @@
       "title": "gemini",
       "trafficCount": "500+",
       "pubDate": "Wed, 3 Sep 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGJAV_I7rLYdrUJlgUMh1-iaauNuA3G47AtYj_ET8Jvm9acDvgq7dxQScZ3eA",
-      "pictureSource": "Fortune",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZG16P7UINfM2e3e-cpvTzaCyLG0AMvsFMXDiQN9UyZ4VuD19-yesYND6I2ZE",
+      "pictureSource": "Reuters",
       "relatedSearch": [
-        {
-          "title": "Winklevosses’ crypto firm Gemini seeks $317 million in IPO",
-          "snippet": "",
-          "url": "https://fortune.com/crypto/2025/09/02/gemini-ipo-tyler-cameron-winklevoss-317-million/",
-          "source": "Fortune"
-        },
         {
           "title": "Winklevoss twins-backed Gemini targets $2.2 billion valuation in US IPO",
           "snippet": "",
@@ -137,6 +159,12 @@
           "snippet": "",
           "url": "https://www.prnewswire.com/news-releases/gemini-announces-launch-of-initial-public-offering-302543703.html",
           "source": "PR Newswire"
+        },
+        {
+          "title": "Gemini IPO Targets $317M as Trump Media Bets $1B on Crypto.com Treasury Strategy",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/gemini-ipo-targets-317m-trump-102729297.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -251,15 +279,6 @@
           "source": "Yahoo Finance"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fritz",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 2 Sep 2025 20:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
