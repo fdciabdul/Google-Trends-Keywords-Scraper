@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03 05:31:38",
+  "lastUpdate": "2025-09-03 05:39:47",
   "data": [
     {
       "title": "inei",
@@ -59,11 +59,30 @@
     },
     {
       "title": "fritz",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 2 Sep 2025 20:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7G8ZpN2sQpk0oCJsnJ_SCYFExcKeVkiYIP7w5ZnX5wAy9eX_UePnASR1xPRc",
+      "pictureSource": "MARCA",
+      "relatedSearch": [
+        {
+          "title": "Alcaraz tendrá que ganar a la leyenda Djokovic para estar en la final del US Open",
+          "snippet": "",
+          "url": "https://www.marca.com/tenis/us-open/2025/09/03/alcaraz-tendra-ganar-leyenda-djokovic-final-us-open.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "Novak Djokovic irá contra Carlos Alcaraz en semis: Cómo van los cuartos de final del US Open y lo que resta por definir",
+          "snippet": "",
+          "url": "https://www.emol.com/noticias/Deportes/2025/09/03/1176812/novak-djokovic-carlos-alcaraz-usopen.html",
+          "source": "Emol"
+        },
+        {
+          "title": "Djokovic padece a Fritz antes de medir a Alcaraz en el US Open",
+          "snippet": "",
+          "url": "https://www.atptour.com/es/news/us-open-2025-martes-2-djokovic-fritz",
+          "source": "ATP Tour"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -210,26 +229,26 @@
       "title": "djokovic",
       "trafficCount": "5000+",
       "pubDate": "Tue, 2 Sep 2025 17:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZVfNOBUdqCqnRVCRvkN1DE7eYqejYv5DKWzj2l2PDi_T3aUspyC5RzTDCiMg",
-      "pictureSource": "Yahoo Sports",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNk65LkTPIWC31sTxtoNg5kRYCR9c17bmrsJ0JP1WbrFubw1QtChObtaSTKmo",
+      "pictureSource": "ATP Tour",
       "relatedSearch": [
         {
-          "title": "2025 U.S. Open quarterfinals: How to watch the tennis tournament today without cable, full schedule, seeds and more",
+          "title": "Djokovic stays unbeaten against Fritz, sets showdown with Alcaraz",
           "snippet": "",
-          "url": "https://sports.yahoo.com/tennis/article/2025-us-open-quarterfinals-how-to-watch-the-tennis-tournament-today-without-cable-full-schedule-seeds-and-more-175416690.html",
+          "url": "https://www.atptour.com/en/news/fritz-djokovic-us-open-2025-qf",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Djokovic sets up Alcaraz US Open blockbuster as Sabalenka advances",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/article/alcaraz-pegula-ease-us-open-200801125.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Djokovic to play Alcaraz in US Open semifinal after defeating Fritz",
+          "title": "Novak Djokovic Beats Taylor Fritz To Enter US Open 2025 Semifinal, Sets New Open Era Record",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2025/9/3/djokovic-to-play-alcaraz-in-us-open-semifinal-after-defeating-fritz",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Taylor Fritz was dealt a sobering home truth by an ageing Novak Djokovic at the US Open... any hopes of bridging the gap to the elite remain far-fetched",
-          "snippet": "",
-          "url": "https://www.dailymail.co.uk/sport/tennis/article-15060077/taylor-fritz-novak-djokovic-US-Open-2025.html",
-          "source": "Daily Mail"
+          "url": "https://sports.ndtv.com/us-open-2025/novak-djokovic-beats-4th-seed-taylor-fritz-to-enter-us-open-2025-men-s-singles-semifinal-9206859",
+          "source": "NDTV Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -242,7 +261,7 @@
       "pictureSource": "El Comercio Perú",
       "relatedSearch": [
         {
-          "title": "Temblor en Colombia hoy, martes 2 de septiembre: epicentro del último sismo según el SGC",
+          "title": "Temblor en Colombia del martes 2 de septiembre: epicentro del último sismo según el SGC",
           "snippet": "",
           "url": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-ultimos-sismos-de-septiembre-en-vivo-cual-fue-la-magnitud-y-epicentro-segun-reporte-del-sgc-servicio-geologico-colombiano-santander-co-lbposting-noticia/",
           "source": "El Comercio Perú"
