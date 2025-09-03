@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03 09:17:06",
+  "lastUpdate": "2025-09-03 09:28:19",
   "data": [
     {
       "title": "perplexity ai",
@@ -161,10 +161,10 @@
           "source": "Le Monde Informatique"
         },
         {
-          "title": "Le Chat se dote d’une mémoire et de connecteurs vers des outils métiers",
+          "title": "Mistral AI, la pièce manquante de G42 ?",
           "snippet": "",
-          "url": "https://www.blogdumoderateur.com/le-chat-memoire-connecteurs-outils-metiers/",
-          "source": "BDM"
+          "url": "https://www.frenchweb.fr/mistral-ai-la-piece-manquante-de-g42/456539",
+          "source": "FrenchWeb"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "dominique pelicot",
       "trafficCount": "500+",
       "pubDate": "Wed, 3 Sep 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9kCwtEcnBOaIfK9JQdWXx5dSB15DQ2HEYvSiD4XGFNxStpJJlCsJzD6pw0_M",
-      "pictureSource": "Le Bien Public",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0dKrLomdmxQSDUTHN_9of7xM5LBwmgzKCFYjnbhjcSou2aWXX7bpsf3OWAE",
+      "pictureSource": "TF1+",
       "relatedSearch": [
+        {
+          "title": "Le jour où… : J’ai défendu Dominique Pélicot",
+          "snippet": "",
+          "url": "https://www.tf1.fr/tf1/bonjour-la-matinale-tf1/videos/le-jour-ou-jai-defendu-dominique-pelicot-73384852.html",
+          "source": "TF1+"
+        },
         {
           "title": "Côte-d’Or. ZZIIGG , un témoin clé au cœur du procès des viols de Mazan",
           "snippet": "",
@@ -187,12 +193,6 @@
           "snippet": "",
           "url": "https://www.20minutes.fr/justice/4170218-20250902-viols-mazan-contre-reste-monde-confidences-avocate-dominique-pelicot",
           "source": "20 Minutes"
-        },
-        {
-          "title": "Un an après le procès historique de l’affaire Pelicot : à Mazan, du traumatisme à l’oubli",
-          "snippet": "",
-          "url": "https://www.laprovence.com/article/faits-divers-justice/92260549826589/un-an-apres-le-proces-historique-des-viols-de-mazan-du-traumatisme-a-l-oubli",
-          "source": "La Provence"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,44 @@
           "source": "OpenAI"
         },
         {
-          "title": "OpenAI to buy Bellevue-based product testing startup Statsig for $1.1B",
+          "title": "OpenAI to acquire Statsig in $1.1bn deal",
           "snippet": "",
-          "url": "https://www.seattletimes.com/business/openai-to-buy-product-testing-startup-statsig-for-1-1-billion/",
-          "source": "The Seattle Times"
+          "url": "https://finance.yahoo.com/news/openai-acquire-statsig-1-1bn-091254805.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "OpenAI acquires Statsig for $1.1 billion, brings on CEO as applications executive",
+          "title": "OpenAI to Buy Product Testing Startup Statsig for $1.1 Billion",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/09/02/openai-buys-statsig-for-1point1-billion-hires-ceo-as-applications-exec.html",
-          "source": "CNBC"
+          "url": "https://www.bloomberg.com/news/articles/2025-09-02/openai-to-buy-product-testing-startup-statsig-for-1-1-billion",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "brigitte macron",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 3 Sep 2025 00:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj39CgIx-bKowwCyQhR4ojFHf7sVjltrGR2LQsUddyEtg8Egx_5RQIOrVEu8g",
+      "pictureSource": "Le Canard enchaîné",
+      "relatedSearch": [
+        {
+          "title": "Immobilier : La belle affaire à 3,6 millions d'euros des Macron au Touquet",
+          "snippet": "",
+          "url": "https://www.lecanardenchaine.fr/societe/51726-au-touquet-les-macron-maximisent-les-profits",
+          "source": "Le Canard enchaîné"
+        },
+        {
+          "title": "La plus value réalisée est énorme : Brigitte Macron a vendu la maison familiale dont elle avait hérité",
+          "snippet": "",
+          "url": "https://www.midilibre.fr/2025/09/03/la-plus-value-realisee-est-enorme-brigitte-macron-a-vendu-la-maison-familiale-dont-elle-avait-herite-12908030.php",
+          "source": "Midi Libre"
+        },
+        {
+          "title": "Emmanuel et Brigitte Macron : leur villa du Touquet enfin vendue... Trois fois plus chère qu'estimée en 2014",
+          "snippet": "",
+          "url": "https://actu.orange.fr/politique/emmanuel-et-brigitte-macron-leur-villa-du-touquet-enfin-vendue-trois-fois-plus-chere-qu-estimee-en-2014-magic-CNT000002kseoe.html",
+          "source": "Portail Orange"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://the-decoder.com/mistral-integrates-mcp-support-and-memory-in-le-chat/",
           "source": "The Decoder"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "brigitte macron",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 3 Sep 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj39CgIx-bKowwCyQhR4ojFHf7sVjltrGR2LQsUddyEtg8Egx_5RQIOrVEu8g",
-      "pictureSource": "Le Canard enchaîné",
-      "relatedSearch": [
-        {
-          "title": "Immobilier : La belle affaire à 3,6 millions d'euros des Macron au Touquet",
-          "snippet": "",
-          "url": "https://www.lecanardenchaine.fr/societe/51726-au-touquet-les-macron-maximisent-les-profits",
-          "source": "Le Canard enchaîné"
-        },
-        {
-          "title": "Brigitte et Emmanuel Macron ont trouvé un acheteur : leur maison du Touquet vendue 3,6 millions d’euros",
-          "snippet": "",
-          "url": "https://www.ladepeche.fr/2025/09/03/brigitte-et-emmanuel-macron-ont-trouve-un-acheteur-leur-maison-du-touquet-vendue-36-millions-deuros-12907960.php",
-          "source": "ladepeche.fr"
-        },
-        {
-          "title": "Emmanuel et Brigitte Macron : leur villa du Touquet enfin vendue... Trois fois plus chère qu'estimée en 2014",
-          "snippet": "",
-          "url": "https://actu.orange.fr/politique/emmanuel-et-brigitte-macron-leur-villa-du-touquet-enfin-vendue-trois-fois-plus-chere-qu-estimee-en-2014-magic-CNT000002kseoe.html",
-          "source": "Portail Orange"
         }
       ],
       "link": "https://imtaqin.id/"
