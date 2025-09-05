@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-05 14:34:59",
+  "lastUpdate": "2025-09-05 14:43:16",
   "data": [
+    {
+      "title": "flightradar",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 5 Sep 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy4JpKvbWWeQ7RTlAuG7jZeB4aCMRSA7XIqQX1lJ2ceRnJ6C8bjMjuD99dw1Q",
+      "pictureSource": "Euronews.com",
+      "relatedSearch": [
+        {
+          "title": "Tackling Russia's hybrid war on Europe: Jamming and spoofing in the 'grey zone'",
+          "snippet": "",
+          "url": "https://www.euronews.com/2025/09/05/tackling-russias-hybrid-war-on-europe-jamming-and-spoofing-in-the-grey-zone",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Ursula von der Leyen’s plane hit by suspected Russian GPS interference",
+          "snippet": "",
+          "url": "https://www.ft.com/content/3c330f87-71c4-4db9-8259-f5c132c1f0d3",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Von der Leyen’s GPS scare gripped Europe. The Russia allegations are starting to unravel.",
+          "snippet": "",
+          "url": "https://www.politico.eu/article/gps-jamming-ursula-von-der-leyen-bulgaria-bulgaria-europe/",
+          "source": "POLITICO.eu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "f35",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://breakingdefense.com/2025/09/f-35-block-4-upgrade-delayed-until-at-least-2031-gao/",
           "source": "Breaking Defense"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "flightradar",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 5 Sep 2025 07:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfvAvgEMvB6x1WhJyCt9JIBbV3VfgBDQCtflqcbB75xiqSoszALuQHl9GzP_A",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Sweden says Russia behind surge in GPS jamming over Baltic Sea",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/clyx3ly54veo",
-          "source": "BBC"
-        },
-        {
-          "title": "Ursula von der Leyen’s plane hit by suspected Russian GPS interference",
-          "snippet": "",
-          "url": "https://www.ft.com/content/3c330f87-71c4-4db9-8259-f5c132c1f0d3",
-          "source": "Financial Times"
-        },
-        {
-          "title": "Bulgaria flip-flops on von der Leyen plane’s GPS glitch",
-          "snippet": "",
-          "url": "https://www.politico.eu/article/bulgaria-no-jamming-eu-ursula-von-der-leyen-gps-plane-russia-pm-rosen-zhelyazkov/",
-          "source": "POLITICO.eu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "TV 2 Sport"
         },
         {
-          "title": "Angliru er et frygtindgydende bjerg, der får Vingegaard til at gnide sig i hænderne",
+          "title": "LIVE Følg 13. etape af Vueltaen her",
           "snippet": "",
-          "url": "https://www.dr.dk/sporten/cykling/vuelta/angliru-er-et-frygtindgydende-bjerg-der-faar-vingegaard-til-gnide-sig-i",
+          "url": "https://www.dr.dk/sporten/cykling/vuelta/live-tre-danskere-er-gaaet-i-udbrud-paa-stor-bjergetape",
           "source": "DR"
         },
         {
-          "title": "Ikke sket i 30 år: Danske Spil spår historisk cykelbedrift, som vil gøre Vingegaard til en legende",
+          "title": "Jonas Vingegaard er ærgerlig: Missede det på sønnens fødselsdag",
           "snippet": "",
-          "url": "https://via.ritzau.dk/pressemeddelelse/14557078/ikke-sket-i-30-ar-danske-spil-spar-historisk-cykelbedrift-som-vil-gore-vingegaard-til-en-legende?publisherId=9291517&lang=da",
-          "source": "Via Ritzau"
+          "url": "https://www.billedbladet.dk/kendte/danmark/sport/jonas-vingegaard-er-aergerlig-missede-det-paa-soennens-foedselsdag",
+          "source": "BILLED-BLADET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "Onda Vasca"
         },
         {
-          "title": "El pelotón parte de Cabezón de la Sal",
+          "title": "Ciclismo | El Rutómetro de Fernando Gilet: El Angliru al rescate",
           "snippet": "",
-          "url": "https://www.eldiariomontanes.es/deportes/ciclismo/vuelta-espana/peloton-parte-cabezon-sal-20250905121546-nt.html",
-          "source": "El Diario Montañés"
+          "url": "https://www.diariodemallorca.es/deportes/2025/09/05/rutometro-fernando-gilet-angliru-rescate-121251277.html",
+          "source": "Diario de Mallorca"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +217,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "UK politics live: Rayner and Starmer braced for tax inquiry findings",
+          "title": "UK Deputy PM Angela Rayner resigns, throwing embattled Labour government into more disarray",
           "snippet": "",
-          "url": "https://www.ft.com/content/8a641580-ff39-4789-95e5-b326b8ea0104",
-          "source": "Financial Times"
+          "url": "https://www.cnn.com/2025/09/05/uk/angela-rayner-resigns-labour-uk-deputy-prime-minister",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
