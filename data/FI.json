@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-09-06 19:26:11",
+  "lastUpdate": "2025-09-06 19:33:30",
   "data": [
     {
       "title": "eurobasket",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 6 Sep 2025 12:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeqimOhtU3Gz9dXAua-_jjF-E60Bbqt6KT4JBk0iuUm9tGzMj3vHIwDDkAxw8",
       "pictureSource": "FIBA",
@@ -117,26 +117,26 @@
       "title": "iran",
       "trafficCount": "200+",
       "pubDate": "Sat, 6 Sep 2025 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvUE2fd_ZBJwFncVDALm4ZA1yHVkY4clwBjESVfyp6KHRjmYYCTVh2lkOzVc",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4NgSSCO6d9JXkWAxd8xVIVNbNnidcZeiXUyMqHdZLMisSDbhyq_Cw3pyeIjs",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Iran executes man involved in 2022 uprising over women's rights",
+          "title": "US considers banning Iranian diplomats from shopping at Costco during UN meeting",
           "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/iran-executes-man-involved-2022-uprising-over-womens-rights-2025-09-06/",
-          "source": "Reuters"
+          "url": "https://www.cnn.com/2025/09/05/middleeast/us-ban-iranians-shopping-costco-during-un-latam-intl",
+          "source": "CNN"
         },
         {
-          "title": "Iran executes man over attack on security forces during 2022 Mahsa Amini protests",
+          "title": "Iranian diplomats may be banned from Costco, Sam’s Club",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/iran-executes-man-over-attack-on-security-forces-during-2022-mahsa-amini-protests/",
+          "url": "https://www.newsnationnow.com/politics/trump-administration-ban-iranian-costco/",
+          "source": "NewsNation"
+        },
+        {
+          "title": "White House weighing travel restrictions on Iran’s delegation to UN General Assembly",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/white-house-weighing-travel-restrictions-on-irans-delegation-to-un-general-assembly/",
           "source": "The Times of Israel"
-        },
-        {
-          "title": "Iran executes a man accused of killing a security guard in 2022 Mahsa Amini protests",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/iran-executes-man-accused-killing-160617728.html",
-          "source": "Yahoo News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,6 +170,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "alexander stubb",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 6 Sep 2025 11:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTisIDnJ-rzMYv82fOA6ndibeNx5knshQxyKGbt3XjNuw9XbtJ38_zXAd-zf4g",
+      "pictureSource": "Ilta-Sanomat",
+      "relatedSearch": [
+        {
+          "title": "Murenivatko toiveet rauhasta? Asiantuntijat arvioivat Stubbin synkkää lausuntoa",
+          "snippet": "",
+          "url": "https://www.is.fi/ulkomaat/art-2000011468276.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Stubb Ukrainan turvatakuista: ”Emme ole lähettämässä suomalaisia sotilaita sotarintamalle”",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20181122",
+          "source": "Yle"
+        },
+        {
+          "title": "Putin varoittaa lännen suunnitelmasta – ”Oikeutettu kohde”",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/ulkomaat/a/f7c4b5c0-4de2-4f42-86be-d22c846a57d2",
+          "source": "Iltalehti"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "jussi halla-aho",
       "trafficCount": "200+",
       "pubDate": "Sat, 6 Sep 2025 11:30:00 -0700",
@@ -198,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "alexander stubb",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 6 Sep 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTisIDnJ-rzMYv82fOA6ndibeNx5knshQxyKGbt3XjNuw9XbtJ38_zXAd-zf4g",
-      "pictureSource": "Ilta-Sanomat",
-      "relatedSearch": [
-        {
-          "title": "Murenivatko toiveet rauhasta? Asiantuntijat arvioivat Stubbin synkkää lausuntoa",
-          "snippet": "",
-          "url": "https://www.is.fi/ulkomaat/art-2000011468276.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Stubb Ukrainan turvatakuista: ”Emme ole lähettämässä suomalaisia sotilaita sotarintamalle”",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20181122",
-          "source": "Yle"
-        },
-        {
-          "title": "Putin varoittaa lännen suunnitelmasta – ”Oikeutettu kohde”",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/ulkomaat/a/f7c4b5c0-4de2-4f42-86be-d22c846a57d2",
-          "source": "Iltalehti"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "kurdistan",
       "trafficCount": "200+",
       "pubDate": "Sat, 6 Sep 2025 11:20:00 -0700",
@@ -245,9 +245,9 @@
           "source": "کوردستان 24"
         },
         {
-          "title": "Leader Barzani and FM Barrot discuss Kurdistan-France relations - Shafaq News",
+          "title": "Leader Barzani affirms France’s support for Kurdistan remains steadfast - Shafaq News",
           "snippet": "",
-          "url": "https://shafaq.com/en/Kurdistan/Leader-Barzani-and-FM-Barrot-discuss-Kurdistan-France-relations",
+          "url": "https://shafaq.com/en/Kurdistan/Leader-Barzani-affirms-France-s-support-for-Kurdistan-remains-steadfast",
           "source": "شفق نيوز"
         }
       ],
