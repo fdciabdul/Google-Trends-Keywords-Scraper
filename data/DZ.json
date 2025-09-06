@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-06 21:08:19",
+  "lastUpdate": "2025-09-06 21:19:16",
   "data": [
     {
       "title": "خسوف القمر",
@@ -31,7 +31,7 @@
     },
     {
       "title": "الطقس غدًا",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Sat, 6 Sep 2025 12:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR9e74ATeO1I5skUw_uAR-c4Off81M25W0UQzhH_hogxd1JreL6Yp7UWSIr_Y",
       "pictureSource": "المصري اليوم",
@@ -71,16 +71,16 @@
           "source": "NBC New York"
         },
         {
+          "title": "Video: Tracking severe thunderstorms, possible tornado",
+          "snippet": "",
+          "url": "https://www.wcvb.com/article/video-tracking-severe-thunderstorms-possible-tornado/66001508",
+          "source": "WCVB"
+        },
+        {
           "title": "Tornado warning issued in Worcester and Middlesex County, Massachusetts until 4:45 p.m.",
           "snippet": "",
           "url": "https://www.cbsnews.com/boston/news/tornado-warning-worcester-county-massachusetts/",
           "source": "CBS News"
-        },
-        {
-          "title": "Severe thunderstorm warnings issued for parts of central, western Mass.",
-          "snippet": "",
-          "url": "https://www.wcvb.com/article/massachusetts-severe-weather-saturday-damaging-winds-hail-tornadoes-saturday/65996199",
-          "source": "WCVB"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,9 +201,15 @@
       "title": "england vs andorra",
       "trafficCount": "100+",
       "pubDate": "Sat, 6 Sep 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYWLSMntoGqEml4-eOIwqoqZIN4-0OUbYEaX3OtFhwdea5sGimnCZCFqhTZNE",
-      "pictureSource": "Hayters TV",
+      "picture": "",
+      "pictureSource": "FIFA",
       "relatedSearch": [
+        {
+          "title": "Reggae Boyz roar to victory in Bermuda",
+          "snippet": "",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/concacaf-qualifiers-third-round-matchday-one-review-two",
+          "source": "FIFA"
+        },
         {
           "title": "Madueke’s positivity and Anderson’s strong debut: Five talking points as England beat Andorra",
           "snippet": "",
@@ -215,12 +221,6 @@
           "snippet": "",
           "url": "https://www.footballinsider247.com/myles-lewis-skelly-stinks-englands-three-winners-and-three-losers-from-win-vs-andorra/",
           "source": "Football Insider"
-        },
-        {
-          "title": "'Job done' - Harry Kane delivers his verdict on England's drab win over Andorra in World Cup qualifying",
-          "snippet": "",
-          "url": "https://www.goal.com/en-ng/lists/harry-kane-delivers-his-verdict-on-england-s-drab-win-over-andorra-in-world-cup-qualifying/blt762ca82a11f5e9da",
-          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "championnat",
       "trafficCount": "100+",
       "pubDate": "Sat, 6 Sep 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTZBRlWFJkolUtvllfAPbN9rYvYQPdORgXWc6DB7GDqd6c8GzwL4w12eFSksY",
-      "pictureSource": "Ouest-France",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdOuNqwcQVFZiwAPj-CuBx2f_SxOlF80Y9QyzaUA8KbkGJHFMJNfHNPLzIKmY",
+      "pictureSource": "L'Est Républicain",
       "relatedSearch": [
         {
-          "title": "Inshore. Championnats de France : Pierre Lambert, à toute vitesse",
+          "title": "Handball - N1 Fédérale. Un gros poisson pour Vesoul pour débuter la saison",
           "snippet": "",
-          "url": "https://www.ouest-france.fr/sport/sports-mecaniques/inshore-championnats-de-france-pierre-lambert-a-toute-vitesse-c0bc1404-8b47-11f0-9cca-a0ceea2b93f6",
-          "source": "Ouest-France"
+          "url": "https://www.estrepublicain.fr/sport/2025/09/06/un-gros-poisson-pour-vesoul-pour-debuter-la-saison",
+          "source": "L'Est Républicain"
         },
         {
-          "title": "Inshore. « Ça a changé beaucoup de choses » : les meilleurs pilotes de motonautisme de retour",
+          "title": "Hand : Vesoul s'incline",
           "snippet": "",
-          "url": "https://saint-malo.maville.com/sport/infos/detail_-inshore.-ca-a-change-beaucoup-de-choses-les-meilleurs-pilotes-de-motonautisme-de-retour-a-caen-_-6962470_actu.Htm",
-          "source": "Maville"
+          "url": "https://www.lapressedevesoul.com/actualite-74452-hand-vesoul-s-incline.html",
+          "source": "lapressedevesoul.com"
         },
         {
-          "title": "Caen. Le Championnat de France Inshore se tiendra les 6 et 7 septembre",
+          "title": "Handball : premier match de championnat pour Vesoul",
           "snippet": "",
-          "url": "https://caen.maville.com/actu/actudet_-caen.-le-championnat-de-france-inshore-se-tiendra-les-6-et-7-septembre_loc-6951250_actu.Htm",
-          "source": "maville Caen"
+          "url": "https://www.lapressedevesoul.com/actualite-74448-handball-premier-match-de-championnat-pour-vesoul.html",
+          "source": "lapressedevesoul.com"
         }
       ],
       "link": "https://imtaqin.id/"
