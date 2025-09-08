@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-09-08 01:05:44",
+  "lastUpdate": "2025-09-08 01:45:25",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 7 Sep 2025 18:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR575upuT4RrN7_LtjovomJt_cDTVVQqkoTzMEfA1Uy_qDNclwRStH64XpPkYQ",
+      "pictureSource": "NBC10 Philadelphia",
+      "relatedSearch": [
+        {
+          "title": "Storms cause widespread power outages in South Jersey",
+          "snippet": "",
+          "url": "https://www.nbcphiladelphia.com/video/weather/video-weather/storms-cause-widespread-power-outages-in-south-jersey/4265150/",
+          "source": "NBC10 Philadelphia"
+        },
+        {
+          "title": "Early sunshine to give way to thunderstorms in New York and New Jersey",
+          "snippet": "",
+          "url": "https://www.msn.com/en-us/video/peopleandplaces/early-sunshine-to-give-way-to-thunderstorms-in-new-york-and-new-jersey/vi-AA1M18N0?ocid=hpmsn",
+          "source": "MSN"
+        },
+        {
+          "title": "Franklin Traffic Alert: Downed Wires Shut Down Both Lanes of Route 27",
+          "snippet": "",
+          "url": "https://www.tapinto.net/towns/franklin-township/sections/police-and-fire/articles/franklin-traffic-alert-downed-wires-shut-down-both-lanes-of-route-27",
+          "source": "TAPinto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "google",
       "trafficCount": "100+",
       "pubDate": "Sun, 7 Sep 2025 16:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrPKm8qqr1ZfaRpimsHOekipPDsjbv6_or8yFyPizcI2IdfRBQDkMUNNT2Ac",
-      "pictureSource": "The Economist",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcRkv8oVRlVjMKAEpgr2tY6gUiDLAqlnEoW8pQm2vck3StJONGn4BM0dvlDDg",
+      "pictureSource": "Forbes",
       "relatedSearch": [
         {
-          "title": "Business",
+          "title": "A Huge Google Change Coming ‘Soon’ Should Terrify News Publishers",
           "snippet": "",
-          "url": "https://www.economist.com/the-world-this-week/2025/09/04/business",
-          "source": "The Economist"
+          "url": "https://www.forbes.com/sites/andymeek/2025/09/07/a-huge-google-change-coming-soon-should-terrify-news-publishers/",
+          "source": "Forbes"
         },
         {
-          "title": "Google Monopolized Search. Then Came AI",
+          "title": "Google AI Mode model improved for complex STEM questions, says Google",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-09-05/google-s-antitrust-case-is-a-warning-for-big-tech-regulation-in-the-age-of-ai",
-          "source": "Bloomberg.com"
+          "url": "https://searchengineland.com/google-ai-mode-model-improved-for-complex-stem-questions-says-google-461443",
+          "source": "Search Engine Land"
         },
         {
-          "title": "Opinion | Why the Court Let Google Off Easy",
+          "title": "Google․com/ai now opens Search AI Mode",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/09/07/opinion/google-ruling-antirust.html",
-          "source": "The New York Times"
+          "url": "https://9to5google.com/2025/09/05/google-ai-mode-new-link/",
+          "source": "9to5Google"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +61,26 @@
       "title": "us open",
       "trafficCount": "500+",
       "pubDate": "Sun, 7 Sep 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJHD1X2xF9X924iA23CZfMoXHpDBmiZd5r3UpBdPQkZeeMIdNmduAksQ9qCr4",
-      "pictureSource": "ATP Tour",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTZv1HsEaPG2LP37Xue1273l74JK6ULDl_b_6Y_jENGPZ8Q4EOsuupYWj60k0",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Alcaraz leads Sinner by two sets to one after third-set statement in US Open final",
+          "title": "US Open 2025 results: Carlos Alcaraz beats Jannik Sinner in New York final for sixth Grand Slam title",
           "snippet": "",
-          "url": "https://www.atptour.com/en/news/sinner-alcaraz-us-open-2025-final",
-          "source": "ATP Tour"
-        },
-        {
-          "title": "US Open odds: Sinner favored in Men's finals",
-          "snippet": "",
-          "url": "https://www.espn.com/espn/betting/story/_/id/45785040/2025-us-open-odds-props-tennis-betting-favorites",
-          "source": "ESPN"
-        },
-        {
-          "title": "US Open final LIVE: Sinner vs Alcaraz - scores, radio & text updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/tennis/live/c15lknlnv1gt",
+          "url": "https://www.bbc.com/sport/tennis/articles/c8xrpd5jeveo",
           "source": "BBC"
+        },
+        {
+          "title": "US Open final: How many sets Carlos Alcaraz, Jannik Sinner need to win today?",
+          "snippet": "",
+          "url": "https://www.hindustantimes.com/sports/tennis/how-many-sets-to-win-the-us-open-final-carlos-alcaraz-vs-jannik-sinner-game-rules-explained-101757278922381.html",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Sincaraz meet at Flushing Meadows as tennis sees two new stars post the Big Three",
+          "snippet": "",
+          "url": "https://www.indiatvnews.com/sports/tennis/sincaraz-meet-at-flushing-meadows-as-tennis-sees-two-new-stars-post-the-big-three-2025-09-07-1007138",
+          "source": "India TV News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +161,10 @@
           "source": "The Economic Times"
         },
         {
-          "title": "My eyes? I can't count..Im Yoon-ah, the chef of the tyrant, ♥ thrilled by Lee Chae-min → excited emotional balance",
+          "title": "Lee Chae-min, Ryu Da-in's romance continues with couple rings",
           "snippet": "",
-          "url": "https://en.sportschosun.com/k-drama/2025/09/my-eyes-i-cant-countim-yoon-ah-chef-104778",
-          "source": "SportsChosun"
+          "url": "https://www.chosun.com/english/kpop-culture-en/2025/09/07/OAXIBLNDOFBUFMALAR6LAMEU2I/",
+          "source": "조선일보"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "today cricket match",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 7 Sep 2025 07:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTzjuhei6RUa7L7qo0FOqUN0NgVhzaSpl-WDZVsDTAb082A7hsxMOnRRjo__0",
+      "pictureSource": "Cricbuzz.com",
+      "relatedSearch": [
+        {
+          "title": "South Africa's defence of WTC mace begins at Lahore",
+          "snippet": "",
+          "url": "https://www.cricbuzz.com/cricket-news/135516/south-africas-defence-of-wtc-mace-begins-at-lahore-cricbuzzcom",
+          "source": "Cricbuzz.com"
+        },
+        {
+          "title": "SA to open WTC 2025-27 campaign against Pakistan at Gadaffi Stadium in October",
+          "snippet": "",
+          "url": "https://www.espncricinfo.com/story/south-africa-to-open-wtc-2025-27-campaign-against-pakistan-at-gadaffi-stadium-in-october-1501800",
+          "source": "ESPNcricinfo"
+        },
+        {
+          "title": "Pakistan to host South Africa for cricket series in October: PCB",
+          "snippet": "",
+          "url": "https://www.dawn.com/news/1940174",
+          "source": "Dawn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "asia cup 2025",
       "trafficCount": "200+",
       "pubDate": "Sun, 7 Sep 2025 07:40:00 -0700",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.wionews.com/photos/from-abhishek-sharma-to-sanju-samson-5-indians-players-set-to-make-asia-cup-debut-shivam-dube-jitesh-sharma-rinku-singh-1757254141562",
           "source": "WION"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "asia cup schedule",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 7 Sep 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsCBilRzcSg6rC9NscC2lgGGF8VHwgI1Huk4AyylXnI25KL79t0rGAK6ycetA",
-      "pictureSource": "ESPNcricinfo",
-      "relatedSearch": [
-        {
-          "title": "India, Pakistan training overlap spikes Asia Cup interest in Dubai",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/story/india-pakistan-training-overlap-spikes-asia-cup-interest-in-dubai-1501831",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "BCCI shuts criticism over playing Pakistan in Asia Cup 2025: ‘A country which is not on friendly terms with India…’ | Cricket",
-          "snippet": "",
-          "url": "https://www.hindustantimes.com/cricket/bcci-shuts-criticism-over-playing-pakistan-in-asia-cup-2025-a-country-which-is-not-on-friendly-terms-with-india-101757167020136.html",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "Asia Cup records: Check highest run-scorers, wicket-takers of tournament so far",
-          "snippet": "",
-          "url": "https://www.financialexpress.com/sports/asia-cup-records-check-highest-run-scorers-wicket-takers-of-tournament-so-far/3969754/",
-          "source": "Financial Express"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "சந்திர கிரகணம்",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 7 Sep 2025 07:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVquBjvZl_gs7goETU6hbYfJ-hOMAUPnIfKqELdikBTXEV7_qJVpiIThjSx2c",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "இந்தியாவில் சந்திர கிரகணம் எப்போது தெரியும்? முழு நிலவு பற்றிய நம்பிக்கையும் உண்மையும்",
-          "snippet": "",
-          "url": "https://www.bbc.com/tamil/articles/cvgnlyk2z22o",
-          "source": "BBC"
-        },
-        {
-          "title": "Chandra grahan | இன்று கிரகணத்தை பார்க்கலையா? அடுத்த கிரகணம் எப்போது? அவசியம் தெரிஞ்சுக்கோங்க!",
-          "snippet": "",
-          "url": "https://tamil.news18.com/photogallery/spiritual/do-you-know-the-next-chandra-grahanam-date-and-year-see-the-details-here-next-lunar-eclipse-anu-ws-l-1911323.html",
-          "source": "News18 Tamil"
-        },
-        {
-          "title": "நள்ளிரவில் முழுமையாகத் தெரியும் சந்திர கிரகணம்! அடுத்து 2028-இல்தான்!",
-          "snippet": "",
-          "url": "https://www.dinamani.com/india/2025/Sep/07/the-longest-total-lunar-eclipse-visible-from-india-since-2022",
-          "source": "Dinamani"
         }
       ],
       "link": "https://imtaqin.id/"
