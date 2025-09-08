@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-08 05:07:29",
+  "lastUpdate": "2025-09-08 05:19:11",
   "data": [
     {
       "title": "weather",
@@ -15,16 +15,16 @@
           "source": "FOX Weather"
         },
         {
-          "title": "Hurricane Kiko’s path shifts, sparing Hawaii from strong winds and heavy rain",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/09/06/us/hurricane-kiko-hawaii",
-          "source": "CNN"
-        },
-        {
           "title": "Maps show Hurricane Kiko's path and forecast in Pacific as it moves west toward Hawaii",
           "snippet": "",
           "url": "https://www.cbsnews.com/news/hurricane-kiko-path-forecast-hawaii/",
           "source": "CBS News"
+        },
+        {
+          "title": "Hurricane Kiko’s path shifts, sparing Hawaii from strong winds and heavy rain",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/09/06/us/hurricane-kiko-hawaii",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -42,28 +42,9 @@
       "title": "погода вінниця",
       "trafficCount": "1000+",
       "pubDate": "Sun, 7 Sep 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI5TCDguraSF5D-cYEk9tV2vtahZ35whlpv1YqoX0hk0aRr1YhW1tAZJao1jk",
-      "pictureSource": "РБК-Україна",
-      "relatedSearch": [
-        {
-          "title": "В Україну йдуть дощі та грози: прогноз погоди на тиждень",
-          "snippet": "",
-          "url": "https://www.rbc.ua/rus/news/ukrayinu-ydut-doshchi-ta-grozi-prognoz-pogodi-1757255015.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "8 вересня в Україні задощить: які області намочить",
-          "snippet": "",
-          "url": "https://www.unian.ua/pogoda/news/pogoda-na-sogodni-8-veresnya-v-ukrajini-proydut-doshchi-13121199.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "В Україні подекуди короткочасний дощ, удень до +29°",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4033889-v-ukraini-zavtra-podekudi-korotkocasnij-dos-vden-do-29.html",
-          "source": "Укрінформ"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -151,29 +132,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "сувальський коридор",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 7 Sep 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjzJdCp2fdBBv8HRSDU7ygOQQxQ9OriY5vWU7mShmCR55UxM5udsi0PUF1axE",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Путін готується вразити \"Ахіллесову п’яту\" НАТО — The Sun",
+          "snippet": "",
+          "url": "https://tsn.ua/svit/putin-hotuyetsia-vrazyty-akhillesovu-piatu-nato-the-sun-2907713.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Пенс: Якщо Росія переможе в Україні, то атакує країну НАТО",
+          "snippet": "",
+          "url": "https://www.unian.ua/world/pens-yakshcho-rosiya-peremozhe-v-ukrajini-to-atakuye-krajinu-nato-13122567.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Ексрозвідник попередив про плани РФ щодо Сувальського коридору: загроза для НАТО",
+          "snippet": "",
+          "url": "https://112.ua/putin-planue-ataku-na-suvalskij-koridor-comu-ce-ahilesova-pata-nato-87637",
+          "source": "112.ua"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "интернешнл 2025",
       "trafficCount": "100+",
       "pubDate": "Sun, 7 Sep 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyWarbhDD2fXuwYpqnNvwuBdJsFzEgGMMbsPEtkYchEr-QVPpyuQ3GzKLlsfk",
-      "pictureSource": "sport-express.ru",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZeza1UB-qpy3uqInCcw0b1aHxlsitR30yg_eheyeJwodcY71xo5fat_O2sZg",
+      "pictureSource": "Dota2.net",
       "relatedSearch": [
         {
-          "title": "PGL нарушили собственные правила проведения матчей",
+          "title": "Team Spirit, Team Liquid и Aurora Gaming вылетели из The International 2025",
           "snippet": "",
-          "url": "https://www.sport-express.net/cybersport/esports/news/pgl-narushili-ustanovlennye-pravila-organizacii-matchey-2357142/",
-          "source": "sport-express.ru"
+          "url": "https://dota2.net/news/132529-team-spirit-i-aurora-gaming-vyleteli-iz-the-international-2025",
+          "source": "Dota2.net"
         },
         {
-          "title": "The International 2025 получил предупреждение от Liquipedia из-за изменения правил",
+          "title": "Nix поддержал Spirit на TI14: «Понимаете, что вы — самые лучшие игроки в \"Доту\" на Земле?",
           "snippet": "",
-          "url": "https://stavkiprognozy.ru/novosti/kibersport/liquipedia_the_international_2025_bolshe_ne_sootvetstvuet_standartam_evg",
-          "source": "Stavkiprognozy.ru"
+          "url": "https://escorenews.com/ru/dota-2/news/71746-nix-podderjal-spirit-na-ti14-ponimaete-chto-vy-samye-luchshie-igroki-v-dotu-na-zemle",
+          "source": "Escorenews.com"
         },
         {
-          "title": "Spirit должна была играть с HEROIC, а Falcons с Yakult — Noxville",
+          "title": "Проигрыши Team Falcons двум китайским командам на The International 2025",
           "snippet": "",
-          "url": "https://dota2.ru/news/55702-spirit-dolzna-byla-igrat-s-heroic-a-falcons-s-yakult-noxville",
-          "source": "Dota2.ru"
+          "url": "https://esports.ru/news/atf-kitaj-nomer-odin-kitaj-vernulsya-luchshij-region/",
+          "source": "Esports.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -213,34 +222,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "симоньян",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 7 Sep 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl6ohNpUzJ1agg4nykMMYli7f1hGW5svv9E9vMzu9kqbaAhnYJwTh9ZM6av8o",
-      "pictureSource": "The Insider",
-      "relatedSearch": [
-        {
-          "title": "Симоньян заявила, что у нее нашли «страшную тяжелую болезнь»",
-          "snippet": "",
-          "url": "https://theins.ru/news/284720",
-          "source": "The Insider"
-        },
-        {
-          "title": "Маргарита Симоньян тяжело больна - пропагандистка заявила о заболевании и операции - 24 Канал",
-          "snippet": "",
-          "url": "https://24tv.ua/ru/margarita-simonjan-tjazhelo-bolna-propagandistka-zajavila-o-zabolevanii_n2909704",
-          "source": "24 Канал"
-        },
-        {
-          "title": "Еще одна трагедия в семье Симоньян: что известно о тяжелой болезни журналистки и ее муже, впавшем в кому",
-          "snippet": "",
-          "url": "https://ura.news/news/1052991996",
-          "source": "URA.RU"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
