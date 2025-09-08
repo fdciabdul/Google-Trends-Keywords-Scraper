@@ -1,13 +1,20 @@
 {
-  "lastUpdate": "2025-09-08 11:44:53",
+  "lastUpdate": "2025-09-08 11:51:50",
   "data": [
     {
       "title": "al jazeera",
       "trafficCount": "100+",
       "pubDate": "Mon, 8 Sep 2025 04:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQn-y7KpVEVZ6BxFWn1c7Lxixk9zO43XKiQMzZhHtjvlCYjxZfRb0keuUoMQw",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "The 189 Palestinian journalists killed in the war in Gaza endured hunger and grief",
+          "snippet": "",
+          "url": "https://apnews.com/article/gaza-war-palestinian-journalists-killed-b90811972b16155618e811d7d7b4e171",
+          "source": "AP News"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -88,14 +95,14 @@
       "title": "cnn",
       "trafficCount": "500+",
       "pubDate": "Mon, 8 Sep 2025 01:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYwSts3Xd268hUxxIV1sq_rpKeA82pLTvWUhq4bjC8Azg7K2hEyhYjc3l7CQE",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2vUaQ96iAsB5clqHyoYr-qKG4f-qcRC286CARXOabKQxiwVJIS7VQUFKjis",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Video: Tapper asks Florida surgeon general about lack of data behind school vaccine rollback",
+          "title": "Stephen Colbert Sounds the Alarm on ‘Death by Florida’",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/09/07/health/video/florida-schools-vaccine-requirements-surgeon-general-ladapo-digvid",
-          "source": "CNN"
+          "url": "https://www.nytimes.com/2025/09/05/arts/television/stephen-colbert-florida-vaccines.html",
+          "source": "The New York Times"
         },
         {
           "title": "Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases",
