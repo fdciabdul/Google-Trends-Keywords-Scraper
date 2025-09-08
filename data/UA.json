@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-09-08 04:57:30",
+  "lastUpdate": "2025-09-08 05:07:29",
   "data": [
     {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Sun, 7 Sep 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCFJB1J6vSalSzUHRkvNRkcPGrXDR7JQgvTgfIDzNOmXVsOnD1CdQfs_YxOXA",
-      "pictureSource": "The Washington Post",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr2HPknJ9K49DhpOfhDKHraieI6bBJe9EyjVmrDZmq2EMtzuKmw0AneHtgIok",
+      "pictureSource": "FOX Weather",
       "relatedSearch": [
         {
-          "title": "CWG Live updates: Cooler, drier and clearer tonight; nice week ahead!",
+          "title": "Hurricane Kiko barrels toward Hawaii prompting state of emergency ahead of massive waves, rip currents",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/weather/2025/09/07/dc-weather-live-updates-sunday-showers-commanders/",
-          "source": "The Washington Post"
+          "url": "https://www.foxweather.com/weather-news/hurricane-kiko-hawaii-state-of-emergency",
+          "source": "FOX Weather"
         },
         {
-          "title": "Comfortable and dry to kick off week",
+          "title": "Hurricane Kiko’s path shifts, sparing Hawaii from strong winds and heavy rain",
           "snippet": "",
-          "url": "https://www.abc27.com/weather/becoming-mostly-sunny-and-muggy-today-after-some-fog-burns-off/",
-          "source": "ABC27"
+          "url": "https://www.cnn.com/2025/09/06/us/hurricane-kiko-hawaii",
+          "source": "CNN"
         },
         {
-          "title": "FORECAST: Low humidity, cool temps to start the week",
+          "title": "Maps show Hurricane Kiko's path and forecast in Pacific as it moves west toward Hawaii",
           "snippet": "",
-          "url": "https://www.wsoctv.com/weather/forecast-low-humidity-cool-temps-start-week/62f11129-84ff-444c-9d74-eb72c4071fef/",
-          "source": "WSOC TV"
+          "url": "https://www.cbsnews.com/news/hurricane-kiko-path-forecast-hawaii/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -40,37 +40,56 @@
     },
     {
       "title": "погода вінниця",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 7 Sep 2025 21:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sinoptik",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 7 Sep 2025 20:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI5TCDguraSF5D-cYEk9tV2vtahZ35whlpv1YqoX0hk0aRr1YhW1tAZJao1jk",
       "pictureSource": "РБК-Україна",
       "relatedSearch": [
         {
-          "title": "В Украину идут дожди и грозы: прогноз погоды на неделю",
+          "title": "В Україну йдуть дощі та грози: прогноз погоди на тиждень",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/ukrayinu-ydut-doshchi-ta-grozi-prognoz-pogodi-1757255015.html",
+          "url": "https://www.rbc.ua/rus/news/ukrayinu-ydut-doshchi-ta-grozi-prognoz-pogodi-1757255015.html",
           "source": "РБК-Україна"
         },
         {
-          "title": "Тепло и без осадков ожидают в Украине в воскресенье",
+          "title": "8 вересня в Україні задощить: які області намочить",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/09/6/7529624/",
-          "source": "Українська правда"
+          "url": "https://www.unian.ua/pogoda/news/pogoda-na-sogodni-8-veresnya-v-ukrajini-proydut-doshchi-13121199.html",
+          "source": "УНІАН"
         },
         {
-          "title": "Жара спадет. Останется ли летнее тепло в начале недели в Украине и где пройдут кратковременные дожди",
+          "title": "В Україні подекуди короткочасний дощ, удень до +29°",
           "snippet": "",
-          "url": "https://nv.ua/ukraine/events/prognoz-pogody-na-sentyabr-i-karta-budet-li-zhara-i-gde-ozhidaetsya-dozhd-v-nachale-nedeli-v-ukraine-50542706.html",
-          "source": "NV.ua"
+          "url": "https://www.ukrinform.ua/rubric-regions/4033889-v-ukraini-zavtra-podekudi-korotkocasnij-dos-vden-do-29.html",
+          "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "прогноз погоды",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 7 Sep 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP208ad5EU7CW2y3nHy6H1m69C6V1fjsyXGp9RcRMoJhG2GkGCvIO2K0fJrGk",
+      "pictureSource": "РБК-Україна",
+      "relatedSearch": [
+        {
+          "title": "\"Молодое бабье лето\". Какой будет погода в сентябре и ждать ли заморозки, - блиц с синоптиком",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/molode-babine-lito-koyu-bude-pogoda-veresni-1757082917.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Когда в Украину придет осеннее похолодание: синоптик назвала дату",
+          "snippet": "",
+          "url": "https://www.obozrevatel.com/novosti-obschestvo/kogda-v-ukrainu-pridet-osennee-poholodanie-sinoptik-nazvala-datu.htm",
+          "source": "Obozrevatel"
+        },
+        {
+          "title": "Погода сменит настроение: антициклоны уходят, арктика наступает",
+          "snippet": "",
+          "url": "https://prm.ua/ru/pohoda-smenyt-nastroenye-antytsyklon-ukhodiat-arktyka-nastupaet/",
+          "source": "Прямий"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -107,26 +126,26 @@
       "title": "us open 2025",
       "trafficCount": "200+",
       "pubDate": "Sun, 7 Sep 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFhF_l4rPZTSK5ptKmx5arGLB5TyC_RpDG0Vz8XIgQAd8--v333NhlF_Q0xTM",
-      "pictureSource": "Champion.com.ua",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBvz3WeTl1H-A5mK_h0FVb96ajnZ-0FwVwJrA9zoQCJ7faiqsD2mvFiERLPjQ",
+      "pictureSource": "ATP Tour",
       "relatedSearch": [
         {
-          "title": "Рекорд Костюк, невдачі інших українок, захист титулу Сабалєнкою: огляд подій US Open 2025",
+          "title": "Alcaraz turns focus to Career Grand Slam: 'It's my first goal'",
           "snippet": "",
-          "url": "https://champion.com.ua/ukr/tennis/tenis-us-open-pidsumki-ostannogo-turniru-grand-slam-u-sezoni-1049119/",
-          "source": "Champion.com.ua"
+          "url": "https://www.atptour.com/en/news/alcaraz-us-open-2025-final-reaction",
+          "source": "ATP Tour"
         },
         {
-          "title": "Марта Костюк – Кароліна Мухова. Трисетова битва на USO. Відеоогляд матчу",
+          "title": "US Open final: How many sets Carlos Alcaraz, Jannik Sinner need to win today?",
           "snippet": "",
-          "url": "https://sport.ua/uk/news/793576-marta-kostyuk-karolina-muhova-trisetova-bitva-na-uso-videooglyad-matchu",
-          "source": "Sport.ua"
+          "url": "https://www.hindustantimes.com/sports/tennis/how-many-sets-to-win-the-us-open-final-carlos-alcaraz-vs-jannik-sinner-game-rules-explained-101757278922381.html",
+          "source": "Hindustan Times"
         },
         {
-          "title": "Прикра поразка за крок до чвертьфіналу US Open: огляд матчу Костюк – Мухова",
+          "title": "Jannik Sinner - Carlos Alcaraz Live - US Open men: Tennis Scores & Highlights - 06/09/2025",
           "snippet": "",
-          "url": "https://champion.com.ua/ukr/tennis/haylayti-ta-oglyad-matchu-us-open-mizh-martoyu-kostyuk-ta-karolinoyu-muhovoyu-1048614/",
-          "source": "Champion.com.ua"
+          "url": "https://www.tntsports.co.uk/tennis/us-open-men/2025/live-jannik-sinner-carlos-alcaraz_mtc1578303/live-commentary.shtml",
+          "source": "TNT Sports"
         }
       ],
       "link": "https://imtaqin.id/"
