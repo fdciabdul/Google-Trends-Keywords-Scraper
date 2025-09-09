@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-09-09 14:28:22",
+  "lastUpdate": "2025-09-09 14:38:13",
   "data": [
+    {
+      "title": "sky news",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 9 Sep 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf85eLbm1R5xBldUZL1TZP5hv9gpSU1TVE-ITsZ6kkTI6bwaMC09pBk6EVhmE",
+      "pictureSource": "Sky News",
+      "relatedSearch": [
+        {
+          "title": "Israel-Hamas latest: IDF launches strikes on group leaders in Doha - as Qatar condemns 'cowardly' attack",
+          "snippet": "",
+          "url": "https://news.sky.com/story/doha-strikes-hamas-latest-israel-idf-qatar-gaza-live-updates-13427415",
+          "source": "Sky News"
+        },
+        {
+          "title": "Flotilla boat carrying aid to Gaza struck by flaming object, video shows",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/sep/09/flotilla-carrying-aid-to-gaza-struck-by-flaming-object-video-shows-sidi-bou-said-port-tunisia",
+          "source": "The Guardian"
+        },
+        {
+          "title": "No drones detected after Gaza flotilla fire - authorities",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/middle-east/2025/0909/1532502-flotilla-gaza/",
+          "source": "RTE.ie"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "al jazeera",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 07:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqF9UEwXQJ2VxRV8DQyUXwPk5s580C-0l9Xg5LlVGvm1Ps1pITRvNjWMnREUs",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Syria accuses Israel of carrying out air strikes",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c79v1351ello",
+          "source": "BBC"
+        },
+        {
+          "title": "Syria condemns attacks by Israeli warplanes on cities of Homs and Latakia",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Israeli strike hits near Syrian city of Homs: state media",
+          "snippet": "",
+          "url": "https://www.thehindu.com/incoming/israeli-strike-hits-near-syrian-city-of-homs-state-media/article70028301.ece",
+          "source": "The Hindu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "qatar airways",
       "trafficCount": "100+",
       "pubDate": "Tue, 9 Sep 2025 07:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJuugvv_mpHCujp_ccOW8t8wtZ7XUWuOme7QSUQGhLyCsjozq64d1qHTZSxjc",
-      "pictureSource": "Bloomberg",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwv5ZPVfyEe9fpZM-2WJ8F2ZrHf3qI2Vm1f2KPT3ca024_DXErgk5lDeVNePE",
+      "pictureSource": "AeroRoutes",
       "relatedSearch": [
         {
-          "title": "Qatar Airways Plans Expansion of China Passenger, Cargo Flights",
+          "title": "Qatar Airways Adds Red Sea Service in 4Q25",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-09-04/qatar-airways-plans-expansion-of-china-passenger-cargo-flights",
-          "source": "Bloomberg"
-        },
-        {
-          "title": "China Southern Adds Beijing – Doha in 4Q25",
-          "snippet": "",
-          "url": "https://www.aeroroutes.com/eng/250908-cznw25doh",
+          "url": "https://www.aeroroutes.com/eng/250905-qrnw25rsi",
           "source": "AeroRoutes"
         },
         {
-          "title": "Qatar Airways and China Southern expand flights and codeshare partnership",
+          "title": "Red Sea International Airport unlocks global connection with three weekly Qatar Airways’ flights from Doha",
           "snippet": "",
-          "url": "https://www.businesstraveller.com/business-travel/2025/09/09/qatar-airways-and-china-southern-expand-flights-and-codeshare-partnership/",
-          "source": "Business Traveller"
+          "url": "https://www.routesonline.com/airports/20374/the-red-sea-international-airport/news/299665075/red-sea-international-airport-unlocks-global-connection-with-three-weekly-qatar-airways-flights-from-doha/",
+          "source": "Routesonline"
+        },
+        {
+          "title": "Qatar Airways Expands its Network with New Red Sea Route to Saudi Arabia, Offering Unmatched Access to Stunning Coastal Destinations",
+          "snippet": "",
+          "url": "https://www.travelandtourworld.com/news/article/qatar-airways-expands-its-network-with-new-red-sea-route-to-saudi-arabia-offering-unmatched-access-to-stunning-coastal-destinations/",
+          "source": "Travel And Tour World"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +99,16 @@
           "source": "BBC"
         },
         {
-          "title": "Several blasts heard in Qatar’s Doha, Israeli media says Hamas leadership targeted",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/world/middle-east/2025/09/09/several-blasts-heard-in-qatars-doha-israeli-media-says-hamas-leadership-targeted/",
-          "source": "The Irish Times"
-        },
-        {
           "title": "Israel carries out attack against Hamas leadership in Qatar, Israeli source says",
           "snippet": "",
           "url": "https://www.cnn.com/2025/09/09/middleeast/qatar-hamas-israel-strike-intl",
           "source": "CNN"
+        },
+        {
+          "title": "LIVE: Israel targets Hamas leadership in attack on Qatar’s Doha",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +145,26 @@
       "title": "energia",
       "trafficCount": "500+",
       "pubDate": "Tue, 9 Sep 2025 05:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7vS-exugVQPFAg_zJw8UTMb-ETLvk3maTK7cgScAyJr0j-Yu0fYhmx58rYMo",
-      "pictureSource": "Irish Examiner",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YIRzKhqzyGvRAb_LeqeqUcn5hmvDq2mp11JWGktS4sOA6wHcyKsUt3xtLuI",
+      "pictureSource": "BreakingNews.ie",
       "relatedSearch": [
+        {
+          "title": "Energia to bring in 'hefty increase' to electricity prices from next month",
+          "snippet": "",
+          "url": "https://www.breakingnews.ie/ireland/energia-to-bring-in-hefty-increase-to-electricity-prices-from-next-month-1804971.html",
+          "source": "BreakingNews.ie"
+        },
+        {
+          "title": "Energia customers face price increases up to €200 a year",
+          "snippet": "",
+          "url": "https://www.thejournal.ie/energia-price-increase-2-6811808-Sep2025/",
+          "source": "The Journal"
+        },
         {
           "title": "Energia confirms double-digit October electricity price rise",
           "snippet": "",
           "url": "https://www.irishexaminer.com/business/companies/arid-41702210.html",
           "source": "Irish Examiner"
-        },
-        {
-          "title": "Third electricity provider raises prices this year",
-          "snippet": "",
-          "url": "https://www.businesspost.ie/article/third-electricity-provider-raises-prices-this-year/",
-          "source": "Business Post"
-        },
-        {
-          "title": "Thousands of Irish homeowners set for major €204 blow as energy company announces price hike",
-          "snippet": "",
-          "url": "https://www.thesun.ie/money/15812307/energia-price-hike-energy-homeowners-euro/",
-          "source": "The Irish Sun"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +173,20 @@
       "title": "jim gavin",
       "trafficCount": "1000+",
       "pubDate": "Tue, 9 Sep 2025 05:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkQrmlqx3tGv0kbXn9uE0EpiiJdT3MGZK4QkmIdKtt0jkDY6gkXnfU_ENXLjA",
-      "pictureSource": "The Irish Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw4ByOe-WedsqrYALfmEbyyiIPgTjt2M7tnY1X51dPPCJftJ7ebErwT86GljM",
+      "pictureSource": "RTE.ie",
       "relatedSearch": [
-        {
-          "title": "Fianna Fáil chooses former Dublin football manager Jim Gavin as presidential candidate",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/politics/2025/09/09/fianna-fail-chooses-former-dublin-football-manager-jim-gavin-as-presidential-candidate/",
-          "source": "The Irish Times"
-        },
         {
           "title": "'Great honour' to represent Fianna Fáil in Presidential Election, Jim Gavin says",
           "snippet": "",
           "url": "https://www.rte.ie/news/politics/2025/0909/1532458-fianna-fail-presidential/",
           "source": "RTE.ie"
+        },
+        {
+          "title": "Fianna Fáil’s Jim Gavin ‘has all the credentials to be fine president’ - Billy Kelleher",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/politics/2025/09/09/fianna-fails-jim-gavin-has-all-the-credentials-to-be-fine-president-billy-kelleher/",
+          "source": "The Irish Times"
         },
         {
           "title": "Senan Molony: Why Billy Kelleher’s big result signals end is in sight for Micheál Martin as Fianna Fáil leader",
@@ -173,7 +229,7 @@
       "title": "apple iphone 17 pro max",
       "trafficCount": "2000+",
       "pubDate": "Tue, 9 Sep 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2U9n0rLbDP8BfbX5tgV1KZvMF6osJqkH5Kj6ek7vg4rV8LOEPFhkGpfWvlN0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrS9prmYLGH6dmkNTlNraZ_z61n6NsT_gJsBMLlCQFy8siUhyVAmRLWMlLuCE",
       "pictureSource": "The Guardian",
       "relatedSearch": [
         {
@@ -183,16 +239,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "When does the iPhone 17 come out? What we know about release date, preorders",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/tech/2025/09/06/iphone-17-release-date-preorder-apple/85991180007/",
-          "source": "USA Today"
-        },
-        {
           "title": "Apple’s biggest announcement of the year is happening today. Here’s what to expect",
           "snippet": "",
           "url": "https://www.cnn.com/2025/09/09/tech/new-apple-devices-announcement-event",
           "source": "CNN"
+        },
+        {
+          "title": "An iPhone Air, new watches, and heart rate-tracking AirPods: What to expect at Apple's Sept. 9 event",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/an-iphone-air-new-watches-and-heart-rate-tracking-airpods-what-to-expect-at-apples-sept-9-event-182148742.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.meathchronicle.ie/2025/09/04/the-weeknd-announces-concert-at-croke-park-2/",
           "source": "Meath Chronicle"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "d4vd",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Sep 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ-0IOYf4T1AiM3IGo5PMvayaQ0jvgDMu9ia-01mEZW-pXPnL8_YnEoZPydA",
-      "pictureSource": "ABC7 Los Angeles",
-      "relatedSearch": [
-        {
-          "title": "Body found inside impounded Tesla that's registered to singer D4vd",
-          "snippet": "",
-          "url": "https://abc7.com/post/human-remains-found-hollywood-impound-lot-foul-odor-reported-lapd-says/17774490/",
-          "source": "ABC7 Los Angeles"
-        },
-        {
-          "title": "Police discover dead body inside car at Hollywood tow yard",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/losangeles/video/police-discover-dead-body-inside-car-at-hollywood-tow-yard/",
-          "source": "CBS News"
-        },
-        {
-          "title": "Decomposing body found in Tesla owned by singer D4vd, car was abandoned in Los Angeles",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/us/decomposing-body-found-in-tesla-owned-by-singer-d4vd-car-was-abandoned-in-los-angeles/articleshow/123788641.cms",
-          "source": "Times of India"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "russell crowe",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Sep 2025 02:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyOFKI1QY96Hw8Rx5Tvpx4vvHgDVjkXfzqit9ars9Eze9nO-ojQL5weuYip6o",
-      "pictureSource": "Soap Central",
-      "relatedSearch": [
-        {
-          "title": "Who is Britney Theriot? All about Russel Crowe’s fiance amid rare red carpet appearance",
-          "snippet": "",
-          "url": "https://www.soapcentral.com/entertainment/news-who-britney-theriot-all-russel-crowe-s-fiance-amid-rare-red-carpet-appearance",
-          "source": "Soap Central"
-        },
-        {
-          "title": "Russell Crowe Shows Off Slim Figure as He Makes Rare Red Carpet Appearance With Girlfriend Britney Theriot",
-          "snippet": "",
-          "url": "https://www.aol.com/entertainment/russell-crowe-shows-off-slim-111148637.html",
-          "source": "AOL.com"
-        },
-        {
-          "title": "Russell Crowe and Girlfriend Britney Theriot Make Rare Red Carpet Appearance at Toronto Premiere",
-          "snippet": "",
-          "url": "https://people.com/russell-crowe-britney-theriot-rare-red-carpet-toronto-film-festival-11805328",
-          "source": "People.com"
         }
       ],
       "link": "https://imtaqin.id/"
