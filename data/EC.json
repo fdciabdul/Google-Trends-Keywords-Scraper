@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-10 15:17:47",
+  "lastUpdate": "2025-09-10 15:29:04",
   "data": [
+    {
+      "title": "stock market news",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 10 Sep 2025 08:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGvYdz20MQUpbBtzvoOd3ZuNdFas9J6u-jCP6NAaeL8nAZBQUntEfDOAo5kyM",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "Wall Street rises to a record with hopes for cuts to interest rates",
+          "snippet": "",
+          "url": "https://apnews.com/article/stock-markets-dollar-bonds-tech-6d516f33d189c8f6f82f3932eabcbc94",
+          "source": "AP News"
+        },
+        {
+          "title": "Global stock index edges down, dollar gains after report dims view of US jobs market",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-5-2025-09-09/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nasdaq 100 Forecast: QQQ muted with payroll revisions in focus",
+          "snippet": "",
+          "url": "https://www.forex.com/en-au/news-and-analysis/nasdaq-100-forecast-qqq-muted-with-payroll-revisions-in-focus/",
+          "source": "FOREX.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "sga",
       "trafficCount": "500+",
@@ -21,38 +49,10 @@
           "source": "Toronto Star"
         },
         {
-          "title": "Think Pink: SGA’s SHAI 001 Goes Full Bubblegum",
+          "title": "Shai Gilgeous-Alexander’s shoes sell out in under 30 minutes",
           "snippet": "",
-          "url": "https://sneakerfreaker.com/performance/releases/converse-shai-001-pink-price-buy-release-date",
-          "source": "Sneaker Freaker Magazine"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "covid",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 10 Sep 2025 08:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1Jdi_6VLQ9-KmE_zlnq_w8uQjDyW87rA02r6VMLugmHiZYL78mJnh-4gPUNY",
-      "pictureSource": "ScienceDaily",
-      "relatedSearch": [
-        {
-          "title": "Common allergy spray slashes COVID-19 risk in surprising trial",
-          "snippet": "",
-          "url": "https://www.sciencedaily.com/releases/2025/09/250907024535.htm",
-          "source": "ScienceDaily"
-        },
-        {
-          "title": "Covid infection may be prevented with a common nasal antihistamine spray, trial shows",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/health/health-news/covid-infection-may-prevented-common-nasal-antihistamine-spray-trial-s-rcna228500",
-          "source": "NBC News"
-        },
-        {
-          "title": "Health Rounds: Nasal spray for allergies may help prevent COVID, common cold infections",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/health-rounds-nasal-spray-allergies-may-help-prevent-covid-common-cold-2025-09-10/",
-          "source": "Reuters"
+          "url": "https://www.thespec.com/news/hamilton-region/shai-gilgeous-alexander-shoe-sold/article_35d2cbda-86ac-55d7-8950-86f2d3ab7ac6.html",
+          "source": "The Spec"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -83,26 +83,26 @@
       "title": "ai news",
       "trafficCount": "100+",
       "pubDate": "Wed, 10 Sep 2025 07:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-1XKz4Ti2ZI_lHRRPMYz3xvso6ItGpa3WSF1KZPuDjj9GknnLc-4WsKNZrY",
-      "pictureSource": "TechCrunch",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAdDsaLmLFlJJPrNWQjajn2RQIK-O4CRNgqSTv8pGUHztIKrTDC0_vsC2GFtQ",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate",
+          "title": "Oracle stock soars after CEO says AI-fueled cloud revenue set to jump to $144 billion",
           "snippet": "",
-          "url": "https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/",
-          "source": "TechCrunch"
+          "url": "https://finance.yahoo.com/news/oracle-stock-soars-after-ceo-says-ai-fueled-cloud-revenue-set-to-jump-to-144-billion-154530523.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Mercor AI Startup Eyes $10B Valuation Amid $450M Run Rate and Lawsuit",
+          "title": "'We're all kind of in shock.' Oracle's revenue projections leave analysts slack-jawed",
           "snippet": "",
-          "url": "https://www.webpronews.com/mercor-ai-startup-eyes-10b-valuation-amid-450m-run-rate-and-lawsuit/",
-          "source": "WebProNews"
+          "url": "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
+          "source": "CNBC"
         },
         {
-          "title": "Peter Thiel-Backed Fellows' Startup Mercor Targets $10 Billion Valuation As OpenAI, Meta, Tesla Turn To Its AI Training Experts: Report - Alphabet (NASDAQ:GOOG), Amazon.com (NASDAQ:AMZN)",
+          "title": "Oracle soars on AI cloud growth as customers race to secure computing capacity",
           "snippet": "",
-          "url": "https://www.benzinga.com/markets/tech/25/09/47589596/peter-thiel-backed-fellows-startup-mercor-targets-10-billion-valuation-as-openai-meta-tesla-turn-to-its-ai-training-experts-report",
-          "source": "Benzinga"
+          "url": "https://www.reuters.com/business/oracle-soars-ai-cloud-growth-customers-race-secure-computing-capacity-2025-09-10/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,10 +127,10 @@
           "source": "MTG Arena Zone"
         },
         {
-          "title": "The 18 Best Green Cards in Marvel’s Spider-Man Ranked",
+          "title": "Magic: The Gathering x Marvel’s Spider-Man was uniquely challenging among all the Universes Beyond sets to design, because there were too many flying characters",
           "snippet": "",
-          "url": "https://draftsim.com/mtg-spider-man-green-cards/",
-          "source": "Draftsim"
+          "url": "https://www.thepopverse.com/gaming-magic-the-gathering-marvels-spider-man-flying-characters-cards",
+          "source": "Popverse"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,6 +192,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "covid 2025",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 10 Sep 2025 07:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5tWB1O4um1XQBHejvUN0EOixm8h3a5iXXTbTfU2Qi-CQvIWwcaAfn7PP9thc",
+      "pictureSource": "The Washington Post",
+      "relatedSearch": [
+        {
+          "title": "How to get a coronavirus vaccine and who’s eligible amid limited access",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/health/2025/09/09/covid-vaccine-without-prescription-cdc/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "\"You can no longer go to the federal government.\" Former Surgeon General Adams on COVID vaccine guidance",
+          "snippet": "",
+          "url": "https://www.wfyi.org/news/articles/you-can-no-longer-go-to-the-federal-government-former-surgeon-general-jerome-adams-on-covid-vaccine-guidance",
+          "source": "WFYI"
+        },
+        {
+          "title": "Federal COVID vaccine access shifts reverberate statewide, Va. advocates, health care workers say",
+          "snippet": "",
+          "url": "https://virginiamercury.com/2025/09/10/federal-covid-vaccine-access-shifts-reverberate-statewide-va-advocates-health-care-workers-say/",
+          "source": "Virginia Mercury"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "latest taylor swift",
       "trafficCount": "100+",
       "pubDate": "Wed, 10 Sep 2025 07:40:00 -0700",
@@ -205,44 +233,16 @@
           "source": "Realtor.com"
         },
         {
-          "title": "Why Nikki Glaser believes Taylor Swift ‘raised the bar’ for young women",
+          "title": "Nikki Glaser claims Taylor Swift and Travis Kelce's engagement is set to 'ruin' relationships for everyone",
           "snippet": "",
-          "url": "https://www.independent.co.uk/bulletin/culture/nikki-glaser-taylor-swift-engagement-b2822711.html",
-          "source": "The Independent"
+          "url": "https://www.dailymail.co.uk/tvshowbiz/article-15082273/Nikki-Glaser-claims-Taylor-Swift-Travis-Kelces-engagement-set-ruin-relationships-everyone.html",
+          "source": "Daily Mail"
         },
         {
           "title": "Taylor Swift Superfan Nikki Glaser Predicts \"Big\" Travis Kelce Wedding at 2025 MTV VMAs",
           "snippet": "",
           "url": "https://www.eonline.com/news/1422167/mtv-vmas-2025-nikki-glaser-on-taylor-swift-travis-kelce-wedding",
           "source": "E! News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "covid 2025",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 10 Sep 2025 07:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQlSopbV5_tEBYOQIV34aJl9ZfOP1621iuCGr4VJ_IGrdyl2GO3_BpWez_4bg",
-      "pictureSource": "Vaccine Advisor",
-      "relatedSearch": [
-        {
-          "title": "FDA Approves Comirnaty 2025-2026 COVID-19 Vaccine Formulation",
-          "snippet": "",
-          "url": "https://www.vaccineadvisor.com/news/fda-approves-comirnaty-2025-2026-covid-19-vaccine-formulation/",
-          "source": "Vaccine Advisor"
-        },
-        {
-          "title": "New COVID-19 vaccine approved for seniors, available in Kansas City metro",
-          "snippet": "",
-          "url": "https://www.kmbc.com/article/covid-19-vaccine-approved-older-adults-kansas-city-availability/66016417",
-          "source": "KMBC"
-        },
-        {
-          "title": "How to get a coronavirus vaccine and who’s eligible amid limited access",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/health/2025/09/09/covid-vaccine-without-prescription-cdc/",
-          "source": "The Washington Post"
         }
       ],
       "link": "https://imtaqin.id/"
