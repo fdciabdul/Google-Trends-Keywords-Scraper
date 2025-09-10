@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-09-10 20:06:40",
+  "lastUpdate": "2025-09-10 20:17:51",
   "data": [
     {
       "title": "new york times",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 10 Sep 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLuVGlCF0z_VGZpK--9ofQKGMhAgWDSqtYpkATYMovuyRRlMQbremPee5OLCI",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWcd4iIipyEWYnMKmakebE5PGb837pbJO30UwDJ5XiLQmVG6NH01ztl9FE-BY",
+      "pictureSource": "The New York Times Company",
       "relatedSearch": [
+        {
+          "title": "Sam Sifton Is Our New Host of The Morning",
+          "snippet": "",
+          "url": "https://www.nytco.com/press/sam-sifton-is-our-new-host-of-the-morning/",
+          "source": "The New York Times Company"
+        },
         {
           "title": "America’s Best Restaurants 2025",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.bostonglobe.com/2025/09/10/lifestyle/nyt-best-restaurant-list/",
           "source": "The Boston Globe"
-        },
-        {
-          "title": "Sanders BBQ Supply Co. makes list of New York Times top 50 American restaurants",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/chicago/video/sanders-bbq-supply-co-makes-list-of-new-york-times-top-50-american-restaurants/",
-          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +33,26 @@
       "title": "charlie kirk",
       "trafficCount": "50000+",
       "pubDate": "Wed, 10 Sep 2025 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRvkEstV7CVT6YOho6SV69d4Ah8aLW3aAeFu3_tqpLZ1dAcaRIKCVORVKb_Po",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsA--a6b8kNRkVCTm1NeBnht9TQlOXoYY6IRrr2CVh_Nt3y72viSFLMs_xrm4",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Live updates: Charlie Kirk shot at Utah Valley University event",
+          "snippet": "",
+          "url": "https://www.cnn.com/us/live-news/charlie-kirk-shot-utah-09-10-25",
+          "source": "CNN"
+        },
+        {
+          "title": "US lawmakers unite to condemn Charlie Kirk shooting: ‘reject political violence’",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/sep/10/charlie-kirk-shooting-reaction",
+          "source": "The Guardian"
+        },
         {
           "title": "Charlie Kirk: Trump ally shot at campus event in Utah",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/c206zm81z4gt",
           "source": "BBC"
-        },
-        {
-          "title": "Conservative commentator Charlie Kirk shot at Utah Valley University event",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/us/conservative-commentator-charlie-kirk-shot-utah-valley-university-event-2025-09-10/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Charlie Kirk shot at Utah event, suspect not in custody",
-          "snippet": "",
-          "url": "https://www.deseret.com/utah/2025/09/10/charlie-kirk-shot/",
-          "source": "Deseret News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "oracle stock",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 10 Sep 2025 07:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcCY0kR3bSh9oQsuDSALwHoOi3EmN85jRHKTXvUDAG1kFVAQA1S4UTBhWXb0Y",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Oracle stock booms 35%, on pace for best day since 1992",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Oracle stock soars after CEO says AI-fueled cloud revenue set to jump to $144 billion",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/oracle-stock-soars-after-ceo-says-ai-fueled-cloud-revenue-set-to-jump-to-144-billion-154530523.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Oracle Shares Skyrocket as Software Giant Scores Massive AI Deals",
+          "snippet": "",
+          "url": "https://www.wsj.com/business/earnings/oracle-stock-orcl-ai-deals-047216cd",
+          "source": "The Wall Street Journal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "oslofjordtunnelen",
       "trafficCount": "200+",
       "pubDate": "Wed, 10 Sep 2025 07:00:00 -0700",
@@ -251,15 +279,6 @@
           "source": "Budstikka"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nøtte",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 10 Sep 2025 04:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
