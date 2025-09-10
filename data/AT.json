@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-09-10 05:10:07",
+  "lastUpdate": "2025-09-10 05:21:45",
   "data": [
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Tue, 9 Sep 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt93xtTB_i-R7JVYAeLGBzA9MTjdn9g_fiA8wk1KS5ctm5S0aP8HHpTrXI9cc",
-      "pictureSource": "KPVI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8BFKPZgwl_U6CV4ry5d9l1SSMK2u90WNy1h9obki5MAQNcgCqFieIXw2Y4A",
+      "pictureSource": "The Fermanagh Herald",
       "relatedSearch": [
-        {
-          "title": "Andiy Wagner - Pocatello cold air funnel",
-          "snippet": "",
-          "url": "https://www.kpvi.com/weather/weather_pix/andiy-wagner---pocatello-cold-air-funnel/image_fbfa6a12-dbf9-4807-9c0a-31971890d272.html",
-          "source": "KPVI"
-        },
         {
           "title": "Today’s weather forecast for Co Fermanagh",
           "snippet": "",
@@ -24,6 +18,12 @@
           "title": "Today’s weather forecast for Co Fermanagh",
           "snippet": "",
           "url": "https://fermanaghherald.com/2025/09/todays-weather-forecast-for-co-fermanagh-244/",
+          "source": "The Fermanagh Herald"
+        },
+        {
+          "title": "Today’s weather forecast for Co Fermanagh",
+          "snippet": "",
+          "url": "https://fermanaghherald.com/2025/09/todays-weather-forecast-for-co-fermanagh-243/",
           "source": "The Fermanagh Herald"
         }
       ],
@@ -43,10 +43,10 @@
           "source": "Wettbasis"
         },
         {
-          "title": "📺 Showdown in der WM-Quali: Brasilien gegen Bolivien LIVE bei OneFootball",
+          "title": "Sieg gegen Brasilien: Bolivien erreicht WM-Play-offs",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/showdown-in-der-wm-quali-brasilien-gegen-bolivien-live-bei-onefootball-41639225",
-          "source": "OneFootball"
+          "url": "https://www.sport1.de/news/fussball/wm/2025/09/sieg-gegen-brasilien-bolivien-erreicht-wm-play-offs",
+          "source": "SPORT1"
         },
         {
           "title": "Brasiliens Team steht in Bolivien vor einem Albtraum",
@@ -71,16 +71,44 @@
           "source": "DiePresse.com"
         },
         {
-          "title": "Ukraine-Krieg: ++ Polen schließt Grenze zu Belarus wegen Militärmanöver mit Russland ++ Liveticker",
-          "snippet": "",
-          "url": "https://www.welt.de/politik/ausland/article68b91d9746b61b4dcb0b8b8f/Ukraine-Krieg-Polen-schliesst-Grenze-zu-Belarus-wegen-Militaermanoever-mit-Russland-Liveticker.html",
-          "source": "WELT"
-        },
-        {
           "title": "Militärübung Sapad: Warum die Nato nach Belarus blickt",
           "snippet": "",
           "url": "https://www.zeit.de/politik/ausland/2025-09/russland-belarus-sapad-militaeruebung",
           "source": "DIE ZEIT"
+        },
+        {
+          "title": "Ukraine-Krieg: ++ Polen schließt Grenze zu Belarus wegen Militärmanöver mit Russland ++ Liveticker",
+          "snippet": "",
+          "url": "https://www.welt.de/politik/ausland/article68b91d9746b61b4dcb0b8b8f/Ukraine-Krieg-Polen-schliesst-Grenze-zu-Belarus-wegen-Militaermanoever-mit-Russland-Liveticker.html",
+          "source": "WELT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "onet",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Sep 2025 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTY6CuQ2Jdxcp2lM6grf2jM2zWjM5CrG7HbhnHUBylxHnjo875qNFg-jOHhBg",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Bezprecedensowa akcja rosyjskich dronów nad Polską. Nocna reakcja wojska, Tusk zwołuje pilne posiedzenie rządu [RELACJA NA ŻYWO]",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/kraj/bezprecedensowa-akcja-rosyjskich-dronow-nad-polska-nocna-reakcja-wojska-tusk-zwoluje/xx4d32j",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Polska zestrzeliła rosyjskie drony. Światowe media reagują",
+          "snippet": "",
+          "url": "https://www.money.pl/gospodarka/polska-zestrzelila-rosyjskie-drony-swiatowe-media-reaguja-7198631052725152a.html",
+          "source": "Money.pl"
+        },
+        {
+          "title": "Senatorowie USA reagują na nalot na Polskę",
+          "snippet": "",
+          "url": "https://wyborcza.pl/7,75399,32239635,senatorowie-usa-reaguja-na-nalot-na-polske.html",
+          "source": "Wyborcza.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +173,15 @@
       "title": "polen",
       "trafficCount": "1000+",
       "pubDate": "Tue, 9 Sep 2025 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqeF1Ds6lqQJESuoZQOM__LwG3rW_pRiSiYWgjuOPCLUMbAHVKFl92xpa3s5E",
-      "pictureSource": "Der Standard",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfS8iYXDNNi2N29r36uVu4XpTvP8gw66eY5kh9mZM6Xj2gtcsZ7JU9sxxnV6I",
+      "pictureSource": "ORF",
       "relatedSearch": [
+        {
+          "title": "Luftraumverletzung: Polen schießt Drohnen ab",
+          "snippet": "",
+          "url": "https://orf.at/stories/3405011/",
+          "source": "ORF"
+        },
         {
           "title": "Luftraumverletzung als \"Akt der Aggression\": Polen schießt mehrere Drohnen ab - Livebericht - Ukraine",
           "snippet": "",
@@ -159,12 +193,6 @@
           "snippet": "",
           "url": "https://www.zeit.de/politik/ausland/2025-09/polen-nato-ukraine-drohnen-russland-warnung-luftabwehr-alarmbereitschaft",
           "source": "DIE ZEIT"
-        },
-        {
-          "title": "Putins Krieg in der Ukraine: Verletzung des Luftraums – Polen schießt mehrere Drohnen ab",
-          "snippet": "",
-          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-polen-schiesst-drohnen-in-eigenem-luftraum-ab-a-aaaf1462-d9fb-4af8-b38a-970720d272cc",
-          "source": "Spiegel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +211,16 @@
           "source": "BBC"
         },
         {
-          "title": "Erling Haaland puts Mohamed Salah, Alexander Isak on notice with WC qualifying eruption",
+          "title": "Cristiano Ronaldo makes World Cup history! CR7 equals record for most goals in qualifiers after Portugal spared from horror defeat in Hungary",
           "snippet": "",
-          "url": "https://uk.sports.yahoo.com/news/erling-haaland-puts-mohamed-salah-001629758.html",
-          "source": "Yahoo Eurosport UK"
+          "url": "https://www.goal.com/en-in/lists/cristiano-ronaldo-world-cup-history-equals-record-most-goals-qualifiers-portugal-hungary/blt6a2ed75eed49666f",
+          "source": "Goal.com"
         },
         {
-          "title": "Manchester City’s most lethal weapon scores five for Norway and looks in ominous form ahead of the derby",
+          "title": "Top scorer: Watch Erling Haaland's nine goals | Video | European Qualifiers",
           "snippet": "",
-          "url": "https://beritasriwijaya.co.id/en/manchester-citys-most-lethal-weapon-scores-five-for-norway-and-looks-in-ominous-form-ahead-of-the-derby-ca-sports-yahoo-com/",
-          "source": "beritasriwijaya.co.id"
+          "url": "https://www.uefa.com/european-qualifiers/video/029d-1eaf54b26fb5-a00d9d4b6297-1000--top-scorer-watch-erling-haaland-s-nine-goals/",
+          "source": "UEFA.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,57 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "mallorca unwetter",
-      "trafficCount": "200+",
+      "title": "norwegen fussball",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 9 Sep 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6oObh2rQ8Ahy7Rh9DSU_Keq3DHkWj6yeh6PkKl_Dnx8UrzL9Fj-gtsT7W6ks",
-      "pictureSource": "Tips.at",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebs9jhq9ljW4Jd5S8kp6xu547jWuh--1490WuyoeC0ItZSE7VDvexotxpPM0",
+      "pictureSource": "sport.ORF.at",
       "relatedSearch": [
         {
-          "title": "Unwetterwarnung für Mallorca: Das müssen Urlauber wissen",
+          "title": "WM-Qualifikation: Haaland glänzt bei Norwegen-Schützenfest",
           "snippet": "",
-          "url": "https://www.tips.at/nachrichten/oesterreich/oesterreich-welt/696949-unwetterwarnung-fuer-mallorca-das-muessen-urlauber-wissen",
-          "source": "Tips.at"
+          "url": "https://sport.orf.at/stories/3145424/",
+          "source": "sport.ORF.at"
         },
         {
-          "title": "Boote kippen um, Strom fällt aus, Flug-Chaos: Heftiges Unwetter verwüstet Mallorca",
+          "title": "Fünf Haaland-Tore bei Norwegens 11:1-Erfolg, England putzt Serbien",
           "snippet": "",
-          "url": "https://www.t-online.de/nachrichten/panorama/mallorca/id_100906472/mallorca-heftiges-unwetter-verwuestet-teile-der-insel.html",
-          "source": "T-Online"
+          "url": "https://www.derstandard.at/story/3000000287067/fu223ball-f252nf-haaland-tore-f252r-norwegen-england-weiter-makellos",
+          "source": "Der Standard"
         },
         {
-          "title": "Droht Deutschland im Herbst eine Sintflut? Wie das aufgeheizte Mittelmeer unser Wetter massiv beeinflusst",
+          "title": "WM-Quali: Tuchel antwortet Kritikern! Fünferpack von Haaland",
           "snippet": "",
-          "url": "https://www.ovb-online.de/weltspiegel/droht-deutschland-schon-im-herbst-eine-neue-sintflut-wie-das-aufgeheizte-mittelmeer-unsere-regengefahr-massiv-verstaerkt-zr-93926158.html",
-          "source": "OVB online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "san marino",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Sep 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqgpE1lgr6jFZoNYNVyCVW8BPKQ37yqzZdKZJtEEnW6IF70Ivd81moS-KxcG0",
-      "pictureSource": "GiornaleSM",
-      "relatedSearch": [
-        {
-          "title": "San Marino. Nazionale: l’amichevole premia Malta, Nanni sale a quota 4 gol in Biancazzurro",
-          "snippet": "",
-          "url": "https://giornalesm.com/san-marino-nazionale-lamichevole-premia-malta-nanni-sale-a-quota-4-gol-in-biancazzurro/",
-          "source": "GiornaleSM"
-        },
-        {
-          "title": "In diretta su RTVSport: Malta - San Marino (0-2)",
-          "snippet": "",
-          "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/in-diretta-su-rtvsport-malta-san-marino-0-2-a280072",
-          "source": "San Marino Rtv"
-        },
-        {
-          "title": "Malta - San Marino è tutta nel primo tempo: termina 3-1, a segno Nanni",
-          "snippet": "",
-          "url": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/malta-san-marino-e-tutta-nel-primo-tempo-termina-3-1-a-segno-nanni-a280072",
-          "source": "San Marino Rtv"
+          "url": "https://www.bild.de/sport/fussball/wm-quali-tuchel-antwortet-kritikern-fuenferpack-von-haaland-68c073df15695f601015587b",
+          "source": "BILD"
         }
       ],
       "link": "https://imtaqin.id/"
