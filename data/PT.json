@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-10 09:39:34",
+  "lastUpdate": "2025-09-10 09:46:20",
   "data": [
     {
       "title": "galisteu",
@@ -155,16 +155,16 @@
           "source": "The Washington Post"
         },
         {
-          "title": "More clouds and spotty drizzle return midweek as moisture creeps in tonight from the east.",
-          "snippet": "",
-          "url": "https://www.fox43.com/video/weather/forecast/more-clouds-and-spotty-drizzle-return-midweek-as-moisture-creeps-in-tonight-from-the-east/521-6bc00e2b-a17d-4e3f-93e5-548cc5de5c6f",
-          "source": "FOX43"
-        },
-        {
           "title": "Mostly cloudy and cooler Wednesday with a chance for sprinkles",
           "snippet": "",
           "url": "https://www.wbaltv.com/article/mostly-cloudy-cooler-wednesday-weather-sprinkles/66034468",
           "source": "WBAL-TV"
+        },
+        {
+          "title": "Clouds and Showers For Wednesday",
+          "snippet": "",
+          "url": "https://www.abc6.com/clouds-and-showers-for-wednesday/",
+          "source": "WLNE-TV (ABC6)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "russia",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Sep 2025 18:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQZkFAmjXiJUHCiZgDfxwYTFD-y2C8QIzMBwJMlu8TjjqoQjAIeAMy5zpwxsU",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Poland says up to four of 19 Russian drones shot down after entering airspace",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c2enwk1l9e1t",
-          "source": "BBC"
-        },
-        {
-          "title": "Poland downs Russian drones, first time NATO member has fired in Ukraine war",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/aerospace-defense/poland-downs-russian-drones-first-time-nato-member-has-fired-ukraine-war-2025-09-10/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Poland’s PM warns prospect of military conflict ‘closer than at any time since second world war’ amid Russian drone incursion – follow live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/sep/10/poland-pm-condemns-repeated-violation-of-airspace-amid-russian-attack-on-ukraine-follow-live",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "colombia",
       "trafficCount": "200+",
       "pubDate": "Tue, 9 Sep 2025 18:50:00 -0700",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://colombiaone.com/2025/09/07/colombia-enters-the-dark-zone-as-presidential-elections-approach/",
           "source": "ColombiaOne.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "poland",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 9 Sep 2025 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNtRoou7SSY-E4hB3Sq7s2pHs8evPKLb0pIlrWppk6xsjrRwwyLTP9bzLxlQ",
+      "pictureSource": "Onet",
+      "relatedSearch": [
+        {
+          "title": "\"Spora część dronów nadleciała bezpośrednio z Białorusi\". Premier ujawnia nowe informacje [RELACJA NA ŻYWO]",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/kraj/rosyjskie-drony-nad-polska-spora-czesc-dronow-nadleciala-bezposrednio-z-bialorusi/xx4d32j",
+          "source": "Onet"
+        },
+        {
+          "title": "Polska chce uruchomienia art. 4 NATO. \"To dopiero wstęp\"",
+          "snippet": "",
+          "url": "https://wiadomosci.wp.pl/polska-uruchomi-art-4-nato-to-dopiero-wstep-7198689847995296a",
+          "source": "WP Wiadomości"
+        },
+        {
+          "title": "\"Europa jest po stronie Polski\". Owacje na stojąco w europarlamencie",
+          "snippet": "",
+          "url": "https://tvn24.pl/swiat/naruszona-przestrzen-powietrzna-polski-slowa-solidarnosci-i-aplauz-w-parlamencie-europejskim-st8641307",
+          "source": "TVN24"
         }
       ],
       "link": "https://imtaqin.id/"
