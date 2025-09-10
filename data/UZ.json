@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-09-10 17:29:14",
+  "lastUpdate": "2025-09-10 17:37:18",
   "data": [
     {
       "title": "weather",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 07:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo9gU1EbpQ9Nq3RwrG55m79FfIRxiHmAWA83wiEYuJRm1oZ7a0s9oC6WLTsr8",
       "pictureSource": "Just In Weather",
@@ -30,29 +30,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bitcoin news",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 10 Sep 2025 06:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSXt9_sdMXuAMPYlNtD9XDb8auYFClCm1FZSXKNrZiKLFa7PUDka-R3SAMGak",
+      "pictureSource": "Glassnode Insights",
+      "relatedSearch": [
+        {
+          "title": "Accumulating in the Gap",
+          "snippet": "",
+          "url": "https://insights.glassnode.com/the-week-onchain-week-35-2025/",
+          "source": "Glassnode Insights"
+        },
+        {
+          "title": "Bitcoin Price Gets a Boost From Producer Price Index Print",
+          "snippet": "",
+          "url": "https://decrypt.co/338796/bitcoin-price-gets-a-boost-from-producer-price-index-print",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Understanding Bitcoin's Volatility and Its Psychological Impact",
+          "snippet": "",
+          "url": "https://www.onesafe.io/blog/navigating-bitcoin-volatility-psychological-factors-and-emerging-trends",
+          "source": "OneSafe"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "climate change",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 06:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNyVeq4Qr-0R8sLAkiXy62VbFyGftDRR8NfZsja_9-FmTjubwF3X4L5nq6p5o",
-      "pictureSource": "University of Oxford",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgfUM6TPYmeLVGHjj3u13HiFLr-BAbkCcFJQrV8keYU62-YdH5o9tjfKNWEyo",
+      "pictureSource": "Earth.Org",
       "relatedSearch": [
-        {
-          "title": "Climate change responsible for 1,700 heat-related deaths in single European region, Oxford study finds",
-          "snippet": "",
-          "url": "https://www.ox.ac.uk/news/2025-09-10-climate-change-responsible-1700-heat-related-deaths-single-european-region-oxford",
-          "source": "University of Oxford"
-        },
-        {
-          "title": "Extreme heat in large cities: Climate risk and public health",
-          "snippet": "",
-          "url": "https://www.titan.uio.no/english/2025/extreme-heat-in-large-cities-climate-risk-and-publ.html",
-          "source": "Titan.uio.no"
-        },
         {
           "title": "How Forest Restoration Can Help Us Combat Climate Change",
           "snippet": "",
           "url": "https://earth.org/nature-based-solutions-restoring-forests-to-combat-climate-change/",
           "source": "Earth.Org"
+        },
+        {
+          "title": "Scientists Denounce Trump Administration’s Climate Report",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/09/02/climate/climate-science-report-energy-department.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Trump’s Department of Energy Gets Scienced",
+          "snippet": "",
+          "url": "https://www.newyorker.com/news/the-lede/trumps-department-of-energy-gets-scienced",
+          "source": "The New Yorker"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +89,26 @@
       "title": "latest flights",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 06:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSywXUUjJFCcTq7JxkKgHc8wX3o04gQJh1nm91C8eXImNVqehsx7BtBSW4y0KM",
-      "pictureSource": "Aviation Week Network",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIm0hOSWPv3xuU1I-7LOApBRfoHvvbdm0rzUelNfot06g_CcicBIpw5wfJDPY",
+      "pictureSource": "SpaceNews",
       "relatedSearch": [
         {
-          "title": "Air Canada Picks Palma For A321XLR Debut, Fleet To Reach 10 In 2026",
+          "title": "Musk confident Starship will start launching 100 tons to orbit next year",
           "snippet": "",
-          "url": "https://aviationweek.com/air-transport/airports-networks/air-canada-picks-palma-a321xlr-debut-fleet-reach-10-2026",
-          "source": "Aviation Week Network"
+          "url": "https://spacenews.com/musk-confident-starship-will-start-launching-100-tons-to-orbit-next-year/",
+          "source": "SpaceNews"
         },
         {
-          "title": "Air Canada announces first Airbus A321XLR routes",
+          "title": "Musk Says SpaceX to Fly Bigger, Fully Reusable Starship in 2026",
           "snippet": "",
-          "url": "https://thepointsguy.com/news/air-canada-airbus-a321xlr-first-route-montreal-mallorca/",
-          "source": "The Points Guy"
+          "url": "https://www.bloomberg.com/news/articles/2025-09-10/musk-says-spacex-to-fly-bigger-fully-reusable-starship-in-2026",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Going Global - New Destinations Take Flight as Air Canada Expands Network for Summer 2026",
+          "title": "SpaceX’s lesson from last Starship flight? “We need to seal the tiles.”",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/going-global-destinations-flight-air-130000439.html",
-          "source": "Yahoo Finance"
+          "url": "https://arstechnica.com/space/2025/09/spacexs-lesson-from-last-starship-flight-we-need-to-seal-the-tiles/",
+          "source": "Ars Technica"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "hotels news",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 10 Sep 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEE_5GBIJ5c6S2EnNoUJslXdsw7CgfAeR-1YQhxuQcOTA2dw9GwHEspbv-b14",
-      "pictureSource": "Fox News",
-      "relatedSearch": [
-        {
-          "title": "AOC drops thousands on luxury hotels while 'Fighting Oligarchy' with Sanders, filings reveal",
-          "snippet": "",
-          "url": "https://www.foxnews.com/politics/aoc-drops-thousands-luxury-hotels-while-fighting-oligarchy-sanders-filings-reveal",
-          "source": "Fox News"
-        },
-        {
-          "title": "AOC’s campaign spent thousands at ritzy hotels while headlining ‘Fighting Oligarchy’ rallies with Bernie Sanders",
-          "snippet": "",
-          "url": "https://nypost.com/2025/09/08/us-news/aoc-appears-to-have-enjoyed-ritzy-hotels-amid-fighting-oligarchy-rallies/",
-          "source": "New York Post"
-        },
-        {
-          "title": "‘She’s a hypocrite’: AOC torched for staying in luxury hotels whilst ‘fighting’ oligarchy",
-          "snippet": "",
-          "url": "https://www.skynews.com.au/opinion/shes-a-hypocrite-aoc-torched-for-staying-in-luxury-hotels-whilst-fighting-oligarchy/video/5ae1df93e5c0635c27bac16e6e7e94e5",
-          "source": "Sky News Australia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "inflation 2025",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 06:40:00 -0700",
@@ -170,18 +170,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hotels news",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 10 Sep 2025 06:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEE_5GBIJ5c6S2EnNoUJslXdsw7CgfAeR-1YQhxuQcOTA2dw9GwHEspbv-b14",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "AOC drops thousands on luxury hotels while 'Fighting Oligarchy' with Sanders, filings reveal",
+          "snippet": "",
+          "url": "https://www.foxnews.com/politics/aoc-drops-thousands-luxury-hotels-while-fighting-oligarchy-sanders-filings-reveal",
+          "source": "Fox News"
+        },
+        {
+          "title": "AOC’s campaign spent thousands at ritzy hotels while headlining ‘Fighting Oligarchy’ rallies with Bernie Sanders",
+          "snippet": "",
+          "url": "https://nypost.com/2025/09/08/us-news/aoc-appears-to-have-enjoyed-ritzy-hotels-amid-fighting-oligarchy-rallies/",
+          "source": "New York Post"
+        },
+        {
+          "title": "‘She’s a hypocrite’: AOC torched for staying in luxury hotels whilst ‘fighting’ oligarchy",
+          "snippet": "",
+          "url": "https://www.skynews.com.au/opinion/shes-a-hypocrite-aoc-torched-for-staying-in-luxury-hotels-whilst-fighting-oligarchy/video/5ae1df93e5c0635c27bac16e6e7e94e5",
+          "source": "Sky News Australia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "latest news",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqgfbpcSIgiWEMIaNj8rAC5l5dme8fcimGXfERLhLWKntCIg5qvVSudbgY4a4",
-      "pictureSource": "NBC News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLhDfgWbB6aVb-FtRBc4JJSf_JhkkrmEbZy3WN9eOGTcN4MqC05jT96i6Qa8c",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
-        {
-          "title": "Former top FBI officials sue, say Kash Patel fired them to stay in Trump's good graces",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/politics/justice-department/former-top-fbi-officials-sue-say-kash-patel-fired-stay-trumps-good-gra-rcna230369",
-          "source": "NBC News"
-        },
         {
           "title": "Trump White House Exerts Enormous Influence Over FBI, Lawsuit Says",
           "snippet": "",
@@ -193,34 +215,12 @@
           "snippet": "",
           "url": "https://www.cnn.com/2025/09/10/politics/fired-fbi-officials-sue-kash-patel",
           "source": "CNN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trump 2025",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 10 Sep 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw1UID-qdzZkplLF03cwslUmj_H2qzbIbT2MHtviszWqLvl3WZadaXvznDaL8",
-      "pictureSource": "CBS News",
-      "relatedSearch": [
+        },
         {
-          "title": "Top word Americans use to describe economy is \"uncertain,\" CBS News poll finds",
+          "title": "Politics, retribution behind FBI purge, agents allege in new lawsuit against Patel, Bondi",
           "snippet": "",
-          "url": "https://www.cbsnews.com/video/top-word-americans-use-to-describe-economy-is-uncertain-cbs-news-poll-finds/",
+          "url": "https://www.cbsnews.com/news/lawsuit-politics-retribution-behind-fbi-purge-agents-allege/",
           "source": "CBS News"
-        },
-        {
-          "title": "QUESTION OF THE DAY: What do you think about the United States’ economic outlook?",
-          "snippet": "",
-          "url": "https://abc17news.com/news/top-stories/2025/09/10/question-of-the-day-what-do-you-think-about-the-united-states-economic-outlook/",
-          "source": "ABC17NEWS"
-        },
-        {
-          "title": "Economic concerns, AI's effects, Trump's age, and the Epstein investigations: September 5 - 8, 2025 Economist/YouGov Poll",
-          "snippet": "",
-          "url": "https://today.yougov.com/politics/articles/52926-economic-concerns-ai-economic-effect-donald-trump-age-jeffrey-epstein-investigations-september-5-8-2025-economist-yougov-poll",
-          "source": "YouGov"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "latest tesla",
+      "title": "trump 2025",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Sep 2025 06:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYtV9gC_zfLyqnz0h4jHI9B5n6N6ze6G36dJj5ElfkQXvXxtO3Ogo262kLDnA",
-      "pictureSource": "Drive Tesla Canada",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw1UID-qdzZkplLF03cwslUmj_H2qzbIbT2MHtviszWqLvl3WZadaXvznDaL8",
+      "pictureSource": "CBS News",
       "relatedSearch": [
         {
-          "title": "Tesla Starts Construction on New Supercharger Stations in Abbotsford and Edmonton [B.C. & Alberta]",
+          "title": "Top word Americans use to describe economy is \"uncertain,\" CBS News poll finds",
           "snippet": "",
-          "url": "https://driveteslacanada.ca/news/tesla-starts-construction-on-new-supercharger-stations-in-abbotsford-and-edmonton-b-c-alberta/",
-          "source": "Drive Tesla Canada"
+          "url": "https://www.cbsnews.com/video/top-word-americans-use-to-describe-economy-is-uncertain-cbs-news-poll-finds/",
+          "source": "CBS News"
         },
         {
-          "title": "Tesla Opens Third Supercharger in Canmore [Alberta]",
+          "title": "QUESTION OF THE DAY: What do you think about the United States’ economic outlook?",
           "snippet": "",
-          "url": "https://driveteslacanada.ca/news/tesla-opens-third-supercharger-in-canmore-alberta/",
-          "source": "Drive Tesla Canada"
+          "url": "https://abc17news.com/news/top-stories/2025/09/10/question-of-the-day-what-do-you-think-about-the-united-states-economic-outlook/",
+          "source": "ABC17NEWS"
         },
         {
-          "title": "Tesla Superchargers in Grand Prairie and London Now Open [Alberta & Ontario]",
+          "title": "Economic concerns, AI's effects, Trump's age, and the Epstein investigations: September 5 - 8, 2025 Economist/YouGov Poll",
           "snippet": "",
-          "url": "https://driveteslacanada.ca/news/tesla-superchargers-in-grand-prairie-and-london-now-open-alberta-ontario/",
-          "source": "Drive Tesla Canada"
+          "url": "https://today.yougov.com/politics/articles/52926-economic-concerns-ai-economic-effect-donald-trump-age-jeffrey-epstein-investigations-september-5-8-2025-economist-yougov-poll",
+          "source": "YouGov"
         }
       ],
       "link": "https://imtaqin.id/"
