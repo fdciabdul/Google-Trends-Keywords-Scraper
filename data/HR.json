@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-10 10:09:44",
+  "lastUpdate": "2025-09-10 10:21:48",
   "data": [
     {
       "title": "holger rune",
@@ -49,10 +49,10 @@
           "source": "Reuters"
         },
         {
-          "title": "For Nepal’s Protesters, Wealthy ‘Nepo Kids’ Are a Source of Outrage",
+          "title": "Nepal: Army patrols Kathmandu as Gen Z claims protests were 'hijacked'",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/09/09/world/asia/nepal-protests-nepo-kids-social-media.html",
-          "source": "The New York Times"
+          "url": "https://www.bbc.com/news/articles/cjd1ndmrej0o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,23 +61,30 @@
       "title": "počasí",
       "trafficCount": "200+",
       "pubDate": "Tue, 9 Sep 2025 22:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa1GMdIGtVfZtiPIw3c_tnECnVvYkEUNu3ctKcTQUBYpWGxQ9AQFhT_6qyooI",
+      "pictureSource": "Prahanadlani.cz",
+      "relatedSearch": [
+        {
+          "title": "Muž, který udeřil Babiše berlí, se omluvil. Přidal i přání k narozeninám",
+          "snippet": "",
+          "url": "https://www.prahanadlani.cz/clanek-zprava/1443827-muz-ktery-uderil-babise-berli-se-omluvil-pridal-i-prani-k-narozeninam.html",
+          "source": "Prahanadlani.cz"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "poljska",
       "trafficCount": "1000+",
       "pubDate": "Tue, 9 Sep 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0ebO9Tt0J7QDqRn-FFGBnjzh9kHQjuEed26UDITUkzWZGSPdSltcQ34ykt0",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTulbNVhW3zPari3tLRrZhoRGCwrvWXgP6JUI5jVJWPbFeglrLaJSS1Wujg2LA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Poland says it has shot down drones that entered its airspace during Russian attack on Ukraine",
+          "title": "Poland says up to four of 19 Russian drones shot down after entering airspace",
           "snippet": "",
-          "url": "https://edition.cnn.com/2025/09/09/europe/poland-scramble-jets-russian-drone-reports-intl-hnk-ml",
-          "source": "CNN"
+          "url": "https://www.bbc.com/news/live/c2enwk1l9e1t",
+          "source": "BBC"
         },
         {
           "title": "Poland calls NATO meeting after downing Russian drones",
@@ -86,10 +93,10 @@
           "source": "DW"
         },
         {
-          "title": "Poland downs Russian drones, first time NATO member has fired in Ukraine war",
+          "title": "Poland says it has shot down drones that entered its airspace during Russian attack on Ukraine",
           "snippet": "",
-          "url": "https://www.reuters.com/business/aerospace-defense/poland-downs-russian-drones-first-time-nato-member-has-fired-ukraine-war-2025-09-10/",
-          "source": "Reuters"
+          "url": "https://edition.cnn.com/2025/09/09/europe/poland-scramble-jets-russian-drone-reports-intl-hnk-ml",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,6 +186,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "vrijeme",
+      "trafficCount": "50000+",
+      "pubDate": "Tue, 9 Sep 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNr4m3Qi_ur7_aOJCTSRSB3C_dwBnCuGrqOMhSMd4p4shXF76J7LSAx5jzwFc",
+      "pictureSource": "Index.hr",
+      "relatedSearch": [
+        {
+          "title": "Na snazi niz upozorenja. Severe Weather: Stižu ekstremna kiša, pijavice, oluje...",
+          "snippet": "",
+          "url": "https://www.index.hr/vijesti/clanak/stize-velika-promjena-na-snazi-upozorenja-dhmza-crveni-alarm-u-istri-i-na-kvarneru/2708173.aspx",
+          "source": "Index.hr"
+        },
+        {
+          "title": "Dio Hrvatske u crvenom zbog opasnog vremena: Past će i preko 100 litara kiše, evo gdje će biti najgore",
+          "snippet": "",
+          "url": "https://www.vecernji.hr/vijesti/dio-hrvatske-u-crvenom-zbog-opasnog-vremena-past-ce-i-preko-100-litara-kise-evo-gdje-ce-biti-najgore-1889767",
+          "source": "Večernji"
+        },
+        {
+          "title": "Meteorolog upozorio: \"Moguće su pijavice i bujične poplave, a ovo može imati razarajući učinak\"",
+          "snippet": "",
+          "url": "https://dnevnik.hr/vijesti/hrvatska/meteorolog-otkrio-detalje-velike-promjene-vremena-moguce-su-pijavice-bujicne-poplave-i-tuca-a-jedna-stvar-moze-imati-razarajuci-ucinak---933760.html",
+          "source": "Dnevnik.hr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bbc",
       "trafficCount": "200+",
       "pubDate": "Tue, 9 Sep 2025 18:20:00 -0700",
@@ -192,16 +227,16 @@
           "source": "BBC"
         },
         {
-          "title": "Wallace sues BBC - demands secret files to clear his name",
-          "snippet": "",
-          "url": "https://www.upday.com/uk/entertainment/wallace-sues-bbc-demands-secret-files-to-clear-his-name/z0hjd2h",
-          "source": "upday News"
-        },
-        {
           "title": "Gregg Wallace launches legal action against BBC dismissal",
           "snippet": "",
           "url": "https://www.personneltoday.com/hr/gregg-wallace-launches-legal-action-against-bbc-dismissal/",
           "source": "Personnel Today"
+        },
+        {
+          "title": "Wallace sues BBC - demands secret files to clear his name",
+          "snippet": "",
+          "url": "https://www.upday.com/uk/entertainment/wallace-sues-bbc-demands-secret-files-to-clear-his-name/z0hjd2h",
+          "source": "upday News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +265,6 @@
           "snippet": "",
           "url": "https://www.nbclosangeles.com/news/local/singer-d4vd-tesla-body-impounded-car/3776029/",
           "source": "NBC Los Angeles"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "informer",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Sep 2025 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZoerTG3jYLS2tRhpFikZzWSjdinr6iR1TqOQFJfS_3cBEBHVR9SPb3iVXq6k",
-      "pictureSource": "Politika",
-      "relatedSearch": [
-        {
-          "title": "Tusk sazvao hitnu sednicu vlade zbog povrede vazdušnog prostora Poljske",
-          "snippet": "",
-          "url": "https://www.politika.rs/sr/clanak/696837/tusk-sazvao-hitnu-sednicu-vlade-zbog-povrede-vazdusnog-prostora-poljske",
-          "source": "Politika"
-        },
-        {
-          "title": "Objavljena karta koja prikazuje napad ruskih dronova: Pogledajte koliko ih je završilo na tlu Poljske",
-          "snippet": "",
-          "url": "https://www.sd.rs/vesti/svet/objavljena-karta-koja-prikazuje-napad-ruskih-dronova-pogledajte-koliko-ih-je-zavrsilo-na-tlu-poljske-2025-09-10",
-          "source": "Srbija danas"
-        },
-        {
-          "title": "Ovo su razmere onoga što se dešava u Poljskoj: Objavljene fotografije sa \"FlightRadara\", bilo je veoma živo",
-          "snippet": "",
-          "url": "https://naslovi.net/2025-09-10/mondo/ovo-su-razmere-onoga-sto-se-desava-u-poljskoj-objavljene-fotografije-sa-flightradara-bilo-je-veoma-zivo/40448115",
-          "source": "Naslovi.net"
         }
       ],
       "link": "https://imtaqin.id/"
