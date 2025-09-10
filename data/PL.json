@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-09-10 03:17:25",
+  "lastUpdate": "2025-09-10 03:31:43",
   "data": [
     {
       "title": "gazeta",
       "trafficCount": "200+",
       "pubDate": "Tue, 9 Sep 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeBS8VD7gi5ya58f10Xp2rhrn11kyzMu-lZDyhuV0tHOxZlXZc88rZ75UXzAI",
-      "pictureSource": "Onet Wiadomości",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR08o2owwoPFYXxFMscOeZWsR4_1XF97mxctUIsTkq0rwH78lj6LdnlBzn75YY",
+      "pictureSource": "Gazeta Wrocławska",
       "relatedSearch": [
+        {
+          "title": "Rodzynki wycofane z marketów",
+          "snippet": "",
+          "url": "https://gazetawroclawska.pl/uwaga-kolejne-produkty-wycofane-z-marketow-lidl-biedronka-auchan-kaufland-salmonella-w-herbacie-gis-ostrzega/gh/c1p2-27604263/7",
+          "source": "Gazeta Wrocławska"
+        },
         {
           "title": "Tajna notatka Kancelarii Prezydenta. Kontrowersje wokół Sławomira Cenckiewicza",
           "snippet": "",
@@ -19,12 +25,34 @@
           "snippet": "",
           "url": "https://wyborcza.pl/7,75398,32235081,cenckiewicz-wierny-uczen-macierewicza.html",
           "source": "Wyborcza.pl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "onet pl",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 9 Sep 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMksWcs5ytiZoCA0DnFn_3hgR2O90-JMagWddWse7TI8ZgUXfKRM-uteIMio",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "\"Onet Rano.\" | 10.09",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/kraj/onet-rano-or-1009/be5etsb",
+          "source": "Onet Wiadomości"
         },
         {
-          "title": "Spotkanie Nawrocki-Trump było tajne. Media piszą o kontrowersjach. Wskazują na jedna osobę",
+          "title": "Onet Rano. - 4.09",
           "snippet": "",
-          "url": "https://wydarzenia.interia.pl/kraj/news-tajna-rozmowa-nawrocki-trump-media-pisza-o-kontrowersjach,nId,22303454",
-          "source": "Wydarzenia w INTERIA.PL"
+          "url": "https://wiadomosci.onet.pl/onet-rano-409/7gh814z",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Białoruś reaguje na zamknięcie granicy. Polski dyplomata wezwany do MSZ",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/kraj/bialorus-reaguje-na-zamkniecie-granicy-polski-dyplomata-wezwany-do-msz/00s57rh",
+          "source": "Onet Wiadomości"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "onet.pl",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Sep 2025 18:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMksWcs5ytiZoCA0DnFn_3hgR2O90-JMagWddWse7TI8ZgUXfKRM-uteIMio",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "\"Onet Rano.\" | 10.09",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/kraj/onet-rano-or-1009/be5etsb",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Onet Rano. - 4.09",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/onet-rano-409/7gh814z",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Białoruś reaguje na zamknięcie granicy. Polski dyplomata wezwany do MSZ",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/kraj/bialorus-reaguje-na-zamkniecie-granicy-polski-dyplomata-wezwany-do-msz/00s57rh",
-          "source": "Onet Wiadomości"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "zamosc",
       "trafficCount": "100+",
       "pubDate": "Tue, 9 Sep 2025 18:00:00 -0700",
@@ -143,7 +143,7 @@
     },
     {
       "title": "lotnisko chopina",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 9 Sep 2025 17:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAWpDOauNkjcZGwJAA33lzIHUGO7oP7gH8x-mc_w-R1Ey79aHOjsT09CmbmnI",
       "pictureSource": "TVN24",
@@ -161,17 +161,17 @@
           "source": "Onet Wiadomości"
         },
         {
-          "title": "Rosyjskie drony nad Polską. Wojsko reaguje [RELACJA]",
+          "title": "Naruszenie polskich granic. \"Trwa operacja\" [RELACJA NA ŻYWO]",
           "snippet": "",
-          "url": "https://www.pap.pl/aktualnosci/rosyjskie-drony-nad-polska-wojsko-reaguje",
-          "source": "Polska Agencja Prasowa SA"
+          "url": "https://wiadomosci.wp.pl/naruszenie-polskich-granic-trwa-operacja-relacja-na-zywo-7198600764402592l",
+          "source": "WP Wiadomości"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "venezuela - colombia",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 9 Sep 2025 17:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_LG1z60cEdSdHE8oOKCMwQ2erOTCD68DWAr1LtbXVoXNE7fm39No1mDZGaw",
       "pictureSource": "Newsweek",
@@ -199,7 +199,7 @@
     },
     {
       "title": "magda linette",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 9 Sep 2025 17:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsXqZyg37Gb7dMuhjXS2eqg0tsvHUufFiuq_QO7JCHEgll6A2MqRaJlCx6Zg",
       "pictureSource": "CANAL+",
@@ -221,34 +221,6 @@
           "snippet": "",
           "url": "https://sportowefakty.wp.pl/tenis/1208706/polka-blisko-sprawienia-sensacji",
           "source": "SportoweFakty"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "reuters",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 9 Sep 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdvJL_Vu9YUUMPFDErcxD3EuB8H5ptRqFXeY-9j8yNhNelELYwDYS-8DTs5FY",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Hamas claims leadership survived Israeli strike on Doha, as Trump says US tried to warn Qatar",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c78m71vl91vt",
-          "source": "BBC"
-        },
-        {
-          "title": "Qatar calls for retaliation against Israel for strike in Doha",
-          "snippet": "",
-          "url": "https://thehill.com/policy/international/5495202-qatar-calls-for-retaliation-against-israel-for-strike-in-doha/",
-          "source": "The Hill"
-        },
-        {
-          "title": "Israel Attempts to Kill Hamas Leadership in Airstrike on Qatar, a Gaza War Mediator",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/09/09/world/middleeast/israel-hamas-doha-qatar-strike.html",
-          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.money.pl/gospodarka/argentynskie-rynki-w-glebokim-kryzysie-po-porazce-wyborczej-partii-prezydenta-mileia-7198376202324896a.html",
           "source": "Money.pl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "onet",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 9 Sep 2025 16:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTY6CuQ2Jdxcp2lM6grf2jM2zWjM5CrG7HbhnHUBylxHnjo875qNFg-jOHhBg",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Rosyjskie drony nad Polską. Zaskakująca reakcja Moskwy",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/swiat/rosyjskie-drony-nad-polska-zaskakujaca-reakcja-moskwy/q878khy",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Zmasowany ostrzał Ukrainy. Polska poderwała myśliwce",
+          "snippet": "",
+          "url": "https://wiadomosci.wp.pl/zmasowany-ostrzal-ukrainy-polska-poderwala-mysliwce-7198546881211296a",
+          "source": "WP Wiadomości"
+        },
+        {
+          "title": "Wojna Rosji z Ukrainą. Dzień 1294. Relacja na żywo",
+          "snippet": "",
+          "url": "https://www.rp.pl/swiat/art42978801-wojna-rosji-z-ukraina-dzien-1294",
+          "source": "Rzeczpospolita"
         }
       ],
       "link": "https://imtaqin.id/"
