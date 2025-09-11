@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-09-11 11:37:18",
+  "lastUpdate": "2025-09-11 11:44:22",
   "data": [
-    {
-      "title": "weather",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 11 Sep 2025 02:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtEdESuQbkifRLGX_0HUdnBk2ypHZPFurc968hWAlLtJyMetgJPoWJVKTA0z0",
-      "pictureSource": "FOX 5 Atlanta",
-      "relatedSearch": [
-        {
-          "title": "Metro Atlanta weather: All in all, not too bad on Thursday",
-          "snippet": "",
-          "url": "https://www.fox5atlanta.com/news/metro-atlanta-weather-all-all-not-too-bad-thursday",
-          "source": "FOX 5 Atlanta"
-        },
-        {
-          "title": "FIRST ALERT FORECAST: Sunny, 80s today",
-          "snippet": "",
-          "url": "https://www.atlantanewsfirst.com/2025/09/10/first-alert-forecast-sunny-80s-today/",
-          "source": "Atlanta News First"
-        },
-        {
-          "title": "BEAUTIFUL week ahead with very little precip expected",
-          "snippet": "",
-          "url": "https://www.am1100theflag.com/weather/beautiful-week-ahead-with-very-little-precip-expected/",
-          "source": "The Flag - AM 1100 and FM 92.3 WZFG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "israel news",
       "trafficCount": "200+",
@@ -86,17 +58,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "economy",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 11 Sep 2025 02:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgZJaWwUk0Hsg45eENmodhPBUMYaga4xKQB0tFUEyT76bLEsXl-MiGNiKaWrk",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Wells Fargo CEO sees 'more downside' to U.S. economy as lower-income consumers struggle",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/09/10/wells-fargo-ceo-charles-scharf-sees-downside-to-us-economy.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Wells Fargo CEO Says Low-Income Consumers ‘Living on the Edge’",
+          "snippet": "",
+          "url": "https://www.pymnts.com/economy/2025/wells-fargo-ceo-says-low-income-consumers-living-on-the-edge/",
+          "source": "PYMNTS.com"
+        },
+        {
+          "title": "Wells Fargo CEO Details Growing US Wealth Gap, Says Lower Income Americans ‘Living on the Edge’",
+          "snippet": "",
+          "url": "https://dailyhodl.com/2025/09/10/wells-fargo-ceo-details-growing-us-wealth-gap-says-lower-income-americans-living-on-the-edge/",
+          "source": "The Daily Hodl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "amazon",
       "trafficCount": "100+",
       "pubDate": "Thu, 11 Sep 2025 02:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0B2Anv8mp6H5iIVNLLP5YVPxyrOUnB7QTbF-Q24AO7nmGAmggBlSdklZmfNk",
-      "pictureSource": "FOX5 Vegas",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Z7nVc33t2EaS8OkAEP-02GRX5MokKb46luLsdXBa-CYFtd5WMAn2aVdftIw",
+      "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Robotaxi service officially launches in Las Vegas",
+          "title": "Amazon's Zoox jumps into U.S. robotaxi race with Las Vegas launch",
           "snippet": "",
-          "url": "https://www.fox5vegas.com/2025/09/10/robotaxi-service-officially-launches-las-vegas/",
-          "source": "FOX5 Vegas"
+          "url": "https://www.cnbc.com/2025/09/10/amazons-zoox-jumps-into-us-robotaxi-race-with-las-vegas-launch-.html",
+          "source": "CNBC"
         },
         {
           "title": "Stock Movers: Oracle, Klarna, Amazon",
@@ -105,10 +105,10 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Amazon's Zoox jumps into U.S. robotaxi race with Las Vegas launch",
+          "title": "Amazon’s Zoox Launches in Las Vegas. It’s Playing Catch Up to Waymo, Tesla.",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/09/10/amazons-zoox-jumps-into-us-robotaxi-race-with-las-vegas-launch-.html",
-          "source": "CNBC"
+          "url": "https://www.barrons.com/articles/amazon-zoox-autonomous-vehicle-waymo-tesla-0944e6f5",
+          "source": "Barron's"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "Apple"
         },
         {
-          "title": "iPhone 16 Pro Max gets big price cut after iPhone 17 Pro Max launch- Check deals and offers",
-          "snippet": "",
-          "url": "https://www.hindustantimes.com/technology/iphone-16-pro-max-gets-big-price-cut-after-iphone-17-pro-max-launch-check-deals-and-offers-101757446881177.html",
-          "source": "Hindustan Times"
-        },
-        {
           "title": "iPhone 17 Pro Only Comes in Three Colors, With No Black Option",
           "snippet": "",
           "url": "https://www.macrumors.com/2025/09/09/iphone-17-pro-only-comes-in-three-colors/",
           "source": "MacRumors"
+        },
+        {
+          "title": "iPhones 17 and the Sugar Water Trap",
+          "snippet": "",
+          "url": "https://stratechery.com/2025/iphones-17-and-the-sugar-water-trap/",
+          "source": "Stratechery by Ben Thompson"
         }
       ],
       "link": "https://imtaqin.id/"
