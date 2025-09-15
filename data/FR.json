@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-15 11:38:45",
+  "lastUpdate": "2025-09-15 11:45:40",
   "data": [
+    {
+      "title": "france tv",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 15 Sep 2025 04:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU1A7JrBn4-Vi950b1dMM-M4jEWnkosQjV0CGfj4tn7CaMRHNQuXd7l4ljDmQ",
+      "pictureSource": "Radio France",
+      "relatedSearch": [
+        {
+          "title": "Comment dépister le déclin cognitif ?",
+          "snippet": "",
+          "url": "https://www.radiofrance.fr/franceinter/podcasts/le-mag-de-la-vie-quotidienne/le-mag-vie-quotidienne-du-lundi-15-septembre-2025-9678603",
+          "source": "Radio France"
+        },
+        {
+          "title": "J’ai la mémoire qui flanche…",
+          "snippet": "",
+          "url": "https://www.francetelevisions.fr/et-vous/notre-tele/les-programmes-a-ne-pas-rater/un-ptit-truc-en-moins-vivre-avec-alzheimer-47204",
+          "source": "France Télévisions"
+        },
+        {
+          "title": "“Un p’tit truc en moins, vivre avec Alzheimer” : des portraits touchants et intimes de vies cabossées",
+          "snippet": "",
+          "url": "https://www.telerama.fr/television/un-p-tit-truc-en-moins-vivre-avec-alzheimer-des-portraits-touchants-et-intimes-de-vies-cabossees_cri-7040575.php",
+          "source": "Télérama"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "sasha zhoya",
       "trafficCount": "200+",
@@ -33,14 +61,14 @@
       "title": "palestine",
       "trafficCount": "200+",
       "pubDate": "Mon, 15 Sep 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27ZlBgL-ZBDN3UulnOGyjQul2CUw8nmaWqp6fjq_aDrTgFheBLlpBIi7NqaM",
-      "pictureSource": "Le Monde.fr",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqB9bXhhjl5yIeXpdiq2-_i2KpC8SbZ19tElGiFstVCvGE7AA24wlBusBXGvs",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Vuelta: Vingegaard crowned champion, final stage canceled due to pro-Palestine protests in Madrid",
+          "title": "Spain’s PM criticised after Vuelta a España race abandoned over pro-Palestinian protests",
           "snippet": "",
-          "url": "https://www.lemonde.fr/en/sports/article/2025/09/14/vuelta-vingegaard-crowned-champion-as-final-stage-is-cancelled-because-of-pro-palestine-protests-in-madrid_6745397_9.html",
-          "source": "Le Monde.fr"
+          "url": "https://www.theguardian.com/world/2025/sep/15/spains-pm-criticised-after-vuelta-a-espana-race-abandoned-over-pro-palestinian-protests",
+          "source": "The Guardian"
         },
         {
           "title": "Pro-Palestinian protestors invading Vuelta course 'unacceptable': organisers",
@@ -49,10 +77,10 @@
           "source": "RFI"
         },
         {
-          "title": "Protests Against an Israeli Cycling Team Shut Down a Major Race",
+          "title": "Vuelta: Vingegaard crowned champion, final stage canceled due to pro-Palestine protests in Madrid",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/09/14/world/canada/cycling-palestinian-protests.html",
-          "source": "The New York Times"
+          "url": "https://www.lemonde.fr/en/sports/article/2025/09/14/vuelta-vingegaard-crowned-champion-as-final-stage-is-cancelled-because-of-pro-palestine-protests-in-madrid_6745397_9.html",
+          "source": "Le Monde.fr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +89,20 @@
       "title": "trenitalia",
       "trafficCount": "500+",
       "pubDate": "Mon, 15 Sep 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFKA29ynrFXsZoZZfctAEdDnyJ7qFSkamqpTH8gwZV9WGbY4GCa0LTdcn2Pv4",
-      "pictureSource": "RTL.fr",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDXK8VqVnml7UJoyYJTXOI913Wol2inCgkfMX91x2VGtwHpNAHHVDYO0ZbCgE",
+      "pictureSource": "Ouest-France",
       "relatedSearch": [
-        {
-          "title": "Vacances de Noël : les premiers billets de train en vente dès ce lundi (mais pour les TGV, il faudra encore patienter)",
-          "snippet": "",
-          "url": "https://www.rtl.fr/actu/economie-consommation/premiers-billets-de-train-pour-les-vacances-de-noel-la-vente-debute-ce-lundi-7900540147",
-          "source": "RTL.fr"
-        },
         {
           "title": "Billets de train : ouverture des ventes pour Noël",
           "snippet": "",
           "url": "https://www.ouest-france.fr/economie/transports/train/billets-de-train-ouverture-des-ventes-pour-noel-b4731370-9207-11f0-97e6-741179c952b9",
           "source": "Ouest-France"
+        },
+        {
+          "title": "Vacances de Noël : les premiers billets de train en vente dès ce lundi (mais pour les TGV, il faudra encore patienter)",
+          "snippet": "",
+          "url": "https://www.rtl.fr/actu/economie-consommation/premiers-billets-de-train-pour-les-vacances-de-noel-la-vente-debute-ce-lundi-7900540147",
+          "source": "RTL.fr"
         },
         {
           "title": "Billets de train pour Noël : les dates de vente SNCF et Trenitalia à ne pas manquer",
@@ -127,16 +155,16 @@
           "source": "L'Équipe"
         },
         {
-          "title": "Séries du 15 septembre 2025 en replay - Championnats du monde d'athlétisme",
-          "snippet": "",
-          "url": "https://www.france.tv/sport/athletisme/championnats-du-monde-d-athletisme/7474229-series-du-15-septembre-2025.html",
-          "source": "France TV"
-        },
-        {
           "title": "DIRECT. Mondiaux d'athlétisme: Lavillenie en finale de la perche, suivez la 3e journée des championnats du monde en live",
           "snippet": "",
           "url": "https://rmcsport.bfmtv.com/athletisme/direct-mondiaux-d-athletisme-suivez-la-3e-journee-des-championnats-du-monde-en-live_LN-202509150043.html",
           "source": "RMC Sport"
+        },
+        {
+          "title": "DIRECT. Mondiaux d’athlétisme : suivez la finale de la perche avec Duplantis et les Français en live",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/sport/athletisme/championnats-du-monde/direct-mondiaux-dathletisme-suivez-la-finale-de-la-perche-avec-duplantis-et-les-francais-en-live-7f6e5972-31c1-42e0-9da9-e4e92e54e291",
+          "source": "Ouest-France"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,7 +199,7 @@
     },
     {
       "title": "sophie binet",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 15 Sep 2025 03:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRezsvbpqGZNa8BLnezXwTNnCZxUd3L3_6LQzNBdEvd8OMcmKrI_OujEYFrIRg",
       "pictureSource": "Les Echos",
@@ -183,10 +211,10 @@
           "source": "Les Echos"
         },
         {
-          "title": "Sophie Binet a demandé \"l'abrogation de la réforme des retraites\" à Sébastien Lecornu",
+          "title": "\"Le budget va se décider dans la rue\" déclare Binet après sa rencontre avec Lecornu",
           "snippet": "",
-          "url": "https://www.bfmtv.com/politique/video-sophie-binet-a-demande-l-abrogation-de-la-reforme-des-retraites-a-sebastien-lecornu_VN-202509150490.html",
-          "source": "BFMTV"
+          "url": "https://www.boursorama.com/videos/actualites/le-budget-va-se-decider-dans-la-rue-declare-binet-apres-sa-rencontre-avec-lecornu-c72a955e16d29b0b457aa914d6905dbe",
+          "source": "Boursorama"
         },
         {
           "title": "Syndicats, RN, gauche, agriculteurs et même patrons : pas de round d’observation pour Sébastien Lecornu",
@@ -198,57 +226,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "armand duplantis",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 15 Sep 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr2Omc8eGp8Qu4CWfb0zWlLpXdXy4Uo0DlDh4MMiC5GUpSwoNzyMDksZbnPOQ",
-      "pictureSource": "France TV",
-      "relatedSearch": [
-        {
-          "title": "Séries du 15 septembre 2025 en replay - Championnats du monde d'athlétisme",
-          "snippet": "",
-          "url": "https://www.france.tv/sport/athletisme/championnats-du-monde-d-athletisme/7474229-series-du-15-septembre-2025.html",
-          "source": "France TV"
-        },
-        {
-          "title": "MONDIAUX 2025 - Armand Duplantis, le sprinteur qui voulait s'envoler à 6,30 m",
-          "snippet": "",
-          "url": "https://www.eurosport.fr/athletisme/mondiaux/2025/mondiaux-2025-armand-duplantis-le-sprinteur-qui-voulait-senvoler-a-630-m_sto23221565/story.shtml",
-          "source": "Eurosport"
-        },
-        {
-          "title": "Mondiaux d’athlétisme. Lavillenie, finales… le programme de ce lundi 15 septembre à Tokyo",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/sport/athletisme/championnats-du-monde/mondiaux-dathletisme-lavillenie-finales-le-programme-de-ce-lundi-15-septembre-a-tokyo-6c1c9aaa-9136-11f0-97e6-741179c952b9",
-          "source": "Ouest-France"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "paul amar",
       "trafficCount": "2000+",
       "pubDate": "Mon, 15 Sep 2025 03:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAAj2udZ0IWnyZ-kiFeLr6M_upnddFMygnvEY54-SBK2-9OrxLZbjKxdF2Uw",
-      "pictureSource": "Libération",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDY80_b47nsN1EZNioDVpfX6h_Jmj6_Am0rE6nXMavUzSmpJZbLrZz7IoUcs",
+      "pictureSource": "20 Minutes",
       "relatedSearch": [
+        {
+          "title": "Après l’assassinat de Kirk, les Maga lancent une chasse aux sorcières",
+          "snippet": "",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4173103-20250915-assassinat-charlie-kirk-maga-lancent-grande-chasse-sorcieres",
+          "source": "20 Minutes"
+        },
+        {
+          "title": "Décryptage | La fabrication d’un martyr",
+          "snippet": "",
+          "url": "https://www.lapresse.ca/international/etats-unis/2025-09-15/decryptage/la-fabrication-d-un-martyr.php",
+          "source": "La Presse"
+        },
         {
           "title": "«Antifa» ou extrême droite : pourquoi les messages laissés par le tueur de Charlie Kirk font polémique aux Etats-Unis ?",
           "snippet": "",
           "url": "https://www.liberation.fr/checknews/antifa-ou-extreme-droite-pourquoi-les-messages-laisses-par-le-tueur-de-charlie-kirk-font-polemique-aux-etats-unis-20250914_EXK4A4IXLVACPOBORKWHS356E4/",
           "source": "Libération"
-        },
-        {
-          "title": "De nombreuses zones d’ombre susbistent trois jours après l’arrestation de Tyler Robinson",
-          "snippet": "",
-          "url": "https://www.huffingtonpost.fr/international/article/assassinat-de-charlie-kirk-le-profil-du-suspect-tyler-robinson-a-encore-de-nombreuses-zones-d-ombre_254832.html",
-          "source": "Le HuffPost"
-        },
-        {
-          "title": "Traque en ligne des détracteurs de Charile Kirk",
-          "snippet": "",
-          "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/chasse-aux-sorcieres-et-traque-en-ligne-des-detracteurs-de-charile-kirk-6068741",
-          "source": "Radio France"
         }
       ],
       "link": "https://imtaqin.id/"
