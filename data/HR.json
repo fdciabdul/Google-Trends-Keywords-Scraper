@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-09-16 05:03:11",
+  "lastUpdate": "2025-09-16 05:13:24",
   "data": [
     {
-      "title": "vrijeme",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 15 Sep 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxUW0mRPo7BtyO5leDhMfzAMapamLBlCaCtGJ67PwnOac3HEGVzRU_VmmuR04",
-      "pictureSource": "Dnevnik.hr",
+      "title": "weather",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 15 Sep 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xSV8KZlI_d14o_aNvzG5r8_E1_T2Cd663yRBRIgG5-4mBnXQlcaFPnp-m3M",
+      "pictureSource": "Mint",
       "relatedSearch": [
         {
-          "title": "Stiže grmljavinsko nevrijeme: Objavljena upozorenja...",
+          "title": "Bengaluru rain: Will the wet spell continue after Thursday’s heavy showers? Check IMD forecast",
           "snippet": "",
-          "url": "https://dnevnik.hr/vijesti/hrvatska/dhmz-podigao-meteoalarm-olujno-nevrijeme-prijeti-cijeloj-hrvatskoj---934516.html",
-          "source": "Dnevnik.hr"
+          "url": "https://www.livemint.com/news/bangalore-weather-after-heavy-showers-yesterday-will-the-city-see-more-today-check-imd-forecast-11757637927245.html",
+          "source": "Mint"
+        },
+        {
+          "title": "Karnataka IMD ALERT: Heavy rainfall for Mysuru, Kodagu, Shivamogga, coastal districts",
+          "snippet": "",
+          "url": "https://english.mathrubhumi.com/news/india/karnataka-rain-alert-september-2024-vh9fa77u",
+          "source": "Mathrubhumi English"
+        },
+        {
+          "title": "Bengaluru weather: High humidity, moderate rain expected today; AQI improves",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-weather-update-rain-humidity-and-air-quality-insights-for-september-16-2025/articleshow/123911257.cms",
+          "source": "Times of India"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vrijeme",
+      "trafficCount": "10000+",
+      "pubDate": "Mon, 15 Sep 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoL9zLQ1LEnduc8gN1wKrObfVmwP8slBLL9ETXeXRFsvxm16xzxT41zrY5jRc",
+      "pictureSource": "24sata.hr",
+      "relatedSearch": [
+        {
+          "title": "Upaljen meteoalarm: Bit će izraženih pljuskova i grmljavine",
+          "snippet": "",
+          "url": "https://www.24sata.hr/news/opaljen-meteoalarm-bit-ce-izrazenih-pljuskova-i-grmljavine-1074771",
+          "source": "24sata.hr"
+        },
+        {
+          "title": "U nedjelju većinom vjetrovitije, svježije, česta kiša, lokalno nevrijeme",
+          "snippet": "",
+          "url": "https://vrijeme-i-promet.hrt.hr/vrijeme/vremenska-prognoza-za-14-9-2025-12320482",
+          "source": "HRT"
         },
         {
           "title": "DHMZ izdao žuti meteoalarm za gotovo cijelu zemlju, stiže grmljavinsko nevrijeme: 'Budite na oprezu...'",
           "snippet": "",
           "url": "https://www.jutarnji.hr/vijesti/hrvatska/dhmz-izdao-zuti-meteoalarm-za-gotovo-cijelu-zemlju-stize-grmljavinsko-nevrijeme-budite-na-oprezu-15622461",
           "source": "Jutarnji list"
-        },
-        {
-          "title": "Frontalni sustav stiže u Hrvatsku, meteorologinja najavila promjenu: 'Bit će izraženih pljuskova'",
-          "snippet": "",
-          "url": "https://net.hr/danas/vrijeme/frontalni-sustav-stize-u-hrvatsku-meteorologinja-najavila-promjenu-bit-ce-izrazenih-pljuskova-73bbb3d4-923e-11f0-aa13-9600040c8f8e",
-          "source": "Net.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,6 +81,34 @@
           "snippet": "",
           "url": "https://n1info.hr/vijesti/drama-iznad-zagreba-piloti-primijetili-dim-u-kabini-zatrazeno-hitno-slijetanje/",
           "source": "N1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nacional",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 15 Sep 2025 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwJOC61cjEABcoUFIzYtACEsKmOIwHeHLdSPedCSzs4n1es2Mbhh0e40bsk1M",
+      "pictureSource": "nacional.hr",
+      "relatedSearch": [
+        {
+          "title": "AFERA TRUPCI Uskok ulovio Dabru na vezi sa sudionicima kriminalne operacije",
+          "snippet": "",
+          "url": "https://www.nacional.hr/afera-trupci-uskok-ulovio-dabru-na-vezi-sa-sudionicima-kriminalne-operacije/",
+          "source": "nacional.hr"
+        },
+        {
+          "title": "Čelni čovjek Hrvatskih šuma o uhićenjima: \"Ako je sustav riba - onda je Dabro glava\"",
+          "snippet": "",
+          "url": "https://dnevnik.hr/vijesti/svijet/celni-covjek-hrvatskih-suma-o-uhicenjima-ako-je-sustav-riba-onda-je-dabro-glava-skupstina-tijelo-a-devijacije-su-na-repu---934165.html",
+          "source": "Dnevnik.hr"
+        },
+        {
+          "title": "Ekskluzivno doznajemo tko bi mogao naslijediti Nediljka Dujića u Hrvatskim šumama: Ime je poznato",
+          "snippet": "",
+          "url": "https://net.hr/danas/rtl-danas/ekskluzivno-doznajemo-tko-ce-nasljediti-nediljka-dujica-u-hrvatskim-sumama-ime-je-poznato-1843d771-8f32-11f0-aa13-9600040c8f8e",
+          "source": "Net.hr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,14 +201,14 @@
       "title": "ios 26",
       "trafficCount": "200+",
       "pubDate": "Mon, 15 Sep 2025 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEXE7SohJbk9tCczHTfNeG0NrADKAZh6x-TKAghTrVA5ie10pjz3yPDz9EiVo",
-      "pictureSource": "Daytona Beach News-Journal",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt9GrWMleCYlt4Vsi5TBDtRNSk7Q9JOBM7_SnyrGPWFJfVxRzamvPebBDz-uc",
+      "pictureSource": "Khaleej Times",
       "relatedSearch": [
         {
-          "title": "Which iPhones will get iOS 26? What to expect with Apple’s upcoming update, release date",
+          "title": "iOS 26 out on September 15: Compatible iPhones, top features, and more",
           "snippet": "",
-          "url": "https://www.news-journalonline.com/story/news/2025/09/11/ios-operating-system-update-iphone-launch-date/86089488007/",
-          "source": "Daytona Beach News-Journal"
+          "url": "https://www.khaleejtimes.com/business/tech/ios-26-out-on-september-15-compatible-iphones-top-features-and-more",
+          "source": "Khaleej Times"
         },
         {
           "title": "iOS 26 release: everything you need to know about Apple’s Liquid Glass updates",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://442.perfil.com/noticias/futbol/nico-paz-convirtio-otro-golazo-para-como-tras-sumar-minutos-con-la-seleccion-argentina.phtml",
           "source": "Perfil"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "espanyol – mallorca",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 15 Sep 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunYGpGzTQ8vmOMUTZc2yzWZ9tjLcFx8QyacwL_40QM83V1qneK4f9P7VNFSU",
-      "pictureSource": "Qué Pasa",
-      "relatedSearch": [
-        {
-          "title": "Urko y Roberto, novedades en el Espanyol y Mojica, en el Mallorca",
-          "snippet": "",
-          "url": "https://quepasamedia.com/deportes/urko-y-roberto-novedades-en-el-espanyol-y-mojica-en-el-mallorca/",
-          "source": "Qué Pasa"
-        },
-        {
-          "title": "Lista de convocados",
-          "snippet": "",
-          "url": "https://www.rcdespanyol.com/es/noticia/llista-de-convocats/19099",
-          "source": "RCD Espanyol"
-        },
-        {
-          "title": "Dura derrota frente al RCD Espanyol",
-          "snippet": "",
-          "url": "https://www.rcdmallorca.es/noticias/dura-derrota-frente-al-rcd-espanyol",
-          "source": "RCD Mallorca"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "aleksandar stanković",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 15 Sep 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfgJ2N5t9p-9uc4YgTG4MMysYFzWM8mJhkyu8DIxWaS8LXRPBnizl8Vb0MXHA",
-      "pictureSource": "Večernji.hr",
-      "relatedSearch": [
-        {
-          "title": "Aleksandar Stanković najavio novu sezonu emisije i ovako je oduševio gledatelje",
-          "snippet": "",
-          "url": "https://www.vecernji.hr/showbiz/aleksandar-stankovic-najavio-novu-sezonu-emisije-i-ovako-je-odusevio-gledatelje-1890102",
-          "source": "Večernji.hr"
-        },
-        {
-          "title": "Stanković objavio lijepu vijest, gledatelj mu poručio: ‘Zbog ovog žurim kući iz crkve’",
-          "snippet": "",
-          "url": "https://www.zagreb.info/magazin/stankovic-objavio-lijepu-vijest-gledatelj-mu-porucio-zbog-ovog-zurim-kuci-iz-crkve/771363/",
-          "source": "Zagreb.info"
-        },
-        {
-          "title": "Gledatelji reagirali na Stankovića: 'Nedjeljom idem u crkvu, ali žurim kući zbog toga'",
-          "snippet": "",
-          "url": "https://direktno.hr/domovina/gledatelji-reagirali-na-stankovica-nedjeljom-idem-u-crkvu-ali-zurim-kuci-zbog-toga-379799/",
-          "source": "Direktno.hr"
         }
       ],
       "link": "https://imtaqin.id/"
