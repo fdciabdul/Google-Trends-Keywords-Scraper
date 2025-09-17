@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2025-09-17 15:33:10",
+  "lastUpdate": "2025-09-17 15:41:42",
   "data": [
     {
       "title": "sofia virta",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 17 Sep 2025 07:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlPzdLaSq6xCtxmkepqlQmfbSwG0A994kZalLod4KX74-MPsyVs2L4QN9uM5Q",
       "pictureSource": "HS.fi",
       "relatedSearch": [
         {
-          "title": "Oikeudenkäynnit | Sofia Virran entinen puoliso sai tuomion törkeästä kunnianloukkauksesta",
+          "title": "Oikeudenkäynnit | Ex-puoliso ja hänen siskonsa loukkasivat Sofia Virran kunniaa",
           "snippet": "",
           "url": "https://www.hs.fi/suomi/art-2000011500925.html",
           "source": "HS.fi"
@@ -99,16 +99,16 @@
           "source": "sporza"
         },
         {
-          "title": "Bol naar finale • Van Hunenstijn uitgeschakeld",
-          "snippet": "",
-          "url": "https://www.gld.nl/sport/8366022/bol-naar-finale-van-hunenstijn-uitgeschakeld",
-          "source": "Omroep Gelderland"
-        },
-        {
           "title": "Weg van de drukte: Nafi Thiam slaapt als enige van Belgische delegatie niet in gigantisch atletenhotel",
           "snippet": "",
           "url": "https://www.hln.be/wk-atletiek/weg-van-de-drukte-nafi-thiam-slaapt-als-enige-van-belgische-delegatie-niet-in-gigantisch-atletenhotel~afd4d80f/",
           "source": "HLN"
+        },
+        {
+          "title": "Bol naar WK-finale • Van Hunenstijn uitgeschakeld",
+          "snippet": "",
+          "url": "https://www.gld.nl/sport/8366022/bol-naar-wk-finale-van-hunenstijn-uitgeschakeld",
+          "source": "Omroep Gelderland"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,15 @@
       "title": "wilma murto",
       "trafficCount": "500+",
       "pubDate": "Wed, 17 Sep 2025 05:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp-Vp6_qTGqS9vaspYI_9sCGd9b__GDTm7HxImLbh7-P5QthSkDjNFo6x3HnQ",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWXCVeJUojdMG1IM7vXaCiJD8ogyyjdfM5VNSraNkV4k0Vtum0oeKkfjvkOXw",
+      "pictureSource": "Yle",
       "relatedSearch": [
+        {
+          "title": "Tero Pitkämäki ei ole laskuttanut mitään Wilma Murrolta – valmis puhumaan jatkosta, mutta tarvitsisi kipeästi apua",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20182949",
+          "source": "Yle"
+        },
         {
           "title": "Wilma Murron veto pöyristyttää – ”Kyllä hän ennemmin tai myöhemmin ymmärtää”",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://www.hs.fi/urheilu/art-2000011494529.html",
           "source": "HS.fi"
-        },
-        {
-          "title": "MM-mitalisuosikki purskahti itkuun – Vietiin stadionilta pyörätuolilla",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/yleisurheilun-mm-2025/a/bed07ade-5f9f-4733-958a-8a047d836a64",
-          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,15 +257,9 @@
       "title": "lassi etelätalo",
       "trafficCount": "2000+",
       "pubDate": "Wed, 17 Sep 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaOo2Vil-s8u8tbunxuu3mrB-pHQejl88Hje1g45nnaCPteW18mQ3_kk2bK8s",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTSxgvLtCR2QvCdWMEIGM1UeVT7dWrpSTogLayxvIQALlf3s06OaiySc86iA0",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
-        {
-          "title": "Maailmanmestarin pinna paloi Suomen keihäsmiehiin – ”Kyllä v***ttaa”",
-          "snippet": "",
-          "url": "https://www.is.fi/urheilu/art-2000011501364.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "IL seuraa: Valtava keihäskatastrofi!",
           "snippet": "",
@@ -273,10 +267,16 @@
           "source": "Iltalehti"
         },
         {
-          "title": "Suomi historiallisesti ulkona keihäsfinaalista – Yle seuraa MM-kisoja",
+          "title": "Maailmanmestarin pinna paloi Suomen keihäsmiehiin – ”Kyllä v***ttaa”",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20182668",
-          "source": "Yle"
+          "url": "https://www.is.fi/urheilu/art-2000011501364.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Yleisurheilu | Historiallinen mahalasku: kaikki Suomen keihäsmiehet jäivät karsintaan",
+          "snippet": "",
+          "url": "https://www.hs.fi/urheilu/art-2000011500347.html",
+          "source": "HS.fi"
         }
       ],
       "link": "https://imtaqin.id/"
