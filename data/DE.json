@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-18 12:12:31",
+  "lastUpdate": "2025-09-18 12:27:21",
   "data": [
     {
       "title": "gout gout",
@@ -31,11 +31,17 @@
     },
     {
       "title": "bombenfund köln porz",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 18 Sep 2025 04:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxN_YlDE9oAbYLnqXARKudFaGV1ckjxTcmIg7_vPgvZN0KEMAEhDkVPr1KA24",
-      "pictureSource": "T-Online",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEkmxtng9C1uBP3NGEm3VnEc9szDg_HF_jpGpJk0yhcPV5PUQRZckidLViwuk",
+      "pictureSource": "Kölner Stadt-Anzeiger",
       "relatedSearch": [
+        {
+          "title": "Mehr als 2000 Menschen betroffen: Bombenfund in Köln-Porz – Entschärfung am Donnerstag",
+          "snippet": "",
+          "url": "https://www.ksta.de/koeln/porz/bombenfund-in-koeln-porz-entschaerfung-am-donnerstag-1110452",
+          "source": "Kölner Stadt-Anzeiger"
+        },
         {
           "title": "Bombe in Köln gefunden – mehr als 2.000 Menschen werden evakuiert",
           "snippet": "",
@@ -43,44 +49,10 @@
           "source": "T-Online"
         },
         {
-          "title": "Mehr als 2000 Menschen betroffen: Bombenfund in Köln-Porz – Entschärfung am Donnerstag",
+          "title": "Live Ticker: Blindgängerfund in Porz",
           "snippet": "",
-          "url": "https://www.rundschau-online.de/koeln/porz/bombenfund-in-koeln-porz-entschaerfung-am-donnerstag-1110452",
-          "source": "Rundschau Online"
-        },
-        {
-          "title": "Einsatz wegen Bombe: Fliegerbombe in Köln-Porz gefunden",
-          "snippet": "",
-          "url": "https://www.express.de/koeln/fliegerbombe-in-koeln-porz-gefunden-1110441",
-          "source": "Express"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "christina honsel",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 18 Sep 2025 04:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQh4s1DsmxxvGOK09_rhKcb0GC5uuExwVJ3Fz9HCG5cl1OpCbnDLryCVlpLPSA",
-      "pictureSource": "ARD Mediathek",
-      "relatedSearch": [
-        {
-          "title": "Sportschau Leichtathletik-WM 2025: Die Hochsprung-Qualifikation mit Onnen und Honsel - hier anschauen",
-          "snippet": "",
-          "url": "https://www.ardmediathek.de/video/sportschau-leichtathletik-wm-2025/hoch-f-quali-mit-honsel-un-onnen/das-erste/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvOGViOTFjMWYtMWRlMy00NDI0LWIwZTUtOTdhNzU1ZmU1ZDUy",
-          "source": "ARD Mediathek"
-        },
-        {
-          "title": "Leichtathletik-WM Tokio: Honsel und Onnen überstehen Hochsprung-Quali mit Mühe",
-          "snippet": "",
-          "url": "https://www.sportschau.de/leichtathletik/wm/honsel-und-onnen-ueberstehen-hochsprung-quali-mit-muehe,la-wm-tokio-2025-hochsprung-qualifikation-100.html",
-          "source": "sportschau.de"
-        },
-        {
-          "title": "Honsel mit klarem Ziel: \"Möchte eine Medaille\"",
-          "snippet": "",
-          "url": "https://www.ran.de/sports/mehr/news/honsel-mit-klarem-ziel-quot-moechte-eine-medaillequot--590808",
-          "source": "ran"
+          "url": "https://www.radiokoeln.de/artikel/live-ticker-blindgaengerfund-in-porz-2444089.html",
+          "source": "Radio Köln"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "amd news",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 18 Sep 2025 04:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkFS7EP_rBTpCFq19V_CU7qaC_RspmOEudBNYLgIbhaPq7jmIH5eNMnXXKCw",
-      "pictureSource": "Linux-Magazin",
-      "relatedSearch": [
-        {
-          "title": "ROCm 7.0.0 bringt zahlreiche Verbesserungen",
-          "snippet": "",
-          "url": "https://www.linux-magazin.de/news/rocm-7-0-0-bringt-zahlreiche-verbesserungen/",
-          "source": "Linux-Magazin"
-        },
-        {
-          "title": "AMD ROCm 7.0: CDNA 4-Unterstützung, FP4/FP6/FP8-Optimierungen und schlüsselfertige KI-Container",
-          "snippet": "",
-          "url": "https://www.pcmasters.de/news/133714705-amd-rocm-7-0-cdna-4-unterstuetzung-fp4-fp6-fp8-optimierungen-und-schluesselfertige-ki-container.html",
-          "source": "PCMasters.de"
-        },
-        {
-          "title": "MLPerf Inference 5.1: GB300, MI355X und Arc B60 erstmals mit dabei",
-          "snippet": "",
-          "url": "https://www.hardwareluxx.de/index.php/news/software/benchmarks/67023-mlperf-inference-5-1-gb300-und-mi355x-erstmals-mit-dabei.html",
-          "source": "Hardwareluxx"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "rüdiger von pescatore",
       "trafficCount": "200+",
       "pubDate": "Thu, 18 Sep 2025 04:40:00 -0700",
@@ -198,12 +142,74 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "amd news",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 18 Sep 2025 04:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkFS7EP_rBTpCFq19V_CU7qaC_RspmOEudBNYLgIbhaPq7jmIH5eNMnXXKCw",
+      "pictureSource": "Linux-Magazin",
+      "relatedSearch": [
+        {
+          "title": "AMD gibt AMDVLK-Treiber zugunsten von RADV auf",
+          "snippet": "",
+          "url": "https://www.linux-magazin.de/news/amd-gibt-amdvlk-treiber-zugunsten-von-radv-auf/",
+          "source": "Linux-Magazin"
+        },
+        {
+          "title": "Linux-Grafiktreiber: AMD beendet die AMDVLK-Entwicklung, Fokus auf RADV",
+          "snippet": "",
+          "url": "https://www.computerbase.de/news/grafikkarten/linux-grafiktreiber-amd-beendet-die-amdvlk-entwicklung-fokus-auf-radv.94340/",
+          "source": "ComputerBase"
+        },
+        {
+          "title": "Linux: AMD stellt seinen Vulkan-Grafiktreiber offiziell ein",
+          "snippet": "",
+          "url": "https://www.pcgameshardware.de/Linux-Software-26761/News/AMD-stellt-die-Entwicklung-seines-Vulkan-Grafiktreibers-ein-1482188/",
+          "source": "PCGH"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "imke onnen",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 18 Sep 2025 04:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIoE0JpwlrKSfJ5E8gpEzWqYtGZ6ltKuHhVqRsOaBFjJnIfc7QiIj8jFvq40",
+      "pictureSource": "sportschau.de",
+      "relatedSearch": [
+        {
+          "title": "Leichtathletik-WM: Hochspringerin Honsel - erst zwei Meter, jetzt WM-Medaille?",
+          "snippet": "",
+          "url": "https://www.sportschau.de/leichtathletik/wm/christina-honsel-mit-marktplatz-schub-zum-medaillen-traum,la-wm-tokio-2025-christina-honsel-100.html",
+          "source": "sportschau.de"
+        },
+        {
+          "title": "Sportschau Leichtathletik-WM 2025: Die Hochsprung-Qualifikation mit Onnen und Honsel - hier anschauen",
+          "snippet": "",
+          "url": "https://www.ardmediathek.de/video/sportschau-leichtathletik-wm-2025/hoch-f-quali-mit-honsel-un-onnen/das-erste/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvOGViOTFjMWYtMWRlMy00NDI0LWIwZTUtOTdhNzU1ZmU1ZDUy",
+          "source": "ARD Mediathek"
+        },
+        {
+          "title": "Medaille als klares Ziel: Hochspringerin Honsel greift bei WM an",
+          "snippet": "",
+          "url": "https://www.eurosport.de/leichtathletik/leichtathletik-wm/2025/medaille-als-klares-ziel-hochspringerin-christina-honsel-greift-in-tokio-an_sto23222878/story.shtml",
+          "source": "Eurosport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "amd aktie",
       "trafficCount": "500+",
       "pubDate": "Thu, 18 Sep 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJjJWf7p8mChXCA75vzK45GgE1xVUW6X2b0FjUPI_DKjjvOZAJxUv--2L6Ouc",
-      "pictureSource": "Finanzen.net",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJVMLaiUWgIA2mcuAnPUaxm3IcBRGGpm6yOO3PbOGczbCkfeNwGc-LQQtzOc",
+      "pictureSource": "Wallstreet Online",
       "relatedSearch": [
+        {
+          "title": "Besonders beachtet!: Advanced Micro Devices - Aktie rauscht in die Tiefe - 18.09.2025",
+          "snippet": "",
+          "url": "https://www.wallstreet-online.de/nachricht/19939928-beachtet-advanced-micro-devices-aktie-rauscht-tiefe-18-09-2025",
+          "source": "Wallstreet Online"
+        },
         {
           "title": "S&P 500-Titel AMD (Advanced Micro Devices) -Aktie: So viel Gewinn hätte ein Investment in AMD (Advanced Micro Devices) von vor 10 Jahren abgeworfen",
           "snippet": "",
@@ -215,12 +221,6 @@
           "snippet": "",
           "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66452423-advanced-micro-devices-amd-kommt-nach-der-verschnaufpause-die-naechste-rallye-109.htm",
           "source": "FinanzNachrichten.de"
-        },
-        {
-          "title": "GPU-Optimismus: Piper Sandler bestätigt \"Overweight\"-Rating für AMD",
-          "snippet": "",
-          "url": "https://de.investing.com/news/analyst-ratings/gpuoptimismus-piper-sandler-bestatigt-overweightrating-fur-amd-93CH-3149173",
-          "source": "Investing.com Deutsch"
         }
       ],
       "link": "https://imtaqin.id/"
