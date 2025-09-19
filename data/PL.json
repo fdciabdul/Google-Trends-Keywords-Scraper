@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-19 07:20:26",
+  "lastUpdate": "2025-09-19 07:29:15",
   "data": [
     {
       "title": "sanah",
@@ -31,7 +31,7 @@
     },
     {
       "title": "clara tauson",
-      "trafficCount": "50000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 18 Sep 2025 23:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS5ES-kl4PnfAcz9NsZuSP6sMkhfOUsL5MuuBnKATSITdQhmekcH_iRr6eA7k",
       "pictureSource": "Przegląd Sportowy Onet",
@@ -59,11 +59,17 @@
     },
     {
       "title": "poczta polska",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 18 Sep 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8cRQ8NlxRa9g2F-Xs_GHdTfGpBEX7Fd_1ZVR50WZdNTlfo70Un5o2HrTLPew",
-      "pictureSource": "o2.pl",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST833Ksimr7vLy-cvrqP671BS8_EVfPnbudmaIEm2_O97bASAsw3wiSnCqNQw",
+      "pictureSource": "Biznes Interia",
       "relatedSearch": [
+        {
+          "title": "Listy dostarczane co drugi dzień. \"Dryf w kierunku katastrofy\"",
+          "snippet": "",
+          "url": "https://biznes.interia.pl/gospodarka/news-zmiany-w-poczcie-polskiej-budza-niepokoj-napisali-list-do-mi,nId,22421715",
+          "source": "Biznes Interia"
+        },
         {
           "title": "Kryzys w Poczcie Polskiej. Związkowcy alarmują",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://wiadomosci.wp.pl/poczta-polska-w-kryzysie-dryf-w-kierunku-katastrofy-7201812384041568a",
           "source": "WP Wiadomości"
-        },
-        {
-          "title": "Paulina Matysiak w Sejmie: Proszę wyjść i zapewnić Pocztowców, że żaden z nich nie zostanie zmuszony do przejścia na umowę śmieciową",
-          "snippet": "",
-          "url": "https://www.tysol.pl/a146324-paulina-matysiak-w-sejmie-prosze-wyjsc-i-zapewnic-pocztowcow-ze-zaden-z-nich-nie-zostanie-zmuszony-do-przejscia-na-umowe-smieciowa",
-          "source": "Tygodnik Solidarność"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "dron spadl",
       "trafficCount": "1000+",
       "pubDate": "Thu, 18 Sep 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqP8PI1qIMOIxKDQngcXV8-POplxCn5zljw5cb57-CJAPEOriYpztSJcG7imA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFfRU9HX0v1JtqZ97271LcyX7moKXUazJZoXQvyMkMvlADxtF8uExNUtD2Gjk",
       "pictureSource": "Onet",
       "relatedSearch": [
         {
           "title": "Dron spadł na teren oczyszczalni ścieków w Małopolsce. Jest komunikat",
           "snippet": "",
-          "url": "https://www.onet.pl/informacje/onetkrakow/dron-spadl-na-teren-oczyszczalni-sciekow-w-malopolsce-jest-komunikat/x4848xt,79cfc278",
+          "url": "https://wiadomosci.onet.pl/krakow/dron-spadl-na-teren-oczyszczalni-sciekow-w-malopolsce-jest-komunikat/x4848xt",
           "source": "Onet"
-        },
-        {
-          "title": "Dron na terenie Małopolski. Jest komunikat gminy",
-          "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32262272,dron-na-terenie-malopolski-jest-komunikat-gminy.html",
-          "source": "Gazeta"
         },
         {
           "title": "Dron na terenie oczyszczalni ścieków w Małopolsce. Gmina wydała komunikat",
           "snippet": "",
           "url": "https://wydarzenia.interia.pl/malopolskie/news-dron-na-terenie-oczyszczalni-sciekow-w-malopolsce-gmina-wyda,nId,22421603",
           "source": "Wydarzenia w INTERIA.PL"
+        },
+        {
+          "title": "Dron na terenie Małopolski. Jest komunikat gminy",
+          "snippet": "",
+          "url": "https://wiadomosci.gazeta.pl/polska/7,198073,32262272,dron-na-terenie-malopolski-jest-komunikat-gminy.html",
+          "source": "Gazeta"
         }
       ],
       "link": "https://imtaqin.id/"
