@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-19 04:16:48",
+  "lastUpdate": "2025-09-19 04:30:12",
   "data": [
+    {
+      "title": "ставка",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 18 Sep 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT77ggcoP35tol2IxeToJoDbj_2EcRW3WHpLzovnZlKaBczOzTcLnFmKWcfFA",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Аналитик объяснил, зачем Минфин хочет опустить планку цен на нефть",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/analitik-obyasnil-zachem-opuskat-planku-cen-na-neft-67950690/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Силуанов заявил, что Минфин РФ в бюджете на 2026 год закладывает ключевую ставку 12-13%",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1048094",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Минфин анонсировал снижение зависимости бюджета от нефтегаза",
+          "snippet": "",
+          "url": "https://expert.ru/ekonomika/byudzhet-ochishchayut-ot-nefti/",
+          "source": "Эксперт"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода рязань",
       "trafficCount": "200+",
@@ -30,57 +58,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ставка",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 18 Sep 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT77ggcoP35tol2IxeToJoDbj_2EcRW3WHpLzovnZlKaBczOzTcLnFmKWcfFA",
-      "pictureSource": "Финансы Mail",
-      "relatedSearch": [
-        {
-          "title": "Аналитик объяснил, зачем Минфин хочет опустить планку цен на нефть",
-          "snippet": "",
-          "url": "https://finance.mail.ru/article/analitik-obyasnil-zachem-opuskat-planku-cen-na-neft-67950690/",
-          "source": "Финансы Mail"
-        },
-        {
-          "title": "Силуанов заявил, что Минфин РФ в бюджете на 2026 год закладывает ключевую ставку 12-13%",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1048094",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Минфин анонсировал снижение зависимости бюджета от нефтегаза",
-          "snippet": "",
-          "url": "https://expert.ru/ekonomika/byudzhet-ochishchayut-ot-nefti/",
-          "source": "Эксперт"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Thu, 18 Sep 2025 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wyCaeEJ7Gd7Jg4yF9Wc9i1Muh4YbJ57Ib9PdkkD6XIc48c2GunIfZxV2wM8",
-      "pictureSource": "India TV News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZIpw0XoL7L-4EgyqrxAc92u8CXpwmmyq-IlWY5v2YUSQ-xjbge0Uim4u6qU",
+      "pictureSource": "Yahoo News UK",
       "relatedSearch": [
         {
-          "title": "Maharashtra weather update: IMD predicts heavy rains for several districts today, these areas to be effected",
+          "title": "What the weather will be like in Warrington this weekend?",
           "snippet": "",
-          "url": "https://www.indiatvnews.com/maharashtra/maharashtra-weather-update-imd-predicts-heavy-rains-for-several-districts-today-these-areas-to-be-effected-2025-09-19-1008923",
-          "source": "India TV News"
+          "url": "https://uk.news.yahoo.com/weather-warrington-weekend-040000374.html",
+          "source": "Yahoo News UK"
         },
         {
-          "title": "Heavy rain triggers red alert in Mumbai, traffic hit due to waterlogging",
+          "title": "What the weather will be like in Warrington this weekend?",
           "snippet": "",
-          "url": "https://firstindia.co.in/articles/heavy-rain-triggers-red-alert-in-mumbai-traffic-hit-due-to-waterlogging",
-          "source": "First India"
+          "url": "https://www.warringtonguardian.co.uk/news/25477643.warrington-weather-warning-issued-met-office-weekend/",
+          "source": "Warrington Guardian"
         },
         {
-          "title": "Mumbai weather updates: City braces for moderate rain, high tides today",
+          "title": "Moderate Rainfall Predicted in Pune for Next Two Days: IMD",
           "snippet": "",
-          "url": "https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-weather-updates-city-braces-for-moderate-rain-high-tides-today-23594590",
-          "source": "Mid-day"
+          "url": "https://www.punekarnews.in/moderate-rainfall-predicted-in-pune-for-next-two-days-imd/",
+          "source": "Punekar News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,9 +127,9 @@
           "source": "Взгляд-инфо"
         },
         {
-          "title": "В Саратовской области обещают день с теплым ветром и температурой до +26",
+          "title": "В Саратове прогнозируют потепление до +24 градусов",
           "snippet": "",
-          "url": "http://www.4vsar.ru/news/v-saratovskoi-oblasti-obeschaut-den-201286/",
+          "url": "https://www.4vsar.ru/news/v-saratove-prognoziryut-poteplenie-do-201257/",
           "source": "Четвертая власть"
         },
         {
@@ -173,26 +173,26 @@
       "title": "я",
       "trafficCount": "200+",
       "pubDate": "Thu, 18 Sep 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqoeNEYcVFBLy81A4sIyHvXXSMPCONetLX9RpFmHnenXya6J3uJ7hrO5lxMY",
-      "pictureSource": "Sportbox",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHwnweZzZvB804gTU0k25TtlX_f6OSRG3u53VaTWatLawGYmB8W1eFwPcWtY",
+      "pictureSource": "Спорт Mail",
       "relatedSearch": [
         {
-          "title": "Капризов — об отклоненном предложении «Миннесоты»: «Я не знаю, кто такое говорит, и стараюсь не смотреть новости»",
+          "title": "Эттинджер о замене в 5-м матче серии с «Эдмонтоном»: «Я посмеюсь над этим, когда “Даллас” выиграет все. Буду вспоминать о том, через что мне пришлось пройти»",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/NHL/spbnews_NI2245677_Kaprizov__ob_otklonennom_predlozhenii_Minnesoty_Ja_ne_znaju_kto_takoje_govorit_i_starajus_ne_smotret_novosti",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Генменеджер «Миннесоты» — о переговорах по новому контракту Капризова: «Работаем над этим. Делаем все возможное»",
-          "snippet": "",
-          "url": "https://matchtv.ru/hockey/matchtvnews_NI2245560_Genmenedzher_Minnesoty__o_peregovorah_po_novomu_kontraktu_Kaprizova_Rabotajem_nad_etim_Delajem_vse_vozmozhnoje",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Капризов о переговорах с «Миннесотой»: «Сейчас 2025-й, еще много времени. Хочу сосредоточиться на хоккее, провести полный сезон. Мне нравится в “Уайлд”",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/hockey/67955422/",
+          "url": "https://sportmail.ru/news/hockey/67957874/",
           "source": "Спорт Mail"
+        },
+        {
+          "title": "новости: \"ДеБур раскрывает правду о скандале с Оттинджером\" - 2025-09-14",
+          "snippet": "",
+          "url": "https://nhl.ru/news/show/168023.html",
+          "source": "NHL.RU - территория НХЛ"
+        },
+        {
+          "title": "Дебур жалеет о словах про Эттингера: «Я должен был защитить команду»",
+          "snippet": "",
+          "url": "https://stavkiprognozy.ru/novosti/hockey/piter_debur_v_porazheniyakh_dallasa_ot_edmontona_vinovaty_vse_a_ne_tolko_ettinger_tok",
+          "source": "СтавкиПрогнозы"
         }
       ],
       "link": "https://imtaqin.id/"
