@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-09-21 11:21:20",
+  "lastUpdate": "2025-09-21 11:28:08",
   "data": [
     {
       "title": "f1",
       "trafficCount": "1000+",
       "pubDate": "Sun, 21 Sep 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToFMSA6uqEXNjWA2bHWtFHUujwOUx7KRCKF5BkkbvQcX2FK0UrEaaHq5iMHfs",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ4AC9NMQBmfX4LbWO-mCS3Vg_JACar1dbQmWA0YCl1NxpApG68g_zs7P4ffg",
       "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "F1 LIVE: Azerbaijan Grand Prix 2025 UK start time, grid & radio from Baku",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/sport/formula1/live/c0jq76vjj28t",
+          "source": "BBC"
+        },
         {
           "title": "Azerbaijan Grand Prix: Max Verstappen takes pole after record six red flags",
           "snippet": "",
@@ -19,40 +25,6 @@
           "snippet": "",
           "url": "https://www.theguardian.com/sport/live/2025/sep/20/formula-one-azerbaijan-grand-prix-qualifying-updates-live",
           "source": "The Guardian"
-        },
-        {
-          "title": "Beganovic earns maiden F2 win in Baku",
-          "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/f2-beganovic-earns-maiden-win-with-dominant-sprint-race-victory.4v6DYQZ48dRSmfpFJReC0I",
-          "source": "F1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "baku",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 21 Sep 2025 04:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-d5Eq_ULw1hYQ58r9vBAGgQABrGI3jzZ-0E_X7selbgY4ISqBNZt9fs8FsFQ",
-      "pictureSource": "Sport.cz",
-      "relatedSearch": [
-        {
-          "title": "Staněk vyšel v Baku bodově naprázdno. V hlavním závodě skončil třináctý",
-          "snippet": "",
-          "url": "https://www.sport.cz/clanek/moto-formule-1-stanka-ceka-tezky-boj-o-body-v-baku-bude-podruhe-startovat-ze-zadnich-rad-5297331",
-          "source": "Sport.cz"
-        },
-        {
-          "title": "Staněk ve sprintu v Baku nebodoval, v závodu formule 2 skončil jedenáctý",
-          "snippet": "",
-          "url": "https://www.idnes.cz/sport/formule/roman-stanek-baku-formule-2-sprint.A250920_142412_formule_jrv",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "F2 v Baku ovládl Crawford, Staněk potřetí za sebou nebodoval",
-          "snippet": "",
-          "url": "https://sport.ceskatelevize.cz/clanek/motorsport/f2-v-baku-ovladl-crawford-stanek-potreti-za-sebou-nebodoval/68cfcdcc04cd4bad852b4c1e",
-          "source": "ČT sport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "baku",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 21 Sep 2025 04:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-d5Eq_ULw1hYQ58r9vBAGgQABrGI3jzZ-0E_X7selbgY4ISqBNZt9fs8FsFQ",
+      "pictureSource": "Sport.cz",
+      "relatedSearch": [
+        {
+          "title": "Staněk vyšel v Baku bodově naprázdno. V hlavním závodě skončil třináctý",
+          "snippet": "",
+          "url": "https://www.sport.cz/clanek/moto-formule-1-stanka-ceka-tezky-boj-o-body-v-baku-bude-podruhe-startovat-ze-zadnich-rad-5297331",
+          "source": "Sport.cz"
+        },
+        {
+          "title": "Staněk ve sprintu v Baku nebodoval, v závodu formule 2 skončil jedenáctý",
+          "snippet": "",
+          "url": "https://www.idnes.cz/sport/formule/roman-stanek-baku-formule-2-sprint.A250920_142412_formule_jrv",
+          "source": "iDNES.cz"
+        },
+        {
+          "title": "F2 v Baku ovládl Crawford, Staněk potřetí za sebou nebodoval",
+          "snippet": "",
+          "url": "https://sport.ceskatelevize.cz/clanek/motorsport/f2-v-baku-ovladl-crawford-stanek-potreti-za-sebou-nebodoval/68cfcdcc04cd4bad852b4c1e",
+          "source": "ČT sport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nehoda d1",
       "trafficCount": "100+",
       "pubDate": "Sun, 21 Sep 2025 04:10:00 -0700",
@@ -99,16 +99,66 @@
           "source": "Novinky"
         },
         {
-          "title": "Dálnici D1 blokují tři řetězové nehody. Havarovalo při nich 11 aut",
+          "title": "Hromadná nehoda aut uzavřela dálnici D1 ve směru na Prahu kousek od metropole",
           "snippet": "",
-          "url": "https://tn.nova.cz/zpravodajstvi/clanek/629612-dalnici-d1-zablokovaly-tri-nehody-havarovalo-pri-nich-11-aut",
-          "source": "TN.cz"
+          "url": "https://prazsky.denik.cz/nehody/hromadna-nehoda-aut-uzavrela-dalnici-d1.html",
+          "source": "Pražský deník"
         },
         {
-          "title": "Na železnici v Česku zemřeli dnes již tři lidé.",
+          "title": "D1 je poblíž Jažlovic u Prahy uzavřená. Na dálnici došlo ke třem nehodám, celkem se střetlo 11 vozů",
           "snippet": "",
-          "url": "https://denikn.cz/minuta/1842575/",
-          "source": "Deník N"
+          "url": "https://www.irozhlas.cz/zpravy-domov/d1-je-pobliz-jazlovic-u-prahy-uzavrena-na-dalnici-doslo-ke-trem-nehodam-celkem_2509211205_ntu",
+          "source": "iROZHLAS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "lucie šafránková",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 21 Sep 2025 04:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy22ZWK-quKlbIBhS7OJsgvrVja0Ygaf9V61Jeef9lYaW4vhnN0_tpoOA6dx4",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Referendum o NATO a EU? Nejdřív za pět let, řekla poslankyně SPD",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/domaci-referendum-o-nato-a-eu-nejdriv-za-pet-let-rekla-poslankyne-spd-40539883",
+          "source": "Novinky"
+        },
+        {
+          "title": "Šafránková: Referendum o NATO by se mohlo odehrát nejdřív za pět let",
+          "snippet": "",
+          "url": "https://www.ceskenoviny.cz/zpravy/safrankova-referendum-o-nato-by-se-mohlo-odehrat-nejdriv-za-pet-let/2723732",
+          "source": "České noviny"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "azerbaijan",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 21 Sep 2025 04:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYb4--Wuhv6xvVAvpUZofE83IZL3dKWGosiKrp2bPPBu2zIGspCZ-Hil8Uw0c",
+      "pictureSource": "F1",
+      "relatedSearch": [
+        {
+          "title": "OFFICIAL GRID: Who starts where in Azerbaijan as Verstappen and Sainz fill front row",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-in-azerbaijan-as-verstappen-and-sainz-fill.2rz3jCGF3D0qmqnQVfSTqS",
+          "source": "F1"
+        },
+        {
+          "title": "Verstappen grabs pole for Azerbaijan GP as Piastri crashes out in F1 qualifying chaos",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/2025/sep/20/verstappen-pole-azerbaijan-gp-piastri-crashes-out-f1-qualifying-chaos",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Lando Norris denies suggestion of missed opportunity in Baku qualifying",
+          "snippet": "",
+          "url": "https://www.espn.com/f1/story/_/id/46323020/lando-norris-denies-suggestion-missed-opportunity",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,21 +239,27 @@
           "source": "iSport.cz"
         },
         {
-          "title": "Zemřel člen naší biatlonové rodiny Jan Vaňha",
+          "title": "Smutek v biatlonové reprezentaci. Zemřel bývalý závodník a trenér (†19)",
           "snippet": "",
-          "url": "https://www.biatlon.cz/2025/09/21/zemrel-clen-nasi-biatlonove-rodiny-jan-vanha/",
-          "source": "Český biatlon"
+          "url": "https://tn.nova.cz/sport/clanek/629613-smutek-v-biatlonove-reprezentaci-zemrel-byvaly-zavodnik-a-trener-19",
+          "source": "TN.cz"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "dukla – bohemians",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 21 Sep 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBPz3h3P6mcb83Y_a7o41YXTLfukUQyvPUseXpo35wqaLo9vI2JOaeAkfoWqw",
-      "pictureSource": "iSport.cz",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5Jw7t80DMTtTNXw_SeUgufVXw1pWXdBbyNw_jOhD_jCaKEWfmRKAbLyEI5LY",
+      "pictureSource": "iDNES.cz",
       "relatedSearch": [
+        {
+          "title": "ONLINE: Dukla - Bohemians 0:0, pražský souboj, týmy v tabulce dělí tři body",
+          "snippet": "",
+          "url": "https://www.idnes.cz/fotbal/prvni-liga/chance-liga-9-kolo-dukla-bohemians-online-zpravodajstvi.A250919_133109_fotbal_tals",
+          "source": "iDNES.cz"
+        },
         {
           "title": "ONLINE: Dukla - Bohemians. Kdo uspěje v malém pražském derby?",
           "snippet": "",
@@ -215,68 +271,6 @@
           "snippet": "",
           "url": "https://www.sport.cz/clanek/online-fotbal-chance-liga-dukla-bohemians-20-09-2025-5251587",
           "source": "Sport.cz"
-        },
-        {
-          "title": "ONLINE: Dukla - Bohemians 0:0, pražský souboj, týmy v tabulce dělí tři body",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/prvni-liga/chance-liga-9-kolo-dukla-bohemians-online-zpravodajstvi.A250919_133109_fotbal_tals",
-          "source": "iDNES.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "is fačr",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 21 Sep 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmyEG2Aw_7jwO_ZlyiCGa1M9ek1mSVS1CZ-nYZiyZ2KhrY_3o6Y2nkCccTSGA",
-      "pictureSource": "iDNES.cz",
-      "relatedSearch": [
-        {
-          "title": "Krejčímu první trefa zhořkla. Liverpool je i po derby suverénní, šlágr pro Manchester",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/zahranici/premier-league-anglicka-liga-5-kolo-liverpool-everton.A250919_124118_fot_zahranici_min",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "Ladislav Krejčí se poprvé střelecky prosadil v Premier League",
-          "snippet": "",
-          "url": "https://www.fotbal.cz/repre/ladislav-krejci-se-poprve-strelecky-prosadil-v-premier-league/a22935",
-          "source": "FOTBAL.CZ"
-        },
-        {
-          "title": "Video: Fantazie! Krejčí dal první gól v Premier League po osmi minutách na hřišti. Podívejte se",
-          "snippet": "",
-          "url": "https://www.footballclub.cz/venku/video-fantazie-krejci-dal-prvni-gol-v-premier-league-po-osmi-minutach-na-hristi-podivejte-se",
-          "source": "Footballclub.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "turecko požáry",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 21 Sep 2025 03:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTCNqG5whI_2YX5EHCNsfC6vYSOOx7K2k2cEm2Ke021WKqObQW9i4cNy4lFdY",
-      "pictureSource": "Novinky",
-      "relatedSearch": [
-        {
-          "title": "Tureckou riviéru sužují rozsáhlé požáry. Evakuovat museli i hosty z hotelů",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/zahranicni-svet-tureckou-rivieru-suzuji-rozsahle-pozary-evakuovat-museli-i-hosty-z-hotelu-40539833",
-          "source": "Novinky"
-        },
-        {
-          "title": "Požár v oblíbené turistické destinaci. Reportér TV Nova natočil řádění plamenů",
-          "snippet": "",
-          "url": "https://tn.nova.cz/zpravodajstvi/clanek/629486-pozar-v-oblibene-turisticke-destinaci-reporter-tv-nova-natocil-radeni-plamenu",
-          "source": "TN.cz"
-        },
-        {
-          "title": "Prázdné hotely, uzavřené školy. Hašení požárů v Turecku komplikuje silný vítr",
-          "snippet": "",
-          "url": "https://www.denik.cz/staty-mimo-eu/pozary-v-turecku-zari-antalya-mugla.html",
-          "source": "Deník.cz"
         }
       ],
       "link": "https://imtaqin.id/"
