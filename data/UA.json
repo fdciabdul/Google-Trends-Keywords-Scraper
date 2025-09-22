@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2025-09-22 10:56:52",
+  "lastUpdate": "2025-09-22 11:05:21",
   "data": [
+    {
+      "title": "павлоград",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 22 Sep 2025 03:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-rZNfaTP7zVvFtTVMibqQYwDQm_C4t72xXmajRcGDCbOHgAtcW9-bf0nSc54",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Россияне атаковали Днепропетровскую область: горели дома, автомобили и предприятие",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/09/22/7531883/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Днепре количество пострадавших из-за атаки РФ возросло до 36",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/dnipri-kilkist-postrazhdalih-cherez-ataku-1758383599.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В результате вражеских атак на Днепропетровщине два человека ранены, повреждена инфраструктура",
+          "snippet": "",
+          "url": "https://ru.interfax.com.ua/news/general/1106323.html",
+          "source": "Интерфакс-Украина - новости Украины и мира"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "воронеж",
       "trafficCount": "500+",
       "pubDate": "Mon, 22 Sep 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmhOpa5cRlIHmYI8up0r6ag83AU4eI84HXf-9kLdVy3yjHxJStaDrYxfYEtTs",
-      "pictureSource": "URA.RU",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHzYsb_5FC9Yk5Ybze3IeT_5ZKVr71Sdnfr37Hd5q_MM76JuVTRrAuVt1iAD0",
+      "pictureSource": "Вокруг света",
       "relatedSearch": [
-        {
-          "title": "Еще один аэропорт с юга России готов возобновить свою работу",
-          "snippet": "",
-          "url": "https://ura.news/news/1052999418",
-          "source": "URA.RU"
-        },
         {
           "title": "Четвертый пошел? Чиновники вдруг заговорили про аэропорт Воронежа, закрытый с февраля 2022 года",
           "snippet": "",
@@ -25,13 +47,19 @@
           "snippet": "",
           "url": "https://news.rambler.ua/community/55337615-gusev-zayavil-o-gotovnosti-aeroporta-voronezha-nachat-rabotu/",
           "source": "Рамблер/новости"
+        },
+        {
+          "title": "К возобновлению работы после снятия ограничений готов воронежский аэропорт",
+          "snippet": "",
+          "url": "https://obozvrn.ru/archives/333694",
+          "source": "Обозреватель.Врн"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "сальдо",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 22 Sep 2025 03:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -98,17 +126,11 @@
       "title": "київстар",
       "trafficCount": "200+",
       "pubDate": "Mon, 22 Sep 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1zU1hK82Tq--uOHTN9q8IbKYBQzrtfcIdHXXwzVE1hN9QZ7YWBGDzwqrE9Rg",
-      "pictureSource": "Minfin.com.ua",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-aFwQ5LAc7_dDHiXzXVJWDZN_R3-BnGI8KUgvuUblyTzGn6QvdNAruJ481qk",
+      "pictureSource": "24 Канал",
       "relatedSearch": [
         {
-          "title": "«Київстар» підвищує тарифи: кому та скільки доведеться платити",
-          "snippet": "",
-          "url": "https://minfin.com.ua/ua/2025/09/22/159054118/",
-          "source": "Minfin.com.ua"
-        },
-        {
-          "title": "Київстар змінює тарифи: до чого готуватися українцям",
+          "title": "Тарифи від Киїстару - що зміниться найближчими часом - Економіка 24",
           "snippet": "",
           "url": "https://24tv.ua/economy/tarifi-vid-kiyistaru-shho-zminitsya-nayblizhchimi-chasom-24_n2919096",
           "source": "24 Канал"
@@ -118,6 +140,12 @@
           "snippet": "",
           "url": "https://glavcom.ua/techno/telecom/pidvishchennja-tarifiv-kijivstar-jak-zminitsja-vartist-posluh-1079622.html",
           "source": "Главком"
+        },
+        {
+          "title": "\"Київстар\" знову підвищує тарифи: скільки доведеться платити",
+          "snippet": "",
+          "url": "https://delo.ua/news/kiyivstar-znovu-pidvishhuje-tarifi-yak-zminitsya-vartist-452734/",
+          "source": "Delo.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,10 +179,10 @@
           "source": "Business Insider"
         },
         {
-          "title": "H-1B FAQ",
+          "title": "US Department of Labor launches Project Firewall to protect America’s highly skilled workforce",
           "snippet": "",
-          "url": "https://www.uscis.gov/newsroom/alerts/h-1b-faq",
-          "source": "USCIS (.gov)"
+          "url": "https://www.dol.gov/newsroom/releases/osec/osec20250919",
+          "source": "U.S. Department of Labor (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -188,57 +216,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "осіннє рівнодення 2025",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 21 Sep 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUd6hOkROe8Ls3_dj9oybxQoBlf9X0EHJhe0qxc6J4DG8bc_MWVBp4tref3_E",
-      "pictureSource": "УНІАН",
+      "title": "бе 12",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 21 Sep 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVZ7QnYdNUqPOIFI8qWYJ4v-JNYnzyI0LuodVbHY3If4J-yhWq1E_IXibcqPU",
+      "pictureSource": "Головне управління розвідки МО України",
       "relatedSearch": [
         {
-          "title": "Осіннє рівнодення 2025: які ритуали принесуть удачу і захист",
+          "title": "Вперше в історії ― “Примари” ГУР у Криму спалили два ворожі літаки-амфібії Бе-12 “Чайка”",
           "snippet": "",
-          "url": "https://www.unian.ua/lite/holidays/kogda-den-osennego-ravnodenstviya-tochnaya-data-primety-i-zaprety-13128777.html",
-          "source": "УНІАН"
+          "url": "https://gur.gov.ua/content/vpershe-v-istorii-prymary-hur-u-krymu-spalyly-dva-vorozhi-litakyamfibii-be12-chaika.html",
+          "source": "Головне управління розвідки МО України"
         },
         {
-          "title": "Осіннє рівнодення 22 вересня 2025 року: три ритуали для родючості та щедрості",
+          "title": "Вперше в історії: у Криму спалили два ворожі літаки-амфібії Бе-12",
           "snippet": "",
-          "url": "https://tsn.ua/astrologiya/osinnye-rivnodennia-22-veresnia-2025-roku-try-rytualy-dlia-rodiuchosti-ta-shchedrosti-2917529.html",
-          "source": "ТСН"
+          "url": "https://armyinform.com.ua/2025/09/22/vpershe-v-istoriyi-u-krymu-spalyly-dva-vorozhi-litaky-amfibiyi-be-12/",
+          "source": "АрміяInform – Інформаційне агентство АрміяInform"
         },
         {
-          "title": "Сьогодні осіннє рівнодення: що це означає",
+          "title": "Спецпідрозділ ГУР «Примари» спалив у Криму два російські літаки-амфібії та уразив гелікоптер",
           "snippet": "",
-          "url": "https://tvoemisto.tv/news/osinnie_rivnodennya_koly_vidbudetsya_u_2025_rotsi_179775.html",
-          "source": "Твоє Місто"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "карлос алькарас",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 21 Sep 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeaIH9wq37G5c6MesHovpPiGZW6MRObOZjOBCiCi9cikOuk0fnSd-F4sRk8_U",
-      "pictureSource": "Tribuna.com",
-      "relatedSearch": [
-        {
-          "title": "Сборная Мира выиграла Кубок Лейвера",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/tennis/1000000281154-zbirna-svitu-vyhrala-kubok-leyvera/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "С кем сыграет Алькарас? Расписание третьего и решающего дня Кубка Лейвера",
-          "snippet": "",
-          "url": "https://sport.ua/news/799726-s-kem-sygraet-alkaras-raspisanie-tretyego-i-reshayushchego-dnya-kubka-leyvera",
-          "source": "Sport.ua"
-        },
-        {
-          "title": "Тэйлор Фриц рассказал, за счёт чего обыграл Алькараса на Кубке Лэйвера",
-          "snippet": "",
-          "url": "https://gotennis.ru/read/news/tejilor_frits_rasskazal_za_schyot_chego_obygral_alkarasa_na_kubke_lejivera.html",
-          "source": "GoTennis.ru"
+          "url": "https://www.ukrinform.ua/rubric-ato/4038933-specpidrozdil-gur-primari-spaliv-u-krimu-dva-rosijski-litakiamfibii-ta-urazili-gelikopter.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
