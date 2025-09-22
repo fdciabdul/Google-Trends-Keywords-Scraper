@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-22 21:19:45",
+  "lastUpdate": "2025-09-22 21:28:05",
   "data": [
     {
       "title": "新聞",
@@ -86,10 +86,10 @@
           "source": "Gamereactor China"
         },
         {
-          "title": "獲得五個獎項的歷史排名",
+          "title": "巴塞羅那足球俱樂部明星在Ballon d’Or儀式上獲勝",
           "snippet": "",
-          "url": "https://www.arch-web.com.tw/%E7%BB%BC%E5%90%88%E6%96%B0%E9%97%BB/%E7%8D%B2%E5%BE%97%E4%BA%94%E5%80%8B%E7%8D%8E%E9%A0%85%E7%9A%84%E6%AD%B7%E5%8F%B2%E6%8E%92%E5%90%8D/70062/",
-          "source": "ARCH雅趣"
+          "url": "https://mtgamer.com/%E5%95%86%E6%A5%AD/%E5%B7%B4%E5%A1%9E%E7%BE%85%E9%82%A3%E8%B6%B3%E7%90%83%E4%BF%B1%E6%A8%82%E9%83%A8%E6%98%8E%E6%98%9F%E5%9C%A8ballon-dor%E5%84%80%E5%BC%8F%E4%B8%8A%E7%8D%B2%E5%8B%9D/10276/",
+          "source": "MTGamer"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,15 +126,9 @@
       "title": "ballon d'or 2025",
       "trafficCount": "200+",
       "pubDate": "Mon, 22 Sep 2025 10:00:00 -0700",
-      "picture": "",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyFDV6WiAyR5eSGEM_y66tIdFX7h2MUB2GfTchqoEfxof2oz1JQ2KG7VpuLQ",
+      "pictureSource": "UEFA.com",
       "relatedSearch": [
-        {
-          "title": "Ballon d'Or 2025: Paris St-Germain's Ousmane Dembele wins award",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9v71gxp02ro",
-          "source": "BBC"
-        },
         {
           "title": "Where to watch the Ballon d'Or: TV broadcast partners, live streams",
           "snippet": "",
@@ -146,6 +140,12 @@
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/live/cdr6kzzlzn0t",
           "source": "BBC"
+        },
+        {
+          "title": "Ousmane Dembele wins Ballon d'Or after fending off Barcelona superstar Lamine Yamal to claim world's biggest individual prize",
+          "snippet": "",
+          "url": "https://au.sports.yahoo.com/ousmane-dembele-wins-ballon-dor-184938502.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -191,20 +191,20 @@
       "title": "openai",
       "trafficCount": "1000+",
       "pubDate": "Mon, 22 Sep 2025 09:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWig7RTpuCh3zk8M28ZPdWpbLFo0DemTyEW4pSeFh6tbtx0he08wlbj3FrK0Y",
-      "pictureSource": "NVIDIA Newsroom",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlUp_lNnh-ixK_7jpaaFqU_MRf0Vyp4FxOcM70cXNJzU54PnLxcXP9QrMmBUw",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
-        {
-          "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
-          "snippet": "",
-          "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
-          "source": "NVIDIA Newsroom"
-        },
         {
           "title": "Stock market today: Dow, S&P 500, Nasdaq hit 3rd record in a row as Nvidia soars on OpenAI deal",
           "snippet": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-hit-3rd-record-in-a-row-as-nvidia-soars-on-openai-deal-200011974.html",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
+          "snippet": "",
+          "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+          "source": "NVIDIA Newsroom"
         },
         {
           "title": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout",
