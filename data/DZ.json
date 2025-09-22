@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-22 06:06:38",
+  "lastUpdate": "2025-09-22 06:20:34",
   "data": [
     {
       "title": "météo",
@@ -31,7 +31,7 @@
     },
     {
       "title": "الطقس",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 21 Sep 2025 22:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ59lHlT9kRFtMe_EilWT3jN-WFtgTLCXthrrv5J7CzMLIGFKbFkfQbVWSuBBM",
       "pictureSource": "بوابة الزهراء",
@@ -59,28 +59,56 @@
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 21 Sep 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUoH0UN2KK9lFcAaL_uw0otfADzJU_I5i68uc1bWyyMPPL0zOUmjHMimKwI4",
-      "pictureSource": "The Indian Express",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQERNUHka151VopVP2Yj2loBRuNmcytgt1KNTMRazPxta7Pd-7Iyick5BWtnj0",
+      "pictureSource": "Ukrinform",
       "relatedSearch": [
         {
-          "title": "10 days still to go, 393-mm rain: Mumbai surpasses rainfall quota for Sept",
+          "title": "Russian army attempts to seize small settlements on way to Kostiantynivka – Tregubov",
           "snippet": "",
-          "url": "https://indianexpress.com/article/cities/mumbai/10-days-still-to-go-393-mm-rain-mumbai-surpasses-rainfall-quota-for-sept-10261880/",
-          "source": "The Indian Express"
+          "url": "https://www.ukrinform.net/rubric-ato/4038804-russian-army-attempts-to-seize-small-settlements-on-way-to-kostiantynivka-tregubov.html",
+          "source": "Ukrinform"
         },
         {
-          "title": "Weather Alert: Heavy Rain Forecast in Maharashtra, IMD Issues Yellow Alert for 25 Districts",
+          "title": "Dnipro Region Update: Security, Weather, and Safety on September 22, 2025",
           "snippet": "",
-          "url": "https://www.mypunepulse.com/weather-alert-heavy-rain-forecast-in-maharashtra-imd-issues-yellow-alert-for-25-districts/",
-          "source": "PUNE PULSE"
+          "url": "https://mezha.net/eng/bukvy/dnipro-region-update-security-weather-and-safety-on-september-22-2025/",
+          "source": "mezha.net"
         },
         {
-          "title": "Weather Update : Rain Intensity Likely to Increase in the State from This Date",
+          "title": "Russians are trying to gain a foothold in the Dnipropetrovsk region: what is known about the enemy's tactics",
           "snippet": "",
-          "url": "https://english.lokshahi.com/maharashtra/maharashtra-weather-update-heavy-rainfall-8",
-          "source": "Lokshahi English News"
+          "url": "https://prm.ua/en/russians-are-trying-to-gain-a-foothold-in-the-dnipropetrovsk-region-what-is-known-about-the-enemys-tactics/",
+          "source": "Прямий"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 21 Sep 2025 22:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJQcsRH08Ffwh7IP6NdfBwoV2ypQXsgpYnVUueN_jYno8cX7Hu0fPFdPlFPIU",
+      "pictureSource": "طقس العرب",
+      "relatedSearch": [
+        {
+          "title": "3 أمور يجب أن تعلمها عن مُنخفض البحر الأحمر و تأثيره على الأردن الأيام القادمة",
+          "snippet": "",
+          "url": "https://www.arabiaweather.com/ar/content/3-%D8%A3%D9%85%D9%88%D8%B1-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D8%AA%D8%B9%D9%84%D9%85%D9%87%D8%A7-%D8%B9%D9%86-%D9%85%D9%8F%D9%86%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88-%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D9%84%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9",
+          "source": "طقس العرب"
+        },
+        {
+          "title": "طقس معتدل الحرارة حتى الأربعاء...",
+          "snippet": "",
+          "url": "https://alghad.com/Section-199/%D8%A7%D9%84%D8%BA%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A/%D8%B7%D9%82%D8%B3-%D9%85%D8%B9%D8%AA%D8%AF%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-2046922",
+          "source": "جريدة الغد"
+        },
+        {
+          "title": "«تقلبات جوية مرتقبة» حالة الطقس في عمان توقعات بدرجات الحرارة المتوقعة من السبت حتى الاثنين",
+          "snippet": "",
+          "url": "https://iqraa24.com/137011/%D8%AA%D9%82%D9%84%D8%A8%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%81%D9%8A-%D8%B9%D9%85%D8%A7/",
+          "source": "اقرأ 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +143,7 @@
     },
     {
       "title": "ياسمين عبد العزيز",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 21 Sep 2025 13:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE4cJPk0Jmh4pFceulfcC0UMqxE7-wDbpkcxYqFyITl6-Hbe3Z1L747YWPByA",
       "pictureSource": "إرم نيوز",
@@ -201,26 +229,26 @@
       "title": "fcb",
       "trafficCount": "1000+",
       "pubDate": "Sun, 21 Sep 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmwOxEgzMu8aNf3jGwF4WuJ-G9zpA_ZPyv6UOZVf6n9_oOtQXF9uMnjYtdmU",
-      "pictureSource": "beIN SPORTS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruQfFI9OmqH2pagiHVsArtTIT_6AHHKImkjryFNtqqbI74aEo9MO3TzSjCcM",
+      "pictureSource": "madrid-barcelona.com",
       "relatedSearch": [
         {
-          "title": "Flick calls for united front in Barca squad ahead of busy fixture schedule",
+          "title": "There's a surprise! Laporta already has his new David Beckham: 'Electoral hook for 2026'",
           "snippet": "",
-          "url": "https://www.beinsports.com/en-asia/football/primera-divisin/articles/flick-calls-for-united-front-in-barca-squad-ahead-of-busy-fixture-schedule-2025-09-21",
-          "source": "beIN SPORTS"
+          "url": "https://madrid-barcelona.com/en/fc-barcelona/there-is-a-surprise-laporta-already-has-his-new-david-beckham-electoral-hook-for-2026",
+          "source": "madrid-barcelona.com"
         },
         {
-          "title": "How did Hansi Flick instill so much confidence in Barcelona?",
+          "title": "He's leaving for Juventus and a top-level player is coming: unbearable situation, Cubarsí and Koundé know it",
           "snippet": "",
-          "url": "https://foot-africa.com/en/news/how-did-hansi-flick-instill-so-much-confidence-in-barcelona-888645/",
-          "source": "Foot Africa"
+          "url": "https://carpetasfcb.com/en/male/unsustainable-situation-cubarsi-and-kounde-know-it-juventus-arrives-top",
+          "source": "carpetasfcb.com"
         },
         {
-          "title": "Hansi Flick fires squad demand as Barcelona face demanding schedule",
+          "title": "Hansi Flick considers only one Barcelona defender ‘untouchable’",
           "snippet": "",
-          "url": "https://www.football-espana.net/2025/09/21/hansi-flick-squad-demand-barcelona-schedule",
-          "source": "Football Espana"
+          "url": "https://beritasriwijaya.co.id/en/hansi-flick-considers-only-one-barcelona-defender-untouchable-ca-sports-yahoo-com/",
+          "source": "Beritasriwijaya.co.id"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.eurosport.fr/football/la-liga/2025-2026/liga-le-fc-barcelone-deroule-contre-getafe-et-reste-dans-le-sillage-du-real-madrid_sto23224126/story.shtml",
           "source": "Eurosport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "inter milan",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 21 Sep 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRftj7SNqdsOKQb4aErJlxC0Vs89JgOVDZy11H7D4PdNZzdQmUjvZPm1UzDuCk",
-      "pictureSource": "beIN SPORTS",
-      "relatedSearch": [
-        {
-          "title": "Inter 2-1 Sassuolo: Nervy win gets Chivu's title hopefuls back on track",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-my/football/serie-a/articles/inter-2-1-sassuolo-nervy-win-gets-chivus-title-hopefuls-back-on-track-2025-09-21",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "Chivu: \"It was important to win, with sacrifice and character\"",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/chivu-it-was-important-to-win-with-sacrifice-and-character-41698463",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Luis Henrique: \"I work hard for these opportunities: I feel everyone's trust\"",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/luis-henrique-hard-opportunities-feel-210000575.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
