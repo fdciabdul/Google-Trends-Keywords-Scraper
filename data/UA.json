@@ -1,6 +1,15 @@
 {
-  "lastUpdate": "2025-09-22 03:31:08",
+  "lastUpdate": "2025-09-22 03:46:27",
   "data": [
+    {
+      "title": "новини укрнет",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 21 Sep 2025 20:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "чемпионат германии",
       "trafficCount": "100+",
@@ -33,9 +42,28 @@
       "title": "новости запорожья",
       "trafficCount": "200+",
       "pubDate": "Sun, 21 Sep 2025 18:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3P6M5lwwW--NAsTE_2ajvBF0DMFxj7u4rCHu0xj54hJELOehL30GpE5mMv1M",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Россия обстреляла объекты гражданской инфраструктуры в Запорожье: уничтожены автомобили, бушуют пожары",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/09/22/7531877/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "РФ атаковала объект гражданской инфраструктуры в Запорожье",
+          "snippet": "",
+          "url": "https://news.novyny.live/ru/rf-atakuvala-obiekt-tsivilnoyi-infrastrukturi-u-zaporizhzhi-282469.html",
+          "source": "Новини Live"
+        },
+        {
+          "title": "В Гуляйполе российский дрон убил супружескую пару в гражданском авто",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/gulyaypoli-rosiyskiy-dron-vbiv-podruzhzhya-1758304576.html",
+          "source": "РБК-Україна"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -211,34 +239,6 @@
           "snippet": "",
           "url": "https://ua.tribuna.com/football/blogs/3148017-u-merezhu-prosochylosya-imya-peremozhtsya-zolotoho-myacha-i-vo/",
           "source": "Tribuna.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "барселона – хетафе",
-      "trafficCount": "10000+",
-      "pubDate": "Sun, 21 Sep 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY3pnJJFmMV-foLcC0nojKvSxjM86JCYVgm6Zuvkbam_asqU6PjbH22XENU9M",
-      "pictureSource": "Champion.com.ua",
-      "relatedSearch": [
-        {
-          "title": "Флик не включил Рашфорда в основу Барселоны из-за опоздания",
-          "snippet": "",
-          "url": "https://champion.com.ua/rus/football/flik-snova-izmenil-startovyy-sostav-barselony-iz-za-disciplinarnogo-narusheniya-igroka-1050731/",
-          "source": "Champion.com.ua"
-        },
-        {
-          "title": "Фермин получил травму в матче с «Хетафе»",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000281122-fermin-otrymav-travmu-u-matchi-z-khetafe/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Дубль Феррана. Барселона разгромила Хетафе и продолжает погоню за Реалом",
-          "snippet": "",
-          "url": "https://sport.ua/news/799858-dubl-ferrana-barselona-razgromila-hetafe-i-prodolzhaet-pogonyu-za-realom",
-          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"
