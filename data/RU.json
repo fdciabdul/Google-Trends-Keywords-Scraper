@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-09-24 00:35:03",
+  "lastUpdate": "2025-09-24 01:01:24",
   "data": [
+    {
+      "title": "новости россии",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 23 Sep 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3P_cYXSy3B1ncNXIhuZmgABkPQJlxbuAdnZfQ584dqoZf2MvSe704ApRxUe0",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Страны G7 обсудили введение дополнительных санкций в отношении России",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1048862",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Премьер Канады призвал к скорейшему введению дополнительных санкций против России",
+          "snippet": "",
+          "url": "https://tve24.ru/news/2025/09/23/premier-kanady-prizval-k-skoreyshemu-vvedeniyu-dopolnitelnyh-sanktsiy-protiv-rossii/",
+          "source": "Lenta.RU"
+        },
+        {
+          "title": "Канада готова еще больше усилить санкции против России, - премьер Карни",
+          "snippet": "",
+          "url": "https://censor.net/ru/news/3575761/karni-kanada-gotova-usilit-sanktsii-protiv-rossii",
+          "source": "Цензор.НЕТ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ios 26.1 beta",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 23 Sep 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZfW_7erhxg0QyRhBpZ_H9MaPN6VuaSIXo52CH2beHMBAFfeBjWNLO_zATQ5c",
+      "pictureSource": "Naked Science",
+      "relatedSearch": [
+        {
+          "title": "TikTok теперь можно свайпать языком",
+          "snippet": "",
+          "url": "https://naked-science.ru/community/1115461",
+          "source": "Naked Science"
+        },
+        {
+          "title": "Станислав Дмитриевич Кондрашов: Liquid Glass от Apple",
+          "snippet": "",
+          "url": "https://www.sostav.ru/blogs/277062/67851",
+          "source": "Sostav.ru"
+        },
+        {
+          "title": "Как установить на iPhone приложения, которых нет в App Store",
+          "snippet": "",
+          "url": "https://www.ixbt.com/live/mobile/kak-ustanovit-na-iphone-prilozheniya-kotoryh-net-v-app-store.html",
+          "source": "iXBT.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "новости",
       "trafficCount": "2000+",
       "pubDate": "Tue, 23 Sep 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLOei_YGtoin80-TOJWrYKh0mS5oPAj_w0VMNa5-IwdfBwK3Mg6SJI3l8HcW4",
-      "pictureSource": "Новости Владивостока на VL.ru",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPvZwYa4nUzqLKr613qTgOcM37cMIwSJ4RKlmnHRRVypG8F_nvAq3r3FrQPI",
+      "pictureSource": "АСТВ",
       "relatedSearch": [
         {
-          "title": "Участок дороги заасфальтируют на улице Свердлова в пригороде Владивостока",
+          "title": "Зарытые в землю холодильники с кровью обнаружили на Сахалине",
           "snippet": "",
-          "url": "https://www.newsvl.ru/vlad/2025/09/24/234110/",
+          "url": "https://astv.ru/news/criminal/2025-09-24-zarytye-v-zemlyu-holodil-niki-s-krov-yu-obnaruzhili-na-sahaline",
+          "source": "АСТВ"
+        },
+        {
+          "title": "Сегодня во Владивостоке временами сильный дождь и до +19 °C",
+          "snippet": "",
+          "url": "https://www.newsvl.ru/vlad/2025/09/24/234107/",
           "source": "Новости Владивостока на VL.ru"
         },
         {
-          "title": "Локальный дорожный ремонт пройдет во всех районах Владивостока",
+          "title": "Названы районы Приморья, где в среду пройдут самые сильные дожди",
           "snippet": "",
-          "url": "https://vladnews.ru/2025-09-22/257198/lokalnyy_dorozhnyy",
-          "source": "VladNews"
-        },
-        {
-          "title": "Топ ям: часть дорог Владивостока пошла волнами и буграми даже без дождей",
-          "snippet": "",
-          "url": "https://primamedia.ru/news/2227101/",
-          "source": "PrimaMedia"
+          "url": "https://otvprim.tv/news/obshchestvo/nazvany_rayony_primorya_gde_v_sredu_proydut_samye_silnye_dozhdi_/",
+          "source": "Общественное телевидение Приморья"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -39,7 +95,7 @@
         {
           "title": "Россиянам ответили, когда ключевая ставка ЦБ упадет ниже 10%",
           "snippet": "",
-          "url": "https://www.banki.ru/news/daytheme/?id=11017799",
+          "url": "https://www.banki.ru/news/lenta/?id=11017799",
           "source": "Банки.ру"
         },
         {
@@ -86,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "фадеев шаман",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 23 Sep 2025 16:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtCJjHfH2DKSqytP43cIAK3epozYZEWldXKq8WPBVjXlDN43TSUAUKqT4N57E",
-      "pictureSource": "URA.RU",
-      "relatedSearch": [
-        {
-          "title": "Решение SHAMAN отказаться от оценок было неслучайным: как в России оценили результаты «Интервидения»",
-          "snippet": "",
-          "url": "https://ura.news/news/1052999239",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Представитель России на \"Интервидении\" попросил жюри не оценивать его выступление",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1048346",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Мария Захарова оценила спор Фадеева и Shaman на Интервидении",
-          "snippet": "",
-          "url": "https://peterburg2.ru/news/mariya-zaharova-ocenila-spor-fadeeva-i-shamana-na-intervidenii-189224.html",
-          "source": "Peterburg2"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "погода чита",
       "trafficCount": "200+",
       "pubDate": "Tue, 23 Sep 2025 16:00:00 -0700",
@@ -127,16 +155,16 @@
           "source": "www.chita.ru"
         },
         {
-          "title": "Верблюда, дикобразов и оленей спасли из пожара в Новосибирском зоопарке",
+          "title": "Раздали бутылки туристам в автобусе. Двух иностранцев поймали на контрабанде алкоголя в Забайкалье",
           "snippet": "",
-          "url": "https://nsknews.info/materials/pozhar-v-novosibirskom-zooparke-prokommentirovala-meriya/",
-          "source": "Новосибирские новости"
+          "url": "https://www.chita.ru/text/criminal/2025/09/24/76042880/",
+          "source": "www.chita.ru"
         },
         {
-          "title": "В зоопарке Новосибирска произошел пожар. Погибли ламы и альпаки",
+          "title": "В Забайкалье за контрабанду через границу России нелегального алкоголя осудят двух иностранцев",
           "snippet": "",
-          "url": "https://meduza.io/news/2025/09/23/v-zooparke-novosibirska-proizoshel-pozhar-pogibli-lamy-i-alpaki",
-          "source": "Meduza"
+          "url": "https://mvdmedia.ru/news/operativnye-novosti/v-zabaykale-dva-inostrantsa-ozhidayut-suda-za-kontrabandu-alkogolnoy-produktsii-cherez-granitsu-rf/",
+          "source": "МВД Медиа"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +245,10 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Умерла Клаудия Кардинале",
+          "title": "На 88-м году жизни скончалась киноактриса Клаудия Кардинале",
           "snippet": "",
-          "url": "https://www.fontanka.ru/2025/09/24/76042872/",
-          "source": "ФОНТАНКА.ру"
+          "url": "https://www.dw.com/ru/na-88m-godu-zizni-skoncalas-kinoaktrisa-klaudia-kardinale/a-74115138",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "Diario AS"
         },
         {
-          "title": "Mastantuono: «Felicitó a Lamine por su segundo puesto en el Balón de Oro»",
+          "title": "“Lo felicito por el segundo puesto”: Mensaje de Franco Mastantuono para Lamine Yamal",
           "snippet": "",
-          "url": "https://onefootball.com/fr/news/mastantuono-felicito-a-lamine-por-su-segundo-puesto-en-el-balon-de-oro-41708774",
-          "source": "OneFootball"
+          "url": "https://kchcomunicacion.com/2025/09/23/lo-felicito-por-el-segundo-puesto-mensaje-de-franco-mastantuono-para-lamine-yamal/",
+          "source": "KCH FM"
         },
         {
-          "title": "Vinicius Jr. marca un golazo de trivela desde un ángulo INCREÍBLE contra el Levante y besa el escudo del Real Madrid para celebrarlo",
+          "title": "La impagable reacción de Vinícius Jr. al recibir el brazalete de capitán ante el Levante – visto",
           "snippet": "",
-          "url": "https://tribuna.com/es/blogs/vinicius-jr-marca-un-golazo-de-trivela-desde-un-angulo-incre/",
+          "url": "https://tribuna.com/es/blogs/la-impagable-reaccion-de-vinicius-jr-al-recibir-el-brazalete/",
           "source": "Tribuna.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "24 сентября праздник",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 23 Sep 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAjob24CPyHW0ZKYSQNQFz0ke7VhC59L3vIbuWRvHEdwpGHnYEfAw9H1IpPk",
-      "pictureSource": "Клопс - новости Калининград",
-      "relatedSearch": [
-        {
-          "title": "Не общайся со сплетниками и не начинай важные дела: приметы на 24 сентября",
-          "snippet": "",
-          "url": "https://klops.ru/zodiac/2025-09-23/367498-ne-obschaysya-so-spletnikami-i-ne-nachinay-vazhnye-dela-primety-na-24-sentyabrya",
-          "source": "Клопс - новости Калининград"
-        },
-        {
-          "title": "Какие праздники отмечают 24 сентября 2025: что можно и нельзя делать",
-          "snippet": "",
-          "url": "https://ura.news/news/1053000063",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Какой праздник 24 сентября? Федорины вечерки: история, традиции, запреты и приметы",
-          "snippet": "",
-          "url": "https://ku66.ru/news/obshchestvo/ne_zhar_kartoshku_i_moy_golovu_chto_mozhno_i_nelzya_delat_24_sentyabrya_v_fedoriny_vecherki/",
-          "source": "KU66.ru"
         }
       ],
       "link": "https://imtaqin.id/"
