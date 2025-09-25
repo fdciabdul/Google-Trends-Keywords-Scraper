@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-09-25 05:15:47",
+  "lastUpdate": "2025-09-25 05:27:47",
   "data": [
+    {
+      "title": "nyheder dr",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 24 Sep 2025 22:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8S2xiY7I4xbaDrNHrfhu6lwcuAOsDvVGDCwTmWvGUlPymO7Zq-NebmxBtzk0",
+      "pictureSource": "DR",
+      "relatedSearch": [
+        {
+          "title": "DR's retskorrespondent: Alle myndigheder er i gang og tager situationen meget alvorligt",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/indland/dr-s-retskorrespondent-alle-myndigheder-er-i-gang-og-tager-situationen-meget-alvorligt",
+          "source": "DR"
+        },
+        {
+          "title": "Det ved vi om droneaktivitet natten til torsdag – og det mangler vi svar på",
+          "snippet": "",
+          "url": "https://nyheder.tv2.dk/samfund/2025-09-25-det-ved-vi-om-droneaktivitet-natten-til-torsdag-og-det-mangler-vi-svar-paa",
+          "source": "tv2.dk"
+        },
+        {
+          "title": "Nordjyllands Politi afholder pressemøde efter droner lukker luftrummet over Aalborg",
+          "snippet": "",
+          "url": "https://www.tv2nord.dk/aalborg/droner-i-aalborg-lufthavn-fly-kan-ikke-lande-291b2",
+          "source": "TV2 Nord"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "cnn",
       "trafficCount": "100+",
@@ -59,7 +87,7 @@
     },
     {
       "title": "nyheder",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 24 Sep 2025 20:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2WxdHOP8gsI7hspDTHx8YCbmibmrdztrJIxbh1E_Di8I985Dp_WTNK5o1Ro",
       "pictureSource": "DR",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "dr nyheder",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 24 Sep 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8S2xiY7I4xbaDrNHrfhu6lwcuAOsDvVGDCwTmWvGUlPymO7Zq-NebmxBtzk0",
-      "pictureSource": "DR",
-      "relatedSearch": [
-        {
-          "title": "DR's retskorrespondent: Alle myndigheder er i gang og tager situationen meget alvorligt",
-          "snippet": "",
-          "url": "https://www.dr.dk/nyheder/indland/dr-s-retskorrespondent-alle-myndigheder-er-i-gang-og-tager-situationen-meget-alvorligt",
-          "source": "DR"
-        },
-        {
-          "title": "Det ved vi om droneaktivitet natten til torsdag – og det mangler vi svar på",
-          "snippet": "",
-          "url": "https://nyheder.tv2.dk/samfund/2025-09-25-det-ved-vi-om-droneaktivitet-natten-til-torsdag-og-det-mangler-vi-svar-paa",
-          "source": "tv2.dk"
-        },
-        {
-          "title": "Rigspolitichef om droner over Danmark: - Vi er nødt til at blive bedre",
-          "snippet": "",
-          "url": "https://ekstrabladet.dk/krimi/rigspolitichef-om-droner-over-danmark-vi-er-noedt-til-at-blive-bedre/10956081",
-          "source": "Ekstra Bladet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "randers amtsavis",
       "trafficCount": "100+",
       "pubDate": "Wed, 24 Sep 2025 18:30:00 -0700",
@@ -127,16 +127,16 @@
           "source": "TV2 Østjylland"
         },
         {
-          "title": "Uheld på Motorring 3 skaber lang kø",
-          "snippet": "",
-          "url": "https://nyheder.tv2.dk/live/kort-nyt/uheld-paa-motorring-3-skaber-lang-koe?entry=68f2cd83-57d0-4790-9704-da6406404ca5",
-          "source": "tv2.dk"
-        },
-        {
           "title": "Kraftig brand i flere lejligheder: Omkring 45 personer evakueret",
           "snippet": "",
           "url": "https://hsfo.dk/oestjylland/stor-brand-politiet-evakuerer-beboere",
           "source": "Horsens Folkeblad"
+        },
+        {
+          "title": "Stor brand: Politiet evakuerer beboere",
+          "snippet": "",
+          "url": "https://stiften.dk/alarm112/stor-brand-politiet-evakuerer-beboere",
+          "source": "Århus Stiftstidende"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,48 +179,20 @@
         {
           "title": "Skib med russere var tæt på droneangreb ved Københavns Lufthavn. Interne politirapporter viser, at skibet også var under mistanke i januar",
           "snippet": "",
-          "url": "https://www.berlingske.dk/indland/skib-med-russere-var-taet-paa-droneangreb-ved-koebenhavns-lufthavn-interne-politirapporter-viser-at-skibet-ogsaa-var-under-mistanke-i-januar?gaa_at=eafs&gaa_n=ASWzDAiewDcXWmEbyU5rKIuljCVAN0Qpc6sOb8o8-fFvm8Aj4b8pnn5LlYBN&gaa_ts=68d4d386&gaa_sig=PXSrwUk8PPGXwRhjAOu8ZYJ5zOeDd6uYW0f6U8z8e-oaWw6FYTiITtLiGnc8otfoBRYUwxnnjk00QDfa6gvhMg%3D%3D",
+          "url": "https://www.berlingske.dk/indland/skib-med-russere-var-taet-paa-droneangreb-ved-koebenhavns-lufthavn-interne-politirapporter-viser-at-skibet-ogsaa-var-under-mistanke-i-januar?gaa_at=eafs&gaa_n=ASWzDAgNqykaCo5po2OF8RQlKh5UivdcYEcVNWBaJAj1hlXSHiZ71nareCj-&gaa_ts=68d4d657&gaa_sig=JrSz1EssJB9cGLjlVoF3b1OEHQf1fXW_hVTZqDkRHi2hDiJvHqoYoi7bcR2_adeXsMymmEvEIdR9_SDxK70Gdw%3D%3D",
           "source": "Berlingske"
+        },
+        {
+          "title": "NATO-allieret krigsskib spottet i Køge Bugt",
+          "snippet": "",
+          "url": "https://nyheder.tv2.dk/live/krimi/2025-09-22-droner-forstyrrer-luftrummet-over-koebenhavns-lufthavn/nato-allieret-krigsskib-spottet-i-koege-bugt?entry=7929f561-15de-46ad-a784-1eaca3eb8288",
+          "source": "tv2.dk"
         },
         {
           "title": "Alt peger på statslig aktør, siger sikkerhedspolitisk analytiker",
           "snippet": "",
           "url": "https://nyheder.tv2.dk/live/krimi/2025-09-22-droner-forstyrrer-luftrummet-over-koebenhavns-lufthavn/alt-peger-paa-statslig-aktoer-siger-sikkerhedspolitisk-analytiker?entry=8989e67f-2840-49cb-8c49-c864ac5ec286",
           "source": "tv2.dk"
-        },
-        {
-          "title": "Mistanke er ubegrundet, siger russisk ambassadør",
-          "snippet": "",
-          "url": "https://nyheder.tv2.dk/live/krimi/2025-09-22-droner-forstyrrer-luftrummet-over-koebenhavns-lufthavn/mistanke-er-ubegrundet-siger-russisk-ambassadoer?entry=a75777cb-36a9-4516-b545-2eadd12d7495",
-          "source": "tv2.dk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bbc",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 24 Sep 2025 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpWkjQVxbdUNuGCuZowLV5XQ73azEVPIdlwFWGqaVJXlca4Iqf0hIB7mkYZ8",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Football gossip: Kane, Mainoo, Sancho, Olise, Doukoure",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c1l8rjvp37no",
-          "source": "BBC"
-        },
-        {
-          "title": "Harry Kane transfer news: Tottenham boss Thomas Frank says Bayern Munich striker is more than welcome to return to Spurs",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/news/11095/13436734/harry-kane-transfer-news-tottenham-boss-thomas-frank-says-bayern-munich-striker-is-more-than-welcome-to-return-to-spurs",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Daily Schmankerl: Tottenham Hotspur, Arsenal, Chelsea, Manchester United, Newcastle United lining up for Bayern Munich’s Harry Kane?; Adam Aznou taking heat?; Marcus Rashford wants to stay at FC Barcelona; and MORE!",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/daily-schmankerl-tottenham-hotspur-arsenal-040000899.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +217,38 @@
           "source": "CBS Sports"
         },
         {
-          "title": "bet365 Bonus Code SBKWIRE - Secure $200 in Bonus Bets for Tigers vs Guardians, NFL Odds",
+          "title": "bet365 Bonus Code SBKWIRE - Score $200 in Bonus Bets for Tigers vs Guardians Odds & More",
           "snippet": "",
-          "url": "https://ftw.usatoday.com/story/sports/mlb/2025/09/24/bet365-bonus-code-sbkwire-tigers-guardians-nfl-odds/86298743007/",
+          "url": "https://ftw.usatoday.com/story/sports/mlb/2025/09/24/bet365-bonus-code-sbkwire-guardians-tigers-mlb/86298743007/",
           "source": "USA Today"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 24 Sep 2025 16:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ13bq8_73dqCfeTB_Mfnwy5O0xyO0N8nbbvpSFtxdUGBSCFGARTzTh7c184jk",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Football gossip: Kane, Mainoo, Sancho, Olise, Doukoure",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/articles/c1l8rjvp37no",
+          "source": "BBC"
+        },
+        {
+          "title": "Harry Kane transfer news: Tottenham boss Thomas Frank says Bayern Munich striker is more than welcome to return to Spurs",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/news/11095/13436734/harry-kane-transfer-news-tottenham-boss-thomas-frank-says-bayern-munich-striker-is-more-than-welcome-to-return-to-spurs",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Daily Schmankerl: Tottenham Hotspur, Arsenal, Chelsea, Manchester United, Newcastle United lining up for Bayern Munich’s Harry Kane?; Adam Aznou taking heat?; Marcus Rashford wants to stay at FC Barcelona; and MORE!",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/article/daily-schmankerl-tottenham-hotspur-arsenal-040000899.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
