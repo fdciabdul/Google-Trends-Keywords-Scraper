@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-09-25 06:41:45",
+  "lastUpdate": "2025-09-25 06:58:49",
   "data": [
-    {
-      "title": "drone",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 24 Sep 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPULB84S9JM-QFxJcU5e4gWKPDnmYm6FALDle33MU5pQapAFL3lv-ZGCmYeTc",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Denmark: Drone activity confirmed at multiple airports",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c7401vk4lgzo",
-          "source": "BBC"
-        },
-        {
-          "title": "Denmark airport closes due to drones, two days after incursions in Copenhagen and Oslo",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/sep/25/drones-aalborg-airport-denmark-closed-days-after-copenhagen-oslo",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Aalborg Airport in Denmark forced to close after drones spotted, police say",
-          "snippet": "",
-          "url": "https://news.sky.com/story/aalborg-airport-in-denmark-forced-to-close-after-drones-spotted-police-say-13437595",
-          "source": "Sky News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "cnn",
       "trafficCount": "200+",
@@ -98,26 +70,54 @@
       "title": "dr nyheder",
       "trafficCount": "500+",
       "pubDate": "Wed, 24 Sep 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRS86jbkC1lZqGMNI8R8xKvXcT9orj08ayIJ592OFyVOcYq3I3g7ISDudFzI4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2n8dPNJP_rlzd5T1e9ANU1emGsmP32bMwdQppzT6mraybojDisckpYooPyE",
       "pictureSource": "DR",
       "relatedSearch": [
         {
-          "title": "Kvinde fortalte DR om overgreb – nu rejser Jonatan Spangs fyring nye spørgsmål",
+          "title": "Jonatan Spang fyret efter anklager om overgreb på 15-årig pige",
           "snippet": "",
-          "url": "https://www.dr.dk/nyheder/kultur/kvinde-fortalte-dr-om-overgreb-nu-rejser-jonatan-spangs-fyring-nye-spoergsmaal",
+          "url": "https://www.dr.dk/nyheder/indland/jonatan-spang-efter-fyring-havde-intim-relation-til-15-aarig-pige",
           "source": "DR"
         },
         {
-          "title": "DR bekræfter: Jonatan Spang fyret fra 'Tæt på sandheden'",
+          "title": "Hvorfor vælger nogle ofre først at træde frem mange år efter?",
           "snippet": "",
-          "url": "https://ekstrabladet.dk/underholdning/dkkendte/dr-bekraefter-jonatan-spang-fyret-fra-taet-paa-sandheden/10953952",
-          "source": "Ekstra Bladet"
+          "url": "https://nyheder.tv2.dk/samfund/2025-09-24-hvorfor-vaelger-nogle-ofre-foerst-at-traede-frem-mange-aar-efter",
+          "source": "tv2.dk"
         },
         {
           "title": "Små sko",
           "snippet": "",
-          "url": "https://www.weekendavisen.dk/kultur/smaa-sko?gaa_at=eafs&gaa_n=ASWzDAi9ZTZHM6F_uMSDUI_Lm4l6G8A2v3l9-VJJtWpfiktBaJDoyuclCOyk&gaa_ts=68d4e7ad&gaa_sig=P5_VQMZiT16Yb6EhpJcdjRQmA3QcGGkn5ODH93F0hXGXVmEkomziRD8s-TuLLwSSV55pQloE4_CjsNgn3_QFeA%3D%3D",
+          "url": "https://www.weekendavisen.dk/kultur/smaa-sko?gaa_at=eafs&gaa_n=ASWzDAiO54y0YK6x_fJeMwY0xEDAClmfPIlFF2S7nCHN8TYg86X5YNPDa35e&gaa_ts=68d4eb98&gaa_sig=cRZm_OhmFG78Ovw3nyxm4W3XBHQcu9g2VnC3pKqN3lPVtTwMJ0lkGgDvrIxOlJ5GDku90yARkljYevW5pFY4PQ%3D%3D",
           "source": "Weekendavisen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nyheder tv2",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 24 Sep 2025 19:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJXtRGuHCjMGLuJvBQqycKn0BT1ssbQS2gGlkEnwIrhga58FONa0ayIpBXDY",
+      "pictureSource": "tv2.dk",
+      "relatedSearch": [
+        {
+          "title": "Få overblik over dagens nyheder",
+          "snippet": "",
+          "url": "https://nyheder.tv2.dk/live/kort-nyt",
+          "source": "tv2.dk"
+        },
+        {
+          "title": "Smitte med coronavirus på det højeste i over et år",
+          "snippet": "",
+          "url": "https://nyheder.tv2.dk/samfund/2025-09-24-smitte-med-coronavirus-paa-det-hoejeste-i-over-et-aar",
+          "source": "tv2.dk"
+        },
+        {
+          "title": "Nye tal: Nu stiger antallet af coronasmittede",
+          "snippet": "",
+          "url": "https://ekstrabladet.dk/forbrug/sundhed/nye-tal-nu-stiger-antallet-af-coronasmittede/10948111",
+          "source": "Ekstra Bladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -160,7 +160,7 @@
         {
           "title": "Mona Juul øgede lige Mette Frederiksens chancer for at fortsætte som statsminister",
           "snippet": "",
-          "url": "https://www.berlingske.dk/kommentatorer/mona-juul-oegede-lige-mette-frederiksens-chancer-for-at-fortsaette-som-statsminister?gaa_at=eafs&gaa_n=ASWzDAhDoqM9Cm83vG9JtQrn42cttXwjk-om2Qj4KLTxOmRqpt9ci5xnmxIc&gaa_ts=68d4e79d&gaa_sig=rgmJHWCfqbSlfiaE4gcEjbPBgxMsyHnVA41xW4lwzwPX266rD200UpZz_YG2_wSE6JUbxJaWIBK6ej5QOc3abg%3D%3D",
+          "url": "https://www.berlingske.dk/kommentatorer/mona-juul-oegede-lige-mette-frederiksens-chancer-for-at-fortsaette-som-statsminister?gaa_at=eafs&gaa_n=ASWzDAjioQ8BPFVNjFcFeoAyN1Kc9WXja157083kx5GTwfGCSJcNI6lEFiXT&gaa_ts=68d4eba5&gaa_sig=XJuyOpZKIdVZ8mR3PRooo3ctB4TXkgIide4tko7BW1Y3wyHGpdq9EOQen4DCZIOTEc3-E28TG2ccnjwCd3hxKg%3D%3D",
           "source": "Berlingske"
         },
         {
@@ -180,7 +180,7 @@
     },
     {
       "title": "bbc",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 24 Sep 2025 18:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8nJnf-ToFQLVEve_nH2xyicSeYx2kx2M7CRbhaIOkhxGXSt1KejxpwPscvk",
       "pictureSource": "BBC",
@@ -192,16 +192,16 @@
           "source": "BBC"
         },
         {
+          "title": "Red Star 1-1 Celtic (Sep 24, 2025) Game Analysis",
+          "snippet": "",
+          "url": "https://www.espn.com/soccer/report/_/gameId/757799",
+          "source": "ESPN"
+        },
+        {
           "title": "Red Star Belgrade 1-1 Celtic recap",
           "snippet": "",
           "url": "https://www.skysports.com/football/live-blog/11095/13437396/red-star-belgrade-vs-celtic-live-europa-league-live-score-updates-match-blog-lineups",
           "source": "Sky Sports"
-        },
-        {
-          "title": "Europa League wrap: Celtic earn point in Belgrade, Nottingham Forest draw at Real Betis",
-          "snippet": "",
-          "url": "https://www.rte.ie/sport/soccer/2025/0924/1535111-europa-league-wrap-celtic-earn-point-in-belgrade/",
-          "source": "RTE.ie"
         }
       ],
       "link": "https://imtaqin.id/"
