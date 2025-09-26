@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-26 05:19:11",
+  "lastUpdate": "2025-09-26 05:30:09",
   "data": [
     {
       "title": "mgm",
@@ -58,15 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kırklareli hava durumu",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 25 Sep 2025 21:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "iett",
       "trafficCount": "200+",
       "pubDate": "Thu, 25 Sep 2025 21:30:00 -0700",
@@ -98,16 +89,18 @@
       "title": "çanakkale hava durumu",
       "trafficCount": "200+",
       "pubDate": "Thu, 25 Sep 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyGziBXln8a12-Zh_JkgvnJX30Ohc6_iRQfYD6Si7eeXgw3H7uG_qqZd3jb_o",
-      "pictureSource": "Marmaris Yeni Sayfa",
-      "relatedSearch": [
-        {
-          "title": "Karadeniz’de fırtına uyarısı",
-          "snippet": "",
-          "url": "https://www.marmarisyenisayfa.com/haber/karadeniz-de-firtina-uyarisi-543238.html",
-          "source": "Marmaris Yeni Sayfa"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tekirdağ hava durumu",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 25 Sep 2025 21:10:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -121,7 +114,7 @@
     },
     {
       "title": "hava durumu",
-      "trafficCount": "100000+",
+      "trafficCount": "200000+",
       "pubDate": "Thu, 25 Sep 2025 20:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhcUE8gDNKf2U1TxYNbc33KqntYD8CQLedd6Jej84YurPYkF83nlgdzD6Hkac",
       "pictureSource": "Diken",
@@ -133,16 +126,16 @@
           "source": "Diken"
         },
         {
-          "title": "SON DAKİKA | Meteoroloji uyardı! 28 ilde kuvvetli sağanak ve fırtına kapıda! Montlarınızı çıkartın…",
-          "snippet": "",
-          "url": "https://www.sabah.com.tr/yasam/son-dakika-meteoroloji-uyardi-28-ilde-kuvvetli-saganak-ve-firtina-kapida-montlarinizi-cikartin-7431373",
-          "source": "Sabah"
-        },
-        {
           "title": "İSTANBUL'A SAĞANAK GELİYOR! İstanbul ve Marmara’da sıcaklıklar düşüyor! İstanbul hava durumu nasıl olacak? İstanbul'da sıcaklıklar ne zaman düşecek, yağmur yağacak mı?",
           "snippet": "",
           "url": "https://www.milliyet.com.tr/galeri/istanbula-saganak-geliyor-istanbul-ve-marmarada-sicakliklar-dusuyor-istanbul-hava-durumu-nasil-olacak-istanbulda-7452711",
           "source": "Milliyet"
+        },
+        {
+          "title": "İstanbul ve 10 il için sağanak yağış uyarısı",
+          "snippet": "",
+          "url": "https://www.ntv.com.tr/turkiye/istanbul-ve10il-icin-saganak-yagis-uyarisi,Qq8JVMacG06E0TXtXTv9Fg",
+          "source": "NTV Haber"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,26 +144,26 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Thu, 25 Sep 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMDON42-ePAjJ9bYtlEZefQBekSsad64vd2mgzegi9mRDSGhulZxGfPUpyAM",
-      "pictureSource": "Barron's",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTs7f16qHMKMOEi7n0qZDtvq2ja490ff1XuypbNyXXxnUiSEegPfPse1hBpGhw",
+      "pictureSource": "Yahoo News UK",
       "relatedSearch": [
         {
-          "title": "The Classic Monsoon Weather Pattern",
+          "title": "Met Office predicts mix of sunshine and rain for Newport",
           "snippet": "",
-          "url": "https://www.barrons.com/news/the-classic-monsoon-weather-pattern-e8fdc9da",
-          "source": "Barron's"
+          "url": "https://uk.news.yahoo.com/met-office-predicts-mix-sunshine-040000795.html",
+          "source": "Yahoo News UK"
         },
         {
-          "title": "Today’s weather forecast for Co Fermanagh",
+          "title": "Weekend forecast: What the weekend will bring",
           "snippet": "",
-          "url": "https://fermanaghherald.com/2025/09/todays-weather-forecast-for-co-fermanagh-260/",
-          "source": "The Fermanagh Herald"
+          "url": "https://www.ludlowadvertiser.co.uk/news/25493923.weather-friday-september-26-monday-september-29/",
+          "source": "Ludlow Advertiser"
         },
         {
-          "title": "Today’s weather forecast for Co Tyrone",
+          "title": "Sunny morning: Patchy rain by afternoon",
           "snippet": "",
-          "url": "https://wearetyrone.com/news/todays-weather-forecast-for-co-tyrone-246/",
-          "source": "We Are Tyrone"
+          "url": "https://www.cambrian-news.co.uk/weather-forecasts/partly-cloudy-with-possible-afternoon-rain-835841",
+          "source": "Cambrian News"
         }
       ],
       "link": "https://imtaqin.id/"
