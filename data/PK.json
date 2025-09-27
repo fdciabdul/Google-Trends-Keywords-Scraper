@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-27 01:33:30",
+  "lastUpdate": "2025-09-27 02:07:25",
   "data": [
     {
       "title": "benjamin netanyahu",
@@ -31,7 +31,7 @@
     },
     {
       "title": "videos",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 26 Sep 2025 14:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0onmNmFhVph3f90LNsI-HA0-4zUpe_CnjBczWpmWrqneTH6uTl6egzbn5gTY",
       "pictureSource": "The New York Times",
@@ -59,7 +59,7 @@
     },
     {
       "title": "nita ambani",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 26 Sep 2025 14:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd7jGIornw876hIS_7v5RhF99BjyduCIaXXiFf0aO8EtPPCITVwzfhUwZTdAg",
       "pictureSource": "Hindustan Times",
@@ -87,11 +87,17 @@
     },
     {
       "title": "ladakh",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Fri, 26 Sep 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQ0Vw5C0a31ms2pgJnemSj1Lcx2u5uD23A17o87Z1rJdhy0BS_DPkKJy_OBY",
-      "pictureSource": "Al Jazeera",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Ea_6yazUgXFjR6p3wUhNSr742wD4GrhIW2Daf_HUHFgpeYbXD_lF1p8uQzI",
+      "pictureSource": "The Indian Express",
       "relatedSearch": [
+        {
+          "title": "Ladakh advertises 534 govt jobs, 17% of Ladakhis apply",
+          "snippet": "",
+          "url": "https://indianexpress.com/article/political-pulse/ladakh-advertises-534-govt-jobs-17-of-ladakhis-apply-10273802/",
+          "source": "The Indian Express"
+        },
         {
           "title": "‘Bloodiest day’: How Gen-Z protest wave hit India’s Ladakh, killing four",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cr5qzp7mq7qo",
           "source": "BBC"
-        },
-        {
-          "title": "Sonam Wangchuk's Journey From Real 'Phunsukh Wangdu' To Activist Under Lens",
-          "snippet": "",
-          "url": "https://www.ndtv.com/india-news/sonam-wangchuk-ladakh-violence-sonam-wangchuks-journey-from-real-phunsukh-wangdu-to-activist-under-lens-9342129",
-          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "germany",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Sep 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp-Ph-mx9YXqPRNeiC7pN3xHpZWLwsKHCuparStvqcNw8DBMiFu-Rl8HFLzUs",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Trump says he 'will not allow' Netanyahu to annex West Bank",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c3e7d32epk3o",
-          "source": "BBC"
-        },
-        {
-          "title": "Trump promises Arab, Muslim leaders he won’t let Israel annex the West Bank",
-          "snippet": "",
-          "url": "https://www.politico.com/news/2025/09/24/trump-west-bank-annex-00578051",
-          "source": "Politico"
-        },
-        {
-          "title": "Trump says he will not allow Israel to annex the occupied West Bank",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-the-occupied-west-bank",
-          "source": "Al Jazeera"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "alice in borderland season 4",
       "trafficCount": "100+",
       "pubDate": "Fri, 26 Sep 2025 13:30:00 -0700",
@@ -198,18 +170,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "germany",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 26 Sep 2025 13:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp-Ph-mx9YXqPRNeiC7pN3xHpZWLwsKHCuparStvqcNw8DBMiFu-Rl8HFLzUs",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Trump says he 'will not allow' Netanyahu to annex West Bank",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c3e7d32epk3o",
+          "source": "BBC"
+        },
+        {
+          "title": "Trump promises Arab, Muslim leaders he won’t let Israel annex the West Bank",
+          "snippet": "",
+          "url": "https://www.politico.com/news/2025/09/24/trump-west-bank-annex-00578051",
+          "source": "Politico"
+        },
+        {
+          "title": "Trump says he will not allow Israel to annex the occupied West Bank",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-the-occupied-west-bank",
+          "source": "Al Jazeera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "benfica vs gil vicente",
       "trafficCount": "200+",
       "pubDate": "Fri, 26 Sep 2025 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5OBRjJ3XxoVnmzUnuMmCIZD8B4wzn0g4R1xd7R9P0RW5Az7aL_D2PWxGvq4",
-      "pictureSource": "A Bola",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL7modDIuXglAPdvZWFoOMB_tJ0GUY10flj13MnIq88u2sq-54HhoCLcZ2Vfk",
+      "pictureSource": "SAPO",
       "relatedSearch": [
-        {
-          "title": "Pedro Henriques analisa a primeira parte do Benfica-Gil Vicente",
-          "snippet": "",
-          "url": "https://www.abola.pt/video/pedro-henriques-analisa-a-primeira-parte-do-benfica-gil-vicente-2025092620271111849",
-          "source": "A Bola"
-        },
         {
           "title": "Pavlidis: «Quando não temos confiança temos de trabalhar o dobro»",
           "snippet": "",
@@ -217,10 +211,16 @@
           "source": "SAPO"
         },
         {
-          "title": "César Peixoto: \"Fomos melhores em toda a linha e em todo o jogo\"",
+          "title": "AO VIVO: Leandro Barreiro e Ivanovic lançados no Benfica (68')",
           "snippet": "",
-          "url": "https://www.jn.pt/desporto/artigo/cesar-peixoto-fomos-melhores-em-toda-a-linha-e-em-todo-o-jogo/17958304",
-          "source": "Jornal de Notícias"
+          "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ao-vivo-leandro-barreiro-e-ivanovic-lancados-no-benfica-68/EB4YWdeK/",
+          "source": "Flashscore.pt"
+        },
+        {
+          "title": "Luís Esteves a afinar o galo (as notas do Gil Vicente)",
+          "snippet": "",
+          "url": "https://www.abola.pt/noticias/luis-esteves-a-afinar-o-galo-as-notas-do-gil-vicente-2025092622462885637",
+          "source": "A Bola"
         }
       ],
       "link": "https://imtaqin.id/"
