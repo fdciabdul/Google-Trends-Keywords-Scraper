@@ -1,30 +1,142 @@
 {
-  "lastUpdate": "2025-09-27 09:04:58",
+  "lastUpdate": "2025-09-27 09:15:40",
   "data": [
+    {
+      "title": "blockchain",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Sep 2025 02:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCS6gtteBG5IW50IIhAbWbSQmRho-lzskcw2Koq2u306vRwFHaYUv468jABQ",
+      "pictureSource": "The Block",
+      "relatedSearch": [
+        {
+          "title": "Swift experiments with onchain migration using Ethereum Layer 2 Linea: report",
+          "snippet": "",
+          "url": "https://www.theblock.co/post/372591/swift-experiments-with-onchain-migration-using-ethereum-layer-2-linea-report",
+          "source": "The Block"
+        },
+        {
+          "title": "Global Banking Giant SWIFT Ignites Mainstream Adoption With Ethereum Stablecoin Payment Test",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/global-banking-giant-swift-ignites-170535425.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Swift reportedly picks Linea for multi-month interbank messaging system transition",
+          "snippet": "",
+          "url": "https://cryptoslate.com/swift-reportedly-picks-linea-for-multi-month-interbank-messaging-system-transition/",
+          "source": "CryptoSlate"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "us-china",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Sep 2025 02:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxa0z4BK1gNQYvg0ubIFnqqfwmLW2qXtKy3OWg8YIYIYCre0IHI9NNJFy_ne0",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Soybeans Were America’s Biggest Export to China. Now, Sales Are Down to Zero.",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/09/25/business/china-soybean-sales-farmers.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "US soyabean farmers squeezed as China blocks imports and stockpiles rise",
+          "snippet": "",
+          "url": "https://www.ft.com/content/b920c4c4-dcd7-4d5b-9a56-fc5cc1c994c4",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Trump's Argentina bailout deepens Illinois farmers' woes",
+          "snippet": "",
+          "url": "https://www.axios.com/local/chicago/2025/09/25/trump-trade-war-illinois-farmers-soybeans-argentina-china",
+          "source": "Axios"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "oecd",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Sep 2025 02:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzL2ZIF5CnITeSl4Ag_4QpesLj2kOZyACLC5EJLy2XqqWhrc4zPn-EzdObS_E",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Tariff Uncertainty Expected to Slow Global Economic Growth This Year",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/09/23/business/global-economy-trump-tariffs.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Tariffs to Hit Slowing U.S. Economy Hard in 2026, OECD Says",
+          "snippet": "",
+          "url": "https://www.wsj.com/economy/global/u-s-economy-set-to-slow-less-sharply-this-year-but-tariffs-will-hit-hard-in-2026-oecd-says-50f9dfab?gaa_at=eafs&gaa_n=ASWzDAjGkWs3YmzkIfodhgbBDf9v_-r3LH_Z10_gO5TWrHaDRvuHv_CqNG_R&gaa_ts=68d7ae20&gaa_sig=fV5Bsno00bv8N1bHjovyxyUZnRMbX7M3_nmcd4xxSknQ1TJg3JObeZjQsKqQQP6Zep6Ysc6Qm96TgKU5UPNWrQ%3D%3D",
+          "source": "The Wall Street Journal"
+        },
+        {
+          "title": "OECD Economic Outlook, Interim Report September 2025",
+          "snippet": "",
+          "url": "https://www.oecd.org/en/publications/oecd-economic-outlook-interim-report-september-2025_67b10c01-en.html",
+          "source": "OECD"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "huawei",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Sep 2025 02:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7szi3SXyWEzSXsHsw_4pVShUtBm5QDTljjtFO-qfzKsYYx9tWmeypT6a7PGo",
+      "pictureSource": "South China Morning Post",
+      "relatedSearch": [
+        {
+          "title": "How Huawei and DeepSeek are tending the garden of China’s AI aspirations",
+          "snippet": "",
+          "url": "https://www.scmp.com/tech/tech-war/article/3327025/home-grown-heroes-how-huawei-and-deepseek-are-helping-china-break-reliance-us-chips",
+          "source": "South China Morning Post"
+        },
+        {
+          "title": "When LLMs outgrow the chip: Huawei's P/D separation redefines design choices",
+          "snippet": "",
+          "url": "https://www.digitimes.com/news/a20250925PD239/huawei-design-ascend-2025-chips.html",
+          "source": "digitimes"
+        },
+        {
+          "title": "Huawei Ascends to SuperPods and SuperClusters",
+          "snippet": "",
+          "url": "https://www.cloudcomputing-news.net/news/huawei-ascends-to-superpods-and-superclusters/",
+          "source": "Cloud Computing News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "binance",
       "trafficCount": "100+",
       "pubDate": "Sat, 27 Sep 2025 01:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlIRZrE4f_BgEJQqb2q8HbEScpkkAzWEM-diXRXYIuu_Wc3KVGFvdwMe7oWYg",
-      "pictureSource": "Coinpedia Fintech News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZCvHx9CZ5kjnKcHxojlni4qfxfEAys9dxSlN2O6z1p4KNLmXThCXHUmdpGRI",
+      "pictureSource": "vietnamnews.vn",
       "relatedSearch": [
         {
-          "title": "Pi Network News Today: Binance-Backed Sign Protocol Partnership Announced",
+          "title": "Crypto market pilot first step towards global fintech integration",
           "snippet": "",
-          "url": "https://coinpedia.org/news/pi-network-news-binance-backed-sign-protocol-partnership-announced/",
-          "source": "Coinpedia Fintech News"
+          "url": "https://vietnamnews.vn/economy/1725671/crypto-market-pilot-first-step-towards-global-fintech-integration.html",
+          "source": "vietnamnews.vn"
         },
         {
-          "title": "Pi Network and Sign Protocol Collaborate, Can it Drive Pi Coin Price?",
+          "title": "Binance and Bybit CEOs Meet With Vietnam’s Deputy PM For Expansion Plans",
           "snippet": "",
-          "url": "https://pintu.co.id/en/news/210733-pi-network-and-sign-protocol-collaborate",
-          "source": "Pintu"
+          "url": "https://finance.yahoo.com/news/binance-bybit-ceos-meet-vietnam-200000522.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Expert Explains Pi Network–Sign Meeting, Says It Could Trigger Binance Listing",
+          "title": "S Korean digital asset custodian BDACS enters Vietnam with local partnership",
           "snippet": "",
-          "url": "https://coingape.com/expert-explains-pi-network-sign-meeting-says-it-could-trigger-binance-listing/",
-          "source": "CoinGape"
+          "url": "https://theinvestor.vn/s-korean-digital-asset-custodian-bdacs-enters-vietnam-with-local-partnership-d17137.html",
+          "source": "Theinvestor"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,6 +165,34 @@
           "snippet": "",
           "url": "https://m.akhbarelyom.com/news/newdetails/4695776/1/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AC%D9%88%D8%AC%D9%84-%D8%B9%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
           "source": "بوابة أخبار اليوم الإلكترونية"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "accident lawyers",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 27 Sep 2025 01:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQia_jlwBuipvS7fJE1qhfo-6LvAOFSwXf9fioilYB_26NFU08TLyqm7CYSi0k",
+      "pictureSource": "FOX4KC.com",
+      "relatedSearch": [
+        {
+          "title": "Brad Pistotnik Injury Lawyers & Bull Attorneys Handle Rear-End, Intersection Auto Crashes in Overland Park & Topeka",
+          "snippet": "",
+          "url": "https://fox4kc.com/business/press-releases/globenewswire/9533399/brad-pistotnik-injury-lawyers-bull-attorneys-handle-rear-end-intersection-auto-crashes-in-overland-park-topeka",
+          "source": "FOX4KC.com"
+        },
+        {
+          "title": "How to Get a Charlotte, NC Personal Injury Legal Case Evaluation",
+          "snippet": "",
+          "url": "https://www.rflaw.net/how-to-get-a-charlotte-nc-personal-injury-legal-case-evaluation/",
+          "source": "Rosensteel Fleishman Car Accident & Injury Lawyers"
+        },
+        {
+          "title": "Sam and Ash Injury Law | 9/25/25",
+          "snippet": "",
+          "url": "https://www.ktnv.com/morningblend/sam-and-ash-injury-law-9-25-25",
+          "source": "KTNV Las Vegas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,146 +277,6 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cn4w23yjzj1o",
           "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tik",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 27 Sep 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fQFDB1BjA1NKwjiPvJ0Fvu-iDUW6HewD4r9GrLGVjZd7l-DoEyFtogv5i6I",
-      "pictureSource": "Yahoo Finance",
-      "relatedSearch": [
-        {
-          "title": "TikTok’s $14 billion valuation in Trump deal stuns investors",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/prized-tiktok-business-valued-boring-044049900.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Trump's TikTok deal payment criticized as 'shakedown scheme' by experts",
-          "snippet": "",
-          "url": "https://www.npr.org/2025/09/26/g-s1-90598/tiktok-deal-trump-oracle",
-          "source": "NPR"
-        },
-        {
-          "title": "What are TikTok’s new owners buying?",
-          "snippet": "",
-          "url": "https://www.economist.com/graphic-detail/2025/09/26/what-are-tiktoks-new-owners-buying",
-          "source": "The Economist"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "alexandra eala",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 27 Sep 2025 01:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gmLZsYAYI5lKOv_RrjsewTgP2gmcBEhTuLN0PmEIZTNMP3i2vTe_IOkv_Y8",
-      "pictureSource": "Inquirer.net",
-      "relatedSearch": [
-        {
-          "title": "Alex Eala battles Lulu Sun for Jingshan Open finals slot",
-          "snippet": "",
-          "url": "https://sports.inquirer.net/641861/alex-eala-battles-lulu-sun-for-jingshan-open-finals-slot",
-          "source": "Inquirer.net"
-        },
-        {
-          "title": "Alexandra Eala's next match comes against opponent who beat Emma Raducanu and Qinwen Zheng at Wimbledon in 2024",
-          "snippet": "",
-          "url": "https://tennishead.net/alexandra-ealas-next-match-comes-against-opponent-who-beat-emma-raducanu-and-qinwen-zheng-at-wimbledon-in-2024/",
-          "source": "Tennishead"
-        },
-        {
-          "title": "Tennis: Alex Eala storms into Jingshan Open quarterfinals by dominating Japan bet",
-          "snippet": "",
-          "url": "https://www.abs-cbn.com/sports/othersports/2025/9/25/tennis-alex-eala-storms-into-jingshan-open-quarterfinals-by-dominating-japan-bet-1629",
-          "source": "ABS-CBN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "australia",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 27 Sep 2025 01:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbaYtc7ozXfMwkdOyh5-hsfA9FhtMISxApsDVGkC7a9qmdUzvCNaSFdfqyylE",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Australia's Albanese confident on AUKUS pact after meeting UK's Starmer",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/asia-pacific/australias-albanese-confident-aukus-pact-after-meeting-uks-starmer-2025-09-27/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Progressive governments must keep faith with voters to combat far right, Albanese and Starmer warn",
-          "snippet": "",
-          "url": "https://www.theguardian.com/australia-news/2025/sep/26/labor-very-focused-on-making-sure-voters-keep-faith-in-system-says-albanese",
-          "source": "The Guardian"
-        },
-        {
-          "title": "PM says Aussies 'concerned' about far right's rise ahead of Trump meeting",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-09-27/anthony-albanese-says-aussies-are-concerned-about-far-right-rise/105819050",
-          "source": "Australian Broadcasting Corporation"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jessica pegula",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 27 Sep 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0GdIIrkz1XCHKBEivqr9HipeQEGNU2XoaSrzuCfXChOWPpXjyzblGF5NNB1I",
-      "pictureSource": "X",
-      "relatedSearch": [
-        {
-          "title": "WTA Beijing Ajla Tomljanovic vs Jessica Pegula 🧠 Form & Context Ajla Tomljanovic (🇦🇺 #94) ✅ Beijing R1: d. Starodubtseva 7–6, 6–2 after a 0–4 start. 🧱 2025 hard: 9–9; last multi-round run on hard: Austin. 📉 Since Rabat SF (May), hasn’t gone beyond R2 an",
-          "snippet": "",
-          "url": "https://x.com/Probahis/status/1971752324826603726",
-          "source": "X"
-        },
-        {
-          "title": "Aussie comeback queen, teen advance in China",
-          "snippet": "",
-          "url": "https://www.northerndailyleader.com.au/story/9075050/aussie-comeback-queen-teen-advance-in-china/",
-          "source": "The Northern Daily Leader"
-        },
-        {
-          "title": "2025 China Open: Tomljanovic [94th] vs. Starodubtseva [86th] Prediction, Odds and Match Preview",
-          "snippet": "",
-          "url": "https://sportsbookwire.usatoday.com/story/sports/sports-betting/2025/09/22/ajla-tomljanovic-vs-yuliia-starodubtseva-china-open-tennis-odds-lines-betting-9-24-2025/86297208007/",
-          "source": "Sportsbook Wire"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "naomi osaka",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 27 Sep 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQx1tZTyNo2ab_meemUcm-3iKRt-R2PInTwrZJSKvMbDUhfCNQTwQa-WfN9wno",
-      "pictureSource": "Syracuse.com",
-      "relatedSearch": [
-        {
-          "title": "Where to watch Naomi Osaka vs. Aliaksandra Sasnovich today: China Open free stream",
-          "snippet": "",
-          "url": "https://www.syracuse.com/tv/2025/09/where-to-watch-naomi-osaka-vs-aliaksandra-sasnovich-today-china-open-free-stream.html",
-          "source": "Syracuse.com"
-        },
-        {
-          "title": "WTA Beijing Day 4 Predictions Including Naomi Osaka vs Aliaksandra Sasnovich",
-          "snippet": "",
-          "url": "https://lastwordonsports.com/tennis/2025/09/26/wta-beijing-day-4-predictions-osaka-sasnovich/",
-          "source": "Last Word On Sports"
-        },
-        {
-          "title": "Janice Tjen Makes China Open Debut Amid Rising Tennis Drama",
-          "snippet": "",
-          "url": "https://azat.tv/en/janice-tjen-china-open-debut-tennis-2025/",
-          "source": "Azat TV"
         }
       ],
       "link": "https://imtaqin.id/"
