@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2025-09-29 04:02:33",
+  "lastUpdate": "2025-09-29 04:13:16",
   "data": [
     {
       "title": "hava durumu",
-      "trafficCount": "50000+",
+      "trafficCount": "100000+",
       "pubDate": "Sun, 28 Sep 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbdxPtkJoK6re70cR1uy5uGESTtT6HBNULtr94ucGqSfQmUivcmbhn7wonlQM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRn2k5OpcB3-myvWBssXOeqTfIz0sdlKdepoM7BFNVrnDMXP8eUPxoLhTMUYo",
       "pictureSource": "TRT Haber",
       "relatedSearch": [
         {
-          "title": "Yeni haftada hava durumu nasıl olacak?",
+          "title": "Sıcak günler sona eriyor, yağışlı hava geliyor",
           "snippet": "",
-          "url": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-durumu-nasil-olacak-921149.html",
+          "url": "https://www.trthaber.com/haber/turkiye/sicak-gunler-sona-eriyor-yagisli-hava-geliyor-921156.html",
           "source": "TRT Haber"
         },
         {
@@ -30,8 +30,17 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ankara hava durumu",
-      "trafficCount": "2000+",
+      "title": "konya hava durumu",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 28 Sep 2025 20:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ankara hava",
+      "trafficCount": "200+",
       "pubDate": "Sun, 28 Sep 2025 20:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXN4tx_u7lTD7sISVYLIRahWk9pk_RWChWx3QkOiD_2TAL-ok9sO38d3mxyb0",
       "pictureSource": "Nefes Gazetesi",
@@ -58,38 +67,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "konya hava durumu",
-      "trafficCount": "200+",
+      "title": "namaz vakitleri istanbul",
+      "trafficCount": "500+",
       "pubDate": "Sun, 28 Sep 2025 20:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZ_me899YcglntF0E8nUhc4X0nyu28vZNf5q1pwbZIvoZtwDeP7nvxZcTE8LU",
+      "pictureSource": "NTV Haber",
+      "relatedSearch": [
+        {
+          "title": "Cuma namazı saat kaçta başlayacak/bitecek? Cuma namazı vakitleri",
+          "snippet": "",
+          "url": "https://www.ntv.com.tr/galeri/turkiye/cuma-namazi-vakitleri-26-eylul-cuma-namazi-saat-kacta-baslayacak-bitecek,KHJs-vntW0ySqddwxGty2g",
+          "source": "NTV Haber"
+        },
+        {
+          "title": "Namazın manevi değeri",
+          "snippet": "",
+          "url": "https://www.karamangundem.com/namazin-manevi-degeri/460378",
+          "source": "Karaman Gündem"
+        },
+        {
+          "title": "Cami Medeniyetin Kalbidir",
+          "snippet": "",
+          "url": "https://www.akasyam.com/cami-medeniyetin-kalbidir-200804/",
+          "source": "Akasyam Haber"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 28 Sep 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAWW_TLZzIl81uH8Q6egBnrNJZBPvrfDSG7rlMVkmDps79q5arfqvvaXFpaIA",
-      "pictureSource": "The Times of India",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAyy1C3ViCoGmtNM8XAPnrRdzDRjBv_MUNnBw3EoXE508lt4YLCpuP95tNDbE",
+      "pictureSource": "indiacom",
       "relatedSearch": [
         {
-          "title": "Kolkata weather: High humidity with rain expected today; AQI remains good",
+          "title": "Mumbai Rain live updates: Heavy rainfall in city after orange alert, check local train, traffic status",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/kolkata/rainy-weather-and-good-air-quality-in-kolkata-a-perfect-day-for-outdoor-activities/articleshow/124202768.cms",
+          "url": "https://www.india.com/maharashtra/mumbai-rain-live-updates-heavy-rainfall-in-city-after-orange-alert-check-local-train-traffic-status-8103737/",
+          "source": "indiacom"
+        },
+        {
+          "title": "Rural schools to remain closed on Monday",
+          "snippet": "",
+          "url": "https://www.lokmattimes.com/aurangabad/rural-schools-to-remain-closed-on-monday-1/",
+          "source": "Lokmat Times"
+        },
+        {
+          "title": "Maharashtra rains: Remain on alert, shift citizens from flood-prone areas, deputy CM Eknath Shinde direct",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-rains-remain-on-alert-shift-citizens-from-flood-prone-areas-deputy-cm-eknath-shinde-directs-thane-district-officials/articleshow/124199415.cms",
           "source": "The Times of India"
-        },
-        {
-          "title": "Kolkata weather: Warm temperatures, humid with rain; AQI remains good",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-weather-update-rain-humidity-and-good-air-quality-on-september-28-2025/articleshow/124189608.cms",
-          "source": "Times of India"
-        },
-        {
-          "title": "Kolkata weather: High humidity with moderate rain; AQI remains good",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-weather-update-rain-humidity-and-air-quality-insights-for-september-26-2025/articleshow/124139203.cms",
-          "source": "Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,23 +151,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "mynet haber",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 28 Sep 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQimmveaf6q7FIrBzkWBaxB8hbC5r8bvsNMBdKYcYQRjehMhmiBR_iWJqDXa1c",
+      "pictureSource": "Bigpara",
+      "relatedSearch": [
+        {
+          "title": "ALTIN FİYATLARI SON DURUM 28 EYLÜL CANLI VE ANLIK: Yüzde 126 kazandıran dönem mi tekrarlanıyor?.. Gram altın ve çeyrek altın ne kadar?",
+          "snippet": "",
+          "url": "https://bigpara.hurriyet.com.tr/altin-haberleri/galeri-altin-fiyatlari-son-durum-28-eylul-anlik-yuzde-126-kazandiran-donem-mi-tekrarlaniyor-gram-altin-ve-ceyrek-altin-ne-kadar_ID1618510/",
+          "source": "Bigpara"
+        },
+        {
+          "title": "Ons altın 3800 dolar sınırına dayandı Yazar ForInvest Haber",
+          "snippet": "",
+          "url": "https://tr.investing.com/news/economy-news/ons-altn-3800-dolar-snrna-dayand-3557201",
+          "source": "Investing.com Türkiye"
+        },
+        {
+          "title": "Altın fiyatları düşer mi yükselir mi? Güncel altın fiyatı analist yorumu | Özgün Haberler",
+          "snippet": "",
+          "url": "https://www.yenisafak.com/foto-galeri/ozgun/altin-fiyatlari-duser-mi-yukselir-mi-guncel-altin-fiyati-analist-yorumu-4753073",
+          "source": "Yeni Şafak"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "şans topu sonuçları",
       "trafficCount": "500+",
       "pubDate": "Sun, 28 Sep 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI0dmydNJZPqtAB3TrNK2Pq_Kx4uu9rWu7wfoCrHEUFTsQ7joFmm_eqECJjng",
-      "pictureSource": "Milliyet",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYnqgyueEBdsogh5yr_g6lJUd2lLgpge1wW5Xny-HHqV52RLVraxPmKj4VwEM",
+      "pictureSource": "Hürriyet",
       "relatedSearch": [
-        {
-          "title": "ŞANS TOPU TIKLA - ÖĞREN📍28 Eylül 2025 Pazar Şans Topu çekiliş sonuçları ve kazandıran numaralar açıklandı! Şans Topu nasıl sorgulanır?",
-          "snippet": "",
-          "url": "https://www.milliyet.com.tr/galeri/sans-topu-tikla-ogren-28-eylul-2025-pazar-sans-topu-cekilis-sonuclari-ve-kazandiran-numaralar-aciklandi-sans-topu-nasil-sorgulanir-7454365",
-          "source": "Milliyet"
-        },
         {
           "title": "28 Eylül Şans Topu Sonuçları Sorgulama Ekranı 2025 (Bilet seri no ile tıkla hızlı öğren) | Sisal Şans Milli Piyango Online bugünkü canlı Şans Topu çekiliş sonuçları belli oldu: Büyük ikramiye 2 kişiye çıktı!",
           "snippet": "",
           "url": "https://www.hurriyet.com.tr/bilgi/galeri-28-eylul-sans-topu-sonuclari-sorgulama-ekrani-2025-bilet-seri-no-ile-tikla-hizli-ogren-sisal-sans-milli-piyango-online-bugunku-canli-42964963",
           "source": "Hürriyet"
+        },
+        {
+          "title": "ŞANS TOPU TIKLA - ÖĞREN📍28 Eylül 2025 Pazar Şans Topu çekiliş sonuçları ve kazandıran numaralar açıklandı! Şans Topu nasıl sorgulanır?",
+          "snippet": "",
+          "url": "https://www.milliyet.com.tr/galeri/sans-topu-tikla-ogren-28-eylul-2025-pazar-sans-topu-cekilis-sonuclari-ve-kazandiran-numaralar-aciklandi-sans-topu-nasil-sorgulanir-7454365",
+          "source": "Milliyet"
         },
         {
           "title": "Şans Topu sonuçları belli oldu! MPİ online ile 28 Eylül 2025 Şans Topu sonuçları sorgulama ekranı",
@@ -154,26 +210,26 @@
       "title": "g",
       "trafficCount": "100+",
       "pubDate": "Sun, 28 Sep 2025 18:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtk7CyiC-Xm9av3tPRnT5IJhglYRko0qNNwGrTcbGR758Y-9vogs3sPN4wBCo",
-      "pictureSource": "Polymarket",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4t9HHlXScaOxpclQ7qK3NG9S8As9Cyl6cHfxLo4qSWUH08Tq1vsHk0RbGFc",
+      "pictureSource": "Travel Weekly",
       "relatedSearch": [
         {
-          "title": "LoL: Hanwha Life Esports vs Gen.G",
+          "title": "G Adventures, National Geographic Expeditions to launch a luxury tour program",
           "snippet": "",
-          "url": "https://polymarket.com/event/lol-hanwha-life-esports-geng-2025-09-28",
-          "source": "Polymarket"
+          "url": "https://www.travelweekly.com/Travel-News/Tour-Operators/G-Adventures-Nat-Geo-expand-into-luxury-tours",
+          "source": "Travel Weekly"
         },
         {
-          "title": "LCK 2025: HLE Versus GenG Game Four – The Tigers Are Champions Again",
+          "title": "G to launch “Signature” travel style with National Geographic, Lando vehicles in SA; Morocco to host GX 2026",
           "snippet": "",
-          "url": "https://www.yardbarker.com/video_games/articles/lck_2025_hle_versus_geng_game_four_the_tigers_are_champions_again/s1_17458_42813150",
-          "source": "Yardbarker"
+          "url": "https://www.paxnews.com/news/pax-trips/g-launch-signature-travel-style-national-geographic-lando-vehicles-sa-morocco-host-gx-202",
+          "source": "PAXnews.com"
         },
         {
-          "title": "Gen.G succeeded in multiple bloodshed against Hanwha Life Insurance and won the LCK again in a year",
+          "title": "G Adventures, NatGeo Expeditions to ‘Signature’ launch up-market trips",
           "snippet": "",
-          "url": "https://en.sportschosun.com/sports/2025/09/geng-succeeded-in-multiple-bloodshed-against-hanwha-life-112303",
-          "source": "SportsChosun"
+          "url": "https://latteluxurynews.com/2025/09/28/g-adventures-natgeo-expeditions-to-launch-up-market-trips/",
+          "source": "LATTE Luxury News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://www.kucuksaat.com/turkiyede-elektrikli-arac-devrimi-hizlanmalidir-45253h.htm",
           "source": "Küçük Saat | Adana Haberleri"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "one battle after another",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Sep 2025 15:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS04yzX_6zpL4n5YTbpK3A1HGeuLw19nhny1XvpZ1OOfaMEx3XyOSFce2gZjY",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "‘One Battle After Another’ Ticket Sales Are Solid (With an Asterisk)",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/09/28/business/media/one-battle-after-another-box-office.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "'One Battle After Another' is much more than the movie of the movement",
-          "snippet": "",
-          "url": "https://www.msnbc.com/opinion/msnbc-opinion/one-battle-after-another-movie-dicaprio-penn-rcna233694",
-          "source": "MSNBC News"
-        },
-        {
-          "title": "‘One Battle After Another’ Is an Action Comedy About the Future",
-          "snippet": "",
-          "url": "https://www.thefp.com/p/one-battle-after-another-is-an-action",
-          "source": "The Free Press"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "asgari ücret",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Sep 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkBEeiPFE0wCPzE3yOcjdpQZUiT69zOnHW2HjUIS5if02jb-Fodg7TYjScSA",
-      "pictureSource": "Bigpara",
-      "relatedSearch": [
-        {
-          "title": "ASGARİ ÜCRET ZAMMI 2026 AÇIKLAMASI || Yeni yıl asgari ücret ne kadar olacak, ne zaman belli olacak? 2026 Ocak Asgari ücret toplantı tarihi belli oldu mu? İlk açıklama HAK-İŞ'ten geldi!",
-          "snippet": "",
-          "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/galeri-asgari-ucret-zammi-2026-aciklamasi-yeni-yil-asgari-ucret-ne-kadar-olacak-ne-zaman-belli-olacak-2026-ocak-asgari-ucret_ID1618529/",
-          "source": "Bigpara"
-        },
-        {
-          "title": "Asgari ücret için geri sayım başladı: Hak-İş'ten ilk açıklama",
-          "snippet": "",
-          "url": "https://finans.cnnturk.com/video/finans-haberler/asgari-ucret-icin-geri-sayim-basladi-hak-isten-ilk-aciklama-2340979",
-          "source": "CNN Türk Finans"
-        },
-        {
-          "title": "Asgari ücret zammı 2026 ne kadar olacak? Asgari ücret zam oranı ve oluşacak yeni tablo şekilleniyor",
-          "snippet": "",
-          "url": "https://www.yenisafak.com/foto-galeri/ozgun/asgari-ucret-zammi-2026-senaryolari-asgari-ucrete-ne-kadar-zam-gelecek-yuzde-20-25-ve-30-zam-gelirse-net-asgari-ucret-ne-kadar-olacak-4731156",
-          "source": "Yeni Şafak"
         }
       ],
       "link": "https://imtaqin.id/"
