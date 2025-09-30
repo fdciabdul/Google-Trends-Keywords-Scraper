@@ -1,6 +1,43 @@
 {
-  "lastUpdate": "2025-09-30 04:28:42",
+  "lastUpdate": "2025-09-30 04:39:24",
   "data": [
+    {
+      "title": "çanakkale hava durumu",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 29 Sep 2025 21:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "giresun hava durumu",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 29 Sep 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82RLmtHJTsJU4f0wB-sFDgjJVMQrC-jTYOVu8Bluqzs-EYNLBth6YPW-VM-g",
+      "pictureSource": "Giresun İleri Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Giresun'da bugün hava nasıl?",
+          "snippet": "",
+          "url": "https://www.giresunileri.com/giresun-da-bugun-hava-nasil/44790/",
+          "source": "Giresun İleri Gazetesi"
+        },
+        {
+          "title": "Ilık, Güneşli ve Rüzgârla Hareketli Bir Gün",
+          "snippet": "",
+          "url": "https://www.yesilgiresun.com.tr/haber/26445123/ilik-gunesli-ve-ruzgarla-hareketli-bir-gun",
+          "source": "Yeşilgiresun Gazetesi"
+        },
+        {
+          "title": "Giresun'da Hafta Sonu Plan Yapanlara Müjde: Güneş Yüzünü Gösterecek!",
+          "snippet": "",
+          "url": "https://www.yesilgiresun.com.tr/haber/26439949/giresunda-hafta-sonu-plan-yapanlara-mujde-gunes-yuzunu-gosterecek",
+          "source": "Yeşilgiresun Gazetesi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "asgari ücret zammı",
       "trafficCount": "5000+",
@@ -68,7 +105,7 @@
     },
     {
       "title": "elazığ hava durumu",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 29 Sep 2025 21:00:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -104,34 +141,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ankara hava durumu",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 29 Sep 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrqsYh2wgjCev-DK91ZwRtS80cCXCwVx5YVeYMhkGm4FAx0q0foI9iXiV6nCs",
-      "pictureSource": "Anadolu Ajansı",
-      "relatedSearch": [
-        {
-          "title": "İzmir'de 121 gün sonra yağmur yağdı",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/gundem/izmirde-121-gun-sonra-yagmur-yagdi/3702243",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "İzmir'de sağanak etkili oldu",
-          "snippet": "",
-          "url": "https://www.cnnturk.com/yerel-haberler/izmir/izmirde-saganak-etkili-oldu-2341348",
-          "source": "CNN Türk"
-        },
-        {
-          "title": "Kuraklıkla mücadele eden İzmir’de yağmur serinliği",
-          "snippet": "",
-          "url": "https://www.msn.com/tr-tr/haber/other/kurakl%C4%B1kla-m%C3%BCcadele-eden-%C4%B0zmir-de-ya%C4%9Fmur-serinli%C4%9Fi/ar-AA1NvXVp",
-          "source": "MSN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "gaziantep hava durumu",
       "trafficCount": "1000+",
       "pubDate": "Mon, 29 Sep 2025 20:40:00 -0700",
@@ -160,49 +169,59 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weather",
-      "trafficCount": "1000+",
+      "title": "ankara hava durumu",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 29 Sep 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcplei8WUhz-WUwKL9m9YDnra8qhgLBl8Jdwyba0tkBs_DW_RFbNd7c7fNEM",
-      "pictureSource": "BusinessLine",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrqsYh2wgjCev-DK91ZwRtS80cCXCwVx5YVeYMhkGm4FAx0q0foI9iXiV6nCs",
+      "pictureSource": "Anadolu Ajansı",
       "relatedSearch": [
         {
-          "title": "Kolkata floods: Need to build urban resilience",
+          "title": "İzmir'de 121 gün sonra yağmur yağdı",
           "snippet": "",
-          "url": "https://www.thehindubusinessline.com/incoming/kolkata-floods-need-to-build-urban-resilience/article70109428.ece",
-          "source": "BusinessLine"
+          "url": "https://www.aa.com.tr/tr/gundem/izmirde-121-gun-sonra-yagmur-yagdi/3702243",
+          "source": "Anadolu Ajansı"
         },
         {
-          "title": "A boy plays with water as he bathes in the river Ganges in Kolkata",
+          "title": "İzmir'de sağanak etkili oldu",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/a-boy-plays-with-water-as-he-bathes-in-the-river-ganges-in-kolkata/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMkMxSEFHTDFXOA",
-          "source": "Reuters Connect"
+          "url": "https://www.cnnturk.com/yerel-haberler/izmir/izmirde-saganak-etkili-oldu-2341348",
+          "source": "CNN Türk"
         },
         {
-          "title": "Bengal Weather: Heavy Rain To Hit Kolkata, Howrah, Hooghly Other Southern Districts From October 1 | Check Forecast",
+          "title": "Kuraklıkla mücadele eden İzmir’de yağmur serinliği",
           "snippet": "",
-          "url": "https://www.thedailyjagran.com/india/bengal-weather-kolkata-weather-heavy-rain-howrah-hooghly-south-bengal-districts-october-1-forecast-10270273",
-          "source": "The Daily Jagran"
+          "url": "https://www.msn.com/tr-tr/haber/other/kurakl%C4%B1kla-m%C3%BCcadele-eden-%C4%B0zmir-de-ya%C4%9Fmur-serinli%C4%9Fi/ar-AA1NvXVp",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "hava durumu bursa",
-      "trafficCount": "200+",
+      "title": "weather",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 29 Sep 2025 20:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kastamonu hava durumu",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 29 Sep 2025 20:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGd8qoA4ecw06ND9AnNA3VK1FT9JzO-BCUyjaNC31ZB1vc-05qY_7QziK2BSY",
+      "pictureSource": "The Boston Globe",
+      "relatedSearch": [
+        {
+          "title": "High pressure dominates for a warm goodbye to September on Tuesday",
+          "snippet": "",
+          "url": "https://www.bostonglobe.com/2025/09/29/metro/new-england-boston-forecast/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "Technical Discussion: Trending cooler to begin October",
+          "snippet": "",
+          "url": "https://www.wfsb.com/page/technical-discussion-trending-cooler-to-begin-october/",
+          "source": "WFSB"
+        },
+        {
+          "title": "A near record breaking end to September!",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/articles/near-record-breaking-end-september-153618095.html",
+          "source": "Yahoo"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
