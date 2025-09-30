@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-30 07:48:32",
+  "lastUpdate": "2025-09-30 07:55:22",
   "data": [
     {
       "title": "matti puro",
@@ -33,19 +33,13 @@
       "title": "posti listautuminen",
       "trafficCount": "500+",
       "pubDate": "Mon, 29 Sep 2025 22:10:00 -0700",
-      "picture": "",
-      "pictureSource": "Yle",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz98Z-bH9x4gSB4bqWIfZyzE_auUBC51hdQSN1JJ73rGj8WNTaqoXnTfLhw6E",
+      "pictureSource": "Kauppalehti",
       "relatedSearch": [
         {
-          "title": "Postin osakkeiden listautumismyynti alkamassa",
+          "title": "Postin listautumisanti alkaa tänään tiistaina",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20185695",
-          "source": "Yle"
-        },
-        {
-          "title": "Onko Eurooppa nyt hybridisodassa? Risto E.J. Penttilä Talousaamussa kello 9.30",
-          "snippet": "",
-          "url": "https://www.kauppalehti.fi/uutiset/a/52189682-0e0e-4532-9c38-99c57ebea0d3?ref=ampparit:7112",
+          "url": "https://www.kauppalehti.fi/uutiset/a/da5488e2-7ce8-4e0d-875a-ae1c2cccfaea",
           "source": "Kauppalehti"
         },
         {
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.hs.fi/talous/art-2000011526558.html",
           "source": "HS.fi"
+        },
+        {
+          "title": "Postin osakkeiden listautumismyynti alkamassa",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20185695",
+          "source": "Yle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "kymen sanomat",
       "trafficCount": "100+",
       "pubDate": "Mon, 29 Sep 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQCsl8Nm3lVdAuku4ZxIOozT3zQqlczNizFy3YtFf0r82C9S7epSJprJTBk50",
-      "pictureSource": "Uutisvuoksi",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbZUT_rjV8vSP4XQijgHorein1gH6kSb9xEcDguzOqaKR_5V5hNiNdC94pfls",
+      "pictureSource": "Savon Sanomat",
       "relatedSearch": [
+        {
+          "title": "Syyte | Työntekijä kuoli hiekoittimeen Kuopiossa – yrityksen johdolle syytteet",
+          "snippet": "",
+          "url": "https://www.savonsanomat.fi/paikalliset/8883944",
+          "source": "Savon Sanomat"
+        },
         {
           "title": "\"Ei kahvila, ei karkkikauppa, vaan jotain enemmän\" – Mitä Prisman kauppakäytävän tyhjään liiketilaan on tulossa?",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://www.ksml.fi/urheilu/8883980",
           "source": "Keskisuomalainen"
-        },
-        {
-          "title": "Lahden keksimä kadunnimi ei kelvannut Fazerille",
-          "snippet": "",
-          "url": "https://www.ess.fi/paikalliset/8882456",
-          "source": "Etelä-Suomen Sanomat"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "KUT"
         },
         {
-          "title": "DNA helps solve 'haunting' yogurt shop quadruple killings more than 3 decades later",
+          "title": "Shell Casings and DNA on Fingernails Helped Crack ‘Yogurt Shop’ Murder Case",
           "snippet": "",
-          "url": "https://abcnews.go.com/US/haunting-yogurt-shop-quadruple-killings-solved-3-decades/story?id=126035260",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "url": "https://www.nytimes.com/2025/09/29/us/yogurt-shop-murders-solved-dna.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Iltalehti"
         },
         {
+          "title": "Järvisydän polki ukrainalaispakolaisten työehtoja, väittää uutuuskirja – yrittäjä: Emme tienneet",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20185405",
+          "source": "Yle"
+        },
+        {
           "title": "Ihmiskauppa | Uutuuskirja: SOL:in sisällä pyöritettiin laitonta työlupakauppaa, josta johto tiesi",
           "snippet": "",
           "url": "https://www.hs.fi/suomi/art-2000011519845.html",
           "source": "HS.fi"
-        },
-        {
-          "title": "Järvisydämestä kovia väitteitä – poliisi tutkii kylpylää",
-          "snippet": "",
-          "url": "https://www.is.fi/taloussanomat/art-2000011526290.html",
-          "source": "Ilta-Sanomat"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -275,7 +275,7 @@
         {
           "title": "Pääministeri Orpo sairastui flunssaan ja kuumeeseen",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20185654",
+          "url": "https://yle.fi/uutiset/lyhyesti/74-20185654",
           "source": "Yle"
         }
       ],
