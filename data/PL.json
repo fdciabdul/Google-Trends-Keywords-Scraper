@@ -1,6 +1,22 @@
 {
-  "lastUpdate": "2025-09-30 20:30:27",
+  "lastUpdate": "2025-09-30 20:39:15",
   "data": [
+    {
+      "title": "anthony bourdain",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 30 Sep 2025 13:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzXmFBf5UCT5egg6xZNCHqFdUytMZQUF5CGEf9ydPtld0LcvsUiPQWFJUARNQ",
+      "pictureSource": "Tasting Table",
+      "relatedSearch": [
+        {
+          "title": "Anthony Bourdain's 'One Hand' Tip For Making The Perfect Burger",
+          "snippet": "",
+          "url": "https://www.tastingtable.com/1976285/anthony-bourdain-one-hand-tip-make-perfect-burger/",
+          "source": "Tasting Table"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "victor osimhen",
       "trafficCount": "200+",
@@ -33,13 +49,13 @@
       "title": "koszalin",
       "trafficCount": "100+",
       "pubDate": "Tue, 30 Sep 2025 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUYEiuZcxpqFNkfOpV5t-5uJA51iaLvLHs3cf7MBOYOMpT3oa95xX3fZo8vOI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSelbvBPlZUjThevq-4kcRL_YDJ-zjNkIDFZ-H2GOZgA-_A3qyyKwwJUDMoX-A",
       "pictureSource": "Onet",
       "relatedSearch": [
         {
-          "title": "Potężny pożar w Koszalinie. Trwa ewakuacja mieszkańców",
+          "title": "Potężny pożar w Koszalinie. Ewakuacja ponad 70 osób. Są poszkodowani, w tym dzieci",
           "snippet": "",
-          "url": "https://www.onet.pl/informacje/onetszczecin/potezny-pozar-w-koszalinie-trwa-ewakuacja-mieszkancow/5hmmr1e,79cfc278",
+          "url": "https://www.onet.pl/informacje/onetszczecin/potezny-pozar-w-koszalinie-ewakuacja-ponad-70-osob-sa-poszkodowani/5hmmr1e,79cfc278",
           "source": "Onet"
         },
         {
@@ -86,34 +102,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "benfica",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 30 Sep 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaLbhCsYwyhD229lpJatl9X1VvapgkfaaWmWqxPquoXo0dUj0PK_PbfxibL_A",
-      "pictureSource": "Record",
-      "relatedSearch": [
-        {
-          "title": "O abraço de Mourinho a uma funcionária do Chelsea que gerou aplausos na sala de imprensa",
-          "snippet": "",
-          "url": "https://www.record.pt/multimedia/videos/detalhe/o-abraco-de-mourinho-a-uma-funcionaria-do-chelsea-que-gerou-aplausos-na-sala-de-imprensa",
-          "source": "Record"
-        },
-        {
-          "title": "VÍDEO: boa finalização de Ríos... na baliza errada",
-          "snippet": "",
-          "url": "https://www.abola.pt/noticias/video-boa-finalizacao-de-rios-na-baliza-errada-2025093019243604196",
-          "source": "A Bola"
-        },
-        {
-          "title": "AO VIVO: Trubin segura remate de Buonanotte (22')",
-          "snippet": "",
-          "url": "https://www.flashscore.pt/noticias/futebol-liga-dos-campeoes-ao-vivo-trubin-segura-remate-de-buonanotte-22/jZzftaH8/",
-          "source": "Flashscore.pt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "bodo glimt",
       "trafficCount": "200+",
       "pubDate": "Tue, 30 Sep 2025 12:50:00 -0700",
@@ -142,29 +130,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "benfica",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 30 Sep 2025 12:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaLbhCsYwyhD229lpJatl9X1VvapgkfaaWmWqxPquoXo0dUj0PK_PbfxibL_A",
+      "pictureSource": "Record",
+      "relatedSearch": [
+        {
+          "title": "O abraço de Mourinho a uma funcionária do Chelsea que gerou aplausos na sala de imprensa",
+          "snippet": "",
+          "url": "https://www.record.pt/multimedia/videos/detalhe/o-abraco-de-mourinho-a-uma-funcionaria-do-chelsea-que-gerou-aplausos-na-sala-de-imprensa",
+          "source": "Record"
+        },
+        {
+          "title": "VÍDEO: boa finalização de Ríos... na baliza errada",
+          "snippet": "",
+          "url": "https://www.abola.pt/noticias/video-boa-finalizacao-de-rios-na-baliza-errada-2025093019243604196",
+          "source": "A Bola"
+        },
+        {
+          "title": "AO VIVO: Trubin segura remate de Buonanotte (22')",
+          "snippet": "",
+          "url": "https://www.flashscore.pt/noticias/futebol-liga-dos-campeoes-ao-vivo-trubin-segura-remate-de-buonanotte-22/jZzftaH8/",
+          "source": "Flashscore.pt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "valencia cf",
       "trafficCount": "200+",
       "pubDate": "Tue, 30 Sep 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4yM9drQkKKufaruibDuX00sDR17ghswoIMHd79z7vF3VI00KbjJ1jckhHCAo",
-      "pictureSource": "Plaza Deportiva",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhTdjZnS9SJbxYbloRkYXf0Wd2cq7GxtX5C8Hqo5M_KotuNWNd3_6su4FGtMM",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "El once del Valencia CF para jugar contra el Oviedo",
+          "title": "Valencia 1 - Oviedo 2: resumen, goles y resultado del partido de LaLiga EA Sports",
           "snippet": "",
-          "url": "https://plazadeportiva.valenciaplaza.com/plazadeportiva/valenciacf/el-once-del-valencia-cf-para-jugar-contra-el-oviedo",
+          "url": "https://as.com/futbol/primera/valencia-oviedo-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "La Real Sociedad cae a los puestos de descenso tras la victoria del Oviedo en Valencia",
+          "snippet": "",
+          "url": "https://www.noticiasdegipuzkoa.eus/reala/2025/09/30/real-sociedad-cae-puestos-descenso-10151643.html",
+          "source": "Noticias de Gipuzkoa"
+        },
+        {
+          "title": "Diakhaby: \"Se nos han ido puntos importantes\"",
+          "snippet": "",
+          "url": "https://plazadeportiva.valenciaplaza.com/plazadeportiva/valenciacf/diakhaby-se-nos-han-ido-puntos-importantes",
           "source": "Plaza Deportiva"
-        },
-        {
-          "title": "Galatasaray - Liverpool en directo",
-          "snippet": "",
-          "url": "https://www.elmundo.es/deportes/futbol/champions-league/galatasaray-liverpool/2025/09/30/01_0103_20250930_208_14-directo.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "El valencianismo opina sobre el cambio de día de partido por alerta roja",
-          "snippet": "",
-          "url": "https://www.superdeporte.es/videos/valencia-cf/2025/09/30/valencianismo-opina-cambio-dia-partido-122128428.html",
-          "source": "Superdeporte"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +189,26 @@
       "title": "valencia",
       "trafficCount": "200+",
       "pubDate": "Tue, 30 Sep 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoMn06ehN3giK_9K8UaFVUCJCVUg8sBFoEDDus7Fc3NQFh9X4GEIOMIdxDz4c",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HA1uw2wuKoxAnqbCr61N55uLbwUVI0kxJVj2vhj9JK340OZtHo8b15-xtRY",
+      "pictureSource": "Facebook",
       "relatedSearch": [
         {
-          "title": "Temporal en España del 29 de septiembre de 2025",
+          "title": "En estos momentos se está produciendo un fenómeno en la provincia de Valencia que posiblemente haya llamado su atención, porque aunque sus protagonistas son de pequeño tamaño, aunque mayor de los especímenes que solemos ver, como los hay a",
           "snippet": "",
-          "url": "https://elpais.com/el-tiempo/2025-09-29/ultima-hora-del-temporal-en-directo.html",
-          "source": "EL PAÍS"
+          "url": "https://www.facebook.com/story.php?story_fbid=1262153719286005&id=100064741658917",
+          "source": "Facebook"
         },
         {
-          "title": "Cierran escuelas y playas en isla española de Ibiza por lluvias torrenciales",
+          "title": "Las hormigas voladoras 'toman' Valencia",
           "snippet": "",
-          "url": "https://www.swissinfo.ch/spa/rebajan-la-alerta-por-lluvias-en-valencia,-la-aumentan-a-rojo-en-baleares/90090715",
-          "source": "SWI swissinfo.ch"
+          "url": "https://www.levante-emv.com/videos/comunitat-valenciana/2025/09/30/hormigas-voladoras-valencia-122122886.html",
+          "source": "Levante-EMV"
         },
         {
-          "title": "Catalá destaca el «importante operativo» de la ciudad",
+          "title": "Tras las lluvias, hormigas voladoras por todas partes en Castellón: La biología tiene una explicación",
           "snippet": "",
-          "url": "https://aquimediosdecomunicacion.com/2025/09/30/catala-destaca-el-importante-operativo-de-la-ciudad/",
-          "source": "AQUÍ Medios de Comunicación"
+          "url": "https://www.elperiodicomediterraneo.com/comarcas/2025/09/30/lluvias-hormigas-voladoras-castellon-cambios-122118351.html",
+          "source": "El Periódico Mediterráneo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +265,6 @@
           "snippet": "",
           "url": "https://www.skysports.com/football/galatasaray-vs-liverpool/live/547933",
           "source": "Sky Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zima",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 30 Sep 2025 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvsSXsk0JhHAT-T1czWMtFKzcGdOx8I_P6mjzzalzqSn_I3sk0wPDG1zg3fvg",
-      "pictureSource": "Onet",
-      "relatedSearch": [
-        {
-          "title": "Wiemy, jaka pogoda czeka nas zimą. Nowa prognoza nie pozostawia złudzeń",
-          "snippet": "",
-          "url": "https://www.onet.pl/informacje/onetwiadomosci/ta-zima-moze-byc-inna-od-poprzednich-znamy-najnowsza-prognoze-pogody/2zlfr8q,79cfc278",
-          "source": "Onet"
-        },
-        {
-          "title": "Załamanie pogody w Tatrach, śnieg i trudne warunki na szlakach [NASZE WIDEO]",
-          "snippet": "",
-          "url": "https://www.pap.pl/aktualnosci/zalamanie-pogody-w-tatrach-snieg-i-trudne-warunki-na-szlakach",
-          "source": "Polska Agencja Prasowa SA"
-        },
-        {
-          "title": "Kiedy może spaść śnieg w Polsce? W tych miejscach już jest biało. 'Przyrost pokrywy śnieżnej do 7 cm'",
-          "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,32287794,kiedy-moze-spasc-snieg-w-polsce-w-tych-miejscach-juz-jest-bialo.html",
-          "source": "Gazeta"
         }
       ],
       "link": "https://imtaqin.id/"
