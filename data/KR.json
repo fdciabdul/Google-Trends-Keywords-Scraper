@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-30 08:32:49",
+  "lastUpdate": "2025-09-30 08:44:20",
   "data": [
     {
       "title": "에이피알",
@@ -117,9 +117,15 @@
       "title": "포토스포츠",
       "trafficCount": "200+",
       "pubDate": "Mon, 29 Sep 2025 23:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsEQ1ZcB0PDtYP3vgVbeqekMg66x_xK2-5DyYOoKO87TD_PEATW44-IHi48hM",
-      "pictureSource": "매일경제",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGMUIIe6LqFobyXQwhm6PG0BbuqDqIlYuTPHY7V-DS5cjAbx4iCeFwW8jeJAE",
+      "pictureSource": "레이스24",
       "relatedSearch": [
+        {
+          "title": "[포토] 스포츠바이크 400, 클래스별 우승 향한 치열한 접전",
+          "snippet": "",
+          "url": "https://www.race24.co.kr/news/articleView.html?idxno=41235",
+          "source": "레이스24"
+        },
         {
           "title": "노스페이스 애슬리트팀 서채현 및 정지민이 선보이는 ‘국대급 기량’",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://v.daum.net/v/20250929165103705",
           "source": "Daum"
-        },
-        {
-          "title": "노스페이스, ‘제29회 노스페이스 전국 스포츠클라이밍대회’ 성료",
-          "snippet": "",
-          "url": "https://sports.khan.co.kr/article/202509300213003",
-          "source": "스포츠경향"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "송편",
+      "title": "쥴리 술집",
       "trafficCount": "200+",
       "pubDate": "Mon, 29 Sep 2025 18:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJNo5KFdK_5ykb_LiqsmQZlroXvMBi37vD62s4O7i9-yJEqU2BDkgadxLnrU8",
+      "pictureSource": "동아일보",
+      "relatedSearch": [
+        {
+          "title": "술집 CCTV 유출 의혹 휩싸인 쥴리…“합의 없는 법적 대응”",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Society/article/all/20250930/132493698/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "키오프 쥴리, CCTV 유출 의혹 논란 칼 빼들었다…법적대응 시사 - 스타투데이",
+          "snippet": "",
+          "url": "https://www.mk.co.kr/news/hot-issues/11432533",
+          "source": "매일경제"
+        },
+        {
+          "title": "‘술집 CCTV 유출 의혹’ 아이돌 멤버, 법적 대응 “합의‧선처 없다”",
+          "snippet": "",
+          "url": "https://www.chosun.com/culture-life/k-culture/2025/09/30/ZQITCDHCJFBUZG4TBTHPI3A33U/",
+          "source": "조선일보"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
