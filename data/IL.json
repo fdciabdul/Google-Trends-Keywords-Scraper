@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-01 07:59:09",
+  "lastUpdate": "2025-10-01 08:11:09",
   "data": [
     {
       "title": "bbc",
@@ -61,13 +61,19 @@
       "title": "רעידת אדמה בפיליפינים",
       "trafficCount": "100+",
       "pubDate": "Tue, 30 Sep 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWh7e5d1qAXBpb_Rng1OqUaubxwwZc-m5dQom5HgfEzrgVuAzXzcjUyIxQmrY",
-      "pictureSource": "מעריב",
+      "picture": "",
+      "pictureSource": "Mako",
       "relatedSearch": [
         {
-          "title": "ארדואן נכנס עמוק לתוך עסקת החטופים - והוא יודע בדיוק למה",
+          "title": "\"זה הרגיש כמו סוף העולם\": רעידת אדמה קטלנית בפיליפינים, עשרות נהרגו",
           "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1237794",
+          "url": "https://www.mako.co.il/travel-news/Article-1c99cf892ae9991026.htm",
+          "source": "Mako"
+        },
+        {
+          "title": "כשהוא מושפל וחבוט - חמאס מחפש עקיצה - שתהיה האסון של ישראל | אבי אשכנזי",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1237788",
           "source": "מעריב"
         },
         {
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://passportnews.co.il/article/199832",
           "source": "PassportNews"
-        },
-        {
-          "title": "\"זה הרגיש כמו סוף העולם\": רעידת אדמה קטלנית בפיליפינים, עשרות נהרגו",
-          "snippet": "",
-          "url": "https://www.mako.co.il/travel-news/Article-1c99cf892ae9991026.htm",
-          "source": "Mako"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,34 +109,6 @@
           "snippet": "",
           "url": "https://www.yallakora.com/uefa/2999/album/1480867/%D9%84%D9%82%D8%B7%D8%A7%D8%AA-%D9%85%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%AC%D8%A7%D9%84%D8%A7%D8%AA%D8%A7-%D8%B3%D8%B1%D8%A7%D9%8A-%D9%88%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D8%B5%D9%88%D8%B1-",
           "source": "يلاكورة الموقع الرياضى الأول فى الشرق الأوسط"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "יום כיפור",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 30 Sep 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNoNw74z6ZzZlzvsfdsQkGDO12bu5HGxaF73Rx9FSyXYppKhmfvAt80zRdV-Q",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "רבבות השתתפו בסליחות האחרונות לפני יום כיפור בכותל המערבי",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/judaism/article/hkf00q3k3xe",
-          "source": "ynet"
-        },
-        {
-          "title": "ערב יום הכיפורים: מעל מאה אלף איש השתתפו במעמד הסליחות האחרון בכותל",
-          "snippet": "",
-          "url": "https://www.jdn.co.il/j_world/2489999/",
-          "source": "JDN"
-        },
-        {
-          "title": "צפו: תפילה לשובם של החטופים בכותל עם שורדי שבי",
-          "snippet": "",
-          "url": "https://www.inn.co.il/news/679978",
-          "source": "ערוץ 7"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,17 +192,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "סליחות",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 30 Sep 2025 14:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNoNw74z6ZzZlzvsfdsQkGDO12bu5HGxaF73Rx9FSyXYppKhmfvAt80zRdV-Q",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "רבבות השתתפו בסליחות האחרונות לפני יום כיפור בכותל המערבי",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/judaism/article/hkf00q3k3xe",
+          "source": "ynet"
+        },
+        {
+          "title": "ערב יום הכיפורים: מעל מאה אלף איש השתתפו במעמד הסליחות האחרון בכותל",
+          "snippet": "",
+          "url": "https://www.jdn.co.il/j_world/2489999/",
+          "source": "JDN"
+        },
+        {
+          "title": "צפו: תפילה לשובם של החטופים בכותל עם שורדי שבי",
+          "snippet": "",
+          "url": "https://www.inn.co.il/news/679978",
+          "source": "ערוץ 7"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "atlético madrid vs eintracht frankfurt",
       "trafficCount": "200+",
       "pubDate": "Tue, 30 Sep 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_jkqVQCOyuu2knGegz2SqhaF0LPOGG56cxYdqPBQEKsolHeh584ZfXnkY1ZA",
-      "pictureSource": "Get German Football News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6TvpA2bbY-_bKB8mWgdKwPmrTf3SdQE7SPHBy1PMEaPt8tJ_-obCet_15eo",
+      "pictureSource": "Sports Mole",
       "relatedSearch": [
         {
-          "title": "Three things we learnt from Atletico Madrid 5-1 Eintracht Frankfurt",
+          "title": "Preview: Atletico Madrid vs Eintracht Frankfurt - prediction, team news, lineups",
           "snippet": "",
-          "url": "https://www.getfootballnewsgermany.com/2025/3-things-frankfurt/",
-          "source": "Get German Football News"
+          "url": "https://www.sportsmole.co.uk/football/atletico-madrid/champions-league/preview/atletico-vs-frankfurt-prediction-team-news-lineups_582511.html",
+          "source": "Sports Mole"
         },
         {
           "title": "Five-star Atleti expose Frankfurt’s defensive fragility",
@@ -261,16 +261,16 @@
           "source": "ספורט 1"
         },
         {
+          "title": "אתלטיקו ובאיירן חגגו, ליברפול הופתעה והפסידה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/sport/article/one502787",
+          "source": "ynet"
+        },
+        {
           "title": "אגדת אתלטיקו מדריד: ציון הדרך של אנטואן גריזמן",
           "snippet": "",
           "url": "https://www.sport5.co.il/articles.aspx?FolderID=398&docID=520733",
           "source": "ספורט 5"
-        },
-        {
-          "title": "אתלטיקו ובאיירן חגגו, ליברפול הופתעה והפסידה",
-          "snippet": "",
-          "url": "https://www.one.co.il/Article/23-24/3,14,51,57050/502787.html?ref=hp",
-          "source": "ONE"
         }
       ],
       "link": "https://imtaqin.id/"
