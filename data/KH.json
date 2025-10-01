@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-01 20:30:52",
+  "lastUpdate": "2025-10-01 20:39:14",
   "data": [
     {
       "title": "flashscore",
@@ -31,28 +31,56 @@
     },
     {
       "title": "arsenal",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 1 Oct 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV2ygI7KHbxRbcMSkPytTUaJir_6nt3gMwllvq_Pu7ocXTzykkcTNbB46j18k",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrQOxSTi747Y5559CMMrLXgL7TqYjILEhiTZz1wKZ-AKJau7aCdhCzY00tRUM",
+      "pictureSource": "Arsenal.com",
       "relatedSearch": [
         {
-          "title": "Barcelona v PSG, Monaco v Manchester City and more: Champions League and Championship – live",
+          "title": "Team news: Odegaard back in starting line-up",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2025/oct/01/barcelona-v-psg-monaco-v-manchester-city-and-more-champions-league-and-championship-live",
-          "source": "The Guardian"
+          "url": "https://www.arsenal.com/news/team-news-odegaard-back-starting-line",
+          "source": "Arsenal.com"
         },
         {
-          "title": "'Unacceptable' - Mikel Arteta called out Arsenal star over late mistake which saw club create unwanted history",
+          "title": "Arsenal’s Tactical Surprises Against Olympiacos in UEFA Clash",
           "snippet": "",
-          "url": "https://talksport.com/football/3602499/arsenal-mikel-arteta-champions-league-olympiacos/",
-          "source": "talkSPORT"
+          "url": "https://berawangnews.com/%F0%9F%9A%A8-surprises-in-arsenals-defence-and-attack-vs-olympiacos-2/",
+          "source": "Berawang News"
         },
         {
-          "title": "Champions League: Martinelli gives Arsenal lead, Haaland double for Man City",
+          "title": "Arsenal v Olympiacos – match preview, team news, predicted lineup and score prediction",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cq65pr6vn2zt",
-          "source": "BBC"
+          "url": "https://onefootball.com/de/news/arsenal-v-olympiacos-match-preview-team-news-predicted-lineup-and-score-prediction-41745269",
+          "source": "OneFootball"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "psg",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 1 Oct 2025 12:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCFP99LrwLXW6ClIy226eyYbRUUEksLAhzO0JzJfZx_qJSNwQ-BB9EEZvhFY8",
+      "pictureSource": "Foot Africa",
+      "relatedSearch": [
+        {
+          "title": "Ligue des Champions : Le bus du PSG caillassé à Barcelone (vidéo)",
+          "snippet": "",
+          "url": "https://foot-africa.com/actualites/ligue-des-champions-le-bus-du-psg-caillasse-a-barcelone-video-902331/",
+          "source": "Foot Africa"
+        },
+        {
+          "title": "LDC - FC Barcelone - PSG : le PSG surpris rapidement par Ferran Torres ! (vidéo)",
+          "snippet": "",
+          "url": "https://madeinparisiens.ouest-france.fr/infos/article-ldc-fc-barcelone-psg-le-psg-surpris-rapidement-par-ferran-torres-video-497584.html",
+          "source": "MadeInParisiens"
+        },
+        {
+          "title": "La composition du PSG contre le Barça en Ligue des champions",
+          "snippet": "",
+          "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-la-composition-du-psg-contre-le-barca-en-ligue-des-champions/20217970",
+          "source": "L'Équipe"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.asmonaco.com/en/a-new-look-bernardo-silva-everything-you-need-to-know-about-manchester-city/",
           "source": "AS Monaco"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 1 Oct 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5o2F-VQ63mbTb1whtARzOkHIFJzhFKHfc0CHbYdrmno64_aMEwFh5ohyiU9I",
-      "pictureSource": "OneFootball",
-      "relatedSearch": [
-        {
-          "title": "Ligue des Champions : Le bus du PSG caillassé à Barcelone (vidéo)",
-          "snippet": "",
-          "url": "https://onefootball.com/fr/news/ligue-des-champions-le-bus-du-psg-caillasse-a-barcelone-video-41747053",
-          "source": "OneFootball"
-        },
-        {
-          "title": "LDC - FC Barcelone - PSG : le PSG surpris rapidement par Ferran Torres ! (vidéo)",
-          "snippet": "",
-          "url": "https://madeinparisiens.ouest-france.fr/infos/article-ldc-fc-barcelone-psg-le-psg-surpris-rapidement-par-ferran-torres-video-497584.html",
-          "source": "MadeInParisiens"
-        },
-        {
-          "title": "La composition du PSG contre le Barça en Ligue des champions",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-la-composition-du-psg-contre-le-barca-en-ligue-des-champions/20217970",
-          "source": "L'Équipe"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "BBC"
         },
         {
+          "title": "Newcastle's £100m pair rise to pre-match challenge as Nick Woltemade offers perfect 'idiot' response",
+          "snippet": "",
+          "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastles-100m-pair-rise-pre-32590999",
+          "source": "Chronicle Live"
+        },
+        {
           "title": "Nick Woltemade sets Newcastle United record",
           "snippet": "",
           "url": "https://www.getfootballnewsgermany.com/2025/nick-woltemade-sets-newcastle-united-record/",
           "source": "Get German Football News"
-        },
-        {
-          "title": "Champions League LIVE: Build-up as Arsenal, City & Newcastle play tonight",
-          "snippet": "",
-          "url": "https://www.thesun.co.uk/sport/36862397/champions-league-live-scores-results-arsenal-man-city-newcastle-updates/page/6/",
-          "source": "The Sun"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,14 +201,14 @@
       "title": "nicole kidman",
       "trafficCount": "100+",
       "pubDate": "Wed, 1 Oct 2025 05:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROoBtwg9Ld1CqUww-fpFknC1eu5lnORd7bIOY2FZi7KDZqBIIM4SEZJ7UpgH4",
-      "pictureSource": "People.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq5B9ddCImbk8AmJE0IGOy8PAuQ_9DSCu4Ti5gEymKGCsSaWJPnvooi3W7HQI",
+      "pictureSource": "TMZ",
       "relatedSearch": [
         {
-          "title": "Nicole Kidman Files for Divorce from Keith Urban After 19 Years of Marriage",
+          "title": "Nicole Kidman And Keith Urban Separated, Keith's Decision",
           "snippet": "",
-          "url": "https://people.com/nicole-kidman-files-for-divorce-keith-urban-11821132",
-          "source": "People.com"
+          "url": "https://www.tmz.com/2025/09/29/nicole-kidman-keith-urban-separated/",
+          "source": "TMZ"
         },
         {
           "title": "Inside Nicole Kidman and Keith Urban’s $70m+ property portfolio",
@@ -229,13 +229,13 @@
       "title": "philippines earthquake today",
       "trafficCount": "200+",
       "pubDate": "Wed, 1 Oct 2025 05:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTav6-nucB9AYF72h5cpACizo8r7wQf57dS9cO0uM7dkLspdwlLWrYRGdPUUpA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgmf6nYP6xQAk89dglObiYE1s8AH4PjxLuHUh6Xokqtspsz-zEq3EwSeNTP8g",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "'State of calamity' as earthquake kills 69 in Philippines province",
+          "title": "Watch: Moments as 6.9 magnitude earthquake hit Philippines",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/ced5pyjzej3o",
+          "url": "https://www.bbc.com/news/videos/c864d14zl05o",
           "source": "BBC"
         },
         {
@@ -245,10 +245,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Powerful Earthquake Kills at Least 69 People in Central Philippines",
+          "title": "Strong earthquake kills 31 people in a central Philippine region hit by deadly storm just days ago",
           "snippet": "",
-          "url": "https://www.wsj.com/world/asia/powerful-earthquake-kills-at-least-69-people-in-central-philippines-64f584af?gaa_at=eafs&gaa_n=ASWzDAilTHZ9nIc0HmjItumYO5yhLiMe1fvGEj8eGvPmKP6c80vtgsqYPGvP&gaa_ts=68dd92ff&gaa_sig=obL1wvifDrr7u5gjy5nIj69xuzvMm4jaxCWW6d37-ILn3W-KCrcKddOUnN6inusbDIWkBmOmG3Rtedexnjz1Qg%3D%3D",
-          "source": "The Wall Street Journal"
+          "url": "https://www.ksl.com/article/51383083/strong-earthquake-kills-31-people-in-a-central-philippine-region-hit-by-deadly-storm-just-days-ago",
+          "source": "KSL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,19 +257,13 @@
       "title": "tilly norwood",
       "trafficCount": "200+",
       "pubDate": "Wed, 1 Oct 2025 05:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSVnNTfdQeEQgnX3KLTwTtnSIDTb1C7IMXizIAEQBSWXeL0vRJ7vLl4Jeb4w",
-      "pictureSource": "Variety",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg-l328xZdETzQibhLoHfO2bYzj2G7__FNbznB0tw1FG5adt52Jjj0c-iGkw",
+      "pictureSource": "Deadline",
       "relatedSearch": [
         {
-          "title": "Emily Blunt Calls AI Actress Tilly Norwood ‘Really Scary’ and Warns Hollywood Agencies: ‘Don’t Do That’",
+          "title": "Talent Agents Circle AI Actress Tilly Norwood As Studios Quietly Embrace AI Technology – Zurich Summit",
           "snippet": "",
-          "url": "https://variety.com/2025/film/news/emily-blunt-ai-actress-tilly-norwood-reaction-1236534547/",
-          "source": "Variety"
-        },
-        {
-          "title": "Eline Van Der Velden, Founder Of AI Indie Particle6, Launches AI Talent Studio Xicoia For “Hyperreal Digital Stars”",
-          "snippet": "",
-          "url": "https://deadline.com/2025/09/eline-van-der-velden-particle6-ai-talent-studio-xicoia-1236555680/",
+          "url": "https://deadline.com/2025/09/talent-agent-ai-actress-tilly-norwood-studios-1236557889/",
           "source": "Deadline"
         },
         {
@@ -277,6 +271,12 @@
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/c99glvn5870o",
           "source": "BBC"
+        },
+        {
+          "title": "Emily Blunt Calls AI Actress Tilly Norwood ‘Really Scary’ and Warns Hollywood Agencies: ‘Don’t Do That’",
+          "snippet": "",
+          "url": "https://variety.com/2025/film/news/emily-blunt-ai-actress-tilly-norwood-reaction-1236534547/",
+          "source": "Variety"
         }
       ],
       "link": "https://imtaqin.id/"
