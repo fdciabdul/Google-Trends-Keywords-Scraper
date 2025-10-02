@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-10-02 23:47:05",
+  "lastUpdate": "2025-10-02 23:54:03",
   "data": [
+    {
+      "title": "서울 날씨",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 2 Oct 2025 15:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStzIlXIoIAYouPgD5GgFkRBXZRadMjGL9YyAGWYXTw6zDsxep_JsEQJ1OkMqQ",
+      "pictureSource": "뉴스1",
+      "relatedSearch": [
+        {
+          "title": "[오늘의 날씨] 강원(3일, 금)…흐리고 영동 중심 비",
+          "snippet": "",
+          "url": "https://www.news1.kr/local/kangwon/5933958",
+          "source": "뉴스1"
+        },
+        {
+          "title": "인천, 대체로 흐리고 평년기온 웃돌아…\"강풍 주의\"",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20251002_0003354887",
+          "source": "뉴시스"
+        },
+        {
+          "title": "10월 03일 금요일, 오늘의 날씨와 미세먼지 농도 [인포그래픽]",
+          "snippet": "",
+          "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=229857",
+          "source": "시선뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Thu, 2 Oct 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyvWlIaKlML2Nc_oixx7C6rriqUIqU94_OCnHOojIHvGjj_cpKO2n--ydw44E",
-      "pictureSource": "vreme.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrMLYMsyjtXQYyvxdBj3eyJWuzE23TAGI4dp2q9hJSZ2YFQ_ACKAuF2csmDFE",
+      "pictureSource": "KGNS",
       "relatedSearch": [
         {
-          "title": "Heavy rain and snow: Emergency weather warning",
+          "title": "No Sign of Cool Weather as of Yet",
           "snippet": "",
-          "url": "https://vreme.com/en/mozaik/jaka-kisa-i-sneg-hitno-upozorenje-na-vremenske-neprilike/",
-          "source": "vreme.com"
+          "url": "https://www.kgns.tv/2025/10/02/no-sign-cool-weather-yet/",
+          "source": "KGNS"
         },
         {
-          "title": "The weather tomorrow and the following days",
+          "title": "Warm afternoons stay with plenty of sunshine",
           "snippet": "",
-          "url": "https://www.gazetaexpress.com/en/the-weather-tomorrow-and-the-following-days-97/",
-          "source": "Gazeta Express"
+          "url": "https://www.wlwt.com/article/warm-afternoons-stay-with-plenty-of-sunshine/68095778",
+          "source": "WLWT"
         },
         {
-          "title": "Drastic drop in temperatures in the coming days, heavy rain and snow",
+          "title": "Very Warm Dry Days Continue",
           "snippet": "",
-          "url": "https://insajderi.org/en/Drastic-drop-in-temperatures-in-the-coming-days--heavy-rain-and-snowfall/",
-          "source": "Insajderi"
+          "url": "https://www.kgns.tv/2025/10/01/very-warm-dry-days-continue/",
+          "source": "KGNS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,8 +114,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "고속도로 교통상황",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 2 Oct 2025 13:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflX6KUnLTz0tl77zP8DYW04SfSeajcsn6xS9ofJHSjAugRtachjNUE2Keb6A",
+      "pictureSource": "경기일보",
+      "relatedSearch": [
+        {
+          "title": "긴~ 연휴 5일·7일 가장 혼잡... 고향 가는 길, 안전운전하세요",
+          "snippet": "",
+          "url": "https://www.kyeonggi.com/article/20251001580435",
+          "source": "경기일보"
+        },
+        {
+          "title": "오늘부터 최장 열흘 황금 연휴…이 시각 고속도로",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8374312",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "서울~광주 5시간 40분·서울~목포 5시간 20분",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20251003_0003355045",
+          "source": "뉴시스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "김현지 비서관",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 2 Oct 2025 13:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_sVDL-fXGEwTyTFmhKSpt1UOI6Q0eqq1Pfa2_Byz7fcDcNVgI_OxuQ0gtw2M",
       "pictureSource": "조선일보",
@@ -117,20 +173,20 @@
       "title": "서울날씨",
       "trafficCount": "200+",
       "pubDate": "Thu, 2 Oct 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSru1p2ua4FMiO3FyjzTtuzytlVLCQ2qpGecKEovcAhY-ACDx8kNCcJjy5Rptk",
-      "pictureSource": "YTN 사이언스",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0OdEudFiBCAokgor4YRjNLXVWzc-Ls0BI1W67CKQAg8P8cblsP1ptpDn5oiU",
+      "pictureSource": "연합뉴스",
       "relatedSearch": [
-        {
-          "title": "[날씨] 오늘(목) 흐린 하늘…일교차 유의",
-          "snippet": "",
-          "url": "https://science.ytn.co.kr/weather/view.php?mcd=1000&key=202510020650590001",
-          "source": "YTN 사이언스"
-        },
         {
           "title": "강원 내륙·산지 오전까지 짙은 안개…출근·귀경길 운전 유의",
           "snippet": "",
           "url": "https://www.yna.co.kr/view/AKR20251002009900062",
           "source": "연합뉴스"
+        },
+        {
+          "title": "[오늘의 날씨] 강원(2일, 목)…영서·산간 일교차 커 '건강 유의'",
+          "snippet": "",
+          "url": "https://www.news1.kr/local/kangwon/5932292",
+          "source": "뉴스1"
         },
         {
           "title": "설악산 단풍 '지각'…추석 연휴 첫날 충청·남부 비",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://v.daum.net/v/20251003075225023",
           "source": "Daum"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "라이엇",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 2 Oct 2025 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQB9RWRltzG9tKKbPdDWSGJZZ0GG4Oq80ohPYiJ346LLtkfXKqmlr7TTInWypM",
-      "pictureSource": "인벤",
-      "relatedSearch": [
-        {
-          "title": "라이엇, '승률 50% 강제' 의혹 직접 해명... 부계정 제재 강화도 시사",
-          "snippet": "",
-          "url": "https://www.inven.co.kr/webzine/news/?news=310225",
-          "source": "인벤"
-        },
-        {
-          "title": "라이엇, '승률 50% 강제' 의혹 직접 해명... 부계정 제재 강화도 시사",
-          "snippet": "",
-          "url": "https://www.inven.co.kr/webzine/news/?news=310225&site=lol",
-          "source": "인벤"
-        },
-        {
-          "title": "라이엇게임즈 추석 선물 공개…LoL 유저 위한 '유미의 추석 주머니'",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20250930150626161",
-          "source": "Daum"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "as로마",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 2 Oct 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdHth0DAa7IaJW09Rf_GgasA_i-HY-KaRKe1hrYiD1F4L34BOg-Lxb-t6IEI",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Roma 0-1 Lille - Berke Ozer saves three penalties in a row to seal win",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cly1xrv377wt",
-          "source": "BBC"
-        },
-        {
-          "title": "Lille GK saves 3 Roma penalties in wild sequence",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/46468421/lille-goalkeeper-berke-ozer-roma-penalty-saves-europa-league",
-          "source": "ESPN"
-        },
-        {
-          "title": "Gasperini’s comments ahead of Roma v Lille",
-          "snippet": "",
-          "url": "https://www.asroma.com/en/news/74033/gasperinis-comments-ahead-of-roma-v-lille",
-          "source": "AS Roma"
         }
       ],
       "link": "https://imtaqin.id/"
