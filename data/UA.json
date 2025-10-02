@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-02 05:56:05",
+  "lastUpdate": "2025-10-02 06:06:26",
   "data": [
     {
       "title": "бар один звонок",
@@ -33,9 +33,15 @@
       "title": "2 жовтня",
       "trafficCount": "200+",
       "pubDate": "Wed, 1 Oct 2025 21:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3M1ON38ep09eG76Fcz4zsc_aiTwhuoVuF0-nmW_sWZiobSv0ijbPdOigyWS4",
-      "pictureSource": "Патріот Донбасу",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA3K58vIs5qUbFIJRIdw30kYYcjY9V2OyoJLgLcl2m0i2-zWJWIrLJO5Bvh7Q",
+      "pictureSource": "Укрінформ",
       "relatedSearch": [
+        {
+          "title": "В Україні завтра незначні дощі, в західних областях - заморозки",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-regions/4042557-v-ukraini-zavtra-neznacni-dosi-v-zahidnih-oblastah-zamorozki.html",
+          "source": "Укрінформ"
+        },
         {
           "title": "Жовтень цього року буде трохи теплішим за норму: прогноз Укргідрометцентру",
           "snippet": "",
@@ -43,16 +49,10 @@
           "source": "Патріот Донбасу"
         },
         {
-          "title": "Дощі та мокрий сніг: прогноз погоди на сьогодні, 2 жовтня",
+          "title": "Накриє температурний контраст: якою сьогодні буде погода в Україні",
           "snippet": "",
-          "url": "https://tsn.ua/ukrayina/doshchi-ta-mokryy-snih-prohnoz-pohody-na-syohodni-2-zovtnia-2924987.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Хмарно з проясненнями та невеликий дощ: погода 2 жовтня на Вінниччині",
-          "snippet": "",
-          "url": "https://suspilne.media/vinnytsia/1128488-hmarno-z-proasnennami-ta-nevelikij-dos-pogoda-2-zovtna-na-vinniccini/",
-          "source": "Суспільне | Новини"
+          "url": "https://www.rbc.ua/rus/news/nakrie-temperaturniy-kontrast-koyu-sogodni-1759323754.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "париматч",
+      "title": "днем захисника україни",
       "trafficCount": "100+",
-      "pubDate": "Wed, 1 Oct 2025 15:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Wed, 1 Oct 2025 17:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSb8_nr8LjRKAf-QyzRo_GNt0tDqf9WqupqVtLoi8Nldv-6JB3wQiCD_mV2pQ",
+      "pictureSource": "Офіційний сайт міста Одеса",
+      "relatedSearch": [
+        {
+          "title": "Одесса отмечает День защитников и защитниц Украины. Фото",
+          "snippet": "",
+          "url": "https://omr.gov.ua/ru/news/243303/",
+          "source": "Офіційний сайт міста Одеса"
+        },
+        {
+          "title": "Звернення Президента з нагоди Дня захисників і захисниць України",
+          "snippet": "",
+          "url": "https://www.president.gov.ua/news/zvernennya-prezidenta-z-nagodi-dnya-zahisnikiv-i-zahisnic-uk-100473",
+          "source": "Офіційне інтернет-представництво Президента України"
+        },
+        {
+          "title": "У Шептицькому на Львівщині родинам загиблих військових вручили державні нагороди",
+          "snippet": "",
+          "url": "https://suspilne.media/lviv/1128578-u-septickomu-na-lvivsini-rodinam-zagiblih-vijskovih-vrucili-derzavni-nagorodi/",
+          "source": "Суспільне | Новини"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
