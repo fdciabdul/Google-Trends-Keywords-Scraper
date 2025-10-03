@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-03 03:02:13",
+  "lastUpdate": "2025-10-03 03:18:33",
   "data": [
     {
       "title": "nus work from office",
@@ -87,7 +87,7 @@
     },
     {
       "title": "yu menglong",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Thu, 2 Oct 2025 18:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM6-DhOn5x_eqFWu852PftL8qgroIJeTetT71qe3La8yetmWEzdYHmhHMICVI",
       "pictureSource": "Foreign Policy",
@@ -115,7 +115,7 @@
     },
     {
       "title": "weather singapore",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 2 Oct 2025 17:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrCfnSNtU7QM_M8OSMDW8xSm-iJio_RM49-jele6JAK0TBAIRQer7nHSf5qI",
       "pictureSource": "The National Environment Agency",
@@ -164,9 +164,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "singapore weather",
+      "title": "weather forecast",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 2 Oct 2025 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgSBVW_roYlnODnlKtDV9xpLug69UAl1GusgS6k3bMPaFbPX-zoZFcqi4UBA",
+      "pictureSource": "FOX Weather",
+      "relatedSearch": [
+        {
+          "title": "Tropical disturbance fuels Florida wet weekend, flooding threat",
+          "snippet": "",
+          "url": "https://www.foxweather.com/weather-news/tropical-disturbance-florida-rain-flooding",
+          "source": "FOX Weather"
+        },
+        {
+          "title": "Downpours expected across Central Florida on Thursday | Rain continues through weekend",
+          "snippet": "",
+          "url": "https://www.wesh.com/article/downpours-central-florida-thursday-friday-weekend/68190230",
+          "source": "WESH"
+        },
+        {
+          "title": "Scattered storms return Thursday with an unsettled pattern ahead",
+          "snippet": "",
+          "url": "https://www.gulfcoastnewsnow.com/article/forecast-weather-rain-fort-myers-today-tonight-southwest-florida/68206727",
+          "source": "Gulf Coast News and Weather"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather forecast singapore",
       "trafficCount": "2000+",
-      "pubDate": "Thu, 2 Oct 2025 17:40:00 -0700",
+      "pubDate": "Thu, 2 Oct 2025 17:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLb7K1Sy93dH1pX5HwhwF6UWbz2P_DZ9AEuhpYH7Wu5-YdlgNHtrh56LnINVk",
       "pictureSource": "CNBC",
       "relatedSearch": [
@@ -187,34 +215,6 @@
           "snippet": "",
           "url": "https://www.nytimes.com/athletic/6683387/2025/10/02/f1-singapore-gp-heat-hazard-race-weather/",
           "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather forecast",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 2 Oct 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgSBVW_roYlnODnlKtDV9xpLug69UAl1GusgS6k3bMPaFbPX-zoZFcqi4UBA",
-      "pictureSource": "FOX Weather",
-      "relatedSearch": [
-        {
-          "title": "Tropical disturbance fuels Florida wet weekend, flooding threat",
-          "snippet": "",
-          "url": "https://www.foxweather.com/weather-news/tropical-disturbance-florida-rain-flooding",
-          "source": "FOX Weather"
-        },
-        {
-          "title": "NEXT Weather Alert issued for parts of South Florida due to possible flash flood threat",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/miami/news/next-weather-alert-issued-for-parts-of-south-florida-due-to-possible-flash-flood-threat/",
-          "source": "CBS News"
-        },
-        {
-          "title": "Orlando weather: Heavy rain and scattered storm chances on the rise, expected through weekend",
-          "snippet": "",
-          "url": "https://www.fox35orlando.com/news/orlando-weather-forecast-oct-2-2025",
-          "source": "FOX 35 Orlando"
         }
       ],
       "link": "https://imtaqin.id/"
