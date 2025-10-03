@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-10-03 02:10:02",
+  "lastUpdate": "2025-10-03 02:38:41",
   "data": [
     {
+      "title": "nus work from office",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 2 Oct 2025 19:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuRKnEeHiOmIz0TgQY_gqhvcgBtWO1uO-b8DqG9QvtZ8aNy1ql_KOp-35Urbw",
+      "pictureSource": "The Straits Times",
+      "relatedSearch": [
+        {
+          "title": "NUS implements full work-from-office policy for all full-time staff",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/singapore/parenting-education/nus-implements-full-work-from-office-policy-for-all-full-time-staff-members",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "NUS requires all full-time staff to work from the office; Gong Cha to relaunch in Singapore in 2026 with new franchisees: Singapore live news",
+          "snippet": "",
+          "url": "https://sg.news.yahoo.com/live/singapore-live-news-nus-requires-all-full-time-staff-to-work-from-the-office-gong-cha-to-relaunch-in-singapore-in-2026-with-new-franchisees-005546004.html",
+          "source": "Yahoo News Singapore"
+        },
+        {
+          "title": "NUS implements five-day work-from-office policy for all university staff",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/singapore/national-university-singapore-work-office-staff-nus-singapore-5382021",
+          "source": "CNA"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "claude ai",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 2 Oct 2025 18:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNxU4WTXIYy4Y9XXDCsp73K-Mzv5I_oQ75hfjo8Sz5xqz3NUyn9Uv34rxNFTs",
       "pictureSource": "Anthropic",
@@ -86,31 +114,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kim dae mun korean food",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 2 Oct 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtQENJA9NaMFLap5jMjT1uwk8SZ08KUWbbm4t_tf_MGR2PdbvwQJjW2shLexM",
-      "pictureSource": "AsiaOne",
-      "relatedSearch": [
-        {
-          "title": "Korean eatery Kim Dae Mun at Concorde Shopping Mall to shutter in November, Lifestyle News",
-          "snippet": "",
-          "url": "https://www.asiaone.com/lifestyle/korean-eatery-kim-dae-mun-concorde-shopping-mall-shutter-november",
-          "source": "AsiaOne"
-        },
-        {
-          "title": "Kim Dae Mun, Korean eatery in Concorde Hotel along Orchard Rd, to close in Nov. 2025",
-          "snippet": "",
-          "url": "https://mothership.sg/2025/10/kim-dae-mun-closing/",
-          "source": "Mothership"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "singapore weather",
+      "title": "weather singapore",
       "trafficCount": "1000+",
-      "pubDate": "Thu, 2 Oct 2025 17:40:00 -0700",
+      "pubDate": "Thu, 2 Oct 2025 17:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrCfnSNtU7QM_M8OSMDW8xSm-iJio_RM49-jele6JAK0TBAIRQer7nHSf5qI",
       "pictureSource": "The National Environment Agency",
       "relatedSearch": [
@@ -136,6 +142,28 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "kim dae mun korean food",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 2 Oct 2025 17:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtQENJA9NaMFLap5jMjT1uwk8SZ08KUWbbm4t_tf_MGR2PdbvwQJjW2shLexM",
+      "pictureSource": "AsiaOne",
+      "relatedSearch": [
+        {
+          "title": "Korean eatery Kim Dae Mun at Concorde Shopping Mall to shutter in November, Lifestyle News",
+          "snippet": "",
+          "url": "https://www.asiaone.com/lifestyle/korean-eatery-kim-dae-mun-concorde-shopping-mall-shutter-november",
+          "source": "AsiaOne"
+        },
+        {
+          "title": "Kim Dae Mun, Korean eatery in Concorde Hotel along Orchard Rd, to close in Nov. 2025",
+          "snippet": "",
+          "url": "https://mothership.sg/2025/10/kim-dae-mun-closing/",
+          "source": "Mothership"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather forecast",
       "trafficCount": "500+",
       "pubDate": "Thu, 2 Oct 2025 17:30:00 -0700",
@@ -149,10 +177,10 @@
           "source": "FOX Weather"
         },
         {
-          "title": "NEXT Weather Alert issued for parts of South Florida due to possible flash flood threat",
+          "title": "Downpours expected across Central Florida on Thursday | Rain continues through weekend",
           "snippet": "",
-          "url": "https://www.cbsnews.com/miami/news/next-weather-alert-issued-for-parts-of-south-florida-due-to-possible-flash-flood-threat/",
-          "source": "CBS News"
+          "url": "https://www.wesh.com/article/downpours-central-florida-thursday-friday-weekend/68190230",
+          "source": "WESH"
         },
         {
           "title": "Scattered storms return Thursday with an unsettled pattern ahead",
@@ -167,20 +195,20 @@
       "title": "weather forecast singapore",
       "trafficCount": "2000+",
       "pubDate": "Thu, 2 Oct 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLb7K1Sy93dH1pX5HwhwF6UWbz2P_DZ9AEuhpYH7Wu5-YdlgNHtrh56LnINVk",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvmjBcxi6KJ_wfIiFViuO6W2vbhGjKsKqAhX_6caJCsCE4h07puS68TXu6Trk",
+      "pictureSource": "The Straits Times",
       "relatedSearch": [
-        {
-          "title": "Singapore's F1 race boosts tourism to the island — and other parts of Asia-Pacific",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/03/singapores-f1-race-boosts-tourism-to-other-countries-in-asia-pacific.html",
-          "source": "CNBC"
-        },
         {
           "title": "The Big Question: Why is the Singapore Grand Prix still the hottest ticket in town?",
           "snippet": "",
           "url": "https://www.straitstimes.com/sport/formula-one/the-big-question-why-is-the-singapore-grand-prix-still-the-hottest-ticket-in-town",
           "source": "The Straits Times"
+        },
+        {
+          "title": "Singapore's F1 race boosts tourism to the island — and other parts of Asia-Pacific",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/10/03/singapores-f1-race-boosts-tourism-to-other-countries-in-asia-pacific.html",
+          "source": "CNBC"
         },
         {
           "title": "F1’s Singapore Grand Prix declared a heat hazard: What does it mean for the race?",
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.indiatvnews.com/sports/cricket/133-places-bangladesh-s-10-match-old-opener-earns-monstrous-gain-in-icc-rankings-ahead-of-india-clash-2025-09-24-1009833",
           "source": "India TV News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ludogorets vs real betis",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 2 Oct 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Ludogorets Razgrad vs Real Betis: UEFA Europa League stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c0jq591w5w4t",
-          "source": "BBC"
-        },
-        {
-          "title": "Giovani Lo Celso scores for Real Betis in 2-0 win vs. Ludogorets",
-          "snippet": "",
-          "url": "https://mundoalbiceleste.com/2025/10/02/giovani-lo-celso-scores-for-real-betis-in-2-0-win-vs-ludogorets/",
-          "source": "Mundo Albiceleste"
-        },
-        {
-          "title": "Real Betis vs Ludogorets – Match Preview & Score Prediction",
-          "snippet": "",
-          "url": "https://www.moroccoworldnews.com/2025/10/261375/real-betis-vs-ludogorets-match-preview-score-prediction/",
-          "source": "Morocco World News"
         }
       ],
       "link": "https://imtaqin.id/"
