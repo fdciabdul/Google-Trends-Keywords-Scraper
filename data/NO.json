@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-04 07:48:24",
+  "lastUpdate": "2025-10-04 07:55:28",
   "data": [
     {
       "title": "laagendalsposten",
@@ -61,15 +61,9 @@
       "title": "sandefjord blad",
       "trafficCount": "200+",
       "pubDate": "Fri, 3 Oct 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Jndg3phRhTuOFCozkY14bvhhQjn3H6z-YPR-uznOJq04sL6cU26andI4Eok",
-      "pictureSource": "Sandefjords Blad",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64oWhcuTCZkcjtgAX8SdLac8VikgOoeQRJfzFyNQrQLVckXswVDSX5UqVO84",
+      "pictureSource": "Telemarksavisa",
       "relatedSearch": [
-        {
-          "title": "Nyheter, Vær | Stormen er her: Trær over veien – mange uten strøm",
-          "snippet": "",
-          "url": "https://www.sb.no/meldinger-om-trar-over-veien-mange-uten-strom/s/5-73-2057518",
-          "source": "Sandefjords Blad"
-        },
         {
           "title": "Vær, Trafikk | Stormen byr på problemer for flere næringsdrivende: – Kommer oss ikke på jobb",
           "snippet": "",
@@ -77,10 +71,16 @@
           "source": "Telemarksavisa"
         },
         {
-          "title": "(+) Strømbrudd i Lillomarka",
+          "title": "nå: Stormen «Amy» herjer: Titusenvis uten strøm",
           "snippet": "",
-          "url": "https://www.varingen.no/strombrudd-i-lillomarka/s/5-92-658443",
-          "source": "Varingen"
+          "url": "https://www.vg.no/nyheter/i/4B5jvo/12-000-beroert-av-stroembrudd-og-amy-skal-bli-enda-verre",
+          "source": "VG"
+        },
+        {
+          "title": "Farevarsler oppjustert",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/farevarsler-oppjustert/83679365",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "adressa.no"
         },
         {
-          "title": "Kommunen setter krisestab: Hus ødelagt, veier stengt",
-          "snippet": "",
-          "url": "https://www.opp.no/nyheter/n/pPo6Bj/kommunen-setter-krisestab-hus-oedelagt-veier-stengt",
-          "source": "opp.no"
-        },
-        {
           "title": "Ekstremværet herjer i Trøndelag: Oppdal setter krisestab",
           "snippet": "",
           "url": "https://www.nrk.no/trondelag/ekstremvaeret-_amy_-herjer-i-trondelag._-1.17597658",
           "source": "NRK"
+        },
+        {
+          "title": "Kommunen setter krisestab: Hus ødelagt, veier stengt",
+          "snippet": "",
+          "url": "https://www.opp.no/nyheter/n/pPo6Bj/kommunen-setter-krisestab-hus-oedelagt-veier-stengt",
+          "source": "opp.no"
         }
       ],
       "link": "https://imtaqin.id/"
