@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-04 10:04:28",
+  "lastUpdate": "2025-10-04 10:15:06",
   "data": [
     {
       "title": "skagen marathon",
@@ -15,16 +15,16 @@
           "source": "TV2 Nord"
         },
         {
-          "title": "Vindfølsomme køretøjer frarådes på flere broer",
-          "snippet": "",
-          "url": "https://vejr.tv2.dk/live/2024-12-02-vejr-og-klima/vindfoelsomme-koeretoejer-fraraades-paa-flere-broer?entry=f85be1ba-b49d-4bf9-a2b3-90097c23d790",
-          "source": "vejr.tv2.dk"
-        },
-        {
           "title": "Skagen Marathon udskydes tre timer",
           "snippet": "",
           "url": "https://www.skagensavis.dk/2025/10/04/skagen-marathon-udskydes-tre-timer.html",
           "source": "SkagensAvis.dk"
+        },
+        {
+          "title": "Lige Nu",
+          "snippet": "",
+          "url": "https://nordjyske.dk/nu/historisk-herregaard-sat-til-salg-i-nordjylland/0c2ed9b9-1e6f-4fab-8ce4-0cb047b9064f",
+          "source": "Nordjyske"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,26 +98,26 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Fri, 3 Oct 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZh52QxhzMhCHgQY0S23XgqwYJ6uT2kGiGZ9fznta_lBvySGsX1owEOBST5I",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHB3hou1RIajY5eCCK-TXwpSAbpdlLS-JUdB3a-jlpKW10xbW2P2dJBnPP6Ew",
+      "pictureSource": "Raleigh News & Observer",
       "relatedSearch": [
         {
-          "title": "Storm Amy hits UK with heavy rain and strong winds",
+          "title": "Weather alert issued for NC High Country until Saturday morning",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c0lky9nn948o",
-          "source": "BBC"
+          "url": "https://www.newsobserver.com/news/weather-news/article312379235.html",
+          "source": "Raleigh News & Observer"
         },
         {
-          "title": "Man dies and tens of thousands without power as Storm Amy brings 90mph winds to UK and Ireland",
+          "title": "Special Weather Statement until SAT 8:30 AM EDT",
           "snippet": "",
-          "url": "https://news.sky.com/story/man-dies-and-tens-of-thousands-without-power-as-storm-amy-brings-90mph-winds-to-uk-and-ireland-13443835",
-          "source": "Sky News"
+          "url": "https://swvatoday.com/news/local/weather/article_eb4a75b3-f170-5605-9183-73ea7de06885.html",
+          "source": "SWVA Today"
         },
         {
-          "title": "British Airways, Aer Lingus, KLM, and EasyJet Ground Flights as Storm Amy Disrupts UK and Ireland Air Travel",
+          "title": "Thousands of Drivers Warned of Rapidly Changing Conditions: ‘Be Prepared’",
           "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/british-airways-aer-lingus-klm-and-easyjet-ground-flights-as-storm-amy-disrupts-uk-and-ireland-air-travel/",
-          "source": "Travel And Tour World"
+          "url": "https://www.newsweek.com/thousands-of-drivers-warned-of-rapidly-changing-conditions-be-prepared-10797961",
+          "source": "Newsweek"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,12 +235,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "jasmin vild med dans",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 3 Oct 2025 13:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "storm",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 3 Oct 2025 13:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZh52QxhzMhCHgQY0S23XgqwYJ6uT2kGiGZ9fznta_lBvySGsX1owEOBST5I",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Storm Amy hits UK with heavy rain and strong winds",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c0lky9nn948o",
+          "source": "BBC"
+        },
+        {
+          "title": "Orange wind warning issued for Donegal, Sligo and Leitrim",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/ireland/2025/1003/1536549-storm-amy/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Man dies and tens of thousands without power as Storm Amy brings 90mph winds to UK and Ireland",
+          "snippet": "",
+          "url": "https://news.sky.com/story/man-dies-and-tens-of-thousands-without-power-as-storm-amy-brings-90mph-winds-to-uk-and-ireland-13443835",
+          "source": "Sky News"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
