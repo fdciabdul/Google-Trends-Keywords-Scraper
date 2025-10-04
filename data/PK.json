@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-04 22:32:25",
+  "lastUpdate": "2025-10-04 22:39:50",
   "data": [
+    {
+      "title": "weather update",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 4 Oct 2025 14:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbsaQS4SHCD0rgwjPvw6zEqTu9MLtze5t-zszOkjLzC6KAdjYqJ7rogFQJ6GI",
+      "pictureSource": "Mint",
+      "relatedSearch": [
+        {
+          "title": "Weather alert! IMD issues heavy rain alert for THESE districts - check forecast for Delhi, Mumbai and other states",
+          "snippet": "",
+          "url": "https://www.livemint.com/news/india/cyclone-shakti-weather-alert-imd-issues-heavy-rain-alert-for-these-districts-check-forecast-for-delhi-mumbai-11759593654879.html",
+          "source": "Mint"
+        },
+        {
+          "title": "Heavy to extremely heavy rainfall warning issued for 16 states, list released | To read the entire bulletin issued by IMD | Inshorts",
+          "snippet": "",
+          "url": "https://inshorts.com/en/news/heavy-to-extremely-heavy-rainfall-warning-issued-for-16-states--list-released-1759586722275",
+          "source": "Inshorts"
+        },
+        {
+          "title": "Rains likely in parts of UP, Bihar; showers predicted in Delhi-NCR",
+          "snippet": "",
+          "url": "https://www.cnbctv18.com/india/environment/rains-likely-in-parts-of-up-bihar-showers-predicted-in-delhi-ncr-19701189.htm",
+          "source": "CNBC TV18"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "accuweather",
       "trafficCount": "100+",
@@ -105,38 +133,10 @@
           "source": "KJCT"
         },
         {
-          "title": "Windy on Saturday with isolated showers, two cold fronts on the way",
+          "title": "Colorado mountains and Front Range could see storms this weekend",
           "snippet": "",
-          "url": "https://www.koaa.com/weather/windy-on-saturday-with-isolated-showers-two-cold-fronts-on-the-way",
-          "source": "KOAA News 5"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "today weather",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 4 Oct 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnaXySnjPhEh0R5399XnFP36ro-BwEAQKJwspf3KAxtbat4qVpFeraiFdeen4",
-      "pictureSource": "BurlingtonToday.com",
-      "relatedSearch": [
-        {
-          "title": "Good morning, Burlington! Here's today's weather!",
-          "snippet": "",
-          "url": "https://www.burlingtontoday.com/good-morning/good-morning-burlington-heres-todays-weather-11289842",
-          "source": "BurlingtonToday.com"
-        },
-        {
-          "title": "Good morning, Milton! Here's today's weather!",
-          "snippet": "",
-          "url": "https://www.miltontoday.ca/good-morning/good-morning-milton-heres-todays-weather-11288395",
-          "source": "MiltonToday.ca"
-        },
-        {
-          "title": "Good morning, Barrie! Here's today's weather!",
-          "snippet": "",
-          "url": "https://www.barrietoday.com/good-morning/good-morning-barrie-heres-todays-weather-11290087",
-          "source": "BarrieToday.com"
+          "url": "https://www.cbsnews.com/colorado/news/colorado-mountains-front-range-possible-weekend-storms/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,28 +227,28 @@
     },
     {
       "title": "gaza strip",
-      "trafficCount": "500+",
+      "trafficCount": "100+",
       "pubDate": "Sat, 4 Oct 2025 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBCCl1XTQQTKOLTN_hYmciJRWp_DB0npZlSjF16onA8ChQR4X8h8B15S-TEI",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQONpLGr8MikzN1saSjJT-Mv4btBcTsTaD9KCRamNom7Pjkd4MlVxFL1sP-BOY",
+      "pictureSource": "Al Jazeera",
       "relatedSearch": [
         {
-          "title": "Shock in Gaza as Trump appears to welcome Hamas response to US peace plan",
+          "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c15k199j1x3o",
-          "source": "BBC"
-        },
-        {
-          "title": "Trump claimed victory after Hamas’ response to ceasefire plan, boxing in Netanyahu",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/04/politics/trump-netanyahu-hamas-gaza-proposal",
-          "source": "CNN"
-        },
-        {
-          "title": "Norman Finkelstein: Trump plan has no connection to reality in Gaza",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/video/upfront/2025/10/4/norman-finkelstein-trump-plan-has-no-connection-to-reality-in-gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing",
           "source": "Al Jazeera"
+        },
+        {
+          "title": "Israeli army issues threats to Palestinians against returning to Gaza City",
+          "snippet": "",
+          "url": "https://www.dawn.com/news/1946551/israeli-army-issues-threats-to-palestinians-against-returning-to-gaza-city",
+          "source": "Dawn"
+        },
+        {
+          "title": "IDF halts Gaza City offensive as Trump pushes to end war; Egypt to host talks on hostage releases",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/idf-halts-gaza-city-offensive-as-trump-pushes-to-end-war-negotiators-prepare-for-talks/",
+          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
