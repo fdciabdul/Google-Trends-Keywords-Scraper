@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-05 04:09:11",
+  "lastUpdate": "2025-10-05 04:21:24",
   "data": [
+    {
+      "title": "новини рівного",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 4 Oct 2025 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQF2ZFLcSM9CixUrPowMvPswy5M0LdEurSxIJ1oNyQ7iDvWtENJjAvLKn0Kqc",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "Армія РФ вчергове атакувала Чернігів",
+          "snippet": "",
+          "url": "https://suspilne.media/chernihiv/1130674-armia-rf-vcergove-atakuvala-cernigiv/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Ворог атакував Чернігів: у місті виникли пожежі (відео)",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/voroh-atakuvav-chernihiv-u-misti-vynykly-pozezi-video-2926616.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Чернігів знову атакували російські дрони, у місті пожежі",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-regions/4043606-cernigiv-znovu-atakuvali-rosijski-droni-u-misti-pozezi.html",
+          "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода полтава",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://np.pl.ua/2025/10/pohoda-na-poltavshchyni-minlyva-khmarnist-vitriano-ta-12-17o-tepla/",
           "source": "Np.pl.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кременчук",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 4 Oct 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKhNv9eUBXsAAtZ_kGXtBLX3qdemnS3RhTKCCCC3IO-XQCWJkdfvwppDizqFc",
-      "pictureSource": "УНІАН",
-      "relatedSearch": [
-        {
-          "title": "4 жовтня: церковне свято сьогодні, чого варто остерігатися цього дня",
-          "snippet": "",
-          "url": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-4-zhovtnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13149456.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "День ангела 4 жовтня: кого та як вітати з іменинами",
-          "snippet": "",
-          "url": "https://tsn.ua/other/den-anhela-4-zovtnia-koho-ta-iak-vitaty-z-imenynamy-2925035.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Яке релігійне свято відзначається 4 жовтня 2025: традиції та молитва",
-          "snippet": "",
-          "url": "https://glavcom.ua/country/society/jake-relihijne-svjato-vidznachajetsja-4-zhovtnja-2025-traditsiji-ta-molitva-1081609.html",
-          "source": "Главком"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,56 +115,84 @@
     },
     {
       "title": "кинжал ракета",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 4 Oct 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNs7SWQkUIwosMMjxT1bjqCrdhlGvbZUJ2yh29HR8s8iyydt59Z4hrEWFT-Q",
-      "pictureSource": "РБК-Україна",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfr87RSw_Kugk0O_sDjySQJAsEPj4ILT4hiBAh3MxhbSc2s8IE2aD9C8-Pb3A",
+      "pictureSource": "DW",
       "relatedSearch": [
         {
-          "title": "РФ подняла в воздух носители аэробаллистических ракет \"Кинжал\"",
+          "title": "Россия провела комбинированную атаку на Запорожье и Львов",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/rf-pidnyala-povitrya-nosiyi-aerobalistichnih-1759633706.html",
+          "url": "https://www.dw.com/ru/rossia-osusestvila-kombinirovannuu-ataku-na-zaporoze-i-lvov/a-74239120",
+          "source": "DW"
+        },
+        {
+          "title": "Во Львове прогремела серия взрывов: город атакуют вражеские беспилотники",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/10/05/8001273/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Во Львове прогремели мощные взрывы, город атаковали ракеты \"Кинжал\"",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/lvovi-prolunali-potuzhni-vibuhi-misto-atakuvali-1759635975.html",
           "source": "РБК-Україна"
-        },
-        {
-          "title": "\"Кинжалы\" летят на Киев",
-          "snippet": "",
-          "url": "https://zn.ua/war/kmndzhaly-letjat-na-kiev.html",
-          "source": "Дзеркало тижня"
-        },
-        {
-          "title": "Взрывы прогремели в Хмельницкой области Украины",
-          "snippet": "",
-          "url": "https://eadaily.com/ru/news/2025/10/05/vzryvy-progremeli-v-hmelnickoy-oblasti-ukrainy",
-          "source": "EADaily"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новини україни",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 4 Oct 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKCHhM_cnE1975dM4g0G4RvIOD0aInXfxaDhLtQhyFm2QIoziAFjbQCeFG9WA",
+      "title": "погода сегодня",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 4 Oct 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8ES26-LSM_6DWHPqRHDLVSIPKFwb_jjcnMgOHGwVP0dO9x1ldDLM8lrOsEmI",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Російські стратегічні бомбардувальники Ту-95 здійснили пуски ракет по Україні",
+          "title": "В воскресенье Украину накроют дожди, в Карпатах – мокрый снег",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/10/05/8001265/",
+          "url": "https://www.pravda.com.ua/rus/news/2025/10/04/8001251/",
           "source": "Українська правда"
         },
         {
-          "title": "Росія підняла в небо бомбардувальники Ту-95МС: коли очікуються ракети",
+          "title": "Прохладнее чем в выходные. Как снизится температура воздуха в Украине в начале недели и где ожидается дождь",
           "snippet": "",
-          "url": "https://www.unian.ua/war/viyna-v-ukrajini-rosiya-pidnyala-v-nebo-svoji-bombarduvalniki-tu-95ms-13152225.html",
-          "source": "УНІАН"
+          "url": "https://nv.ua/ukraine/events/prognoz-na-oktyabr-i-karta-gde-budet-dozhd-i-kak-snizitsya-temperatura-v-ukraine-v-ponedelnik-50549966.html",
+          "source": "NV.ua"
         },
         {
-          "title": "Коли Росія може завдати наступного удару: Жданов попередив про атаку",
+          "title": "Последнее \"бабье лето\" и грозы. Синоптик рассказал, каких сюрпризов ждать от погоды в октябре",
           "snippet": "",
-          "url": "https://tsn.ua/exclusive/koly-rosiia-moze-zavdaty-nastupnoho-udaru-zdanov-poperedyv-pro-ataku-2923121.html",
-          "source": "ТСН"
+          "url": "https://news.telegraf.com.ua/ukraina/2025-09-28/5921770-ostanne-babine-lito-ta-grozi-sinoptik-rozpoviv-yakikh-syurpriziv-chekati-vid-pogodi-u-zhovtni",
+          "source": "News Telegraf"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "путін",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 4 Oct 2025 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvtZv5F3Dzs2bKKV1oXFrovf-legymfwSpKofJb7kC_Bfm4iKyjTHTzKr_yms",
+      "pictureSource": "Радіо Свобода",
+      "relatedSearch": [
+        {
+          "title": "ISW про промову Путіна: погрожував Європі й намагався відмовити США від продажу Tomahawk Україні",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/news-isw-putin/33548932.html",
+          "source": "Радіо Свобода"
+        },
+        {
+          "title": "Головний висновок виступу Путіна на Валдаї",
+          "snippet": "",
+          "url": "https://glavcom.ua/columns/mknyazhitsky/holovnij-visnovok-vistupu-putina-na-valdaji-1081717.html",
+          "source": "Главком"
+        },
+        {
+          "title": "Ого! Путін БУВ П'ЯНИМ?! Розбір скандальної заяви кремлівського диктатора / Сазонов",
+          "snippet": "",
+          "url": "https://www.unian.ua/multimedia/video/news/10545429-ogo-putin-buv-p-yanim-rozbir-skandalnoji-zayavi-kremlivskogo-diktatora-sazonov.html",
+          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новини львова",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 4 Oct 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfr87RSw_Kugk0O_sDjySQJAsEPj4ILT4hiBAh3MxhbSc2s8IE2aD9C8-Pb3A",
-      "pictureSource": "DW",
-      "relatedSearch": [
-        {
-          "title": "Россия провела комбинированную атаку на Запорожье и Львов",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/rossia-osusestvila-kombinirovannuu-ataku-na-zaporoze-i-lvov/a-74239120",
-          "source": "DW"
-        },
-        {
-          "title": "Во Львове прогремела серия взрывов: город атакуют вражеские беспилотники",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/10/05/8001273/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Во Львове прогремели мощные взрывы, город атаковали ракеты \"Кинжал\"",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/lvovi-prolunali-potuzhni-vibuhi-misto-atakuvali-1759635975.html",
-          "source": "РБК-Україна"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "нежин",
       "trafficCount": "500+",
       "pubDate": "Sat, 4 Oct 2025 19:40:00 -0700",
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "чернігів",
+      "title": "ту-95мс",
       "trafficCount": "200+",
-      "pubDate": "Sat, 4 Oct 2025 19:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQF2ZFLcSM9CixUrPowMvPswy5M0LdEurSxIJ1oNyQ7iDvWtENJjAvLKn0Kqc",
-      "pictureSource": "Суспільне | Новини",
+      "pubDate": "Sat, 4 Oct 2025 19:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpZJZRQ8nr6OHOLEPu6vTfRkPOKC5jz33GzBFkGWKpt5XvFn7j0g0VVO-d8n4",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Армія РФ вчергове атакувала Чернігів",
+          "title": "В России взлетела группа стратегических бомбардировщиков Ту-95",
           "snippet": "",
-          "url": "https://suspilne.media/chernihiv/1130674-armia-rf-vcergove-atakuvala-cernigiv/",
-          "source": "Суспільне | Новини"
+          "url": "https://www.pravda.com.ua/rus/news/2025/10/05/8001265/",
+          "source": "Українська правда"
         },
         {
-          "title": "Ворог атакував Чернігів: у місті виникли пожежі (відео)",
+          "title": "Россия атакует Украину крылатыми ракетами с самолетов Ту-95",
           "snippet": "",
-          "url": "https://tsn.ua/ukrayina/voroh-atakuvav-chernihiv-u-misti-vynykly-pozezi-video-2926616.html",
-          "source": "ТСН"
+          "url": "https://www.rbc.ua/ukr/news/rosiya-atakue-ukrayinu-krilatimi-raketami-1759632786.html",
+          "source": "РБК-Україна"
         },
         {
-          "title": "Чернігів знову атакували російські дрони, у місті пожежі",
+          "title": "Новая тактика ударов: российские войска в сентябре накапливали ракеты для массированных атак на энергетику Ук",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4043606-cernigiv-znovu-atakuvali-rosijski-droni-u-misti-pozezi.html",
-          "source": "Укрінформ"
+          "url": "https://nv.ua/ukraine/events/rossiya-izmenila-taktiku-raketnyh-atak-na-ukrainu-v-oktyabre-2025-analiz-i-infografika-isw-50550045.html",
+          "source": "NV.ua"
         }
       ],
       "link": "https://imtaqin.id/"
