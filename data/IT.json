@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-05 05:10:16",
+  "lastUpdate": "2025-10-05 05:21:41",
   "data": [
     {
       "title": "carta docenti",
@@ -86,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "天气",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 4 Oct 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh1wRSGM_FlXkNXkhgtnFV2AxPzVqTv2xFnp3VqMOcHhCsMOuDavTPNukzTUQ",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Storm Amy hits UK with heavy rain and strong winds",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c0lky9nn948o",
+          "source": "BBC"
+        },
+        {
+          "title": "Why Do European Windstorms Like Storm Amy Get Different Names And What Is The Criteria?",
+          "snippet": "",
+          "url": "https://weather.com/storms/severe/news/2025-10-04-storm-europe-amy-wind-rain",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "At least 1 person killed in Ireland as Storm Amy hits northern Europe with strong wind and rain",
+          "snippet": "",
+          "url": "https://abcnews.go.com/International/wireStory/1-person-killed-ireland-storm-amy-hits-northern-126211131",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "motogp orari",
       "trafficCount": "5000+",
       "pubDate": "Sat, 4 Oct 2025 21:20:00 -0700",
@@ -109,34 +137,6 @@
           "snippet": "",
           "url": "https://www.repubblica.it/sport/moto-gp/2025/10/04/news/bezzecchi_vince_sprint_gp_indonesia_motogp-424890281/",
           "source": "la Repubblica"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meteo roma",
-      "trafficCount": "200000+",
-      "pubDate": "Sat, 4 Oct 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5zM5M92D2DHsUlOMo5tR9JK1aW0txRdJTCwAp5AMw-RLdKR0tmQbvhVXiCbk",
-      "pictureSource": "la Repubblica",
-      "relatedSearch": [
-        {
-          "title": "Previsioni meteo, ultime piogge nel weekend: poi sarà “Ottobrata”",
-          "snippet": "",
-          "url": "https://www.repubblica.it/cronaca/2025/10/04/news/previsioni_meteo_ultime_piogge_nel_weekend_poi_sara_ottobrata-424889738/",
-          "source": "la Repubblica"
-        },
-        {
-          "title": "Le previsioni del tempo per domenica 5 ottobre",
-          "snippet": "",
-          "url": "https://www.rainews.it/video/2025/10/le-previsioni-del-tempo-per-domenica-5-ottobre-il-meteo-a6e53812-37f8-4291-9fcc-795b65aeed41.html",
-          "source": "RaiNews"
-        },
-        {
-          "title": "Meteo, rapida fase di maltempo sull'Italia con forti temporali: ecco dove. Le previsioni",
-          "snippet": "",
-          "url": "https://tg24.sky.it/cronaca/2025/10/04/meteo-previsioni-maltempo",
-          "source": "Sky TG24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "mls",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Oct 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl34sfQ9XbbeBMn9AfzDiv9kJAdoOJkU51KpGD7ltRAY3BHNBbbM2d-QfvyGA",
-      "pictureSource": "MLSsoccer.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEkqlLlWRbG0d3KIA1gWSIiqNEb90MabNJVfYmw8LUKecAYnA7s5nwOv1Ona8",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
         {
-          "title": "How Philadelphia Union can win the Supporters' Shield this weekend",
+          "title": "MLS: SDFC and Minnesota bank critical wins; Philly seal Supporters' Shield",
           "snippet": "",
-          "url": "https://www.mlssoccer.com/news/how-philadelphia-union-can-clinch-supporters-shield-mls-2025-title",
-          "source": "MLSsoccer.com"
+          "url": "https://onefootball.com/en/news/mls-sdfc-and-minnesota-bank-critical-wins-philly-seal-supporters-shield-41762544",
+          "source": "OneFootball"
+        },
+        {
+          "title": "New York City 0-1 Philadelphia: 3 Thoughts",
+          "snippet": "",
+          "url": "https://www.hudsonriverblue.com/nycfc-vs-philadelphia-union-match-reaction-new-york-city-fc-mls/",
+          "source": "Hudson River Blue"
         },
         {
           "title": "After Judge and Stanton come up empty in key spot, bullpen unravels for Yankees in Game 1 of ALDS",
           "snippet": "",
           "url": "https://www.thederrick.com/ap/sports/after-judge-and-stanton-come-up-empty-in-key-spot-bullpen-unravels-for-yankees-in/article_814ef9d0-2e16-5257-91bb-c300ad3ed51d.html",
           "source": "thederrick.com"
-        },
-        {
-          "title": "MLS: SDFC and Minnesota bank critical wins; Philly seal Supporters' Shield",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/mls-sdfc-and-minnesota-bank-critical-wins-philly-seal-supporters-shield-41762544",
-          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
