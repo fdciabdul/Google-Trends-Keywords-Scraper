@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-05 11:35:56",
+  "lastUpdate": "2025-10-05 11:43:08",
   "data": [
     {
       "title": "weather",
@@ -61,15 +61,9 @@
       "title": "vilnius airport",
       "trafficCount": "100+",
       "pubDate": "Sat, 4 Oct 2025 18:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uxqYNJ-UaUfXhZDSZW8ZQn2qhu8eniSHkNk1pt19gK5vJWAl9WYpWRz-1eY",
-      "pictureSource": "Vilniaus oro uostas",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ391tWBMIJmKdjrQy7MHo6vfvpnbGiYI49C5bdI5aWsdNLnhwJYi9fEAbFYI",
+      "pictureSource": "DW",
       "relatedSearch": [
-        {
-          "title": "Flights and operations at Vilnius Airport fully resumed on Sunday morning; delays possible throughout the day",
-          "snippet": "",
-          "url": "https://www.vilnius-airport.lt/en/news/flights-and-operations-at-vilnius-airport-fully-resumed-on-sunday-morning-delays-possible-throughout-the-day",
-          "source": "Vilniaus oro uostas"
-        },
         {
           "title": "Lithuania: Vilnius Airport reopens after closure",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://www.cnn.com/2025/10/04/europe/lithuania-vilnius-balloon-airport-closed-latam-intl",
           "source": "CNN"
+        },
+        {
+          "title": "Lithuania's Vilnius airport closed in response to airspace violation, media reports",
+          "snippet": "",
+          "url": "https://kyivindependent.com/lithuanias-vilnius-airport-closed-in-response-to-airspace-violation/",
+          "source": "The Kyiv Independent"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "LRT"
         },
         {
+          "title": "Sekmadienį ryte Vilniaus oro uoste skrydžiai ir operacijos atnaujintos visa apimtimi, galimi skrydžių vėlavimai dienos eigoje",
+          "snippet": "",
+          "url": "https://www.vilnius-airport.lt/lt/naujienos/sekmadieni-ryte-vilniaus-oro-uoste-skrydziai-ir-operacijos-atnaujintos-visa-apimtimi-galimi-skrydziu-velavimai-dienos-eigoje",
+          "source": "Vilniaus oro uostas"
+        },
+        {
           "title": "Dėl incidento Vilniaus oro uoste Justinas Lapatinskas su žmona užstrigo lėktuve",
           "snippet": "",
           "url": "https://www.delfi.lt/veidai/zmones/del-incidento-vilniaus-oro-uoste-justinas-lapatinskas-su-zmona-uzstrigo-lektuve-120157201",
           "source": "Delfi"
-        },
-        {
-          "title": "„Baisi situacija“: po naktį paralyžiuoto Vilniaus oro uosto – keleivių liudijimai",
-          "snippet": "",
-          "url": "https://www.15min.lt/verslas/naujiena/transportas/baisi-situacija-po-nakti-paralyziuoto-vilniaus-oro-uosto-keleiviu-liudijimai-667-2537724",
-          "source": "15min.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Delfi"
         },
         {
-          "title": "FK „Kauno Žalgiris“ iškovojo pergalę Alytuje",
-          "snippet": "",
-          "url": "https://zalgiris.lt/naujienos/fk-kauno-zalgiris-iskovojo-pergale-alytuje",
-          "source": "Žalgiris"
-        },
-        {
           "title": "Lyderių ir autsaiderių akistata A lygoje: „Dainava“ – „Kauno Žalgiris“",
           "snippet": "",
           "url": "https://www.lrt.lt/naujienos/sportas/10/2701233/lyderiu-ir-autsaideriu-akistata-a-lygoje-dainava-kauno-zalgiris",
           "source": "LRT"
+        },
+        {
+          "title": "FK „Kauno Žalgiris“ iškovojo pergalę Alytuje",
+          "snippet": "",
+          "url": "https://zalgiris.lt/naujienos/fk-kauno-zalgiris-iskovojo-pergale-alytuje",
+          "source": "Žalgiris"
         }
       ],
       "link": "https://imtaqin.id/"
