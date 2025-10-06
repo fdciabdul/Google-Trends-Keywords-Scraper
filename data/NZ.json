@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-10-06 18:49:57",
+  "lastUpdate": "2025-10-06 18:56:53",
   "data": [
     {
       "title": "날씨",
       "trafficCount": "100+",
       "pubDate": "Mon, 6 Oct 2025 11:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkppl7EEWy_WwxofUEjA90v2ucqLsHmx_FJb1bL-G_DGaHLB-ABt1CLTKnUv0",
-      "pictureSource": "중앙이코노미뉴스",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPzzs0YR31tIUkojLpautve2PALWv-7K-_YTvlLt-aNR-U9dZFLiq9tN9GUE",
+      "pictureSource": "YTN",
       "relatedSearch": [
-        {
-          "title": "[내일날씨] '흐린 연휴' 지속…낮 최고 26도",
-          "snippet": "",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=455900",
-          "source": "중앙이코노미뉴스"
-        },
         {
           "title": "귀경길 전국 비, 오늘까지 최고 60mm...동해엔 풍랑",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "YTN"
         },
         {
-          "title": "'시간당 20㎜' 또 비 내린다·낮 최고 26도 '서늘'…감기 예방하는 차는? [오늘 날씨]",
+          "title": "흐린 하늘에 숨은 '추석 보름달'…전국 빗줄기 계속[오늘날씨]",
           "snippet": "",
-          "url": "https://www.dailian.co.kr/news/view/1557659",
-          "source": "데일리안"
+          "url": "https://www.newsis.com/view/NISX20251006_0003356213",
+          "source": "뉴시스"
+        },
+        {
+          "title": "10월 추석에 30.5도?…전남 완도 때아닌 여름 더위",
+          "snippet": "",
+          "url": "https://news.nate.com/view/20251006n09605",
+          "source": "네이트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +43,16 @@
           "source": "OpenAI"
         },
         {
-          "title": "OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom",
-          "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/openai-amd-deal-ai-chips-ed92cc42",
-          "source": "The Wall Street Journal"
-        },
-        {
           "title": "S&P 500 rises to start week, AMD lifts the Nasdaq: Live updates",
           "snippet": "",
           "url": "https://www.cnbc.com/2025/10/05/stock-market-today-live-updates.html",
           "source": "CNBC"
+        },
+        {
+          "title": "OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom",
+          "snippet": "",
+          "url": "https://www.wsj.com/tech/ai/openai-amd-deal-ai-chips-ed92cc42",
+          "source": "The Wall Street Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "weather",
       "trafficCount": "10000+",
       "pubDate": "Mon, 6 Oct 2025 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9oN5aCIQwPNWFnraTD3yXQlohyTfSJhPl2z9452LofW5DzWmnxMzMHfkHmPo",
-      "pictureSource": "NZ Herald",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUIQZoJXSZYHgckjcjGydqdyVUE_YduI-AkVIPiRVapMnW9HDczoe71TgeAlw",
+      "pictureSource": "Stuff",
       "relatedSearch": [
+        {
+          "title": "Fast moving front brings thunderstorm risk to North, road snowfall in South",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/nz-news/360845986/fast-moving-front-brings-thunderstorm-risk-north-road-snowfall-south",
+          "source": "Stuff"
+        },
         {
           "title": "Auckland commuters warned to brace as fast-moving front sweeps through",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.thepress.co.nz/nz-news/360844467/warm-weather-break-spring-squall-it-wont-last",
           "source": "The Press"
-        },
-        {
-          "title": "VIDEO: Peak spring as windy westerlies surge back this week (and weekend)",
-          "snippet": "",
-          "url": "https://www.weatherwatch.co.nz/content/video-peak-spring-as-windy-westerlies-surge-back-this-week-and-weekend",
-          "source": "WeatherWatch"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -93,15 +93,15 @@
       "pictureSource": "Otago Daily Times",
       "relatedSearch": [
         {
-          "title": "New principal takes reins at John McGlashan",
-          "snippet": "",
-          "url": "https://www.odt.co.nz/news/dunedin/new-principal-takes-reins-john-mcglashan",
-          "source": "Otago Daily Times"
-        },
-        {
           "title": "Principal takes reins",
           "snippet": "",
           "url": "https://www.odt.co.nz/news/dunedin/principal-takes-reins",
+          "source": "Otago Daily Times"
+        },
+        {
+          "title": "New principal takes reins at John McGlashan",
+          "snippet": "",
+          "url": "https://www.odt.co.nz/news/dunedin/new-principal-takes-reins-john-mcglashan",
           "source": "Otago Daily Times"
         },
         {
@@ -145,7 +145,7 @@
       "title": "brent",
       "trafficCount": "200+",
       "pubDate": "Mon, 6 Oct 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROawaT9UxAwH2kUGXylABvJiu_LtN3_eA5W4h2V35ll5t0Yi8W7K5wv2OW4aY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5w2Zn7ofEnRaAPcsMbeACc_hWmRdYBUCHzJqaEaEstnnxKi-BOrsUuG0JUeU",
       "pictureSource": "FXStreet",
       "relatedSearch": [
         {
@@ -165,22 +165,6 @@
           "snippet": "",
           "url": "https://news.futunn.com/en/post/62935437/technical-analysis-report-on-october-6-spot-gold-wti-crude",
           "source": "富途牛牛"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rnz",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 6 Oct 2025 10:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQW-DRjUe5CRALPFOfjSIIF1SbMI3VoblcN9oqWayh3uS55GwqJg_jd3TXI_o",
-      "pictureSource": "Interest.co.nz",
-      "relatedSearch": [
-        {
-          "title": "Government may pay for LNG import terminal to tackle market failure",
-          "snippet": "",
-          "url": "https://www.interest.co.nz/economy/135463/taxpayers-may-fund-facility-import-natural-gas-after-government-report-finds-energy",
-          "source": "Interest.co.nz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,19 +201,13 @@
       "title": "bbc news",
       "trafficCount": "100+",
       "pubDate": "Mon, 6 Oct 2025 10:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1h6hHUYY9UrgcbhelvjF-bS2XARk7OwNIlcawFqV1MTQM2tjeY7eRwZrFzFY",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrE5MqY0Aewd33w1M2ZNc_PS3Qd5tWiie4rfH4L5cfL35vKbz1-80A_DuDD3w",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Trump vows to impose his will in city crackdowns and government shutdown",
+          "title": "Judge Blocks National Guard Deployment in Oregon as Trump Expands His Targets",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/10/06/politics/trump-shutdown-portland-chicago-israel-gaza-constitution-analysis",
-          "source": "CNN"
-        },
-        {
-          "title": "Opinion | Pushback at Trump and Troops in Portland",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/06/opinion/portland-national-guard-trump.html",
+          "url": "https://www.nytimes.com/2025/10/05/us/trump-national-guard-california-oregon-newsom.html",
           "source": "The New York Times"
         },
         {
@@ -237,6 +215,12 @@
           "snippet": "",
           "url": "https://www.opb.org/article/2025/10/06/portland-weekend-ice-protests-tear-gas-national-guard-restraining-orders/",
           "source": "Oregon Public Broadcasting - OPB"
+        },
+        {
+          "title": "Trump vows to impose his will in city crackdowns and government shutdown",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/06/politics/trump-shutdown-portland-chicago-israel-gaza-constitution-analysis",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -265,6 +249,34 @@
           "snippet": "",
           "url": "https://beritasriwijaya.co.id/todays-wordle-hint-and-answer-for-monday-october-6-2/",
           "source": "beritasriwijaya.co.id"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "winston peters",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 6 Oct 2025 07:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFmmS5py7-DGCkUb0EvZhjsoXzehHPk4XB9I4luGTRp11Z6jbxPthaLhNgbg",
+      "pictureSource": "NZ Herald",
+      "relatedSearch": [
+        {
+          "title": "Man charged after Winston Peters’ home attacked with crowbar",
+          "snippet": "",
+          "url": "https://www.nzherald.co.nz/nz/politics/person-arrested-after-winston-peters-auckland-home-attacked-with-crowbar/VX6XEVWJ6BH3LCS6YDU6HSAPMI/",
+          "source": "NZ Herald"
+        },
+        {
+          "title": "Man arrested after window smashed at Winston Peters' home",
+          "snippet": "",
+          "url": "https://www.rnz.co.nz/news/national/575175/man-arrested-after-window-smashed-at-winston-peters-home",
+          "source": "RNZ"
+        },
+        {
+          "title": "Winston Peters says ‘disgusting coward’ smashed window at his home",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/nz-news/360845882/winston-peters-says-disgusting-coward-smashed-window-his-home",
+          "source": "Stuff"
         }
       ],
       "link": "https://imtaqin.id/"
