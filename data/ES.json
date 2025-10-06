@@ -1,18 +1,9 @@
 {
-  "lastUpdate": "2025-10-06 05:36:41",
+  "lastUpdate": "2025-10-06 05:44:00",
   "data": [
     {
-      "title": "diario sur",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 5 Oct 2025 22:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "noticias de gipuzkoa",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 5 Oct 2025 22:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLahK3a7pbeX-IoQC6DSFdnvopJ46YWn3h0tt6mUGxo0zGgFs4_-PvFVcYPxw",
       "pictureSource": "Noticias de Gipuzkoa",
@@ -40,7 +31,7 @@
     },
     {
       "title": "eltiempo",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 5 Oct 2025 22:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRggTvkhr2Sd328b2WJA4kEq80xwXo3AbNGaDSOC_jgrbyd_2R4TTl9KK8yL9w",
       "pictureSource": "La Voz de Galicia",
@@ -67,29 +58,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hora",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Oct 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQVERptvZsGsyikpK9qV8Yc7nHSgZCPAIvXqn1DRxj_THYfIQFozFwUKJaxF4",
+      "pictureSource": "ABC",
+      "relatedSearch": [
+        {
+          "title": "Cambio de hora en España: este es el día que cambiamos el reloj para entrar al horario de invierno",
+          "snippet": "",
+          "url": "https://www.abc.es/sociedad/cambio-hora-espana-dia-cambiamos-reloj-entrar-20251004161903-nt.html",
+          "source": "ABC"
+        },
+        {
+          "title": "Ya es oficial la fecha del cambio de hora: éste es el día para el nuevo horario de invierno",
+          "snippet": "",
+          "url": "https://okdiario.com/curiosidades/ya-oficial-fecha-cambio-hora-nuevo-horario-invierno-empieza-este-dia-15359480",
+          "source": "OkDiario"
+        },
+        {
+          "title": "Cambio de hora y vuelta al horario de invierno: los relojes se atrasan una hora el 26 de octubre",
+          "snippet": "",
+          "url": "https://es.euronews.com/2025/09/29/los-relojes-se-atrasan-una-hora-el-26-de-octubre",
+          "source": "Euronews.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tijuana - monterrey",
       "trafficCount": "500+",
       "pubDate": "Sun, 5 Oct 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQNC9EIL_Z4hptLxVWbjYtLV5mJwIGiJq7Oyf-gqF0sbUQo9EgE3F_6TNNoNw",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGon5c6qcoe312fhS_CMocgA7NY8XZPwrFWGI5SeSf3tsUYulT5aa-_OMFimc",
       "pictureSource": "Marca",
       "relatedSearch": [
         {
-          "title": "Tijuana vs Monterrey: Dónde ver el partido de Rayados de hoy y a qué hora empieza el partido de Liga MX",
+          "title": "Resumen y goles Tijuana vs Monterrey:Sin Gilberto Mora y con doblete de Germán Berterame Xolos y Rayados reparten puntos",
           "snippet": "",
-          "url": "https://www.marca.com/mx/futbol/liga-mx/2025/10/05/68e27a60e2704e69208b4572.html",
+          "url": "https://www.marca.com/mx/futbol/liga-mx/cronica/2025/10/06/68e34eef46163f475d8b4599.html",
           "source": "Marca"
+        },
+        {
+          "title": "Club Tijuana vs Monterrey en vivo minuto a minuto hoy | Liga MX Apertura",
+          "snippet": "",
+          "url": "https://www.mundodeportivo.com/us/futbol/liga-mx/20251005/731680/club-tijuana-vs-monterrey-vivo-minuto-minuto-hoy-liga-mx-apertura-drca1.html",
+          "source": "Mundo Deportivo"
         },
         {
           "title": "Va Torrent con línea de 5 ante Xolos",
           "snippet": "",
           "url": "https://www.elnorte.com/va-torrent-con-linea-de-5-ante-xolos/ar3084228",
           "source": "El Norte"
-        },
-        {
-          "title": "A sufrir sin los Sergios",
-          "snippet": "",
-          "url": "https://elporvenir.mx/deportes/a-sufrir-sin-los-sergios/909431",
-          "source": "El Porvenir - Portada"
         }
       ],
       "link": "https://imtaqin.id/"
