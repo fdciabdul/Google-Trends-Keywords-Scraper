@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-10-06 09:59:53",
+  "lastUpdate": "2025-10-06 10:10:19",
   "data": [
+    {
+      "title": "france",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 6 Oct 2025 01:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV54FUJaZOnMdgb9qnlKmCyB3mppm1oymYml2xl5VaLJyOO5lJSAwMgxJn7Xs",
+      "pictureSource": "Le Soir",
+      "relatedSearch": [
+        {
+          "title": "« J’en ai pleuré », « un grand spectacle », « attendu depuis des semaines » : quelque 80.000 spectateurs pour le début du GP Explorer",
+          "snippet": "",
+          "url": "https://www.lesoir.be/702917/article/2025-10-04/jen-ai-pleure-un-grand-spectacle-attendu-depuis-des-semaines-quelque-80000",
+          "source": "Le Soir"
+        },
+        {
+          "title": "GP Explorer 3: la star d'internet espagnol Karchez s'impose pour l'ultime édition",
+          "snippet": "",
+          "url": "https://www.lalibre.be/videos/2025/10/06/gp-explorer-3-la-star-d-internet-espagnol-karchez-s-impose-pour-l-ultime-edition-3qfqlsf/",
+          "source": "La Libre.be"
+        },
+        {
+          "title": "Au GP Explorer 3 de Squeezie : « C’est ouf, l’importance que YouTube a prise »",
+          "snippet": "",
+          "url": "https://www.lemonde.fr/pixels/article/2025/10/06/au-gp-explorer-3-de-squeezie-c-est-ouf-l-importance-que-youtube-a-prise_6644711_4408996.html",
+          "source": "Le Monde.fr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "lemonde",
       "trafficCount": "200+",
       "pubDate": "Mon, 6 Oct 2025 01:20:00 -0700",
-      "picture": "",
-      "pictureSource": "NPR",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC4MbZJU_2Iq5kvNU1yJxIsfx5cyMznqjsAC5GDA6rbbDEUlPpR4Bk9WkkvHQ",
+      "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "France's prime minister resigns just weeks into his post",
+          "title": "France’s prime minister resigns after less than a month on the job",
           "snippet": "",
-          "url": "https://www.npr.org/2025/10/06/nx-s1-5563652/frances-prime-minister-resigns-just-weeks-into-his-post",
-          "source": "NPR"
+          "url": "https://www.cnn.com/2025/10/06/europe/france-prime-minister-sebastien-lecornu-resigns-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "French Prime Minister Resigns in Surprise Move",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/06/world/europe/france-lecornu-resigns-macron.html",
+          "source": "The New York Times"
         },
         {
           "title": "France names new government amid political turmoil",
           "snippet": "",
           "url": "https://www.reuters.com/world/france-names-new-government-amid-political-turmoil-2025-10-05/",
           "source": "Reuters"
-        },
-        {
-          "title": "French Prime Minister resigns after only 2 weeks in office",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/world/europe/french-prime-minister-resigns-2-weeks-office-sebastien-lecornus-rcna235831",
-          "source": "NBC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +89,26 @@
       "title": "lecornu",
       "trafficCount": "5000+",
       "pubDate": "Mon, 6 Oct 2025 00:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxiB9wVd_q-w4ewDUSvb-1qJJ8U0RrIeVfW1V9B0Z0BJFlswA2vKL11epkNU",
-      "pictureSource": "RTBF",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfs_HU6WzhiTbSKZoejGybGjAWxyy5FoeljtKiIS5KiOAPgHCCqYamBjKJUAA",
+      "pictureSource": "7sur7.be",
       "relatedSearch": [
-        {
-          "title": "Direct : le Premier ministre français Sébastien Lecornu déplore les 'appétits partisans' qui ont conduit à sa démission",
-          "snippet": "",
-          "url": "https://www.rtbf.be/article/france-le-premier-ministre-sebastien-lecornu-a-remis-sa-demission-a-emmanuel-macron-qui-l-a-acceptee-11611659",
-          "source": "RTBF"
-        },
-        {
-          "title": "Lecornu: \"les conditions n'étaient plus remplies\" pour rester Premier ministre",
-          "snippet": "",
-          "url": "https://www.lalibre.be/videos/2025/10/06/lecornu-les-conditions-n-etaient-plus-remplies-pour-rester-premier-ministre-3qfqu0r/",
-          "source": "La Libre.be"
-        },
         {
           "title": "Sébastien Lecornu démissionne, la France à nouveau dans l’impasse politique",
           "snippet": "",
           "url": "https://www.7sur7.be/monde/sebastien-lecornu-demissionne-la-france-a-nouveau-dans-limpasse-politique~aaec690b/",
           "source": "7sur7.be"
+        },
+        {
+          "title": "France : le Premier ministre sortant Sébastien Lecornu cible le président du parti Les Républicains Bruno Retailleau dans son discours",
+          "snippet": "",
+          "url": "https://www.rtbf.be/article/france-le-premier-ministre-sortant-sebastien-lecornu-cible-le-president-du-parti-les-republicains-bruno-retailleau-dans-son-discours-11611741",
+          "source": "RTBF"
+        },
+        {
+          "title": "Sébastien Lecornu a remis sa démission à Emmanuel Macron et plonge la France un peu plus dans le chaos: « Les conditions n’étaient plus remplies » pour rester Premier ministre",
+          "snippet": "",
+          "url": "https://www.sudinfo.be/id1049440/article/2025-10-06/sebastien-lecornu-remis-sa-demission-emmanuel-macron-et-plonge-la-france-un-peu",
+          "source": "Sudinfo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,13 +145,13 @@
       "title": "mount everest",
       "trafficCount": "100+",
       "pubDate": "Sun, 5 Oct 2025 23:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBaXIM43cw-14m14qYsKGTAIX4ba_SF7OemcvvlMmt6gB1m4LQIKM6ZdTkCH0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYK9rcopDCL2uGwxMOrSlQw9ejxx8RAFiuwet6LAsoyU3JptkXkS3LBXHLShs",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Mount Everest: More than 200 hikers still stranded after blizzard hits Mount Everest - follow live",
+          "title": "Mount Everest: Rescue under way for hundreds trapped after snowstorm",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c0m4309mxygt",
+          "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko",
           "source": "BBC"
         },
         {
@@ -133,10 +161,10 @@
           "source": "Reuters"
         },
         {
-          "title": "Hundreds of trekkers still awaiting rescue on blizzard-struck Everest in Tibet",
+          "title": "Mount Everest rescue under way after snowstorm traps nearly 1,000 people",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/10/05/asia/hundreds-trekkers-mount-everest-rescued-latam-intl",
-          "source": "CNN"
+          "url": "https://www.theguardian.com/world/2025/oct/05/mount-everest-rescue-underway-as-snowstorm-traps-nearly-1000-people",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,34 +249,6 @@
           "snippet": "",
           "url": "https://soirmag.lesoir.be/702982/article/2025-10-05/le-realisateur-xavier-durringer-est-decede-61-ans",
           "source": "Soirmag"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ing",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 5 Oct 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSErcsNs2EY_KWH73ce5HsF0lhqmdW_xvz8OT9rpLk84NaGBy0qz6gMZbTuQeI",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Exclusive: Trump says Hamas faces ‘complete obliteration’ if it insists on staying in power",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/05/politics/trump-gaza-hamas-netanyahu",
-          "source": "CNN"
-        },
-        {
-          "title": "What to know as Gaza ceasefire talks begin in Egypt",
-          "snippet": "",
-          "url": "https://www.npr.org/2025/10/06/nx-s1-5563175/egypt-talks-israel-gaza-war",
-          "source": "NPR"
-        },
-        {
-          "title": "Scoop — Trump to Netanyahu on Gaza talks: \"You're always so f***ing negative\"",
-          "snippet": "",
-          "url": "https://www.axios.com/2025/10/05/trump-netanyahu-call-gaza-peace-deal-hamas",
-          "source": "Axios"
         }
       ],
       "link": "https://imtaqin.id/"
