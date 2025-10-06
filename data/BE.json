@@ -1,13 +1,32 @@
 {
-  "lastUpdate": "2025-10-06 08:55:02",
+  "lastUpdate": "2025-10-06 09:04:12",
   "data": [
     {
       "title": "lemonde",
       "trafficCount": "200+",
       "pubDate": "Mon, 6 Oct 2025 01:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu6uA5Qb0VrwgflUgJdjqx9sdwfRDHsmdwAGQGChRL58MqnjPx2X4Oj6fUbxo",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "French Prime Minister Resigns in Surprise Move",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/06/world/europe/france-lecornu-resigns-macron.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "France names new government amid political turmoil",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/france-names-new-government-amid-political-turmoil-2025-10-05/",
+          "source": "Reuters"
+        },
+        {
+          "title": "French government quits hours after being appointed, deepening political crisis",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/news/world/2025/10/06/french-prime-minister-sebastien-lecornu-quits/86544430007/",
+          "source": "USA Today"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -42,20 +61,20 @@
       "title": "lecornu",
       "trafficCount": "2000+",
       "pubDate": "Mon, 6 Oct 2025 00:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjjFH9Wu6dZ4-2zH7f_BM8b9v6XyHRELwRHGUoPLpEXWiNaD9-9EyMZ0Dgpag",
-      "pictureSource": "Le Monde.fr",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmIhCvI2m1YtX6mEXsxNOVWPX9JG1Nrh81H86JaY04gz3ry7uyLnDV5RB3b0",
+      "pictureSource": "RTL.fr",
       "relatedSearch": [
-        {
-          "title": "EN DIRECT, démission de Sébastien Lecornu : le premier ministre a présenté sa démission à Emmanuel Macron, qui l’a acceptée",
-          "snippet": "",
-          "url": "https://www.lemonde.fr/politique/live/2025/10/06/en-direct-gouvernement-lecornu-ps-et-rn-promettent-la-censure-lr-menace-de-quitter-le-gouvernement_6644534_823448.html",
-          "source": "Le Monde.fr"
-        },
         {
           "title": "Le gouvernement Lecornu va-t-il tenir ? \"LR ne peut pas y participer\", selon Xavier Bertrand sur RTL",
           "snippet": "",
           "url": "https://www.rtl.fr/actu/politique/en-direct-le-gouvernement-lecornu-va-t-il-tenir-colere-chez-lr-menaces-de-censure-passations-de-pouvoir-suivez-les-dernieres-informations-7900548991",
           "source": "RTL.fr"
+        },
+        {
+          "title": "Crise politique en France - France: Sébastien Lecornu, Premier ministre démissionnaire, fera une déclaration à 10h45",
+          "snippet": "",
+          "url": "https://www.lalibre.be/dernieres-depeches/2025/10/06/crise-politique-en-france-france-sebastien-lecornu-premier-ministre-demissionnaire-fera-une-declaration-a-10h45-QWSREREVSFCP5EV6GXCJWTHR4E/",
+          "source": "La Libre.be"
         },
         {
           "title": "France : un cador des Républicains plaide déjà pour la démission des ministres… républicains",
@@ -154,26 +173,26 @@
       "title": "rtl",
       "trafficCount": "100+",
       "pubDate": "Sun, 5 Oct 2025 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmG7I4KM_AkDXVC2Nrzp8zY3mkHncL-b6RpmQdUrFnajq6jFoRQriPv6ZYrgQ",
-      "pictureSource": "RTL Media Hub",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTURsxvX3Cx5URQ7P7LPZstl53tthMhMJ4dGUJQ_RriJBRgAEMqRK4mf29-BHM",
+      "pictureSource": "Watson.de",
       "relatedSearch": [
         {
-          "title": "Eine epische Sage aus alter Zeit – neu erzählt als packendes Serien-Event",
+          "title": "Eine der beliebtesten Shows im deutschen Fernehen wirbelt das RTL-Programm durcheinander",
           "snippet": "",
-          "url": "https://media.rtl.com/meldung/Eine-epische-Sage-aus-alter-Zeit-neu-erzaehlt-als-packendes-Serien-Event/",
-          "source": "RTL Media Hub"
+          "url": "https://www.watson.de/unterhaltung/tv/345413115-rtl-grosse-tv-programmaenderung-wegen-wer-wird-millionaer",
+          "source": "Watson.de"
         },
         {
-          "title": "Im November wird's episch: RTL+ zeigt \"Die Nibelungen\"",
+          "title": "RTL hat umgeplant: „Sommerhaus der Stars“ fliegt für Günther Jauch aus dem Programm",
           "snippet": "",
-          "url": "https://www.dwdl.de/nachrichten/104029/im_november_wirds_episch_rtl_zeigt_die_nibelungen/",
-          "source": "DWDL"
+          "url": "https://www.volksfreund.de/nachrichten/boulevard/entertainment/sommerhaus-der-stars-fuer-guenther-jauch-aus-programm-genommen_aid-136230339",
+          "source": "Volksfreund"
         },
         {
-          "title": "„Die Nibelungen – Kampf der Königreiche“ ab November bei RTL+",
+          "title": "Fans sauer: Neue Sommerhaus-Folge geht nur rund 50 Minuten",
           "snippet": "",
-          "url": "https://the-spot-mediafilm.com/news/tv-stream-news/die-nibelungen-kampf-der-koenigreiche-ab-november-bei-rtl/",
-          "source": "SPOT media & film"
+          "url": "https://www.promiflash.de/news/2025/09/30/fans-sauer-neue-sommerhaus-folge-geht-nur-rund-50-minuten.html",
+          "source": "Promiflash"
         }
       ],
       "link": "https://imtaqin.id/"
