@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-07 09:35:03",
+  "lastUpdate": "2025-10-07 09:43:30",
   "data": [
     {
       "title": "lrt radijas",
@@ -14,26 +14,54 @@
       "title": "sirenos",
       "trafficCount": "1000+",
       "pubDate": "Tue, 7 Oct 2025 01:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8-d6BHe40vpa-qiPbOGw2-eUuAfVLBiUKNL0rxZU7r7nPe7botre9tm305XY",
-      "pictureSource": "LRT",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrIPx6mdOFia82RSqFC6HF3VFjOSIy2cAogvSsakvAngYbrZqMJIOOdD8AoE",
+      "pictureSource": "Delfi",
       "relatedSearch": [
         {
-          "title": "Visoje Lietuvoje kaukia sirenos: pratybų metu tikrinama gyventojų perspėjimo sistema",
+          "title": "Lietuvoje kaukia sirenos, sostinėje imituojama vandenvietės ataka",
           "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2704207/visoje-lietuvoje-kaukia-sirenos-pratybu-metu-tikrinama-gyventoju-perspejimo-sistema",
-          "source": "LRT"
+          "url": "https://www.delfi.lt/news/daily/lithuania/lietuvoje-kaukia-sirenos-sostineje-imituojama-vandenvietes-ataka-120157896",
+          "source": "Delfi"
         },
         {
-          "title": "Vilniečiai savo kailiu patyrė, kas būtų, jeigu tektų staigiai evakuotis: daug daiktų – nebūtinai privalumas",
+          "title": "Šalyje buvo tikrinama gyventojų perspėjimo sistema, vykdomos evakuacijos pratybos",
           "snippet": "",
-          "url": "https://www.delfi.lt/news/daily/politics/vilnieciai-savo-kailiu-patyre-kas-butu-jeigu-tektu-staigiai-evakuotis-daug-daiktu-nebutinai-privalumas-120157776",
-          "source": "Delfi"
+          "url": "https://vrm.lrv.lt/lt/naujienos/salyje-buvo-tikrinama-gyventoju-perspejimo-sistema-vykdomos-evakuacijos-pratybos-CRX1",
+          "source": "Vidaus reikalų ministerija"
         },
         {
           "title": "Kaune – perspėjimo sirenų gausmas",
           "snippet": "",
           "url": "https://kaunas.kasvyksta.lt/2025/10/07/miestas/kaune-perspejimo-sirenu-gausmas-2/",
           "source": "Kas vyksta Kaune"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kas vyksta kaune",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 7 Oct 2025 01:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw5ixvHGW2IpnLQGchtfpxuSld9JjhjpDb8ETjOQtxKN1-QmvDRbdaXFUXVlI",
+      "pictureSource": "Delfi",
+      "relatedSearch": [
+        {
+          "title": "Kauno centre didelis dūmų debesis – užsiliepsnojo sandėliukai",
+          "snippet": "",
+          "url": "https://www.delfi.lt/news/daily/crime/kauno-centre-didelis-dumu-debesis-uzsiliepsnojo-sandeliukai-120158056",
+          "source": "Delfi"
+        },
+        {
+          "title": "Dūmų stulpas virš Pelėdų kalno: į įvykio vietą išsiųstos sustiprintos ugniagesių pajėgos",
+          "snippet": "",
+          "url": "https://kauno.diena.lt/naujienos/kaunas/nusikaltimai-ir-nelaimes/dumu-stulpas-virs-peledu-kalno-i-ivykio-vieta-issiustos-sustiprintos-ugniagesiu-pajegos-1723213",
+          "source": "Kauno diena"
+        },
+        {
+          "title": "Kauno centre liepsnojo sandėliukai",
+          "snippet": "",
+          "url": "https://www.lrytas.lt/lietuvosdiena/nelaimes/2025/10/07/news/kaune-liepsnojo-sandeliukai-39807371",
+          "source": "Lrytas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +164,16 @@
           "source": "OpenAI"
         },
         {
-          "title": "Major challenge to Nvidia: OpenAI’s massive new computing push will run on AMD chips",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/06/tech/amd-openai-nvidia",
-          "source": "CNN"
-        },
-        {
           "title": "Sam Altman has a new project: building AI Inc",
           "snippet": "",
           "url": "https://www.ft.com/content/9bfe8410-a984-406c-a8ef-b0814a6c1647",
           "source": "Financial Times"
+        },
+        {
+          "title": "Major challenge to Nvidia: OpenAI’s massive new computing push will run on AMD chips",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/06/tech/amd-openai-nvidia",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
