@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-09 04:40:22",
+  "lastUpdate": "2025-10-09 04:48:18",
   "data": [
+    {
+      "title": "hamas",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 8 Oct 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVomi3y_FNTN63SnIEdDRR8AUo9nUnede1z_BVY_RTOkHbHB0OfjdLSMNCvw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Trump says Israel and Hamas have agreed to first phase of Gaza peace deal, paving way for ceasefire",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
+          "source": "BBC"
+        },
+        {
+          "title": "What to know as key talks to end the war in Gaza begin",
+          "snippet": "",
+          "url": "https://apnews.com/article/gaza-israel-palestinians-hamas-war-explainer-d5c5057d2fe9e2e255215850b454f601",
+          "source": "AP News"
+        },
+        {
+          "title": "A Gaza ceasefire deal could be Trump’s biggest diplomatic achievement – but the devil is in the detail",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/oct/09/gaza-ceasefire-deal-trump-biggest-diplomatic-achievement-what-detail",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "طقس",
       "trafficCount": "100+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://heartlandnews.ca/2025/10/07/big-temperature-drop-follows-one-last-warm-day/",
           "source": "HeartlandNews.ca"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gazze",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 8 Oct 2025 21:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTfFPZVDtEg29FRe5sVvhpSzbz0cHhzasn50eq8bCp-67b8xhbXUycOSRy2E",
-      "pictureSource": "Anadolu Ajansı",
-      "relatedSearch": [
-        {
-          "title": "ABD Başkanı Trump, İsrail ile Hamas'ın, Gazze'de ateşkes planının ilk aşamasını onayladığını duyurdu",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-israil-ile-hamasin-gazzede-ateskes-planinin-ilk-asamasini-onayladigini-duyurdu/3711871",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "Son dakika haberi: Gazze'de ateşkes anlaşması tamamlandı! Gazze'de ateşkes ilan edildi mi, barış olacak mı ve son durum nedir?",
-          "snippet": "",
-          "url": "https://www.milliyet.com.tr/dunya/live-gazzede-ateskes-anlasmasi-tamamlandi-trump-baris-plani-onaylandi-7460531",
-          "source": "Milliyet"
-        },
-        {
-          "title": "Hamas: Türkiye, Katar ve Mısır'ın çabalarını takdirle karşılıyoruz",
-          "snippet": "",
-          "url": "https://www.trthaber.com/haber/dunya/hamas-turkiye-katar-ve-misirin-cabalarini-takdirle-karsiliyoruz-922195.html",
-          "source": "TRT Haber"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,20 +89,20 @@
       "title": "hava durumu",
       "trafficCount": "100000+",
       "pubDate": "Wed, 8 Oct 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMeiik-6evzU0kVaz2FNZg7zLJ535uX0XuoBIhaxwA7c8c71kruzxZVd4wxYs",
-      "pictureSource": "TRT Haber",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT74zrNAUKbCzG42jit2zB0jqGP8fLyPBocj9cv7HSHWxN30FnNYrtZDq1hDcw",
+      "pictureSource": "Diken",
       "relatedSearch": [
-        {
-          "title": "Meteorolojiden \"sarı\" uyarı: 8 ilde gök gürültülü sağanak bekleniyor",
-          "snippet": "",
-          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-uyari-8-ilde-gok-gurultulu-saganak-bekleniyor-922201.html",
-          "source": "TRT Haber"
-        },
         {
           "title": "Sağanak bekleniyor: Meteoroloji'den sekiz il için sarı kodlu uyarı",
           "snippet": "",
           "url": "https://www.diken.com.tr/saganak-bekleniyor-meteorolojiden-sekiz-il-icin-sari-kodlu-uyari/",
           "source": "Diken"
+        },
+        {
+          "title": "Meteorolojiden \"sarı\" uyarı: 8 ilde gök gürültülü sağanak bekleniyor",
+          "snippet": "",
+          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-uyari-8-ilde-gok-gurultulu-saganak-bekleniyor-922201.html",
+          "source": "TRT Haber"
         },
         {
           "title": "Kuvvetli yağış ve fırtınaya dikkat! 36 il için turuncu ve sarı kodlu uyarı | Adana'da 2 okulun çatısı uçtu, ağaçlar devrildi",
@@ -124,7 +124,7 @@
     },
     {
       "title": "hava durumu ankara",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 8 Oct 2025 20:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFyCOi0UNpWb-ONrnNlEl2FIstxyQwzC1YUsbPluxa7zHONCf4ipG7pRREPP0",
       "pictureSource": "Bengü Türk",
@@ -142,10 +142,10 @@
           "source": "FOTOMAÇ"
         },
         {
-          "title": "Meteorolojiden \"sarı\" uyarı: 8 ilde gök gürültülü sağanak bekleniyor",
+          "title": "Sağanak bekleniyor: Meteoroloji'den sekiz il için sarı kodlu uyarı",
           "snippet": "",
-          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-uyari-8-ilde-gok-gurultulu-saganak-bekleniyor-922201.html",
-          "source": "TRT Haber"
+          "url": "https://www.diken.com.tr/saganak-bekleniyor-meteorolojiden-sekiz-il-icin-sari-kodlu-uyari/",
+          "source": "Diken"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -197,29 +197,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "alperen şengün",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 8 Oct 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLFpc2ttFMfQRX5HPofjqkXVLyEV0eCSWoRCyJlPpoU1HgvEeyYkbEE0pLTY",
-      "pictureSource": "Hürriyet",
+      "title": "gazze son dakika",
+      "trafficCount": "10000+",
+      "pubDate": "Wed, 8 Oct 2025 19:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTfFPZVDtEg29FRe5sVvhpSzbz0cHhzasn50eq8bCp-67b8xhbXUycOSRy2E",
+      "pictureSource": "Anadolu Ajansı",
       "relatedSearch": [
         {
-          "title": "LeBron James'ten Alperen Şengün için övgü dolu sözler: 'Büyük bir yıl geçirecek!'",
+          "title": "ABD Başkanı Trump, İsrail ile Hamas'ın, Gazze'de ateşkes planının ilk aşamasını onayladığını duyurdu",
           "snippet": "",
-          "url": "https://www.hurriyet.com.tr/sporarena/lebron-jamesten-alperen-sengun-icin-ovgu-dolu-sozler-buyuk-bir-yil-gecirecek-42976816",
-          "source": "Hürriyet"
+          "url": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-israil-ile-hamasin-gazzede-ateskes-planinin-ilk-asamasini-onayladigini-duyurdu/3711871",
+          "source": "Anadolu Ajansı"
         },
         {
-          "title": "Spor turu",
+          "title": "Son dakika haberi: Gazze'de ateşkes anlaşması tamamlandı! Gazze'de ateşkes ilan edildi mi, barış olacak mı ve son durum nedir?",
           "snippet": "",
-          "url": "https://www.sabah.com.tr/spor/tum-sporlar/2025/10/08/spor-turu",
-          "source": "Sabah"
+          "url": "https://www.milliyet.com.tr/dunya/live-gazzede-ateskes-anlasmasi-tamamlandi-trump-baris-plani-onaylandi-7460531",
+          "source": "Milliyet"
         },
         {
-          "title": "Alperen Şengün’den Kısa Ama Büyük Gösteri…",
+          "title": "Hamas: Türkiye, Katar ve Mısır'ın çabalarını takdirle karşılıyoruz",
           "snippet": "",
-          "url": "https://basketfaul.com.tr/gundem/alperen-sengunden-kisa-ama-buyuk-gosteri/",
-          "source": "Basketfaul"
+          "url": "https://www.trthaber.com/haber/dunya/hamas-turkiye-katar-ve-misirin-cabalarini-takdirle-karsiliyoruz-922195.html",
+          "source": "TRT Haber"
         }
       ],
       "link": "https://imtaqin.id/"
