@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-10-09 19:05:15",
+  "lastUpdate": "2025-10-09 19:15:49",
   "data": [
     {
       "title": "хамас",
       "trafficCount": "200+",
       "pubDate": "Thu, 9 Oct 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB6B8amXWR6ijhV6OSk-oVzfu3mNpJqZ-u2cEVf32AY6uag52lji6PfIF_Y5g",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGnx1rrAvKzxz-9_aQOCtmXvNTSYzo0bGd0pWVI4l6l_PGxKWNEjAgyJRcHSk",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
+        {
+          "title": "ХАМАС оголосили про завершення війни у Секторі Гази",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/10/09/8002060/",
+          "source": "Українська правда"
+        },
         {
           "title": "Ізраїль і ХАМАС прийняли мирний план Трампа: що про нього відомо і що буде далі",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "BBC"
         },
         {
-          "title": "Трамп заявив, що утримувані ХАМАСом заручники повернуться додому в понеділок-вівторок",
+          "title": "Перемир'я в Газі: чим поступаються Ізраїль і ХАМАС",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-world/4045695-tramp-zaaviv-so-utrimuvani-hamasom-zarucniki-povernutsa-dodomu-v-ponedilokvivtorok.html",
-          "source": "Укрінформ"
-        },
-        {
-          "title": "ХАМАС оголосили про \"припинення війни\" у Секторі Гази",
-          "snippet": "",
-          "url": "https://suspilne.media/1135274-hamas-ogolosili-pro-pripinenna-vijni-u-sektori-gazi/",
-          "source": "Суспільне | Новини"
+          "url": "https://ua.korrespondent.net/world/4822468-peremyria-v-hazi-chym-postupauitsia-izrail-i-khamas",
+          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +59,7 @@
     },
     {
       "title": "чехія – хорватія",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 9 Oct 2025 11:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR149WoRxEkWRP4Xak5T00bhZPTx3rEJU_RVpZYC15vR-9BOj2_goRym2bp_8o",
       "pictureSource": "Sport.ua",
@@ -87,7 +87,7 @@
     },
     {
       "title": "безугла",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 9 Oct 2025 11:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTOZX_nkvVDKYViP2ZzGCVhMq3Ll7umUC1QRjBATHX4hlWnD9RSuEvOm2sYEs",
       "pictureSource": "УНІАН",
@@ -236,11 +236,30 @@
     },
     {
       "title": "ефрем амирамов",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 9 Oct 2025 07:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI25AwcXB2LeW7085YNuFkNdLHA5rfFfZ-JuX4nARExjnqhIkd8TP8y7MpDSk",
+      "pictureSource": "Ведомости",
+      "relatedSearch": [
+        {
+          "title": "Умер певец Ефрем Амирамов",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/society/news/2025/10/09/1145634-umer-pevets",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Легенда шансона с талантом, переданным по наследству: как жил и творил музыку скончавшийся Ефрем Амирамов",
+          "snippet": "",
+          "url": "https://ura.news/news/1053008510",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Легенда шансона Амирамов попал в реанимацию с сепсисом",
+          "snippet": "",
+          "url": "https://4esnok.by/kalejdoskop/legenda-shansona-amiramov-popal-v-reanimaciju-s-sepsisom/",
+          "source": "Интернет-журнал \"Чеснок\""
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
