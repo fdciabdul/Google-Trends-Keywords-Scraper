@@ -1,37 +1,9 @@
 {
-  "lastUpdate": "2025-10-09 02:13:15",
+  "lastUpdate": "2025-10-09 02:43:07",
   "data": [
     {
-      "title": "alerta de lluvias intensas",
-      "trafficCount": "200000+",
-      "pubDate": "Wed, 8 Oct 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1EsDyTGQGu0koTA9Sdo-X87Dj3FeEEurGbyxauIoU7xl19z59Gcvr9WscMC8",
-      "pictureSource": "El Tiempo",
-      "relatedSearch": [
-        {
-          "title": "Vaguada y posterior DANA Alice: las claves del episodio",
-          "snippet": "",
-          "url": "https://www.eltiempo.es/noticias/vaguada-posterior-dana-alice-claves-episodio",
-          "source": "El Tiempo"
-        },
-        {
-          "title": "El tiempo hoy 9 de octubre en España: alerta naranja por lluvias en Comunidad Valenciana, Baleares y Región de Murcia",
-          "snippet": "",
-          "url": "https://www.rtve.es/noticias/20251009/tiempo-hoy-9-octubre-espana-alerta-naranja-lluvias-comunidad-valenciana-baleares-murcia/16762451.shtml",
-          "source": "RTVE.es"
-        },
-        {
-          "title": "AEMET: pronóstico del tiempo en Córdoba para mañana, jueves 9 de octubre",
-          "snippet": "",
-          "url": "https://www.elconfidencial.com/el-tiempo/2025-10-08/el-tiempo-en-cordoba-jueves_4224757/",
-          "source": "El Confidencial"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "nba",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 8 Oct 2025 18:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPdWlBHZWd5qnyMsKqzp9So-dwkYlbL8o2stJcKMVuKeFNBqqeAyuPlHbZI1k",
       "pictureSource": "NBA",
@@ -59,28 +31,28 @@
     },
     {
       "title": "mlb",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 8 Oct 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOOi2I_VEkwDat2AIryjZYsakTpVcAWKEr3B383iSciC3yvaQsJ0IvaGQUWM",
-      "pictureSource": "MLB.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLH8d05wLUeSwfyVPhH4V2J8mrMaiika55kIcIPL46kb0tv1yUlhgf0iLRrDU",
+      "pictureSource": "CBC",
       "relatedSearch": [
         {
-          "title": "Priester's homecoming dream dashed after 1st inning of NLDS G3 goes awry",
+          "title": "Blue Jays pull ahead of Yankees 2-1 in Game 4",
           "snippet": "",
-          "url": "https://www.mlb.com/news/brewers-lose-nlds-game-3-to-cubs",
+          "url": "https://www.cbc.ca/news/canada/jays-yankees-alds-game-4-9.6932133",
+          "source": "CBC"
+        },
+        {
+          "title": "Fueled by grit and belief, Tigers knot ALDS to force decisive Game 5",
+          "snippet": "",
+          "url": "https://www.mlb.com/news/tigers-win-alds-game-4-2025",
           "source": "MLB.com"
         },
         {
-          "title": "The Chicago Cubs, on the verge of elimination, survived at home.The Cubs won Game 3 of the National",
+          "title": "Tigers vs Mariners highlights from thrilling ALDS Game 4 as Detroit saves season",
           "snippet": "",
-          "url": "https://www.mk.co.kr/en/sports/11437486",
-          "source": "매일경제"
-        },
-        {
-          "title": "Cubs use 4-run 1st inning to stay alive in NLDS",
-          "snippet": "",
-          "url": "https://www.espn.co.uk/mlb/story/_/id/46536518/cubs-use-4-run-1st-inning-stay-alive-vs-brewers-nlds",
-          "source": "ESPN United Kingdom"
+          "url": "https://www.freep.com/story/sports/mlb/tigers/2025/10/08/tigers-marines-live-updates-game-4-alds-playoffs/86582850007/",
+          "source": "Detroit Free Press"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +211,16 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "Boca Juniors coach Miguel Ángel Russo dies at age 69",
-          "snippet": "",
-          "url": "https://www.newsday.com/sports/soccer/boca-juniors-miguel-angel-russo-argentina-w74928",
-          "source": "Newsday"
-        },
-        {
           "title": "Boca says Russo is receiving ‘home care with reserved prognosis’",
           "snippet": "",
           "url": "https://www.batimes.com.ar/news/sports/boca-juniors-says-miguel-russo-is-receiving-home-care-with-reserved-prognosis.phtml",
           "source": "Buenos Aires Times"
+        },
+        {
+          "title": "Boca Juniors Manager Russo Dies Aged 69: Argentine Football Association",
+          "snippet": "",
+          "url": "https://www.barrons.com/news/boca-juniors-manager-russo-dies-aged-69-argentine-football-association-22768fd4?gaa_at=eafs&gaa_n=ASWzDAhoalKZtNhfsFwNrYU1dsNk8IHTECg-C2Q2wA2EiE1ipsnKGZgpIciY&gaa_ts=68e724bf&gaa_sig=uWCJIQIsMSGHUlfZqQIwkv_hYvFq3ijq8MbbZBgQAbKR1CBnCuKj-vuaNhzfAdlaWMYRHWJEfnegiD7rxBDDrQ%3D%3D",
+          "source": "Barron's"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.elconfidencial.com/empresas/2025-10-08/variaciones-tension-seguridad-suministro-sistema-1hms_4224812/",
           "source": "El Confidencial"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "miguel angel russo",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 8 Oct 2025 15:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRUVQfrwn70mGLpt50IJwUnGydPkVHvNtvP8cbIW_cMhH8ue0DLrZnQX-YTBg",
+      "pictureSource": "MARCA",
+      "relatedSearch": [
+        {
+          "title": "Muere Miguel Ángel Russo, actual entrenador de Boca Juniors, a los 69 años",
+          "snippet": "",
+          "url": "https://www.marca.com/futbol/futbol-internacional/2025/10/09/muere-miguel-angel-russo-entrenador-boca-juniors-69-anos.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "¿Cuántos títulos tiene Miguel Ángel Russo? Lista completa de trofeos y palmarés",
+          "snippet": "",
+          "url": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/cuantos-titulos-tiene-miguel-angel-russo-lista-completa-trofeos-palmares/r3n720kiezx01kd0gddeaird9",
+          "source": "DAZN"
+        },
+        {
+          "title": "La dedicatoria de Úbeda a Russo tras la goleada de Boca: \"Lo queremos mucho y queremos que se ponga bien\"",
+          "snippet": "",
+          "url": "https://tribuna.com/es/news/2025-10-06-la-dedicatoria-de-ubeda-a-russo-tras-la-goleada-de-boca-lo-queremos-mucho-y-queremos-que/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
