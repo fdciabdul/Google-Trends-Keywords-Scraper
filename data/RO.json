@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-10 23:03:30",
+  "lastUpdate": "2025-10-10 23:13:25",
   "data": [
     {
       "title": "twitch",
@@ -31,7 +31,7 @@
     },
     {
       "title": "s&p 500",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Fri, 10 Oct 2025 15:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkyBPsQXkG0uKYzf4GkKhUc8f-uRDdM1uLdb-2NMhzBK-hjriCKqz6MwgcFMI",
       "pictureSource": "BBC",
@@ -43,16 +43,16 @@
           "source": "BBC"
         },
         {
-          "title": "Dow drops almost 900 points, S&P 500 declines the most since April after Trump's new China tariff threat",
+          "title": "Trump announces 130% tariffs on China. The global trade war just came roaring back",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
-          "source": "CNBC"
+          "url": "https://www.cnn.com/2025/10/10/economy/trump-china-tariff-threats-economy",
+          "source": "CNN"
         },
         {
-          "title": "Stock market today: Dow sinks 700 points, S&P 500, Nasdaq plummet as Trump threatens 'massive increase' on China tariffs",
+          "title": "Trump threatens 100% China tariffs as Beijing restricts rare-earth exports",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-plummet-as-trump-threatens-massive-increase-on-china-tariffs-151214703.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "coinmarketcap",
       "trafficCount": "100+",
       "pubDate": "Fri, 10 Oct 2025 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRK_BeRl5Q7K09ael3TD4OOqsoN-SBCtyBH9rDYEnbPi8VEMTvg1zI1lNxF9I",
-      "pictureSource": "GlobeNewswire",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSauXxIpTOZqArB9h7WQJ79mfJFT9HcgaSVabl6H0dT1ADhkwQzKHn8qJQwoII",
+      "pictureSource": "ts2.tech",
       "relatedSearch": [
+        {
+          "title": "CoinMarketCap Uncovered: Inside Binance’s Crypto Data Empire Amid Uptober’s Record Crypto Rally",
+          "snippet": "",
+          "url": "https://ts2.tech/en/coinmarketcap-uncovered-inside-binances-crypto-data-empire-amid-uptobers-record-crypto-rally/",
+          "source": "ts2.tech"
+        },
         {
           "title": "CZR Exchange Celebrates 25,000 Users at TOKEN2049 Singapore",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.fox44news.com/business/press-releases/globenewswire/9543711/czr-exchange-officially-listed-on-coinmarketcap-marking-a-new-era-of-transparency-and-global-reach",
           "source": "FOX 44"
-        },
-        {
-          "title": "Crypto News: XRP Tundra Presale to Create More Overnight Millionaires than Shiba Inu",
-          "snippet": "",
-          "url": "https://www.thecoinrepublic.com/2025/10/09/crypto-news-xrp-tundra-presale-to-create-more-overnight-millionaires-than-shiba-inu/",
-          "source": "The Coin Republic"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,44 @@
           "source": "TradingView"
         },
         {
+          "title": "CoinMarketCap Uncovered: Inside Binance’s Crypto Data Empire Amid Uptober’s Record Crypto Rally",
+          "snippet": "",
+          "url": "https://ts2.tech/en/coinmarketcap-uncovered-inside-binances-crypto-data-empire-amid-uptobers-record-crypto-rally/",
+          "source": "ts2.tech"
+        },
+        {
           "title": "Donald Trump Could Soon Pardon Binance Founder Changpeng ‘CZ’ Zhao",
           "snippet": "",
           "url": "https://finance.yahoo.com/news/donald-trump-could-soon-pardon-202204530.html",
           "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trump",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 10 Oct 2025 14:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSOh-KEqiQ5Xgb5Te-3li0ce3Op7nakr06LJzOHpUHotkLVvbY5LqvtpfULq0",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Palestinians returning to Gaza's north as Netanyahu thanks Trump for securing ceasefire",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
+          "source": "BBC"
         },
         {
-          "title": "Trump White House Could Soon Pardon Former Binance CEO Changpeng Zhao: FOX",
+          "title": "Israeli Cabinet approves ‘outline’ of deal to release all remaining hostages held by Hamas",
           "snippet": "",
-          "url": "https://bitcoinmagazine.com/news/trump-white-house-could-soon-pardon-former-binance-ceo-changpeng-zhao-fox",
-          "source": "Bitcoin Magazine"
+          "url": "https://www.pbs.org/newshour/world/israeli-cabinet-approves-outline-of-deal-to-release-all-remaining-hostages-held-by-hamas",
+          "source": "PBS"
+        },
+        {
+          "title": "Twin brothers, childhood friends and IDF soldiers: Who are the hostages still held in Gaza?",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/09/middleeast/hostages-gaza-israel-hamas-ceasefire-intl",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -191,7 +219,7 @@
         {
           "title": "VIDEO Cluj: O persoană decedată și 6 rănite într-un accident rutier în localitatea Livada",
           "snippet": "",
-          "url": "https://agerpres.ro/social/2025/10/10/cluj-o-persoana-decedata-si-6-ranite-intr-un-accident-rutier-in-localitatea-livada--1492515",
+          "url": "https://agerpres.ro/social/2025/10/10/video-cluj-o-persoana-decedata-si-6-ranite-intr-un-accident-rutier-in-localitatea-livada--1492515",
           "source": "Agerpres"
         }
       ],
@@ -201,11 +229,11 @@
       "title": "world cup qualifiers",
       "trafficCount": "100+",
       "pubDate": "Fri, 10 Oct 2025 13:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNs1kigBBCLUWFRbYWRYLY0W0PhqxiMXcxRxDx3aFegrfkThT5ebduLvUukSM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvdqfjS_AD1R63p4Ws_9W8Sfif9c7M_adfNytoXS5hl7VRZov9zcxr_e2NF3I",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Watch: Hrosovsky own goal has Northern Ireland ahead against Slovakia",
+          "title": "NI ignite World Cup campaign with Slovakia win",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/live/c62qmrl4m9dt",
           "source": "BBC"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.tvmania.ro/fata-de-la-fereastra-rezumate-episoade-difuzate-pe-kanal-d-secrete-iubire-si-intrigi-in-fiecare-episod-573105",
           "source": "TVMania"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "germany vs luxembourg",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Oct 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Germany vs Luxembourg: World Cup 2026 Qualifier score, stats & updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cg429qny91dt",
-          "source": "BBC"
-        },
-        {
-          "title": "Germany 4-0 Luxembourg (Oct 10, 2025) Game Analysis",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/report/_/gameId/724839",
-          "source": "ESPN"
-        },
-        {
-          "title": "Kimmich doubles up as Germany cruise past Luxembourg",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/article/kimmich-doubles-germany-cruise-past-205844612.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
