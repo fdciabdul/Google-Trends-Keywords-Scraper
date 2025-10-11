@@ -1,37 +1,9 @@
 {
-  "lastUpdate": "2025-10-11 05:35:59",
+  "lastUpdate": "2025-10-11 05:42:45",
   "data": [
     {
-      "title": "отключение света одесса",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Oct 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8aCgA-7wnJmbl_Tb1wW6qzrzU7_mGDlorvIlo4ReKGVM0hPMYfw6EPAlqiZ0",
-      "pictureSource": "РБК-Україна",
-      "relatedSearch": [
-        {
-          "title": "Одессу и область атаковали ударные дроны, работало ПВО, в городе пропали свет и вода",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/odesu-ta-oblast-atakuvali-udarni-droni-pratsyuvalo-1760137058.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "Россияне атаковали Одесскую область ударными дронами: 5 пострадавших, бушевали пожары",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/10/09/8001911/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "В Черноморске Одесской области восстановили электроснабжение после российской атаки 9 октября",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/ataka-dronami-na-odesskuyu-oblast-v-chernomorske-vosstanovili-elektrosnabzhenie-10-oktyabrya-50551517.html",
-          "source": "NV.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "11 жовтня церковне свято",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 10 Oct 2025 21:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU65NjrTNvFLeppfdhP1ABmfnOOMpMdKpyECTTESIoEJykDvDK7JakFuK1CLg",
       "pictureSource": "УНІАН",
@@ -81,6 +53,34 @@
           "snippet": "",
           "url": "https://www.obozrevatel.com/ukr/shou-oboz/bil-strashennij-ukrainskij-svyaschennik-yakij-mae-miljon-fanativ-potrapiv-u-likarnyu-i-rozkriv-svij-diagnoz.htm",
           "source": "Obozrevatel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "гладковський",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 10 Oct 2025 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHEFxz3s3IPaWjCnzp59drGEFGXtILql8sMOReMAsqi8IztlssrKWrFiNLojs",
+      "pictureSource": "АРГУМЕНТ",
+      "relatedSearch": [
+        {
+          "title": "Свинарчук продає свій гламурний свинарник; він обікрав Україну та втік",
+          "snippet": "",
+          "url": "https://argumentua.com/novini/svinarchuk-prodae-svii-glamurnii-svinarnik-vin-obikrav-ukrainu-ta-vtik",
+          "source": "АРГУМЕНТ"
+        },
+        {
+          "title": "Маєток родини Гладковського в Козині виставили на продаж за $4 млн – фото",
+          "snippet": "",
+          "url": "https://biz.liga.net/ua/all/nedvizhimost/novosti/maietok-rodyny-hladkovskoho-v-kozyni-vystavyly-na-prodazh-za-4-mln-foto",
+          "source": "Liga.biz"
+        },
+        {
+          "title": "У Києві почали судити Петра Порошенка",
+          "snippet": "",
+          "url": "https://www.dw.com/uk/u-kievi-pocali-suditi-petra-porosenka/a-74297901",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,38 @@
           "source": "Moneytimes.Ru"
         },
         {
-          "title": "Новости криптовалют утром 7 октября 2025 года",
+          "title": "Morgan Stanley разрешит всем клиентам инвестировать в криптовалютные фонды",
           "snippet": "",
-          "url": "https://ru.beincrypto.com/novosti-kriptovalyut-7-oktyabrya/",
-          "source": "BeInCrypto"
+          "url": "https://bits.media/morgan-stanley-razreshit-klientam-investirovat-v-kriptovalyutnye-fondy/",
+          "source": "Bits Media"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости одессы",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Oct 2025 15:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8aCgA-7wnJmbl_Tb1wW6qzrzU7_mGDlorvIlo4ReKGVM0hPMYfw6EPAlqiZ0",
+      "pictureSource": "РБК-Україна",
+      "relatedSearch": [
+        {
+          "title": "Одессу и область атаковали ударные дроны, работало ПВО, в городе пропали свет и вода",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/odesu-ta-oblast-atakuvali-udarni-droni-pratsyuvalo-1760137058.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Россияне атаковали Одесскую область ударными дронами: 5 пострадавших, бушевали пожары",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2025/10/09/8001911/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Черноморске Одесской области восстановили электроснабжение после российской атаки 9 октября",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/ataka-dronami-na-odesskuyu-oblast-v-chernomorske-vosstanovili-elektrosnabzhenie-10-oktyabrya-50551517.html",
+          "source": "NV.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "Meyka"
         },
         {
-          "title": "Binance co-founder \"New product coming soon\"",
+          "title": "Whale 0x3adb Moves 18.9 BNB From MEXC to Buy 2.51M WBULL ($26K): On-Chain Alert for Traders",
           "snippet": "",
-          "url": "https://bloomingbit.io/en/feed/news/98465",
-          "source": "bloomingbit"
+          "url": "https://blockchain.news/flashnews/whale-0x3adb-moves-18-9-bnb-from-mexc-to-buy-2-51m-wbull-26k-on-chain-alert-for-traders",
+          "source": "Blockchain News"
         },
         {
-          "title": "BNB Chain Wallet Nets $380K in 28 Minutes on Binance Alpha Listing of KeFu Xiao He (BNB): Buy and Sell Times, Average Prices, OKX Funding",
+          "title": "OKX Singapore launches stablecoin payments at local GrabPay merchants",
           "snippet": "",
-          "url": "https://blockchain.news/flashnews/bnb-chain-wallet-nets-380k-in-28-minutes-on-binance-alpha-listing-of-kefu-xiao-he-bnb-buy-and-sell-times-average-prices-okx-funding",
-          "source": "Blockchain News"
+          "url": "https://finance.yahoo.com/news/okx-singapore-launches-stablecoin-payments-040146528.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.kitco.com/news/off-the-wire/2025-10-09/precious-metals-surge-golds-24k-magic-air",
           "source": "KITCO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "coinglass",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 10 Oct 2025 15:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFGc6E5QDzBXgjXJkgpqEGCF8d3hlE-ehK3DvmcbVhARlPhdHVAM6T3DQxafE",
-      "pictureSource": "BeInCrypto",
-      "relatedSearch": [
-        {
-          "title": "CoinGlass Hit by Major Cyberstrike – Platform Down",
-          "snippet": "",
-          "url": "https://beincrypto.com/coinglass-proxy-attack-cybersecurity/",
-          "source": "BeInCrypto"
-        },
-        {
-          "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software'",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "S&P and Nasdaq Slump as Stocks Fall on Trump China Tariff Threat",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/10/business/stock-market-trump-tariffs.html",
-          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
