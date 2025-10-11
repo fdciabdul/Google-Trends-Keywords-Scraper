@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-11 10:46:45",
+  "lastUpdate": "2025-10-11 10:53:46",
   "data": [
     {
       "title": "sara sieppi",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 11 Oct 2025 03:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9-1m4ywUGBFLKBpnwVFBIojPV4rOT8aniR1Mt7lt_0Ws_25ZvWlaZ12bZJ4k",
       "pictureSource": "Iltalehti",
@@ -27,9 +27,15 @@
       "title": "kova tuuli",
       "trafficCount": "200+",
       "pubDate": "Sat, 11 Oct 2025 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNubVJd853RZUA0Kpix9VnIMEqd78gRSUOtXjG-KGVU8FSlzVcp4SluYwKc80",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzLFqdZ2WAJN0e-9Bh0WczHbOjvtjexLxKFgNEm_Zu4iI_EUWIHvjdM7Zcmo",
+      "pictureSource": "Yle",
       "relatedSearch": [
+        {
+          "title": "Syysmyräkkä nousee lännestä – kaatuneet puut, kattorakenteet ja sähkökatkot aiheuttaneet eniten töitä",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20187863",
+          "source": "Yle"
+        },
         {
           "title": "Näin rajuilma iskee alueellesi tänään – sähköt poikki tuhansilta",
           "snippet": "",
@@ -41,12 +47,6 @@
           "snippet": "",
           "url": "https://www.hs.fi/suomi/art-2000011553235.html",
           "source": "HS.fi"
-        },
-        {
-          "title": "Kohta Suomessa on vaarallinen sää",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/saauutiset/a/4918fe41-44ef-4d79-9ae9-1dad3d21ad8c",
-          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -55,15 +55,9 @@
       "title": "miki kuusi",
       "trafficCount": "1000+",
       "pubDate": "Sat, 11 Oct 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK9e_oFqQrakYo41abPrNQZg-CHNOxiEmChJNa-cM5Zafwj5w9s6e4KrQvBtI",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4R5VCrXjNAHX9VN4uql9I9c4f98yZeYZaQ22avnFnkoycRJ6OzCbPwRKjDM",
+      "pictureSource": "Yle",
       "relatedSearch": [
-        {
-          "title": "Woltin johtaja: Suomessa ei toimi matalan kynnyksen työmarkkinat",
-          "snippet": "",
-          "url": "https://www.is.fi/taloussanomat/art-2000011553691.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "Woltin perustaja Miki Kuusi vaatii pelisääntöjä lähettien työhön: ”Emme tekisi työtä, jos ruokalähetit eivät olisi tyytyväisiä”",
           "snippet": "",
@@ -75,6 +69,12 @@
           "snippet": "",
           "url": "https://www.hs.fi/talous/art-2000011543240.html",
           "source": "HS.fi"
+        },
+        {
+          "title": "Woltin johtaja: Suomessa ei toimi matalan kynnyksen työmarkkinat",
+          "snippet": "",
+          "url": "https://www.is.fi/taloussanomat/art-2000011553691.html",
+          "source": "Ilta-Sanomat"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,34 +145,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "donald trump",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Oct 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJCjKH6V-CAbjzO3NzcrOF7ZUvjHU4HDai4QCgRC-j9RodLYsDc5mE6l5e38U",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Trump speaks with Nobel Peace Prize winner Machado after his administration denounced the decision to award it to her",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/10/politics/trump-nobel-peace-prize-winner-machado",
-          "source": "CNN"
-        },
-        {
-          "title": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c1l80g1qe4gt",
-          "source": "BBC"
-        },
-        {
-          "title": "White House slams Trump’s perceived Nobel peace prize snub as ‘politics over peace’",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2025/oct/10/trump-nobel-peace-prize-reaction",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "suomi.fi",
       "trafficCount": "100+",
       "pubDate": "Fri, 10 Oct 2025 20:40:00 -0700",
@@ -229,29 +201,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "btc",
+      "title": "xrp price",
       "trafficCount": "200+",
-      "pubDate": "Fri, 10 Oct 2025 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3ms4pbNQTZ6-kwuYRSp4JSxOjUBcFjH-lKi5SvDNvX4iB3ic_d_wL_rw_1b0",
-      "pictureSource": "CNBC",
+      "pubDate": "Fri, 10 Oct 2025 14:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSxJ9Fac02S0C1n5feN9yYgeEd19NZ7IZy6xybW-xEknv-G8cqJy0h8Vl0noU",
+      "pictureSource": "Binance",
       "relatedSearch": [
         {
-          "title": "'Bitcoin is not an asset class': UK's biggest investment platform has a stark warning for investors",
+          "title": "Veteran Trader Peter Brandt Spots Reason to Short XRP",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/10/uk-investment-platform-warns-traders-to-avoid-bitcoin-crypto.html",
+          "url": "https://www.binance.com/en/square/post/30857578886370",
+          "source": "Binance"
+        },
+        {
+          "title": "Riding the Waves: XRP's Sinking Ship and Other Crypto Chaos",
+          "snippet": "",
+          "url": "https://www.onesafe.io/blog/navigating-cryptocurrency-volatility-lessons-from-xrps-recent-crash",
+          "source": "OneSafe"
+        },
+        {
+          "title": "XRP Price Prediction: Will XRP Hit $4 in One Year?",
+          "snippet": "",
+          "url": "https://www.markets.com/analysis/xrp-price-prediction-will-xrp-hit-4-in-one-year",
+          "source": "Markets.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bitcoin price",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 10 Oct 2025 14:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lwhyRP3QizBihVLsVWCeJ-zzcx0CfOpEiEszNHo8B26aI4eVh21xaPGC1Jc",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Trump announces 130% tariffs on China. The global trade war just came roaring back",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/10/economy/trump-china-tariff-threats-economy",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump threatens to impose additional 100% tariff on China",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cn4wkd7729po",
+          "source": "BBC"
+        },
+        {
+          "title": "Tech megacaps lose $770 billion in value as Nasdaq suffers steepest drop since April",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
           "source": "CNBC"
-        },
-        {
-          "title": "The UK government lifts the ETN ban, and the UK's largest retail investment platform states: Bitcoin is not an asset.",
-          "snippet": "",
-          "url": "https://news.futunn.com/en/post/63116765/the-uk-government-lifts-the-etn-ban-and-the-uk",
-          "source": "富途牛牛"
-        },
-        {
-          "title": "UK digital asset market poised for 20% growth as FCA lifts four-year retail ban on crypto ETNs, IG says",
-          "snippet": "",
-          "url": "https://www.theblock.co/post/373828/uk-digital-asset-market-poised-20-growth-fca-lifts-four-year-bancrypto-etns",
-          "source": "The Block"
         }
       ],
       "link": "https://imtaqin.id/"
