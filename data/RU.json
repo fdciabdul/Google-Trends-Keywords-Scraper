@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2025-10-11 09:26:22",
+  "lastUpdate": "2025-10-11 09:33:32",
   "data": [
     {
       "title": "константин ганич",
       "trafficCount": "200+",
       "pubDate": "Sat, 11 Oct 2025 02:10:00 -0700",
-      "picture": "",
-      "pictureSource": "NEWS.ru",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmX8XCskKy4_7gbLAlphvY5oKVVcRYxxOIO_PhUyGHmVzm9hCMFGe_S4on1tw",
+      "pictureSource": "RTVI",
       "relatedSearch": [
+        {
+          "title": "Труп в Lamborghini: криптоблогер Костя Кудо покончил с собой в Киеве",
+          "snippet": "",
+          "url": "https://rtvi.com/news/trup-v-lamborghini-kriptobloger-kostya-kudo-pokonchil-s-soboj-v-kieve/",
+          "source": "RTVI"
+        },
         {
           "title": "Одного из крупнейших криптобизнесменов Украины нашли мертвым",
           "snippet": "",
           "url": "https://news.ru/europe/odnogo-iz-krupnejshih-kriptobiznesmenov-ukrainy-nashli-mertvym",
           "source": "NEWS.ru"
-        },
-        {
-          "title": "В Киеве застрелился известный криптопредприниматель Костантин Кудо",
-          "snippet": "",
-          "url": "https://radio1.ru/news/proisshestviya/v-kieve-zastrelilsya-izvestnii-kriptopredprinimatel-kostantin-kudo/",
-          "source": "Radio1.ru"
         },
         {
           "title": "Стало известно, кому написал блогер Ганич перед смертью: после этого он застрелился. Фото",
@@ -31,7 +31,7 @@
     },
     {
       "title": "постановление правительства российской федерации",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 11 Oct 2025 02:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAqJFpRhJZAmCMcQIEosxOau0r0wFqtOwMKO2tfTy3_Pad7lLLmwSb0VroLf4",
       "pictureSource": "ГАРАНТ",
@@ -108,6 +108,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "светлогорск",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 11 Oct 2025 01:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnpKRoBPtQmHbiExW8oyNHI_XzrHZQxTJCoqZdMCbkZKrvlfAe1ef8tjUX-xg",
+      "pictureSource": "Клопс - новости Калининград",
+      "relatedSearch": [
+        {
+          "title": "Для светлогорского променада ищут нового подрядчика взамен попавшего в скандал",
+          "snippet": "",
+          "url": "https://klops.ru/kaliningrad/2025-10-10/369087-dlya-svetlogorskogo-promenada-ischut-novogo-podryadchika-vzamen-popavshego-v-skandal",
+          "source": "Клопс - новости Калининград"
+        },
+        {
+          "title": "В Светлогорске ищут подрядчика для текущего ремонта променада",
+          "snippet": "",
+          "url": "https://www.newkaliningrad.ru/news/briefs/community/24138688-v-svetlogorske-ishchut-podryadchika-dlya-tekushchego-remonta-promenada.html",
+          "source": "Новый Калининград.Ru"
+        },
+        {
+          "title": "Туристы рвутся на брошенную стройку променада в Светлогорске",
+          "snippet": "",
+          "url": "https://rugrad.online/public_news/1438451/?popnews=1",
+          "source": "RuGrad.EU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ливан",
       "trafficCount": "200+",
       "pubDate": "Sat, 11 Oct 2025 01:10:00 -0700",
@@ -139,20 +167,20 @@
       "title": "прогноз погоды спб",
       "trafficCount": "100+",
       "pubDate": "Sat, 11 Oct 2025 01:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9ZeB5ppxr5NKz9slEVUdgs_jVHLbEj5CuJIB0kTt2d6vhz2fgAu5xW81G1l8",
-      "pictureSource": "ФОНТАНКА.ру",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFIcUXkRwMdItudUeBqjZpECGCcp8erjht2qEXXDtF08lgSLyfOfJwPaJ6hvY",
+      "pictureSource": "Собака.ru",
       "relatedSearch": [
-        {
-          "title": "Типично осенняя погода ждет петербуржцев в субботу",
-          "snippet": "",
-          "url": "https://www.fontanka.ru/2025/10/11/76070532/",
-          "source": "ФОНТАНКА.ру"
-        },
         {
           "title": "Ветрено: прогноз петербургских синоптиков на выходные",
           "snippet": "",
           "url": "https://m.sobaka.ru/city/city/205903",
           "source": "Собака.ru"
+        },
+        {
+          "title": "Типично осенняя погода ждет петербуржцев в субботу",
+          "snippet": "",
+          "url": "https://www.fontanka.ru/2025/10/11/76070532/",
+          "source": "ФОНТАНКА.ру"
         },
         {
           "title": "В Петербурге ожидается смена погоды: придут дожди и ветер",
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.om1.ru/afisha/news/397530-omichka_snjalas_v_seriale_na_tnt_vmeste_s_nikitojj_kologrivym/",
           "source": "Om1.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "петрозаводск",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 11 Oct 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW4CR2h818McIV2nttIGhylpqNZ81Y-qI9u7DgDxp7__PmS1xRqsP0Xpid0lg",
-      "pictureSource": "Фактор - новости Карелии",
-      "relatedSearch": [
-        {
-          "title": "Пряности и чай: Большая выставка-ярмарка из Индии приехала в Петрозаводск",
-          "snippet": "",
-          "url": "https://factornews.ru/news/prjanosti-i-chaj-bolshaja-vystavka-jarmarka-iz-indii-priehala-v-petrozavodsk/",
-          "source": "Фактор - новости Карелии"
-        },
-        {
-          "title": "Жесткое ДТП в Петрозаводске: молодой мотоциклист не выжил — Новости Карелии и Петрозаводска",
-          "snippet": "",
-          "url": "https://karelinform.ru/news/2025-10-07/zhestkoe-dtp-v-petrozavodske-molodoy-mototsiklist-ne-vyzhil-5487007",
-          "source": "karelinform"
-        },
-        {
-          "title": "«Наш Дима больше не с нами»: названа дата прощания с погибшим в Петрозаводске байкером",
-          "snippet": "",
-          "url": "https://stolicaonego.ru/news/nash-dima-bolshe-ne-s-nami-nazvana-data-proschanija-s-pogibshim-v-petrozavodske-bajkerom/",
-          "source": "СТОЛИЦА на Онего"
         }
       ],
       "link": "https://imtaqin.id/"
