@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-11 11:40:47",
+  "lastUpdate": "2025-10-11 11:47:45",
   "data": [
+    {
+      "title": "12 de outubro",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 11 Oct 2025 04:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFRAfZQTVGOfPVWp6bx4GoXrjow9IYSOTi28ytHvj3yaYRpn2ePRJoNr4p5N0",
+      "pictureSource": "G1",
+      "relatedSearch": [
+        {
+          "title": "Aparecida, em SP, deve receber 450 mil visitantes até o dia 12 de outubro, estima governo estadual",
+          "snippet": "",
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/noticia/2025/10/11/aparecida-em-sp-deve-receber-450-mil-visitantes-ate-o-dia-12-de-outubro-estima-governo-estadual.ghtml",
+          "source": "G1"
+        },
+        {
+          "title": "Missas e procissões em Campo Grande celebram Nossa Senhora nesse domingo, 12",
+          "snippet": "",
+          "url": "https://www.campograndenews.com.br/brasil/cidades/missas-procissoes-e-eventos-comunitarios-marcam-celebracoes-a-nossa-senhora",
+          "source": "Campo Grande News"
+        },
+        {
+          "title": "Maria, mãe da alegria e da festa! Comentário de Ana Casarotti",
+          "snippet": "",
+          "url": "https://www.ihu.unisinos.br/658252-maria-mae-da-alegria-e-da-festa-comentario-de-ana-casarotti",
+          "source": "Instituto Humanitas Unisinos - IHU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "daniil medvedev",
       "trafficCount": "200+",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "gatito fernández",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 11 Oct 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpFjYy5OjLVWLDVUcGaulop-5i_d2jljfcBpParNyGRfkDJsPoXUcQUO57h0",
-      "pictureSource": "O Globo",
-      "relatedSearch": [
-        {
-          "title": "Ex-Botafogo, Gatito Fernández falha duas vezes em amistoso do Paraguai e é criticado pelos torcedores",
-          "snippet": "",
-          "url": "https://oglobo.globo.com/esportes/noticia/2025/10/10/ex-botafogo-gatito-fernandez-falha-duas-vezes-em-amistoso-do-paraguai-e-e-criticado-pelos-torcedores.ghtml",
-          "source": "O Globo"
-        },
-        {
-          "title": "Estrangeiros se revoltam com falha de ídolo do Botafogo: 'Como é possível?'",
-          "snippet": "",
-          "url": "https://www.lance.com.br/fora-de-campo/estrangeiros-se-revoltam-com-falha-de-idolo-do-botafogo-como-e-possivel.html",
-          "source": "LANCE!"
-        },
-        {
-          "title": "Ex-Botafogo, Gatito Fernández tem duas falhas bizarras em Japão x Paraguai",
-          "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ex-botafogo-gatito-fernandez-tem-duas-falhas-bizarras-em-japao-x-paraguai/",
-          "source": "CNN Brasil"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ponte preta x guarani",
       "trafficCount": "100+",
       "pubDate": "Sat, 11 Oct 2025 03:50:00 -0700",
@@ -137,6 +137,34 @@
           "snippet": "",
           "url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-c/ponte-preta-x-guarani-onde-assistir-escalacoes-e-arbitragem,1ae42dcd9b10d41555f878a8444e6fefnz4f9oh8.html",
           "source": "Terra"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gatito fernández",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 11 Oct 2025 03:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpFjYy5OjLVWLDVUcGaulop-5i_d2jljfcBpParNyGRfkDJsPoXUcQUO57h0",
+      "pictureSource": "O Globo",
+      "relatedSearch": [
+        {
+          "title": "Ex-Botafogo, Gatito Fernández falha duas vezes em amistoso do Paraguai e é criticado pelos torcedores",
+          "snippet": "",
+          "url": "https://oglobo.globo.com/esportes/noticia/2025/10/10/ex-botafogo-gatito-fernandez-falha-duas-vezes-em-amistoso-do-paraguai-e-e-criticado-pelos-torcedores.ghtml",
+          "source": "O Globo"
+        },
+        {
+          "title": "Estrangeiros se revoltam com falha de ídolo do Botafogo: 'Como é possível?'",
+          "snippet": "",
+          "url": "https://www.lance.com.br/fora-de-campo/estrangeiros-se-revoltam-com-falha-de-idolo-do-botafogo-como-e-possivel.html",
+          "source": "LANCE!"
+        },
+        {
+          "title": "Ex-Botafogo, Gatito Fernández tem duas falhas bizarras em Japão x Paraguai",
+          "snippet": "",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ex-botafogo-gatito-fernandez-tem-duas-falhas-bizarras-em-japao-x-paraguai/",
+          "source": "CNN Brasil"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,56 +255,28 @@
     },
     {
       "title": "11 de outubro",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 11 Oct 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_PhDLv1EMYNLxDcphhURj-5iuZEhiSqRpetO0bG62rC6vVbxIb8K8XkoXRYU",
-      "pictureSource": "Metrópoles",
-      "relatedSearch": [
-        {
-          "title": "Horóscopo 2025: confira a previsão de hoje (11/10) para seu signo",
-          "snippet": "",
-          "url": "https://www.metropoles.com/vida-e-estilo/horoscopo/horoscopo-2025-confira-a-previsao-de-hoje-11-10-para-seu-signo",
-          "source": "Metrópoles"
-        },
-        {
-          "title": "Horóscopo do dia: previsão para os 12 signos em 11/10/2025",
-          "snippet": "",
-          "url": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-11-10-2025/",
-          "source": "CartaCapital"
-        },
-        {
-          "title": "O universo envia um recado urgente para 4 signos neste sábado (11 de outubro)",
-          "snippet": "",
-          "url": "https://www.correio24horas.com.br/em-alta/o-universo-envia-um-recado-urgente-para-4-signos-neste-sabado-11-de-outubro-1025",
-          "source": "Jornal Correio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "starlink",
       "trafficCount": "200+",
-      "pubDate": "Sat, 11 Oct 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlZ56qXYKJGyQlCe5V2l2xA9GpKOdDhCSk3kWwGJyHk6zwJW-5CZY3woOMVs",
-      "pictureSource": "TELETIME News",
+      "pubDate": "Sat, 11 Oct 2025 03:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSWw4XZO8TAsDY1-JlR9FqYB1mJ4Ij4z405-M-HexxdAKWdLs8Iu4fiJUwWA",
+      "pictureSource": "Portal Contabeis",
       "relatedSearch": [
         {
-          "title": "Operadoras de satélite com espectro podem substituir teles, alerta Freire",
+          "title": "Outubro tem feriado nacional? Veja as datas importantes e oportunidades comerciais",
           "snippet": "",
-          "url": "https://teletime.com.br/09/10/2025/operadoras-de-satelite-com-espectro-podem-substituir-teles-alerta-freire/",
-          "source": "TELETIME News"
+          "url": "https://www.contabeis.com.br/noticias/73213/outubro-tem-feriado-nacional-veja-as-datas-importantes-e-oportunidades-comerciais/",
+          "source": "Portal Contabeis"
         },
         {
-          "title": "Conselheiro da Anatel defende atualização urgente do marco regulatório para o setor de satélites",
+          "title": "Feriados em outubro de 2025: confira calendário com datas comemorativas",
           "snippet": "",
-          "url": "https://ipnews.com.br/conselheiro-da-anatel-defende-atualizacao-urgente-do-marco-regulatorio-para-o-setor-de-satelites/",
-          "source": "IPNews - O Portal da Conectividade"
+          "url": "https://oglobo.globo.com/brasil/noticia/2025/10/06/feriados-em-outubro-de-2025-confira-calendario-com-datas-comemorativas.ghtml",
+          "source": "O Globo"
         },
         {
-          "title": "Excesso de satélites pode se tornar um problema, alerta executiva da Claro",
+          "title": "Dia de N. Sra. de Aparecida: Feriado é transferido para segunda? Entenda",
           "snippet": "",
-          "url": "https://www.mobiletime.com.br/noticias/08/10/2025/satelites-excesso/",
-          "source": "Mobile Time"
+          "url": "https://www.opovo.com.br/noticias/curiosidades/2025/10/09/feriado-de-12-de-outubro-e-transferido-para-segunda-entenda.html",
+          "source": "O POVO"
         }
       ],
       "link": "https://imtaqin.id/"
