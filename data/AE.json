@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-12 12:13:11",
+  "lastUpdate": "2025-10-12 12:28:06",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 12 Oct 2025 05:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5ZlxAjdIx8QtZPGaZv-Izr4qlQJCNbvpz_Wv2QR1F5yZ-EPPQbuWmaWv7Nvs",
+      "pictureSource": "NJ.gov",
+      "relatedSearch": [
+        {
+          "title": "The Official Website of Governor Phil Murphy",
+          "snippet": "",
+          "url": "https://nj.gov/governor/news/news/562025/approved/20251010a.shtml",
+          "source": "NJ.gov"
+        },
+        {
+          "title": "A Nor'easter Is Targeting The East Coast With Major Coastal Flooding, Heavy Rain, Strong Winds",
+          "snippet": "",
+          "url": "https://weather.com/forecast/regional/news/2025-10-08-noreaster-coastal-storm-forecast-wind-flooding-october",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Red Hook business owners brace for renewed flooding risk",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/articles/red-hook-business-owners-brace-003826244.html",
+          "source": "Yahoo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "gitex",
       "trafficCount": "200+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chelsea vs tottenham",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 12 Oct 2025 04:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9-zhagzR15OklsFaRCuUMXpe9sMF3tTiLEyYY3qWs4mq1aXiTXJvIPH1fjoU",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "WSL: Chelsea v Tottenham, Everton v Manchester United and more – matchday live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2025/oct/12/world-cup-qualifiers-wsl-updates-and-football-news-matchday-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "'Caged tiger' Lucy Bronze and Niamh Charles ready to make Chelsea return | News | Official Site",
-          "snippet": "",
-          "url": "https://www.chelseafc.com/en/news/article/caged-tiger-lucy-bronze-and-niamh-charles-ready-to-make-chelsea-return",
-          "source": "Chelsea Football Club"
-        },
-        {
-          "title": "Confirmed line-ups | Chelsea vs Spurs (WSL)",
-          "snippet": "",
-          "url": "https://www.tottenhamhotspur.com/news/2025/october/confirmed-line-ups-chelsea-vs-spurs-women-wsl/",
-          "source": "Tottenham Hotspur"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "everton vs man utd",
       "trafficCount": "100+",
       "pubDate": "Sun, 12 Oct 2025 04:20:00 -0700",
@@ -71,9 +71,9 @@
           "source": "Liverpool Echo"
         },
         {
-          "title": "Arsenal vs Brighton & Hove Albion LIVE: Latest Women's Super League updates",
+          "title": "Chelsea vs Tottenham Hotspur LIVE: Latest Women's Super League updates",
           "snippet": "",
-          "url": "https://www.independent.co.uk/sport/football/arsenal-brighton-hove-albion-live-stream-womens-super-league-2025-b2843937.html",
+          "url": "https://www.independent.co.uk/sport/football/chelsea-tottenham-hotspur-live-stream-womens-super-league-2025-b2843889.html",
           "source": "The Independent"
         },
         {
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.evertonfc.com/news/2025/october/11/excitement-builds-ahead-of-everton-womens-game-at-hill-dickinson-stadium/",
           "source": "Everton Football Club"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chelsea vs tottenham",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 12 Oct 2025 04:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9-zhagzR15OklsFaRCuUMXpe9sMF3tTiLEyYY3qWs4mq1aXiTXJvIPH1fjoU",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "WSL: Chelsea v Tottenham, Everton v Manchester United and more – matchday live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2025/oct/12/world-cup-qualifiers-wsl-updates-and-football-news-matchday-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Women's Super League: Match weekend six fixtures",
+          "snippet": "",
+          "url": "https://mancitysquare.com/women-s-super-league-match-weekend-six-fixtures-01k76znv7vxq",
+          "source": "Man City Square"
+        },
+        {
+          "title": "Sonia Bompastor on rotation, clinical finishing and expectations at Chelsea | News | Official Site",
+          "snippet": "",
+          "url": "https://www.chelseafc.com/en/news/article/sonia-bompastor-on-rotation-clinical-finishing-and-expectations-at-chelsea",
+          "source": "Chelsea Football Club"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -107,15 +135,15 @@
         {
           "title": "Women's World Cup: Harmony is how I would like to describe this team, says Harleen Deol",
           "snippet": "",
-          "url": "https://www.lokmattimes.com/other-sports/womens-world-cup-harmony-is-how-i-would-like-to-describe-this-team-says-harleen-deol/",
-          "source": "Lokmat Times"
+          "url": "https://www.punjabnewsexpress.com/sports/news/womens-world-cup-harmony-is-how-i-would-like-to-describe-this-team-says-harleen-deol-300983",
+          "source": "Punjab News Express"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather today",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 12 Oct 2025 03:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTunaH4mcsfPsUivtyCG-yQt34Ah4WBMmc2uoWWIqmV6kIi_V5ouNZaHf4H1Z8",
       "pictureSource": "The New York Times",
@@ -137,6 +165,34 @@
           "snippet": "",
           "url": "https://www.kold.com/2025/10/12/first-alert-forecast-first-3-straight-first-alert-weather-days/",
           "source": "KOLD"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dubai weather",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 12 Oct 2025 03:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSK5WnfporbhxXFAvqK-KrO3V_x-8nms2Z4ZAn_UfwbTeDb6XiUMhOlh3IPltc",
+      "pictureSource": "Gulf News",
+      "relatedSearch": [
+        {
+          "title": "Heavy rain, thunderstorms hit parts of UAE as unstable weather persists",
+          "snippet": "",
+          "url": "https://gulfnews.com/uae/weather/uae-weather-more-rain-and-thunder-expected-as-unstable-conditions-persist-1.500304185",
+          "source": "Gulf News"
+        },
+        {
+          "title": "UAE weather warning: Heavy rain, strong winds, and rough seas forecast this week",
+          "snippet": "",
+          "url": "https://www.arabianbusiness.com/culture-society/uae-weather-warning-heavy-rain-strong-winds-and-rough-seas-forecast-this-week",
+          "source": "Arabian Business"
+        },
+        {
+          "title": "Unstable weather in UAE: Authorities 'closely monitoring' changing conditions",
+          "snippet": "",
+          "url": "https://www.khaleejtimes.com/uae/weather/unstable-weather-conditions-authorities-closely-monitoring-full-readiness",
+          "source": "Khaleej Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,110 +229,54 @@
       "title": "المركز الوطني للأرصاد",
       "trafficCount": "100+",
       "pubDate": "Sun, 12 Oct 2025 03:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHmJXwThk0G9Z0qjlS24bAwccmz1PP87zsznnTHsUcuy414P-uJmRwfmkOtLE",
-      "pictureSource": "بوابة الزهراء",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYr74CMe-9kpLidyvB5zwgpAJ4WUV9LmLN3vCkiwauv4FbK0pIDmrBUO-KliI",
+      "pictureSource": "طقس العرب",
       "relatedSearch": [
+        {
+          "title": "السعودية | المناطق المشمولة بالأمطار والبروق من اليوم وحتى نهاية الأسبوع",
+          "snippet": "",
+          "url": "https://www.arabiaweather.com/ar/content/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%88%D8%AD%D8%AA%D9%89-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9",
+          "source": "طقس العرب"
+        },
+        {
+          "title": "استمرار هطول أمطار رعدية وسيول على جازان وعسير والباحة ومكة المكرمة",
+          "snippet": "",
+          "url": "https://tourismdailynews.com/2025/10/12/%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%87%D8%B7%D9%88%D9%84-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%B3%D9%8A%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%AC%D8%A7%D8%B2-2/",
+          "source": "Tourism Daily News"
+        },
         {
           "title": "“قرار عاجل من التعليم السعودية”.. حقيقة تعليق الدراسة في مكة وجازان وهذه المدن غدا بسبب سوء الأحوال الجوية",
           "snippet": "",
           "url": "https://zahraa.mr/5954958/%D9%82%D8%B1%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AD%D9%82%D9%8A%D9%82/",
           "source": "بوابة الزهراء"
-        },
-        {
-          "title": "الأرصاد الجوية تحذر من طقس قاسٍ يتضمن سيولاً شديدة وبرداً قارساً في أربع مناطق بالمملكة اليوم",
-          "snippet": "",
-          "url": "https://tawusal.com/6059/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D9%82%D8%A7%D8%B3%D9%8D-%D9%8A%D8%AA%D8%B6%D9%85%D9%86-%D8%B3/",
-          "source": "تواصل نيوز"
-        },
-        {
-          "title": "المركز الوطني للأرصاد يحذر من أمطار رعدية ورياح وغبار يضرب 10 مناطق اليوم وينصح المواطنين",
-          "snippet": "",
-          "url": "https://sa.tqwem.com/local/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1/",
-          "source": "التقويم الإخباري"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "smriti mandhana",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 12 Oct 2025 02:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXSxwbDBftIaV0-aTYHVJS5VKtcmbJE21EJ2xAXGQEm6RkLA6WnijjyEmdysY",
+      "title": "pratika rawal",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 12 Oct 2025 03:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmmxew6_sBRpvMcu5iccRGkcs5ow0BSKDYY2PZshIV0Yrb5y0Jbjd3j1gAIwk",
       "pictureSource": "ICC",
       "relatedSearch": [
         {
-          "title": "Mandhana brings about a milestone with a maximum | CWC25",
+          "title": "Rawal reaches fifty with a beauty down the track | CWC25",
           "snippet": "",
-          "url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/mandhana-brings-about-a-milestone-with-a-maximum-cwc25",
+          "url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/videos/rawal-reaches-fifty-with-a-beauty-down-the-track-cwc25",
           "source": "ICC"
         },
         {
-          "title": "Sports Bulletin For October 12: From Smriti Mandhana's World Record To Babar Azam's WTC Feat",
+          "title": "IND vs AUS: Smriti-Pratika record highest-ever opening partnership against Australia in women’s ODIs",
           "snippet": "",
-          "url": "https://www.mykhel.com/news/sports-bulletin-for-october-12-from-smriti-mandhanas-world-record-to-babar-azams-wtc-feat-389973.html",
-          "source": "myKhel"
+          "url": "https://sportstar.thehindu.com/cricket/womens-cricket/ind-vs-aus-smriti-pratika-highest-opening-partnership-against-australia-stats-womens-odis-women-odi-world-cup-2025/article70154831.ece",
+          "source": "Sportstar"
         },
         {
-          "title": "Sizzling Smriti: First in women’s cricket to score 1,000 ODI runs in a calendar year",
+          "title": "Smriti Mandhana And Pratika Rawal Become 1st Opening Pair To...",
           "snippet": "",
-          "url": "https://english.mathrubhumi.com/sports/cricket/sizzling-smriti-first-in-womens-cricket-to-score-1-000-odi-runs-in-a-calendar-year-h36o8nd9",
-          "source": "Mathrubhumi English"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "john campbell",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 12 Oct 2025 02:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtJ-WDSPlw2chQDn_jQqdMZh_cLB_4AU8VlnImxKQizrPDeYNrKDSzX-8gEAU",
-      "pictureSource": "ESPNcricinfo",
-      "relatedSearch": [
-        {
-          "title": "Live Cricket Update - IND vs WI 2nd Test - Live report - India enforce follow-on after Kuldeep five-for",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/series/west-indies-in-india-2025-26-1479561/india-vs-west-indies-2nd-test-1479570/live-match-blog",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "IND vs WI Highlights, 2nd Test Match Day 3: West Indies finish Day 3 strong with key partnership between John Campbell and Shai Hope",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/ind-vs-wi-live-score-today-cricket-match-india-vs-west-indies-2nd-test-match-day-3-live-updates/liveblog/124492492.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Kuldeep Yadav Scripts History, Breaks World Record With Sensational Test Feat Against West Indies",
-          "snippet": "",
-          "url": "https://sports.ndtv.com/india-vs-west-indies-2025/kuldeep-yadav-scripts-history-breaks-world-record-with-sensational-test-feat-against-west-indies-9440686",
-          "source": "NDTV Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "india women vs australia women",
-      "trafficCount": "20000+",
-      "pubDate": "Sun, 12 Oct 2025 02:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9W902ZUV_43BIOyIJINa35IvNQjQwzlzPBD1QAIXr3RWXUoINhcWpbc9GlPA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "India vs Australia LIVE: Women's Cricket World Cup 2025 score, radio, highlights & updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/cricket/live/cjdymek14krt",
-          "source": "BBC"
-        },
-        {
-          "title": "Australia bring in Molineux and ask unchanged India to bat",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/series/icc-women-s-world-cup-2025-26-1478193/india-women-vs-australia-women-13th-match-1490425/match-report",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "India vs Australia Live Score, ICC Women's World Cup 2025: Australia Penalised, India Awarded 5 Bonus Runs Over Alyssa Healy's Blunder",
-          "snippet": "",
-          "url": "https://sports.ndtv.com/women-s-odi-world-cup-2025/india-women-vs-australia-women-live-score-icc-womens-world-cup-2025-13th-match-indw-ausw-live-cricket-scorecard-updates-harmanpreet-kaur-smriti-mandha-9440744",
-          "source": "NDTV Sports"
+          "url": "https://www.news18.com/cricket/smriti-mandhana-and-pratika-rawal-become-1st-opening-pair-to-ws-l-9631011.html",
+          "source": "News18"
         }
       ],
       "link": "https://imtaqin.id/"
