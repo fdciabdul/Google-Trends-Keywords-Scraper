@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-13 11:41:51",
+  "lastUpdate": "2025-10-13 11:48:47",
   "data": [
     {
       "title": "el mostrador",
@@ -31,7 +31,7 @@
     },
     {
       "title": "metro de santiago",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 13 Oct 2025 03:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2Y69c8fU2B_S5NQk4P2nSBiWNYFoy9vmmpx6qjaHr_Y445gdJJ50hIJi2z_c",
       "pictureSource": "Radio Agricultura",
@@ -61,9 +61,15 @@
       "title": "red",
       "trafficCount": "200+",
       "pubDate": "Mon, 13 Oct 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHqtW-zqWFC4zcS0zgMzf3Mi4trWhZA8zqtnk_vkxQ4_6qk46YfFTQS30aLK0",
-      "pictureSource": "AP News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV_oIEuqeReFuo1X0wNzTSY2Q7LGEdX97DLHijhLc1eZpe4M9rgNiNzn-Y3Vg",
+      "pictureSource": "ABC News - Breaking News, Latest News and Videos",
       "relatedSearch": [
+        {
+          "title": "2 hostages previously believed to be held alive not on list published by Hamas",
+          "snippet": "",
+          "url": "https://abcnews.go.com/International/2-hostages-previously-believed-held-alive-list-published/story?id=126362436",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
         {
           "title": "Many unresolved questions remain as a ceasefire begins in Gaza",
           "snippet": "",
@@ -71,16 +77,10 @@
           "source": "AP News"
         },
         {
-          "title": "Freed hostages reuniting with families as Trump addresses Israel's parliament",
+          "title": "LIVE: Palestinian prisoners, Israeli captives freed; Trump in Knesset",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/cx2r2z0gyp7t",
-          "source": "BBC"
-        },
-        {
-          "title": "Israeli hostages released: all living captives freed as Trump receives standing ovation at Knesset – latest updates",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/oct/13/gaza-ceasefire-live-updates-israel-hostages-release-hamas-trump-middle-east",
-          "source": "The Guardian"
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +89,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Mon, 13 Oct 2025 03:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiaAInFiCuCX1w0V65bgHBiHX1ZVG00PO90nPjmx-VCESA5mzRQsdJTEH0ND8",
-      "pictureSource": "KHBS",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeY67sEcoB7xW3_BwEjyqm_0-UBR9VeqER0gQxWeUxoHQnxuplIwiiLu1_bG0",
+      "pictureSource": "The Mirror",
       "relatedSearch": [
         {
-          "title": "A Few Spotty Showers to get the Day Started in Arkansas",
+          "title": "Weather maps show 0C freeze set to grip Brits as Arctic blast grips UK",
           "snippet": "",
-          "url": "https://www.4029tv.com/article/a-few-spotty-showers-to-get-the-day-started/69015666",
-          "source": "KHBS"
+          "url": "https://www.mirror.co.uk/news/uk-news/weather-maps-show-0c-freeze-36030011",
+          "source": "The Mirror"
         },
         {
-          "title": "Some See Rain Today, Warm Weather Continues This Week for All",
+          "title": "Exact date 7cm snow could fall in parts of the UK",
           "snippet": "",
-          "url": "https://www.legends1063.fm/news/local-news/some-see-rain-today-warm-weather-continues-this-week-for-all/",
-          "source": "KRZK 106.3"
+          "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/exact-date-7cm-snow-could-32663688",
+          "source": "Liverpool Echo"
         },
         {
-          "title": "FIRST ALERT WEATHER: Sunshine Returns This Weekend",
+          "title": "Met Office releases first winter outlook as weakening 'Polar Vortex' could see UK plagued by freezing temperatures",
           "snippet": "",
-          "url": "https://www.ky3.com/video/2025/10/09/first-alert-weather-sunshine-returns-this-weekend/",
-          "source": "KY3"
+          "url": "https://www.lbc.co.uk/article/met-office-releases-first-winter-outlook-as-weakening-polar-vortex-could-see-uk-5HjdFJ2_2/",
+          "source": "LBC"
         }
       ],
       "link": "https://imtaqin.id/"
