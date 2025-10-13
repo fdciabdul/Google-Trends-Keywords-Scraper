@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-13 07:27:18",
+  "lastUpdate": "2025-10-13 07:35:31",
   "data": [
     {
       "title": "malediwy",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 13 Oct 2025 00:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb4qkcm2gz8X8xRrbW8zxlnINmnZfHFzsHLfOipDYhH_kMt_9jXV9VMvC10so",
       "pictureSource": "Gov.pl",
@@ -115,16 +115,16 @@
           "source": "Onet"
         },
         {
-          "title": "\"O godność dla Palestyńczyków\". Marsz w Warszawie",
-          "snippet": "",
-          "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-marsz-w-obronie-palestyny-zablokowany-przejazd-przez-rondo-de-gaulle-a-utrudnienia-trasa-przemarszu-st8695761",
-          "source": "TVN24"
-        },
-        {
           "title": "\"Czerwona linia została przekroczona\". Pro-palestyńskie marsze w polskich miastach",
           "snippet": "",
           "url": "https://www.tokfm.pl/polska/czerwona-linia-zostala-przekroczona-pro-palestynskie-marsze-w-polskich-miastach",
           "source": "TOK FM"
+        },
+        {
+          "title": "\"O godność dla Palestyńczyków\". Marsz w Warszawie",
+          "snippet": "",
+          "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-marsz-w-obronie-palestyny-zablokowany-przejazd-przez-rondo-de-gaulle-a-utrudnienia-trasa-przemarszu-st8695761",
+          "source": "TVN24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,9 +177,9 @@
           "source": "Wydarzenia w INTERIA.PL"
         },
         {
-          "title": "Co zawiera plan Donalda Trumpa? Taki jest pomysł na pokój w Strefie Gazy",
+          "title": "Pakiet powitalny i osobista wiadomość od Netanjahu. To dostają zakładnicy uwolnieni przez Hamas",
           "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,32319588,co-zawiera-plan-donalda-trumpa-taki-jest-pomysl-na-pokoj-w.html",
+          "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32319600,pakiet-powitalny-i-osobista-wiadomosc-od-netanjahu-to-dostaja.html",
           "source": "Gazeta"
         }
       ],
@@ -243,11 +243,30 @@
     },
     {
       "title": "poszukiwani policja",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 12 Oct 2025 15:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV1oyw7sH8pQxuJ1tmH2dki0o71wk0FvZ0gPkSX2zWH5eYLZB3U-fpLF5zQZo",
+      "pictureSource": "Onet",
+      "relatedSearch": [
+        {
+          "title": "Nie żyje 15-letni Wiktor. Poruszający wpis mamy chłopca. \"Nastała cisza\"",
+          "snippet": "",
+          "url": "https://www.onet.pl/informacje/onetrzeszow/nie-zyje-15-letni-wiktor-poruszajacy-wpis-mamy-chlopca-nastala-cisza/06fbxr7,79cfc278",
+          "source": "Onet"
+        },
+        {
+          "title": "Tragiczny finał poszukiwań pary nastolatków na Podkarpaciu. Policja odnalazła ich ciała",
+          "snippet": "",
+          "url": "https://rzeszow.wyborcza.pl/rzeszow/7,34962,32318286,tragiczny-final-poszukiwan-nastolatkow-znaleziono-dwa-ciala.html",
+          "source": "rzeszow.wyborcza.pl"
+        },
+        {
+          "title": "Tragiczny finał poszukiwań Mai i Wiktora. Poruszający wpis matki",
+          "snippet": "",
+          "url": "https://wiadomosci.wp.pl/tragiczny-final-poszukiwan-mai-i-wiktora-poruszajacy-wpis-matki-7210000370285504a",
+          "source": "WP Wiadomości"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
