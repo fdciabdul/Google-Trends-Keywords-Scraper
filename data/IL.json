@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-10-13 05:32:22",
+  "lastUpdate": "2025-10-13 05:41:03",
   "data": [
+    {
+      "title": "cnn live",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 12 Oct 2025 22:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2I4z_-MIx7B_NzCMz627IN8Vc42lgSnN2K9_5Wm3OQUymtcAZ47zj_5D7WAs",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Trump says military members will be paid despite government shutdown",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/oct/11/trump-shutdown-military-pay",
+          "source": "The Guardian"
+        },
+        {
+          "title": "‘I don't know why this is so complicated’: Shutdown could drag on for days",
+          "snippet": "",
+          "url": "https://www.politico.com/news/2025/10/06/shutdown-stalemate-negotiations-00594594",
+          "source": "Politico"
+        },
+        {
+          "title": "Government shutdown enters second week of stalemate",
+          "snippet": "",
+          "url": "https://www.foxnews.com/video/6382654937112",
+          "source": "Fox News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "fox news",
       "trafficCount": "200+",
       "pubDate": "Sun, 12 Oct 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ04onNrqaq1k88NpqMEXjchOlpYEGSsM8PYB8AlAO3-GCDceLPnPrdktzJcE",
-      "pictureSource": "i24NEWS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJY8a1ckFKaV2B2tlActuIqsFvgWm6EYHB1BEDKWXVSmN3GdKpa9a3M54Lu2E",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Israel Prepares For Hostages' Release Ahead Of Trump's Visit | LIVE BLOG",
+          "title": "Trump says Ukraine may get Tomahawk missiles to use against Russia",
           "snippet": "",
-          "url": "https://www.i24news.tv/en/news/israel-at-war/artc-israel-prepares-for-hostages-release-ahead-of-trump-s-visit-live-blog",
-          "source": "i24NEWS"
-        },
-        {
-          "title": "Gaza ceasefire: People in the West Bank share hopes for the deal",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/videos/c364nnnz9rxo",
+          "url": "https://www.bbc.com/news/articles/c93xpqgzkv0o",
           "source": "BBC"
         },
         {
-          "title": "‘The war is over,’ Trump stresses as he heads to Israel for the hostage release",
+          "title": "Trump says he may tell Putin to settle war or he'll give Ukraine Tomahawks",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/the-war-is-over-trump-stresses-as-he-heads-to-israel-for-the-hostage-release/",
-          "source": "The Times of Israel"
+          "url": "https://www.axios.com/2025/10/11/zelensky-trump-tomahawk-missiles-ukraine",
+          "source": "Axios"
+        },
+        {
+          "title": "What to know about the Tomahawk cruise missiles Trump says he might give Ukraine",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/what-to-know-tomahawk-cruise-missiles-trump-may-send-ukraine-2025-10",
+          "source": "Business Insider"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "מאקו 12",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 12 Oct 2025 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTseTy9-u3J3htN9WBAzt5GtH2ex9P7c5LDHwtyvhFMFdspKGTGVkMwNtaOoNE",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "כמה תשלמו על ארוחה במסעדת השף הכי צפונית בארץ?",
-          "snippet": "",
-          "url": "https://www.mako.co.il/food-restaurants/restaurant-news/Article-299ff02a36ea991027.htm",
-          "source": "mako"
-        },
-        {
-          "title": "הצלב האדום בדרך לנקודת האיסוף, חמאס הודיע: אלו 20 החטופים שישוחררו היום בחיים",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/blogs/article/sycl9y5pgg",
-          "source": "ynet"
-        },
-        {
-          "title": "שחרור החטופים צפוי להתחיל בשעה 8:00; טראמפ: \"המלחמה בעזה נגמרה\"",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/politics/war-2023/2025-10-13/ty-article-live/00000199-da56-da09-a1bb-dafe03d50000",
-          "source": "הארץ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "כאן חדשות",
       "trafficCount": "100+",
       "pubDate": "Sun, 12 Oct 2025 22:10:00 -0700",
@@ -133,10 +133,10 @@
           "source": "הארץ"
         },
         {
-          "title": "N12 - ברשות מחזיקים בזכות ווטו על איוש חברי הממשל הטכנוקרטי בעזה",
+          "title": "טראמפ בוחן את האיש שינהל רצועת עזה ביום שאחרי: \"תמיד חיבבתי אותו\"",
           "snippet": "",
-          "url": "https://www.mako.co.il/news-military/be11d799e08b8910/Article-dbe2202d02fc991026.htm",
-          "source": "mako"
+          "url": "https://www.maariv.co.il/news/politics/article-1241012",
+          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,9 +183,9 @@
           "source": "אמס"
         },
         {
-          "title": "שידור חי: ליל הושענא רבה בהר הזיתים",
+          "title": "יום של צניעות",
           "snippet": "",
-          "url": "https://www.inn.co.il/news/680695",
+          "url": "https://www.inn.co.il/news/680726",
           "source": "ערוץ 7"
         },
         {
@@ -193,34 +193,6 @@
           "snippet": "",
           "url": "https://col.org.il/feed/in/172215",
           "source": "חב״ד און ליין"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "אל ג'זירה",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 12 Oct 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSShJg3zE5H9QT-CvSMBwB_PtFDJRbQ-FhWTf3eyA2NBsUmLy__a2hiS304hh8",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "הרמטכ\"ל: \"ניצחנו את חמאס\", נתניהו: \"המערכה לא תמה\"",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/byfzjlftlg",
-          "source": "ynet"
-        },
-        {
-          "title": "בכיר חמאס מודה: החיסול הבא של ישראל בדרך",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1240999",
-          "source": "מעריב"
-        },
-        {
-          "title": "גם ללא ניצחון מוחלט, ישראל המותשת תקבל את החטופים החיים וסיום למלחמה",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/politics/2025-10-12/ty-article/.highlight/00000199-d9ba-d253-a3bd-ffbac0ec0000",
-          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,9 +239,9 @@
           "source": "הארץ"
         },
         {
-          "title": "החטופים שעדיין בשבי בעזה - אלו שמותיהם וסיפוריהם",
+          "title": "מכבי תל אביב תערוך מחווה בבלומפילד לכבוד שובם של גלי וזיו ברמן ועמרי מירן - שיטוסו מעל האזור",
           "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/local/957226/",
+          "url": "https://www.kan.org.il/content/kan-news/defense/live-959200/liveid-959424/",
           "source": "כאן 11"
         },
         {
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.ynet.co.il/news/article/skcou11yplg",
           "source": "ynet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מתן צנגאוקר",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 12 Oct 2025 21:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuIc4vImoobJcqE0Z0GQrLin4cNeLKAW4aheL13GkGiYFIUTBMQjxHh1tyyD4",
+      "pictureSource": "ישראל היום",
+      "relatedSearch": [
+        {
+          "title": "מתן צנגאוקר - החקלאי שנחטף מניר עוז יחד עם בת זוגו",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/news/geopolitics/article/19013981",
+          "source": "ישראל היום"
+        },
+        {
+          "title": "אילנה גריצווסקי:\"אני אמורה להיות חזקה כדי לעזור למתן, אבל מה אם אשבר?\"",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/laisha/article/bykeoko2xx",
+          "source": "ynet"
+        },
+        {
+          "title": "N12 - \"הגיע הזמן שאחבק את הילד שלי – ולא את החפצים שלו\":...",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-military/be11d799e08b8910/Article-a9f072f5d5bb991026.htm",
+          "source": "mako"
         }
       ],
       "link": "https://imtaqin.id/"
