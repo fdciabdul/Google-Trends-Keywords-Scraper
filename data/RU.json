@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-13 04:22:32",
+  "lastUpdate": "2025-10-13 04:35:14",
   "data": [
+    {
+      "title": "е1 новости",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 12 Oct 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoM0vUxUXaQjUBymZjq6mXvyzCY90lPdWWZkSsJmlwpS5KG3HRSp7SegpJW9E",
+      "pictureSource": "Е1.ру",
+      "relatedSearch": [
+        {
+          "title": "Из-за нового «Кастора» в Екатеринбурге встало трамвайное движение - 13 октября 2025 | Е1.ру",
+          "snippet": "",
+          "url": "https://www.e1.ru/text/incidents/2025/10/13/76071463/",
+          "source": "Е1.ру"
+        },
+        {
+          "title": "Трамваи встали в центре Екатеринбурга",
+          "snippet": "",
+          "url": "https://eanews.ru/ekaterinburg/20251013075231/tramvai-vstali-v-tsentre-ekaterinburga",
+          "source": "Европейско-Азиатские Новости"
+        },
+        {
+          "title": "На Свердловскую область обрушатся снегопады и ледяной дождь - 13 октября 2025 | Е1.ру",
+          "snippet": "",
+          "url": "https://www.e1.ru/text/autumn/2025/10/13/76071420/",
+          "source": "Е1.ру"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "500+",
@@ -33,15 +61,9 @@
       "title": "зима",
       "trafficCount": "2000+",
       "pubDate": "Sun, 12 Oct 2025 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbbKAr_luvlKFzAUTyCk9rVuiA3mQKZsp_xAI2qswGEhW2pY0BdTQPeCQMVoI",
-      "pictureSource": "ТНВ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkXh6hXsL328Rm8VKv-_q88WJAMR18mX1Ct-RA40A82d8qrcBFtm-w7-UFJDc",
+      "pictureSource": "Кубанские новости",
       "relatedSearch": [
-        {
-          "title": "Синоптики оценили прогноз Миллера об аномально морозной зиме по всей России",
-          "snippet": "",
-          "url": "https://tnv.ru/news/pogoda/491315-sinoptiki-otsenili-prognoz-millera-ob-anomalno-moroznoy-zime-po-vsey-rf/",
-          "source": "ТНВ"
-        },
         {
           "title": "«Это не прогноз, а климатическая статистика»: синоптик Тишковец опроверг информацию об аномально холодной зиме",
           "snippet": "",
@@ -53,6 +75,12 @@
           "snippet": "",
           "url": "https://m.business-gazeta.ru/news/685015",
           "source": "БИЗНЕС Online — Новости Казани"
+        },
+        {
+          "title": "Готовьте унты: рязанцам предрекли аномальную зиму",
+          "snippet": "",
+          "url": "https://62info.ru/news/obshchestvo/141659-gotovte-unty-ryazantsam-predrekli-anomalnuyu-zimu/",
+          "source": "62ИНФО"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,26 +210,26 @@
       "title": "новости томск",
       "trafficCount": "200+",
       "pubDate": "Sun, 12 Oct 2025 18:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlZ5sW2sSVqyMHOcJHercALj9uqmR2U_8FiG_E6SRWSI0tsirWSOizeEWMxv8",
-      "pictureSource": "vtomske.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZXGrtbH8Bkh7jyRAk8u1qbrttB01A0ALGoh_DxC3d-rjjwz0c8AwxuD_En5U",
+      "pictureSource": "Tomsk.ru",
       "relatedSearch": [
         {
-          "title": "Часть домов Октябрьского района Томска останется без холодной воды на сутки",
+          "title": "Четыре исторических дома в Томске выставлены на торги по рублю",
           "snippet": "",
-          "url": "https://vtomske.ru/news/211806-chast-domov-oktyabrskogo-raiona-tomska-ostanetsya-bez-holodnoi-vody-na-sutki",
-          "source": "vtomske.ru"
-        },
-        {
-          "title": "Более 400 домов останутся без воды в Томске — будет подвоз",
-          "snippet": "",
-          "url": "https://www.tomsk.ru/news/view/bolee-400-domov-ostanutsya-bez-vody-v-tomske-budet-podvoz",
+          "url": "https://www.tomsk.ru/news/view/chetyre-istoricheskih-doma-v-tomske-vystavleny-na-torgi-po-rublyu",
           "source": "Tomsk.ru"
         },
         {
-          "title": "Более 400 домов на томских \"Шариках\" на сутки останутся без воды",
+          "title": "Мэрия Томска требует от тульской фирмы заняться \"домами за рубль\"",
           "snippet": "",
-          "url": "https://www.riatomsk.ru/article/20251013/vodosnabzhenie-tomsk",
+          "url": "https://www.riatomsk.ru/article/20251012/doma-za-rubl-tomsk",
           "source": "РИА Томск"
+        },
+        {
+          "title": "Мэрия заключила контракт на восстановление двух домов в центре Томска",
+          "snippet": "",
+          "url": "https://vtomske.ru/news/211890-meriya-zaklyuchila-kontrakt-na-vosstanovlenie-dvuh-domov-v-centre-tomska",
+          "source": "vtomske.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,15 +238,9 @@
       "title": "воронеж громкий звук",
       "trafficCount": "5000+",
       "pubDate": "Sun, 12 Oct 2025 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCrbPBmPuNnoRaXVhlPqPZcBySpBNyLgE1zGlEzEtRxwTANtGYcpeyoxxnpA8",
-      "pictureSource": "Воронежские новости",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjZHDpZj7-N2_OuqXA1N1b6LhrkuwCb9weTPR9ccB73Qptr4q8_k523RQXnI",
+      "pictureSource": "Обозреватель.Врн",
       "relatedSearch": [
-        {
-          "title": "Громкий звук, похожий на взрыв, услышали жители всех районов Воронежа",
-          "snippet": "",
-          "url": "https://voronezhnews.ru/fn_1737476.html",
-          "source": "Воронежские новости"
-        },
         {
           "title": "Громкие взрывы напугали жителей Воронежа",
           "snippet": "",
@@ -226,38 +248,16 @@
           "source": "Обозреватель.Врн"
         },
         {
-          "title": "Звук взрыва, напугавший воронежцев, записали камеры наблюдения",
+          "title": "Громкий звук, похожий на взрыв, услышали жители всех районов Воронежа",
           "snippet": "",
-          "url": "https://tv-gubernia.ru/novosti/proisshestviya/zvuk-vzryva-napugavshij-voronezhczev-zapisali-kamery-nablyudeniya/",
-          "source": "TV Губерния"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "комета 3i атлас",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 12 Oct 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk3djAuS4TWh_T-jnA0pyA8mprT_VXUeXSl7rDCvkKZTMGfea_H81aHQUtGmk",
-      "pictureSource": "Наука Mail",
-      "relatedSearch": [
-        {
-          "title": "DM: еще один ученый пришел к выводу, что к Земле летит не комета, а НЛО",
-          "snippet": "",
-          "url": "https://science.mail.ru/news/37620-dm-esche-odin-uchenyij-prishel-k-vyivodu-chto-k-zemle/",
-          "source": "Наука Mail"
+          "url": "https://voronezhnews.ru/fn_1737476.html",
+          "source": "Воронежские новости"
         },
         {
-          "title": "Комета страха: что на самом деле летит к нам из другой звёздной системы",
+          "title": "Мощный хлопок и смертельное ДТП. Главные новости Воронежа и области за воскресенье, 12 октября",
           "snippet": "",
-          "url": "https://www.pravda.ru/news/science/2290618-chto-na-samom-dele-letit-k-nam-iz-drugoi-zvezdnoi-sistemy/",
-          "source": "Правда.Ру"
-        },
-        {
-          "title": "3I/ATLAS — «троянский конь» Вселенной? Комета скоро может раскрыть свое происхождение",
-          "snippet": "",
-          "url": "https://newizv.ru/news/2025-10-11/3i-atlas-troyanskiy-kon-vselennoy-kometa-skoro-mozhet-raskryt-svoe-proishozhdenie-438036",
-          "source": "Новые Известия"
+          "url": "https://moe-online.ru/news/society/1239031",
+          "source": "МОЁ! Online. Все новости Воронежа"
         }
       ],
       "link": "https://imtaqin.id/"
