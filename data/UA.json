@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-15 18:58:02",
+  "lastUpdate": "2025-10-15 19:07:12",
   "data": [
     {
       "title": "твіч",
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "графік відключення світла",
-      "trafficCount": "20000+",
-      "pubDate": "Wed, 15 Oct 2025 08:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk5lMfsX95lq1m6pB8yeMrEMg4B89yVLU9VI5iiVGhZGhs-cab67VYn5-npp4",
-      "pictureSource": "УНІАН",
-      "relatedSearch": [
-        {
-          "title": "По всій Україні запроваджено екстрені відключення світла",
-          "snippet": "",
-          "url": "https://www.unian.ua/economics/energetics/u-kiyevi-ta-kilkoh-oblastyah-ukrajini-zaprovadzheno-ekstreni-vidklyuchennya-svitla-13163991.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "У небі над Дніпропетровщиною збили шість ворожих БПЛА",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-ato/4047752-u-nebi-nad-dnipropetrovsinou-zbili-sist-vorozih-bpla.html",
-          "source": "Укрінформ"
-        },
-        {
-          "title": "У Вінницькій області запровадили графіки аварійних відключень електроенергії: що відомо",
-          "snippet": "",
-          "url": "https://suspilne.media/vinnytsia/1139974-u-vinnickij-oblasti-zaprovadili-grafiki-avarijnih-vidklucen-elektroenergii-so-vidomo/",
-          "source": "Суспільне | Новини"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "волиньобленерго",
       "trafficCount": "2000+",
       "pubDate": "Wed, 15 Oct 2025 08:20:00 -0700",
@@ -227,11 +199,17 @@
     },
     {
       "title": "львівобленерго",
-      "trafficCount": "20000+",
+      "trafficCount": "50000+",
       "pubDate": "Wed, 15 Oct 2025 08:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdcQE1GMoyQzL4NF4-IxO5-iD-M_Fhmh-ULPUQsafItkPPkd-XE3cPY5hn-70",
-      "pictureSource": "Суспільне | Новини",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREDrxewhY1y5HXrymMiQnfPSNwp1qwrmpFMWkt9CUDlluNCVi8te2QO4V9kDI",
+      "pictureSource": "ТСН",
       "relatedSearch": [
+        {
+          "title": "Екстрені відключення світла — по всій Україні, крім двох областей",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/ekstrenni-vidkliuchennia-svitla-po-vsiy-ukrayini-krim-dvokh-oblastey-2935220.html",
+          "source": "ТСН"
+        },
         {
           "title": "На Львівщині ввели графіки аварійного відключення електроенергії: що відомо",
           "snippet": "",
@@ -239,16 +217,38 @@
           "source": "Суспільне | Новини"
         },
         {
-          "title": "Аварійні графіки відключень електроенергії ввели у Львові та області- ZAXID.NET",
+          "title": "У небі над Дніпропетровщиною збили шість ворожих БПЛА",
           "snippet": "",
-          "url": "https://zaxid.net/u_lvovi_ta_oblasti_vveli_avariyni_grafiki_vidklyuchen_elektroenergiyi_n1621400",
-          "source": "Zaxid.net"
+          "url": "https://www.ukrinform.ua/rubric-ato/4047752-u-nebi-nad-dnipropetrovsinou-zbili-sist-vorozih-bpla.html",
+          "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "чому немає світла",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 15 Oct 2025 08:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_-KyNBcG9Nye65IRhzZ55da4KzbRsuWmszsBvSbhFDnbf75Jq-yOVJnUYbZ4",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "У Львові готують \"пункти незламності\" до можливих відключень: яка ситуація у місті",
+          "snippet": "",
+          "url": "https://suspilne.media/lviv/1139700-u-lvovi-gotuut-punkti-nezlamnosti-do-mozlivih-vidklucen-aka-situacia-u-misti/",
+          "source": "Суспільне | Новини"
         },
         {
-          "title": "Відключення світла на Львівщині, захворюваність на рак молочної залози, виставки жовтня: головні новини дня",
+          "title": "У Львові та області запровадили аварійні відключення світла",
           "snippet": "",
-          "url": "https://dyvys.info/2025/10/15/vidklyuchennya-svitla-na-lvivshhyni-zahvoryuvanist-na-rak-molochnoyi-zalozy-vystavky-zhovtnya-golovni-novyny-dnya/",
-          "source": "Дивись.info"
+          "url": "https://portal.lviv.ua/news/2025/10/15/u-lvovi-ta-oblasti-zaprovadyly-avarijni-vidkliuchennia-svitla",
+          "source": "Львівський портал"
+        },
+        {
+          "title": "Увага! У Львові та області сьогодні введенні дві черги графіків аварійних відключень електроенергії",
+          "snippet": "",
+          "url": "https://varta1.com.ua/news/uvaha-u-lvovi-ta-oblasti-syohodni-vvedenni-dvi-cherhy-hrafikiv-avariynykh-vidkliuchen-elektroenerhiyi_401109.html",
+          "source": "Варта 1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,10 +267,10 @@
           "source": "БелТА"
         },
         {
-          "title": "Туристку из Беларуси похитили и продали на органы в Мьянме, – СМИ",
+          "title": "В Мьянме исчезла белоруска. СМИ пишут, что убили и продали на органы участницу шоу \"Голос\"",
           "snippet": "",
-          "url": "https://ukranews.com/news/1111370-v-myanme-belorusku-prodali-za-organy",
-          "source": "Українські Новини"
+          "url": "https://gordonua.com/news/worldnews/v-mjanme-ischezla-beloruska-smi-pishut-chto-ubili-i-prodali-na-orhany-uchastnitsu-shou-holos-1759822.html",
+          "source": "Гордон"
         },
         {
           "title": "Что известно о 26‑летней белоруске Вере, которую продали на органы в Мьянму",
