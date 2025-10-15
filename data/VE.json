@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-15 12:15:45",
+  "lastUpdate": "2025-10-15 12:31:57",
   "data": [
     {
       "title": "weather",
@@ -59,7 +59,7 @@
     },
     {
       "title": "inameh",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 15 Oct 2025 02:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEdg1wz4INQMN5GB5EO2rtT--_qbKx_7HGYTPvKPmijNT2AUjbiNpBquASDPE",
       "pictureSource": "Globovisión",
@@ -89,9 +89,28 @@
       "title": "noticias",
       "trafficCount": "200+",
       "pubDate": "Wed, 15 Oct 2025 01:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKq11cpkghhL7n29Irf1nxbn3ugqmedACA4-TzyLunicdghdKgs3xqvhlQUh8",
+      "pictureSource": "eldiario.com",
+      "relatedSearch": [
+        {
+          "title": "TeExplicamos | Cómo se acordó la tregua en Gaza y qué condiciones incluye el plan de paz",
+          "snippet": "",
+          "url": "https://eldiario.com/2025/10/13/como-se-acordo-tregua-en-gaza/",
+          "source": "eldiario.com"
+        },
+        {
+          "title": "Israel-Gaza live updates: Hostages release expected Sunday or Monday, official says",
+          "snippet": "",
+          "url": "https://vive.click/actualizaciones-en-vivo-entre-israel-y-gaza-se-espera-la-liberacion-de-rehenes-el-domingo-o-lunes-dice-un-funcionario/",
+          "source": "Vive Click"
+        },
+        {
+          "title": "¿En qué consiste la primera fase del plan de paz entre Israel y Hamás?",
+          "snippet": "",
+          "url": "https://eldiario.com/2025/10/09/en-que-consiste-la-primera-fase-del-plan-de-paz-entre-israel-y-hamas/",
+          "source": "eldiario.com"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
