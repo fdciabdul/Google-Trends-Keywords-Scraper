@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-16 04:11:06",
+  "lastUpdate": "2025-10-16 04:24:07",
   "data": [
     {
       "title": "новини україни",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 15 Oct 2025 20:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYaNXUE6OBegF9MBUPUnzMXq54FtguvFqTSnxLKR-Lo67nKwduu1QVFxva5Z8",
       "pictureSource": "Суспільне | Новини",
@@ -15,16 +15,44 @@
           "source": "Суспільне | Новини"
         },
         {
-          "title": "Трамп налаштований завершити війну в Україні: на що чекати від зустрічі з Зеленським",
+          "title": "Єрмак зустрівся з Рубіо: обговорили підготовку переговорів Трампа і Зеленського",
           "snippet": "",
-          "url": "https://tsn.ua/politika/tramp-nalashtovanyy-zavershyty-viynu-v-ukrayini-shcho-chekaty-vid-zustrichi-z-zelenskym-2935313.html",
+          "url": "https://tsn.ua/politika/yermak-zustrivsia-z-rubio-obhovoryly-pidhotovku-perehovoriv-trampa-i-zelenskoho-2935400.html",
           "source": "ТСН"
         },
         {
-          "title": "Такі речі, як «петріоти» й «томагавки», здатні закласти довготривалий фундамент миру – звернення Президента",
+          "title": "Зеленський провів Ставку: Україна має можливості масштабувати «дипстрайки»",
           "snippet": "",
-          "url": "https://www.president.gov.ua/news/taki-rechi-yak-petrioti-j-tomagavki-zdatni-zaklasti-dovgotri-100825",
-          "source": "Офіційне інтернет-представництво Президента України"
+          "url": "https://www.ukrinform.ua/rubric-ato/4047742-zelenskij-proviv-stavku-ukraina-mae-mozlivosti-masstabuvati-dipstrajki.html",
+          "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новини полтавщини",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 15 Oct 2025 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihzK902Y-tFLLyfxXX5bY-QQc78TTpZG-y8Ux_ImllgGuPc8RRPvr61jxRmE",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Росія атакує Україну ракетами: вибухи пролунали в Харкові, Кропивницькому, Ізюмі та Полтаві",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/10/16/8002940/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Що відомо про російську атаку на Полтавщину зранку 16 жовтня (оновлюється)",
+          "snippet": "",
+          "url": "https://poltavawave.com.ua/p/shho-vidomo-pro-rosijsku-ataku-na-poltavshhynu-zranku-16-zhovtnya-onovlyuyetsya",
+          "source": "Полтавська Хвиля"
+        },
+        {
+          "title": "Вдруге за ранок - масштабна повітряна тривога по всій Україні через ракетну небезпеку",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-ato/4047810-vdruge-za-ranok-masstabna-povitrana-trivoga-po-vsij-ukraini-cerez-raketnu-nebezpeku.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,90 +109,6 @@
           "snippet": "",
           "url": "https://glavny.tv/svo/vozle-bryanskoy-granitsy-vs-rf-unichtozhili-zamaskirovannye-pozitsii-vsu/",
           "source": "Главный Региональный"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "полтава",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 15 Oct 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVGerZIqh8msd3RRICz-gCb7UPUkTeV64gso6IcWdZzN8vcZNkV7BdFwLQHmk",
-      "pictureSource": "Полтавська Хвиля",
-      "relatedSearch": [
-        {
-          "title": "Що відомо про російську атаку на Полтавщину зранку 16 жовтня (оновлюється)",
-          "snippet": "",
-          "url": "https://poltavawave.com.ua/p/shho-vidomo-pro-rosijsku-ataku-na-poltavshhynu-zranku-16-zhovtnya-onovlyuyetsya",
-          "source": "Полтавська Хвиля"
-        },
-        {
-          "title": "Росія готує потужний удар по Україні найближчим часом: Жданов попередив і назвав дату",
-          "snippet": "",
-          "url": "https://tsn.ua/exclusive/rosiia-hotuye-potuznyy-udar-po-ukrayini-nayblyzchym-chasom-zdanov-poperedyv-i-nazvav-datu-2931743.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "РФ обрала 3 міста і готова завдати масованого удару: названо дату",
-          "snippet": "",
-          "url": "https://glavred.net/horoscope/rf-vybrala-3-goroda-i-gotova-nanesti-massirovannyy-udar-nazvana-data-10706366.html",
-          "source": "Главред"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кременчук",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 15 Oct 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7cnkA5mOlAYeFkspNucAxsUE8cMEUPjWGmtBBsKnLQUbLEcKMzR3uXHE_vPU",
-      "pictureSource": "Кременчуцька газета",
-      "relatedSearch": [
-        {
-          "title": "Кременчук на екваторі - таке трапляється раз в рік і не варто проґавити",
-          "snippet": "",
-          "url": "https://kg.ua/news/foto/kremenchuk-na-ekvatori-take-traplyaietsya-raz-v-rik-i-ne-varto-progaviti",
-          "source": "Кременчуцька газета"
-        },
-        {
-          "title": "Стало відомо, скільки справ про СЗЧ і дезертирство відкрито за час повномасштабної війни",
-          "snippet": "",
-          "url": "https://donpatriot.news/stalo-vidomo-skilky-sprav-pro-szch-i-dezertyrstvo-vidkryto-za-chas-povnomasshtabnoyi-vijny",
-          "source": "Патріот Донбасу"
-        },
-        {
-          "title": "Десятки тисяч справ про СЗЧ: нардеп сказав, чому статистика зросла вчетверо",
-          "snippet": "",
-          "url": "https://tsn.ua/ukrayina/desiatky-tysiach-sprav-pro-szch-nardep-skazav-chomu-statystyka-zrosla-vchetvero-2935316.html",
-          "source": "ТСН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кропивницький",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 15 Oct 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjLIXjZG-tDUkfmdPXDSBh8tlC6PRiXbaIkKIoJdXC7KUKJMO8sPFLyIbT6Ig",
-      "pictureSource": "Суспільне | Новини",
-      "relatedSearch": [
-        {
-          "title": "З керівниці кропивницького управління освіти стягнули 97 тисяч гривень за звільнення директорки училища",
-          "snippet": "",
-          "url": "https://suspilne.media/kropyvnytskiy/1139468-z-kerivnici-kropivnickogo-upravlinna-osviti-stagnuli-97-tisac-griven-za-zvilnenna-direktorki-ucilisa/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "Начальниця управління освіти Кропивницької міськради відшкодує майже 100 тис. грн громаді",
-          "snippet": "",
-          "url": "https://cbn.com.ua/news/nachalnitsya-upravlinnya-osviti-kropivnitskoi-miskradi-vidshkodue-majzhe-100-tis-grn-gromadi",
-          "source": "Центральноукраїнське бюро новин (CBN)"
-        },
-        {
-          "title": "У Кропивницькому Ларису Костенко зобов’язали відшкодувати майже 100 тисяч гривень: що каже посадовиця",
-          "snippet": "",
-          "url": "https://dostyp.com.ua/novini/nachalnicyu-upravlinnya-osviti-kropivnickoyi-miskoyi-radi-zobovyazali-vidshkoduvati-majzhe-100-tis-grn-poziciya-posadovici/",
-          "source": "Точка Доступу"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,13 +201,19 @@
       "title": "павлоград",
       "trafficCount": "1000+",
       "pubDate": "Wed, 15 Oct 2025 19:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZgZ5xBp8dBDwnUnv2ksk8jJmEKj3Wlcl6l94tB3LC1rEteCyghhlly5b5tY8",
-      "pictureSource": "Суспільне | Новини",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX9XGcnpSBIXMcPSGl0Jnx_di5imwokzoivDKo3vUnyKJdG1Pov0KsCuS7WkA",
+      "pictureSource": "Офіс Генерального прокурора",
       "relatedSearch": [
         {
-          "title": "Армія РФ 15 жовтня поцілила по Нікопольщині, Павлограду та Шахтарському: які наслідки атак",
+          "title": "Масована атака ворога безпілотниками на енергетичну інфраструктуру Дніпропетровщини — розпочато кримінальні провадження",
           "snippet": "",
-          "url": "https://suspilne.media/dnipro/1139954-armia-rf-15-zovtna-pocilila-po-nikopolsini-pavlogradu-ta-sahtarskomu-aki-naslidki-atak/",
+          "url": "https://gp.gov.ua/ua/posts/masovana-ataka-voroga-bezpilotnikami-na-energeticnu-infrastrukturu-dnipropetrovshhini-rozpocato-kriminalni-provadzennya",
+          "source": "Офіс Генерального прокурора"
+        },
+        {
+          "title": "РФ атакувала енергетику Дніпропетровщини: як мешканці Павлограда та Кам’янського пережили ніч та яка ситуація зі світлом",
+          "snippet": "",
+          "url": "https://suspilne.media/dnipro/1139508-rf-atakuvala-energetiku-dnipropetrovsini-ak-meskanci-pavlograda-ta-kamanskogo-perezili-nic-ta-aka-situacia-zi-svitlom/",
           "source": "Суспільне | Новини"
         },
         {
@@ -271,12 +221,62 @@
           "snippet": "",
           "url": "https://www.ukrinform.ua/rubric-regions/4047396-rf-atakuvala-dnipropetrovsinu-dronami-ta-gradami-postrazdav-19ricnij-hlopec.html",
           "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chatgpt",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 15 Oct 2025 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCgcnR1Nb6ccmucS64QAB4gkWR65YJFudB90x6Vd4UYbD8xs7SNYIvRGZ1mks",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Sam Altman says OpenAI isn't 'moral police of the world' after erotica ChatGPT post blows up",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/10/15/altman-open-ai-moral-police-erotica-chatgpt.html",
+          "source": "CNBC"
         },
         {
-          "title": "Росіяни атакували Дніпропетровщину дронами та артилерією",
+          "title": "OpenAI CEO Sam Altman says ChatGPT will soon allow 'erotica' for adult users",
           "snippet": "",
-          "url": "https://lb.ua/society/2025/10/15/701761_rosiyani_atakuvali_dnipropetrovshchinu.html",
-          "source": "LB.ua"
+          "url": "https://www.usatoday.com/story/tech/2025/10/15/openai-chatgpt-erotica-sam-altman/86716163007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Mark Cuban warns that OpenAI’s new plan to allow adults-only erotica in ChatGPT could ‘backfire. Hard’",
+          "snippet": "",
+          "url": "https://fortune.com/2025/10/15/mark-cuban-openai-erotica-plan-backfire-sam-altman-chat-gpt/",
+          "source": "Fortune"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ютуб не работает",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 15 Oct 2025 16:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUCsu00VqL8m-RQNMtfd6zgVLQDtR_din595gQAarYImE0w0kDHvHUYJtI5iY",
+      "pictureSource": "РБК-Україна",
+      "relatedSearch": [
+        {
+          "title": "Глобальный сбой YouTube: что происходит с популярным видеохостингом",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/globalniy-zbiy-youtube-shcho-vidbuvaetsya-1760575914.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "В работе видеохостинга YouTube произошел масштабный сбой",
+          "snippet": "",
+          "url": "https://techno.nv.ua/it-industry/youtube-v-rabote-servisa-i-prilozheniy-proizoshel-masshtabnyy-sboy-50552932.html",
+          "source": "NV Техно"
+        },
+        {
+          "title": "Красноярцы жалуются, что у них совсем перестал работать YouTube",
+          "snippet": "",
+          "url": "https://prmira.ru/news/2025-10-15/krasnoyartsy-zhaluyutsya-chto-u-nih-sovsem-perestal-rabotat-youtube-5491300",
+          "source": "Проспект Мира"
         }
       ],
       "link": "https://imtaqin.id/"
