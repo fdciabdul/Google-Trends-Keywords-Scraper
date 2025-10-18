@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2025-10-18 04:46:36",
+  "lastUpdate": "2025-10-18 04:53:25",
   "data": [
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Fri, 17 Oct 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_BX3DBkAbG9jDsujyMEC5nG-i_EweyfpXEI1GH9fLDSLfml4syJr_Lnd7qug",
-      "pictureSource": "Wellington Weekly News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkTEA7iMZf4sVO0SKw8bU6rSIw4Fv7QoSwWLKGcOUIqIXuPWZs2xaGoQi9PL0",
+      "pictureSource": "Abergavenny Chronicle",
       "relatedSearch": [
-        {
-          "title": "Partly cloudy: Light drizzle later, moderate rain tomorrow",
-          "snippet": "",
-          "url": "https://www.wellington-today.co.uk/weather-forecasts/patchy-rain-today-and-moderate-rain-tomorrow-843029",
-          "source": "Wellington Weekly News"
-        },
-        {
-          "title": "Weather update: Partly cloudy today, drizzle tomorrow",
-          "snippet": "",
-          "url": "https://www.petersfieldpost.co.uk/weather-forecasts/partly-cloudy-saturday-with-mild-breezes-and-light-drizzle-early-843025",
-          "source": "Petersfield Post"
-        },
         {
           "title": "Overcast morning, cloudy afternoon: Rain forecast tomorrow",
           "snippet": "",
           "url": "https://www.abergavennychronicle.com/weather-forecasts/patchy-rain-today-and-moderate-showers-tomorrow-843019",
           "source": "Abergavenny Chronicle"
+        },
+        {
+          "title": "Sunny morning, patchy rain: Partly cloudy tomorrow",
+          "snippet": "",
+          "url": "https://www.liphookherald.com/weather-forecasts/misty-start-clearing-to-sunny-skies-with-a-chance-of-rain-842570",
+          "source": "Liphook Herald"
+        },
+        {
+          "title": "Partly cloudy today: Possible light rain tomorrow",
+          "snippet": "",
+          "url": "https://www.cambrian-news.co.uk/weather-forecasts/patchy-rain-today-turning-moderate-tomorrow-843018",
+          "source": "Cambrian News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "цензор",
       "trafficCount": "200+",
       "pubDate": "Fri, 17 Oct 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kItZGT9YIdMYxte7YUYmS53Xtd6aRP8za2kn2WLCiRyf5y2MhVC6HJuPHFg",
-      "pictureSource": "УНІАН",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRb8A_kb67K7FD9uI7H15hNGDonsu7JJz7UF8GjGBgLgRSrVCp5pdfhBuAbUhc",
+      "pictureSource": "Радіо Свобода",
       "relatedSearch": [
+        {
+          "title": "Томагавки, переговори з Путіним, території України. Підсумки зустрічі Трампа й Зеленського",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/video-zelenskyy-tramp-zustrich/33562968.html",
+          "source": "Радіо Свобода"
+        },
         {
           "title": "\"Чутливе питання\": Зеленський зізнався, що буде найскладнішим на переговорах з Росією",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://tsn.ua/politika/zelenskyy-pislia-zustrichi-z-trampom-my-mayemo-zupynytysia-tam-de-ye-zaraz-a-dali-hovoryty-pro-kroky-do-myru-2937128.html",
           "source": "ТСН"
-        },
-        {
-          "title": "Зеленський: для перемовин спочатку необхідно отримати перемир’я, а з питанням територій буде складно",
-          "snippet": "",
-          "url": "https://www.radiosvoboda.org/a/news-zelenskyy-tramp-pytannya-terytoriy/33562960.html",
-          "source": "Радіо Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,9 +99,9 @@
           "source": "ТСН"
         },
         {
-          "title": "Євро сягнув психологічної позначки: свіжий курс валют в обмінниках і банках",
+          "title": "Курс валют 18 жовтня: скільки коштує в Україні купити долар і євро сьогодні",
           "snippet": "",
-          "url": "https://www.unian.ua/economics/finance/kurs-dolara-v-ukrajini-banki-i-obminniki-rizko-zminili-kurs-valyut-17-zhovtnya-13165644.html",
+          "url": "https://www.unian.ua/economics/finance/kurs-dolara-v-ukrajini-yakiy-kurs-dolara-v-bankah-ukrajini-sogodni-13166613.html",
           "source": "УНІАН"
         },
         {
@@ -183,9 +183,9 @@
           "source": "Champion.com.ua"
         },
         {
-          "title": "Норрис лидирует в единственной тренировке",
+          "title": "Ферстаппен выиграл квалификацию к спринту",
           "snippet": "",
-          "url": "https://www.f1news.ru/Championship/2025/usa/friday-free.shtml",
+          "url": "https://www.f1news.ru/Championship/2025/usa/qual_sprint.shtml",
           "source": "F1News"
         },
         {
@@ -193,6 +193,34 @@
           "snippet": "",
           "url": "https://ua.tribuna.com/automoto/1000000287877-hranpri-ssha2025-kvalifikatsiya-do-spryntu-pochatok-o-00/",
           "source": "Tribuna.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода миколаїв",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 17 Oct 2025 18:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQStuChAIGZXZJuoXWKhwQbQencst3jRVGeAWnaJUlSwLzp3faUctesh7fgaCw",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "На Миколаївщині дощитиме: прогноз погоди у вихідні",
+          "snippet": "",
+          "url": "https://suspilne.media/mykolaiv/1141822-na-mikolaivsini-dositime-prognoz-pogodi-u-vihidni/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Мінливе «бабине літо»: на Миколаївщині до кінця тижня очікуються теплі дощі",
+          "snippet": "",
+          "url": "https://nikvesti.com/articles/310104-minlive-babine-lito-na-mykolaivschini-do-kintsya-tyzhnia-ochikuyutsya-tepli-doshchi",
+          "source": "НикВести"
+        },
+        {
+          "title": "Очікуються заморозки на поверхні ґрунту: погода у Нікополі 15 жовтня",
+          "snippet": "",
+          "url": "https://nikopol.nikopolnews.net/lite/nature/mariana-pohoda-u-nikopoli-15-zhovtnia/",
+          "source": "NikopolNews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +245,10 @@
           "source": "The Verge"
         },
         {
-          "title": "Facebook's latest AI feature can scan your phone's camera roll",
+          "title": "Facebook's New Feature Can Scan Your Camera Roll to Tell You What to Post",
           "snippet": "",
-          "url": "https://www.engadget.com/ai/facebooks-latest-ai-feature-can-scan-your-phones-camera-roll-200056906.html",
-          "source": "Engadget"
+          "url": "https://www.cnet.com/news/social-media/facebooks-new-feature-can-scan-your-camera-roll-to-tell-you-what-to-post/",
+          "source": "CNET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://onefootball.com/fr/news/boca-missing-key-player-for-belgrano-clash-41814549",
           "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "f1",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 17 Oct 2025 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXeBWrdVMeC4XVSkGZihx0-yCLyDMo5gqJMrVTiJtCNUcIILSEIZDLImhwmpA",
-      "pictureSource": "Formula 1",
-      "relatedSearch": [
-        {
-          "title": "Verstappen beats Norris to Sprint pole in Austin",
-          "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/verstappen-beats-norris-and-piastri-to-pole-during-thrilling-sprint.2k4RbPhpuYVB21GcJx7Eb5",
-          "source": "Formula 1"
-        },
-        {
-          "title": "‘No surprise for us to be slower than Red Bull lately’ says Norris after missing pole",
-          "snippet": "",
-          "url": "https://www.racefans.net/2025/10/18/no-surprise-for-us-to-be-slower-than-red-bull-lately-says-norris-after-missing-pole/",
-          "source": "RaceFans"
-        },
-        {
-          "title": "Norris's McLaren 'consequences' may have cost him Austin sprint pole",
-          "snippet": "",
-          "url": "https://www.the-race.com/formula-1/mclaren-consequences-may-have-cost-lando-norris-pole/",
-          "source": "The Race"
         }
       ],
       "link": "https://imtaqin.id/"
