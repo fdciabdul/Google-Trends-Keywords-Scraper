@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-10-18 03:49:43",
+  "lastUpdate": "2025-10-18 03:56:36",
   "data": [
-    {
-      "title": "укрнет новини",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 17 Oct 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kItZGT9YIdMYxte7YUYmS53Xtd6aRP8za2kn2WLCiRyf5y2MhVC6HJuPHFg",
-      "pictureSource": "УНІАН",
-      "relatedSearch": [
-        {
-          "title": "\"Чутливе питання\": Зеленський зізнався, що буде найскладнішим на переговорах з Росією",
-          "snippet": "",
-          "url": "https://www.unian.ua/world/peregovori-z-rf-zelenskiy-zayaviv-shcho-ritannya-teritoriji-bude-nayskladnishim-13166583.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Зеленський після спілкування з Трампом: Ця розмова може реально наблизити завершення війни (фото)",
-          "snippet": "",
-          "url": "https://tsn.ua/politika/zelenskyy-pislia-spilkuvannia-z-trampom-tsia-rozmova-moze-realno-nablyzyty-zavershennia-viyny-2937170.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Європейські лідери прокоментували переговори у США",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/ukraine/4824956-yevropeiski-lidery-prokomentuvaly-perehovory-u-ssha",
-          "source": "Korrespondent.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "курс євро",
       "trafficCount": "100+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.ukrinform.ua/rubric-economy/4048285-dolar-podesevsav-na-13-kopijok-evro-na-odnu-kursi-valut-na-17-zovtna.html",
           "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "укрнет новини",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 17 Oct 2025 20:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kItZGT9YIdMYxte7YUYmS53Xtd6aRP8za2kn2WLCiRyf5y2MhVC6HJuPHFg",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "\"Чутливе питання\": Зеленський зізнався, що буде найскладнішим на переговорах з Росією",
+          "snippet": "",
+          "url": "https://www.unian.ua/world/peregovori-z-rf-zelenskiy-zayaviv-shcho-ritannya-teritoriji-bude-nayskladnishim-13166583.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Зеленський після спілкування з Трампом: Ця розмова може реально наблизити завершення війни (фото)",
+          "snippet": "",
+          "url": "https://tsn.ua/politika/zelenskyy-pislia-spilkuvannia-z-trampom-tsia-rozmova-moze-realno-nablyzyty-zavershennia-viyny-2937170.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Зеленський: для перемовин спочатку необхідно отримати перемир’я, а з питанням територій буде складно",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/news-zelenskyy-tramp-pytannya-terytoriy/33562960.html",
+          "source": "Радіо Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "The Verge"
         },
         {
-          "title": "Facebook's latest AI feature can scan your phone's camera roll",
+          "title": "Facebook's New Feature Can Scan Your Camera Roll to Tell You What to Post",
           "snippet": "",
-          "url": "https://www.engadget.com/ai/facebooks-latest-ai-feature-can-scan-your-phones-camera-roll-200056906.html",
-          "source": "Engadget"
+          "url": "https://www.cnet.com/news/social-media/facebooks-new-feature-can-scan-your-camera-roll-to-tell-you-what-to-post/",
+          "source": "CNET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +227,7 @@
     },
     {
       "title": "зеленский",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 17 Oct 2025 13:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjPSkrUMHHl3-iJLtpcPiWynmuLBlDMnCJQCiEqqike3mgSduNwMbR2ULKqLo",
       "pictureSource": "Українська правда",
@@ -239,16 +239,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "В Белом доме состоялась встреча Зеленского и Трампа. Президент Украины заявил, что Киев готов предложить Вашингтону дроны в обмен на «Томагавки»",
+          "snippet": "",
+          "url": "https://meduza.io/news/2025/10/17/v-belom-dome-nachalas-vstrecha-zelenskogo-i-trampa-prezident-ukrainy-zayavil-chto-kiev-gotov-predlozhit-vashingtonu-drony-v-obmen-na-tomagavki",
+          "source": "Meduza"
+        },
+        {
           "title": "Зеленский приехал к Трампу с картами",
           "snippet": "",
           "url": "https://www.eurointegration.com.ua/rus/news/2025/10/17/7222776/",
           "source": "Європейська правда"
-        },
-        {
-          "title": "\"Томагавки\", Путин и путь к миру. О чем говорили Зеленский и Трамп в Белом доме",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/tomagavki-putin-ta-shlyah-miru-shcho-govorili-1760728184.html",
-          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,16 +267,16 @@
           "source": "Суспільне | Новини"
         },
         {
+          "title": "Помилка Забарного вартувала ПСЖ перемоги",
+          "snippet": "",
+          "url": "https://sport.novyny.live/pomilka-zabarnogo-vartuvala-pszh-peremogi-288271.html",
+          "source": "Новини Live"
+        },
+        {
           "title": "ПСЖ – Страсбург. Прогноз і анонс на матч чемпіонату Франції",
           "snippet": "",
           "url": "https://sport.ua/uk/news/807224-pszh-strasburg-prognoz-i-anons-na-match-chempionatu-frantsii",
           "source": "Sport.ua"
-        },
-        {
-          "title": "ПСЖ не переграв Страсбур у Лізі 1: відома оцінка Забарного, ще одна втрата очок",
-          "snippet": "",
-          "url": "https://zbirna.com/post/pszh-ne-peregrav-strasbur-u-lizi-1-vidoma-ocinka-zabarnogo-she-odna-vtrata-ochok",
-          "source": "Команда №1"
         }
       ],
       "link": "https://imtaqin.id/"
