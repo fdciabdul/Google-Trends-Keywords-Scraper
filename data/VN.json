@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-10-18 08:08:10",
+  "lastUpdate": "2025-10-18 08:20:08",
   "data": [
     {
-      "title": "on live tv",
+      "title": "on live",
       "trafficCount": "100+",
+      "pubDate": "Sat, 18 Oct 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfU4zG-dxcCCdIQJr-9iCrYXncOTB7ooUUcNqapdVf8mye47oSeXpx2VAm-mY",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Military Plans to Fire Artillery Over California Freeway on Saturday",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/18/us/artillery-interstate-5-marines.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Newsom rips into Trump plan to fire missiles over California’s I-5 freeway",
+          "snippet": "",
+          "url": "https://www.sfchronicle.com/california/article/newsom-rips-trump-plan-fire-missiles-i-5-freeway-21103248.php",
+          "source": "San Francisco Chronicle"
+        },
+        {
+          "title": "Vance, Hegseth to join Marines 250th birthday celebration at Camp Pendleton",
+          "snippet": "",
+          "url": "https://www.nbcsandiego.com/news/local/marines-showcase-amphibious-capabilities-for-marine-corps-250th-birthday/3916634/",
+          "source": "NBC 7 San Diego"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "on live tv",
+      "trafficCount": "200+",
       "pubDate": "Sat, 18 Oct 2025 00:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJUM0lFmfaQPUr9oejcWQMTqIcmz1Gmz-CP7vwfUfnatJ4Xam8o-CKBsRAlhk",
       "pictureSource": "Politico",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "thời tiết không khí lạnh miền bắc",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 17 Oct 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATpX500GHMUzS-t6kUpofQr5i8qBcyhsffoldLMK9uK2E-YTMJ55tjNfDnuE",
-      "pictureSource": "Laodong.vn",
-      "relatedSearch": [
-        {
-          "title": "Thời tiết Hà Nội thay đổi đột ngột khi không khí lạnh về",
-          "snippet": "",
-          "url": "https://laodong.vn/du-lich/cong-dong/thoi-tiet-ha-noi-thay-doi-dot-ngot-khi-khong-khi-lanh-ve-1593894.html",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Miền Trung sắp có mưa lớn diện rộng, không khí lạnh sẽ ảnh hưởng miền Bắc",
-          "snippet": "",
-          "url": "https://dantri.com.vn/thoi-su/mien-trung-sap-co-mua-lon-dien-rong-khong-khi-lanh-se-anh-huong-mien-bac-20251017220650848.htm",
-          "source": "Báo Dân trí"
-        },
-        {
-          "title": "Miền Bắc sắp đón không khí lạnh",
-          "snippet": "",
-          "url": "https://vnexpress.net/mien-bac-sap-don-khong-khi-lanh-4952751.html",
-          "source": "VnExpress"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "lịch cktg 2025",
       "trafficCount": "2000+",
       "pubDate": "Fri, 17 Oct 2025 22:50:00 -0700",
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://baonghean.vn/lich-thi-dau-cktg-lien-minh-huyen-thoai-2025-ngay-16-10-2025-10308281.html",
           "source": "baonghean.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "thời tiết không khí lạnh miền bắc",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 17 Oct 2025 22:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATpX500GHMUzS-t6kUpofQr5i8qBcyhsffoldLMK9uK2E-YTMJ55tjNfDnuE",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Thời tiết Hà Nội thay đổi đột ngột khi không khí lạnh về",
+          "snippet": "",
+          "url": "https://laodong.vn/du-lich/cong-dong/thoi-tiet-ha-noi-thay-doi-dot-ngot-khi-khong-khi-lanh-ve-1593894.html",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Miền Trung sắp có mưa lớn diện rộng, không khí lạnh sẽ ảnh hưởng miền Bắc",
+          "snippet": "",
+          "url": "https://dantri.com.vn/thoi-su/mien-trung-sap-co-mua-lon-dien-rong-khong-khi-lanh-se-anh-huong-mien-bac-20251017220650848.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Không khí lạnh đầu mùa sắp tràn về, thời tiết Hà Nội có gì đặc biệt?",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/khong-khi-lanh-dau-mua-sap-tran-ve-thoi-tiet-ha-noi-co-gi-dac-biet-2453529.html",
+          "source": "Báo VietNamNet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,16 @@
           "source": "Tuoi Tre News | The News Gateway to Vietnam"
         },
         {
-          "title": "Mexico looks for missing people and rushes to help after torrential rains killed at least 47",
+          "title": "Devastating Floods in Mexico Test President Claudia Sheinbaum",
           "snippet": "",
-          "url": "https://apnews.com/article/mexico-rain-president-sheinbaum-hidalgo-puebla-veracruz-e1cfd6acf28e38bf442d7eb14ada64ee",
-          "source": "AP News"
+          "url": "https://www.nytimes.com/2025/10/17/world/americas/mexico-floods-missing.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Aftermath of floods due to torrential rains in Alamo",
+          "title": "Landslides in Mexico, Uruguay euthanasia law and more top photos this week from Latin America",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/aftermath-of-floods-due-to-torrential-rains-in-alamo/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlFESEE3QlZESg",
-          "source": "Reuters Connect"
+          "url": "https://apnews.com/photo-gallery/top-ap-photos-this-week-latin-america-caribbean-70081d3b3eecb7e9a3cf95791fb87bcb",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://kenh14.vn/yoona-snsd-khoi-hanh-den-tphcm-tuoi-35-xinh-choang-vang-215251017164110039.chn",
           "source": "Kenh14.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "adriana lima",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 17 Oct 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk19ETq6SyLT2NrilPetBhkUzoRTzuz1GwlOWLs8Wz0yusj_s3MUQerEt5-MU",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Angel Reese becomes first pro athlete to star in Victoria’s Secret Fashion Show",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/16/style/angel-reese-victorias-secret-fashion-show",
-          "source": "CNN"
-        },
-        {
-          "title": "Victoria's Secret Fashion Show 2025: Models on Runway",
-          "snippet": "",
-          "url": "https://www.eonline.com/photos/37930/victorias-secret-fashion-show-2025-models-on-runway",
-          "source": "E! Online"
-        },
-        {
-          "title": "Why Kendall Jenner Didn’t Walk in the 2025 Victoria’s Secret Fashion Show",
-          "snippet": "",
-          "url": "https://www.elle.com/culture/celebrities/a69049760/why-kendall-jenner-did-not-walk-in-victorias-secret-fashion-show-2025/",
-          "source": "ELLE"
         }
       ],
       "link": "https://imtaqin.id/"
