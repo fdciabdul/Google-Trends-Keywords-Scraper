@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-10-19 07:22:26",
+  "lastUpdate": "2025-10-19 07:29:13",
   "data": [
     {
       "title": "19 октомври празник",
       "trafficCount": "100+",
       "pubDate": "Sat, 18 Oct 2025 23:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREjSXKFr7DgvalTJYR1OHguCy56zuoQkwDGHEJwQXJZrZ6sBds36pE_aLiJMk",
-      "pictureSource": "bTV Новините",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCgva-9-jDUNzJes1N1w0Jvq3aJYprA-jlPMHPfvvupEscj8a8zagntNC1aD4",
+      "pictureSource": "offnews.bg",
       "relatedSearch": [
-        {
-          "title": "На 19 октомври почитаме най-известния български светец, покровител на лекарите и миньорите",
-          "snippet": "",
-          "url": "https://btvnovinite.bg/bulgaria/na-19-oktomvri-pochitame-naj-izvestnija-balgarski-svetec-pokrovitel-na-lekarite-i-minyorite.html",
-          "source": "bTV Новините"
-        },
         {
           "title": "Българите почитат покровителя си Свети Йоан Рилски Чудотворец",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.dnes.bg/a/1-bulgaria/696772-otbelyazvame-denya-na-balgarskiya-lekar",
           "source": "Dnes.bg"
+        },
+        {
+          "title": "Патриархът отива в родното място на Рилския светец",
+          "snippet": "",
+          "url": "https://www.focus-news.net/novini/regioni/Patriarhut-otiva-v-rodnoto-myasto-na-Rilskiya-svetec-2750866",
+          "source": "ФОКУС"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "андрей райчев",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 18 Oct 2025 22:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmNd4K82rGt0Ib0DnIAS6AnIozaTVP13_jeqrNgbdQLM-pz7kG98CnBTkn7U4",
-      "pictureSource": "News.bg",
-      "relatedSearch": [
-        {
-          "title": "Андрей Райчев: Борисов готви капанче",
-          "snippet": "",
-          "url": "https://news.bg/politics/andrey-raychev-borisov-gotvi-kapanche.html",
-          "source": "News.bg"
-        },
-        {
-          "title": "Политолог: Искането на Борисов за сваляне на Киселова е, за да се изключи възможност за премиер от обкръжението на Радев",
-          "snippet": "",
-          "url": "https://www.focus-news.net/novini/Bylgaria/Politolog-Iskaneto-na-Borisov-za-svalyane-na-Kiselova-e-za-da-se-izklyuchi-vuzmozhnost-za-premier-ot-obkruzhenieto-na-Radev-2750578",
-          "source": "ФОКУС"
-        },
-        {
-          "title": "Социолог: Борисов говори терапевтично пред партията. Ще трябва да избира между Радев и Пеевски",
-          "snippet": "",
-          "url": "https://www.mediapool.bg/sotsiolog-borisov-govori-terapevtichno-pred-partiyata-shte-tryabva-da-izbira-mezhdu-radev-i-peevski-news376368.html",
-          "source": "Mediapool.bg"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "19 октомври",
       "trafficCount": "200+",
       "pubDate": "Sat, 18 Oct 2025 22:20:00 -0700",
@@ -114,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "първан симеонов",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 18 Oct 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmNd4K82rGt0Ib0DnIAS6AnIozaTVP13_jeqrNgbdQLM-pz7kG98CnBTkn7U4",
+      "pictureSource": "News.bg",
+      "relatedSearch": [
+        {
+          "title": "Андрей Райчев: Борисов готви капанче",
+          "snippet": "",
+          "url": "https://news.bg/politics/andrey-raychev-borisov-gotvi-kapanche.html",
+          "source": "News.bg"
+        },
+        {
+          "title": "Политолог: Искането на Борисов за сваляне на Киселова е, за да се изключи възможност за премиер от обкръжението на Радев",
+          "snippet": "",
+          "url": "https://www.focus-news.net/novini/Bylgaria/Politolog-Iskaneto-na-Borisov-za-svalyane-na-Kiselova-e-za-da-se-izklyuchi-vuzmozhnost-za-premier-ot-obkruzhenieto-na-Radev-2750578",
+          "source": "ФОКУС"
+        },
+        {
+          "title": "Социолог: Борисов говори терапевтично пред партията. Ще трябва да избира между Радев и Пеевски",
+          "snippet": "",
+          "url": "https://www.mediapool.bg/sotsiolog-borisov-govori-terapevtichno-pred-partiyata-shte-tryabva-da-izbira-mezhdu-radev-i-peevski-news376368.html",
+          "source": "Mediapool.bg"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "формула 1",
       "trafficCount": "100+",
       "pubDate": "Sat, 18 Oct 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS94slJn_u9j-4IhHkk-oaRi8LhF7LHZUbmtYtMyjt-I1ipFYqBzslP40oGr4I",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5HwDWylHmnhlLTvTDqCeQrfMYjYaVlhLRqbC9U6gkcMFpLg7zmMkOFMZetHU",
       "pictureSource": "F1News",
       "relatedSearch": [
         {
-          "title": "Гран При США: Стартовое поле",
+          "title": "Гран При США: Ферстаппен стартует с поула",
           "snippet": "",
-          "url": "https://www.f1news.ru/Championship/2025/usa/grid.shtml",
+          "url": "https://www.f1news.ru/Championship/2025/usa/qual.shtml",
           "source": "F1News"
-        },
-        {
-          "title": "Ферстаппен выиграл квалификацию спринта в США, Феррари снова провалилась",
-          "snippet": "",
-          "url": "https://champion.com.ua/rus/autosport/Formala-one/gran-pri-ssha-ferstappen-vyigral-kvalifikaciyu-sprinta-hyulkenberg-chetvertyy-1053271/",
-          "source": "Champion.com.ua"
         },
         {
           "title": "Ферстаппен стал победителем квалификации Гран‑при США, Норрис второй, Пиастри — шестой",
           "snippet": "",
           "url": "https://news.sportbox.ru/Vidy_sporta/Avtosport/Formula_1/spbnews_NI2256666_Ferstappen_stal_pobeditelem_kvalifikacii_Granpri_SShA_Norris_vtoroj_Piastri__shestoj",
           "source": "Sportbox"
+        },
+        {
+          "title": "Ферстаппен выиграл квалификацию спринта в США, Феррари снова провалилась",
+          "snippet": "",
+          "url": "https://champion.com.ua/rus/autosport/Formala-one/gran-pri-ssha-ferstappen-vyigral-kvalifikaciyu-sprinta-hyulkenberg-chetvertyy-1053271/",
+          "source": "Champion.com.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +145,26 @@
       "title": "факти бг",
       "trafficCount": "100+",
       "pubDate": "Sat, 18 Oct 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLCLGA08k47IeeJn-Hn7VZ-1ZK2C7wkJM_F_L755BdZcxl3YVFv3BAp43Gqk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQCGZI090ox2lwQ1_AtRvmlKlU-NeRe5kmaoUzn3DiWQzWWQLTN6uka_w0ZWY",
       "pictureSource": "Fakti.bg",
       "relatedSearch": [
         {
-          "title": "Медведев посочи къде се тестват новите руски оръжейни системи ᐉ Новини от Fakti.bg - Свят",
+          "title": "Наказват служителя, глобил студента с детските фигури на опасни пешеходни пътеки",
           "snippet": "",
-          "url": "https://fakti.bg/world/1008215-medvedev-posochi-kade-se-testvat-novite-ruski-orajeini-sistemi",
+          "url": "https://fakti.bg/bulgaria/1008275-nakazvat-slujitela-globil-studenta-s-detskite-figuri-na-opasni-peshehodni-pateki",
           "source": "Fakti.bg"
         },
         {
-          "title": "ISW: Русия не иска мир, а капитулацията на Киев",
+          "title": "Младежът, поставил фигури на деца до опасна пешеходна пътека, е глобен",
           "snippet": "",
-          "url": "https://news.bg/int-politics/isw-rusiya-ne-iska-mir-a-kapitulatsiyata-na-kiev.html",
-          "source": "News.bg"
+          "url": "https://www.dnevnik.bg/bulgaria/2025/10/17/4841937_mladejut_postavil_figuri_na_deca_do_opasna_peshehodna/",
+          "source": "Dnevnik"
         },
         {
-          "title": "Медведев: Това съвсем не е краят на въоръжаването на Киев с нови оръжия",
+          "title": "Глоба за Андрей, който постави макети на деца на опасни пешеходни пътеки в София",
           "snippet": "",
-          "url": "https://novini.bg/article/2025101817365469771",
-          "source": "Novini.bg"
+          "url": "https://btvnovinite.bg/bulgaria/globa-za-andrej-kojto-postavi-maketi-na-deca-na-opasni-peshehodni-pateki-v-sofija.html",
+          "source": "bTV Новините"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,9 +245,9 @@
           "source": "www.24chasa.bg"
         },
         {
-          "title": "Втора трагедия в сърцето на град в Югозапада!",
+          "title": "Трагедия в Югозапада!",
           "snippet": "",
-          "url": "https://toppresa.com/397066/%D0%B2%D1%82%D0%BE%D1%80%D0%B0-%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%8F-%D0%B2-%D1%81%D1%8A%D1%80%D1%86%D0%B5%D1%82%D0%BE-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D0%B4-%D0%B2-%D1%8E%D0%B3%D0%BE%D0%B7",
+          "url": "https://toppresa.com/397059/%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%8F-%D0%B2-%D1%8E%D0%B3%D0%BE%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%B0-7",
           "source": "ТопПреса"
         }
       ],
