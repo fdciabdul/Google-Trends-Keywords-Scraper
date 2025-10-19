@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-19 10:00:05",
+  "lastUpdate": "2025-10-19 10:09:15",
   "data": [
     {
       "title": "katia mosally",
@@ -117,15 +117,9 @@
       "title": "ronen engel",
       "trafficCount": "100+",
       "pubDate": "Sat, 18 Oct 2025 23:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTRP4Z4w0hvIi6hJhWYDSTZxvcrcaitUNXqjvKgTCWwZt2fUR7MZAZrmiC3l4",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnEjkH6XL6p4K5eTh-43OrqKT2QNN9Z5BCCoAnCmVvHEuBirUNyvwVNOSd1Y",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "US plays down claims Hamas is violating ceasefire deal over hostage remains",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c3w9py9940go",
-          "source": "BBC"
-        },
         {
           "title": "Israel identifies body of 11th hostage from Gaza amid ceasefire tensions",
           "snippet": "",
@@ -137,13 +131,19 @@
           "snippet": "",
           "url": "https://www.haaretz.com/israel-news/2025-10-19/ty-article-live/israel-receives-two-coffins-of-deceased-hostages-to-be-identified-overnight/00000199-fa2e-d3e1-adfd-fe3fbf4a0000",
           "source": "Haaretz"
+        },
+        {
+          "title": "Ronen Engel identified as one of the bodies returned overnight by Hamas",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/liveblog_entry/ronen-engel-identified-as-one-of-the-dead-hostages-returned-by-hamas/",
+          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "hammarby aik",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 18 Oct 2025 23:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxlHE_n1Ng2uzMOs8YiPy24NwVtmkgsci5ZGddGcWZ4J9vALz4tE7IO_wH_cA",
       "pictureSource": "Aftonbladet",
@@ -210,9 +210,15 @@
       "title": "ukraina",
       "trafficCount": "200+",
       "pubDate": "Sat, 18 Oct 2025 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBmP7pMsuKfLd-X1-mSkFNqC7GApW142xP7kj2OrA9YdPJmPucdi18ipZbiaA",
-      "pictureSource": "NPR",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pxQQnJ-WJ2ayYQSVh_QNOUwJd7Bz9D-XJcpQIXUu84vfBRF2SKR4H48_5Po",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Trump meeting brings good news for Zelensky, but Kyiv’s real prize remains out of reach – for now",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/17/europe/us-ukraine-russia-tomahawk-analysis-intl-hnk",
+          "source": "CNN"
+        },
         {
           "title": "After Zelenskyy meeting, Trump calls on Ukraine and Russia to 'stop where they are' and end the war",
           "snippet": "",
@@ -224,12 +230,6 @@
           "snippet": "",
           "url": "https://www.axios.com/2025/10/17/trump-zelensky-tomahawk-missiles-white-house",
           "source": "Axios"
-        },
-        {
-          "title": "Opinion | Trump’s misunderstood Tomahawk diplomacy",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/opinions/2025/10/17/trump-zelensky-tomahawks-putin-budapest-summit/",
-          "source": "The Washington Post"
         }
       ],
       "link": "https://imtaqin.id/"
