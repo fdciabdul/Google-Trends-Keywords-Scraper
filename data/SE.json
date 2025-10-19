@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-10-19 11:26:48",
+  "lastUpdate": "2025-10-19 11:33:56",
   "data": [
     {
+      "title": "louvre",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Oct 2025 04:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaXVslCIrXGMrPPKrnfQ-OPp6xX2x3tTITXteYD5P8RMJ_-GYS8Ielyl-2tRY",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Thieves steal jewels of 'incalculable' value in seven-minute heist at Louvre museum in Paris",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c62lnennzgdt",
+          "source": "BBC"
+        },
+        {
+          "title": "Louvre closed after robbery, French culture minister says",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/oct/19/louvre-closed-after-robbery-french-culture-minister-says",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Louvre Museum in Paris closed for day following robbery of ‘priceless jewelry’",
+          "snippet": "",
+          "url": "https://edition.cnn.com/2025/10/19/travel/robbery-louvre-paris-france-museum-closure-intl",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "hammarby mot aik",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 19 Oct 2025 04:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxlHE_n1Ng2uzMOs8YiPy24NwVtmkgsci5ZGddGcWZ4J9vALz4tE7IO_wH_cA",
       "pictureSource": "Aftonbladet",
@@ -15,23 +43,23 @@
           "source": "Aftonbladet"
         },
         {
-          "title": "Publikinformation: Derbyt mot AIK",
-          "snippet": "",
-          "url": "https://www.hammarbyfotboll.se/nyheter/publikinformation-derbyt-mot-aik",
-          "source": "Hammarby Fotboll"
-        },
-        {
           "title": "JUST NU: Elvorna i Stockholmsderbyt",
           "snippet": "",
           "url": "https://www.fotbollskanalen.se/allsvenskan/just-nu-elvorna-i-stockholmsderbyt/",
           "source": "Fotbollskanalen"
+        },
+        {
+          "title": "Publikinformation: Derbyt mot AIK",
+          "snippet": "",
+          "url": "https://www.hammarbyfotboll.se/nyheter/publikinformation-derbyt-mot-aik",
+          "source": "Hammarby Fotboll"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "gais mot djurgården",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 19 Oct 2025 04:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCj4EnXp7-2Z7ffPHP3OMjLIljc5b7YUywLZWqjq414fsxevcorIg2bWk5uCI",
       "pictureSource": "Djurgården Fotboll",
@@ -43,9 +71,9 @@
           "source": "Djurgården Fotboll"
         },
         {
-          "title": "Djurgården måste inte vinna - men får inte förlora: \"Det är mentaliteten\"",
+          "title": "JUST NU: Så startar Gais och Djurgården",
           "snippet": "",
-          "url": "https://www.fotbollskanalen.se/allsvenskan/djurgarden-maste-inte-vinna-men-far-inte-forlora-det-ar-mentaliteten/",
+          "url": "https://www.fotbollskanalen.se/allsvenskan/just-nu-sa-startar-gais-och-djurgarden-1/",
           "source": "Fotbollskanalen"
         },
         {
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://fotbolldirekt.se/allsvenskan/just-nu-gais-mot-djurgarden-har-ar-elvorna/",
           "source": "FotbollDirekt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "napoleon",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 19 Oct 2025 03:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaXVslCIrXGMrPPKrnfQ-OPp6xX2x3tTITXteYD5P8RMJ_-GYS8Ielyl-2tRY",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Thieves steal jewels of 'incalculable' value in seven-minute heist at Louvre museum in Paris",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c62lnennzgdt",
-          "source": "BBC"
-        },
-        {
-          "title": "Louvre in Paris closed for day following robbery as museum opened",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/19/travel/robbery-louvre-paris-france-museum-closure-intl",
-          "source": "CNN"
-        },
-        {
-          "title": "Thieves steal 'priceless' jewels from Paris' Louvre and flee on motorbikes",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/europe/thieves-steal-jewels-louvre-paris-media-reports-2025-10-19/",
-          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "BBC"
         },
         {
-          "title": "Twelfth deceased hostage identified after 2 returned to Israel overnight, kibbutz says",
+          "title": "Israel identifies body of 11th hostage from Gaza amid ceasefire tensions",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/10/18/middleeast/hamas-gaza-israeli-hostage-latam-intl",
-          "source": "CNN"
+          "url": "https://www.theguardian.com/world/2025/oct/19/israel-identifies-body-of-11th-hostage-from-gaza-amid-ceasefire-tensions",
+          "source": "The Guardian"
         },
         {
-          "title": "Updates: Israel receives two more captives’ bodies from Gaza",
+          "title": "Ronen Engel identified as one of the bodies returned overnight by Hamas",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/18/live-israel-kills-28-in-gaza-since-ceasefire-hamas-urges-accountability",
-          "source": "Al Jazeera"
+          "url": "https://www.timesofisrael.com/liveblog_entry/ronen-engel-identified-as-one-of-the-dead-hostages-returned-by-hamas/",
+          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
