@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2025-10-20 09:13:49",
+  "lastUpdate": "2025-10-20 09:25:38",
   "data": [
+    {
+      "title": "mtc",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 20 Oct 2025 02:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSFAPJknudQ_LQEjAiLkAdRFikesiftIUUTiCJHntrOM1UUwVwGYvFMoa4F7A",
+      "pictureSource": "Gestión",
+      "relatedSearch": [
+        {
+          "title": "Motociclistas rechazan uso de chaleco con distintivo: “Es más fácil de falsificar”",
+          "snippet": "",
+          "url": "https://gestion.pe/peru/politica/motociclistas-rechazan-uso-de-chaleco-con-distintivo-es-mas-facil-de-falsificar-noticia/",
+          "source": "Gestión"
+        },
+        {
+          "title": "MTC informa que desde noviembre se aplicarán las sanciones a motociclistas por no usar chaleco y casco",
+          "snippet": "",
+          "url": "https://rpp.pe/politica/gobierno/en-noviembre-se-aplicaran-sanciones-a-motociclistas-por-no-usar-chaleco-y-casco-noticia-1659936",
+          "source": "RPP"
+        },
+        {
+          "title": "Sancionarán a motociclistas que no usen chaleco y casco: Distritos y multas",
+          "snippet": "",
+          "url": "https://peru21.pe/peru/mtc-sancionara-motociclistas-que-no-usen-chaleco-y-casco-obligatorio/",
+          "source": "Perú 21"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "amazon",
       "trafficCount": "200+",
       "pubDate": "Mon, 20 Oct 2025 01:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_-fz8ks-g_O1M3lQvwOCQDezPixx3EMDZvA1u4Etf8Bs1T-biJlA_C-iUZxc",
+      "pictureSource": "The Independent",
       "relatedSearch": [
-        {
-          "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
-          "source": "BBC"
-        },
         {
           "title": "Amazon internet outage breaks dozens of major apps, websites and banks: Latest",
           "snippet": "",
@@ -21,10 +43,60 @@
           "source": "The Independent"
         },
         {
+          "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
+          "source": "BBC"
+        },
+        {
           "title": "Websites Including Amazon, Coinbase and Roblox Report Outages After AWS Disruption",
           "snippet": "",
           "url": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
           "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hbo",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 20 Oct 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9HqHPbZyrMIkDA1K8ai2LmEhW79C_Pr2KD8PSJ830CLybT_Om7sQVZ-ojwdk",
+      "pictureSource": "El Comercio Perú",
+      "relatedSearch": [
+        {
+          "title": "Weapons en HBO Max: fecha de estreno confirmada de la película La hora de la desaparición en streaming | MAG",
+          "snippet": "",
+          "url": "https://elcomercio.pe/mag/fama/que-ver/weapons-en-hbo-max-fecha-de-estreno-confirmada-de-la-pelicula-la-hora-de-la-desaparicion-en-streaming-nndaml-noticia/",
+          "source": "El Comercio Perú"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hbo max",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 20 Oct 2025 01:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJSw-v1Zl0Ik1BMXgHwQiiT3PHpul7Nh_zsAB5obufCI6cawJ1MlC-dNA0vU",
+      "pictureSource": "UCV Radio",
+      "relatedSearch": [
+        {
+          "title": "¿Amazon caído? Los usuarios informan problemas con Prime Video, Alexa y otros",
+          "snippet": "",
+          "url": "https://www.ucvradio.pe/noticias-del-mundo/amazon-caido-los-usuarios-informan-problemas-con-prime-video-alexa-y-otros/25810/",
+          "source": "UCV Radio"
+        },
+        {
+          "title": "AWS caído: una interrupción importante afecta a los servicios web de Amazon; Las plataformas afectadas incluyen Snapchat, Perplexity, Canva y Coinbase.",
+          "snippet": "",
+          "url": "https://www.elpueblo.pe/ciencia-y-tecnologia/aws-caido-una-interrupcion-importante-afecta-a-los-servicios-web-de-amazon-las-plataformas-afectadas-incluyen-snapchat-perplexity-canva-y-coinbase/84703/",
+          "source": "elpueblo.pe"
+        },
+        {
+          "title": "¿PUBG caído para varios usuarios? La plataforma de juegos reacciona cuando la interrupción de AWS afecta a múltiples aplicaciones",
+          "snippet": "",
+          "url": "https://www.ucvradio.pe/noticias-del-mundo/pubg-caido-para-varios-usuarios-la-plataforma-de-juegos-reacciona-cuando-la-interrupcion-de-aws-afecta-a-multiples-aplicaciones/25828/",
+          "source": "UCV Radio"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +227,16 @@
           "source": "El Comercio Perú"
         },
         {
+          "title": "Dina, Jerí, la izquierda y los Z",
+          "snippet": "",
+          "url": "https://reinadelaselva.pe/dina-jeri-la-izquierda-y-los-z/",
+          "source": "Reina de la Selva"
+        },
+        {
           "title": "Congresista Milagros Jáuregui señala a Ruth Luque, Susel Paredes y Flor Pablo: “Tienen una agenda desestabilizadora”",
           "snippet": "",
           "url": "https://www.expreso.com.pe/politica/congresista-milagros-jauregui-senala-a-ruth-luque-susel-paredes-y-flor-pablo-tienen-una-agenda-desestabilizadora-generacion-z-noticia/1230623/",
           "source": "Expreso"
-        },
-        {
-          "title": "Dina, Jerí, la izquierda y los Z",
-          "snippet": "",
-          "url": "https://peru21.pe/opinion/dina-jeri-la-izquierda-y-los-z/",
-          "source": "Perú 21"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,94 +261,10 @@
           "source": "espn.com.pe"
         },
         {
-          "title": "Tabla de posiciones de Liga 1 2025 EN VIVO: acumulado y resultados de la fecha 15 del Clausura",
+          "title": "Tabla de posiciones de Liga 1 EN VIVO: así va el Clausura y Acumulado",
           "snippet": "",
-          "url": "https://depor.com/futbol-peruano/descentralizado/tabla-de-posiciones-liga-1-peru-2025-en-vivo-resultados-de-la-fecha-15-torneo-clausura-universitario-de-deportes-cusco-fc-sporting-cristal-alianza-lima-noticia/",
-          "source": "Depor"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "goiás - chapecoense",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 19 Oct 2025 17:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRSg1vg-5L_KjBBe1sgARYCrse6RIeQcw1iAfGVDgYnnc9T8S_Q0Lg13yV0uo",
-      "pictureSource": "No Ataque",
-      "relatedSearch": [
-        {
-          "title": "Time que liderou a Série B por 16 rodadas despenca para 6º lugar",
-          "snippet": "",
-          "url": "https://noataque.com.br/futebol/brasileirao-serie-b/time/goias/noticia/2025/10/19/time-que-liderou-a-serie-b-por-16-rodadas-despenca-para-6o-lugar/",
-          "source": "No Ataque"
-        },
-        {
-          "title": "Chapecoense vence Goiás e assume vice-liderança da Série B - Diário do Iguaçu - Portal de Notícias de Chapecó e Região",
-          "snippet": "",
-          "url": "https://diregional.com.br/diario-do-iguacu/esporte/chapecoense/2025-10-19-chapecoense-vence-goias-e-assume-vice-lideranca-da-serie-b",
-          "source": "Diário do Iguaçu"
-        },
-        {
-          "title": "Carille levanta a cabeça após derrota na estreia pelo Goiás: 'Acredito até o fim'",
-          "snippet": "",
-          "url": "https://ge.globo.com/go/futebol/times/goias/noticia/2025/10/19/carille-levanta-a-cabeca-apos-derrota-na-estreia-pelo-goias-acredito-ate-o-fim.ghtml",
-          "source": "GE"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "othmane maamma",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 19 Oct 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg4Pkd7BUQYU7KOZDDYLhgEz78WUU3V8aDti2BsGnEC98iRJJlhvCkUlNVCZw",
-      "pictureSource": "Africa Top Sports",
-      "relatedSearch": [
-        {
-          "title": "Coupe du monde U20/Mohamed Ouahbi (coach du Maroc) : « Peu de personnes pensaient qu’on allait gagner »",
-          "snippet": "",
-          "url": "https://www.africatopsports.com/2025/10/20/coupe-du-monde-u20-mohamed-ouahbi-coach-du-maroc-peu-de-personnes-pensaient-quon-allait-gagner/",
-          "source": "Africa Top Sports"
-        },
-        {
-          "title": "« Gardez la tête haute, les gars » : le message sincère de Lionel Messi à l'Argentine U20 après sa défaite en finale de la Coupe du monde",
-          "snippet": "",
-          "url": "https://tribuna.com/fr/blogs/gardez-la-tete-haute-les-gars-le-message-sincere-de-lionel-m/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Le Roi félicite la sélection nationale de football sacrée championne du monde U20",
-          "snippet": "",
-          "url": "https://fr.hespress.com/446079-le-roi-felicite-la-selection-nationale-de-football-sacree-championne-du-monde-u20.html",
-          "source": "Hespress Français - Actualités du Maroc"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rodrigo paz",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 19 Oct 2025 17:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtilML08m2fcW_SK5uDMzzI3jzgj1Lt1HwrvAvlp0KtiSLzNzNI26IDN30KJU",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Rodrigo Paz gana las elecciones de Bolivia y será el presidente del cambio tras casi 20 años de gobiernos de izquierda",
-          "snippet": "",
-          "url": "https://www.bbc.com/mundo/articles/czxnkklr3y6o",
-          "source": "BBC"
-        },
-        {
-          "title": "Rodrigo Paz, el presidente inesperado que promete “capitalismo para todos”",
-          "snippet": "",
-          "url": "https://elpais.com/america/2025-10-20/rodrigo-paz-el-presidente-inesperado-que-promete-capitalismo-para-todos.html",
-          "source": "EL PAÍS"
-        },
-        {
-          "title": "Mapa de resultados de las elecciones de Bolivia 2025: dónde ganan Quiroga y Paz",
-          "snippet": "",
-          "url": "https://cnnespanol.cnn.com/2025/10/19/latinoamerica/mapa-resultados-elecciones-bolivia-2025-orix",
-          "source": "CNN en Español"
+          "url": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-liga-1-2025-como-van-las-posiciones-del-torneo-clausura-y-acumulado-partidos-y-resultados-noticia/",
+          "source": "El Comercio Perú"
         }
       ],
       "link": "https://imtaqin.id/"

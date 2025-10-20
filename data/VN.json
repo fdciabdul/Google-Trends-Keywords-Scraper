@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-10-20 09:14:03",
+  "lastUpdate": "2025-10-20 09:25:52",
   "data": [
     {
       "title": "ánh viên",
       "trafficCount": "100+",
       "pubDate": "Mon, 20 Oct 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4OPj4i5sVSzEIPfqxShn-WBA9P7lzyvAa3a0GKK8A1kkcyoB_GK7iXmsEPiA",
-      "pictureSource": "Znews",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSgsObYolq4M2Wwm_l5dFn7cbokU3RgL15xguc95o9VbRRAoXnJMjRYSOj-bs",
+      "pictureSource": "Báo Thanh Niên",
       "relatedSearch": [
+        {
+          "title": "Cựu kình ngư Ánh Viên gây sốt với nhan sắc thăng hạng",
+          "snippet": "",
+          "url": "https://thanhnien.vn/cuu-kinh-ngu-anh-vien-gay-sot-voi-nhan-sac-thang-hang-185251020160330081.htm",
+          "source": "Báo Thanh Niên"
+        },
         {
           "title": "Ánh Viên 'lột xác'",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.24h.com.vn/lam-dep/anh-vien-khien-dan-mang-chu-y-vi-man-lot-xac-qua-doi-xin-xo-c145a1707309.html",
           "source": "Tin tức 24h"
-        },
-        {
-          "title": "Ánh Viên có ngày vượt mặt cả Midu thế này ư?",
-          "snippet": "",
-          "url": "https://cafef.vn/anh-vien-co-ngay-vuot-mat-ca-midu-the-nay-u-188251019095121571.chn",
-          "source": "CafeF"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "docker",
       "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR-12qh04V-XHU0hQxdHE6_uw7ku2e1hS4GyYPtj0HotKnQwxMFdeQPhAYsJA",
-      "pictureSource": "XDA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwtNYC28yulUG0eq-7JBYMVb2WnofNUJIhmdtMPpbfOAuSaDj75A_WhRAvPJI",
+      "pictureSource": "The New Stack",
       "relatedSearch": [
-        {
-          "title": "I replaced Docker Desktop with a new dashboard and I won’t go back",
-          "snippet": "",
-          "url": "https://www.xda-developers.com/hated-docker-until-found-this-dashboard-replacement/",
-          "source": "XDA"
-        },
         {
           "title": "Vert Is a File Format Converter You Can Quickly Deploy With Docker",
           "snippet": "",
@@ -55,15 +49,6 @@
           "source": "BleepingComputer"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "canva bị sập",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -152,7 +137,7 @@
     },
     {
       "title": "ho guom",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 20 Oct 2025 00:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk5zuiszsJTuX5_IdlbspaT91t4UrUv3EbTh-cuOUCb8rwNEaz0YccqmXvDz4",
       "pictureSource": "Laodong.vn",
@@ -179,29 +164,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "canva bị lỗi",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 20 Oct 2025 00:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVRRP1ANPvMgCvQcXTvuPwceIqsCB2HfDW8Zoe9kcmKX02UX8-nOLgacFJucg",
+      "pictureSource": "Investing.com Việt Nam",
+      "relatedSearch": [
+        {
+          "title": "Sự cố dịch vụ AWS của Amazon gây gián đoạn nhiều nền tảng",
+          "snippet": "",
+          "url": "https://vn.investing.com/news/stock-market-news/su-co-dich-vu-aws-cua-amazon-gay-gian-doan-nhieu-nen-tang-93CH-2447529",
+          "source": "Investing.com Việt Nam"
+        },
+        {
+          "title": "Canva bất ngờ \"bị sập\" nguyên nhân từ đâu và khi nào sẽ phục hồi?",
+          "snippet": "",
+          "url": "https://phongvu.vn/cong-nghe/canva-bat-ngo-bi-sap-nguyen-nhan-tu-dau/",
+          "source": "Phong Vũ"
+        },
+        {
+          "title": "Lý do không vào được Canva",
+          "snippet": "",
+          "url": "https://znews.vn/ly-do-khong-vao-duoc-canva-post1595430.html",
+          "source": "Znews"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ssi",
       "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XsEKjOp-GW96nhOGAev2koJJL1uvWyMRQRiAoWFJgiZYfZibIgUfTLN4CQ4",
-      "pictureSource": "The Economic Times",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgxIzluDv1yTw59RnuMCLXLmY79Vrg60qGUJ1P0i99h7YpkuRcJMIbcpfpRc",
+      "pictureSource": "USA Today",
       "relatedSearch": [
         {
-          "title": "Social security payment dates for October 2025 announced, millions of Americans to receive benefits, maxim",
+          "title": "Here's who gets Social Security payments this week on Oct. 22",
           "snippet": "",
-          "url": "https://m.economictimes.com/news/international/us/social-security-payment-dates-for-october-2025-announced-millions-of-americans-to-receive-benefits-maximum-eligible-benefits-reaching-5108-cola-2026-unclear/articleshow/124598519.cms",
-          "source": "The Economic Times"
+          "url": "https://www.usatoday.com/story/money/2025/10/20/social-security-payments-to-be-sent-oct-22-heres-who-gets-them/86754170007/",
+          "source": "USA Today"
         },
         {
-          "title": "Final $4,018 SSDI Payment Coming October 22 — See If You’re in the Last Group to Get Paid!",
+          "title": "Payment Update - Nearly $1,000 in New Deposits Confirmed, Next Group’s Payout Date Officially Announced",
           "snippet": "",
-          "url": "https://estoyenlafrontera.com/en/ssdi-october-2025-last-round-payments-up-to-4018/",
+          "url": "https://estoyenlafrontera.com/en/payment-update-nearly-1000-in-new-deposits/",
           "source": "Estoy en la Frontera"
         },
         {
-          "title": "Social Security rule means no checks will be paid out to Americans in November",
+          "title": "Will You Qualify for Social Security's Biggest Paycheck of $5,108?",
           "snippet": "",
-          "url": "https://www.the-sun.com/money/15369089/social-security-rule-americans/",
-          "source": "The US Sun"
+          "url": "https://www.sharewise.com/us/news_articles/Will_You_Qualify_for_Social_Securitys_Biggest_Paycheck_of_5108_TheMotleyFool_20251019_0222",
+          "source": "www.sharewise.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,16 +233,16 @@
           "source": "VnExpress"
         },
         {
+          "title": "Chứng khoán Việt Nam giảm mạnh nhất thế giới",
+          "snippet": "",
+          "url": "https://tienphong.vn/chung-khoan-viet-nam-giam-manh-nhat-the-gioi-post1788841.tpo",
+          "source": "Báo điện tử Tiền Phong"
+        },
+        {
           "title": "Buồn của chứng khoán Việt Nam: VN-Index giảm kỷ lục, VN30 lần đầu mất hơn trăm điểm trong một phiên",
           "snippet": "",
           "url": "https://cafef.vn/buon-cua-chung-khoan-viet-nam-vn-index-giam-ky-luc-vn30-lan-dau-mat-hon-tram-diem-trong-mot-phien-188251020151906292.chn",
           "source": "CafeF"
-        },
-        {
-          "title": "Thị trường chìm trong hoảng loạn, 1 phiên giảm bằng cả tháng tăng",
-          "snippet": "",
-          "url": "https://vneconomy.vn/thi-truong-chim-trong-hoang-loan-1-phien-giam-bang-ca-thang-tang.htm",
-          "source": "VnEconomy"
         }
       ],
       "link": "https://imtaqin.id/"

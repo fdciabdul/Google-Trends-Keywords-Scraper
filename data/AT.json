@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20 09:13:17",
+  "lastUpdate": "2025-10-20 09:25:07",
   "data": [
     {
       "title": "canva down",
@@ -33,14 +33,14 @@
       "title": "snapchat störung",
       "trafficCount": "1000+",
       "pubDate": "Mon, 20 Oct 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfl264YlaWKBdq1wiw6_sdA-cQXlyVP-b4LllX51w5lO5jxuLnzNNiDyC-5NQ",
-      "pictureSource": "heise online",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXySr7Cp7B-kCFIqE4gs2-j7OlNXV6nFVhefxveL_qKRhGcyXjso9SjzC8RQA",
+      "pictureSource": "ORF",
       "relatedSearch": [
         {
-          "title": "Amazon Web Services: Globale Störung",
+          "title": "Amazon meldet Cloud-Störung: Onlinedienste weltweit betroffen",
           "snippet": "",
-          "url": "https://www.heise.de/news/Amazon-Web-Services-Globale-Stoerung-10778963.html",
-          "source": "heise online"
+          "url": "https://orf.at/stories/3408992/",
+          "source": "ORF"
         },
         {
           "title": "Amazon, Snapchat, Fortnite: Massive Serverprobleme: Störungen legen zahlreiche Onlinedienste lahm",
@@ -49,10 +49,10 @@
           "source": "Kleine Zeitung"
         },
         {
-          "title": "Globaler Server-Ausfall bei AWS: Störungen bei zahlreichen Online-Diensten gemeldet",
+          "title": "Weltweiter Server-Ausfall: Massive Probleme bei Amazon und Co.",
           "snippet": "",
-          "url": "https://www.salzburg24.at/news/welt/globaler-server-ausfall-bei-aws-stoerungen-bei-zahlreichen-online-diensten-gemeldet-art-305796",
-          "source": "salzburg24"
+          "url": "https://kurier.at/wirtschaft/aws-amazon-down-snapchat-probleme-stoerung-zoom-fortnite/403094947",
+          "source": "Kurier"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,17 +87,11 @@
     },
     {
       "title": "canva",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 20 Oct 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_-fz8ks-g_O1M3lQvwOCQDezPixx3EMDZvA1u4Etf8Bs1T-biJlA_C-iUZxc",
-      "pictureSource": "The Independent",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Amazon internet outage breaks dozens of major apps, websites and banks: Latest",
-          "snippet": "",
-          "url": "https://www.the-independent.com/tech/aws-amazon-internet-outage-latest-updates-b2848345.html",
-          "source": "The Independent"
-        },
         {
           "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "BBC"
         },
         {
-          "title": "Websites Including Amazon, Coinbase and Roblox Report Outages After AWS Disruption",
+          "title": "Amazon internet outage breaks dozens of major apps, websites and banks: Latest",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
-          "source": "The New York Times"
+          "url": "https://www.the-independent.com/tech/aws-amazon-internet-outage-latest-updates-b2848345.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "AWS Suffers Service Disruption With Thousands Reporting Issues",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2025-10-20/aws-suffers-service-disruption-with-thousands-reporting-issues",
+          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "westautobahn",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 19 Oct 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPWEnoOnrkHr7JAZELk0-_oS6FUKdTOen-RiTr_Et4fW0-dQziC670R6jGaw",
+      "pictureSource": "ooe.ORF.at",
+      "relatedSearch": [
+        {
+          "title": "Irrfahrt auf A1: 86-Jähriger stürzte auf Fahrbahn",
+          "snippet": "",
+          "url": "https://ooe.orf.at/stories/3326431/",
+          "source": "ooe.ORF.at"
+        },
+        {
+          "title": "Abgängiger Pensionist (86) durch Unfall auf A1 bei Innerschwand wiedergefunden",
+          "snippet": "",
+          "url": "https://www.nachrichten.at/oberoesterreich/abgaengiger-pensionist-86-durch-unfall-auf-a1-gefunden;art4,4098891",
+          "source": "nachrichten.at"
+        },
+        {
+          "title": "In Deutschland vermisster 86-Jähriger verursacht Autounfall auf A1 in Innerschwand",
+          "snippet": "",
+          "url": "https://www.salzburg24.at/news/salzburg/grenznah/in-deutschland-vermisster-86-jaehriger-verursacht-autounfall-auf-a1-in-innerschwand-art-305713",
+          "source": "salzburg24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "zeitumstellung 2025",
       "trafficCount": "2000+",
       "pubDate": "Sun, 19 Oct 2025 21:30:00 -0700",
@@ -229,9 +257,15 @@
       "title": "vermisste kinder mainz",
       "trafficCount": "2000+",
       "pubDate": "Sun, 19 Oct 2025 20:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrERJrTQpDJEgqM4r0Clp7-BOP8ZU71B9d0tb5kuVr5KxkxhZC-FdGugNlS0w",
-      "pictureSource": "Kleine Zeitung",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoqB1Mha2-HpqAwxeGhgxZSd-QEYtJNy5NBIPYnaCYoor0wlwEFeIsCcu8fo",
+      "pictureSource": "SWR",
       "relatedSearch": [
+        {
+          "title": "Nicht mehr gesucht: die vier ukrainischen Geschwister aus Mainzer Aufnahmeeinrichtung",
+          "snippet": "",
+          "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/vier-geschwister-kinder-aus-mainzer-einrichtung-nicht-mehr-vermisst-100.html",
+          "source": "SWR"
+        },
         {
           "title": "Mainz: Verzweifelte Suche nach vier vermissten Geschwistern",
           "snippet": "",
@@ -243,40 +277,6 @@
           "snippet": "",
           "url": "https://www.bild.de/regional/mainz/kinder-in-mainz-vermisst-vier-geschwister-verschwunden-68f4b6147e2d7167e63bad7c",
           "source": "BILD"
-        },
-        {
-          "title": "Vier Kinder aus Mainzer Aufnahmeeinrichtung werden nicht mehr gesucht",
-          "snippet": "",
-          "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/in-mainz-werden-vier-geschwister-kinder-vermisst-polizei-sucht-hinweise-100.html",
-          "source": "SWR"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nfl",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 19 Oct 2025 17:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn3Nm7MThLLKSzHIeQ6iRAJ_Wt5YCQVTfnkq-upuTxTuqQGbEaEFEUR04AV5o",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Vikes' Hockenson livid after replay overturns TD",
-          "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/46652755/vikings-tj-hockenson-ridiculous-td-was-overturned",
-          "source": "ESPN"
-        },
-        {
-          "title": "NFL breaks its silence on controversial referee decision",
-          "snippet": "",
-          "url": "https://thecomeback.com/nfl/minnesota-vikings-tj-hockenson-touchdown-overturn-decision.html",
-          "source": "The Comeback: Today’s Top Sports Stories & Reactions"
-        },
-        {
-          "title": "Refs may have blown two massive calls in Vikings' loss to Eagles",
-          "snippet": "",
-          "url": "https://www.si.com/nfl/vikings/news/refs-may-have-blown-two-massive-calls-vikings-loss-eagles",
-          "source": "Sports Illustrated"
         }
       ],
       "link": "https://imtaqin.id/"
