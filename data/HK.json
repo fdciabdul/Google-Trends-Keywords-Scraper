@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20 09:25:24",
+  "lastUpdate": "2025-10-20 09:38:28",
   "data": [
     {
       "title": "謝偉銓",
@@ -20,29 +20,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "aws outage",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcikNg9aPjnqsRHG8WXHJaGUt1So5Ip8emOR0BP4uXgdDWb-mo1JMhLTfifKM",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Huge global outage impacts Amazon, Fortnite and Snapchat",
+          "snippet": "",
+          "url": "https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Amazon internet outage breaks dozens of major apps, websites and banks: Latest",
+          "snippet": "",
+          "url": "https://www.the-independent.com/tech/aws-amazon-internet-outage-latest-updates-b2848345.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "aws",
       "trafficCount": "2000+",
       "pubDate": "Mon, 20 Oct 2025 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLffPeTo1hMk0wx_RBk-wNGe7zz7iwzd9s3FXCylPPqJW6gqp8W4PmGwzayXs",
-      "pictureSource": "クラウド Watch",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGneGQ4Ot3wApb36EEjWP7Ji2iW7EmQAP4l5ToP-8xrwfy5CEyagD-MuJz1Y",
+      "pictureSource": "Publickey",
       "relatedSearch": [
         {
-          "title": "AWSが最新の金融事例を紹介、マルチエージェントなど最先端の生成AI活用を実現",
+          "title": "AWS、企業向けAIエージェント「Amazon Quick Suite」提供開始。Google DriveやSharePoint、Amazon Redshiftなど企業内外のデータソースに接続、分析や自動処理など可能に",
           "snippet": "",
-          "url": "https://cloud.watch.impress.co.jp/docs/news/2055627.html",
-          "source": "クラウド Watch"
+          "url": "https://www.publickey1.jp/blog/25/awsaiamazon_quick_suitegoogle_drivesharepointamazon_redshift.html",
+          "source": "Publickey"
         },
         {
-          "title": "[資料公開 & 開催報告] Amazon Q Developer Meetup #3 を開催しました",
+          "title": "自動車業界の「クラウド活用」「SDV」「生成AI」への取り組み：電子ブックレット（モビリティ）",
           "snippet": "",
-          "url": "https://aws.amazon.com/jp/blogs/news/amazon-q-developer-meetup-3-report/",
-          "source": "Amazon Web Services"
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2510/14/news024.html",
+          "source": "MONOist"
         },
         {
-          "title": "生成AIで企業競争力や顧客価値を向上--東京海上日動システムズら、活用事例を解説",
+          "title": "AWSが「Bedrock AgentCore」を一般提供 AIエージェント開発・運用のための機能群、東京リージョンでも",
           "snippet": "",
-          "url": "https://japan.zdnet.com/article/35239359/",
-          "source": "ZDNET Japan"
+          "url": "https://ascii.jp/elem/000/004/329/4329896/",
+          "source": "ASCII.jp"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -51,15 +79,9 @@
       "title": "chatgpt",
       "trafficCount": "1000+",
       "pubDate": "Mon, 20 Oct 2025 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7eOREYSatkeovx2dK3V1KMsRQ9vgPTFLxh4XMLmEplaY0xvNpBbQst5hQvRA",
-      "pictureSource": "WLNS 6 News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAoUHn0zhoaKURa9OZ7m36EBlALyfEenUq2KII2ERrmMQaA4v3n9QWzQK6h0g",
+      "pictureSource": "Michigan Lottery Connect",
       "relatedSearch": [
-        {
-          "title": "ChatGPT helps Michigan woman claim $100K in Powerball winnings",
-          "snippet": "",
-          "url": "https://www.wlns.com/news/michigan/chatgpt-helps-michigan-woman-claim-100k-in-powerball-winnings/",
-          "source": "WLNS 6 News"
-        },
         {
           "title": "Wyandotte Woman Wins $100,000 Powerball Prize from the Michigan Lottery",
           "snippet": "",
@@ -71,13 +93,19 @@
           "snippet": "",
           "url": "https://www.detroitnews.com/story/news/local/wayne-county/2025/10/19/chatgpt-picks-winning-powerball-numbers-artificial-intelligence-wyandotte-michigan-woman/86793095007/",
           "source": "The Detroit News"
+        },
+        {
+          "title": "Michigan woman wins $100K Powerball pot using ChatGPT-generated numbers",
+          "snippet": "",
+          "url": "https://nypost.com/2025/10/19/us-news/michigan-woman-wins-100k-powerball-pot-using-chatgpt-generated-numbers/",
+          "source": "New York Post"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "canva",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Mon, 20 Oct 2025 00:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK0lSifCJVedKUpufwra7vCWzsZND09uLufbRTvoUDpx5tBphlOaFheMicd2A",
       "pictureSource": "Mashable India",
@@ -95,38 +123,10 @@
           "source": "The Express Tribune"
         },
         {
-          "title": "Canva Down In India: Users Report Technical Glitch In Photo Editing App",
+          "title": "Canva Down! Hilarious Memes Take Over Internet: ‘Creativity Khatre Me Hai’ | Viral",
           "snippet": "",
-          "url": "https://www.news18.com/tech/canva-down-in-india-users-report-technical-glitch-in-photo-editing-app-ws-e-9647902.html",
-          "source": "News18"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "perplexity",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 20 Oct 2025 00:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_-fz8ks-g_O1M3lQvwOCQDezPixx3EMDZvA1u4Etf8Bs1T-biJlA_C-iUZxc",
-      "pictureSource": "The Independent",
-      "relatedSearch": [
-        {
-          "title": "Amazon internet outage breaks dozens of major apps, websites and banks: Latest",
-          "snippet": "",
-          "url": "https://www.the-independent.com/tech/aws-amazon-internet-outage-latest-updates-b2848345.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Snapchat and Duolingo among major apps down in Amazon Web Services outage - live updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
-          "source": "BBC"
-        },
-        {
-          "title": "Websites Including Amazon, Coinbase and Roblox Report Outages After AWS Disruption",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
-          "source": "The New York Times"
+          "url": "https://www.timesnownews.com/viral/canva-down-hilarious-memes-take-over-internet-creativity-khatre-me-hai-viral-video-article-153027757",
+          "source": "Times Now"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,14 +135,14 @@
       "title": "ai",
       "trafficCount": "1000+",
       "pubDate": "Mon, 20 Oct 2025 00:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGh82r1TaaIxa1-mTUT44frNIj6A6QT3zHa12eclbiCqTq30hYdIHuRLUtqto",
-      "pictureSource": "The Motley Fool",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lcaRUHBs1yG3Z3A4xxEVndyt2LzdlwK8fqG4dHYbxwl_U_1s2fa81EuRCK0",
+      "pictureSource": "Nasdaq",
       "relatedSearch": [
         {
           "title": "2 Top Artificial Intelligence Stocks to Buy in October",
           "snippet": "",
-          "url": "https://www.fool.com/investing/2025/10/20/2-top-artificial-intelligence-stocks-buy-october/",
-          "source": "The Motley Fool"
+          "url": "https://www.nasdaq.com/articles/2-top-artificial-intelligence-stocks-buy-october-0",
+          "source": "Nasdaq"
         },
         {
           "title": "In an AI-dominated world, ‘focus’ on individual companies",
