@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-20 04:14:36",
+  "lastUpdate": "2025-10-20 04:28:41",
   "data": [
     {
       "title": "новости саратов",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 19 Oct 2025 20:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-B4P-ijuBu-ruRhvDqkLetivbI8fxq-Q61Wu6NE3CxsqQnKq5Mz4YdtKmms",
       "pictureSource": "Новости Саратова — Регион 64",
@@ -68,28 +68,28 @@
     },
     {
       "title": "новости украина",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 19 Oct 2025 19:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7r-CUHZoZqE3U04rsdeIwQPSrPIIk6WADUeiUrjI3NhaK2g2tPauQQrwvSt0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmhyZ7k_ca6EwoztrirbwG5LXV2kmteaJn9kO_kw_x5-WVOIOsJ6hfDVHZ24",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Война в Украине: на встрече в Вашингтоне Трамп убеждал Зеленского принять условия Кремля, сообщает FT",
+          "title": "Что пишут о переговорах Трампа и Зеленского западные СМИ",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/live/c306m63vp68t",
+          "url": "https://www.bbc.com/russian/articles/ce3k2y7gww8o",
           "source": "BBC"
         },
         {
-          "title": "Трамп призвал и Украину, и Россию \"остановиться там, где они находятся\"",
+          "title": "СМИ: Трамп склонял Зеленского согласиться на условия Путина",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1053359",
+          "url": "https://www.eurointegration.com.ua/rus/news/2025/10/20/7222846/",
+          "source": "Європейська правда"
+        },
+        {
+          "title": "Трамп на встрече с Зеленским убеждал его согласиться на уступки РФ",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1053499",
           "source": "Интерфакс"
-        },
-        {
-          "title": "Что будет делать Трамп, если в Венгрии Путин не пойдет на перемирие?",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/ce3k1d9n7wqo",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +136,16 @@
           "source": "Gismeteo"
         },
         {
-          "title": "Число погибших из-за выкатившегося с ВПП самолета в Гонконге увеличилось до двух",
-          "snippet": "",
-          "url": "https://news.rambler.ua/incidents/55487299-chislo-pogibshih-iz-za-vykativshegosya-s-vpp-samoleta-v-gonkonge-uvelichilos-do-dvuh/",
-          "source": "Рамблер"
-        },
-        {
           "title": "Грузовой Boeing выкатился за пределы взлетной полосы в Гонконге и упал в море",
           "snippet": "",
           "url": "https://www.inform.kz/ru/gruzovoy-boeing-vikatilsya-za-predeli-vzletnoy-polosi-v-gonkonge-i-upal-v-more",
           "source": "Казинформ"
+        },
+        {
+          "title": "Число погибших из-за выкатившегося с ВПП самолета в Гонконге увеличилось до двух",
+          "snippet": "",
+          "url": "https://news.rambler.ua/incidents/55487299-chislo-pogibshih-iz-za-vykativshegosya-s-vpp-samoleta-v-gonkonge-uvelichilos-do-dvuh/",
+          "source": "Рамблер"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,14 +154,14 @@
       "title": "взломали мессенджер max",
       "trafficCount": "5000+",
       "pubDate": "Sun, 19 Oct 2025 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzChKtdxz8PZhiRm9B_3zYe9dnJu3c71sOroZlIR3EUOW6Cl-UUUGN2iaBOHk",
-      "pictureSource": "Москвич Mag",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw7KQSMAQ0XB3AAntjEF1fzOXggOkomSVxgTnVPHJxWWPwXwXOhtY-LFAQnsw",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "В пресс-службе Max отрицают взлом мессенджера и утечку данных всех пользователей",
+          "title": "Минцифры опровергло сообщения об утечке данных пользователей Max",
           "snippet": "",
-          "url": "https://moskvichmag.ru/gorod/v-press-sluzhbe-max-otritsayut-vzlom-messendzhera-i-utechku-dannyh-vseh-polzovatelej/",
-          "source": "Москвич Mag"
+          "url": "https://www.interfax.ru/russia/1053484",
+          "source": "Интерфакс"
         },
         {
           "title": "В интернете распространились фейковые публикации о взломе мессенджера МАХ",
@@ -170,12 +170,21 @@
           "source": "Клопс - новости Калининград"
         },
         {
-          "title": "Минцифры опровергло сообщения об утечке данных пользователей Max",
+          "title": "В пресс-службе Max отрицают взлом мессенджера и утечку данных всех пользователей",
           "snippet": "",
-          "url": "https://www.interfax.ru/russia/1053484",
-          "source": "Интерфакс"
+          "url": "https://moskvichmag.ru/gorod/v-press-sluzhbe-max-otritsayut-vzlom-messendzhera-i-utechku-dannyh-vseh-polzovatelej/",
+          "source": "Москвич Mag"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ров 20 октября 2025",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 19 Oct 2025 16:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -213,34 +222,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "день народного единства",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 19 Oct 2025 16:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0uvnJqiYDpU_kpGoCkPguhwNshHyJX-ITcXdPwOnC9ONguLMxkOrgllMdzNU",
-      "pictureSource": "Учительская газета",
-      "relatedSearch": [
-        {
-          "title": "«Разговоры о важном»: ко Дню народного единства школьникам расскажут о городах страны",
-          "snippet": "",
-          "url": "https://ug.ru/razgovory-o-vazhnom-ko-dnyu-narodnogo-edinstva-shkolnikam-rasskazhut-o-gorodah-strany/",
-          "source": "Учительская газета"
-        },
-        {
-          "title": "«Разговоры о важном» станут частью образовательной программы детских садов",
-          "snippet": "",
-          "url": "https://life.ru/p/1799879",
-          "source": "Life.ru"
-        },
-        {
-          "title": "В Новосибирске откроют новые съезды с четвёртого моста через Обь",
-          "snippet": "",
-          "url": "https://gorsite.ru/news/transport/v_novosibirske_otkroyut_novye_sezdy_na_chetvyertom_mostu_cherez_ob/",
-          "source": "Gorsite.ru"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
