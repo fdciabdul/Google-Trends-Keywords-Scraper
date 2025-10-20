@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20 10:09:10",
+  "lastUpdate": "2025-10-20 10:21:56",
   "data": [
     {
       "title": "poczta polska",
@@ -31,11 +31,17 @@
     },
     {
       "title": "via baltica",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 20 Oct 2025 02:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScf-mm6rr1RvtW_oMvYxIrdTOC_hA2YqvqkajcPiM3ALL9B-EumnD-pGZlJq8",
-      "pictureSource": "Onet Wiadomości",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR32pf_93u2GhUSObwgLsYFh-qs-nCqgbxwZq1ii3QAlo4nYem_md1-Nk_lpsM",
+      "pictureSource": "Wydarzenia w INTERIA.PL",
       "relatedSearch": [
+        {
+          "title": "Karol Nawrocki otworzył strategiczną inwestycję. Z Warszawy do europejskiej stolicy w 4,5 godziny",
+          "snippet": "",
+          "url": "https://wydarzenia.interia.pl/kraj/news-nie-da-sie-przecenic-jej-znaczenia-via-baltica-laczy-polske,nId,22432962",
+          "source": "Wydarzenia w INTERIA.PL"
+        },
         {
           "title": "Karol Nawrocki na Litwie. \"Ta droga jest czymś dużo więcej\"",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.prezydent.pl/kancelaria/aktywnosc-ministrow/min-rabenda-via-baltica-wazna-gospodarczo,108945",
           "source": "Oficjalna strona Prezydenta Rzeczypospolitej Polskiej"
-        },
-        {
-          "title": "Litwa: Prezydent RP: nie da się przecenić znaczenia trasy Via Baltica dla bezpieczeństwa",
-          "snippet": "",
-          "url": "https://www.wnp.pl/rynki/litwa-prezydent-rp-nie-da-sie-przecenic-znaczenia-trasy-via-baltica-dla-bezpieczenstwa,996035.html",
-          "source": "wnp.pl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,10 +121,10 @@
           "source": "TVN24"
         },
         {
-          "title": "Ogromna awaria internetu. Nie działa wiele popularnych aplikacji",
+          "title": "Globalny paraliż usług internetowych. Wielka awaria serwerów",
           "snippet": "",
-          "url": "https://www.rp.pl/biznes/art43203421-ogromna-awaria-internetu-nie-dziala-wiele-popularnych-aplikacji",
-          "source": "Rzeczpospolita"
+          "url": "https://geekweek.interia.pl/technologia/news-globalny-paraliz-uslug-i-aplikacji-internetowych-awaria-serw,nId,22432941",
+          "source": "Geekweek Interia"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,16 +171,16 @@
           "source": "Przegląd Sportowy Onet"
         },
         {
+          "title": "[WIDEO] Jagiellonia nowym liderem, Zagłębie lepsze od Legii",
+          "snippet": "",
+          "url": "https://www.laczynaspilka.pl/aktualnosci/pko-bp-ekstraklasa/wideo-jagiellonia-nowym-liderem-zaglebie-lepsze-od-legii",
+          "source": "Łączy nas piłka"
+        },
+        {
           "title": "Było źle, jest bardzo źle. Motor stracił na Arenie pięć bramek. Co dalej z trenerem Stolarskim?",
           "snippet": "",
           "url": "https://lublin.wyborcza.pl/lublin/7,48724,32334534,bylo-zle-jest-bardzo-zle-motor-stracil-na-arenie-piec-bramek.html",
           "source": "Lublin.Wyborcza.pl"
-        },
-        {
-          "title": "Komunikat Kolegium Sędziów PZPN | 18.10.2025",
-          "snippet": "",
-          "url": "https://www.laczynaspilka.pl/aktualnosci/pko-bp-ekstraklasa/komunikat-kolegium-sedziow-pzpn-18102025",
-          "source": "Łączy nas piłka"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,16 +199,16 @@
           "source": "CNN"
         },
         {
-          "title": "Amazon Web Services outage hits dozens of websites and apps",
+          "title": "Amazon Suffers Major Outage Hitting Coinbase, Snapchat, Robinhood and Much of the Internet",
           "snippet": "",
-          "url": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
-          "source": "The Guardian"
+          "url": "https://www.barrons.com/articles/amazon-aws-outage-stock-coinbase-robinhood-snapchat-18d677ac?gaa_at=eafs&gaa_n=AWEtsqe9oRXcaVfp61Os-lmu1cHw-hVcNdBI48NiJOHst3eCXCEW_OyTqn0e&gaa_ts=68f61087&gaa_sig=qR6sLCBfLEUEPi20_b_KPUmh1xW_59HuTwUVAPDeW-KorSbYXOG1DCnADhvAqMi9uANlL0EsTHvDyYscLb8JNA%3D%3D",
+          "source": "Barron's"
         },
         {
-          "title": "Many Websites Are Down After AWS Outage: Live Updates",
+          "title": "Snapchat and Duolingo among major apps down in Amazon internet services outage",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/10/20/business/aws-down-internet-outage",
-          "source": "The New York Times"
+          "url": "https://www.bbc.com/news/live/c5y8k7k6v1rt",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,9 +217,15 @@
       "title": "canva",
       "trafficCount": "20000+",
       "pubDate": "Mon, 20 Oct 2025 00:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ__7JZ-whP8F0mwq9ltoKhZ7JCP4TW8CtQ2VugtUW_zGdISLAF1o7B0vMvR4M",
-      "pictureSource": "IndexBox",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW2jrYQ7lKpieTzigJJPzeD299qL36MfaDKYrw_bF4ghxz3TQ8BovvZ9xuyYU",
+      "pictureSource": "NDTV Profit",
       "relatedSearch": [
+        {
+          "title": "Canva Down? Hundreds Of Users Report Issue, Company Releases Statement",
+          "snippet": "",
+          "url": "https://www.ndtvprofit.com/trending/hundreds-of-users-report-canva-is-down-company-releases-statement",
+          "source": "NDTV Profit"
+        },
         {
           "title": "Canva Service Outage: Platform Down for Users Worldwide | October 20, 2025 - News and Statistics",
           "snippet": "",
@@ -231,12 +237,6 @@
           "snippet": "",
           "url": "https://www.timesnownews.com/viral/canva-down-hilarious-memes-take-over-internet-creativity-khatre-me-hai-viral-video-article-153027757",
           "source": "Times Now"
-        },
-        {
-          "title": "Signal, Canva among digital apps hit by major service disruptions",
-          "snippet": "",
-          "url": "https://eastleighvoice.co.ke/technology/228481/signal-canva-among-digital-apps-hit-by-major-service-disruptions",
-          "source": "The Eastleigh Voice"
         }
       ],
       "link": "https://imtaqin.id/"
