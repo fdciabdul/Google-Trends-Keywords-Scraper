@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-20 10:02:21",
+  "lastUpdate": "2025-10-20 10:09:05",
   "data": [
     {
       "title": "geldautomaat",
@@ -31,7 +31,7 @@
     },
     {
       "title": "boete red bull",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 02:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOc_mNmw65Jo-RmT73fWEqPkzHZ3ZmsG12HJ58DbyylYEm0C07VURCDBbszE",
       "pictureSource": "De Telegraaf",
@@ -83,9 +83,15 @@
       "title": "test",
       "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRj1hCkEY4hRJR3UTI0qTm41J_9AVItM2wUsMbT_5qTfsf82o5phPLT_JMdIS4",
-      "pictureSource": "NBC News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVaqXDdTHsyivK5_SvSUVFHKEU_sA61F7xv6rj_v_ao5mU-mIxbHcD12zfoZo",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Israel Strikes Gaza and Temporarily Halts Aid, Saying Hamas Broke Truce",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Trump says Gaza ceasefire still in place after Israeli strikes",
           "snippet": "",
@@ -93,16 +99,38 @@
           "source": "NBC News"
         },
         {
-          "title": "IDF says soldiers fired on several terror operatives who approached troops in eastern Gaza",
+          "title": "Two IDF soldiers killed amid 'severe' ceasefire violation, 'it's not the last,' analyst says",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-soldiers-fired-on-several-terror-operatives-who-approached-troops-in-eastern-gaza/",
-          "source": "The Times of Israel"
+          "url": "https://www.foxnews.com/world/two-idf-soldiers-killed-amid-severe-ceasefire-violation-its-not-last-analyst-says",
+          "source": "Fox News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "coinbase",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 20 Oct 2025 01:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHzYvtWv4nBfaaHAj18d4szt-Rmgbb6Q3yrpOldtVEq0BwoL37PP2oc0cSL4",
+      "pictureSource": "Yahoo Finance",
+      "relatedSearch": [
+        {
+          "title": "Coinbase Institutional Highlights Three Catalysts That Could Lift Crypto in Q4 2025",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/coinbase-institutional-highlights-three-catalysts-154141764.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "U.S. scrambles to save Gaza peace deal amid new clashes",
+          "title": "Coinbase Report Reveals: Institutions Are Buying the Bitcoin Dip Again",
           "snippet": "",
-          "url": "https://www.axios.com/2025/10/19/trump-gaza-deal-hamas-israel",
-          "source": "Axios"
+          "url": "https://cryptodnes.bg/en/coinbase-report-reveals-institutions-are-buying-the-bitcoin-dip-again/",
+          "source": "CryptoDnes.bg"
+        },
+        {
+          "title": "5 Things to Watch as Bitcoin Enters the Final Stretch of 2025",
+          "snippet": "",
+          "url": "https://news.bitcoin.com/5-things-to-watch-as-bitcoin-enters-the-final-stretch-of-2025/",
+          "source": "Bitcoin.com News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -139,14 +167,14 @@
       "title": "snapchat storing",
       "trafficCount": "50000+",
       "pubDate": "Mon, 20 Oct 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT-qVuIu-no5AKwumjEBakjNwB5mhgj0L99JlTYp1wr3ANkfvfNaI0KlN87g",
-      "pictureSource": "Tweakers",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfjpHx7n_qy81bpIXJuTVgcnIk0bKJ49CJxNH1pa1xsSpqszuWQjkbShuV7bA",
+      "pictureSource": "NU",
       "relatedSearch": [
         {
-          "title": "Meerdere diensten, waaronder Signal, zijn onbereikbaar door storing AWS - update",
+          "title": "Live storing | AWS ziet 'belangrijke tekenen van herstel'",
           "snippet": "",
-          "url": "https://tweakers.net/nieuws/240528/meerdere-diensten-waaronder-signal-zijn-onbereikbaar-door-storing-aws.html",
-          "source": "Tweakers"
+          "url": "https://www.nu.nl/tech/6373012/live-storing-aws-ziet-belangrijke-tekenen-van-herstel.html",
+          "source": "NU"
         },
         {
           "title": "Grote storing legt Snapchat, Signal en verschillende games plat",
@@ -155,10 +183,10 @@
           "source": "NOS"
         },
         {
-          "title": "Live storing | AWS ziet 'belangrijke tekenen van herstel'",
+          "title": "Verschillende webdiensten, waaronder Signal, zijn onbereikbaar door storing AWS",
           "snippet": "",
-          "url": "https://www.nu.nl/tech/6373012/live-storing-aws-ziet-belangrijke-tekenen-van-herstel.html",
-          "source": "NU"
+          "url": "https://tweakers.net/nieuws/240528/verschillende-webdiensten-waaronder-signal-zijn-onbereikbaar-door-storing-aws.html",
+          "source": "Tweakers"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.ad.nl/arnhem/kapotte-vrachtwagen-weer-lange-file-a12~a3d1353b/",
           "source": "AD.nl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pakistan vs south africa",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 19 Oct 2025 23:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCr_P_dWTv2TfgwiAI-tBzRledbmkK-507_9TG_wQJfSOPBLEDIRay531FzlU",
-      "pictureSource": "ESPNcricinfo",
-      "relatedSearch": [
-        {
-          "title": "South Africa get the Maharaj boost as they seek turnaround",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/series/south-africa-in-pakistan-2025-26-1501888/pakistan-vs-south-africa-2nd-test-1501894/match-preview",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "Pakistan win toss and bat in Rawalpindi",
-          "snippet": "",
-          "url": "https://supersport.com/football/general/news/b7f87f9f-0ea7-49c7-b2fc-48a4977514fb/pakistan-win-toss-and-bat-in-rawalpindi",
-          "source": "SuperSport"
-        },
-        {
-          "title": "Recent Match Report - Pakistan vs South Africa, South Africa tour of Pakistan, 2nd Test | ESPN.com.au",
-          "snippet": "",
-          "url": "https://www.espn.com.au/cricket/series/19430/report/1501894/day/1/pakistan-vs-south-africa-2nd-test-icc-world-test-championship",
-          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
