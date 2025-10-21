@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-21 06:02:44",
+  "lastUpdate": "2025-10-21 06:13:44",
   "data": [
     {
       "title": "4 ноября",
@@ -71,16 +71,16 @@
           "source": "BBC"
         },
         {
-          "title": "Правительство Японии во главе с премьером Исибой ушло в отставку",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1053695",
-          "source": "Интерфакс"
-        },
-        {
           "title": "Премьер-министром Японии избрана Санаэ Такаити. Она стала первой женщиной на этом посту",
           "snippet": "",
           "url": "https://meduza.io/news/2025/10/21/premier-ministrom-yaponii-izbrana-sanae-takaiti-ona-stala-pervoy-zhenschinoy-na-etom-postu",
           "source": "Meduza"
+        },
+        {
+          "title": "Премьер-министром Японии впервые в истории стала женщина",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/685812",
+          "source": "БИЗНЕС Online — Новости Казани"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,10 +127,10 @@
           "source": "Meduza"
         },
         {
-          "title": "Лавров и Рубио провели разговор",
+          "title": "Индекс Мосбиржи опустился на 2,5% на фоне сообщений о переносе встречи Рубио и Лаврова",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2025/10/20/1148321-lavrov-i-rubio",
-          "source": "Ведомости"
+          "url": "https://m.business-gazeta.ru/news/685817",
+          "source": "БИЗНЕС Online — Новости Казани"
         },
         {
           "title": "Рубио заявил Лаврову о важности предстоящих контактов по украинскому урегулированию",
@@ -227,11 +227,30 @@
     },
     {
       "title": "новости саратов",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 20 Oct 2025 18:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYg2TD8mO1zclSxie6sYhIcAGLhqaheA1fI1elT5KdOVPSeITMLwCdmlbfgok",
+      "pictureSource": "Взгляд-инфо",
+      "relatedSearch": [
+        {
+          "title": "Над Саратовской областью вновь уничтожен беспилотник",
+          "snippet": "",
+          "url": "https://www.vzsar.ru/news/2025/10/21/nad-saratovskoy-oblastu-vnov-ynichtojen-bespilotnik.html",
+          "source": "Взгляд-инфо"
+        },
+        {
+          "title": "В Саратовской области объявлена угроза атаки беспилотников",
+          "snippet": "",
+          "url": "https://sarnovosti.ru/news/v-saratovskoy-oblasti-obyavlena-ugroza-ataki-bespilotnikov2010/",
+          "source": "Новости Саратова — Регион 64"
+        },
+        {
+          "title": "В Саратовской области снята угроза атаки беспилотников",
+          "snippet": "",
+          "url": "https://nversia.ru/news/v-saratovskoy-oblasti-snyata-ugroza-ataki-bespilotnikov/",
+          "source": "ИА «Версия-Саратов"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
