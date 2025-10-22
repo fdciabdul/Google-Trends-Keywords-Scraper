@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-10-22 05:48:32",
+  "lastUpdate": "2025-10-22 05:55:12",
   "data": [
     {
+      "title": "meteo palermo",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 21 Oct 2025 22:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8uc7luK6mcuKGA6jJq0bSVB23RtUmWRAqnrsGNRCNqdmEK86D298z8NOkINA",
+      "pictureSource": "RaiNews",
+      "relatedSearch": [
+        {
+          "title": "Le previsioni meteo in Sicilia di mercoledì 22 ottobre 2025",
+          "snippet": "",
+          "url": "https://www.rainews.it/tgr/sicilia/articoli/2025/10/le-previsioni-meteo-in-sicilia-di-mercoledi-22-ottobre-2025-1935c6c0-2514-4d70-8e3d-e1145067e29f.html",
+          "source": "RaiNews"
+        },
+        {
+          "title": "Meteo: torna il sole, in arrivo venti di Scirocco e temperature fino a 28 gradi",
+          "snippet": "",
+          "url": "https://www.agrigentonotizie.it/meteo/meteo-agrigento-scirocco-caldo-20-23-ottobre-2025.html",
+          "source": "AgrigentoNotizie - cronaca e notizie da Agrigento"
+        },
+        {
+          "title": "Meteo, a Palermo è la settimana dell'instabilità: tra piogge e scirocco si potranno toccare i 28 gradi",
+          "snippet": "",
+          "url": "https://www.palermotoday.it/cronaca/previsioni-meteo-palermo-20-23-ottobre-2025.html",
+          "source": "PalermoToday"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "22 ottobre",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 21 Oct 2025 22:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFDKE929OZ7Gnsen7P-gaTtiFKTaCSLG5asFHbauDf6VT-Emqw8vEdX97Xo3k",
       "pictureSource": "la Repubblica",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "san giovanni paolo ii",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Oct 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3TO7hUU6IcOGhTvTq2H4xo_S-IHcJGPwZpJLfzKPGnyZPNSEAkXPKGARclos",
-      "pictureSource": "La Nuova Bussola Quotidiana",
-      "relatedSearch": [
-        {
-          "title": "«Cristo, amore e verità: il segreto della comunicazione di Wojtyła»",
-          "snippet": "",
-          "url": "https://lanuovabq.it/it/cristo-amore-e-verita-il-segreto-della-comunicazione-di-wojtyla",
-          "source": "La Nuova Bussola Quotidiana"
-        },
-        {
-          "title": "Oggi si ricorda san Giovanni Paolo II Papa",
-          "snippet": "",
-          "url": "https://www.giornaledibrescia.it/santo-del-giorno/oggi-si-ricorda-san-giovanni-paolo-ii-papa-p48vp755",
-          "source": "Giornale di Brescia"
-        },
-        {
-          "title": "San Giovanni Paolo II: il Santo del 22 ottobre",
-          "snippet": "",
-          "url": "https://www.quotidiano.net/magazine/san-giovanni-paolo-ii-il-e31c374a",
-          "source": "Quotidiano Nazionale"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "san donato",
       "trafficCount": "200+",
       "pubDate": "Tue, 21 Oct 2025 22:00:00 -0700",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "san giovanni paolo ii",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 21 Oct 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3TO7hUU6IcOGhTvTq2H4xo_S-IHcJGPwZpJLfzKPGnyZPNSEAkXPKGARclos",
+      "pictureSource": "La Nuova Bussola Quotidiana",
+      "relatedSearch": [
+        {
+          "title": "«Cristo, amore e verità: il segreto della comunicazione di Wojtyła»",
+          "snippet": "",
+          "url": "https://lanuovabq.it/it/cristo-amore-e-verita-il-segreto-della-comunicazione-di-wojtyla",
+          "source": "La Nuova Bussola Quotidiana"
+        },
+        {
+          "title": "Oggi si ricorda san Giovanni Paolo II Papa",
+          "snippet": "",
+          "url": "https://www.giornaledibrescia.it/santo-del-giorno/oggi-si-ricorda-san-giovanni-paolo-ii-papa-p48vp755",
+          "source": "Giornale di Brescia"
+        },
+        {
+          "title": "San Giovanni Paolo II: il Santo del 22 ottobre",
+          "snippet": "",
+          "url": "https://www.quotidiano.net/magazine/san-giovanni-paolo-ii-il-e31c374a",
+          "source": "Quotidiano Nazionale"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "monterrey - juárez",
       "trafficCount": "100+",
       "pubDate": "Tue, 21 Oct 2025 22:00:00 -0700",
@@ -123,7 +151,7 @@
         {
           "title": "Monterrey supera a Juárez y escala a la tercera posición",
           "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/15848376/liga-mx-monterrey-vs-juarez-resultado-resumen-goles?referrer=scribe",
+          "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/15848376/liga-mx-monterrey-vs-juarez-resultado-resumen-goles",
           "source": "ESPN Deportes"
         },
         {
@@ -173,15 +201,9 @@
       "title": "ora legale",
       "trafficCount": "1000+",
       "pubDate": "Tue, 21 Oct 2025 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipQdmSbX7-3VupzMu35UNvjXn0uuwAIrObPHiTia769Gb7ZEu6cAsp586yao",
-      "pictureSource": "ZetaTiElle",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81of5OZk1jgthBNdJv4f-4MHktC1TP5DYF4Y7buI8Xh1TRLikT6jGkLstZyQ",
+      "pictureSource": "Adnkronos",
       "relatedSearch": [
-        {
-          "title": "Ora solare in arrivo, ultimo weekend e poi bisogna spostare le lancette",
-          "snippet": "",
-          "url": "https://www.zetatielle.com/ora-solare-in-arrivo-ultimo-weekend-e-poi-bisogna-spostare-le-lancette/",
-          "source": "ZetaTiElle"
-        },
         {
           "title": "Cambio dell'ora ottobre 2025, quando e come spostare le lancette",
           "snippet": "",
@@ -193,6 +215,12 @@
           "snippet": "",
           "url": "https://www.ilpost.it/2025/10/21/spagna-abolizione-cambio-ora-europa/",
           "source": "Il Post"
+        },
+        {
+          "title": "Cambio da ora legale a ora solare: quando arriva e come sfruttarlo per risparmiare",
+          "snippet": "",
+          "url": "https://www.fastweb.it/fastweb-plus/digital-magazine/cambio-da-ora-legale-a-ora-solare-quando-arriva-e-come-sfruttarlo-per-risparmiare/",
+          "source": "Fastweb"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,57 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "meteo pisa",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 21 Oct 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iANz6-vkjmqb2iATUqNwSf_RD7vSf0aetREfFZSSTrrrYWDkXj3bFa7A1cs",
-      "pictureSource": "RaiNews",
+      "title": "weather",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 21 Oct 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjTipcT5z-VzPC_AqoLR8aK6pjRpqstZK0rcDHPa6IKYz8Os1hv-vzbJpoO9w",
+      "pictureSource": "The News Journal",
       "relatedSearch": [
         {
-          "title": "Maltempo, allerta arancione in Toscana per piogge e temporali. Scuole chiuse in diversi comuni",
+          "title": "What's the weather forecast for Thanksgiving Day? Here's the latest",
           "snippet": "",
-          "url": "https://www.rainews.it/articoli/2025/10/maltempo-allerta-arancione-in-toscana-per-piogge-e-temporali-scuole-chiuse-in-diversi-comuni-b0d13619-bc61-4862-ac7d-faf4d39198d9.html",
-          "source": "RaiNews"
+          "url": "https://www.delawareonline.com/story/weather/2025/10/20/whats-the-forecast-for-thanksgiving-day-delaware-weather/86728441007/",
+          "source": "The News Journal"
         },
         {
-          "title": "Maltempo, allerta meteo per piogge e temporali: scuole chiuse nel pisano",
+          "title": "Old Farmer's Almanac issues Thanksgiving 2025 forecast. Will it snow in NY?",
           "snippet": "",
-          "url": "https://www.pisatoday.it/cronaca/allerta-meteo-maltempo-scuole-chiuse-22-ottobre-2025.html",
-          "source": "PisaToday"
+          "url": "https://www.lohud.com/story/weather/2025/10/20/will-it-snow-in-ny-on-thanksgiving-2025-see-the-super-early-forecast/86798745007/",
+          "source": "Lohud"
         },
         {
-          "title": "Nubifragio in Toscana: forte maltempo tra Carrara e Massa, scuole chiuse e rischio esondazione del fiume Carrione",
+          "title": "The Old Farmer's Almanac long-range weather predictions for Thanksgiving week in Louisiana",
           "snippet": "",
-          "url": "https://www.la7.it/intanto/video/nubifragio-in-toscana-forte-maltempo-tra-carrara-e-massa-scuole-chiuse-e-rischio-esondazione-del-21-10-2025-616608",
-          "source": "LA7"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الطقس",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 21 Oct 2025 21:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsUtFqfuErk84CbjdpWrhLdLo5NgY0b9XwY4Ibz7by68KEb1QEWugvWJE0s1I",
-      "pictureSource": "وكالة صدى نيوز",
-      "relatedSearch": [
-        {
-          "title": "Weather: Hot and Dry Conditions with a Rise in Temperature",
-          "snippet": "",
-          "url": "https://www.sadanews.ps/en/news/242651.html",
-          "source": "وكالة صدى نيوز"
-        },
-        {
-          "title": "Weather Conditions: Partly Cloudy Skies and a Drop in Temperatures",
-          "snippet": "",
-          "url": "https://www.sadanews.ps/en/news/242059.html",
-          "source": "وكالة صدى نيوز"
-        },
-        {
-          "title": "Weather: Rise in Temperatures",
-          "snippet": "",
-          "url": "https://www.sadanews.ps/en/news/242492.html",
-          "source": "وكالة صدى نيوز"
+          "url": "https://www.shreveporttimes.com/story/news/2025/10/20/what-will-the-weather-be-like-thanksgiving-week-in-louisiana-the-old-farmers-almanac-forecast/86750431007/",
+          "source": "Shreveport Times"
         }
       ],
       "link": "https://imtaqin.id/"
