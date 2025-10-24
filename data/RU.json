@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-24 03:49:25",
+  "lastUpdate": "2025-10-24 03:56:34",
   "data": [
+    {
+      "title": "красногорск",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 23 Oct 2025 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbZTea3YIXcNXjYj3IPqDxyPrsZ4RhKFaTeyBfb613dMp665YQt4LCzmZIcs",
+      "pictureSource": "Ведомости",
+      "relatedSearch": [
+        {
+          "title": "Что известно об атаке дрона на жилой дом в Красногорске",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/society/articles/2025/10/24/1149437-chto-izvestno",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Взрыв произошел в жилом доме в Красногорске",
+          "snippet": "",
+          "url": "https://www.bfm.ru/news/587749",
+          "source": "BFM.ru"
+        },
+        {
+          "title": "Беспилотник атаковал жилой дом в Красногорске, есть пострадавшие",
+          "snippet": "",
+          "url": "https://rtvi.com/news/bespilotnik-atakoval-zhiloj-dom-v-krasnogorske-est-postradavshie/",
+          "source": "RTVI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "взгляд",
       "trafficCount": "100+",
@@ -15,16 +43,16 @@
           "source": "ATI.SU"
         },
         {
-          "title": "Дело Шихтаимова. Сторона защиты заявила об алкогольном опьянении погибшей девочки",
+          "title": "Саратовцам обещают ясную пятницу",
           "snippet": "",
-          "url": "https://www.vzsar.ru/news/2025/10/23/delo-shihtaimova-storona-zaschity-zayavila-ob-alkogolnom-opyanenii-pogibshey-devochki.html",
+          "url": "https://www.vzsar.ru/news/2025/10/24/saratovcam-obeschaut-yasnyu-pyatnicy.html",
           "source": "Взгляд-инфо"
         },
         {
-          "title": "Сбивший девочку насмерть в центре Саратова студент из Дагестана не смог выйти из-под ареста",
+          "title": "Обзор атмосферных процессов и наиболее важных явлений погоды, ожидаемых с 24 по 27 октября 2025 г.",
           "snippet": "",
-          "url": "https://nversia.ru/news/sbivshiy-devochku-nasmert-v-centre-saratova-student-iz-dagestana-ne-smog-vyyti-iz-pod-aresta/",
-          "source": "ИА «Версия-Саратов"
+          "url": "https://meteoinfo.ru/novosti/21562-obzor-atm-251023",
+          "source": "Meteoinfo.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новости сегодня",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Oct 2025 20:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXWsAQxjOvz2A-U3xMbqxWbUdIOgkyjd95vu2qonTzlVAB57q4qFe_pYWMBdg",
-      "pictureSource": "Финансы Mail",
-      "relatedSearch": [
-        {
-          "title": "Обзор российского рынка на 23 октября 2025 года",
-          "snippet": "",
-          "url": "https://finance.mail.ru/article/obzor-rossijskogo-rynka-na-23-oktyabrya-2025-68426024/",
-          "source": "Финансы Mail"
-        },
-        {
-          "title": "Обзор рынка акций от Aromath🎪 23.10.2025",
-          "snippet": "",
-          "url": "https://smart-lab.ru/blog/1221328.php",
-          "source": "Smart-Lab"
-        },
-        {
-          "title": "Вечерний анализ рынка 23 октября. Рынок РФ на дне! Трамп решит судьбу вечерней сессии! Газ! Нефть!",
-          "snippet": "",
-          "url": "https://smart-lab.ru/blog/1221359.php",
-          "source": "Smart-Lab"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "что случилось в копейске сегодня ночью",
       "trafficCount": "5000+",
       "pubDate": "Thu, 23 Oct 2025 20:20:00 -0700",
@@ -114,10 +114,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "новости сегодня",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 23 Oct 2025 20:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXWsAQxjOvz2A-U3xMbqxWbUdIOgkyjd95vu2qonTzlVAB57q4qFe_pYWMBdg",
+      "pictureSource": "Финансы Mail",
+      "relatedSearch": [
+        {
+          "title": "Обзор российского рынка на 23 октября 2025 года",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/obzor-rossijskogo-rynka-na-23-oktyabrya-2025-68426024/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Обзор рынка акций от Aromath🎪 23.10.2025",
+          "snippet": "",
+          "url": "https://smart-lab.ru/blog/1221328.php",
+          "source": "Smart-Lab"
+        },
+        {
+          "title": "Вечерний анализ рынка 23 октября. Рынок РФ на дне! Трамп решит судьбу вечерней сессии! Газ! Нефть!",
+          "snippet": "",
+          "url": "https://smart-lab.ru/blog/1221359.php",
+          "source": "Smart-Lab"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nba",
       "trafficCount": "200+",
       "pubDate": "Thu, 23 Oct 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW6ebjDCgOcG4Eg6NUWcRrDUX1BNGr04ZRRsgrrX0XlD5U1LHXw4EXu_nDbHk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJZN78QHAWfozX6sBnWt1E9ti7rJc7z2rQNtviH5H5NajL8zsJhe_DLwk3rU",
       "pictureSource": "ABC News - Breaking News, Latest News and Videos",
       "relatedSearch": [
         {
@@ -199,7 +227,7 @@
     },
     {
       "title": "уорриорз – наггетс",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 23 Oct 2025 19:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxnmp9A1FswDr0g8FyJwyZwezMLBWb69QOgPvza45pyvO_WsS4LkJ3fmfledo",
       "pictureSource": "Metaratings",
@@ -211,23 +239,23 @@
           "source": "Metaratings"
         },
         {
+          "title": "НБА. «Индиана» примет «Оклахому», «Голден Стэйт» встретится с «Денвером»",
+          "snippet": "",
+          "url": "https://www.slamdunk.ru/news/nba/nba-indiana-primet-oklahomu-golden-steyt-vstretitsya-s-denverom-r128466/",
+          "source": "Slamdunk.ru"
+        },
+        {
           "title": "Голден Стэйт — Денвер: прогноз и ставка. «Воины» не ослабят атаку 24.10.2025",
           "snippet": "",
           "url": "https://bookmaker-ratings.ru/tips/golden-ste-jt-denver-prognoz-i-stavka-voiny-ne-oslabyat-ataku/",
           "source": "Рейтинг Букмекеров"
-        },
-        {
-          "title": "НБА. «Индиана» уступила «Оклахоме», «Голден Стэйт» играет с «Денвером»",
-          "snippet": "",
-          "url": "https://www.slamdunk.ru/news/nba/nba-indiana-ustupila-oklahome-golden-steyt-igraet-s-denverom-r128466/",
-          "source": "Slamdunk.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "новосибирскэнергосбыт",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 23 Oct 2025 19:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTJZNFtLRNCFSZbGySpcdMrqxI4rhHeENZFcVzkLnIQDhC7rdb5zrLDwHVdnA",
       "pictureSource": "НГС.ру",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://gorod55.ru/news/2025-10-15/nizkouglerodnyy-status-ren-2025-podtverzhden-atomnymi-sertifikatami-rosatoma-5491713",
           "source": "Gorod55"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "я",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 23 Oct 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ovIiyoGbBfY0U7IqZCQXOcBCAQu8jJYEyoFGH5RTIu4WrnSRguzSnrYgYg0",
-      "pictureSource": "Yakutia-Daily.ru",
-      "relatedSearch": [
-        {
-          "title": "«Я здесь, потому что это мой долг»: инженер-железнодорожник работает на селе",
-          "snippet": "",
-          "url": "https://yakutia-daily.ru/ya-zdes-potomu-chto-eto-moj-dolg-inzhener-zheleznodorozhnik-rabotaet-na-sele/",
-          "source": "Yakutia-Daily.ru"
-        },
-        {
-          "title": "«Я молниеносно вырастила себе рак»: Маргарита Симоньян рассказала о причинах заболевания",
-          "snippet": "",
-          "url": "https://www.kino-teatr.ru/lifestyle/news/y2025/10-22/39400/",
-          "source": "Кино-Театр.Ру"
-        },
-        {
-          "title": "Маргарита Симоньян рассказала, как борется с онкологией",
-          "snippet": "",
-          "url": "https://klops.ru/other/2025-10-22/370077-margarita-simonyan-rasskazala-kak-boretsya-s-onkologiey",
-          "source": "Клопс - новости Калининград"
         }
       ],
       "link": "https://imtaqin.id/"
