@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-24 04:31:41",
+  "lastUpdate": "2025-10-24 04:41:12",
   "data": [
+    {
+      "title": "новости",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 23 Oct 2025 21:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfsB03So7P3_FsRVWeRP_R0RusaovcLDFWQKpcY35ciUfo7zx60sABnHjqHQg",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Что случилось этой ночью: вторник, 21 октября",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1053706",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Ситуация на Украине и в Донбассе. 24 октября 2025 года. Хроника событий",
+          "snippet": "",
+          "url": "https://v-pravda.ru/2025/10/24/situacziya-na-ukraine-i-v-donbasse-24-oktyabrya-2025-goda-hronika-sobytij/",
+          "source": "Волгодонская Правда"
+        },
+        {
+          "title": "Карта спецоперации на Украине на 22 октября 2025 года: новый тип дронов ВСУ, продвижение ВС РФ",
+          "snippet": "",
+          "url": "https://ura.news/news/1053023583",
+          "source": "URA.RU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "десантный корабль",
       "trafficCount": "200+",
@@ -61,20 +89,20 @@
       "title": "красногорск",
       "trafficCount": "500+",
       "pubDate": "Thu, 23 Oct 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbZTea3YIXcNXjYj3IPqDxyPrsZ4RhKFaTeyBfb613dMp665YQt4LCzmZIcs",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdkx7K58MEBhTPzA30NNzWdBSeQL3CPeh6olY4Cl09heRbumL7NPWYk3weero",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
-        {
-          "title": "Что известно об атаке дрона на жилой дом в Красногорске",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/society/articles/2025/10/24/1149437-chto-izvestno",
-          "source": "Ведомости"
-        },
         {
           "title": "Пять человек, в том числе ребенок, пострадали при атаке БПЛА на дом в Красногорске",
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1054436",
           "source": "Интерфакс"
+        },
+        {
+          "title": "Что известно об атаке дрона на жилой дом в Красногорске",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/society/articles/2025/10/24/1149437-chto-izvestno",
+          "source": "Ведомости"
         },
         {
           "title": "В Подмосковье дрон повредил жилой дом, пострадали пять человек",
@@ -133,10 +161,10 @@
           "source": "Ведомости"
         },
         {
-          "title": "Число погибших при взрыве на заводе в Копейске возросло до 12",
+          "title": "ЧП на предприятии займутся следователи из Москвы. Онлайн-репортаж о взрыве на заводе в Копейске",
           "snippet": "",
-          "url": "https://www.forbes.ru/society/548507-cislo-pogibsih-pri-vzryve-na-zavode-v-kopejske-vozroslo-do-12",
-          "source": "Forbes.ru"
+          "url": "https://74.ru/text/incidents/2025/10/23/76087185/",
+          "source": "74.ру"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +201,15 @@
       "title": "nba",
       "trafficCount": "200+",
       "pubDate": "Thu, 23 Oct 2025 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJZN78QHAWfozX6sBnWt1E9ti7rJc7z2rQNtviH5H5NajL8zsJhe_DLwk3rU",
-      "pictureSource": "ABC News - Breaking News, Latest News and Videos",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7gc07xLXDbVIRc-kFEQpc9qFseO6iM1Zq-w3iK6O3shFScyBGVRHeMVxH1j8",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Indictment Alleging Participation in Sports Betting Scheme",
+          "snippet": "",
+          "url": "https://www.nytimes.com/interactive/2025/10/23/nyregion/nba-betting-scheme-indictment.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Portland Trail Blazers coach Chauncey Billups charged in illegal poker operation tied to Mafia",
           "snippet": "",
@@ -187,12 +221,6 @@
           "snippet": "",
           "url": "https://www.espn.com/nba/story/_/id/46695228/sources-terry-rozier-arrested-part-gambling-inquiry",
           "source": "ESPN"
-        },
-        {
-          "title": "Indictment Alleging Participation in Sports Betting Scheme",
-          "snippet": "",
-          "url": "https://www.nytimes.com/interactive/2025/10/23/nyregion/nba-betting-scheme-indictment.html",
-          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,34 +249,6 @@
           "snippet": "",
           "url": "https://bookmaker-ratings.ru/tips/viktoriya-mboko-elena-ry-bakina-prognoz-i-stavka-vladimira-chaply-gina-2/",
           "source": "Рейтинг Букмекеров"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "нба",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Oct 2025 20:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbl40NGchdVIcn1me0BasoPmd4Vi8wd6h0mknYoWAvcUQ5w1_caXyTILFdnjE",
-      "pictureSource": "Матч ТВ",
-      "relatedSearch": [
-        {
-          "title": "Демин рассказал об особых нашивках в честь дебюта в НБА",
-          "snippet": "",
-          "url": "https://matchtv.ru/basketball/matchtvnews_NI2258658_Demin_rasskazal_ob_osobyh_nashivkah_v_chest_debuta_v_NBA",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Россиянин с двух ног ворвался в НБА. И побил рекорд, державшийся 31 год",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Basketbol/spbnews_NI2258376_Rossijanin_s_dvuh_nog_vorvalsa_v_NBA_I_pobil_rekord_derzhavshijsa_31_god",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Тренер «Бруклина» заявил, что доволен дебютом Демина в НБА",
-          "snippet": "",
-          "url": "https://sportmail.ru/article/basketball-nba/68436434/",
-          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"
