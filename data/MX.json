@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-25 21:17:10",
+  "lastUpdate": "2025-10-25 21:26:13",
   "data": [
+    {
+      "title": "f1 qualifying",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 25 Oct 2025 14:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeOFpMFrhIEkyEhSVirfpQW0JCWQPHaLDoP6NRcaN_WIpJG4r5b1hR2Es9ZbQ",
+      "pictureSource": "Formula 1",
+      "relatedSearch": [
+        {
+          "title": "Norris leads Hamilton in FP3 ahead of Mexico City GP",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/fp3-norris-leads-hamilton-and-russell-in-final-practice-ahead-of-mexico-city.zQqKaWJQ8Z5aShSaz5Stl",
+          "source": "Formula 1"
+        },
+        {
+          "title": "F1 Mexico City GP LIVE: Race, Qualifying, Practice updates, results, stream, highlights from Autodromo Hermanos Rodriguez",
+          "snippet": "",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13455567/f1-mexico-city-gp-live-race-qualifying-practice-updates-results-stream-highlights-from-autodromo-hermanos-rodriguez",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Hamilton issues warning to McLaren as Verstappen roars into F1 title fight",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/2025/oct/24/max-verstappen-red-bull-oscar-piastri-lando-norris-mclaren-mexican-gp-f1",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "canal 5",
       "trafficCount": "500+",
@@ -30,7 +58,7 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "f1tv",
+      "title": "f1 tv",
       "trafficCount": "2000+",
       "pubDate": "Sat, 25 Oct 2025 14:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThVlCeQmch_gFvEnmhg2gRozue-RTgBd8mCnu6hRvUuVmIznKPVOJu14VOb04",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.gq.com.mx/articulo/formula-1-por-que-no-se-transmite-en-fox-sports-mexico",
           "source": "GQ México y Latinoamérica"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rayados vs cruz azul",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 25 Oct 2025 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rhKmZyyYKdHjqL_zZXl92liM3kTdGkpX79qrtx2GOFUqqpCcA2WNOlpKeMk",
-      "pictureSource": "ESPN México",
-      "relatedSearch": [
-        {
-          "title": "Monterrey busca quedarse con etiqueta del mejor local en Liga MX",
-          "snippet": "",
-          "url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/15853020/liga-mx-cruz-azul-vs-monterrey-mejor-local",
-          "source": "ESPN México"
-        },
-        {
-          "title": "¡RAYADOS, POR LA LIGUILLA!",
-          "snippet": "",
-          "url": "https://www.rayados.com/es/noticias/21068/rayados-por-la-liguilla",
-          "source": "Club de Futbol Monterrey Rayados"
-        },
-        {
-          "title": "Horario y dónde ver el Cruz Azul vs. Monterrey de la Jornada 15",
-          "snippet": "",
-          "url": "https://www.tudn.com/futbol/liga-mx/cruz-azul-vs-monterrey-horario-donde-ver-partido-jornada-15-liga-mx-apertura-2025",
-          "source": "TUDN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +115,7 @@
     },
     {
       "title": "clash royale",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 25 Oct 2025 13:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYx6rnUR-1cnSHelHSVaL8YwHdINpmT1UslehEtqD5g0qnZbwQ3LskiOAgeNc",
       "pictureSource": "FreeJobAlert.Com",
@@ -164,17 +164,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "monterrey vs cruz azul",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 25 Oct 2025 13:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjpX7pku7SUqB8DAlwILytvtoNhDmVseA6xO9JK5puAS96Uvh5YDxtQsxc_bY",
+      "pictureSource": "ESPN Deportes",
+      "relatedSearch": [
+        {
+          "title": "Rayados busca cambiar inercia de la última década ante Cruz Azul",
+          "snippet": "",
+          "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/15857311/cruz-azul-vs-rayados-historial-resultados-liga-mx-apertura-2025",
+          "source": "ESPN Deportes"
+        },
+        {
+          "title": "¡RAYADOS, POR LA LIGUILLA!",
+          "snippet": "",
+          "url": "https://www.rayados.com/es/noticias/21068/rayados-por-la-liguilla",
+          "source": "Club de Futbol Monterrey Rayados"
+        },
+        {
+          "title": "Monterrey busca quedarse con etiqueta del mejor local en Liga MX",
+          "snippet": "",
+          "url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/15853020/liga-mx-cruz-azul-vs-monterrey-mejor-local",
+          "source": "ESPN México"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "estrela amadora - rio ave",
       "trafficCount": "100+",
       "pubDate": "Sat, 25 Oct 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWhhuSkdVkw1JJmzE7DD8_6KCwy3Mysx9YpsoAfWnVx8DDzalZj7Dz2epilR4",
-      "pictureSource": "zerozero.pt",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbRqo8id4kyQvsIQRcse54FBWuy9qh7iUMagrKrD1BhfsY3gU5WujdTh9NIM",
+      "pictureSource": "Maisfutebol",
       "relatedSearch": [
         {
-          "title": "Est. Amadora x Rio Ave: antevisão, ausências e onzes prováveis",
+          "title": "E. Amadora X Rio Ave - AO MINUTO",
           "snippet": "",
-          "url": "https://www.zerozero.pt/noticias/est-amadora-x-rio-ave-antevisao-ausencias-e-onzes-provaveis/957741",
-          "source": "zerozero.pt"
+          "url": "https://maisfutebol.iol.pt/jogo/aominuto/13828238",
+          "source": "Maisfutebol"
         },
         {
           "title": "Estrela - Rio Ave FC",
@@ -205,16 +233,16 @@
           "source": "The Independent"
         },
         {
-          "title": "Why Brentford vs. Liverpool Was Delayed in the Second Half",
+          "title": "BREAKING: Liverpool game delayed as referee replaced at halftime after controversial decision",
           "snippet": "",
-          "url": "https://www.si.com/soccer/why-brentford-vs-liverpool-delayed-second-half",
-          "source": "Sports Illustrated"
+          "url": "https://uk.sports.yahoo.com/news/breaking-liverpool-game-delayed-referee-201522000.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Liverpool game delayed as referee replaced at halftime after controversial decision",
+          "title": "Caught on camera: Virgil van Dijk's reaction as VAR finds him to foul Dango Ouattara in Liverpool box",
           "snippet": "",
-          "url": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-brentford-referee-change-injured-32750802",
-          "source": "Liverpool.com"
+          "url": "https://tribuna.com/en/blogs/caught-on-camera-virgil-van-dijks-reaction-as-var-finds-him/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://wradio.com.mx/2025/10/24/selena-quintanilla-la-intimidad-de-la-reina-del-tex-mex-revelada-en-un-nuevo-documental/",
           "source": "W Radio México"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cremonese vs atalanta",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 25 Oct 2025 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi1uKYMP3pPgZBIa_XVd3JuZNw6N4sCgTUvIqwyJwrql2f9u3JcW5cmAUQJxo",
-      "pictureSource": "Lega Serie A",
-      "relatedSearch": [
-        {
-          "title": "Cremonese vs. Atalanta: a Lombard derby",
-          "snippet": "",
-          "url": "https://www.legaseriea.it/en/media/serie-a/cremonese-vs-atalanta-a-lombard-derby-7590n6b",
-          "source": "Lega Serie A"
-        },
-        {
-          "title": "Atalanta with the usual suspects. Juric doesn't rotate. Krstovic, another chance.",
-          "snippet": "",
-          "url": "https://sport.quotidiano.net/en/calcio/atalanta/atalanta-coi-soliti-noti-juric-731245b4",
-          "source": "Quotidiano Sportivo"
-        },
-        {
-          "title": "Vardy gets off the mark for Cremonese but Atalanta rescue point to remain unbeaten",
-          "snippet": "",
-          "url": "https://www.flashscore.com/news/soccer-serie-a-vardy-gets-off-the-mark-for-cremonese-but-atalanta-rescue-point-to-remain-unbeaten/zZYSN0uP/",
-          "source": "Flashscore.com"
         }
       ],
       "link": "https://imtaqin.id/"
