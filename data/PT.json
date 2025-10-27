@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-27 10:39:37",
+  "lastUpdate": "2025-10-27 10:48:39",
   "data": [
     {
       "title": "catarina miranda e sergio duarte",
@@ -31,7 +31,7 @@
     },
     {
       "title": "dre",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 27 Oct 2025 02:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9h95yr0SRHsnQ5PhQQhzZbuF9GWy5unCBGFDOw7TwfeezpT-4-c_PKPx1vw",
       "pictureSource": "ESPN",
@@ -89,15 +89,9 @@
       "title": "ihru",
       "trafficCount": "100+",
       "pubDate": "Mon, 27 Oct 2025 01:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-uH4M0je4zaqnIehUaNjwiNIXwy-TtljwyiMvyNFTr3tiqdHASneld6thQKA",
-      "pictureSource": "RTP",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyGgj7HVkkCzSliVgMVwV5ddFcsfJtb3Tw9Yw80vW_5dXx25mvBlobi58d-hs",
+      "pictureSource": "Correio da Manhã",
       "relatedSearch": [
-        {
-          "title": "Protesto à porta do IHRU em Lisboa e no Porto pede apoios à renda da casa",
-          "snippet": "",
-          "url": "https://www.rtp.pt/noticias/pais/protesto-a-porta-do-ihru-em-lisboa-e-no-porto-pede-apoios-a-renda-da-casa_n1693958",
-          "source": "RTP"
-        },
         {
           "title": "Movimento \"Porta-a-Porta\" exige do Governo mais e melhor atendimento no IHRU",
           "snippet": "",
@@ -105,9 +99,15 @@
           "source": "Correio da Manhã"
         },
         {
-          "title": "Dezenas de pessoas à porta do IHRU desde madrugada para pedir apoios à renda da casa",
+          "title": "Protesto à porta do Instituto da Habitação e Reabilitação Urbana em Lisboa e no Porto",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/dezenas-de-pessoas-a-porta-do-ihru-desde-madrugada-para-pedir-apoios-a-renda-da-casa-68ff35bbab403bcb30dffd29",
+          "url": "https://www.rtp.pt/noticias/pais/protesto-a-porta-do-instituto-da-habitacao-e-reabilitacao-urbana-em-lisboa-e-no-porto_n1693958",
+          "source": "RTP"
+        },
+        {
+          "title": "Apoio à renda. Dezenas de pessoas à porta do IHRU em Lisboa",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/apoio-a-renda-dezenas-de-pessoas-a-porta-do-ihru-em-lisboa-68ff352036c84c1df464a036",
           "source": "SAPO"
         }
       ],
@@ -143,7 +143,7 @@
     },
     {
       "title": "expulso casa dos segredos",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 27 Oct 2025 00:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwfcPyZTdGs2A9HetPacRsNhFzQRzDnr6O0OPK8YrF1r7BGya6Z7K2eJ2dx84",
       "pictureSource": "TVI Player",
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "secret story - casa dos segredos",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 26 Oct 2025 23:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZDZn5C_1zzTj0ex5tMyCWZR0Bzhm2iMowiKTbw6d2NtD7bHgl04JrLXysrgA",
+      "pictureSource": "TVI",
+      "relatedSearch": [
+        {
+          "title": "“Sou um milagre”: Revelado o 'dono' do segredo mais comovente do Secret Story",
+          "snippet": "",
+          "url": "https://tvi.iol.pt/secretstory/ana/26-10-2025/na-minha-aldeia-acreditam-que-sou-um-milagre-o-segredo-mais-comovente-do-secret-story-ja-tem-dono",
+          "source": "TVI"
+        },
+        {
+          "title": "Lista atualizada. Todos os segredos que já foram revelados no Secret Story",
+          "snippet": "",
+          "url": "https://tvi.iol.pt/secretstory/segredo/casa-dos-segredos/lista-atualizada-todos-os-segredos-que-ja-foram-revelados-no-secret-story",
+          "source": "TVI"
+        },
+        {
+          "title": "Casa dos Segredos – Revelado o segredo impressionante de Ana",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/casa-dos-segredos-revelado-o-segredo-impressionante-de-ana-68fecd0afc32ddef586c61dc",
+          "source": "SAPO"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "jamaica",
       "trafficCount": "100+",
       "pubDate": "Sun, 26 Oct 2025 23:50:00 -0700",
@@ -217,10 +245,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Hurricane Melissa upgraded to Category 4: Latest forecast and what to know",
+          "title": "Hurricane Melissa Maps Tracker: Forecast Track, Rainfall, Winds And More",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/hurricane-melissa-upgraded-category-4-094732532.html",
-          "source": "Yahoo"
+          "url": "https://weather.com/storms/hurricane/news/2025-10-25-hurricane-melissa-maps-tracker-forecast-spaghetti-models",
+          "source": "The Weather Channel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,13 +257,13 @@
       "title": "quem saiu da casa dos segredos hoje",
       "trafficCount": "200+",
       "pubDate": "Sun, 26 Oct 2025 23:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRY_zrbai5Sp0RzNuRQnRGeLemGdL5tny7JgXzcj39e6c6KT7Um2jEAlkqckXQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTiy8hp_3dBML5bqjeaB_UPknjP1-kZmM-pzyQIxY-K0kHrtjmtqMfV2vv8-8",
       "pictureSource": "TVI",
       "relatedSearch": [
         {
-          "title": "«Não vai haver romance nenhum. Não há amor»: Inês deixa tudo em pratos limpos",
+          "title": "O momento que todos esperam: a hilariante reação de Rui, ao saber que Pedro Jorge é casado com Marisa",
           "snippet": "",
-          "url": "https://tvi.iol.pt/secretstory/videos/nao-vai-haver-romance-nenhum-nao-ha-amor-ines-deixa-tudo-em-pratos-limpos/68ff40e80cf29d28d8298d62",
+          "url": "https://tvi.iol.pt/secretstory/videos/o-momento-que-todos-esperam-a-hilariante-reacao-de-rui-ao-saber-que-pedro-jorge-e-casado-com-marisa/68fec09b0cf285ab53a6c13a",
           "source": "TVI"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.atelevisao.com/secret-story-casa-dos-segredos/flavio-furtado-confronta-sandro-fernandes-a-propria-liliana-admitiu-que-estava-a-fazer-jogo-de-casal/",
           "source": "A Televisão"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "milei",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 26 Oct 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUCf_s4XY8efJPZPssDs4sTm1G6qN5Txmm8PzeWy8SZMGh_CQUI9ZkXMNm1LA",
-      "pictureSource": "Observador",
-      "relatedSearch": [
-        {
-          "title": "Milei obtém vitória convincente nas legislativas e promete começar \"a construção de uma grande Argentina\"",
-          "snippet": "",
-          "url": "https://observador.pt/especiais/milei-obtem-vitoria-convincente-nas-legislativas-e-promete-comecar-a-construcao-de-uma-grande-argentina/",
-          "source": "Observador"
-        },
-        {
-          "title": "Partido de Milei vence eleições intercalares na Argentina",
-          "snippet": "",
-          "url": "https://www.publico.pt/2025/10/27/mundo/noticia/partido-milei-vence-eleicoes-intercalares-argentina-2152238",
-          "source": "Público"
-        },
-        {
-          "title": "Partido de Milei sai vitorioso nas eleições legislativas da Argentina",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/mundo/detalhe/partido-de-milei-sai-vitorioso-nas-eleicoes-legislativas-da-argentina",
-          "source": "Correio da Manhã"
         }
       ],
       "link": "https://imtaqin.id/"
