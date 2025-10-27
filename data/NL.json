@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-10-27 23:26:42",
+  "lastUpdate": "2025-10-27 23:34:02",
   "data": [
+    {
+      "title": "الطقس غدًا",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 27 Oct 2025 16:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpN_UhV2dewz-0-NeEOfaaSj1BDdtoVUWoNNhOeSrJ63gxoO3TN9N1Qkaxpo",
+      "pictureSource": "نيوز رووم",
+      "relatedSearch": [
+        {
+          "title": "الأرصاد: أجواء خريفية مستقرة وتحذيرات من شبورة على الطرق الزراعية",
+          "snippet": "",
+          "url": "https://www.newsroom.info/192502",
+          "source": "نيوز رووم"
+        },
+        {
+          "title": "أجواء خريفية دافئة وشبورة كثيفة صباحًا غدًا الثلاثاء.. استقرار نسبي واعتدال نهاري",
+          "snippet": "",
+          "url": "https://www.altreeq.com/521014",
+          "source": "جريدة الطريق"
+        },
+        {
+          "title": "حالة الطقس غدًا الثلاثاء.. أجواء خريفية وظهور شبورة كثيفة على الطرق",
+          "snippet": "",
+          "url": "https://www.cairo24.com/2307724",
+          "source": "القاهرة 24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "sherida spitse",
       "trafficCount": "200+",
@@ -67,34 +95,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "zohran mamdani",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 27 Oct 2025 15:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1J_Wm6f5LsxKij_-lhcg-G9-XB8lKSf8ciWLosGwukoZB1HSzYVrmGC3dFMg",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "‘Our work has only just begun’: Mamdani, Sanders and AOC rally the faithful ahead of NYC mayoral election",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2025/oct/27/our-work-has-only-just-begun-mamdani-sanders-and-aoc-rally-the-faithful-ahead-of-nyc-mayoral-election",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Mamdani rallies with Sanders and Ocasio-Cortez as Democrats close ranks around NYC mayoral nominee",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/26/politics/mamdani-sanders-aoc-rally-nyc",
-          "source": "CNN"
-        },
-        {
-          "title": "'Fighting a criminal presidency': Mamdani's final rally was about America, not Israel-Gaza",
-          "snippet": "",
-          "url": "https://www.haaretz.com/us-news/2025-10-27/ty-article-magazine/.premium/fighting-a-criminal-presidency-mamdanis-final-rally-was-about-america-not-israel-gaza/0000019a-2542-df27-abdb-2d72bbc50000",
-          "source": "Haaretz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "henri bontenbal",
       "trafficCount": "500+",
       "pubDate": "Mon, 27 Oct 2025 15:10:00 -0700",
@@ -123,6 +123,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "zohran mamdani",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 27 Oct 2025 15:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1J_Wm6f5LsxKij_-lhcg-G9-XB8lKSf8ciWLosGwukoZB1HSzYVrmGC3dFMg",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "‘Our work has only just begun’: Mamdani, Sanders and AOC rally the faithful ahead of NYC mayoral election",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/oct/27/our-work-has-only-just-begun-mamdani-sanders-and-aoc-rally-the-faithful-ahead-of-nyc-mayoral-election",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Mamdani rallies with Sanders and Ocasio-Cortez as Democrats close ranks around NYC mayoral nominee",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/26/politics/mamdani-sanders-aoc-rally-nyc",
+          "source": "CNN"
+        },
+        {
+          "title": "'Fighting a criminal presidency': Mamdani's final rally was about America, not Israel-Gaza",
+          "snippet": "",
+          "url": "https://www.haaretz.com/us-news/2025-10-27/ty-article-magazine/.premium/fighting-a-criminal-presidency-mamdanis-final-rally-was-about-america-not-israel-gaza/0000019a-2542-df27-abdb-2d72bbc50000",
+          "source": "Haaretz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "peilingen tweede kamer",
       "trafficCount": "5000+",
       "pubDate": "Mon, 27 Oct 2025 15:00:00 -0700",
@@ -142,9 +170,9 @@
           "source": "NOS"
         },
         {
-          "title": "Wouter de Winter ziet chaos toenemen: 'Paniek bij het CDA'",
+          "title": "'Paniek in CDA-gelederen door dalende peilingen'",
           "snippet": "",
-          "url": "https://www.telegraaf.nl/video/wouter-de-winter-ziet-chaos-toenemen-paniek-bij-het-cda/100557024.html",
+          "url": "https://www.telegraaf.nl/podcast/paniek-in-cda-gelederen-door-dalende-peilingen/100360186.html",
           "source": "De Telegraaf"
         }
       ],
@@ -170,10 +198,10 @@
           "source": "Het Parool"
         },
         {
-          "title": "Video | Koninklijke familie komt aan voor feest ter ere van 750 jaar Amsterdam",
+          "title": "Is 750 jaar echt zo oud? Deze Brabantse steden zijn ouder dan Amsterdam",
           "snippet": "",
-          "url": "https://www.nu.nl/321043/video/koninklijke-familie-komt-aan-voor-feest-ter-ere-van-750-jaar-amsterdam.html",
-          "source": "NU"
+          "url": "https://www.bd.nl/tilburg/is-750-jaar-echt-zo-oud-deze-brabantse-steden-zijn-ouder-dan-amsterdam~adc2e3f0/",
+          "source": "Brabants Dagblad"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.omroepzeeland.nl/nieuws/17905523/om-eist-dertig-maanden-cel-tegen-oostburgse-vrouw-voor-deelname-aan-terroristische-organisatie",
           "source": "Omroep Zeeland"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "danny blind",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 27 Oct 2025 13:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9p2iMmV9y0kLszHA9V5nIgZnhlciAs8RxS-TU_3iVMvP2Oa26Ays-rlMzIZM",
-      "pictureSource": "NU",
-      "relatedSearch": [
-        {
-          "title": "Ajax-commissarissen waren kritisch op aanstelling Heitinga: 'Rugzak niet vol'",
-          "snippet": "",
-          "url": "https://www.nu.nl/voetbal/6373575/ajax-commissarissen-waren-kritisch-op-aanstelling-heitinga-rugzak-niet-vol.html",
-          "source": "NU"
-        },
-        {
-          "title": "Perez ziet 'eilandjes' bij Ajax: 'Hoe kan je op deze manier een club runnen?'",
-          "snippet": "",
-          "url": "https://www.voetbalprimeur.nl/nieuws/1706156/perez-over-ajax.html",
-          "source": "VoetbalPrimeur.nl"
-        },
-        {
-          "title": "Danny Blind open over vertrek bij Ajax: ‘Als rvc waren we heel kritisch over aanstellen Heitinga’",
-          "snippet": "",
-          "url": "https://www.parool.nl/sport/danny-blind-open-over-vertrek-bij-ajax-als-rvc-waren-we-heel-kritisch-over-aanstellen-heitinga~bbfabd61/",
-          "source": "Het Parool"
         }
       ],
       "link": "https://imtaqin.id/"
