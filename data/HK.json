@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-28 23:09:24",
+  "lastUpdate": "2025-10-28 23:20:48",
   "data": [
     {
       "title": "google",
@@ -43,10 +43,10 @@
           "source": "About Amazon"
         },
         {
-          "title": "Amazon Lays Off 14,000 Corporate Workers - WSJ",
+          "title": "Amazon to Cut 14,000 White-Collar Jobs",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/amazon-to-layoff-tens-of-thousands-of-corporate-workers-056ebc4d",
-          "source": "The Wall Street Journal"
+          "url": "https://www.nytimes.com/2025/10/27/technology/amazon-layoffs.html",
+          "source": "The New York Times"
         },
         {
           "title": "Amazon to announce largest layoffs in company history, source says",
@@ -65,15 +65,15 @@
       "pictureSource": "WWLTV.com",
       "relatedSearch": [
         {
-          "title": "'God as My Witness' documentary turns WWL investigation into global story",
-          "snippet": "",
-          "url": "https://www.wwltv.com/video/news/investigations/losing-faith/god-as-my-witness-documentary-turns-wwl-investigation-into-global-story/289-98349209-cf48-498e-acd6-eb064a9fb219",
-          "source": "WWLTV.com"
-        },
-        {
           "title": "'God As My Witness' documentary turns WWL investigation into global story",
           "snippet": "",
           "url": "https://www.wwltv.com/article/news/investigations/losing-faith/god-as-my-witness-documentary-turns-wwl-investigation-into-global-story/289-92feba04-589a-47ae-b371-85df42dfe544",
+          "source": "WWLTV.com"
+        },
+        {
+          "title": "'God as My Witness' documentary turns WWL investigation into global story",
+          "snippet": "",
+          "url": "https://www.wwltv.com/video/news/investigations/losing-faith/god-as-my-witness-documentary-turns-wwl-investigation-into-global-story/289-98349209-cf48-498e-acd6-eb064a9fb219",
           "source": "WWLTV.com"
         },
         {
@@ -115,7 +115,7 @@
     },
     {
       "title": "tesla",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 28 Oct 2025 12:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRejYgTbUYFxdFP8c3KxZKy01HmblJM7o4GaDcJTZV8fJ6iN976hJR2G2Fc05E",
       "pictureSource": "Financial Times",
@@ -198,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chinas",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 28 Oct 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQbKku4SIZAD6P8yQxDBMTUw_WPVYoD4D5ALKIEFZCPl5mDQ8TZT6zE8416fU",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "If you think Trump’s China deal is the end of the story, you haven’t been paying attention",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/27/economy/rare-earth-minerals-china-us-trade-deal",
-          "source": "CNN"
-        },
-        {
-          "title": "Trump’s China Deal May Avert a Crisis of His Own Making",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/27/us/politics/trump-china-trade-deal-talks.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "US and China seek to strike a deal over rare earths, tariffs and soybeans",
-          "snippet": "",
-          "url": "https://apnews.com/article/trump-china-tariffs-rare-earths-soybeans-exports-efa3b57ce5cd94ee5bfcad1988d9fccd",
-          "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "poland",
       "trafficCount": "100+",
       "pubDate": "Tue, 28 Oct 2025 11:10:00 -0700",
@@ -273,10 +245,38 @@
           "source": "富途牛牛"
         },
         {
-          "title": "European Equities Close Mostly Lower in Tuesday Trading; Nvidia to Invest $1 Billion in Nokia",
+          "title": "Opinion: Nvidia's bet on Nokia's 6G value",
           "snippet": "",
-          "url": "https://www.marketscreener.com/news/european-equities-close-mostly-lower-in-tuesday-trading-nvidia-to-invest-1-billion-in-nokia-ce7d5ddcd089f122",
-          "source": "MarketScreener"
+          "url": "https://www.fierce-network.com/wireless/opinion-nvidias-bet-nokias-6g-value",
+          "source": "Fierce Network"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "us-china",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 28 Oct 2025 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQbKku4SIZAD6P8yQxDBMTUw_WPVYoD4D5ALKIEFZCPl5mDQ8TZT6zE8416fU",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "If you think Trump’s China deal is the end of the story, you haven’t been paying attention",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/27/economy/rare-earth-minerals-china-us-trade-deal",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump’s China Deal May Avert a Crisis of His Own Making",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/27/us/politics/trump-china-trade-deal-talks.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "US and China seek to strike a deal over rare earths, tariffs and soybeans",
+          "snippet": "",
+          "url": "https://apnews.com/article/trump-china-tariffs-rare-earths-soybeans-exports-efa3b57ce5cd94ee5bfcad1988d9fccd",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
