@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-28 23:44:57",
+  "lastUpdate": "2025-10-28 23:51:40",
   "data": [
     {
       "title": "weather news",
@@ -15,16 +15,16 @@
           "source": "Sky News"
         },
         {
-          "title": "Hurricane Melissa: a visual guide to Jamaica’s strongest storm since 1851",
+          "title": "Hurricane Melissa latest updates: Cuba braces for landfall after Jamaica suffers flooding and damage to buildings",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
+          "url": "https://www.theguardian.com/world/live/2025/oct/28/hurricane-melissa-live-updates-category-5-storm-jamaica-landfall-latest-news",
           "source": "The Guardian"
         },
         {
-          "title": "Hurricane Melissa plows across Jamaica, its eye now moving toward Cuba: Live updates",
+          "title": "Jamaican Resorts Lock Down Ahead Of Hurricane Melissa",
           "snippet": "",
-          "url": "https://www.cnn.com/weather/live-news/hurricane-melissa-jamaica-landfall-tuesday-climate",
-          "source": "CNN"
+          "url": "https://weather.com/storms/hurricane/video/jamaica-tourists-hotel-lockdown-melissa",
+          "source": "The Weather Channel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "apple news",
       "trafficCount": "100+",
       "pubDate": "Tue, 28 Oct 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbsXKrrH91CqrIAjXZIOjn3zxwyjjCw8toSLELnvBQwhtTe6derRD1Kh1wrDs",
-      "pictureSource": "BGR",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuXTz-mmB5MAJsOzfTTaaF0FPqzDxUB-k763Dy8C5UQfCtJBLNGHgFyRyZx1U",
+      "pictureSource": "CNET",
       "relatedSearch": [
+        {
+          "title": "Apple's Next Big Move: iPhone 20 Could Reportedly Ditch Every Physical Button",
+          "snippet": "",
+          "url": "https://www.cnet.com/tech/mobile/apples-next-big-move-iphone-20-could-reportedly-ditch-every-physical-button/",
+          "source": "CNET"
+        },
         {
           "title": "iPhone 20 Could Feature Solid-State Buttons - Here's What That Means",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://9to5mac.com/2025/10/28/leaker-says-iphone-20-will-drop-every-physical-button-go-all-in-on-haptics/",
           "source": "9to5Mac"
-        },
-        {
-          "title": "iPhone 18 Said to Use Simpler Camera Control Button Design",
-          "snippet": "",
-          "url": "https://www.macrumors.com/2025/10/28/iphone-18-camera-control-capacitive/",
-          "source": "MacRumors"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kenya plane crash",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 28 Oct 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ87npzErPimnWlvpEHE8eia526IajU_FgUKThApt0spWabPQEK76mOhMc5Ffo",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Kenya plane crashes kills Hungarian and German tourists and local pilot",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c75146k9z4no",
-          "source": "BBC"
-        },
-        {
-          "title": "11 killed in Kenya plane crash while en route to Maasai Mara National Reserve",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/28/africa/small-plane-crash-kenya-intl",
-          "source": "CNN"
-        },
-        {
-          "title": "‘No survivors’ after tourist plane crashes en route to Kenya safari reserve",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/news/world/africa/kwale-plane-crash-maasai-kenya-b2853490.html",
-          "source": "The Independent"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "game of thrones news",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Oct 2025 13:50:00 -0700",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.cinemablend.com/game-of-thrones-news/knight-of-the-seven-kingdoms-showrunner-teases-inclusion-game-of-thrones-villain-walder-frey",
           "source": "Cinemablend"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kenya plane crash",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 28 Oct 2025 13:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ87npzErPimnWlvpEHE8eia526IajU_FgUKThApt0spWabPQEK76mOhMc5Ffo",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Kenya plane crashes kills Hungarian and German tourists and local pilot",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c75146k9z4no",
+          "source": "BBC"
+        },
+        {
+          "title": "11 killed in Kenya plane crash while en route to Maasai Mara National Reserve",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/28/africa/small-plane-crash-kenya-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "‘No survivors’ after tourist plane crashes en route to Kenya safari reserve",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/news/world/africa/kwale-plane-crash-maasai-kenya-b2853490.html",
+          "source": "The Independent"
         }
       ],
       "link": "https://imtaqin.id/"
