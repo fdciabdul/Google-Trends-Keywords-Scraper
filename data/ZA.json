@@ -1,26 +1,73 @@
 {
-  "lastUpdate": "2025-10-28 11:06:21",
+  "lastUpdate": "2025-10-28 11:16:48",
   "data": [
     {
-      "title": "latest news",
+      "title": "google news",
       "trafficCount": "100+",
-      "pubDate": "Tue, 28 Oct 2025 03:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Tue, 28 Oct 2025 04:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvX16wXgqrDQJHmM2XiUItDkdeVdReZ90rCcX68zBoWF1YUVdJQYkoNO0HAO0",
+      "pictureSource": "Naples Daily News",
+      "relatedSearch": [
+        {
+          "title": "Google rolls out ‘preferred sources’ feature. How to add Naples Daily News.",
+          "snippet": "",
+          "url": "https://www.naplesnews.com/story/news/2025/10/28/google-rolls-out-preferred-sources-feature-how-to-add-naples-daily-news/86930819007/",
+          "source": "Naples Daily News"
+        },
+        {
+          "title": "How to make NPR and your local station your preferred news source on Google",
+          "snippet": "",
+          "url": "https://www.wvxu.org/local-news/2025-10-27/how-to-make-npr-and-your-local-station-your-preferred-news-source-on-google",
+          "source": "WVXU"
+        },
+        {
+          "title": "Add Redleg Nation as your preferred source on Google Search",
+          "snippet": "",
+          "url": "https://www.redlegnation.com/2025/10/19/add-redleg-nation-as-your-preferred-source-on-google-search/",
+          "source": "Redleg Nation"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meta",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 28 Oct 2025 04:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTruUN8axc9OA7eKVgEMa5KiS2Qu59ysMQpQTqfJWWnGVXo-ASzCN5023sJIhw",
+      "pictureSource": "Business Insider",
+      "relatedSearch": [
+        {
+          "title": "Meta tells some employees their jobs are being replaced by tech — read the memo",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/meta-job-cuts-risk-org-replaced-by-tech-layoffs-2025-10",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Exclusive: Meta slashes jobs in its AI operations",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/10/22/meta-superintelligence-tbd-ai-reorg",
+          "source": "Axios"
+        },
+        {
+          "title": "Meta lays off 600 from 'bloated' AI unit as Wang cements leadership",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html",
+          "source": "CNBC"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "trump news",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 28 Oct 2025 03:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpWiq9yzAnnHGn3oUEVdpeHOROxuKovakX7DEN32gK40pgVt9ycjEk-x84J9U",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMmj-B3Zcx5x9RXoah7Jd7upu0a0SymFfOEXNhtiPdCmfyDB8SH4bZLhJdScA",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Trump praises troops and tariffs aboard US carrier in Japan",
+          "title": "Trump ends Japan leg of Asia tour after meeting Sanae Takaichi",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/c4gzdrd19n5t",
+          "url": "https://www.bbc.com/news/articles/c8drem8518do",
           "source": "BBC"
         },
         {
@@ -39,8 +86,45 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "mamelodi sundowns vs orlando pirates",
+      "title": "latest news",
       "trafficCount": "100+",
+      "pubDate": "Tue, 28 Oct 2025 03:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ukraine news",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 28 Oct 2025 03:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWuOxqqyJkiuvI_2gW5zCI4aM1CqHYk4y9BEHs_X6-Lnf7JLktYx5EJlh76V0",
+      "pictureSource": "POLITICO.eu",
+      "relatedSearch": [
+        {
+          "title": "Hungary plans anti-Ukraine bloc with Czechia, Slovakia",
+          "snippet": "",
+          "url": "https://www.politico.eu/article/hungary-anti-ukraine-bloc-czechia-slovakia-viktor-orban-andrej-babis-robert-fico/",
+          "source": "POLITICO.eu"
+        },
+        {
+          "title": "Hungary seeks to form anti-Ukraine alliance in EU with Czechia and Slovakia – Orbán's adviser",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/eng/news/2025/10/28/8004713/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Hungary Eyes EU Coalition with Czechia and Slovakia Against Ukraine Support",
+          "snippet": "",
+          "url": "https://mezha.net/eng/bukvy/hungary-eyes-eu-coalition-with-czechia-and-slovakia-against-ukraine-support/",
+          "source": "#Mezha"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mamelodi sundowns vs orlando pirates",
+      "trafficCount": "200+",
       "pubDate": "Tue, 28 Oct 2025 03:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6OBYo8IWDHJ-mN6D1ZEKwbHKDJDLFjnXIoWEItjSdYQdA-lU-Zz_yqsGVTEU",
       "pictureSource": "themercury.co.za",
@@ -142,10 +226,10 @@
           "source": "DailyGame.at"
         },
         {
-          "title": "Kostenloser Battle-Royale-Modus von Battlefield 6 ist endlich da – fast",
+          "title": "Electronic Arts: Battlefield 6 geht durch die Decke, aber die EA-Aktie hat nichts davon Von Aktienwelt360",
           "snippet": "",
-          "url": "https://www.notebookcheck.com/Kostenloser-Battle-Royale-Modus-von-Battlefield-6-ist-endlich-da-fast.1148265.0.html",
-          "source": "Notebookcheck"
+          "url": "https://de.investing.com/news/stock-market-news/electronic-arts-battlefield-6-geht-durch-die-decke-aber-die-eaaktie-hat-nichts-davon-3200122",
+          "source": "Investing.com Deutsch"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,100 +248,16 @@
           "source": "Daily Maverick"
         },
         {
+          "title": "EFF tells DA to apologise for ‘enemy number one’ comments to gain support on Lesufi' s no-confidence motion",
+          "snippet": "",
+          "url": "https://iol.co.za/news/politics/2025-10-28-eff-tells-da-to-apologise-for-enemy-number-one-comments-to-gain-support-on-lesufi-s-no-confidence-motion/",
+          "source": "IOL"
+        },
+        {
           "title": "Why ‘AmaPanyaza’ was unlawful",
           "snippet": "",
           "url": "https://mg.co.za/thought-leader/opinion/2025-10-27-why-amapanyaza-was-unlawful/",
           "source": "The Mail & Guardian"
-        },
-        {
-          "title": "Gauteng EFF joins MK, ActionSA in refusing to engage with DA over its no-confidence motion in Lesufi",
-          "snippet": "",
-          "url": "https://www.ewn.co.za/2025/10/28/gauteng-eff-joins-mk-actionsa-in-refusing-to-engage-with-da-over-its-no-confidence-motion-in-lesufi",
-          "source": "EWN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "atalanta vs ac milan",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 28 Oct 2025 01:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxvoSkQteMfB3Jw_6qTEA9IvZrSwkfkmXs6dBpuv4Ar6dWKPXcKffWjNFv608",
-      "pictureSource": "Goal.com",
-      "relatedSearch": [
-        {
-          "title": "AC Milan expecting 'a lot' from Christopher Nkunku as coach Max Allegri hails ex-Chelsea forward's 'extraordinary technique' ahead of possible first Serie A start",
-          "snippet": "",
-          "url": "https://www.goal.com/en-za/lists/ac-milan-expecting-christopher-nkunku-coach-max-allegri-chelsea-extraordinary-technique-first-serie-a-start/blt2f8beb276cb8953b",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Ricci with the last ‘Azzurri opportunity’ as Gattuso set to watch Atalanta – Milan from stands",
-          "snippet": "",
-          "url": "https://milanreports.com/2025/10/28/ricci-azzurri-opportunity-gattuso/",
-          "source": "Milanreports.com"
-        },
-        {
-          "title": "Allegri: Milan squad ‘Strong enough’ despite injury problems",
-          "snippet": "",
-          "url": "https://football-italia.net/allegri-milan-squad-strong-enough-injury/",
-          "source": "Football Italia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "grokipedia",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 28 Oct 2025 00:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfnNHKWQc7LAGh5VHjkhh2B62iY743fNmqTE5tkmGwOSPg4TB6WKDvEKJTclg",
-      "pictureSource": "The Verge",
-      "relatedSearch": [
-        {
-          "title": "Elon Musk’s Grokipedia contains copied Wikipedia pages",
-          "snippet": "",
-          "url": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied",
-          "source": "The Verge"
-        },
-        {
-          "title": "Musk Takes On Wikipedia With AI-Generated ‘Grokipedia’—What To Know",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/siladityaray/2025/10/28/musk-takes-on-wikipedia-with-ai-generated-grokipedia-what-to-know/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Musk's new Grokipedia crashes on launch day, hosts nearly 900K articles",
-          "snippet": "",
-          "url": "https://www.foxbusiness.com/fox-news-tech/musks-new-grokipedia-crashes-launch-day-hosts-nearly-900k-articles",
-          "source": "Fox Business"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "uae vs united states",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 27 Oct 2025 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6PTwt7mtwF40Z2krFXIHz7tSWDl0pUW2OSoFUMV9OKiE7AteugOf1ILWNFDk",
-      "pictureSource": "The Daily Jagran",
-      "relatedSearch": [
-        {
-          "title": "UAE vs USA, ICC Men's Cricket World Cup League 2 2023-27: United States Of America Opt To Bowl Against Bottom-Placed UAE",
-          "snippet": "",
-          "url": "https://www.thedailyjagran.com/cricket/uae-national-cricket-team-vs-united-states-national-cricket-team-scorecard-dubai-uae-vs-usa-toss-rahul-chopra-monank-patel-10276228",
-          "source": "The Daily Jagran"
-        },
-        {
-          "title": "USA vs UAE Live Score, ICC Cricket World Cup League 2: Follow For Ball-By-Ball Commentary",
-          "snippet": "",
-          "url": "https://www.timesnownews.com/sports/cricket/usa-vs-uae-live-score-icc-cricket-world-cup-league-two-usa-vs-uae-match-scorecard-updates-from-dubai-liveblog-153063294",
-          "source": "Times Now"
-        },
-        {
-          "title": "UAE vs USA Match Prediction ICC CWC League 2 2025 Match 87",
-          "snippet": "",
-          "url": "https://www.cricadium.com/uae-vs-usa-match-prediction-icc-cwc-league-2-2025-match-87-who-will-win-todays-match",
-          "source": "Cricadium"
         }
       ],
       "link": "https://imtaqin.id/"
