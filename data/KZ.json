@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-28 08:24:36",
+  "lastUpdate": "2025-10-28 08:38:25",
   "data": [
     {
       "title": "grokipedia",
@@ -87,22 +87,22 @@
     },
     {
       "title": "tengrinews",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 27 Oct 2025 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-OOV8jTZoWZNoN2OXeUSwTOCt8q515it-4ciGY3xYiRM4GQm4mvjnY7QaviI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkexBtiM2VeliOrNLNjHq4T1w92xDRBF3V5ZoBN1hfH_F0l6fBlAoUFHWtgck",
       "pictureSource": "Tengrinews",
       "relatedSearch": [
+        {
+          "title": "Нацбанк ответил на вопрос о купюре в 3000 тенге",
+          "snippet": "",
+          "url": "https://tengrinews.kz/healthy/natsbank-otvetil-na-vopros-o-kupyure-v-3000-tenge-583243/",
+          "source": "Tengrinews"
+        },
         {
           "title": "КНБ предотвратил теракт в Алматы",
           "snippet": "",
           "url": "https://tengrinews.kz/events/knb-predotvratil-terakt-v-almatyi-584215/",
           "source": "Tengrinews"
-        },
-        {
-          "title": "5 иностранцев готовили теракт в Алматы – КНБ",
-          "snippet": "",
-          "url": "https://www.zakon.kz/proisshestviia/6495795-5-inostrantsev-gotovili-terakt-v-almaty--knb.html",
-          "source": "Новости Zakon.kz"
         },
         {
           "title": "КНБ сообщает о «предотвращении теракта» в Алматы и аресте иностранцев",
@@ -111,6 +111,15 @@
           "source": "Радио Азаттык"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости казахстана",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 27 Oct 2025 20:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://kaztag.kz/ru/news/tokaev-snyal-nukenova-s-posta-zavotdelom-vnutrenney-politiki-ap",
           "source": "КазТАГ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ак барс – адмирал",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 27 Oct 2025 11:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCgX59sMVZ_-qeMF97YUsvyJM6TWFHuVVYqFczWj1Oen6V7EHaZ_Lerz_RKxc",
-      "pictureSource": "KHL",
-      "relatedSearch": [
-        {
-          "title": "«Ак Барс» повторил клубный рекорд, Ткачев забил «Авангарду», «Нефтехимик» – в топ-5 Востока: Новости",
-          "snippet": "",
-          "url": "https://www.khl.ru/news/2025/10/28/552396.html",
-          "source": "KHL"
-        },
-        {
-          "title": "Тамбиев о спаренных матчах: «Первые игры “Адмиралу” всегда тяжело даются — дело в перелетах и в смене часовых поясов. Это любому человеку будет даваться очень сложно»",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/hockey/68488171/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "“Ак Барс” продлил победную серию до десяти матчей, Фальковский отметился ассистом",
-          "snippet": "",
-          "url": "https://smartpress.by/idea/sport/belorus-falkovskiy-sdelal-assist-v-10-y-pobede-ak-barsa-podryad/",
-          "source": "Smartpress.by"
         }
       ],
       "link": "https://imtaqin.id/"
