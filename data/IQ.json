@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2025-10-28 10:57:12",
+  "lastUpdate": "2025-10-28 11:06:06",
   "data": [
     {
-      "title": "netflix",
+      "title": "movies",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 28 Oct 2025 03:50:00 -0700",
+      "picture": "",
+      "pictureSource": "NPR",
+      "relatedSearch": [
+        {
+          "title": "Spooky but not scary: movies to watch when you want chills, not nightmares",
+          "snippet": "",
+          "url": "https://www.npr.org/2025/10/26/nx-s1-5579592/spooky-but-not-scary-movies-to-watch-when-you-want-chills-not-nightmares",
+          "source": "NPR"
+        },
+        {
+          "title": "19 movies to watch this Halloween in theaters or stream on Netflix, Disney+ and Hulu",
+          "snippet": "",
+          "url": "https://www.yahoo.com/entertainment/article/19-movies-to-watch-this-halloween-in-theaters-or-stream-on-netflix-disney-and-hulu-203627086.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Top 13 horror movies of 2025: Do you agree with our No. 1 pick?",
+          "snippet": "",
+          "url": "https://www.mercurynews.com/2025/10/27/best-top-horror-movies-films-2025-weapons-sinners-good-boy-halloween/",
+          "source": "The Mercury News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sports",
       "trafficCount": "100+",
+      "pubDate": "Tue, 28 Oct 2025 03:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBJtiaUgYDzKiGsfpVX85Yt-_h5HwWgY9FkBsn9Yw2iUNQ2-vUW9_CldXmGqI",
+      "pictureSource": "MLB.com",
+      "relatedSearch": [
+        {
+          "title": "Freeman does it again! Walk-off HR ends epic 18-inning Game 3",
+          "snippet": "",
+          "url": "https://www.mlb.com/news/dodgers-win-world-series-game-3-2025",
+          "source": "MLB.com"
+        },
+        {
+          "title": "Dodgers produce 18-inning World Series sequel, `The Late, Late Sho'",
+          "snippet": "",
+          "url": "https://www.foxsports.com/articles/mlb/dodgers-produce-18inning-world-series-sequel-the-late-late-sho",
+          "source": "FOX Sports"
+        },
+        {
+          "title": "L.A. wins World Series Game 3 on Freddie Freeman walk-off home run in 18th inning: Live updates and reaction",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/live-blogs/dodgers-win-game-4-extra-innings/WatNalndEo3X/",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "netflix",
+      "trafficCount": "200+",
       "pubDate": "Tue, 28 Oct 2025 03:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe1qxYsOv-RCMBFXz_vZrhT_c1GdV0skOHKGYA_FPQ052J-x69jkt0My15u2U",
       "pictureSource": "Netflix",
@@ -33,9 +89,15 @@
       "title": "amazon",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Oct 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAwKladV5bosKlgYHgtxaev-xNvQHEaldEnaTcHdA47zvvuPGQD_BfbZMbhFQ",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpActNV6GRLddpGvzaDhcC7B9hoQeQEMpXbjS_zjUNvOm0k4_Gebr9cdvDMIo",
+      "pictureSource": "Reuters",
       "relatedSearch": [
+        {
+          "title": "Exclusive: Amazon targets as many as 30,000 corporate job cuts, sources say",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/world-at-work/amazon-targets-many-30000-corporate-job-cuts-sources-say-2025-10-27/",
+          "source": "Reuters"
+        },
         {
           "title": "Amazon laying off about 14,000 corporate workers as it invests more in AI",
           "snippet": "",
@@ -43,16 +105,38 @@
           "source": "CNBC"
         },
         {
-          "title": "Amazon just cut 14,000 jobs, and it’s not done",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/28/business/amazon-layoffs",
-          "source": "CNN"
-        },
-        {
           "title": "Staying nimble and continuing to strengthen our organizations",
           "snippet": "",
           "url": "https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction",
           "source": "About Amazon"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "xbox",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 28 Oct 2025 03:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjt7qo5XN8pZZjKpN60oeHPgNZezDzHqnFWz-N-93G8LykdcifQ4xcfAdmYVo",
+      "pictureSource": "Xbox",
+      "relatedSearch": [
+        {
+          "title": "Halo: Campaign Evolved – Answering the Big Questions About This Ambitious Remake",
+          "snippet": "",
+          "url": "https://news.xbox.com/en-us/2025/10/24/halo-campaign-evolved-answering-the-big-questions/",
+          "source": "Xbox"
+        },
+        {
+          "title": "Halo: Campaign Evolved launches on PS5 in 2026",
+          "snippet": "",
+          "url": "https://blog.playstation.com/2025/10/24/halo-campaign-evolved-launches-on-ps5-in-2026/",
+          "source": "PlayStation.Blog"
+        },
+        {
+          "title": "Introducing Halo: Campaign Evolved | Halo - Official Site (en)",
+          "snippet": "",
+          "url": "https://www.halowaypoint.com/news/introducing-halo-campaign-evolved",
+          "source": "Halo Waypoint"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,38 +189,38 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "M&A News: Apple’s (AAPL) Supplier Skyworks Could Snap Up Rival Qorvo in $8B Deal",
+          "title": "Skyworks Solutions (SWKS) in Talks to Acquire Qorvo (QRVO)",
           "snippet": "",
-          "url": "https://www.tipranks.com/news/ma-news-apples-aapl-supplier-skyworks-could-snap-up-rival-qorvo-in-8b-deal",
-          "source": "TipRanks"
+          "url": "https://www.gurufocus.com/news/3163426/skyworks-solutions-swks-in-talks-to-acquire-qorvo-qrvo?mobile=true",
+          "source": "GuruFocus"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "xbox",
+      "title": "microsoft",
       "trafficCount": "100+",
       "pubDate": "Tue, 28 Oct 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjt7qo5XN8pZZjKpN60oeHPgNZezDzHqnFWz-N-93G8LykdcifQ4xcfAdmYVo",
-      "pictureSource": "Xbox",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQhL-5KYyxM3V3ir1Ij7XIetkrIpP0T7cEEdtkydSDLjWfzyidiSEYec2OPiM",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Halo: Campaign Evolved – Answering the Big Questions About This Ambitious Remake",
+          "title": "Microsoft Upgrade Leaves 99% of Analysts Bullish on the Stock",
           "snippet": "",
-          "url": "https://news.xbox.com/en-us/2025/10/24/halo-campaign-evolved-answering-the-big-questions/",
-          "source": "Xbox"
+          "url": "https://finance.yahoo.com/news/microsoft-upgrade-leaves-99-analysts-115109314.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Halo: Campaign Evolved launches on PS5 in 2026",
+          "title": "Microsoft: Golden Buying Opportunity Before Earnings (NASDAQ:MSFT)",
           "snippet": "",
-          "url": "https://blog.playstation.com/2025/10/24/halo-campaign-evolved-launches-on-ps5-in-2026/",
-          "source": "PlayStation.Blog"
+          "url": "https://seekingalpha.com/article/4833656-microsoft-golden-buying-opportunity-before-earnings",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "Introducing Halo: Campaign Evolved | Halo - Official Site (en)",
+          "title": "Microsoft Stock Rises. Every Analyst Now Says Buy After Latest Upgrade.",
           "snippet": "",
-          "url": "https://www.halowaypoint.com/news/introducing-halo-campaign-evolved",
-          "source": "Halo Waypoint"
+          "url": "https://www.barrons.com/articles/microsoft-stock-upgrade-buy-7fb9167b?gaa_at=eafs&gaa_n=AWEtsqccRPDfFypGBAKlN0xSFBb0yCDp28Ejp_j8GGVN33BpxDyVvXr8gWU8&gaa_ts=6900a722&gaa_sig=tqyYmJNOFohll2FDJFb2i0CVrXceQZt9LrjYoyc9evT-9PYCJrPttQ92rHxpiBGK_vBg2-B9eg9q9Xsz-dXlqg%3D%3D",
+          "source": "Barron's"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +254,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "microsoft",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 28 Oct 2025 03:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQhL-5KYyxM3V3ir1Ij7XIetkrIpP0T7cEEdtkydSDLjWfzyidiSEYec2OPiM",
-      "pictureSource": "Yahoo Finance",
-      "relatedSearch": [
-        {
-          "title": "Microsoft Upgrade Leaves 99% of Analysts Bullish on the Stock",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/microsoft-upgrade-leaves-99-analysts-115109314.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Microsoft: Golden Buying Opportunity Before Earnings (NASDAQ:MSFT)",
-          "snippet": "",
-          "url": "https://seekingalpha.com/article/4833656-microsoft-golden-buying-opportunity-before-earnings",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Microsoft Stock Rises. Every Analyst Now Says Buy After Latest Upgrade.",
-          "snippet": "",
-          "url": "https://www.barrons.com/articles/microsoft-stock-upgrade-buy-7fb9167b?gaa_at=eafs&gaa_n=AWEtsqfGHbiwU8cVe3f2PIIMpN8xZzU-2d7PvOk5mxKLQeTR_IjF9C2ivDPw&gaa_ts=6900a50c&gaa_sig=AxO7jSocqXUXmsQts8aFPcyNAyF3UKjh20r-JA5E_p5Bs0Ysh12s6yr0KjpR38V5F9Tfu8saX34RCMxczsYmlw%3D%3D",
-          "source": "Barron's"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "زلزال تركيا",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Oct 2025 01:20:00 -0700",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.skynewsarabia.com/varieties/1829939-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D9%82%D9%88%D9%8A-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
           "source": "سكاي نيوز عربية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ريال بتيس ضد أتلتيكو مدريد",
-      "trafficCount": "20000+",
-      "pubDate": "Mon, 27 Oct 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTeG63TtRLYfpgOo40GBE0PRLXlx_aHPTmE9LwezZbSNm90d2cYN2Oh2d-EhY",
-      "pictureSource": "اليوم السابع",
-      "relatedSearch": [
-        {
-          "title": "أتلتيكو مدريد يقتحم المربع الذهبي للدوري الإسباني بثنائية ضد ريال بيتيس",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/10/28/%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D8%A7%D9%84%D9%85%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A-%D9%84%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D8%A8%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%B1%D9%8A%D8%A7%D9%84/7174835",
-          "source": "اليوم السابع"
-        },
-        {
-          "title": "أتلتيكو مدريد يَهزم بيتيس في الدوري الإسباني",
-          "snippet": "",
-          "url": "https://arabic.sport360.com/article/%D9%83%D8%B1%D8%A9-%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9/%D8%A7%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF/1349167/%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D9%8E%D9%87%D8%B2%D9%85-%D8%A8%D9%8A%D8%AA%D9%8A%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84",
-          "source": "Sport360"
-        },
-        {
-          "title": "أتلتيكو مدريد يعود للمنافسة من جديد !",
-          "snippet": "",
-          "url": "https://hihi2.com/2025/10/28/p3447692.html",
-          "source": "هاي كورة"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real betis vs atlético madrid",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 27 Oct 2025 12:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4WJbYJ1kJlt59i_U4WuDH1KiNi-xY80CVJu8kEOfn7T22di3QuEeQV0jXQI",
-      "pictureSource": "MundoBetis",
-      "relatedSearch": [
-        {
-          "title": "Simeone elogia a su hijo Giuliano: «Hizo un gran trabajo»",
-          "snippet": "",
-          "url": "https://mundobetis.com/2025/10/28/simeone-elogia-a-su-hijo-giuliano-hizo-un-gran-trabajo/",
-          "source": "MundoBetis"
-        },
-        {
-          "title": "Oblak: \"Nos está costando mucho dejar la puerta a cero y yo soy el más enfadado\"",
-          "snippet": "",
-          "url": "https://tribuna.com/es/news/2025-10-28-oblak-nos-esta-costando-mucho-dejar-la-puerta-a-cero-y-yo-soy-el-mas-enfadado/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "El arranque condicionó el partido",
-          "snippet": "",
-          "url": "https://www.diariodesevilla.es/opinion/analisis/arranque-condiciono-partido_0_2005111634.html",
-          "source": "Diario de Sevilla"
         }
       ],
       "link": "https://imtaqin.id/"
