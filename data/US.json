@@ -1,37 +1,149 @@
 {
-  "lastUpdate": "2025-10-29 18:30:56",
+  "lastUpdate": "2025-10-29 18:45:11",
   "data": [
     {
-      "title": "cnbc",
-      "trafficCount": "2000+",
+      "title": "spy",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 29 Oct 2025 11:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrUWUSuXp8gdZPgUxvO5QYuR24O9XWQGVQHe8in6PmU0lxn_8E7YV-uo2HeSQ",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Attorney general blames outdated law for collapse of China spy case",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cn972plvv43o",
+          "source": "BBC"
+        },
+        {
+          "title": "Britain Needs China’s Money. It Fears What Comes With It.",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/27/world/europe/britain-china-national-security-economy.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Defence lawyers would have used Tories’ statements to dismiss China spy case, attorney general says",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/oct/29/defence-lawyers-would-have-used-tories-statements-to-dismiss-china-spy-case-attorney-general-says",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prime rate",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 29 Oct 2025 11:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8UuTyDXGbfXJGjyHIBpaxzJN_EOH8U5ihLaYDklXe8NGWdEUKV4Ed3bY7Vsc",
+      "pictureSource": "Business Wire",
+      "relatedSearch": [
+        {
+          "title": "Fifth Third Bank to Decrease Prime Lending Rate to 7.00%",
+          "snippet": "",
+          "url": "https://www.businesswire.com/news/home/20251029838390/en/Fifth-Third-Bank-to-Decrease-Prime-Lending-Rate-to-7.00",
+          "source": "Business Wire"
+        },
+        {
+          "title": "Fifth Third Bank to Decrease Prime Lending Rate to 7.00%",
+          "snippet": "",
+          "url": "https://www.marketscreener.com/news/fifth-third-bank-to-decrease-prime-lending-rate-to-7-00-ce7d5dd2df8bff25",
+          "source": "MarketScreener"
+        },
+        {
+          "title": "TD Canada Trust announces change to TD Prime Rate",
+          "snippet": "",
+          "url": "https://www.marketscreener.com/news/td-canada-trust-announces-change-to-td-prime-rate-ce7d5dd2df88f02c",
+          "source": "MarketScreener"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "roma",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 29 Oct 2025 11:20:00 -0700",
+      "picture": "",
+      "pictureSource": "Virgilio",
+      "relatedSearch": [
+        {
+          "title": "Meteo a Roma e nel Lazio, torna la pioggia e scatta l'allerta gialla",
+          "snippet": "",
+          "url": "https://www.virgilio.it/italia/roma/notizielocali/meteo_a_roma_e_nel_lazio_torna_la_pioggia_e_scatta_l_allerta_gialla-75946891.html",
+          "source": "Virgilio"
+        },
+        {
+          "title": "Bomba d'acqua a Roma, in arrivo forti piogge sulla Capitale: ecco dove e quando",
+          "snippet": "",
+          "url": "https://www.ilmessaggero.it/schede/bomba_d_acqua_roma_quando_arriva_dove_previsioni_meteo_ultime_notizie-le_previsioni-3-9149012.html",
+          "source": "Il Messaggero"
+        },
+        {
+          "title": "Allerta della Protezione Civile nel Lazio per rischio idrogeologico e idraulico",
+          "snippet": "",
+          "url": "https://www.latinaoggi.eu/news/home/312314/allerta-della-protezione-civile-nel-lazio-per-rischio-idrogeologico-e-idraulico.html",
+          "source": "Latina Oggi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "as roma",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 29 Oct 2025 11:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Ud_SKP16j29N9cA2_DHPAGhr1VfOSR6dmq2CIYdHqgxMOgysZo33v6ZTK1M",
+      "pictureSource": "La Gazzetta dello Sport",
+      "relatedSearch": [
+        {
+          "title": "LIVE Roma-Parma 0-0: si riparte con El Aynaoui al posto di Bailey, che era subentrato",
+          "snippet": "",
+          "url": "https://www.gazzetta.it/Calcio/Serie-A/Roma/29-10-2025/roma-parma-risultado-e-gol-in-diretta-serie-a.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "Massara gela i tifosi della Roma: \"Nessuna trattativa per i rinnovi di Dybala e Pellegrini\"",
+          "snippet": "",
+          "url": "https://www.sportmediaset.mediaset.it/mercato/massara-gela-i-tifosi-della-roma-nessuna-trattativa-per-i-rinnovi-di-dybala-e-pellegrini_105260241-202502k.shtml",
+          "source": "Sportmediaset"
+        },
+        {
+          "title": "Perché Ferguson è uscito subito dopo il colpo di Valenti: dagli esami approfonditi, alle caviglie fragili e la paura",
+          "snippet": "",
+          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2025/10/29-144161583/perch_ferguson_uscito_subito_dopo_il_colpo_di_valenti_dagli_esami_approfonditi_alle_caviglie_fragili_e_la_paura",
+          "source": "Corriere dello Sport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mortgage rates today",
+      "trafficCount": "20000+",
       "pubDate": "Wed, 29 Oct 2025 11:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkLOc1B45ay0kgIVtvASZtCzf2iGoy6lHut7VfN_EB3Qq3Sxck1j7mklbSHRY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSak9v8CSwbAylihlLcpO6PTog6_OKpExtKPIwCRLv185xV1DeW7fTNNDK--3s",
       "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Here's what changed in the new Fed statement",
+          "title": "Mortgage rates drop to the lowest level in over a year, pushing refinancing 111% higher annually",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/29/october-fed-statement-heres-what-changed-in-the-new-statement.html",
+          "url": "https://www.cnbc.com/2025/10/29/mortgage-rates-drop-to-the-lowest-level-in-over-a-year-pushing-refinancing-111percent-higher-annually.html",
           "source": "CNBC"
         },
         {
-          "title": "Sen. Gallego clashes with CNBC host over Democratic push to extend Obamacare subsidies",
+          "title": "What happens to mortgage rates now that the Fed cut rates? Here's what's happened previously.",
           "snippet": "",
-          "url": "https://www.foxnews.com/media/sen-gallego-clashes-cnbc-host-over-democratic-push-extend-obamacare-subsidies",
-          "source": "Fox News"
+          "url": "https://www.cbsnews.com/news/what-happens-to-mortgage-rates-now-that-the-fed-cut-rates-heres-whats-happened-previously/",
+          "source": "CBS News"
         },
         {
-          "title": "Sen. Gallego questions GOP trustworthiness on shutdown talks",
+          "title": "What the Fed’s Rate Decision Means for Loans, Credit Cards, Mortgages and More",
           "snippet": "",
-          "url": "https://ktar.com/arizona-news/shutdown-ruben-gallego-republicans/5766419/",
-          "source": "KTAR News 92.3 FM"
+          "url": "https://www.nytimes.com/2025/10/29/business/economy/fed-interest-rate-loans-mortgages.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "va lottery",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 29 Oct 2025 11:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXD8CgbjSVlhCVXJSOx1aLUYbg9AfXDfH0TL1TyGlJfzjamw0OwedjLoQcjs0",
       "pictureSource": "Cincinnati Enquirer",
@@ -59,7 +171,7 @@
     },
     {
       "title": "quantitative tightening",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 29 Oct 2025 11:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSovinJ6VMZC2embDEsexLz5RxJRkfSETHuKMnRo1Kvas4YAMd8myKL6KEeE3s",
       "pictureSource": "The Wall Street Journal",
@@ -67,7 +179,7 @@
         {
           "title": "The Fed’s $6.6 Trillion Test: When to End Its Portfolio Runoff - WSJ",
           "snippet": "",
-          "url": "https://www.wsj.com/economy/central-banking/the-feds-6-6-trillion-test-when-to-end-its-portfolio-runoff-9627b711?gaa_at=eafs&gaa_n=AWEtsqc9x-sxdXK1SqmD_eUuWfTDWJy_1g1fqAdXuxHYGw4BGr0rckqFEYa4&gaa_ts=69026035&gaa_sig=BC1iyiY-ak0t8h4INGJ3QadhpOMzqpHC0fmNdquzgMhT25JkQcWrtUQQovxoIrqnOXYFfJHMpSXXkcngudokLg%3D%3D",
+          "url": "https://www.wsj.com/economy/central-banking/the-feds-6-6-trillion-test-when-to-end-its-portfolio-runoff-9627b711?gaa_at=eafs&gaa_n=AWEtsqdlCujAqrz2VdwiL80DLWcG6NQwIEjEV2tztOjcT_GzpChH6cBs3mHW&gaa_ts=690263ba&gaa_sig=KKkjBQEmRscVwSwRYqxkjDm6XeC1SKfFFwVhlGCKRtfuQLG7JYRxab5IXwP72mR3c3qh72OAxrFaAWqZXss55A%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
@@ -77,10 +189,38 @@
           "source": "CNBC"
         },
         {
-          "title": "The Fed looks set to end its massive market intervention. Can it do that without spooking traders?",
+          "title": "The Fed’s $6 Trillion Balance Sheet Is About Right",
           "snippet": "",
-          "url": "https://www.marketwatch.com/story/the-fed-looks-set-to-end-its-massive-market-intervention-can-it-do-that-without-spooking-traders-e15f2233?gaa_at=eafs&gaa_n=AWEtsqdcaON-PZ5-6WAZ0bMhRU5cS5vVrNYVix-DTlnEZy98a3Yo1Xc2IoIE&gaa_ts=69026035&gaa_sig=QPq6GDje0N4upcDxTfHiYnNP74HdoPW23dXPxGg3-6LDdXH83LmatKXOSXRRFqKw9SoryIBRH9WrRDpxhQdE9Q%3D%3D",
-          "source": "MarketWatch"
+          "url": "https://www.bloomberg.com/opinion/articles/2025-10-28/fed-6-trillion-balance-sheet-is-about-right",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "elizabeth eddy nwsl",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 29 Oct 2025 11:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3PARk7lqo9nzDpK9h1hbOQHt5ieggNGROooB_uZswcEvWY_XKt0DX282w4M",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "NWSL’s lack of gender eligibility policy leaves players vulnerable – just not in the way you think",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/6755308/2025/10/27/nwsl-gender-policy-lack-leaves-players-vulnerable/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "The Angel City Paradox: When Inclusion Meets Exclusion",
+          "snippet": "",
+          "url": "https://lamag.com/sports/the-angel-city-paradox-when-inclusion-meets-exclusion/",
+          "source": "LAmag"
+        },
+        {
+          "title": "Elizabeth Eddy's anti-trans NWSL essay goes against what the sport stands for",
+          "snippet": "",
+          "url": "https://www.out.com/voices/nwsl-trans-elizabeth-eddy",
+          "source": "Out Magazine"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,169 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "mortgage rates",
-      "trafficCount": "10000+",
+      "title": "senate democrats government shutdown",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 29 Oct 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSak9v8CSwbAylihlLcpO6PTog6_OKpExtKPIwCRLv185xV1DeW7fTNNDK--3s",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4nVDCyW4MkncJlN3QVduu6ouYmyuUnO-dAOfpHEb0YVFMyQB6fGaRrE0IMs",
+      "pictureSource": "The Hill",
       "relatedSearch": [
         {
-          "title": "Mortgage rates drop to the lowest level in over a year, pushing refinancing 111% higher annually",
+          "title": "Democrats wobble as pressure to end shutdown ramps up",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/10/29/mortgage-rates-drop-to-the-lowest-level-in-over-a-year-pushing-refinancing-111percent-higher-annually.html",
-          "source": "CNBC"
+          "url": "https://thehill.com/homenews/senate/5577883-senate-democrats-government-shutdown-pressure/",
+          "source": "The Hill"
         },
         {
-          "title": "What the Fed’s Rate Decision Means for Loans, Credit Cards, Mortgages and More",
+          "title": "Growing Shutdown Pain Raises Heat on Lawmakers",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/10/29/business/economy/fed-interest-rate-loans-mortgages.html",
-          "source": "The New York Times"
+          "url": "https://www.wsj.com/politics/policy/government-shutdown-pay-food-stamps-healthcare-64c11243?gaa_at=eafs&gaa_n=AWEtsqev7p6UYtSk2YmTl6_K4mbDZnBT39ccE0xHzjHcuEIRRbEkNVzQNCS9&gaa_ts=690263b9&gaa_sig=b1UvwD53Y5TTLgOCUCRrW22UP94GRTaH71C7imsXkrcX4OxI1fA3HwFt99D8KXnn7VHB8zZ86B99WjuZwOxJ2w%3D%3D",
+          "source": "The Wall Street Journal"
         },
         {
-          "title": "Warren Buffett's Berkshire Hathaway and Zillow say mortgage rates can't fall enough for Americans to afford a home",
+          "title": "Senators scramble as SNAP benefits set to expire for first time ever: Day 29 live updates",
           "snippet": "",
-          "url": "https://fortune.com/2025/10/27/warren-buffett-berkshire-hathaway-zillow-mortgage-rates-america-housing-affordability/",
-          "source": "Fortune"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ed orgeron",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 29 Oct 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFL_tacQXAcT2SBT-qHD2yg0D9A3WFVXXQawGF4esEoWGtX-eSnfSY9BYS_IA",
-      "pictureSource": "On3",
-      "relatedSearch": [
-        {
-          "title": "Ed Orgeron reveals if he would want the LSU head coaching job",
-          "snippet": "",
-          "url": "https://www.on3.com/college/lsu-tigers/news/ed-orgeron-pitches-himself-to-be-next-lsu-head-coach/",
-          "source": "On3"
-        },
-        {
-          "title": "Ed Orgeron has thoughts on why Brian Kelly didn't work out at LSU. He shared them on ESPN.",
-          "snippet": "",
-          "url": "https://www.nola.com/sports/lsu/ed-orgeron-brian-kelly-lsu-fired/article_d5dc8291-12b5-40fe-8d5c-7ed5066b107a.html",
-          "source": "NOLA.com"
-        },
-        {
-          "title": "Ed Orgeron says Brian Kelly ‘never embraced’ Louisiana",
-          "snippet": "",
-          "url": "https://www.saturdaydownsouth.com/news/college-football/ed-orgeron-says-brian-kelly-never-embraced-louisiana/",
-          "source": "Saturday Down South"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bloomberg",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 29 Oct 2025 11:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6H3I2FHUZI7oyYOohe1ZGjo8bb5Li5QQX3bmjIUscmgA9-bmdPDMIOb1arhA",
-      "pictureSource": "Bloomberg.com",
-      "relatedSearch": [
-        {
-          "title": "New Fortress Energy Mulls UK Restructuring Instead of Chapter 11",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-10-28/new-fortress-energy-mulls-uk-restructuring-instead-of-chapter-11",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "New Fortress Energy down on report of UK debt restructuring plan",
-          "snippet": "",
-          "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L4N3WA1YX:0-new-fortress-energy-down-on-report-of-uk-debt-restructuring-plan/",
-          "source": "TradingView"
-        },
-        {
-          "title": "New Fortress Energy mulls UK restructuring instead of Chapter 11 - Bloomberg News",
-          "snippet": "",
-          "url": "https://www.marketscreener.com/news/new-fortress-energy-mulls-uk-restructuring-instead-of-chapter-11-bloomberg-news-ce7d5ddddb8af226",
-          "source": "MarketScreener"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ford moonroof recall nhtsa",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 29 Oct 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRQPmUmarEv1460b-UmZmg775Xu36BJcwLtcO2E6l4HAD5OJ4D52g5RURXYn0",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Ford recalls nearly 175,000 vehicles in US for moonroof defect, NHTSA says",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/autos-transportation/ford-recalls-nearly-175000-vehicles-us-moonroof-defect-nhtsa-says-2025-10-29/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Over 170,000 Ford and Lincoln cars recalled. See impacted models.",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/cars/recalls/2025/10/29/ford-lincoln-recall-wind-deflector/86964560007/",
+          "url": "https://www.usatoday.com/story/news/politics/2025/10/29/government-shutdown-day-29-live-updates/86860007007/",
           "source": "USA Today"
-        },
-        {
-          "title": "Ford recalls 1.4M vehicles over rearview camera issue",
-          "snippet": "",
-          "url": "https://www.foxbusiness.com/lifestyle/ford-recalls-1-4m-vehicles-over-rearview-camera-issue",
-          "source": "Fox Business"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bmf",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 29 Oct 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReU3AC_0j2X1ZU18WmFQdjolb9rnKJifKib5lnny3zypl0aMnbvDrcxFPKVM4",
-      "pictureSource": "Deadline",
-      "relatedSearch": [
-        {
-          "title": "‘BMF’ Canceled At Starz After 4 Seasons",
-          "snippet": "",
-          "url": "https://deadline.com/2025/10/bmf-canceled-starz-1236601530/",
-          "source": "Deadline"
-        },
-        {
-          "title": "BMF Cancelled At Starz After 4 Seasons, With Multiple Spinoffs Reportedly Still In Development",
-          "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/bmf-cancelled-starz-4-seasons-170019247.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "‘BMF’ Canceled at Starz After Four Seasons",
-          "snippet": "",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/bmf-canceled-4-seasons-starz-1236413052/",
-          "source": "The Hollywood Reporter"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "john flaherty",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 29 Oct 2025 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu6ZHWyfUBmDuBH1Mh56021V7KaMUAOuqhDo2xX2SxF2hCW-hSwK4JfryN5q0",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "YES Network to drop longtime Yankees analyst John Flaherty, others as part of latest moves",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6760379/2025/10/29/yankees-broadcasts-john-flaherty-yes/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "John Flaherty out at YES Network after 20 years in Yankees TV shakeup",
-          "snippet": "",
-          "url": "https://nypost.com/2025/10/29/sports/john-flaherty-out-at-yes-network-after-20-years-in-yankees-tv-shakeup/",
-          "source": "New York Post"
-        },
-        {
-          "title": "Ex-Yankees Catcher Sends Message to Team After Losing Broadcasting Job",
-          "snippet": "",
-          "url": "https://www.newsweek.com/sports/mlb/ex-yankees-catcher-sends-message-to-team-after-losing-broadcasting-job-10955919",
-          "source": "Newsweek"
         }
       ],
       "link": "https://imtaqin.id/"
