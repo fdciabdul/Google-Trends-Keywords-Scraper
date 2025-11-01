@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-01 10:29:16",
+  "lastUpdate": "2025-11-01 10:38:11",
   "data": [
     {
       "title": "хайди клум",
@@ -31,7 +31,7 @@
     },
     {
       "title": "каспи alaqan",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 1 Nov 2025 02:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSPUVQnrJs-RPQ_-Y3Ib78A8LsnK49eP6MKHoh2QPLGVGV2edmg_Zlle4D4Qc",
       "pictureSource": "DigitalBusiness.kz",
@@ -115,28 +115,28 @@
     },
     {
       "title": "погода",
-      "trafficCount": "100000+",
+      "trafficCount": "50000+",
       "pubDate": "Fri, 31 Oct 2025 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZr14OduD157gSneTjmPZvTbP0TAErfca0KKfZg7FcPsy-ajDlEfOTcq9lcs",
-      "pictureSource": "Новости Zakon.kz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCFIBA8ovPM1ShSjT9CJXkEb-IQGZDF568Jnl6f3DuI24QM1Qra5KbcDm3dPI",
+      "pictureSource": "Авто Mail",
       "relatedSearch": [
         {
-          "title": "Первое дыхание зимы: снегопад и мороз до -13°C обрушатся на Казахстан уже в начале ноября",
+          "title": "Метеоролог предсказала дожди и мокрый снег в праздничные дни",
           "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6496195-pervoe-dykhanie-zimy-snegopad-i-moroz-do-13C-obrushatsya-na-kazakhstan-uzhe-v-nachale-noyabrya.html",
-          "source": "Новости Zakon.kz"
+          "url": "https://auto.mail.ru/amp/article/113549-meteorolog-predskazala-dozhdi-i-mokryij-sneg-v-prazdnichnyie-dni/",
+          "source": "Авто Mail"
         },
         {
-          "title": "Сильный ветер, туман, гололед: штормовое предупреждение объявили в 14 регионах",
+          "title": "Ждать ли заморозков? Синоптики рассказали, какой будет погода в ноябре в Центральной России",
           "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/silnyiy-veter-tuman-gololed-shtormovoe-preduprejdenie-584574/",
-          "source": "Tengrinews"
+          "url": "https://76.ru/text/autumn/2025/11/01/76102361/",
+          "source": "Новости Ярославля и Ярославской области | 76.ру"
         },
         {
-          "title": "Холодный северный циклон 1 ноября принесет дожди со снегом в Казахстан",
+          "title": "Ноябрь в Москве ожидается с температурной аномалией",
           "snippet": "",
-          "url": "https://www.gismeteo.kz/news/klimat/holodnyj-severnyj-ciklon-1-noyabrya-prineset-dozhdi-so-snegom-v-kazahstan/",
-          "source": "Gismeteo"
+          "url": "https://snob.ru/news/noiabr-v-moskve-ozhidaetsia-s-temperaturnoi-anomaliei/",
+          "source": "Сноб"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -165,6 +165,34 @@
           "snippet": "",
           "url": "https://almaty.tv/ru/news/pogoda/pogoda-v-almaty-s-3-po-9-noiabria-2025",
           "source": "Almaty.tv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода алматы",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 31 Oct 2025 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZr14OduD157gSneTjmPZvTbP0TAErfca0KKfZg7FcPsy-ajDlEfOTcq9lcs",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Первое дыхание зимы: снегопад и мороз до -13°C обрушатся на Казахстан уже в начале ноября",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6496195-pervoe-dykhanie-zimy-snegopad-i-moroz-do-13C-obrushatsya-na-kazakhstan-uzhe-v-nachale-noyabrya.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Сильный ветер, туман, гололед: штормовое предупреждение объявили в 14 регионах",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/silnyiy-veter-tuman-gololed-shtormovoe-preduprejdenie-584574/",
+          "source": "Tengrinews"
+        },
+        {
+          "title": "Холодный северный циклон 1 ноября принесет дожди со снегом в Казахстан",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/klimat/holodnyj-severnyj-ciklon-1-noyabrya-prineset-dozhdi-so-snegom-v-kazahstan/",
+          "source": "Gismeteo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://stavka.tv/articles/express/express-2025-october-31",
           "source": "Ставка ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "хетафе – жирона",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 31 Oct 2025 12:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqNVMESwvFHblnjSauLS3Dgel2aVCXaj8tvFAy2UC3k8SAt-4ihJDyyPGb-u8",
-      "pictureSource": "Meta-ratings.kz",
-      "relatedSearch": [
-        {
-          "title": "Прогноз на матч Хетафе — Жирона. Ставим на хозяев поля",
-          "snippet": "",
-          "url": "https://meta-ratings.kz/prognozy/futbol/khetafe-zhirona-prognoz-na-match-la-ligi-31-oktyabrya-2025-goda/",
-          "source": "Meta-ratings.kz"
-        },
-        {
-          "title": "«Хетафе» обыграл «Жирону» в матче Ла Лиги",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2261819_Khetafe_obygral_Zhironu_v_matche_La_Ligi",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Реал и Барса: подведут ли фавориты? Анонс и прогнозы на 11-й тур Ла Лиги",
-          "snippet": "",
-          "url": "https://sport.ua/news/811425-real-i-barsa-podvedut-li-favority-anons-i-prognozy-na-11-y-tur-la-ligi",
-          "source": "Sport.ua"
         }
       ],
       "link": "https://imtaqin.id/"
