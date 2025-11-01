@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-11-01 07:23:12",
+  "lastUpdate": "2025-11-01 07:30:07",
   "data": [
     {
+      "title": "비디디",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 31 Oct 2025 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCcC21_8JKMDceJvokdZgToRWcOeHkKxqNQbQLJqgwCfMeV9qvXALZ0Wzcpqo",
+      "pictureSource": "뉴스1",
+      "relatedSearch": [
+        {
+          "title": "CGV, '2025 롤드컵' LCK팀 전경기 극장 생중계",
+          "snippet": "",
+          "url": "https://www.news1.kr/industry/distribution/5960423",
+          "source": "뉴스1"
+        },
+        {
+          "title": "'스코어' 고동빈, \"젠지 분명 강팀이지만, 후회 없는 4강 치르고 파\" [오!쎈 인터뷰]",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20251031143147787",
+          "source": "Daum"
+        },
+        {
+          "title": "CGV, ‘2025 LoL 월드 챔피언십’ 생중계 진행",
+          "snippet": "",
+          "url": "https://cjnews.cj.net/cgv-2025-lol-%EC%9B%94%EB%93%9C-%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD-%EC%83%9D%EC%A4%91%EA%B3%84-%EC%A7%84%ED%96%89/",
+          "source": "CJ 뉴스룸"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "정상수",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 31 Oct 2025 22:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk3zYPAwH2Up6H8RPEQ1MIfmCpDs2oPERx8RIlGrp_NKzCOfrJtdOBbgqiBsE",
       "pictureSource": "매일경제",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "business news today",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 31 Oct 2025 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7FuXU7-VmTFW_K0rPWQJSxK1tpVpaqWZNXlfkcvME-fl41AGjyQ6d0ylneZg",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Will SNAP benefits be paid in November? Here’s what we know about the judges’ rulings",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/10/31/politics/snap-benefits-november-judge-ruling",
-          "source": "CNN"
-        },
-        {
-          "title": "Two judges rule Trump admin must keep SNAP benefits in place as shutdown drags on",
-          "snippet": "",
-          "url": "https://www.foxnews.com/politics/two-judges-rule-trump-admin-must-keep-snap-benefits-place-shutdown-drags",
-          "source": "Fox News"
-        },
-        {
-          "title": "Federal judge orders Trump administration to pay SNAP benefits out of contingency fund",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-administration-pay-snap-benefits-contingenc-rcna241187",
-          "source": "NBC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "앤드류 왕자",
       "trafficCount": "200+",
       "pubDate": "Fri, 31 Oct 2025 22:00:00 -0700",
@@ -99,16 +99,44 @@
           "source": "BBC"
         },
         {
+          "title": "'성추문' 英 앤드루 왕자, 왕자 칭호 뺏기고 관저서도 퇴거",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20251031030500009",
+          "source": "연합뉴스"
+        },
+        {
           "title": "영국 앤드루 왕자, ‘성범죄 의혹’ 끝 왕자 작위 박탈·주거지 퇴거",
           "snippet": "",
           "url": "https://www.khan.co.kr/article/202510311044011",
           "source": "경향신문"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "business news today",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 31 Oct 2025 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToCL4GBlBer7zNbbihQJijqkN5a-_CNVfpq6k9lD-Wq_SjhWnfGd9zm2NE0xo",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "Two judges rule Trump admin must keep SNAP benefits in place as shutdown drags on",
+          "snippet": "",
+          "url": "https://www.foxnews.com/politics/two-judges-rule-trump-admin-must-keep-snap-benefits-place-shutdown-drags",
+          "source": "Fox News"
         },
         {
-          "title": "'미성년자 성폭행 의혹' 영국 왕자 앤드루, 칭호 뺏기고 관저 퇴거",
+          "title": "Federal judge orders Trump administration to pay SNAP benefits out of contingency fund",
           "snippet": "",
-          "url": "https://v.daum.net/v/20251031130110744?f=p",
-          "source": "Daum"
+          "url": "https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-administration-pay-snap-benefits-contingenc-rcna241187",
+          "source": "NBC News"
+        },
+        {
+          "title": "Trump administration blocked from suspending Snap benefits for millions of Americans",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/oct/31/judge-blocks-trump-snap-suspension",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,7 +163,7 @@
         {
           "title": "Stock Market News From Oct. 31, 2025: S&P 500 Rises as Amazon, Apple Earnings Boost Sentiment",
           "snippet": "",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-103125?gaa_at=eafs&gaa_n=AWEtsqewoik2E1PaJsMKKN5Bb2QIepKFIpv9EdV4vQSjSHHe0cPN_DucQCwO&gaa_ts=6905b8e4&gaa_sig=85qvUSBcYvadK0XodyaMFoApEDrmRKYx-86_zxilOhrGwZlsM0d_ommpjMSLp8C0a-ZzkcBTMHERIrlvyWQFsg%3D%3D",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-103125?gaa_at=eafs&gaa_n=AWEtsqdfmr74lYIvWLl2mwWCCMSIX6_aPelcDcuYP7_b3BrKn_0ySVVz-PCf&gaa_ts=6905ba83&gaa_sig=JFnn_JKFGC4HomwpIvsFnWogc1WrcrmH7bbYFl0AnmCI_CE4f6JPjr6B5ppFdVQ3W_f2QvJ-xoNhcvFIN2PvJg%3D%3D",
           "source": "Barron's"
         }
       ],
@@ -189,10 +217,10 @@
           "source": "조선일보"
         },
         {
-          "title": "강하늘→차은우 '퍼스트 라이드' 3일째 1위…누적 18만 [Nbox]",
+          "title": "'퍼스트 라이드' 한선화 \"남녀노소 공감할, 관계에 대한 이야기\"",
           "snippet": "",
-          "url": "https://www.news1.kr/entertain/movie/5961446",
-          "source": "뉴스1"
+          "url": "https://www.yna.co.kr/view/AKR20251030162100005",
+          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,34 +257,6 @@
           "title": "'유강현 오버헤드킥 골' K리그1 대전, 서울 잡고 4연승 질주",
           "snippet": "",
           "url": "https://www.news1.kr/sports/soccer/5961624",
-          "source": "뉴스1"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "강원 대 전북",
-      "trafficCount": "5000+",
-      "pubDate": "Fri, 31 Oct 2025 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc_WRnbMiiwvXZW51KluhmG-Cdb0KEgOcihkG_7eBVu5caQ2EqhS0dVPV-cQU",
-      "pictureSource": "Daum",
-      "relatedSearch": [
-        {
-          "title": "강원FC, 내일 강릉서 전북현대 상대 리그 홈경기",
-          "snippet": "",
-          "url": "https://v.daum.net/v/ynk1GblwS4",
-          "source": "Daum"
-        },
-        {
-          "title": "'이동준-맹성웅 전역' 전북 VS '박상혁-이승원 전역' 강원, 물러서지 않을 맞대결[오!쎈프리뷰]",
-          "snippet": "",
-          "url": "https://www.chosun.com/sports/football/2025/11/01/KNJAZNLTQE275ISNOQS7E6QW54/",
-          "source": "조선일보"
-        },
-        {
-          "title": "우승만큼 간절한 4위…FC서울, 오를 수 있는 가장 높은 곳까지",
-          "snippet": "",
-          "url": "https://www.news1.kr/sports/soccer/5959744",
           "source": "뉴스1"
         }
       ],
