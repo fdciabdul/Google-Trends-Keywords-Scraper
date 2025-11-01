@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-01 10:52:22",
+  "lastUpdate": "2025-11-01 10:59:25",
   "data": [
+    {
+      "title": "test",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 1 Nov 2025 03:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ7pCarPp3pOOgG6t9q2q4wEuxMq4BC1nF8b3yDN8_mYke-BILUBhTav4I_EU",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Trump says he wants to resume nuclear testing. Here’s why experts are confused",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/10/31/politics/trump-nuclear-weapons-testing-experts-russia",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump muddles nuke-testing message",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/10/31/trump-nuke-modernization-russia-stockpiles",
+          "source": "Axios"
+        },
+        {
+          "title": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "eurovea požiar",
       "trafficCount": "1000+",
@@ -61,20 +89,20 @@
       "title": "lidl",
       "trafficCount": "1000+",
       "pubDate": "Fri, 31 Oct 2025 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_XF6AIKUCZA2ByDY3-O_iL7vKliAjDN4Tb9KdokBOclI6Bya4epJCQ-uBgBg",
-      "pictureSource": "TERAZ.sk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDkfSMYrSSpNdibGm0cp9ZkjhiiT4T87Wcshaboo1iaIb_r3TrF1hs4PRaB8",
+      "pictureSource": "Zoznam",
       "relatedSearch": [
-        {
-          "title": "Nádej pre slovenskú prírodu",
-          "snippet": "",
-          "url": "https://www.teraz.sk/magazin/nadej-pre-slovensku-prirodu/917000-clanok.html",
-          "source": "TERAZ.sk"
-        },
         {
           "title": "Pri rieke Ipeľ vysadili stovky stromov – ochranári obnovujú prírodu a bojujú proti klimatickej zmene",
           "snippet": "",
           "url": "https://nitra.zoznam.sk/pri-rieke-ipel-vysadili-stovky-stromov-ochranari-obnovuju-prirodu-a-bojuju-proti-klimatickej-zmene/",
           "source": "Zoznam"
+        },
+        {
+          "title": "Nádej pre slovenskú prírodu",
+          "snippet": "",
+          "url": "https://www.teraz.sk/magazin/nadej-pre-slovensku-prirodu/917000-clanok.html",
+          "source": "TERAZ.sk"
         },
         {
           "title": "Nádej pre slovenskú prírodu: Projekt Prepojená krajina zapustil prvé korene",
@@ -127,7 +155,7 @@
           "source": "Regióny.sk"
         },
         {
-          "title": "Nakúpite dnes? Po novom môžete aj vo Sv. Všetkých svätých. Pozrite si otváracie hodiny reťazcov",
+          "title": "Nakúpite v obchodoch vo Sv. všetkých svätých? Po novom môžete. Ako sa k tomu postavili reťazce a kto nechal otvorené predajne?",
           "snippet": "",
           "url": "https://uzitocna.pravda.sk/ako-vybavit/clanok/772877-nakupite-v-obchodoch-na-dusicky-po-novom-mozete-ako-sa-k-tomu-postavili-retazce-a-kto-nechal-otvorene-predajne/",
           "source": "Užitočná pravda"
