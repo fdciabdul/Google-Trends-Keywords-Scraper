@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-11-01 17:37:55",
+  "lastUpdate": "2025-11-01 17:44:46",
   "data": [
     {
       "title": "монако – париж",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 1 Nov 2025 10:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtqFnU7P-AMDKs5cOJLPxp9OPaq2g5jYZ73jJkK0RsQ1gJ9VApeyR97lQbHUs",
       "pictureSource": "Metaratings",
@@ -33,9 +33,28 @@
       "title": "спецназ гур",
       "trafficCount": "200+",
       "pubDate": "Sat, 1 Nov 2025 10:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiF_Wdkjf4XZx2bdIw9b2kA1EaRUjhTH5uRpdJ6XI8auwMImdnLebnNgB-Apc",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Война",
+          "snippet": "",
+          "url": "https://meduza.io/feature/2025/11/01/voyna",
+          "source": "Meduza"
+        },
+        {
+          "title": "Военные РФ пресекли высадку с вертолета группы ССО ГУР Украины в районе Красноармейска",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1055951",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "ВС РФ ликвидировали отряд спецназа ВСУ при попытке высадиться под Красноармейском",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/686762",
+          "source": "БИЗНЕС Online — Новости Казани"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -62,34 +81,6 @@
           "snippet": "",
           "url": "https://www.igromania.ru/news/158096/chetvyortyij-sezon-vedmaka-netflix-vyishel-liama-hemsvorta-nazvali-kospleerom-geralta/",
           "source": "Игромания"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "буланова",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 1 Nov 2025 10:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo5zu3NOixV9Gog2pCOIeLrGlT0_kwy84O7Fv0ouQ-ZRCIx33iUAovJN3dqY8",
-      "pictureSource": "Леди Mail",
-      "relatedSearch": [
-        {
-          "title": "Татьяна Буланова трогательно обратилась к молодому мужу – есть повод",
-          "snippet": "",
-          "url": "https://lady.mail.ru/article/575663-tatyana-bulanova-trogatelno-obratilas-k-molodomu-muzhu-est-povod/",
-          "source": "Леди Mail"
-        },
-        {
-          "title": "Татьяна Буланова трогательно обратилась к мужу в важную дату",
-          "snippet": "",
-          "url": "https://muz-tv.ru/news/tatyana-bulanova-trogatelno-obratilas-k-muzhu-v-vazhnuyu-datu/",
-          "source": "muz-tv.ru"
-        },
-        {
-          "title": "Продюсер Дворцов: молодой муж Булановой повесил на нее многомиллионные долги",
-          "snippet": "",
-          "url": "https://radio1.ru/news/shou-biznes/prodyuser-dvortsov-molodoi-muzh-bulanovoi-povesil-na-nee-mnogomillionnie-dolgi/",
-          "source": "Radio1.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,12 +114,87 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "буланова",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 1 Nov 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo5zu3NOixV9Gog2pCOIeLrGlT0_kwy84O7Fv0ouQ-ZRCIx33iUAovJN3dqY8",
+      "pictureSource": "Леди Mail",
+      "relatedSearch": [
+        {
+          "title": "Татьяна Буланова трогательно обратилась к молодому мужу – есть повод",
+          "snippet": "",
+          "url": "https://lady.mail.ru/article/575663-tatyana-bulanova-trogatelno-obratilas-k-molodomu-muzhu-est-povod/",
+          "source": "Леди Mail"
+        },
+        {
+          "title": "Татьяна Буланова трогательно обратилась к мужу в важную дату",
+          "snippet": "",
+          "url": "https://muz-tv.ru/news/tatyana-bulanova-trogatelno-obratilas-k-muzhu-v-vazhnuyu-datu/",
+          "source": "muz-tv.ru"
+        },
+        {
+          "title": "Продюсер Дворцов: молодой муж Булановой повесил на нее многомиллионные долги",
+          "snippet": "",
+          "url": "https://radio1.ru/news/shou-biznes/prodyuser-dvortsov-molodoi-muzh-bulanovoi-povesil-na-nee-mnogomillionnie-dolgi/",
+          "source": "Radio1.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "синнер",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 1 Nov 2025 10:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLBFhv66ICqgRXo5pNHHo2DVXrHgsZDRpEZGODtoDYjYW6ec3js9RCwm36bv4",
+      "pictureSource": "Матч ТВ",
+      "relatedSearch": [
+        {
+          "title": "Синнер обыграл Зверева и вышел в финал турнира серии «Мастерс» в Париже",
+          "snippet": "",
+          "url": "https://matchtv.ru/tennis/matchtvnews_NI2262167_Sinner_obygral_Zvereva_i_vyshel_v_final_turnira_serii_Masters_v_Parizhe",
+          "source": "Матч ТВ"
+        },
+        {
+          "title": "Синнер третий раз в сезоне вышел в полуфинал «Мастерса». Он не проигрывает на крытых кортах 24 матча подряд",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/tennis/68548253/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Клиент PARI поставил 120 000 рублей на Синнера в матче со Зверевым",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/sport/rb/news/zverev-sinner-pari",
+          "source": "Ведомости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "битва сильнейших 25 выпуск",
       "trafficCount": "100+",
       "pubDate": "Sat, 1 Nov 2025 10:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Wr7AL07eJJLcGfUojpCeKL5KW_9KPYeXUBEHk7S-88Dulpoml2p9ffSL-7M",
+      "pictureSource": "63.ру",
+      "relatedSearch": [
+        {
+          "title": "«Олег обиделся»: что устроили экстрасенсы из Самары в 24-й серии «Битвы сильнейших»",
+          "snippet": "",
+          "url": "https://63.ru/text/entertainment/2025/10/29/76097054/",
+          "source": "63.ру"
+        },
+        {
+          "title": "Реальная запись полтергейста и одержимая хозяйка: чем закончился 25-й выпуск «Битвы сильнейших»",
+          "snippet": "",
+          "url": "https://www.novochag.ru/obshchestvo/novosti/realnaya-zapis-poltergeista-i-oderjimaya-hozyaika-chem-zakonchilsya-25-i-vypusk-bitvy-silneishih/",
+          "source": "Новый очаг"
+        },
+        {
+          "title": "Что с Катей из Ржева? В серии шоу «Экстрасенсы. Битва сильнейших» от 1 ноября крашей отправили в нокаут",
+          "snippet": "",
+          "url": "https://coolkarma.ru/society/chto-s-katej-iz-rzheva-v-serii-shou-ekstrasensy-bitva-silnejshih-ot-1-noyabrya-krashej-otpravili-v-nokaut/",
+          "source": "Cool Karma"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -170,7 +236,7 @@
     },
     {
       "title": "ливерпуль астон вилла прогноз",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 1 Nov 2025 10:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfaAr_qQqD_AcG5SdYm1pxrWfEaebtVzm6rUPhqiqg_MWLZEgCHN0sqz6J_3E",
       "pictureSource": "Спорт Mail",
@@ -192,34 +258,6 @@
           "snippet": "",
           "url": "https://soccer365.ru/news/24548/",
           "source": "Soccer365"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "мизулина",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 1 Nov 2025 09:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQi-FijJCYvhe1QAYSwLrsuEAxD3qLJzSX-EzkCtUqNbMSHJTGlxNthnTwXsc4",
-      "pictureSource": "Администрации Городского округа Балашиха",
-      "relatedSearch": [
-        {
-          "title": "Екатерина Мизулина рассказала о безопасности в интернете школьникам Балашихи",
-          "snippet": "",
-          "url": "https://balashiha.ru/article/ekaterina-mizulina-rasskazala-o-bezopasnosti-v-internete-shkolnikam-balashihi-720836",
-          "source": "Администрации Городского округа Балашиха"
-        },
-        {
-          "title": "Как избежать мошенников? Мизулина рассказала школьникам Балашихи про безопасный интернет",
-          "snippet": "",
-          "url": "https://regions.ru/balashikha/edc/kak-izbezhat-moshennikov-mizulina-rasskazala-shkolnikam-balashihi-pro-bezopasnyy-internet",
-          "source": "Regions.ru"
-        },
-        {
-          "title": "Роскомнадзор ответил на жалобы о перебоях интернета в Волгограде и их связи с ограничениями Telegram",
-          "snippet": "",
-          "url": "https://v1.ru/text/gorod/2025/11/01/76102356/",
-          "source": "Новости Волгограда и Волгоградской области | V1.ру"
         }
       ],
       "link": "https://imtaqin.id/"
