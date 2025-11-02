@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-11-02 04:36:40",
+  "lastUpdate": "2025-11-02 04:45:09",
   "data": [
     {
-      "title": "ערוץ 12",
+      "title": "מזג האוויר",
       "trafficCount": "100+",
+      "pubDate": "Sat, 1 Nov 2025 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9o4QPnjQKch-Zqc9jMrfoo6Sk6n1fcHE2WIqKX64iq53EcqsJZP9gDeDTpg",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "תחזית מזג האוויר: מעונן, שרבי וחם מהרגיל",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/etah0fcde",
+          "source": "ynet"
+        },
+        {
+          "title": "תחזית מזג האוויר ליום ראשון: חם ויבש מהרגיל לעונה",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/news/weather/2025-11-01/ty-article/0000019a-3fd1-d549-a9db-7fd569880000",
+          "source": "הארץ"
+        },
+        {
+          "title": "החורף שוכח להגיע: השרב צפוי להימשך גם בימים הקרובים - ואפילו להתחזק",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/weathern/article/19145554",
+          "source": "ישראל היום"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ערוץ 12",
+      "trafficCount": "200+",
       "pubDate": "Sat, 1 Nov 2025 21:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTumD0j0QCdGaObqfXl_UrTpWRxuAhV1RPSnRM1_Fma5WOJxb260jbW1_k0SJ0",
       "pictureSource": "מעריב",
@@ -24,17 +52,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "роман попов",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 1 Nov 2025 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXS8o3bH-r_WPE5APzlubXy6bHKrUXJCsiuvh7DCH6N5WRbAX9lwdM4gGEen8",
+      "pictureSource": "Кино Mail",
+      "relatedSearch": [
+        {
+          "title": "Сергей Бурунов о последних месяцах жизни Романа Попова: «Видел, что ему больно»",
+          "snippet": "",
+          "url": "https://kino.mail.ru/news/106025-sergej-burunov-o-poslednih-mesyacah-zhizni-romana-popova-videl-chto-emu-bolno/",
+          "source": "Кино Mail"
+        },
+        {
+          "title": "В Москве простились с актером и комиком Романом Поповым. Фотогалерея",
+          "snippet": "",
+          "url": "https://rbclifetime.ru/news/6905e0339a7947774084c49c",
+          "source": "https://rbclifetime.ru/"
+        },
+        {
+          "title": "Стало известно последнее желание Романа Попова",
+          "snippet": "",
+          "url": "https://rtvi.com/news/stalo-izvestno-poslednee-zhelanie-romana-popova/",
+          "source": "RTVI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "world series",
       "trafficCount": "200+",
       "pubDate": "Sat, 1 Nov 2025 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZLnml-00ufX1jZTo9uiA5jLOwAb4iCHsN-cgWxy3adn4oHTVYIyU3rdKq6gA",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZOMFwRmT-CRTBvhbXVyb0XE6hAL1ZqkVmRJ5WEVWD6oYnRkOPgJpeRTwYc8",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "We've got a World Series Game 7! Live updates as Blue Jays, Dodgers battle for the title",
+          "title": "Dodgers vs. Blue Jays World Series Game 7 live score: Shohei Ohtani escapes bases-loaded jam - The Athletic",
           "snippet": "",
-          "url": "https://www.espn.com/mlb/story/_/id/46672385/mlb-2025-world-series-game-7-los-angeles-dodgers-toronto-blue-jays-lineups-live-updates-analysis",
-          "source": "ESPN"
+          "url": "https://www.nytimes.com/athletic/live-blogs/dodgers-vs-blue-jays-live-updates-mlb-world-series-game-7-score/ipoiE8DKwm7W/",
+          "source": "The New York Times"
         },
         {
           "title": "LIVE: Dodgers-Blue Jays World Series Game 7 (FOX)",
@@ -43,17 +99,17 @@
           "source": "MLB.com"
         },
         {
-          "title": "MLB World Series Game 6: LA Dodgers beat Toronto Blue Jays to force decider",
+          "title": "Jays' Barger: 'Bad read' led to game-ending play",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/baseball/articles/c1m3358pe25o",
-          "source": "BBC"
+          "url": "https://www.espn.com/mlb/story/_/id/46798820/jays-barger-admits-bad-read-ended-game-6-world-series",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 1 Nov 2025 19:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh_-4WgmDDfi6R--FmEuF5_xz-Bu58gjyga1ywFHeszuk7haOsbS6arqB-r5o",
       "pictureSource": "CNN",
@@ -215,62 +271,6 @@
           "snippet": "",
           "url": "https://www.timesnownews.com/world/us/us-buzz/epic-games-server-status-store-users-report-login-issues-fortnite-outage-article-153087722",
           "source": "Times Now"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 1 Nov 2025 14:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROpugXRL9NexRf0GbrrZPX7ZzCajEMDAENvPfW1B1ec8jCAzYLOMX0rYE1iqs",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Hubo paz y hubo fiesta",
-          "snippet": "",
-          "url": "https://as.com/futbol/primera/hubo-paz-y-hubo-fiesta-f202511-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Real Madrid - Valencia en directo | LALIGA EA Sports hoy en vivo",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/laliga-ea-sports/r-madrid-valencia/2025/11/01/01_0101_20251101_186_191-directo.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Mastantuono volvió a la titularidad en la goleada del Real Madrid",
-          "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/15899716/franco-mastantuono-volvio-a-la-titularidad-real-madrid-vs-valencia-fecha-11-laliga",
-          "source": "ESPN Deportes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "אורן סולומון",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 1 Nov 2025 13:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFeWQVz7tonzNm7m5CQLXcFQwg91DxBgbBnee0KO741rrwtzLR40JsRVbvT9k",
-      "pictureSource": "i24NEWS",
-      "relatedSearch": [
-        {
-          "title": "הקופסה השחורה של המחדל נפתחת: מה טייחו ואיפה היה הרמטכ\"ל? האיש שראה הכל פותח הכל",
-          "snippet": "",
-          "url": "https://www.i24news.tv/he/news/israel-at-war/artc-e7b5249c",
-          "source": "i24NEWS"
-        },
-        {
-          "title": "'הקופסה השחורה' של המחדל נפתחת: האיש שראה הכל, תא\"ל במיל' אורן סולומון, פותח הכל",
-          "snippet": "",
-          "url": "https://www.inn.co.il/news/682067",
-          "source": "ערוץ 7"
-        },
-        {
-          "title": "תא\"ל במיל' סולומון: \"אם איעלם - התחקיר על צה\"ל יתפרסם מיד\"",
-          "snippet": "",
-          "url": "https://www.c14.co.il/article/1360773",
-          "source": "ערוץ 14"
         }
       ],
       "link": "https://imtaqin.id/"
