@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-03 10:00:27",
+  "lastUpdate": "2025-11-03 10:10:44",
   "data": [
     {
       "title": "dnevne novine",
@@ -61,26 +61,26 @@
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Sun, 2 Nov 2025 21:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOgerD0B2j6LZFa7G4YHs7UXOoShiIlgvRub1a6nuw7fRDcfHqHYdiUMiKNU",
-      "pictureSource": "WSAZ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dwz8RYkayIe6_2VwWe8QB6y3TfzNGZ7ywaWhyvaHAZk0m1Xun02QZ2vM_Dc",
+      "pictureSource": "Yahoo News Canada",
       "relatedSearch": [
+        {
+          "title": "Cleveland weather",
+          "snippet": "",
+          "url": "https://ca.news.yahoo.com/cleveland-weather-095137288.html",
+          "source": "Yahoo News Canada"
+        },
+        {
+          "title": "Northern Ohio Weather: Sharp Cooldown, Snow Showers Possible Through Nov. 15",
+          "snippet": "",
+          "url": "https://countryherald.com/news/northern-ohio-weather-sharp-cooldown-snow-showers-possible-through-nov-15/",
+          "source": "Country Herald"
+        },
         {
           "title": "First Alert Weather: Mild air returns, but how long will it last?",
           "snippet": "",
           "url": "https://www.wsaz.com/2025/11/03/first-alert-weather-mild-air-returns-how-long-will-it-last/",
           "source": "WSAZ"
-        },
-        {
-          "title": "Storm from the Alps approaches Serbia: Meteo-alarm activated; warning issued for 2 hazardous weather phenomena",
-          "snippet": "",
-          "url": "https://www.b92.net/english/society/178210/weather-forecast-for-today-a-storm-is-coming-to-serbia-from-the-alps/vest",
-          "source": "B92"
-        },
-        {
-          "title": "Weather forecasters warn: Heavy downpour to hit Baku and regions",
-          "snippet": "",
-          "url": "https://baku.ws/en/other/weather-forecasters-warn-heavy-downpour-to-hit-baku-and-regions",
-          "source": "Baku.ws"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,19 +117,19 @@
       "title": "danas",
       "trafficCount": "1000+",
       "pubDate": "Sun, 2 Nov 2025 21:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cMcGQ2KD8v6eGxClTxk271ur3I5iwWWukrZNkoAwNRsEqGXBaQkQsO0RuK0",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQV2CZL3a_QyTOcDzJpyWtCDq9ryJhsGw1uVzC4nOUE8-LXCT2jcuoB9zuwXBM",
       "pictureSource": "Novosti",
       "relatedSearch": [
-        {
-          "title": "3+ TIKET ZA DANAS: Na ovim utakmicama mreže će se sigurno tresti",
-          "snippet": "",
-          "url": "https://www.novosti.rs/c/tip/tip-fudbal/1542238/3-tiket-danas-ovim-utakmicama-mreze-sigurno-tresti",
-          "source": "Novosti"
-        },
         {
           "title": "I OVO SMO JUČE POGODILI: Novi predlozi Tip redakcije za mečeve na kojima će se mreže sigurno tresti",
           "snippet": "",
           "url": "https://www.novosti.rs/tip/tip-fudbal/1541718/ovo-smo-juce-pogodili-novi-predlozi-tip-redakcije-meceve-kojima-mreze-sigurno-tresti",
+          "source": "Novosti"
+        },
+        {
+          "title": "3+ TIKET ZA DANAS: Na ovim utakmicama mreže će se sigurno tresti",
+          "snippet": "",
+          "url": "https://www.novosti.rs/c/tip/tip-fudbal/1542238/3-tiket-danas-ovim-utakmicama-mreze-sigurno-tresti",
           "source": "Novosti"
         },
         {
@@ -155,33 +155,27 @@
           "source": "Antena M"
         },
         {
+          "title": "U inat Americi: Savez Rusije i Kine nikad jači, sa vrha otkriveno istorijsko dostignuće",
+          "snippet": "",
+          "url": "https://informer.rs/planeta/vesti/1063564/rusija-kina-mihael-micustin-saradnja",
+          "source": "Informer"
+        },
+        {
           "title": "Peskov otkrio detalje odnosa Putina i Sija! Na jedno pitanje odbio da odgovori, a tiče se dvojice moćnika!",
           "snippet": "",
           "url": "https://www.espreso.co.rs/svet/planeta/1567346/peskov-otkrio-detalje-odnosa-putina-i-sija",
           "source": "espreso.co.rs"
-        },
-        {
-          "title": "Русија лидер у испоруци енергената Кини; Мишустин путује у Пекинг, састаће се са Сијем",
-          "snippet": "",
-          "url": "https://www.in4s.net/rusija-lider-u-isporuci-energenata-kini-misustin-putuje-u-peking-sastace-se-sa-sijem/",
-          "source": "ИН4С"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "vesti n1",
+      "title": "najnovije vesti",
       "trafficCount": "1000+",
-      "pubDate": "Sun, 2 Nov 2025 20:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_ELB5PY43u9VkW23VlSomNz5WE8n_L4GrFP_1C_2MW7QfTZLddboqX2q7zS4",
-      "pictureSource": "Danas",
+      "pubDate": "Sun, 2 Nov 2025 20:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_U6TDRYIo4__60dNB5P7TwWy0qw2JTAc_mzIU4hmZ7zQC5zAdbCsKwc1m2Y",
+      "pictureSource": "Blic",
       "relatedSearch": [
-        {
-          "title": "Vučević: Nema potreba da Hrka štrajkuje glađu, razumem razočarenje Mrdića delom pravosuđa",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/drustvo/vucevic-nema-potreba-da-hrka-strajkuje-gladju-razumem-razocarenje-mrdica-delom-pravosudja/",
-          "source": "Danas"
-        },
         {
           "title": "JUTRO POSLE NEMIRA KOD SKUPŠTINE Evo kakva je situacija na uglu Bulevara i Takovske (FOTO)",
           "snippet": "",
@@ -193,6 +187,12 @@
           "snippet": "",
           "url": "https://www.021.rs/info/srbija/425641/dijana-hrka-nastavljam-strajk-gladju-ne-odustajem-znam-zasto-sam-tu",
           "source": "021.rs"
+        },
+        {
+          "title": "Vučević: Nema potreba da Hrka štrajkuje glađu, razumem razočarenje Mrdića delom pravosuđa",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/drustvo/vucevic-nema-potreba-da-hrka-strajkuje-gladju-razumem-razocarenje-mrdica-delom-pravosudja/",
+          "source": "Danas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "N1"
         },
         {
-          "title": "Zaustavljaju se vozovi ka Novom Sadu",
-          "snippet": "",
-          "url": "https://www.021.rs/novi-sad/vesti/425412/zaustavljaju-se-vozovi-ka-novom-sadu",
-          "source": "021.rs"
-        },
-        {
           "title": "PRIVREMENO OBUSTAVLJEN SAOBRAĆAJ SVIH VOZOVA Oglasili se iz \"Srbijavoza\": Evo o čemu se radi",
           "snippet": "",
           "url": "https://www.blic.rs/vesti/drustvo/oglasili-se-iz-srbijavoza-privremeno-obustavljan-saobracaj-svih-vozova/5hg2lt3",
           "source": "Blic"
+        },
+        {
+          "title": "\"Srbijavoz\": Privremeno obustavljen saobraćaj zbog prijava o eksplozivnim napravama",
+          "snippet": "",
+          "url": "https://www.rts.rs/lat/vesti/hronika/5818156/srbijavoz-obustvaljen-saobracaj-eksploziv.html",
+          "source": "Радио Телевизија Србије"
         }
       ],
       "link": "https://imtaqin.id/"
