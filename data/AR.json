@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-05 09:43:30",
+  "lastUpdate": "2025-11-05 09:51:03",
   "data": [
+    {
+      "title": "hoy llueve",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 5 Nov 2025 01:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIPICR7idfk4Tgs8aPpOHNW4RDSQXc75IJsHZlqfNiGUXVhCM82lHT1X92WTU",
+      "pictureSource": "Página | 12",
+      "relatedSearch": [
+        {
+          "title": "Clima en Buenos Aires: el pronóstico del tiempo para este martes 4 de noviembre | ¿A qué hora llega la tormenta?",
+          "snippet": "",
+          "url": "https://www.pagina12.com.ar/871125-clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-mar",
+          "source": "Página | 12"
+        },
+        {
+          "title": "¿Llueve hoy? Qué dice el Servicio Meteorológico para este martes 4 de noviembre",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/clima/llueve-hoy-que-dice-el-servicio-meteorologico-para-este-martes-4-de-noviembre-nid04112025/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Martes con alerta de lluvia en CABA y alrededores",
+          "snippet": "",
+          "url": "https://www.perfil.com/noticias/clima/martes-con-alerta-de-lluvia-en-caba-y-alrededores-cual-es-la-maxima-este-4-de-noviembre-a35.phtml",
+          "source": "Perfil"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "temperatura buenos aires",
       "trafficCount": "500+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "clima tucuman",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 5 Nov 2025 01:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFWPG_LqxbuOErl-xReK9QCW_azb3-_PApkx7iyz6cF0f5d1VeX5A9HaiZzJQ",
       "pictureSource": "Clarin.com",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.carburando.com/notas/clima-en-tucuman-el-pronostico-del-tiempo-para-el-miercoles-5-de-noviembre",
           "source": "Carburando"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pronóstico para hoy",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 5 Nov 2025 01:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BK0fdfD8KalHeuWP4DAXvywMTBUGunPucfNvc_owCDt6nmV65Cc_wk33930",
-      "pictureSource": "Clarin.com",
-      "relatedSearch": [
-        {
-          "title": "Clima hoy en Corrientes: el pronóstico del tiempo para este miércoles 5 noviembre de 2025",
-          "snippet": "",
-          "url": "https://www.clarin.com/informacion-general/clima-hoy-corrientes-pronostico-tiempo-miercoles-5-noviembre-2025_0_qSdtRz7ZCs.html",
-          "source": "Clarin.com"
-        },
-        {
-          "title": "Clima en ciudad de Corrientes hoy: cuál es el pronóstico del tiempo para el 5 de noviembre de 2025",
-          "snippet": "",
-          "url": "https://www.lanacion.com.ar/clima/corrientes/clima-en-ciudad-de-corrientes-hoy-cual-es-el-pronostico-del-tiempo-para-el-5-de-noviembre-de-2025-nid04112025/",
-          "source": "La Nación"
-        },
-        {
-          "title": "Caluroso y parcialmente nublado: el tiempo este martes 4 de noviembre en Corrientes",
-          "snippet": "",
-          "url": "https://www.lt7noticias.com/74441-caluroso-y-parcialmente-nublado-el-tiempo-este-martes-4-de-noviembre-en-corrientes",
-          "source": "LT7Noticias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://expresiondelsur.com.ar/contenido/37848/suben-las-temperaturas-en-salta-semana-calida-y-con-sol-en-casi-toda-la-provinci",
           "source": "Expresión del Sur"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pronóstico para hoy",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 5 Nov 2025 01:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BK0fdfD8KalHeuWP4DAXvywMTBUGunPucfNvc_owCDt6nmV65Cc_wk33930",
+      "pictureSource": "Clarin.com",
+      "relatedSearch": [
+        {
+          "title": "Clima hoy en Corrientes: el pronóstico del tiempo para este miércoles 5 noviembre de 2025",
+          "snippet": "",
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-corrientes-pronostico-tiempo-miercoles-5-noviembre-2025_0_qSdtRz7ZCs.html",
+          "source": "Clarin.com"
+        },
+        {
+          "title": "Clima en ciudad de Corrientes hoy: cuál es el pronóstico del tiempo para el 5 de noviembre de 2025",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/clima/corrientes/clima-en-ciudad-de-corrientes-hoy-cual-es-el-pronostico-del-tiempo-para-el-5-de-noviembre-de-2025-nid04112025/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Caluroso y parcialmente nublado: el tiempo este martes 4 de noviembre en Corrientes",
+          "snippet": "",
+          "url": "https://www.lt7noticias.com/74441-caluroso-y-parcialmente-nublado-el-tiempo-este-martes-4-de-noviembre-en-corrientes",
+          "source": "LT7Noticias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "stake",
       "trafficCount": "100+",
       "pubDate": "Tue, 4 Nov 2025 23:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf4liXXqWgmRbQma9Rz-q8cQetAN1I8gzJHuBeGlb52LD3346wxdfTvTI97c",
-      "pictureSource": "Politico",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiR63TjlWGix68dQU1sa0riAZ8OqvbtUaQ_733UcrHQyLktTKSvDb-ZUywk9Q",
+      "pictureSource": "MarketBeat",
       "relatedSearch": [
         {
-          "title": "The tariff case puts the Supreme Court’s conservatives in a bind",
+          "title": "Visteon Corporation $VC Stake Lowered by Teacher Retirement System of Texas",
           "snippet": "",
-          "url": "https://www.politico.com/news/2025/11/05/donald-trump-tariffs-case-supreme-court-arguments-00635882",
-          "source": "Politico"
+          "url": "https://www.marketbeat.com/instant-alerts/filing-visteon-corporation-vc-stake-lowered-by-teacher-retirement-system-of-texas-2025-11-05/",
+          "source": "MarketBeat"
         },
         {
-          "title": "WEDNESDAY BLOG: Trump Tariffs Case at Supreme Court Today; Dow Futures TK — Live Updates",
+          "title": "Berkshire May Have Sold Apple, Bank of America Stock in Third Quarter",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/supreme-court-tariffs-case-stock-market-11-05-2025?gaa_at=eafs&gaa_n=AWEtsqcnli82vqKtdJvoGbppPsYCzfGRYLcrAoHR5SEtRnsPX-o8c37m6DXU&gaa_ts=690b1ef7&gaa_sig=lAsdbPqDDyWXtrTr7SrIT0x3tsMMZ_qEHjDhXC3eW6voVNDTuQzDweXn8_wgUt7o3SdPr1CcBi6ec1SNzJCbzQ%3D%3D",
-          "source": "The Wall Street Journal"
+          "url": "https://www.barrons.com/articles/berkshire-apple-bank-america-stock-sale-aa237a30?gaa_at=eafs&gaa_n=AWEtsqfPxkURpjfk09SqG8fP5aonAyMyvf93wfF9Ba5mzP2zy7dvX2J4Icv7&gaa_ts=690b218b&gaa_sig=FzeXq0nkFmwujhBmQkZ5FFaY7-KCwuVOvpDsXUoC-ba-IoD13LA2kTa67AiF24ykekXHeVALMzwyrw9xlv6UCw%3D%3D",
+          "source": "Barron's"
         },
         {
-          "title": "Trump’s former trade architect says the president can’t backtrack on tariffs because he’s ‘too committed’ now: ‘That would be a pretty horrific decision’",
+          "title": "Warren Buffett may have cut Berkshire's stake in Apple again in the third quarter",
           "snippet": "",
-          "url": "https://fortune.com/2025/11/04/trump-tariffs-supreme-court-wilbur-ross-trump-cant-backtrack-horrific-decision/",
-          "source": "Fortune"
+          "url": "https://www.cnbc.com/2025/11/03/warren-buffett-may-have-again-cut-berkshires-stake-in-apple-in-q3-.html",
+          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,14 +229,14 @@
       "title": "clippers - thunder",
       "trafficCount": "200+",
       "pubDate": "Tue, 4 Nov 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpCrH5FrxfxvrKj_P9fij-gYtxnCwCVGJhni1py-Clwgri-DJamIdNjDHkRtI",
-      "pictureSource": "France 24",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQBbEg4mKvf-qan3TDfe17AWYxiI6G5VrcJrJ5rCjAbChIa86CALR1T_JqLBM",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Thunder roll Clippers to stay unbeaten as SGA keeps streak alive",
+          "title": "Can anyone stop the Thunder?",
           "snippet": "",
-          "url": "https://www.france24.com/en/live-news/20251105-thunder-roll-clippers-to-stay-unbeaten-as-sga-keeps-streak-alive",
-          "source": "France 24"
+          "url": "https://en.as.com/nba/can-anyone-stop-the-thunder-f202511-n/",
+          "source": "Diario AS"
         },
         {
           "title": "Game Recap: Thunder 126, Clippers 107",
@@ -217,10 +245,10 @@
           "source": "NBA"
         },
         {
-          "title": "Clippers, Harden start fast but Shai Gilgeous-Alexander, Thunder finish faster to earn comfortable win",
+          "title": "Thunder roll Clippers to stay unbeaten as Shai Gilgeous-Alexander keeps streak alive",
           "snippet": "",
-          "url": "https://www.nbcsports.com/nba/news/clippers-harden-start-fast-but-shai-gilgeous-alexander-thunder-finish-faster-to-earn-comfortable-win",
-          "source": "NBC Sports"
+          "url": "https://www.straitstimes.com/sport/basketball/thunder-roll-clippers-to-stay-unbeaten-as-shai-gilgeous-alexander-keeps-streak-alive",
+          "source": "The Straits Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.cbssports.com/fantasy/basketball/news/pelicans-jose-alvarado-vintage-performance-in-win/",
           "source": "CBS Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "clima mendoza",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 4 Nov 2025 19:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzSjogOOyeAPspjxob4saPg3sdSITE4e3b_1XZUA5mauoupSewRIC5f65usQ",
-      "pictureSource": "Clarin.com",
-      "relatedSearch": [
-        {
-          "title": "Clima hoy en Mendoza: el pronóstico del tiempo para este miércoles 5 noviembre de 2025",
-          "snippet": "",
-          "url": "https://www.clarin.com/informacion-general/clima-hoy-mendoza-pronostico-tiempo-miercoles-5-noviembre-2025_0_IfMJ6yOJNW.html",
-          "source": "Clarin.com"
-        },
-        {
-          "title": "Hay alerta amarilla por tormentas para este miércoles 5 de noviembre en Mendoza: las zonas afectadas",
-          "snippet": "",
-          "url": "https://tn.com.ar/sociedad/2025/11/05/hay-alerta-amarilla-por-tormentas-para-este-miercoles-5-de-noviembre-en-mendoza-las-zonas-afectadas/",
-          "source": "TN"
-        },
-        {
-          "title": "¿Cuatro días seguidos de lluvias en Mendoza? El particular pronóstico para el resto de la semana",
-          "snippet": "",
-          "url": "https://www.elsol.com.ar/mendoza/cuatro-dias-seguidos-de-lluvias-en-mendoza-el-particular-pronostico-para-el-resto-de-la-semana/",
-          "source": "Diario El Sol Mendoza"
         }
       ],
       "link": "https://imtaqin.id/"
