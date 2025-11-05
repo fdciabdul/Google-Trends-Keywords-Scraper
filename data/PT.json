@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-05 06:20:36",
+  "lastUpdate": "2025-11-05 06:37:18",
   "data": [
+    {
+      "title": "metro lisboa",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 4 Nov 2025 22:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXex3f1QAARmC_VN22p60Bl9-nql9UxwmrB98XOQm_mOQ-IvxFaCWrLECXygw",
+      "pictureSource": "SIC Notícias",
+      "relatedSearch": [
+        {
+          "title": "Três crianças de 2, 5 e 7 anos encontradas em \"casa devoluta\" numa zona de consumo de droga em Lisboa",
+          "snippet": "",
+          "url": "https://sicnoticias.pt/pais/2025-11-04-video-tres-criancas-de-2-5-e-7-anos-encontradas-em-casa-devoluta-numa-zona-de-consumo-de-droga-em-lisboa-35482128",
+          "source": "SIC Notícias"
+        },
+        {
+          "title": "Queixa à CPCJ. Três crianças encontradas em zona de consumo de droga em Lisboa",
+          "snippet": "",
+          "url": "https://www.rtp.pt/noticias/pais/queixa-a-cpcj-tres-criancas-encontradas-em-zona-de-consumo-de-droga-em-lisboa_n1695966",
+          "source": "RTP"
+        },
+        {
+          "title": "Três crianças encontradas em casa devoluta usada para consumo de droga",
+          "snippet": "",
+          "url": "https://www.publico.pt/2025/11/04/sociedade/noticia/tres-criancas-encontradas-casa-alegado-consumo-droga-2153280",
+          "source": "Público"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "cmtv",
       "trafficCount": "500+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "notícias ao minuto",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 4 Nov 2025 20:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQmByCSV70Qa3LMU2gD2A-wQGz2iL7bdlI4BoTxHvyS5cFyKOaMp-UHo1WLWw",
-      "pictureSource": "Observador",
-      "relatedSearch": [
-        {
-          "title": "Menina de 12 anos morre em queda de sétimo andar em Braga",
-          "snippet": "",
-          "url": "https://observador.pt/2025/11/04/menina-de-12-anos-morre-em-queda-de-setimo-andar-em-predio-de-braga/",
-          "source": "Observador"
-        },
-        {
-          "title": "Morte de menina de 12 anos investigada pela Judiciária em Braga",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/portugal/detalhe/morte-de-menina-de-12-anos-investigada-pela-judiciaria-em-braga",
-          "source": "Correio da Manhã"
-        },
-        {
-          "title": "Minho: Menina de 12 anos morre após queda de 7º andar",
-          "snippet": "",
-          "url": "https://www.radiovaledominho.com/minho-menina-de-12-anos-morre-apos-queda-de-7o-andar/",
-          "source": "Rádio Vale do Minho"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "cmtv direto",
       "trafficCount": "1000+",
       "pubDate": "Tue, 4 Nov 2025 20:50:00 -0800",
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.abola.pt/noticias/pode-haver-uma-multa-ao-fc-porto-mas-sancao-de-derrota-nunca-2025110413403129020",
           "source": "A Bola"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "notícias ao minuto",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 4 Nov 2025 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQmByCSV70Qa3LMU2gD2A-wQGz2iL7bdlI4BoTxHvyS5cFyKOaMp-UHo1WLWw",
+      "pictureSource": "Observador",
+      "relatedSearch": [
+        {
+          "title": "Menina de 12 anos morre em queda de sétimo andar em Braga",
+          "snippet": "",
+          "url": "https://observador.pt/2025/11/04/menina-de-12-anos-morre-em-queda-de-setimo-andar-em-predio-de-braga/",
+          "source": "Observador"
+        },
+        {
+          "title": "Morte de menina de 12 anos investigada pela Judiciária em Braga",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/portugal/detalhe/morte-de-menina-de-12-anos-investigada-pela-judiciaria-em-braga",
+          "source": "Correio da Manhã"
+        },
+        {
+          "title": "Minho: Menina de 12 anos morre após queda de 7º andar",
+          "snippet": "",
+          "url": "https://www.radiovaledominho.com/minho-menina-de-12-anos-morre-apos-queda-de-7o-andar/",
+          "source": "Rádio Vale do Minho"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +145,26 @@
       "title": "cnn portugal",
       "trafficCount": "100+",
       "pubDate": "Tue, 4 Nov 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLWleOx_tJyLgYd8WyiuKdGDHiCtzxbWXArMI14FFspL00ubuXQH_JeaawNgw",
-      "pictureSource": "GE",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclLeii0lJMjiwXAHfH3wSzmWC9OxfSacPDE5sCwVPlz7xzbC2MzjAzyHyX40",
+      "pictureSource": "RTP",
       "relatedSearch": [
         {
-          "title": "Cristiano Ronaldo compara ser bilionário a ganhar Bola de Ouro, mas diz: \"Não sou obcecado por dinheiro\"",
+          "title": "Grande Entrevista. André Ventura quer ser o presidente dos \"portugueses comuns\"",
           "snippet": "",
-          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2025/11/04/cristiano-ronaldo-compara-ser-bilionario-a-ganhar-bola-de-ouro-mas-diz-nao-sou-obcecado-por-dinheiro.ghtml",
-          "source": "GE"
+          "url": "https://www.rtp.pt/noticias/politica/grande-entrevista-andre-ventura-quer-ser-o-presidente-dos-portugueses-comuns_n1696020",
+          "source": "RTP"
         },
         {
-          "title": "CR7 não sabe quantos carros tem. O mais recente é este Bugatti",
+          "title": "O show de Costinha e Chicão na CNNtoon",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/cr7-nao-sabe-quantos-carros-tem-o-mais-recente-e-este-bugatti-690a625d390771c9c8506d37",
-          "source": "SAPO"
+          "url": "https://observador.pt/opiniao/o-show-de-costinha-e-chicao-na-cnntoon/",
+          "source": "Observador"
         },
         {
-          "title": "Perguntaram a Ronaldo qual é a coisa mais cara que comprou. Custou 65 milhões de euros",
+          "title": "\"Há uma certa tradição entre nós de entrar e sair em direto de estúdios de TV\"",
           "snippet": "",
-          "url": "https://cnnportugal.iol.pt/cristiano-ronaldo/fortuna/perguntaram-a-ronaldo-qual-e-a-coisa-mais-cara-que-comprou-custou-65-milhoes-de-euros/20251104/690a22d9d34e3caad84ae5aa",
-          "source": "CNN Portugal"
+          "url": "https://www.cmjornal.pt/opiniao/bilhete-postal/detalhe/ha-uma-certa-tradicao-entre-nos-de-entrar-e-sair-em-direto-de-estudios-de-tv",
+          "source": "Correio da Manhã"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +217,10 @@
           "source": "Expresso"
         },
         {
-          "title": "Pesadelo na saúde",
+          "title": "Polémicas não abalam confiança social-democrata na ministra da Saúde",
           "snippet": "",
-          "url": "https://www.cmjornal.pt/opiniao/nota-editorial/detalhe/pesadelo-na-saude",
-          "source": "Correio da Manhã"
+          "url": "https://www.publico.pt/2025/11/03/politica/noticia/polemicas-nao-abalam-confianca-socialdemocrata-ministra-saude-2153249",
+          "source": "Público"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,13 +229,13 @@
       "title": "cnn",
       "trafficCount": "200+",
       "pubDate": "Tue, 4 Nov 2025 18:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLn4QlOSmEbcEhMPa1aHWYKiOjkDokXrDcYHGxhjE0RkTStpOQMlki9gZ6h-A",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShTpBsLIgLS9DsjLrIJmfyhk3IL9E3btarF9a-JEPn8QpRmSCQXcGozwAiNeo",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Democrats sweep the first major elections of Trump’s second term",
+          "title": "Takeaways from Tuesday’s elections: Democrats win across the spectrum as voters reject Trump",
           "snippet": "",
-          "url": "https://www.cnn.com/politics/live-news/election-news-11-04-25",
+          "url": "https://www.cnn.com/2025/11/04/politics/election-takeaways-new-york-new-jersey-virginia",
           "source": "CNN"
         },
         {
@@ -217,10 +245,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Election results live updates: Mamdani beats Cuomo for NYC mayor as Dems win Va., N.J. governor, NBC News projects",
+          "title": "US regional elections — as it happened: Virginia and New Jersey governor wins give Democrats confidence boost",
           "snippet": "",
-          "url": "https://www.nbcnews.com/politics/elections/live-blog/election-day-2025-nyc-mayor-governor-race-live-updates-rcna241592",
-          "source": "NBC News"
+          "url": "https://www.ft.com/content/f47cbd25-0971-45e5-a69b-d79331c7160b",
+          "source": "Financial Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://sapo.pt/artigo/protecao-civil-emite-alerta-vermelho-mau-tempo-ameaca-portugal-com-chuva-torrencial-ventos-de-100-km-h-e-ondas-gigantes-690a57a80fd4d9ba5afef2c0",
           "source": "SAPO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zohran mamdani",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 4 Nov 2025 16:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTh2PAIlbFIib1JkqAnnCYfV8ery-U14mZoSNI74tvpu2RWjLsecSdsxVYutxI",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "NYC Mayoral Election Live Updates: Mamdani, Cuomo and Sliwa Put Their Fates in Voters' Hands",
-          "snippet": "",
-          "url": "https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election",
-          "source": "The New York Times"
-        },
-        {
-          "title": "New York mayor-elect Zohran Mamdani challenges Donald Trump in victory speech as Democrats win key US election races – live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/live/2025/nov/04/nyc-mayor-election-zohran-mamdani-andrew-cuomo-results-latest",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Election day live updates: Millions vote in New York City as polls open in Virginia, New Jersey and California",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/cg51m5emnmvt",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
