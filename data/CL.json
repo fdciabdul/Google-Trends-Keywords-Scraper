@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-11-06 09:41:42",
+  "lastUpdate": "2025-11-06 09:49:21",
   "data": [
     {
       "title": "weather",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 6 Nov 2025 01:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFC3GjK518-XwPjqRUkzdzy4VuIkLCfnNn85u8QDfZYatlmitvYnZFaRhsb1M",
       "pictureSource": "WPRI.com",
@@ -30,8 +30,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tiempo",
+      "trafficCount": "200000+",
+      "pubDate": "Thu, 6 Nov 2025 01:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVMzWWN-5w3BpqUBpQNDBKPhRKecZ82EDrs_1vAvzXrreWNIpurkyTBM_Anig",
+      "pictureSource": "Emol",
+      "relatedSearch": [
+        {
+          "title": "¿Regresa la lluvia?: Anticipan precipitaciones y bajas en las temperaturas para esta semana en la RM",
+          "snippet": "",
+          "url": "https://www.emol.com/noticias/Nacional/2025/11/04/1182205/lluvia-bajas-temperaturas-region-metropolitana.html",
+          "source": "Emol"
+        },
+        {
+          "title": "A qué hora comienzan hoy la lluvia y las tormentas eléctricas en Santiago",
+          "snippet": "",
+          "url": "https://www.latercera.com/tendencias/noticia/a-que-hora-comienzan-hoy-la-lluvia-y-las-tormentas-electricas-en-santiago/",
+          "source": "La Tercera"
+        },
+        {
+          "title": "Confirmado: Lluvias para Santiago y otras cinco regiones para este jueves",
+          "snippet": "",
+          "url": "https://www.tvn.cl/noticias/actualidad/confirmado-lluvias-para-santiago-y-otras-cinco-regiones-para-este-jueves",
+          "source": "TVN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tiempo en santiago",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 6 Nov 2025 01:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvkQ4imqNkg45W4omFBZfu_t1vsQ_OoHaDWKXu6TleeWssZtekc34FJKlCc4U",
       "pictureSource": "CNN Chile",
@@ -59,39 +87,11 @@
     },
     {
       "title": "clima hoy",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 6 Nov 2025 01:00:00 -0800",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meteochile",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 6 Nov 2025 01:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStdY7D3jbN9g6EiliSLKyW98uNG0JnDpuqw4kvzVk-YRn28oyYyLGq4vPSUE0",
-      "pictureSource": "BioBioChile",
-      "relatedSearch": [
-        {
-          "title": "Como Waze, pero del Tiempo: así puedes alertar sobre los eventos meteorológicos en tu localidad",
-          "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2025/11/04/como-waze-pero-del-tiempo-asi-puedes-alertar-sobre-los-eventos-meteorologicos-en-tu-localidad.shtml",
-          "source": "BioBioChile"
-        },
-        {
-          "title": "Meteochile lanza plataforma para observar el clima y reportarlo en tiempo real",
-          "snippet": "",
-          "url": "https://sabes.cl/2025/11/05/meteochile-lanza-plataforma-para-observar-el-clima-y-reportarlo-en-tiempo-real/",
-          "source": "Sabes.cl"
-        },
-        {
-          "title": "¿Regresa la lluvia?: Anticipan precipitaciones y bajas en las temperaturas para esta semana en la RM",
-          "snippet": "",
-          "url": "https://www.emol.com/noticias/Nacional/2025/11/04/1182205/lluvia-bajas-temperaturas-region-metropolitana.html",
-          "source": "Emol"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
