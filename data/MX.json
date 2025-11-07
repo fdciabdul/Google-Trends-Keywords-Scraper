@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-07 12:29:27",
+  "lastUpdate": "2025-11-07 12:50:38",
   "data": [
     {
       "title": "temblor",
@@ -59,7 +59,7 @@
     },
     {
       "title": "clima slp",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 7 Nov 2025 03:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrCvyq_5d48p_BLvNe1cyxDuZjq21u8GgAwIaxLi_AswRE96MJi0Fub3KCBQs",
       "pictureSource": "DEBATE",
@@ -87,17 +87,11 @@
     },
     {
       "title": "clima guadalajara",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 7 Nov 2025 03:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHNLOKMCVtKTejF1r8zbQOURbSQjMakPHvWm2l6Cy1yFfdC93yWgskrUxLQ28",
-      "pictureSource": "MILENIO",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRs6AiRP3L3Pc3naesV8FxPhOyud0Ek9xJ6YCeOItdIEFECBtP_gVXdXnSUo",
+      "pictureSource": "El Informador",
       "relatedSearch": [
-        {
-          "title": "Se esperan lluvias aisladas para este viernes 7 de noviembre en Jalisco",
-          "snippet": "",
-          "url": "https://www.milenio.com/el-clima/clima-jalisco-esperan-lluvias-aisladas-pars-viernes-7",
-          "source": "MILENIO"
-        },
         {
           "title": "Clima en Guadalajara hoy: el pronóstico para el viernes 7 de noviembre de 2025",
           "snippet": "",
@@ -109,6 +103,12 @@
           "snippet": "",
           "url": "https://www.elconfidencial.com/el-tiempo/2025-11-06/el-tiempo-en-guadalajara-viernes_4243110/",
           "source": "El Confidencial"
+        },
+        {
+          "title": "Siguen las temperaturas bajo cero en Jalisco y la posibilidad de heladas hoy 7 de noviembre",
+          "snippet": "",
+          "url": "https://www.aztecajalisco.com/clima/clima-guadalajara-alertan-temperaturas-cero-y-posibles-heladas",
+          "source": "Azteca Jalisco"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,29 +142,85 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "houston",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 7 Nov 2025 02:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIVNjohFGQP739QjJP77l5iVAkXw4qmFySeL2VPS7TOD84qy0pNmeUJvxz9ik",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "US flight cancellations accelerate as airlines comply with government shutdown order",
+          "snippet": "",
+          "url": "https://apnews.com/article/government-shutdown-reduced-flights-a082a6817d960101968a923f7dfd8ef0",
+          "source": "AP News"
+        },
+        {
+          "title": "Travel is up in the air",
+          "snippet": "",
+          "url": "https://www.axios.com/local/nw-arkansas/2025/11/07/travel-up-air-shutdown-xna",
+          "source": "Axios"
+        },
+        {
+          "title": "Hundreds of flights cancelled in US as airlines scramble to cut traffic during shutdown",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c20ez8y0dv1t",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "mumbai",
       "trafficCount": "1000+",
       "pubDate": "Fri, 7 Nov 2025 02:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqxfd8p79vpyEzy-nvUZnZl_sOxmJZtmv5qKJpF3lBvrYEMkyJmaOOlYBwSY",
-      "pictureSource": "chinadailyhk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnwPAJeMGxNW-XokJuz3iM2PcSmdajZcAUdMkhspA4yYalH7PamfMV9dsjuX0",
+      "pictureSource": "Anadolu Ajansı",
       "relatedSearch": [
         {
-          "title": "Technical issue affects flights operations at Delhi airport",
+          "title": "Technical glitch at New Delhi airport delays over 100 flights",
           "snippet": "",
-          "url": "https://www.chinadailyasia.com/article/623162",
-          "source": "chinadailyhk"
-        },
-        {
-          "title": "ATC software glitch",
-          "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/tag/atc-software-glitch/",
-          "source": "Travel And Tour World"
+          "url": "https://www.aa.com.tr/en/asia-pacific/technical-glitch-at-new-delhi-airport-delays-over-100-flights/3737341",
+          "source": "Anadolu Ajansı"
         },
         {
           "title": "Frustrated passengers, missed journeys: Stranded flyers lament flight delays | India News",
           "snippet": "",
           "url": "https://www.hindustantimes.com/india-news/frustrated-passengers-missed-journeys-stranded-flyers-lament-flight-delays-101762513630004.html",
           "source": "Hindustan Times"
+        },
+        {
+          "title": "ATC software glitch",
+          "snippet": "",
+          "url": "https://www.travelandtourworld.com/news/article/tag/atc-software-glitch/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "miami",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 7 Nov 2025 02:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSOACT642kjZgSiRUjRMUx7x14qugHTUZjNBCIdyrfan-2vGR_s9fBzVAOoUc",
+      "pictureSource": "NBC News",
+      "relatedSearch": [
+        {
+          "title": "Ex-NFL star Antonio Brown in custody four months after allegedly shooting into Miami crowd",
+          "snippet": "",
+          "url": "https://www.nbcnews.com/news/us-news/antonio-brown-custody-four-months-evading-police-rcna242443",
+          "source": "NBC News"
+        },
+        {
+          "title": "Ex-NFL star Antonio Brown being extradited to Miami in attempted murder case: Police",
+          "snippet": "",
+          "url": "https://www.nbcmiami.com/news/local/ex-nfl-star-antonio-brown-being-extradited-to-miami-in-attempted-murder-case-police/3717585/",
+          "source": "NBC 6 South Florida"
+        },
+        {
+          "title": "Antonio Brown captured in Dubai by U.S. Marshals on attempted murder charge",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/6785505/2025/11/06/antonio-brown-captured-search-nfl/",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +245,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "JD Vance may have had the most telling reaction to a big 24 hours for US politics",
+          "title": "Meet Mira Nair, Zohran Mamdani’s 68-year-old mother, who hit it big in Hollywood directing critical darlings like ‘Monsoon Wedding’",
           "snippet": "",
-          "url": "https://news.sky.com/story/winning-is-better-than-losing-but-what-if-mamdani-is-a-democrat-poison-chalice-13464706",
-          "source": "Sky News"
+          "url": "https://fortune.com/2025/11/05/mira-nair-zohran-mamdani-mother-hollywood-career-director-movies-awards-mirabai-films/",
+          "source": "Fortune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.millenniumpost.in/bengal/cm-urges-global-filmmakers-to-collaborate-with-bengal-and-create-magic-together-634478",
           "source": "MillenniumPost"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bogota",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 7 Nov 2025 02:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqsPCUXqYDmzYfnFDRpsDndcu6g1UPkISLcdeLVi6NB--eGOfjsiYmoDhuRIA",
-      "pictureSource": "Infobae",
-      "relatedSearch": [
-        {
-          "title": "Incendio en el sur de Bogotá consumió una fábrica de muebles rústicos",
-          "snippet": "",
-          "url": "https://www.infobae.com/colombia/2025/11/07/incendio-en-el-sur-de-bogota-consumio-una-fabrica-de-muebles-rusticos/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Bomberos de Bogotá atiende emergencia tras incendio en fábrica de muebles en barrio Las Cruces",
-          "snippet": "",
-          "url": "https://bogota.gov.co/mi-ciudad/emergencias/bomberos-controla-incendio-en-fabrica-de-muebles-en-las-cruces-bogota",
-          "source": "Bogota.gov.co"
-        },
-        {
-          "title": "Madrugada de terror en el centro de Bogotá por grave incendio; varias viviendas, afectadas",
-          "snippet": "",
-          "url": "https://www.pulzo.com/nacion/bogota/madrugada-terror-centro-bogota-por-grave-incendio-PP4885920",
-          "source": "Pulzo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "san francisco",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 7 Nov 2025 02:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbB8qFQoV0f4dtTnjWXNxLdrBOnMlQ7J4RiD9FvZzUtrJfdSd75Bnuf1tG1wU",
-      "pictureSource": "Mission Local",
-      "relatedSearch": [
-        {
-          "title": "Who is new Supervisor Beya Alcaraz? And what does District 4 think?",
-          "snippet": "",
-          "url": "https://missionlocal.org/2025/11/sf-beya-alcaraz-district-4-supervisor/",
-          "source": "Mission Local"
-        },
-        {
-          "title": "Lurie picks 29-year-old former pet store owner to represent Sunset",
-          "snippet": "",
-          "url": "https://sfstandard.com/2025/11/06/lurie-picks-29-year-old-former-pet-store-owner-represent-sunset-bitter-recall/",
-          "source": "The San Francisco Standard"
-        },
-        {
-          "title": "Engardio’s replacement sworn in for District 4 seat",
-          "snippet": "",
-          "url": "https://www.kalw.org/bay-area-news/2025-11-06/alcaraz-sworn-in",
-          "source": "KALW"
         }
       ],
       "link": "https://imtaqin.id/"
