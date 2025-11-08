@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-11-08 15:27:06",
+  "lastUpdate": "2025-11-08 15:34:44",
   "data": [
     {
       "title": "карпати – кривбас",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 8 Nov 2025 07:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnvFBocks1mmA25HdIN7PizpaMzv6X0-miN0WdW7PG0UErUXKmMHWB8x5rdk",
       "pictureSource": "ФК \"Карпати\" Львів",
@@ -31,7 +31,7 @@
     },
     {
       "title": "байер – хайденхайм",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 8 Nov 2025 07:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS59neul80b4DvN5ERwxArZFhKB4Z8_Soz3IcOHZ_4zkBmdte-IzRSKdhx2UQs",
       "pictureSource": "Metaratings",
@@ -59,7 +59,7 @@
     },
     {
       "title": "центрэнерго",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 8 Nov 2025 06:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNmfm-wnMM3NGLLPQFLSvDogQMmq5RZqrIzdnFQ5BVdBML3puKBNUVoYtTSIw",
       "pictureSource": "Українська правда",
@@ -71,16 +71,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "Массированная атака РФ на энергообъекты: Кременчуг остался без света и отопления, в Днепре шахед попал в дом,",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/ataka-na-ukrainu-7-noyabrya-vozdushnye-sily-soobshchili-ob-ugroze-bpla-karta-vozdushnyh-trevog-50559017.html",
-          "source": "NV.ua"
-        },
-        {
           "title": "Свириденко назвала приоритет правительства после ночной атаки РФ",
           "snippet": "",
           "url": "https://www.rbc.ua/ukr/news/sviridenko-nazvala-prioritet-uryadu-pislya-1762599975.html",
           "source": "РБК-Україна"
+        },
+        {
+          "title": "Все ТЭС \"Центрэнерго\" остановились после ночной атаки и больше не генерируют электроэнергию",
+          "snippet": "",
+          "url": "https://24tv.ua/economy/ru/vse-tjes-centrjenergo-ostanovilis-posle-nochnoj-ataki-i-bolshe-ne-generirujut-jelektrojenergiju_n2949037",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +89,26 @@
       "title": "центренерго",
       "trafficCount": "5000+",
       "pubDate": "Sat, 8 Nov 2025 06:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBJlBNBouRMd9gk40uy-wc6iq3mJ91SN0T7oECNL6zZF86xn1jPWufbVDQbQ",
-      "pictureSource": "ТСН",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXEnatWYO_b0YslsIE5wX7ZUArPcdfrkgGR9hrqzTta19Op3UBtrT095mHCSI",
+      "pictureSource": "Korrespondent.net",
       "relatedSearch": [
+        {
+          "title": "В Україні зупинилися всі ТЕС Центренерго",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/ukraine/4830875-v-ukraini-zupynylysia-vsi-tes-tsentrenerho",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "\"Ми зупинилися. Нуль генерації\": у \"Центренерго\" заявили про жахливі наслідки нічної атаки",
+          "snippet": "",
+          "url": "https://www.unian.ua/economics/energetics/viyna-v-ukrajini-centrenergo-povnistyu-vtratilo-generaciyu-pislya-nichnoji-ataki-rf-13190211.html",
+          "source": "УНІАН"
+        },
         {
           "title": "Нічна атака РФ: усі ТЕС \"Центренерго\" зупинилися та більше не генерують електроенергію",
           "snippet": "",
           "url": "https://tsn.ua/ukrayina/nichna-ataka-rf-usi-tes-tsentrenerho-zupynylysia-ta-bilshe-ne-heneruiut-elektroenerhiiu-2952809.html",
           "source": "ТСН"
-        },
-        {
-          "title": "Наймасованіший удар з початку війни. Центренерго повністю зупинило генерацію",
-          "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/events/naymasovanishiy-udar-z-pochatku-viyni-centrenergo-povnistyu-zupinilo-generaciyu-50559116.html",
-          "source": "NV.ua"
-        },
-        {
-          "title": "Росія масовано атакувала газову інфраструктуру України, поранений співробітник Нафтогазу",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-economy/4056538-rosia-masovano-atakuvala-gazovu-infrastrukturu-ukraini-poranenij-spivrobitnik-naftogazu.html",
-          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "Tribuna.com"
         },
         {
+          "title": "Унион Берлин - Бавария - 8 ноября 2025 - прямая онлайн трансляция футбольного матча.",
+          "snippet": "",
+          "url": "https://www.liveresult.ru/football/matches/match1638054_Union_Berlin-Bayern_Munich-live-online",
+          "source": "LiveResult"
+        },
+        {
           "title": "Бундеслига: расписание и результаты матчей 10-го тура чемпионата Германии по футболу, таблица",
           "snippet": "",
           "url": "https://tsn.ua/ru/prosport/bundesliga-raspisanie-i-rezultaty-matchey-10-go-tura-chempionata-germanii-po-futbolu-tablitsa-2952188.html",
           "source": "ТСН"
-        },
-        {
-          "title": "Серия Баварии после Униона началась, на Унионе сегодня закончится?",
-          "snippet": "",
-          "url": "https://terrikon.com/posts/544483",
-          "source": "Террикон"
         }
       ],
       "link": "https://imtaqin.id/"
