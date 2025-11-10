@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-10 05:02:13",
+  "lastUpdate": "2025-11-10 05:12:46",
   "data": [
     {
       "title": "מאסטר שף",
@@ -33,13 +33,19 @@
       "title": "מזג אוויר",
       "trafficCount": "2000+",
       "pubDate": "Sun, 9 Nov 2025 20:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3MpyDER5Ay4nGD59JwQOWXO-qMwvyuMojkzFQKzQWrAAhP3d1XtKKc9eA8JU",
-      "pictureSource": "mako",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELDG3BfhhjHmCh3f_-03AgV8otu0-puS01V3O6fnf-nCxI9QO10AqG7C3WJ0",
+      "pictureSource": "מעריב",
       "relatedSearch": [
         {
-          "title": "החורף מגיע: מהשרב למערכת גשומה ראשונה לעונה",
+          "title": "נובמבר שלא היה כמותו: אחרי השרב - חשש להצפות בסוף השבוע | תחזית מזג האוויר",
           "snippet": "",
-          "url": "https://www.mako.co.il/hix-nature/Article-ff0aef0eac86a91027.htm",
+          "url": "https://www.maariv.co.il/breaking-news/article-1250134",
+          "source": "מעריב"
+        },
+        {
+          "title": "התחזית: בינתיים חם – לקראת מערכת גשם ממושכת שתגיע בסוף השבוע",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-weather/2025_q4/Article-00975d9d1ca6a91026.htm",
           "source": "mako"
         },
         {
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.israelhayom.co.il/weather/article/19205722",
           "source": "ישראל היום"
-        },
-        {
-          "title": "נובמבר שלא היה כמותו: אחרי השרב - חשש להצפות בסוף השבוע | תחזית מזג האוויר",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/weather/article-1250100",
-          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -65,7 +65,7 @@
       "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "היום יהיה חם מהרגיל - ומתי יירד גשם? | התחזית",
+          "title": "ערפל בדרום ובמרכז לפני החום - ומתי סוף-סוף יירד גשם? | התחזית",
           "snippet": "",
           "url": "https://www.ynet.co.il/news/article/n1msp39je",
           "source": "ynet"
@@ -198,15 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "וואלה ספורט",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 9 Nov 2025 12:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "lyon vs psg",
       "trafficCount": "200+",
       "pubDate": "Sun, 9 Nov 2025 12:40:00 -0800",
@@ -258,6 +249,34 @@
           "snippet": "",
           "url": "https://tmi.maariv.co.il/celebs-news/article-1249665",
           "source": "TMI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ביתר ירושלים משחקים",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 9 Nov 2025 12:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT71r0hpENXwYMu26ADq8tn2huy9-Y7nLCfsGLpqVv0gIZqJYOXnuiQSsZTJBA",
+      "pictureSource": "מועדון הכדורגל בית\"ר ירושלים",
+      "relatedSearch": [
+        {
+          "title": "רק 25₪ למשלוח עד הבית: בית״ר ירושלים משדרגת את החוויה בחנות הרשמית",
+          "snippet": "",
+          "url": "https://www.beitarfc.co.il/news/fcbjstore/",
+          "source": "מועדון הכדורגל בית\"ר ירושלים"
+        },
+        {
+          "title": "בית\"ר חוגגת את הניצחון ההיסטורי: \"אם המשחק היה נמשך - היינו כובשים עשירייה\"",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/sport/israelisoccer/article/rj35orc1ze",
+          "source": "ynet"
+        },
+        {
+          "title": "שיא אחרי שיא: הערב ההיסטורי של בית\"ר",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=524435",
+          "source": "ספורט 5"
         }
       ],
       "link": "https://imtaqin.id/"
