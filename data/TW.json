@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-10 22:18:18",
+  "lastUpdate": "2025-11-10 22:30:52",
   "data": [
+    {
+      "title": "台風情報",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 10 Nov 2025 14:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMhf8CFKvToZfM2EGWmJ1zsxSSFG5a4p2ArFuTrtCk_EnCodPZ1nWkgf6sMso",
+      "pictureSource": "フォーカス台湾",
+      "relatedSearch": [
+        {
+          "title": "台風26号が台湾に接近 10、11日は北部や東部で大雨に警戒",
+          "snippet": "",
+          "url": "https://japan.focustaiwan.tw/travel/202511090002",
+          "source": "フォーカス台湾"
+        },
+        {
+          "title": "台風26号が北上し前線は活発に 沖縄は明日から雨で強まることも",
+          "snippet": "",
+          "url": "https://weathernews.jp/news/202511/100256/",
+          "source": "ウェザーニュース"
+        },
+        {
+          "title": "【台風情報】台風26号は今どこ? 「非常に強い勢力」に再び発達へ 台湾を西から横断し勢力落とす予想も「警報級の大雨」に警戒（10日午前7時現在）（RBC琉球放送）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/38e776d6d8184ea4804da53d94db893a78dc91ea",
+          "source": "Yahoo!ニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "yahoo股市",
       "trafficCount": "100+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5241069",
           "source": "自由財經"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "taiwan weather",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 10 Nov 2025 13:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-f4wmvgdIafWaBu_6qdZaUIeKtYcybtRfCm4PCJJuj25C0eFjgqAVUO68R_Y",
-      "pictureSource": "Focus Taiwan",
-      "relatedSearch": [
-        {
-          "title": "Typhoon Fung-Wong to bring heavy rain to Taiwan next week: CWA",
-          "snippet": "",
-          "url": "https://focustaiwan.tw/society/202511090004",
-          "source": "Focus Taiwan"
-        },
-        {
-          "title": "Philippines typhoon aftermath: 'Water levels are rising fast'",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/videos/ce8zp4mr35zo",
-          "source": "BBC"
-        },
-        {
-          "title": "Cancelations announced as sea warning issued for Typhoon Fung-wong",
-          "snippet": "",
-          "url": "https://www.taipeitimes.com/News/taiwan/archives/2025/11/10/2003846977",
-          "source": "Taipei Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,7 +123,7 @@
         {
           "title": "雙11大戰》酷澎變貴了？推會員、開商城 最大的敵人不是momo",
           "snippet": "",
-          "url": "https://www.cw.com.tw/index.php/article/5138244",
+          "url": "https://www.cw.com.tw/article/5138244",
           "source": "天下雜誌"
         },
         {
