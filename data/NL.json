@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-11 19:08:18",
+  "lastUpdate": "2025-11-11 19:19:18",
   "data": [
+    {
+      "title": "madagascar",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 11 Nov 2025 11:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuZMuQqWjDbScMVWn1xcNeqQKDzn8extHZazclui_gb62SCU8fr8IT5Zmoh4w",
+      "pictureSource": "RFI",
+      "relatedSearch": [
+        {
+          "title": "Madagascar: les nouvelles autorités multiplient les interdictions de sortie du territoire",
+          "snippet": "",
+          "url": "https://www.rfi.fr/fr/afrique/20251110-madagascar-les-nouvelles-autorit%C3%A9s-multiplient-les-interdictions-de-sortie-du-territoire",
+          "source": "RFI"
+        },
+        {
+          "title": "Refondation de la République : Deux interdictions de sortie du territoire levées, trois diplomates limogés",
+          "snippet": "",
+          "url": "https://midi-madagasikara.mg/refondation-de-la-republique-deux-interdictions-de-sortie-du-territoire-levees-trois-diplomates-limoges-2/",
+          "source": "Midi Madagasikara"
+        },
+        {
+          "title": "Refondation à Madagascar : les anciens hauts dirigeants frappés d’IST",
+          "snippet": "",
+          "url": "https://actu.orange.mg/refondation-a-madagascar-les-anciens-hauts-dirigeants-frappes-dist/",
+          "source": "Orange actu Madagascar"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "dikke pens",
       "trafficCount": "100+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "millennials",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 11 Nov 2025 10:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-adg7xAempx3g7-hCModbdntl9x2D10Q9ezGrda76jX9ZuBRWtf8YDrxY68w",
       "pictureSource": "BusinessToday Malaysia",
@@ -80,34 +108,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "polderbaan",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 11 Nov 2025 10:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjwDu2MCayONdvByyZV1fLjRyvier67OffeSL5kCl-EBXFy74nxb6KdQXPxZI",
-      "pictureSource": "NU",
-      "relatedSearch": [
-        {
-          "title": "Video | Vliegtuig staat met klapband op landingsbaan Schiphol",
-          "snippet": "",
-          "url": "https://www.nu.nl/321451/video/vliegtuig-staat-met-klapband-op-landingsbaan-schiphol.html",
-          "source": "NU"
-        },
-        {
-          "title": "Vliegtuig strandt na landing op Schiphol: Polderbaan uren dicht",
-          "snippet": "",
-          "url": "https://www.parool.nl/amsterdam/vliegtuig-strandt-na-landing-op-schiphol-polderbaan-uren-dicht~bd47b9e52/",
-          "source": "Het Parool"
-        },
-        {
-          "title": "Cityhopper uit Norwich krijgt klapband tijdens landing op Schiphol",
-          "snippet": "",
-          "url": "https://www.ad.nl/112-nieuws-haarlemmermeer/cityhopper-uit-norwich-krijgt-klapband-tijdens-landing-op-schiphol~ad47b9e52/",
-          "source": "AD.nl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "medisch centrum west",
       "trafficCount": "200+",
       "pubDate": "Tue, 11 Nov 2025 10:20:00 -0800",
@@ -121,16 +121,44 @@
           "source": "AD.nl"
         },
         {
+          "title": "Beau Schneider licht tipje van de sluier op over het tweede seizoen van Medisch Centrum West",
+          "snippet": "",
+          "url": "https://www.tvgids.nl/nieuws/video/beau-schneider-licht-tipje-van-de-sluier-op-over-het-tweede-seizoen-van-medisch-centrum-west",
+          "source": "TVgids.nl"
+        },
+        {
           "title": "Medisch Centrum West: Medisch Centrum West: vanaf 11 november",
           "snippet": "",
           "url": "https://www.kijk.nl/programmas/medisch-centrum-west/HDUCXQdpKzkpcy",
           "source": "KIJK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "polderbaan",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 11 Nov 2025 10:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjwDu2MCayONdvByyZV1fLjRyvier67OffeSL5kCl-EBXFy74nxb6KdQXPxZI",
+      "pictureSource": "NU",
+      "relatedSearch": [
+        {
+          "title": "Video | Vliegtuig staat met klapband op landingsbaan Schiphol",
+          "snippet": "",
+          "url": "https://www.nu.nl/321451/video/vliegtuig-staat-met-klapband-op-landingsbaan-schiphol.html",
+          "source": "NU"
         },
         {
-          "title": "Medisch Centrum West S02E01: maatschappijkritische soap met verschillende gezichten",
+          "title": "KLM-toestel strandt na landing: passagiers met bussen van taxibaan naar gate",
           "snippet": "",
-          "url": "https://www.bnnvara.nl/varagids/artikelen/medisch-centrum-west-s02e01-maatschappijkritische-soap-met-verschillende-gezichten",
-          "source": "bnnvara"
+          "url": "https://www.nhnieuws.nl/nieuws/354240/klm-toestel-strandt-na-landing-passagiers-met-bussen-van-taxibaan-naar-gate",
+          "source": "NH Nieuws"
+        },
+        {
+          "title": "Vliegtuig strandt na landing op Schiphol: Polderbaan uren dicht",
+          "snippet": "",
+          "url": "https://www.parool.nl/amsterdam/vliegtuig-strandt-na-landing-op-schiphol-polderbaan-uren-dicht~bd47b9e52/",
+          "source": "Het Parool"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -139,14 +167,14 @@
       "title": "michael j fox",
       "trafficCount": "500+",
       "pubDate": "Tue, 11 Nov 2025 10:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThYeWJrANdT31HOhbCnnEF4skTP1ivygOr5oafSfStTvdlCfrpfBnRwDtGqY0",
-      "pictureSource": "SlashFilm",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQsaDDBgrnOE1-A_PUb7rhFoaMJC510KGK1RkitWULlKNrwZFu8pdB-UA318k",
+      "pictureSource": "Entertainment Weekly",
       "relatedSearch": [
         {
-          "title": "Why Steven Spielberg Hid Michael J. Fox's Back To The Future Hiring Until He Started Shooting",
+          "title": "Michael J. Fox opens up about being 'treated like s---' before 'Back to the Future' success",
           "snippet": "",
-          "url": "https://www.slashfilm.com/2014762/why-steven-spielberg-hid-michael-j-fox-back-to-the-future-hiring/",
-          "source": "SlashFilm"
+          "url": "https://ew.com/michael-j-fox-on-being-treated-badly-before-back-to-the-future-success-11847219",
+          "source": "Entertainment Weekly"
         },
         {
           "title": "From Hollywood to Housatonic: The Berkshires’ surprising link to ‘Back to the Future’",
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.rijnmond.nl/nieuws/2105116/politieonderzoek-na-woningbrand-met-een-gewonde-rotterdam-charlois",
           "source": "Rijnmond"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vuurwerk",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 11 Nov 2025 09:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJoD54aItpwOOjaxScxeMj9-XyAzy5hFFyi8vM7oR2JkV6M0Jr3vewIeNV9-o",
-      "pictureSource": "NU",
-      "relatedSearch": [
-        {
-          "title": "Vuurwerkverkoop explodeert: mensen willen nog één keer met knal het jaar uit",
-          "snippet": "",
-          "url": "https://www.nu.nl/economie/6375573/vuurwerkverkoop-explodeert-mensen-willen-nog-een-keer-met-knal-het-jaar-uit.html",
-          "source": "NU"
-        },
-        {
-          "title": "Vuurwerkhandelaren: vuurwerkfans slaan nu groter in dan voorgaande jaren",
-          "snippet": "",
-          "url": "https://nos.nl/artikel/2590020-vuurwerkhandelaren-vuurwerkfans-slaan-nu-groter-in-dan-voorgaande-jaren",
-          "source": "NOS"
-        },
-        {
-          "title": "Waarom het slim is dat vuurwerkverkopers roepen dat ze het druk hebben, ook als dat niet zo is",
-          "snippet": "",
-          "url": "https://www.ad.nl/binnenland/waarom-het-slim-is-dat-vuurwerkverkopers-roepen-dat-ze-het-druk-hebben-ook-als-dat-niet-zo-is~a0aecd05/",
-          "source": "AD.nl"
         }
       ],
       "link": "https://imtaqin.id/"
