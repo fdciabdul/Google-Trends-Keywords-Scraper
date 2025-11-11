@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-11-11 05:14:43",
+  "lastUpdate": "2025-11-11 05:27:54",
   "data": [
     {
       "title": "погода одесса",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 10 Nov 2025 20:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPKT2SeU_asLpS1VcQDNqNbxPTWldru_kZFLk50ILJqjCG8vKbgB0s9cAg3eg",
       "pictureSource": "Думская",
@@ -31,7 +31,7 @@
     },
     {
       "title": "отключение света одесса",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 10 Nov 2025 20:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM2lesvlVQfxzSJmV_FC8-vcxW18BeGASHjWPPUW5gr6kDzI-hKthcJxBYZ2s",
       "pictureSource": "Економічна правда",
@@ -61,20 +61,20 @@
       "title": "графік відключення світла черкаська область сьогодні",
       "trafficCount": "100+",
       "pubDate": "Mon, 10 Nov 2025 18:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9c4A3TBJULo_EYoqW372btclJBVDDdZsqK0U4hC95l48ep79Qh4QR4xcU6IA",
-      "pictureSource": "Uzhgorod.IN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJuHdK8lcH6wBpskW9nlGULWoJdEPmThgzyl2sqHqBgFgwLjGzg1pI5RPB-c8",
+      "pictureSource": "Суспільне | Новини",
       "relatedSearch": [
-        {
-          "title": "Енергетична ситуація на Закарпатті: відключення 3 листопада не плануються, але ризики залишаються",
-          "snippet": "",
-          "url": "http://uzhgorod.in/energetychna-sytuatsiya-na-zakarpatti-stabilizatsijni-vidklyuchennya-3-lystopada-ne-planuyutsya-ale-ryzyky-zalyshayutsya/",
-          "source": "Uzhgorod.IN"
-        },
         {
           "title": "У Черкаській області 11 листопада вимикатимуть світло: графіки",
           "snippet": "",
           "url": "https://suspilne.media/cherkasy/1160656-u-cerkaskij-oblasti-11-listopada-vimikatimut-svitlo-grafiki/",
           "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Електроенергію на Черкащині вимикатимуть у вівторок, 11 листопада (ОНОВЛЕНО)",
+          "snippet": "",
+          "url": "https://18000.com.ua/strichka-novin/elektroenergiyu-na-cherkashhini-vimikatimut-u-vivtorok-11-listopada-grafik/",
+          "source": "18000"
         },
         {
           "title": "Для промисловості та бізнесу 11 листопада діятиме графік обмеження потужності",
@@ -173,9 +173,16 @@
       "title": "рені",
       "trafficCount": "2000+",
       "pubDate": "Mon, 10 Nov 2025 14:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGz99gYay-s_6FPu9XBy66urlJg2RbZHjy-ZPdoFAS-j5Go8sefZ82HcYsnM",
+      "pictureSource": "5.ua",
+      "relatedSearch": [
+        {
+          "title": "росія атакувала Одещину: пошкоджено енергетичний об'єкт і портову інфраструктуру",
+          "snippet": "",
+          "url": "https://www.5.ua/regiony/rosiia-atakuvala-odeshchynu-poshkodzheno-enerhetychnyi-obiekt-i-portovu-infrastrukturu-363554.html",
+          "source": "5.ua"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -198,10 +205,10 @@
           "source": "Новини Live"
         },
         {
-          "title": "Пожары и разрушенные дома: последствия очередной атаки дронами в Одесской области",
+          "title": "Утром враг ударил по Одесскому району: поврежден дом, на месте вспыхнул пожар (фото)",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/pozhezhi-ta-zruynovani-budinki-naslidki-chergovoyi-1762671577.html",
-          "source": "РБК-Україна"
+          "url": "https://dumskaya.net/news/utrom-vrag-udaril-po-odesskomu-rayonu-povrezhden-189424/",
+          "source": "Думская"
         }
       ],
       "link": "https://imtaqin.id/"
