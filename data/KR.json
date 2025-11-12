@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-11-12 10:22:30",
+  "lastUpdate": "2025-11-12 10:36:06",
   "data": [
-    {
-      "title": "마비노기 모바일",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 12 Nov 2025 01:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM7tcx1lnNdmgoFF0drtLDd7AiemPM7XpQd3jfsmPC5BtiNQtrlw5gGEmHgoI",
-      "pictureSource": "경향신문",
-      "relatedSearch": [
-        {
-          "title": "올해 대한민국 게임대상에 ‘마비노기 모바일’",
-          "snippet": "",
-          "url": "https://www.khan.co.kr/article/202511121804001",
-          "source": "경향신문"
-        },
-        {
-          "title": "대한민국 게임대상에 '마비노기 모바일'…넥슨 6관왕(종합)",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20251112134951017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "2025 대한민국 게임대상 '마비노기 모바일'…넥슨, 시상식 '6관왕'",
-          "snippet": "",
-          "url": "https://www.g-enews.com/article/ICT/2025/11/202511121736565780c5fa75ef86_1",
-          "source": "글로벌이코노믹"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "서강대",
       "trafficCount": "100+",
@@ -99,23 +71,23 @@
           "source": "조선일보"
         },
         {
-          "title": "민희진, 어도어-돌고래유괴단 소송 증인 출석…\"어도어 법 악용\"",
-          "snippet": "",
-          "url": "https://www.news1.kr/society/court-prosecution/5972433",
-          "source": "뉴스1"
-        },
-        {
           "title": "어도어, '뉴진스 뮤비 게시' 광고제작사 손배소…민희진 증언",
           "snippet": "",
           "url": "https://www.yna.co.kr/view/AKR20251111147800004",
           "source": "연합뉴스"
+        },
+        {
+          "title": "민희진 \"돌고래유괴단에 일감 몰아주기? 억지 주장이고 모함\"",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0117_202511111714174438",
+          "source": "YTN"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "뉴진스",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Wed, 12 Nov 2025 00:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3BG2cDnMQYOqU_FuXGqIegnaW9jTIFWYYEMqIXKq41fhktcztbV1CjzL1iI",
       "pictureSource": "조선일보",
@@ -127,16 +99,44 @@
           "source": "조선일보"
         },
         {
+          "title": "[속보] 뉴진스 해린·혜인, 어도어 복귀한다…“전속계약 준수”",
+          "snippet": "",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1228864.html",
+          "source": "한겨레"
+        },
+        {
           "title": "“뉴진스 해린·혜인 소속사로 복귀”…어도어 “전속계약 준수 결정”",
           "snippet": "",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8405696",
           "source": "KBS 뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "게임대상",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 11 Nov 2025 22:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM7tcx1lnNdmgoFF0drtLDd7AiemPM7XpQd3jfsmPC5BtiNQtrlw5gGEmHgoI",
+      "pictureSource": "경향신문",
+      "relatedSearch": [
+        {
+          "title": "올해 대한민국 게임대상에 ‘마비노기 모바일’",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202511121804001",
+          "source": "경향신문"
         },
         {
-          "title": "‘소송’에 쪼개진 뉴진스…막내들은 남고, 언니들은 싸우고",
+          "title": "대한민국 게임대상에 '마비노기 모바일'…넥슨 6관왕(종합)",
           "snippet": "",
-          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=503053",
-          "source": "일요신문"
+          "url": "https://www.yna.co.kr/view/AKR20251112134951017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "2025 대한민국 게임대상 '마비노기 모바일'…넥슨, 시상식 '6관왕'",
+          "snippet": "",
+          "url": "https://www.g-enews.com/article/ICT/2025/11/202511121736565780c5fa75ef86_1",
+          "source": "글로벌이코노믹"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,9 +220,9 @@
           "source": "대한민국 정책브리핑"
         },
         {
-          "title": "李대통령 \"'무늬만 지방자치' 비판…재정분권 확대 박차 가할것\"(종합)",
+          "title": "김영환 충북지사, 중앙지방협력회의서 재정 불균형 해소 건의",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20251112082051001",
+          "url": "https://www.yna.co.kr/view/AKR20251112148100064",
           "source": "연합뉴스"
         },
         {
