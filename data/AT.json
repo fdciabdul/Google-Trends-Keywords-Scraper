@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-11-15 18:47:32",
+  "lastUpdate": "2025-11-15 18:54:26",
   "data": [
     {
       "title": "schnee",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 15 Nov 2025 10:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTz7WmRMpfvrIjDF4webJl6UoEJUiZvu6ohW2w_2LonjVROzRhiPpIcWdLEH-g",
       "pictureSource": "VOL.AT",
@@ -31,7 +31,7 @@
     },
     {
       "title": "patrick wimmer",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 15 Nov 2025 10:20:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3-VcM1xpsGBmvD4CHS5H_VMRSZZVvJ2FQlW35jV7sZ4wUUL5dkh8JP9KZEPQ",
       "pictureSource": "Salzburger Nachrichten",
@@ -71,16 +71,16 @@
           "source": "sport.ORF.at"
         },
         {
-          "title": "Das Marcel-Hirscher-Rätsel",
+          "title": "Offiziell! Marcel Hirscher gibt Comeback-Termin bekannt",
           "snippet": "",
-          "url": "https://www.diepresse.com/20304854/das-marcel-hirscher-raetsel",
-          "source": "DiePresse.com"
+          "url": "https://www.laola1.at/de/red/wintersport/ski-alpin/news/offiziell--marcel-hirscher-gibt-comeback-termin-bekannt/",
+          "source": "LAOLA1"
         },
         {
-          "title": "Ski alpin: Hirscher will im Jänner in den Weltcup zurückkehren",
+          "title": "Warten geht weiter - Überraschung! Hirscher kehrt erst 2026 zurück",
           "snippet": "",
-          "url": "https://www.nachrichten.at/sport/wintersport/ski-alpin/ski-alpin-hirscher-will-im-jaenner-in-den-weltcup-zurueckkehren;art73891,4108550",
-          "source": "Oberösterreichische Nachrichten"
+          "url": "https://www.krone.at/3959036",
+          "source": "Kronen Zeitung"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,23 +142,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bosnien",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 15 Nov 2025 09:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRMuY6eDUMTWPrhLmaVTE9tqz8QG1O4L3rM0dbLl16uxCNRWNLe5x-pA-gvqs",
+      "pictureSource": "Der Standard",
+      "relatedSearch": [
+        {
+          "title": "Menschensafari bei Belagerung von Sarajevo macht Schlagzeilen in Italien",
+          "snippet": "",
+          "url": "https://www.derstandard.at/story/3000000296340/menschensafari-bei-belagerung-von-sarajevo-macht-schlagzeilen-in-italien",
+          "source": "Der Standard"
+        },
+        {
+          "title": "Sniper-Tourismus im Bosnienkrieg: «Die Täter wollen Gott spielen»",
+          "snippet": "",
+          "url": "https://www.srf.ch/news/international/sniper-tourismus-in-sarajevo-toeten-als-rausch-die-taeter-wollen-gott-spielen",
+          "source": "Schweizer Radio und Fernsehen"
+        },
+        {
+          "title": "Berichte über mörderische „Menschen-Safari“ in Sarajewo sorgen für Entsetzen",
+          "snippet": "",
+          "url": "https://www.diepresse.com/20302924/berichte-ueber-moerderische-menschen-safari-in-sarajewo-sorgen-fuer",
+          "source": "DiePresse.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "türkei",
       "trafficCount": "100+",
       "pubDate": "Sat, 15 Nov 2025 09:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShfFacKWdkBc6DHe8W-aBnaQkizhks1VFke3kznMH7lh_ySgAtQUBwMsCkdLQ",
-      "pictureSource": "WELT",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTidYdNiLBEr7PXUFBIJ5cP-9QQzGf-Vx_jeP8FwzqAe4CovhI_4nmi_13GP4c",
+      "pictureSource": "BILD",
       "relatedSearch": [
+        {
+          "title": "Nach Vergiftung im Urlaub: Mutter und Kinder Seite an Seite beerdigt",
+          "snippet": "",
+          "url": "https://www.bild.de/news/ausland/nach-vergiftung-im-urlaub-mutter-und-kinder-seite-an-seite-beerdigt-6918847e58d2cfb625f5d1c6",
+          "source": "BILD"
+        },
         {
           "title": "Erneut Touristen ins Krankenhaus eingeliefert – Polizei verhaftet sieben Verdächtige",
           "snippet": "",
           "url": "https://www.welt.de/vermischtes/article691869f8a409871e809f3379/erneut-touristen-ins-krankenhaus-eingeliefert-polizei-verhaftet-sieben-verdaechtige.html",
           "source": "WELT"
-        },
-        {
-          "title": "Tod durch Lebensmittelvergiftung: Mutter und Kinder werden in Türkei beigesetzt",
-          "snippet": "",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/tod-durch-lebensmittelvergiftung-mutter-und-kinder-werden-in-tuerkei-beigesetzt-accg-110782248.html",
-          "source": "FAZ"
         },
         {
           "title": "Todesdrama um Familie - Weitere Festnahmen! Chemikalien-Verdacht in Hotel",
@@ -198,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "xaver schlager",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 15 Nov 2025 09:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaHzGvpUrlcTy_pQTapjGLfvPzgmJKvUje_XeX6WedfUByKtM9Qh_LyRIDmds",
-      "pictureSource": "OE24",
-      "relatedSearch": [
-        {
-          "title": "Eklat vor WM-Showdown: Leipzig funkt bei Schlager rein",
-          "snippet": "",
-          "url": "https://www.oe24.at/sport/fussball/nationalteam/eklat-vor-wm-showdown-leipzig-funkt-bei-schlager-rein/656139605",
-          "source": "OE24"
-        },
-        {
-          "title": "Gemischte Gefühle vor WM-Quali-Showdown: Auf wen baut ÖFB-Teamchef Ralf Rangnick?",
-          "snippet": "",
-          "url": "https://www.sn.at/sport/fussball/nationalteam/gemischte-gefuehle-wm-quali-showdown-auf-oefb-teamchef-ralf-rangnick-187350982",
-          "source": "Salzburger Nachrichten"
-        },
-        {
-          "title": "Schlager bei Nationalteam zurück im Training",
-          "snippet": "",
-          "url": "https://www.ligainsider.de/xaver-schlager_11547/schlager-bei-nationalteam-zurueck-im-training-404541/",
-          "source": "LigaInsider"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "michael liendl",
       "trafficCount": "200+",
       "pubDate": "Sat, 15 Nov 2025 09:40:00 -0800",
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "unfall pettenbach",
+      "title": "xaver schlager",
       "trafficCount": "200+",
-      "pubDate": "Sat, 15 Nov 2025 09:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyCAl54ab4_QafBW7zMojc8CCGNPPmihfu5sFImeQi7LHtVqEVIvf29M_XSE0",
-      "pictureSource": "ooe.ORF.at",
+      "pubDate": "Sat, 15 Nov 2025 09:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaHzGvpUrlcTy_pQTapjGLfvPzgmJKvUje_XeX6WedfUByKtM9Qh_LyRIDmds",
+      "pictureSource": "OE24",
       "relatedSearch": [
         {
-          "title": "Fußgänger von Auto überrollt",
+          "title": "Eklat vor WM-Showdown: Leipzig funkt bei Schlager rein",
           "snippet": "",
-          "url": "https://ooe.orf.at/stories/3330140/",
-          "source": "ooe.ORF.at"
+          "url": "https://www.oe24.at/sport/fussball/nationalteam/eklat-vor-wm-showdown-leipzig-funkt-bei-schlager-rein/656139605",
+          "source": "OE24"
         },
         {
-          "title": "Trauer um verunfallten Feuerwehrmann (35) in Pettenbach: \"Liebenswerter Kerl\"",
+          "title": "Gemischte Gefühle vor WM-Quali-Showdown: Auf wen baut ÖFB-Teamchef Ralf Rangnick?",
           "snippet": "",
-          "url": "https://www.nachrichten.at/oberoesterreich/trauer-um-verunfallten-feuerwehrmann-35-in-pettenbach-liebenswerter-kerl;art4,4108526",
-          "source": "Oberösterreichische Nachrichten"
+          "url": "https://www.sn.at/sport/fussball/nationalteam/gemischte-gefuehle-wm-quali-showdown-auf-oefb-teamchef-ralf-rangnick-187350982",
+          "source": "Salzburger Nachrichten"
         },
         {
-          "title": "Tragischer Unfall in Pettenbach: Fußgänger um 4 Uhr Früh von Pkw erfasst und getötet",
+          "title": "Schlager bei Nationalteam zurück im Training",
           "snippet": "",
-          "url": "https://www.salzburg24.at/news/oesterreich/tragischer-unfall-in-pettenbach-fussgaenger-um-4-uhr-frueh-von-pkw-erfasst-und-getoetet-art-308421",
-          "source": "salzburg24"
+          "url": "https://www.ligainsider.de/xaver-schlager_11547/schlager-bei-nationalteam-zurueck-im-training-404541/",
+          "source": "LigaInsider"
         }
       ],
       "link": "https://imtaqin.id/"
