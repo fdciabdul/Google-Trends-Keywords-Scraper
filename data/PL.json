@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-17 05:21:14",
+  "lastUpdate": "2025-11-17 05:33:22",
   "data": [
     {
       "title": "radar opadów",
@@ -33,6 +33,34 @@
       "title": "śnieg",
       "trafficCount": "200+",
       "pubDate": "Sun, 16 Nov 2025 21:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS211VAhQI0bwjL4LQH4OPam9R8oq6SgRIvj5IGpihYE_G9uhsx7tpQECGHjwA",
+      "pictureSource": "Gazeta",
+      "relatedSearch": [
+        {
+          "title": "Śnieżny front nad Lublinem. Będzie sypać nadal?",
+          "snippet": "",
+          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32402354,sniezny-front-nad-lublinem-bedzie-sypac-nadal.html",
+          "source": "Gazeta"
+        },
+        {
+          "title": "Czy w Pucku 17.11 można spodziewać się opadów śniegu? Sprawdź, czy jutro lub w najbliższych dniach zawita zima",
+          "snippet": "",
+          "url": "https://puck.naszemiasto.pl/czy-w-pucku-17-11-mozna-spodziewac-sie-opadow-sniegu-sprawdz-czy-jutro-lub-w-najblizszych-dniach-zawita-zima/ar/c1p1-20823881",
+          "source": "Puck Nasze Miasto"
+        },
+        {
+          "title": "Zima zawita do Torunia. Tego dnia spadnie deszcz ze śniegiem",
+          "snippet": "",
+          "url": "https://ototorun.pl/artykul/do-torunia-nachodzi-duze-n1762506",
+          "source": "otoTorun.pl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prognoza pogody",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 16 Nov 2025 20:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuA0SI488Q2RzE8NI_f47emRzuQVFfm52fDgTQKyvio0cJOga20RrLgtIxzB0",
       "pictureSource": "Wydarzenia w INTERIA.PL",
       "relatedSearch": [
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.polsatnews.pl/wiadomosc/2025-11-16/intensywne-opady-deszczu-i-snieg-wydano-ostrzezenia/",
           "source": "PolsatNews.pl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda rybnik",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 16 Nov 2025 20:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUT8QMxOi1u4viHsMueBv4P5AC4VvzGT566VEjmOzWiR9OQaWgJC4vx-S0xbE",
-      "pictureSource": "Poddębice Nasze Miasto",
-      "relatedSearch": [
-        {
-          "title": "Czy w Poddębicach będzie jutro padać śnieg? Sprawdź prognozę pogody na 17.11",
-          "snippet": "",
-          "url": "https://poddebice.naszemiasto.pl/czy-w-poddebicach-bedzie-jutro-padac-snieg-sprawdz-prognoze-pogody-na-17-11/ar/c1p1-20824069",
-          "source": "Poddębice Nasze Miasto"
-        },
-        {
-          "title": "Zima zawita do Torunia. Tego dnia spadnie deszcz ze śniegiem",
-          "snippet": "",
-          "url": "https://ototorun.pl/artykul/do-torunia-nachodzi-duze-n1762506",
-          "source": "otoTorun.pl"
-        },
-        {
-          "title": "Czy w Krośnie Odrzańskim 17.11 można spodziewać się opadów śniegu? Sprawdź, czy jutro lub w najbliższych dniach zawita zima",
-          "snippet": "",
-          "url": "https://krosnoodrzanskie.naszemiasto.pl/czy-w-krosnie-odrzanskim-17-11-mozna-spodziewac-sie-opadow-sniegu-sprawdz-czy-jutro-lub-w-najblizszych-dniach-zawita-zima/ar/c1p1-20823867",
-          "source": "Krosno Odrzańskie Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +143,7 @@
     },
     {
       "title": "wyniki na zywo",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sun, 16 Nov 2025 20:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQExlut7Vpzw-zyZyMiXZaaMd3UgPxfh3HKL3VnzV0hiwv4B96BdMmBdw9759k",
       "pictureSource": "SportoweFakty",
