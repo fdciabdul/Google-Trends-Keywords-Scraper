@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-17 08:28:07",
+  "lastUpdate": "2025-11-17 08:43:03",
   "data": [
     {
       "title": "mrazy",
@@ -31,7 +31,7 @@
     },
     {
       "title": "korzo národní",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 16 Nov 2025 23:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUHtE251WsgVDyAe0X2hSTc69_hi2WH3j-gLHipyOlH5ldJstc9q67AWzxUcA",
       "pictureSource": "Britské listy",
@@ -86,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "sametová revoluce",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 16 Nov 2025 22:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyJOYZ6jrRHRhJgFI_jYX7msp-gVfne68QqqclKcvbObyWIBpL6VGjkh0dmUQ",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "KVÍZ: Co víte o 17. listopadu 1989 a sametové revoluci?",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/historie-17-listopad-kviz-co-vite-o-17-listopadu-1989-a-sametove-revoluci-40546031",
+          "source": "Novinky"
+        },
+        {
+          "title": "36 let svobody",
+          "snippet": "",
+          "url": "https://ct24.ceskatelevize.cz/textovy-prenos/36-let-svobody-391",
+          "source": "ČT24"
+        },
+        {
+          "title": "Historie jako zbraň proti komunismu: český rok 1989",
+          "snippet": "",
+          "url": "https://denikn.cz/1895117/historie-jako-zbran-proti-komunismu-cesky-rok-1989/",
+          "source": "Deník N"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "program tv",
       "trafficCount": "500+",
       "pubDate": "Sun, 16 Nov 2025 22:00:00 -0800",
@@ -99,15 +127,15 @@
           "source": "Pilot WP"
         },
         {
-          "title": "Karambol na A4. Zderzyło się sześć samochodów",
+          "title": "Wyciek gazu w Krakowie. Świadkowie mówią o słupie ognia",
           "snippet": "",
-          "url": "https://wiadomosci.onet.pl/wroclaw/karambol-na-a4-zderzylo-sie-szesc-samochodow/2xegnf6",
+          "url": "https://wiadomosci.onet.pl/krakow/wyciek-gazu-w-krakowie-swiadkowie-mowia-o-slupie-ognia/g2q5mzw",
           "source": "Onet Wiadomości"
         },
         {
-          "title": "Boks: MB Boxing Night 26 we Wrocławiu - studio",
+          "title": "Piłka nożna: 2. liga słoweńska - mecz: NK Brinje Grosuplje - ND Beltinci",
           "snippet": "",
-          "url": "https://programtv.onet.pl/tv/boks-mb-boxing-night-26-we-wroclawiu-studio/puzy4",
+          "url": "https://programtv.onet.pl/tv/pilka-nozna-2-liga-slowenska-mecz-nk-brinje-grosuplje-nd-beltinci/sgplf",
           "source": "Program TV Onet"
         }
       ],
@@ -117,26 +145,26 @@
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Sun, 16 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2Y2CJUgU9Lt6LwliJfGhBTi9qJj_9020xy_sgBDmlolwQQIyyq3Us8RG3WzE",
-      "pictureSource": "Syracuse.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYNCdSWWZ1OHkhhzdUPQdXVazckWOMC0ePD_EvE2r-755Gp8bDze89JiUYQSM",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Prepare for lake effect snow bands in New York until early Monday",
+          "title": "Cold snap brings chance of snow for some as flood clear-up continues",
           "snippet": "",
-          "url": "https://www.syracuse.com/weather-alerts/2025/11/prepare-for-lake-effect-snow-bands-in-new-york-until-early-monday.html",
-          "source": "Syracuse.com"
+          "url": "https://www.bbc.com/news/articles/cj0el2g5448o",
+          "source": "BBC"
         },
         {
-          "title": "Winter weather advisory in effect for Malone, Northern Franklin County",
+          "title": "UK weather: Arctic air sweeps in as Storm Claudia clean-up continues",
           "snippet": "",
-          "url": "https://www.mymalonetelegram.com/news/publicservicenews/winter-weather-advisory-in-effect-for-malone-northern-franklin-county/article_a7f94719-6d1d-5b5e-a6c5-95ba62a4efa7.html",
-          "source": "The Malone Telegram"
+          "url": "https://www.theguardian.com/uk-news/2025/nov/16/uk-weather-forecast-storm-claudia-clean-up-flood-warnings-cold-snow-ice",
+          "source": "The Guardian"
         },
         {
-          "title": "Weather Weather Advisory In Effect for Lewis County-Winter Storm WARNING in effect for N. Herkimer Co and the Western Adirondacks",
+          "title": "Northern Ireland motorists warned dip in temperatures could leave roads icy on Monday morning",
           "snippet": "",
-          "url": "https://flackbroadcasting.com/news/weather-weather-advisory-in-effect-for-lewis-county-winter-storm-warning-in-effect-for-n-herkimer-co-and-the-western-adirondacks",
-          "source": "Flack Broadcasting"
+          "url": "https://www.northernirelandworld.com/news/transport/northern-ireland-motorists-warned-dip-in-temperatures-could-leave-roads-icy-on-monday-morning-5404156",
+          "source": "NorthernIrelandWorld"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,56 +255,28 @@
     },
     {
       "title": "český den boje za svobodu a demokracii",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Sun, 16 Nov 2025 15:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyJOYZ6jrRHRhJgFI_jYX7msp-gVfne68QqqclKcvbObyWIBpL6VGjkh0dmUQ",
-      "pictureSource": "Novinky",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXnitMH8D_Dt-TXq56owv-enTVG4ir5FOsUA5o94ROYJjYWfSNSMsAcKteBK0",
+      "pictureSource": "Kupi",
       "relatedSearch": [
         {
-          "title": "KVÍZ: Co víte o 17. listopadu 1989 a sametové revoluci?",
+          "title": "Otevírací doba v pondělí 17. listopadu 2025. Zjistěte, zda obchody budou mít otevřeno a na co si dát pozor při nákupu",
           "snippet": "",
-          "url": "https://www.novinky.cz/clanek/historie-17-listopad-kviz-co-vite-o-17-listopadu-1989-a-sametove-revoluci-40546031",
-          "source": "Novinky"
+          "url": "https://www.kupi.cz/magazin/clanek/39930-oteviraci-doba-v-obchodech-17-listopadu-2025",
+          "source": "Kupi"
         },
         {
-          "title": "36 let svobody",
+          "title": "Obchody zůstanou 17. listopadu otevřené. Povinnost zavřít větší prodejny se na tento svátek nevztahuje",
           "snippet": "",
-          "url": "https://ct24.ceskatelevize.cz/textovy-prenos/36-let-svobody-391",
-          "source": "ČT24"
+          "url": "https://www.irozhlas.cz/zpravy-domov/obchody-zustanou-17-listopadu-otevrene-povinnost-zavrit-vetsi-prodejny-se-na_2511161735_akp",
+          "source": "iROZHLAS"
         },
         {
-          "title": "Oslava oligarchie a maloměstského panství | 16. 11. 2025 | Jakub Roubíček",
+          "title": "Zavřeno, nebo ne? Podívejte se, jak budou otevřené obchody 17. listopadu",
           "snippet": "",
-          "url": "https://blisty.cz/art/129906-oslava-oligarchie-a-malomestskeho-panstvi.html",
-          "source": "Britské listy"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "17.11.",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 16 Nov 2025 14:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT6h2GxbJWVh8ztIKhWgLfIpD4HT4SNlMkqHX9WC9X4DZ4k2oHiCvm5vDtEfQ",
-      "pictureSource": "FXstreet.cz",
-      "relatedSearch": [
-        {
-          "title": "Euro Stoxx 50 (Eurex) - Intradenní výhled 17.11.2025",
-          "snippet": "",
-          "url": "https://www.fxstreet.cz/euro-stoxx-50-eurex-intradenni-vyhled-17112025.html",
-          "source": "FXstreet.cz"
-        },
-        {
-          "title": "Euro Stoxx 50 (Eurex) - Intradenní výhled 14.11.2025",
-          "snippet": "",
-          "url": "https://www.fxstreet.cz/euro-stoxx-50-eurex-intradenni-vyhled-14112025.html",
-          "source": "FXstreet.cz"
-        },
-        {
-          "title": "Týdenní horoskop: Berani se zmátoří v posteli, single Raci najdou vášnivou lásku a Váhy se finančně zahojí",
-          "snippet": "",
-          "url": "https://www.prozeny.cz/clanek/horoskopy-tydenni-horoskop-tydenni-horoskop-kozorozi-rozsiri-okruh-pratel-berani-si-daji-do-poradku-zdravi-a-vahy-finance-101138",
-          "source": "Proženy.cz"
+          "url": "https://www.forum24.cz/zavreno-nebo-ne-podivejte-se-jak-budou-otevrene-obchody-17-listopadu",
+          "source": "forum 24"
         }
       ],
       "link": "https://imtaqin.id/"
