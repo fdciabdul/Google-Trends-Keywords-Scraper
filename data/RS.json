@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-11-17 07:47:37",
+  "lastUpdate": "2025-11-17 07:54:29",
   "data": [
-    {
-      "title": "blic vesti",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 16 Nov 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi7rhVkA8C-W_UFG9fs-n2wiP7_4Mo8yRB8vjsGiz3S0QfKuAqnx7ea2t4554",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "ČUVENI VLASNIK KAFANE SE ZAKUCAO U KAMION Detalji stravične tragedije u Požarevcu: Pozlilo mu kad je seo u auto",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/hronika/poznato-kako-je-poginuo-cuveni-vlasnik-kafane-iz-pozarevca/dze2qzl",
-          "source": "Blic"
-        },
-        {
-          "title": "Gazda Bibe kojeg su svi voleli poginuo ispred svog lokala: Požarevac se oprašta od Zlatibora Stojkovića",
-          "snippet": "",
-          "url": "https://informer.rs/hronika/vesti/1066937/zlatibor-stojkovic-pogibija-pozarevac",
-          "source": "Informer"
-        },
-        {
-          "title": "Poginuo čuveni vlasnik kafane kod Požarevca, život izgubio ispred lokala! Bio je veliki humanitarac, tokom pandemije ovako je pomagao najugroženijima! (foto)",
-          "snippet": "",
-          "url": "https://naslovi.net/2025-11-16/kurir/poginuo-cuveni-vlasnik-kafane-kod-pozarevca-zivot-izgubio-ispred-lokala-bio-je-veliki-humanitarac-tokom-pandemije-ovako-je-pomagao-najugrozenijima-foto/40883683",
-          "source": "Naslovi.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "021",
       "trafficCount": "200+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.juznevesti.com/drustvo/16-minuta-tisine-na-4-lokacije-u-nisu-u-ponedeljak-u-znak-secanja-na-anju/",
           "source": "Južne vesti"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vesti",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 16 Nov 2025 22:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDus48JodqsfmNL4OGtNlpImXu0xGEUV3oqflbI3jGZzyJ2NueOi30ZkP580",
+      "pictureSource": "Sportal.rs",
+      "relatedSearch": [
+        {
+          "title": "Denver objavio nove vesti o povredi Nikole Jokića!",
+          "snippet": "",
+          "url": "https://sportal.blic.rs/prica/denver-objavio-nove-vesti-o-povredi-nikole-jokica-2025111705182403394",
+          "source": "Sportal.rs"
+        },
+        {
+          "title": "Loše vesti za Denver – poznato koliko će Braun biti van terena",
+          "snippet": "",
+          "url": "https://www.b92.net/sport/kosarka/nba/182010/lose-vesti-za-denver-poznato-koliko-ce-braun-biti-van-terena/vest",
+          "source": "B92"
+        },
+        {
+          "title": "DENVER JE UZDRMAN! Nikola Jokić dobio vesti koje nije želeo da čuje",
+          "snippet": "",
+          "url": "https://www.novosti.rs/sport/kosarka/1546408/nikola-jokic-kristijan-braun-povreda-denver-nagetsi-nba-liga",
+          "source": "Novosti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,9 +161,9 @@
           "source": "Nova"
         },
         {
-          "title": "Prijatelj ubijene Aldine Jahić: \"Čekao ju je da se vrati u Mostar, s pištoljem. Bežala je za svoj život\"",
+          "title": "Potresan oproštaj prijatelja od Aldine Jahić: \"Pokušala je da pobegne od mlakonje bez kičme\"",
           "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/jugosfera/4216369-prijatelj-ubijene-aldine-jahic-cekao-ju-je-da-se-vrati-u-mostar-s-pistoljem-bezala-je-za-svoj-zivot",
+          "url": "https://www.telegraf.rs/vesti/jugosfera/4216390-potresan-oprostaj-prijatelja-od-aldine-jahic-pokusala-je-da-pobegne-od-mlakonje-bez-kicme",
           "source": "Telegraf.rs"
         }
       ],
@@ -211,10 +211,10 @@
           "source": "Blic"
         },
         {
-          "title": "RTS: Maskirani Albanci zapucali na pripadnike Vojske Srbije",
+          "title": "RTS: Grupa Albanaca pucala na pripadnike Vojske Srbije kod baze \"Debela glava\"",
           "snippet": "",
-          "url": "https://vreme.com/razno/rts-maskirani-albanci-zapucali-na-pripadnike-vojske-srbije/",
-          "source": "Vreme"
+          "url": "https://n1info.rs/vesti/rts-grupa-albanaca-pucala-na-pripadnike-vojske-srbije-kod-baze-debela-glava/",
+          "source": "N1"
         },
         {
           "title": "Група Албанаца пуцала на припаднике Војске Србије код базе \"Дебела глава\"",
@@ -239,16 +239,16 @@
           "source": "Bavarian Football Works"
         },
         {
+          "title": "Germany’s World Cup hopes clouded by Nagelsmann’s uneasy message",
+          "snippet": "",
+          "url": "https://playingfor90.com/germany-s-world-cup-hopes-clouded-by-nagelsmann-s-uneasy-message-01ka61k7hcdf",
+          "source": "Playing for 90"
+        },
+        {
           "title": "Nagelsmann optimistic Schlotterbeck and Kimmich can return from injury against Slovakia",
           "snippet": "",
           "url": "https://bulinews.com/nagelsmann-schlotterbeck-kimmich",
           "source": "Bulinews"
-        },
-        {
-          "title": "Germany vs Slovakia Preview, Betting Odds and Predictions – 17/11/25",
-          "snippet": "",
-          "url": "https://theplayoffs.news/en/germany-vs-slovakia-preview-betting-odds-predictions/",
-          "source": "The Playoffs"
         }
       ],
       "link": "https://imtaqin.id/"
