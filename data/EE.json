@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-18 14:42:38",
+  "lastUpdate": "2025-11-18 14:51:03",
   "data": [
     {
       "title": "äripäev",
@@ -30,10 +30,10 @@
           "source": "Rus.Postimees.ee"
         },
         {
-          "title": "Наблюдались сбои в работе сайтов в Литве и не только",
+          "title": "Сбой в работе Cloudflare: OpenAI, X и другие крупные сайты не работают",
           "snippet": "",
-          "url": "https://www.delfi.lt/ru/news/live/nablyudalis-sboi-v-rabote-saytov-v-litve-i-ne-tolko-120175630",
-          "source": "Delfi"
+          "url": "https://ru.euronews.com/next/2025/11/18/next-cloudflare-internet-down",
+          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -88,9 +88,15 @@
       "title": "cloudflare",
       "trafficCount": "10000+",
       "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPB1TlYUJhcJu0k5wsMHfKLIyoJfv6621dj9jVbPBNONSkr-ePOXZ6rrRVJf4",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBICpZz-HDKcu460sp6Ge8wdhmOCTFZ_s-JteoOgMBdSfRCsrWtfTNIrevtg8",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Cloudflare down: X and more apps hit by internet outage",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c629pny4gl7o",
+          "source": "BBC"
+        },
         {
           "title": "Cloudflare outage causes error messages across the internet",
           "snippet": "",
@@ -102,12 +108,6 @@
           "snippet": "",
           "url": "https://www.independent.co.uk/tech/cloudflare-down-twitter-not-working-outage-b2867367.html",
           "source": "The Independent"
-        },
-        {
-          "title": "Cloudflare down: X and more apps hit by internet outage",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c629pny4gl7o",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -132,7 +132,7 @@
           "source": "NBC Los Angeles"
         },
         {
-          "title": "Live weather updates: Cleanup efforts underway across Southern California ahead of another storm",
+          "title": "Live weather updates: Southern California sees toppled trees, flooded streets after more heavy rain",
           "snippet": "",
           "url": "https://abc7.com/live-updates/southern-california-weather-storm-drench-los-angeles-orange-san-bernardino-riverside-ventura-counties/18148478/",
           "source": "ABC7 Los Angeles"
