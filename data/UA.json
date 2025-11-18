@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-11-18 05:38:07",
+  "lastUpdate": "2025-11-18 05:46:15",
   "data": [
     {
       "title": "погода в києві",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Nov 2025 21:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHHCzqfaLRWs31s14X87RqyvQM1oMd4FF1pmb3M2zK1q_zCWMV_PR5d51hxKE",
       "pictureSource": "Суспільне | Новини",
@@ -145,20 +145,20 @@
       "title": "погода харків",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Nov 2025 20:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDCeZkMaPk1DOHekNwQcsq1NFBTww3wZonmTHLQ61UdlM1Ot7jExgoVEqKmQU",
-      "pictureSource": "Ґвара Медіа",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJOHNMs6lX1yRs5kkNJYguJYThFUAQQ6u2YyUYxSzRHsVLzlNQ5TPd3lasaP4",
+      "pictureSource": "UKR.NET",
       "relatedSearch": [
-        {
-          "title": "Погода у Харкові в понеділок — прогноз погоди",
-          "snippet": "",
-          "url": "https://gwaramedia.com/pogoda-u-harkovi-v-ponedilok-prognoz-pogodi/",
-          "source": "Ґвара Медіа"
-        },
         {
           "title": "Завтра Україну штормитиме: Укргідрометцентр попередив про негоду (карта)",
           "snippet": "",
           "url": "https://www.ukr.net/ru/news/details/society/114559506.html",
           "source": "UKR.NET"
+        },
+        {
+          "title": "Погода у Харкові в понеділок — прогноз погоди",
+          "snippet": "",
+          "url": "https://gwaramedia.com/pogoda-u-harkovi-v-ponedilok-prognoz-pogodi/",
+          "source": "Ґвара Медіа"
         },
         {
           "title": "Синоптики попереджають про небезпечні метеорологічні явища у низці областей",
@@ -189,10 +189,10 @@
           "source": "auto.24tv.ua"
         },
         {
-          "title": "У сервісному центрі МВС Миколаєва відновили водійське посвідчення ветерану, який повернувся з полону",
+          "title": "Військовому, який повернувся з полону, поновили водійське посвідчення у Миколаєві",
           "snippet": "",
-          "url": "https://news.pn/uk/public/335147",
-          "source": "NEWS.PN"
+          "url": "https://suspilne.media/mykolaiv/1165392-vijskovomu-akij-povernuvsa-z-polonu-ponovili-vodijske-posvidcenna-u-mikolaevi/",
+          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +217,10 @@
           "source": "РБК-Україна"
         },
         {
-          "title": "В понедельник все сутки будут действовать графики отключений до 4 очередей",
+          "title": "Будут действовать круглосуточно: \"Укрэнерго\" объявило графики отключений света на 18 ноября",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2025/11/16/8007548/",
-          "source": "Українська правда"
+          "url": "https://www.obozrevatel.com/ekonomika-glavnaya/communalka/budut-dejstvovat-kruglosutochno-ukrenergo-obyavilo-grafiki-otklyuchenij-sveta-na-18-noyabrya.htm",
+          "source": "Obozrevatel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +229,15 @@
       "title": "синоптик харьков",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Nov 2025 18:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcmZPwYjTyTgNdqKcuNcNHWodKAK2cuy3VKZMDffu5DbXGd0RMUkx14FnInX8",
-      "pictureSource": "objectiv.tv",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNL0bKKlLSJklC6WZMJjwaS7KF4YB5-w_4mglJg0lhXTtmx_2P_8BzOO2dM1U",
+      "pictureSource": "Politeka",
       "relatedSearch": [
+        {
+          "title": "Прогноз погоды 10 дней в Харькове: синоптики рассказали, каких сюрпризов стоит ждать",
+          "snippet": "",
+          "url": "https://first.politeka.net/461408-prognoz-pogodi-10-dniv-u-harkovi-sinoptiki-rozpovili-yakih-syurpriziv-varto-chekati",
+          "source": "Politeka"
+        },
         {
           "title": "Днем до +16 и дождь. Прогноз погоды на 18 ноября в Харькове и области",
           "snippet": "",
@@ -243,40 +249,34 @@
           "snippet": "",
           "url": "https://www.sq.com.ua/rus/novosti/17.11.2025/zavtra-v-xarkove-budet-neprostaya-dlya-voditelei-i-pesexodov-pogoda",
           "source": "ИА Status Quo"
-        },
-        {
-          "title": "Прогноз погоды на неделю с 17 по 23 ноября в Харькове: в какие дни ждать непогода",
-          "snippet": "",
-          "url": "https://first.politeka.net/461299-prognoz-pogodi-na-tizhden-z-17-po-23-listopada-u-harkovi-u-yaki-dni-chekati-na-nepogodu",
-          "source": "Politeka"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Nov 2025 17:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxEvY2Cz7D_uVka6MQaOdNC0C6pxCNFABG6oB7yXlzyaGoP-jTbVeoSPbHu4",
-      "pictureSource": "Hitchin Nub News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkTEA7iMZf4sVO0SKw8bU6rSIw4Fv7QoSwWLKGcOUIqIXuPWZs2xaGoQi9PL0",
+      "pictureSource": "The Ross Gazette",
       "relatedSearch": [
         {
-          "title": "Today's weather in Hitchin - 18 November",
+          "title": "Today: Overcast and patchy rain, tomorrow: Blizzard",
           "snippet": "",
-          "url": "https://hitchin.nub.news/news/weather-news/todays-weather-in-hitchin-18-november-279270",
-          "source": "Hitchin Nub News"
+          "url": "https://www.rossgazette.com/weather-forecasts/patchy-rain-today-possible-blizzard-tomorrow-852564",
+          "source": "The Ross Gazette"
         },
         {
-          "title": "Weather forecast for this week in Hitchin - 17 Nov to 23 Nov",
+          "title": "Light rain today: Sunny tomorrow",
           "snippet": "",
-          "url": "https://hitchin.nub.news/news/weather-news/weather-forecast-for-this-week-in-hitchin-17-nov-to-23-nov-279153",
-          "source": "Hitchin Nub News"
+          "url": "https://www.cambrian-news.co.uk/weather-forecasts/moderate-rain-today-followed-by-a-chance-of-patchy-rain-tomorrow-852554",
+          "source": "Cambrian News"
         },
         {
-          "title": "Weekend weather forecast for Hitchin - 14 Nov to 16 Nov",
+          "title": "Partly cloudy now: Expect blowing snow tomorrow",
           "snippet": "",
-          "url": "https://hitchin.nub.news/news/weather-news/weekend-weather-forecast-for-hitchin-14-nov-to-16-nov-278908",
-          "source": "Hitchin Nub News"
+          "url": "https://www.wellington-today.co.uk/weather-forecasts/rainy-day-ahead-with-patchy-showers-continuing-tomorrow-852566",
+          "source": "Wellington Weekly News"
         }
       ],
       "link": "https://imtaqin.id/"
