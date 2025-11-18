@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-18 10:54:44",
+  "lastUpdate": "2025-11-18 11:02:28",
   "data": [
     {
       "title": "ирина пегова",
@@ -31,7 +31,7 @@
     },
     {
       "title": "япония – боливия",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 02:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJXIXWOUACGSmOlJ49JRPjxRaNbwbKTAMW5fq4KcZ3WAUyNoe2N42NywneQ_I",
       "pictureSource": "Tribuna.com",
@@ -89,20 +89,20 @@
       "title": "шанинка",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 01:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4I_HtI1IPrNVQicOV1YBSWqA55HO9xm1JOACmgGfHzafJ2NMeYHlCr5Pw1gQ",
-      "pictureSource": "DW",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1KYApizibcv5-KBCjMJeS_5mkgmYV7yvG3rA215RkIEtaT7M0Jwbs93ke0w",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
+        {
+          "title": "\"Шанинка\" лишилась аккредитации по нескольким образовательным программам",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1058569",
+          "source": "Интерфакс"
+        },
         {
           "title": "\"Шанинку\" лишили аккредитации по нескольким направлениям",
           "snippet": "",
           "url": "https://www.dw.com/ru/saninku-lisili-gosakkreditacii-po-neskolkim-ucebnym-napravleniam/a-74782134",
           "source": "DW"
-        },
-        {
-          "title": "Рособрнадзор лишил Шанинку аккредитации по нескольким образовательным программам",
-          "snippet": "",
-          "url": "https://www.forbes.ru/society/550123-rosobrnadzor-lisil-saninku-akkreditacii-po-neskol-kim-obrazovatel-nym-programmam",
-          "source": "Forbes.ru"
         },
         {
           "title": "Шанинку лишили аккредитации по нескольким учебным направлениям",
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "бахрейн",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 18 Nov 2025 00:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm6a6My44Jr2Q8tVxI0i3gv0Jiq_fuzfRznDcjhVcDRjIpot5ibgJsnZ2EO3U",
-      "pictureSource": "БИЗНЕС Online — Новости Казани",
-      "relatedSearch": [
-        {
-          "title": "Радий Хабиров: «Именно в Уфе был основан официальный исторический центр ислама России»",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/688007",
-          "source": "БИЗНЕС Online — Новости Казани"
-        },
-        {
-          "title": "Президент Высшего совета по делам ислама Королевства Бахрейн прибыл в Уфу",
-          "snippet": "",
-          "url": "https://m.sobaka.ru/ufa/city/city/207469",
-          "source": "Собака.ru"
-        },
-        {
-          "title": "Радий Хабиров рассказал о важной встрече",
-          "snippet": "",
-          "url": "https://i-gazeta.com/news/novosti/2025-11-18/radiy-habirov-rasskazal-o-vazhnoy-vstreche-4471696",
-          "source": "Электрогазета"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "дибров скандал с ширинкой",
       "trafficCount": "200+",
       "pubDate": "Tue, 18 Nov 2025 00:50:00 -0800",
@@ -193,6 +165,34 @@
           "snippet": "",
           "url": "https://klops.ru/other/2025-11-17/372022-eto-osobennost-muzhskoy-odezhdy-dmitriy-dibrov-vpervye-prokommentiroval-skandal-s-rasstyognutoy-shirinkoy",
           "source": "Клопс - новости Калининград"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "бахрейн",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Nov 2025 00:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm6a6My44Jr2Q8tVxI0i3gv0Jiq_fuzfRznDcjhVcDRjIpot5ibgJsnZ2EO3U",
+      "pictureSource": "БИЗНЕС Online — Новости Казани",
+      "relatedSearch": [
+        {
+          "title": "Радий Хабиров: «Именно в Уфе был основан официальный исторический центр ислама России»",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/688007",
+          "source": "БИЗНЕС Online — Новости Казани"
+        },
+        {
+          "title": "Президент Высшего совета по делам ислама Королевства Бахрейн прибыл в Уфу",
+          "snippet": "",
+          "url": "https://m.sobaka.ru/ufa/city/city/207469",
+          "source": "Собака.ru"
+        },
+        {
+          "title": "Радий Хабиров рассказал о важной встрече",
+          "snippet": "",
+          "url": "https://i-gazeta.com/news/novosti/2025-11-18/radiy-habirov-rasskazal-o-vazhnoy-vstreche-4471696",
+          "source": "Электрогазета"
         }
       ],
       "link": "https://imtaqin.id/"
