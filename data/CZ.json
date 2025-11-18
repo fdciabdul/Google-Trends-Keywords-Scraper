@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-18 14:51:01",
+  "lastUpdate": "2025-11-18 14:57:53",
   "data": [
     {
       "title": "чтобы продолжить, разблокируйте challenges.cloudflare.com.",
@@ -15,16 +15,16 @@
           "source": "Meduza"
         },
         {
-          "title": "Сбои на международном веб-сервере привели к помехам в работе эстонских изданий",
+          "title": "Падение интернета — сloudflare не работает уже несколько часов(интернет в мире тоже)",
           "snippet": "",
-          "url": "https://rus.postimees.ee/8363765/sboi-na-mezhdunarodnom-veb-servere-priveli-k-pomeham-v-rabote-estonskih-izdaniy",
-          "source": "Rus.Postimees.ee"
+          "url": "https://habr.com/ru/companies/femida_search/news/967702/",
+          "source": "Habr"
         },
         {
-          "title": "Сбой в работе Cloudflare: OpenAI, X и другие крупные сайты не работают",
+          "title": "Из-за сбоя в работе Cloudfare с перебоями работают ChatGPT и X",
           "snippet": "",
-          "url": "https://ru.euronews.com/next/2025/11/18/next-cloudflare-internet-down",
-          "source": "Euronews.com"
+          "url": "https://www.svoboda.org/a/iz-za-sboya-v-rabote-cloudfare-s-pereboyami-rabotayut-chatgpt-i-x/33594778.html",
+          "source": "Радио Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "investovanie do akcií",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 18 Nov 2025 05:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxhI9W56MCrJLXb6Fj-DuCGv78b_rMHj9_iuam2u81fmfaZexPjGOuOe095tc",
-      "pictureSource": "SME.sk",
-      "relatedSearch": [
-        {
-          "title": "Čo nakúpili miliardári? Buffett giganta, Gates sa vo veľkom zbavuje vlastnej firmy",
-          "snippet": "",
-          "url": "https://www.sme.sk/index/c/buffett-pred-odchodom-kupil-akcie-giganta-gates-odpredaval-svoju-firmu",
-          "source": "SME.sk"
-        },
-        {
-          "title": "Vsádza Buffett na Magnificent 7? Za miliardy nakúpil akcie Google",
-          "snippet": "",
-          "url": "https://akcie.sk/vsadza-buffett-na-magnificent-7-nakupil-akcie-google/",
-          "source": "Akcie.sk"
-        },
-        {
-          "title": "Akcie Alphabetu prudko stúpli po investícii Berkshire Hathaway vo výške 4,9 miliardy dolárov",
-          "snippet": "",
-          "url": "https://www.xtb.com/sk/trhove-analyzy/spravy-z-trhov/akcie-alphabetu-prudko-stupli-po-investicii-berkshire-hathaway-vo-vyske-4-9-miliardy-dolarov",
-          "source": "XTB.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "riot",
       "trafficCount": "200+",
       "pubDate": "Tue, 18 Nov 2025 05:40:00 -0800",
@@ -109,6 +81,34 @@
           "snippet": "",
           "url": "https://news.ssbcrack.com/hytale-development-resumes-after-riot-games-sells-game-back-to-co-founder/",
           "source": "SSBCrack News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "investovanie do akcií",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Nov 2025 05:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxhI9W56MCrJLXb6Fj-DuCGv78b_rMHj9_iuam2u81fmfaZexPjGOuOe095tc",
+      "pictureSource": "SME.sk",
+      "relatedSearch": [
+        {
+          "title": "Čo nakúpili miliardári? Buffett giganta, Gates sa vo veľkom zbavuje vlastnej firmy",
+          "snippet": "",
+          "url": "https://www.sme.sk/index/c/buffett-pred-odchodom-kupil-akcie-giganta-gates-odpredaval-svoju-firmu",
+          "source": "SME.sk"
+        },
+        {
+          "title": "Vsádza Buffett na Magnificent 7? Za miliardy nakúpil akcie Google",
+          "snippet": "",
+          "url": "https://akcie.sk/vsadza-buffett-na-magnificent-7-nakupil-akcie-google/",
+          "source": "Akcie.sk"
+        },
+        {
+          "title": "Akcie Alphabetu prudko stúpli po investícii Berkshire Hathaway vo výške 4,9 miliardy dolárov",
+          "snippet": "",
+          "url": "https://www.xtb.com/sk/trhove-analyzy/spravy-z-trhov/akcie-alphabetu-prudko-stupli-po-investicii-berkshire-hathaway-vo-vyske-4-9-miliardy-dolarov",
+          "source": "XTB.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,16 +227,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Is Cloudfare down? Here's why Iowans can't access Spotify, ChatGPT and more",
-          "snippet": "",
-          "url": "https://www.desmoinesregister.com/story/news/local/2025/11/18/cloudflare-down-error-outages-spotify-chatgpt-amazon/87333560007/",
-          "source": "The Des Moines Register"
-        },
-        {
-          "title": "Outage at Cloudflare Disrupts Parts of the Internet",
+          "title": "Cloudflare Outage Disrupts X, ChatGPT and Other Parts of the Internet",
           "snippet": "",
           "url": "https://www.nytimes.com/2025/11/18/business/cloudflare-down-challenges-error.html",
           "source": "The New York Times"
+        },
+        {
+          "title": "Reports of outages surge at X and other apps as Cloudflare says it's having widespread problems",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/cloudflare-500-error-outage-x-league-of-legends-down-not-working/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
