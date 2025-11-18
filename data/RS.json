@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-18 16:24:22",
+  "lastUpdate": "2025-11-18 16:40:21",
   "data": [
     {
       "title": "riot",
@@ -33,20 +33,20 @@
       "title": "pljacka novi pazar",
       "trafficCount": "100+",
       "pubDate": "Tue, 18 Nov 2025 07:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv8h-zDrRsCF8i9vYkmfUWs-BdDZQHRTvVa8vQALGLRGltMx7p2yNzHhRVBqY",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbungi28H1Jdv5yFv6zvDbVdqVz4yZfIq0q_UXJEbIPCAc7tB341BNuxwm0cU",
+      "pictureSource": "021.rs",
       "relatedSearch": [
-        {
-          "title": "Oteli kombi Poštanske štedionice sa 2 miliona evra, izbacili obezbeđenje iz vozila u pokretu i nestali!",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/hronika/oteli-kombi-sa-2-miliona-evra-u-novom-pazaru-pa-ga-zapalili-najnoviji-detalji-filmske/rxlz3kf",
-          "source": "Blic"
-        },
         {
           "title": "Vozilo za prevoz državnog novca sa dva miliona evra oteto i opljačkano kod Raške",
           "snippet": "",
           "url": "https://www.021.rs/info/srbija/427025/vozilo-za-prevoz-drzavnog-novca-sa-dva-miliona-evra-oteto-i-opljackano-kod-raske",
           "source": "021.rs"
+        },
+        {
+          "title": "Ovo je kombi iz kog je odneto dva miliona evra kod Novog Pazara",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/hronika/ovo-je-kombi-iz-kog-je-odneto-dva-miliona-evra-kod-novog-pazara/rhjr6g0",
+          "source": "Blic"
         },
         {
           "title": "Kossev: Krađa državnog novca iz blindiranih vozila ranije na severu Kosova, lopovi bežali ka Kopaoniku",
@@ -61,20 +61,20 @@
       "title": "claude",
       "trafficCount": "200+",
       "pubDate": "Tue, 18 Nov 2025 05:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUSNoFQLeiUwcKTY3iubq4A8uPkpWOed0XRPHoDEyj2UVkDplC1cxnShYdxHU",
-      "pictureSource": "Axios",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnf_SQh5laIV5TANt-Sl_jHiXBYi6JrKEYqV0pl5NBlXjCwsT7xc0b33shrw4",
+      "pictureSource": "CNBC",
       "relatedSearch": [
-        {
-          "title": "Anthropic lands $15 billion investment from Microsoft, Nvidia",
-          "snippet": "",
-          "url": "https://www.axios.com/2025/11/18/anthropic-microsoft-nvidia-15-billion",
-          "source": "Axios"
-        },
         {
           "title": "Anthropic to buy $30 billion in Azure capacity in new deal with Microsoft, Nvidia",
           "snippet": "",
           "url": "https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Anthropic lands $15 billion investment from Microsoft, Nvidia",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/11/18/anthropic-microsoft-nvidia-15-billion",
+          "source": "Axios"
         },
         {
           "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
@@ -105,10 +105,38 @@
           "source": "Смартпресс"
         },
         {
-          "title": "Падение интернета — сloudflare не работает уже несколько часов(интернет в мире тоже)",
+          "title": "Почему сайт Kaktus.media не работал на протяжении нескольких часов?",
           "snippet": "",
-          "url": "https://habr.com/ru/companies/femida_search/news/967702/",
-          "source": "Habr"
+          "url": "https://kaktus.media/doc/535528_pochemy_sayt_kaktus.media_ne_rabotal_na_protiajenii_neskolkih_chasov.html",
+          "source": "Kaktus.media"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ai",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Nov 2025 05:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-lKPZ8b2f9Ivcg1ZayyNSiojm1YwVd0JaAe8zP8DthIewH30rMXCRNZcERZ0",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Microsoft unveils tool to help companies control, track AI agents",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/11/18/microsoft-unveils-agent-365-to-help-companies-control-track-ai-agents.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Why Microsoft Copilot Studio is the foundation for agentic business transformation",
+          "snippet": "",
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/why-microsoft-copilot-studio-is-the-foundation-for-agentic-business-transformation/",
+          "source": "Microsoft"
+        },
+        {
+          "title": "How Azure Copilot’s New Agents Automate DevOps and SecOps",
+          "snippet": "",
+          "url": "https://thenewstack.io/how-azure-copilots-new-agents-automate-devops-and-secops/",
+          "source": "The New Stack"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -163,7 +191,7 @@
         {
           "title": "Exclusive | OpenAI, Intuit Strike Strategic Partnership",
           "snippet": "",
-          "url": "https://www.wsj.com/articles/openai-intuit-strike-strategic-partnership-3c7f6e45?gaa_at=eafs&gaa_n=AWEtsqc-0ZFKAwKVUdAOqCSHC4YTC5VVpRsfSUtXKABjW8WXlkC7pCE3OH2j&gaa_ts=691ca09c&gaa_sig=BUJNb1tIa-xypkJ2NZlunRltHNbBfbeNl48bR0PVGYlk69gL7RIfriFOz08u6lXkovr0mAOx9N183dhjrs0Ukg%3D%3D",
+          "url": "https://www.wsj.com/articles/openai-intuit-strike-strategic-partnership-3c7f6e45?gaa_at=eafs&gaa_n=AWEtsqfXKebGEgld_EsEzegUGcjkt4oAiv63cBzEKzi47wWzyq3Y7IZwIK97&gaa_ts=691ca3fa&gaa_sig=blFdhm2pGIMPr-4gb07yIvBiaTQbe_iHRlabV661d2gWyCnQt-eiNH0gJpSKeIsqyPPBtYPIvBHc4iLjoACQTw%3D%3D",
           "source": "The Wall Street Journal"
         }
       ],
@@ -173,20 +201,20 @@
       "title": "gemini",
       "trafficCount": "2000+",
       "pubDate": "Tue, 18 Nov 2025 05:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-p3zTuYEY4_5Ky6yLObWZY8bWb0ymmE1TeF4RrBEGnWztp93DeyCJg_fMYLM",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB09P02likcPgFaSwy4PyNGitXXH117iUfkSiNNCInb12XGCQmCs-hQBZUovo",
       "pictureSource": "blog.google",
       "relatedSearch": [
         {
-          "title": "Start building with Gemini 3",
+          "title": "A new era of intelligence with Gemini 3",
           "snippet": "",
-          "url": "https://blog.google/technology/developers/gemini-3-developers/",
+          "url": "https://blog.google/products/gemini/gemini-3/",
           "source": "blog.google"
         },
         {
-          "title": "Google CEO Responds to Polymarket Bet: Are Prediction Markets Vulnerable To Celebrity Manipulation?",
+          "title": "Google announces Gemini 3 as battle with OpenAI intensifies",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/google-ceo-responds-polymarket-bet-163028006.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.cnbc.com/2025/11/18/google-announces-gemini-3-as-battle-with-openai-intensifies.html",
+          "source": "CNBC"
         },
         {
           "title": "Google launches Gemini 3 with new coding app and record benchmark scores",
@@ -229,15 +257,9 @@
       "title": "chat",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 04:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0k-TqjZPXRRDddKZB9OOtPUjWqJw09gQ0xrfhBqx6ivW8zlOpeNCpwwZRe5A",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ_Wk-79Bc5ZiHlegrNocQtxevQF9r2FKQjpht7yZ97TUrFmyL0Ci1Nb3BECI",
+      "pictureSource": "Roblox",
       "relatedSearch": [
-        {
-          "title": "Lawsuits claim Roblox endangers kids. New AI age verification aims to block them from chatting with adults",
-          "snippet": "",
-          "url": "https://www.cnn.com/2025/11/18/tech/roblox-ai-age-verification-youth-safety",
-          "source": "CNN"
-        },
         {
           "title": "Roblox Requires Age Checks for Communication, Ushering in New Safety Standard",
           "snippet": "",
@@ -245,38 +267,16 @@
           "source": "Roblox"
         },
         {
+          "title": "Lawsuits claim Roblox endangers kids. New AI age verification aims to block them from chatting with adults",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/11/18/tech/roblox-ai-age-verification-youth-safety",
+          "source": "CNN"
+        },
+        {
           "title": "Roblox to block children from talking to adult strangers after string of lawsuits",
           "snippet": "",
           "url": "https://www.theguardian.com/games/2025/nov/18/roblox-facial-age-estimation-children-adults-chats-blocked",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lilly",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Xcd8t1u-flwsL3oI0ZRvPYbbWPVlAp1ndtYZkCsK57LxKuYHF0wEIA0N-vQ",
-      "pictureSource": "Seeking Alpha",
-      "relatedSearch": [
-        {
-          "title": "Eli Lilly: This Breakout Rally Has More Room To Run (NYSE:LLY)",
-          "snippet": "",
-          "url": "https://seekingalpha.com/article/4844370-eli-lilly-this-breakout-rally-has-more-room-to-run",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "LLY Stock: JP Morgan Raises Price Target to $1150 | LLY Stock Ne",
-          "snippet": "",
-          "url": "https://www.gurufocus.com/news/3214601/lly-stock-jp-morgan-raises-price-target-to-1150-lly-stock-news",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "Notable healthcare headlines for the week: Health insurers, Eli Lilly, Merck in focus",
-          "snippet": "",
-          "url": "https://www.msn.com/en-us/money/markets/notable-healthcare-headlines-for-the-week-health-insurers-eli-lilly-merck-in-focus/ar-AA1Qxg5J",
-          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
