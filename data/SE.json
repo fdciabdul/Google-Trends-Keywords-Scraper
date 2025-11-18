@@ -1,58 +1,30 @@
 {
-  "lastUpdate": "2025-11-18 15:34:59",
+  "lastUpdate": "2025-11-18 15:44:47",
   "data": [
     {
       "title": "riot",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 18 Nov 2025 05:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6nugdx-ZpoMuReqNLEwdlb4MhnJmuaw3FqeZnzQEHErlklONzxcJsQWaqT-k",
-      "pictureSource": "ComicBook.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDqoj46gDhapnCmeZ76WuH_PPD92x8PuNKyyru5QOFa_b2F84aGO_LPeuubO8",
+      "pictureSource": "Sheep Esports",
       "relatedSearch": [
+        {
+          "title": "Sources - VALORANT: TALON Removed from VCT Pacific",
+          "snippet": "",
+          "url": "https://www.sheepesports.com/articles/sources-valorant-talon-removed-from-vct-pacific/en",
+          "source": "Sheep Esports"
+        },
+        {
+          "title": "BREAKING – TALON Esports removed from VCT Pacific",
+          "snippet": "",
+          "url": "https://valo2asia.com/breaking-talon-esports-removed-from-vct-pacific/",
+          "source": "VALO2ASIA"
+        },
         {
           "title": "Cancelled Minecraft-Like Game Hytale Is Saved; Early Access Release Imminent",
           "snippet": "",
           "url": "https://comicbook.com/gaming/news/cancelled-minecraft-like-game-hytale-is-saved-early-access-release-imminent/",
           "source": "ComicBook.com"
-        },
-        {
-          "title": "Canceled Minecraft Competitor Hytale Isn't Canceled After All",
-          "snippet": "",
-          "url": "https://www.gamespot.com/articles/canceled-minecraft-competitor-hytale-isnt-canceled-after-all/1100-6536298/",
-          "source": "GameSpot"
-        },
-        {
-          "title": "Hytale Development Resumes After Riot Games Sells Game Back to Co-Founder",
-          "snippet": "",
-          "url": "https://news.ssbcrack.com/hytale-development-resumes-after-riot-games-sells-game-back-to-co-founder/",
-          "source": "SSBCrack News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "league of legends",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 18 Nov 2025 05:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLB94wo6P2JusFykHnd72KeGdEUeVhIzCIXwfDys7XAGLduCD18VzpSrVbgJQ",
-      "pictureSource": "Sheep Esports",
-      "relatedSearch": [
-        {
-          "title": "Sources: Gumayusi expected to join Hanwha Life Esports",
-          "snippet": "",
-          "url": "https://www.sheepesports.com/articles/sources-gumayusi-expected-to-join-hanwha-life-esports-still-to-be-confirmed/en",
-          "source": "Sheep Esports"
-        },
-        {
-          "title": "Gumayusi on leaving T1: “Another journey to prove myself”",
-          "snippet": "",
-          "url": "https://esports.gg/news/league-of-legends/gumayusi-leaving-t1/",
-          "source": "esports.gg"
-        },
-        {
-          "title": "Peyz to Join T1 as New AD Carry Following Departure of Gumayusi",
-          "snippet": "",
-          "url": "https://news.ssbcrack.com/peyz-to-join-t1-as-new-ad-carry-following-departure-of-gumayusi/",
-          "source": "SSBCrack News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "claude",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 18 Nov 2025 05:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnf_SQh5laIV5TANt-Sl_jHiXBYi6JrKEYqV0pl5NBlXjCwsT7xc0b33shrw4",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Anthropic to buy $30 billion in Azure capacity in new deal with Microsoft, Nvidia",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+          "snippet": "",
+          "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+          "source": "The Official Microsoft Blog"
+        },
+        {
+          "title": "Microsoft, Nvidia to invest in Anthropic as Claude maker commits $30 billion to Azure",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/anthropic-commits-30-billion-microsoft-150718625.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "david lagercrantz",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 04:20:00 -0800",
@@ -155,17 +155,17 @@
           "source": "Business Insider Africa"
         },
         {
-          "title": "Human decisions in recruitment mirror AI bias",
+          "title": "Uplifting and empowering young people for an AI future",
           "snippet": "",
-          "url": "https://www.hcamag.com/au/specialisation/diversity-inclusion/human-decisions-in-recruitment-mirror-ai-bias/556951",
-          "source": "HRD America"
+          "url": "https://blogs.microsoft.com/on-the-issues/2025/11/12/uplifting-and-empowering-young-people-for-an-ai-future/",
+          "source": "The Official Microsoft Blog"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "gemini ai",
-      "trafficCount": "5000+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCs8fJU0_vkylI6rlA1fB8VbKkIp90bbFrimZzUidyxTAjO4RzdmapRahlzyw",
       "pictureSource": "AIM Media House",
@@ -192,12 +192,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "open ai",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQV4EhRskR_m0NYCJWZNFgZpdGgnxbWypggij7oLK_0QVnOEWb92yGGR0FCYY",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Intuit to pay OpenAI over $100 million a year for model access, ChatGPT integrates with TurboTax",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/11/18/intuit-pays-openai-100-million-a-year-turbotax-integrates-chatgpt.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Intuit strikes $100 million deal to integrate OpenAI models into financial tools",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/intuit-strikes-100-million-deal-142409299.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "OpenAI inks $100 million deal with Intuit",
+          "snippet": "",
+          "url": "https://www.axios.com/2025/11/18/openai-intuit-turbotax-quickbooks-chatgpt",
+          "source": "Axios"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "di",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 03:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyV5bVFTTJ22hJwAtH_ORuXYa5kw6_TaMb-bliu8qtr3vxdWZAF45k33Z4LHs",
-      "pictureSource": "Eunews",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl13b3rrv_Qu9E17hWnxYGAQ4Ksk7RJ568AzGlUHhMIizmaw-lwKKzMS46TTk",
+      "pictureSource": "Comune di Signa",
       "relatedSearch": [
+        {
+          "title": "Edilizia residenziale pubblica, dal 2024 a oggi il Comune di Signa ha già riassegnato nove alloggi",
+          "snippet": "",
+          "url": "https://www.comune.signa.fi.it/it/news/edilizia-residenziale-pubblica-dal-2024-a-oggi-il-comune-di-signa-ha-gia-riassegnato-nove-alloggi",
+          "source": "Comune di Signa"
+        },
         {
           "title": "L’Unione europea vara la stretta sull’import di ferroleghe, anche da Norvegia e Islanda",
           "snippet": "",
@@ -209,12 +243,6 @@
           "snippet": "",
           "url": "https://it.marketscreener.com/notizie/jpi-ottiene-il-finanziamento-per-uno-sviluppo-misto-da-150-milioni-di-dollari-a-long-beach-ce7d5edbdc89f621",
           "source": "MarketScreener Italia"
-        },
-        {
-          "title": "Norvegia, 'in disaccordo con Ue su ferrorleghe, ci tuteleremo'",
-          "snippet": "",
-          "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2025/11/18/norvegia-in-disaccordo-con-ue-su-ferrorleghe-ci-tuteleremo_ddbff5c3-e159-4768-a82d-46786e53ae69.html",
-          "source": "ANSA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -223,15 +251,9 @@
       "title": "aktivklubb",
       "trafficCount": "100+",
       "pubDate": "Tue, 18 Nov 2025 03:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHVZtTcoxDo9NPJbDE5FBPEbCLktDamloDPZmptylwS5V2lIt8gkPc0aCouc",
-      "pictureSource": "SVT Nyheter",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbJtJYce7rzBMx2D4mvgjbCiZxo-VZ2gZQeyTmDnDTWKzZ3z0YHmXM6DnHdao",
+      "pictureSource": "Aftonbladet",
       "relatedSearch": [
-        {
-          "title": "Mohammad misshandlades under våldsturné – lättad över domen",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/inrikes/mohammad-misshandlades-under-valdsturne-lattad-over-domen",
-          "source": "SVT Nyheter"
-        },
         {
           "title": "Nazisterna döms för misshandelsnatten",
           "snippet": "",
@@ -239,38 +261,16 @@
           "source": "Aftonbladet"
         },
         {
+          "title": "Fyra åtalade för rasistiska överfall – nu faller domen",
+          "snippet": "",
+          "url": "https://www.svt.se/nyheter/lokalt/stockholm/fyra-atalade-for-rasistiska-overfall-nu-faller-domen",
+          "source": "SVT Nyheter"
+        },
+        {
           "title": "S och M överens: Förbjud aktivklubbarna",
           "snippet": "",
           "url": "https://www.svd.se/a/yEeQmr/socialdemokraterna-och-moderaterna-vill-forbjuda-aktivklubbar",
           "source": "SvD"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "downdetector",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 18 Nov 2025 03:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFpY5jZ5N9k2yM_dn5xJuRUyo0B3NJzme8sV21EPov9DesY3ktjzeM46jLfQ",
-      "pictureSource": "Aftonbladet",
-      "relatedSearch": [
-        {
-          "title": "Strul på internet – bland annat Chat GPT har tekniska problem",
-          "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/a/eMlloM/strul-pa-x",
-          "source": "Aftonbladet"
-        },
-        {
-          "title": "\"Ovanligt hög trafik\" – bakom internetstrulet",
-          "snippet": "",
-          "url": "https://efn.se/ovanligt-hog-trafik-bakom-internetstrulet",
-          "source": "EFN"
-        },
-        {
-          "title": "Stora teknikproblem för flera sajter",
-          "snippet": "",
-          "url": "https://www.gp.se/nyheter/sverige/tekniska-problem-for-flera-sajter.89b4d73b-bdd9-43c5-8a52-a5a3fcf5f3b0",
-          "source": "GP"
         }
       ],
       "link": "https://imtaqin.id/"
