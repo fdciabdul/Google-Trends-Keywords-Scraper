@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-11-18 13:27:25",
+  "lastUpdate": "2025-11-18 13:42:39",
   "data": [
+    {
+      "title": "chat",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Nov 2025 05:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0k-TqjZPXRRDddKZB9OOtPUjWqJw09gQ0xrfhBqx6ivW8zlOpeNCpwwZRe5A",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Lawsuits claim Roblox endangers kids. New AI age verification aims to block them from chatting with adults",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/11/18/tech/roblox-ai-age-verification-youth-safety",
+          "source": "CNN"
+        },
+        {
+          "title": "Roblox to block children from talking to adult strangers after string of lawsuits",
+          "snippet": "",
+          "url": "https://www.theguardian.com/games/2025/nov/18/roblox-facial-age-estimation-children-adults-chats-blocked",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Roblox Requires Age Checks for Communication, Ushering in New Safety Standard",
+          "snippet": "",
+          "url": "https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat",
+          "source": "Roblox"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gemini",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Nov 2025 05:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCntriOObXPPaOifOJclrIFyESCQmiHDHnux7M7kzIAPBhdRHN9pISwSeTrPY",
+      "pictureSource": "Seeking Alpha",
+      "relatedSearch": [
+        {
+          "title": "Alphabet: Gemini 3.0 Is Coming, What's In Play (NASDAQ:GOOG)",
+          "snippet": "",
+          "url": "https://seekingalpha.com/article/4844555-alphabet-gemini-3-0-is-coming-whats-in-play",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Google's Gemini 3 is imminent. It could reshape the AI race.",
+          "snippet": "",
+          "url": "https://www.businessinsider.com/gemini-3-launch-google-ai-race-chatgpt-2025-11",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Google CEO Responds to Polymarket Bet: Are Prediction Markets Vulnerable To Celebrity Manipulation?",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/google-ceo-responds-polymarket-bet-163028006.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "bbc",
       "trafficCount": "100+",
       "pubDate": "Tue, 18 Nov 2025 04:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBpRDYSz_EsH03Js_JhsMvpja37My1O9A3PqQwbZWPSoGMqviLOMigNqYsujU",
-      "pictureSource": "Wales Online",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tjVSf7pO1R0BjrowZ8mWWZDCH_lCYWYYY-roggm2HIrKK3H1ZnpvBRlKWNo",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "BBC Only Connect viewers beg 'make it stop' as star forced to halt show",
+          "title": "Bridge Inn landlord says Storm Claudia brought 'terrifying' flood",
           "snippet": "",
-          "url": "https://www.walesonline.co.uk/lifestyle/tv/bbc-only-connect-viewers-beg-32895199",
-          "source": "Wales Online"
+          "url": "https://www.bbc.co.uk/news/articles/c874z7pvn0do",
+          "source": "BBC"
         },
         {
-          "title": "BBC Only Connect fans left squirming over 'most awkward moment ever'",
+          "title": "BBC Clothes Show ex-presenter boycotts licence fee over ‘bias’",
           "snippet": "",
-          "url": "https://www.mirror.co.uk/tv/tv-news/bbc-only-connect-fans-left-36265389",
-          "source": "The Mirror"
+          "url": "https://www.telegraph.co.uk/news/2025/11/18/bbc-clothes-show-presenter-boycott-licence-fee-bias-banks/",
+          "source": "The Telegraph"
         },
         {
-          "title": "Victoria Coren Mitchell halts Only Connect as BBC viewers beg 'make it stop'",
+          "title": "Methanol poisoning: the chemistry behind how a toxic alcohol gets into drinks",
           "snippet": "",
-          "url": "https://www.express.co.uk/showbiz/tv-radio/2135129/only-connect-fans-slam-most-awkward-moment",
-          "source": "Daily Express"
+          "url": "https://www.chemistryworld.com/news/methanol-poisoning-the-chemistry-behind-how-a-toxic-alcohol-gets-into-drinks/4021801.article",
+          "source": "Chemistry World"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,10 +99,10 @@
           "source": "Axios"
         },
         {
-          "title": "Google Boss Issues Warning Ahead of Gemini 3.0 Launch",
+          "title": "Google CEO warns us not to 'blindly trust' AI tools as we enter 'the era of AI'",
           "snippet": "",
-          "url": "https://www.newsweek.com/google-boss-issues-warning-gemini-3-0-launch-11065006",
-          "source": "Newsweek"
+          "url": "https://www.pcgamer.com/software/ai/google-ceos-warning-about-the-ai-bubble-bursting-no-company-is-going-to-be-immune-including-us/",
+          "source": "PC Gamer"
         },
         {
           "title": "Stock market sell-off continues, as Google boss warns ‘no company immune’ if AI bubble bursts – business live",
@@ -58,17 +114,73 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "15min",
+      "title": "lrt",
       "trafficCount": "2000+",
       "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJ2WLgeM_bMpFE9n8hqf_fk5PFDZp5v60RV-yT_7XnrokQTf5LwrNmORAYq0s",
-      "pictureSource": "15min.lt",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSZvHBuNQrTaAA6vsA9chIZrsYQpHRsKLEgZEm4L7r8ScgeEDokYhQmhs6Y1w",
+      "pictureSource": "Lrytas",
       "relatedSearch": [
         {
-          "title": "Lietuvoje ir užsienyje masiškai nulūžo internetinės svetainės: paaiškino, kas nutiko",
+          "title": "Seimas tęs LRT audito išvadų svarstymą: A. Skardžius neatmeta, kad bus prašoma atlikti ir papildomų tyrimų",
           "snippet": "",
-          "url": "https://www.15min.lt/verslas/naujiena/mokslas-it/lietuvoje-ir-uzsienyje-masiskai-nuluzo-internetines-svetaines-paaiskino-kas-nutiko-1290-2566224",
-          "source": "15min.lt"
+          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2025/11/17/news/seimas-tes-lrt-audito-isvadu-svarstyma-a-skardzius-neatmeta-kad-bus-prasoma-atlikti-ir-papildomu-tyrimu-40291917",
+          "source": "Lrytas"
+        },
+        {
+          "title": "LRT neturėtų būti nekritikuotina šventa karvė",
+          "snippet": "",
+          "url": "https://www.delfi.lt/news/ringas/lit/lrt-neturetu-buti-nekritikuotina-sventa-karve-120174881",
+          "source": "Delfi"
+        },
+        {
+          "title": "Po audito išvadų LRT generalinė direktorė nemato pagrindo trauktis iš pareigų",
+          "snippet": "",
+          "url": "https://www.bernardinai.lt/po-audito-isvadu-lrt-generaline-direktore-nemato-pagrindo-trauktis-is-pareigu/",
+          "source": "Bernardinai.lt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cloudflare",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 18 Nov 2025 03:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZY_ZqouKKGhvk5JBir5SKepdv0o1LYCssQGhVz9rtqBNcf67a0mc4m7MNyc",
+      "pictureSource": "The Independent",
+      "relatedSearch": [
+        {
+          "title": "Parts of the internet just stopped working",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/tech/cloudflare-down-twitter-not-working-outage-b2867367.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "If ChatGPT is down for you right now, you're not alone — major Cloudflare outage affecting OpenAI",
+          "snippet": "",
+          "url": "https://www.windowscentral.com/artificial-intelligence/if-chatgpt-is-down-for-you-right-now-youre-not-alone-major-cloudflare-outage-affecting-openai",
+          "source": "Windows Central"
+        },
+        {
+          "title": "Elon Musk’s X down for thousands of US users, Downdetector shows",
+          "snippet": "",
+          "url": "https://english.alarabiya.net/News/united-states/2025/11/18/elon-musk-s-x-down-for-thousands-of-us-users-downdetector-shows",
+          "source": "Al Arabiya English"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "delfi",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 18 Nov 2025 03:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSopYzi4dmaG7GiG6bwWsW9vy1bPemTtMtzfHcPfX4wrdlLcIEGckOn4ryWbQ",
+      "pictureSource": "LRT",
+      "relatedSearch": [
+        {
+          "title": "Kas yra svetainių sutrikimus lėmęs „Cloudflare“ ir ar įvykis susijęs su spalio incidentu",
+          "snippet": "",
+          "url": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/2749238/kas-yra-svetainiu-sutrikimus-lemes-cloudflare-ir-ar-ivykis-susijes-su-spalio-incidentu",
+          "source": "LRT"
         },
         {
           "title": "Internete – didelio masto svetainių ir paslaugų sutrikimai",
@@ -77,94 +189,10 @@
           "source": "Lrytas"
         },
         {
-          "title": "Kas yra svetainių sutrikimus lėmęs „Cloudflare“ ir ar įvykis susijęs su spalio incidentu",
+          "title": "Masiniai sutrikimai: neveikia didelė dalis naujienų portalų",
           "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/2749238/kas-yra-svetainiu-sutrikimus-lemes-cloudflare-ir-ar-ivykis-susijes-su-spalio-incidentu",
-          "source": "LRT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lrt",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQm5xr3bcKDrufqGYVSAnFDCPB3k4INRp7mC5IiBRWJkqgi9rEiyAzEh8LPJBE",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Seimas tęs LRT audito išvadų svarstymą: Skardžius sako – tai tik pradžia",
-          "snippet": "",
-          "url": "https://www.delfi.lt/news/daily/lithuania/seimas-tes-lrt-audito-isvadu-svarstyma-skardzius-sako-tai-tik-pradzia-120174859",
-          "source": "Delfi"
-        },
-        {
-          "title": "LRT AUDITAS. Liūto dalis „apklausoms“ skirto biudžeto – auditorijai matuoti",
-          "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/tavo-lrt/15/2748136/lrt-auditas-liuto-dalis-apklausoms-skirto-biudzeto-auditorijai-matuoti",
-          "source": "LRT"
-        },
-        {
-          "title": "Seime pristatytas LRT auditas: milijoninis finansavimas ir priekaištai dėl skaidrumo",
-          "snippet": "",
-          "url": "https://77.lt/seime-pristatytas-lrt-auditas-milijoninis-finansavimas-ir-priekaistai-del-skaidrumo",
-          "source": "77.lt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cloudflare",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 18 Nov 2025 03:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZSHlXxmj5jU5xqH88_fj8KINl_Vmig64D7gQD9kflQFGtHTcBqyOmyNsybJ4",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Outage at Cloudflare Disrupts Parts of the Internet",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2025/11/18/business/cloudflare-down-challenges-error.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Downdetector shows Elon Musk's X down for thousands of U.S. users, Cloudflare having issues",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/18/elon-musks-x-down-cloudflare-having-issues.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Reports of outages surge at X and other apps as Cloudflare says it's having widespread problems",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/cloudflare-500-error-outage-x-league-of-legends-down-not-working/",
-          "source": "CBS News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "delfi",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 18 Nov 2025 03:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF9YxqIkcxMqTjEpLJt2ylcbUN9PErR4mYmik7BL0nn_YK1oQXNQo0bSW9wxs",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Šakalienė prabilo: „Fegdą“ išsikvietusi pokalbio sulaukė griežtos Mindaugo Sinkevičiaus reakcijos",
-          "snippet": "",
-          "url": "https://www.delfi.lt/news/daily/lithuania/sakaliene-prabilo-fegda-issikvietusi-pokalbio-sulauke-grieztos-mindaugo-sinkeviciaus-reakcijos-120175565",
-          "source": "Delfi"
-        },
-        {
-          "title": "Po tylos laikotarpio – pirmieji D. Šakalienės žodžiai apie tai, kas įvyko",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2025/11/18/news/po-tylos-laikotarpio-pirmieji-d-sakalienes-zodziai-apie-tai-kas-ivyko-40303140",
-          "source": "Lrytas"
-        },
-        {
-          "title": "Po pertraukos Šakalienė prabilo atviriau",
-          "snippet": "",
-          "url": "https://ve.lt/aktualijos/lietuva/po-pertraukos-sakaliene-prabilo-atviriau",
-          "source": "Vakarų ekspresas"
+          "url": "https://madeinvilnius.lt/naujienos/lietuvos-naujienos/sutrikimai-neveikia-didele-dalis-naujienu-portalu/",
+          "source": "MadeinVilnius.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +201,20 @@
       "title": "nausedienes kalba",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 02:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTODhLEz3FU3EjllFC3644GtDGVNTOLzi-H4AhAt8fkmnlwDgkE1sNdXYPu7-M",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPhn2HZaQjxrVQnBz6wQd6xo9RNN5KH8sXh9SQp5ZAZceEqrSzZ1AeK0TlPhs",
       "pictureSource": "Delfi",
       "relatedSearch": [
         {
-          "title": "Feisbuke masiškai aptarinėjama Dianos Nausėdienės kalba: suprato ne visi",
+          "title": "Plinta Dianos Nausėdienės kalbos parodija: Justas Pečeliūnas iš juoko pravirkdė tūkstančius",
           "snippet": "",
-          "url": "https://www.delfi.lt/veidai/zmones/feisbuke-masiskai-aptarinejama-dianos-nausedienes-kalba-suprato-ne-visi-120175327",
+          "url": "https://www.delfi.lt/veidai/zmones/plinta-dianos-nausedienes-kalbos-parodija-justas-peceliunas-is-juoko-pravirkde-tukstancius-120175519",
           "source": "Delfi"
         },
         {
-          "title": "Justas Pečeliūnas sukūrė Nausėdienės kalbos parodiją – žmonės nesulaiko juoko: „Diana, ištarsi, nebijok, sakyk!“",
+          "title": "Pirmosios ponios kalba sustojo vidury sakinio – internetas ūžia",
           "snippet": "",
-          "url": "http://www.15min.lt/zmones/naujiena/lietuva/justas-peceliunas-sukure-nausedienes-kalbos-parodija-zmones-nesulaiko-juoko-diana-istarsi-nebijok-sakyk-1050-2566278",
-          "source": "15min.lt"
+          "url": "https://lnk.lt/straipsniai/Politika/pirmosios-ponios-kalba-sustojo-vidury-sakinio--internetas-uzia/345475",
+          "source": "LNK.LT"
         },
         {
           "title": "Dėl D. Nausėdienės kalbos – reakcijų banga socialiniuose tinkluose: „Kas jus taip pakiša?“",
@@ -245,38 +273,10 @@
           "source": "This Is Anfield"
         },
         {
-          "title": "Frenkie de Jong off to World Cup 2026",
+          "title": "'Great to be rewarded': Reborn Matthijs de Ligt delighted with Oranje comeback",
           "snippet": "",
-          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4404218/frenkie-de-jong-off-to-world-cup-2026",
-          "source": "FC Barcelona Website"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "„nyderlandai“ prieš „lietuva“",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 17 Nov 2025 11:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKsXZRlmFOK5mbJRp1R75V7w4hRyV5cMHo-aC0XC9kepX9o0OzNZGwqrWy_f8",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Pasirodymas baigtas: Lietuvos rinktinė įvarčių lietuje neprilygo Nyderlandų žvaigždynui",
-          "snippet": "",
-          "url": "https://www.delfi.lt/sportas/futbolas/pasirodymas-baigtas-lietuvos-rinktine-ivarciu-lietuje-neprilygo-nyderlandu-zvaigzdynui-120175177",
-          "source": "Delfi"
-        },
-        {
-          "title": "Nyderlandų galią pajutusi Lietuvos futbolo rinktinė nelaimėjo septynioliktą kartą paeiliui",
-          "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/2748387/nyderlandu-galia-pajutusi-lietuvos-futbolo-rinktine-nelaimejo-septyniolikta-karta-paeiliui",
-          "source": "LRT"
-        },
-        {
-          "title": "Jankauskas – apie brutalų oranžinį volą, skystą baudinį ir savo ateitį",
-          "snippet": "",
-          "url": "https://www.15min.lt/sportas/naujiena/futbolas/jankauskas-apie-brutalu-oranzini-vola-skysta-baudini-ir-savo-ateiti-24-2565720",
-          "source": "15min.lt"
+          "url": "https://www.flashscore.com/news/soccer-world-cup-great-to-be-rewarded-reborn-matthijs-de-ligt-delighted-with-oranje-comeback/bw7p9VYb/",
+          "source": "Flashscore.com"
         }
       ],
       "link": "https://imtaqin.id/"
