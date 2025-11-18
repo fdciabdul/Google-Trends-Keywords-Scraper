@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-11-18 12:16:20",
+  "lastUpdate": "2025-11-18 12:33:02",
   "data": [
+    {
+      "title": "cloudflare",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBICpZz-HDKcu460sp6Ge8wdhmOCTFZ_s-JteoOgMBdSfRCsrWtfTNIrevtg8",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Internet infrastructure firm Cloudflare hit by outage",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC"
+        },
+        {
+          "title": "Parts of the internet just stopped working",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/tech/cloudflare-down-twitter-not-working-outage-b2867367.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Cloudflare outage under investigation as Twitter, Downdetector go down — company confirms Global Network issue",
+          "snippet": "",
+          "url": "https://www.tomshardware.com/news/live/cloudflare-outage-under-investigation-as-twitter-downdetector-go-down-company-confirms-global-network-issue-clone",
+          "source": "Tom's Hardware"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Mon, 17 Nov 2025 21:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgqTsg-yzamWGdgQUxnYVYE-4y6uUnKloZeWSIfBl7bQxsbwXT-Ge1fHoQ_Lw",
-      "pictureSource": "WAVE News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERB-MtVy9AjrnDYCEZkxKDGDh-2as4KfMFQcpxzh8UWxmUYLJETXNZUySoEo",
+      "pictureSource": "CBS News",
       "relatedSearch": [
         {
-          "title": "FORECAST: Storms likely on Tuesday, some strong by evening",
+          "title": "Snow concerns fade, but areas south of Twin Cities will still see rain Tuesday morning",
           "snippet": "",
-          "url": "https://www.wave3.com/2025/11/17/forecast-storms-likely-tuesday-some-strong-by-evening/",
-          "source": "WAVE News"
+          "url": "https://www.cbsnews.com/minnesota/news/minnesota-weather-snow-concerns-fade-nov-18-2025/",
+          "source": "CBS News"
         },
         {
-          "title": "Impact weather arrives Tuesday morning with showers, storms likely",
+          "title": "Scattered rain, snow showers Tuesday morning south, decreasing clouds",
           "snippet": "",
-          "url": "https://www.wlky.com/article/impact-weather-arrives-tuesday-morning-with-showers-storms-likely/69456077",
-          "source": "WLKY"
+          "url": "https://www.mprnews.org/story/2025/11/18/wintry-mix-through-tuesday-morning-south-decreasing-clouds",
+          "source": "MPR News"
         },
         {
-          "title": "Rain Returns Tuesday",
+          "title": "Ken says to expect mostly rain and a few snowflakes this morning",
           "snippet": "",
-          "url": "https://www.lex18.com/weather/daily-forecast/rain-returns-tuesday",
-          "source": "LEX18"
+          "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-to-expect-mostly-rain-and-a-few-snowflakes-this-morning/",
+          "source": "5 EYEWITNESS NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +61,26 @@
       "title": "météo",
       "trafficCount": "20000+",
       "pubDate": "Mon, 17 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQALqSes8VRFfy1BkoCTR9cE57NzneR9KtZyQDsbGjCNo4KHPhcFNNN2YrlbjM",
-      "pictureSource": "Business News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQI5Y8pf5QX7jzZy4Oef24wn_MD_E0VFvl4Lo7BRgMDR5umhTTekMBl-xMTqE",
+      "pictureSource": "The Conversation",
       "relatedSearch": [
         {
-          "title": "Vigilance météo : fortes pluies, orages et baisse des températures",
+          "title": "L’intelligence artificielle peut-elle améliorer la prévision météorologique ?",
           "snippet": "",
-          "url": "https://businessnews.com.tn/2025/11/18/vigilance-meteo-fortes-pluies-orages-et-baisse-des-temperatures/1373417/",
-          "source": "Business News"
+          "url": "https://theconversation.com/lintelligence-artificielle-peut-elle-ameliorer-la-prevision-meteorologique-269457",
+          "source": "The Conversation"
         },
         {
-          "title": "La météo du lundi 17 novembre 2025",
+          "title": "Les prédictions météo vont changer : Google a inventé un modèle d'une précision extrême, capable de prédire heure par heure",
           "snippet": "",
-          "url": "https://www.mosaiquefm.net/fr/national-tunisie/1480299/la-meteo-du-lundi-17-novembre-2025",
-          "source": "Mosaique FM"
+          "url": "https://www.numerama.com/tech/2120273-les-predictions-meteo-vont-changer-google-a-invente-un-modele-dune-precision-extreme-capable-de-predire-heure-par-heure.html",
+          "source": "Numerama"
         },
         {
-          "title": "Météo : Pluies, Orages et Vent Fort Attendus ce 18 Novembre 2025",
+          "title": "« L’atmosphère est un système chaotique » : dans les coulisses de la fabrique à prévisions météo",
           "snippet": "",
-          "url": "https://tuniscope.com/article/417743/quotidien/meteo/pluie-594008",
-          "source": "tuniscope.com"
+          "url": "https://www.leparisien.fr/meteo/latmosphere-est-un-systeme-chaotique-dans-les-coulisses-de-la-fabrique-a-previsions-meteo-16-11-2025-S42UCRLFPZB5VNJ3TAWHI3ERQI.php",
+          "source": "Le Parisien"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -73,7 +101,7 @@
         {
           "title": "نشرة متابعة: أمطار مؤقتا رعدية وغزيرة مع انخفاض في الحرارة",
           "snippet": "",
-          "url": "https://www.jawharafm.net/ar/article/%D9%86%D8%B4%D8%B1%D8%A9-%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%A4%D9%82%D8%AA%D8%A7-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D9%85%D8%B9-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-/105/284650?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMjc1MjU0NjkyNTk4Mjc5CGNhbGxzaXRlAjI1AAEexdGzpnCZtO0UmEaAfllhcsusKZAUXX-cm67cSWMroEGpkSjVwjOIAzIv9JY_aem_mADDMM2vryNzHRFwdbpQPA",
+          "url": "https://www.jawharafm.net/ar/article/%D9%86%D8%B4%D8%B1%D8%A9-%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%A4%D9%82%D8%AA%D8%A7-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D9%85%D8%B9-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-/105/284650?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPMjc1MjU0NjkyNTk4Mjc5CGNhbGxzaXRlAjI1AAEe4MFB49LK0VI352CoKCfKNesoOmHysCHyPNlwxAf6FUohRO5VHZGudqJWdNc_aem_swaFTwv8vt8k77EtdfvUoQ",
           "source": "JawharaFM"
         },
         {
@@ -127,10 +155,10 @@
           "source": "Mosaique FM"
         },
         {
-          "title": "تقلبات مفاجئة.. تفاصيل حالة الطقس ودرجة الحرارة اليوم الثلاثاء 18 نوفمبر 2025",
+          "title": "الأرصاد تكشف عن 3 ظواهر جوية وتفاصيل حالة الطقس ودرجات الحرارة في كل المحافظات",
           "snippet": "",
-          "url": "https://source-7.com/uncategorized/16339.html",
-          "source": "المصدر 7"
+          "url": "https://www.arabsvoice.net/33076/",
+          "source": "صوت العرب"
         },
         {
           "title": "الذروة يوم الجمعة.. موجة جديدة من ارتفاع درجات الحرارة والأرصاد تحذر",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.tf1info.fr/meteo/l-equivalent-de-deux-semaines-de-precipitation-en-un-jour-le-sud-est-touche-par-des-pluies-diluviennes-2407074.html",
           "source": "TF1 Info"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tunisie vs brazil",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 17 Nov 2025 06:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN1DDCAyiwpsyCnCcBzPhluITmCRfQYZ-cSBqFC_0SVYbulx2BwMFgRfitw6w",
-      "pictureSource": "Ouest-France",
-      "relatedSearch": [
-        {
-          "title": "Brésil - Tunisie. À quelle heure et sur quelle chaîne suivre le match amical de football ?",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/sport/football/equipe-tunisie/bresil-tunisie-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-amical-de-football-91aa23a2-c3d4-11f0-8509-2c0807403e46",
-          "source": "Ouest-France"
-        },
-        {
-          "title": "Tunisie - Brésil: La formation probable des Aigles de Carthage",
-          "snippet": "",
-          "url": "https://www.mosaiquefm.net/fr/football/1480730/tunisie-bresil-la-formation-probable-des-aigles-de-carthage",
-          "source": "Mosaique FM"
-        },
-        {
-          "title": "L’équipe nationale de football arrive à Lille en prévision du match contre le Brésil",
-          "snippet": "",
-          "url": "https://www.tunisienumerique.com/lequipe-nationale-de-football-arrive-a-lille-en-prevision-du-match-contre-le-bresil/",
-          "source": "Tunisie numerique"
         }
       ],
       "link": "https://imtaqin.id/"
