@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-11-17 23:59:47",
+  "lastUpdate": "2025-11-18 00:36:15",
   "data": [
+    {
+      "title": "สภาพอากาศ",
+      "trafficCount": "50000+",
+      "pubDate": "Mon, 17 Nov 2025 15:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8ZqVmJ5UwjiDsOmpImPM_2mVcfpBtAuKOz_sl2jNhwk2yOAkTuD-JErEaKbQ",
+      "pictureSource": "Thairath",
+      "relatedSearch": [
+        {
+          "title": "เตรียมรับลมหนาว ช่วง 19 – 20 พ.ย. ภาคกลางรวม กทม. อุณหภูมิจะลดลง 2-5 องศาฯ",
+          "snippet": "",
+          "url": "https://www.thairath.co.th/news/local/2896195",
+          "source": "Thairath"
+        },
+        {
+          "title": "กรมอุตุฯ เตือน อากาศแปรปรวน 17-23 พ.ย. ไทยตอนบนเตรียมรับมือหนาวจัด ภาคใต้ฝนหนัก คลื่นลมแรงในอ่าวไทย",
+          "snippet": "",
+          "url": "https://thestandard.co/weather-warning-17-nov-2568/",
+          "source": "thestandard.co"
+        },
+        {
+          "title": "พยากรณ์อากาศวันนี้ 18 พฤศจิกายน 2568 อากาศแปรปรวน เจอฝนก่อนหนาว!",
+          "snippet": "",
+          "url": "https://www.tnnthailand.com/earth/217573",
+          "source": "TNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 17 Nov 2025 15:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Qpl9MLoMuLtvSBQfxK0j6tRQXJgjJILNc5UI469caTUfxI-_FjDBMbwmnQ",
+      "pictureSource": "blog.google",
+      "relatedSearch": [
+        {
+          "title": "WeatherNext 2: Our most advanced weather forecasting model",
+          "snippet": "",
+          "url": "https://blog.google/technology/google-deepmind/weathernext-2/",
+          "source": "blog.google"
+        },
+        {
+          "title": "DeepMind’s Latest AI Weather Model Targets Energy Traders",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2025-11-17/deepmind-s-latest-ai-weather-model-targets-energy-traders",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "How Google’s DeepMind tool is ‘more quickly’ forecasting hurricane behavior",
+          "snippet": "",
+          "url": "https://www.theguardian.com/technology/2025/nov/16/google-deepmind-hurricane-forecast",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "날씨",
       "trafficCount": "100+",
       "pubDate": "Mon, 17 Nov 2025 15:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUo_08O5hpjiYuyMo7mokDuvnVrSOC_8vJaQsm2-fE-XdQ_-WUqo1CM5Qg8bg",
-      "pictureSource": "한라일보",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNmvp6wLidE8iOiQ9nn-jXcAoFEx-kzJdr_pmZt1VDVAPq07dpukLDqDGGxdw",
+      "pictureSource": "연합뉴스",
       "relatedSearch": [
         {
-          "title": "찬 바람 부는 제주지방 모레까지 초겨울 추위",
+          "title": "제주 한라산에 올가을 첫눈…20일까지 1∼5㎝ 적설 예보",
           "snippet": "",
-          "url": "http://m.ihalla.com/article.php?aid=1763422356778912121",
-          "source": "한라일보"
-        },
-        {
-          "title": "'만추, 오름을 찾은 사람들'",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20251116n07329",
-          "source": "네이트"
+          "url": "https://www.yna.co.kr/view/AKR20251118036900056",
+          "source": "연합뉴스"
         },
         {
           "title": "찬 바람 쌩쌩‥기온 '뚝'",
           "snippet": "",
           "url": "https://jejumbc.com/NewsArticle/637030",
           "source": "제주MBC"
+        },
+        {
+          "title": "[제주 오늘~글피 날씨] 산지 비·눈, 찬바람과 함께 겨울 추위 시작",
+          "snippet": "",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=280244",
+          "source": "포인트데일리"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,24 +127,24 @@
           "source": "BBC"
         },
         {
-          "title": "European Qualifiers highlights, round-up: Germany and Netherlands through to World Cup",
+          "title": "Germany's Woltemade hopes for 2026 World Cup spot after scoring again",
           "snippet": "",
-          "url": "https://www.uefa.com/european-qualifiers/news/029f-1f3a17d5b0b3-d66991e774ae-1000--european-qualifiers-highlights-round-up-germany-and-netherl/",
-          "source": "UEFA.com"
+          "url": "https://www.rfi.fr/en/sports/20251117-germany-s-woltemade-hopes-for-2026-world-cup-spot-after-scoring-again",
+          "source": "RFI"
         },
         {
-          "title": "World Cup - UEFA Qualifiers - Group A - Germany v Slovakia",
+          "title": "Kimmich and Woltemade react to huge qualifying win",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/world-cup-uefa-qualifiers-group-a-germany-v-slovakia/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1VQMUVMQkgxTk5ZUlA",
-          "source": "Reuters Connect"
+          "url": "https://onefootball.com/fr/news/kimmich-and-woltemade-react-to-huge-qualifying-win-41965182",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "หุ้นดาวโจนส์",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 17 Nov 2025 13:30:00 -0800",
+      "title": "ดาวโจนส์",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 17 Nov 2025 13:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUg_XlEBev-EcIw04VqgsPHfgqA1u-Pw1HefxWfRneQCL1iONGh7UjErW9FrY",
       "pictureSource": "LINE TODAY",
       "relatedSearch": [
@@ -105,38 +161,10 @@
           "source": "Investing.com"
         },
         {
-          "title": "ดาวโจนส์ปิดร่วง 557.24 จุด จับตาตัวเลขจ้างงาน,ผลประกอบการ Nvidia",
+          "title": "หุ้นดาวโจนส์วันนี้ 18 พฤศจิกายน 2568 ปิดลบ 557.24 จุด จับตาตัวเลขจ้างงานสหรัฐฯ",
           "snippet": "",
-          "url": "https://www.infoquest.co.th/2025/546646",
-          "source": "สำนักข่าวอินโฟเควสท์"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ดาวโจนส์",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 17 Nov 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDBiKNr2-0um4jziqfTdzUs_tgGzIaBC_Q-ZNgfEphNz5Azwvgv0Ir5TsruZo",
-      "pictureSource": "LINE TODAY",
-      "relatedSearch": [
-        {
-          "title": "ตลาดผันผวน ดาวโจนส์ ร่วง – ทองคำดิ่ง 3% หุ้นเทคฯ Nasdaq ดีดสกัดแรงขาย | การเงินธนาคาร",
-          "snippet": "",
-          "url": "https://today.line.me/th/v3/article/2DV6zk6",
-          "source": "LINE TODAY"
-        },
-        {
-          "title": "รายงานการประชุมเฟดเดือนตุลาคมจะมีแนวโน้มเข้มงวด แต่การลดดอกเบี้ยเดือนธันวาคมยังเป็นไปได้: UBS",
-          "snippet": "",
-          "url": "https://th.investing.com/news/economy-news/article-517286",
-          "source": "Investing.com"
-        },
-        {
-          "title": "สรุปภาวะตลาดต่างประเทศ ประจำวันที่ 14 พ.ย. 2568",
-          "snippet": "",
-          "url": "https://www.kaohoon.com/news/796304",
-          "source": "ข่าวหุ้นธุรกิจออนไลน์"
+          "url": "https://www.tnnthailand.com/wealth/dowjones/217575/",
+          "source": "TNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,9 +183,9 @@
           "source": "thsport"
         },
         {
-          "title": "ใครก็ได้!แบร็ดลี่ย์ลั่นแอร์.เหนือท้าชนเพลย์ออฟ",
+          "title": "โอนีลเดือดไอร์แลนด์เหนือเสียประตูไม่เป็นธรรม",
           "snippet": "",
-          "url": "https://www.thsport.live/sport-news/football/news-248181.html",
+          "url": "https://www.thsport.live/sport-news/football/news-248090.html",
           "source": "thsport"
         },
         {
@@ -189,9 +217,9 @@
           "source": "Sporting News"
         },
         {
-          "title": "คุณภาพ! ส่องฟอร์มโหด ฟลอเรียน เวียร์ตซ์ เกม เยอรมนี ขยี้ สโลวาเกีย",
+          "title": "ผลบอล เยอรมนี 6-0 สโลวาเกีย : เวียร์ตซ์ จ่าย 2, ซาเน่ เบิ้ล! อินทรีเหล็กคว้าชัยครึ่งโหลซิวตั๋วบอลโลก 2026",
           "snippet": "",
-          "url": "https://www.siamsport.co.th/football-international/national-team/94445/",
+          "url": "https://www.siamsport.co.th/football-international/national-team/94440/",
           "source": "Siamsport"
         }
       ],
@@ -229,13 +257,13 @@
       "title": "เยอรมนี พบ สโลวาเกีย",
       "trafficCount": "5000+",
       "pubDate": "Mon, 17 Nov 2025 11:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn0aF26ZIYeVgMrWG7RKTVc0SQ4Sre2h4XNECsa-oLYpcQd6RkMYws1KJtm4M",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ--NzYf3ct31-_HLszTzLbYzRRR9k67PIHFcYnaZXK9J3_4ZpqxUmUvqkq6L0",
       "pictureSource": "Siamsport",
       "relatedSearch": [
         {
-          "title": "คุณภาพ! ส่องฟอร์มโหด ฟลอเรียน เวียร์ตซ์ เกม เยอรมนี ขยี้ สโลวาเกีย",
+          "title": "ผลบอล เยอรมนี 6-0 สโลวาเกีย : เวียร์ตซ์ จ่าย 2, ซาเน่ เบิ้ล! อินทรีเหล็กคว้าชัยครึ่งโหลซิวตั๋วบอลโลก 2026",
           "snippet": "",
-          "url": "https://www.siamsport.co.th/football-international/national-team/94445/",
+          "url": "https://www.siamsport.co.th/football-international/national-team/94440/",
           "source": "Siamsport"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.bangkokbiznews.com/news/news-update/1207997",
           "source": "bangkokbiznews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "เนเธอร์แลนด์ พบ ลิธัวเนีย",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 17 Nov 2025 11:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTssIN1GHyga5oXyywWvFLjuveTZH2zJ0umA9ZRH5aooTiU-lrQFfrN7s-OGxA",
-      "pictureSource": "Siamsport",
-      "relatedSearch": [
-        {
-          "title": "ผลบอล เนเธอร์แลนด์ 4-0 ลิทัวเนีย : คักโป-ไรน์เดอร์ส ยิงจ่าย! ดัตช์ จบแชมป์กลุ่มไปบอลโลก 2026",
-          "snippet": "",
-          "url": "https://www.siamsport.co.th/football-international/national-team/94439/",
-          "source": "Siamsport"
-        },
-        {
-          "title": "วิเคราะห์บอล เนเธอร์แลนด์ vs ลิทัวเนีย วันอังคารที่ 18 พฤศจิกายน 2568",
-          "snippet": "",
-          "url": "https://www.thsport.live/football-analyst/analyst-47569.html",
-          "source": "thsport"
-        },
-        {
-          "title": "สรุปผล \"ฟุตบอลโลก\" รอบคัดเลือก โซนยุโรป (17 พ.ย.68)",
-          "snippet": "",
-          "url": "https://siamrath.co.th/variety/sports/110990",
-          "source": "สยามรัฐ"
         }
       ],
       "link": "https://imtaqin.id/"
