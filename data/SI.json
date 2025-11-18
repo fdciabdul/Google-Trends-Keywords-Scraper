@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-18 17:50:02",
+  "lastUpdate": "2025-11-18 17:56:59",
   "data": [
     {
       "title": "ai",
@@ -61,15 +61,9 @@
       "title": "slovenske železnice",
       "trafficCount": "1000+",
       "pubDate": "Tue, 18 Nov 2025 05:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFAiXYZWeS3bDOCpy_53-_2ErmBbsUpbPcSdbDIfwWM4hEVi99WRsH84D9Xhg",
-      "pictureSource": "24ur.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFzKHXakFkydCO0wzcr06wiZYd3PZ2tufcStDVGuL4cvZz2DFdT02wWRgcL-E",
+      "pictureSource": "rtvslo.si",
       "relatedSearch": [
-        {
-          "title": "Potniški vlak v Celju trčil v kovinsko jedilniško garnituro, nastavljeno na tire",
-          "snippet": "",
-          "url": "https://www.24ur.com/novice/crna-kronika/vlak-pri-zalcu-trcil-v-vrtno-garnituro-nastavljeno-na-tire.html",
-          "source": "24ur.com"
-        },
         {
           "title": "Na železniški progi iz Celja proti Žalcu vlak naletel na nastavljeno vrtno garnituro in kolo",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://siol.net/novice/slovenija/nov-resen-incident-vlak-trcil-v-nastavljeno-kolo-in-vrtno-garnituro-677392",
           "source": "Siol.net"
+        },
+        {
+          "title": "Neznanec v Celju na železniške tire nastavil kovinske stole in vejevje",
+          "snippet": "",
+          "url": "https://radiocelje.svet24.si/regija-danes/9031-neznanec-v-celju-na-zelezniske-tire-nastavil-kovinske-stole-in-vejevje",
+          "source": "Radio Celje"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "blog.google"
         },
         {
-          "title": "Google Unveils Gemini 3, With Improved Coding and Search Abilities",
+          "title": "Google announces Gemini 3 as battle with OpenAI intensifies",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/11/18/technology/google-gemini-3.html",
-          "source": "The New York Times"
+          "url": "https://www.cnbc.com/2025/11/18/google-announces-gemini-3-as-battle-with-openai-intensifies.html",
+          "source": "CNBC"
         },
         {
-          "title": "Google unveils Gemini 3, Klarna & Medtronic stocks react to earnings",
+          "title": "Gemini 3 Pro is in public preview for GitHub Copilot",
           "snippet": "",
-          "url": "https://finance.yahoo.com/video/google-unveils-gemini-3-klarna-170838630.html",
-          "source": "Yahoo Finance"
+          "url": "https://github.blog/changelog/2025-11-18-gemini-3-pro-is-in-public-preview-for-github-copilot/",
+          "source": "The GitHub Blog"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,10 +127,10 @@
           "source": "Roblox"
         },
         {
-          "title": "Roblox blocks children from chatting to adult strangers",
+          "title": "Video Roblox announces new safety measure amid spate of lawsuits",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c2lp5pn9e1qo",
-          "source": "BBC"
+          "url": "https://abcnews.go.com/US/video/roblox-announces-new-safety-measure-amid-spate-lawsuits-127638332",
+          "source": "ABC News"
         },
         {
           "title": "Lawsuits claim Roblox endangers kids. New AI age verification aims to block them from chatting with adults",
@@ -173,26 +173,26 @@
       "title": "chatgpt",
       "trafficCount": "20000+",
       "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPB1TlYUJhcJu0k5wsMHfKLIyoJfv6621dj9jVbPBNONSkr-ePOXZ6rrRVJf4",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNkJVEXOChRTpBtjOt_GZF7m4HMtDmQmFxUtQ4pa1U5MHFbW-ZkQmKzdCD-ww",
+      "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Cloudflare outage causes error messages across the internet",
+          "title": "Cloudflare says outage that hit X, ChatGPT and other sites is resolved",
           "snippet": "",
-          "url": "https://www.theguardian.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
-          "source": "The Guardian"
+          "url": "https://www.cnbc.com/2025/11/18/cloudflare-down-outage-traffic-spike-x-chatgpt.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Cloudflare Outage Resolved After Widespread Disruption",
+          "snippet": "",
+          "url": "https://www.datacenterknowledge.com/outages/cloudflare-outage-resolved-after-widespread-internet-disruption",
+          "source": "Data Center Knowledge"
         },
         {
           "title": "Cloudflare crash: Why a single glitch can break half the internet",
           "snippet": "",
           "url": "https://www.axios.com/2025/11/18/cloudflare-outage-internet-disruption",
           "source": "Axios"
-        },
-        {
-          "title": "Cloudflare Outage Hits X, ChatGPT, Spotify and Millions G...",
-          "snippet": "",
-          "url": "https://x.com/i/trending/1990782129370792288",
-          "source": "X"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "USA Today"
         },
         {
-          "title": "Pic 6: CeeDee Lamb and George Pickens respond, more from Cowboys' 33-16 win vs. Raiders",
+          "title": "Cowboys honor Marshawn Kneeland with big win over Raiders on Monday night",
           "snippet": "",
-          "url": "https://www.dallascowboys.com/news/pic-6-ceedee-lamb-and-george-pickens-respond-more-from-cowboys-33-16-win-vs-raiders",
-          "source": "Dallas Cowboys | Official Site of the Dallas Cowboys"
+          "url": "https://www.espn.com/nfl/story/_/id/47003911/dallas-cowboys-beat-las-vegas-raiders-monday-night-football",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
