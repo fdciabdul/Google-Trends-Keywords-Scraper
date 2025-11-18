@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "2025-11-18 16:00:12",
+  "lastUpdate": "2025-11-18 16:11:02",
   "data": [
     {
-      "title": "s&p 500",
+      "title": "dow jones",
       "trafficCount": "50000+",
-      "pubDate": "Tue, 18 Nov 2025 07:40:00 -0800",
+      "pubDate": "Tue, 18 Nov 2025 07:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7TVWV5nC4IByrdsW69wGXTrs-DVrkXGzp42-kwWPAUxFvoqY4R2Cy1XoLStw",
       "pictureSource": "CNBC",
       "relatedSearch": [
@@ -15,23 +15,79 @@
           "source": "CNBC"
         },
         {
-          "title": "Wall Street's selloff continues as investors search for safety",
-          "snippet": "",
-          "url": "https://seekingalpha.com/news/4523389-wall-street-dow-sp500-nasdaq",
-          "source": "Seeking Alpha"
-        },
-        {
           "title": "Stock market today: Dow, S&P 500, Nasdaq sink as worries on AI, US economy hit markets before Nvidia earnings",
           "snippet": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-worries-on-ai-us-economy-hit-markets-before-nvidia-earnings-143845338.html",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Stocks and bitcoin slide as nerves fray ahead of Nvidia earnings",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/11/17/investing/us-stock-market",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "voo",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 18 Nov 2025 07:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyyxgTZDLLB_Jh8Z94bq5BhxyFk1tpgpYKJifa6OEtJj8SCUVZTCPy0foiibs",
+      "pictureSource": "G1",
+      "relatedSearch": [
+        {
+          "title": "Aeroporto Regional da Zona da Mata voltará a ter voos diários da Latam em 2026",
+          "snippet": "",
+          "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2025/11/17/aeroporto-regional-da-zona-da-mata-voltara-a-ter-voos-diarios-da-latam-em-2026.ghtml",
+          "source": "G1"
+        },
+        {
+          "title": "Latam anuncia 4 novas rotas nacionais e 3 internacionais para 2026",
+          "snippet": "",
+          "url": "https://www.infomoney.com.br/mercados/latam-anuncia-4-novas-rotas-nacionais-e-3-internacionais-para-2026/",
+          "source": "InfoMoney"
+        },
+        {
+          "title": "Com apoio do Governo de Minas, companhia aérea anuncia duas novas operações no estado: Juiz de Fora e Uberaba",
+          "snippet": "",
+          "url": "https://www.agenciaminas.mg.gov.br/noticia/com-apoio-do-governo-de-minas-companhia-aerea-anuncia-duas-novas-operacoes-no-estado-juiz-de-fora-e-uberaba",
+          "source": "Agência Minas Gerais"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "spy",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 18 Nov 2025 07:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6O5bRLYheQXGmIO6x_CEHpD80D0Yc-Iw6xpiJxQcHiCQ4UpkdvKDw3mrJb_o",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "MI5 names two people in alert to MPs and peers about Chinese espionage",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2025/nov/18/mi5-issues-alert-to-mps-and-peers-over-chinese-espionage",
+          "source": "The Guardian"
+        },
+        {
+          "title": "MI5 spy service warns UK lawmakers Chinese spies posing as headhunters",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/uk/uk-security-service-warns-lawmakers-chinese-spy-risk-2025-11-18/",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK will not tolerate Chinese spying, minister says after MI5 alert",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c4gpnz05kr8o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "msft",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 18 Nov 2025 07:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBhvqCFU23a4OXqsaZ9JK3T6OUg7syQzx6YTT0a9o4DRRMOFplIeHSFXgaf8k",
       "pictureSource": "Yahoo Finance",
@@ -51,64 +107,36 @@
         {
           "title": "Microsoft and Amazon Stocks Drop. This Analyst Downgraded Them ‘With a Heavy Heart.’",
           "snippet": "",
-          "url": "https://www.barrons.com/articles/microsoft-stock-price-downgrade-amazon-1b3da6d5?gaa_at=eafs&gaa_n=AWEtsqcN0CtG1evogNzFCTdogvp0iuxVJ3jw2SFr4jwyhqa9fXevaczKHRMQ&gaa_ts=691c9b07&gaa_sig=KsjqhsYvK_F9eIyGsxGGmq9xsG3NfuiQ6cDyxnoBf7nLs70UZGzPET5c70bevaUXaNfGVbHWYx2amlulVO8cRA%3D%3D",
+          "url": "https://www.barrons.com/articles/microsoft-stock-price-downgrade-amazon-1b3da6d5?gaa_at=eafs&gaa_n=AWEtsqeJ6OzbGOV41tfJHz6Zsyd6mBA2REl7krPOXf_sNgrYzzAAUhNnHA57&gaa_ts=691c9d65&gaa_sig=m2MNvW2vvNjDbGPsLno_28H3jRPo9M94VJWPPExtFndaH2VrwvMCyHhavpzRxZVIcvmuWn13fDG1i62Oc-qE9Q%3D%3D",
           "source": "Barron's"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nasdaq index",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 18 Nov 2025 07:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTitBH6R0EKQD_hJfJJkCH4F84zaAjJlb0lWPOkjLN2M3xIe68WGpTxM0RK64I",
-      "pictureSource": "Investor's Business Daily",
-      "relatedSearch": [
-        {
-          "title": "Stock Market Today: Nasdaq Sinks 2% As Slide In Tech Stocks Accelerates (Live Coverage)",
-          "snippet": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-government-shutdown-disney-dis/",
-          "source": "Investor's Business Daily"
-        },
-        {
-          "title": "Tesla, Palantir and SMCI Trigger Market Shockwaves",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/tesla-palantir-smci-trigger-market-182505147.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nasdaq suffers sharpest slide in eight months in November as AI stocks retreat",
-          "snippet": "",
-          "url": "https://www.moneycontrol.com/news/business/earnings/nasdaq-suffers-sharpest-slide-in-eight-months-in-november-as-ai-stocks-retreat-13683110.html",
-          "source": "Moneycontrol"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "boeing stock",
+      "title": "vti",
       "trafficCount": "1000+",
       "pubDate": "Tue, 18 Nov 2025 07:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CHJqpx8SLirGU51Yc87v9K4gR6I7jVtLTK18biJnp2Cpfq032E5-fGopefo",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPwteEbb7Tng69G5YAHDV5vazJt3pHUjDq0DyGgEbjSEUxtbekeayxVCDIGY8",
+      "pictureSource": "TipRanks",
       "relatedSearch": [
         {
-          "title": "Emirates to hold Boeing's 'feet to the fire' to deliver on $38 billion deal, president says",
+          "title": "What’s Moving VTI ETF? Daily Snapshot — 11/18/2025",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/18/emirates-pressures-boeing-to-deliver-on-38-billion-deal.html",
-          "source": "CNBC"
+          "url": "https://www.tipranks.com/news/whats-moving-vti-etf-daily-snapshot-11-18-2025",
+          "source": "TipRanks"
         },
         {
-          "title": "Emirates Dashes Hope for New Airbus A350 Order Amid Engine Woes",
+          "title": "VTI: Expecting A Year-End Rally After The November Shakeout (Upgrade) (NYSEARCA:VTI)",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-11-18/emirates-dashes-hope-for-new-airbus-a350-order-amid-engine-woes",
-          "source": "Bloomberg.com"
+          "url": "https://seekingalpha.com/article/4845076-vti-expecting-a-year-end-rally-after-the-november-shakeout-upgrade",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "Emirates confident in bigger 777X, rules out A350-1000 order at Dubai Airshow",
+          "title": "VTI & VOO Today (Nov. 10, 2025): Vanguard’s Broad‑Market ETFs Edge Higher on Shutdown Optimism—Latest Moves, Flows, and Why Young Investors Still Favor Them",
           "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/emirates-confident-larger-777x-rules-out-a350-1000-order-dubai-airshow-2025-11-18/",
-          "source": "Reuters"
+          "url": "https://ts2.tech/en/vti-voo-today-nov-10-2025-vanguards-broad%E2%80%91market-etfs-edge-higher-on-shutdown-optimism-latest-moves-flows-and-why-young-investors-still-favor-them/",
+          "source": "ts2.tech"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,6 +170,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "boeing stock",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 18 Nov 2025 07:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CHJqpx8SLirGU51Yc87v9K4gR6I7jVtLTK18biJnp2Cpfq032E5-fGopefo",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Emirates to hold Boeing's 'feet to the fire' to deliver on $38 billion deal, president says",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/11/18/emirates-pressures-boeing-to-deliver-on-38-billion-deal.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Emirates Dashes Hope for New Airbus A350 Order Amid Engine Woes",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2025-11-18/emirates-dashes-hope-for-new-airbus-a350-order-amid-engine-woes",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Emirates confident in bigger 777X, rules out A350-1000 order at Dubai Airshow",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/middle-east/emirates-confident-larger-777x-rules-out-a350-1000-order-dubai-airshow-2025-11-18/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "iraq vs united arab emirates",
       "trafficCount": "1000+",
       "pubDate": "Tue, 18 Nov 2025 07:30:00 -0800",
@@ -155,16 +211,16 @@
           "source": "Sports Mole"
         },
         {
+          "title": "How to watch Iraq vs UAE: Live streams for second leg of final AFC World Cup qualifier",
+          "snippet": "",
+          "url": "https://www.fourfourtwo.com/competition/how-to-watch-iraq-vs-uae-live-streams-for-second-leg-of-final-afc-world-cup-qualifier",
+          "source": "FourFourTwo"
+        },
+        {
           "title": "How to Watch: The Asian FIFA World Cup Qualifying Playoffs in Arabic",
           "snippet": "",
           "url": "https://www.beinsports.com/en-us/soccer/articles/how-to-watch-the-asian-fifa-world-cup-qualifying-playoffs-in-arabic-2025-11-11",
           "source": "beIN SPORTS"
-        },
-        {
-          "title": "UAE Iraq WCup Soccer",
-          "snippet": "",
-          "url": "https://www.bdtonline.com/sports/national_sports/uae-iraq-wcup-soccer/image_088a697b-1af3-588e-88bd-4ccfdb64d061.html",
-          "source": "Bluefield Daily Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://dujour.com/culture/minka-kelly-champagne-problems/",
           "source": "DuJour"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "anthropic",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 18 Nov 2025 07:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnf_SQh5laIV5TANt-Sl_jHiXBYi6JrKEYqV0pl5NBlXjCwsT7xc0b33shrw4",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Anthropic to buy $30 billion in Azure capacity in new deal with Microsoft, Nvidia",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
-          "snippet": "",
-          "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
-          "source": "The Official Microsoft Blog"
-        },
-        {
-          "title": "Microsoft, Nvidia to invest in Anthropic as Claude maker commits $30 billion to Azure",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/anthropic-commits-30-billion-microsoft-150718625.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "morocco u-17 vs mali u-17",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 18 Nov 2025 07:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzwqDOqtZrMsHTTrQy9XECf8Cq91MeI-VFDgMkm3_oJmumr-lgCaDn6uJC0v8",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "U.S. knocked out of U-17 World Cup by Morocco on penalties - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6808179/2025/11/14/us-under-17-world-cup-penalties-morroco/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Baha: 'Confidence Empowers Players to Achieve Greatness and Shows Moroccan Ambition'",
-          "snippet": "",
-          "url": "https://m.elbotola.com/en/article/2025-11-14-19-45-614.html",
-          "source": "Elbotola"
-        },
-        {
-          "title": "FIFA U-17 World Cup: Morocco, Brazil, France, Mexico, Ireland Advance to Round of 16",
-          "snippet": "",
-          "url": "https://qna.org.qa/en/News-Area/News/2025-11/14/fifa-u-17-world-cup-morocco-brazil-france-mexico-ireland-advance-to-round-of-16",
-          "source": "Qatar news agency"
         }
       ],
       "link": "https://imtaqin.id/"
