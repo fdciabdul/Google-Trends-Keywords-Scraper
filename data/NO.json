@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-18 14:08:19",
+  "lastUpdate": "2025-11-18 14:19:52",
   "data": [
+    {
+      "title": "cloudflare issues",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 18 Nov 2025 06:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74JQEJI3GcvPbZBrpwxiYT9Evu5Y08uKYwQJI7Eapnipyhq2V8D-yMquwuHA",
+      "pictureSource": "NRK",
+      "relatedSearch": [
+        {
+          "title": "Cloudflare har problem – fleire nettstadar nede – Siste nytt",
+          "snippet": "",
+          "url": "https://www.nrk.no/nyheter/cloudflare-har-problem-_-fleire-nettstadar-nede-1.17657747",
+          "source": "NRK"
+        },
+        {
+          "title": "Globalt trøbbel hos IT-gigant",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/verden/i/MnxxGm/it-gigant-sliter-ikea-og-chatgpt-er-nede",
+          "source": "Aftenposten"
+        },
+        {
+          "title": "Problemer hos IT-giganten Cloudfare – flere nettsider har trøbbel",
+          "snippet": "",
+          "url": "https://www.tv2.no/direkte/jpybz/siste-nytt/691c609b98228a26e7875b7e/problemer-hos-itgiganten-cloudfare-flere-nettsider-har-trobbel",
+          "source": "TV2.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "widerøe",
       "trafficCount": "200+",
@@ -30,36 +58,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "gemini",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 18 Nov 2025 05:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSROQB9JvXa2j8_HE4KpFUcFgnoxV73j8BPMpB-iEi4DKEGke9J5GAmDnBBDT8",
-      "pictureSource": "Macworld",
-      "relatedSearch": [
-        {
-          "title": "Apple may finally let users switch from Siri to another voice assistant",
-          "snippet": "",
-          "url": "https://www.macworld.com/article/2975240/apple-may-finally-let-users-switch-from-siri-to-another-voice-assistant.html",
-          "source": "Macworld"
-        },
-        {
-          "title": "iOS 26.2 Will Let Some iPhone Users Replace Siri With a Third-Party Assistant [Updated]",
-          "snippet": "",
-          "url": "https://www.macrumors.com/2025/11/17/ios-26-2-iphone-users-eu-siri-replacement/",
-          "source": "MacRumors"
-        },
-        {
-          "title": "Apple confirms side-button support for third-party voice assistants other than Siri in Japan",
-          "snippet": "",
-          "url": "https://9to5mac.com/2025/11/17/iphone-replace-siri-side-button-japan-ios-26-2/",
-          "source": "9to5Mac"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "norwegian",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 18 Nov 2025 04:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnbMfn57yWx9_OVdHd7ArQAetO-HZ0zsgpnIVzlzlsmxe34OKp_ZhmP_QeW1M",
       "pictureSource": "The Fishing Daily",
@@ -87,7 +87,7 @@
     },
     {
       "title": "chatgpt",
-      "trafficCount": "20000+",
+      "trafficCount": "50000+",
       "pubDate": "Tue, 18 Nov 2025 03:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPB1TlYUJhcJu0k5wsMHfKLIyoJfv6621dj9jVbPBNONSkr-ePOXZ6rrRVJf4",
       "pictureSource": "The Guardian",
@@ -99,16 +99,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Downdetector shows Elon Musk's X down for thousands of U.S. users, Cloudflare having issues",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/18/elon-musks-x-down-cloudflare-having-issues.html",
-          "source": "CNBC"
-        },
-        {
           "title": "Parts of the internet just stopped working",
           "snippet": "",
           "url": "https://www.independent.co.uk/tech/cloudflare-down-twitter-not-working-outage-b2867367.html",
           "source": "The Independent"
+        },
+        {
+          "title": "X is down – here's what we know about the major outage",
+          "snippet": "",
+          "url": "https://www.techradar.com/news/live/x-is-down-november-18",
+          "source": "TechRadar"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,10 +127,10 @@
           "source": "CNN"
         },
         {
-          "title": "Roblox rolls out age-verification features in Australia as gaming platform insists child social media ban should not apply",
+          "title": "Roblox steps up age checks and groups younger users into age-based chats",
           "snippet": "",
-          "url": "https://www.theguardian.com/games/2025/nov/19/roblox-rolls-out-age-verification-features-in-australia-as-gaming-platform-insists-child-social-media-ban-should-not-apply",
-          "source": "The Guardian"
+          "url": "https://abcnews.go.com/Business/wireStory/roblox-steps-age-checks-groups-younger-users-age-127623326",
+          "source": "ABC News"
         },
         {
           "title": "Roblox Requires Age Checks for Communication, Ushering in New Safety Standard",
@@ -145,26 +145,26 @@
       "title": "ai",
       "trafficCount": "2000+",
       "pubDate": "Tue, 18 Nov 2025 03:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTg-EqF4ONqxN_KpeE5PaRSA-fQOlqAztJBHuyMt9TO6h5UrYVasNUplx2IOU8",
-      "pictureSource": "Fortune",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXZrp2SjRtRcBaz2P8ACmOiBPIxQIGcDRa68Y39EilCXT_pC1QUYAwFHtR4q8",
+      "pictureSource": "The Official Microsoft Blog",
       "relatedSearch": [
         {
-          "title": "Why generative AI went from risk to business imperative at U.S. companies",
+          "title": "Uplifting and empowering young people for an AI future",
           "snippet": "",
-          "url": "https://fortune.com/2025/11/18/generative-ai-from-risk-to-business-imperative-u-s-companies-cfo/",
+          "url": "https://blogs.microsoft.com/on-the-issues/2025/11/12/uplifting-and-empowering-young-people-for-an-ai-future/",
+          "source": "The Official Microsoft Blog"
+        },
+        {
+          "title": "We lost our kids to social media. Now AI wants their minds",
+          "snippet": "",
+          "url": "https://fortune.com/2025/11/18/we-lost-our-kids-to-social-media-now-ai-gen-z/",
           "source": "Fortune"
         },
         {
-          "title": "Enterprises Move From Experimentation to Measurable ROI On AI, Says Wharton School",
+          "title": "BIEA calls for \"Digital Intelligence for Good\" to empower and protect young people at the World Internet Conference 2025",
           "snippet": "",
-          "url": "https://iblnews.org/enterprises-move-from-experimentation-to-measurable-roi-on-ai-says-wharton-school/",
-          "source": "IBL News"
-        },
-        {
-          "title": "AI Generative Technology",
-          "snippet": "",
-          "url": "https://vocal.media/futurism/ai-generative-technology",
-          "source": "vocal.media"
+          "url": "https://www.digitaljournal.com/pr/news/indnewswire/biea-calls-digital-intelligence-good-1298500248.html",
+          "source": "Digital Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,15 @@
       "title": "kjetil rekdal",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 03:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSuN_PmXF_fko3XzGQeX3OCOXSNeCw4FCMY0n1B6hClGZtvIM-ir7UId9lXBs",
-      "pictureSource": "VG",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUpZFAzbw9Xxa4siOi0-X_PIhtcVQJcLb8cLZteq0FD_yKHJVY6G-G1RbehVU",
+      "pictureSource": "Aalesund",
       "relatedSearch": [
+        {
+          "title": "PM: Kjetil Rekdal er sykemeldt / Aalesund",
+          "snippet": "",
+          "url": "https://www.aafk.no/nyheter/kjetil-rekdal-er-sykemeldt",
+          "source": "Aalesund"
+        },
         {
           "title": "siste: Kjetil Rekdal sykmeldt på ubestemt tid etter kreftoperasjon",
           "snippet": "",
@@ -187,12 +193,6 @@
           "snippet": "",
           "url": "https://www.nettavisen.no/sport/kjetil-rekdal-sykmeldt-pa-ubestemt-tid-etter-kreftoperasjon/s/5-95-2734323",
           "source": "Nettavisen"
-        },
-        {
-          "title": "Rekdal har fått kreft: – Vil gjøre Kjetil stolt",
-          "snippet": "",
-          "url": "https://www.smp.no/sport/i/zARRQv/rekdal-har-faatt-kreft",
-          "source": "smp.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "Deadline"
         },
         {
-          "title": "The Legend Of Zelda Movie Reveals Official First Images Of Link And Zelda",
+          "title": "The first images from The Legend of Zelda movie are here",
           "snippet": "",
-          "url": "https://www.empireonline.com/movies/news/legend-of-zelda-movie-official-images-link-zelda/",
-          "source": "Empire"
+          "url": "https://www.engadget.com/entertainment/tv-movies/the-first-images-from-the-legend-of-zelda-movie-are-here-150309616.html",
+          "source": "Engadget"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "Stavanger Aftenblad"
         },
         {
-          "title": "Kommentar: EU sparker Norge ut",
+          "title": "Cloudflare har problem – fleire nettstadar nede – Siste nytt",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/zARRV1/eu-sparker-norge-ut",
-          "source": "VG"
+          "url": "https://www.nrk.no/nyheter/cloudflare-har-problem-_-fleire-nettstadar-nede-1.17657747",
+          "source": "NRK"
         }
       ],
       "link": "https://imtaqin.id/"
