@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-11-19 01:19:59",
+  "lastUpdate": "2025-11-19 02:06:05",
   "data": [
-    {
-      "title": "výpadok internetu",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 18 Nov 2025 13:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu67GovbfKdyQtfjS8UOc_Va5GhSnjn0_03wzkbajeTB2IXKCTGMZGDghcKZw",
-      "pictureSource": "Živé.sk",
-      "relatedSearch": [
-        {
-          "title": "Mnohé weby mali veľký výpadok, čo bolo za tým?",
-          "snippet": "",
-          "url": "https://zive.aktuality.sk/clanok/mf3Xmq4/mnohe-weby-mali-velky-vypadok-co-bolo-za-tym/",
-          "source": "Živé.sk"
-        },
-        {
-          "title": "Veľký celosvetový výpadok: Mnohé portály zaznamenávajú problémy",
-          "snippet": "",
-          "url": "https://tvnoviny.sk/domace/clanok/999513-obrovsky-vypadok-problemy-s-milionmi-stranok-na-pricine-je-jedina-sluzba",
-          "source": "TVnoviny"
-        },
-        {
-          "title": "Výpadok služby Cloudflare narušil mnohé webové stránky a aplikácie",
-          "snippet": "",
-          "url": "https://www.sme.sk/svet/c/vypadok-sluzby-cloudflare-narusil-mnohe-webove-stranky-a-aplikacie",
-          "source": "SME.sk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "snehová kalamita",
       "trafficCount": "500+",
@@ -43,16 +15,16 @@
           "source": "Regióny.sk"
         },
         {
-          "title": "Slováci, pripravte sa, platia výstrahy! Najskôr dážď, potom TO príde: Sneh a...",
-          "snippet": "",
-          "url": "https://www.cas.sk/spravy/slovaci-pripravte-sa-platia-vystrahy-najskor-dazd-potom-to-pride-sneh-a",
-          "source": "Nový Čas"
-        },
-        {
           "title": "Snehové prehánky a mrazy: Utorok prinesie zimné počasie a teploty len okolo 1 stupňa Celzia",
           "snippet": "",
           "url": "https://www.aktuality.sk/clanok/qKvEf8q/snehove-prehanky-a-mrazy-utorok-prinesie-zimne-pocasie-a-teploty-len-okolo-1-stupna-celzia/",
           "source": "Aktuality"
+        },
+        {
+          "title": "POČASIE: Utorkové ráno môže prekvapiť poľadovicou. Snehové prehánky zasiahnu najmä sever a východ",
+          "snippet": "",
+          "url": "https://www.ta3.com/clanok/1020793/pocasie-utorkove-rano-moze-prekvapit-poladovicou-snehove-prehanky-zasiahnu-najma-sever-a-vychod",
+          "source": "TA3"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,7 +89,7 @@
       "title": "investovanie do akcií",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 05:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSz3VBQleLATDn8ENos-wA1T8vFI86ml8UPqjaVaqrJNJ_pKqN_2il14O4fcA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxhI9W56MCrJLXb6Fj-DuCGv78b_rMHj9_iuam2u81fmfaZexPjGOuOe095tc",
       "pictureSource": "SME.sk",
       "relatedSearch": [
         {
@@ -145,26 +117,54 @@
       "title": "ai",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 05:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM5QSppJlinprRp5duTf2cGvpu_BOB8mvg6xaL9e-bV8uF7CozM5G3YF80vt0",
-      "pictureSource": "Bloomberg.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8-Ftu8vgR6gtjHc4KIolh1xGZ7uO9SqwVXqBlRKf4diDsNXZOy-yQ9dl1ncI",
+      "pictureSource": "Scientific American",
       "relatedSearch": [
         {
-          "title": "Caterpillar’s Lone Bear Says Machinery Maker Is No AI Darling",
+          "title": "Griefbots Let You Chat with the Departed—But Should You?",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2025-11-18/caterpillar-s-lone-bear-says-machinery-maker-is-no-ai-darling",
-          "source": "Bloomberg.com"
+          "url": "https://www.scientificamerican.com/article/can-ai-griefbots-help-us-heal/",
+          "source": "Scientific American"
         },
         {
-          "title": "This Unlikely Stock to Buy Could Be the Best Bet on the Future of the AI Race",
+          "title": "The Era of Immortality Is Here",
           "snippet": "",
-          "url": "https://finance.yahoo.com/news/unlikely-stock-buy-could-best-192409159.html",
-          "source": "Yahoo Finance"
+          "url": "https://thedispatch.com/article/ai-death-resurrection-likeness-stan-lee/",
+          "source": "The Dispatch"
         },
         {
-          "title": "Caterpillar's Volume Momentum is Building: Can the Recovery Last?",
+          "title": "'Grandpabot' AI simulation helps children connect with late grandfather",
           "snippet": "",
-          "url": "https://www.nasdaq.com/articles/caterpillars-volume-momentum-building-can-recovery-last",
-          "source": "Nasdaq"
+          "url": "https://komonews.com/news/local/grandpabot-ai-uw-research-griefbots-ai-simulation-helps-children-connect-with-late-grandfather-artificial-intelligence-ai-ghosts",
+          "source": "KOMO"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "challenges cloudflare",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 18 Nov 2025 05:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu67GovbfKdyQtfjS8UOc_Va5GhSnjn0_03wzkbajeTB2IXKCTGMZGDghcKZw",
+      "pictureSource": "Živé.sk",
+      "relatedSearch": [
+        {
+          "title": "Mnohé weby mali veľký výpadok, čo bolo za tým?",
+          "snippet": "",
+          "url": "https://zive.aktuality.sk/clanok/mf3Xmq4/mnohe-weby-mali-velky-vypadok-co-bolo-za-tym/",
+          "source": "Živé.sk"
+        },
+        {
+          "title": "Veľký celosvetový výpadok: Mnohé portály zaznamenávajú problémy",
+          "snippet": "",
+          "url": "https://tvnoviny.sk/domace/clanok/999513-obrovsky-vypadok-problemy-s-milionmi-stranok-na-pricine-je-jedina-sluzba",
+          "source": "TVnoviny"
+        },
+        {
+          "title": "Výpadok služby Cloudflare narušil mnohé webové stránky a aplikácie",
+          "snippet": "",
+          "url": "https://www.sme.sk/svet/c/vypadok-sluzby-cloudflare-narusil-mnohe-webove-stranky-a-aplikacie",
+          "source": "SME.sk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "topky",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 18 Nov 2025 04:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR-fsuq-chtWzOcOtBhRwULz0rtGj8jVMXvSzJ91Dh9u4HcDB7D6xuAHcZemU",
-      "pictureSource": "Topky",
-      "relatedSearch": [
-        {
-          "title": "Tajomstvo Putinovej spálne je odhalené: Svoju gymnastku podvádzal s inou! Tínedžerka vedela, čo má robiť",
-          "snippet": "",
-          "url": "https://www.topky.sk/cl/11/9253903/Tajomstvo-Putinovej-spalne-je-odhalene--Svoju-gymnastku-podvadzal-s-inou--Tinedzerka-vedela--co-ma-robit",
-          "source": "Topky"
-        },
-        {
-          "title": "Propaguje tradičnú rodinu, matku svojich detí podvádzal s neplnoletou. Novinári odhalili pikantné detaily Putinovej aféry",
-          "snippet": "",
-          "url": "https://tvnoviny.sk/zahranicne/clanok/999317-propaguje-tradicnu-rodinu-matku-svojich-deti-podvadzal-s-neplnoletou-novinari-odhalili-pikantne-detaily-putinovho-zivota",
-          "source": "TVnoviny"
-        },
-        {
-          "title": "MIMORIADNE Obe komory Kongresu USA schválili zverejniť VŠETKY Epsteinove spisy, na rade je prezident Trump",
-          "snippet": "",
-          "url": "https://www.topky.sk/cl/11/9255677/MIMORIADNE-Obe-komory-Kongresu-USA-schvalili-zverejnit-VSETKY-Epsteinove-spisy--na-rade-je-prezident-Trump",
-          "source": "Topky"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pluska",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 04:30:00 -0800",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.stvr.sk/novinky/osobnosti/421548/kamila-magalova-oslavuje-jubileum-herecka-legenda-v-premierovom-dokumente",
           "source": "STVR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chatgpt",
+      "trafficCount": "20000+",
+      "pubDate": "Tue, 18 Nov 2025 04:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2xUYN6wrmfXgIg-fDzqkQIisYF5vTYDoUIijVveaELf5dD1a5f9VnY_oqEPU",
+      "pictureSource": "Reuters",
+      "relatedSearch": [
+        {
+          "title": "Cloudflare restores services after outage impacts thousands of internet users",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/elon-musks-x-down-thousands-us-users-downdetector-shows-2025-11-18/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Cloudflare Outage Disrupts X, ChatGPT and Other Parts of the Internet",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/11/18/business/cloudflare-down-challenges-error.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Cloudflare outage causes error messages across the internet",
+          "snippet": "",
+          "url": "https://www.theguardian.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
