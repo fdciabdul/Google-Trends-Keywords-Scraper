@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-19 09:22:21",
+  "lastUpdate": "2025-11-19 09:34:19",
   "data": [
     {
       "title": "brazil vs tunisia",
@@ -89,6 +89,34 @@
       "title": "gpt",
       "trafficCount": "500+",
       "pubDate": "Tue, 18 Nov 2025 05:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdwaKi-6vyn0iGCfZDdx4fD5JaYg18oBcG6OAYn6hltzRPEx9V5sH5crvPuo",
+      "pictureSource": "OpenAI",
+      "relatedSearch": [
+        {
+          "title": "Introducing GPT-5.1 for developers",
+          "snippet": "",
+          "url": "https://openai.com/index/gpt-5-1-for-developers/",
+          "source": "OpenAI"
+        },
+        {
+          "title": "Salesforce unveils simulation environment for training AI agents",
+          "snippet": "",
+          "url": "https://www.cio.com/article/4089684/salesforce-unveils-simulation-environment-for-training-ai-agents.html",
+          "source": "CIO"
+        },
+        {
+          "title": "OpenAI's GPT-5.1, GPT-5.1-Codex and GPT-5.1-Codex-Mini are now in public preview for GitHub Copilot",
+          "snippet": "",
+          "url": "https://github.blog/changelog/2025-11-13-openais-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex-mini-are-now-in-public-preview-for-github-copilot/",
+          "source": "The GitHub Blog"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ai",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 18 Nov 2025 05:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB09P02likcPgFaSwy4PyNGitXXH117iUfkSiNNCInb12XGCQmCs-hQBZUovo",
       "pictureSource": "blog.google",
       "relatedSearch": [
@@ -105,38 +133,10 @@
           "source": "Google Research"
         },
         {
-          "title": "Google Unveils Gemini 3, With Improved Coding and Search Abilities",
+          "title": "Gemini 3 Arrives; Open-Source Coding Agent Raises $19 Million",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/11/18/technology/google-gemini-3.html",
-          "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ai",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 18 Nov 2025 05:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF63i7XY5bcsnPTqcW-GK3jpq9eE4V1wYoRuFVcxJ3ZNgwspi-MJq9TqrgRcc",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "CNBC Daily Open: AI firms are getting money while their stocks are losing value",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/19/cnbc-daily-open-ai-firms-are-getting-money-while-their-stocks-are-losing-value.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Microsoft, Nvidia, Anthropic launch $30bn partnership for Claude AI",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/microsoft-nvidia-anthropic-launch-30bn-075800470.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Introducing Anthropic's Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure",
-          "snippet": "",
-          "url": "https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/",
-          "source": "Microsoft Azure"
+          "url": "https://www.theinformation.com/articles/gemini-3-arrives-open-source-coding-agent-raises-19-million",
+          "source": "The Information"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -185,7 +185,7 @@
         {
           "title": "Heard on the Street Tuesday Recap: Stocks Continue Losing Streak",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-11-19-2025/card/heard-on-the-street-tuesday-recap-stocks-continue-losing-streak-UavgDVFZRyGs0GXDfKzS?gaa_at=eafs&gaa_n=AWEtsqf2_lQt7LZuLgrg7NGB2rPL48FqJf44TJySV1jgELIdVXOlftQB1AXV&gaa_ts=691d8fc7&gaa_sig=XiAeQI1u1JQ-ELebn0orMF_O8q_vRfn2iFmT6Km1EIVlqAvdD9mx1dePkiM-VPGcmPeySBepk5zFN2dtM_TCfg%3D%3D",
+          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-11-19-2025/card/heard-on-the-street-tuesday-recap-stocks-continue-losing-streak-UavgDVFZRyGs0GXDfKzS?gaa_at=eafs&gaa_n=AWEtsqdyK-_noWSAK89lJjW839DcHBKq6VXJrOvAsNvG0ojTLrBUoQ43RTaN&gaa_ts=691d929f&gaa_sig=eByibmBfFCQRiRsAaShi-MLAvlCXqRoruYAxYG-UcwNLFw5qmtwIcgaZisJoaFCehBLy4txtsw7COdQRHBTgoQ%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
@@ -217,10 +217,10 @@
           "source": "Reuters"
         },
         {
-          "title": "Cloudflare Outage Disrupts X, ChatGPT and Other Parts of the Internet",
+          "title": "Cloudflare says outage that hit X, ChatGPT and other sites is resolved",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/11/18/business/cloudflare-down-challenges-error.html",
-          "source": "The New York Times"
+          "url": "https://www.cnbc.com/2025/11/18/cloudflare-down-outage-traffic-spike-x-chatgpt.html",
+          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
