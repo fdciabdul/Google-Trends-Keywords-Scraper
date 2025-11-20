@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-20 11:27:10",
+  "lastUpdate": "2025-11-20 11:35:04",
   "data": [
     {
       "title": "čt sport živě",
@@ -31,7 +31,7 @@
     },
     {
       "title": "ewa farna eden",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 19 Nov 2025 23:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOgBjdr4f9OHX6j6Kp4KGMILPQoQ0uh5W1qW4azAAbLm9alcNMnWWqKV4V4",
       "pictureSource": "Seznam Zprávy",
@@ -77,10 +77,10 @@
           "source": "iDNES.cz"
         },
         {
-          "title": "U Zlivi se srazily vlaky. Čtyřicet zraněných, rychlík zřejmě projel na červenou",
+          "title": "Na jihu Čech se srazil rychlík s osobním vlakem, na místě jsou desítky zraněných",
           "snippet": "",
-          "url": "https://ceskobudejovicky.denik.cz/zpravy_region/ve-zlivi-se-srazily-dva-vlaky-na-miste-jsou-zraneni-20251120.html",
-          "source": "Českobudějovický deník"
+          "url": "https://zdopravy.cz/na-jihu-cech-se-srazil-rychlik-s-osobnim-vlakem-na-miste-jsou-zraneni-266212/",
+          "source": "Zdopravy.cz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +117,26 @@
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Wed, 19 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIFZfUa120RKeWjKUHUHqRTnDUc-imoZBUhOFIiKbC4eW1iU7roOjWzOo-EU",
-      "pictureSource": "SSBCrack News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl0TtZyfwURFL-40iiwt9XhcW4mZSZdVaA4_gOsKghJWFg7gTYRl9GqERo-Pc",
+      "pictureSource": "NewmarketToday.ca",
       "relatedSearch": [
         {
-          "title": "Warm November Week Ahead with Spotty Rain Chances",
+          "title": "Good morning, Newmarket! Here's today's weather!",
           "snippet": "",
-          "url": "https://news.ssbcrack.com/warm-november-week-ahead-with-spotty-rain-chances/",
-          "source": "SSBCrack News"
+          "url": "https://www.newmarkettoday.ca/good-morning/good-morning-newmarket-heres-todays-weather-11507060",
+          "source": "NewmarketToday.ca"
         },
         {
-          "title": "Your First Alert to a rainy pattern to end the week",
+          "title": "Good morning, Bradford! Here's today's weather!",
           "snippet": "",
-          "url": "https://www.actionnews5.com/2025/11/20/your-first-alert-rainy-pattern-end-week/",
-          "source": "Action News 5"
+          "url": "https://www.bradfordtoday.ca/good-morning/good-morning-bradford-heres-todays-weather-11513815",
+          "source": "BradfordToday.ca"
         },
         {
-          "title": "Memphis Braces for Showers and Thunderstorms as the NWS Predicts Unsettled Weather Through Next Week",
+          "title": "Storms, and then colder temps this week",
           "snippet": "",
-          "url": "https://hoodline.com/2025/11/memphis-braces-for-showers-and-thunderstorms-nws-predicts-unsettled-weather-through-next-week/",
-          "source": "Hoodline"
+          "url": "https://www.bangkokpost.com/thailand/general/3139021/storms-and-then-colder-temps-this-week",
+          "source": "Bangkok Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,15 +182,9 @@
       "title": "nvidia earnings",
       "trafficCount": "1000+",
       "pubDate": "Wed, 19 Nov 2025 13:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR6Mva8cbyK-BWrrwZLdVENfiWi7Nw3m_FaNcRjqJqmDFnD2KNkEpc6NPk38o",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXSNFOWKdKdQDY1E21MLQJ2JkpqKapvqxXNFZ05qgeOL6vyD-glCIjqEDPrw",
+      "pictureSource": "NVIDIA Newsroom",
       "relatedSearch": [
-        {
-          "title": "Nvidia stock soars after Q3 earnings, forecasts top estimates with sales for AI chips 'off the charts'",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/nvidia-stock-soars-after-q3-earnings-forecasts-top-estimates-with-sales-for-ai-chips-off-the-charts-153409984.html",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2026",
           "snippet": "",
@@ -198,10 +192,16 @@
           "source": "NVIDIA Newsroom"
         },
         {
-          "title": "Nvidia sent a strong signal on AI infrastructure — but is it a bubble barometer?",
+          "title": "Nvidia stock soars after results, forecasts top estimates with sales for AI chips 'off the charts'",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/20/nvidia-sent-a-strong-signal-on-ai-infrastructure-but-is-it-a-bubble-barometer-.html",
-          "source": "CNBC"
+          "url": "https://finance.yahoo.com/news/nvidia-stock-soars-after-results-forecasts-top-estimates-with-sales-for-ai-chips-off-the-charts-153409018.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia shares rise after strong results ease 'Al bubble' concerns",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cly4y2enywro",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,7 +226,7 @@
           "source": "RNZ"
         },
         {
-          "title": "Golden Mile cost blows out by up to $25m as council considers pausing project",
+          "title": "Golden Mile cost blows out by up to $60m as council considers pausing project",
           "snippet": "",
           "url": "https://www.thepost.co.nz/nz-news/360893048/golden-mile-cost-blows-out-25m-council-considers-pausing-project",
           "source": "ThePost.co.nz"
