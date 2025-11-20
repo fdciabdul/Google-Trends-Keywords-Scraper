@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-11-20 22:58:56",
+  "lastUpdate": "2025-11-20 23:09:25",
   "data": [
     {
+      "title": "나스닥",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 20 Nov 2025 14:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzxDu_pGXBqSv79w_K6N1WC8ENelEzerWsTGodxZIR7paIwOgddhtcKEO98Rk",
+      "pictureSource": "Daum",
+      "relatedSearch": [
+        {
+          "title": "뉴욕증시, 젠슨 황도 못 구했다…기술주 투매에 동반 하락 마감",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20251121072700041",
+          "source": "Daum"
+        },
+        {
+          "title": "엔비디아 호실적에도 금리인하 물 건너가…미증시 일제↓ 나스닥 2%(상보)",
+          "snippet": "",
+          "url": "https://www.news1.kr/world/usa-canada/5983378",
+          "source": "뉴스1"
+        },
+        {
+          "title": "‘AI 불안’ 잠재운 엔비디아… 반도체주 다시 상승",
+          "snippet": "",
+          "url": "https://www.chosun.com/economy/tech_it/2025/11/21/L5BGWISYFFAPFP7UAPW4ZVS4GM/",
+          "source": "조선일보"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "비트코인 시세",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 20 Nov 2025 13:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwzTdKsQXHU7eBfd0SPz3Xv61i2-1BJ2eBysV0SdY_DhQ7n-PncV9QrWrGp7c",
       "pictureSource": "네이트",
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nvidia stock",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 20 Nov 2025 12:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXSNFOWKdKdQDY1E21MLQJ2JkpqKapvqxXNFZ05qgeOL6vyD-glCIjqEDPrw",
-      "pictureSource": "NVIDIA Newsroom",
-      "relatedSearch": [
-        {
-          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2026",
-          "snippet": "",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026",
-          "source": "NVIDIA Newsroom"
-        },
-        {
-          "title": "NVIDIA's Record Earnings Calm AI Fears, Lift Semiconductor Stocks",
-          "snippet": "",
-          "url": "https://www.chosun.com/english/industry-en/2025/11/21/6ZZVYNUD3BCE5JA6WXFKDYZWCQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Nvidia stock closes nearly 3% lower, wiping out post-earnings rally",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/20/nvidia-shares-rise-after-after-stronger-than-expected-3q-results.html",
-          "source": "CNBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "마이크론 주가",
       "trafficCount": "100+",
       "pubDate": "Thu, 20 Nov 2025 12:30:00 -0800",
@@ -109,34 +109,6 @@
           "snippet": "",
           "url": "https://simplywall.st/ko/stocks/us/semiconductors/nasdaq-mu/micron-technology/news/e8e4c02300b1ce9e",
           "source": "Simply Wall Street"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "나스닥 지수",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 20 Nov 2025 12:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzxDu_pGXBqSv79w_K6N1WC8ENelEzerWsTGodxZIR7paIwOgddhtcKEO98Rk",
-      "pictureSource": "Daum",
-      "relatedSearch": [
-        {
-          "title": "뉴욕증시, 젠슨 황도 못 구했다…기술주 투매에 동반 하락 마감",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20251121072700041",
-          "source": "Daum"
-        },
-        {
-          "title": "엔비디아 호실적에도 금리인하 물 건너가…미증시 일제↓ 나스닥 2%(상보)",
-          "snippet": "",
-          "url": "https://www.news1.kr/world/usa-canada/5983378",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[글로벌증시] 뉴욕증시 동반 급락…AI 거품론·금리인하 기대 '뚝'",
-          "snippet": "",
-          "url": "https://news.nate.com/view/20251121n02943",
-          "source": "네이트"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +161,10 @@
           "source": "Financial Times"
         },
         {
-          "title": "Big swings keep rocking Wall Street as S&P 500 erases a morning surge to fall",
+          "title": "Wall Street indexes end lower after sharp reversal, tech leads drop",
           "snippet": "",
-          "url": "https://www.koreatimes.co.kr/world/20251121/big-swings-keep-rocking-wall-street-as-sp-500-erases-a-morning-surge-to-fall",
-          "source": "The Korea Times"
+          "url": "https://www.reuters.com/business/us-stock-futures-jump-nvidia-results-ease-ai-bubble-concerns-2025-11-20/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +183,16 @@
           "source": "지디넷코리아"
         },
         {
-          "title": "'아이온2' 실망감에…엔씨소프트 주가 연일 하락",
+          "title": "\"게임 30분 하다가 지웠어요\"…실망한 개미들 결국 '피눈물' [종목+]",
           "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20251120_0003410457",
-          "source": "뉴시스"
+          "url": "https://www.hankyung.com/article/2025111937836",
+          "source": "한국경제"
         },
         {
-          "title": "엔씨 '아이온2', 빠른 개편·피드백 수용…'완전체'로 거듭날까",
+          "title": "필릭스·설윤 ‘아이온2’ 유사 프리셋 두고 ‘시끌’",
           "snippet": "",
-          "url": "https://v.daum.net/v/20251120154147588",
-          "source": "Daum"
+          "url": "https://sports.khan.co.kr/article/202511191556013",
+          "source": "스포츠경향"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.g-enews.com/article/Global-Biz/2025/11/202511210434312239906806b77b_1",
           "source": "글로벌이코노믹"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "qqq",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 20 Nov 2025 09:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqwi1S4KuOseB6DQ8DR4ilt0H4_JHW6arM4U4KY2f9F_SMWIm20qVRNK2a6xg",
+      "pictureSource": "The Motley Fool",
+      "relatedSearch": [
+        {
+          "title": "VOO vs. QQQ: Diversification Is the Key",
+          "snippet": "",
+          "url": "https://www.fool.com/coverage/etfs/2025/11/19/voo-vs-qqq-diversification-is-the-key/",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "VOO’s hidden twin delivers same returns for just $78",
+          "snippet": "",
+          "url": "https://rollingout.com/2025/11/18/voos-hidden-twin-delivers-for-just-78/",
+          "source": "Rolling Out"
+        },
+        {
+          "title": "Vanguard S&P 500 ETF (VOO) analysis: Which ETF is better, VOO or QQQ?",
+          "snippet": "",
+          "url": "https://www.markets.com/research/vanguard-s-and-p-500-etf-voo-analysis-which-etf-is-better-voo-or-qqq",
+          "source": "Markets.com"
         }
       ],
       "link": "https://imtaqin.id/"
