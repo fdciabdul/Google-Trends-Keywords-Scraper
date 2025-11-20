@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-11-20 10:16:36",
+  "lastUpdate": "2025-11-20 10:30:16",
   "data": [
     {
       "title": "wintereinbruch",
-      "trafficCount": "20000+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 20 Nov 2025 02:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsU8YYS3t6vp0u8HtyzwE8Q4EOr40PP8sDi2Vckz_-P11hVtQ2WMnqoe1xkc0",
-      "pictureSource": "Kronen Zeitung",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAE4Xxcv1OeSMPurkpggpLUBqaYHUcn2yEMynkRZt3ilJ6yUlkNwMGOOGQf4",
+      "pictureSource": "Wetter.at",
       "relatedSearch": [
-        {
-          "title": "Weiß bis ins Tal herab - Winter-Härtetest für Fahrzeuglenker im Schnee",
-          "snippet": "",
-          "url": "https://www.krone.at/3963249",
-          "source": "Kronen Zeitung"
-        },
         {
           "title": "Winter ist da: Schneewalze rollt über Österreich",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "Wetter.at"
         },
         {
-          "title": "Schneefälle in weiten Teilen Österreichs",
+          "title": "Frostiger Mittwoch, winterlicher Donnerstag: Das Wetter in Vorarlberg",
           "snippet": "",
-          "url": "https://www.oeamtc.at/news/schneefaelle-in-weiten-teilen-oesterreichs-40202295",
-          "source": "ÖAMTC"
+          "url": "https://www.vol.at/winter-erwischt-uns-eiskalt-minus-10-grad-dann-schneefall/9814193",
+          "source": "VOL.AT"
+        },
+        {
+          "title": "Kaltes Wetter im Anmarsch: Schnee in weiten Teilen Österreichs möglich",
+          "snippet": "",
+          "url": "https://www.derstandard.at/story/3000000297106/die-n228chsten-tage-werden-kalt-mit-schnee-bis-in-die-niederungen",
+          "source": "Der Standard"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,14 +61,14 @@
       "title": "russland",
       "trafficCount": "500+",
       "pubDate": "Wed, 19 Nov 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp8bURQb392XOtWRGoaJZP4AKUVEjqLAfiqVZNWwJfKz-UiACSuiaXjjk16Gs",
-      "pictureSource": "WELT",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwxYkZLYw7Q532zGMC16j1q5mVOTi9FmAqhpkybyN-lPZvlZO4WMLzHcXw0Hc",
+      "pictureSource": "tagesschau.de",
       "relatedSearch": [
         {
-          "title": "Ukraine-Krieg: ++ Streit über Ukraine-Pläne im Weißen Haus – Kellogg verlässt Regierung ++ Liveticker",
+          "title": "Europäer irritiert über angeblichen US-Friedensplan für Ukraine",
           "snippet": "",
-          "url": "https://www.welt.de/politik/ausland/article6916d3837c8e429597e3cf6f/ukraine-krieg-streit-ueber-ukraine-plaene-im-weissen-haus-kellogg-verlaesst-regierung-liveticker.html",
-          "source": "WELT"
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-friedensplan-eu-100.html",
+          "source": "tagesschau.de"
         },
         {
           "title": "Ukrainekrieg: USA unterbreiten Ukraine offenbar neuen Friedensplan",
@@ -77,10 +77,38 @@
           "source": "DIE ZEIT"
         },
         {
-          "title": "Ukraine-Sondergesandter der USA will wohl Trump-Regierung verlassen",
+          "title": "Kommentar: Trumps nächster Friedenscoup? Zu schön, um wahr zu sein",
           "snippet": "",
-          "url": "https://www.derstandard.at/jetzt/livebericht/3000000297189/ukraine-sondergesandter-der-usa-will-wohl-trump-regierung-verlasse",
-          "source": "Der Standard"
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-trumps-naechster-friedenscoup-zu-schoen-um-wahr-zu-sein/100176376.html",
+          "source": "Handelsblatt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter",
+      "trafficCount": "20000+",
+      "pubDate": "Wed, 19 Nov 2025 21:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdyEBX4vrq2slgot2KArf6GCicsTNm56p49sshwuVdvmP9ylaC_gNhtvHOkS8",
+      "pictureSource": "The Weather Channel",
+      "relatedSearch": [
+        {
+          "title": "Wintereinbruch: Schneewalze rollt nach Europa",
+          "snippet": "",
+          "url": "https://weather.com/de-DE/wetter/deutschland/news/2025-11-19-wintereinbruch-schneewalze-rollt-nach-europa",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Wetter morgen am Donnerstag: Frostige Nacht und Schnee bis in tiefe Lagen",
+          "snippet": "",
+          "url": "https://at.wetter.com/news/wetterbericht-fuer-morgen-donnerstag-20-november-2025-frostige-nacht-und-schnee-bis-in-tiefe-lagen_aid_691d73477639e2588909a6a4.html",
+          "source": "wetter.com"
+        },
+        {
+          "title": "Wetter-Schock in Deutschland: Minusgrade und Schnee bis auf 0 Meter",
+          "snippet": "",
+          "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101005308/winter-wetter-trifft-deutschland-schnee-bis-auf-0-metern-hoehe.html",
+          "source": "T-Online"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Wed, 19 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLC3JDbMe3Ke-UVoT4lq-CvENywISCf6jISQ55KkWxz1BOsP7P8ybP2fnRZLc",
-      "pictureSource": "The Daily Jagran",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe29s9O7Cqhazp2ar9Tp_dT6NNH8UYTJxnixOQBMT6-ydBHDZ5iBf0Sf2cVFU",
+      "pictureSource": "Weather & Radar USA",
       "relatedSearch": [
         {
-          "title": "Karnataka Weather Update: IMD Issues Rain Alert For Kodagu, Mysore, Other Districts Till Nov 20; Check Forecast For Bengaluru",
+          "title": "Daily briefing: Stormy southern Plains",
           "snippet": "",
-          "url": "https://www.thedailyjagran.com/india/karnataka-weather-update-imd-issues-rain-alert-for-kodagu-mysore-other-districts-till-nov-20-check-forecast-for-bengaluru-10280905",
-          "source": "The Daily Jagran"
+          "url": "https://www.weatherandradar.com/weather-news/daily-briefing-stormy-southern-plains--cd302441-d0e6-46a1-8ea4-f12adead1801",
+          "source": "Weather & Radar USA"
         },
         {
-          "title": "Bengaluru set for another day of light rain and traffic delays | Tap to know more | Inshorts",
+          "title": "Local weather for Nov. 20, 2025",
           "snippet": "",
-          "url": "https://inshorts.com/en/news/bengaluru-set-for-another-day-of-light-rain-and-traffic-delays-1763532384469",
-          "source": "Inshorts"
+          "url": "https://www.ourmidland.com/news/article/manistee-michigan-weather-nov-13-2025-21197323.php",
+          "source": "Midland Daily News"
         },
         {
-          "title": "Bengaluru weather: Sunny skies; AQI remains moderate",
+          "title": "LIVE Weather Updates -- Thursday, November 20, 2025",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/bengaluru/bangalore-weather-update-sunny-skies-and-moderate-air-quality-for-november-20-2025/articleshow/125450578.cms",
-          "source": "The Times of India"
+          "url": "https://www.conchovalleyhomepage.com/weather/live-weather-updates-thursday-november-20-2025/",
+          "source": "ConchoValleyHomepage.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +145,26 @@
       "title": "laumat",
       "trafficCount": "100+",
       "pubDate": "Wed, 19 Nov 2025 21:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3kh2JbyLazK99Uc2k7NinoQm2m7-feNrfWw2FpaoJZL9qPnoAvq3x1XNR7ns",
-      "pictureSource": "Kronen Zeitung",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3xmvY1tOGLdCpoJh3GV0c5uftMxfw5fnwEFBj4ZZMOQNi-h0HNPqkAx2gwUY",
+      "pictureSource": "ooe.ORF.at",
       "relatedSearch": [
         {
-          "title": "Im Nebel verschwunden - Drogen-Kunde wollte Hund auf „Dealer“ hetzen",
+          "title": "Aufsehenerregender Einbruch in Wels geklärt",
           "snippet": "",
-          "url": "https://www.krone.at/3963207",
-          "source": "Kronen Zeitung"
+          "url": "https://ooe.orf.at/stories/3330781/",
+          "source": "ooe.ORF.at"
         },
         {
-          "title": "Fahrradfahrer attackierte drei Personen",
+          "title": "Einbruch geklärt: Mit Mietauto wegen Geldnot bei Goldschmied eingebrochen",
           "snippet": "",
-          "url": "https://www.laumat.at/kurzmeldung/39578/",
+          "url": "https://www.laumat.at/medienbericht/39579/",
           "source": "laumat|at"
         },
         {
-          "title": "Radfahrer (32) wollte in Marchtrenk Drogen kaufen, attackierte 3 Männer und flüchtete",
+          "title": "Mini-Beute - Mit Mietauto aus Polen zum Rammbock-Coup nach Wels",
           "snippet": "",
-          "url": "https://www.nachrichten.at/oberoesterreich/marchtrenk-radfahrer-32-wollte-drogen-kaufen-attackierte-3-maenner-und-fluechtete;art4,4110161",
-          "source": "Oberösterreichische Nachrichten"
+          "url": "https://www.krone.at/3963412",
+          "source": "Kronen Zeitung"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,16 @@
           "source": "Der Standard"
         },
         {
-          "title": "Nathalie Benko klagte deutsche Verlage",
+          "title": "René Benko patzt Ex-Kanzler Gusenbauer an",
           "snippet": "",
-          "url": "https://tirol.orf.at/stories/3330667/",
-          "source": "tirol.ORF.at"
+          "url": "https://kurier.at/wirtschaft/rene-benko-patzt-ex-kanzler-gusenbauer-an/403104575",
+          "source": "Kurier"
         },
         {
-          "title": "Benko-Ehefrau geht gegen Medien gerichtlich vor",
+          "title": "300 Tage Knast: Benko zieht Ex-Kanzler Gusenbauer in Signa-Sumpf",
           "snippet": "",
-          "url": "https://www.vol.at/benko-ehefrau-geht-gegen-medien-gerichtlich-vor/9817529",
-          "source": "VOL.AT"
+          "url": "https://www.kosmo.at/300-tage-knast-benko-zieht-ex-kanzler-gusenbauer-in-signa-sumpf/",
+          "source": "KOSMO | Eine starke Verbindung!"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +201,26 @@
       "title": "ellen kessler zwillinge",
       "trafficCount": "500+",
       "pubDate": "Wed, 19 Nov 2025 20:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3tpuQYOv1N2TF9buhhE4z2lB_0nS-y_rOSm1im12Dc7jqmh9il2maFPVX6M",
-      "pictureSource": "Kurier",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCiEwXE4izG_TlxoOg3klrwuzT0XjUN7nbMPJ1cBppySqA3OZfvO-Ye3PMGD0",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Testamentsänderung der Kessler-Zwillinge: Wer nun ihr Vermögen bekommt",
+          "title": "Alice and Ellen Kessler, ’60s Singing Sensations, Die at 89",
           "snippet": "",
-          "url": "https://kurier.at/stars/testamentaenderung-kessler-zwillinge-vermoegen-erbe/403104420",
-          "source": "Kurier"
+          "url": "https://www.nytimes.com/2025/11/19/arts/alice-ellen-kessler-dead.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Assistierter Suizid: Warum die Kesslers mit ihrem Tod auch politische Diskussionen auslösen",
+          "title": "Entertainment duo the Kessler twins die by assisted suicide, aged 89",
           "snippet": "",
-          "url": "https://www.kleinezeitung.at/politik/aussenpolitik/20323762/warum-die-kesslers-mit-ihrem-tod-auch-politische-diskussionen-ausloesen",
-          "source": "Kleine Zeitung"
+          "url": "https://edition.cnn.com/2025/11/18/entertainment/kessler-twins-die-assisted-suicide-intl-scli",
+          "source": "CNN"
         },
         {
-          "title": "Ein letzter Brief: Was die Kessler-Zwillinge Carolin Reiber hinterließen",
+          "title": "See the Kessler twins' impact on entertainment in the post World War II era",
           "snippet": "",
-          "url": "https://www.vol.at/erst-am-18-november-oeffnen-reiber-ueber-letzten-brief-der-kesslers/9815657",
-          "source": "VOL.AT"
+          "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2025/11/18/kessler-twins-photos/87333555007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "wien.ORF.at"
         },
         {
+          "title": "Störung in Simmering - Nach Wärme-Blackout: Versorgung läuft wieder an",
+          "snippet": "",
+          "url": "https://www.krone.at/3963445",
+          "source": "Kronen Zeitung"
+        },
+        {
           "title": "News aus Wien: Fernwärme-Chaos, Sparkurs und fehlender Zebrastreifen",
           "snippet": "",
           "url": "https://www.meinbezirk.at/wien/c-lokales/fernwaerme-chaos-sparkurs-und-fehlender-zebrastreifen_a7840379",
           "source": "MeinBezirk.at"
-        },
-        {
-          "title": "25.000 Haushalte in Wien derzeit ohne Fernwärme",
-          "snippet": "",
-          "url": "https://www.derstandard.at/story/3000000297153/25000-haushalte-in-wien-derzeit-ohne-fernw228rme",
-          "source": "Der Standard"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.nachrichten.at/panorama/society/bekannt-aus-tatort-und-polizeiruf-110-felix-eitner-starb-mit-58-jahren;art411,4109003",
           "source": "Oberösterreichische Nachrichten"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "geizhals",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 19 Nov 2025 15:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRq8zo-TQ5eLVOD8KrGqBjFLdjBJGJkRoiiyCtZLA76iK6Y2Fv55p8T4MZB-o",
-      "pictureSource": "About Amazon Deutschland",
-      "relatedSearch": [
-        {
-          "title": "Amazon Black Friday Woche 2025: Die besten Deals ab heute!",
-          "snippet": "",
-          "url": "https://www.aboutamazon.de/news/amazon-prime-und-shopping/black-friday-2025-angebote",
-          "source": "About Amazon Deutschland"
-        },
-        {
-          "title": "Black-Friday-Week: Geizhals-Analyse zeigt, was wirklich billiger wird",
-          "snippet": "",
-          "url": "https://futurezone.at/produkte/black-friday-week-angebote-wirklich-sparen-geizhals-analys/403104503",
-          "source": "Futurezone"
-        },
-        {
-          "title": "Manches ein Drittel billiger – Geschenke deutlich günstiger: Mega-Chance nächste Woche",
-          "snippet": "",
-          "url": "https://www.heute.at/s/geschenke-deutlich-guenstiger-mega-chance-naechste-woche-120145029",
-          "source": "Heute"
         }
       ],
       "link": "https://imtaqin.id/"
