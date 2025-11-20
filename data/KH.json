@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2025-11-20 05:32:36",
+  "lastUpdate": "2025-11-20 05:41:43",
   "data": [
     {
       "title": "us",
       "trafficCount": "100+",
       "pubDate": "Wed, 19 Nov 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStBoCwVuHEtbj84T48i_wRzLy0dewMq6dd53b7oEt88E6lvRdxwK5u_NAFi3w",
-      "pictureSource": "The Washington Post",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8oz4dKwqMk6YD519zGsVZEhrJCUZXKIqj3_l13Zj8geHlc4agPWa4jYSzUU",
+      "pictureSource": "AP News",
       "relatedSearch": [
-        {
-          "title": "Border Patrol is monitoring US drivers and detaining those with 'suspicious' travel patterns",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/business/2025/11/20/immigration-border-patrol-surveillance-drivers-ice-trump/dca37848-c5cf-11f0-be23-3ccb704f61ac_story.html",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "Takeaways from AP report on how Border Patrol monitors US drivers for 'suspicious' travel",
-          "snippet": "",
-          "url": "https://www.newsday.com/news/nation/immigration-border-patrol-surveillance-drivers-trump-takeaways-u97887",
-          "source": "Newsday"
-        },
         {
           "title": "Secretive Border Patrol program is detaining US citizens for ‘suspicious’ travel",
           "snippet": "",
           "url": "https://apnews.com/video/secretive-border-patrol-program-is-detaining-us-citizens-for-suspicious-travel-e9a5b18d7861429f8d928b9cc7d91bd7",
           "source": "AP News"
+        },
+        {
+          "title": "Border Patrol is monitoring US drivers and detaining those with 'suspicious' travel patterns",
+          "snippet": "",
+          "url": "https://www.mankatofreepress.com/news/state_national_news/border-patrol-is-monitoring-us-drivers-and-detaining-those-with-suspicious-travel-patterns/article_8bffe7e4-49f8-515d-a957-a52b129b8f23.html",
+          "source": "Mankato Free Press"
+        },
+        {
+          "title": "Takeaways from AP report on how Border Patrol monitors US drivers for ‘suspicious’ travel",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/business/2025/11/20/immigration-border-patrol-surveillance-drivers-trump-takeaways/4fbaed98-c5d0-11f0-be23-3ccb704f61ac_story.html",
+          "source": "The Washington Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tesla",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 19 Nov 2025 20:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5rQaqZTJyFEVQjk-MCBHn1v40ipI3cjnicMEB29371Mo7Cv03ZrKL0ZxHciw",
+      "pictureSource": "Teslarati",
+      "relatedSearch": [
+        {
+          "title": "Tesla celebrates 75k Superchargers, less than 5 months since 70k-stall milestone",
+          "snippet": "",
+          "url": "https://www.teslarati.com/tesla-celebrates-75k-superchargers-less-than-five-months-since-70k-milestone/",
+          "source": "Teslarati"
+        },
+        {
+          "title": "Tesla Hits 75,000 Superchargers With Rare ‘Glacier Blue’ Stall In Tasmania",
+          "snippet": "",
+          "url": "https://evxl.co/de/2025/11/19/tesla-75000-superchargers-glacier-blue-tasmania/",
+          "source": "evxl.co"
+        },
+        {
+          "title": "Tesla opens its 75,000th supercharger stall – in Australia, with a celebratory colour",
+          "snippet": "",
+          "url": "https://thedriven.io/2025/11/20/tesla-opens-its-75000th-supercharger-stall-in-australia-with-a-celebratory-colour/",
+          "source": "The Driven"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "global",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 19 Nov 2025 20:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDtMKqiiLnOzVsGv7wOWlQ54p_ort8SruQugDcXAd7mpYgg5gzaUGMgU9OgCc",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Trump’s Tariffs Sent Trade Plummeting in August",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/11/19/us/politics/trumps-tariffs-trade-data.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "U.S. trade deficit dropped nearly 24% in August as Trump’s tariffs reduce imports",
+          "snippet": "",
+          "url": "https://www.pbs.org/newshour/economy/u-s-trade-deficit-dropped-nearly-24-in-august-as-trumps-tariffs-reduce-imports",
+          "source": "PBS"
+        },
+        {
+          "title": "Trade Deficit Declined in August, Delayed Figures Show",
+          "snippet": "",
+          "url": "https://www.wsj.com/economy/trade/trade-deficit-declined-in-august-delayed-figures-show-dc6c58e1?gaa_at=eafs&gaa_n=AWEtsqeXW0ASPEQGR79tdSXkbphLnHTV16ArDxA_L2t2RXgySvp8hpQTvxkx&gaa_ts=691ead9b&gaa_sig=kS8jpo3LCLKVvc3E1U7vVWgHoLuNCIE8cExxQP10bGOAcO2JqotTHJ3dRroPtet_8R04YZZyBhyXrDXu6kqcyQ%3D%3D",
+          "source": "The Wall Street Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,9 +105,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stocks making the biggest moves after hours: Nvidia, Palo Alto Networks, Oddity Tech, AMD and more",
+          "title": "Nvidia shares rise on stronger-than-expected revenue, forecast",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/19/stocks-making-the-biggest-moves-after-hours-nvda-panw-odd-amd.html",
+          "url": "https://www.cnbc.com/2025/11/19/nvidia-nvda-earnings-report-q3-2026.html",
           "source": "CNBC"
         }
       ],
