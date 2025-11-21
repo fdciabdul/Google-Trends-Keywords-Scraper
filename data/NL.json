@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-21 11:47:28",
+  "lastUpdate": "2025-11-21 11:54:22",
   "data": [
     {
       "title": "rock werchter 2026",
@@ -87,7 +87,7 @@
     },
     {
       "title": "paul van gorcum",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Fri, 21 Nov 2025 02:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_fCTScmpmHgwkb5sILBmWP4800U1JM1UEZwkNnJSy6cZlulsm_J2Vuf4xRw",
       "pictureSource": "NU",
@@ -143,7 +143,7 @@
     },
     {
       "title": "rene karst",
-      "trafficCount": "50000+",
+      "trafficCount": "100000+",
       "pubDate": "Fri, 21 Nov 2025 02:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCqOwAgJA5-Q5o0Kr8XovyNVbrbK1rJEzOLgC-mL5a6mjAUCCyMuDaXFsxqOE",
       "pictureSource": "NU",
@@ -201,15 +201,9 @@
       "title": "eric clapton",
       "trafficCount": "1000+",
       "pubDate": "Fri, 21 Nov 2025 01:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpDblgw9WWBBsbhLMP3k-_C57L095uO5BdU4Ls3k_12wzbgwBq-p8aRKzuw80",
-      "pictureSource": "Het Financieele Dagblad",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5qnxrjG9ybDy8fCy_wvFrbwGI3R2SuxVn3s-OjLSVwva8fgeWvoCGgS9rXeo",
+      "pictureSource": "RTL.nl",
       "relatedSearch": [
-        {
-          "title": "Optimisme over AI was van korte duur op Wall Street",
-          "snippet": "",
-          "url": "https://fd.nl/financiele-markten/1578171/optimisme-over-ai-was-van-korte-duur-op-wall-street",
-          "source": "Het Financieele Dagblad"
-        },
         {
           "title": "Platenmaatschappij verslagen door overlijden René Karst",
           "snippet": "",
@@ -217,9 +211,15 @@
           "source": "RTL.nl"
         },
         {
-          "title": "LIVE | Europese beurzen openen lager na verliezen op Wall Street",
+          "title": "Live: AEX duikt 1,5% lager bij opening, vooral chipnamen dalen",
           "snippet": "",
-          "url": "https://www.telegraaf.nl/financieel/live-europese-beurzen-openen-lager-na-verliezen-op-wall-street/106508986.html",
+          "url": "https://fd.nl/financiele-markten/1578172/live-rake-klappen-voor-japanse-en-koreaanse-beurzen",
+          "source": "Het Financieele Dagblad"
+        },
+        {
+          "title": "LIVE | AI-wolk rond Nvida knapt, Wall Street zakt diep in rode cijfers weg",
+          "snippet": "",
+          "url": "https://www.telegraaf.nl/financieel/live-ai-wolk-rond-nvida-knapt-wall-street-zakt-diep-in-rode-cijfers-weg/106078010.html",
           "source": "De Telegraaf"
         }
       ],
@@ -257,20 +257,20 @@
       "title": "aex",
       "trafficCount": "200+",
       "pubDate": "Fri, 21 Nov 2025 00:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEa9i81IHtMzJR4gwY7SZHWRafck_ZzXKixhSNMgdJHIeSppfvxMiXxBQAR9E",
-      "pictureSource": "Het Financieele Dagblad",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9HqxZGvgISCW3kt0rwP3f_RYDMhCjS8_G3wk-dGnA3cd3RdX-ePSNSwfjxLk",
+      "pictureSource": "De Telegraaf",
       "relatedSearch": [
-        {
-          "title": "Live: AEX levert in, vooral chipnamen dalen",
-          "snippet": "",
-          "url": "https://fd.nl/financiele-markten/1578172/live-rake-klappen-voor-japanse-en-koreaanse-beurzen",
-          "source": "Het Financieele Dagblad"
-        },
         {
           "title": "LIVE | Techfondsen zakken verder weg en duwen AEX onder de 125 punten",
           "snippet": "",
           "url": "https://www.telegraaf.nl/financieel/live-techfondsen-zakken-verder-weg-en-duwen-aex-onder-de-125-punten/106508986.html",
           "source": "De Telegraaf"
+        },
+        {
+          "title": "AEX-index hard omlaag na terugkeer AI-zorgen op Wall Street",
+          "snippet": "",
+          "url": "https://nieuws.nl/economie/aex-index-hard-omlaag-na-terugkeer-ai-zorgen-op-wall-street",
+          "source": "Nieuws.nl"
         },
         {
           "title": "Chippers trekken AEX stevig in het rood",
