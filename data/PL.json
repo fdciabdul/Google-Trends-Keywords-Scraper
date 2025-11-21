@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-11-21 05:22:18",
+  "lastUpdate": "2025-11-21 05:34:03",
   "data": [
-    {
-      "title": "pogoda kraków",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 20 Nov 2025 21:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Rk2EGCTkA4chSn4CzumkzW2xpa8ju0jxY8V2hMAELLpK-A4dsB9zc6YJuEA",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Wrocław: Jaka pogoda na dziś? Prognoza w dniu 21.11.2025",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-21112025/641jcb0",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Pogoda w Tuszynie jutro. Jaka będzie pogoda w piątek, 21.11 w Tuszynie?",
-          "snippet": "",
-          "url": "https://tuszyn.naszemiasto.pl/pogoda-w-tuszynie-jutro-jaka-bedzie-pogoda-w-piatek-21-11-w-tuszynie/ar/c1p1-19943789",
-          "source": "Tuszyn Nasze Miasto"
-        },
-        {
-          "title": "Pierwszy śnieg już w ten weekend we Wrocławiu? Prognoza pogody (21-23 listopada)",
-          "snippet": "",
-          "url": "https://www.wroclaw.pl/dla-mieszkanca/kiedy-snieg-we-wroclawiu-pogoda-na-weekend-21-22-23-listopad-2025-prognoza",
-          "source": "Wroclaw.pl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "rmf24",
       "trafficCount": "100+",
@@ -49,10 +21,10 @@
           "source": "Onet Wiadomości"
         },
         {
-          "title": "Duży pożar pod Krakowem. Do akcji zaangażowano 80 strażaków",
+          "title": "Duży pożar warsztatu w Skale. Ponad 80 strażaków w akcji",
           "snippet": "",
-          "url": "https://www.onet.pl/informacje/onetkrakow/duzy-pozar-pod-krakowem-do-akcji-zaangazowano-80-strazakow/39nsk70,79cfc278",
-          "source": "Onet"
+          "url": "https://www.rmf24.pl/regiony/krakow/news-duzy-pozar-warsztatu-w-skale-ponad-80-strazakow-w-akcji,nId,8042569",
+          "source": "RMF24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +43,44 @@
           "source": "Wydarzenia Interia"
         },
         {
-          "title": "Atak zimy w Polsce w piątek, 21.11. Śnieżyce na południu, a jaka aura na Kujawach i Pomorzu?",
+          "title": "Zacznie się 21 listopada. Polacy muszą uważać",
           "snippet": "",
-          "url": "https://bydgoszcz.tvp.pl/90117064/-atak-zimy-w-polsce-sniezyce-na-poludniu-w-regionie-mroz-tvp3-bydgoszcz",
-          "source": "TVP Bydgoszcz"
+          "url": "https://www.o2.pl/pogoda/zacznie-sie-21-listopada-polacy-musza-uwazac-7224116966857216a",
+          "source": "o2.pl"
         },
         {
           "title": "To będzie wielogodzinna śnieżyca. W tych rejonach Polski sypnie najmocniej",
           "snippet": "",
           "url": "https://www.onet.pl/informacje/onetwiadomosci/potezna-sniezyca-w-piatek-nad-polska-w-tych-regionach-uderzy-najmocniej/7bs8ls4,79cfc278",
           "source": "Onet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda nowy sącz",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 20 Nov 2025 20:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6bf3ZV7NTP3vAtBQ3cx3KnRybk9zqgbuRiPG3bjs3GdqIuJ28vK9lYCZUG5c",
+      "pictureSource": "Sądeczanin.info",
+      "relatedSearch": [
+        {
+          "title": "Nadchodzi zima. Synoptycy ostrzegają. Numery alarmowe w Nowym Sączu",
+          "snippet": "",
+          "url": "https://sadeczanin.info/wiadomosci/nadchodzi-zima-synoptycy-ostrzegaja-numery-alarmowe-w-nowym-saczu",
+          "source": "Sądeczanin.info"
+        },
+        {
+          "title": "Prognoza pogody na jutro 21.11 dla Nowego Sącza. Jaka będzie temperatura w piątek?",
+          "snippet": "",
+          "url": "https://nowysacz.naszemiasto.pl/prognoza-pogody-na-jutro-21-11-dla-nowego-sacza-jaka-bedzie-temperatura-w-piatek/ar/c1p1-19942949",
+          "source": "Nowy Sącz Nasze Miasto"
+        },
+        {
+          "title": "Wyciągajmy ciepłe kurtki! Tutaj już spadł śnieg, Nowy Sącz następny",
+          "snippet": "",
+          "url": "https://sadeczanin.info/wiadomosci/wyciagajmy-cieple-kurtki-tutaj-juz-spadl-snieg-nowy-sacz-nastepny",
+          "source": "Sądeczanin.info"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +117,9 @@
       "title": "skoki narciarskie",
       "trafficCount": "200+",
       "pubDate": "Thu, 20 Nov 2025 20:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkXiIWUGHjm5Gf3OJc77zoum4L9A1qgyciwMyR81WraDzC3cLmTlGjJ3fwsrg",
-      "pictureSource": "SportoweFakty",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyj9F888ukD90Xz9KEBEYfJrGgTyu5Rglo9uFM78_pZAW9dIZJ9G53eypdOk",
+      "pictureSource": "TVN24",
       "relatedSearch": [
-        {
-          "title": "To będzie następca Kamila Stocha? Jego cel na sezon zaskoczy wszystkich",
-          "snippet": "",
-          "url": "https://sportowefakty.wp.pl/skoki-narciarskie/1218699/to-bedzie-nastepca-kamila-stocha-jego-cel-na-sezon-zaskoczy-wszystkich",
-          "source": "SportoweFakty"
-        },
         {
           "title": "Pierwszy skoczek chce do MMA. \"Jestem otwarty\"",
           "snippet": "",
@@ -133,10 +127,16 @@
           "source": "TVN24"
         },
         {
-          "title": "Kiedy skoki narciarskie? Puchar świata 2025/2026 w skokach. Terminarz",
+          "title": "Sezon pod znakiem igrzysk i pożegnania Stocha. Puchar Świata czas zacząć",
           "snippet": "",
-          "url": "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie/kiedy-skoki-narciarskie-puchar-swiata-20252026-w-skokach-terminarz/msqtvsc",
-          "source": "Przegląd Sportowy Onet"
+          "url": "https://eurosport.tvn24.pl/skoki-narciarskie/lillehammer/2025-2026/rusza-47.-edycja-pucharu-swiata-w-skokach-narciarskich.-kto-z-polakow-wystartuje-w-lillehammer-kiedy-zawody-gdzie-ogladac_sto23242827/story.shtml",
+          "source": "Eurosport Polska"
+        },
+        {
+          "title": "To będzie następca Kamila Stocha? Jego cel na sezon zaskoczy wszystkich",
+          "snippet": "",
+          "url": "https://sportowefakty.wp.pl/skoki-narciarskie/1218699/to-bedzie-nastepca-kamila-stocha-jego-cel-na-sezon-zaskoczy-wszystkich",
+          "source": "SportoweFakty"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -191,8 +191,8 @@
         {
           "title": "Down 30% From Its High, Is Now the Time to Add Bitcoin to Your Portfolio?",
           "snippet": "",
-          "url": "https://www.fool.com/investing/2025/11/20/down-30-from-high-is-now-the-time-to-add-btc/",
-          "source": "The Motley Fool"
+          "url": "https://www.aol.com/articles/down-30-high-now-time-041157740.html",
+          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +217,10 @@
           "source": "About Amazon"
         },
         {
-          "title": "Everything to know about Black Friday 2025: Where and when to shop sales",
+          "title": "65+ best Black Friday deals 2025: Apple, Kindle, Ninja on sale",
           "snippet": "",
-          "url": "https://www.usatoday.com/story/money/shopping/2025/11/19/black-friday-shopping-2025-what-to-know/87352797007/",
-          "source": "USA Today"
+          "url": "https://mashable.com/article/best-early-black-friday-2025-deals",
+          "source": "Mashable"
         }
       ],
       "link": "https://imtaqin.id/"
