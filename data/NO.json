@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-21 23:51:56",
+  "lastUpdate": "2025-11-21 23:58:44",
   "data": [
     {
       "title": "budstikka",
@@ -21,9 +21,9 @@
           "source": "fvn.no"
         },
         {
-          "title": "Her er sesongens første skispor klart - Anders var først",
+          "title": "Ski, Langrenn | Slik vil Bærum prioritere løypepreparering i vinter",
           "snippet": "",
-          "url": "https://www.budstikka.no/her-er-sesongens-forste-skispor-klart/s/5-55-2146709",
+          "url": "https://www.budstikka.no/slik-vil-barum-prioritere-loypepreparering-i-vinter/s/5-55-2142593",
           "source": "Budstikka"
         }
       ],
@@ -71,16 +71,16 @@
           "source": "VG"
         },
         {
-          "title": "Niklas Baarli har mistet faren",
-          "snippet": "",
-          "url": "https://www.tv2.no/aktualitet/niklas-baarli-har-mistet-faren/18313240/",
-          "source": "TV2.no"
-        },
-        {
           "title": "Niklas Baarli i sorg: Mistet faren",
           "snippet": "",
           "url": "https://www.dagbladet.no/kjendis/i-sorg-mistet-faren/83886395",
           "source": "Dagbladet"
+        },
+        {
+          "title": "Niklas Baarli har mistet faren",
+          "snippet": "",
+          "url": "https://www.tv2.no/aktualitet/niklas-baarli-har-mistet-faren/18313240/",
+          "source": "TV2.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "The New Yorker"
         },
         {
-          "title": "Wicked: For Good review: This 'emotionally soaring' sequel is 'more captivating' than the first film",
+          "title": "'Wicked: For Good' Review: Cynthia Erivo and Ariana Grande Back in Oz",
           "snippet": "",
-          "url": "https://www.bbc.com/culture/article/20251118-wicked-for-good-review",
-          "source": "BBC"
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/wicked-for-good-review-cynthia-erivo-ariana-grande-musical-1236426337/",
+          "source": "The Hollywood Reporter"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +145,15 @@
       "title": "eliteserien",
       "trafficCount": "500+",
       "pubDate": "Fri, 21 Nov 2025 12:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZAMsSUSt4jbCXgFldN18VAdwWpjzD8AXc97-nHYbf_XROqihoAtlNr3d1Nd4",
-      "pictureSource": "Eliteserien",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREEEk4B_3VEmBGONIlbniMQ_W9VaO9at2v4uxE7N3ZsozoSAJXkWVZ8BFJjd4",
+      "pictureSource": "Nettavisen",
       "relatedSearch": [
+        {
+          "title": "Kjetil Knutsen før KFUM-kampen: – Dummeste jeg noen gang har hørt",
+          "snippet": "",
+          "url": "https://www.nettavisen.no/sport/kjetil-knutsen-reagerer-for-gulldrama-dummeste-jeg-noen-gang-har-hort/s/5-95-2741654",
+          "source": "Nettavisen"
+        },
         {
           "title": "Speideren anbefaler - runde 29",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.an.no/sykdom-stopper-glimt-stjerne/s/5-4-2282741",
           "source": "Avisa Nordland"
-        },
-        {
-          "title": "Stjerner ute – han erstatter Hauge for Bodø/Glimt",
-          "snippet": "",
-          "url": "https://www.tv2.no/direkte/0nr51/sportsdognet-live/692099c87cca744feee5baac/stjerner-ute-han-erstatter-hauge-for-bodoglimt",
-          "source": "TV2.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,9 +226,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "forræder",
+      "title": "vglive.no",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 21 Nov 2025 10:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTajfiGsCf-tk28x7VE1axwTKLKit6LfwBSzalM9amAAqIzwBZ7-TMzd0XcwjU",
+      "pictureSource": "VG",
+      "relatedSearch": [
+        {
+          "title": "NFF-toppens VM-nerver: –⁠ Helt enorme forskjeller",
+          "snippet": "",
+          "url": "https://www.vg.no/sport/i/WvlOOg/enorme-forskjeller-i-fotball-vm-alt-er-ekstremt-usikkert-for-nff",
+          "source": "VG"
+        },
+        {
+          "title": "Reisefeber til VM: Dansk og svensk kollaps er godt nytt for lommeboka",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/innenriks/dansk-og-svensk-kollaps-er-godt-nytt-for-lommeboka/18300973/",
+          "source": "TV2.no"
+        },
+        {
+          "title": "Sportsstudio - Norge står stille på Fifa-rankingen – slik blir VM-seedingen",
+          "snippet": "",
+          "url": "https://www.aftenbladet.no/sport/i/dnbwzA/aftenbladets-sportsstudio?pinnedEntry=289719",
+          "source": "Stavanger Aftenblad"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tor håkon håvardsen",
       "trafficCount": "5000+",
-      "pubDate": "Fri, 21 Nov 2025 11:20:00 -0800",
+      "pubDate": "Fri, 21 Nov 2025 09:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3EVu_kRw3AlauVo_tX_5O3eGUybVIWEu2oFpLsIk8dotTLyuQfNLpOoqXn30",
       "pictureSource": "TV2.no",
       "relatedSearch": [
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.seher.no/kjendis/uteblir/83885658",
           "source": "Seoghør.no"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vglive.no",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 21 Nov 2025 10:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTajfiGsCf-tk28x7VE1axwTKLKit6LfwBSzalM9amAAqIzwBZ7-TMzd0XcwjU",
-      "pictureSource": "VG",
-      "relatedSearch": [
-        {
-          "title": "NFF-toppens VM-nerver: –⁠ Helt enorme forskjeller",
-          "snippet": "",
-          "url": "https://www.vg.no/sport/i/WvlOOg/enorme-forskjeller-i-fotball-vm-alt-er-ekstremt-usikkert-for-nff",
-          "source": "VG"
-        },
-        {
-          "title": "Reisefeber til VM: Dansk og svensk kollaps er godt nytt for lommeboka",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/innenriks/dansk-og-svensk-kollaps-er-godt-nytt-for-lommeboka/18300973/",
-          "source": "TV2.no"
-        },
-        {
-          "title": "VM-prissjokk: 140 000 kroner",
-          "snippet": "",
-          "url": "https://sol.no/reise/vm-prissjokk-140-000-kroner/83875730",
-          "source": "Sol.no samler de viktigste nyhetene for deg!"
         }
       ],
       "link": "https://imtaqin.id/"
