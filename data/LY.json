@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-11-23 13:11:36",
+  "lastUpdate": "2025-11-23 13:24:31",
   "data": [
     {
       "title": "ريال أوفييدو ضد رايو فاليكانو",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 23 Nov 2025 04:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx07kpsdrF0iDTg8IrQhnq6lareonBaJwCK6V_EetWKOAhYMG8WLJPa2bLSBo",
       "pictureSource": "القاهرة 24",
@@ -61,26 +61,54 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Sat, 22 Nov 2025 20:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBjR_6tAxZAXFvjalGFEzZMcSIhNVh70wHN2nn-TyKNmFXCW8C4Sdi2c0sobc",
-      "pictureSource": "CBS News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOntRyAHgLm1n8ZVq4mWEeVVpmG-LZvJuFS0eFkYGCRor5iFQD0TgVQWmCuvI",
+      "pictureSource": "The Washington Post",
       "relatedSearch": [
         {
-          "title": "Today is a WCCO Top 10 Weather Day; turning old and wet by midweek",
+          "title": "CWG Live: Increasing sun today; rain chances return Tuesday. Colder by Turkey Day.",
           "snippet": "",
-          "url": "https://www.cbsnews.com/minnesota/news/today-is-a-wcco-top-10-weather-day-turning-old-and-wet-by-midweek/",
-          "source": "CBS News"
+          "url": "https://www.washingtonpost.com/weather/2025/11/23/dc-weather-live-updates-rain-tuesday-thanksgiving/",
+          "source": "The Washington Post"
         },
         {
-          "title": "Weather: Decrease in Temperature with Hot and Dry Conditions Remaining",
+          "title": "A dry day today and tomorrow with a change mid-week!",
           "snippet": "",
-          "url": "https://www.sadanews.ps/en/news/251919.html",
-          "source": "وكالة صدى نيوز"
+          "url": "https://www.wsls.com/weather/2025/11/23/a-dry-day-today-and-tomorrow-with-a-change-mid-week/",
+          "source": "WSLS"
         },
         {
-          "title": "Weather Conditions: Clear and Relatively Hot Weather",
+          "title": "Clouds return with light showers Monday and Tuesday",
           "snippet": "",
-          "url": "https://www.sadanews.ps/en/news/251696.html",
-          "source": "وكالة صدى نيوز"
+          "url": "https://www.mystateline.com/weather/clouds-return-with-light-showers-monday-and-tuesday/",
+          "source": "MyStateline"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 22 Nov 2025 20:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCUTqe8JLj2NizQxbP8hJs2cSnWqZljV05tJf38rZ4r7WI6DJiPy0aMryP7B0",
+      "pictureSource": "اليوم السابع",
+      "relatedSearch": [
+        {
+          "title": "حالة الطقس.. انخفاض حاد يصل إلى 10 درجات مئوية بداية من الإثنين",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2025/11/22/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%AD%D8%A7%D8%AF-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-10-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D9%85%D8%A6%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9/7206480",
+          "source": "اليوم السابع"
+        },
+        {
+          "title": "«الأرصاد» توضح تفاصيل فرص سقوط الأمطار حتى الثلاثاء المقبل",
+          "snippet": "",
+          "url": "https://akhbarelyom.com/news/newdetails/4729247/1/-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%88%D8%B6%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%81%D8%B1%D8%B5-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%AD%D8%AA",
+          "source": "بوابة أخبار اليوم الإلكترونية"
+        },
+        {
+          "title": "تحذير من الأرصاد بشأن طقس الغد.. تقلبات جوية قوية وأمطار تصل إلى حد السيول | عاجل",
+          "snippet": "",
+          "url": "https://www.elwatannews.com/news/details/8178591",
+          "source": "الوطن"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +127,16 @@
           "source": "المصري اليوم"
         },
         {
+          "title": "شبورة كثيفة لمدة 10 ساعات تحذر منها الأرصاد في 23 نوفمبر 2025",
+          "snippet": "",
+          "url": "https://eahelqesa.com/13156/%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-10-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D8%B1/",
+          "source": "مانشيت"
+        },
+        {
           "title": "الأرصاد: سقوط أمطار اليوم.. وانخافض درجات الحرارة من الاثنين",
           "snippet": "",
           "url": "https://daaarb.com/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%B3%D9%82%D9%88%D8%B7-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%88%D8%A7%D9%86%D8%AE%D8%A7%D9%81%D8%B6-%D8%AF%D8%B1%D8%AC%D8%A7/",
           "source": "درب"
-        },
-        {
-          "title": "صور الأقمار الصناعية.. ارتفاع بالحرارة اليوم والعظمى بالقاهرة 32 درجة",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2025/11/23/%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%88%D8%A7%D9%84%D8%B9%D8%B8%D9%85%D9%89-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-32-%D8%AF%D8%B1%D8%AC%D8%A9/7207567",
-          "source": "اليوم السابع"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "Kooora"
         },
         {
+          "title": "نابولي يخطف صدارة الدوري الإيطالي",
+          "snippet": "",
+          "url": "https://al24news.dz/%D9%86%D8%A7%D8%A8%D9%88%D9%84%D9%8A-%D9%8A%D8%AE%D8%B7%D9%81-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A/",
+          "source": "AL24 News"
+        },
+        {
           "title": "نابولي يتصدر الدوري الإيطالي.. فيورنتينا يفرض التعادل على يوفنتوس | التلفزيون العربي",
           "snippet": "",
           "url": "https://www.alaraby.com/news/%D9%86%D8%A7%D8%A8%D9%88%D9%84%D9%8A-%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%81%D9%8A%D9%88%D8%B1%D9%86%D8%AA%D9%8A%D9%86%D8%A7-%D9%8A%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B9%D9%84%D9%89-%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3",
           "source": "التلفزيون العربي"
-        },
-        {
-          "title": "سحر كونتي يُعاقب أتلانتا: انتفاضة نابولي تضيء مدرجات مارادونا",
-          "snippet": "",
-          "url": "https://elmanshar.com/2025/11/23/%D8%B3%D8%AD%D8%B1-%D9%83%D9%88%D9%86%D8%AA%D9%8A-%D9%8A%D9%8F%D8%B9%D8%A7%D9%82%D8%A8-%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D8%A7-%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9-%D9%86%D8%A7%D8%A8%D9%88/",
-          "source": "موقع المنشر الاخبارى"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.mc-doualiya.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20251122-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%B3%D8%A7%D9%86-%D8%AC%D8%B1%D9%85%D8%A7%D9%86-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B5%D8%AD%D9%88%D8%AA%D9%87-%D9%88%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%88%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D9%82%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D9%85%D9%88%D9%86%D8%A7%D9%83%D9%88-%D9%8A%D9%88%D9%85-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A8%D9%88%D8%BA%D8%A8%D8%A7",
           "source": "مونت كارلو الدولية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الدوري الايطالي",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 22 Nov 2025 11:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXH5R-u3HyFfFct4H_qxT98bs3C0kbA6qTJHv7X9KX7u9y2F_IQmxL2vVo86s",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "الذكاء الاصطناعي يتوقع نتيجة ديربي الغضب",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D9%82%D8%B9-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%AF%D9%8A%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%BA%D8%B6%D8%A8/bltf9990ac81b521ce1",
-          "source": "Kooora"
-        },
-        {
-          "title": "الليلة.. قمة كروية بين ميلان والإنتر في ديربي الدوري الإيطالي",
-          "snippet": "",
-          "url": "https://alwasat.ly/news/international-sports/498933",
-          "source": "بوابة الوسط"
-        },
-        {
-          "title": "أليغري يفجرها: رفضت تدريب ريال مدريد",
-          "snippet": "",
-          "url": "https://24.ae/article/931539/%D8%A3%D9%84%D9%8A%D8%BA%D8%B1%D9%8A-%D9%8A%D9%81%D8%AC%D8%B1%D9%87%D8%A7-%D8%B1%D9%81%D8%B6%D8%AA-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF",
-          "source": "موقع 24"
         }
       ],
       "link": "https://imtaqin.id/"
