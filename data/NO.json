@@ -1,21 +1,15 @@
 {
-  "lastUpdate": "2025-11-24 17:33:20",
+  "lastUpdate": "2025-11-24 17:42:24",
   "data": [
     {
       "title": "jernbanetorget",
       "trafficCount": "500+",
       "pubDate": "Mon, 24 Nov 2025 07:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB1YOVp0kiXdMRQS4-TqVQT48moZa8AuhAHoAjEVpq70qbKDqIuqiZtUlZVIE",
-      "pictureSource": "Dagbladet",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7g86yqP5EsDrJdOSNK6jMjryAtfLexI19ipKOher2EPaWELZLX8a8dyUNOU",
+      "pictureSource": "NRK",
       "relatedSearch": [
         {
-          "title": "Person påkjørt av T-bane",
-          "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/person-pakjort-av-t-bane/83895065",
-          "source": "Dagbladet"
-        },
-        {
-          "title": "Kaos på Jernbanetorget – trafikken i gang igjen",
+          "title": "Kaos på Jernbanetorget etter påkjørsel – ber folk skjerpe seg",
           "snippet": "",
           "url": "https://www.nrk.no/stor-oslo/person-pakjort-av-t-banen-i-oslo-1.17665776",
           "source": "NRK"
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.aftenposten.no/oslo/i/m0gvbE/person-paakjoert-av-t-bane-reisende-maa-regne-med-forsinkelser",
           "source": "Aftenposten"
+        },
+        {
+          "title": "Jernbanetorget, T-banen | Store forsinkelser på T-banen etter påkjørsel: – Ikke gå ned på perrongene",
+          "snippet": "",
+          "url": "https://www.ao.no/store-forsinkelser-pa-t-banen-etter-pakjorsel-ikke-ga-ned-pa-perrongene/s/30-128-9120",
+          "source": "Avisa Oslo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "TV2.no"
         },
         {
+          "title": "Stordalen tapte mot Skatteetaten",
+          "snippet": "",
+          "url": "https://e24.no/naeringsliv/i/RjbK12/stordalen-tapte-mot-skatteetaten",
+          "source": "E24"
+        },
+        {
           "title": "Petter Stordalen tapte skattesak",
           "snippet": "",
           "url": "https://borsen.dagbladet.no/nyheter/petter-stordalen-tapte-skattesak/83892166",
           "source": "Dagbladet"
-        },
-        {
-          "title": "Nederlag for Petter Stordalen i lagmannsretten",
-          "snippet": "",
-          "url": "https://e24.no/naeringsliv/i/RjbK12/nederlag-for-petter-stordalen-i-lagmannsretten",
-          "source": "E24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +155,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Grammy-winning reggae legend and actor dies at 81",
+          "title": "Jimmy Cliff's Family: All About the Late Reggae Legend's Wife and 3 Kids",
           "snippet": "",
-          "url": "https://www.nj.com/entertainment/2025/11/grammy-winning-reggae-legend-and-actor-dies-at-81.html",
-          "source": "NJ.com"
+          "url": "https://people.com/jimmy-cliff-wife-kids-what-to-know-11855597",
+          "source": "People.com"
         },
         {
           "title": "Jimmy Cliff, Jamaican reggae singer, actor and cultural icon, dies aged 81",
@@ -189,9 +189,9 @@
           "source": "Bollywood Life"
         },
         {
-          "title": "Dharmendra’s last film Ikkis to release this Christmas: Makers share emotional poster honouring the veteran actor",
+          "title": "How Apne and the Yamla Pagla Deewana series defined Dharmendra’s screen legacy with his sons Sunny and Bobby",
           "snippet": "",
-          "url": "https://www.livemint.com/entertainment/dharmendras-last-film-ikkis-to-release-this-christmas-makers-share-emotional-poster-honouring-the-veteran-actor-11763986122968.html",
+          "url": "https://www.livemint.com/entertainment/how-apne-and-the-yamla-pagla-deewana-series-defined-dharmendra-s-screen-legacy-with-his-sons-sunny-and-bobby-11763991158467.html",
           "source": "mint"
         }
       ],
@@ -207,7 +207,7 @@
         {
           "title": "How Google Finally Leapfrogged Rivals With New Gemini Rollout",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729?gaa_at=eafs&gaa_n=AWEtsqcf9OpbxXICD4qKtT_JkYaorabXdui8F8lRmKK_RSmpmYAkD46v2ZPS&gaa_ts=69249a64&gaa_sig=jbJmfpy5raKPX7xbSKvi2LdEc0wF7YjK0rAZgXyYeCasPdkMrwc6ryzEE05LgfCsytyTH_eGq4IAayJvqXPlQQ%3D%3D",
+          "url": "https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729?gaa_at=eafs&gaa_n=AWEtsqcrJJmFZJ49jasfztkIyEs_WDdeWZ-JzUwKB6QxoAsXbu2BhN_cVTCo&gaa_ts=69249b7a&gaa_sig=yrs2swm4FqvRo5gjnXPhhrzuIuSCsNwJOi_xvabAiexYKFi_TNlual3sahjbBbnSaeQ_vAAUHX4IJj54aBDp5Q%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
@@ -229,26 +229,26 @@
       "title": "ps5",
       "trafficCount": "500+",
       "pubDate": "Sun, 23 Nov 2025 23:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyVNiRTYgx4czG8V-mhee7CFA5rdU_hlSlyHbWJPeQIU2O9TbmizZ-XAnFMxA",
-      "pictureSource": "Tek.no",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwUBYlfukKmM9DLBHPIgZD6F2Tgi-qiWi0QieNE_GT55iRrNOAYLO4cwWzIqs",
+      "pictureSource": "ComicBook.com",
       "relatedSearch": [
         {
-          "title": "Power skrudde opp PS5-prisen minutter etter tilbud",
+          "title": "PS5 Update Quietly Improves One of the Console’s Best Features",
           "snippet": "",
-          "url": "https://www.tek.no/nyheter/nyhet/i/M7wdXK/power-skrudde-opp-ps5-prisen-minutter-etter-tilbud",
-          "source": "Tek.no"
+          "url": "https://comicbook.com/gaming/news/ps5-update-quietly-improves-one-of-the-consoles-best-features/",
+          "source": "ComicBook.com"
         },
         {
-          "title": "Nintendo eShops Black Friday-salg begynner i dag",
+          "title": "PS5 Update for November 2025 Being Slammed by Players",
           "snippet": "",
-          "url": "https://www.gamereactor.no/nintendo-eshops-black-friday-salg-begynner-i-dag-og-varer-til-desember-1915773/",
-          "source": "Gamereactor"
+          "url": "https://www.playstationlifestyle.net/2025/11/20/ps5-welcome-hub-update-november-2025-slammed/",
+          "source": "PlayStation LifeStyle"
         },
         {
-          "title": "PlayStations Black Friday-salg starter 21. november",
+          "title": "PS5 Testing Slideshow Wallpapers for Popular Welcome Hub Feature",
           "snippet": "",
-          "url": "https://www.gamereactor.no/playstations-black-friday-salg-starter-21-november-1917873/",
-          "source": "Gamereactor"
+          "url": "https://www.pushsquare.com/news/2025/11/ps5-testing-slideshow-wallpapers-for-popular-welcome-hub-feature",
+          "source": "Push Square"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,20 +257,20 @@
       "title": "rb",
       "trafficCount": "100+",
       "pubDate": "Sun, 23 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg7EpedS6q0JqtRe6frgZe363VRbXwKLnlJ96tPdKKYfy8ewsIx1XPwrZuOGk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeWsCpW0UF7hxPiE4oYPHdh9COytTsJ3zWXkTPDEhABKWPlRh8EzR_hKTuU3w",
       "pictureSource": "Yahoo Sports",
       "relatedSearch": [
         {
-          "title": "Broncos made a strong push to sign RB Dameon Pierce, but he signed with the Chiefs",
+          "title": "Chiefs Make RB Move Immediately After Colts Game",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/broncos-made-strong-push-sign-161746571.html",
+          "url": "https://sports.yahoo.com/article/chiefs-rb-move-immediately-colts-001930008.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Report: Chiefs Sign Free Agent Running Back Immediately After Colts Win",
+          "title": "Broncos made a strong push to sign RB Dameon Pierce, but he signed with the Chiefs",
           "snippet": "",
-          "url": "https://www.newsweek.com/sports/nfl/report-chiefs-sign-free-agent-running-back-immediately-after-colts-win-11096478",
-          "source": "Newsweek"
+          "url": "https://www.milehighreport.com/denver-broncos-news/164499/broncos-made-a-strong-push-to-sign-rb-dameon-pierce-but-he-signed-with-the-chiefs",
+          "source": "Mile High Report"
         },
         {
           "title": "Potential Patriots Target Clears Waivers After Surprising Release",
