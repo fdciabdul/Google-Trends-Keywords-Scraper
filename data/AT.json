@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "2025-11-25 06:43:20",
+  "lastUpdate": "2025-11-25 06:54:58",
   "data": [
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Mon, 24 Nov 2025 21:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ5UdM_tnAPsUaK447EbIQ_g-6yGraDYoKinl-Q1j9ogwvvXqgFg0hBvcW7nU",
-      "pictureSource": "The Citizen",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwVvXTuxM388zXk6q8JRWabHWCI2PjrUYFJhroc1kQntcTXN5o-bI5tzHckJA",
+      "pictureSource": "IOL",
       "relatedSearch": [
         {
-          "title": "Warning of even bigger storms to come in SA",
+          "title": "Severe storms are coming: Here's what South Africans need to know today",
           "snippet": "",
-          "url": "https://www.citizen.co.za/news/warning-even-bigger-storms-sa/",
-          "source": "The Citizen"
+          "url": "https://iol.co.za/news/weather/2025-11-25-severe-storms-are-coming-heres-what-south-africans-need-to-know-today/",
+          "source": "IOL"
         },
         {
           "title": "Heavy Rain, Hail and Lightning Set to Hit Pretoria, Warns Weather Service",
@@ -33,26 +33,26 @@
       "title": "wetter",
       "trafficCount": "20000+",
       "pubDate": "Mon, 24 Nov 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv3QdapRy-VYDrrz8Z1ok1lqGnNApJYlPsyV_oxaKW-3_OPArgWbgyYqX3IsQ",
-      "pictureSource": "ORF",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQSSwHQhrOwTNgPJD6BeqzlMuEep5j1v8dTEHVqWkiS9Budx7641p5LUqpnuE",
+      "pictureSource": "SWR",
       "relatedSearch": [
         {
-          "title": "Nacht auf Dienstag: Warnung vor großer Glatteisgefahr",
+          "title": "Schnee, Regen, Glätte und Nebel: Es wird nass und ungemütlich.",
           "snippet": "",
-          "url": "https://orf.at/stories/3412421/",
-          "source": "ORF"
+          "url": "https://www.swr.de/swraktuell/rheinland-pfalz/wetter-schnee-glatteis-schneeregen-wetterdienst-winter-100.html",
+          "source": "SWR"
         },
         {
-          "title": "Kaltfront in Oberösterreich: Blitzeis und Schneeregen am Dienstag",
+          "title": "Wetter: Wetter im Südwesten bleibt ungemütlich und grau",
           "snippet": "",
-          "url": "https://www.nachrichten.at/oberoesterreich/linz/es-ist-durchaus-beachtlicher-schneefall-dabei;art66,4111377",
-          "source": "Oberösterreichische Nachrichten"
+          "url": "https://www.zeit.de/news/2025-11/25/wetter-im-suedwesten-bleibt-ungemuetlich-und-grau",
+          "source": "DIE ZEIT"
         },
         {
-          "title": "Es wird wieder winterlich: Wo in Salzburg wie viel Schnee fallen wird",
+          "title": "Wettervorhersage: Schnee zum Wochenstart in Rheinland-Pfalz und Saarland",
           "snippet": "",
-          "url": "https://www.sn.at/salzburg/chronik/es-wo-salzburg-schnee-188248270",
-          "source": "Salzburger Nachrichten"
+          "url": "https://www.stern.de/gesellschaft/regional/rheinland-pfalz-saarland/wettervorhersage--schnee-zum-wochenstart-in-rheinland-pfalz-und-saarland-36835890.html",
+          "source": "STERN.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,6 +137,34 @@
           "snippet": "",
           "url": "https://www.mundodeportivo.com/us/en/20251123/735039/frenzy-online-over-alisha-lehmann-s-topless-photo.html",
           "source": "Mundo Deportivo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter salzburg",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 24 Nov 2025 18:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv3QdapRy-VYDrrz8Z1ok1lqGnNApJYlPsyV_oxaKW-3_OPArgWbgyYqX3IsQ",
+      "pictureSource": "ORF",
+      "relatedSearch": [
+        {
+          "title": "Nacht auf Dienstag: Warnung vor großer Glatteisgefahr",
+          "snippet": "",
+          "url": "https://orf.at/stories/3412421/",
+          "source": "ORF"
+        },
+        {
+          "title": "Kaltfront in Oberösterreich: Blitzeis und Schneeregen am Dienstag",
+          "snippet": "",
+          "url": "https://www.nachrichten.at/oberoesterreich/linz/es-ist-durchaus-beachtlicher-schneefall-dabei;art66,4111377",
+          "source": "Oberösterreichische Nachrichten"
+        },
+        {
+          "title": "Es wird wieder winterlich: Wo in Salzburg wie viel Schnee fallen wird",
+          "snippet": "",
+          "url": "https://www.sn.at/salzburg/chronik/es-wo-salzburg-schnee-188248270",
+          "source": "Salzburger Nachrichten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.reuters.com/world/india/air-cargo-services-between-india-afghanistan-be-launched-soon-2025-11-21/",
           "source": "Reuters"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "katja gloger",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 24 Nov 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3ZbYHiV71_bLkHAfXmSbm8ebDL2rBJF0D2DipoSLUPTM1Hu7VTUu82Sb0d6M",
-      "pictureSource": "ORF ON",
-      "relatedSearch": [
-        {
-          "title": "ZIB 2 vom 24.11.2025",
-          "snippet": "",
-          "url": "https://on.orf.at/video/14300722/zib-2-vom-24112025",
-          "source": "ORF ON"
-        },
-        {
-          "title": "Kreml-Expertin Gloger in der \"ZiB 2\": Russland will \"eine Ukraine als Satellitenstaat\"",
-          "snippet": "",
-          "url": "https://www.derstandard.at/story/3000000297824/kreml-expertin-gloger-in-der-zib-2-russland-will-eine-ukraine-als-satellitenstaat",
-          "source": "Der Standard"
-        },
-        {
-          "title": "Putin-Expertin: Krieg gegen Europa, \"historische Stunde\" für Selenskij",
-          "snippet": "",
-          "url": "https://kurier.at/politik/ausland/ukraine-zib2-orf-usa-russland-krieg-putin-trump-gloger/403106213",
-          "source": "Kurier"
         }
       ],
       "link": "https://imtaqin.id/"
