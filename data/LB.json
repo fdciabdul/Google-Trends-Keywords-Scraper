@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-11-25 09:36:53",
+  "lastUpdate": "2025-11-25 09:46:29",
   "data": [
-    {
-      "title": "accuweather",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 25 Nov 2025 00:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEF9QOol2wnwoDENtcjHps4z4mHIrGQmn2_UZ0a_ZxEzZ_6nA7IyVY39p5_-k",
-      "pictureSource": "The Weather Channel",
-      "relatedSearch": [
-        {
-          "title": "Thanksgiving Travel Weather Forecast: Any Impacts On Your Trip?",
-          "snippet": "",
-          "url": "https://weather.com/forecast/national/news/2025-11-24-thanksgiving-travel-weather-forecast-us-airports",
-          "source": "The Weather Channel"
-        },
-        {
-          "title": "Marquette and Iron counties under a winter storm watch Wednesday and Thursday – as much as 16 inches of snow",
-          "snippet": "",
-          "url": "https://www.mlive.com/weather-alerts/2025/11/marquette-and-iron-counties-under-a-winter-storm-watch-wednesday-and-thursday-as-much-as-16-inches-o.html",
-          "source": "MLive.com"
-        },
-        {
-          "title": "Video Severe storms in the South trigger delays, cancellations amid record travel",
-          "snippet": "",
-          "url": "https://abcnews.go.com/world-news-tonight-with-david-muirN/video/severe-storms-south-trigger-delays-cancellations-amid-record-127843487",
-          "source": "ABC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "weather lebanon",
       "trafficCount": "200+",
@@ -41,6 +13,34 @@
           "snippet": "",
           "url": "https://www.mtv.com.lb/en/news/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/1631338/incoming-weather-shift-tonight----brace-for-rain-",
           "source": "MTV Lebanon"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather today",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 24 Nov 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEF9QOol2wnwoDENtcjHps4z4mHIrGQmn2_UZ0a_ZxEzZ_6nA7IyVY39p5_-k",
+      "pictureSource": "The Weather Channel",
+      "relatedSearch": [
+        {
+          "title": "Thanksgiving Travel Weather Forecast: Any Impacts On Your Trip?",
+          "snippet": "",
+          "url": "https://weather.com/forecast/national/news/2025-11-24-thanksgiving-travel-weather-forecast-us-airports",
+          "source": "The Weather Channel"
+        },
+        {
+          "title": "Winter storm watch for Northern Michigan from Wednesday to Friday – could see 9 inches of snow",
+          "snippet": "",
+          "url": "https://www.mlive.com/weather-alerts/2025/11/winter-storm-watch-for-northern-michigan-from-wednesday-to-friday-could-see-9-inches-of-snow.html",
+          "source": "MLive.com"
+        },
+        {
+          "title": "Video Severe storms in the South trigger delays, cancellations amid record travel",
+          "snippet": "",
+          "url": "https://abcnews.go.com/world-news-tonight-with-david-muirN/video/severe-storms-south-trigger-delays-cancellations-amid-record-127843487",
+          "source": "ABC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,16 +115,16 @@
           "source": "Lebanon Debate"
         },
         {
+          "title": "أمطار غزيرة.. استعدوا!",
+          "snippet": "",
+          "url": "https://www.aljadeed.tv/news/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/550165/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D8%A7",
+          "source": "aljadeed"
+        },
+        {
           "title": "الأرصاد الجوية: الطقس غدا غائم مع أمطار متفرقة وثلوج على 2100 متر وما فوق",
           "snippet": "",
           "url": "https://www.elnashra.com/news/show/1751413/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%BA%D8%A7%D8%A6%D9%85-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D9%88%D8%AB%D9%84%D9%88%D8%AC-%D8%B9",
           "source": "Elnashra"
-        },
-        {
-          "title": "الكتل الحارة تبدأ بالانكفاء الاثنين... ومنخفض جوي ممطر وسريع يوم الثلاثاء",
-          "snippet": "",
-          "url": "https://www.lbcgroup.tv/news/lebanon-weather/891504/%D8%A7%D9%84%D9%83%D8%AA%D9%84-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%A9-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%83%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D9%88%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D9%85%D9%85%D8%B7%D8%B1-%D9%88%D8%B3%D8%B1%D9%8A%D8%B9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1/ar",
-          "source": "LBCI Lebanon"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -149,10 +149,10 @@
           "source": "Flashscore.com"
         },
         {
-          "title": "Man Utd player ratings vs Everton: They only had 10 men! Bruno Fernandes drops a stinker and Joshua Zirkzee blows his chance to shine as Red Devils fall to damaging home defeat despite one-man advantage",
+          "title": "De Ligt laments Man Utd's lack of hunger in Everton defeat",
           "snippet": "",
-          "url": "https://www.goal.com/en-sa/lists/man-utd-player-ratings-vs-everton-bruno-fernandes-joshua-zirkzee/blt1df8636d1b7301f4",
-          "source": "Goal.com"
+          "url": "https://sporty.com/news/de-ligt-laments-man-utds-lack-of-hunger-in-everton-defeat/1ahcrslwmcqwa1grgkwm7enqob",
+          "source": "SportyTV App"
         }
       ],
       "link": "https://imtaqin.id/"
