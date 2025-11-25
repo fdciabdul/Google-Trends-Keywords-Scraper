@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-11-25 14:09:01",
+  "lastUpdate": "2025-11-25 14:21:02",
   "data": [
-    {
-      "title": "yahoo",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 25 Nov 2025 05:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-bcXWYc1ps0XcrLOW4X33okufkJ4oaD0gbTcEIELNrS6iM56FXgQMOOk_fzU",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Nvidia shares fall 3% on report Meta will use Google AI chips",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "The Real AI Battle Isn't in Chips -- It's in Compute Efficiency. Here's the Stock Positioned to Win.",
-          "snippet": "",
-          "url": "https://www.fool.com/investing/2025/11/23/the-real-ai-battle-isnt-chips-its-compute-efficien/",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Google Further Encroaches on Nvidia’s Turf With New AI Chip Push",
-          "snippet": "",
-          "url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
-          "source": "The Information"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "roblox",
       "trafficCount": "100+",
@@ -49,10 +21,38 @@
           "source": "Roblox"
         },
         {
-          "title": "Roblox boss says problem of predators is an \"opportunity\" for the platform, in disastrous interview following latest child safety measures",
+          "title": "Lawsuits claim Roblox endangers kids. New AI age verification aims to block them from chatting with adults",
           "snippet": "",
-          "url": "https://www.eurogamer.net/roblox-boss-says-problem-of-predators-is-an-opportunity-for-the-platform-in-disastrous-interview-following-latest-child-safety-measures",
-          "source": "Eurogamer"
+          "url": "https://www.cnn.com/2025/11/18/tech/roblox-ai-age-verification-youth-safety",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "google",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 25 Nov 2025 05:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-bcXWYc1ps0XcrLOW4X33okufkJ4oaD0gbTcEIELNrS6iM56FXgQMOOk_fzU",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Nvidia shares fall 3% on report Meta will use Google AI chips",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "The Real AI Battle Isn't in Chips -- It's in Compute Efficiency. Here's the Stock Positioned to Win.",
+          "snippet": "",
+          "url": "https://www.fool.com/investing/2025/11/23/the-real-ai-battle-isnt-chips-its-compute-efficien/",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Google Further Encroaches on Nvidia’s Turf With New AI Chip Push",
+          "snippet": "",
+          "url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
+          "source": "The Information"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,19 +89,19 @@
       "title": "albert tei",
       "trafficCount": "100+",
       "pubDate": "Tue, 25 Nov 2025 04:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRK82Gj09xWJ-iCja2t-J9JIFNNNFvWlmF9Pxsmt10i795qxn0oGnCeCGE34cU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjSaDTR4PuiH6SevNqkwReaUOyhGSZ5uFPZDQOijSIRfhOfeIdf7metJle9bo",
       "pictureSource": "Malaysiakini",
       "relatedSearch": [
-        {
-          "title": "Albert reveals to Dr M 'mastermind' who ordered him to record Sabah videos",
-          "snippet": "",
-          "url": "https://www.malaysiakini.com/news/761634",
-          "source": "Malaysiakini"
-        },
         {
           "title": "PAS wants answers after video claims PM knew of plan to record GRS leaders",
           "snippet": "",
           "url": "https://www.malaysiakini.com/news/761720",
+          "source": "Malaysiakini"
+        },
+        {
+          "title": "Albert reveals to Dr M 'mastermind' who ordered him to record Sabah videos",
+          "snippet": "",
+          "url": "https://www.malaysiakini.com/news/761634",
           "source": "Malaysiakini"
         }
       ],
@@ -121,16 +121,16 @@
           "source": "ZDNET"
         },
         {
-          "title": "Black Friday streaming deals include one year of HBO Max for $36",
-          "snippet": "",
-          "url": "https://www.engadget.com/deals/black-friday-streaming-deals-include-one-year-of-hbo-max-for-36-163017424.html",
-          "source": "Engadget"
-        },
-        {
           "title": "Hulu + HBO Max Black Friday deal: Start streaming for $2.99 per month",
           "snippet": "",
           "url": "https://www.usatoday.com/story/shopping/2025/11/25/hulu-hbo-max-black-friday-streaming-deal-2025/87458284007/",
           "source": "USA Today"
+        },
+        {
+          "title": "Black Friday streaming deals include one year of HBO Max for $36",
+          "snippet": "",
+          "url": "https://www.engadget.com/deals/black-friday-streaming-deals-include-one-year-of-hbo-max-for-36-163017424.html",
+          "source": "Engadget"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,29 +164,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "champions league games",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Nov 2025 04:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoyJTKw__YpqlLIk3L_Vt5KX2N3Yky2zJC1rOQrqTUoFXtLSJQY9bVq3I-2PY",
+      "pictureSource": "OneFootball",
+      "relatedSearch": [
+        {
+          "title": "Wednesday's Champions League Tips: Back Bayern Bet Builder, Liverpool and Real Madrid",
+          "snippet": "",
+          "url": "https://onefootball.com/pt-br/noticias/wednesdays-champions-league-tips-back-bayern-bet-builder-liverpool-and-real-madrid-42001015",
+          "source": "OneFootball"
+        },
+        {
+          "title": "Wednesday's Champions League Tips: Back Bayern Bet Builder, Liverpool and Real Madrid",
+          "snippet": "",
+          "url": "https://betting.betfair.com/football/champions-league/champions-league-matchday-5-betting-tips-predictions-best-bets-for-wednesday-november-26-241125-1063.html",
+          "source": "Betfair tips"
+        },
+        {
+          "title": "Big games for Spanish trio in Champions League on Tuesday",
+          "snippet": "",
+          "url": "https://www.chinadailyasia.com/article/624251",
+          "source": "chinadailyhk"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "champions league",
       "trafficCount": "500+",
       "pubDate": "Tue, 25 Nov 2025 04:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlLGxCIl2b0ky5ohoko3wDO3U8zBDzxv680YDcYm3wxBMPvoyRzFvBbPKlw44",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nywIxuTxSkOLhWfOx4jdvvFjtQ-wiy714E2KliBx-C5RUnFJK1z7J6BzR1E",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Frank can afford to lose at PSG but sense of foreboding now clings to Spurs",
+          "title": "Madrid missing Courtois, Huijsen vs. Olympiacos",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/nov/24/thomas-frank-tottenham-spurs-paris-saint-germain-psg-champions-league",
-          "source": "The Guardian"
+          "url": "https://www.espn.com/soccer/story/_/id/47095355/thibaut-courtois-dean-huijsen-absences-add-real-madrid-woes-olympiacos",
+          "source": "ESPN"
         },
         {
-          "title": "Solanke, Kulusevski & Takai: Latest Spurs injury news ahead of PSG clash",
+          "title": "Football: Soccer-Real Madrid's defensive woes increase for Olympiacos trip",
           "snippet": "",
-          "url": "https://www.3addedminutes.com/sport/football/spurs/solanke-kulusevski-takai-spurs-injury-news-psg-5414201",
-          "source": "3 Added Minutes"
+          "url": "https://www.thestar.com.my/sport/football/2025/11/25/soccer-real-madrid039s-defensive-woes-increase-for-olympiacos-trip",
+          "source": "The Star"
         },
         {
-          "title": "PSG coach hopeful Ousmane Dembélé will return for PSG's Champions League clash against Tottenham",
+          "title": "Just in – Real Madrid superstar leaves training early before Olympiacos clash",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/sports/soccer/2025/11/25/psg-tottenham-dembele/98341caa-ca00-11f0-ac2a-e98510180900_story.html",
-          "source": "The Washington Post"
+          "url": "https://madriduniversal.com/just-in-real-madrid-superstar-leaves-training-early-before-olympiacos-clash/",
+          "source": "Madrid Universal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,54 +245,26 @@
       "title": "stranger things season 5",
       "trafficCount": "200+",
       "pubDate": "Tue, 25 Nov 2025 03:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsoiF5XCsN1Q-abAWvLf5Qbf5acD2AnB0MuRYkor74LuSWK2d6CS8TBnOdGsU",
-      "pictureSource": "Cosmopolitan",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0_-KPIySSiEiD5UztJjRZLciAYsUKvHD4I4BY2gEJxjhc9Ud6cx7qW2X6VBE",
+      "pictureSource": "The Hollywood Reporter",
       "relatedSearch": [
         {
-          "title": "Stranger Things season 5 release date: The exact date and time each episode is out in the UK",
+          "title": "‘Stranger Things’: 10 Things The Duffer Brothers Want You to Know Before Watching the Final Season",
           "snippet": "",
-          "url": "https://www.cosmopolitan.com/uk/entertainment/a69538740/stranger-things-season-5-release-date-time-come-out-netflix/",
-          "source": "Cosmopolitan"
+          "url": "https://www.hollywoodreporter.com/lists/stranger-things-season-5-duffer-brothers-recommendations/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "Get Hyped with One Last Fiery Trailer Before Stranger Things 5 Is Upon Us",
+          "snippet": "",
+          "url": "https://www.netflix.com/tudum/articles/stranger-things-5-hype-trailer",
+          "source": "Netflix"
         },
         {
           "title": "“Stranger Things” Seasons 1-3 Summary: What You Need to Know Ahead of Season 5",
           "snippet": "",
           "url": "https://www.motionpictures.org/2025/11/stranger-things-seasons-1-3-summary-what-you-need-to-know-ahead-of-season-5/",
           "source": "Motion Picture Association"
-        },
-        {
-          "title": "Duffer Brothers reveal the only 4 Stranger Things episodes you must watch before volume 1",
-          "snippet": "",
-          "url": "https://www.cinemaexpress.com/english/news/2025/Nov/25/duffer-brothers-reveal-the-only-4-stranger-things-episodes-you-must-watch-before-volume-1",
-          "source": "Cinema Express"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ucl",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 25 Nov 2025 03:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYugFplkfnW-M4SXRCUFHUGDk1qj7VlutDHI4YveByv7zviu1Vvxf70UUaA",
-      "pictureSource": "UEFA.com",
-      "relatedSearch": [
-        {
-          "title": "Champions League Matchday 5: Key stats and what to look out for in every game",
-          "snippet": "",
-          "url": "https://www.uefa.com/uefachampionsleague/news/029f-1f3afbc5ff07-3e16e91f65ef-1000--champions-league-matchday-5-key-stats-and-what-to-look-o/",
-          "source": "UEFA.com"
-        },
-        {
-          "title": "UCL Fantasy MD5: Team news, injury updates and Live Chat",
-          "snippet": "",
-          "url": "https://www.nevermanagealone.com/ucl/14892/ucl-fantasy-md5-team-news-injury-updates-and-live-chat",
-          "source": "Never Manage Alone"
-        },
-        {
-          "title": "UEFA Champions League 2025/26 Fifth Round Match Schedule and Standings",
-          "snippet": "",
-          "url": "https://mezha.net/eng/bukvy/uefa-champions-league-2025-26-fifth-round-match-schedule-and-standings/",
-          "source": "#Mezha"
         }
       ],
       "link": "https://imtaqin.id/"
