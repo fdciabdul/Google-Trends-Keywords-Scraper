@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-11-25 13:25:48",
+  "lastUpdate": "2025-11-25 13:42:22",
   "data": [
+    {
+      "title": "google",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Nov 2025 05:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-bcXWYc1ps0XcrLOW4X33okufkJ4oaD0gbTcEIELNrS6iM56FXgQMOOk_fzU",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "Nvidia shares fall 3% on report Meta will use Google AI chips",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nvidia Stock Drops. Reported Meta Deal Shows Google Threat Isn’t Going Away.",
+          "snippet": "",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-google-meta-chip-deal-23c03837?gaa_at=eafs&gaa_n=AWEtsqcyXfscKnvdfhCSlKDtWHsnMHb9qu_QHGZvPylN5-IUgoTMD2raoo4D&gaa_ts=6925b51b&gaa_sig=zH2EAlaR8DHCXp8ssccTkXm9KFwy72GbAgjXZIKIfMuxN18-ZPfcW8TUgcvAfLUpIww3t9i6cH9VXc_4GoaLBQ%3D%3D",
+          "source": "Barron's"
+        },
+        {
+          "title": "Nvidia-Google AI Chip Rivalry Escalates on Report of Meta Talks",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Mon, 24 Nov 2025 21:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCPhCUSUQXJvXV5905a5BzI1fzI6yX5YA90rQNdnOfy436Z80rRYolbh49Zmo",
-      "pictureSource": "Axios",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEF9QOol2wnwoDENtcjHps4z4mHIrGQmn2_UZ0a_ZxEzZ_6nA7IyVY39p5_-k",
+      "pictureSource": "The Weather Channel",
       "relatedSearch": [
         {
-          "title": "Denver could (finally) see its first snow of the season this Thanksgiving weekend",
+          "title": "Thanksgiving Travel Weather Forecast: Any Impacts On Your Trip?",
           "snippet": "",
-          "url": "https://www.axios.com/local/denver/2025/11/24/colorado-thanksgiving-weather-forecast-snow",
-          "source": "Axios"
+          "url": "https://weather.com/forecast/national/news/2025-11-24-thanksgiving-travel-weather-forecast-us-airports",
+          "source": "The Weather Channel"
         },
         {
-          "title": "Tracking cooler weather tomorrow, weekend pattern change",
+          "title": "Winter storm warning for Baraga and Houghton counties until Wednesday evening – as much as 21 inches of snow",
           "snippet": "",
-          "url": "https://krdo.com/video/2025/11/24/tracking-cooler-weather-tomorrow-weekend-pattern-change/",
-          "source": "KRDO"
+          "url": "https://www.mlive.com/weather-alerts/2025/11/winter-storm-warning-for-baraga-and-houghton-counties-until-wednesday-evening-as-much-as-21-inches-o.html",
+          "source": "MLive.com"
         },
         {
-          "title": "A warm and dry week with potential for holiday weekend showers",
+          "title": "Video Severe storms in the South trigger delays, cancellations amid record travel",
           "snippet": "",
-          "url": "https://www.verdenews.com/news/a-warm-and-dry-week-with-potential-for-holiday-weekend-showers/article_6f094f26-18e0-4a10-bf58-0a02f6c4d31b.html",
-          "source": "The Verde Independent"
+          "url": "https://abcnews.go.com/world-news-tonight-with-david-muirN/video/severe-storms-south-trigger-delays-cancellations-amid-record-127843487",
+          "source": "ABC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +127,16 @@
           "source": "ORF"
         },
         {
+          "title": "Nach 12.000 Jahren: Vulkan Hayli Gubbi wieder ausgebrochen",
+          "snippet": "",
+          "url": "https://kurier.at/chronik/welt/vulkan-spuckt-wieder-aktiv-hayli-gubbi/403106143",
+          "source": "Kurier"
+        },
+        {
           "title": "Seit 12.000 Jahren schlafender Vulkan in Äthiopien ausgebrochen",
           "snippet": "",
           "url": "https://www.tagesschau.de/ausland/afrika/vulkan-aethiopien-ausbruch-100.html",
           "source": "tagesschau.de"
-        },
-        {
-          "title": "Flugausfälle in Indien nach Vulkanausbruch in Äthiopien",
-          "snippet": "",
-          "url": "https://kurier.at/chronik/welt/vulkanausbruch-aethiopien-hayli-gubbi-indien-flugausfaelle/403106384",
-          "source": "Kurier"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,44 +248,16 @@
           "source": "BILD"
         },
         {
-          "title": "Jan Zimmermann: Große Anteilnahme nach Tod von »Gewitter im Kopf«-Star",
+          "title": "„Gewitter im Kopf“: Influencer Jan Zimmermann starb an epileptischem Anfall",
           "snippet": "",
-          "url": "https://www.spiegel.de/netzwelt/web/jan-zimmermann-grosse-anteilnahme-nach-tod-von-gewitter-im-kopf-star-a-45649590-2fa9-44be-9dc6-8fd6af377e0b",
-          "source": "Spiegel"
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/gewitter-im-kopf-influencer-jan-zimmermann-starb-an-epileptischem-anfall-accg-200261782.html",
+          "source": "FAZ"
         },
         {
           "title": "„Gewitter im Kopf“: YouTuber Jan Zimmermann stirbt mit 27 Jahren – Familie äußert sich zur Todesursache",
           "snippet": "",
           "url": "https://www.welt.de/vermischtes/article692454b60f2241537f41ab3a/gewitter-im-kopf-youtuber-jan-zimmermann-stirbt-mit-27-jahren-familie-aeussert-sich-zur-todesursache.html",
           "source": "WELT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "champions league",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 24 Nov 2025 15:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHXuhW49hg3qDoUVHsMdGlL0-5RUK7kKYuM52B1OAMlGlbXQK885iJVU0tkp4",
-      "pictureSource": "Real Madrid",
-      "relatedSearch": [
-        {
-          "title": "Courtois medical report",
-          "snippet": "",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/medical-reports/parte-medico-de-courtois-25-11-2025",
-          "source": "Real Madrid"
-        },
-        {
-          "title": "Just in – Real Madrid superstar leaves training early before Olympiacos clash",
-          "snippet": "",
-          "url": "https://madriduniversal.com/just-in-real-madrid-superstar-leaves-training-early-before-olympiacos-clash/",
-          "source": "Madrid Universal"
-        },
-        {
-          "title": "Real Madrid confirm Thibaut Courtois and Dean Huijsen injury blows as goalkeeper and defender pull out of squad to face Olympiacos | Goal.com English Saudi Arabia",
-          "snippet": "",
-          "url": "https://www.goal.com/en-sa/lists/real-madrid-confirm-thibaut-courtois-injury-goalkeeper-pulls-out-squad-olympiacos/bltabb9c110253c8b0d",
-          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
