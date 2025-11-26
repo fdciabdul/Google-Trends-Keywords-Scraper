@@ -1,30 +1,39 @@
 {
-  "lastUpdate": "2025-11-26 06:13:37",
+  "lastUpdate": "2025-11-26 06:28:26",
   "data": [
+    {
+      "title": "pogoda lubin",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Nov 2025 22:20:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "metro warszawa",
       "trafficCount": "200+",
       "pubDate": "Tue, 25 Nov 2025 21:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfP4DB-y8a6HIXg3HBxWiGFgr7QDyXJ3HiHL_MltKitJs920PGCUhZ--VfQJw",
-      "pictureSource": "Radio Kolor",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPcKrBFePA02O5Yc_ssJ7MDmK9wanvYu7rVYf3xbBQsdUBMO0jdM2gwJj4ZtM",
+      "pictureSource": "TVN24",
       "relatedSearch": [
         {
-          "title": "Zamknięta linia M2. Metro nie jeździ. Stacje są nieczynne [UTRUDNIENIA]",
+          "title": "Najnowsze zdjęcia z budowy ostatniego odcinka metra",
           "snippet": "",
-          "url": "https://radiokolor.pl/wylaczony-ruch-na-2-linii-metra-wszystkie-stacje-nieczynne-utrudnienia/",
-          "source": "Radio Kolor"
-        },
-        {
-          "title": "Awaria wodociągowa w metrze. Musieli zamknąć pięć stacji",
-          "snippet": "",
-          "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-awaria-wodociagowa-w-metrze-piec-stacji-wylaczono-z-ruchu-st8765493",
+          "url": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-leja-beton-w-tunelach-metra-najnowsze-zdjecia-z-budowy-ostatniego-odcinka-st8768515",
           "source": "TVN24"
         },
         {
-          "title": "Warszawa. Awaria rury w metrze. Kilka stacji ewakuowano i zamknięto",
+          "title": "Perony już gotowe. Nowe stacje metra w Warszawie coraz bliżej",
           "snippet": "",
-          "url": "https://www.o2.pl/informacje/warszawa-awaria-rury-w-metrze-kilka-stacji-ewakuowano-i-zamknieto-7224554209974784a",
-          "source": "o2.pl"
+          "url": "https://warszawa.eska.pl/perony-juz-gotowe-zakonczenie-budowy-nowych-stacji-metra-w-warszawie-jest-coraz-blizej-aa-d6t3-oAh4-CXWm.html",
+          "source": "Warszawa Radio ESKA"
+        },
+        {
+          "title": "Beton, tory i wentylacja. Jesienna intensyfikacja prac na budowie metra M2",
+          "snippet": "",
+          "url": "https://www.raportwarszawski.pl/artykul/4508,beton-tory-i-wentylacja-jesienna-intensyfikacja-prac-na-budowie-metra-m2",
+          "source": "Raport Warszawski"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +42,44 @@
       "title": "gazeta wrocławska",
       "trafficCount": "100+",
       "pubDate": "Tue, 25 Nov 2025 21:40:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4gQwxlIbcUhQ_kHJVKq4zktyD4Tsj_u_23HcwgEFHrNMsiODE1NxlFSgh2NU",
+      "pictureSource": "Opole Nasze Miasto",
+      "relatedSearch": [
+        {
+          "title": "Kolejki NFZ na rezonans magnetyczny w Opolu. Terminy aktualne na 21.11.2025",
+          "snippet": "",
+          "url": "https://opole.naszemiasto.pl/kolejki-nfz-na-rezonans-magnetyczny-w-opolu-terminy-aktualne-na-21-11-2025/ar/c14p1-24576985",
+          "source": "Opole Nasze Miasto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda białystok",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 25 Nov 2025 21:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKmrd7Amxcg8qL95JRwRzIKk9fWtabjFsJEdniy7iwRi0jQgvGr3RqeXsx-sM",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Białystok - 26.11.2025. Jaka będzie pogoda w mieście?",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/bialystok/bialystok-prognoza-pogody-w-dniu-26112025/fzpg9dc",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Pogoda w środę w Białymstoku. Zobacz prognozę pogody na jutro, 26.11 dla Białegostoku",
+          "snippet": "",
+          "url": "https://bialystok.naszemiasto.pl/pogoda-w-srode-w-bialymstoku-zobacz-prognoze-pogody-na-jutro-26-11-dla-bialegostoku/ar/c1p1-19942877",
+          "source": "Białystok Nasze Miasto"
+        },
+        {
+          "title": "Białystok. Jaka pogoda czeka nas 25.11.2025?",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/bialystok/bialystok-prognoza-pogody-w-dniu-25112025/lvq8v31",
+          "source": "Onet Wiadomości"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -49,7 +93,7 @@
     },
     {
       "title": "epoznan",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 25 Nov 2025 21:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_-RA_LsRn_R5vJ9AcwZ2BTx2d7aUuI4IUDR_t8DAcfu3dcdIKlO7_I74Mqz8",
       "pictureSource": "o2.pl",
@@ -61,16 +105,16 @@
           "source": "o2.pl"
         },
         {
+          "title": "Służby w akcji. Atak zimy w regionie. Jeździ się bardzo ciężko",
+          "snippet": "",
+          "url": "https://elka.pl/content/view/127693/80/",
+          "source": "elka.pl"
+        },
+        {
           "title": "Prognozy nie kłamały. Poznań i okolice pod śniegiem! Duże korki na trasach",
           "snippet": "",
           "url": "https://epoznan.pl/news-news-170126-prognozy_nie_klamaly_poznan_i_okolice_pod_sniegiem_duze_korki_na_trasach",
           "source": "ePoznan"
-        },
-        {
-          "title": "458 ton soli i 700 tysięcy złotych. Miasto nie oszczędza na zimie",
-          "snippet": "",
-          "url": "https://www.dziennikwschodni.pl/artykul/384011,458-ton-soli-i-700-tysiecy-zlotych-miasto-nie-oszczedza-na-zimie",
-          "source": "Dziennik Wschodni"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -160,85 +204,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pogoda poznań",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 25 Nov 2025 20:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxXc5kUU3G_bkKCui99y7FI5LIxDo4uA8bAP6albo2Vg9Na5hEj868eyisCjM",
-      "pictureSource": "Onet Wiadomości",
+      "title": "wyniki na zywo",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Nov 2025 20:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6pGziX2ZB8D23DnOXykTQJWtSj64MhVSfozRDgEgZo7HJ29uiilTQLuSvLIo",
+      "pictureSource": "Przegląd Sportowy Onet",
       "relatedSearch": [
         {
-          "title": "Poznań - 26.11.2025. Pogoda na dziś",
+          "title": "Zwrot w hicie PlusLigi! Hala oszalała. 11 punktów z rzędu!",
           "snippet": "",
-          "url": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-26112025/2wm8dq8",
-          "source": "Onet Wiadomości"
+          "url": "https://przegladsportowy.onet.pl/siatkowka/zwrot-w-hicie-plusligi-hala-oszalala-11-punktow-z-rzedu/xg9zpjm",
+          "source": "Przegląd Sportowy Onet"
         },
         {
-          "title": "Prognoza pogody na tydzień dla Poznania. Jakie będą temperatury od jutra (26.11) do poniedziałku?",
+          "title": "Skra po raz szósty! Bełchatowianie nie do zatrzymania",
           "snippet": "",
-          "url": "https://poznan.naszemiasto.pl/prognoza-pogody-na-tydzien-dla-poznania-jakie-beda-temperatury-od-jutra-26-11-do-poniedzialku/ar/c1p1-19943937",
-          "source": "Poznań Nasze Miasto"
+          "url": "https://sportowefakty.wp.pl/siatkowka/1221578/skra-po-raz-siodmy-belchatowianie-nie-do-zatrzymania",
+          "source": "SportoweFakty"
         },
         {
-          "title": "Poznań - prognoza pogody w dniu 25.11.2025",
+          "title": "Dawny gigant PlusLigi podnosi się z kolan? Kolejny sygnał, siatkarski nokaut",
           "snippet": "",
-          "url": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-25112025/43jxf2k",
-          "source": "Onet Wiadomości"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "stranger things 5",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 25 Nov 2025 14:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0_-KPIySSiEiD5UztJjRZLciAYsUKvHD4I4BY2gEJxjhc9Ud6cx7qW2X6VBE",
-      "pictureSource": "The Hollywood Reporter",
-      "relatedSearch": [
-        {
-          "title": "‘Stranger Things’: 10 Things The Duffer Brothers Want You to Know Before Watching the Final Season",
-          "snippet": "",
-          "url": "https://www.hollywoodreporter.com/lists/stranger-things-season-5-duffer-brothers-recommendations/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "Stranger Things is ending, and so is Netflix’s reliance on tentpole shows",
-          "snippet": "",
-          "url": "https://www.theverge.com/streaming/828254/stranger-things-season-5-netflix-tentpoles-future",
-          "source": "The Verge"
-        },
-        {
-          "title": "‘Stranger Things’ Fans Are Binging Netflix Hit Ahead Of Season 5 As First Four Seasons Enter Charts",
-          "snippet": "",
-          "url": "https://deadline.com/2025/11/stranger-things-netflix-ratings-four-seasons-1236628742/",
-          "source": "Deadline"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ewa gawryluk",
-      "trafficCount": "5000+",
-      "pubDate": "Tue, 25 Nov 2025 14:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviabXOS5nal6Uy3S5b83ccxmirrKgvOBLIqAFFKNpKcU4k0VSnwsgtbit1yE",
-      "pictureSource": "Plejada",
-      "relatedSearch": [
-        {
-          "title": "Katarzyna Niezgoda o udziale w \"Afryce Express\". \"Przez moment się nie wahaliśmy\"",
-          "snippet": "",
-          "url": "https://plejada.pl/newsy/katarzyna-niezgoda-o-udziale-w-afryce-express-przez-moment-sie-nie-wahalismy/pf5m9c9",
-          "source": "Plejada"
-        },
-        {
-          "title": "Nikodem Rozbicki o udziale w programie \"Afryka Express\". \"To nie tylko fajerwerki na ekranie\"",
-          "snippet": "",
-          "url": "https://tvn.pl/programy/afryka_express/aktualnosci/drugie-miejsce-w-afryka-express-nikodem-rozbicki-dzieli-sie-refleksjami-po-finale-st8769276",
-          "source": "TVN.pl"
-        },
-        {
-          "title": "Wydekoltowana Edyta Zając i Michał Mikołajczak trzymają się za ręce na ściance. Słodziaki? (ZDJĘCIA)",
-          "snippet": "",
-          "url": "https://www.pudelek.pl/wydekoltowana-edyta-zajac-i-michal-mikolajczak-trzymaja-sie-za-rece-na-sciance-slodziaki-zdjecia-7224690506361376g",
-          "source": "Pudelek"
+          "url": "https://sport.interia.pl/siatkowka/ekstraklasa-mezczyzn/news-miazdzacy-set-takiej-serii-dawno-nie-bylo-jest-efekt-zmiana,nId,22460191",
+          "source": "Sport w INTERIA.PL"
         }
       ],
       "link": "https://imtaqin.id/"
