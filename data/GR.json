@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-11-26 18:53:07",
+  "lastUpdate": "2025-11-26 19:00:04",
   "data": [
+    {
+      "title": "الطقس غدًا",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 26 Nov 2025 10:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxCAReXhqkR9HGLO-KkOWd5PW8FItPXooFE2TmAtDt9UlYJl7cIDLz7GtbZXo",
+      "pictureSource": "نيوز رووم",
+      "relatedSearch": [
+        {
+          "title": "الأرصاد تحذر من انخفاض درجات الحرارة وتقلبات جوية خلال الأيام المقبلة",
+          "snippet": "",
+          "url": "https://www.newsroom.info/217040",
+          "source": "نيوز رووم"
+        },
+        {
+          "title": "الأرصاد الجوية بمصر: انخفاض ملحوظ في درجات الحرارة وتحذيرات من شبورة كثيفة",
+          "snippet": "",
+          "url": "https://www.khaligyoun.com/606651/",
+          "source": "خليجيون - نيوز"
+        },
+        {
+          "title": "عاجل: الأرصاد تحذر من تقلبات جوية حادة اليوم - شبورة كثيفة وسيول محتملة في 15 محافظة!",
+          "snippet": "",
+          "url": "https://yemen-press.net/news150128.html",
+          "source": "يمن برس"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "crvena zvezda vs olympiacos",
       "trafficCount": "500+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "παφοσ",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 26 Nov 2025 10:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRkh3Pw-dN148GBB725Js9nndyCW20heT903KFw-yz8yDbRoCveP-QIUgdEnM",
-      "pictureSource": "Agones.gr",
-      "relatedSearch": [
-        {
-          "title": "Πάφος - Μονακό 26/11 | Προγνωστικά για Στοίχημα",
-          "snippet": "",
-          "url": "https://agones.gr/livescore/5376-3755/pafos-monako",
-          "source": "Agones.gr"
-        },
-        {
-          "title": "Καλαϊτζίδης Προγνωστικά 26/11: ΔΥΑΔΑ με άρωμα Τσάμπιονς Λιγκ για ΤΑΜΕΙΟ",
-          "snippet": "",
-          "url": "https://www.bethome.gr/gia-to-kalytero-dynato-kai-pali/",
-          "source": "Bethome"
-        },
-        {
-          "title": "Πάφος – Μονακό 1-2: Τραγικό λάθος του Μιχαήλ, γκολ ο Μπαλογκάν (video)",
-          "snippet": "",
-          "url": "https://www.novasports.gr/web-tv/sport/podosfairo/event/uefa-champions-league/live-goals/video/14544414/pafos-monako-1-2-tragiko-lathos-tou-mixail-gkol-o-mpalogkan-video/",
-          "source": "Novasports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ερυθροσ αστερασ ολυμπιακοσ",
       "trafficCount": "200+",
       "pubDate": "Wed, 26 Nov 2025 10:10:00 -0800",
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.betarades.gr/euroleague-26-11-i-allagmeni-armani-kai-i-dyskoli-exodos-toy-olympiakoy/",
           "source": "Betarades"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "παφοσ",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 26 Nov 2025 10:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRkh3Pw-dN148GBB725Js9nndyCW20heT903KFw-yz8yDbRoCveP-QIUgdEnM",
+      "pictureSource": "Agones.gr",
+      "relatedSearch": [
+        {
+          "title": "Πάφος - Μονακό 26/11 | Προγνωστικά για Στοίχημα",
+          "snippet": "",
+          "url": "https://agones.gr/livescore/5376-3755/pafos-monako",
+          "source": "Agones.gr"
+        },
+        {
+          "title": "Καλαϊτζίδης Προγνωστικά 26/11: ΔΥΑΔΑ με άρωμα Τσάμπιονς Λιγκ για ΤΑΜΕΙΟ",
+          "snippet": "",
+          "url": "https://www.bethome.gr/gia-to-kalytero-dynato-kai-pali/",
+          "source": "Bethome"
+        },
+        {
+          "title": "Πάφος – Μονακό 1-2: Τραγικό λάθος του Μιχαήλ, γκολ ο Μπαλογκάν (video)",
+          "snippet": "",
+          "url": "https://www.novasports.gr/web-tv/sport/podosfairo/event/uefa-champions-league/live-goals/video/14544414/pafos-monako-1-2-tragiko-lathos-tou-mixail-gkol-o-mpalogkan-video/",
+          "source": "Novasports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +171,7 @@
     },
     {
       "title": "hong kong",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 26 Nov 2025 09:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPQ4c_XPJDgMZprs_l3umMeeDzIx1bceYGO0iqsP9gjV2OmwQP1gINq6iFGSM",
       "pictureSource": "BBC",
@@ -155,16 +183,16 @@
           "source": "BBC"
         },
         {
-          "title": "Developing Xi sends condolences as baby, elderly woman rescued in deadly Hong Kong blaze",
+          "title": "Developing | 36 dead, 279 missing in Hong Kong housing estate blaze",
           "snippet": "",
           "url": "https://www.scmp.com/news/hong-kong/society/article/3334217/major-fire-hong-kongs-tai-po-leaves-2-severely-burned-residents-trapped",
           "source": "South China Morning Post"
         },
         {
-          "title": "At least 36 dead as fire rips through Hong Kong tower blocks",
+          "title": "At least 36 killed after fire engulfs Hong Kong high-rise buildings - with 279 reported missing",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/hong-kong-tai-po-buildings-fire-11-26-25",
-          "source": "CNN"
+          "url": "https://news.sky.com/story/dozens-killed-in-fire-in-high-rise-block-in-hong-kong-13475573",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,10 +245,10 @@
           "source": "In.gr"
         },
         {
-          "title": "Κίνα: Ο Σι καλεί το Χονγκ Κονγκ να \"καταβάλει κάθε δυνατή προσπάθεια\" για την κατάσβεση φονικής πυρκαγιάς",
+          "title": "Κόλαση φωτιάς στο Χονγκ Κονγκ – Τουλάχιστον 36 νεκροί και 279 αγνοούμενοι",
           "snippet": "",
-          "url": "https://www.capital.gr/diethni/3959272/kina-o-si-kalei-to-xongk-kongk-na-katabalei-kathe-dunati-prospatheia-gia-tin-katasbesi-fonikis-purkagias/",
-          "source": "Capital.gr"
+          "url": "https://www.tanea.gr/2025/11/26/world/sokaristikes-eikones-apo-tin-fotia-sto-xongk-kongk-36-nekroi-kai-279-agnooumenoi/",
+          "source": "ΤΑ ΝΕΑ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.tanea.gr/2025/11/26/sports/football/olympiakos-o-marselo-me-tin-epeteiaki-emfanisi-anamesa-stous-karempe-kai-kovasevits/",
           "source": "ΤΑ ΝΕΑ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "olympiacos real madrid",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 26 Nov 2025 08:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsoekSFIuUJSakaQPJN-VuE7nBNwRHA6xwIJxbX0fgmkf8OxUEJDHtrhiIFl4",
-      "pictureSource": "Olympiacos.org",
-      "relatedSearch": [
-        {
-          "title": "Press Conference Before the Olympiacos–Real Madrid Match",
-          "snippet": "",
-          "url": "https://www.olympiacos.org/en/2025/11/26/press-conference-before-the-olympiacos-real-madrid-match/",
-          "source": "Olympiacos.org"
-        },
-        {
-          "title": "Real Madrid’s defensive woes increase for Olympiakos trip",
-          "snippet": "",
-          "url": "https://www.ekathimerini.com/sports/1287826/real-madrids-defensive-woes-increase-for-olympiakos-trip/",
-          "source": "eKathimerini.com"
-        },
-        {
-          "title": "Courtois will not travel with Real, concerns for Alonso",
-          "snippet": "",
-          "url": "https://indeksonline.net/en/Courtois-will-not-travel-with-Real--concerns-for-Alonso/",
-          "source": "Indeksonline."
         }
       ],
       "link": "https://imtaqin.id/"
