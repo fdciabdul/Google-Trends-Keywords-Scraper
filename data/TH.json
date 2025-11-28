@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-11-28 14:09:12",
+  "lastUpdate": "2025-11-28 14:21:11",
   "data": [
     {
+      "title": "내일 날씨",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 28 Nov 2025 06:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR01ogxHygFjVZbXpHTOly2Hpz1UWwQtwaf7Vr2Ebsz6k5oDAK9rk_7xvQwJZY",
+      "pictureSource": "YTN",
+      "relatedSearch": [
+        {
+          "title": "[날씨] 반짝 추위 뒤 온화한 주말...다음 주엔 '동장군' 온다",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0108_202511282158197672",
+          "source": "YTN"
+        },
+        {
+          "title": "[날씨] 낮부터 기온 올라 '포근'…10도 이상 큰 일교차",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20251128147000004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[내일날씨] \"마지막 가을 나들이 갈까\"…다음주부터 겨울",
+          "snippet": "",
+          "url": "https://news.nate.com/weather/view/20251128n31051",
+          "source": "네이트"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "หวยลาววันนี้ออกอะไร",
-      "trafficCount": "5000+",
+      "trafficCount": "20000+",
       "pubDate": "Fri, 28 Nov 2025 05:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEZzM3rDDBuXVLFxvKjv68VUH8SCWIkwyLvxOj9QWqAPiErEYhK1M79dg7HeA",
       "pictureSource": "Sanook.com",
@@ -31,7 +59,7 @@
     },
     {
       "title": "weather tomorrow",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Fri, 28 Nov 2025 05:20:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJPg5VyNUIHWwKBedaWxtwTfdch4u45ek8O6mkQtD9UlSo-EOdi-WxcqzYw",
       "pictureSource": "Channel 3000",
@@ -117,9 +145,15 @@
       "title": "sf",
       "trafficCount": "200+",
       "pubDate": "Fri, 28 Nov 2025 04:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRxPxSOKzRFOqaPztnqkjYTkLi_M5NIp3eyBP-sM3XeUvqXV-t9t3vFsA8hE",
-      "pictureSource": "San Francisco Examiner",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2mlrV8WmFCPQ4HZj1aOW3XNWvqWtuvtwZ0iyixMJR4W7-gQ1zSYGP7x8fAtg",
+      "pictureSource": "The San Francisco Standard",
       "relatedSearch": [
+        {
+          "title": "Off Menu: What SF’s food pros really want for the holidays",
+          "snippet": "",
+          "url": "https://sfstandard.com/2025/11/28/menu-sf-s-food-pros-really-want-holidays/",
+          "source": "The San Francisco Standard"
+        },
         {
           "title": "Anni Chung insists Asian seniors not suffer 'in silence'",
           "snippet": "",
@@ -131,12 +165,6 @@
           "snippet": "",
           "url": "https://sfyimby.com/2025/11/plans-filed-for-apartments-at-1451-mason-street-at-nob-hill-san-francisco.html",
           "source": "San Francisco YIMBY"
-        },
-        {
-          "title": "Elite S.F. private schools’ $50 million complex to push out neighborhood pool hall, British pub",
-          "snippet": "",
-          "url": "https://www.sfchronicle.com/sf/article/schools-sacred-heart-aquatic-center-21210422.php",
-          "source": "San Francisco Chronicle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,20 +201,20 @@
       "title": "kfc",
       "trafficCount": "200+",
       "pubDate": "Fri, 28 Nov 2025 03:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEZeZno2eebSxt1OH1DlintWWIFmAVTR3RPwXB8cZT4-1V9ZdfiYZlL4iQPdo",
-      "pictureSource": "Allrecipes",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZMdGDso0c-5LMR6dwhhWygrO6f1xUkzl6t-Clk909k-LwmLcslKlFmkq-IOU",
+      "pictureSource": "Parade Magazine",
       "relatedSearch": [
-        {
-          "title": "Wendy's and KFC Just Got Some Serious Competition",
-          "snippet": "",
-          "url": "https://www.allrecipes.com/daves-hot-chicken-new-saucy-bites-and-ranch-dip-11855890",
-          "source": "Allrecipes"
-        },
         {
           "title": "Hot Chicken Chain Launches Saucy Nuggets to Compete With KFC and Wendy’s",
           "snippet": "",
           "url": "https://parade.com/news/daves-hot-chicken-new-saucy-bites-kfc-wendys-competition",
           "source": "Parade Magazine"
+        },
+        {
+          "title": "Wendy's and KFC Just Got Some Serious Competition",
+          "snippet": "",
+          "url": "https://www.allrecipes.com/daves-hot-chicken-new-saucy-bites-and-ranch-dip-11855890",
+          "source": "Allrecipes"
         },
         {
           "title": "Dave’s Hot Chicken launches new menu item as chain continues WA expansion",
@@ -226,57 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "mama awards 2025 live",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 28 Nov 2025 02:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8XGihnXNozt4mQwGZnGGS9AWu-4oe7mfws01K3WE-YHsy-wLSYoMPK3PCE5Q",
-      "pictureSource": "BBC",
+      "title": "hbo",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 28 Nov 2025 02:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRloN750fH9snTAyeF_W8XZJlE5UyCiuohmwnqqylAYRhfhRMCoevbYhs2kYD4",
+      "pictureSource": "Engadget",
       "relatedSearch": [
         {
-          "title": "\"ผมใจสลาย\" ชาวฮ่องกงเล่านาทีชีวิตเหตุไฟไหม้ตึกสูงเขตไท่โป",
+          "title": "HBO Max Black Friday deal: Get one year of access for only $36",
           "snippet": "",
-          "url": "https://www.bbc.com/thai/articles/c04v7v76w7ro",
-          "source": "BBC"
+          "url": "https://www.engadget.com/deals/black-friday-streaming-deals-include-one-year-of-hbo-max-for-36-163017424.html",
+          "source": "Engadget"
         },
         {
-          "title": "ดูสด 2025 MAMA AWARDS – เปิดไลน์อัพศิลปิน–ดาราเข้าร่วมงานที่ฮ่องกง",
+          "title": "HBO Max is offering one of the best Black Friday deals we’ve seen this year",
           "snippet": "",
-          "url": "https://www.hallyukstar.com/2025/11/28/mama-2025-live-hong-kong-lineup/",
-          "source": "Hallyu K Star"
+          "url": "https://www.theverge.com/gadgets/827608/hbo-max-black-friday-deal-streaming-sale-2025",
+          "source": "The Verge"
         },
         {
-          "title": "ยอดดับพุ่ง 55 ราย สูญหายกว่า 280 คน ไฟไหม้อาคารที่พักอาศัยฮ่องกง เลวร้ายสุดในรอบ 7 ทศวรรษ",
+          "title": "How to get STARZ for $1 a month during this crazy good Black Friday deal",
           "snippet": "",
-          "url": "https://www.thairath.co.th/news/foreign/2898373",
-          "source": "www.thairath.co.th"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ฟุตซอลหญิงชิงแชมป์โลก",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 28 Nov 2025 02:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ATq1tmkaj5O4km6iA00mF0DdLu9_Kph1g79yZJ_ZZFGo86hohd3hNf732r4",
-      "pictureSource": "Siamsport",
-      "relatedSearch": [
-        {
-          "title": "ฟุตซอลหญิงไทยพ่ายโคลอมเบีย 1-4 ชวดเข้ารอบ 8 ทีมชิงแชมป์โลก 2025",
-          "snippet": "",
-          "url": "https://www.siamsport.co.th/football-thailand/futsal/95122/",
-          "source": "Siamsport"
-        },
-        {
-          "title": "\"อารียา\" พูดตรงๆ หลัง \"ฟุตซอลหญิงไทย\" แพ้ \"โคลอมเบีย\" ตกรอบฟุตซอลหญิงชิงแชมป์โลก 2025",
-          "snippet": "",
-          "url": "https://www.thairath.co.th/sport/futsal/2898704",
-          "source": "Thairath"
-        },
-        {
-          "title": "LIVE ถ่ายทอดสดฟุตซอล ทีมชาติไทย พบ โคลอมเบีย ดูบอลสด ชิงแชมป์โลก 2025",
-          "snippet": "",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1209722",
-          "source": "bangkokbiznews"
+          "url": "https://www.nj.com/tv/2025/11/how-to-get-starz-for-1-a-month-during-this-crazy-good-black-friday-deal.html",
+          "source": "NJ.com"
         }
       ],
       "link": "https://imtaqin.id/"
