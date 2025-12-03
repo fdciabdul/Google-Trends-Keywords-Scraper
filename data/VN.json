@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-12-03 23:07:02",
+  "lastUpdate": "2025-12-03 23:17:48",
   "data": [
+    {
+      "title": "thời tiết hôm nay",
+      "trafficCount": "50000+",
+      "pubDate": "Wed, 3 Dec 2025 15:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLcnQOYkPPgvuI8QbEXYx6MbD0DNnxPQPtfil2IKk7bUqXT2v79W6WjgPicBk",
+      "pictureSource": "Laodong.vn",
+      "relatedSearch": [
+        {
+          "title": "Dự báo thời tiết 3 ngày tới từ 4.12 đến 6.12 ở cả ba miền",
+          "snippet": "",
+          "url": "https://laodong.vn/ban-tin/du-bao-thoi-tiet-3-ngay-toi-tu-412-den-612-o-ca-ba-mien-1619622.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Không khí lạnh lan rộng, nhiều nơi ở miền Bắc rét đậm",
+          "snippet": "",
+          "url": "https://dantri.com.vn/thoi-su/khong-khi-lanh-lan-rong-nhieu-noi-o-mien-bac-ret-dam-20251203183824632.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Miền Bắc chuẩn bị bước vào cao điểm rét đậm, rét hại trên diện rộng",
+          "snippet": "",
+          "url": "https://vov.vn/xa-hoi/mien-bac-chuan-bi-buoc-vao-cao-diem-ret-dam-ret-hai-tren-dien-rong-post1250586.vov",
+          "source": "VOV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "juventude đấu với santos",
       "trafficCount": "200+",
@@ -52,34 +80,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bảng xếp hạng bóng đá anh",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 3 Dec 2025 14:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6_tXq7NjmqxlLZREo57jMLzYOWoLlEyzT_UPzwSjhFfVu0ymb0Xwx3ft0kzQ",
-      "pictureSource": "VnExpress",
-      "relatedSearch": [
-        {
-          "title": "Nhan sắc của 'hoa khôi' cầm cờ cho Việt Nam ở SEA Games 33",
-          "snippet": "",
-          "url": "https://vnexpress.net/nhan-sac-cua-hoa-khoi-cam-co-cho-viet-nam-o-sea-games-33-4989108.html",
-          "source": "VnExpress"
-        },
-        {
-          "title": "Đoàn thể thao Việt Nam có nghĩa cử cao đẹp trước khi đi Thái Lan dự SEA Games 33",
-          "snippet": "",
-          "url": "https://tuoitre.vn/doan-the-thao-viet-nam-co-nghia-cu-cao-dep-truoc-khi-di-thai-lan-du-sea-games-33-20251203212642148.htm",
-          "source": "Báo Tuổi Trẻ"
-        },
-        {
-          "title": "LỊCH THI ĐẤU SEA GAMES 33",
-          "snippet": "",
-          "url": "https://xaydungchinhsach.chinhphu.vn/lich-thi-dau-sea-games-33-119251203104721951.htm",
-          "source": "xaydungchinhsach.chinhphu.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ket qua bong đa",
       "trafficCount": "100+",
       "pubDate": "Wed, 3 Dec 2025 14:10:00 -0800",
@@ -103,6 +103,34 @@
           "snippet": "",
           "url": "https://laodong.vn/su-kien-binh-luan/tuong-lai-1618786.ldo",
           "source": "Laodong.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bảng xếp hạng bóng đá anh",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 3 Dec 2025 14:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6_tXq7NjmqxlLZREo57jMLzYOWoLlEyzT_UPzwSjhFfVu0ymb0Xwx3ft0kzQ",
+      "pictureSource": "VnExpress",
+      "relatedSearch": [
+        {
+          "title": "Nhan sắc của 'hoa khôi' cầm cờ cho Việt Nam ở SEA Games 33",
+          "snippet": "",
+          "url": "https://vnexpress.net/nhan-sac-cua-hoa-khoi-cam-co-cho-viet-nam-o-sea-games-33-4989108.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Đoàn thể thao Việt Nam có nghĩa cử cao đẹp trước khi đi Thái Lan dự SEA Games 33",
+          "snippet": "",
+          "url": "https://tuoitre.vn/doan-the-thao-viet-nam-co-nghia-cu-cao-dep-truoc-khi-di-thai-lan-du-sea-games-33-20251203212642148.htm",
+          "source": "Báo Tuổi Trẻ"
+        },
+        {
+          "title": "LỊCH THI ĐẤU SEA GAMES 33",
+          "snippet": "",
+          "url": "https://xaydungchinhsach.chinhphu.vn/lich-thi-dau-sea-games-33-119251203104721951.htm",
+          "source": "xaydungchinhsach.chinhphu.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -139,62 +167,34 @@
       "title": "bảng xếp hạng ngoại hạng anh",
       "trafficCount": "2000+",
       "pubDate": "Wed, 3 Dec 2025 14:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5vt8Ri4eFPsKZeBphHvLSfJbBMnjVb3AWgiEYQulnBhYIKrZIlWKPwOlwMx8",
-      "pictureSource": "Báo VietNamNet",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeWZin363Vi2sPqW4aCON1JjfFxfSMuhoeyuLZlptma9O1t0oWfdk16n8fXgc",
+      "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
-          "title": "BXH Ngoại hạng Anh 2025/26 - Vòng 14 mới nhất",
+          "title": "Hấp dẫn bảng xếp hạng Ngoại hạng Anh: Arsenal trụ vững \"trên đỉnh\"",
           "snippet": "",
-          "url": "https://vietnamnet.vn/bang-xep-hang-ngoai-hang-anh-2025-26-vong-14-moi-nhat-2468720.html",
-          "source": "Báo VietNamNet"
-        },
-        {
-          "title": "8 điểm nhấn ở vòng 13 Ngoại hạng Anh",
-          "snippet": "",
-          "url": "https://vnexpress.net/8-diem-nhan-o-vong-13-ngoai-hang-anh-4988270.html",
-          "source": "VnExpress"
-        },
-        {
-          "title": "Nóng bảng xếp hạng Ngoại hạng Anh: Man City vượt Chelsea, ngáo ộp Sunderland chen top 4",
-          "snippet": "",
-          "url": "https://www.24h.com.vn/bong-da/nong-bang-xep-hang-ngoai-hang-anh-man-city-vuot-chelsea-ngao-op-sunderland-chen-top-4-c48a1717885.html",
+          "url": "https://www.24h.com.vn/bong-da/hap-dan-bang-xep-hang-ngoai-hang-anh-arsenal-tru-vung-tren-dinh-c48a1718889.html",
           "source": "Tin tức 24h"
+        },
+        {
+          "title": "7 năm sau, dự đoán của Pep Guardiola đã trở thành sự thật",
+          "snippet": "",
+          "url": "https://plo.vn/7-nam-sau-du-doan-cua-pep-guardiola-da-tro-thanh-su-that-post883918.html",
+          "source": "Báo Pháp Luật TP. Hồ Chí Minh"
+        },
+        {
+          "title": "'Đây là đội Arsenal mạnh nhất từ 1971, hãy giành danh hiệu ngay!'",
+          "snippet": "",
+          "url": "https://thethao247.vn/493-day-la-doi-arsenal-manh-nhat-tu-1971-hay-gianh-danh-hieu-ngay-d399576.html",
+          "source": "Thể Thao 247"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chelsea fc",
-      "trafficCount": "500+",
+      "title": "bxh ngoại hạng anh",
+      "trafficCount": "200+",
       "pubDate": "Wed, 3 Dec 2025 14:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAYXd-9jgwReXQZ15pAkhm_b_bb-lDumoHbx2AxDEmShRtY7iiKqTR_P_fGF4",
-      "pictureSource": "baonghean.vn",
-      "relatedSearch": [
-        {
-          "title": "Chelsea vs Leeds: Hatred since 1967, the Elland Road battle",
-          "snippet": "",
-          "url": "https://baonghean.vn/en/chelsea-vs-leeds-han-thu-tu-1967-dai-chien-elland-road-10313663.html",
-          "source": "baonghean.vn"
-        },
-        {
-          "title": "Chelsea XI vs Leeds: Estevao Starts, Cole Palmer Benched for EPL Clash",
-          "snippet": "",
-          "url": "https://chelseafconline.com/2025/12/chelsea-xi-vs-leeds-estevao-starts-cole-palmer-benched-for-epl-clash/",
-          "source": "Chelsea FC Online"
-        },
-        {
-          "title": "Chelsea player ratings vs Leeds as Tosin Adarabioyo and substitute cost Enzo Maresca's side",
-          "snippet": "",
-          "url": "https://www.thechelseachronicle.com/news/chelsea-player-ratings-vs-leeds-as-tosin-adarabioyo-and-substitute-cost-enzo-marescas-side/",
-          "source": "The Chelsea Chronicle"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bxh anh",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 3 Dec 2025 13:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1ExjzC-AHlkMvF_w6Sig68DWyICnLEkrUWIvvEC3tHoHZBlYh9gHmrPmjszk",
       "pictureSource": "Tin tức 24h",
       "relatedSearch": [
@@ -220,40 +220,59 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "lịch thi đấu bóng đá ngoại hạng anh",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 3 Dec 2025 13:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2_nFqnRuMeUszowv5V8vKlJJyIqqrqmt3iGyemrOrUe7oCmzoWPZhs_3K8hY",
-      "pictureSource": "Báo VietNamNet",
+      "title": "chelsea fc",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 3 Dec 2025 14:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAYXd-9jgwReXQZ15pAkhm_b_bb-lDumoHbx2AxDEmShRtY7iiKqTR_P_fGF4",
+      "pictureSource": "baonghean.vn",
       "relatedSearch": [
         {
-          "title": "Lịch thi đấu bóng đá SEA Games 33 hôm nay 3/12",
+          "title": "Chelsea vs Leeds: Hatred since 1967, the Elland Road battle",
           "snippet": "",
-          "url": "https://vietnamnet.vn/lich-thi-dau-bong-da-sea-games-33-hom-nay-3-12-2468632.html",
-          "source": "Báo VietNamNet"
+          "url": "https://baonghean.vn/en/chelsea-vs-leeds-han-thu-tu-1967-dai-chien-elland-road-10313663.html",
+          "source": "baonghean.vn"
         },
         {
-          "title": "Link VTV2 VTV5 trực tiếp bóng đá SEA Games 2025 hôm nay 3/12: Thái Lan vs Timor Leste",
+          "title": "Gary Neville names 3 areas where Chelsea are “not good enough to be title winners”",
           "snippet": "",
-          "url": "https://thethaovanhoa.vn/link-vtv2-vtv5-truc-tiep-bong-da-sea-games-2025-hom-nay-3-12-20251203073702171.htm",
-          "source": "thethaovanhoa.vn"
+          "url": "https://onefootball.com/en/news/gary-neville-names-3-areas-where-chelsea-are-not-good-enough-to-be-title-winners-42044466",
+          "source": "OneFootball"
         },
         {
-          "title": "Lịch thi đấu bóng đá hôm nay, ngày 2/12",
+          "title": "Chelsea XI vs Leeds: Estevao Starts, Cole Palmer Benched for EPL Clash",
           "snippet": "",
-          "url": "https://bongdaplus.vn/bong-da-the-gioi/lich-thi-dau-bong-da-hom-nay-ngay-2-12-4876452512.html",
-          "source": "Bongdaplus"
+          "url": "https://chelseafconline.com/2025/12/chelsea-xi-vs-leeds-estevao-starts-cole-palmer-benched-for-epl-clash/",
+          "source": "Chelsea FC Online"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kqbd hom nay",
-      "trafficCount": "100+",
+      "title": "kết quả ngoại hạng anh",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 3 Dec 2025 13:40:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5vt8Ri4eFPsKZeBphHvLSfJbBMnjVb3AWgiEYQulnBhYIKrZIlWKPwOlwMx8",
+      "pictureSource": "Báo VietNamNet",
+      "relatedSearch": [
+        {
+          "title": "BXH Ngoại hạng Anh 2025/26 - Vòng 14 mới nhất",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/bang-xep-hang-ngoai-hang-anh-2025-26-vong-14-moi-nhat-2468720.html",
+          "source": "Báo VietNamNet"
+        },
+        {
+          "title": "8 điểm nhấn ở vòng 13 Ngoại hạng Anh",
+          "snippet": "",
+          "url": "https://vnexpress.net/8-diem-nhan-o-vong-13-ngoai-hang-anh-4988270.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Nóng bảng xếp hạng Ngoại hạng Anh: Man City vượt Chelsea, ngáo ộp Sunderland chen top 4",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/bong-da/nong-bang-xep-hang-ngoai-hang-anh-man-city-vuot-chelsea-ngao-op-sunderland-chen-top-4-c48a1717885.html",
+          "source": "Tin tức 24h"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
