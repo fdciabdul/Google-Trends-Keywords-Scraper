@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-12-04 07:19:45",
+  "lastUpdate": "2025-12-04 07:31:49",
   "data": [
     {
       "title": "новороссия",
       "trafficCount": "200+",
       "pubDate": "Wed, 3 Dec 2025 23:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSILMAa2_UXDQfQ4gEYxlLH3JWFQp0rQL2l4iMDfZwgYqKqniE6D6igDj8Y7G8",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDx76R1bbvNgFelNywEVF-wQd6_B9n98QMtszY_HTiuBB1YXghFtMJqoxXiHg",
       "pictureSource": "Ведомости",
       "relatedSearch": [
-        {
-          "title": "Путин: Россия предлагала Украине покинуть Донбасс и не начинать конфликт",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2025/12/04/1160432-putin-rossiya-predlagala",
-          "source": "Ведомости"
-        },
         {
           "title": "Путин: Россия освободит Донбасс и Новороссию любым путем",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.bbc.com/russian/articles/cn98g498q45o",
           "source": "BBC"
+        },
+        {
+          "title": "Путин рассказал, что Россия предложила Украине 4 декабря 2025",
+          "snippet": "",
+          "url": "https://ura.news/news/1053043982",
+          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -67,6 +67,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "пенсионный возраст",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 3 Dec 2025 22:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgvRDZjaRBB4zHJCGCMZMvcMdAagrrpWE3Zl6XjEbJ9kJ_Mbuwsuw5F6WQAU",
+      "pictureSource": "Юга.ру",
+      "relatedSearch": [
+        {
+          "title": "На пенсию теперь в 62 года: россиянам снижают пенсионный возраст с 1 января 2026 года",
+          "snippet": "",
+          "url": "https://www.yuga.ru/polza/305-na-pensiyu-teper-v-62-goda-rossiyanam-snizhayut-pensionnyj-vozrast-s-1-yanvarya-2026-goda/",
+          "source": "Юга.ру"
+        },
+        {
+          "title": "В Госдуме предложили провести в России новую пенсионную реформу",
+          "snippet": "",
+          "url": "https://klops.ru/other/2025-12-03/373375-v-gosdume-predlozhili-provesti-v-rossii-novuyu-pensionnuyu-reformu",
+          "source": "Клопс - новости Калининград"
+        },
+        {
+          "title": "Объявлено новое повышение пенсионного возраста с 2026 года – работать придется еще дольше",
+          "snippet": "",
+          "url": "https://primamedia.ru/news/2313360/",
+          "source": "PrimaMedia.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "медь",
       "trafficCount": "200+",
       "pubDate": "Wed, 3 Dec 2025 22:50:00 -0800",
@@ -90,34 +118,6 @@
           "snippet": "",
           "url": "https://www.interfax.ru/business/1061264",
           "source": "Интерфакс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пенсионный возраст",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 3 Dec 2025 22:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFcznft8nshzJ8KeeaFPgKR3FMMkPSYqupzRpJpjUhy29kxv-LASS0nL9P3sg",
-      "pictureSource": "RTVI",
-      "relatedSearch": [
-        {
-          "title": "«Вернуть возраст»: Миронов высказался о новой пенсионной реформе",
-          "snippet": "",
-          "url": "https://rtvi.com/news/vernut-vozrast-mironov-vyskazalsya-o-novoj-pensionnoj-reforme/",
-          "source": "RTVI"
-        },
-        {
-          "title": "Доля пенсионеров достигнет почти четверти населения, доллар продолжит слабеть. Обзор Банки.ру",
-          "snippet": "",
-          "url": "https://www.banki.ru/news/lenta/?id=11019702",
-          "source": "Банки.ру"
-        },
-        {
-          "title": "В Госдуме рассказали о перспективах повышения пенсионного возраста в ближайшие годы",
-          "snippet": "",
-          "url": "https://m.business-gazeta.ru/news/688825",
-          "source": "БИЗНЕС Online — Новости Казани"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,10 +151,10 @@
           "source": "Meduza"
         },
         {
-          "title": "Врача, продававшего кетамин актёру Мэттью Перри, приговорили к 30 месяцам тюрьмы",
+          "title": "Врача-поставщика кетамина для Мэттью Перри приговорили к 2,5 года тюрьмы",
           "snippet": "",
-          "url": "https://gazeta.a42.ru/lenta/news/222461-vraca-prodavavsego-ketamin-aktyoru-mettyu-perri-prigovorili-k-30-mesyacam",
-          "source": "Gazeta.a42.ru."
+          "url": "https://snob.ru/news/vrachu-postavliavshemu-ketamin-mettiu-perri-vynesli-prigovor/",
+          "source": "Сноб"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,16 +229,16 @@
           "source": "Rusbiathlon"
         },
         {
-          "title": "Кубок Содружества по биатлону: когда начало, где смотреть онлайн, спринты в Ханты‑Мансийске 4 декабря",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Biatlon/spbnews_NI2274533_Kubok_Sodruzhestva_po_biatlonu_kogda_nachalo_gde_smotret_onlajn_sprinty_v_KhantyMansijske_4_dekabra",
-          "source": "Sportbox"
-        },
-        {
           "title": "Биатлонистка Шевченко — о морозе в Ханты‑Мансийске: «Тяжело перестраиваться с ноля градусов сразу на «-27»",
           "snippet": "",
           "url": "https://matchtv.ru/biathlon/matchtvnews_NI2274531_Biatlonistka_Shevchenko__o_moroze_v_KhantyMansijske_Tazhelo_perestraivatsa_s_nola_gradusov_srazu_na__27",
           "source": "Матч ТВ"
+        },
+        {
+          "title": "Кубок Содружества по биатлону: когда начало, где смотреть онлайн, спринты в Ханты‑Мансийске 4 декабря",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Biatlon/spbnews_NI2274533_Kubok_Sodruzhestva_po_biatlonu_kogda_nachalo_gde_smotret_onlajn_sprinty_v_KhantyMansijske_4_dekabra",
+          "source": "Sportbox"
         }
       ],
       "link": "https://imtaqin.id/"
