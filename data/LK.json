@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2025-12-05 09:28:15",
+  "lastUpdate": "2025-12-05 09:39:03",
   "data": [
+    {
+      "title": "canva",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 5 Dec 2025 01:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSATAwVIJSSpo3OsoBpqWeQWcPrcfFti3XUM5KNJED3w6uQ34pCeMuEpeRSTDY",
+      "pictureSource": "Campaign",
+      "relatedSearch": [
+        {
+          "title": "Canva opens pop-up as part of Wes Anderson: The Archives exhibition",
+          "snippet": "",
+          "url": "https://www.campaignlive.co.uk/article/canva-opens-pop-up-part-wes-anderson-archives-exhibition/1942061",
+          "source": "Campaign"
+        },
+        {
+          "title": "Retrospective of Wes Anderson at the Design Museum in London",
+          "snippet": "",
+          "url": "https://arquitecturaviva.com/articles/retrospectiva-de-wes-anderson-en-el-design-museum-de-londres",
+          "source": "Arquitectura Viva"
+        },
+        {
+          "title": "Global websites back online as Cloudflare issues fix for dashboard issue",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/12/05/cloudlfare-is-investigating-issues-with-dashboard-and-related-apps.html",
+          "source": "CNBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "cloudflare",
       "trafficCount": "500+",
       "pubDate": "Fri, 5 Dec 2025 01:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCfRzPmwOm8YAVrMMYbOKQGWDyTJiBCHEqSO3cudF7YjO_G_KQjH32vtR6UTs",
-      "pictureSource": "Times Now",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzaKf46GSaFXTu2qUOgIPnOytgocpsfEbK6Vm1PWxOI5RPOhVGW1AoNC_nVWw",
+      "pictureSource": "CNBC",
       "relatedSearch": [
-        {
-          "title": "Cloudflare Down: Users Unable To Use Multiple Apps",
-          "snippet": "",
-          "url": "https://www.timesnownews.com/technology-science/cloudflare-down-users-unable-to-use-multiple-apps-article-153250255",
-          "source": "Times Now"
-        },
         {
           "title": "Global websites back online as Cloudflare issues fix for dashboard issue",
           "snippet": "",
@@ -21,10 +43,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Cloudflare Outage Hits Global Sites; Shopify Stores Down",
+          "title": "Cloudflare down, websites offline with 500 Internal Server Error",
           "snippet": "",
-          "url": "https://punemirror.com/viral/cloudflare-outage-shopify-stores-down-worldwide/",
-          "source": "Pune Mirror"
+          "url": "https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/",
+          "source": "BleepingComputer"
+        },
+        {
+          "title": "Cloudflare Down: Users Unable To Use Multiple Apps",
+          "snippet": "",
+          "url": "https://www.timesnownews.com/technology-science/cloudflare-down-users-unable-to-use-multiple-apps-article-153250255",
+          "source": "Times Now"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "marnus labuschagne",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 5 Dec 2025 00:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqyT4qQFM0m0ASnz_ujib45CmgWAqf5bIiv5qWuu5wrQu6ddcy6h8ymHum1gY",
-      "pictureSource": "ESPNcricinfo",
-      "relatedSearch": [
-        {
-          "title": "Ten years since Adelaide, pink-ball Tests remain an Australian speciality",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/story/ten-years-on-day-night-tests-thrive-in-australia-but-dim-elsewhere-1514002",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "Like night and day: why Test cricket changes so much under lights",
-          "snippet": "",
-          "url": "https://theconversation.com/like-night-and-day-why-test-cricket-changes-so-much-under-lights-267320",
-          "source": "The Conversation"
-        },
-        {
-          "title": "First player in history! Marnus Labuschagne achieves record-breaking feat in Brisbane",
-          "snippet": "",
-          "url": "https://www.indiatvnews.com/sports/cricket/first-player-in-history-marnus-labuschagne-achieves-record-breaking-feat-in-brisbane-2025-12-05-1020394",
-          "source": "India TV News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "steve smith",
       "trafficCount": "200+",
       "pubDate": "Thu, 4 Dec 2025 23:40:00 -0800",
@@ -105,10 +105,10 @@
           "source": "DNA India"
         },
         {
-          "title": "Why is Steve Smith wearing Black Strips under his eyes?",
+          "title": "The Ashes 2025 second Test day two LIVE updates: Jake Weatherald falls for 72; Jofra Archer delivers after Stuart Broad’s stinging critique",
           "snippet": "",
-          "url": "https://cricket.one/match-hub/the-chanderpaul-hack-steve-smith-reveals-why-he-wears-black-strips-under-his-eyes-against-the-pink-ball/69329505d4da727a38b0fe2a",
-          "source": "OneCricket"
+          "url": "https://www.theage.com.au/sport/cricket/the-ashes-2025-second-test-day-two-live-updates-australia-s-new-batting-order-faces-rejuvenated-england-outfit-20251205-p5nl57.html?post=p59m9q",
+          "source": "The Age"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +117,26 @@
       "title": "arne slot",
       "trafficCount": "100+",
       "pubDate": "Thu, 4 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTokx9r3pShhnZO2jbZVksdhvmN2nhj3_l1AJzoqrX-uyHi3a3tPSDnC8gspWY",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCPwdRojRtL__76lY9G_Iu-CPpfoRVuImJvLqHaPRYnWVq2jd1rcuT1yyKr_E",
+      "pictureSource": "Sky Sports",
       "relatedSearch": [
         {
-          "title": "Liverpool 1-1 Sunderland: Virgil van Dijk struggles for Reds again",
+          "title": "Mohamed Salah: Jamie Redknapp says 'something has to give' as Arne Slot drops Liverpool's star man again",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c741n0ek1m8o",
-          "source": "BBC"
+          "url": "https://www.skysports.com/football/news/11095/13479195/mohamed-salah-jamie-redknapp-says-something-has-to-give-as-arne-slot-drops-liverpools-star-man-again",
+          "source": "Sky Sports"
         },
         {
-          "title": "Liverpool Avoid Embarrassment At Home With Late Equaliser",
+          "title": "Van Dijk Emphasises Salah’s Leadership Role Ahead of Leeds Clash",
           "snippet": "",
-          "url": "https://dawan.africa/news/liverpool-avoid-embarrassment-at-home-with-late-equaliser",
-          "source": "Dawan Africa"
+          "url": "https://www.sportingpedia.com/2025/12/04/van-dijk-emphasises-salahs-leadership-role-ahead-of-leeds-clash/",
+          "source": "Sportingpedia"
         },
         {
-          "title": "Jamie Carragher slams Liverpools performance against Sunderland",
+          "title": "Salah does not have 'unlimited credit' at Liverpool: Virgil van Dijk",
           "snippet": "",
-          "url": "https://www.geosuper.tv/latest/51227-jamie-carragher-slams-liverpools-performance-against-sunderland",
-          "source": "Geo Super"
+          "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/salah-does-not-have-unlimited-credit-at-liverpool-virgil-van-dijk/articleshow/125768128.cms",
+          "source": "The Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,15 +173,9 @@
       "title": "shai hope",
       "trafficCount": "200+",
       "pubDate": "Thu, 4 Dec 2025 21:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVjLPApEKNaBRkX8jP_12dpS8PUbQdYnScFeumYByCRwHgCARaEpl5s0Xzd0",
-      "pictureSource": "Cricbuzz.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvx50MgjlvJnYmYEaFpEIvityh-xppBCrlmkEjySme7oqb2zXRMcH55U2mgmk",
+      "pictureSource": "ESPNcricinfo",
       "relatedSearch": [
-        {
-          "title": "Hope, Greaves drag Christchurch Test to Day 5",
-          "snippet": "",
-          "url": "https://www.cricbuzz.com/cricket-news/136788/hope-greaves-drag-christchurch-test-to-day-5",
-          "source": "Cricbuzz.com"
-        },
         {
           "title": "Hope holds firm as West Indies drag New Zealand into fifth-day battle",
           "snippet": "",
@@ -189,10 +183,16 @@
           "source": "ESPNcricinfo"
         },
         {
-          "title": "New Zealand pair pile on the pain for the Windies",
+          "title": "Hope, Greaves drag Christchurch Test to Day 5",
           "snippet": "",
-          "url": "https://www.cricket.com.au/news/4414438/new-zealand-pair-pile-on-the-pain-for-the-windies-west-indies-first-test-2025-christchurch-rachin-ravindra-tom-latham",
-          "source": "cricket.com.au"
+          "url": "https://www.cricbuzz.com/cricket-news/136788/hope-greaves-drag-christchurch-test-to-day-5",
+          "source": "Cricbuzz.com"
+        },
+        {
+          "title": "Shai Hope's Innings Proves That Test Cricket Eats ODIs & T20Is for Breakfast, Lunch & Dinner",
+          "snippet": "",
+          "url": "https://www.mensxp.com/sports/cricket/180999-shai-hopes-innings-proves-that-test-cricket-eats-odis-t20is-for-breakfast-lunch-dinner.html",
+          "source": "MensXP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,10 +245,10 @@
           "source": "Reuters Connect"
         },
         {
-          "title": "'It could have been three points!' – Nuno thrilled with West Ham comeback",
+          "title": "'Frustrated and angry' - Ruben Amorim lets rip at Man Utd after throwing away lead against West Ham",
           "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/it-could-have-been-three-points--nuno-thrilled-with-west-ham-comeback-2025-12-04",
-          "source": "beIN SPORTS"
+          "url": "https://www.goal.com/en-ca/lists/frustrated-angry-ruben-amorim-lets-rip-man-utd-throwing-away-lead-against-west-ham/bltcb1d5d65ca82390e",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
