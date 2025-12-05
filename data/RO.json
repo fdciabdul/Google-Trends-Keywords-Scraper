@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-05 10:12:00",
+  "lastUpdate": "2025-12-05 10:25:03",
   "data": [
     {
       "title": "rds",
@@ -33,15 +33,9 @@
       "title": "downdetector",
       "trafficCount": "200+",
       "pubDate": "Fri, 5 Dec 2025 01:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-hsLWI0MW1h3PoouHvoJTJhZR29tR7-PSxiRz1yV9xtTI13p6qrzbbDZYFT0",
-      "pictureSource": "Știrile Pro TV",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTreBmMnX9w9M9UzyC-vRBS8ZNcR8gwzmr66V2YDZgbyOOJxi8T43JC3tNR6nQ",
+      "pictureSource": "StartupCafe",
       "relatedSearch": [
-        {
-          "title": "Cloudflare a picat din nou. Internetul e afectat de o pană generalizată",
-          "snippet": "",
-          "url": "https://stirileprotv.ro/stiri/actualitate/cloudflare-a-picat-din-nou-internetul-e-afectat-de-o-pana-generalizata.html",
-          "source": "Știrile Pro TV"
-        },
         {
           "title": "Probleme cu platformele care folosesc servicii Cloudflare. A doua pană în mai puțin de o lună",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "StartupCafe"
         },
         {
-          "title": "Noi probleme pentru CloudFare la nivel mondial. Numeroase site-uri nu funcționează, printre care și platforma LinkedIn",
+          "title": "Cloudflare a picat din nou. Internetul e afectat de o pană generalizată",
           "snippet": "",
-          "url": "https://economedia.ro/noi-probleme-pentru-cloudfare-la-nivel-mondial-numeroase-site-uri-nu-functioneaza-printre-care-si-platforma-linkedin.html",
-          "source": "Economedia.ro"
+          "url": "https://stirileprotv.ro/stiri/actualitate/cloudflare-a-picat-din-nou-internetul-e-afectat-de-o-pana-generalizata.html",
+          "source": "Știrile Pro TV"
+        },
+        {
+          "title": "O nouă avarie masivă pentru internetul global. Mai multe site-uri importante au picat, erori în lanț....",
+          "snippet": "",
+          "url": "https://ziare.com/tehnologie/cloudfare-picat-interent-1980775",
+          "source": "Ziare.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +117,26 @@
       "title": "cloudflare",
       "trafficCount": "5000+",
       "pubDate": "Fri, 5 Dec 2025 00:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzaKf46GSaFXTu2qUOgIPnOytgocpsfEbK6Vm1PWxOI5RPOhVGW1AoNC_nVWw",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjrhdlQGA1SS3jzzkOm-PeKIBMQcO4Jr0Md5QsZZOGZi8UsgmViUPiFnNyr8",
+      "pictureSource": "The Independent",
       "relatedSearch": [
         {
-          "title": "Global websites back online as Cloudflare issues fix for dashboard issue",
+          "title": "Cloudflare down: Internet stops working properly amid major outage",
           "snippet": "",
-          "url": "https://www.cnbc.com/2025/12/05/cloudlfare-is-investigating-issues-with-dashboard-and-related-apps.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Half the internet is down AGAIN! Here's why Fortnite, Twitter, Spotify and more aren't working",
-          "snippet": "",
-          "url": "https://thetab.com/2025/12/05/half-the-internet-is-down-again-heres-why-fortnite-twitter-spotify-and-more-arent-working",
-          "source": "The Tab"
+          "url": "https://www.independent.co.uk/tech/cloudflare-down-server-error-500-update-b2878629.html",
+          "source": "The Independent"
         },
         {
           "title": "Fortnite, Roblox, League of Legends Servers Down as Cloudflare Falters",
           "snippet": "",
           "url": "https://www.gamingbible.com/news/fortnite-roblox-league-legends-down-cloudflare-486158-20251205",
           "source": "GAMINGbible"
+        },
+        {
+          "title": "Second Outage Hits CFD Broker and Prop Firms Amid Cloudflare “Maintenance”",
+          "snippet": "",
+          "url": "https://www.financemagnates.com/forex/second-outage-hits-cfd-broker-and-prop-firms-amid-cloudflare-maintenance/",
+          "source": "Finance Magnates"
         }
       ],
       "link": "https://imtaqin.id/"
