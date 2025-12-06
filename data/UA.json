@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-06 09:48:22",
+  "lastUpdate": "2025-12-06 09:55:18",
   "data": [
     {
       "title": "олександрія",
@@ -31,7 +31,7 @@
     },
     {
       "title": "кропивницький",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 6 Dec 2025 01:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqxaJndnQb-WOJA_cjgGUgIrmhw1wq4iZO3wTtkzCsniWsnUADQQ9TPMbQBcg",
       "pictureSource": "Суспільне | Новини",
@@ -152,11 +152,17 @@
     },
     {
       "title": "волинські новини",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 5 Dec 2025 21:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcIPSd0dJNtkElWNzjBczHH9Yhxy7inTDkY4DdeSbwDHq7-WQOXboDkkUALs",
-      "pictureSource": "ТСН",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvn5XG73n6NhpDfYVtMCLjyQycf_FQJZmrC1YsCybwYhg6W3wtF1Ukm-n7ldE",
+      "pictureSource": "Патріот Донбасу",
       "relatedSearch": [
+        {
+          "title": "Мер Луцька розповів, що внаслідок ворожої атаки виникла пожежа на складах з продуктами харчування",
+          "snippet": "",
+          "url": "https://donpatriot.news/mer-luczka-rozpoviv-shho-vnaslidok-vorozhoyi-ataky-vynykla-pozhezha-na-skladah-z-produktamy-harchuvannya",
+          "source": "Патріот Донбасу"
+        },
         {
           "title": "У Луцьку сталися потужні вибухи: що відомо про атаку безпілотників",
           "snippet": "",
@@ -168,12 +174,6 @@
           "snippet": "",
           "url": "https://www.volynnews.com/news/all/voroh-atakuvav-volyn-shakhedamy-v-lutsku-horiat-sklady/",
           "source": "Волинські Новини"
-        },
-        {
-          "title": "Внаслідок атаки РФ у Луцьку горять склади, пошкоджено будинок у районі",
-          "snippet": "",
-          "url": "https://suspilne.media/lutsk/1182316-6-grudna-u-lucku-bulo-cutno-zvuki-vibuhiv/",
-          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,14 +210,14 @@
       "title": "останні новини",
       "trafficCount": "100+",
       "pubDate": "Fri, 5 Dec 2025 20:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo7MsUv9-6L8FbGiM_qDBX8CvrCTUbVuGahpRy1DcE3hr5IK2vHD-gF1s-E6A",
-      "pictureSource": "УНІАН",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjSBfZWoCgzuH1HOXIzrXgS3sZbOPBHf3O_n0xors5fFQXysYZEgevkcJO5M",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "США відправили \"ядерного розвідника\" до узбережжя Росії: що відомо про місію літака",
+          "title": "Умєров і Віткофф повідомили про перебіг переговорів щодо \"мирного плану\"",
           "snippet": "",
-          "url": "https://www.unian.ua/world/ssha-vidpravili-yadernogo-rozvidnika-do-uzberezhzhya-rosiji-shcho-vidomo-pro-misiyu-litaka-13218321.html",
-          "source": "УНІАН"
+          "url": "https://www.pravda.com.ua/news/2025/12/06/8010618/",
+          "source": "Українська правда"
         },
         {
           "title": "Українська делегація вшосте за останні два тижні зустрілася з представниками США: підсумки зустрічі Віткоффа з Умєровим та Гнатовим",
@@ -226,10 +226,10 @@
           "source": "Рубрика"
         },
         {
-          "title": "Умєров і Віткофф повідомили про перебіг переговорів щодо \"мирного плану\"",
+          "title": "Перемовини України та США продовжаться в суботу: Умєров розповів про попередні підсумки",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2025/12/06/8010618/",
-          "source": "Українська правда"
+          "url": "https://www.ukrinform.ua/rubric-polytics/4066615-peremovini-ukraini-ta-ssa-prodovzatsa-v-subotu-umerov-rozpoviv-pro-poperedni-pidsumki.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
