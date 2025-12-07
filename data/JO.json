@@ -1,37 +1,121 @@
 {
-  "lastUpdate": "2025-12-07 03:47:38",
+  "lastUpdate": "2025-12-07 04:06:38",
   "data": [
+    {
+      "title": "طقس اليوم",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 6 Dec 2025 19:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMu7KP4BHri4w2ymV4D4LsWRf1P9k8d0BkxVqVJufjcvz2nzkav9BExTrtOf8",
+      "pictureSource": "اليوم السابع",
+      "relatedSearch": [
+        {
+          "title": "حالة الطقس اليوم الأحد 7 ديسمبر.. انخفاض بالحرارة وأمطار واضطراب بالملاحة",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2025/12/7/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-7-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8/7224273",
+          "source": "اليوم السابع"
+        },
+        {
+          "title": "تحذير أولي.. شبورة ورياح رملية تقترب من شرق السعودية غدا",
+          "snippet": "",
+          "url": "https://sports-leb.com/283343/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%88%D9%84%D9%8A-%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%88%D8%B1%D9%8A%D8%A7%D8%AD-%D8%B1%D9%85%D9%84%D9%8A%D8%A9-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86/",
+          "source": "sports-leb"
+        },
+        {
+          "title": "موجة باردة تضرب مصر والأرصاد تكشف التفاصيل | صحيفة الخليج",
+          "snippet": "",
+          "url": "https://www.alkhaleej.ae/2025-12-06/%D9%85%D9%88%D8%AC%D8%A9-%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-6210741/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
+          "source": "صحيفة الخليج"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس في الزرقاء",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 6 Dec 2025 19:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdsq_YD9hkfY5oMRfL7Rk8KZ_m2-joP9XcRClHrEOGqZ5pj5nLSgJ5sU5JQE",
+      "pictureSource": "طقس العرب",
+      "relatedSearch": [
+        {
+          "title": "الأردن: تعرف على ماينتظر المملكة الأيام القادمة",
+          "snippet": "",
+          "url": "https://www.arabiaweather.com/ar/content/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%A7%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9",
+          "source": "طقس العرب"
+        },
+        {
+          "title": "مستجدات الحالة الجوية في المملكة",
+          "snippet": "",
+          "url": "https://royanews.tv/video/79258",
+          "source": "رؤيا الإخباري"
+        },
+        {
+          "title": "تحذير عاجل صادر عن إدارة الأرصاد الجوية",
+          "snippet": "",
+          "url": "https://www.alwakeelnews.com/Section_1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9_756348",
+          "source": "الوكيل الإخباري"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ufc",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 6 Dec 2025 16:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmsEKLJ_1e8UDLwFksdO6WAqTG4Vr9vtMhsxEY11nD4kFDbhbEErpV5ge1cL4",
+      "pictureSource": "Bloody Elbow",
+      "relatedSearch": [
+        {
+          "title": "Israel Adesanya urges Petr Yan to do something 'completely out of the box' against Merab Dvalishvili",
+          "snippet": "",
+          "url": "https://bloodyelbow.com/2025/12/06/israel-adesanya-urges-petr-yan-to-do-something-completely-out-the-box-against-merab-dvalishvili/",
+          "source": "Bloody Elbow"
+        },
+        {
+          "title": "WAY TO WATCH UFC 323 Live CrackStreams ON TV CHANNEL",
+          "snippet": "",
+          "url": "https://www.goldderby.com/topic/way-to-watch-ufc-323-live-crackstreams-on-tv-channel/",
+          "source": "Gold Derby"
+        },
+        {
+          "title": "BetMGM Bonus Code SI1500 Unlocks $1,500 Offer for UFC 323 Dvalishvili vs Yan",
+          "snippet": "",
+          "url": "https://www.si.com/betting-promo/betmgm-bonus-code-si1500-unlocks-1-500-offer-for-ufc-323-dvalishvili-vs-yan-01kbp4gkbgkt",
+          "source": "Sports Illustrated"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "inter miami vs vancouver",
       "trafficCount": "500+",
       "pubDate": "Sat, 6 Dec 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-EYLHB6BiS5HaEZUaO34wVC1lTXUis0dMxM0-ihDHXQIU3Hhpq0jhQMmg3SE",
-      "pictureSource": "Roya News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQcNhBFGXdlTwbLgEXpMENDQb9X-Nv5k_ZVSk1SXiVhFLhF98sjXAPnyfd7X0",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Messi dazzles as Miami beat Vancouver to win MLS title",
+          "title": "Lionel Messi is playing for another trophy. Inter Miami to meet Vancouver in the MLS Cup final",
           "snippet": "",
-          "url": "https://en.royanews.tv/news/65518",
-          "source": "Roya News"
-        },
-        {
-          "title": "Football Tracker: PSG hosting Rennes in Ligue 1, Messi and Inter Miami win MLS Cup",
-          "snippet": "",
-          "url": "https://www.flashscore.com/news/football-tracker-psg-hosting-rennes-in-ligue-1-messi-and-inter-miami-win-mls-cup/f3F8qdTG/",
-          "source": "Flashscore.com"
+          "url": "https://apnews.com/article/messi-mls-cup-inter-miami-vancouver-8f1d57663d38b0f73b04c5800c843904",
+          "source": "AP News"
         },
         {
           "title": "How many career titles does Lionel Messi have compared to Cristiano Ronaldo after MLS Cup win with Inter Mi...",
           "snippet": "",
           "url": "https://bolavip.com/en/soccer/how-many-career-titles-does-lionel-messi-have-compared-to-cristiano-ronaldo-after-mls-cup-win-with-inter-miami",
           "source": "Bolavip"
+        },
+        {
+          "title": "Inter Miami defeat Vancouver Whitecaps in MLS Cup final – as it happened",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2025/dec/06/mls-cup-final-inter-miami-v-vancouver-whitecaps-live-build-up?filterKeyEvents=false&page=with%3Ablock-6934a3c28f088620f1c1fe78",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "psg vs rennes",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 6 Dec 2025 11:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSumBoFT0nRngpE5-XZ4NBFeRkd40CrpwMpKIsiOOkpPfBXkwCWoizN6B3NTE",
       "pictureSource": "Reuters Connect",
@@ -145,26 +229,26 @@
       "title": "أتلتيك بيلباو ضد أتلتيكو مدريد",
       "trafficCount": "2000+",
       "pubDate": "Sat, 6 Dec 2025 11:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj9ExJOKBP03qupvIAFs4mRFkCZMMHbKFCGKtOE37psurlyTu9PlSNJg9ROEg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxRnwsYpFjYxcRPx4BNo9J9edphzBqxx_JDgtNgQullovspSMPWRj2wi4d9s",
       "pictureSource": "هاي كورة",
       "relatedSearch": [
         {
-          "title": "أول تعليق من نيكو ويليامز بعد الفوز على اتلتيكو مدريد",
+          "title": "هدافي أتلتيكو مدريد في الليغا قبل مواجهة بيلباو",
           "snippet": "",
-          "url": "https://hihi2.com/2025/12/07/p3546351.html",
+          "url": "https://hihi2.com/2025/12/06/p3544420.html",
           "source": "هاي كورة"
         },
         {
-          "title": "يلا شووت - متابعة لحظية للمباريات",
+          "title": "الدوري الاسباني: اتلتيك بلباو يخطف الفوز من اتلتيكو",
           "snippet": "",
-          "url": "https://www.ysscores.com/ar/news/13867699/%D8%B3%D9%8A%D9%85%D9%8A%D9%88%D9%86%D9%8A-%D9%84%D9%85-%D9%86%D8%B3%D8%AA%D8%BA%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D8%B5%D8%8C-%D9%88%D9%85%D8%B9%D8%B8%D9%85-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D9%84%D8%B9%D8%A8%D9%87%D8%A7",
-          "source": "يلا سبورت"
+          "url": "https://elsport.com/news/show/803074/%7B%7Burl%7D%7D",
+          "source": "Elsport"
         },
         {
-          "title": "القنوات الناقلة لمباراة أتليتكو مدريد ضد أتليتك بيلباو اليوم في الدوري الإسباني مع الموعد والتشكيلة - المشهد",
+          "title": "الخسارة الثانية تواليا.. أتلتيكو مدريد يخسر من أتلتيك بلباو",
           "snippet": "",
-          "url": "https://almashhad.com/article/218257510540304-sports/376583845013372-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%83%D9%88-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%83-%D8%A8%D9%8A%D9%84%D8%A8%D8%A7%D9%88-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9/",
-          "source": "قناة ومنصة المشهد"
+          "url": "https://www.filgoal.com/articles/518634",
+          "source": "FilGoal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://elclasicoo.com/%D9%87%D9%84-%D9%8A%D8%B1%D8%AD%D9%84-%D8%A8%D8%A7%D8%B1%D8%AF%D8%BA%D8%AC%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9%D8%9F/",
           "source": "موقع الكلاسيكو"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "inter vs como",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 6 Dec 2025 10:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLdo_V_G91ZQUnRpM91NfpmaRrundZZpusbbrxwwkUvm8B8oHsxy3BPgGQlL0",
-      "pictureSource": "AP News",
-      "relatedSearch": [
-        {
-          "title": "Inter vence 4-0 a Como y lidera la Serie A. Fiorentina sigue sin ganar.",
-          "snippet": "",
-          "url": "https://apnews.com/article/liga-italiana-serie-a-inter-milan-fiorentina-d2cba9056927f54fd93c206b9836b0a1",
-          "source": "AP News"
-        },
-        {
-          "title": "Internazionale venció por 4-0 a Como, por la Liga de Italia 2025",
-          "snippet": "",
-          "url": "https://www.lanacion.com.ar/deportes/canchallena/internazionale-vencio-por-4-0-a-como-por-la-liga-de-italia-2025-nid06122025/",
-          "source": "La Nación"
-        },
-        {
-          "title": "Gol y nuevo record de Lautaro Martínez en la victoria de Inter",
-          "snippet": "",
-          "url": "https://deportv.gob.ar/futbol/futbol-liga-de-italia-inter-lautaro-martinez-nid:9528",
-          "source": "DeporTV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "leeds united vs liverpool",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 6 Dec 2025 09:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtr2xTrS67aTh66ZtJ-afwNHeZJUDP3D1j_SwqdVfur16v64KyQqnhGCG3nq4",
-      "pictureSource": "Sky Sports",
-      "relatedSearch": [
-        {
-          "title": "Live Commentary - Leeds vs Liverpool | 06.12.2025",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/leeds-vs-liverpool/live/531274",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Premier League LIVE: Aston Villa vs Arsenal - scores, stats & updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c4gwyz8el2vt",
-          "source": "BBC"
-        },
-        {
-          "title": "Farke keeps a lid on emotions after 'magic' Elland Road night caps off 'exhausting' week",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/farke-keeps-a-lid-on-emotions-after-magic-elland-road-night-caps-off-exhausting-week-2025-12-06",
-          "source": "beIN SPORTS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الإنتر ضد كومو",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 6 Dec 2025 09:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN0wDznEY2VUUspbVwZGEYsLMMNFtlga5Ihdj2QSXFvD-oSuNOlwXuu5X6yTo",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "إنتر ميلان يقفز للصدارة بسحق كومو",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%95%D9%86%D8%AA%D8%B1-%D9%8A%D9%82%D9%81%D8%B2-%D9%84%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A8%D8%B3%D8%AD%D9%82-%D9%83%D9%88%D9%85%D9%88/bltb2c4451a8b97dfeb",
-          "source": "Kooora"
-        },
-        {
-          "title": "بطولة إيطاليا: إنتر يواصل صحوته وينتزع الصدارة موقتا",
-          "snippet": "",
-          "url": "https://www.mc-doualiya.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20251206-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%A5%D9%86%D8%AA%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B5%D8%AD%D9%88%D8%AA%D9%87-%D9%88%D9%8A%D9%86%D8%AA%D8%B2%D8%B9-%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D9%88%D9%82%D8%AA%D8%A7",
-          "source": "مونت كارلو الدولية"
-        },
-        {
-          "title": "ما القنوات الناقلة لمباراة إنتر وكومو في الدوري الإيطالي 2025-2026؟ وكيف تشاهدها عبر الإنترنت؟",
-          "snippet": "",
-          "url": "https://www.goal.com/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D9%84%D8%A7%D9%86-%D9%88%D9%83%D9%88%D9%85%D9%88-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-2025-2026-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%87%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%AA%D8%B1%D9%86%D8%AA/blt547cd32a9de4ceae",
-          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
