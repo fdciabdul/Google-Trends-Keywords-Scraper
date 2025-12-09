@@ -1,13 +1,56 @@
 {
-  "lastUpdate": "2025-12-09 00:37:13",
+  "lastUpdate": "2025-12-09 01:04:33",
   "data": [
     {
-      "title": "погода новосибирск",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 8 Dec 2025 16:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-0dGC32IUugQ-6QPgVobUwT8A645MYz9WCOVyIucs9-ke6wMta2PtOxRP6RQ",
-      "pictureSource": "BFM-Новосибирск",
+      "title": "новости мира",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 8 Dec 2025 16:50:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода ангарск",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 8 Dec 2025 16:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo4PWVg1qkuH-TXJMBSXHIIj0F4DYf5ivxzjeOf0iEfZAEraaLoXzrdCeFjMA",
+      "pictureSource": "Твой Иркутск",
       "relatedSearch": [
+        {
+          "title": "9 декабря в Иркутской области синоптики прогнозируют похолодание до -48 градусов",
+          "snippet": "",
+          "url": "https://www.irk.ru/news/20251208/weather/",
+          "source": "Твой Иркутск"
+        },
+        {
+          "title": "Трескучие морозы до -48°C ожидаются в Иркутской области 9 декабря",
+          "snippet": "",
+          "url": "https://irkutskmedia.ru/news/2324222/",
+          "source": "IrkutskMedia"
+        },
+        {
+          "title": "Рассказываем, что обещает погода в Иркутске 8 декабря 2025",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/69006421/",
+          "source": "Mail.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода новосибирск",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 8 Dec 2025 16:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvJlUPv60MqqFs4pa2jjaNAac-bqattA2M5LpOqPtfZKVyDhyGvmGWx6edBu0",
+      "pictureSource": "НГС.ру",
+      "relatedSearch": [
+        {
+          "title": "В Новосибирск пришёл 30-градусный мороз: следим за мёрзнущим городом — онлайн-трансляция",
+          "snippet": "",
+          "url": "https://ngs.ru/text/winter/2025/12/09/76161627/",
+          "source": "НГС.ру"
+        },
         {
           "title": "Ниже многолетних значений: арктический холод пришел в Новосибирскую область",
           "snippet": "",
@@ -15,16 +58,10 @@
           "source": "BFM-Новосибирск"
         },
         {
-          "title": "В Новосибирске 9 декабря ожидается −30 °C",
+          "title": "В Новосибирске ожидаются перепады температуры и снегопады к выходным",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/69007308/",
+          "url": "https://pogoda.mail.ru/news/69006727/",
           "source": "Mail.ru"
-        },
-        {
-          "title": "Температура в Новосибирской области опустилась ниже -31 градуса — карта районов",
-          "snippet": "",
-          "url": "https://ngs.ru/text/winter/2025/12/08/76159899/",
-          "source": "НГС.ру"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,6 +90,34 @@
           "snippet": "",
           "url": "https://biwork.ru/pogoda/86849-stalo-izvestno-kak-dolgo-v-altajskom-krae-prodlatsa-snegopady",
           "source": "Бийский рабочий"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "путин подписал указ на военные сборы",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 8 Dec 2025 16:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnW_KozVNwGviFUOm0E-gOPq1PAuwU6-sH-Cw9MqsRn1plc6QZQbucSc8dNG8",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Путин подписал указ о призыве резервистов на военные сборы",
+          "snippet": "",
+          "url": "https://meduza.io/news/2025/12/08/putin-podpisal-ukaz-o-prizyve-rezervistov-na-voennye-sbory",
+          "source": "Meduza"
+        },
+        {
+          "title": "Президент РФ подписал указ о призыве на военные сборы в 2026 году",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1062082",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Путин подписал указ о призыве россиян из запаса на военные сборы в 2026 году",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2025/12/08/1161602-putin-podpisal-ukaz",
+          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +170,10 @@
           "source": "stavkiprognozy.ru"
         },
         {
-          "title": "Калгари – Баффало: прогноз и ставка (КФ 1,97) на матч Национальной хоккейной лиги (НХЛ), 09.12.2025.",
+          "title": "Калгари Флеймз – Баффало Сейбрз: точный прогноз и ставка на матч НХЛ — 8 декабря 2025",
           "snippet": "",
-          "url": "https://betonmobile.ru/kalgari-baffalo-flyemz-topovo-oboronyayutsya-doma-i-ne-propustili-v-posledney-igre",
-          "source": "Betonmobile.ru"
+          "url": "https://www.liveresult.ru/tips/hockey/USA/tip332842-Calgary-Flames-Buffalo-Sabres",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +258,6 @@
           "snippet": "",
           "url": "https://alsport.kz/football/%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB-%D1%84%D0%BB%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5-%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D1%8B-%D1%80%D0%B2%D1%83%D1%82-%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5/",
           "source": "AlSport.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "торонто тампа прогноз",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 8 Dec 2025 13:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx8ppB-ai_ViUIJop960HWirqUbFQd8K-tAgpsL6EM0E33H7kwjaAJGpbXnrg",
-      "pictureSource": "Metaratings",
-      "relatedSearch": [
-        {
-          "title": "Торонто – Тампа-Бэй прогноз на матч НХЛ 9 декабря 2025 года. Ставка с коэффициентом 2,45",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/hokkey/toronto-tampa-bei-prognoz-na-match-nkhl-9-dekabrya-2025-goda/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "НХЛ, расписание и результаты 9 декабря: «Торонто» — «Тампа», «Сиэтл» — «Миннесота» и другие матчи",
-          "snippet": "",
-          "url": "https://www.sport-express.net/hockey/nhl/news/nhl-raspisanie-rezultaty-i-video-golov-9-dekabrya-toronto-tampa-sietl-minnesota-i-drugie-matchi-2382007/",
-          "source": "sport-express.ru"
-        },
-        {
-          "title": "Монреаль Канадиенс — Тампа-Бэй Лайтнинг: прогноз и ставка на точный счёт матча НХЛ — 9 декабря 2025",
-          "snippet": "",
-          "url": "https://www.liveresult.ru/tips/hockey/USA/tip333070-Mon-Canadiens-Tampa-Bay-Lightning",
-          "source": "LiveResult"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сидни суини",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 8 Dec 2025 13:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThKljzIHEQ0azLVz-OJCUnUsjwPTZTEfoU7AEW9870c93vETjtZ-XqXCCxQ5o",
-      "pictureSource": "Кино Mail",
-      "relatedSearch": [
-        {
-          "title": "Звезда «Эйфории» Сидни Суини ответила на слухи о пластике",
-          "snippet": "",
-          "url": "https://kino.mail.ru/news/109557-zvezda-ejforii-sidni-suini-otvetila-na-sluhi-o-plastike/",
-          "source": "Кино Mail"
-        },
-        {
-          "title": "Сидни Суини сделала опровержение слухов о своей внешности",
-          "snippet": "",
-          "url": "https://stars.comments.ua/news/show-business/sidni-suini-sdelala-oproverzhenie-sluhov-o-svoey-vneshnosti-789713.html",
-          "source": "Comments.ua"
-        },
-        {
-          "title": "Актриса Сидни Суини опровергла слухи о пластике и призналась, что боится уколов",
-          "snippet": "",
-          "url": "https://news.rambler.ua/beauty/55729449-aktrisa-sidni-suini-oprovergla-sluhi-o-plastike-i-priznalas-chto-boitsya-ukolov/",
-          "source": "Рамблер/новости"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "9 декабря гороскоп",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 8 Dec 2025 12:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi0wY1VKZHEw3p4JmIHKO3YFXu9902q_-HjlhmTuJk4wtREN_VoLhTr9eOOmg",
-      "pictureSource": "Astv.ru",
-      "relatedSearch": [
-        {
-          "title": "Гороскоп на 9 декабря: тайны Дев будут раскрыты, а Водолей вспомнит о совершённых ошибках",
-          "snippet": "",
-          "url": "https://astv.ru/news/goroskop/2025-12-08-goroskop-na-9-dekabrya-tajny-dev-budut-raskryty-a-vodolej-vspomnit-o-sovershennyh-oshibkah",
-          "source": "Astv.ru"
-        },
-        {
-          "title": "Гороскоп на 9 декабря 2025 года для всех знаков зодиака",
-          "snippet": "",
-          "url": "https://ysia.ru/goroskop-na-9-dekabrya-2025-goda-dlya-vseh-znakov-zodiaka/",
-          "source": "ЯСИА"
-        },
-        {
-          "title": "Гороскоп на 9 декабря: этому знаку желательно отдохнуть",
-          "snippet": "",
-          "url": "https://bst.bratsk.ru/news/76399",
-          "source": "Братская студия телевидения"
         }
       ],
       "link": "https://imtaqin.id/"
