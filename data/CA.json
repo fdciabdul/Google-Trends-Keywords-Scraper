@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-09 11:58:32",
+  "lastUpdate": "2025-12-09 12:15:22",
   "data": [
     {
       "title": "meteo media",
@@ -43,16 +43,16 @@
           "source": "National Oceanic and Atmospheric Administration (NOAA) (.gov)"
         },
         {
-          "title": "NOAA forecasts strong geomagnetic storm for Tuesday: What to expect",
-          "snippet": "",
-          "url": "https://abcnews.go.com/US/noaa-forecasts-strong-geomagnetic-storm-tuesday-expect/story?id=128209026",
-          "source": "ABC News"
-        },
-        {
           "title": "Northern lights could be visible in a dozen states. See where.",
           "snippet": "",
           "url": "https://www.usatoday.com/story/news/nation/2025/12/08/northern-lights-forecast-december/87666217007/",
           "source": "USA Today"
+        },
+        {
+          "title": "Northern Lights may light up the sky tonight across Canada",
+          "snippet": "",
+          "url": "https://www.theweathernetwork.com/en/news/science/space/auroras-possible-monday-night-due-to-geomagnetic-storm-from-massive-solar-eruption",
+          "source": "The Weather Network"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +99,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "New US security strategy aligns with Russia's vision, Moscow says",
+          "title": "German leader says US strategy shows the need for more European security independence",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cpvd01g2kwwo",
-          "source": "BBC"
+          "url": "https://www.thestar.com/news/world/europe/german-leader-says-us-strategy-shows-the-need-for-more-european-security-independence/article_a9860579-9f61-5910-b23a-0785b0cd0980.html",
+          "source": "Toronto Star"
         },
         {
           "title": "Where’s Canada on Trump’s roadmap?",
@@ -133,10 +133,38 @@
           "source": "Radio-Canada"
         },
         {
-          "title": "Une famille voit ses vacances écourtées à cause de l’annonce de la grève des pilotes",
+          "title": "«Si vous n'êtes pas contents des conditions de travail, allez travailler ailleurs!»: un client d’Air Transat fâché contre les pilotes",
           "snippet": "",
-          "url": "https://www.journaldemontreal.com/2025/12/08/une-famille-voit-ses-vacances-ecourtees-a-cause-de-lannonce-de-la-greve-des-pilotes",
+          "url": "https://www.journaldemontreal.com/2025/12/08/si-vous-netes-pas-contents-des-conditions-de-travail-allez-travailler-ailleurs-un-client-dair-transat-fache-contre-les-pilotes",
           "source": "Le Journal de Montréal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ottawa news",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Dec 2025 03:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc6BmR3QhqMXs90C5rK97OK3RVGsVW5OJGvuOY_JpskNZG-60wEj_Uedrj7VA",
+      "pictureSource": "CTV News",
+      "relatedSearch": [
+        {
+          "title": "‘Don’t know why I was singled out’: Ottawa man with hernia accused of shoplifting at Farm Boy",
+          "snippet": "",
+          "url": "https://www.ctvnews.ca/ottawa/article/dont-know-why-i-was-singled-out-ottawa-man-with-hernia-accused-of-shoplifting-at-farm-boy/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Ottawa man wants apology after hernia leads to shoplifting accusation",
+          "snippet": "",
+          "url": "https://www.ctvnews.ca/ottawa/video/2025/12/08/ottawa-man-wants-apology-after-hernia-leads-to-shoplifting-accusation/",
+          "source": "CTV News"
+        },
+        {
+          "title": "Government to soon have 'sharper view' on public servants' return to office, says Carney",
+          "snippet": "",
+          "url": "https://www.cbc.ca/news/politics/return-to-office-rules-update-carney-9.7007430",
+          "source": "CBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "new york times",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Dec 2025 02:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu6MZK6vl4d9mDfPI8e9z2ZGWBS9GObq7C9JAvxipvUoBo2OE6gpGWl-admYU",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Opinion | Republican Women Suddenly Realize They’re Surrounded by Misogynists",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2025/12/09/opinion/republican-women-misogyny-sexism.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Emma Vigeland: 'These Republican women are hypocrites'",
+          "snippet": "",
+          "url": "https://www.cnn.com/politics/video/emma-vigeland-these-republican-women-are-hypocrites",
+          "source": "CNN"
+        },
+        {
+          "title": "MAGA Pundits Turn on Trump Over “Sexist” Attacks on Marjorie Taylor Greene",
+          "snippet": "",
+          "url": "https://www.inquisitr.com/maga-pundits-turn-on-trump-over-sexist-attacks-on-marjorie-taylor-greene",
+          "source": "Inquisitr News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "calgary weather",
       "trafficCount": "200+",
       "pubDate": "Tue, 9 Dec 2025 02:30:00 -0800",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://dailyhive.com/calgary/calgary-forecast-weather-temperature-drop",
           "source": "Daily Hive Vancouver"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "china shock",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Dec 2025 02:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT00Lum39GqHBGo8ZG5WU-xDNP5ULnzcLz8cFeUIcMbwKlD_eQRNs9PM5wjQQ",
-      "pictureSource": "The Wire India",
-      "relatedSearch": [
-        {
-          "title": "Indias Indigenisation Dilemma: Chinese Imports or Investments?",
-          "snippet": "",
-          "url": "https://m.thewire.in/article/economy/indias-indigenisation-dilemma-chinese-imports-or-investments",
-          "source": "The Wire India"
-        },
-        {
-          "title": "Dragon vs Eagle: Can US survive 'China Shock 2.0'? India could soften blow",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/dragon-vs-eagle-can-us-survive-china-shock-2-0-india-could-soften-blow/articleshow/125803194.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "The China Shock, Revisited (Again)",
-          "snippet": "",
-          "url": "https://www.aei.org/economics/the-china-shock-revisited-again/",
-          "source": "American Enterprise Institute - AEI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vocm",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Dec 2025 02:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3U9y6V4BtOqfHbxFXTugAtgSG5dKI_WiKpb-J_GiChxIfWDYFYOb7iD8DsTo",
-      "pictureSource": "VOCM",
-      "relatedSearch": [
-        {
-          "title": "Man Charged with Attempted Murder After Three Attacked on Anspach Street",
-          "snippet": "",
-          "url": "https://vocm.com/2025/12/09/man-charged-with-attempted-murder-after-three-attacked-on-anspach-street/",
-          "source": "VOCM"
-        },
-        {
-          "title": "Man charged with attempted murder after 3 people attacked in St. John's",
-          "snippet": "",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/attempted-murder-anspatch-street-9.7008338",
-          "source": "CBC"
-        },
-        {
-          "title": "Man charged with attempted murder after three people attacked in Newfoundland",
-          "snippet": "",
-          "url": "https://www.thestar.com/news/canada/newfoundland-and-labrador/man-charged-with-attempted-murder-after-three-people-attacked-in-newfoundland/article_28f5752d-4bb4-55a5-8bed-29bc11460918.html",
-          "source": "Toronto Star"
         }
       ],
       "link": "https://imtaqin.id/"
