@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-12-09 08:43:29",
+  "lastUpdate": "2025-12-09 08:55:38",
   "data": [
+    {
+      "title": "bbc breakfast",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Dec 2025 00:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWlrTmsxnftez28Cn4bfR2l0-_6TsApPajXGdzZedIbB4B_QMBGgpAc9hEwQU",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Southport families: Being together brings us closer to our girls",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/articles/c2ep33m2m0yo",
+          "source": "BBC"
+        },
+        {
+          "title": "TV tonight: remembering the Southport attack victims",
+          "snippet": "",
+          "url": "https://www.theguardian.com/tv-and-radio/2025/dec/09/tv-tonight-remembering-the-southport-attack-victims",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Southport parents: ‘Our girls will be remembered for who they were – not the attack’",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/news/2025/12/06/southport-parents-our-girls-remembered/",
+          "source": "The Telegraph"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bank of england base rate",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Dec 2025 00:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTivVx19E3UPk9FMM7ixPChWziVbR4jZomEb9kIQg-92N3D4c5TyBTUgDuWKSQ",
+      "pictureSource": "City AM",
+      "relatedSearch": [
+        {
+          "title": "Bank of England decision to cut interest rates could be ‘closer call’",
+          "snippet": "",
+          "url": "https://www.cityam.com/bank-of-england-decision-to-cut-interest-rates-could-be-closer-call/",
+          "source": "City AM"
+        },
+        {
+          "title": "HSBC issues prediction that will relieve people with a mortgage",
+          "snippet": "",
+          "url": "https://www.birminghammail.co.uk/news/money/hsbc-issues-prediction-relieve-people-33018439",
+          "source": "Birmingham Live"
+        },
+        {
+          "title": "BoE's Greene Sees Weaker Jobs, Consumption as Key to Any Rate Cut Vote",
+          "snippet": "",
+          "url": "https://money.usnews.com/investing/news/articles/2025-12-01/boes-greene-sees-weaker-jobs-consumption-as-key-to-any-rate-cut-vote",
+          "source": "Money US News.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "chagos islands",
       "trafficCount": "200+",
@@ -58,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "monmouth",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Dec 2025 00:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN3wVATGWEjbR7a4eS6qvRNPN4KQwS0D1p-l5qspPIMEdVhXzy9X8KhvjCkOA",
-      "pictureSource": "CoStar",
-      "relatedSearch": [
-        {
-          "title": "News | Netflix finalizes purchase of New Jersey studio site",
-          "snippet": "",
-          "url": "https://www.costar.com/article/263936789/netflix-finalizes-purchase-of-new-jersey-studio-site",
-          "source": "CoStar"
-        },
-        {
-          "title": "Netflix Studios Fort Monmouth’s $55M land sale finalized",
-          "snippet": "",
-          "url": "https://njbiz.com/netflix-studios-fort-monmouth-land-sale/",
-          "source": "NJBIZ"
-        },
-        {
-          "title": "Netflix Closes Fort Monmouth Deal",
-          "snippet": "",
-          "url": "https://www.jerseyshoreonline.com/ocean-county/netflix-closes-fort-monmouth-deal/",
-          "source": "Jersey Shore Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "unilever share price",
       "trafficCount": "100+",
       "pubDate": "Tue, 9 Dec 2025 00:20:00 -0800",
@@ -109,6 +137,34 @@
           "snippet": "",
           "url": "https://www.reuters.com/business/unilever-completes-ice-cream-demerger-with-magnum-set-list-2025-12-08/",
           "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "monmouth",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Dec 2025 00:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN3wVATGWEjbR7a4eS6qvRNPN4KQwS0D1p-l5qspPIMEdVhXzy9X8KhvjCkOA",
+      "pictureSource": "CoStar",
+      "relatedSearch": [
+        {
+          "title": "News | Netflix finalizes purchase of New Jersey studio site",
+          "snippet": "",
+          "url": "https://www.costar.com/article/263936789/netflix-finalizes-purchase-of-new-jersey-studio-site",
+          "source": "CoStar"
+        },
+        {
+          "title": "Netflix Studios Fort Monmouth’s $55M land sale finalized",
+          "snippet": "",
+          "url": "https://njbiz.com/netflix-studios-fort-monmouth-land-sale/",
+          "source": "NJBIZ"
+        },
+        {
+          "title": "Netflix Closes Fort Monmouth Deal",
+          "snippet": "",
+          "url": "https://www.jerseyshoreonline.com/ocean-county/netflix-closes-fort-monmouth-deal/",
+          "source": "Jersey Shore Online"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,7 +255,7 @@
     },
     {
       "title": "nationwide payments warning",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 9 Dec 2025 00:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAIHCnCTZF-kS2kJLdZBp8nNxmFTbaAYQl_ssIB5_42oLpaywpbVFaNr_FTD0",
       "pictureSource": "Cambridge News",
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.birminghammail.co.uk/news/cost-of-living/what-you-need-know-nationwide-32985709",
           "source": "Birmingham Live"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "belfast international airport",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Dec 2025 00:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZWvoXIutEvCOIcbcQ5XcWOgR6BnnmQVIXU8cj4EzT8ih7A1dU03RimiQpMfw",
-      "pictureSource": "SSBCrack News",
-      "relatedSearch": [
-        {
-          "title": "Belfast International Airport Unveils £100 Million Investment Plans for New Food and Beverage Experiences",
-          "snippet": "",
-          "url": "https://news.ssbcrack.com/belfast-international-airport-unveils-100-million-investment-plans-for-new-food-and-beverage-experiences/",
-          "source": "SSBCrack News"
-        },
-        {
-          "title": "Belfast International Airport launches new dining concepts in £100m upgrade..'We are committed to ensuring that every passenger has a memorable experience'",
-          "snippet": "",
-          "url": "https://www.newsletter.co.uk/business/new-cafes-bars-and-restaurants-will-showcase-the-best-northern-ireland-has-to-offer-as-belfast-airports-major-ps100million-dining-overhaul-takes-off-5424662",
-          "source": "Belfast News Letter"
-        },
-        {
-          "title": "SSP UK&I plans new outlets in Belfast Airport’s £100m overhaul",
-          "snippet": "",
-          "url": "https://qsrmedia.co.uk/operations/news/ssp-uki-plans-new-outlets-in-belfast-airports-ps100m-overhaul",
-          "source": "QSR Media UK"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sports personality of the year 2025",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Dec 2025 00:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYP37597WZD7sYWPqTkXatj3B1sIBWEy7L8NTCcDfGeEGUGsZDdbfm9Ei2m6s",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Voting open for World Sport Star of the Year - meet the contenders",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/articles/cwypxw44ykxo",
-          "source": "BBC"
-        },
-        {
-          "title": "When is BBC Sports Personality of the Year? Odds, favourites and full list of awards",
-          "snippet": "",
-          "url": "https://www.independent.co.uk/sport/sport-personality-of-the-year-date-odds-nominees-b2879917.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "SPOTY 2025: Michelle Agyemang, Luke Littler and Davina Perrin shortlisted for Young Sports Personality",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/articles/cj4q8w827lno",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
