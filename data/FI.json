@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-09 08:12:20",
+  "lastUpdate": "2025-12-09 08:26:44",
   "data": [
     {
       "title": "sohvaperunat",
@@ -61,17 +61,11 @@
       "title": "uutiset",
       "trafficCount": "100+",
       "pubDate": "Mon, 8 Dec 2025 20:10:00 -0800",
-      "picture": "",
-      "pictureSource": "Yle",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRZUXXnQOZqznMlbcUQoL06fBl4HUOi7Qa8A0xbImvFzaTjHkVjaTyd47WNdo",
+      "pictureSource": "HS.fi",
       "relatedSearch": [
         {
-          "title": "Useita Kiinan ja Venäjän sotilaskoneita lensi lähelle Etelä-Korean ilmatilaa",
-          "snippet": "",
-          "url": "https://yle.fi/uutiset/lyhyesti/74-20198664",
-          "source": "Yle"
-        },
-        {
-          "title": "Lehdistönvapaus | Vuosi 2025 on ollut poikkeuksellinen synkkä journalisteille",
+          "title": "Lehdistönvapaus | Suomen ja Venäjän välinen kuilu lehdistönvapaudessa on vain kasvanut",
           "snippet": "",
           "url": "https://www.hs.fi/maailma/art-2000011678436.html",
           "source": "HS.fi"
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://www.ksml.fi/uutissuomalainen/9061520",
           "source": "Keskisuomalainen"
+        },
+        {
+          "title": "26 ukrainalaista toimittajaa viruu Venäjän vankiloissa, Israelissa tapettu kymmeniä journalisteja",
+          "snippet": "",
+          "url": "https://www.ts.fi/uutiset/6845605",
+          "source": "ts.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,9 +105,9 @@
           "source": "Tamperelainen"
         },
         {
-          "title": "Taloyhtiön poikkeuksellinen rakennushanke kaatui Tampereella – pelko kalliista jättiremontista toteutui",
+          "title": "Yle: Alexander Stubb pyyteli anteeksi Sami Välimäen vaimolta",
           "snippet": "",
-          "url": "https://www.aamulehti.fi/tampere/art-2000011669945.html",
+          "url": "https://www.aamulehti.fi/urheilu/art-2000011678435.html",
           "source": "Aamulehti"
         }
       ],
@@ -177,22 +177,22 @@
       "pictureSource": "HS.fi",
       "relatedSearch": [
         {
-          "title": "Tunnin juna | Opetusministeri äänesti Länsirataa vastaan, vaikka asiasta on linjattu hallitusohjelmassa",
+          "title": "Länsirata | Anders Adlercreutz äänesti Länsirataa vastaan, vaikka asiasta on linjattu hallitusohjelmassa",
           "snippet": "",
           "url": "https://www.hs.fi/politiikka/art-2000011679164.html",
           "source": "HS.fi"
-        },
-        {
-          "title": "Kirkkonummi hylkäsi Länsiradan, Orpo uskoo junahankkeen silti kulkevan eteenpäin",
-          "snippet": "",
-          "url": "https://www.ts.fi/uutiset/6844960",
-          "source": "ts.fi"
         },
         {
           "title": "Kirkkonummi hylkäsi Länsiradan osakassopimuksen – ministeri: Hanke ei kaadu",
           "snippet": "",
           "url": "https://www.mtvuutiset.fi/artikkeli/kirkkonummen-kunnanvaltuusto-hylkasi-lansiradan-osakassopimuksen/9267384",
           "source": "mtvuutiset.fi"
+        },
+        {
+          "title": "Kirkkonummi hylkäsi Länsiradan, Orpo uskoo junahankkeen silti kulkevan eteenpäin",
+          "snippet": "",
+          "url": "https://www.ts.fi/uutiset/6844960",
+          "source": "ts.fi"
         }
       ],
       "link": "https://imtaqin.id/"
