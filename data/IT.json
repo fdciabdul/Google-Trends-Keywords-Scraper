@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-12-09 07:51:22",
+  "lastUpdate": "2025-12-09 07:58:19",
   "data": [
+    {
+      "title": "rds",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 8 Dec 2025 23:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkHJh0nIO9kbjePtIiZaYspPOM2uWGV7wrBeq-tXclTl-3jYqf_NJaUzBqY8I",
+      "pictureSource": "Amazon Web Services (AWS)",
+      "relatedSearch": [
+        {
+          "title": "Exploring Optimize CPU feature on Amazon RDS for SQL Server",
+          "snippet": "",
+          "url": "https://aws.amazon.com/blogs/database/exploring-optimize-cpu-feature-on-amazon-rds-for-sql-server/",
+          "source": "Amazon Web Services (AWS)"
+        },
+        {
+          "title": "The hot new thing at AWS re:Invent has nothing to do with AI",
+          "snippet": "",
+          "url": "https://www.geekwire.com/2025/the-hot-new-thing-at-aws-reinvent-a-database-pricing-update/",
+          "source": "GeekWire"
+        },
+        {
+          "title": "Latest AWS data management features target cost control",
+          "snippet": "",
+          "url": "https://www.techtarget.com/searchdatamanagement/news/366635663/Latest-AWS-data-management-features-target-cost-control",
+          "source": "TechTarget"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "sondaggio swg la7",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.fanpage.it/politica/sondaggi-politici-chi-guadagna-voti-e-chi-invece-rallenta-tra-i-partiti-2/",
           "source": "Fanpage"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rds",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 8 Dec 2025 23:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkHJh0nIO9kbjePtIiZaYspPOM2uWGV7wrBeq-tXclTl-3jYqf_NJaUzBqY8I",
-      "pictureSource": "Amazon Web Services (AWS)",
-      "relatedSearch": [
-        {
-          "title": "Exploring Optimize CPU feature on Amazon RDS for SQL Server",
-          "snippet": "",
-          "url": "https://aws.amazon.com/blogs/database/exploring-optimize-cpu-feature-on-amazon-rds-for-sql-server/",
-          "source": "Amazon Web Services (AWS)"
-        },
-        {
-          "title": "The hot new thing at AWS re:Invent has nothing to do with AI",
-          "snippet": "",
-          "url": "https://www.geekwire.com/2025/the-hot-new-thing-at-aws-reinvent-a-database-pricing-update/",
-          "source": "GeekWire"
-        },
-        {
-          "title": "Latest AWS data management features target cost control",
-          "snippet": "",
-          "url": "https://www.techtarget.com/searchdatamanagement/news/366635663/Latest-AWS-data-management-features-target-cost-control",
-          "source": "TechTarget"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,28 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "radio bruno",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 8 Dec 2025 23:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDhLHsmPdGa06qmzIlNOY0j1x16ADfCRY9apxprrAi5hg4SuipvJTfqgYe8Sk",
-      "pictureSource": "FM-world.it",
-      "relatedSearch": [
-        {
-          "title": "“Ogni Natale”, la nuova canzone delle Feste di Radio Bruno",
-          "snippet": "",
-          "url": "https://www.fm-world.it/news/ogni-natale-la-nuova-canzone-delle-feste-di-radio-bruno/",
-          "source": "FM-world.it"
-        },
-        {
-          "title": "Gazze Canossa vs Radio Bruno Basket Campagnola 76-62",
-          "snippet": "",
-          "url": "https://www.romagnasport.com/news/gazze-canossa-vs-radio-bruno-basket-campagnola-76-62",
-          "source": "Romagna Sport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "radio",
       "trafficCount": "200+",
       "pubDate": "Mon, 8 Dec 2025 23:10:00 -0800",
@@ -215,6 +193,28 @@
           "snippet": "",
           "url": "https://www.ilrestodelcarlino.it/ferrara/cronaca/radio-i-ricordi-in-un-0023b743",
           "source": "Il Resto del Carlino"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "radio bruno",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 8 Dec 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDhLHsmPdGa06qmzIlNOY0j1x16ADfCRY9apxprrAi5hg4SuipvJTfqgYe8Sk",
+      "pictureSource": "FM-world.it",
+      "relatedSearch": [
+        {
+          "title": "“Ogni Natale”, la nuova canzone delle Feste di Radio Bruno",
+          "snippet": "",
+          "url": "https://www.fm-world.it/news/ogni-natale-la-nuova-canzone-delle-feste-di-radio-bruno/",
+          "source": "FM-world.it"
+        },
+        {
+          "title": "Gazze Canossa vs Radio Bruno Basket Campagnola 76-62",
+          "snippet": "",
+          "url": "https://www.romagnasport.com/news/gazze-canossa-vs-radio-bruno-basket-campagnola-76-62",
+          "source": "Romagna Sport"
         }
       ],
       "link": "https://imtaqin.id/"
