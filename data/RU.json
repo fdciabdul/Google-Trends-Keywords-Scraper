@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2025-12-10 02:31:37",
+  "lastUpdate": "2025-12-10 03:09:08",
   "data": [
+    {
+      "title": "погода ижевск",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 9 Dec 2025 18:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREGIxFXcfu1mi3c3HxHzwBrixRNCT7wpWr9FsMR-IIR0CipaOc5NeBngRh-NA",
+      "pictureSource": "Udm-info",
+      "relatedSearch": [
+        {
+          "title": "В Удмуртии впервые за сезон подморозило до -20°С",
+          "snippet": "",
+          "url": "https://udm-info.ru/news/2025-12-09/v-udmurtii-vpervye-za-sezon-podmorozilo-do-20-s-5520444",
+          "source": "Udm-info"
+        },
+        {
+          "title": "Столбик термометра в Удмуртии 9 декабря поднимется до -7 градусов",
+          "snippet": "",
+          "url": "https://susanin.news/udmurtia/other/20251209-334241/",
+          "source": "иа сусанин"
+        },
+        {
+          "title": "Погода в Ижевске на неделю: с 8 по 12 декабря ждем похолодание до -14°С и новое потепление",
+          "snippet": "",
+          "url": "https://izhlife.ru/weather/pogoda-v-izhevske-na-nedelyu-s-8-po-12-dekabrya-zhdem-pokholodanie-do-14-s-i-novoe-poteplenie.html",
+          "source": "Izhlife"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода в екатеринбурге",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Dec 2025 18:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgoFA94IUso3TooRuH6-6SY5WlAeIbV3cDtUnUm3jOfwzo3xzJiVC2i7W_C7c",
+      "pictureSource": "Е1.ру",
+      "relatedSearch": [
+        {
+          "title": "Завалит снегом? Рассказываем, какая погода будет на Новый год в Екатеринбурге",
+          "snippet": "",
+          "url": "https://www.e1.ru/text/winter/2025/12/09/76160707/",
+          "source": "Е1.ру"
+        },
+        {
+          "title": "Мерзли на остановках и купались в проруби. Как екатеринбуржцы пережили первый морозный день этой зимы",
+          "snippet": "",
+          "url": "https://www.e1.ru/text/winter/2025/12/09/76161718/",
+          "source": "Е1.ру"
+        },
+        {
+          "title": "Антициклон отступает в Казахстан: свердловчане пережили лютые морозы",
+          "snippet": "",
+          "url": "https://ura.news/news/1053046474",
+          "source": "URA.RU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "отмена занятий",
       "trafficCount": "100+",
@@ -31,7 +87,7 @@
     },
     {
       "title": "погода челябинск",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 9 Dec 2025 17:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFVKsm2YC2H5Bk3TQfip5rFg4KTbt045-IhJZZKIxwdEYeWHy-Rd7GBM95_cM",
       "pictureSource": "1obl",
@@ -58,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "орск ру",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 9 Dec 2025 17:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGccJCxkJ2bbsAHez-maWwfTBwsc_t9nbA-D7Gys-8ff3rySmvMek6lepE3CU",
+      "pictureSource": "1743.ру",
+      "relatedSearch": [
+        {
+          "title": "Смертельное ДТП рядом с Лылово: столкнулись «девятка» и фура",
+          "snippet": "",
+          "url": "https://1743.ru/news/81632",
+          "source": "1743.ру"
+        },
+        {
+          "title": "46-летний орчанин погиб в ДТП в Гайском округе - Гай: gts.tv",
+          "snippet": "",
+          "url": "https://gts.tv/news/47428",
+          "source": "ГАЙ.РФ"
+        },
+        {
+          "title": "ДТП с грузовиком у Халилово: Легковой автомобиль в кювете, движение затруднено",
+          "snippet": "",
+          "url": "https://www.ural56.ru/news/759842/",
+          "source": "Урал56.Ру"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "авиабилеты",
       "trafficCount": "100+",
       "pubDate": "Tue, 9 Dec 2025 16:50:00 -0800",
@@ -71,16 +155,16 @@
           "source": "Время — общественно-политическая газета"
         },
         {
+          "title": "Авиабилеты по 40 тысяч: депутат возмутился ценами на лоукостеры в Казахстане",
+          "snippet": "",
+          "url": "https://ru.qaz365.kz/society/17029-aviabilety-po-40-tysiach-deputat-vozmutilsia-tsenami-na-loukostery-v-kazakhstane/",
+          "source": "Qaz365.kz"
+        },
+        {
           "title": "Авиабилеты могут подорожать: в Минтранспорта назвали причину",
           "snippet": "",
           "url": "https://tengrinews.kz/my-country/aviabiletyi-mogut-podorojat-v-mintransporta-nazvali-prichinu-587613/",
           "source": "Tengrinews"
-        },
-        {
-          "title": "Невозвратные билеты помогают удерживать низкие тарифы на перелеты – Минтранс",
-          "snippet": "",
-          "url": "https://newshub.kz/post/nevozvratnye-bilety-pomogaiut-uderzivat-nizkie-tarify-na-perelety-mintrans-1765270120",
-          "source": "Newshub.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +173,9 @@
       "title": "погода новосибирск",
       "trafficCount": "500+",
       "pubDate": "Tue, 9 Dec 2025 16:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbvVXd3-YI-MKTb10nshb4geAhBH4d-1lJruDYh9FbOPaPKRWOZqRW-N3Z3_M",
-      "pictureSource": "Все новости Новосибирской области",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaF-d6u8t5Ob3ybaB-irH4qI-xADmtaUpJrYElyL3XRfCi1wJF578X4wtJ-Hg",
+      "pictureSource": "ВашГород",
       "relatedSearch": [
-        {
-          "title": "Прогноз погоды на 9-12 декабря в Новосибирске сделали синоптики",
-          "snippet": "",
-          "url": "https://vn.ru/news-prognoz-pogody-na-9-12-dekabrya-v-novosibirske-sdelali-sinoptiki/",
-          "source": "Все новости Новосибирской области"
-        },
         {
           "title": "Не успел декабрь наступить, а нам уже обещают крайне морозные ночи❄️ В ближайшие трое",
           "snippet": "",
@@ -105,10 +183,44 @@
           "source": "ВашГород"
         },
         {
+          "title": "Прогноз погоды на 9-12 декабря в Новосибирске сделали синоптики",
+          "snippet": "",
+          "url": "https://vn.ru/news-prognoz-pogody-na-9-12-dekabrya-v-novosibirske-sdelali-sinoptiki/",
+          "source": "Все новости Новосибирской области"
+        },
+        {
           "title": "В Новосибирск пришел 30-градусный мороз: следим за мерзнущим городом — онлайн-трансляция",
           "snippet": "",
           "url": "https://ngs.ru/text/winter/2025/12/09/76161627/",
           "source": "НГС.ру"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "прогноз погоды",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 9 Dec 2025 16:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHqZCqfEkx4EK_zQe3f81VqQjnotyXOkMoZtGojLw8vgWwVUET6eYZb8Xm1yU",
+      "pictureSource": "Официальный сайт Мэра Москвы",
+      "relatedSearch": [
+        {
+          "title": "Мокрый снег и ветер: прогноз погоды на ближайшие дни / Новости города / Сайт Москвы",
+          "snippet": "",
+          "url": "https://www.mos.ru/news/item/163482073/",
+          "source": "Официальный сайт Мэра Москвы"
+        },
+        {
+          "title": "Погода в столичном регионе: всплеск тепла сменится обвалом холода",
+          "snippet": "",
+          "url": "https://www.gismeteo.ru/news/weather/pogoda-v-stolichnom-regione-vsplesk-tepla-smenitsya-obvalom-holoda/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Облачная погода, снег и до 1 градуса тепла ожидаются в столичном регионе 9 декабря",
+          "snippet": "",
+          "url": "https://www.mskagency.ru/materials/3526977",
+          "source": "Агентство городских новостей «Москва»"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -165,99 +277,6 @@
           "snippet": "",
           "url": "https://angarsk-38.ru/news/prognoz-pogody-v-angarske-na-sredu-10-dekabrya/",
           "source": "Сайт города Ангарск"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "таблица лиги чемпионов",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Dec 2025 14:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "inter vs liverpool",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Dec 2025 13:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0X7glc5zyHlQ6p6tDFoE_OxE7Dx_S-54TrmA0z4ylbr-sR8joBz0kNEMgXJo",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Inter 0-1 Liverpool: Champions League – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2025/dec/09/inter-v-liverpool-champions-league-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Champions League: Liverpool edge Inter, Chelsea fall to Atalanta, Barcelona defeat Frankfurt",
-          "snippet": "",
-          "url": "https://www.france24.com/en/sport/20251210-champions-league-liverpool-edge-inter-chelsea-fall-to-atalanta-barcelona-defeat-frankfurt",
-          "source": "France 24"
-        },
-        {
-          "title": "Inter Milan 0-1 Liverpool – Ex AC Milan & Juventus Manager Slams Felix Zwayer: “A Scandalous Penalty”",
-          "snippet": "",
-          "url": "https://sempreinter.com/2025/12/10/inter-milan-liverpool-capello-zwayer-scandalous-penalty/",
-          "source": "SempreInter.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "palantir",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Dec 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1RSxQ76NYvj2sf5NnDqYSh_D_2gI-AQxklUG12FSYuYf9SfE_G-98I53Siug",
-      "pictureSource": "TipRanks",
-      "relatedSearch": [
-        {
-          "title": "Palantir (PLTR) Powers Navy’s AI Drive to Speed Up Submarine Building",
-          "snippet": "",
-          "url": "https://www.tipranks.com/news/palantir-pltr-powers-navys-ai-drive-to-speed-up-submarine-building",
-          "source": "TipRanks"
-        },
-        {
-          "title": "Navy unveils \"ShipOS\" with Palantir to speed up shipbuilding",
-          "snippet": "",
-          "url": "https://www.axios.com/2025/12/09/navy-phelan-palantir-karp-shipos",
-          "source": "Axios"
-        },
-        {
-          "title": "Palantir lands $448M Navy ShipOS contract today, here's what the stock surge really means for federal domination",
-          "snippet": "",
-          "url": "https://www.red94.net/news/53299-palantir-lands-major-us-navy-shipbuilding-contract-today-stock-surges-past-181-a/",
-          "source": "Red94"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "barcelone – eintracht francfort",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 9 Dec 2025 13:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQbM01cFYm_2FZTi7VsPizpPtH6nejZEqxHrXUd4m-1ilfDaN0ErAZduNj-QY",
-      "pictureSource": "Foot Mercato",
-      "relatedSearch": [
-        {
-          "title": "FC Barcelone - Eintracht Francfort : les compositions officielles",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a5649193398871664702-fc-barcelone-eintracht-francfort-les-compositions-officielles",
-          "source": "Foot Mercato"
-        },
-        {
-          "title": "Football - Ligue des champions : Mario Götze : « Ce sera un match très difficile contre Barcelone »",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-g-tze-ce-sera-un-match-tres-difficile-contre-barcelone/20222224",
-          "source": "L'Équipe"
-        },
-        {
-          "title": "Pedri aperçu en train de rire de Koundé après son 2e but contre l'Eintracht – il SAVAIT que le défenseur n'avait pas fait exprès de marquer",
-          "snippet": "",
-          "url": "https://fr.tribuna.com/fr/blogs/pedri-apercu-en-train-de-rire-de-kounde-apres-son-2e-but-con/",
-          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
