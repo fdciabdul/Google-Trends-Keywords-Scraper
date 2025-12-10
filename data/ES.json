@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-10 22:51:03",
+  "lastUpdate": "2025-12-10 22:57:54",
   "data": [
     {
       "title": "potosi",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 10 Dec 2025 14:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnHMm2wCMXyUHqglDgDAzW1Ajqivf_45bcL9wKyMh7-hme4RT89DV4uQz7pbo",
       "pictureSource": "El Siglo de Torreón",
@@ -58,29 +58,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "as.com",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 10 Dec 2025 14:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhcWiVwT09QIQdsmRap-gsnRo_x9W0Dm_tdtfTbjy_vCmPKqH2Jxf1Wg9ZwQ",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "Mercado de fichajes, en directo: última hora de Real Madrid, Barcelona, Atlético y fútbol internacional",
+          "snippet": "",
+          "url": "https://as.com/futbol/primera/mercado-de-fichajes-en-directo-ultima-hora-de-real-madrid-barcelona-atletico-y-futbol-internacional-f202512-d-9/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Mercado de fichajes de fútbol, en directo hoy | Altas, bajas y rumores, en vivo",
+          "snippet": "",
+          "url": "https://www.mundodeportivo.com/futbol/fichajes/20251208/1002583102/mercado-fichajes-futbol-directo-hoy-altas-bajas-rumores-vivo.html",
+          "source": "Mundo Deportivo"
+        },
+        {
+          "title": "DIRECTO | La última hora del mercado de fichajes: Arabia mira a LaLiga, Madrid, Barça, Rayo...",
+          "snippet": "",
+          "url": "https://www.superdeporte.es/fichajes/2025/12/05/mercado-fichajes-directo-ultima-hora-124488507.html",
+          "source": "Superdeporte"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "el mundo deportivo",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Dec 2025 14:30:00 -0800",
-      "picture": "",
-      "pictureSource": "El Diario Vasco",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTb0evnqeR2t8aoCyesNn8JNwg1Yw1v3JpEXQHi9FMHJtESmfwgNia7oJKJURA",
+      "pictureSource": "Mundo Deportivo",
       "relatedSearch": [
         {
-          "title": "Así te hemos contado la Junta General de Accionistas de la Real",
+          "title": "Dani Olmo: objetivo Espanyol",
           "snippet": "",
-          "url": "https://www.diariovasco.com/real-sociedad/sigue-directo-junta-general-accionistas-real-20251210184317-di.html",
-          "source": "El Diario Vasco"
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20251210/1002584620/dani-olmo-objetivo-espanyol.html",
+          "source": "Mundo Deportivo"
         },
         {
-          "title": "Aperribay, sobre Sergio: “El fútbol es así con todo el mundo”",
+          "title": "Dani Olmo, con una luxación en el hombro izquierdo",
           "snippet": "",
-          "url": "https://www.noticiasdegipuzkoa.eus/reala/2025/12/10/aperribay-sergio-futbol-mundo-10456725.html",
-          "source": "Noticias de Gipuzkoa"
+          "url": "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4413539/dani-olmo-con-una-luxacion-en-el-hombro-izquierdo",
+          "source": "FC Barcelona"
         },
         {
-          "title": "La Real vota unas cuentas con 16,9 millones de beneficio y una subida de cuotas del 2,5%",
+          "title": "Baja trascendental en el Barça para visitar al Betis",
           "snippet": "",
-          "url": "https://www.naiz.eus/eu/info/noticia/20251209/la-real-vota-unas-cuentas-con-16-9-millones-de-beneficio-y-una-subida-de-cuotas-del-2-5",
-          "source": "naiz:"
+          "url": "https://www.estadiodeportivo.com/futbol/betis/baja-trascendental-barca-para-visitar-betis-20251203-522482.html",
+          "source": "Estadio Deportivo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,15 +257,9 @@
       "title": "puerto rico",
       "trafficCount": "200+",
       "pubDate": "Wed, 10 Dec 2025 14:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHXyQDfkhx6hWqj2hk5_pLhJr473SYw10WFaIgBPyr2MtgkxV9KX8oLzZJY18",
-      "pictureSource": "The Economist",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQze4_9z7KldcZKh-TAc7E3XqxFHJ_jy_m6okuqwC8on0KuJm6FFWXEpZdnnDQ",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "How the “Donroe Doctrine” is changing Puerto Rico",
-          "snippet": "",
-          "url": "https://www.economist.com/the-americas/2025/12/10/how-the-donroe-doctrine-is-changing-puerto-rico",
-          "source": "The Economist"
-        },
         {
           "title": "US jets tracked circling Gulf of Venezuela as tensions mount",
           "snippet": "",
@@ -245,38 +267,16 @@
           "source": "BBC"
         },
         {
-          "title": "US military flies 2 fighter jets over the Gulf of Venezuela as scrutiny grows",
+          "title": "U.S. continues massive Caribbean military buildup as Venezuela tensions grow",
           "snippet": "",
-          "url": "https://apnews.com/article/venezuela-us-military-trump-fa18-fighter-jets-06fd7cdc5ac26e7a46165431b95508b0",
-          "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mamen mendizabal",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 10 Dec 2025 14:10:00 -0800",
-      "picture": "",
-      "pictureSource": "LaSexta",
-      "relatedSearch": [
-        {
-          "title": "Gotzon Mantuliz y Mamen Mendizábal comparten cómo nacieron sus vocaciones y el trayecto que los unió en este",
-          "snippet": "",
-          "url": "https://www.lasexta.com/programas/cazadores-imagenes/gotzon-mantuliz-mamen-mendizabal-comparten-como-nacieron-sus-vocaciones-trayecto-que-unio-este-reto_202512106939f475cc0f8a3219a618ed.html",
-          "source": "LaSexta"
+          "url": "https://www.reuters.com/pictures/us-continues-massive-caribbean-military-buildup-venezuela-tensions-grow-2025-12-10/",
+          "source": "Reuters"
         },
         {
-          "title": "Mamen Mendizábal y Gotzon Mantuliz, en busca del imponente tiburón tigre: \"Es fundamental mantener contacto",
+          "title": "How the “Donroe Doctrine” is changing Puerto Rico",
           "snippet": "",
-          "url": "https://www.lasexta.com/programas/cazadores-imagenes/mamen-mendizabal-gotzon-mantuliz-busca-imponente-tiburon-tigre-fundamental-mantener-contacto-visual_202512106939f0f15654b3313970bb02.html",
-          "source": "LaSexta"
-        },
-        {
-          "title": "Mamen Mendizábal (49 años), sobre la tragedia familiar que marcó su vida: “No entiendes qué es lo que está pasando, te crees inmortal”",
-          "snippet": "",
-          "url": "https://www.lavanguardia.com/gente/20251210/11350967/mamen-mendizabal-49-anos-sobre-tragedia-familiar-marco-vida-entiendes-que-esta-pasando-te-crees-inmortal-gvm2.html",
-          "source": "La Vanguardia"
+          "url": "https://www.economist.com/the-americas/2025/12/10/how-the-donroe-doctrine-is-changing-puerto-rico",
+          "source": "The Economist"
         }
       ],
       "link": "https://imtaqin.id/"
