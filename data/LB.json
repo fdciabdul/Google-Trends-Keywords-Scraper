@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2025-12-11 04:51:28",
+  "lastUpdate": "2025-12-11 05:00:41",
   "data": [
     {
-      "title": "الطقس",
-      "trafficCount": "20000+",
-      "pubDate": "Wed, 10 Dec 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUiAMLbtTpF5lHxAraZ4yd4-Xe122NmcCq4PAQWzntHxfjlhnXHe73wOxPVUA",
-      "pictureSource": "sports-leb",
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 10 Dec 2025 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1taa2MF_KKTR_gvJW10oX4woloW3JMqJoY9Knzg1V0pDRBrsV1VQFvtL5q3Y",
+      "pictureSource": "The Hindu",
       "relatedSearch": [
         {
-          "title": "تفاصيل الطقس غدا.. انخفاض ملحوظ في درجات الحرارة بالقاهرة والمحافظات",
+          "title": "Delhi air quality likely to worsen to ‘very poor’ from December 11",
           "snippet": "",
-          "url": "https://sports-leb.com/296228/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%85%D9%84%D8%AD%D9%88%D8%B8-%D9%81%D9%8A-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA/",
-          "source": "sports-leb"
+          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-likely-to-worsen-to-very-poor/article70381132.ece",
+          "source": "The Hindu"
         },
         {
-          "title": "\"خلوا بالكم\".. الأرصاد تحذر المواطنين من طقس الساعات المقبلة بسبب هذه الظاهرة",
+          "title": "Breeze brings a breather",
           "snippet": "",
-          "url": "https://zahraa.mr/6160925/%D8%AE%D9%84%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D9%83%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%85%D9%86/",
-          "source": "بوابة الزهراء"
+          "url": "https://www.millenniumpost.in/delhi/breeze-brings-a-breather-639157",
+          "source": "MillenniumPost"
         },
         {
-          "title": "«رجعت الشتوية».. الأرصاد تحذر من برودة ليلية وأمطار على السواحل",
+          "title": "Western disturbance keeps Delhi temp in check | Latest News Delhi",
           "snippet": "",
-          "url": "https://www.newsroom.info/228569",
-          "source": "نيوز رووم"
+          "url": "https://www.hindustantimes.com/cities/delhi-news/western-disturbance-keeps-delhi-temp-in-check-101765388972987.html",
+          "source": "Hindustan Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 10 Dec 2025 20:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThO_bNk9aCVQnsvMSfzn9R1VHR1YfgdIQrcQp8U1mOMudQhDmihVFZGW7pzMI",
+      "pictureSource": "MTV Lebanon",
+      "relatedSearch": [
+        {
+          "title": "برق ورعد ورياح: \"إجت الشتوية\"؟",
+          "snippet": "",
+          "url": "https://www.mtv.com.lb/news/1635321",
+          "source": "MTV Lebanon"
+        },
+        {
+          "title": "منخفض جوي يُسيطر على لبنان... طقس عاصف وبارد!",
+          "snippet": "",
+          "url": "https://www.annahar.com/lebanon/society/261456/%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D9%8A%D8%B3%D9%8A%D8%B7%D8%B1-%D8%B9%D9%84%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%B7%D9%82%D8%B3-%D8%B9%D8%A7%D8%B5%D9%81-%D9%88%D8%A8%D8%A7%D8%B1%D8%AF",
+          "source": "annahar.com"
+        },
+        {
+          "title": "منخفض جوي غدا مع أمطار غزيرة وحرارة دون معدلاتها والثلوج على ارتفاع 1700 ليلا",
+          "snippet": "",
+          "url": "https://www.nna-leb.gov.lb/ar/weather/829316/%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D8%BA%D8%AF%D8%A7-%D9%85%D8%B9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D9%88%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AF%D9%88%D9%86-%D9%85%D8%B9%D8%AF%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D9%88",
+          "source": "الوكالة الوطنية للإعلام"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,10 +71,10 @@
           "source": "Black & White & Read All Over"
         },
         {
-          "title": "WELCOME TO THE CLUB: McKennie joins Pulisic as USMNT players with double digits in UCL goal contributions",
+          "title": "UEFA Champions League - Juventus v Pafos",
           "snippet": "",
-          "url": "https://www.frontrowsoccer.com/2025/12/10/welcome-to-the-club-mckennie-joins-pulisic-as-usmnt-players-with-double-digits-in-ucl-goal-contributions/",
-          "source": "Front Row Soccer"
+          "url": "https://www.reutersconnect.com/item/uefa-champions-league-juventus-v-pafos/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1VQMUVMQ0ExTlpETTQ",
+          "source": "Reuters Connect"
         },
         {
           "title": "Zhegrova makes her debut as a starter, Juventus defeats Paphos 2-0 and secures important points in the Champions League",
@@ -87,7 +115,7 @@
     },
     {
       "title": "uefa champions league",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 10 Dec 2025 12:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyqn3EHid1WXgG1HInVx40i4fmXPa6EBJGSSpezwuHg9lMwoVh29Bg64T37h8",
       "pictureSource": "BBC",
@@ -117,20 +145,20 @@
       "title": "real madrid",
       "trafficCount": "2000+",
       "pubDate": "Wed, 10 Dec 2025 12:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSASXRPvAAiOeUKe8n3BnOOK8O2B9G3IsBmyjW1d3QB4eUvaBB0VoO7Ehj23KY",
-      "pictureSource": "Sports Illustrated",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRowaDwUtfAFwwYxRXXaFYnjo5ApHDURpd-GQfJHewha67LexdIsoHMjx4Jls",
+      "pictureSource": "Real Madrid",
       "relatedSearch": [
         {
-          "title": "El calendario con los próximos cinco partidos del Manchester City tras ganar 2-1 frente al Real Madrid",
+          "title": "Clément Turpin arbitrará el Real Madrid-Manchester City",
           "snippet": "",
-          "url": "https://www.si.com/es-us/futbol/el-calendario-con-los-proximos-cinco-partidos-del-manchester-city-tras-ganar-2-1-frente-al-real-madrid",
-          "source": "Sports Illustrated"
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/x-arbitrara-el-real-madrid-manchester-city-08-12-2025",
+          "source": "Real Madrid"
         },
         {
-          "title": "Real Madrid pierde ante Man City en la Champions y Xabi Alonso sigue en apuros",
+          "title": "Rodrygo, 9 meses y 32 partidos después",
           "snippet": "",
-          "url": "https://www.latimes.com/espanol/deportes/articulo/2025-12-10/real-madrid-pierde-2-1-ante-man-city-en-la-champions-y-xabi-alonso-sigue-en-apuros",
-          "source": "Los Angeles Times"
+          "url": "https://es-us.noticias.yahoo.com/deportes/rodrygo-9-meses-32-partidos-221121818.html",
+          "source": "Yahoo"
         },
         {
           "title": "Thibaut Courtois comete un error garrafal que da lugar al primer gol del Manchester City contra el Real Madrid – dos compañeros de equipo se quedan atónitos",
@@ -201,14 +229,14 @@
       "title": "athletic club vs psg",
       "trafficCount": "500+",
       "pubDate": "Wed, 10 Dec 2025 12:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiBs4SBfOvPKMFvaYwWxLphpKjtpEZTPLsfrGwwkmcwVqXIliQEyB3q60nHtc",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnDuP4DrtSAtnYoww0TPA68ZSxFvZ4WAdzd0BFwQHAEwcdkvBYqu-_3nMgtbU",
+      "pictureSource": "La Red 106.1 FM",
       "relatedSearch": [
         {
-          "title": "La presión heroica del Athletic apaga la magia de Vitinha",
+          "title": "Unai Simón: \"Se Trata De Intentar Parar Todo Lo Que Te Venga\"",
           "snippet": "",
-          "url": "https://elpais.com/deportes/futbol/2025-12-10/la-presion-heroica-del-athletic-apaga-la-magia-de-vitinha.html",
-          "source": "EL PAÍS"
+          "url": "https://www.lared1061.com/futbol-internacional/unai-simon-se-trata-de-intentar-parar-todo-lo-que-te-venga/",
+          "source": "La Red 106.1 FM"
         },
         {
           "title": "Valverde tira de Yuri de central; Luis Enrique sorprende con Mayulu arriba",
@@ -217,10 +245,10 @@
           "source": "Yahoo"
         },
         {
-          "title": "Para los que dicen que Unai no tiene que ser el portero de España en el Mundial... exhibición ante el PSG",
+          "title": "PSG empata con el Athletic Club y encamina su clasificación en Champions",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/champions-league/2025/12/10/dicen-unai-portero-espana-mundial-exhibicion-psg-video.html",
-          "source": "MARCA"
+          "url": "https://www.beinsports.com/es-us/football/uefa-champions-league/articles/psg-empata-con-el-athletic-club-y-encamina-su-clasificaci%C3%B3n-en-champions-2025-12-10",
+          "source": "beIN SPORTS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "BBC"
         },
         {
-          "title": "Arteta hails role model Norgaard and returning Jesus as Arsenal beat Club Brugge",
+          "title": "Confirmed Arsenal lineup to play Club Brugge",
           "snippet": "",
-          "url": "https://arseblog.news/2025/12/arteta-hails-role-model-norgaard-and-returning-jesus-as-arsenal-beat-club-brugge/",
-          "source": "Arseblog News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "أتلتيك بيلباو ضد بي اس جي",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 10 Dec 2025 11:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxXmSDxQBycGQ8IcI-1qXCSXEVXjL77UDzX1en-oJnqOEGdapHg_rH-ON8XA",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "بيلباو يفرض التعادل على سان جيرمان في دوري الأبطال",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A8%D9%84%D8%A8%D8%A7%D9%88-%D9%8A%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B9%D9%84%D9%89-%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%94%D8%A8%D8%B7%D8%A7%D9%84/blt86cec6ad226cb3a6",
-          "source": "Kooora"
-        },
-        {
-          "title": "مرض ديمبيلي يربك باريس قبل مواجهة بلباو",
-          "snippet": "",
-          "url": "https://www.elsport.com/news/show/803373/%D9%85%D8%B1%D8%B6-%D8%AF%D9%8A%D9%85%D8%A8%D9%8A%D9%84%D9%8A-%D9%8A%D8%B1%D8%A8%D9%83-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A8%D9%84%D8%A8%D8%A7%D9%88",
-          "source": "Elsport"
-        },
-        {
-          "title": "إنريكي يعلق على وضع باريس في دوري أبطال أوروبا",
-          "snippet": "",
-          "url": "https://hihi2.com/2025/12/11/p3553043.html",
-          "source": "هاي كورة"
+          "url": "https://news.bet365.com/en-gb/article/confirmed-arsenal-lineup-to-play-club-brugge/2025121018204397323",
+          "source": "Sports & Betting News - bet365"
         }
       ],
       "link": "https://imtaqin.id/"
