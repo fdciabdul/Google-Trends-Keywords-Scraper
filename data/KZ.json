@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-11 16:00:41",
+  "lastUpdate": "2025-12-11 16:12:16",
   "data": [
     {
       "title": "twitch",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 11 Dec 2025 07:50:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd4EapVjnIIZyjpiAjmThWVkLPXSywQquJNTKIr6lcdlj-csy1ApZLNwNgzrk",
       "pictureSource": "Complex",
@@ -15,16 +15,16 @@
           "source": "Complex"
         },
         {
-          "title": "QTCinderella says The Streamer Awards \"is not going anywhere,\" despite this year's controversies",
-          "snippet": "",
-          "url": "https://www.sportskeeda.com/us/streamers/news-qtcinderella-says-the-streamer-awards-is-going-anywhere-despite-year-s-controversies",
-          "source": "Sportskeeda"
-        },
-        {
           "title": "Rakai blasts viewers reporting YouTube streams after Twitch ban",
           "snippet": "",
           "url": "https://www.dexerto.com/youtube/rakai-blasts-viewers-reporting-youtube-streams-after-twitch-ban-3292598/",
           "source": "Dexerto"
+        },
+        {
+          "title": "QTCinderella Explains \"Stealing\" Joke, Rakai Goes OFF",
+          "snippet": "",
+          "url": "https://theshaderoom.com/qtcinderella-clarifies-stealing-joke-rakai-goes-off/",
+          "source": "The Shade Room"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "Euronews.com"
         },
         {
-          "title": "Софи Кинселла, королева романтических комедий, скончалась в возрасте 55 лет…",
+          "title": "Умерла британская писательница Софи Кинселла, автор \"Тайного мира шопоголика\" - NEWSru.co.il",
           "snippet": "",
-          "url": "https://entrevue.fr/ru/culture/sophie-kinsella-reine-de-la-comedie-romantique-seteint-a-55-ans/",
-          "source": "ENTREVUE.FR"
+          "url": "https://www.newsru.co.il/rest/11dec2025/sophie_kinsella_111.html",
+          "source": "NEWSru.co.il"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +61,20 @@
       "title": "новости казахстана",
       "trafficCount": "100+",
       "pubDate": "Wed, 10 Dec 2025 17:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaPbNaT8idL_SEcqo3eJmCuEKaX2RHIVetjdDPYsORWo3bJRbD2Sg1OpN57Qk",
-      "pictureSource": "Akorda.kz",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7k90KvM7QZLy-PRC_VlW8-V3WiklMbD5u3AL2kI0lse_WviDLBfQmVe8J3GM",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
-        {
-          "title": "Президенты Казахстана и Ирана провели переговоры в расширенном составе",
-          "snippet": "",
-          "url": "https://www.akorda.kz/ru/prezidenty-kazahstana-i-irana-proveli-peregovory-v-rasshirennom-sostave-11114256",
-          "source": "Akorda.kz"
-        },
         {
           "title": "Токаев и президент Ирана осмотрели редкие рукописи об истории Казахстана",
           "snippet": "",
           "url": "https://www.zakon.kz/politika/6500825-tokaev-i-prezident-irana-osmotreli-redkie-rukopisi-ob-istorii-kazakhstana.html",
           "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Президенты Казахстана и Ирана провели переговоры в расширенном составе",
+          "snippet": "",
+          "url": "https://www.akorda.kz/ru/prezidenty-kazahstana-i-irana-proveli-peregovory-v-rasshirennom-sostave-11114256",
+          "source": "Akorda.kz"
         },
         {
           "title": "Казахстан и Иран подписали восемь документов",
@@ -142,6 +142,62 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "прогноз погоды астана",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 10 Dec 2025 17:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8o8LpeyZI6beGuflKmQFIrq0dpTfjCGn74oFpUcKJKtCejhdRrotlwPLb9sw",
+      "pictureSource": "Tengrinews",
+      "relatedSearch": [
+        {
+          "title": "Когда в Алматы снова потеплеет: прогноз погоды",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/kogda-v-almatyi-snova-potepleet-prognoz-pogodyi-587750/",
+          "source": "Tengrinews"
+        },
+        {
+          "title": "В Алматы 11 декабря без осадков, ночью до −13 °C",
+          "snippet": "",
+          "url": "https://www.gismeteo.kz/news/klimat/v-almaty-11-dekabrya-bez-osadkov-nochju-do-13-c/",
+          "source": "Gismeteo"
+        },
+        {
+          "title": "Прогноз погоды на 11 декабря: сильный мороз идёт на восток Казахстана",
+          "snippet": "",
+          "url": "https://informburo.kz/novosti/prognoz-pogody-na-11-dekabria-silnyi-moroz-idet-na-vostok-kazaxstana",
+          "source": "Informburo.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "лига чемпионов",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 10 Dec 2025 14:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr7D3H0HPyEwD2aXH33Uw1VFJrBYTuLoNVaSODflfX3pr1ZgeCeh6tZBMNoS4",
+      "pictureSource": "Спорт Mail",
+      "relatedSearch": [
+        {
+          "title": "Пять клубов гарантировали выход в плей-офф футбольной Лиги чемпионов",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football-eurocups/69053998/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Расклады в Лиге чемпионов после шести туров. Кто обеспечил себе выход в плей-офф, а у кого проблемы?",
+          "snippet": "",
+          "url": "https://www.sport-express.net/football/champions-league/reviews/liga-chempionov-2025-2026-tablica-posle-6-tura-obschego-etapa-kto-uzhe-vyshel-v-pley-off-i-kalendar-ostavshihsya-matchey-2382889/",
+          "source": "sport-express.ru"
+        },
+        {
+          "title": "Суперкомпьютер определил победителя Лиги чемпионов",
+          "snippet": "",
+          "url": "https://tengrisport.kz/trends/superkompyuter-opredelil-pobeditelya-ligi-chempionov-587868/",
+          "source": "Tengri Sport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "лч таблица",
       "trafficCount": "100+",
       "pubDate": "Wed, 10 Dec 2025 14:00:00 -0800",
@@ -155,43 +211,15 @@
           "source": "UEFA.com"
         },
         {
-          "title": "Таблица женской ЛЧ. Фиаско МЮ, победа Барселоны, Челси отгрузил 6 мячей",
-          "snippet": "",
-          "url": "https://sport.ua/news/822527-tablitsa-zhenskoy-lch-fiasko-myu-pobeda-barselony-chelsi-otgruzil-6-myachey",
-          "source": "Sport.ua"
-        },
-        {
           "title": "Пятый тур женской Лиги чемпионов: \"Юве\", \"Реал\" и \"Арсенал\" идут дальше",
           "snippet": "",
           "url": "https://ru.uefa.com/womenschampionsleague/news/02a0-1f66795cd5c8-bd0c72df75f7-1000--%D0%BF%D1%8F%D1%82%D1%8B%D0%B8-%D1%82%D1%83/",
           "source": "UEFA.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "лига чемпионов уефа",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 10 Dec 2025 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRh1DuMvNbG8b1p-0B9OPXzklz0Pu4c14Uixxfr20hWopnfZMbxe1kPIbijUYY",
-      "pictureSource": "Новости Zakon.kz",
-      "relatedSearch": [
-        {
-          "title": "\"Реал\" проиграл, а Моуринью обыграл \"Наполи\": Лига чемпионов",
-          "snippet": "",
-          "url": "https://www.zakon.kz/sport/6500738-real-proigral-a-mourinyu-obygral-napoli-liga-chempionov.html",
-          "source": "Новости Zakon.kz"
         },
         {
-          "title": "«Арсенал» не устает выигрывать, Хайкин помог «Буде» добыть ничью в Дортмунде, Моуринью обыграл Конте",
+          "title": "Превью матчей среды в женской Лиге чемпионов",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/champions-league/reviews/borussiya-d-bude-glimt-bryugge-arsenal-benfika-napoli-yuventus-pafos-bayer-nyukasl-obzor-i-video-golov-matchey-6-tura-obschego-etapa-ligi-chempionov-10-dekabrya-2025-2382757/",
-          "source": "sport-express.ru"
-        },
-        {
-          "title": "Обзор и хайлайты матчей вторника в шестом туре Лиги чемпионов",
-          "snippet": "",
-          "url": "https://ru.uefa.com/uefachampionsleague/news/02a0-1f66827b8541-e4a3c1454761-1000--%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%B8-%D1%85%D0%B0%D0%B8/",
+          "url": "https://ru.uefa.com/womenschampionsleague/news/02a0-1f5bcfb59da2-ea965ed74bb0-1000--%D0%BF%D1%80%D0%B5%D0%B2%D1%8C%D1%8E-%D0%BC%D0%B0/",
           "source": "UEFA.com"
         }
       ],
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://vesti.kz/league/ctalo-izvestno-mesto-kazahstana-v-reytinge-ligi-chempionov-373802/",
           "source": "Vesti.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid man city",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 10 Dec 2025 13:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ40Lavgj-99qG4i6BNPEWtRpMqs42_B-k5Qvdtmp39yLNkrq5isYoQWdM8-8g",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "'No-one downing tools' - Alonso's stay of execution despite loss to Man City",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cly1ggjlp81o",
-          "source": "BBC"
-        },
-        {
-          "title": "Haaland reveals the behind-the-scenes story of Real Madrid's defeat",
-          "snippet": "",
-          "url": "https://tembah.net/news?nid=80816",
-          "source": "TEMBAH.net"
-        },
-        {
-          "title": "Real Madrid’s trip to Alaves has become a crunch game for beleaguered coach Xabi Alonso",
-          "snippet": "",
-          "url": "https://infonews.ca/news/7459958/real-madrids-trip-to-alaves-has-become-a-crunch-game-for-beleaguered-coach-xabi-alonso/",
-          "source": "iNFOnews.ca"
         }
       ],
       "link": "https://imtaqin.id/"
