@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2025-12-11 23:28:40",
+  "lastUpdate": "2025-12-11 23:37:57",
   "data": [
     {
       "title": "adr",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 11 Dec 2025 14:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRnF1jzfpqew_jsBIIeDCN34QsoY_H-pkHhCvx6rSDeCtpq8DGnUyPA5SxzHU",
-      "pictureSource": "FXStreet",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOEReMZFVxuY03JBh-RjJeWgi3cf5mSUZHnFfBQwGpw0VnPjlresYs-ZtwDoY",
+      "pictureSource": "VOCO News",
       "relatedSearch": [
-        {
-          "title": "日本日圓因美國強勁的就業數據而跌至接近157.00，市場關注美聯儲利率決策",
-          "snippet": "",
-          "url": "https://www.fxstreet.hk/news/mei-yuan-ri-yuan-yin-qiang-jing-de-mei-guo-jiu-ye-shu-ju-er-shang-zhang-zhi-jie-jin-15700de-liang-zhou-gao-dian-shi-chang-guan-zhu-mei-lian-chu-de-li-lu-jue-ding-202512092316",
-          "source": "FXStreet"
-        },
         {
           "title": "Markets await Fed decision, US stocks face broad-based pressure.",
           "snippet": "",
@@ -24,15 +18,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "費半指數",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 11 Dec 2025 13:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "avgo",
       "trafficCount": "200+",
       "pubDate": "Thu, 11 Dec 2025 13:00:00 -0800",
@@ -40,22 +25,22 @@
       "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Broadcom reports fourth quarter earnings after the bell",
+          "title": "Broadcom beats on earnings and revenue, says AI chip sales will double in current quarter",
           "snippet": "",
           "url": "https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html",
           "source": "CNBC"
         },
         {
-          "title": "Broadcom forecasts upbeat quarterly revenue on AI chip demand",
+          "title": "Broadcom in charts: Revenue from both segments continue to register double-digit Y/Y growth",
           "snippet": "",
-          "url": "https://www.reuters.com/business/broadcom-forecasts-upbeat-quarterly-revenue-strong-ai-chip-demand-2025-12-11/",
-          "source": "Reuters"
+          "url": "https://seekingalpha.com/news/4530707-broadcom-in-charts-revenue-from-both-segments-continue-to-register-double-digit-yy-growth",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "Broadcom (NASDAQ:AVGO) Delivers Impressive Q3, Inventory Levels Improve",
+          "title": "Broadcom turned in strong earnings. But will they revive the AI trade?",
           "snippet": "",
-          "url": "https://www.tradingview.com/news/stockstory:0e7c7c3c0094b:0-broadcom-nasdaq-avgo-delivers-impressive-q3-inventory-levels-improve/",
-          "source": "TradingView"
+          "url": "https://www.msn.com/en-us/money/topstocks/broadcom-turned-in-strong-earnings-but-will-they-revive-the-ai-trade/ar-AA1Sbpni?ocid=finance-verthp-feeds",
+          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -84,6 +69,34 @@
           "snippet": "",
           "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60302469/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A23%E8%9B%8B%E8%B4%88%E5%B8%83%E9%AD%AF%E6%97%A5-%E5%88%A9%E8%8F%AF%E5%8F%A4%E9%81%9C2-2%E9%80%BC%E5%92%8C%E7%B4%90%E5%8D%A1%E7%B4%A0",
           "source": "香港01"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gpt 5.2",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 11 Dec 2025 10:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO8tNOOTEDmwON1qUz7MXKFyXa384tP1yfrl4alU5E0k_iRl8-9SHe5AseQ0M",
+      "pictureSource": "OpenAI",
+      "relatedSearch": [
+        {
+          "title": "Introducing GPT-5.2",
+          "snippet": "",
+          "url": "https://openai.com/index/introducing-gpt-5-2/",
+          "source": "OpenAI"
+        },
+        {
+          "title": "Sam Altman expects OpenAI to exit 'code red' by January after launch of GPT-5.2 model",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2025/12/11/openai-intros-new-ai-model-gpt-5point2-says-better-at-professional-tasks.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Sam Altman says industry is wrong on OpenAI's competition, it is not from Google, but ...",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-says-industry-is-wrong-on-openais-competition-it-is-not-from-google-but-/articleshow/125868910.cms",
+          "source": "Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
