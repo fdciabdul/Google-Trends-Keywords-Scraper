@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-12 05:53:14",
+  "lastUpdate": "2025-12-12 06:00:10",
   "data": [
     {
       "title": "کشتی حسن یزدانی",
@@ -59,7 +59,7 @@
     },
     {
       "title": "شغال قسمت ۲۰",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 11 Dec 2025 21:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJ1pHmp0lXT4H5fX5SlkQFbaH1v4WxAx4btPfqTK-wbAe1-Ksq6Gs5CLqO_Cg",
       "pictureSource": "هم‌میهن",
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "فرارو",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 11 Dec 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1LF5g2wwC6vsZulk-mssiWlskVNZOgUnw2vhUUOV1wA95fsuSv2YOMgF094g",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "از ایران تا چین تا ونزوئلا؛ چگونه نفت‌کش توقیف‌شده توسط آمریکا موقعیت واقعی خود را پنهان کرد",
-          "snippet": "",
-          "url": "https://www.bbc.com/persian/articles/czdgrdzedqmo",
-          "source": "BBC"
-        },
-        {
-          "title": "واکنش‌‌های قانون‌گذاران آمریکایی به توقیف نفتکش مرتبط با جمهوری اسلامی و ونزوئلا",
-          "snippet": "",
-          "url": "https://ir.voanews.com/a/us-lawmakers-reax-venezuela-iran-oil-tanker-seizure/8092343.html",
-          "source": "صدای آمریکا"
-        },
-        {
-          "title": "بلومبرگ: نفتکش توقیف شده توسط آمریکا، در تجارت نفت ایران نقش داشته است",
-          "snippet": "",
-          "url": "https://vista.ir/n/roozno/7wzbe",
-          "source": "vista.ir"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "خبرآنلاین",
       "trafficCount": "100+",
       "pubDate": "Thu, 11 Dec 2025 20:10:00 -0800",
@@ -123,12 +95,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "هواشناسی بندرعباس",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 11 Dec 2025 19:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMLNt8CP2W30SGVWIgXOIAusvDONl5oawZ86yUZlDcAPj4MLhbWfXmaqqS4Jg",
+      "pictureSource": "خبرگزاری مهر",
+      "relatedSearch": [
+        {
+          "title": "پیش بینی وضعیت آب و هوایی هرمزگان در روز پنجشنبه ۲۰ آذرماه",
+          "snippet": "",
+          "url": "https://www.mehrnews.com/news/6685347/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%A2%D8%A8-%D9%88-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%DB%B2%DB%B0%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1%D9%85%D8%A7%D9%87",
+          "source": "خبرگزاری مهر"
+        },
+        {
+          "title": "هشدار نارنجی هواشناسی برای هرمزگان صادر شد",
+          "snippet": "",
+          "url": "https://www.yjc.ir/fa/news/9034660/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%86%D8%A7%D8%B1%D9%86%D8%AC%DB%8C-%D9%87%D9%88%D8%A7%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF%C2%A0",
+          "source": "باشگاه خبرنگاران جوان"
+        },
+        {
+          "title": "پیش‌بینی افزایش ابر، رگبارهای پراکنده و تلاطم دریا در هرمزگان",
+          "snippet": "",
+          "url": "https://www.isna.ir/news/1404092013261/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A7%D8%A8%D8%B1-%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D9%88-%D8%AA%D9%84%D8%A7%D8%B7%D9%85-%D8%AF%D8%B1%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86",
+          "source": "ایسنا"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "kick",
       "trafficCount": "200+",
       "pubDate": "Thu, 11 Dec 2025 14:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuYtq-itMVZryc29VzGYKLWk1ijKuEEqzg7G0ejqKt-sVKo31JP1gag8eLeZc",
-      "pictureSource": "Pride Of Detroit",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEknPf3PI5mB81-x0IOvEUA60_UEeMf8wvS73oy-Y8ajOuFL1B7TRBK9qVjKQ",
+      "pictureSource": "Yahoo News Malaysia",
       "relatedSearch": [
+        {
+          "title": "Malaysia’s first large-scale wind turbine project to kick off soon in Sabah, says SEC",
+          "snippet": "",
+          "url": "https://malaysia.news.yahoo.com/malaysia-first-large-scale-wind-045732062.html",
+          "source": "Yahoo News Malaysia"
+        },
         {
           "title": "Detroit Lions ‘ecstatic’ for Tom Kennedy, plan to keep him as kick returner",
           "snippet": "",
@@ -140,12 +146,6 @@
           "snippet": "",
           "url": "https://www.thefantasyfootballers.com/news/621083/tom-kennedy-limited-offensive-workload-in-win/",
           "source": "Fantasy Footballers Podcast"
-        },
-        {
-          "title": "Tom Kennedy to stay as kick returner, says Dave Fipp",
-          "snippet": "",
-          "url": "https://lionswire.usatoday.com/story/sports/nfl/lions/2025/12/11/tom-kennedy-to-stay-as-kick-returner-says-dave-fipp/87727530007/",
-          "source": "Lions Wire"
         }
       ],
       "link": "https://imtaqin.id/"
