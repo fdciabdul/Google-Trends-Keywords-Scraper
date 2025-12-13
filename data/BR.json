@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-12-13 18:44:37",
+  "lastUpdate": "2025-12-13 18:52:47",
   "data": [
+    {
+      "title": "barcelona",
+      "trafficCount": "20000+",
+      "pubDate": "Sat, 13 Dec 2025 10:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJw41zPQXNfQXwxSkOmrnAhAg8-orNrcFogWPPQUbLDh81Ez96Oiq1zsf0GRY",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "Barcelona - Osasuna, en directo: última hora de LaLiga EA Sports, hoy en vivo",
+          "snippet": "",
+          "url": "https://as.com/futbol/barcelona-osasuna-en-directo-laliga-ea-sports-en-vivo-hoy-f202512-d/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Flick apuesta por un once del Barça con dos caras nuevas respecto al del Eintracht",
+          "snippet": "",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20251213/1002586202/flick-apuesta-once-barca-dos-caras-nuevas-repsecto-eintracht.html",
+          "source": "Mundo Deportivo"
+        },
+        {
+          "title": "La convocatoria del FC Barcelona para el partido contra Osasuna",
+          "snippet": "",
+          "url": "https://www.sport.es/es/noticias/barca/convocatoria-fc-barcelona-partido-osasuna-barca-flick-124719191",
+          "source": "SPORT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "paris fc",
       "trafficCount": "200+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "campeonato frances",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 13 Dec 2025 10:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkh87534MDEpd76a0BWSCb2WUfNWyIL2EbPaRn-kNS1s0rcCLupDBMEC06cmw",
-      "pictureSource": "Rádio Itatiaia",
-      "relatedSearch": [
-        {
-          "title": "Todos os jogos do sábado (13) pelo Campeonato Francês",
-          "snippet": "",
-          "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/futebol-frances/todos-os-jogos-do-sabado-13-pelo-campeonato-frances",
-          "source": "Rádio Itatiaia"
-        },
-        {
-          "title": "Ligue 1+ no OneFootball: jogos do fim de semana",
-          "snippet": "",
-          "url": "https://kalangoatomico.com.br/desporto/ligue-1-no-onefootball-jogos-do-fim-de-semana/154558/",
-          "source": "Kalango Atômico"
-        },
-        {
-          "title": "Metz x PSG na Ligue 1: onde assistir ao vivo, horário e escalação",
-          "snippet": "",
-          "url": "https://www.estadao.com.br/esportes/futebol/metz-x-psg-na-ligue-1-onde-assistir-ao-vivo-horario-e-escalacao/",
-          "source": "Estadão"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "final do mundial 2026",
       "trafficCount": "100+",
       "pubDate": "Sat, 13 Dec 2025 10:20:00 -0800",
@@ -80,6 +80,34 @@
           "title": "Fãs acusam Fifa de ‘traição’ e falam em ‘extorsão’ após promessa de ingressos baratos na Copa",
           "snippet": "",
           "url": "https://www.estadao.com.br/esportes/futebol/fas-acusam-fifa-de-traicao-e-falam-em-extorsao-apos-promessa-de-ingressos-baratos-na-copa-npres/",
+          "source": "Estadão"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "campeonato frances",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 13 Dec 2025 10:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkh87534MDEpd76a0BWSCb2WUfNWyIL2EbPaRn-kNS1s0rcCLupDBMEC06cmw",
+      "pictureSource": "Rádio Itatiaia",
+      "relatedSearch": [
+        {
+          "title": "Todos os jogos do sábado (13) pelo Campeonato Francês",
+          "snippet": "",
+          "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/futebol-frances/todos-os-jogos-do-sabado-13-pelo-campeonato-frances",
+          "source": "Rádio Itatiaia"
+        },
+        {
+          "title": "Ligue 1+ no OneFootball: jogos do fim de semana",
+          "snippet": "",
+          "url": "https://kalangoatomico.com.br/desporto/ligue-1-no-onefootball-jogos-do-fim-de-semana/154558/",
+          "source": "Kalango Atômico"
+        },
+        {
+          "title": "Metz x PSG na Ligue 1: onde assistir ao vivo, horário e escalação",
+          "snippet": "",
+          "url": "https://www.estadao.com.br/esportes/futebol/metz-x-psg-na-ligue-1-onde-assistir-ao-vivo-horario-e-escalacao/",
           "source": "Estadão"
         }
       ],
@@ -171,16 +199,16 @@
           "source": "Tribuna.com"
         },
         {
+          "title": "Luis Enrique lamenta lesões no PSG e não confirma Marquinhos em possível final contra o Flamengo",
+          "snippet": "",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2025/12/12/luis-enrique-lamenta-lesoes-no-psg-e-nao-confirma-marquinhos-em-possivel-final-contra-o-flamengo.ghtml",
+          "source": "ge"
+        },
+        {
           "title": "Flamengo de olho: PSG escala reservas antes da final da Copa Intercontinental",
           "snippet": "",
           "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/futebol-frances/psg/flamengo-de-olho-psg-escala-reservas-antes-da-final-da-copa-intercontinental",
           "source": "Rádio Itatiaia"
-        },
-        {
-          "title": "PSG vive dúvidas com pilares antes do Mundial e 'torce' contra o Flamengo",
-          "snippet": "",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2025/12/13/psg-intercontinental-duvidas-flamengo.htm",
-          "source": "UOL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -237,34 +265,6 @@
           "snippet": "",
           "url": "https://foot-africa.com/en/news/fifa-intercontinental-cup-which-channels-will-broadcast-pyramids-vs-flamengo-live-999347/",
           "source": "Foot Africa"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cristian olivera",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 13 Dec 2025 09:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOVw3Lruldc4c3Yreo8qEuAGBSjLEn8hAT8ErqpKTP2TilzOJ1rKqGM3lUd9c",
-      "pictureSource": "ge",
-      "relatedSearch": [
-        {
-          "title": "Cristian Olivera, do Grêmio, aceita proposta do Nacional e se muda para o Uruguai",
-          "snippet": "",
-          "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/12/12/cristian-olivera-do-gremio-aceita-proposta-do-nacional-e-se-muda-para-o-uruguai.ghtml",
-          "source": "ge"
-        },
-        {
-          "title": "Atacante do Grêmio presta depoimento por suposta relação com traficante no Uruguai",
-          "snippet": "",
-          "url": "https://www.correiodopovo.com.br/esportes/gr%C3%AAmio/atacante-do-gremio-presta-depoimento-por-suposta-relacao-com-traficante-no-uruguai-1.1674629",
-          "source": "Correio do Povo"
-        },
-        {
-          "title": "O que penso sobre a novela Kike Olivera no Grêmio",
-          "snippet": "",
-          "url": "https://gauchazh.clicrbs.com.br/colunistas/queki/noticia/2025/12/o-que-penso-sobre-a-novela-kike-olivera-no-gremio-cmj3dxugw0283013y94xgmfc0.html",
-          "source": "GZH"
         }
       ],
       "link": "https://imtaqin.id/"
