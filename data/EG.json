@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-13 17:48:59",
+  "lastUpdate": "2025-12-13 17:55:57",
   "data": [
     {
       "title": "ميتز ضد بي اس جي",
@@ -31,7 +31,7 @@
     },
     {
       "title": "metz vs psg",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 13 Dec 2025 09:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlX0ClAhlBrHOp_Q39S5VOvito13xsyk-FQOB43cpXYABte_gOWGIxikMY3iY",
       "pictureSource": "Le Républicain Lorrain",
@@ -43,16 +43,16 @@
           "source": "Le Républicain Lorrain"
         },
         {
+          "title": "Ruiz, Metz, buts... Les chiffres clés avant Metz / PSG",
+          "snippet": "",
+          "url": "https://canal-supporters.com/ruiz-metz-buts-les-chiffres-cles-avant-metz-psg/",
+          "source": "Canal Supporters PSG 24-7"
+        },
+        {
           "title": "PSG - La compo officielle du PSG face au FC Metz",
           "snippet": "",
           "url": "https://madeinparisiens.ouest-france.fr/infos/article-psg-la-compo-officielle-du-psg-face-au-fc-metz-506049.html",
           "source": "MadeInParisiens"
-        },
-        {
-          "title": "Marquinhos, Dembélé, Safonov, mercato : les vérités de Luis Enrique avant Metz/PSG",
-          "snippet": "",
-          "url": "https://www.msn.com/fr-ch/actualite/other/marquinhos-demb%C3%A9l%C3%A9-safonov-mercato-les-v%C3%A9rit%C3%A9s-de-luis-enrique-avant-metz-psg/ar-AA1Se01U",
-          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ترتيب الدوري الانجليزي",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 13 Dec 2025 09:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXkUSk0PdiWPG3XISyOieQpbEHerjosZENiSNl2yj1wzDRf8SeNKBc8SmzRIw",
-      "pictureSource": "المصري اليوم",
-      "relatedSearch": [
-        {
-          "title": "جدول ترتيب الدوري الإنجليزي بعد فوز ليفربول وتشيلسي اليوم",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4150624",
-          "source": "المصري اليوم"
-        },
-        {
-          "title": "ترتيب هدافي الدوري الإنجليزي بعد ثنائية إيكتيكي أمام برايتون",
-          "snippet": "",
-          "url": "https://www.btolat.com/news/387620",
-          "source": "بطولات"
-        },
-        {
-          "title": "جدول مباريات الجولة 16 من الدوري الإنجليزي",
-          "snippet": "",
-          "url": "https://www.yallakora.com/epl/2968/news/533597/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-16-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A",
-          "source": "يلاكورة"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pyramids fc vs flamengo",
       "trafficCount": "200+",
       "pubDate": "Sat, 13 Dec 2025 09:00:00 -0800",
@@ -142,16 +114,72 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ترتيب الدوري الانجليزي",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 13 Dec 2025 09:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXkUSk0PdiWPG3XISyOieQpbEHerjosZENiSNl2yj1wzDRf8SeNKBc8SmzRIw",
+      "pictureSource": "المصري اليوم",
+      "relatedSearch": [
+        {
+          "title": "جدول ترتيب الدوري الإنجليزي بعد فوز ليفربول وتشيلسي اليوم",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/4150624",
+          "source": "المصري اليوم"
+        },
+        {
+          "title": "ترتيب هدافي الدوري الإنجليزي بعد ثنائية إيكتيكي أمام برايتون",
+          "snippet": "",
+          "url": "https://www.btolat.com/news/387620",
+          "source": "بطولات"
+        },
+        {
+          "title": "جدول مباريات الجولة 16 من الدوري الإنجليزي",
+          "snippet": "",
+          "url": "https://www.yallakora.com/epl/2968/news/533597/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-16-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A",
+          "source": "يلاكورة"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "يلا سبورت",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 13 Dec 2025 09:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb5Qs4NNhqSou1Ifz-FnMEozZarTfglDtBzYlg3ttkhtpiTi8hd-gUn_L5wSE",
+      "pictureSource": "يلاكورة",
+      "relatedSearch": [
+        {
+          "title": "بسبب شبهات فساد.. تقارير: الأرجنتين مهددة بالاستبعاد من كأس العالم 2026",
+          "snippet": "",
+          "url": "https://www.yallakora.com/world-cup/2866/news/533704/%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B4%D8%A8%D9%87%D8%A7%D8%AA-%D9%81%D8%B3%D8%A7%D8%AF-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%85%D9%87%D8%AF%D8%AF%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A8%D8%B9%D8%A7%D8%AF-%D9%85%D9%86-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026",
+          "source": "يلاكورة"
+        },
+        {
+          "title": "فضيحة تابيا تهدد مشاركة الأرجنتين في مونديال 2026",
+          "snippet": "",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%81%D8%B6%D9%8A%D8%AD%D8%A9-%D8%AA%D8%A7%D8%A8%D9%8A%D8%A7-%D8%AA%D9%87%D8%AF%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%A7%D9%94%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/bltb3d7f4c905017fbe",
+          "source": "Kooora"
+        },
+        {
+          "title": "\"عقار فاخر\"، الفساد يلاحق أكبر مسؤول باتحاد كرة القدم في الأرجنتين",
+          "snippet": "",
+          "url": "https://www.egypttelegraph.com/article/203711/%D8%B9%D9%82%D8%A7%D8%B1-%D9%81%D8%A7%D8%AE%D8%B1-%D8%8C-%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF-%D9%8A%D9%84%D8%A7%D8%AD%D9%82-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%B3%D8%A4%D9%88%D9%84",
+          "source": "تليجراف مصر"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "burnley vs fulham",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 13 Dec 2025 08:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQswXmf3W02ZIfCnPvNpmyMw-QmtKXwyAJshq_1veigdd0T9lNa3-HSZV6Vr9A",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9t5cXizfZRUKNLLCoGfEt0GlRM-aLsyAPXVh1NmnOAN2m65LyzNXSvnGYXtY",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
           "title": "Premier League LIVE: Liverpool vs Brighton & Chelsea vs Everton - scores & updates",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/ce9d7d3pxk5t",
+          "url": "https://www.bbc.com/sport/football/live/ce9d7d3pxk5t?page=2",
           "source": "BBC"
         },
         {
@@ -161,26 +189,17 @@
           "source": "Fulham FC"
         },
         {
-          "title": "From the Press Box: Sess out, but perhaps the Return of the Jedi?",
+          "title": "Premier League predictions and best bets: Sunderland to face reality check in Tyne-Wear derby? 7/1 best bet treble",
           "snippet": "",
-          "url": "https://www.fulhamish.co.uk/p/from-the-press-box-sess-out-but-perhaps",
-          "source": "Fulhamish"
+          "url": "https://www.skysports.com/football/news/11095/13482322/premier-league-predictions-and-best-bets-is-chelseas-season-starting-to-crumble-7-1-best-bet-treble",
+          "source": "Sky Sports"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "مباريات نادى بيراميدز",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 13 Dec 2025 08:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "برشلونة ضد أوساسونا",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Sat, 13 Dec 2025 08:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNrtlYNxdQR_iIbR69sGqDUOLjlNRmqH9Of2g7cUdh2CWBzmmJGCTcU7rbx9k",
       "pictureSource": "اليوم السابع",
@@ -194,49 +213,49 @@
         {
           "title": "قائمة برشلونة - غياب تشيزني في مواجهة أوساسونا",
           "snippet": "",
-          "url": "https://www.filgoal.com/articles/519080",
+          "url": "https://www.filgoal.com/articles/519080/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%BA%D9%8A%D8%A7%D8%A8-%D8%AA%D8%B4%D9%8A%D8%B2%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A3%D9%88%D8%B3%D8%A7%D8%B3%D9%88%D9%86%D8%A7",
           "source": "FilGoal"
         },
         {
-          "title": "تشكيل برشلونة.. تغييران من فليك.. وراشفورد يجاور لامين يامال أمام أوساسونا",
+          "title": "فليك يعلن قائمة برشلونة لمواجهة أوساسونا في الدوري الإسباني",
           "snippet": "",
-          "url": "https://www.yallakora.com/la-liga/2982/news/533696/%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D9%81%D9%84%D9%8A%D9%83-%D9%88%D8%B1%D8%A7%D8%B4%D9%81%D9%88%D8%B1%D8%AF-%D9%8A%D8%AC%D8%A7%D9%88%D8%B1-%D9%84%D8%A7%D9%85%D9%8A%D9%86-%D9%8A%D8%A7%D9%85%D8%A7%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D9%88%D8%B3%D8%A7%D8%B3%D9%88%D9%86%D8%A7",
-          "source": "يلاكورة"
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=13122025&id=e1ee22cd-a937-41c5-89bf-8cbb28a24e39",
+          "source": "بوابة الشروق"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "barcelona vs osasuna",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Sat, 13 Dec 2025 08:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oePtLcSKyBakdggU7QukSLfRY5Cahk-if_E4psNe6rkVYGloKyq-yJNXkx8",
-      "pictureSource": "Yahoo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnOx68nNoSLlT0OEB-6QcPXy1GsSO9q8ogQOoTjwC3w08oIHDx0qWPK__tZ48",
+      "pictureSource": "Vietnam.vn",
       "relatedSearch": [
         {
-          "title": "Flick premia a Rashford y Ferran con la titularidad ante Osasuna",
+          "title": "Pronóstico Barcelona vs Osasuna, 00:30 del 14 de diciembre: Victoria rápida.",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/flick-premia-rashford-ferran-titularidad-163210743.html",
-          "source": "Yahoo"
+          "url": "https://www.vietnam.vn/es/nhan-dinh-barca-vs-osasuna-0h30-ngay-14-12-danh-nhanh-thang-nhanh",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Szczęsny Es Baja De última Hora En El Barcelona",
+          "title": "El Barça puede dormir a +7 del Real Madrid",
           "snippet": "",
-          "url": "https://www.lared1061.com/futbol-internacional/szczesny-es-baja-de-ultima-hora-en-el-barcelona/",
-          "source": "La Red 106.1 FM"
+          "url": "https://www.vavel.com/es/futbol/2025/12/13/fc-barcelona/1244504-el-barca-puede-dormir-a-7-del-real-madrid.html",
+          "source": "VAVEL.com"
         },
         {
-          "title": "Barcelona vs Osasuna EN VIVO Online. Partido Hoy de Lamine Yamal en LaLiga 2025",
+          "title": "Flick apuesta por un once del Barça con dos caras nuevas respecto al del Eintracht",
           "snippet": "",
-          "url": "https://www.marca.com/mx/futbol/barcelona-osasuna/2025/12/13/01_0101_20251213_178_450-directo.html",
-          "source": "MARCA"
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20251213/1002586202/flick-apuesta-once-barca-dos-caras-nuevas-repsecto-eintracht.html",
+          "source": "Mundo Deportivo"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "بيرنلي ضد فولهام",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 13 Dec 2025 08:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcMHJSFZMhhv6d8AC0JwlpqHIjfEIwQtS7zP3s3CVsO33i9h_R3-COQw-1qLg",
       "pictureSource": "المشهد العربي",
