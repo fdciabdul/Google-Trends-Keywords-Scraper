@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-12-13 04:57:51",
+  "lastUpdate": "2025-12-13 05:09:18",
   "data": [
     {
+      "title": "погода київ",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 12 Dec 2025 20:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2jaMqM475JTzp5-aT-pYspAPq1YnJwBTtKN6dU1m_341lGOJbAwJysu8ick",
+      "pictureSource": "NV",
+      "relatedSearch": [
+        {
+          "title": "Опади та коливання температури. Синоптикиня попередила, де пройде мокрий сніг, дощ і буде ожеледиця в Україні",
+          "snippet": "",
+          "url": "https://nv.ua/ukr/ukraine/events/pogoda-v-grudni-2025-de-bude-mokriy-snig-doshch-ta-ozheledicya-u-vihidni-v-ukrajini-50568133.html",
+          "source": "NV"
+        },
+        {
+          "title": "Україну накриє різке похолодання: що буде з погодою на вихідних і де чекати снігу",
+          "snippet": "",
+          "url": "https://www.rbc.ua/rus/news/ukrayinu-nakrie-rizke-poholodannya-shcho-1765539752.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "Дощ, сніг і морозець – погода на вихідні",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2025/12/12/8011532/",
+          "source": "Українська правда"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "черкаси",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 12 Dec 2025 20:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrLhpqgsYcQIasvXRaJSVlA4U-ENjGykUvmFDohTlYXrPbnGZ5Sb3voY4wjQA",
       "pictureSource": "Суспільне | Новини",
@@ -33,14 +61,14 @@
       "title": "графік відключення світла дніпро",
       "trafficCount": "200+",
       "pubDate": "Fri, 12 Dec 2025 20:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqecikvod0-x0lZkfZaJAWj3lwRsWy2DF5uEzRCFBfFZU-mF5R73kv3BBSF3Q",
-      "pictureSource": "УНІАН",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa5aG_byuhpu7hU2nGe8WJes95MIwJp78JD12zMm7LnUJW4PoKtd2-puKRw2w",
+      "pictureSource": "Судово-юридична газета",
       "relatedSearch": [
         {
-          "title": "Графіки відключень на 13 грудня: коли у суботу вимикатимуть світло в Україні",
+          "title": "Як вимикатимуть світло 13 грудня – ДТЕК оновив графік",
           "snippet": "",
-          "url": "https://www.unian.ua/economics/energetics/grafiki-13-grudnya-ukrenergo-vidklyuchatime-spozhivachiv-za-grafikom-koli-ne-bude-svitla-13224573.html",
-          "source": "УНІАН"
+          "url": "https://sud.ua/uk/news/ukraine/348405-kak-budut-otklyuchat-svet-13-dekabrya-dtek-obnovil-grafik",
+          "source": "Судово-юридична газета"
         },
         {
           "title": "Київщина: графіки відключення світла 13 грудня 2025 року",
@@ -49,10 +77,10 @@
           "source": "Главком"
         },
         {
-          "title": "13 грудня на Полтавщині відключатимуть світло: графік",
+          "title": "Графік відключень світла Київ і Київська область 13 грудня 2025 | The Page",
           "snippet": "",
-          "url": "https://suspilne.media/poltava/1187962-13-grudna-na-poltavsini-vidklucatimut-svitlo-grafik-2/",
-          "source": "Суспільне | Новини"
+          "url": "https://thepage.ua/ua/news/grafik-vidklyuchen-svitla-kiyiv-i-kiyivska-oblast-13-grudnya-2025",
+          "source": "The Page"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -124,7 +152,7 @@
     },
     {
       "title": "погода днепр",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 12 Dec 2025 18:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEU85MnWhyR1v98BuYfitMqsGNAOrDNtDH0PVMB5mJQtAByht0U9o6c15qhtU",
       "pictureSource": "Думская",
@@ -164,15 +192,15 @@
           "source": "Dnepr.news"
         },
         {
-          "title": "Погода на 3 декабря: в Днепре ночью будет дождь",
-          "snippet": "",
-          "url": "https://dp.informator.ua/ru/pogoda-na-3-dekabrya-v-dnepre-nochyu-dozhd",
-          "source": "Інформатор Дніпро"
-        },
-        {
           "title": "Погода на 4 декабря: в Днепре будет облачно с прояснениями",
           "snippet": "",
           "url": "https://dp.informator.ua/ru/pogoda-na-4-dekabrya-v-dnepre-budet-oblachno-s-proyasneniyami",
+          "source": "Інформатор Дніпро"
+        },
+        {
+          "title": "В Днепре ожидается сплошная облачность: прогноз погоды на 3 декабря",
+          "snippet": "",
+          "url": "https://dp.informator.ua/ru/v-dnepre-ozhidaetsya-sploshnaya-oblachnost-prognoz-pogody-na-3-dekabrya",
           "source": "Інформатор Дніпро"
         }
       ],
@@ -192,16 +220,16 @@
           "source": "Українська правда"
         },
         {
+          "title": "«Прийду за кожним особисто». Генпрокурор Кравченко пригрозив тим, хто відправляє його у відставку",
+          "snippet": "",
+          "url": "https://glavcom.ua/country/politics/chi-jde-kravchenko-u-vidstavku-ofis-henprokurora-zrobiv-zajavu-1092703.html",
+          "source": "Главком"
+        },
+        {
           "title": "Генпрокурор Кравченко заперечив свою відставку",
           "snippet": "",
           "url": "https://www.radiosvoboda.org/a/news-genprokuror-kravchenko-zaperechyv-vidstavku/33621589.html",
           "source": "Радіо Свобода"
-        },
-        {
-          "title": "В Офісі генпрокурора спростували інформацію про відставку Кравченка",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-polytics/4068937-v-ofisi-genprokurora-sprostuvali-informaciu-pro-vidstavku-kravcenka.html",
-          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,15 +238,9 @@
       "title": "гадяч",
       "trafficCount": "500+",
       "pubDate": "Fri, 12 Dec 2025 17:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQexBsmKZqozSHGml4DJZI8naJdbvP53sgId2kD-StK4rzkLrGlw5-da8fbCg",
-      "pictureSource": "Кременчук Тудей",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSMfWXai85_BibliWzib45qL-R56cDdx3t6lxY8fAFH9CWF20rbl-o6z8FZnY",
+      "pictureSource": "Район.Миргород",
       "relatedSearch": [
-        {
-          "title": "На Полтавщині нетверезий 53-річний чоловік підірвав дві страйкбольні гранати",
-          "snippet": "",
-          "url": "https://kremen.today/2025/12/10/na-poltavshhyni-netverezyj-53-richnyj-cholovik-pidirvav-dvi-strajkbolni-granaty/",
-          "source": "Кременчук Тудей"
-        },
         {
           "title": "У Миргородському районі поліцейські вилучили в жителя Гадяча зброю та наркотики",
           "snippet": "",
@@ -230,34 +252,12 @@
           "snippet": "",
           "url": "https://bazarmedia.info/2025/12/12/zmtgk8gp/",
           "source": "http://www.bazarmedia.info/"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "миргород",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 12 Dec 2025 17:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIL0AYEwo2wyx1gSoqt7HOI3zboAvNvt5jmYQysnCu88Vew-Z6-DdY0A9J7ws",
-      "pictureSource": "Молодий буковинець",
-      "relatedSearch": [
-        {
-          "title": "Реформа старшої школи у Чернівцях: що чекає на ліцеї наступного року",
-          "snippet": "",
-          "url": "https://molbuk.ua/chernivtsi_news/348957-reforma-starshoi-shkoly-u-chernivciakh-shcho-chekaie-na-licei-nastupnogo-roku.html",
-          "source": "Молодий буковинець"
         },
         {
-          "title": "У ліцеї на Рівненщині готуються до запуску профільної освіти",
+          "title": "На Полтавщині нетверезий 53-річний чоловік підірвав дві страйкбольні гранати",
           "snippet": "",
-          "url": "https://rivne.media/news/u-litsei-na-rivnenshchini-hotuyutsya-do-zapusku-profilnoi-osviti-122026",
-          "source": "Рівне Медіа"
-        },
-        {
-          "title": "Україна готується до нової мережі шкіл: що зміниться для учнів, батьків та вчителів",
-          "snippet": "",
-          "url": "https://www.0352.ua/news/4040125/ukraina-gotuetsa-do-novoi-merezi-skil-so-zminitsa-dla-ucniv-batkiv-ta-vciteliv",
-          "source": "0352.ua - Сайт міста Тернополя"
+          "url": "https://kremen.today/2025/12/10/na-poltavshhyni-netverezyj-53-richnyj-cholovik-pidirvav-dvi-strajkbolni-granaty/",
+          "source": "Кременчук Тудей"
         }
       ],
       "link": "https://imtaqin.id/"
