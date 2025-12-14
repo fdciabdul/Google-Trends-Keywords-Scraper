@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-14 10:50:08",
+  "lastUpdate": "2025-12-14 10:57:02",
   "data": [
-    {
-      "title": "stuff news",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 14 Dec 2025 02:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfdntmNyBH0gbXWftW03Gu1q8irq-GblbFGYPJ4g5WoWs9O5K4U9bjGkXEmIY",
-      "pictureSource": "Stuff",
-      "relatedSearch": [
-        {
-          "title": "Stuff quiz: The week that was news quiz for December 14, 2025",
-          "snippet": "",
-          "url": "https://www.stuff.co.nz/quizzes/360913521/stuff-quiz-news-quiz-december-14-2025",
-          "source": "Stuff"
-        },
-        {
-          "title": "Stuff quiz: The week that was news quiz for December 7, 2025",
-          "snippet": "",
-          "url": "https://www.stuff.co.nz/quizzes/360910037/stuff-quiz-news-quiz-december-7-2025",
-          "source": "Stuff"
-        },
-        {
-          "title": "Nine killed in shooting at Australia's Bondi Beach, police say",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/ckgk391yzm7t",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "bbc",
       "trafficCount": "200+",
@@ -58,8 +30,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "sydney herald",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 14 Dec 2025 01:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwMhq50i5QKW3j5elmHw4xr0Zow9vYy-hbUyldYBPV9F5Aa3hKC9ER63Azk5Q",
+      "pictureSource": "Daily Mail",
+      "relatedSearch": [
+        {
+          "title": "Failed police officer and Knox Grammar graduate admits filming child sex abuse material of the kids in his care",
+          "snippet": "",
+          "url": "https://www.dailymail.co.uk/news/article-15376883/Knox-Grammar-david-james-child-abuse.html",
+          "source": "Daily Mail"
+        },
+        {
+          "title": "Former cop moonlighting as childcare worker slapped with more charges",
+          "snippet": "",
+          "url": "https://www.9news.com.au/national/nsw-david-william-james-former-cop-moonlighting-as-childcare-worker-slapped-with-more-charges/93e14214-281c-410a-a542-b0991d04e3d6",
+          "source": "9News.com.au"
+        },
+        {
+          "title": "‘Shock’: Childcare worker’s abuse admission",
+          "snippet": "",
+          "url": "https://au.news.yahoo.com/childcare-worker-admits-horror-abuse-232719662.html",
+          "source": "Yahoo News Australia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nz herald",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 14 Dec 2025 01:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNUHfiMkSso3z58xSk799uuRylGwnkfS-rQRi_Q-vSBgCnnfjTC5hI4EywUJg",
       "pictureSource": "NZ Herald",
@@ -142,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "abc news australia",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 14 Dec 2025 01:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VxBoRz8kRsWlfwnLgjdwMgroRwOKnzY5fMmgdhd_9b9MMC2PWHYjI7fMX6o",
-      "pictureSource": "Australian Broadcasting Corporation",
-      "relatedSearch": [
-        {
-          "title": "First Australian rare earth processing facility under construction",
-          "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-12-12/rare-earth-processing-facility-mining-south-australia/106123882",
-          "source": "Australian Broadcasting Corporation"
-        },
-        {
-          "title": "Koppamurra rare earths mining project signs deal with federal government",
-          "snippet": "",
-          "url": "https://www.msn.com/en-au/news/australia/koppamurra-rare-earths-mining-project-signs-deal-with-federal-government/vi-AA1ScL9L?cvid=693d2af634904071bab67a79a0e2f0bb&ocid=hpmsn",
-          "source": "MSN"
-        },
-        {
-          "title": "New technology to be used at AR3 processing facility",
-          "snippet": "",
-          "url": "https://sevoice.com.au/new-technology-to-be-used-at-ar3-processing-facility/",
-          "source": "The SE Voice"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "sky news australia",
       "trafficCount": "200+",
       "pubDate": "Sun, 14 Dec 2025 01:30:00 -0800",
@@ -195,26 +167,26 @@
       "title": "stuff",
       "trafficCount": "1000+",
       "pubDate": "Sun, 14 Dec 2025 01:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaS5bWJT67JG4asYpJ8RBCDo4YoC7peagWE6k_LDpL3lZgWlqXubhXcyGagZE",
-      "pictureSource": "ESPNcricinfo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ33GXQbSFfZgA--a9WpKuUugwAV-inlppt_gfqC0v-2XutLwxnDwdRmEQaRG0",
+      "pictureSource": "USA Today",
       "relatedSearch": [
         {
-          "title": "Cameron Green available to bowl in IPL, manager 'stuff-up' registered him as batter",
+          "title": "Singer Camryn Magness, who opened for One Direction, dies at 26",
           "snippet": "",
-          "url": "https://www.espncricinfo.com/story/cameron-green-available-to-bowl-in-ipl-manager-stuff-up-registered-him-as-batter-1515565",
-          "source": "ESPNcricinfo"
+          "url": "https://www.usatoday.com/story/entertainment/music/2025/12/11/camryn-magness-dead-singer-one-direction-fifth-harmony/87714949007/",
+          "source": "USA Today"
         },
         {
-          "title": "TATA IPL 2026 Player Auction List Announced",
+          "title": "Camryn Magness, singer who toured with One Direction, dies after Miami Beach scooter crash",
           "snippet": "",
-          "url": "https://www.iplt20.com/news/4248/tata-ipl-2026-player-auction-list-announced",
-          "source": "IPL"
+          "url": "https://www.nbcmiami.com/news/local/camryn-magness-singer-who-toured-with-one-direction-dies-after-miami-beach-scooter-crash/3733715/",
+          "source": "NBC 6 South Florida"
         },
         {
-          "title": "IPL 2026 auction: Five uncapped Indian players to watch out for",
+          "title": "Camryn Magness, Musician Who Toured with One Direction and Cody Simpson, Dies at 26",
           "snippet": "",
-          "url": "https://www.espn.com/cricket/story/_/id/47301476/ipl-2026-auction-watch-auqib-nabi-ashok-sharma-prashant-veer-kartik-sharma-krains-fuletra",
-          "source": "ESPN"
+          "url": "https://people.com/camryn-magness-musician-who-toured-with-one-direction-dies-at-26-11866594",
+          "source": "People.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -261,16 +233,44 @@
           "source": "BBC"
         },
         {
-          "title": "Live: One shooter dead, another in custody after 10 killed in Bondi Beach attack",
+          "title": "Multiple fatalities after shots fired at Bondi Beach in Sydney",
           "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-12-14/active-shooter-bondi-beach-sydney-nsw/106141580",
-          "source": "Australian Broadcasting Corporation"
+          "url": "https://www.rnz.co.nz/news/world/581799/multiple-fatalities-after-shots-fired-at-bondi-beach-in-sydney",
+          "source": "RNZ"
         },
         {
-          "title": "Bondi beach shooting live updates: 10 people dead including one shooter after gunfire attack, NSW police say",
+          "title": "Bondi beach mass shooting: 10 killed during shooting near Sydney park hosting Jewish festival",
           "snippet": "",
-          "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest",
+          "url": "https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach",
           "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "big bash",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 14 Dec 2025 00:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKdqpVS95PH-oBiWkWx7wEqox31Qp8J902XcxY4NnQvdp4RStQPzScIdE4IoI",
+      "pictureSource": "Fox Sports",
+      "relatedSearch": [
+        {
+          "title": "Future Aussie stars, big-name imports and who’ll win the comp — Mega BBL State of Play",
+          "snippet": "",
+          "url": "https://www.foxsports.com.au/cricket/big-bash-league-2025-bbl15-state-of-play-every-squad-and-player-overseas-signings-xfactors-finals-verdict-analysis-latest-cricket-news/news-story/4f268d4fc74e514902e8e1e073fff449",
+          "source": "Fox Sports"
+        },
+        {
+          "title": "Cricket commentary | Perth Scorchers vs Sydney Sixers, 1st Match, Big Bash League 2025-26",
+          "snippet": "",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/123072/sys-vs-prs-1st-match-big-bash-league-2025-26",
+          "source": "Cricbuzz.com"
+        },
+        {
+          "title": "Big Bash League: Fans forced to seek shelter at Optus Stadium due to lightning forecast",
+          "snippet": "",
+          "url": "https://thewest.com.au/sport/cricket/big-bash-league-fans-forced-to-seek-shelter-at-optus-stadium-due-to-lightning-forecast-c-21000014",
+          "source": "The West Australian"
         }
       ],
       "link": "https://imtaqin.id/"
