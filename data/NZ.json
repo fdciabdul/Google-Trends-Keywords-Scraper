@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-12-14 10:33:16",
+  "lastUpdate": "2025-12-14 10:42:44",
   "data": [
+    {
+      "title": "stuff news",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 14 Dec 2025 02:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfdntmNyBH0gbXWftW03Gu1q8irq-GblbFGYPJ4g5WoWs9O5K4U9bjGkXEmIY",
+      "pictureSource": "Stuff",
+      "relatedSearch": [
+        {
+          "title": "Stuff quiz: The week that was news quiz for December 14, 2025",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/quizzes/360913521/stuff-quiz-news-quiz-december-14-2025",
+          "source": "Stuff"
+        },
+        {
+          "title": "Stuff quiz: The week that was news quiz for December 7, 2025",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/quizzes/360910037/stuff-quiz-news-quiz-december-7-2025",
+          "source": "Stuff"
+        },
+        {
+          "title": "Nine killed in shooting at Australia's Bondi Beach, police say",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/ckgk391yzm7t",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "bbc",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.facebook.com/ManchesterEveningNews/photos/she-has-announced-she-is-leaving-her-saturday-afternoon-show/1319581366870892/",
           "source": "Facebook"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sydney herald",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 14 Dec 2025 01:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwMhq50i5QKW3j5elmHw4xr0Zow9vYy-hbUyldYBPV9F5Aa3hKC9ER63Azk5Q",
-      "pictureSource": "Daily Mail",
-      "relatedSearch": [
-        {
-          "title": "Failed police officer and Knox Grammar graduate admits filming child sex abuse material of the kids in his care",
-          "snippet": "",
-          "url": "https://www.dailymail.co.uk/news/article-15376883/Knox-Grammar-david-james-child-abuse.html",
-          "source": "Daily Mail"
-        },
-        {
-          "title": "Former cop moonlighting as childcare worker slapped with more charges",
-          "snippet": "",
-          "url": "https://www.9news.com.au/national/nsw-david-william-james-former-cop-moonlighting-as-childcare-worker-slapped-with-more-charges/93e14214-281c-410a-a542-b0991d04e3d6",
-          "source": "9News.com.au"
-        },
-        {
-          "title": "‘Shock’: Childcare worker’s abuse admission",
-          "snippet": "",
-          "url": "https://au.news.yahoo.com/childcare-worker-admits-horror-abuse-232719662.html",
-          "source": "Yahoo News Australia"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,7 +171,7 @@
     },
     {
       "title": "sky news australia",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 14 Dec 2025 01:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXDVfOX6YEo12J6Cc8ylX0IMESQunuRM05f51XA31_dckFCtauqDT8rkLE19Y",
       "pictureSource": "Facebook",
@@ -248,12 +248,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "sydney morning herald",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 14 Dec 2025 00:30:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "bondi beach",
+      "trafficCount": "20000+",
+      "pubDate": "Sun, 14 Dec 2025 00:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcR_4fejrCatj584Q7_9HNzXRc_jHRwNS0Xcohc_8OnxtxqaAW0r_AftVckw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Nine killed in shooting at Australia's Bondi Beach, police say",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/ckgk391yzm7t",
+          "source": "BBC"
+        },
+        {
+          "title": "Bondi beach shooting live updates: 10 people dead including one shooter after gunfire attack, NSW police say",
+          "snippet": "",
+          "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Police seen giving CPR to suspected shooter in Bondi Beach attack",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/world-news/360914235/police-seen-giving-cpr-suspected-shooter-bondi-beach-attack",
+          "source": "Stuff"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
