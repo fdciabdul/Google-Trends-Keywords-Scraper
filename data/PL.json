@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-12-14 09:28:50",
+  "lastUpdate": "2025-12-14 09:37:40",
   "data": [
+    {
+      "title": "bondi beach",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 14 Dec 2025 01:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Police responding to 'developing' incident at Australia's Bondi Beach",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/ckgk391yzm7t",
+          "source": "BBC"
+        },
+        {
+          "title": "Bondi beach shooting live updates: two people in custody after reports of gunfire, NSW police say",
+          "snippet": "",
+          "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Gunfire, injuries reported at Sydney’s Bondi beach, two people in custody",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/12/14/australia/bondi-beach-police-responding-gunshots-intl",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "fontainebleau",
       "trafficCount": "200+",
@@ -37,16 +65,16 @@
           "source": "TVN24"
         },
         {
-          "title": "Wypadek w Rzeszowie. Autokar z Białorusi przeleciał przez rondo",
+          "title": "Wypadek autokaru w Rzeszowie. Na miejscu są karetki i straż pożarna",
           "snippet": "",
-          "url": "https://www.tokfm.pl/polska/podkarpackie/wypadek-w-rzeszowie-autokar-z-bialorusi-przelecial-przez-rondo",
-          "source": "TOK FM"
+          "url": "https://www.onet.pl/informacje/onetrzeszow/wypadek-autokaru-w-rzeszowie-na-miejscu-sa-karetki-i-straz-pozarna/d58fme3,79cfc278",
+          "source": "Onet"
         },
         {
-          "title": "Autokar wypadł z ronda. Są poszkodowani",
+          "title": "Turyści ranni w wypadku autokaru na rzeszowskim rondzie",
           "snippet": "",
-          "url": "https://wiadomosci.wp.pl/rzeszow/autokar-wypadl-z-ronda-sa-poszkodowani-7232307080809408a",
-          "source": "WP Wiadomości"
+          "url": "https://nowiny24.pl/turysci-ranni-w-wypadku-autokaru-na-rzeszowskim-rondzie/ar/c16p2-28266633",
+          "source": "Nowiny 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,38 +239,10 @@
           "source": "Wprost"
         },
         {
-          "title": "Choinki nie na sprzedaż, a na wypożyczenie. W Piotrkowie znaleźli sposób na ominięcie opłat handlowych?",
+          "title": "Żywa choinka za kilka dyszek? Jedna usługa robi furorę",
           "snippet": "",
-          "url": "https://epiotrkow.pl/news/choinki-nie-na-sprzedaz-a-na-wypozyczenie-w-piotrkowie-znalezli-sposob-na-ominiecie-oplat-handlowych,60662",
-          "source": "ePiotrkow"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rozklad jazdy pkp",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 13 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9H00q8AXrWu0p3TNRv3aJnx9UpEjvs6ZMSPU1de1OSRxXIkumbH37YlnHRpI",
-      "pictureSource": "RMF24",
-      "relatedSearch": [
-        {
-          "title": "555 połączeń dziennie. Jest nowy rozkład jazdy PKP",
-          "snippet": "",
-          "url": "https://www.rmf24.pl/fakty/polska/news-555-polaczen-dziennie-jest-nowy-rozklad-jazdy-pkp,nId,8050518",
-          "source": "RMF24"
-        },
-        {
-          "title": "Od niedzieli nowy rozkład jazdy pociągów. Na Podkarpaciu nowości i utrudnienia",
-          "snippet": "",
-          "url": "https://www.onet.pl/informacje/supernowosci24/od-niedzieli-nowy-rozklad-jazdy-pociagow-na-podkarpaciu-nowosci-i-utrudnienia/6w0fd2c,30bc1058",
-          "source": "Onet"
-        },
-        {
-          "title": "Od dziś nowy rokład jazdy pociągów i powrót Pendolino",
-          "snippet": "",
-          "url": "https://miastokolobrzeg.pl/wiadomosci/37305-od-dzis-nowy-roklad-jazdy-pociagow-i-powrot-pendolino.html",
-          "source": "MiastoKolobrzeg.pl"
+          "url": "https://www.fakt.pl/pieniadze/przyniosa-rozloza-i-wyniosa-po-swietach-wynajmowana-choinka-robi-furore/ytfxlec",
+          "source": "Fakt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -269,8 +269,8 @@
         {
           "title": "Spięcie na linii BBN-Donald Tusk. Biuro \"przywraca\" raport komisji Sławomira Cenckiewicza",
           "snippet": "",
-          "url": "https://wiadomosci.onet.pl/kraj/spiecie-na-linii-bbn-tusk-biuro-przywraca-raport-komisji-slawomira-cenckiewicza/5rvsxhj",
-          "source": "Onet Wiadomości"
+          "url": "https://www.onet.pl/informacje/onetwiadomosci/spiecie-na-linii-bbn-tusk-biuro-przywraca-raport-komisji-slawomira-cenckiewicza/5rvsxhj,79cfc278",
+          "source": "Onet"
         }
       ],
       "link": "https://imtaqin.id/"
