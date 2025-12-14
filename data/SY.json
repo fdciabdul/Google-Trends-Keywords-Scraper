@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-14 17:07:21",
+  "lastUpdate": "2025-12-14 17:18:19",
   "data": [
-    {
-      "title": "ليفانتي ضد فياريال",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 14 Dec 2025 08:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFfTIVeGjiJbYEC0cGAbUwMEeQYR69tPp4jpx2CPWm_4pkvn8yqnqzBHVxLI",
-      "pictureSource": "الاتحاد للأخبار",
-      "relatedSearch": [
-        {
-          "title": "الأحوال الجوية ترجئ مباراة فياريال ليفانتي",
-          "snippet": "",
-          "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/4629895/%D8%A7%D9%84%D8%A3%D8%AD%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%B1%D8%AC%D8%A6-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%81%D9%8A%D8%A7%D8%B1%D9%8A%D8%A7%D9%84-%D9%84%D9%8A%D9%81%D8%A7%D9%86%D8%AA%D9%8A",
-          "source": "الاتحاد للأخبار"
-        },
-        {
-          "title": "الطقس السيئ يتسبب في تأجيل مباراة ليفانتي وفياريال بالدوري الإسباني",
-          "snippet": "",
-          "url": "https://gate.ahram.org.eg/News/5352126.aspx",
-          "source": "بوابة الأهرام"
-        },
-        {
-          "title": "رابطة الدورى الإسبانى تعلن تأجيل مباراة فياريال ضد ليفانتي",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4151160",
-          "source": "المصري اليوم"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "جنوى ضد الإنتر",
       "trafficCount": "200+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/4629839/%D9%83%D9%8A%D9%81%D9%88--%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D9%84%D8%A7%D9%86--%D9%85%D9%88%D8%B3%D9%85-%D8%AC%D9%8A%D8%AF--%D9%88-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%B3%D9%84%D8%A8%D9%8A%D8%A9",
           "source": "الاتحاد للأخبار"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ليفانتي ضد فياريال",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 14 Dec 2025 08:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFfTIVeGjiJbYEC0cGAbUwMEeQYR69tPp4jpx2CPWm_4pkvn8yqnqzBHVxLI",
+      "pictureSource": "الاتحاد للأخبار",
+      "relatedSearch": [
+        {
+          "title": "الأحوال الجوية ترجئ مباراة فياريال ليفانتي",
+          "snippet": "",
+          "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/4629895/%D8%A7%D9%84%D8%A3%D8%AD%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%B1%D8%AC%D8%A6-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%81%D9%8A%D8%A7%D8%B1%D9%8A%D8%A7%D9%84-%D9%84%D9%8A%D9%81%D8%A7%D9%86%D8%AA%D9%8A",
+          "source": "الاتحاد للأخبار"
+        },
+        {
+          "title": "الطقس السيئ يتسبب في تأجيل مباراة ليفانتي وفياريال بالدوري الإسباني",
+          "snippet": "",
+          "url": "https://gate.ahram.org.eg/News/5352126.aspx",
+          "source": "بوابة الأهرام"
+        },
+        {
+          "title": "رابطة الدورى الإسبانى تعلن تأجيل مباراة فياريال ضد ليفانتي",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/4151160",
+          "source": "المصري اليوم"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +99,10 @@
           "source": "البلد نيوز"
         },
         {
-          "title": "سانت يشعل أعياد الكريسماس مبكرا في سندرلاند بعد الفوز على نيوكاسل",
+          "title": "نيوكاسيل يسقط بهدف عكسي أمام سندرلاند في ديربي التاين وير",
           "snippet": "",
-          "url": "https://www.alwafd.news/5761877",
-          "source": "بوابة الوفد الإلكترونية"
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=14122025&id=f88f11f6-065e-446e-ac6b-8ff2f8ebb6ff",
+          "source": "بوابة الشروق"
         },
         {
           "title": "نيوكاسل يسقط بـ«نيران صديقة»!",
@@ -117,9 +117,15 @@
       "title": "فرايبورغ ضد دورتموند",
       "trafficCount": "200+",
       "pubDate": "Sun, 14 Dec 2025 07:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsO5IQVoZFS5bRlqozNOoer7Ds5ESIiGZLOFJolzvFBfVSyZC4K_K-8-Wk9go",
-      "pictureSource": "elayem.news",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8y8vP_iHhDsKeQGSms_1q-574_WNUQQavhSg4cLQYGzOZqYG64TodRlj1Q28",
+      "pictureSource": "مونت كارلو الدولية",
       "relatedSearch": [
+        {
+          "title": "بطولة ألمانيا: دورتموند يفرط بفرصة انتزاع المركز الثاني ويدفع ثمن طرد شقيق بيلينغهام",
+          "snippet": "",
+          "url": "https://www.mc-doualiya.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20251214-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF-%D9%8A%D9%81%D8%B1%D8%B7-%D8%A8%D9%81%D8%B1%D8%B5%D8%A9-%D8%A7%D9%86%D8%AA%D8%B2%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%88%D9%8A%D8%AF%D9%81%D8%B9-%D8%AB%D9%85%D9%86-%D8%B7%D8%B1%D8%AF-%D8%B4%D9%82%D9%8A%D9%82-%D8%A8%D9%8A%D9%84%D9%8A%D9%86%D8%BA%D9%87%D8%A7%D9%85",
+          "source": "مونت كارلو الدولية"
+        },
         {
           "title": "بالفيديو.. بن سبعيني هدّافا في مواجهة فريبورغ بالدوري الألماني",
           "snippet": "",
@@ -131,12 +137,6 @@
           "snippet": "",
           "url": "https://www.vetogate.com/5553760",
           "source": "فيتو"
-        },
-        {
-          "title": "صراع النقاط يشتعل في البوندسليجا.. القنوات الناقلة لمباراة بوروسيا دورتموند ضد فرايبورج في الدوري الألماني 2025",
-          "snippet": "",
-          "url": "https://www.sabaharabi.com/692564",
-          "source": "الصباح العربي"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +155,10 @@
           "source": "Esteemed Kompany"
         },
         {
-          "title": "Haaland and Foden on target again as Man City secure fourth straight win",
+          "title": "Haaland stars in win over Palace to fire Man City title charge",
           "snippet": "",
-          "url": "https://www.premierleague.com/en/news/4489925/haaland-and-foden-on-target-again-as-man-city-secure-fourth-straight-win",
-          "source": "Premier League"
+          "url": "https://www.beinsports.com/en-mena/football/premier-league/articles-video/haaland-stars-in-win-over-palace-to-fire-man-city-title-charge-2025-12-14",
+          "source": "beIN SPORTS"
         },
         {
           "title": "Man City and Aston Villa win to stay in touch with Premier League leader Arsenal",
@@ -183,9 +183,9 @@
           "source": "صوت بيروت إنترناشونال"
         },
         {
-          "title": "بعد 29 ثانية.. وست هام يسجل أسرع هدف في الدوري الإنجليزي",
+          "title": "بعد هدف فيرنانديز.. قائمة أسرع أهداف الدوري الإنجليزي في الموسم الحالي",
           "snippet": "",
-          "url": "https://www.yallakora.com/epl/2968/news/533834/%D8%A8%D8%B9%D8%AF-29-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%D9%85-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A3%D8%B3%D8%B1%D8%B9-%D9%87%D8%AF%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A",
+          "url": "https://www.yallakora.com/epl/2968/news/533835/%D8%A8%D8%B9%D8%AF-%D9%87%D8%AF%D9%81-%D9%81%D9%8A%D8%B1%D9%86%D8%A7%D9%86%D8%AF%D9%8A%D8%B2-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D8%B3%D8%B1%D8%B9-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A",
           "source": "يلاكورة"
         },
         {
@@ -251,26 +251,26 @@
       "title": "كريستال بالاس ضد مان سيتي",
       "trafficCount": "5000+",
       "pubDate": "Sun, 14 Dec 2025 05:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiQSF4PnOzCBdp8iB3ywZKmbYvzB0BMRMyE3iDZdRQXxMxauvsBzf7D0Jp63M",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuuZM3AfvjgPDu0RtbcOSbU95PVhIobUDIAuiQwcLkBe5DtNYenMkEiioypc8",
       "pictureSource": "الخليج",
       "relatedSearch": [
         {
-          "title": "كيفية مشاهدة مباراة مانشستر ستي وكريستال بالاس بث مباشر في الدوري الإنجليزي | صحيفة الخليج",
+          "title": "ترتيب الدوري الإنجليزي بعد فوز مانشستر سيتي بثلاثية ومطاردة آرسنال على الصدارة | صحيفة الخليج",
           "snippet": "",
-          "url": "https://www.alkhaleej.ae/2025-12-14/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D8%AA%D9%8A-%D9%88%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A-6222196",
+          "url": "https://www.alkhaleej.ae/2025-12-14/%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%88%D9%85%D8%B7%D8%A7%D8%B1%D8%AF%D8%A9-%D8%A2%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-6222436",
           "source": "الخليج"
         },
         {
-          "title": "برناردو سيلفا يسعى لافتتاح أهدافه في الدوري الانجليزي",
+          "title": "قبل مواجهة السيتي.. رقم قياسي لـ لاكروا هذا الموسم",
           "snippet": "",
-          "url": "https://hihi2.com/2025/12/14/p3557897.html",
+          "url": "https://hihi2.com/2025/12/14/p3557936.html",
           "source": "هاي كورة"
         },
         {
-          "title": "من قادر على إيقافه.. هالاند يخترق دفاع كريستال بالاس ويزور الشباك (فيديو)",
+          "title": "جوارديولا يوضح سبب غياب دوكو أمام كريستال بالاس",
           "snippet": "",
-          "url": "https://www.yallakora.com/epl/2968/news/533836/%D9%85%D9%86-%D9%82%D8%A7%D8%AF%D8%B1-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D9%82%D8%A7%D9%81%D9%87-%D9%87%D8%A7%D9%84%D8%A7%D9%86%D8%AF-%D9%8A%D8%AE%D8%AA%D8%B1%D9%82-%D8%AF%D9%81%D8%A7%D8%B9-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3-%D9%88%D9%8A%D8%B2%D9%88%D8%B1-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D9%83-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-",
-          "source": "يلاكورة"
+          "url": "https://www.filgoal.com/articles/519169/%D8%AC%D9%88%D8%A7%D8%B1%D8%AF%D9%8A%D9%88%D9%84%D8%A7-%D9%8A%D9%88%D8%B6%D8%AD-%D8%B3%D8%A8%D8%A8-%D8%BA%D9%8A%D8%A7%D8%A8-%D8%AF%D9%88%D9%83%D9%88-%D8%A3%D9%85%D8%A7%D9%85-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3",
+          "source": "FilGoal"
         }
       ],
       "link": "https://imtaqin.id/"
