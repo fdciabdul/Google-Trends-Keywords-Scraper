@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2025-12-14 09:05:22",
+  "lastUpdate": "2025-12-14 09:16:21",
   "data": [
+    {
+      "title": "abc news australia",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 14 Dec 2025 01:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWenVRRwaKxgrceY-AmFrIER57Cq0CslBoQVMyUykCybdTDkJZt2jlPR5mjE",
+      "pictureSource": "Australian Broadcasting Corporation",
+      "relatedSearch": [
+        {
+          "title": "Record gold prices drive Australian exploration boom",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2025-12-13/record-gold-prices-drive-investment-in-exploration-australia/106121424",
+          "source": "Australian Broadcasting Corporation"
+        },
+        {
+          "title": "Property gold rush: The mining towns set to boom as the gold price soars",
+          "snippet": "",
+          "url": "https://www.realestate.com.au/news/property-gold-rush-the-mining-towns-set-to-boom-as-the-gold-price-soars/",
+          "source": "Real Estate"
+        },
+        {
+          "title": "Trump has orchestrated a golden age for Australia",
+          "snippet": "",
+          "url": "https://www.brisbanetimes.com.au/business/companies/trump-has-orchestrated-a-golden-age-for-australia-20251204-p5nkrd.html",
+          "source": "Brisbane Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "matt tebbutt",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 14 Dec 2025 01:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0rM-Oh7AHveSZnAcB4xOoaxIVC7DnKoPNLpiz-pmUhdPQVJcrpWNiJfD8lXE",
+      "pictureSource": "The Sun",
+      "relatedSearch": [
+        {
+          "title": "Saturday Kitchen's Matt Tebbutt forced to stop show and issue apology after guest's on-air screaming meltdown",
+          "snippet": "",
+          "url": "https://www.thesun.co.uk/tv/37625275/saturday-kitchen-matt-tebbutt-apology-guest-screaming-meltdown/",
+          "source": "The Sun"
+        },
+        {
+          "title": "James Acaster destroys set in chaotic TV appearance",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/bulletin/lifestyle/james-acaster-saturday-kitchen-video-b2880172.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "BBC Saturday Kitchen's Matt Tebbutt halts live broadcast to share message with fans",
+          "snippet": "",
+          "url": "https://www.mirror.co.uk/tv/tv-news/bbc-saturday-kitchens-matt-tebbutt-36395546",
+          "source": "The Mirror"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "abc news",
       "trafficCount": "200+",
       "pubDate": "Sun, 14 Dec 2025 00:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvZtt6UhZl1MuY5VkvnbTafpwSi9Lia7eh68X1fIWA32Ew9XXkeaZWHrTFEkM",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREj5DQV8Pc-XGQPt9BC0zKMpRxwH_PEX6ubPrPDCxwQh0h9KDEiHb45BWvAGg",
+      "pictureSource": "The Mirror US",
       "relatedSearch": [
         {
-          "title": "How Ukraine Has Responded to Trump’s Peace Plan and Russia’s Demands for Territory",
+          "title": "ABC fans fume 'I have no sympathy' at disturbing news as David Muir steps away from show",
           "snippet": "",
-          "url": "https://www.nytimes.com/2025/12/12/world/europe/ukraine-trump-peace-plan-counterproposal.html",
-          "source": "The New York Times"
+          "url": "https://www.themirror.com/entertainment/tv/abc-david-muir-sherrone-moore-1559484",
+          "source": "The Mirror US"
         },
         {
-          "title": "US proposes ‘free economic zone’ in parts of Donbas after Ukrainian pullback, Zelensky says",
+          "title": "David Muir absent from World News Tonight as ABC correspondent steps in",
           "snippet": "",
-          "url": "https://www.cnn.com/2025/12/11/europe/ukraine-zelensky-free-economic-zone-donbas-intl",
-          "source": "CNN"
+          "url": "https://www.themirror.com/entertainment/tv/david-muir-whit-johnson-replaces-1559133",
+          "source": "The Mirror US"
         },
         {
-          "title": "Ukraine hopes to entice Trump with a ‘free economic zone’ in latest peace plan",
+          "title": "HIGHLIGHTS FOR ‘ABC NEWS LIVE PRIME WITH LINSEY DAVIS,’ DEC. 15-19",
           "snippet": "",
-          "url": "https://www.politico.com/news/2025/12/11/ukraine-proposes-a-free-economic-zone-in-latest-peace-plan-00687155",
-          "source": "Politico"
+          "url": "https://www.detpress.com/abcnews/pressrelease/highlights-for-abc-news-live-prime-with-linsey-davis-dec-15-19/",
+          "source": "detpress.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "shabana mahmood",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 14 Dec 2025 00:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoPI0X06MAkZDxppvPjXpYTVUZXiA6raiIj-lMlChBMj2DaGf_8zwox6zTZP0",
       "pictureSource": "BBC",
@@ -189,10 +245,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Live: Police responding to reports of active shooter at Bondi Beach",
+          "title": "Bondi Beach latest: Two in custody after reports of shooting in Sydney",
           "snippet": "",
-          "url": "https://www.abc.net.au/news/2025-12-14/active-shooter-bondi-beach-sydney-nsw/106141580",
-          "source": "Australian Broadcasting Corporation"
+          "url": "https://news.sky.com/story/bondi-beach-latest-two-in-custody-after-reports-of-shooting-in-sydney-13483176",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.housingwire.com/videos/rikard-bandebo-on-the-future-of-credit-scoring-competition-and-housing-access/",
           "source": "HousingWire"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "loans",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 14 Dec 2025 00:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRag1Szj8Gnx_HFdAC4GgEFxNAz9fEyHpetk6sWcM40H5GJ6mUR6ydlSDEdOPo",
-      "pictureSource": "Forbes",
-      "relatedSearch": [
-        {
-          "title": "Frozen Russian Assets And The Moment Of Truth For The World Order",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/andyjsemotiuk/2025/12/13/frozen-russian-assets-and-the-moment-of-truth-for-the-world-order/",
-          "source": "Forbes"
-        },
-        {
-          "title": "EU backs indefinite freeze on Russia's frozen cash ahead of big loan plan for Ukraine",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/c98nnd01g91o",
-          "source": "BBC"
-        },
-        {
-          "title": "Belgian PM meets Starmer in London as debate continues on using frozen Russian assets for Ukraine – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2025/dec/12/von-der-leyen-trump-ukraine-belgium-russian-assets-starmer-latest-news-updates",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nationwide building society",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 14 Dec 2025 00:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2F6rje_-7KDcwpkmHXxYWlhCymzJxEv3LfkBP1ea3HJIOiyPJjGwKuNvdlN4",
-      "pictureSource": "The Telegraph",
-      "relatedSearch": [
-        {
-          "title": "Nationwide hit with record fine after failing to spot customer’s £27m Covid fraud",
-          "snippet": "",
-          "url": "https://www.telegraph.co.uk/business/2025/12/12/nationwide-hit-with-record-fine-after-failing-to-spot-fraud/",
-          "source": "The Telegraph"
-        },
-        {
-          "title": "Nationwide fined £44m for 'inadequate' crime controls",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/c1e440e49q6o",
-          "source": "BBC"
-        },
-        {
-          "title": "Nationwide fined £44m by watchdog for financial crime control failings",
-          "snippet": "",
-          "url": "https://www.theguardian.com/business/2025/dec/12/nationwide-fined-44m-by-watchdog-for-financial-control-failings",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
