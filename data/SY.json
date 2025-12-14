@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2025-12-14 18:51:32",
+  "lastUpdate": "2025-12-14 18:58:18",
   "data": [
     {
       "title": "الطقس غدًا",
       "trafficCount": "20000+",
       "pubDate": "Sun, 14 Dec 2025 09:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtH5dORgirwtO1dKolmRPNoAXwYImbHIUGVSm6zNeBlpO6gwxoFDja4HE3Y6w",
-      "pictureSource": "السياسة",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCl0r7GeeCTzWzAZnwPWyS6rjQHlvXG6WNrz7zoC9ha9R-JfEkXV1jA0I2vOo",
+      "pictureSource": "يمن برس",
       "relatedSearch": [
+        {
+          "title": "عاجل: الأرصاد تحذر من 3 ظواهر جوية خطيرة خلال 48 ساعة... هل تستعد مصر لموجة طقس قاسية؟",
+          "snippet": "",
+          "url": "https://yemen-press.net/news153341.html",
+          "source": "يمن برس"
+        },
         {
           "title": "\"الأرصاد\": طقس معتدل نهاراً وغائم جزئياً وبارد ليلاً مع فرصة لأمطار خفيفة",
           "snippet": "",
@@ -19,19 +25,13 @@
           "snippet": "",
           "url": "https://www.cairo24.com/2335352",
           "source": "القاهرة 24"
-        },
-        {
-          "title": "درجات الحرارة اليوم الأحد في مصر",
-          "snippet": "",
-          "url": "https://www.vetogate.com/5553328",
-          "source": "فيتو"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather tomorrow",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 14 Dec 2025 09:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbgQ41kg1tZ6xB-voIrh9R3NsA_0o_ElIsODk6aWBMGgSqFFNFwlQZPSCo1AQ",
       "pictureSource": "WLWT",
@@ -49,10 +49,10 @@
           "source": "Cleveland.com"
         },
         {
-          "title": "Current snow emergency levels for central Ohio",
+          "title": "First Alert Weather Days: Bitter Cold moves in after record snow",
           "snippet": "",
-          "url": "https://abc6onyourside.com/news/local/snow-emergency-levels-and-radar-what-you-need-to-know-to-stay-safe-columbus-ohio-weather-wx-radar-streaming-live-central-snow-blizzards-road-road-county-counties",
-          "source": "WSYX"
+          "url": "https://www.fox19.com/2025/12/14/first-alert-weather-days-bitter-cold-moves-after-record-snow/",
+          "source": "FOX19 | Cincinnati"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "كووورة"
         },
         {
-          "title": "نيوكاسل يسقط بـ«نيران صديقة»!",
-          "snippet": "",
-          "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/4629966/%D9%86%D9%8A%D9%88%D9%83%D8%A7%D8%B3%D9%84-%D9%8A%D8%B3%D9%82%D8%B7-%D8%A8%D9%80-%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%B5%D8%AF%D9%8A%D9%82%D8%A9",
-          "source": "الاتحاد للأخبار"
-        },
-        {
           "title": "نيوكاسيل يسقط بهدف عكسي أمام سندرلاند في ديربي التاين وير",
           "snippet": "",
           "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=14122025&id=f88f11f6-065e-446e-ac6b-8ff2f8ebb6ff",
           "source": "بوابة الشروق"
+        },
+        {
+          "title": "نيوكاسل يسقط بـ«نيران صديقة»!",
+          "snippet": "",
+          "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/4629966/%D9%86%D9%8A%D9%88%D9%83%D8%A7%D8%B3%D9%84-%D9%8A%D8%B3%D9%82%D8%B7-%D8%A8%D9%80-%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%B5%D8%AF%D9%8A%D9%82%D8%A9",
+          "source": "الاتحاد للأخبار"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +227,7 @@
     },
     {
       "title": "وست هام ضد أستون فيلا",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 14 Dec 2025 06:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQes9Uh20ffgIQpRNNMDM-44unhzhPjSEz8wa0DKGDOj05nDKK0QbvX1AiP8Rc",
       "pictureSource": "صوت بيروت إنترناشونال",
@@ -267,16 +267,16 @@
           "source": "Manchester City FC"
         },
         {
+          "title": "Manchester City have suffered a huge injury blow ahead of clash with Crystal Palace",
+          "snippet": "",
+          "url": "https://esteemedkompany.com/2025/12/14/manchester-city-have-suffered-a-huge-injury-blow-ahead-of-clash-with-crystal-palace/",
+          "source": "Esteemed Kompany"
+        },
+        {
           "title": "Haaland stars in win over Palace to fire Man City title charge",
           "snippet": "",
           "url": "https://www.france24.com/en/live-news/20251214-haaland-stars-in-win-over-palace-to-fire-man-city-title-charge",
           "source": "France 24"
-        },
-        {
-          "title": "Man City and Aston Villa win to stay in touch with Premier League leader Arsenal",
-          "snippet": "",
-          "url": "https://www.thealbertan.com/national-sports/man-city-and-aston-villa-win-to-stay-in-touch-with-premier-league-leader-arsenal-11622791",
-          "source": "The Albertan"
         }
       ],
       "link": "https://imtaqin.id/"
