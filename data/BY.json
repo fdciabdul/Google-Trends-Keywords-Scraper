@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-14 07:23:09",
+  "lastUpdate": "2025-12-14 07:31:57",
   "data": [
     {
       "title": "забастовка таксистов",
@@ -108,16 +108,16 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "Обзор матча Арсенал - Вулверхэмптон. 13 декабря 2025, Чемпионат Англии, 16 тур - на ФНК",
-          "snippet": "",
-          "url": "https://football.kulichki.net/england/2026/16/1-Arsenal-Vulverhempton-obzor-matcha-england-2026.htm",
-          "source": "Футбол на Куличках"
-        },
-        {
           "title": "Арсенал 0:0 Вулверхэмптон - 13 декабря 2025 - прямая онлайн трансляция футбольного матча.",
           "snippet": "",
           "url": "https://www.liveresult.ru/football/matches/match1628663_Arsenal-Wolverhampton-live-online",
           "source": "LiveResult"
+        },
+        {
+          "title": "Обзор матча Арсенал - Вулверхэмптон. 13 декабря 2025, Чемпионат Англии, 16 тур - на ФНК",
+          "snippet": "",
+          "url": "https://football.kulichki.net/england/2026/16/1-Arsenal-Vulverhempton-obzor-matcha-england-2026.htm",
+          "source": "Футбол на Куличках"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -235,12 +235,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "азиза",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 13 Dec 2025 08:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "новости беларуси",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 13 Dec 2025 08:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBntEMVP_OzmShKHDZ5ktWsxA41YzppI3yWwrlTt8Gk_viwxFvewVX7Jj-v14",
+      "pictureSource": "БелТА",
+      "relatedSearch": [
+        {
+          "title": "Коул: США снимают санкции с белорусского калия",
+          "snippet": "",
+          "url": "https://belta.by/economics/view/koul-ssha-snimajut-sanktsii-s-belorusskogo-kalija-754015-2025/",
+          "source": "БелТА"
+        },
+        {
+          "title": "Рыбаков: встречи с представителями американских властей проходят практически еженедельно",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/rybakov-vstrechi-s-predstavitelyami-amerikanskikh-vlastey-prokhodyat-prakticheski-ezhenedelno.html",
+          "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "Встреча со спецпосланником США в Беларуси Джоном Коулом",
+          "snippet": "",
+          "url": "https://president.gov.by/ru/events/vstreca-so-specposlannikom-ssa-v-belarusi-dzonom-koulom",
+          "source": "Официальный интернет-портал Президента Республики Беларусь"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
