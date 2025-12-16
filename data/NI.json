@@ -1,29 +1,57 @@
 {
-  "lastUpdate": "2025-12-16 12:55:38",
+  "lastUpdate": "2025-12-16 13:15:55",
   "data": [
     {
       "title": "temblor",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 15 Dec 2025 20:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMSM35mwLZjKRUMx2BxH-ic9Li8043ca7Yzll3zjuQdkGjoHGkT4nkQpNL3rQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTl94SVkVfYVW95uZciuicGj6pnrQPx4-nHF3gPINBy9plS2D-ALu44z0_y1I",
+      "pictureSource": "ABC News",
+      "relatedSearch": [
+        {
+          "title": "Japan lifts its megaquake advisory but urges caution a week after magnitude 7.5 temblor",
+          "snippet": "",
+          "url": "https://abcnews.go.com/International/wireStory/japan-lifts-megaquake-advisory-urges-caution-week-after-128442873",
+          "source": "ABC News"
+        },
+        {
+          "title": "Japan assesses damage from 7.5 magnitude quake that injured 34",
+          "snippet": "",
+          "url": "https://apnews.com/article/japan-quake-hokkaido-tusnami-493c395f288ff2dc4296db4e7539e5a8",
+          "source": "AP News"
+        },
+        {
+          "title": "Japan issues mega-quake advisory after M7.5 tremor | NHK WORLD-JAPAN News",
+          "snippet": "",
+          "url": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
+          "source": "NHKニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sismo",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 15 Dec 2025 20:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNERPQuRaDzvWGbrNI6g4iKiX7gv8WfkfEElX1000K-xp2Lr4x2ML3THSrbQo",
       "pictureSource": "Volcano Discovery",
       "relatedSearch": [
+        {
+          "title": "Terremoto moderado mag. 4.4 - Managua, 104 km al sureste de León, Departamento de León, Nicaragua, lunes 15 dic 2025 a las 22:55 (Hora Managua)",
+          "snippet": "",
+          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22508396/quake-felt-Dec-16-2025-Near-Managua-Managua-Department-Nicaragua.html",
+          "source": "Volcano Discovery"
+        },
+        {
+          "title": "Terremoto moderado mag. 4.0 - Near Coast OF Nicaragua, jueves 11 dic 2025 a las 07:36 (GMT -6) - hace 10 horas",
+          "snippet": "",
+          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22490615/mag3quake-Dec-11-2025-45-km-Al-Suroeste-De-Pochomil-Nicaragua.html",
+          "source": "Volcano Discovery"
+        },
         {
           "title": "Terremoto moderado mag. 4.1 - Philippine Sea, 17 km al este de Ciudad de Yilan, Taiwan, Taiwán, martes 16 dic 2025 a las 19:51 (Hora Taipei)",
           "snippet": "",
           "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22509595/mag4quake-Dec-16-2025-Taiwan-169-km-ENE-of-Yilan-County-Hall.html",
-          "source": "Volcano Discovery"
-        },
-        {
-          "title": "Terremoto leve mag. 3.6 (unconfirmed) - Taiwan, sábado 13 dic 2025 a las 05:13 (Hora Taipei) - hace 12 horas",
-          "snippet": "",
-          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22496055/mag3quake-Dec-12-2025-Taiwan.html",
-          "source": "Volcano Discovery"
-        },
-        {
-          "title": "Terremoto moderado mag. 4.5 - Taiwan: 36.4 km NE of Hualien County Hall, domingo 14 dic 2025 a las 01:58 (Hora Taipei)",
-          "snippet": "",
-          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/22499673/mag4quake-Dec-13-2025-Taiwan-364-km-NE-of-Hualien-County-Hall.html",
           "source": "Volcano Discovery"
         }
       ],
