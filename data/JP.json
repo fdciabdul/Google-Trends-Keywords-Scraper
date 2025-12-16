@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2025-12-16 05:12:20",
+  "lastUpdate": "2025-12-16 05:25:38",
   "data": [
     {
-      "title": "伊勢神宮",
+      "title": "神社",
       "trafficCount": "200+",
       "pubDate": "Mon, 15 Dec 2025 20:40:00 -0800",
       "picture": "",
@@ -11,7 +11,7 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "神社",
+      "title": "伊勢神宮",
       "trafficCount": "200+",
       "pubDate": "Mon, 15 Dec 2025 20:40:00 -0800",
       "picture": "",
@@ -26,34 +26,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "東京ポイント",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 15 Dec 2025 20:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfi_js9UfSMy1tMyxS0wn36ry0i1fm8isYN9TpMiXRgbkbhBRdQld3AFE8sY",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "東京都が1人1万1000ポイント付与する「東京アプリ生活応援事業」 12月15日から500ポイントがもらえる最終検証スタート",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/1d5ec6a136db00fcdfafaaf61694b91320242193",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "「東京アプリ」ダウン 都民参加型の検証にアクセス殺到 500円分のポイント付与で",
-          "snippet": "",
-          "url": "https://times.abema.tv/articles/-/10214767?page=1",
-          "source": "ABEMA TIMES"
-        },
-        {
-          "title": "東京都“1万1000円分”付与キャンペーンに向けた「都民参加型の最終検証」がいよいよスタート。宮坂学氏「ポイント交換ができる決済事業者の拡充」に言及",
-          "snippet": "",
-          "url": "https://gourmet.watch.impress.co.jp/docs/news/2071114.html",
-          "source": "グルメ Watch"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -141,6 +113,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ibm",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 15 Dec 2025 19:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtgD8BAmt1bOR02rfBPkiTFAiYRbom0JXojOlpDmkKAkObUJ3nPwt8N8u5Qco",
+      "pictureSource": "The Register",
+      "relatedSearch": [
+        {
+          "title": "IBM CUGA stalks enterprises looking to deploy AI agents",
+          "snippet": "",
+          "url": "https://www.theregister.com/2025/12/15/ibm_cuga_agent/",
+          "source": "The Register"
+        },
+        {
+          "title": "IBM HashiCorp Ends External Language Support for Terraform",
+          "snippet": "",
+          "url": "https://devops.com/ibm-hashicorp-ends-external-language-support-for-terraform/",
+          "source": "DevOps.com"
+        },
+        {
+          "title": "IBM HashiCorp ‘Sunsets’ Terraform’s External Language Support",
+          "snippet": "",
+          "url": "https://thenewstack.io/ibm-hashicorp-sunsets-terraforms-external-language-support/",
+          "source": "The New Stack"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "とと姉ちゃん",
       "trafficCount": "1000+",
       "pubDate": "Mon, 15 Dec 2025 19:40:00 -0800",
@@ -200,15 +200,9 @@
       "title": "メイショウタバル",
       "trafficCount": "500+",
       "pubDate": "Mon, 15 Dec 2025 19:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgdGAnNP-812-1AIVp19DJNTg8pdSwLg1_evVFNxypyVZ_lnor6mYDyJjZcg",
-      "pictureSource": "Yahoo!ニュース",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTejlWvKOdjxOxdkNdOcEdkmUc2IHw6Gzy7Csgrr4_TnyWALHMWlS3VDiFfzQE",
+      "pictureSource": "競馬ラボ",
       "relatedSearch": [
-        {
-          "title": "【有馬記念登録】連覇を目指すレガレイラ、皐月賞馬ミュージアムマイル、ダノンデサイルなどが参戦（デイリースポーツ）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/ad6f5a7a9168d1167cfd9bbf3adee97091edb516",
-          "source": "Yahoo!ニュース"
-        },
         {
           "title": "【有馬記念】1週前想定最新版！年末のグランプリ、頂点に立つのはどの馬か！",
           "snippet": "",
@@ -220,6 +214,12 @@
           "snippet": "",
           "url": "https://news.netkeiba.com/?pid=news_view&no=316636",
           "source": "netkeiba"
+        },
+        {
+          "title": "有馬記念の騎手別勝利数ランキング “レジェンド”と“グランプリ男”が1位タイ（netkeiba）",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/netkeiba/sports/netkeiba-315393",
+          "source": "ｄメニューニュース"
         }
       ],
       "link": "https://imtaqin.id/"
