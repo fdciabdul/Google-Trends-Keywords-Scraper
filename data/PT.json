@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-19 22:51:36",
+  "lastUpdate": "2025-12-19 22:58:29",
   "data": [
     {
       "title": "comunicado fc porto",
@@ -61,9 +61,15 @@
       "title": "braga",
       "trafficCount": "200+",
       "pubDate": "Fri, 19 Dec 2025 14:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZEEjiAx9U1cSzufChvGLc9zw-j4o5yDxHlVM70w5yAIv6Rr63F9BpNz9gdo",
-      "pictureSource": "SAPO",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ_naJB320RonzHygw0tUspMoK3turYXP4O_NbToVa2NnPUrUAPWJgiU-wQ4o",
+      "pictureSource": "Jornal de Notícias",
       "relatedSearch": [
+        {
+          "title": "Matou idosa sua vizinha por achar que lhe devia dinheiro",
+          "snippet": "",
+          "url": "https://www.jn.pt/justica/artigo/matou-idosa-sua-vizinha-por-achar-que-lhe-devia-dinheiro/18032218",
+          "source": "Jornal de Notícias"
+        },
         {
           "title": "PJ detém presumível homicida de idosa em Braga",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.cmjornal.pt/portugal/detalhe/mulher-abriu-portao-da-casa-a-homicida-que-a-atacou-a-paulada",
           "source": "Correio da Manhã"
-        },
-        {
-          "title": "Idosa assassinada em Braga após rumores de que ganhara a lotaria",
-          "snippet": "",
-          "url": "https://www.jn.pt/justica/artigo/idosa-assassinada-em-braga-apos-rumores-de-que-ganhara-a-lotaria/18031858",
-          "source": "Jornal de Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "estoril braga",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 19 Dec 2025 13:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOTPXciXSmlK4cD4s2XxYXTg8ayQ6S14mkCa3gtn7ql-2yNdJNjz8TRIoT3jc",
-      "pictureSource": "A Bola",
-      "relatedSearch": [
-        {
-          "title": "Siga o Estoril vs SC Braga em direto",
-          "snippet": "",
-          "url": "https://www.abola.pt/futebol/jogo/estoril-sc-braga-8047371/liveblog",
-          "source": "A Bola"
-        },
-        {
-          "title": "Estoril regressa às vitórias na receção ao Sporting de Braga",
-          "snippet": "",
-          "url": "https://www.rtp.pt/noticias/desporto/estoril-regressa-as-vitorias-na-rececao-ao-sporting-de-braga_e1705474",
-          "source": "RTP"
-        },
-        {
-          "title": "\"Se a cabeça funciona e tem a mentalidade certa, o corpo adapta-se\", diz Vicens",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/se-a-cabeca-funciona-e-tem-a-mentalidade-certa-o-corpo-adapta-se-diz-vicens-694402c956633b44a6fc1d63",
-          "source": "SAPO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "brasileira desaparecida",
       "trafficCount": "500+",
       "pubDate": "Fri, 19 Dec 2025 13:40:00 -0800",
@@ -165,6 +137,34 @@
           "snippet": "",
           "url": "https://dnbrasil.dn.pt/corpo-de-brasileira-desaparecida-encontrado-e-pj-detm-suspeita",
           "source": "DN Brasil"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "estoril braga",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 19 Dec 2025 13:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOTPXciXSmlK4cD4s2XxYXTg8ayQ6S14mkCa3gtn7ql-2yNdJNjz8TRIoT3jc",
+      "pictureSource": "A Bola",
+      "relatedSearch": [
+        {
+          "title": "Siga o Estoril vs SC Braga em direto",
+          "snippet": "",
+          "url": "https://www.abola.pt/futebol/jogo/estoril-sc-braga-8047371/liveblog",
+          "source": "A Bola"
+        },
+        {
+          "title": "Estoril-Sp. Braga, 1-0 (destaques)",
+          "snippet": "",
+          "url": "https://maisfutebol.iol.pt/liga/estoril/estoril-sp-braga-1-0-destaques",
+          "source": "Maisfutebol"
+        },
+        {
+          "title": "\"Se a cabeça funciona e tem a mentalidade certa, o corpo adapta-se\", diz Vicens",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/se-a-cabeca-funciona-e-tem-a-mentalidade-certa-o-corpo-adapta-se-diz-vicens-694402c956633b44a6fc1d63",
+          "source": "SAPO"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,10 +211,10 @@
           "source": "Observador"
         },
         {
-          "title": "PGR decide não abrir inquérito a Marques Mendes após denúncia anónima",
+          "title": "Gouveia e Melo desafiado a \"concretizar suspeitas\" em relação a Marques Mendes no debate de segunda-feira",
           "snippet": "",
-          "url": "https://sicnoticias.pt/especiais/eleicoes-presidenciais/2025-12-19-pgr-decide-nao-abrir-inquerito-a-marques-mendes-apos-denuncia-anonima-06ea10e2",
-          "source": "SIC Notícias"
+          "url": "https://www.dn.pt/pol%C3%ADtica/gouveia-e-melo-desafiado-a-concretizar-suspeitas-em-relao-a-marques-mendes-no-debate-de-segunda-feira",
+          "source": "Diário de Notícias"
         },
         {
           "title": "Depois de divulgar clientes, candidatura de Mendes exige a mesma transparência a adversários",
@@ -229,13 +229,13 @@
       "title": "cotrim figueiredo",
       "trafficCount": "2000+",
       "pubDate": "Fri, 19 Dec 2025 13:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2eEFUIn4EkfUCRJL9cVEsRiG-GC-vMOAy7CCyVhg458-GFrzKSBqjeGkKeI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU101_uOYom3MRqM40FR_W5U83A5tBsyD6JnFdY-jfoOngjZTOHQfM2c9-_A8",
       "pictureSource": "SIC Notícias",
       "relatedSearch": [
         {
-          "title": "André Ventura vs. João Cotrim Figueiredo: o debate na íntegra",
+          "title": "João Cotrim Figueiredo vs. André Ventura: quem teve a nota mais alta?",
           "snippet": "",
-          "url": "https://sicnoticias.pt/especiais/eleicoes-presidenciais/2025-12-19-andre-ventura-vs.-joao-cotrim-figueiredo-o-debate-na-integra-7223792e",
+          "url": "https://sicnoticias.pt/especiais/eleicoes-presidenciais/2025-12-19-video-joao-cotrim-figueiredo-vs.-andre-ventura-quem-teve-a-nota-mais-alta--fe0c49aa",
           "source": "SIC Notícias"
         },
         {
@@ -245,10 +245,10 @@
           "source": "Diário de Notícias"
         },
         {
-          "title": "Lei da nacionalidade. Ventura não cede e Cotrim de Figueiredo critica \"braço de ferro\"",
+          "title": "Imigração, NATO, Sócrates e Moura Guedes: tudo o que foi dito no debate entre Cotrim de Figueiredo e André Ventura",
           "snippet": "",
-          "url": "https://www.rtp.pt/noticias/politica/lei-da-nacionalidade-ventura-nao-cede-e-cotrim-de-figueiredo-critica-braco-de-ferro_n1705505",
-          "source": "RTP"
+          "url": "https://www.jornaldenegocios.pt/economia/detalhe/imigracao-nato-socrates-e-moura-guedes-tudo-o-que-foi-dito-no-debate-entre-cotrim-de-figueiredo-e-andre-ventura",
+          "source": "Jornal de Negócios"
         }
       ],
       "link": "https://imtaqin.id/"
