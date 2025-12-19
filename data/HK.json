@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-19 22:00:48",
+  "lastUpdate": "2025-12-19 22:10:58",
   "data": [
     {
       "title": "taipei",
@@ -55,6 +55,15 @@
           "source": "Yahoo News - HK"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "台灣新聞",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 19 Dec 2025 06:10:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -135,34 +144,53 @@
       "title": "台灣",
       "trafficCount": "2000+",
       "pubDate": "Fri, 19 Dec 2025 03:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Zfa5l_ISJ2WzmKdFt9jcfnVhMk9cfqFgCNVOzO7mgQEpOaOvvd1wM5PAE0o",
+      "pictureSource": "LINE TODAY",
+      "relatedSearch": [
+        {
+          "title": "牛傳百年3／總店掌舵者堅持古法炒肉 想自由發揮就自立門戶 金春發牛肉店 | 鏡週刊",
+          "snippet": "",
+          "url": "https://today.line.me/tw/v3/article/GgmWYGY",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "「台北溫體牛」重新定義，「牛寓」溫體牛火鍋全新開幕 | 何長澤 | 地方新聞",
+          "snippet": "",
+          "url": "https://www.storm.mg/article/11087607",
+          "source": "風傳媒"
+        },
+        {
+          "title": "牛傳百年2／祕傳牛肉吸引無數名人 郭董曾帶元配摸黑吃 金春發牛肉店",
+          "snippet": "",
+          "url": "https://www.mnews.tw/story/mm-20251203bus003",
+          "source": "鏡新聞"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "台北",
       "trafficCount": "10000+",
       "pubDate": "Fri, 19 Dec 2025 03:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1bd10K6AvmbaS95zfyQ0rSWVIZu3ipXmATwLKFUq9Y_uvlQQ8pegk7imoob4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPZtiAniawr_aZv8TaeN_6GJUigwCoDTMk-QUuELnjBhbzz3XfR8k4ot6POmQ",
       "pictureSource": "香港電台新聞網",
       "relatedSearch": [
         {
-          "title": "台北隨機傷人事件 台媒：增至4人死亡包括疑犯",
+          "title": "台北當局在隨機傷人案疑犯租住處發現汽油彈製造材料 未發現共犯",
           "snippet": "",
-          "url": "https://news.rthk.hk/rthk/ch/component/k2/1836823-20251219.htm?spTabChangeable=0",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1836838-20251220.htm",
           "source": "香港電台新聞網"
         },
         {
-          "title": "他為擋嫌犯遭砍死....妻子告訴蔣萬安：先生平時仗義執言、很有正義感",
+          "title": "台北隨機傷人事件｜27歲通緝犯先後擲煙霧彈及持刀襲路人 包括兇徒在內四死",
           "snippet": "",
-          "url": "https://money.udn.com/money/story/5648/9214912",
-          "source": "經濟日報"
+          "url": "https://news.tvb.com/tc/greaterchina/69456315b392e5851f21b9b2/%E5%85%A9%E5%B2%B8-%E5%8F%B0%E5%8C%97%E9%9A%A8%E6%A9%9F%E5%82%B7%E4%BA%BA%E4%BA%8B%E4%BB%B6%EF%BD%9C27%E6%AD%B2%E9%80%9A%E7%B7%9D%E7%8A%AF%E5%85%88%E5%BE%8C%E6%93%B2%E7%85%99%E9%9C%A7%E5%BD%88%E5%8F%8A%E6%8C%81%E5%88%80%E8%A5%B2%E8%B7%AF%E4%BA%BA-%E5%8C%85%E6%8B%AC%E5%85%87%E5%BE%92%E5%9C%A8%E5%85%A7%E5%9B%9B%E6%AD%BB",
+          "source": "news.tvb.com"
         },
         {
-          "title": "張文犯案前先在租屋處縱火 投宿旅館中搜出25瓶汽油彈",
+          "title": "墜樓的不是張文？北捷擲彈砍人案掀「陰謀論」 北市警發聲回應了",
           "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E6%96%87%E7%8A%AF%E6%A1%88%E5%89%8D%E5%85%88%E5%9C%A8%E7%A7%9F%E5%B1%8B%E8%99%95%E7%B8%B1%E7%81%AB-%E6%8A%95%E5%AE%BF%E6%97%85%E9%A4%A8%E4%B8%AD%E6%90%9C%E5%87%BA25%E7%93%B6%E6%B1%BD%E6%B2%B9%E5%BD%88-145743396.html",
+          "url": "https://tw.news.yahoo.com/%E5%A2%9C%E6%A8%93%E7%9A%84%E4%B8%8D%E6%98%AF%E5%BC%B5%E6%96%87-%E5%8C%97%E6%8D%B7%E6%93%B2%E5%BD%88%E7%A0%8D%E4%BA%BA%E6%A1%88%E6%8E%80-%E9%99%B0%E8%AC%80%E8%AB%96-%E5%8C%97%E5%B8%82%E8%AD%A6%E7%99%BC%E8%81%B2%E5%9B%9E%E6%87%89%E4%BA%86-215500443.html",
           "source": "奇摩新聞"
         }
       ],
@@ -192,34 +220,6 @@
           "snippet": "",
           "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60304821/dream-concert-2026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-cbx%E7%AD%89%E5%87%BA%E6%BC%94%E5%98%89%E8%B3%93-%E9%80%A3%E7%B5%90",
           "source": "香港01"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "麥美娟",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 19 Dec 2025 01:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRb2kMSUsCovorX91oPVboLzgnYTE3R0RlRduGrA9gHoBo9yIoPmSNx1DHsVHY",
-      "pictureSource": "AASTOCKS.com",
-      "relatedSearch": [
-        {
-          "title": "仁濟醫院撥款1.66億元援助宏福苑與八達通推出專屬八達通卡財經新聞Financial News",
-          "snippet": "",
-          "url": "http://www.aastocks.com/tc/mobile/news.aspx?newsid=IC4811993&newssource=INFOCAST",
-          "source": "AASTOCKS.com"
-        },
-        {
-          "title": "居民讚搬遷津貼租金補助合理靈活- 要聞 - 香港文匯網",
-          "snippet": "",
-          "url": "https://www.wenweipo.com/a/202512/20/AP6945ba99e4b0bf0d4e6476b0.html",
-          "source": "香港文匯網"
-        },
-        {
-          "title": "宏福苑大火｜測量師學會倡70億收購全部業權 居民可選現金或居屋單位",
-          "snippet": "",
-          "url": "https://ps.hket.com/article/4056494/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%EF%BD%9C%E6%B8%AC%E9%87%8F%E5%B8%AB%E5%AD%B8%E6%9C%83%E5%80%A170%E5%84%84%E6%94%B6%E8%B3%BC%E5%85%A8%E9%83%A8%E6%A5%AD%E6%AC%8A%20%20%E5%B1%85%E6%B0%91%E5%8F%AF%E9%81%B8%E7%8F%BE%E9%87%91%E6%88%96%E5%B1%85%E5%B1%8B%E5%96%AE%E4%BD%8D",
-          "source": "香港經濟日報HKET"
         }
       ],
       "link": "https://imtaqin.id/"
