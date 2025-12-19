@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-19 09:38:02",
+  "lastUpdate": "2025-12-19 09:47:57",
   "data": [
     {
       "title": "weather",
@@ -61,15 +61,9 @@
       "title": "windy",
       "trafficCount": "200+",
       "pubDate": "Thu, 18 Dec 2025 21:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2j-3VWz8traN7h4wJXAJtWC-cP62yxlCRInRQyhzwmkyMdawGIUqq5D9M3XQ",
-      "pictureSource": "The Weather Channel",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5rWtNcUKZIDQdcr2BjcWqg4EbfsFyTLqb4uLEtcerv8OVN4_pP6fBPzbz2ZU",
+      "pictureSource": "WLWT",
       "relatedSearch": [
-        {
-          "title": "Northeast: Windy Front Could Bring Damaging Gusts, Travel Woes",
-          "snippet": "",
-          "url": "https://weather.com/forecast/regional/video/northeast-cold-front-high-winds-rain-snow-holiday-travel-forecast",
-          "source": "The Weather Channel"
-        },
         {
           "title": "Rain and gusty winds usher in frigid temperatures for Friday morning",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://www.wrtv.com/weather/alert-flash-freeze-overnight-with-sct-snow-showers",
           "source": "WRTV"
+        },
+        {
+          "title": "CWG Live: Rain and strong winds late tonight into Friday, then seesawing temperatures",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/weather/2025/12/18/dc-weather-live-updates-showers-thunderstorms/",
+          "source": "The Washington Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "La Chaîne Météo"
         },
         {
-          "title": "Une \"bombe météorologique\" apporte une tempête en France ce jeudi 18 décembre : à quoi faut-il s'attendre ?",
+          "title": "« Bombe météorologique » dans l’Atlantique : de quoi parle-t-on vraiment ?",
           "snippet": "",
-          "url": "https://www.rtl.fr/actu/meteo/une-bombe-meteorologique-apporte-une-tempete-en-france-ce-jeudi-18-decembre-a-quoi-faut-il-s-attendre-7900579977",
-          "source": "RTL.fr"
+          "url": "https://figaronautisme.meteoconsult.fr/actus-nautisme-escales/2025-12-18/84004-bombe-meteorologique-dans-latlantique-de-quoi-parle-t-on-vraiment",
+          "source": "Figaro Nautisme"
         },
         {
-          "title": "À Landerneau et Daoulas, ce jeudi, plusieurs routes inondées ont dû être fermées",
+          "title": "Des rafales jusqu'à 100 km/h",
           "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/inondation/a-landerneau-ce-jeudi-la-route-inondee-a-du-etre-coupee-e61bab5c-dc09-11f0-9747-9a2b95e61f84",
-          "source": "Ouest-France"
+          "url": "https://www.tf1info.fr/meteo/videos/video-des-rafales-jusqu-a-100-km-h-25720-2413586.html",
+          "source": "TF1 Info"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,10 +239,10 @@
           "source": "CNews"
         },
         {
-          "title": "Renard met en garde les joueurs saoudiens avant la demi-finale de la Coupe arabe",
+          "title": "CA FIFA 2025 / Maroc–Jordanie , une finale à suspense en fin d'après-midi ( 17h00)",
           "snippet": "",
-          "url": "https://www.ysscores.com/fr/news/13870881/Renard-met-en-garde-les-joueurs-saoudiens-avant-la-demi-finale-de-la-Coupe-arabe",
-          "source": "www.ysscores.com"
+          "url": "https://www.lopinion.ma/CA-FIFA-2025-Maroc-Jordanie--une-finale-a-suspense-en-fin-d-apres-midi-17h00_a75024.html",
+          "source": "L'Opinion Maroc"
         },
         {
           "title": "Coupe arabe (Qatar-2025): Le Maroc sacré champion aux dépens de la Jordanie (3-2)",
@@ -267,16 +267,16 @@
           "source": "Mosaique FM"
         },
         {
-          "title": "المنتخب المغربي يحرز لقب كأس العرب",
-          "snippet": "",
-          "url": "https://diwanfm.net/news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AD%D8%B1%D8%B2-%D9%84%D9%82%D8%A8-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
-          "source": "RADIO DIWAN FM"
-        },
-        {
           "title": "شاهد.. هدف \"لا يصدق\" من المغرب في نهائي كأس العرب",
           "snippet": "",
           "url": "https://www.skynewsarabia.com/sport/1840992-%D8%B4%D8%A7%D9%87%D8%AF-%D9%87%D8%AF%D9%81-%D9%84%D8%A7-%D9%8A%D8%B5%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%86%D9%87%D8%A7%D9%8A%D9%94%D9%8A-%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
           "source": "سكاي نيوز عربية"
+        },
+        {
+          "title": "بث مباشر: شاهد مباراة الأردن والمغرب في نهائي كأس العرب 2025",
+          "snippet": "",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B4%D8%A7%D9%87%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%94%D8%B1%D8%AF%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%81%D9%8A-%D9%86%D9%87%D8%A7%D9%8A%D9%94%D9%8A-%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-2025/blt57c4b08f05eace63",
+          "source": "Kooora"
         }
       ],
       "link": "https://imtaqin.id/"
