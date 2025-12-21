@@ -1,17 +1,51 @@
 {
-  "lastUpdate": "2025-12-21 12:49:45",
+  "lastUpdate": "2025-12-21 13:05:57",
   "data": [
+    {
+      "title": "world news",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 21 Dec 2025 04:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64dMumkMyjvQbUwBkM9rD7w6K8QVsM4lmL-UVpiFuCxz9-4H7OIHfz5W1DmI",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Sister of Epstein victim reported him in 1996, but FBI failed to investigate, files reveal",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2025/dec/21/epstein-fbi-maria-farmer-annie-farmer",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Images of Trump among documents removed from latest Epstein files release",
+          "snippet": "",
+          "url": "https://news.sky.com/story/images-of-trump-among-documents-removed-from-latest-epstein-files-release-13486310",
+          "source": "Sky News"
+        },
+        {
+          "title": "At least 16 files disappeared from Jeffrey Epstein documents",
+          "snippet": "",
+          "url": "https://www.ctvnews.ca/world/article/at-least-16-files-disappeared-from-jeffrey-epstein-documents/",
+          "source": "CTV News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "meteo quebec",
       "trafficCount": "100+",
       "pubDate": "Sun, 21 Dec 2025 04:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjYeQRc7db-EfYjAGDqqGG-TvjDKVzfkcWhm-3paiY004-7bB4G7O36Ep3mHU",
-      "pictureSource": "La Presse",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsMS8r-Jw0K2u5rBysXg55iq5hFeHTMoAJ1MuaBosRJfXBJ2HzlKzAursreY8",
+      "pictureSource": "MétéoMédia",
       "relatedSearch": [
         {
-          "title": "Plus de 50 000 foyers privés de courant au Québec",
+          "title": "Neige et vents : une autre journée difficile sur les routes",
           "snippet": "",
-          "url": "https://www.lapresse.ca/actualites/2025-12-20/pres-de-80-000-foyers-prives-de-courant-au-quebec.php",
+          "url": "https://www.meteomedia.com/fr/nouvelles/meteo/previsions/neige-et-vents-une-autre-journee-difficile-sur-les-routes",
+          "source": "MétéoMédia"
+        },
+        {
+          "title": "Près de 40 000 foyers privés de courant au Québec",
+          "snippet": "",
+          "url": "https://www.lapresse.ca/actualites/2025-12-20/pres-de-40-000-foyers-prives-de-courant-au-quebec.php",
           "source": "La Presse"
         },
         {
@@ -19,47 +53,13 @@
           "snippet": "",
           "url": "https://www.ledevoir.com/actualites/environnement/943275/pres-93-500-adresses-privees-courant-quebec-reveil-cause-forts-vents",
           "source": "Le Devoir"
-        },
-        {
-          "title": "De fortes rafales entraînent des dizaines de milliers de pannes de courant",
-          "snippet": "",
-          "url": "https://www.meteomedia.com/fr/nouvelles/meteo/meteo-extreme/derniere-heure-fortes-rafales-pres-de-100-000-pannes-au-quebec",
-          "source": "MétéoMédia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sunrise",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 21 Dec 2025 04:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHtmUQXw-AjFKjyWzovXAFTD0M4YtjTBIERjmHAi91Eiw8hgNezwEm0XiwXs",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Timelapse shows winter solstice sunrise at Stonehenge",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/videos/ceq1dvjpq4eo",
-          "source": "BBC"
-        },
-        {
-          "title": "‘I feel special, in my heart’: thousands gather at Stonehenge for winter solstice",
-          "snippet": "",
-          "url": "https://www.theguardian.com/uk-news/2025/dec/21/stonehenge-winter-solstice",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Thousands cheer as the sun rises on winter solstice at Stonehenge",
-          "snippet": "",
-          "url": "https://www.thespec.com/news/world/europe/thousands-cheer-as-the-sun-rises-on-winter-solstice-at-stonehenge/article_09b33f2c-94e5-5e4b-bed3-4973235710a8.html",
-          "source": "The Spec"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "montreal weather",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 21 Dec 2025 03:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32qRRO58yAKt0rjNYOK5wqFo7xxCFzh9qEx0Pc1dFF75bpZGvOyzUEWyRhv0",
       "pictureSource": "CBC",
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.ctvnews.ca/montreal/article/snow-squall-watch-in-effect-throughout-southwestern-quebec-including-montreal/",
           "source": "CTV News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "online lottery",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 21 Dec 2025 02:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0G_cYPwcTgHh12lLpuOk0Kv2tntvwhFxVnC_HwicWNOAKqoc_wS5BjxAo6nQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Powerball jackpot climbs to $1.6 billion after no big winner in Saturday’s drawing",
+          "snippet": "",
+          "url": "https://www.cnn.com/2025/12/20/business/powerball-jackpot-saturday-drawing",
+          "source": "CNN"
+        },
+        {
+          "title": "Saturday’s Powerball drawing could bring someone a $1.5 billion holiday windfall",
+          "snippet": "",
+          "url": "https://ca.news.yahoo.com/saturday-powerball-drawing-could-bring-203359933.html",
+          "source": "Yahoo News Canada"
+        },
+        {
+          "title": "$1.1 billion Powerball® jackpot up next this Monday",
+          "snippet": "",
+          "url": "https://www.powerball.com/1.1-billion-powerball-jackpot-up-next-this-monday",
+          "source": "Powerball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,7 +145,7 @@
       "title": "sameer minhas",
       "trafficCount": "2000+",
       "pubDate": "Sat, 20 Dec 2025 23:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyxhmV3RTVxVtAbRmvMR6QANe-LrLQjvjTnyMk8WxykIZ6AClwkfFRgepVp4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTahS-4DtpYMDhLIzr0VuIscOyQeCYOfkzQmls8zyUr7kTLM6XSz0ejmRc2t28",
       "pictureSource": "Cricbuzz.com",
       "relatedSearch": [
         {
@@ -133,38 +161,10 @@
           "source": "ESPNcricinfo"
         },
         {
-          "title": "India vs Pakistan LIVE Score, U19 Asia Cup 2025 Final: India Collapse To 156 All Out; Pak Clinch 1st Title Since 2012",
+          "title": "India vs Pakistan, U19 Asia Cup 2025 Final Highlights: India Collapse To 156 All Out; Pak Clinch 1st Title Since 2012",
           "snippet": "",
           "url": "https://sports.ndtv.com/cricket/india-vs-pakistan-live-score-acc-mens-u19-asia-cup-2025-ind-u19-vs-pak-u19-final-match-live-scorecard-today-vaibhav-suryavanshi-ayush-mhatre-9854979",
           "source": "NDTV Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "romeo acop",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 20 Dec 2025 23:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM7QHLa23EvgQ3IqpQrzCGPuDS9LijWIQZfHkbrxfRUTap7Mj20_0pLK__6YU",
-      "pictureSource": "Inquirer.net",
-      "relatedSearch": [
-        {
-          "title": "Solons mourn Romeo Acop’s death: Huge loss for House",
-          "snippet": "",
-          "url": "https://newsinfo.inquirer.net/2157571/solons-mourn-acops-death-huge-loss-for-house",
-          "source": "Inquirer.net"
-        },
-        {
-          "title": "Antipolo Rep. Romeo Acop dies after heart attack",
-          "snippet": "",
-          "url": "https://www.abs-cbn.com/news/regions/2025/12/21/antipolo-rep-romeo-acop-dies-after-heart-attack-1337",
-          "source": "ABS-CBN"
-        },
-        {
-          "title": "Romualdez, Barbers recall Acop's greatness as a House quad-comm leader",
-          "snippet": "",
-          "url": "https://mb.com.ph/2025/12/21/romualdez-barbers-recall-acops-greatness-as-a-house-quad-comm-leader",
-          "source": "Manila Bulletin"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,6 +193,34 @@
           "snippet": "",
           "url": "https://www.kamloopsbcnow.com/watercooler/news/news/BC_Interior/Pair_arrested_drugs_and_guns_seized_in_BC_Interior_after_fake_money_reports/",
           "source": "KamloopsBCNow"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "romeo acop",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 20 Dec 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwbWf-CAHWGlChLinQd_fLYrjBKF22LWE6-rRKCg8H8G9Og9Xv8sukZM39Knk",
+      "pictureSource": "Inquirer.net",
+      "relatedSearch": [
+        {
+          "title": "Solons mourn Romeo Acop’s death: Huge loss for House",
+          "snippet": "",
+          "url": "https://newsinfo.inquirer.net/2157571/solons-mourn-acops-death-huge-loss-for-house",
+          "source": "Inquirer.net"
+        },
+        {
+          "title": "Antipolo Rep. Romeo Acop dies after heart attack",
+          "snippet": "",
+          "url": "https://www.abs-cbn.com/news/regions/2025/12/21/antipolo-rep-romeo-acop-dies-after-heart-attack-1337",
+          "source": "ABS-CBN"
+        },
+        {
+          "title": "Romualdez, Barbers recall Acop's greatness as a House quad-comm leader",
+          "snippet": "",
+          "url": "https://mb.com.ph/2025/12/21/romualdez-barbers-recall-acops-greatness-as-a-house-quad-comm-leader",
+          "source": "Manila Bulletin"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://patch.com/texas/dallas-ftworth/calendar/event/20251214/c3febc86-a45c-43ea-bf8a-3c046cb9e23c/come-see-home-alone-on-sunday-december-14-2025-at-rooftop-cinema-club",
           "source": "Patch"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "castanet",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 20 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvJb8l65g5BSnxXg6NZbVMZvZEhPl1HccGOVIlc2hGHceQVOnXA41EhnGQEQ0",
-      "pictureSource": "Castanet",
-      "relatedSearch": [
-        {
-          "title": "Summerland animal rescue extends holiday season well wishes",
-          "snippet": "",
-          "url": "https://www.castanet.net/news/Summerland/590517/Summerland-animal-rescue-extends-holiday-season-well-wishes",
-          "source": "Castanet"
-        },
-        {
-          "title": "Quails’ Gate 2023 Pinot Noir",
-          "snippet": "",
-          "url": "https://www.castanet.net/news/Wine-Reviews/589574/Quails-Gate-2023-Pinot-Noir",
-          "source": "Castanet"
-        },
-        {
-          "title": "Registration open for annual Enterprize Challenge",
-          "snippet": "",
-          "url": "https://vernonmatters.ca/2025/12/19/registration-open-for-annual-enterprize-challenge/",
-          "source": "Vernon Matters"
         }
       ],
       "link": "https://imtaqin.id/"
