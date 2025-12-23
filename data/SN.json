@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-23 11:52:56",
+  "lastUpdate": "2025-12-23 11:59:42",
   "data": [
     {
       "title": "warriors – magic",
@@ -61,9 +61,15 @@
       "title": "benfica – famalicão",
       "trafficCount": "500+",
       "pubDate": "Mon, 22 Dec 2025 13:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfUppzXXOVbLxVuPE8vpH78vpRI6BdB8mcwUrnQ5i7NNRkU3joVEQY1t_4yHA",
-      "pictureSource": "A Bola",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxkspocnxntZW_b2h6PGNG1lolDQmLzi7al_Cs5wt3MmczXNt9QdAmee_W1yU",
+      "pictureSource": "O Jogo",
       "relatedSearch": [
+        {
+          "title": "A crónica do Benfica-Famalicão | Temeu-se o frio de inverno na Luz",
+          "snippet": "",
+          "url": "https://www.ojogo.pt/futebol/artigo/a-cronica-do-benfica-famalicao-temeu-se-o-frio-de-inverno-na-luz/18033230",
+          "source": "O Jogo"
+        },
         {
           "title": "Mourinho responde às queixas do Famalicão: «É penálti»",
           "snippet": "",
@@ -71,16 +77,10 @@
           "source": "A Bola"
         },
         {
-          "title": "Presidente da SAD do Famalicão e a arbitragem na Luz: «Foi uma réplica do ciclone dos Açores»",
+          "title": "«Não temos Mbappé, Vinicius ou Yamal, mas trabalhamos como equipa e ganhamos»",
           "snippet": "",
-          "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/famalicao/detalhe/presidente-da-sad-do-famalicao-ironico-com-arbitragem-na-luz-foi-uma-replica-do-ciclone-dos-acores?ref=Fora%20de%20Campo_Ultimas",
-          "source": "Record"
-        },
-        {
-          "title": "Gil Dias: «O jogo ficou decidido com um penálti, mas podia terminar empatado»",
-          "snippet": "",
-          "url": "https://tvi.iol.pt/noticias/famalicao/benfica/gil-dias-o-jogo-ficou-decidido-com-um-penalti-mas-podia-terminar-empatado",
-          "source": "TVI"
+          "url": "https://cnnportugal.iol.pt/jose-mourinho/benfica/nao-temos-mbappe-vinicius-ou-yamal-mas-trabalhamos-como-equipa-e-ganhamos",
+          "source": "CNN Portugal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fulham – nottm forest",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 22 Dec 2025 11:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlH9nnLifQ5fDkmCSDjkAXpm-1-4GVFHtSx6i7_BRragJCT3h4msEoNimADQM",
-      "pictureSource": "FotMob",
-      "relatedSearch": [
-        {
-          "title": "'I'll be there' – Jimenez pledges to overhaul Toure's perfect Premier League penalty record",
-          "snippet": "",
-          "url": "https://www.fotmob.com/news/ek4gtme6br7w177ij6v979r04-ill-be-there-jimenez-pledges-overhaul-toures-perfect-premier-league-penalty-record",
-          "source": "FotMob"
-        },
-        {
-          "title": "Fulham 1-0 Nottingham Forest: Fan views",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/ckgk40q2lweo",
-          "source": "BBC"
-        },
-        {
-          "title": "‘You can’t be good all the time’, says Sean Dyche after Forest lose to Fulham",
-          "snippet": "",
-          "url": "https://plzsoccer.com/england/you-cant-be-good-all-the-time-says-sean-dyche-after-forest-lose-to-fulham/",
-          "source": "PLZ Soccer"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ath. bilbao – espanyol",
       "trafficCount": "2000+",
       "pubDate": "Mon, 22 Dec 2025 11:10:00 -0800",
@@ -165,6 +137,34 @@
           "snippet": "",
           "url": "https://onefootball.com/en/news/carlos-romero-era-superimportante-ganar-42133706",
           "source": "OneFootball"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fulham – nottm forest",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 22 Dec 2025 11:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlH9nnLifQ5fDkmCSDjkAXpm-1-4GVFHtSx6i7_BRragJCT3h4msEoNimADQM",
+      "pictureSource": "FotMob",
+      "relatedSearch": [
+        {
+          "title": "'I'll be there' – Jimenez pledges to overhaul Toure's perfect Premier League penalty record",
+          "snippet": "",
+          "url": "https://www.fotmob.com/news/ek4gtme6br7w177ij6v979r04-ill-be-there-jimenez-pledges-overhaul-toures-perfect-premier-league-penalty-record",
+          "source": "FotMob"
+        },
+        {
+          "title": "Fulham 1-0 Nottingham Forest: Fan views",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/articles/ckgk40q2lweo",
+          "source": "BBC"
+        },
+        {
+          "title": "‘You can’t be good all the time’, says Sean Dyche after Forest lose to Fulham",
+          "snippet": "",
+          "url": "https://plzsoccer.com/england/you-cant-be-good-all-the-time-says-sean-dyche-after-forest-lose-to-fulham/",
+          "source": "PLZ Soccer"
         }
       ],
       "link": "https://imtaqin.id/"
