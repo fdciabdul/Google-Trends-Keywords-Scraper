@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-24 09:06:25",
+  "lastUpdate": "2025-12-24 09:18:16",
   "data": [
-    {
-      "title": "thời tiết hồ chí minh",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 24 Dec 2025 00:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8nZRmueNcC8Mknm_6f4qmduvhLfbnkpUKXFvpvqb7ZKMwI-LuWrc4Pv4xbk",
-      "pictureSource": "Laodong.vn",
-      "relatedSearch": [
-        {
-          "title": "Dự báo mưa gia tăng trở lại ở Nam Bộ",
-          "snippet": "",
-          "url": "https://laodong.vn/xa-hoi/du-bao-mua-gia-tang-tro-lai-o-nam-bo-1629914.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "TPHCM mưa lớn trái mùa chiều Giáng sinh",
-          "snippet": "",
-          "url": "https://dantri.com.vn/thoi-su/tphcm-mua-lon-trai-mua-chieu-giang-sinh-20251224153551956.htm",
-          "source": "Báo Dân trí"
-        },
-        {
-          "title": "Dự báo thời tiết TP HCM hôm nay 24/12 chiều tối có mưa dông rải rác, triều cường còn ở mức cao",
-          "snippet": "",
-          "url": "https://vietnammoi.vn/du-bao-thoi-tiet-tp-hcm-hom-nay-2412-chieu-toi-co-mua-dong-rai-rac-trieu-cuong-con-o-muc-cao-2025122315500258.htm",
-          "source": "Việt Nam Mới"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "nhân sự trung ương 15",
       "trafficCount": "500+",
@@ -58,6 +30,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "thời tiết tphcm",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 24 Dec 2025 00:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLRKl0XmKweJP1CSPcK2v7MKQBHdMjUszftV60uuBNtTIZ2FfFD-ep7L7FT-8",
+      "pictureSource": "Báo Dân trí",
+      "relatedSearch": [
+        {
+          "title": "TPHCM mưa lớn trái mùa chiều Giáng sinh",
+          "snippet": "",
+          "url": "https://dantri.com.vn/thoi-su/tphcm-mua-lon-trai-mua-chieu-giang-sinh-20251224153551956.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Dự báo mưa gia tăng trở lại ở Nam Bộ",
+          "snippet": "",
+          "url": "https://laodong.vn/xa-hoi/du-bao-mua-gia-tang-tro-lai-o-nam-bo-1629914.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Dự báo thời tiết TP HCM hôm nay 24/12 chiều tối có mưa dông rải rác, triều cường còn ở mức cao",
+          "snippet": "",
+          "url": "https://vietnammoi.vn/du-bao-thoi-tiet-tp-hcm-hom-nay-2412-chieu-toi-co-mua-dong-rai-rac-trieu-cuong-con-o-muc-cao-2025122315500258.htm",
+          "source": "Việt Nam Mới"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "dự báo thời tiết tphcm",
       "trafficCount": "50000+",
       "pubDate": "Tue, 23 Dec 2025 23:30:00 -0800",
@@ -71,16 +71,16 @@
           "source": "Laodong.vn"
         },
         {
-          "title": "Tin không khí lạnh mới nhất: Hà Nội chuyển rét dịp cuối năm 2025, thấp nhất 13°C",
-          "snippet": "",
-          "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/tin-khong-khi-lanh-moi-nhat-ha-noi-chuyen-ret-dip-cuoi-nam-2025-thap-nhat-13c-c46a1724256.html",
-          "source": "Tin tức 24h"
-        },
-        {
           "title": "Hà Nội và TP.HCM khả năng có mưa trong đêm Giáng sinh",
           "snippet": "",
           "url": "https://tuoitre.vn/ha-noi-va-tp-hcm-kha-nang-co-mua-trong-dem-giang-sinh-20251224132529645.htm",
           "source": "Báo Tuổi Trẻ"
+        },
+        {
+          "title": "Tin không khí lạnh mới nhất: Hà Nội chuyển rét dịp cuối năm 2025, thấp nhất 13°C",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/tin-khong-khi-lanh-moi-nhat-ha-noi-chuyen-ret-dip-cuoi-nam-2025-thap-nhat-13c-c46a1724256.html",
+          "source": "Tin tức 24h"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,10 @@
           "source": "Laodong.vn"
         },
         {
-          "title": "TP Hồ Chí Minh: Phối hợp tìm việc cho 2.700 công nhân sắp mất việc",
+          "title": "Thành phố Hồ Chí Minh: Phối hợp tìm việc cho gần 3.000 công nhân sắp mất việc",
           "snippet": "",
-          "url": "https://baotintuc.vn/xa-hoi/tp-ho-chi-minh-phoi-hop-tim-viec-cho-2700-cong-nhan-sap-mat-viec-20251224143140473.htm",
-          "source": "baotintuc.vn"
+          "url": "https://htv.com.vn/thanh-pho-ho-chi-minh-phoi-hop-tim-viec-cho-gan-3000-cong-nhan-sap-mat-viec-222251224154928795.htm",
+          "source": "Đài Phát thanh và Truyền hình TP.HCM"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,14 +117,14 @@
       "title": "hóa đơn điện tử",
       "trafficCount": "200+",
       "pubDate": "Tue, 23 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnIfGaXDszScBJt16T3J9EgjmDbJuGDKAzEjXGvTXhuzY1oZkcoo6CgmHpTY",
-      "pictureSource": "CafeF",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ31z_atOhwwmSGfB5PIToGe6eYbSEfKcFGb_sqxSgftbakoHStLxxZcIiaVe0",
+      "pictureSource": "Báo Thanh Niên",
       "relatedSearch": [
         {
-          "title": "Hộ kinh doanh có nhiều điểm bán trên các tỉnh thành, doanh thu từ 1-3 tỷ đồng/điểm thì kê khai thuế thế nào: Phó Trưởng Thuế Hà Nội trả lời",
+          "title": "Thuê sạp chợ Bến Thành, tiểu thương loay hoay kê khai thuế từ 1.1.2026",
           "snippet": "",
-          "url": "https://cafef.vn/ho-kinh-doanh-co-nhieu-diem-ban-tren-cac-tinh-thanh-doanh-thu-tu-1-3-ty-dong-diem-thi-ke-khai-thue-the-nao-pho-truong-thue-ha-noi-tra-loi-188251224004640188.chn",
-          "source": "CafeF"
+          "url": "https://thanhnien.vn/thue-sap-cho-ben-thanh-tieu-thuong-loay-hoay-ke-khai-thue-tu-112026-185251224122203976.htm",
+          "source": "Báo Thanh Niên"
         },
         {
           "title": "Sắp xóa bỏ thuế khoán: Cử tri kiến nghị hỗ trợ cho hộ kinh doanh lớn tuổi",
@@ -133,10 +133,10 @@
           "source": "Báo Pháp Luật TP. Hồ Chí Minh"
         },
         {
-          "title": "Thuê sạp chợ Bến Thành, tiểu thương loay hoay kê khai thuế từ 1.1.2026",
+          "title": "Hộ kinh doanh có nhiều điểm bán trên các tỉnh thành, doanh thu từ 1-3 tỷ đồng/điểm thì kê khai thuế thế nào: Phó Trưởng Thuế Hà Nội trả lời",
           "snippet": "",
-          "url": "https://thanhnien.vn/thue-sap-cho-ben-thanh-tieu-thuong-loay-hoay-ke-khai-thue-tu-112026-185251224122203976.htm",
-          "source": "Báo Thanh Niên"
+          "url": "https://cafef.vn/ho-kinh-doanh-co-nhieu-diem-ban-tren-cac-tinh-thanh-doanh-thu-tu-1-3-ty-dong-diem-thi-ke-khai-thue-the-nao-pho-truong-thue-ha-noi-tra-loi-188251224004640188.chn",
+          "source": "CafeF"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "baotintuc.vn"
         },
         {
-          "title": "Giá xăng dầu hôm nay (24-12): Tiếp tục tăng",
+          "title": "Giá xăng dầu ngày mai dự báo giảm lần thứ ba liên tiếp",
           "snippet": "",
-          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-24-12-tiep-tuc-tang-1018409",
-          "source": "Báo Quân đội nhân dân"
+          "url": "https://vietnamnet.vn/gia-xang-dau-ngay-mai-du-bao-giam-lan-thu-ba-lien-tiep-2475405.html",
+          "source": "Báo VietNamNet"
         }
       ],
       "link": "https://imtaqin.id/"
