@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-25 17:13:02",
+  "lastUpdate": "2025-12-25 17:25:23",
   "data": [
     {
       "title": "nba",
@@ -59,7 +59,7 @@
     },
     {
       "title": "nfl",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 25 Dec 2025 08:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyDBrlbB_6SaHpm0gBFxcKda0ZOjroPloAE5SUKhZlmIgAmD1Dmf-DeW9AG4",
       "pictureSource": "Deadline",
@@ -86,9 +86,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "netflix",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 25 Dec 2025 07:20:00 -0800",
+      "title": "peaky blinders el hombre inmortal",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 25 Dec 2025 07:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTrH8rnosWuYJA8RyzIA1G9PbwsO8VB2p9KyQObr0M1mVPVPqoQH8aQvS_nY",
       "pictureSource": "Diario AS",
       "relatedSearch": [
@@ -114,29 +114,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "netflix",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 25 Dec 2025 07:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAFKe2LDkTyQGo5cCkDhSSrjbm1TrLfyuZPjWv15ZyxvEY00S2Hy3pJKD1kQ",
+      "pictureSource": "El Comercio Perú",
+      "relatedSearch": [
+        {
+          "title": "“Mi ídolo”, la serie coreana sobre una abogada que defiende a su artista favorito llega a Netflix",
+          "snippet": "",
+          "url": "https://elcomercio.pe/mag/fama/que-ver/mi-idolo-de-que-trata-y-fecha-de-estreno-guia-completa-de-la-serie-coreana-de-netflix-video-nnda-nnlt-noticia/",
+          "source": "El Comercio Perú"
+        },
+        {
+          "title": "Guía de episodios de “Mi ídolo”: fecha y hora de estreno de cada capítulo de la serie coreana de Netflix",
+          "snippet": "",
+          "url": "https://elcomercio.pe/mag/fama/que-ver/mi-idolo-guia-de-episodios-fecha-y-hora-de-estreno-de-cada-capitulo-de-la-serie-coreana-de-netflix-video-nnda-nnlt-noticia/",
+          "source": "El Comercio Perú"
+        },
+        {
+          "title": "Lista de actores y personajes de “Mi ídolo”: quién es quién en la nueva serie coreana de Netflix",
+          "snippet": "",
+          "url": "https://elcomercio.pe/mag/fama/que-ver/mi-idolo-actores-y-personajes-guia-del-elenco-de-la-serie-coreana-de-netflix-video-nnda-nnlt-noticia/",
+          "source": "El Comercio Perú"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "xiaomi hyperos",
       "trafficCount": "100+",
       "pubDate": "Thu, 25 Dec 2025 06:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6sqPGbVIIivIj2tzSvwvzZOOYpkCFfATU4voEeUkHYG5akkhKP_Uo-DhNA0",
-      "pictureSource": "Gizchina.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWx9jj9YKdaChgK1PdfzPJgIz2qjclmOJf3S3sbRb7oZ2Ea_E71vfhUQ-1UOs",
+      "pictureSource": "Technetbook",
       "relatedSearch": [
         {
-          "title": "Xiaomi 13T Pro Gets Android 16: HyperOS 3 Stable Update Enters Final Testing",
+          "title": "Xiaomi Mi 11 Gets Surprise HyperOS Update for System Stability on Android 14 After Support Ends",
           "snippet": "",
-          "url": "https://www.gizchina.com/xiaomi-phones/xiaomi-13t-pro-gets-android-16-hyperos-3-stable-update-enters-final-testing",
-          "source": "Gizchina.com"
+          "url": "https://www.technetbooks.com/2025/12/xiaomi-mi-11-gets-surprise-hyperos.html",
+          "source": "Technetbook"
         },
         {
-          "title": "The Evolution from MIUI to HyperOS: Key Features Shaping Xiaomi’s Ecosystem by 2025",
+          "title": "Xiaomi just pushed a HyperOS update to a discontinued smartphone",
           "snippet": "",
-          "url": "https://www.qoo10.co.id/en/gadget/57766/the-evolution-from-miui-to-hyperos-key-features-shaping-xiaomis-ecosystem-by-2025/",
-          "source": "Qoo10.co.id"
-        },
-        {
-          "title": "25 Xiaomi devices set to receive HyperOS 3 update before 2026",
-          "snippet": "",
-          "url": "https://www.gizmochina.com/2025/12/25/25-xiaomi-redmi-and-poco-devices-set-to-receive-hyperos-3-update-before-2026/",
+          "url": "https://www.gizmochina.com/2025/12/23/xiaomi-just-pushed-a-hyperos-update-to-a-discontinued-smartphone/",
           "source": "Gizmochina"
+        },
+        {
+          "title": "Xiaomi releases unexpected HyperOS fix update to EOL device",
+          "snippet": "",
+          "url": "https://xiaomitime.com/xiaomi-releases-unexpected-hyperos-fix-to-eol-device-82218/",
+          "source": "XiaomiTime"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,7 +199,7 @@
     },
     {
       "title": "jockey plaza",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 25 Dec 2025 05:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy_k9ADxjotJqkHw4nCv2b736te_eJFEoxgx7hyOZAhlWQimSIg2eD3oC4-3U",
       "pictureSource": "https://stakeholders.com.pe/",
@@ -201,20 +229,20 @@
       "title": "alexis arias",
       "trafficCount": "500+",
       "pubDate": "Thu, 25 Dec 2025 05:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_GfR5aBVx2q12F_icyc2pTl-L2_Hd_pQLmaiftJWyK1EA0iJ2_zCb88zs6ps",
-      "pictureSource": "Infobae",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRK5lvdnBvMLmoxfutXpXtowChWljF2IXJazFvXGI4m6Bz5rYk1r5yyjy7frqY",
+      "pictureSource": "Depor",
       "relatedSearch": [
+        {
+          "title": "Un histórico de Melgar cambia de aires: decisión final de Juan Reynoso",
+          "snippet": "",
+          "url": "https://depor.com/futbol-peruano/descentralizado/melgar-alexis-arias-historico-del-equipo-rojinegro-cambia-de-club-decision-final-de-juan-reynoso-liga-1-noticia/",
+          "source": "Depor"
+        },
         {
           "title": "Alexis Arias, a un paso de irse de Melgar: el ‘Chaka’ orillado a abandonar el club insignia de Arequipa por medida de Juan Reynoso",
           "snippet": "",
           "url": "https://www.infobae.com/peru/deportes/2025/12/25/alexis-arias-a-un-paso-de-irse-de-melgar-el-chaka-orillado-a-abandonar-el-club-insignia-de-arequipa-por-medida-de-juan-reynoso/",
           "source": "Infobae"
-        },
-        {
-          "title": "Juan Reynoso sorprende a todo Melgar: deja fuera a un seleccionado y lo presta a otro club",
-          "snippet": "",
-          "url": "https://libero.pe/futbol-peruano/melgar/2025/12/24/juan-reynoso-sorprende-todo-melgar-deja-fuera-seleccionado-presta-otro-club-1855152",
-          "source": "Diario Libero"
         },
         {
           "title": "Juan Reynoso saca a otro referente de Melgar y ya le busca nuevo equipo",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.gatoencerrado.net/mina-san-gabriel-en-moquegua-produjo-su-primera-barra-de-oro-y-pronto-iniciaria-su-operacion-comercial/",
           "source": "Gato Encerrado.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 25 Dec 2025 04:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCvMxou1lBuwe0bQ3Dnx5i6qZ_oshwCOO8wunSto55orBER8lp1mX1KX_HZt8",
-      "pictureSource": "Liverpool Echo",
-      "relatedSearch": [
-        {
-          "title": "Met Office forecast for Merseyside on Christmas Day and Boxing Day",
-          "snippet": "",
-          "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/met-office-forecast-merseyside-christmas-33120851",
-          "source": "Liverpool Echo"
-        },
-        {
-          "title": "Wales Christmas Day Weather: Impact on Travel and Tourists Amid Strong Winds",
-          "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/wales-christmas-day-weather-impact-on-travel-and-tourists-amid-strong-winds/",
-          "source": "Travel And Tour World"
-        },
-        {
-          "title": "Dreaming of a white Christmas",
-          "snippet": "",
-          "url": "https://www.telegraph.co.uk/opinion/2025/12/25/dreaming-white-christmas/",
-          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
