@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-25 23:19:58",
+  "lastUpdate": "2025-12-25 23:30:33",
   "data": [
     {
       "title": "kate middleton",
@@ -87,15 +87,21 @@
     },
     {
       "title": "el pais uruguay",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Thu, 25 Dec 2025 04:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDeg1E9qw79GMQDr4IhcrLnSxWArqlIphRWzY7zaYqip4IJBsiLcH1ogLbxkk",
-      "pictureSource": "EL PAÍS Uruguay",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy2ryTUM42ddgrZuuYSanpFxa5reglhRSNe8u7sQeO1v0ItZyTXq6nbVJ2CcA",
+      "pictureSource": "Montevideo Portal",
       "relatedSearch": [
         {
-          "title": "El verano de los políticos uruguayos: ¿adónde se van de vacaciones y qué libros se llevan?",
+          "title": "Karina Vignola alertó sobre estafa que circula tras la muerte de Gaspar Valverde",
           "snippet": "",
-          "url": "https://www.elpais.com.uy/informacion/politica/el-verano-de-los-politicos-uruguayos-adonde-se-van-de-vacaciones-y-que-libros-se-llevan",
+          "url": "https://www.montevideo.com.uy/Pantallazo/Karina-Vignola-alerto-sobre-estafa-que-circula-tras-la-muerte-de-Gaspar-Valverde-uc947539",
+          "source": "Montevideo Portal"
+        },
+        {
+          "title": "\"Es horrible lo que está pasando\", denuncian noticia falsa sobre el \"testamento\" de Gaspar Valverde",
+          "snippet": "",
+          "url": "https://www.elpais.com.uy/tvshow/personajes/es-horrible-lo-que-esta-pasando-denuncian-noticia-falsa-sobre-el-testamento-de-gaspar-valverde",
           "source": "EL PAÍS Uruguay"
         },
         {
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://www.elpais.com.uy/sabado-show/el-modelo-bukele-es-un-ejemplo-para-analizar-en-uruguay-esto-respondieron-cuatro-periodistas",
           "source": "EL PAÍS Uruguay"
-        },
-        {
-          "title": "Orsi dijo que en la LUC “hay cosas aberrantes” y se refirió a Bukele: “Fui clarito”",
-          "snippet": "",
-          "url": "https://www.montevideo.com.uy/Noticias/Orsi-dijo-que-en-la-LUC-hay-cosas-aberrantes-y-se-refirio-a-Bukele--Fui-clarito--uc947362",
-          "source": "Montevideo Portal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "la diaria"
         },
         {
+          "title": "La suba de los precios de la electricidad desde enero proyectados por UTE ponderarán a la mayoría de",
+          "snippet": "",
+          "url": "https://www.radiomontecarlo.com.uy/2025/12/23/nacionales/la-suba-de-los-precios-de-la-electricidad-desde-enero-proyectados-por-ute-ponderaran-a-la-mayoria-de-los-usuarios-de-la-empresa-estatal/",
+          "source": "Radio Monte Carlo CX20 AM930"
+        },
+        {
           "title": "UTE y Antel definieron aumento de tarifas para 2026 y el Poder Ejecutivo analizará los informes de las empresas",
           "snippet": "",
           "url": "https://www.subrayado.com.uy/ute-y-antel-definieron-aumento-tarifas-2026-y-el-poder-ejecutivo-analizara-los-informes-las-empresas-n995855",
           "source": "subrayado.com.uy"
-        },
-        {
-          "title": "Antel aumenta las tarifas a partir de enero de 2026; el gobierno debe dar visto bueno",
-          "snippet": "",
-          "url": "https://www.montevideo.com.uy/Noticias/Antel-aumenta-las-tarifas-a-partir-de-enero-de-2026-el-gobierno-debe-dar-visto-bueno-uc947482",
-          "source": "Montevideo Portal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "el pais uy",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 25 Dec 2025 02:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDeg1E9qw79GMQDr4IhcrLnSxWArqlIphRWzY7zaYqip4IJBsiLcH1ogLbxkk",
+      "pictureSource": "EL PAÍS Uruguay",
+      "relatedSearch": [
+        {
+          "title": "El verano de los políticos uruguayos: ¿adónde se van de vacaciones y qué libros se llevan?",
+          "snippet": "",
+          "url": "https://www.elpais.com.uy/informacion/politica/el-verano-de-los-politicos-uruguayos-adonde-se-van-de-vacaciones-y-que-libros-se-llevan",
+          "source": "EL PAÍS Uruguay"
+        },
+        {
+          "title": "¿El modelo Bukele es un \"ejemplo\" para analizar en Uruguay? Esto respondieron cuatro periodistas",
+          "snippet": "",
+          "url": "https://www.elpais.com.uy/sabado-show/el-modelo-bukele-es-un-ejemplo-para-analizar-en-uruguay-esto-respondieron-cuatro-periodistas",
+          "source": "EL PAÍS Uruguay"
+        },
+        {
+          "title": "Orsi dijo que en la LUC “hay cosas aberrantes” y se refirió a Bukele: “Fui clarito”",
+          "snippet": "",
+          "url": "https://www.montevideo.com.uy/Noticias/Orsi-dijo-que-en-la-LUC-hay-cosas-aberrantes-y-se-refirio-a-Bukele--Fui-clarito--uc947362",
+          "source": "Montevideo Portal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "instagram",
       "trafficCount": "200+",
       "pubDate": "Wed, 24 Dec 2025 23:20:00 -0800",
@@ -217,10 +245,10 @@
           "source": "CNN"
         },
         {
-          "title": "Nicki Minaj Deactivates Instagram After Turning Point USA Event Appearance with Erika Kirk",
+          "title": "Nicki Minaj Deactivates Instagram After Appearing With Erika Kirk at Turning Point USA’s AmericaFest",
           "snippet": "",
-          "url": "https://people.com/nicki-minaj-deactivates-instagram-after-turning-point-usa-event-appearance-11876184",
-          "source": "People.com"
+          "url": "https://www.yahoo.com/entertainment/music/articles/nicki-minaj-deactivates-instagram-appearing-175030112.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.montevideo.com.uy/Noticias/Cinco-personas-heridas-tras-choque-de-frente-entre-tres-autos-en-la-rambla-de-Punta-Gorda-uc947600",
           "source": "Montevideo Portal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pronostico",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 24 Dec 2025 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz2jT-EU0cm1XAlgLPi_-skSZXXV8nyzau0g7r2QOvO2vDhFzMaYizSDiNc4",
-      "pictureSource": "EL PAÍS Uruguay",
-      "relatedSearch": [
-        {
-          "title": "El pronóstico de Inumet para esta Navidad: cómo estará el tiempo en cada zona del país este 25 de diciembre",
-          "snippet": "",
-          "url": "https://www.elpais.com.uy/informacion/servicios/el-pronostico-para-hoy-jueves-25-de-diciembre-de-2025-como-estara-el-tiempo-en-cada-zona-del-pais-segun-inumet",
-          "source": "EL PAÍS Uruguay"
-        },
-        {
-          "title": "Clima en Uruguay hoy: lo que hay que saber según Inumet para este miércoles 24 de diciembre",
-          "snippet": "",
-          "url": "https://www.elobservador.com.uy/nacional/clima-uruguay-hoy-lo-que-hay-que-saber-segun-inumet-este-miercoles-24-diciembre-n6029168",
-          "source": "El Observador"
-        },
-        {
-          "title": "Noche buena con probables lluvias en el noreste y en la madrugada para el sur del país",
-          "snippet": "",
-          "url": "https://www.radiomontecarlo.com.uy/2025/12/24/nacionales/noche-buena-con-probabilidad-de-lluvias-en-el-noreste-y-en-la-madrugada-para-el-sur-del-pais/",
-          "source": "Radio Monte Carlo CX20 AM930"
         }
       ],
       "link": "https://imtaqin.id/"
