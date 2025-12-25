@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-25 19:44:22",
+  "lastUpdate": "2025-12-25 19:51:19",
   "data": [
     {
       "title": "gdansk",
@@ -127,16 +127,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "Pope Leo speaks about Gaza, Ukraine, Sudan in his first Christmas address",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/world/2025/12/25/pope-christmas-sermon-peace/",
-          "source": "The Washington Post"
-        },
-        {
           "title": "In first Christmas sermon, Pope Leo decries conditions for Palestinians in Gaza",
           "snippet": "",
           "url": "https://www.reuters.com/world/middle-east/first-christmas-sermon-pope-leo-decries-conditions-palestinians-gaza-2025-12-25/",
           "source": "Reuters"
+        },
+        {
+          "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cm21728nwxlo",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "blesk cz",
-      "trafficCount": "100+",
+      "title": "joj live",
+      "trafficCount": "200+",
       "pubDate": "Wed, 24 Dec 2025 21:10:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4WuHptLiWTeSmEAD-ScPxLZy2Z17_IQsncnU9nE5bYgKeiPA1Fx10zpdBTU",
+      "pictureSource": "TV JOJ",
+      "relatedSearch": [
+        {
+          "title": "Holubiu ženu zo Sám doma by ste už asi nespoznali: Pozrite sa, ako teraz vyzerá!",
+          "snippet": "",
+          "url": "https://www.joj.sk/clanok/1148901-holubiu-zenu-zo-sam-doma-by-ste-uz-asi-nespoznali-pozrite-sa-ako-teraz-vyzera",
+          "source": "TV JOJ"
+        },
+        {
+          "title": "Pani s holubmi zo Sám doma trpí bolesťami a je vyčerpaná. Priznala, že sa začala cítiť neviditeľná",
+          "snippet": "",
+          "url": "https://www.interez.sk/pani-s-holubmi-zo-sam-doma-trpi-bolestami-a-je-vycerpana-priznala-ze-sa-zacala-citit-neviditelna/",
+          "source": "Interez.sk"
+        },
+        {
+          "title": "VÁŽNA NEHODA: Pri Lučenci sa čelne zrazili vozidlá, hlásia obeť",
+          "snippet": "",
+          "url": "https://www.teraz.sk/banskobystricky-kraj/vazna-nehoda-pri-lucenci-sa-celne-z/929084-clanok.html",
+          "source": "TERAZ.sk"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
