@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-26 11:46:46",
+  "lastUpdate": "2025-12-26 11:53:46",
   "data": [
     {
       "title": "weather",
@@ -33,9 +33,16 @@
       "title": "meteo",
       "trafficCount": "5000+",
       "pubDate": "Thu, 25 Dec 2025 20:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdj42EEmd9xmYbR-eq2If0nkEaQoewgAoHxoo27PQ10ehUgJ0jluJ2xAuCo9U",
+      "pictureSource": "Jurnalul",
+      "relatedSearch": [
+        {
+          "title": "Temperaturi mai scăzute și precipitații ușor excedentare în mai multe regiuni ale țării",
+          "snippet": "",
+          "url": "https://jurnalul.ro/stiri/vremea/temperaturi-mai-scazute-precipitatii-usor-excedentare-mai-multe-regiuni-ale-tarii-1018743.html",
+          "source": "Jurnalul"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -70,15 +77,9 @@
       "title": "вера алентова",
       "trafficCount": "5000+",
       "pubDate": "Thu, 25 Dec 2025 03:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShwGhIT3gns9CS4cTc5n6ndK1rb1UdtbKTLBtL0LzGfwGxRZUDjrJ016Pgo1M",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIznVoc0809Smxoa4bicZjxUN-PwLBQY3OOUH51KkMpdeK3dtBCEDGoY6UGko",
       "pictureSource": "Кино Mail",
       "relatedSearch": [
-        {
-          "title": "Борис Щербаков рассказал о совместной работе с Верой Алентовой",
-          "snippet": "",
-          "url": "https://kino.mail.ru/news/111548-boris-scherbakov-rasskazal-o-sovmestnoj-rabote-s-veroj-alentovoj/",
-          "source": "Кино Mail"
-        },
         {
           "title": "Александра Урсуляк заявила, что Вера Алентова преданно служила искусству",
           "snippet": "",
@@ -86,10 +87,16 @@
           "source": "Кино Mail"
         },
         {
-          "title": "Умерла Вера Алентова",
+          "title": "Борис Щербаков рассказал о совместной работе с Верой Алентовой",
           "snippet": "",
-          "url": "https://meduza.io/feature/2025/12/25/umerla-vera-alentova",
-          "source": "Meduza"
+          "url": "https://kino.mail.ru/news/111548-boris-scherbakov-rasskazal-o-sovmestnoj-rabote-s-veroj-alentovoj/",
+          "source": "Кино Mail"
+        },
+        {
+          "title": "Лицо эпохи: 10 знаковых ролей Веры Алентовой",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/gorod/culturalcity/articles/10-rolei-veri-alentovoi",
+          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
