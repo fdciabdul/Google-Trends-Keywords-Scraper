@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-27 04:16:45",
+  "lastUpdate": "2025-12-27 04:32:50",
   "data": [
     {
       "title": "كورة",
@@ -145,9 +145,15 @@
       "title": "sir",
       "trafficCount": "100+",
       "pubDate": "Fri, 26 Dec 2025 12:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPXocm5n24C--8PwLAz_EkjoC8DNXF44Yqb0wHN60mYE-p1pqrwVyv1uHe2Iw",
-      "pictureSource": "Sporting Life",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGXNoLWoS5EEkxTq2giKELg1t9QdihCBrHjuZVf6cbFESkpIQN-rc66YClYW4",
+      "pictureSource": "Racing TV",
       "relatedSearch": [
+        {
+          "title": "Sir Gino back with a bang in Christmas Hurdle",
+          "snippet": "",
+          "url": "https://www.racingtv.com/news/arise-sir-gino-brilliant-return-for-nicky-hendersons-star",
+          "source": "Racing TV"
+        },
         {
           "title": "Sir Gino Champion Hurdle favourite after winning Ladbrokes Christmas Hurdle",
           "snippet": "",
@@ -157,14 +163,8 @@
         {
           "title": "Arise, Sir Gino! Brilliant return for Nicky Henderson’s star",
           "snippet": "",
-          "url": "https://www.peterboroughmatters.co.uk/sport/national/25724420.arise-sir-gino-brilliant-return-nicky-hendersons-star/",
-          "source": "Peterborough Matters"
-        },
-        {
-          "title": "Sir Gino cruises to Christmas Hurdle victory on Boxing Day at Kempton",
-          "snippet": "",
-          "url": "https://news.bet365.com/en-gb/article/sir-gino-cruises-to-christmas-hurdle-victory-on-boxing-day-at-kempton/2025122612561895221",
-          "source": "news.bet365.com"
+          "url": "https://www.eastlondonadvertiser.co.uk/sport/national/25724420.arise-sir-gino-brilliant-return-nicky-hendersons-star/",
+          "source": "East London Advertiser"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "raffinerie russe",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Dec 2025 12:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKS0zWbykNEUdqYmk0s-B5YY0ZyhtW4COYfKt8hcvhZ_pBzWR7b3vY-r4ie-Q",
-      "pictureSource": "Le Figaro",
-      "relatedSearch": [
-        {
-          "title": "Guerre en Ukraine : Kiev frappe une raffinerie avec le missile britannique Storm Shadow",
-          "snippet": "",
-          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-kiev-frappe-une-raffinerie-avec-le-missile-britannique-storm-shadow-20251226",
-          "source": "Le Figaro"
-        },
-        {
-          "title": "Guerre Russie - Ukraine : Deux réservoirs pétroliers en feu après une attaque sur le port russe de Temryuk - Monde",
-          "snippet": "",
-          "url": "https://www.lesoirdalgerie.com/monde/deux-reservoirs-petroliers-en-feu-apres-une-attaque-sur-le-port-russe-de-temryuk-144709",
-          "source": "Le soir d'Algérie"
-        },
-        {
-          "title": "L'Ukraine frappe une raffinerie russe à l'aide de missiles britanniques Storm Shadow",
-          "snippet": "",
-          "url": "https://www.france24.com/fr/europe/20251225-l-ukraine-frappe-une-raffinerie-russe-%C3%A0-l-aide-de-missiles-britanniques-storm-shadow",
-          "source": "France 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "sports",
       "trafficCount": "1000+",
       "pubDate": "Fri, 26 Dec 2025 12:20:00 -0800",
@@ -249,6 +221,34 @@
           "snippet": "",
           "url": "https://www.newsday.com/sports/football/giants/giants-raiders-t0xcykjz",
           "source": "Newsday"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "raffinerie russe",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 26 Dec 2025 12:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKS0zWbykNEUdqYmk0s-B5YY0ZyhtW4COYfKt8hcvhZ_pBzWR7b3vY-r4ie-Q",
+      "pictureSource": "Le Figaro",
+      "relatedSearch": [
+        {
+          "title": "Guerre en Ukraine : Kiev frappe une raffinerie avec le missile britannique Storm Shadow",
+          "snippet": "",
+          "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-kiev-frappe-une-raffinerie-avec-le-missile-britannique-storm-shadow-20251226",
+          "source": "Le Figaro"
+        },
+        {
+          "title": "Guerre Russie - Ukraine : Deux réservoirs pétroliers en feu après une attaque sur le port russe de Temryuk - Monde",
+          "snippet": "",
+          "url": "https://www.lesoirdalgerie.com/monde/deux-reservoirs-petroliers-en-feu-apres-une-attaque-sur-le-port-russe-de-temryuk-144709",
+          "source": "Le soir d'Algérie"
+        },
+        {
+          "title": "L'Ukraine frappe une raffinerie russe à l'aide de missiles britanniques Storm Shadow",
+          "snippet": "",
+          "url": "https://www.france24.com/fr/europe/20251225-l-ukraine-frappe-une-raffinerie-russe-%C3%A0-l-aide-de-missiles-britanniques-storm-shadow",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
