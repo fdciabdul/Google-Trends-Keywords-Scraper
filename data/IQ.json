@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2025-12-27 19:32:53",
+  "lastUpdate": "2025-12-27 19:40:36",
   "data": [
     {
-      "title": "نيجيريا ضد تونس",
+      "title": "الطقس بغداد",
       "trafficCount": "500+",
+      "pubDate": "Sat, 27 Dec 2025 11:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScjqb6zBqEJVss_6j48jpb7uyNfEpr5bDlZh10LOnRmxO6jG5uTYQ2zvzHLhY",
+      "pictureSource": "شفق نيوز",
+      "relatedSearch": [
+        {
+          "title": "\"أمطار تاريخية\" في العراق.. راصد يحدد موعدها - شفق نيوز",
+          "snippet": "",
+          "url": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B1%D8%A7%D8%B5%D8%AF-%D9%8A%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF%D9%87%D8%A7",
+          "source": "شفق نيوز"
+        },
+        {
+          "title": "طقس العراق: غيوم وأمطار متفاوتة وانخفاض في درجات الحرارة",
+          "snippet": "",
+          "url": "https://www.kurdistan24.net/ar/story/883596",
+          "source": "Kurdistan24"
+        },
+        {
+          "title": "الأنواء: البلاد تتأثر بمنخفض قطبي وأمطار في مناطق متفرقة بدءاً من يوم غد",
+          "snippet": "",
+          "url": "https://ina.iq/ar/local/251030-.html",
+          "source": "وكالة الانباء العراقية (واع)"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "نيجيريا ضد تونس",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 27 Dec 2025 11:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeLkOpuAW194VX9IAQ4znBYc77u-GHSa2CIIioc4_M35ZMH3wFUCS9p1GCgTM",
       "pictureSource": "beIN SPORTS",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.alaraby.co.uk/video/%D8%AD%D9%83%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D9%88%D8%B1%D9%8A-%D9%8A%D8%AE%D8%AA%D8%A7%D8%B1-%D9%87%D8%AF%D9%81%D9%87-%D8%A7%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A3%D9%88%D8%BA%D9%86%D8%AF%D8%A7",
           "source": "العربي الجديد"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الانواء الجوية",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 27 Dec 2025 11:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScjqb6zBqEJVss_6j48jpb7uyNfEpr5bDlZh10LOnRmxO6jG5uTYQ2zvzHLhY",
-      "pictureSource": "شفق نيوز",
-      "relatedSearch": [
-        {
-          "title": "\"أمطار تاريخية\" في العراق.. راصد يحدد موعدها - شفق نيوز",
-          "snippet": "",
-          "url": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B1%D8%A7%D8%B5%D8%AF-%D9%8A%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF%D9%87%D8%A7",
-          "source": "شفق نيوز"
-        },
-        {
-          "title": "طقس العراق: غيوم وأمطار متفاوتة وانخفاض في درجات الحرارة",
-          "snippet": "",
-          "url": "https://www.kurdistan24.net/ar/story/883596",
-          "source": "Kurdistan24"
-        },
-        {
-          "title": "الأنواء: البلاد تتأثر بمنخفض قطبي وأمطار في مناطق متفرقة بدءاً من يوم غد",
-          "snippet": "",
-          "url": "https://ina.iq/ar/local/251030-.html",
-          "source": "وكالة الانباء العراقية (واع)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "فيتو"
         },
         {
-          "title": "أخبار مصر.. انخفاض بالحرارة غدا وشبورة كثيفة وأمطار والصغري بالقاهرة 11 درجة",
+          "title": "أمطار متقطعة وبرودة قاسية.. الأرصاد المصرية تحذر من طقس نهاية ديسمبر | صحيفة الخليج",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2025/12/27/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%BA%D8%AF%D8%A7-%D9%88%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%B5%D8%BA%D8%B1%D9%8A-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9/7247810",
-          "source": "اليوم السابع"
+          "url": "https://www.alkhaleej.ae/2025-12-26/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D9%82%D8%B7%D8%B9%D8%A9-%D9%88%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D9%82%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-6238826/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
+          "source": "الخليج"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "خبرگزاری صدا و سیما"
         },
         {
-          "title": "ورود سامانه بارشی جدید به کشور",
+          "title": "ورود سامانه بارشی به تهران؛ در این تاریخ منتظر باران شدید، برف و طوفان باشید",
           "snippet": "",
-          "url": "https://www.booking.ir/articles/arrival-of-new-rainfall-system-in-country/",
-          "source": "بوکینگ"
+          "url": "https://vista.ir/n/ettelaat/2z49m",
+          "source": "vista.ir"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "يوتيوب",
       "trafficCount": "2000+",
       "pubDate": "Sat, 27 Dec 2025 09:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGItGHoLHsO4EJuNMd1ClUBamcseCRQTHv_YShBpL6v_D3gh4Vt3NICQDAJGA",
-      "pictureSource": "ET بالعربي",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRILEAhdxRdqwdmMyQVsn2ajOmD8HT1vris-a3ZSlzvIhGktHP0bcYyIGIJ4aM",
+      "pictureSource": "العربية",
       "relatedSearch": [
         {
-          "title": "بيسان إسماعيل تتصدّر يوتيوب العربية بـ خطية وتُشوق الجمهور لأغنية نجمة",
+          "title": "يوتيوب تحذف قناتين رائجتين لنشرهما مقاطع دعائية مزيفة بالذكاء الاصطناعي",
           "snippet": "",
-          "url": "https://etbilarabi.com/%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89/%D8%A8%D9%8A%D8%B3%D8%A7%D9%86-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%AA%D8%AA%D8%B5%D8%AF%D9%91%D8%B1-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A8%D9%80-%D8%AE%D8%B7%D9%8A%D8%A9-%D9%88%D8%AA%D9%8F%D8%B4%D9%88%D9%82-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%84%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D9%86%D8%AC%D9%85%D8%A9",
-          "source": "ET بالعربي"
+          "url": "https://www.alarabiya.net/technology/social-platforms/2025/12/20/%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%AA%D8%AD%D8%B0%D9%81-%D9%82%D9%86%D8%A7%D8%AA%D9%8A%D9%86-%D8%B1%D8%A7%D8%A6%D8%AC%D8%AA%D9%8A%D9%86-%D9%84%D9%86%D8%B4%D8%B1%D9%87%D9%85%D8%A7-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D8%AF%D8%B9%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D8%B2%D9%8A%D9%81%D8%A9-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
+          "source": "العربية"
         },
         {
-          "title": "مغنية سورية تبحث عن والدها منذ 13 عامًا، كيف تجددت الجراح والأمل؟",
+          "title": "دراسة: 20% من مقاطع الفيديو على اليوتيوب محتوى رديء من الذكاء الاصطناعي - المشهد",
           "snippet": "",
-          "url": "https://www.egypttelegraph.com/article/206479/%D9%85%D8%BA%D9%86%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%87%D8%A7-%D9%85%D9%86%D8%B0-13",
-          "source": "تليجراف مصر"
+          "url": "https://almashhad.com/article/738996299126409-technology/458868215521293-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-20-%D9%85%D9%86-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%B1%D8%AF%D9%8A%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A/",
+          "source": "قناة ومنصة المشهد"
         },
         {
-          "title": "مطربو «جيل زد» يسيطرون على قائمة الأكثر مشاهدة بـ«يوتيوب» في 2025",
+          "title": "هل تعبت من مشاهدة مقطعي فيديو مزيف على YouTube؟ إليك الأخبار الجيدة",
           "snippet": "",
-          "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5223697-%D9%85%D8%B7%D8%B1%D8%A8%D9%88-%D8%AC%D9%8A%D9%84-%D8%B2%D8%AF-%D9%8A%D8%B3%D9%8A%D8%B7%D8%B1%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D8%A8%D9%80%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%81%D9%8A-2025",
-          "source": "الشرق الأوسط"
+          "url": "https://voi.id/ar/teknologi/545460",
+          "source": "VOI.ID"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,9 +267,9 @@
           "source": "Chelsea Football Club"
         },
         {
-          "title": "Football Tracker: Watkins levels for Aston Villa, Tanzania strike against Uganda",
+          "title": "Football Tracker: Nigeria face Tunisia at AFCON, Juventus look for win over Pisa",
           "snippet": "",
-          "url": "https://www.flashscore.com/news/football-tracker-watkins-levels-for-aston-villa-tanzania-strike-against-uganda/QgA3dzM0/",
+          "url": "https://www.flashscore.com/news/football-tracker-nigeria-face-tunisia-at-afcon-juventus-look-for-win-over-pisa/QgA3dzM0/",
           "source": "Flashscore.com"
         },
         {
