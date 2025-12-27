@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2025-12-27 19:40:36",
+  "lastUpdate": "2025-12-27 19:47:32",
   "data": [
-    {
-      "title": "الطقس بغداد",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 27 Dec 2025 11:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScjqb6zBqEJVss_6j48jpb7uyNfEpr5bDlZh10LOnRmxO6jG5uTYQ2zvzHLhY",
-      "pictureSource": "شفق نيوز",
-      "relatedSearch": [
-        {
-          "title": "\"أمطار تاريخية\" في العراق.. راصد يحدد موعدها - شفق نيوز",
-          "snippet": "",
-          "url": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B1%D8%A7%D8%B5%D8%AF-%D9%8A%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF%D9%87%D8%A7",
-          "source": "شفق نيوز"
-        },
-        {
-          "title": "طقس العراق: غيوم وأمطار متفاوتة وانخفاض في درجات الحرارة",
-          "snippet": "",
-          "url": "https://www.kurdistan24.net/ar/story/883596",
-          "source": "Kurdistan24"
-        },
-        {
-          "title": "الأنواء: البلاد تتأثر بمنخفض قطبي وأمطار في مناطق متفرقة بدءاً من يوم غد",
-          "snippet": "",
-          "url": "https://ina.iq/ar/local/251030-.html",
-          "source": "وكالة الانباء العراقية (واع)"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "نيجيريا ضد تونس",
       "trafficCount": "1000+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.alaraby.co.uk/video/%D8%AD%D9%83%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D9%88%D8%B1%D9%8A-%D9%8A%D8%AE%D8%AA%D8%A7%D8%B1-%D9%87%D8%AF%D9%81%D9%87-%D8%A7%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A3%D9%88%D8%BA%D9%86%D8%AF%D8%A7",
           "source": "العربي الجديد"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الانواء الجوية",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 27 Dec 2025 11:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScjqb6zBqEJVss_6j48jpb7uyNfEpr5bDlZh10LOnRmxO6jG5uTYQ2zvzHLhY",
+      "pictureSource": "شفق نيوز",
+      "relatedSearch": [
+        {
+          "title": "\"أمطار تاريخية\" في العراق.. راصد يحدد موعدها - شفق نيوز",
+          "snippet": "",
+          "url": "https://shafaq.com/ar/%D9%85%D8%AC%D8%AA%D9%80%D9%85%D8%B9/%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B1%D8%A7%D8%B5%D8%AF-%D9%8A%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF%D9%87%D8%A7",
+          "source": "شفق نيوز"
+        },
+        {
+          "title": "طقس العراق: غيوم وأمطار متفاوتة وانخفاض في درجات الحرارة",
+          "snippet": "",
+          "url": "https://www.kurdistan24.net/ar/story/883596",
+          "source": "Kurdistan24"
+        },
+        {
+          "title": "الأنواء: البلاد تتأثر بمنخفض قطبي وأمطار في مناطق متفرقة بدءاً من يوم غد",
+          "snippet": "",
+          "url": "https://ina.iq/ar/local/251030-.html",
+          "source": "وكالة الانباء العراقية (واع)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +145,15 @@
       "title": "الطقس غدًا",
       "trafficCount": "200000+",
       "pubDate": "Sat, 27 Dec 2025 09:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuItBP0LG9ZMO4NpAtivM8ExQofmQh-nJ7fSff6-xsANPAlZHA0JHeNgKCo9I",
-      "pictureSource": "القاهرة 24",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkwXmE2_Xdl3xzyYIKyW73fGx0rQbfftYNSTKCNJHCr9zknVqFPK-F5g6QMTM",
+      "pictureSource": "جريدة المال",
       "relatedSearch": [
+        {
+          "title": "طقس غد الأحد.. مائل للحرارة والعظمى بالقاهرة 31 درجة",
+          "snippet": "",
+          "url": "https://almalnews.com/745367/%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-%D9%85%D8%A7%D8%A6%D9%84-%D9%84%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%B8%D9%85%D9%89-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9/",
+          "source": "جريدة المال"
+        },
         {
           "title": "حالة الطقس غدًا الأحد.. انخفاض في درجات الحرارة وفرص سقوط أمطار",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.tahiamasr.com/1011386",
           "source": "تحيا مصر"
-        },
-        {
-          "title": "مع بداية الشتاء رسميا.. «الأرصاد» تعلن درجات الحرارة المتوقعة اليوم",
-          "snippet": "",
-          "url": "https://www.elwatannews.com/news/details/8194084",
-          "source": "الوطن"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,38 @@
           "source": "خبرگزاری صدا و سیما"
         },
         {
-          "title": "ورود سامانه بارشی به تهران؛ در این تاریخ منتظر باران شدید، برف و طوفان باشید",
+          "title": "آغاز کولاک و یخبندان در تهران از این تاریخ / دمای زیر صفر درجه در راه است",
           "snippet": "",
-          "url": "https://vista.ir/n/ettelaat/2z49m",
-          "source": "vista.ir"
+          "url": "https://www.shahrekhabar.com/news/176682246073170",
+          "source": "شهر خبر"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
+      "trafficCount": "10000+",
+      "pubDate": "Sat, 27 Dec 2025 09:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz111PPUyEj8IffJUwHN9ugSq02rrOpUCq2HpAtKA4gelC9jFED48dMWRv1kg",
+      "pictureSource": "5 EYEWITNESS NEWS",
+      "relatedSearch": [
+        {
+          "title": "FORECAST FIRST ALERT: Impactful snowfall expected Sunday",
+          "snippet": "",
+          "url": "https://kstp.com/kstp-news/weather-forecast/forecast-first-alert-impactful-snowfall-expected-sunday/",
+          "source": "5 EYEWITNESS NEWS"
+        },
+        {
+          "title": "Weather Impact Alert all day Sunday through Monday morning for freezing rain and significant snowfall",
+          "snippet": "",
+          "url": "https://www.kare11.com/article/weather/weather-impact-alert-all-day-sunday-through-monday-morning/89-e6be7ceb-4e08-4f7a-97f4-1e5a4fdcb520",
+          "source": "kare11.com"
+        },
+        {
+          "title": "Winter storm to bring snow, possible blizzard conditions to Minnesota Sunday",
+          "snippet": "",
+          "url": "https://www.startribune.com/weather-snowstorm-minnesota/601553281",
+          "source": "Star Tribune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://gate-alsaudia.com/news57103.html",
           "source": "البوابة السعودية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "chelsea vs aston villa",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 27 Dec 2025 08:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI4RgDMljP9z5-l8LVva9A_UQ37qY_SAIBsSeSwMgrc9S-p8jYQ-8a4QXlQ34",
-      "pictureSource": "Chelsea Football Club",
-      "relatedSearch": [
-        {
-          "title": "Maresca updates on duo and the need to rotate | News | Official Site",
-          "snippet": "",
-          "url": "https://www.chelseafc.com/en/news/article/maresca-updates-on-duo-and-the-need-to-rotate",
-          "source": "Chelsea Football Club"
-        },
-        {
-          "title": "Football Tracker: Nigeria face Tunisia at AFCON, Juventus look for win over Pisa",
-          "snippet": "",
-          "url": "https://www.flashscore.com/news/football-tracker-nigeria-face-tunisia-at-afcon-juventus-look-for-win-over-pisa/QgA3dzM0/",
-          "source": "Flashscore.com"
-        },
-        {
-          "title": "Cole Palmer fumes at Chelsea decision as Enzo Maresca feelings clear",
-          "snippet": "",
-          "url": "https://www.football.london/chelsea-fc/news/chelsea-cole-palmer-enzo-maresca-33128768",
-          "source": "Football London"
         }
       ],
       "link": "https://imtaqin.id/"
