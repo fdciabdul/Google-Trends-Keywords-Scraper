@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-27 09:54:34",
+  "lastUpdate": "2025-12-27 10:02:05",
   "data": [
     {
       "title": "noranett",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sat, 27 Dec 2025 01:20:00 -0800",
       "picture": "",
       "pictureSource": "ht.no",
@@ -31,7 +31,7 @@
     },
     {
       "title": "åpningstider julen 2025",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 26 Dec 2025 23:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh9WkJVupmYEjG6QXQFbasi6nTYunFjFrvz6p40NPdhgcZqe8LUn80rN6Pzzw",
       "pictureSource": "agderposten.no",
@@ -89,20 +89,20 @@
       "title": "nrk nordland",
       "trafficCount": "200+",
       "pubDate": "Fri, 26 Dec 2025 23:40:00 -0800",
-      "picture": "",
-      "pictureSource": "adressa.no",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdnlY72NmVfJxAD12mtJNqNUeFdoQSwSqN54wEu_DDD8eOgGEo_mIMWwzmizk",
+      "pictureSource": "Dagbladet",
       "relatedSearch": [
-        {
-          "title": "Fly innstilt på Værnes",
-          "snippet": "",
-          "url": "https://www.adressa.no/nyhetsstudio/i/K83b76/fly-innstilt-paa-vaernes",
-          "source": "adressa.no"
-        },
         {
           "title": "- Utsett reisen",
           "snippet": "",
           "url": "https://www.dagbladet.no/nyheter/utsett-reisen/84029023",
           "source": "Dagbladet"
+        },
+        {
+          "title": "Fly innstilt på Værnes",
+          "snippet": "",
+          "url": "https://www.adressa.no/nyhetsstudio/i/K83b76/fly-innstilt-paa-vaernes",
+          "source": "adressa.no"
         },
         {
           "title": "Fly kansellert",
@@ -226,22 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nordlys",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Dec 2025 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUq4EfR9p8LV6Fuvkgkat86aWTCMTleyLpngHOR33F1yWQgtDLbO3vRxi0jYI",
-      "pictureSource": "Nordlys",
-      "relatedSearch": [
-        {
-          "title": "Står midt i barnehageskvis: – Skal det være sånn at alle byens barnehager konstant blir nedringt av fortvilte foreldre?",
-          "snippet": "",
-          "url": "https://www.nordlys.no/star-midt-i-barnehageskvis-skal-det-vare-sann-at-alle-byens-barnehager-konstant-blir-nedringt-av-fortvilte-foreldre/s/5-34-2264906",
-          "source": "Nordlys"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "yr",
       "trafficCount": "1000+",
       "pubDate": "Fri, 26 Dec 2025 21:50:00 -0800",
@@ -265,6 +249,34 @@
           "snippet": "",
           "url": "https://www.itromso.no/nyheter/i/e78kwO/hva-storm-dette-er-jo-bare-en-liten-romjulsvind",
           "source": "itromso.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "lofotposten",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 26 Dec 2025 21:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxpmJK-Xv2jbrsfq4VlEjTo6SnRTXKs7215KzmWFGGa_Yb4lk9uC0O2pyy43g",
+      "pictureSource": "NRK",
+      "relatedSearch": [
+        {
+          "title": "Kraftig uvêr i nord – garasje tatt av vinden",
+          "snippet": "",
+          "url": "https://www.nrk.no/norge/kraftig-uver-i-nord-_-garasje-tatt-av-vinden-1.17706033",
+          "source": "NRK"
+        },
+        {
+          "title": "Tusenvis uten strøm: Ordfører rammet av strømbrudd: - Vi er vant til det",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/ordforer-rammet-av-strombrudd-vi-er-vant-til-det/18414683/",
+          "source": "TV2.no"
+        },
+        {
+          "title": "Vær, Strømstans | Flere tusen uten strøm",
+          "snippet": "",
+          "url": "https://www.an.no/flere-tusen-uten-strom/s/5-4-2300491",
+          "source": "Avisa Nordland"
         }
       ],
       "link": "https://imtaqin.id/"
