@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2025-12-27 11:00:01",
+  "lastUpdate": "2025-12-27 11:09:27",
   "data": [
+    {
+      "title": "طقس اليوم",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 26 Dec 2025 21:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM0KJhf9AyPAXjXXBIAOteP6V11WI9p4mDgtyySR0Mf4CrBoOqBioIcDLSLDk",
+      "pictureSource": "فيتو",
+      "relatedSearch": [
+        {
+          "title": "برد زمهرير يضرب نصف المحافظات ليلا، درجات الحرارة اليوم السبت فى مصر",
+          "snippet": "",
+          "url": "https://www.vetogate.com/5561478",
+          "source": "فيتو"
+        },
+        {
+          "title": "هيئة الأرصاد تحذر المواطنين من تقلبات مفاجئة بالطقس وتوضح بيان بدرجات الحرارة",
+          "snippet": "",
+          "url": "https://www.elzmannews.com/520508",
+          "source": "https://www.elzmannews.com/"
+        },
+        {
+          "title": "رياح وأمطار في مصر اليوم تفاصيل حالة الطقس ودرجات الحرارة بالمحافظات",
+          "snippet": "",
+          "url": "https://www.iqraa24.com/news/%D8%B1%D9%8A%D8%A7%D8%AD-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84/",
+          "source": "اقرأ 24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "1000+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.myarklamiss.com/news/top-stories/monroe-pd-urges-safety-precautions-in-winter-weather/",
           "source": "KTVE – myarklamiss.com – Your ArkLaMiss News Source"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "حالة الطقس",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 26 Dec 2025 19:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM0KJhf9AyPAXjXXBIAOteP6V11WI9p4mDgtyySR0Mf4CrBoOqBioIcDLSLDk",
-      "pictureSource": "فيتو",
-      "relatedSearch": [
-        {
-          "title": "برد زمهرير يضرب نصف المحافظات ليلا، درجات الحرارة اليوم السبت فى مصر",
-          "snippet": "",
-          "url": "https://www.vetogate.com/5561478",
-          "source": "فيتو"
-        },
-        {
-          "title": "هيئة الأرصاد تحذر المواطنين من تقلبات مفاجئة بالطقس وتوضح بيان بدرجات الحرارة",
-          "snippet": "",
-          "url": "https://www.elzmannews.com/520508",
-          "source": "https://www.elzmannews.com/"
-        },
-        {
-          "title": "رياح وأمطار في مصر اليوم تفاصيل حالة الطقس ودرجات الحرارة بالمحافظات",
-          "snippet": "",
-          "url": "https://www.iqraa24.com/news/%D8%B1%D9%8A%D8%A7%D8%AD-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84/",
-          "source": "اقرأ 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,15 +99,15 @@
           "source": "BBC"
         },
         {
-          "title": "Patrick Dorgu volley powers Manchester United into fifth as Newcastle misfire",
+          "title": "Amorim hails 'spirit' of depleted Man Utd in win",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2025/dec/26/manchester-united-newcastle-united-premier-league-match-report",
-          "source": "The Guardian"
+          "url": "https://www.espn.com/soccer/story/_/id/47422409/ruben-amorim-hails-manchester-united-spirit-gritty-newcastle-win",
+          "source": "ESPN"
         },
         {
-          "title": "Eddie Howe and a miserable milestone to reflect Newcastle’s troubled campaign",
+          "title": "How superb Patrick Dorgu volley saw Manchester United secure gritty Boxing Day win over Newcastle - The Athletic",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/6920584/2025/12/27/eddie-howe-newcastle-season-200-manchester-united/",
+          "url": "https://www.nytimes.com/athletic/live-blogs/manchester-united-vs-newcastle-live-updates-premier-league-score-result/9JIgppaXVo7C/",
           "source": "The New York Times"
         }
       ],
@@ -145,9 +145,15 @@
       "title": "المغرب ضد مالي",
       "trafficCount": "5000+",
       "pubDate": "Fri, 26 Dec 2025 11:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJBnUc8VvNYKywVl2SLtmKfUypNB3oIPbl6QCksHnwHzoAqejdUYzdAvb05o",
-      "pictureSource": "الاتحاد للأخبار",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQuK6cOQQpb613xRGJEc2WMoKzjYml4mBs7_PMfkOYu_PSjS5149IRkSHTYHU",
+      "pictureSource": "Al Akhbar",
       "relatedSearch": [
+        {
+          "title": "كأس أمم إفريقيا: المغرب يتعادل مع مالي ويُحافظ على الصدارة",
+          "snippet": "",
+          "url": "https://www.al-akhbar.com/sports/873216/%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7--%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%B9-%D9%85%D8%A7%D9%84%D9%8A-%D9%88%D9%8A%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9",
+          "source": "Al Akhbar"
+        },
         {
           "title": "مبابي بقميص حكيمي في كأس أفريقيا!",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://24saa.com/%D8%AD%D8%B6%D9%88%D8%B1-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D9%85%D8%A7%D9%84/",
           "source": "24 ساعة"
-        },
-        {
-          "title": "العيناوي: التعادل أمام مالي محبط وهدفنا الحفاظ على صدارة المجموعة",
-          "snippet": "",
-          "url": "https://www.elsport.com/news/show/805524/%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D8%A7%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D8%AD%D8%A8%D8%B7-%D9%88%D9%87%D8%AF%D9%81%D9%86%D8%A7-%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%89-",
-          "source": "Elsport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "جريدة الراية"
         },
         {
-          "title": "سامي الطرابلسي : “سنواجه واحدا من المنتخبات الكبيرة في القارة” (فيديو)",
+          "title": "'كان' 2025.. برنامج مقابلات السبت",
           "snippet": "",
-          "url": "https://a5r5br.net/tunis/local-news/7052559-%D8%B3%D8%A7%D9%85%D9%8A-%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A-%D8%B3%D9%86%D9%88%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%AD%D8%AF%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-          "source": "a5r5br.net"
+          "url": "https://www.mosaiquefm.net/ar/%D9%83%D8%A7%D9%86-2025/1490337/%D9%83%D8%A7%D9%86-2025-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA",
+          "source": "Mosaique FM"
         }
       ],
       "link": "https://imtaqin.id/"
