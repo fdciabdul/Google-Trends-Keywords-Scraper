@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2025-12-28 02:54:12",
+  "lastUpdate": "2025-12-28 03:30:32",
   "data": [
     {
-      "title": "هواشناسی اهواز",
+      "title": "weather",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 27 Dec 2025 19:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSndobhPZm6cAwTnvDMmVEGBus9AarKPn_ITvdI9RB1y8HnEfvoMVqp3IbuTWc",
+      "pictureSource": "CHEK News",
+      "relatedSearch": [
+        {
+          "title": "More weather shelters opening tonight; firefighters to hand out warming kits",
+          "snippet": "",
+          "url": "https://cheknews.ca/more-weather-shelters-opening-tonight-firefighters-to-hand-out-warming-kits-1296779/",
+          "source": "CHEK News"
+        },
+        {
+          "title": "Saanich, Victoria and Sooke open up emergency shelters as temperatures fall",
+          "snippet": "",
+          "url": "https://www.timescolonist.com/local-news/saanich-victoria-and-sooke-open-up-emergency-shelters-as-temperatures-fall-11671954",
+          "source": "Times Colonist"
+        },
+        {
+          "title": "Rainy, windy weather not enough to activate extreme weather response",
+          "snippet": "",
+          "url": "https://www.timescolonist.com/local-news/rainy-windy-weather-not-enough-to-activate-extreme-weather-response-11644862",
+          "source": "Times Colonist"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 27 Dec 2025 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQzY214-HgfLUGmx3OOtWPe6KWZvRTjbpP-qMa97cBMq2mfjcwyMWzcUakAEc",
+      "pictureSource": "وكالة صدى نيوز",
+      "relatedSearch": [
+        {
+          "title": "Weather Condition: Atmospheric Depression and Heavy Rain Until Monday",
+          "snippet": "",
+          "url": "https://www.sadanews.ps/en/news/261261.html",
+          "source": "وكالة صدى نيوز"
+        },
+        {
+          "title": "Cold, rainy weather expected as low-pressure system affects the country",
+          "snippet": "",
+          "url": "https://english.wafa.ps/Pages/Details/165665",
+          "source": "WAFA Agency"
+        },
+        {
+          "title": "Palestinian civil defense warns of strong weather system",
+          "snippet": "",
+          "url": "https://www.saba.ye/en/news3614879.htm",
+          "source": "وكالة الانباء اليمنية سبأ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "هواشناسی بوشهر",
       "trafficCount": "100+",
+      "pubDate": "Sat, 27 Dec 2025 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIUIlJZfgKcnzXC6wbXo8c8zkzi7hvbQH-pTWFdy2pt2buNAKBuxa9tP1pFo",
+      "pictureSource": "ایسنا",
+      "relatedSearch": [
+        {
+          "title": "باران تا سه‌شنبه مهمان آسمان بوشهر است",
+          "snippet": "",
+          "url": "https://www.isna.ir/news/1404100603532/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D9%85%D8%A7%D9%86-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%A7%D8%B3%D8%AA",
+          "source": "ایسنا"
+        },
+        {
+          "title": "بارندگی در استان بوشهر تا سه‌شنبه ادامه دارد؛ احتمال بارش تگرگ",
+          "snippet": "",
+          "url": "https://www.mehrnews.com/news/6703311/%D8%A8%D8%A7%D8%B1%D9%86%D8%AF%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%AA%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D8%B4-%D8%AA%DA%AF%D8%B1%DA%AF",
+          "source": "خبرگزاری مهر"
+        },
+        {
+          "title": "بارش‌های پراکنده و ناپایداری جوی تا سه‌شنبه در استان بوشهر تداوم دارد",
+          "snippet": "",
+          "url": "https://www.irna.ir/news/86036552/%D8%A8%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D9%88-%D9%86%D8%A7%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AC%D9%88%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%AA%D8%AF%D8%A7%D9%88%D9%85",
+          "source": "ایرنا"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "هواشناسی اهواز",
+      "trafficCount": "200+",
       "pubDate": "Sat, 27 Dec 2025 18:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxy4sjLdMipf3SXrrh9x0Asn5LuyqxE1S6Q4wFypIoLgfq-m9-rt-nCI8p2oM",
       "pictureSource": "vista.ir",
@@ -181,90 +265,6 @@
           "snippet": "",
           "url": "https://akharinkhabar.ir/cinema/10771061/%D8%B3%D9%88%DA%98%D9%87-%D8%AF%D8%A7%D8%BA-%D9%87%D9%81%D8%AA%D9%87%D8%9B-%D8%A7%D8%B2-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%AC%D8%B4%D9%86-%D8%AD%D8%A7%D9%81%D8%B8-%D8%AA%D8%A7-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%BA%D9%85-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%90-%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%B1%D8%B6%D8%A7-%D8%B1%D9%88%DB%8C%DA%AF%D8%B1%DB%8C",
           "source": "آخرین خبر"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "هواشناسی ایلام",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 27 Dec 2025 12:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh0yaQHQTx5rHL4yUD-tCEuOvDC4n58OY-F5RiZnYK_gQP-FIeVMH9bqLOwDc",
-      "pictureSource": "ایسنا",
-      "relatedSearch": [
-        {
-          "title": "ورود سامانه سرد و ناپایدار به ایلام/احتمال بارش برف و یخبندان تا منفی ۸ درجه",
-          "snippet": "",
-          "url": "https://www.isna.ir/news/1404100603666/%D9%88%D8%B1%D9%88%D8%AF-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF-%D9%88-%D9%86%D8%A7%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D9%87-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D8%B4-%D8%A8%D8%B1%D9%81-%D9%88-%DB%8C%D8%AE%D8%A8%D9%86%D8%AF%D8%A7%D9%86",
-          "source": "ایسنا"
-        },
-        {
-          "title": "باران و برف در راه ایلام",
-          "snippet": "",
-          "url": "https://www.irna.ir/news/86035976/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D9%88-%D8%A8%D8%B1%D9%81-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-          "source": "ایرنا"
-        },
-        {
-          "title": "صدور هشدار نارنجی در ایلام؛استان به حالت آماده باش درآمد",
-          "snippet": "",
-          "url": "https://www.mehrnews.com/news/6703981/%D8%B5%D8%AF%D9%88%D8%B1-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%86%D8%A7%D8%B1%D9%86%D8%AC%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%AD%D8%A7%D9%84%D8%AA-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B4-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF",
-          "source": "خبرگزاری مهر"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ژوتا",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 27 Dec 2025 11:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP6Nm36iSLLcclLrwzQjh34EHLMgrEZORjWPQdGRJX8ACMWA4QmikRHPPW93k",
-      "pictureSource": "ورزش سه",
-      "relatedSearch": [
-        {
-          "title": "بغض آنفیلد با فرزندان ژوتا شکست",
-          "snippet": "",
-          "url": "https://www.varzesh3.com/news/2234464/%D8%A8%D8%BA%D8%B6-%D8%A7%D9%93%D9%86%D9%81%DB%8C%D9%84%D8%AF-%D8%A8%D8%A7-%D9%81%D8%B1%D8%B2%D9%86%D8%AF%D8%A7%D9%86-%DA%98%D9%88%D8%AA%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA",
-          "source": "ورزش سه"
-        },
-        {
-          "title": "فریم به فریم با سکوت احساسی در قلب فوتبال/ وارثان ژوتا دست به دست کاپیتان قبل از کریسمس +عکس",
-          "snippet": "",
-          "url": "https://parsfootball.com/na/news/2109064/",
-          "source": "ParsFootball"
-        },
-        {
-          "title": "زخم باز لیورپول؛ داغ دیوگو ژوتا هنوز بر دل بازیکنان سنگینی می‌کند",
-          "snippet": "",
-          "url": "https://www.khabarvarzeshi.com/news/532369/%D8%B2%D8%AE%D9%85-%D8%A8%D8%A7%D8%B2-%D9%84%DB%8C%D9%88%D8%B1%D9%BE%D9%88%D9%84-%D8%AF%D8%A7%D8%BA-%D8%AF%DB%8C%D9%88%DA%AF%D9%88-%DA%98%D9%88%D8%AA%D8%A7-%D9%87%D9%86%D9%88%D8%B2-%D8%A8%D8%B1-%D8%AF%D9%84-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-          "source": "خبرورزشی"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pisa vs juventus",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 27 Dec 2025 11:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVEHkUbhbOYKsx4h9VdpR_TJZWMnsGtYD9R1xAZxWSnI_j-v8NX2rpsnpCmKQ",
-      "pictureSource": "FotMob",
-      "relatedSearch": [
-        {
-          "title": "Pisa 0-2 Juventus: Yildiz strikes late to send Spalletti's side third",
-          "snippet": "",
-          "url": "https://www.fotmob.com/news/t0xy3539fiix11xvqfcjv8by1-pisa-0-2-juventus-yildiz-strikes-late-send-spallettis-side-third",
-          "source": "FotMob"
-        },
-        {
-          "title": "Kalulu and Kenan Yildiz insist ‘Juventus deserved the victory’ in Pisa",
-          "snippet": "",
-          "url": "https://football-italia.net/kalulu-kenan-yildiz-insist-juventus-deserved/",
-          "source": "Football Italia"
-        },
-        {
-          "title": "Juventus releases official lineup for the match against Pisa, Zhegrova starts from the bench",
-          "snippet": "",
-          "url": "https://www.gazetaexpress.com/en/Juventus-releases-official-lineup-for-match-against-Pisa--Zhegrova-starts-from-the-bench/",
-          "source": "Gazeta Express"
         }
       ],
       "link": "https://imtaqin.id/"
