@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-29 17:30:15",
+  "lastUpdate": "2025-12-29 17:39:49",
   "data": [
     {
       "title": "anthony joshua",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 29 Dec 2025 06:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQzkUi-XWARGcaqLgrRXEBuzog_DJuy2SiP49oYzu03-9JPOAdZ4mGbVmH230",
       "pictureSource": "Punch Newspapers",
@@ -42,35 +42,42 @@
       "title": "srpska info",
       "trafficCount": "100+",
       "pubDate": "Sun, 28 Dec 2025 23:10:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxic69GBkwySWIUbuqdJ9uvQTCTSkwlDycdrVUposjxfVa9jU1opok20Q7DyQ",
+      "pictureSource": "Info centar Sokolac",
+      "relatedSearch": [
+        {
+          "title": "ДАНАС ПРЕТЕЖНО СУНЧАНО И ВЈЕТРОВИТО",
+          "snippet": "",
+          "url": "https://infocentar.ba/danas-pretezno-suncano-i-vjetrovito/",
+          "source": "Info centar Sokolac"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "index",
       "trafficCount": "100+",
       "pubDate": "Sun, 28 Dec 2025 22:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5U8DClN-oddYZaHWG6O6kafZsRSfeewngVd55nYfbCq3flTsNFlxtjjJuAQc",
-      "pictureSource": "Seeking Alpha",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMWyH0UJT-XGev9TduZ_5DFPhmY9oq7Dn300-YodM4lSFFBZ5gsnHq_dgtlQ",
+      "pictureSource": "Yahoo Finance UK",
       "relatedSearch": [
         {
-          "title": "Dallas Fed Manufacturing Index stays in the red in December",
+          "title": "FTSE 100 LIVE: Stocks inch up as silver surge lifts metals miner Fresnillo to the top",
           "snippet": "",
-          "url": "https://seekingalpha.com/news/4535706-dallas-fed-manufacturing-index-stays-in-the-red-in-december",
-          "source": "Seeking Alpha"
+          "url": "https://uk.finance.yahoo.com/news/ftse-100-live-market-stocks-083639767.html",
+          "source": "Yahoo Finance UK"
         },
         {
-          "title": "Texas Manufacturing Slips Further in December",
+          "title": "Listless trade in Europe; gold eases from record",
           "snippet": "",
-          "url": "https://www.tradingview.com/news/te_news:513032:0-texas-manufacturing-slips-further-in-december/",
-          "source": "TradingView — Track All Markets"
+          "url": "https://www.marketscreener.com/news/listless-trade-in-europe-gold-eases-from-record-ce7e59dbda88f721",
+          "source": "marketscreener.com"
         },
         {
-          "title": "Dallas Fed manufacturing index falls to -10.9 in December",
+          "title": "Copper and silver surge lifts mining sector",
           "snippet": "",
-          "url": "https://www.sharecast.com/news/international-economic/dallas-fed-manufacturing-index-falls-to--109-in-december--21433875.html",
-          "source": "Sharecast.com"
+          "url": "https://www.proactiveinvestors.co.uk/companies/news/1084987/copper-and-silver-surge-lifts-mining-sector-1084987.html",
+          "source": "Proactive Investors"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +96,15 @@
           "source": "slobodna-bosna.ba"
         },
         {
-          "title": "Konaković poručio Izetbegoviću: Bili ste fiks 20 godina, više nećete biti",
+          "title": "Davor Bunoza, ministar pravde BiH, uoči sjednice Vijeća ministara, za \"Avaz\": Poboljšavamo položaj roditelja djece s poteškoćama u razvoju",
           "snippet": "",
-          "url": "https://www.klix.ba/vijesti/bih/konakovic-porucio-izetbegovicu-bili-ste-fiks-20-godina-vise-necete-biti/251223164",
-          "source": "Klix.ba"
+          "url": "https://avaz.ba/vijesti/bih/1014640/davor-bunoza-ministar-pravde-bih-uoci-sjednice-vijeca-ministara-za-avaz-poboljsavamo-polozaj-roditelja-djece-s-poteskocama-u-razvoju",
+          "source": "Dnevni avaz"
         },
         {
-          "title": "Konaković uživo otkrio plan Trojke: Ko bi mogao biti kandidat za Predsjedništvo BiH na izborima?",
+          "title": "Reformska agenda, dodatak na platu, droge...: Obiman dnevni red današnje sjednice Vijeća ministara",
           "snippet": "",
-          "url": "https://radiosarajevo.ba/vijesti/bosna-i-hercegovina/konakovic-uzivo-otkrio-plan-trojke-ko-bi-mogao-biti-kandidat-za-predsjednistvo-bih-na-izborima/619432",
+          "url": "https://radiosarajevo.ba/vijesti/bosna-i-hercegovina/reformska-agenda-dodatak-na-platu-droge-obiman-dnevni-red-danasnje-sjednice-vijeca-ministara/619769",
           "source": "Radio Sarajevo"
         }
       ],
@@ -107,9 +114,15 @@
       "title": "trebinje live",
       "trafficCount": "100+",
       "pubDate": "Sun, 28 Dec 2025 22:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaVu04yeqfNbS-gsyGBAlP-OHq4f--HV1gSJ1Eyte92UcPLsWn0-qlNhlhT0g",
-      "pictureSource": "Trebinje Live",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT792KKOM1bcwSjl1e4WCNK2dgQ64eZ_NPDuuDfQJ_yeTMIB1GD7IBzB_WliSA",
+      "pictureSource": "RTRS",
       "relatedSearch": [
+        {
+          "title": "Код Требиња пронађена већа количина минско-експлозивних средстава",
+          "snippet": "",
+          "url": "https://www.rtrs.tv/vijesti/vijest.php?id=628586",
+          "source": "RTRS"
+        },
         {
           "title": "Arsenal minsko-eksplozivnih sredstava pronađen u Pridvorcima (Video)",
           "snippet": "",
@@ -120,12 +133,6 @@
           "title": "Parking u Sjevernom logoru u katastrofalnom stanju: Zaslužuje li da se plaća po satu!?",
           "snippet": "",
           "url": "https://trebinjelive.info/2025/12/29/parking-u-sjevernom-logoru-u-katastrofalnom-stanju-zasluzuje-li-da-se-placa-po-satu/",
-          "source": "Trebinje Live"
-        },
-        {
-          "title": "Паркинг у Сјеверном логору у катастрофалном стању: Заслужује ли да се плаћа по сату!?",
-          "snippet": "",
-          "url": "https://trebinjelive.info/2025/12/29/parking-u-sjevernom-logoru-u-katastrofalnom-stanju-zasluzuje-li-da-se-placa-po-satu?lang=cir",
           "source": "Trebinje Live"
         }
       ],
