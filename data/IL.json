@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-31 20:44:18",
+  "lastUpdate": "2025-12-31 20:52:04",
   "data": [
     {
       "title": "weather tomorrow",
@@ -30,6 +30,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "מנור סולומון",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 31 Dec 2025 10:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP-G5SeS9MYTd6MSsWgVGLpmXrLNOy16UFmZ3XNnp36bY3-5TwsLYE6YwsPIM",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "דיווח: מנור סולומון יעזוב את ויאריאל ויחתום בפיורנטינה",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/sport/israelisoccer/article/byr3ly7v11l",
+          "source": "ynet"
+        },
+        {
+          "title": "מועדון בשפל: מה מצפה לסולומון בפיורנטינה",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=376&docID=529621",
+          "source": "ספורט 5"
+        },
+        {
+          "title": "דיווח: מנור סולומון יעבור לפיורנטינה האיטלקית",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/sport/985678/",
+          "source": "כאן 11"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "الطقس غدًا",
       "trafficCount": "5000+",
       "pubDate": "Wed, 31 Dec 2025 10:40:00 -0800",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.elnabaa.net/1151806/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%88%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%BA%D8%AF-%D8%A7-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
           "source": "elnabaa elwatany newspaper"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "פיורנטינה",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 31 Dec 2025 10:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP-G5SeS9MYTd6MSsWgVGLpmXrLNOy16UFmZ3XNnp36bY3-5TwsLYE6YwsPIM",
-      "pictureSource": "ynet",
-      "relatedSearch": [
-        {
-          "title": "דיווח: מנור סולומון יעזוב את ויאריאל ויחתום בפיורנטינה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/sport/israelisoccer/article/byr3ly7v11l",
-          "source": "ynet"
-        },
-        {
-          "title": "מועדון בשפל: מה מצפה לסולומון בפיורנטינה",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=376&docID=529621",
-          "source": "ספורט 5"
-        },
-        {
-          "title": "דיווח: מנור סולומון יעבור לפיורנטינה האיטלקית",
-          "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/sport/985678/",
-          "source": "כאן 11"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "ספורט 5"
         },
         {
-          "title": "מכת חיסורים למכבי חיפה; ירמקוב יחזור ל-11",
-          "snippet": "",
-          "url": "https://www.one.co.il/Article/510237.html",
-          "source": "ONE"
-        },
-        {
           "title": "משהו טוב גורה: צפו ב-0:4 של מכבי חיפה באשדוד, גורה הצטיין",
           "snippet": "",
           "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1734748/",
           "source": "ספורט 1"
+        },
+        {
+          "title": "בלי סק, גולדברג ומוחמד: \"מבחן גדול למחליפים\"",
+          "snippet": "",
+          "url": "https://www.one.co.il/Article/25-26/1,1,4,53828/510331.html",
+          "source": "ONE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "Международное вещание «Первого канала» приостановлено в Казахстане",
+          "title": "Alma TV прекратила трансляцию ряда российских телеканалов",
           "snippet": "",
-          "url": "https://www.lada.kz/kazakhstan-news/147725-mezhdunarodnoe-veshchanie-pervogo-kanala-priostanovleno-v-kazakhstane.html",
-          "source": "Новости Актау и Мангистауской области"
+          "url": "https://bes.media/news/alma-tv-prekratila-translyatsiyu-ryada-rossiyskih-telekanalov-ccdf30/",
+          "source": "BES.media"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "réveillon du nouvel an",
       "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 02:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaNLPpdS4FneG45Fs1hq5yn4i__a5y2P-iBO537soJ--xrwlo0Pmy5c4U_-GI",
-      "pictureSource": "Radio France",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxbgnKC63Z3ykxNd8TkR5JHcZcOhpaA5MNKriqALZWt_eO2OY9puFpBJZyrk",
+      "pictureSource": "ladepeche.fr",
       "relatedSearch": [
         {
-          "title": "\"Fermeté et autorité\" pour le Nouvel An prévient Laurent Nuñez, ministre de l'Intérieur",
+          "title": "\"Entre 20 et 40 comas éthyliques la nuit du Nouvel An à Toulouse\" : le SAMU face à l’alcoolisation des jeunes",
           "snippet": "",
-          "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-mardi-30-decembre-2025-2804177",
-          "source": "Radio France"
-        },
-        {
-          "title": "\"Cela peut menacer la sécurité des Toulousains\" : pour le match de l’Algérie à la CAN, la préfecture interdit les rassemblements",
-          "snippet": "",
-          "url": "https://www.ladepeche.fr/2025/12/31/cela-peut-menacer-la-securite-des-toulousains-pour-le-match-de-lalgerie-a-la-can-la-prefecture-interdit-les-rassemblements-13138623.php",
+          "url": "https://www.ladepeche.fr/2025/12/31/entre-20-et-40-comas-ethyliques-la-nuit-du-nouvel-an-a-toulouse-le-samu-face-a-lalcoolisation-des-jeunes-13137126.php",
           "source": "ladepeche.fr"
         },
         {
-          "title": "Réveillon du Nouvel An : la France sous haute sécurité",
+          "title": "Réveillon du Nouvel An : les urgences toujours plus chargées en cette \"journée un peu particulière\"",
           "snippet": "",
-          "url": "https://www.franceinfo.fr/monde/nouvel-an-2026/reveillon-du-nouvel-an-la-france-sous-haute-securite_7712809.html",
-          "source": "Franceinfo"
+          "url": "https://www.rtl.fr/actu/sante/reveillon-du-nouvel-an-les-urgences-toujours-plus-chargees-en-cette-journee-un-peu-particuliere-7900583795",
+          "source": "RTL.fr"
+        },
+        {
+          "title": "Gap. Nuit de la Saint-Sylvestre : pompiers, forces de l’ordre et urgences mobilisés",
+          "snippet": "",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2025/12/31/nuit-de-la-saint-sylvestre-pompiers-forces-de-l-ordre-et-urgences-mobilises",
+          "source": "Le Dauphiné Libéré"
         }
       ],
       "link": "https://imtaqin.id/"
