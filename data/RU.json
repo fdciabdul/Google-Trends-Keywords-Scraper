@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-12-31 17:17:21",
+  "lastUpdate": "2025-12-31 17:29:37",
   "data": [
     {
       "title": "аль-холуд – аль-хиляль",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 31 Dec 2025 09:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg3Ti63iL8OJYC-2AcYqG8IZ0aRIDYJBQi56y0pV8eiEeSQqCAjym1LcIlXo0",
       "pictureSource": "legalbet.ru",
@@ -61,9 +61,15 @@
       "title": "путин",
       "trafficCount": "2000+",
       "pubDate": "Wed, 31 Dec 2025 08:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8shtXS9VfAIxSTBjl8hTd486eGR2fxDKnfsOfHVwEE7UAcTFJGcwQO1R7coQ",
-      "pictureSource": "Meduza",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw6vtD6G573nkpZRg3KBUb83FwBPweZtv_uju4Fbbf3CI9e72MHcEkj01GOYI",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Нападение не только на Путина. Как российская пропаганда реагирует на заявления об «атаке» на резиденцию президента России",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/c17zggep7p5o",
+          "source": "BBC"
+        },
         {
           "title": "Война",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1065940",
           "source": "Интерфакс"
-        },
-        {
-          "title": "Минобороны РФ настаивает: Украина атаковала резиденцию Путина",
-          "snippet": "",
-          "url": "https://www.svoboda.org/a/minoborony-rf-nastaivaet-ukraina-atakovala-rezidentsiyu-putina/33637154.html",
-          "source": "Радио Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -151,34 +151,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ляйсан утяшева",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 31 Dec 2025 08:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdGaoNVPn0X7vKN-vMfS03ZRzQC8PW0iM3nBzyTlSr6c6GnrxSZH-6Vpb0DuI",
-      "pictureSource": "1obl",
-      "relatedSearch": [
-        {
-          "title": "Преподаватель танцев из Челябинска поборется за 10 млн рублей в реалити-шоу на ТНТ",
-          "snippet": "",
-          "url": "https://www.1obl.ru/news/o-lyudyakh/prepodavatel-tantsev-iz-chelyabinska-poboretsya-za-10-mln-rubley-v-realiti-shou-na-tnt/",
-          "source": "1obl"
-        },
-        {
-          "title": "«После Челябинска ничего не страшно»: пауэрлифтер Золотова поборется за 10 млн в проекте «Выжить в Стамбуле»",
-          "snippet": "",
-          "url": "https://ura.news/news/1053054580",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Бывшая чиновница из Оренбуржья будет выживать в Стамбуле, и вы увидите это на ТВ",
-          "snippet": "",
-          "url": "https://1743.ru/news/81936",
-          "source": "1743"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "монеточка",
       "trafficCount": "100+",
       "pubDate": "Wed, 31 Dec 2025 08:50:00 -0800",
@@ -230,6 +202,34 @@
           "snippet": "",
           "url": "https://kaspyinfo.ru/news/region/111721",
           "source": "КаспийИнфо. Новости Астрахани и региона"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ляйсан утяшева",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 31 Dec 2025 08:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdGaoNVPn0X7vKN-vMfS03ZRzQC8PW0iM3nBzyTlSr6c6GnrxSZH-6Vpb0DuI",
+      "pictureSource": "1obl",
+      "relatedSearch": [
+        {
+          "title": "Преподаватель танцев из Челябинска поборется за 10 млн рублей в реалити-шоу на ТНТ",
+          "snippet": "",
+          "url": "https://www.1obl.ru/news/o-lyudyakh/prepodavatel-tantsev-iz-chelyabinska-poboretsya-za-10-mln-rubley-v-realiti-shou-na-tnt/",
+          "source": "1obl"
+        },
+        {
+          "title": "«После Челябинска ничего не страшно»: пауэрлифтер Золотова поборется за 10 млн в проекте «Выжить в Стамбуле»",
+          "snippet": "",
+          "url": "https://ura.news/news/1053054580",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Бывшая чиновница из Оренбуржья будет выживать в Стамбуле, и вы увидите это на ТВ",
+          "snippet": "",
+          "url": "https://1743.ru/news/81936",
+          "source": "1743"
         }
       ],
       "link": "https://imtaqin.id/"
