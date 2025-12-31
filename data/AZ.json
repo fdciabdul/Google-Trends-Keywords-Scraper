@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-31 19:52:44",
+  "lastUpdate": "2025-12-31 19:59:33",
   "data": [
     {
       "title": "seda sayan",
@@ -31,7 +31,7 @@
     },
     {
       "title": "murat boz",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 10:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSibZfA3a14iavS3NlxfZQsrJ30d_iwPrfA4SU_wWtX_mv-BSIsY8QfD-fds0A",
       "pictureSource": "Hürriyet",
@@ -89,9 +89,16 @@
       "title": "один дома",
       "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 06:30:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYvJX3lno7V8-eaF85BckRcJQQEtBFFM9nmy9OLZR3wNKuV9_gGTd4lZfM45Q",
+      "pictureSource": "Daily Moscow",
+      "relatedSearch": [
+        {
+          "title": "«Ирония судьбы» и «Гарри Поттер»: эксперты выяснили, без какого кино россияне не представляют Новый год",
+          "snippet": "",
+          "url": "https://dailymoscow.ru/news/ironiya-sudby-i-garri-potter-eksperty-vyyasnili-bez-kakogo-kino-rossiyane-ne-predstavlyayut-novyy-god",
+          "source": "Daily Moscow"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -135,15 +142,9 @@
       "title": "manchester united - wolverhampton",
       "trafficCount": "100+",
       "pubDate": "Tue, 30 Dec 2025 13:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlCb6DMgxV7ij9Ji8eCdssk78LsFn82rOTFK7_MXnDVW4nNoJUol7qN7ZAcoM",
-      "pictureSource": "RFI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSe2QrBaKmR4EhhveN1v-Vz6IaBnfK-DoUNYD4KK-jhjTSRlVm-mDuf3_RbQZY",
+      "pictureSource": "Haberler",
       "relatedSearch": [
-        {
-          "title": "Depleted Man Utd 'lack quality', says Amorim",
-          "snippet": "",
-          "url": "https://www.rfi.fr/en/sports/20251230-depleted-man-utd-lack-quality-says-amorim",
-          "source": "RFI"
-        },
         {
           "title": "\"Big shock for Manchester United at home.\"",
           "snippet": "",
@@ -155,6 +156,12 @@
           "snippet": "",
           "url": "https://www.independent.co.uk/sport/football/lisandro-martinez-man-united-wolves-ruben-amorim-b2892748.html",
           "source": "The Independent"
+        },
+        {
+          "title": "Depleted Man Utd 'lack quality', says Amorim",
+          "snippet": "",
+          "url": "https://www.rfi.fr/en/sports/20251230-depleted-man-utd-lack-quality-says-amorim",
+          "source": "RFI"
         }
       ],
       "link": "https://imtaqin.id/"
