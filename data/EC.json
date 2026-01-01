@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-01 17:43:36",
+  "lastUpdate": "2026-01-01 17:50:53",
   "data": [
     {
       "title": "premier league",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 1 Jan 2026 09:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1M46Fw5wV3SFWCiwqqIzqSVgbe8Aif8WeWyAZhG9YBQno_Ajm8cDZB3Z0IaQ",
       "pictureSource": "Chelsea Football Club",
@@ -31,7 +31,7 @@
     },
     {
       "title": "liverpool vs",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 1 Jan 2026 09:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDm4CHzag5Cr5Bou0AZUMglzPB5R-N38p9S2n0t6rE9g1HExCOHInJPrfUHDw",
       "pictureSource": "The Guardian",
@@ -86,46 +86,12 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "enzo maresca",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 1 Jan 2026 07:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGaXgCFdLIOc-Vl2RMef_SBSZPM_vZJ2wC7-6yOPiVk7gIJMgpqi9sqkRtaL8",
-      "pictureSource": "Primicias",
-      "relatedSearch": [
-        {
-          "title": "Oficial: El italiano Enzo Maresca deja de ser entrenador del Chelsea",
-          "snippet": "",
-          "url": "https://www.primicias.ec/deportes/futbol/enzo-maresca-salida-entrenador-chelsea-112900/",
-          "source": "Primicias"
-        },
-        {
-          "title": "Moisés Caicedo y el Chelsea empiezan 2026 sin DT",
-          "snippet": "",
-          "url": "https://www.elcomercio.com/deportes/futbol/moises-caicedo-chelsea-enzo-maresca/",
-          "source": "El Comercio"
-        },
-        {
-          "title": "Chelsea finalizó el contrato del DT Enzo Maresca tras malos resultados",
-          "snippet": "",
-          "url": "https://www.expreso.ec/deportes/chelsea-rompe-su-proyecto-con-enzo-maresca-tras-malos-resultados-269629.html",
-          "source": "expreso.ec"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "championship",
       "trafficCount": "200+",
       "pubDate": "Thu, 1 Jan 2026 05:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlRvWDu-1CrtD6Z1i1Dab6gEOhK-RUI-KiZfRGrxASzZ2TEhs0HUn-5iwYMsc",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzxVoWF-DJ2N2_tCAVh4O5NVVs-P8YfNEkLiKnP_Fd_-J0NkwF3KDsqATGGpU",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "Championship LIVE: 12 matches starting with Blackburn v Wrexham",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/live/c3e033dvgyqt?page=3",
-          "source": "BBC"
-        },
         {
           "title": "Charlton 1-1 Coventry, Derby 1-0 Middlesbrough, and more: Football League – live",
           "snippet": "",
@@ -137,6 +103,12 @@
           "snippet": "",
           "url": "https://www.efl.com/news/2026/january/01/sky-bet-championship--post-match-stat-pack/",
           "source": "The English Football League"
+        },
+        {
+          "title": "Championship LIVE: 12 matches starting with Blackburn v Wrexham",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/sport/football/live/c3e033dvgyqt?page=3",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,29 +142,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 1 Jan 2026 04:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRRnd0SZgHlW-6TyhgG78mICWAETpVgVzmGjC1j0kTv7ZUy9blJY02G_4iWlQ",
+      "pictureSource": "CBS Sports",
+      "relatedSearch": [
+        {
+          "title": "Where to watch Alabama vs. Indiana: TV channel, stream, kickoff time for 2026 Rose Bowl CFP quarterfinal",
+          "snippet": "",
+          "url": "https://www.cbssports.com/college-football/news/alabama-indiana-where-to-watch-time-date-channel-cfp-rose-bowl-2026/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Alabama vs. Indiana predictions and best bets for CFP: Can Crimson Tide upset No. 1 Hoosiers in Rose Bowl?",
+          "snippet": "",
+          "url": "https://www.al.com/alabamafootball/2026/01/alabama-vs-indiana-predictions-and-best-bets-for-cfp-can-crimson-tide-upset-no-1-hoosiers-in-rose-bowl.html",
+          "source": "AL.com"
+        },
+        {
+          "title": "Next door neighbors’ football teams face off at Rose Bowl game",
+          "snippet": "",
+          "url": "https://signalscv.com/2025/12/next-door-neighbors-football-teams-face-off-at-rose-bowl-game/",
+          "source": "Santa Clarita Valley Signal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "new year's day",
       "trafficCount": "1000+",
       "pubDate": "Wed, 31 Dec 2025 22:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAvqcc63PiFh5vIsj0M3U0y-Pxy1SakNlA80XS7E6c9VYHAIgqPTKLIOg-f9Q",
-      "pictureSource": "Fortune",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsriitT8OAtimah4P_5WbkIgB_dD2hGP5wNnBnxMT8I_b2hFeQjoVYe8fZXg",
+      "pictureSource": "WCTI",
       "relatedSearch": [
         {
-          "title": "It’s New Year’s Day 2026. What’s open and closed?",
+          "title": "One dead, one injured in New Year's Day shooting in Pitt County",
           "snippet": "",
-          "url": "https://fortune.com/2026/01/01/open-closed-new-years-day-2026-grocery-stores-retailers-restaurants-banks-wall-street/",
-          "source": "Fortune"
+          "url": "https://wcti12.com/news/local/one-dead-one-injured-in-new-years-day-shooting-in-pitt-county",
+          "source": "WCTI"
         },
         {
-          "title": "AP Trending SummaryBrief at 9:47 a.m. EST",
+          "title": "Police investigate death in downtown Albuquerque",
           "snippet": "",
-          "url": "https://www.starbeacon.com/region/ap-trending-summarybrief-at-9-47-a-m-est/article_d0ca2648-2cbc-5f7a-803f-6f86d1158196.html",
-          "source": "Star Beacon"
+          "url": "https://www.koat.com/article/police-investigation-downtown-albuquerque-7th-gold/69897028",
+          "source": "KOAT"
         },
         {
-          "title": "Happy New Year! See which retail, grocery stores are open in Louisville",
+          "title": "New Year’s Day Shooting Leaves One Dead in Downtown Albuquerque",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/happy-see-retail-grocery-stores-100311149.html",
-          "source": "Yahoo"
+          "url": "https://abqraw.com/post/new-years-day-shooting-leaves-one-dead-in-downtown-albuquerque/",
+          "source": "ABQ RAW"
         }
       ],
       "link": "https://imtaqin.id/"
