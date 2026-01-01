@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-01 09:29:31",
+  "lastUpdate": "2026-01-01 09:41:24",
   "data": [
+    {
+      "title": "bbc news",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 1 Jan 2026 01:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWe7Dsi_EfFXjYX0ICL4qL_KEfU-M3FHy_SVYINS5zJklbRnYbGI8gw8yLgnw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "UK welcomes new year with celebrations across the country",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cy594gkele3o",
+          "source": "BBC"
+        },
+        {
+          "title": "New Year's Eve live: New year fireworks in London, Paris and Rio as crowds gather in New York",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/live/cn8ee2zxjxnt",
+          "source": "BBC"
+        },
+        {
+          "title": "New Year’s Eve revellers wake up to sore heads after ringing in 2026 in style with raucous nights on the town across UK",
+          "snippet": "",
+          "url": "https://www.thesun.co.uk/news/37773607/new-years-eve-revellers-brave-freezing-uk/",
+          "source": "The Sun"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "crans montana",
       "trafficCount": "100+",
@@ -21,7 +49,7 @@
           "source": "Police cantonale valaisanne"
         },
         {
-          "title": "Un violent incendie a ravagé un bar de Crans-Montana, faisant de nombreuses victimes",
+          "title": "Plusieurs dizaines de personnes ont été tuées dans l’incendie qui a ravagé un bar à Crans-Montana",
           "snippet": "",
           "url": "https://www.rts.ch/info/regions/valais/2026/minute-par-minute/29104815.html",
           "source": "rts.ch"
@@ -59,7 +87,7 @@
     },
     {
       "title": "rte news",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 1 Jan 2026 00:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_ZomK5GBmWkBqCXjCZN4uZLqyZcwGTLfE01P1ucij0kWNAbgL0OmtBQ-J94",
       "pictureSource": "RTE.ie",
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.independent.ie/business/national-defence-identified-as-a-threat-to-business-in-new-year/a1964560227.html",
           "source": "The Irish Independent"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "news",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 1 Jan 2026 00:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEB3h7sL1mkYnIztWq4ElRHaSZ1WsrdzNgJXr-eNte-BKwNxTBcdhZvnsFOY",
-      "pictureSource": "laois-nationalist.ie",
-      "relatedSearch": [
-        {
-          "title": "Laois Death Notice: Liam McArdle, Stradbally",
-          "snippet": "",
-          "url": "https://www.laois-nationalist.ie/news/laois-death-notice-liam-mcardle-stradbally_arid-82590.html",
-          "source": "laois-nationalist.ie"
-        },
-        {
-          "title": "Range of social welfare and tax changes begin",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/business/2026/0101/1551067-social-welfare-tax-changes/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "More than 1.5m to receive average of €520 this year from social welfare increases",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/politics/2026/01/01/more-than-15m-to-receive-average-of-520-this-year-from-social-welfare-increases/",
-          "source": "The Irish Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "RTE.ie"
         },
         {
-          "title": "Switzerland latest: At least 10 killed in New Year's Eve fire at Swiss ski resort bar",
+          "title": "Switzerland resort explosion latest news: many feared dead after blast at ski town of Crans-Montana",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2026/jan/01/switzerland-resort-explosion-dead-blast-ski-town-crans-montana-latest-news-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Switzerland latest: Several dozen people feared dead and around 100 injured in Swiss ski resort fire",
           "snippet": "",
           "url": "https://news.sky.com/story/switzerland-latest-several-killed-after-explosion-at-swiss-ski-resort-bar-reports-13489063",
           "source": "Sky News"
-        },
-        {
-          "title": "‘Many dead and injured’ in blast at bar in Swiss ski resort of Crans-Montana",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/jan/01/several-dead-and-injured-in-explosion-swiss-ski-resort-town-crans-montana-police-say",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "ABC7 New York"
         },
         {
+          "title": "Here's who’s performing in Times Square for New Year’s Eve l LIVE coverage",
+          "snippet": "",
+          "url": "https://www.fox5ny.com/news/times-square-performers-new-years-eve-2026",
+          "source": "FOX 5 New York"
+        },
+        {
           "title": "Tonight’s Ball Drop Is a Celebration of Both the New Year and Times History",
           "snippet": "",
           "url": "https://www.nytimes.com/2025/12/31/nyregion/new-year-ball-drop-new-york-times-square.html",
           "source": "The New York Times"
-        },
-        {
-          "title": "Meet the balloon king behind the New Year's Eve confetti in Times Square",
-          "snippet": "",
-          "url": "https://www.nbcnewyork.com/news/local/new-years-eve-confetti-times-square-treb-heining/6437494/",
-          "source": "NBC New York"
         }
       ],
       "link": "https://imtaqin.id/"
