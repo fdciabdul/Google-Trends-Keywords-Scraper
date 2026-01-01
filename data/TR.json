@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-01 05:17:57",
+  "lastUpdate": "2026-01-01 05:33:09",
   "data": [
     {
-      "title": "yol durumu",
+      "title": "a haber canlı",
       "trafficCount": "500+",
+      "pubDate": "Wed, 31 Dec 2025 21:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXdow4MzReFvtPQ6vuHWILWvb4w3cVGcG6W-yXGS0gTuQky_9EEO_zEpAxAMc",
+      "pictureSource": "Show TV",
+      "relatedSearch": [
+        {
+          "title": "İstanbul trafiğine kar da eklendi.",
+          "snippet": "",
+          "url": "https://www.showtv.com.tr/show-ozel-haber/yollar-buz-pistine-dondu-898907",
+          "source": "Show TV"
+        },
+        {
+          "title": "İstanbul’da Kar Yağacak İlçeler Açıklandı! Valilik Yoğun Kar Yağışı İçin Saat Verdi",
+          "snippet": "",
+          "url": "https://onedio.com/haber/istanbul-da-kar-yagacak-ilceler-aciklandi-valilik-yogun-kar-yagisi-icin-saat-verdi-1334684",
+          "source": "Onedio"
+        },
+        {
+          "title": "Valilik ve AKOM bugün için saat verdi. Kar yeniden başlayacak",
+          "snippet": "",
+          "url": "https://www.ntv.com.tr/galeri/turkiye/valilik-ve-akom-bugun-icin-saat-verdi-kar-yeniden-baslayacak-1705526",
+          "source": "NTV Haber"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "yol durumu",
+      "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 21:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJ-iD7yAjGgnjI4EuzZKVi3XVtaSeh-dq2SuXmWEYHa7FUTLwyGxhwM41vXQ",
       "pictureSource": "Diyarbakır Büyükşehir Belediyesi",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "adana namaz vakitleri",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 31 Dec 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqfjQH0w16c4QD1RNjOPVQPGaEsUjYPhSZrXJxRLaO4Gf4s_YvVUnl9UOVxWQ",
-      "pictureSource": "Bursa Hayat Gazetesi",
-      "relatedSearch": [
-        {
-          "title": "Balıkesir’de akşam ezanı kaçta okunacak? | 1 Ocak 2026 Perşembe",
-          "snippet": "",
-          "url": "https://www.bursahayat.com.tr/gundem/balikesir-de-aksam-ezani-kacta-okunacak-1-ocak-2026-persembe-719201",
-          "source": "Bursa Hayat Gazetesi"
-        },
-        {
-          "title": "1 Ocak 2026 Mersin namaz vakitleri: Sabah, öğle, ikindi, akşam ve yatsı ezanı saat kaçta?",
-          "snippet": "",
-          "url": "https://www.ilkhaber-gazetesi.com/yerel/1-ocak-2026-mersin-namaz-vakitleri-sabah-ogle-ikindi-aksam-ve-yatsi-ezani-saat-kacta-368645",
-          "source": "İLKHABER-Gazetesi"
-        },
-        {
-          "title": "1 Ocak 2026 Perşembe Adana namaz vakitleri: Sabah, öğle, ikindi, akşam ve yatsı ezanı saat kaçta okunacak?",
-          "snippet": "",
-          "url": "https://www.ilkhaber-gazetesi.com/yerel/1-ocak-2026-persembe-adana-namaz-vakitleri-sabah-ogle-ikindi-aksam-ve-yatsi-ezani-saat-kacta-okunacak-368641",
-          "source": "İLKHABER-Gazetesi"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ağrı hava durumu",
       "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 20:40:00 -0800",
@@ -137,6 +137,34 @@
           "snippet": "",
           "url": "https://www.diken.com.tr/22-ilde-egitime-bir-gun-daha-ara-verildi/",
           "source": "Diken"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "adana namaz vakitleri",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 31 Dec 2025 20:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqfjQH0w16c4QD1RNjOPVQPGaEsUjYPhSZrXJxRLaO4Gf4s_YvVUnl9UOVxWQ",
+      "pictureSource": "Bursa Hayat Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Balıkesir’de akşam ezanı kaçta okunacak? | 1 Ocak 2026 Perşembe",
+          "snippet": "",
+          "url": "https://www.bursahayat.com.tr/gundem/balikesir-de-aksam-ezani-kacta-okunacak-1-ocak-2026-persembe-719201",
+          "source": "Bursa Hayat Gazetesi"
+        },
+        {
+          "title": "1 Ocak 2026 Mersin namaz vakitleri: Sabah, öğle, ikindi, akşam ve yatsı ezanı saat kaçta?",
+          "snippet": "",
+          "url": "https://www.ilkhaber-gazetesi.com/yerel/1-ocak-2026-mersin-namaz-vakitleri-sabah-ogle-ikindi-aksam-ve-yatsi-ezani-saat-kacta-368645",
+          "source": "İLKHABER-Gazetesi"
+        },
+        {
+          "title": "1 Ocak 2026 Perşembe Adana namaz vakitleri: Sabah, öğle, ikindi, akşam ve yatsı ezanı saat kaçta okunacak?",
+          "snippet": "",
+          "url": "https://www.ilkhaber-gazetesi.com/yerel/1-ocak-2026-persembe-adana-namaz-vakitleri-sabah-ogle-ikindi-aksam-ve-yatsi-ezani-saat-kacta-okunacak-368641",
+          "source": "İLKHABER-Gazetesi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,17 +198,64 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "thunder - trail blazers",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 31 Dec 2025 20:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpF25lepNdDoC0ES5jWCToQ-AOCuCA4OMOfvAfELcXB8xhSgZOFYGkmgh_COw",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Thunder 124-95 Trail Blazers (Dec 31, 2025) Game Recap",
+          "snippet": "",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401810325",
+          "source": "ESPN"
+        },
+        {
+          "title": "What channel is Thunder vs Trail Blazers on TV tonight? Time, NBA schedule",
+          "snippet": "",
+          "url": "https://www.oklahoman.com/story/sports/nba/thunder/2025/12/31/thunder-trail-blazers-channel-tonight-nba-games-live-time-tv-schedule-streaming/87968954007/",
+          "source": "The Oklahoman"
+        },
+        {
+          "title": "Second Half Discussion: Blazers vs. Thunder",
+          "snippet": "",
+          "url": "https://www.blazersedge.com/gameday-coverage/107197/2nd-half-discussion-portland-trail-blazers-vs-oklahoma-city-thunder-injuries",
+          "source": "Blazer's Edge"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bodrum hava durumu",
       "trafficCount": "100+",
       "pubDate": "Wed, 31 Dec 2025 20:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRza0J3_5fZbtK1_yOGYTELtm9nUACqgD-LXZMn6BxrpENI67JZ6oQJAvep37c",
+      "pictureSource": "Kıbrıs Postası",
+      "relatedSearch": [
+        {
+          "title": "Bu akşamdan itibaren gök gürültülü sağanak bekleniyor",
+          "snippet": "",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n587208-bu-aksamdan-itibaren-gok-gurultulu-saganak-bekleniyor",
+          "source": "Kıbrıs Postası"
+        },
+        {
+          "title": "Meteorolojiden ikisi sarı kodlu 29 ile yağış uyarısı",
+          "snippet": "",
+          "url": "https://www.diken.com.tr/meteorolojiden-ikisi-sari-kodlu-29-ile-yagis-uyarisi/",
+          "source": "Diken"
+        },
+        {
+          "title": "Aydın ve Muğla için kuvvetli ve gök gürültülü sağanak uyarısı",
+          "snippet": "",
+          "url": "https://www.trthaber.com/haber/turkiye/aydin-ve-mugla-icin-kuvvetli-ve-gok-gurultulu-saganak-uyarisi-929970.html",
+          "source": "TRT Haber"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "yalova hava durumu",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 20:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg3zxrl65_i5ZeMAW4h9zbQBJLGvz3haPwWENO8Rs8k_SQZZtQZmwLwjpXT5c",
       "pictureSource": "Yalova Gazetesi",
@@ -204,43 +279,6 @@
           "source": "Akdeniz Gerçek Gazetesi"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "galata köprüsü",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 31 Dec 2025 20:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1tA6Je7b8pmTInDyyBA_pbKC1_95TIEtS4VvrWmDjDZ2D14iGjLZfOXYWsQw",
-      "pictureSource": "Hürriyet",
-      "relatedSearch": [
-        {
-          "title": "Son dakika... Türkiye Gazze için yürüyor! Sabahın erken saatlerde yoğun katılım",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/gundem/live-son-dakika-turkiye-gazze-icin-yuruyor-sabahin-erken-saatlerde-yogun-katilim-43074066",
-          "source": "Hürriyet"
-        },
-        {
-          "title": "İstanbul’da Filistin’e destek yürüyüşü: Vatandaşlar Galata Köprüsü’nde buluşuyor",
-          "snippet": "",
-          "url": "https://www.trthaber.com/haber/turkiye/istanbulda-filistine-destek-yuruyusu-vatandaslar-galata-koprusunde-bulusuyor-930249.html",
-          "source": "TRT Haber"
-        },
-        {
-          "title": "2026’da vicdan ve fıtrat kazansın!..",
-          "snippet": "",
-          "url": "https://www.yenisafak.com/yazarlar/ali-saydam/2026da-vicdan-ve-fitrat-kazansin-4783973",
-          "source": "Yeni Şafak"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bursa namaz vakitleri",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 31 Dec 2025 20:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

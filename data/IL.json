@@ -1,23 +1,17 @@
 {
-  "lastUpdate": "2026-01-01 05:17:34",
+  "lastUpdate": "2026-01-01 05:32:49",
   "data": [
     {
       "title": "מזג אוויר",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Wed, 31 Dec 2025 20:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBBQ2oCB-l2zzR2YbSe5tmCEdMZnBVMQeaB9XD4DB-6ELFrBVJ4xe1fyoGxYU",
-      "pictureSource": "ynet",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrg9BgIMM74lgoT9qPfRvx2iYNsEVTs7eKdCwVCS8bvQeOUhoq9gyo1AJ4ts",
+      "pictureSource": "Mako",
       "relatedSearch": [
         {
-          "title": "עשרות מ\"מ של גשם והצפות כבר משעות הבוקר: התחזית ליום הראשון של 2026",
+          "title": "גשם, סופות רעמים ושלג בחרמון: החורף בשיאו",
           "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/by2jmgqnbe",
-          "source": "ynet"
-        },
-        {
-          "title": "השנה האזרחית תיפתח בסערה: גשמים בהפוגות ירדו בצפון הארץ ובמרכזה",
-          "snippet": "",
-          "url": "https://www.mako.co.il/news-weather/2025_q4/Article-5477113df257b91027.htm",
+          "url": "https://www.mako.co.il/hix-nature/Article-2aa60674bc47b91026.htm",
           "source": "Mako"
         },
         {
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.haaretz.co.il/news/weather/2025-12-31/ty-article/0000019b-74b9-da0b-a1bf-fcb91a790000",
           "source": "הארץ"
+        },
+        {
+          "title": "עשרות מ\"מ של גשם והצפות כבר משעות הבוקר: התחזית ליום הראשון של 2026",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/by2jmgqnbe",
+          "source": "ynet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +59,7 @@
     },
     {
       "title": "weather",
-      "trafficCount": "2000+",
+      "trafficCount": "10000+",
       "pubDate": "Wed, 31 Dec 2025 20:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmUvXvt0Woodz8gZBjlW-SmSaCuJza8X8pld5uOLrJmlEEHOvYz4ROH7UONpk",
       "pictureSource": "NDTV",
@@ -71,44 +71,16 @@
           "source": "NDTV"
         },
         {
-          "title": "What’s the weather today? Forecast for Mumbai, Delhi, Chennai and key cities",
+          "title": "Delhi rings in New Year with chilly weather, ‘very poor’ air; light rain likely",
           "snippet": "",
-          "url": "https://english.mathrubhumi.com/news/india/whats-the-weather-today-forecast-for-mumbai-delhi-chennai-and-key-metros-qcznyhi1",
-          "source": "Mathrubhumi English"
+          "url": "https://www.tribuneindia.com/news/delhi/delhi-rings-in-new-year-with-chilly-weather-very-poor-air-light-rain-likely/",
+          "source": "Tribune India"
         },
         {
-          "title": "News Live: Light rain brings down pollution level in Mumbai",
+          "title": "Mumbai rings in 2026 with light rain, pollution levels dip",
           "snippet": "",
-          "url": "https://www.moneycontrol.com/news/india/breaking-news-live-updates-delhi-cold-new-year-pm-modi-bjp-january-1-liveblog-13751910.html",
-          "source": "Moneycontrol"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الطقس",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 31 Dec 2025 20:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoCr-hH3uvCGgUIbeSm5t2JS9bRTTFfS9m7EY8m2eaXMyn7TjeRk_muFUuagk",
-      "pictureSource": "وكـالـة مـعـا الاخـبـارية",
-      "relatedSearch": [
-        {
-          "title": "الطقس: فرصة ضعيفة لسقوط أمطار محلية في بعض المناطق الشمالية",
-          "snippet": "",
-          "url": "https://www.maannews.net/news/2153441.html",
-          "source": "وكـالـة مـعـا الاخـبـارية"
-        },
-        {
-          "title": "الدفاع المدني يحذر من منخفض جوي يستمر 24 ساعة",
-          "snippet": "",
-          "url": "https://arn.ps/post/299662.html",
-          "source": "شبكة أجيال"
-        },
-        {
-          "title": "الثالث هذا الأسبوع.. الراصد الجوي: منخفض جوي جديد غدًا",
-          "snippet": "",
-          "url": "https://safa.ps/post/399790/%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%B1%D8%A7%D8%B5%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%BA%D8%AF-%D8%A7",
-          "source": "وكالة الصحافة الفلسطينية - صفا"
+          "url": "https://www.indiatoday.in/cities/story/mumbai-unseasonal-rain-pollution-dip-pleasant-weather-2844952-2026-01-01",
+          "source": "India Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +133,10 @@
           "source": "Deadline"
         },
         {
-          "title": "Stranger Things 5 Finale Ending Explained: What Happens to the Hawkins Crew?",
+          "title": "How ‘Stranger Things’ Ended After 5 Seasons",
           "snippet": "",
-          "url": "https://www.netflix.com/tudum/articles/stranger-things-5-episode-8-ending-explained",
-          "source": "Netflix"
+          "url": "https://www.thewrap.com/creative-content/what-to-watch/stranger-things-season-5-episode-8-finale-recap-who-died/",
+          "source": "TheWrap"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://menafn.com/arabic/1110544531/%D8%A7%D8%B5%D8%A7%D8%A8%D8%A9-15-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A8%D9%85%D8%B7%D8%B9%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
           "source": "Menafn.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "new year's day",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 31 Dec 2025 14:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUqDHjzV4I_JAwQaGRsn0shkDO7kaCW8tHwndvo7QFAOyfM8lTHGVvkJl3Nms",
+      "pictureSource": "TODAY.com",
+      "relatedSearch": [
+        {
+          "title": "Walmart New Year's Day Hours 2026, Plus New Year's Eve Hours",
+          "snippet": "",
+          "url": "https://www.today.com/life/holidays/walmart-new-years-hours-2026-rcna249885",
+          "source": "TODAY.com"
+        },
+        {
+          "title": "Banks and the stock market are closed on New Year’s Day but you can still shop",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/bulletin/lifestyle/stores-open-new-years-target-banks-b2892860.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Are CVS, Walgreens open New Year's Day? What to know about pharmacies",
+          "snippet": "",
+          "url": "https://uk.news.yahoo.com/cvs-walgreens-open-years-day-200138651.html",
+          "source": "Yahoo News UK"
         }
       ],
       "link": "https://imtaqin.id/"
