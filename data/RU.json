@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2026-01-01 07:25:16",
+  "lastUpdate": "2026-01-01 07:36:19",
   "data": [
+    {
+      "title": "новости",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 31 Dec 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi13wC8yP-tsNXK0hxPsB4Zj20X6IR-PaXSxf8SPtaPl2fzPkNdSUModgTMWw",
+      "pictureSource": "Белсат",
+      "relatedSearch": [
+        {
+          "title": "России понадобится еще 17 месяцев и 256 тысяч жизней, чтобы захватить Донбасс текущими темпами",
+          "snippet": "",
+          "url": "https://ru.belsat.eu/90783433/skolko-nuzhno-na-zahvat-donbassa",
+          "source": "Белсат"
+        },
+        {
+          "title": "Новости СВО на утро 1 января: в США заявили, что Донбасс падет быстрее, чем ожидалось, 20 километров до Сум и бои под Бурлуком",
+          "snippet": "",
+          "url": "https://bloknot-kamyshin.ru/news/novosti-svo-na-utro-1-yanvarya-v-ssha-zayavili-cht-1935780",
+          "source": "Блокнот Камышин"
+        },
+        {
+          "title": "NYT: России потребуется до 20 месяцев для захвата всего Донбасса",
+          "snippet": "",
+          "url": "https://minval.az/news/124508615",
+          "source": "Minval Politika"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости воронеж",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 31 Dec 2025 23:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTjQVvevkZ9cAzZHOBVwlx2_h_D2TQgfQyeJ9K8VwjrDMRR7lOfRB89B3skUo",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Два БПЛА уничтожены над Воронежской областью",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1065970",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Ракетную опасность объявили в Воронеже перед Новым годом",
+          "snippet": "",
+          "url": "https://moe-online.ru/news/incidents/1246382",
+          "source": "МОЁ! Online. Все новости Воронежа"
+        },
+        {
+          "title": "Воронежцев эвакуировали с катка и площади Ленина из-за ракетной опасности",
+          "snippet": "",
+          "url": "https://tv-gubernia.ru/novosti/obwestvo/voronezhczev-evakuirovali-s-katka-i-ploshhadi-lenina-iz-za-raketnoj-opasnosti/",
+          "source": "TV Губерния"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "какие магазины работают 1 января",
       "trafficCount": "2000+",
@@ -58,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "фильмы 2025",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 31 Dec 2025 22:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_OuEn7zIfF3qTjtWHJroYZm54CD0pY8hkeYvaofEKKUa0O-kE9q-VYgvY_RQ",
-      "pictureSource": "Meduza",
-      "relatedSearch": [
-        {
-          "title": "Что нельзя было пропустить в 2025 году. Лучшие фильмы, книги, альбомы, сериалы и игры",
-          "snippet": "",
-          "url": "https://meduza.io/slides/chto-nelzya-bylo-propustit-v-2025-godu-luchshie-filmy-knigi-albomy-serialy-i-igry",
-          "source": "Meduza"
-        },
-        {
-          "title": "«Битва за битвой», «Бугония» и «Франкенштейн»: лучшие фильмы 2025 года",
-          "snippet": "",
-          "url": "https://www.forbes.ru/forbeslife/552650-bitva-za-bitvoj-bugonia-i-frankenstejn-lucsie-fil-my-2025-goda",
-          "source": "Forbes.ru"
-        },
-        {
-          "title": "Пророки и грешники: Лучшие фильмы 2025 года",
-          "snippet": "",
-          "url": "https://www.kino-teatr.ru/blog/y2025/12-31/2204/",
-          "source": "Кино-Театр.Ру"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "погода в сочи",
       "trafficCount": "100+",
       "pubDate": "Wed, 31 Dec 2025 22:50:00 -0800",
@@ -109,6 +137,34 @@
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1065949",
           "source": "Интерфакс"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "фильмы 2025",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 31 Dec 2025 22:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_OuEn7zIfF3qTjtWHJroYZm54CD0pY8hkeYvaofEKKUa0O-kE9q-VYgvY_RQ",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Что нельзя было пропустить в 2025 году. Лучшие фильмы, книги, альбомы, сериалы и игры",
+          "snippet": "",
+          "url": "https://meduza.io/slides/chto-nelzya-bylo-propustit-v-2025-godu-luchshie-filmy-knigi-albomy-serialy-i-igry",
+          "source": "Meduza"
+        },
+        {
+          "title": "«Битва за битвой», «Бугония» и «Франкенштейн»: лучшие фильмы 2025 года",
+          "snippet": "",
+          "url": "https://www.forbes.ru/forbeslife/552650-bitva-za-bitvoj-bugonia-i-frankenstejn-lucsie-fil-my-2025-goda",
+          "source": "Forbes.ru"
+        },
+        {
+          "title": "Пророки и грешники: Лучшие фильмы 2025 года",
+          "snippet": "",
+          "url": "https://www.kino-teatr.ru/blog/y2025/12-31/2204/",
+          "source": "Кино-Театр.Ру"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,28 +199,28 @@
     },
     {
       "title": "новости россии сегодня",
-      "trafficCount": "10000+",
+      "trafficCount": "100+",
       "pubDate": "Wed, 31 Dec 2025 22:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTh6hvtmr7RX0L9m8qKJbEh63QoFC-ahl6wMHVaf5RuRQIHuV8mixV3M1GhjFY",
-      "pictureSource": "Интерфакс",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlGbaVzs4_dadido434CSHO4flQFaMCWahiQHxKce8ng5KO5DPwkvtlYbrbUk",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Лукашенко и Путин обсудили атаку украинских БПЛА на резиденцию президента РФ",
+          "title": "Война в Украине: в новогоднюю ночь Россия выпустила по Украине ударные беспилотники; разведки США считают, что Киев не атаковал резиденцию Путина дронами, пишет WSJ",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1065972",
+          "url": "https://www.bbc.com/russian/live/c30j0v215vmt",
+          "source": "BBC"
+        },
+        {
+          "title": "В новогоднюю ночь россияне атаковали более 200 ударными дронами: есть попадания на 15 локациях",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2026/01/01/8014220/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Что случилось этой ночью: среда, 31 декабря",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1065920",
           "source": "Интерфакс"
-        },
-        {
-          "title": "Война",
-          "snippet": "",
-          "url": "https://meduza.io/feature/2025/12/31/voyna",
-          "source": "Meduza"
-        },
-        {
-          "title": "Минобороны показало карту атаки беспилотников на резиденцию Путина на Валдае",
-          "snippet": "",
-          "url": "https://www.forbes.ru/society/553231-minoborony-pokazalo-kartu-ataki-bespilotnikov-na-rezidenciu-putina-na-valdae",
-          "source": "Forbes.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +239,16 @@
           "source": "Интерфакс"
         },
         {
+          "title": "Атака на Херсонскую область: 24 человека погибли, пострадали более 50 жителей",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/articles/2026/01/01/1167711-ataka-na-hersonskuyu",
+          "source": "Ведомости"
+        },
+        {
           "title": "Сальдо: 24 человека погибли при ударе БПЛА в Херсонской области",
           "snippet": "",
           "url": "https://www.fontanka.ru/2026/01/01/76203546/",
           "source": "ФОНТАНКА.ру"
-        },
-        {
-          "title": "ВСУ сожгли россиян, когда те отмечали Новый год в Херсонской области",
-          "snippet": "",
-          "url": "https://ura.news/news/1053055132",
-          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,9 +267,9 @@
           "source": "Sportbox"
         },
         {
-          "title": "«Тур де Ски»: Кубок мира по лыжным гонкам, Тоблах, женщины, гонка преследования (старт-лист)",
+          "title": "«Тур де Ски»: Кубок мира по лыжным гонкам, Тоблах, мужчины, гонка преследования (старт-лист)",
           "snippet": "",
-          "url": "https://rusbiathlon.ru/results/ski/id233315/",
+          "url": "https://rusbiathlon.ru/results/ski/id233314/",
           "source": "Rusbiathlon"
         },
         {
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://matchtv.ru/skiing/matchtvnews_NI2282655_Panzhinskij_Korostelev_v_massstarte_sam_seba_lishil_borby_za_vysokije_pozicii_64je_mesto_ne_sootvetstvujet_jego_urovnu",
           "source": "Матч ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кино",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 31 Dec 2025 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYDTrvgCLh8cI0_WFNRFtgqs24Xt0KL95w805sxNd7gUU9brFD_kVK2M3MX1o",
-      "pictureSource": "Кино Mail",
-      "relatedSearch": [
-        {
-          "title": "ВЦИОМ: советские фильмы создают новогоднее настроение большинству россиян",
-          "snippet": "",
-          "url": "https://kino.mail.ru/news/111926-vtsiom-sovetskie-filmyi-sozdayut-novogodnee-nastroenie-bolshinstvu-rossiyan/",
-          "source": "Кино Mail"
-        },
-        {
-          "title": "Что посмотреть в зимний вечер жителям Приморья? — ТОП-10 фильмов про Новый год",
-          "snippet": "",
-          "url": "https://vostokmedia.com/news/2026-01-01/chto-posmotret-v-zimniy-vecher-zhitelyam-primorya-top-10-filmov-pro-novyy-god-5532261",
-          "source": "Восток-Медиа"
-        },
-        {
-          "title": "В финале – чудеса: фильмы, которые можно посмотреть в новогодние праздники",
-          "snippet": "",
-          "url": "https://www.ap22.ru/paper/V-finale-chudesa.html",
-          "source": "www.ap22.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "спортлото",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 31 Dec 2025 21:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI2uGCxO-4Re7-gF7GXJcO6Xa5MH3zbEj0eEj6n1BCb0qy6fnfLabxi-WEPyw",
-      "pictureSource": "Столото",
-      "relatedSearch": [
-        {
-          "title": "Минимальные выигрыши х30 в «Спортлото «5 из 36» с 29 декабря - Лотерейные новости",
-          "snippet": "",
-          "url": "https://m.stoloto.ru/news/5820847269",
-          "source": "Столото"
-        },
-        {
-          "title": "В Москве ищут нового миллионера: почти 6 млн рублей выиграл россиянин в лотерею, 29.12.2025",
-          "snippet": "",
-          "url": "https://media.stoloto.ru/article/novyj-millioner-moskvic-vyigral-pocti-6-millionov-rublej-v-sportloto-5-iz-36-s-odnogo-bileta",
-          "source": "Столото"
-        },
-        {
-          "title": "Лариса Долина выиграла 3 миллиарда рублей в новогоднюю лотерею",
-          "snippet": "",
-          "url": "https://panorama.pub/news/larisa-dolina-vyigrala-3-milliarda",
-          "source": "ИА Панорама"
         }
       ],
       "link": "https://imtaqin.id/"
