@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-01 08:54:35",
+  "lastUpdate": "2026-01-01 09:03:39",
   "data": [
     {
       "title": "nrs",
@@ -31,7 +31,7 @@
     },
     {
       "title": "liverpool vs leeds united",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 22:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb-c-raWH8zzQShI6JjabaEZu4eQRC3tzQrmF9BCFNl3Cs0-xC3cxYrPnovY0",
       "pictureSource": "Sky Sports",
@@ -89,20 +89,20 @@
       "title": "godiya akwashiki",
       "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 22:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqe9_iQOtVkusLx4iusWuHu-Kw7lXOlUKYWL9Hmab-8cZ3AbdMNkOtT9Uzjo",
-      "pictureSource": "Vanguard News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuELkcIHUv1jXAPiExCwweOTHQZCYk3bgRctmqDLgdDnDo-ZwShXh7NLdqIqI",
+      "pictureSource": "Premium Times Nigeria",
       "relatedSearch": [
+        {
+          "title": "Nigerian senator dies in India",
+          "snippet": "",
+          "url": "https://www.premiumtimesng.com/news/headlines/846913-nigerian-senator-dies-in-india.html",
+          "source": "Premium Times Nigeria"
+        },
         {
           "title": "Senator Godiya Akwashiki dies in Indian hospital at 52",
           "snippet": "",
           "url": "https://www.vanguardngr.com/2026/01/senator-godiya-akwashiki-dies-in-indian-hospital-at-52/",
           "source": "Vanguard News"
-        },
-        {
-          "title": "JUST IN: Nigerian senator dies on New Year’s Eve",
-          "snippet": "",
-          "url": "https://tribuneonlineng.com/just-in-nigerian-senator-dies-on-new-years-eve/",
-          "source": "Tribune Online"
         },
         {
           "title": "An yi babban rashi: Sanata mai wakiltar Nasarawa ta Arewa ya rasu a kasar Indiya",
@@ -170,6 +170,28 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bbc hausa.com",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 31 Dec 2025 21:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2N1eSuFYGNkvjLQWyEvi42RNhwYdIkeBECNkKlYhbd0hZ47P9ErSYYnzMyfw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Abubuwan da ke faruwa a Najeriya da sauran sassan duniya 30/12/2025.",
+          "snippet": "",
+          "url": "https://www.bbc.com/hausa/live/c4g9gvzvk51t",
+          "source": "BBC"
+        },
+        {
+          "title": "Abubuwan da ke faruwa a Najeriya da sauran sassan duniya 29/12/2025.",
+          "snippet": "",
+          "url": "https://www.bbc.com/hausa/live/clydy3r62mkt",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bbc",
       "trafficCount": "200+",
       "pubDate": "Wed, 31 Dec 2025 21:20:00 -0800",
@@ -199,7 +221,35 @@
     },
     {
       "title": "bbc hausa",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 31 Dec 2025 21:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwYY8m_J9h8Szj11wVc3nSMq97E262LtYsWwenRPSZcZg3vjdelX6j-wUIb9g",
+      "pictureSource": "Evrim Ağacı",
+      "relatedSearch": [
+        {
+          "title": "Kano State Politics Shaken As Governor Yusuf Eyes APC",
+          "snippet": "",
+          "url": "https://evrimagaci.org/gpt/kano-state-politics-shaken-as-governor-yusuf-eyes-apc-522095",
+          "source": "Evrim Ağacı"
+        },
+        {
+          "title": "Ganduje anticipates Yusuf’s defection as Kwankwaso rallies lawmakers",
+          "snippet": "",
+          "url": "https://guardian.ng/politics/ganduje-anticipates-yusufs-defection-as-kwankwaso-rallies-lawmakers/",
+          "source": "The Guardian Nigeria News"
+        },
+        {
+          "title": "Abdullahi Abiya Emerges NNPP Kano Chairman Amid Leadership Shake-up",
+          "snippet": "",
+          "url": "https://aljazirahnews.com/abdullahi-abiya-emerges-nnpp-kano-chairman-amid-leadership-shake-up/",
+          "source": "Aljazirah Nigeria Newspaper"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbchausa",
+      "trafficCount": "5000+",
       "pubDate": "Wed, 31 Dec 2025 21:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCXTov1ZTqjFIeYylxA7e0yFfANuH6FdNJUh4AtGBrEs1i8uUm_avQVqFGDMg",
       "pictureSource": "The Guardian Nigeria News",
@@ -221,62 +271,6 @@
           "snippet": "",
           "url": "https://www.thecable.ng/abaribe-resigns-from-apga-joins-adc-after-obis-defection/",
           "source": "TheCable"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "www.bbc hausa.com",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 31 Dec 2025 21:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOL6buvqGfcLKF-i0xJzhfSrL2TVXMBEQeuIB5IDNiTNTKYjSNgrQlxChsUGg",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Yadda mutuwar sojojin Rasha ke ƙaruwa a yaƙin Ukraine",
-          "snippet": "",
-          "url": "https://www.bbc.com/hausa/articles/c62d2233qexo",
-          "source": "BBC"
-        },
-        {
-          "title": "Abubuwan da ke faruwa a Najeriya da sauran sassan duniya 30/12/2025.",
-          "snippet": "",
-          "url": "https://www.bbc.com/hausa/live/c4g9gvzvk51t",
-          "source": "BBC"
-        },
-        {
-          "title": "Abubuwan da ke faruwa a Najeriya da sauran sassan duniya 29/12/2025.",
-          "snippet": "",
-          "url": "https://www.bbc.com/hausa/live/clydy3r62mkt",
-          "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "new york time",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 31 Dec 2025 20:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC3nS_SywQYifWNCP10d56c75OoZ0JbbaSVqwVPfcdBSAVBDldDIk4lID5Dmk",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/videos/c4glvg5yrlyo",
-          "source": "BBC"
-        },
-        {
-          "title": "Zohran Mamdani takes oath as New York mayor with historic Quran",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2026/1/1/zohran-mamdani-sworn-in-as-new-york-mayor-with-historic-quran",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Zohran Mamdani to become NYC’s next mayor with a midnight oath underground",
-          "snippet": "",
-          "url": "https://apnews.com/article/zohran-mamdani-mayor-new-york-city-swearing-6e958e049e6611a9f487a6de61db2950",
-          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
