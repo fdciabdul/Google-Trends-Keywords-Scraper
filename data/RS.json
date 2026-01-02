@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-02 20:21:28",
+  "lastUpdate": "2026-01-02 20:33:45",
   "data": [
     {
       "title": "holnapi időjárás",
@@ -87,16 +87,16 @@
           "source": "B92"
         },
         {
-          "title": "Novogodišnja Zvezda je ponovo evroligaška zverka, crveno-beli ubedljivi u Istanbulu (VIDEO)",
-          "snippet": "",
-          "url": "https://www.danas.rs/sport/efes-zvezda-evroliga-video-izvestaj/",
-          "source": "Danas"
-        },
-        {
           "title": "Zvezda razbila Efes, ali Vlade Đurović i dalje vidi mane: Čuveni trener žestoko opleo po dvojici igrača crveno-belih",
           "snippet": "",
           "url": "https://sportal.blic.rs/prica/vlade-djurovic-govorio-manama-zvezde-posle-utakmice-nad-efesom-2026010219104298485",
           "source": "Sportal.rs"
+        },
+        {
+          "title": "Novogodišnja Zvezda je ponovo evroligaška zverka, crveno-beli ubedljivi u Istanbulu (VIDEO)",
+          "snippet": "",
+          "url": "https://www.danas.rs/sport/efes-zvezda-evroliga-video-izvestaj/",
+          "source": "Danas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,9 +161,28 @@
       "title": "sveti ignjatije",
       "trafficCount": "200+",
       "pubDate": "Fri, 2 Jan 2026 00:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI_rRbzA3xuGuoK1QNItm7Ho13NvFnq52BujetiW352WajIbv7A01MYA0ycwE",
+      "pictureSource": "РТС",
+      "relatedSearch": [
+        {
+          "title": "Prva slava u novoj godini – na Svetog Ignjatija Bogonosca decu valja povući za uvo",
+          "snippet": "",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5859706/sveti-ignjatije-bogonosac.html",
+          "source": "РТС"
+        },
+        {
+          "title": "Srpska pravoslavna crkva danas proslavlja Svetog Ignjatija Bogonosca - prvu slavu u Novoj godini",
+          "snippet": "",
+          "url": "https://www.tanjug.rs/srbija/drustvo/219445/srpska-pravoslavna-crkva-danas-proslavlja-svetog-ignjatija-bogonosca-prvu-slavu-u-novoj-godini/vest",
+          "source": "tanjug.rs"
+        },
+        {
+          "title": "Danas je Sveti Ignjatije - Bogonosac",
+          "snippet": "",
+          "url": "https://www.rtv.rs/sr_lat/drustvo/danas-je-sveti-ignjatije-bogonosac_1682624.html",
+          "source": "Радио-телевизија Војводине"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
