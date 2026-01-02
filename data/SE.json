@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-01-02 05:59:39",
+  "lastUpdate": "2026-01-02 06:14:31",
   "data": [
     {
       "title": "väder",
       "trafficCount": "5000+",
       "pubDate": "Thu, 1 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbilBPQ0CeAXNIjGEhCY8DtSAzw7VWJD8KfqfvffBXFAv1vQZP5lMFfhgQH8s",
-      "pictureSource": "SVT Nyheter",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7VBDqw04SG3pzbxcw3RgjG_f6vIUQUV39f9BiQUkK5ZL2LaLGDl29AWhnQ0s",
+      "pictureSource": "Sveriges Radio",
       "relatedSearch": [
-        {
-          "title": "SMHI utökar snöfallsvarning i Götaland – Ovädret Anna",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/inrikes/ovadret-anna?inlagg=18acbb8106975956ab2a14d64b06f4b3",
-          "source": "SVT Nyheter"
-        },
         {
           "title": "”Alla ska vara hemma – knappt gå ut med hundarna”",
           "snippet": "",
@@ -25,6 +19,40 @@
           "snippet": "",
           "url": "https://www.aftonbladet.se/nyheter/a/j0d1oo/stormen-anna-drar-in-uppmaningen-stanna-inne",
           "source": "Aftonbladet"
+        },
+        {
+          "title": "Plogföraren vädjar: ”Gå knappt ut med hunden”",
+          "snippet": "",
+          "url": "https://omni.se/plogforaren-vadjar-ga-knappt-ut-med-hunden/a/vrQ1vL",
+          "source": "Omni"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trafikverket",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 1 Jan 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO_5tq0kCUKMZ9toTJ0a1BCE2q3Di7SP1HNXfD8dUVGfeI57QAEplz6QIHGwA",
+      "pictureSource": "Mark-Posten",
+      "relatedSearch": [
+        {
+          "title": "Just nu: Nedfallna träd påverkar trafiken på väg 1610",
+          "snippet": "",
+          "url": "https://www.markposten.se/nyheter/just-nu-nedfallna-trad-paverkar-trafiken-pa-vag-1610.d39be4dd-d621-5e11-8ae3-adea92f51027",
+          "source": "Mark-Posten"
+        },
+        {
+          "title": "Just nu: Träd över vägen skapar problem i trafiken på väg 1609",
+          "snippet": "",
+          "url": "https://www.markposten.se/nyheter/just-nu-trad-over-vagen-skapar-problem-i-trafiken-pa-vag-1609.c7edfca7-2542-51a5-9ce3-29c63932d635",
+          "source": "Mark-Posten"
+        },
+        {
+          "title": "Just nu: Träd över vägen skapar problem i trafiken på väg 1613",
+          "snippet": "",
+          "url": "https://www.markposten.se/nyheter/just-nu-trad-over-vagen-skapar-problem-i-trafiken-pa-vag-1613.25e777ac-ec00-5a24-8f23-561bcee1a6d2",
+          "source": "Mark-Posten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +143,7 @@
     },
     {
       "title": "västtrafik",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 1 Jan 2026 20:20:00 -0800",
       "picture": "",
       "pictureSource": "",
@@ -126,20 +154,20 @@
       "title": "crans montana bar explosion",
       "trafficCount": "500+",
       "pubDate": "Thu, 1 Jan 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7tFaHP_mSPsOw1OTaIMiRUgONoxg1PBCUi4JisaqKzgxlcuCmYFPUTI91jcY",
-      "pictureSource": "Le Monde.fr",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrtnPbMvj0YfSPdK0gJ9ve-Z4iBx4EqirGPehayt9GgOf39kydoQpzQDmSjIw",
+      "pictureSource": "Corse Matin",
       "relatedSearch": [
-        {
-          "title": "EN DIRECT, incendie en Suisse, à Crans-Montana : l’enquête et l’identification des victimes se poursuivent",
-          "snippet": "",
-          "url": "https://www.lemonde.fr/international/live/2026/01/02/en-direct-incendie-en-suisse-a-crans-montana-l-enquete-et-l-identification-des-victimes-se-poursuivent_6660171_3210.html",
-          "source": "Le Monde.fr"
-        },
         {
           "title": "\"Je les ai eus au téléphone, ils sont vivants\" : un couple de Corses à la tête du bar ravagé par les flammes en Suisse",
           "snippet": "",
           "url": "https://www.corsematin.com/article/faits-diversjustice/2356208579288214/incendie-meurtrier-a-crans-montana-en-suisse-les-proprietaires-du-bar-le-constellation-seraient-dorigine-corse",
           "source": "Corse Matin"
+        },
+        {
+          "title": "Crans-Montana : grave événement dans un bar",
+          "snippet": "",
+          "url": "https://www.policevalais.ch/communiques-pour-les-medias/crans-montana-grave-evenement-dans-un-bar/",
+          "source": "Police cantonale valaisanne"
         },
         {
           "title": "Communiqué officiel",
@@ -179,34 +207,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nya lagar",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 1 Jan 2026 14:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyrX3jKK99ET_5qpO4Ej_kxSqxLXginLLLd2_in0bq7EAWtFZ45DNDZ_ezvGI",
-      "pictureSource": "SVT Nyheter",
-      "relatedSearch": [
-        {
-          "title": "Här är de nya lagarna som börjar gälla 1 januari 2026",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/inrikes/har-ar-de-nya-lagarna-som-borjar-galla-1-januari-2026",
-          "source": "SVT Nyheter"
-        },
-        {
-          "title": "Nytt år, nya lagar – så påverkas kommuner och regioner",
-          "snippet": "",
-          "url": "https://www.dagenssamhalle.se/styrning-och-beslut/juridik/nytt-ar-nya-lagar-sa-paverkas-kommuner-och-regioner/",
-          "source": "Dagens Samhälle"
-        },
-        {
-          "title": "Miljöåret 2026 – från stopp för grönmålning till sämre villkor för solel",
-          "snippet": "",
-          "url": "https://www.etc.se/klimat-miljo/miljoeaaret-2026-fraan-stopp-foer-groenmaalning-till-saemre-villkor-foer-solel",
-          "source": "ETC.se"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tom brady",
       "trafficCount": "500+",
       "pubDate": "Thu, 1 Jan 2026 14:40:00 -0800",
@@ -235,29 +235,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "stranger things spin off",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 1 Jan 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpzwn2nuIv6JAtr8_LPoY2cV06hINXYq7ihsesKRF8vJSUAi-rzP44oBAnjic",
-      "pictureSource": "Forbes",
+      "title": "nya lagar",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 1 Jan 2026 14:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyrX3jKK99ET_5qpO4Ej_kxSqxLXginLLLd2_in0bq7EAWtFZ45DNDZ_ezvGI",
+      "pictureSource": "SVT Nyheter",
       "relatedSearch": [
         {
-          "title": "‘Stranger Things’ Isn’t Over After The Season 5 Finale",
+          "title": "Här är de nya lagarna som börjar gälla 1 januari 2026",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/paultassi/2025/12/31/stranger-things-isnt-over-after-the-season-5-finale/",
-          "source": "Forbes"
+          "url": "https://www.svt.se/nyheter/inrikes/har-ar-de-nya-lagarna-som-borjar-galla-1-januari-2026",
+          "source": "SVT Nyheter"
         },
         {
-          "title": "Netflix Fans Eagerly Await Release Date for ‘Stranger Things’ Spinoff",
+          "title": "Nytt år, nya lagar – så påverkas kommuner och regioner",
           "snippet": "",
-          "url": "https://www.mensjournal.com/entertainment/netflix-fans-eagerly-await-release-date-for-stranger-things-spinoff",
-          "source": "Men's Journal"
+          "url": "https://www.dagenssamhalle.se/styrning-och-beslut/juridik/nytt-ar-nya-lagar-sa-paverkas-kommuner-och-regioner/",
+          "source": "Dagens Samhälle"
         },
         {
-          "title": "The Duffer Brothers Reveal If This Is the Last Time We'll See the 'Stranger Things' Cast in Live-Action [Exclusive]",
+          "title": "Miljöåret 2026 – från stopp för grönmålning till sämre villkor för solel",
           "snippet": "",
-          "url": "https://collider.com/stranger-things-characters-story-over-last-time-live-action-explained-duffer-brothers/",
-          "source": "Collider"
+          "url": "https://www.etc.se/klimat-miljo/miljoeaaret-2026-fraan-stopp-foer-groenmaalning-till-saemre-villkor-foer-solel",
+          "source": "ETC.se"
         }
       ],
       "link": "https://imtaqin.id/"
