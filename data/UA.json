@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-02 19:37:45",
+  "lastUpdate": "2026-01-02 19:44:49",
   "data": [
     {
       "title": "кальярі – мілан",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 2 Jan 2026 11:00:00 -0800",
       "picture": "",
       "pictureSource": "",
@@ -96,15 +96,21 @@
     },
     {
       "title": "тц персона харьков",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 2 Jan 2026 09:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpE5xxq8W76wl7xvrscSoCmDTFbNxtYp8_31A_dc9CUSxcND-Ub6JsjqqGUDY",
-      "pictureSource": "NV",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjDXRXQWWHhn4xai4jQjAGMlM3s060HudSl69olL-sVYslRPNiHRI0Kyy4H3c",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "«Абсолютно варварская атака». Глава Кабмина Свириденко показала на видео момент ракетного удара РФ по Харькову",
+          "title": "В Харькове под завалами нашли тело ребенка",
           "snippet": "",
-          "url": "https://nv.ua/ukraine/events/raketnyy-udar-po-harkovu-2-yanvarya-premerka-sviridenko-pokazala-moment-ataki-opublikovano-video-50572857.html",
+          "url": "https://www.pravda.com.ua/rus/news/2026/01/02/8014423/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Офисе генпрокурора показали место подлого удара российских Искандеров в Харькове — фото, видео",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/raketnyy-udar-po-harkovu-2-yanvarya-v-prokurature-opublikovali-foto-i-video-s-mesta-tragedii-50572886.html",
           "source": "NV"
         },
         {
@@ -112,12 +118,6 @@
           "snippet": "",
           "url": "https://www.objectiv.tv/objectively/2026/01/02/kak-v-harkove-ustranyayut-posledstviya-raketnyh-udarov-rf-2-yanvarya-foto/",
           "source": "objectiv.tv"
-        },
-        {
-          "title": "Атака на центр Харькова: количество пострадавших увеличилось почти до 20, среди них — младенец",
-          "snippet": "",
-          "url": "https://tsn.ua/ru/ukrayina/ataka-na-tsentr-harkova-k-vracham-obratilos-pochti-20-postradavshih-sredi-nih-mladenets-2991383.html",
-          "source": "ТСН"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,10 +198,38 @@
           "source": "Радіо Свобода"
         },
         {
-          "title": "Зеленський анонсував зміну очільника ДПСУ: що відомо",
+          "title": "В Україні \"найближчим часом\" замінять очільника ДПСУ, – Зеленський",
           "snippet": "",
-          "url": "https://tsn.ua/politika/zelenskyy-anonsuvav-zminu-ochilnyka-dpsu-shcho-vidomo-2991443.html",
-          "source": "ТСН"
+          "url": "https://www.unian.ua/politics/dpsu-zelenskiy-povidomiv-shcho-nevdovzi-v-ukrajini-zminyat-kerivnika-prikordonnoji-sluzhbi-13244142.html",
+          "source": "УНІАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "пост шоу холостяк 14",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 2 Jan 2026 07:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFL2DSFUk1fwzJbG7EwfHNiOMEB3YKTBji-tQroKeuQ9go630PMJT6wtODzLk",
+      "pictureSource": "Главред",
+      "relatedSearch": [
+        {
+          "title": "Надин \"в пролете\": Тарас Цимбалюк подловили на отдыхе с другой девушкой",
+          "snippet": "",
+          "url": "https://stars.glavred.info/nadin-v-prolete-taras-cimbalyuk-podlovili-na-otdyhe-s-drugoy-devushkoy-10728803.html",
+          "source": "Главред"
+        },
+        {
+          "title": "Не сдержала слез. Финалистка Холостяка Анастасия Половинкина рассказала Наталке Денисенко, обижена ли она на Тараса Цымбалюка",
+          "snippet": "",
+          "url": "https://life.nv.ua/znamenitosti/finalistka-holostyaka-anastasiya-polovinkina-raskryla-pravdu-o-svoem-proshchanii-s-cymbalyukom-na-shou-50572648.html",
+          "source": "NV"
+        },
+        {
+          "title": "Тарас Цымбалюк и Настя Половинкина появились вместе - как отреагировала Надин Головчук",
+          "snippet": "",
+          "url": "https://apostrophe.ua/ru/lime/learn/taras-tsymbaljuk-zasvetilsja-v-bukovele-s-finalistkoj-kholostjaka-pobeditelnitsa-otreahirovala.html",
+          "source": "Апостроф"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.liga.net/politics/articles/budanov-vozglavil-ofis-prezidenta-pervye-vyvody-i-prognozy",
           "source": "LIGA.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "олег іващенко",
-      "trafficCount": "10000+",
-      "pubDate": "Fri, 2 Jan 2026 06:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSefrUrrC2HHr-mPblKwCySGOQcqbjyRbf0Yd4dXfP6Q4jLkkfyp-u_JLveM0s",
-      "pictureSource": "ТСН",
-      "relatedSearch": [
-        {
-          "title": "Новим начальником ГУР став Олег Іващенко: що про нього відомо",
-          "snippet": "",
-          "url": "https://tsn.ua/ukrayina/novym-nachalnykom-hur-stav-oleh-ivashchenko-shcho-pro-nyoho-vidomo-2991371.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Джерело УП повідомило, хто може очолити ГУР замість Буданова",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2026/01/02/8014385/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Іващенка призначили новим главою ГУР",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/ukraine/4844645-ivaschenka-pryznachyly-novym-hlavoui-hur",
-          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
