@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-02 09:41:37",
+  "lastUpdate": "2026-01-02 09:50:25",
   "data": [
+    {
+      "title": "tesla",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 2 Jan 2026 01:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn0tvtquxNXYED8yz6ffIhtmuRg5bMcK4ATHc2LfrAbriHR1reKI_3_3O3Bf8",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "China's BYD set to overtake Tesla as world's top EV seller",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo",
+          "source": "BBC"
+        },
+        {
+          "title": "Chinese automaker BYD posts weakest sales growth in five years",
+          "snippet": "",
+          "url": "https://maaal.com/en/news/details/chinese-automaker-byd-pos/",
+          "source": "Maaal"
+        },
+        {
+          "title": "BYD China EV sales drop in December as overseas deliveries hit record high",
+          "snippet": "",
+          "url": "https://www.investing.com/news/stock-market-news/byd-china-ev-sales-drop-in-december-as-overseas-deliveries-hit-record-high-4427359",
+          "source": "Investing.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "tahirys dos santos",
       "trafficCount": "2000+",
@@ -31,16 +59,16 @@
     },
     {
       "title": "tommy lee jones",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 1 Jan 2026 23:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZj2oicjM6c6ujeA3mbXcAWh0Zs-NalIuq6tQGmjP03y0vVxAc3scvhMEHTLo",
-      "pictureSource": "TMZ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtXZVvPjAh973-2V0zfG9O7dLi1fzuWKBOT5tNY7sSxaHsrUntdkIQVjWFI8",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Tommy Lee Jones' Daughter Victoria Found Dead at San Francisco Hotel",
+          "title": "Victoria Jones, daughter of Tommy Lee, found dead in San Francisco",
           "snippet": "",
-          "url": "https://www.tmz.com/2026/01/01/tommy-lee-jones-daughter-victoria-dead/",
-          "source": "TMZ"
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/victoria-jones-daughter-of-tommy-lee-found-dead-in-san-francisco",
+          "source": "The Guardian"
         },
         {
           "title": "Woman found dead at SF hotel believed to be daughter of actor Tommy Lee Jones",
@@ -117,15 +145,9 @@
       "title": "vejret",
       "trafficCount": "5000+",
       "pubDate": "Thu, 1 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaMShy3etTPqY0B364jv1vMAiiGKbI-dB_-UmL-1hKBPevknCIkZmvfW3SIu4",
-      "pictureSource": "TV2 Nord",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTk_2K6OjgmSOStrqCV-E1ChDEm15F2ahqZM39BrDMHVam4fWECPrKSFnT9_M",
+      "pictureSource": "TV2 Bornholm",
       "relatedSearch": [
-        {
-          "title": "TV 2 Vejr varsler vindstød af stormstyrke",
-          "snippet": "",
-          "url": "https://www.tv2nord.dk/kort-nyt/thisted/tv-2-vejr-varsler-vindstod-af-stormstyrke-ea70e",
-          "source": "TV2 Nord"
-        },
         {
           "title": "Bornholm ser ud til at slippe for sne og kulde, der rammer resten af landet",
           "snippet": "",
@@ -133,10 +155,16 @@
           "source": "TV2 Bornholm"
         },
         {
-          "title": "Årets første dag byder på byger og blæst - kan slå over i sne",
+          "title": "Nytårsvejret: Her kan regn og blæst give dårligt raketvejr",
           "snippet": "",
-          "url": "https://www.tv2ostjylland.dk/oestjylland/arets-forste-dag-byder-pa-byger-og-blaest-kan-sla-over-i-sne",
-          "source": "TV2 Østjylland"
+          "url": "https://www.dr.dk/nyheder/vejret/nytaarsvejret-her-kan-regn-og-blaest-give-daarligt-raketvejr",
+          "source": "DR.dk"
+        },
+        {
+          "title": "Skal du ud og fyre raketter af? Sådan bliver nytårsvejret på Fyn",
+          "snippet": "",
+          "url": "https://fyens.dk/vejr/skal-du-ud-og-fyre-raketter-af-saadan-bliver-nytaarsvejret-paa-fyn",
+          "source": "Fyens.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,14 +207,14 @@
         {
           "title": "Exclusive | As Signs of Aging Emerge, Trump Responds With Defiance",
           "snippet": "",
-          "url": "https://www.wsj.com/us-news/as-signs-of-aging-emerge-trump-responds-with-defiance-769c5dcd?gaa_at=eafs&gaa_n=AWEtsqdtfv6v-qt-4V_Iy_MDDG3dy4UZGDi711gjxQd86JD27mMhwBwTQsck&gaa_ts=69579566&gaa_sig=dl3HR6K83vjsuqEajFeeEiSPpv2FegeFKGSWaeYEgJzKnx0VC9H_7udD9FG5W1zjnRi8C7tfzxYfea6jmXDuwg%3D%3D",
+          "url": "https://www.wsj.com/us-news/as-signs-of-aging-emerge-trump-responds-with-defiance-769c5dcd?gaa_at=eafs&gaa_n=AWEtsqd4ywdFaTimDYnC-ZgFOuwd8V-s-rXOgqRlzfgWP1bnyndMsv8gflzj&gaa_ts=695797ef&gaa_sig=cInHY57cfX91cOXOgt8haJtmhqZd0m5-l6yvpnzME3C80FVpxpFlbrt7DUrOhbAxifPJ1NkWpZXpndcMzCH-Pg%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
-          "title": "Trump tells WSJ he takes a higher daily dose of aspirin than his doctors advise in lengthy interview on his health",
+          "title": "Trump say im dey take higher daily dose of aspirin pass wetin doctors recommend",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/01/01/politics/aspirin-trump-health-dose-bruises-hand",
-          "source": "CNN"
+          "url": "https://www.bbc.com/pidgin/articles/c2k9d80gx3no",
+          "source": "BBC"
         },
         {
           "title": "5 takeaways from Trump's defiant WSJ interview on his health",
@@ -235,13 +263,13 @@
         {
           "title": "Millionærklubben: Klar, parat, start - aktieåret er i gang | Nyheder | Video",
           "snippet": "",
-          "url": "https://www.euroinvestor.dk/nyheder/millionaerklubbenklar-parat-start-aktieaaret-er-i-gang?gaa_at=eafs&gaa_n=AWEtsqcGu_S_fcKeS0wJOaA_VNzlF_HjZb0S565nFfTfNAoymcvOx7NnQD7H&gaa_ts=69579655&gaa_sig=9RT3mqQfPewXdaA71v-_QbasAQvlntfN__kd01qFRnKpXyNEemB-5EzsoOthEj5vRFeZLe5JnvlEeGNfTDSR2Q%3D%3D",
+          "url": "https://www.euroinvestor.dk/nyheder/millionaerklubbenklar-parat-start-aktieaaret-er-i-gang?gaa_at=eafs&gaa_n=AWEtsqe7A7MBjsWq4vhlMd1JhEOabo_KBTlG-YwJg7FANNPjfHo924hvdBt5&gaa_ts=69579865&gaa_sig=PTssVGOBcpr32rEpYWPgZQzaWuRmw_B8wjTnaZX-WVUr8fEt7jlZ7cGHCN-lleD_eE1TGsrQL0m3vgE1YU2gfQ%3D%3D",
           "source": "Euroinvestor"
         },
         {
           "title": "Chefstrateg om aktieåret 2025: »Jeg har aldrig oplevet noget lignende« – sådan styrede Trump markederne",
           "snippet": "",
-          "url": "https://www.berlingske.dk/aktier/chefstrateg-om-aktieaaret-2025-jeg-har-aldrig-oplevet-noget-lignende--saadan-styrede-trump-markederne?gaa_at=eafs&gaa_n=AWEtsqdvEuwXnGHiJ22yuFz6VZf9iyDPyN9mz9dnpp2ER5HyvydT8l5e9_SL&gaa_ts=69579655&gaa_sig=cyZbaXR4HVa-q02hiqUpmrehIxTNHDYN-6E9TtbeQkiSmD7Nw1LNo4RAdAE8lM-YPhcdyHqQPd3NdjVQp1Wjpw%3D%3D",
+          "url": "https://www.berlingske.dk/aktier/chefstrateg-om-aktieaaret-2025-jeg-har-aldrig-oplevet-noget-lignende--saadan-styrede-trump-markederne?gaa_at=eafs&gaa_n=AWEtsqdcs-oDXDlY-T4T_LEKYo0vK3QEyOe_RWSwpRc89mKUjW0alRUhNYG-&gaa_ts=69579865&gaa_sig=QpOjeg7eB0T3isNV6pUqqmAbsM38TMi34_fdO-Wn234uJZVXcD3hQg7zalCK2icvVS3ShYYt3tLiHZE9RgDMFw%3D%3D",
           "source": "Berlingske"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://invezz.com/da/nyheder/2025/12/25/ser-tilbage-pa-2025-aret-hvor-embedded-finance-udhulede-de-traditionelle-bankers-voldgrav/",
           "source": "Invezz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "the hack",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 1 Jan 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ93ROs1Kzh0oyt-3t_UtPQQsNgIYOCA0WDuQKGevApmrvD1_ULoL364BPDDjo",
-      "pictureSource": "digitalt.tv",
-      "relatedSearch": [
-        {
-          "title": "The Hack",
-          "snippet": "",
-          "url": "https://digitalt.tv/premierekalender/the-hack/",
-          "source": "digitalt.tv"
-        },
-        {
-          "title": "1/1 23:05 | The Hack på DR2",
-          "snippet": "",
-          "url": "https://www.tvguide.dk/programmer/dr2/2026-01-01/23:05/the-hack",
-          "source": "https://www.tvguide.dk"
-        },
-        {
-          "title": "9/1 01:10 | The Hack på DR2",
-          "snippet": "",
-          "url": "https://www.tvguide.dk/programmer/dr2/2026-01-09/01:10/the-hack",
-          "source": "https://www.tvguide.dk"
         }
       ],
       "link": "https://imtaqin.id/"
