@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-02 15:09:33",
+  "lastUpdate": "2026-01-02 15:21:53",
   "data": [
     {
+      "title": "predial monterrey",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 2 Jan 2026 07:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLW8w1LjnDy-nrJdUBavkAkVASteb5Zprb16v3om9LQhp1U5luxrRHuOZ8aDI",
+      "pictureSource": "El Norte",
+      "relatedSearch": [
+        {
+          "title": "Ahora sí suben el predial regio",
+          "snippet": "",
+          "url": "https://www.elnorte.com/ahora-si-suben-el-predial-regio/ar3129964",
+          "source": "El Norte"
+        },
+        {
+          "title": "Trascendió Monterrey",
+          "snippet": "",
+          "url": "https://www.milenio.com/opinion/editoriales/trascendio-monterrey/trascendio-monterrey_2800",
+          "source": "Milenio"
+        },
+        {
+          "title": "Inicia Monterrey cobro del Impuesto Predial con incentivos fiscales",
+          "snippet": "",
+          "url": "https://heraldodemexico.com.mx/nacional/2026/1/1/inicia-monterrey-cobro-del-impuesto-predial-con-incentivos-fiscales-756125.html",
+          "source": "El Heraldo de México"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "refrendo jalisco 2026",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 2 Jan 2026 07:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA_y8pByNJG63i4mM3v8roBnQQS6KLiuzBSSdaKcCrcvib_hmt5Gh77LwLgDU",
       "pictureSource": "El Informador",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.notisistema.com/noticias/jalisco-alcanza-record-historico-en-verificacion-vehicular/",
           "source": "Notisistema"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cancun",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 2 Jan 2026 07:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWwVszceCqfLmqkVfPL9JL3Y3nyUM7N_z4r9iuXqNpOXnarm924y3-xn2YLEc",
-      "pictureSource": "Caribbean Journal",
-      "relatedSearch": [
-        {
-          "title": "Cancun Is the Most-Booked International Destination for Travelers in 14 Different US States, According to United Airlines",
-          "snippet": "",
-          "url": "https://www.caribjournal.com/2026/01/01/united-airlines-cancun-map-international/",
-          "source": "Caribbean Journal"
-        },
-        {
-          "title": "United Airlines' 24 New Destinations In 2025: Where You Can Now Fly",
-          "snippet": "",
-          "url": "https://simpleflying.com/united-airlines-24-new-destinations-in-2025-where-you-can-now-fly/",
-          "source": "Simple Flying"
-        },
-        {
-          "title": "Here are the most-booked international travel destinations from every state— and NY’s is super lame",
-          "snippet": "",
-          "url": "https://www.aol.com/news/most-booked-international-travel-destinations-190837341.html",
-          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,17 +86,45 @@
           "source": "El Sol de México"
         },
         {
-          "title": "Cuernavaca combate el dengue en escuelas: alcaldía",
+          "title": "Sismo magnitud 6.5 despierta a la CDMX; epicentro fue en Guerrero",
           "snippet": "",
-          "url": "https://www.launion.com.mx/morelos/sociedad/noticias/286501-cuernavaca-combate-el-dengue-en-escuelas-alcaldia.html",
-          "source": "La Unión de Morelos"
+          "url": "https://www.jornada.com.mx/noticia/2026/01/02/capital/sismo-de-65-de-magnitud-se-registra-en-la-cdmx",
+          "source": "La Jornada"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cancun",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 2 Jan 2026 07:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWwVszceCqfLmqkVfPL9JL3Y3nyUM7N_z4r9iuXqNpOXnarm924y3-xn2YLEc",
+      "pictureSource": "Caribbean Journal",
+      "relatedSearch": [
+        {
+          "title": "Cancun Is the Most-Booked International Destination for Travelers in 14 Different US States, According to United Airlines",
+          "snippet": "",
+          "url": "https://www.caribjournal.com/2026/01/01/united-airlines-cancun-map-international/",
+          "source": "Caribbean Journal"
+        },
+        {
+          "title": "United Airlines' 24 New Destinations In 2025: Where You Can Now Fly",
+          "snippet": "",
+          "url": "https://simpleflying.com/united-airlines-24-new-destinations-in-2025-where-you-can-now-fly/",
+          "source": "Simple Flying"
+        },
+        {
+          "title": "Here are the most-booked international travel destinations from every state— and NY’s is super lame",
+          "snippet": "",
+          "url": "https://www.aol.com/news/most-booked-international-travel-destinations-190837341.html",
+          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "feria de leon 2026",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 2 Jan 2026 06:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfTBBeqSnXfkkeAHI938OeDpvFu--uZm5GLzdw_oQrLkoh7yKvkKUokfVn67A",
       "pictureSource": "Milenio",
@@ -154,26 +182,26 @@
       "title": "guadalajara",
       "trafficCount": "200+",
       "pubDate": "Fri, 2 Jan 2026 06:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GzlPX7BAfgU3KM45l0mCXYLDnCOnv5tfOSNoKpmfuVd6NX7z67OcG24SwGQ",
-      "pictureSource": "N+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWdEuoFj9IPoKJFuCFOpTLERQ9AdGDJH_OlHN04bLiT6xi4k4TS2p_tlBA6HE",
+      "pictureSource": "El Informador",
       "relatedSearch": [
         {
-          "title": "Activan Precontingencia Ambiental en Jalisco por Contaminación: Sigue las Recomendaciones",
+          "title": "Clima HOY: Guadalajara tendrá mañana fría y tarde cálida este viernes 2 de enero",
           "snippet": "",
-          "url": "https://www.nmas.com.mx/foro-tv/programas/expreso-la-manana/videos/activan-precontingencia-ambiental-jalisco-contaminacion-sigue-recomendaciones/",
-          "source": "N+"
-        },
-        {
-          "title": "Tapatíos reciben el 2026 con mala calidad del aire",
-          "snippet": "",
-          "url": "https://www.informador.mx/jalisco/tapatios-reciben-el-2026-con-mala-calidad-del-aire-20260101-0055.html",
+          "url": "https://www.informador.mx/jalisco/clima-hoy-guadalajara-tendra-manana-fria-y-tarde-calida-este-viernes-2-de-enero-20260102-0042.html",
           "source": "El Informador"
         },
         {
-          "title": "Contingencias ambientales en distintas zonas de Guadalajara",
+          "title": "Siguen las bajas temperaturas en Jalisco para este viernes 2 de enero",
           "snippet": "",
-          "url": "https://www.imagentv.com/guadalajara/noticias/imagen-noticias-guadalajara-segunda-emision/contingencias-ambientales-en-distintas-zonas-de-guadalajara",
-          "source": "Imagen Televisión"
+          "url": "https://www.milenio.com/el-clima/clima-en-jalisco-durante-viernes-2-de-enero",
+          "source": "Milenio"
+        },
+        {
+          "title": "Clima hoy en Guadalajara: Calor y brisa ligera en jornada soleada para este viernes, 2 de enero de 2026",
+          "snippet": "",
+          "url": "https://www.elimparcial.com/mexico/2026/01/02/clima-hoy-en-guadalajara-calor-y-brisa-ligera-en-jornada-soleada-para-este-viernes-2-de-enero-de-2026/",
+          "source": "El Imparcial"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://lasillarota.com/veracruz/estado/2026/1/1/cabanuelas-2026-en-veracruz-este-dia-de-enero-comienzan-577466.html",
           "source": "La Silla Rota"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "temblor oaxaca",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 2 Jan 2026 06:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCSihZJ6wR08I46c_2GILvzYzv9DxeQ120215_kBn_KDgH9fJDy_RpdLOffA",
-      "pictureSource": "N+",
-      "relatedSearch": [
-        {
-          "title": "Temblor en México Hoy: Magnitud y Epicentro de Sismos el 1 de Enero de 2026",
-          "snippet": "",
-          "url": "https://www.nmas.com.mx/nacional/temblor-hoy-1-de-enero-2026-magnitud-y-epicentro-sismos-mexico-ultimas-noticias-ssn/",
-          "source": "N+"
-        },
-        {
-          "title": "Se registra sismo en Puerto Peñasco, Sonora",
-          "snippet": "",
-          "url": "https://www.infobae.com/mexico/2026/01/02/se-registra-sismo-en-puerto-penasco-sonora/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Temblor HOY 1 de enero EN VIVO | Noticias sismos y microsismos en México",
-          "snippet": "",
-          "url": "https://www.telediario.mx/nacional/temblor-hoy-1-de-enero-2026-en-vivo-noticias-sismos-en-mexico",
-          "source": "Telediario México"
         }
       ],
       "link": "https://imtaqin.id/"
