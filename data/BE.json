@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-03 08:50:09",
+  "lastUpdate": "2026-01-03 08:58:09",
   "data": [
     {
       "title": "bbc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 2 Jan 2026 23:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmj57pVpLYekrWNkVTeLkB8xLWEDvrhpoJ3kxkEv3KhPrgkNzGTn-YHqadzHM",
       "pictureSource": "The Guardian",
@@ -59,17 +59,11 @@
     },
     {
       "title": "venezuela",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 2 Jan 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1CMLpBhoG_KYzgEAgE7MXACN4o5DGgA77udnmzRKclril2YEO0X-I995qVLA",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANj-B-WfaQkJDAgki00fNu5BBxlgB7IF6-mcLOE9fbgiJnmPtMoXXDT8SbJs",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Última hora de las explosiones en Venezuela, en directo | El Gobierno de Maduro atribuye a EE UU las explosiones y las considera una “gravísima agresión militar” contra Venezuela",
-          "snippet": "",
-          "url": "https://elpais.com/internacional/2026-01-03/ultima-hora-de-las-explosiones-en-venezuela-en-directo.html",
-          "source": "EL PAÍS"
-        },
         {
           "title": "Reportan explosiones y sobrevuelo de aviones en Caracas y otras partes del país y el gobierno de Maduro denuncia una \"agresión militar\" de EE.UU.",
           "snippet": "",
@@ -77,10 +71,16 @@
           "source": "BBC"
         },
         {
-          "title": "Varias explosiones sacuden Caracas de madrugada",
+          "title": "Reportan explosiones en Caracas, Venezuela, en vivo: daños, reacciones y más",
           "snippet": "",
-          "url": "https://www.elmundo.es/internacional/2026/01/03/6958bba9e9cf4a69368b458f.html",
-          "source": "El Mundo"
+          "url": "https://cnnespanol.cnn.com/venezuela/live-news/explosiones-caracas-venezuela-en-vivo-orix",
+          "source": "CNN en Español"
+        },
+        {
+          "title": "Se reportan explosiones en distintos puntos de Caracas en medio de las tensiones con Estados Unidos",
+          "snippet": "",
+          "url": "https://elpais.com/america/2026-01-03/se-reportan-explosiones-en-distintos-puntos-de-caracas-en-medio-de-las-tensiones-con-estados-unidos.html",
+          "source": "EL PAÍS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,7 +115,7 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 2 Jan 2026 22:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Kn6eRfnX-mmefzlB4ZpNrHXecwrkNeGNVgt53dtTUducn-dWNksMyFA7IF4",
       "pictureSource": "CNN",
@@ -127,10 +127,10 @@
           "source": "CNN"
         },
         {
-          "title": "Colombia calls for emergency UN, OAS meetings after air strikes in Venezuela",
+          "title": "Live Updates: U.S. Military Strikes Caracas, Venezuela Says",
           "snippet": "",
-          "url": "https://colombiareports.com/colombia-calls-for-emergency-un-oas-meetings-after-air-strikes-in-venezuela/",
-          "source": "Colombia Reports"
+          "url": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
+          "source": "The New York Times"
         },
         {
           "title": "Venezuela says it rejects \"military aggression\" by the US",
@@ -171,7 +171,7 @@
     },
     {
       "title": "weather",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 2 Jan 2026 22:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGjPsLqN9unCeaYTx9EPyJ_n5W1n3CvuKupg7pOkUGxJGzMEgCijhBeVF93k",
       "pictureSource": "KCRA",

@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-01-03 08:50:36",
+  "lastUpdate": "2026-01-03 08:58:34",
   "data": [
     {
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 3 Jan 2026 00:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Kn6eRfnX-mmefzlB4ZpNrHXecwrkNeGNVgt53dtTUducn-dWNksMyFA7IF4",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Live updates: Multiple explosions rock Venezuelan capital Caracas",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26",
+          "source": "CNN"
+        },
+        {
+          "title": "Venezuela accuses US after explosions and low-flying aircraft reported in Caracas – live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2026/jan/03/caracas-explosions-venezuela-maduro-latest-news-updates-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "US strikes Venezuela after Trump's threats against Maduro",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "caracas",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 2 Jan 2026 23:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbJ7DKBgKn32wlkieUpXmtkj0sFngZvALjSOwvzAmqYH83IvkE5G2p80ucjU0",
       "pictureSource": "Público",
@@ -15,16 +43,16 @@
           "source": "Público"
         },
         {
-          "title": "Venezuela \"denuncia gravíssima agressão militar\" dos Estados Unidos após várias explosões em Caracas",
+          "title": "Presidente da Colômbia refere que Venezuela está \"sob ataque\" e pede reunião imediata entre a OEA e ONU",
           "snippet": "",
-          "url": "https://expresso.pt/internacional/2026-01-03-venezuela-denuncia-gravissima-agressao-militar-dos-estados-unidos-apos-varias-explosoes-em-caracas-2b22ad38",
-          "source": "Expresso"
+          "url": "https://www.cmjornal.pt/mundo/detalhe/presidente-da-colombia-refere-que-venezuela-esta-sob-ataque-e-pede-reuniao-imediata-entre-a-oea-e-onu",
+          "source": "Correio da Manhã"
         },
         {
-          "title": "Maduro diz-se aberto a diálogo com os EUA",
+          "title": "Combate ao narcotráfico. Maduro propõe a Trump \"conversa séria\"",
           "snippet": "",
-          "url": "https://pt.euronews.com/2026/01/02/maduro-diz-se-aberto-a-dialogo-com-os-eua",
-          "source": "Euronews.com"
+          "url": "https://www.rtp.pt/noticias/mundo/combate-ao-narcotrafico-maduro-propoe-a-trump-conversa-seria_v1707432",
+          "source": "RTP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "venezuela",
       "trafficCount": "2000+",
       "pubDate": "Fri, 2 Jan 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1NyV_3IeHY-oKw2dXnHYFAEBGfrPryW7XDAysU4k7vxf1SHg2YKJ9wqxZAAo",
-      "pictureSource": "El Mundo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANj-B-WfaQkJDAgki00fNu5BBxlgB7IF6-mcLOE9fbgiJnmPtMoXXDT8SbJs",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Varias explosiones sacuden Caracas de madrugada",
-          "snippet": "",
-          "url": "https://www.elmundo.es/internacional/2026/01/03/6958bba9e9cf4a69368b458f.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "Última hora de las explosiones en Venezuela, en directo | El Gobierno de Maduro atribuye a EE UU las explosiones y las considera una “gravísima agresión militar” contra Venezuela",
-          "snippet": "",
-          "url": "https://elpais.com/internacional/2026-01-03/ultima-hora-de-las-explosiones-en-venezuela-en-directo.html",
-          "source": "EL PAÍS"
-        },
         {
           "title": "Reportan explosiones y sobrevuelo de aviones en Caracas y otras partes del país y el gobierno de Maduro denuncia una \"agresión militar\" de EE.UU.",
           "snippet": "",
           "url": "https://www.bbc.com/mundo/articles/cvgn5rk0k1wo",
           "source": "BBC"
+        },
+        {
+          "title": "Varias detonaciones sacuden Caracas en medio de las tensiones con EE.UU.",
+          "snippet": "",
+          "url": "https://www.rtve.es/noticias/20260103/varias-detonaciones-caracas-tensiones-con-eeuu/16881311.shtml",
+          "source": "RTVE.es"
+        },
+        {
+          "title": "Varias explosiones sacuden Caracas de madrugada",
+          "snippet": "",
+          "url": "https://www.elmundo.es/internacional/2026/01/03/6958bba9e9cf4a69368b458f.html",
+          "source": "El Mundo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.thesun.co.uk/travel/37473913/best-spanish-resorts-locals-holiday/",
           "source": "The Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "valter carvalho",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 2 Jan 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjLCxtLurjhywofS4YlKYRzkvqFeLJPy9OioCDDqRGA_D52d-fyStPM0p2SQ",
-      "pictureSource": "SELFIE",
-      "relatedSearch": [
-        {
-          "title": "\"1.ª Companhia\": nem vai acreditar em quantos anos tem Nuno Janeiro!",
-          "snippet": "",
-          "url": "https://selfie.iol.pt/famosos/1-companhia/1-companhia-nem-vai-acreditar-em-quantos-anos-tem-nuno-janeiro/20260102/6957f67fd34e3caad84d08df",
-          "source": "SELFIE"
-        },
-        {
-          "title": "Valter Carvalho, modelo e DJ, entra na 1ª Companhia da TVI com o objetivo de aprender e se superar",
-          "snippet": "",
-          "url": "https://infocul.pt/valter-carvalho-modelo-e-dj-entra-na-1a-companhia-da-tvi-com-o-objetivo-de-aprender-e-se-superar/",
-          "source": "Infocul.pt"
-        },
-        {
-          "title": "1ª Companhia. Nuno Janeiro e Valter Carvalho são concorrentes",
-          "snippet": "",
-          "url": "https://www.hiper.fm/1a-companhia-nuno-janeiro-e-valter-carvalho-sao-concorrentes/",
-          "source": "Hiper Fm"
         }
       ],
       "link": "https://imtaqin.id/"
