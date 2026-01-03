@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-03 06:44:27",
+  "lastUpdate": "2026-01-03 06:55:30",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 2 Jan 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqNKFYhfQsc5be_gPiRpkmOXmky3Jjnf4pI1ZeyXUH_cu8CPNUvKc039Ufh4",
+      "pictureSource": "NL Times",
+      "relatedSearch": [
+        {
+          "title": "Thousands of Dutch amateur weather stations help KNMI boost forecast accuracy",
+          "snippet": "",
+          "url": "https://nltimes.nl/2026/01/03/thousands-dutch-amateur-weather-stations-help-knmi-boost-forecast-accuracy",
+          "source": "NL Times"
+        },
+        {
+          "title": "Weather Conditions: Continued Impact of the Atmospheric Depression on the Country",
+          "snippet": "",
+          "url": "https://www.sadanews.ps/en/news/262778.html",
+          "source": "وكالة صدى نيوز"
+        },
+        {
+          "title": "Cold and dry conditions expected until Thursday when rain rolls through",
+          "snippet": "",
+          "url": "https://www.kezi.com/video/cold-and-dry-conditions-expected-until-thursday-when-rain-rolls-through/video_05b9171e-3e98-5688-b4f5-d37e50acdfcf.html",
+          "source": "KEZI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "yr",
       "trafficCount": "100+",
@@ -52,34 +80,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "vm dart",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 2 Jan 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-AZuiM7QutRAnUB8kjS_ma24_EuywBSo01M-6_I8m_vym5-Zu-tOgZzC6voo",
-      "pictureSource": "tv2.dk",
-      "relatedSearch": [
-        {
-          "title": "\"Vanvittigt\" – 18-årigt fænomen i ny VM-finale",
-          "snippet": "",
-          "url": "https://sport.tv2.dk/2026-01-02-vanvittigt-18-aarigt-faenomen-i-ny-vm-finale",
-          "source": "tv2.dk"
-        },
-        {
-          "title": "Ung hollænder klar til VM-finale mod Littler",
-          "snippet": "",
-          "url": "https://www.dr.dk/sporten/seneste-sport/ung-hollaender-klar-til-vm-finale-mod-littler",
-          "source": "DR.dk"
-        },
-        {
-          "title": "Dartfænomenet Littler suser i tredje VM-finale i træk",
-          "snippet": "",
-          "url": "https://amtsavisen.dk/sport/dartfaenomenet-littler-suser-i-tredje-vm-finale-i-traek",
-          "source": "Randers Amtsavis"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "vejret",
       "trafficCount": "2000+",
       "pubDate": "Fri, 2 Jan 2026 21:40:00 -0800",
@@ -93,16 +93,16 @@
           "source": "vejr.tv2.dk"
         },
         {
-          "title": "Politikredse og DMI opfordrer til forsigtig kørsel forud for isdøgn",
-          "snippet": "",
-          "url": "https://ekstrabladet.dk/krimi/politikredse-og-dmi-opfordrer-til-forsigtig-koersel-forud-for-isdoegn/11054344",
-          "source": "Ekstra Bladet"
-        },
-        {
           "title": "Snevejr skaber aflysninger: Snart kan det ramme resten af landet",
           "snippet": "",
           "url": "https://politiken.dk/danmark/art10678993/Snart-kan-det-ramme-resten-af-landet",
           "source": "Politiken"
+        },
+        {
+          "title": "Hvid weekend: Årets første snebilleder fra læserne",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/vejret/hvid-weekend-aarets-foerste-snebilleder-fra-laeserne",
+          "source": "DR.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,6 +164,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "dart vm",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 2 Jan 2026 13:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-AZuiM7QutRAnUB8kjS_ma24_EuywBSo01M-6_I8m_vym5-Zu-tOgZzC6voo",
+      "pictureSource": "tv2.dk",
+      "relatedSearch": [
+        {
+          "title": "\"Vanvittigt\" – 18-årigt fænomen i ny VM-finale",
+          "snippet": "",
+          "url": "https://sport.tv2.dk/2026-01-02-vanvittigt-18-aarigt-faenomen-i-ny-vm-finale",
+          "source": "tv2.dk"
+        },
+        {
+          "title": "Ung hollænder klar til VM-finale mod Littler",
+          "snippet": "",
+          "url": "https://www.dr.dk/sporten/seneste-sport/ung-hollaender-klar-til-vm-finale-mod-littler",
+          "source": "DR.dk"
+        },
+        {
+          "title": "Dartfænomenet Littler suser i tredje VM-finale i træk",
+          "snippet": "",
+          "url": "https://amtsavisen.dk/sport/dartfaenomenet-littler-suser-i-tredje-vm-finale-i-traek",
+          "source": "Randers Amtsavis"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ted lasso",
       "trafficCount": "200+",
       "pubDate": "Fri, 2 Jan 2026 13:20:00 -0800",
@@ -195,9 +223,15 @@
       "title": "gian van veen",
       "trafficCount": "1000+",
       "pubDate": "Fri, 2 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjQUJklj4m-xOMVxjDtyh0MRaUbKxpFyDJ3CJ-I0ntvlIpWXL79EBpy9aepds",
-      "pictureSource": "AD.nl",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmW3p7fdo6FxQ0axtOZaB6ECNfm8rbnB1ZDwfUq29Wx2TyjSyiI_qjRXEDvtA",
+      "pictureSource": "NU",
       "relatedSearch": [
+        {
+          "title": "Van Veen bereikt als derde Nederlander ooit finale WK darts na zege op Anderson",
+          "snippet": "",
+          "url": "https://www.nu.nl/darts/6381409/van-veen-bereikt-als-derde-nederlander-ooit-finale-wk-darts-na-zege-op-anderson.html",
+          "source": "NU"
+        },
         {
           "title": "Snotverkouden Gian van Veen naar halve finale WK: ‘Zolang Van Gerwen dart, is hij nummer 1 van Nederland’",
           "snippet": "",
@@ -209,12 +243,6 @@
           "snippet": "",
           "url": "https://sportnieuws.nl/darts/nieuws/gian-van-veen-werkt-samen-met-oud-international-van-oranje-37-op-wk-darts-erg-tevreden-mee-2025122907272721224/",
           "source": "Sportnieuws.nl"
-        },
-        {
-          "title": "Rustig, slim, een hbo-diploma luchtvaarttechniek op zak en straks mogelijk miljonair: darter Gian van Veen reeg als piepjong mannetje de 180’ers al aaneen",
-          "snippet": "",
-          "url": "https://www.telegraaf.nl/binnenland/rustig-slim-een-hbo-diploma-luchtvaarttechniek-op-zak-en-straks-mogelijk-miljonair-darter-gian-van-veen-reeg-als-piepjong-mannetje-de-180ers-al-aaneen/121247066.html",
-          "source": "De Telegraaf"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.rollingstone.com/product-recommendations/streaming/world-darts-championship-2026-final-watch-luke-littler-online-1235493662/",
           "source": "Rolling Stone"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sarah shahi",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 2 Jan 2026 12:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn0zGrUv9GxAYdiA9bckBO2JpoEDhgAQxSshUcxJnLYktftKm9NSnr1hiIkLw",
-      "pictureSource": "E! News",
-      "relatedSearch": [
-        {
-          "title": "Sarah Shahi Confirms Breakup with Sex/Life Costar Adam Demos",
-          "snippet": "",
-          "url": "https://www.eonline.com/news/1426785/sarah-shahi-confirms-adam-demos-breakup",
-          "source": "E! News"
-        },
-        {
-          "title": "Sarah Shahi confirms breakup with 'Sex/Life' costar Adam Demos after 5 years of dating",
-          "snippet": "",
-          "url": "https://ew.com/sarah-shahi-confirms-breakup-sex-life-costar-adam-demos-11878618",
-          "source": "Entertainment Weekly"
-        },
-        {
-          "title": "Sex/Life star Sarah Shahi felt like she went through split with co-star Adam Demos twice",
-          "snippet": "",
-          "url": "https://www.femalefirst.co.uk/celebrity/sexlife-star-sarah-shahi-felt-like-went-split-star-adam-demos-twice-1435362.html",
-          "source": "Female First"
         }
       ],
       "link": "https://imtaqin.id/"
