@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-03 07:36:21",
+  "lastUpdate": "2026-01-03 07:44:02",
   "data": [
     {
       "title": "венесуэла",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Fri, 2 Jan 2026 22:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzGBz_LxRjUkYPjXFrcsOD6I150jMPP4NYyt7q39Ondqky9b5HIVDqKLoJ2d0",
       "pictureSource": "Українська правда",
@@ -15,16 +15,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "В столице Венесуэлы слышали взрывы, часть Каракаса без света",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/stolitsi-venesueli-chuli-vibuhi-chastina-1767423295.html",
-          "source": "РБК-Україна"
-        },
-        {
           "title": "СМИ: в столице Венесуэлы, которой Трамп угрожал ударами, раздаются взрывы",
           "snippet": "",
           "url": "https://www.eurointegration.com.ua/rus/news/2026/01/3/7228282/",
           "source": "Європейська правда"
+        },
+        {
+          "title": "Трамп: США впервые ударили по территории Венесуэлы",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/tramp-zaavil-cto-ssa-vpervye-udarili-po-territorii-venesuely/a-75337540",
+          "source": "DW"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,7 +43,7 @@
           "source": "Українська правда"
         },
         {
-          "title": "У столиці Венесуели чути вибухи: ЗМІ пишуть, що США завдають авіаударів (відео)",
+          "title": "У столиці Венесуели гримлять вибухи: ЗМІ пишуть, що США завдають авіаударів (відео)",
           "snippet": "",
           "url": "https://www.unian.ua/world/u-stolici-venesueli-chuti-vibuhi-zmi-pishut-shcho-ssha-zavdayut-aviaudariv-video-13244427.html",
           "source": "УНІАН"
@@ -198,34 +198,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "інна бєлєнь",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 2 Jan 2026 12:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiaYBIEB7epGJecX6tbUw8y_7LyfNusIazdmks7v4wpk5lh-D4Xgyr_j-ePD0",
-      "pictureSource": "ТСН",
-      "relatedSearch": [
-        {
-          "title": "Переможниця \"Холостяка-13\" Інна Бєлєнь вагітна первістком",
-          "snippet": "",
-          "url": "https://tsn.ua/lady/news/show-biznes/peremoznytsia-kholostiaka-13-inna-byelyen-vahitna-pervistkom-2991566.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Переможниця \"Холостяка\"-13 Бєлєнь оголосила про заручини. Фото",
-          "snippet": "",
-          "url": "https://tabloid.pravda.com.ua/focus/peremozhnicya-13-sezonu-holostyak-inna-byelyen-zaruchilasya-foto-2013715/",
-          "source": "ТаблоID"
-        },
-        {
-          "title": "Переможниця \"Холостяка-13\" виходить заміж: хто став її обранцем (фото)",
-          "snippet": "",
-          "url": "https://www.unian.ua/lite/stars/inna-byelyen-za-kogo-blogerka-vihodit-zamizh-13241877.html",
-          "source": "УНІАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "малюк",
       "trafficCount": "1000+",
       "pubDate": "Fri, 2 Jan 2026 12:10:00 -0800",
@@ -249,6 +221,34 @@
           "snippet": "",
           "url": "https://ua.korrespondent.net/ukraine/4844687-zelenskyi-mozhe-zaminyty-holovu-sbu-maluika-nardep",
           "source": "Korrespondent.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "інна бєлєнь",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 2 Jan 2026 12:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiaYBIEB7epGJecX6tbUw8y_7LyfNusIazdmks7v4wpk5lh-D4Xgyr_j-ePD0",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Переможниця \"Холостяка-13\" Інна Бєлєнь вагітна первістком",
+          "snippet": "",
+          "url": "https://tsn.ua/lady/news/show-biznes/peremoznytsia-kholostiaka-13-inna-byelyen-vahitna-pervistkom-2991566.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Переможниця \"Холостяка\"-13 Бєлєнь оголосила про заручини. Фото",
+          "snippet": "",
+          "url": "https://tabloid.pravda.com.ua/focus/peremozhnicya-13-sezonu-holostyak-inna-byelyen-zaruchilasya-foto-2013715/",
+          "source": "ТаблоID"
+        },
+        {
+          "title": "Переможниця \"Холостяка-13\" виходить заміж: хто став її обранцем (фото)",
+          "snippet": "",
+          "url": "https://www.unian.ua/lite/stars/inna-byelyen-za-kogo-blogerka-vihodit-zamizh-13241877.html",
+          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"
