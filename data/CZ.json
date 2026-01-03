@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-03 11:24:37",
+  "lastUpdate": "2026-01-03 11:32:06",
   "data": [
     {
       "title": "ct24",
@@ -59,7 +59,7 @@
     },
     {
       "title": "maduro",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 3 Jan 2026 01:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct5buHjuaO7QX66S4W9imCkkhyMHIU3JFBnqaaejcH8CsOiWvcYrOQdrp5Aw",
       "pictureSource": "Seznam Zprávy",
@@ -86,12 +86,18 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "венесуела",
+      "title": "венесуэла",
       "trafficCount": "500+",
-      "pubDate": "Sat, 3 Jan 2026 01:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa7VemXUAX--q4SiqvcCZ5uAhcdi-j05aX99myVxXfc_bSbu_NbJ2ar6n0-xg",
-      "pictureSource": "Meduza",
+      "pubDate": "Sat, 3 Jan 2026 01:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0bpM3-voW62DUP8fCEoOaCq7YkPW0QVdqBQm4h7WQm4FM3_4dzAqsMZMpmUo",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Трамп заявил об операции США в Венесуэле. По его словам, Николас Мадуро «захвачен и вывезен из страны»",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/c74v8mke7ero",
+          "source": "BBC"
+        },
         {
           "title": "CBS News: Николаса Мадуро захватили бойцы американского спецназа «Дельта»",
           "snippet": "",
@@ -103,12 +109,34 @@
           "snippet": "",
           "url": "https://www.dw.com/ru/amerikanskie-smi-ssa-nanosat-udary-po-venesuele/live-75373604",
           "source": "DW"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "caracas",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 3 Jan 2026 00:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9me5Mk0FMp-DFIJFZ2I3Qjyc4zaGHP1CxFhkQX3nwj9jcauoGfOPC_D9qrNg",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Venezuela latest: Trump says US has 'captured' President Maduro in strikes on country - latest",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c5yqygxe41pt",
+          "source": "BBC"
         },
         {
-          "title": "МИД России осудил нападение США на Венесуэлу",
+          "title": "Live updates: Multiple explosions rock Venezuelan capital Caracas",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2026/01/03/1167824-mid-rossii-osudil",
-          "source": "Ведомости"
+          "url": "https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26",
+          "source": "CNN"
+        },
+        {
+          "title": "Security Alert: Venezuela: Explosions Reported; Shelter in Place",
+          "snippet": "",
+          "url": "https://ve.usembassy.gov/security-alert-venezeula-explosions-reported-shelter-in-place/",
+          "source": "U.S. Embassy in Venezuela (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,34 +221,6 @@
           "snippet": "",
           "url": "https://www.elmundo.es/internacional/2026/01/03/6958bba9e9cf4a69368b458f.html",
           "source": "El Mundo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cnn",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 2 Jan 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9me5Mk0FMp-DFIJFZ2I3Qjyc4zaGHP1CxFhkQX3nwj9jcauoGfOPC_D9qrNg",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Venezuela latest: Trump says US has 'captured' President Maduro in strikes on country - latest",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c5yqygxe41pt",
-          "source": "BBC"
-        },
-        {
-          "title": "Live updates: Multiple explosions rock Venezuelan capital Caracas",
-          "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26",
-          "source": "CNN"
-        },
-        {
-          "title": "U.S. launches military strikes on Venezuela, Trump says Maduro captured and flown out of the country",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/",
-          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
