@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-03 10:48:19",
+  "lastUpdate": "2026-01-03 10:55:15",
   "data": [
     {
       "title": "usa",
@@ -31,7 +31,7 @@
     },
     {
       "title": "bbc news",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 3 Jan 2026 01:40:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFRUQEJLm6uZOn8V1QBdjLllyG-13-1405bGXyBG41YSQt8Kfm03oCHshbVI",
       "pictureSource": "BBC",
@@ -117,20 +117,20 @@
       "title": "byd auto",
       "trafficCount": "200+",
       "pubDate": "Fri, 2 Jan 2026 23:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwb3JDTe61ftExEFosNTzzs9GUBOZMAMJs18ZMdTuoqHKJxCgiDZ2NncXiI-c",
-      "pictureSource": "AP News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEIvm5rULtkWkkHcc6KW5BQcu-iQiZ5tuJL1rw-I60OjhT0crgrhYrzx84T7k",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "China’s BYD Surpasses Tesla as World Leader in Electric Car Sales",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Tesla loses title as world's biggest electric vehicle maker as sales fall for second year in a row",
           "snippet": "",
           "url": "https://apnews.com/article/tesla-sales-musk-trump-deliveries-robotaxi-6d60715babde97b3b1a8e2416f4065ca",
           "source": "AP News"
-        },
-        {
-          "title": "China's BYD overtakes Tesla as world's top EV seller",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo",
-          "source": "BBC"
         },
         {
           "title": "Tesla sales hit lowest point since 2022 after Musk backlash and end of tax credit",
@@ -173,20 +173,20 @@
       "title": "cnn",
       "trafficCount": "1000+",
       "pubDate": "Fri, 2 Jan 2026 23:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn5aP5ZdUFBLGL5tV8c538CNHB9S1svL9Px6dGhSI3yzhYKfES8ImNCUxTyJY",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9me5Mk0FMp-DFIJFZ2I3Qjyc4zaGHP1CxFhkQX3nwj9jcauoGfOPC_D9qrNg",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Venezuela latest: Trump says US has 'captured' President Maduro in strikes on country - latest",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c5yqygxe41pt",
+          "source": "BBC"
+        },
         {
           "title": "Live updates: Multiple explosions rock Venezuelan capital Caracas",
           "snippet": "",
           "url": "https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26",
           "source": "CNN"
-        },
-        {
-          "title": "Trump says Maduro captured, flown out as US military conducts ‘large scale’ strike",
-          "snippet": "",
-          "url": "https://thehill.com/homenews/5670708-trump-captures-maduro-us-venezuela-strikes/",
-          "source": "The Hill"
         },
         {
           "title": "U.S. launches military strikes on Venezuela, Trump says Maduro captured and flown out of the country",
