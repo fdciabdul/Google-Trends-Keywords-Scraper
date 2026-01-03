@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-01-03 15:29:43",
+  "lastUpdate": "2026-01-03 15:38:44",
   "data": [
+    {
+      "title": "brighton",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 3 Jan 2026 07:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVYQZDFBbvZ-wQnTPCUhLFztRXzcji7EjXKokGyxhFMwQ3YLMJxgBWlupvTA8",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Brighton & Hove Albion vs Burnley: Premier League preview, team news, stats & head-to-head",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cvg8g08m074t",
+          "source": "BBC"
+        },
+        {
+          "title": "Premier League predictions and best bets: Is this the start of the great escapes? Both Wolves and Burnley to win",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/news/11095/13489504/premier-league-predictions-and-best-bets-is-this-the-start-of-the-great-escapes-both-wolves-and-burnley-to-win",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Preview: Brighton & Hove Albion vs Burnley - prediction, team news, lineups",
+          "snippet": "",
+          "url": "https://www.sportsmole.co.uk/football/brighton-and-hove-albion/relegation-battle/preview/brighton-vs-burnley-prediction-team-news-lineups_588941.html",
+          "source": "Sports Mole"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "sassuolo",
       "trafficCount": "200+",
       "pubDate": "Sat, 3 Jan 2026 07:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvPhk2r-CQxX9ugRESwbd2tcMhVcydMQKcBC3DbuX4ahgvejczM2W8jP-zVU",
-      "pictureSource": "La Gazzetta dello Sport",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-6lwwyc21NcqpdSI1kJdOa2aG4k4UrhA0XJpKiqOLqNB9fOZ5NwsnBi5NlwA",
+      "pictureSource": "Diretta",
       "relatedSearch": [
-        {
-          "title": "LIVE Sassuolo-Parma 1-1: ammonito Matic, entra Konè per Lipani",
-          "snippet": "",
-          "url": "https://www.gazzetta.it/Calcio/Serie-A/Sassuolo/03-01-2026/sassuolo-parma-live-risultati-e-gol-in-diretta-serie-a.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "FORMAZIONI UFFICIALI – Fuori I. Kone! La scelta su Nzola, Delprato, Oristanio, Colombo e Tramoni",
-          "snippet": "",
-          "url": "https://www.sosfanta.com/squadra/parma/formazioni-ufficiali-fuori-i-kone-la-scelta-su-nzola-delprato-oristanio-colombo-e-tramoni/",
-          "source": "SOS Fanta"
-        },
         {
           "title": "Tutto il calcio in Diretta",
           "snippet": "",
           "url": "https://www.diretta.it/news/calcio-live-in-campo-genoa-pisa-1-1-e-sassuolo-parma-1-1/SK1IN9Q9/",
           "source": "Diretta"
+        },
+        {
+          "title": "SASSUOLO-PARMA LA CRONACA LIVE A CURA DI ANDREA BELLETTI",
+          "snippet": "",
+          "url": "https://www.stadiotardini.it/2026/01/sassuolo-parma-la-cronaca-live-a-cura-di-andrea-belletti.html",
+          "source": "Stadio Tardini"
+        },
+        {
+          "title": "Parma, la probabile formazione: da Delprato e Oristanio a Cutrone, Bernabè e Ondrejka",
+          "snippet": "",
+          "url": "https://www.sosfanta.com/news/parma-la-probabile-formazione-da-delprato-e-oristanio-a-cutrone-bernabe-e-ondrejka/",
+          "source": "SOS Fanta"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,34 +86,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "southend united",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 3 Jan 2026 06:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI99xe1ADysLaKLBRzf8fCfh0z8w0YI7ZisC2QigLg73R2qC5sF7r7Y3Xmk_o",
-      "pictureSource": "Lowestoft Journal",
-      "relatedSearch": [
-        {
-          "title": "Forget",
-          "snippet": "",
-          "url": "https://www.lowestoftjournal.co.uk/local-events/?_evDiscoveryPath=/event%2F1037460760n-forget",
-          "source": "Lowestoft Journal"
-        },
-        {
-          "title": "Delays on M25 after multi‑car crash between J16 and J17 closes two lanes",
-          "snippet": "",
-          "url": "https://www.bucksfreepress.co.uk/news/25737343.m25-delays-j16-j17-multi-car-crash/",
-          "source": "Bucks Free Press"
-        },
-        {
-          "title": "Updates as emergency services respond to seafront incident",
-          "snippet": "",
-          "url": "https://www.theargus.co.uk/news/25737330.live-emergency-services-worthing-seafront-incident/",
-          "source": "The Argus"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "genoa",
       "trafficCount": "100+",
       "pubDate": "Sat, 3 Jan 2026 06:50:00 -0800",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "southend united",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 3 Jan 2026 06:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI99xe1ADysLaKLBRzf8fCfh0z8w0YI7ZisC2QigLg73R2qC5sF7r7Y3Xmk_o",
+      "pictureSource": "Lowestoft Journal",
+      "relatedSearch": [
+        {
+          "title": "Forget",
+          "snippet": "",
+          "url": "https://www.lowestoftjournal.co.uk/local-events/?_evDiscoveryPath=/event%2F1037460760n-forget",
+          "source": "Lowestoft Journal"
+        },
+        {
+          "title": "Delays on M25 after multi‑car crash between J16 and J17 closes two lanes",
+          "snippet": "",
+          "url": "https://www.bucksfreepress.co.uk/news/25737343.m25-delays-j16-j17-multi-car-crash/",
+          "source": "Bucks Free Press"
+        },
+        {
+          "title": "Updates as emergency services respond to seafront incident",
+          "snippet": "",
+          "url": "https://www.theargus.co.uk/news/25737330.live-emergency-services-worthing-seafront-incident/",
+          "source": "The Argus"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "valencia",
       "trafficCount": "100+",
       "pubDate": "Sat, 3 Jan 2026 06:40:00 -0800",
@@ -127,16 +155,16 @@
           "source": "OneFootball"
         },
         {
-          "title": "El Celta se da un festín por Navidad a costa de los regalos del Valencia",
+          "title": "Fútbol en directo | Celta y Valencia abren el sábado; convocatoria del Barça",
           "snippet": "",
-          "url": "https://www.farodevigo.es/celta-de-vigo/2026/01/03/celta-festin-valencia-laliga-jornada-18-125341135.html",
-          "source": "Faro de Vigo"
+          "url": "https://www.flashscore.es/noticias/futbol-laliga-ea-sports-futbol-en-directo-celta-y-valencia-abren-el-sabado-convocatoria-del-barca/O4QRt9MP/",
+          "source": "Flashscore.es"
         },
         {
-          "title": "Borja Iglesias liquida a un Valencia lleno de errores",
+          "title": "El Valencia CF también es una ruina en 2026: Ridículo espantoso para empezar el año",
           "snippet": "",
-          "url": "https://www.flashscore.es/noticias/futbol-laliga-ea-sports-tarde-de-doblete-del-panda-y-de-errores-del-valencia-en-balaidos-4-1/r55ckf9a/",
-          "source": "Flashscore.es"
+          "url": "https://www.superdeporte.es/valencia-cf/2026/01/03/valencia-cf-ruina-2026-ridiculo-125340914.html",
+          "source": "Superdeporte"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +255,7 @@
     },
     {
       "title": "southend united vs truro city",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 3 Jan 2026 06:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmH495bDQP5KNUhbxR9Rld8BS9dGPwG2qa2oggleEd8zBQjxatKYdmMfVK20",
       "pictureSource": "Southend United Football Club",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://uk.sports.yahoo.com/news/stats-ahead-blues-clash-truro-002456742.html",
           "source": "Yahoo Sports UK"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wwe smackdown results",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 3 Jan 2026 06:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdburwRA97ghHV3SayUvSmBnf_sPsex5tbSZHOFIBx_JzkMPJGyx_LdpE670U",
-      "pictureSource": "WWE",
-      "relatedSearch": [
-        {
-          "title": "SmackDown results, Jan. 2, 2026: Drew McIntyre sets picture of Dusty Rhodes on fire to provoke Cody Rhodes",
-          "snippet": "",
-          "url": "https://www.wwe.com/shows/smackdown/2026-01-02",
-          "source": "WWE"
-        },
-        {
-          "title": "WWE SmackDown Results, Winners, Live Grades, Reactions and Highlights From Jan. 2",
-          "snippet": "",
-          "url": "https://bleacherreport.com/articles/25346412-wwe-smackdown-results-winners-live-grades-reactions-and-highlights-jan-2",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "WWE SmackDown (Jan. 2, 2026) Match Card And Start Time For 3-Hour Show",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/alfredkonuwa/2026/01/02/wwe-smackdown-jan-2-2026-match-card-and-start-time-for-3-hour-show/",
-          "source": "Forbes"
         }
       ],
       "link": "https://imtaqin.id/"
