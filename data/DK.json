@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-01-04 06:00:59",
+  "lastUpdate": "2026-01-04 06:13:36",
   "data": [
     {
-      "title": "vejr",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 3 Jan 2026 21:30:00 -0800",
+      "title": "vejret",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 3 Jan 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScD_-cVbq-I9JUMd93TxfixGJB6LTZiMlR7xuMlqBXGuRSYVEmIB_YtPg6HYk",
+      "pictureSource": "DR.dk",
+      "relatedSearch": [
+        {
+          "title": "Så meget sne er der faldet – og sådan fortsætter snevejret",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/vejret/saa-meget-sne-er-der-faldet-og-saadan-fortsaetter-snevejret",
+          "source": "DR.dk"
+        },
+        {
+          "title": "Trafikken går langsomt i lørdagens snebyger",
+          "snippet": "",
+          "url": "https://politiken.dk/danmark/art10679157/Trafikken-g%C3%A5r-langsomt-i-l%C3%B8rdagens-snebyger",
+          "source": "Politiken"
+        },
+        {
+          "title": "Politi og DMI opfordrer til forsigtig kørsel forud for isdøgn",
+          "snippet": "",
+          "url": "https://www.tvsyd.dk/syd-og-soenderjylland/politi-og-dmi-opfordrer-til-forsigtig-korsel-forud-for-isdogn-33041",
+          "source": "tvSyd"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "dmi vejret",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 3 Jan 2026 22:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScD_-cVbq-I9JUMd93TxfixGJB6LTZiMlR7xuMlqBXGuRSYVEmIB_YtPg6HYk",
       "pictureSource": "DR.dk",
       "relatedSearch": [
@@ -33,15 +61,9 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Sat, 3 Jan 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCEqDf1Iyrz4okO5a8-KjAJ-YYjBVM1VnrSyqoe1oESsWLQCYfw7j3AQG7MFw",
-      "pictureSource": "Runcorn and Widnes World",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrU3WwjZd-gX6weoD7RNX6TMUZHUcYaNAoap-aPmcto65UC9TOytNu-etukdY",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Hour-by-hour forecast amid snow and ice weather warning in Halton",
-          "snippet": "",
-          "url": "https://www.runcornandwidnesworld.co.uk/news/25737582.hour-by-hour-forecast-amid-snow-weather-warning-warrington/",
-          "source": "Runcorn and Widnes World"
-        },
         {
           "title": "UK weather: Snow and ice warnings to last all weekend",
           "snippet": "",
@@ -53,6 +75,12 @@
           "snippet": "",
           "url": "https://news.sky.com/story/uk-weather-snow-warnings-upgraded-to-amber-for-some-areas-as-country-sees-wintry-start-to-the-year-13489261",
           "source": "Sky News"
+        },
+        {
+          "title": "Travel disruption and freezing temperatures as snow and ice warnings hit UK",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/news/uk/home-news/scotland-met-office-travellers-arctic-england-b2893892.html",
+          "source": "The Independent"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -243,34 +271,6 @@
           "snippet": "",
           "url": "https://www.alt.dk/kendte/mentaltraener-b-s-christiansen-giver-status-pa-viktor-axelsen/5699161",
           "source": "Alt.dk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jonas vingegaard",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 3 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAWrY_8mWUJ1MlRa7Rit30XML6NrQPxtJKha1TBigm9VpLpwlaQLmwZ-7ZeZA",
-      "pictureSource": "JydskeVestkysten",
-      "relatedSearch": [
-        {
-          "title": "EM-debut har givet Vingegaard lyst til flere landsholdsopgaver",
-          "snippet": "",
-          "url": "https://jv.dk/sport/em-debut-har-givet-vingegaard-lyst-til-flere-landsholdsopgaver",
-          "source": "JydskeVestkysten"
-        },
-        {
-          "title": "Bak sprænger skalaen – Vingegaard får et stort, rundt 0 i ét løb",
-          "snippet": "",
-          "url": "https://sport.tv2.dk/cykling/2025-12-27-bak-spraenger-skalaen-vingegaard-faar-et-stort-rundt-0-i-et-loeb",
-          "source": "tv2.dk"
-        },
-        {
-          "title": "'If I could win one more race, it'd be the Giro d'Italia' – Jonas Vingegaard has agreement in place to ride the Italian Grand Tour, reports say",
-          "snippet": "",
-          "url": "https://www.cyclingweekly.com/racing/if-i-could-win-one-more-race-itd-be-the-giro-d-italia-jonas-vingegaard-has-agreement-in-place-to-ride-the-italian-grand-tour-reports-say",
-          "source": "Cycling Weekly"
         }
       ],
       "link": "https://imtaqin.id/"
