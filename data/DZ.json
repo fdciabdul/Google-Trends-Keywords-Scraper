@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-04 09:53:02",
+  "lastUpdate": "2026-01-04 09:59:52",
   "data": [
     {
       "title": "yahoo",
@@ -15,7 +15,7 @@
           "source": "San Francisco Chronicle"
         },
         {
-          "title": "Woman found dead at SF hotel believed to be daughter of actor Tommy Lee Jones",
+          "title": "Woman found dead at SF Hotel believed to be daughter of actor Tommy Lee Jones",
           "snippet": "",
           "url": "https://www.nbcbayarea.com/news/local/woman-found-dead-sf-hotel/4006464/",
           "source": "NBC Bay Area"
@@ -142,40 +142,18 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "طقس اليوم",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 3 Jan 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxwbbBoAVsBaiWbPW0bWNS4K18zrcwdjs8Icc_7X2WSC_qo_GUViCVMZF8zk",
-      "pictureSource": "الوطن",
-      "relatedSearch": [
-        {
-          "title": "عاجل.. طقس اليوم شديد البرودة.. وتحذير من الصقيع على 8 مناطق بسبب المرتفع السيبيري",
-          "snippet": "",
-          "url": "https://www.elwatannews.com/news/details/8201515",
-          "source": "الوطن"
-        },
-        {
-          "title": "«بيخلى الجو ثلج».. تعرف على المرتفع السيبيري الذى يضرب البلاد وموعد رحيله",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4166705",
-          "source": "المصري اليوم"
-        },
-        {
-          "title": "حالة الطقس الآن.. الأرصاد تحذر من موجة سقيع وأمطار على هذه المناطق - الفجر سبورت",
-          "snippet": "",
-          "url": "https://www.elfagrsport.com/egypt/199658.html",
-          "source": "الفجر سبورت"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Sat, 3 Jan 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHasariSHCBdfTwFRXYG4V8ALlBZ5aV62FnGauTjcyf30dGfV6U-LfJRgnnEI",
-      "pictureSource": "Travel And Tour World",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNIgJ0NblZBmkLbGD-tlMe9jedg_AdRRw87vz3qnjEbtdDUhRrmx_7iFkgqx8",
+      "pictureSource": "The Independent",
       "relatedSearch": [
+        {
+          "title": "UK weather mapped: Yellow warnings for snow and ice still in place amid fears of power cuts",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-map-snow-met-office-warnings-b2894120.html",
+          "source": "The Independent"
+        },
         {
           "title": "Wales Snowstorm Disruption January 2026: Met Office Issues Urgent Travel Warning for Tourists and Commuters",
           "snippet": "",
@@ -187,12 +165,6 @@
           "snippet": "",
           "url": "https://uk.news.yahoo.com/10-hours-snow-forecast-stoke-061433469.html",
           "source": "Yahoo News UK"
-        },
-        {
-          "title": "Snow warning for Powys as motorists face dangerous driving conditions",
-          "snippet": "",
-          "url": "https://www.countytimes.co.uk/news/25737762.updated-met-office-snow-ice-warnings-issued-powys/",
-          "source": "County Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,28 +226,56 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "الدوري الاسباني",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 3 Jan 2026 14:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSK3kJyJO_mSy2fcO1hIVqzanWNMivn5fuftaI0SsXztIorCYSvO10wqVztW8Q",
+      "title": "la liga",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 3 Jan 2026 14:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGiCppVeaiDan0kKpr94j8Li0s78TOowE_Ym-LWu49ef5HUwnKedtq_mdDGTw",
+      "pictureSource": "Sports Mole",
+      "relatedSearch": [
+        {
+          "title": "Team News: Real Madrid vs. Real Betis injury, suspension list, predicted XIs",
+          "snippet": "",
+          "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/team-news/real-madrid-vs-real-betis-injury-suspension-list-predicted-xis_589059.html",
+          "source": "Sports Mole"
+        },
+        {
+          "title": "Pellegrini: “We’re Confident We Can Play Our Game at the Bernabéu”",
+          "snippet": "",
+          "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/102357/pellegrini-were-confident-we-can-play-our-game-at-the-bernabeu",
+          "source": "Managing Madrid"
+        },
+        {
+          "title": "Bellingham, Rodrygo start in a 4-4-2 – How Real Madrid can line up against Real Betis",
+          "snippet": "",
+          "url": "https://madriduniversal.com/bellingham-rodrygo-start-in-a-4-4-2-how-real-madrid-can-line-up-against-real-betis/",
+          "source": "Madrid Universal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "نتائج مباريات اليوم",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 3 Jan 2026 14:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7ytJRZlizkNlDmxTA9_yS122BX8XyKimti29infhUaMFuH9oUTOn7gTU8_Pg",
       "pictureSource": "Kooora",
       "relatedSearch": [
         {
-          "title": "نجم الريال يزيد قلق ألونسو أمام بيتيس",
+          "title": "جدول مباريات ربع نهائي كأس أمم إفريقيا 2025.. والقنوات الناقلة",
           "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%84-%D9%8A%D8%B2%D9%8A%D8%AF-%D9%82%D9%84%D9%82-%D8%A7%D9%94%D9%84%D9%88%D9%86%D8%B3%D9%88-%D8%A7%D9%94%D9%85%D8%A7%D9%85-%D8%A8%D9%8A%D8%AA%D9%8A%D8%B3/bltea9f9dc7a976fc77",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%B1%D8%A8%D8%B9-%D9%86%D9%87%D8%A7%D9%8A%D9%94%D9%8A-%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%94%D9%85%D9%85-%D8%A7%D9%95%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2025-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9/blte7b25ee220755855",
           "source": "Kooora"
         },
         {
-          "title": "بيليجريني: ريال مدريد دون مبابي أمام بيتيس؟.. يمكنني القول إنني أفتقد الزلزولي!",
+          "title": "انطلاق ثمن نهائي كأس أمم إفريقيا 2025.. المواعيد والقنوات الناقلة لمباريات اليوم",
           "snippet": "",
-          "url": "https://www.goal.com/ar/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A8%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D9%8A%D9%86%D9%8A-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%AF%D9%88%D9%86-%D9%85%D8%A8%D8%A7%D8%A8%D9%8A-%D8%A7%D9%94%D9%85%D8%A7%D9%85-%D8%A8%D9%8A%D8%AA%D9%8A%D8%B3-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D8%A7%D9%84%D9%82%D9%88%D9%84-%D8%A7%D9%95%D9%86%D9%86%D9%8A-%D8%A7%D9%94%D9%81%D8%AA%D9%82%D8%AF-%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%88%D9%84%D9%8A/bltf4da91b7bb40bddb",
-          "source": "Goal.com"
+          "url": "https://24saa.com/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%AB%D9%85%D9%86-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2025-%D8%A7%D9%84%D9%85%D9%88/",
+          "source": "24 ساعة"
         },
         {
-          "title": "ريال مدريد ضد بيتيس.. الموعد والتشكيلتان والقنوات الناقلة",
+          "title": "ثلاثي عربي يتصدر نجوم مواجهات ثمن نهائي كأس الأمم الأفريقية",
           "snippet": "",
-          "url": "https://www.aljazeera.net/sport/2026/1/3/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%AA%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF",
+          "url": "https://www.aljazeera.net/sport/2026/1/2/%D8%AD%D9%83%D9%8A%D9%85%D9%8A-%D9%85%D8%AD%D8%B1%D8%B2-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1",
           "source": "الجزيرة نت"
         }
       ],
