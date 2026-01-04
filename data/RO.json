@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-04 11:43:52",
+  "lastUpdate": "2026-01-04 11:50:48",
   "data": [
     {
       "title": "lazio - napoli",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 4 Jan 2026 02:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIolEMXsFBFYbCDHPdZn_4oMhXR8UnQ25bqa6FScF8kTkv7gu_umdlwqL8_AI",
       "pictureSource": "La Gazzetta dello Sport",
@@ -59,7 +59,7 @@
     },
     {
       "title": "moderate snow ice warning",
-      "trafficCount": "2000+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 02:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrU3WwjZd-gX6weoD7RNX6TMUZHUcYaNAoap-aPmcto65UC9TOytNu-etukdY",
       "pictureSource": "BBC",
@@ -86,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "caraibe",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 4 Jan 2026 01:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRgsQzYHSw8-Ry2CQ8wnfi6ioMzFyX3tdAnomO51xwVudbLG5UaIz_fWs2ZI",
+      "pictureSource": "Le Monde.fr",
+      "relatedSearch": [
+        {
+          "title": "EN DIRECT, enlèvement de Maduro au Venezuela : le président vénézuélien incarcéré à New York ; sa vice-présidente, Delcy Rodriguez, assure l’intérim",
+          "snippet": "",
+          "url": "https://www.lemonde.fr/international/live/2026/01/04/en-direct-enlevement-de-maduro-au-venezuela-le-president-venezuelien-incarcere-a-new-york-sa-vice-presidente-delcy-rodriguez-assume-l-interim_6660411_3210.html",
+          "source": "Le Monde.fr"
+        },
+        {
+          "title": "«Il nous fait honte» : la gauche s’insurge après la prise de position de Macron sur le raid américain au Venezuela",
+          "snippet": "",
+          "url": "https://www.lefigaro.fr/politique/il-nous-fait-honte-la-gauche-s-insurge-apres-la-prise-de-position-de-macron-sur-le-raid-americain-au-venezuela-20260103",
+          "source": "Le Figaro"
+        },
+        {
+          "title": "Capture de Nicolas Maduro, transition politique, réactions... Ce que l'on sait de l'opération militaire sans précédent des Etats-Unis au Venezuela",
+          "snippet": "",
+          "url": "https://www.franceinfo.fr/monde/venezuela/capture-de-nicolas-maduro-frappes-sur-caracas-ce-que-l-on-sait-de-l-operation-militaire-sans-precedent-des-etats-unis-au-venezuela_7718257.html",
+          "source": "France Info"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "boboteaza 2026",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 3 Jan 2026 23:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfgt-lXiLHq-HpIQa6Vm8m4Iza93BO1g8XEFrQK8hnEDNmD2kIDY-OQfycdpY",
       "pictureSource": "Digi24",
@@ -226,57 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "adevărul",
-      "trafficCount": "100+",
+      "title": "weather",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 3 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhFet48SGNWJmG4prLSmZ5atmQkTl-snRHg8nrI8AugaZZuAD857OjrLKUXGk",
-      "pictureSource": "Digi24",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6AirVgb_PN51HaamaY-TXFAm0ILP4-5z-0mnEnKTtJNm4ju2YYHmJNwRNyXg",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "„Am sperat până în ultima clipă.” Mesajul lui Nicușor Dan, după anunțul că un român a murit în incendiul...",
+          "title": "More snow and ice forecast for region in Met Office warning",
           "snippet": "",
-          "url": "https://www.digi24.ro/stiri/am-sperat-pana-in-ultima-clipa-mesajul-lui-nicusor-dan-dupa-anuntul-ca-un-roman-a-murit-in-incendiul-din-crans-montana-3570891",
-          "source": "Digi24"
+          "url": "https://www.bbc.com/news/articles/c2e1k93wkyvo",
+          "source": "BBC"
         },
         {
-          "title": "Un român a murit în incendiul din Crans-Montana. MAE a confirmat",
+          "title": "Met Office weather maps show path of snow storm set to hit Birmingham",
           "snippet": "",
-          "url": "https://stirileprotv.ro/stiri/actualitate/un-roman-a-murit-in-incendiul-din-crans-montana.html",
-          "source": "Știrile Pro TV"
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/met-office-weather-maps-show-33162798",
+          "source": "Birmingham Live"
         },
         {
-          "title": "ULTIMA ORĂ Românul dat dispărut după incendiul din Crans-Montana, declarat mort de autoritățile elvețiene / Precizările MAE",
+          "title": "Merseyrail and National Rail warn of disruption as snow falls on Liverpool",
           "snippet": "",
-          "url": "https://hotnews.ro/romanul-dat-disparut-dupa-incendiul-din-crans-montana-declarat-mort-de-autoritatile-elvetiene-2143742",
-          "source": "HotNews.ro"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bali",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 3 Jan 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEG2839Quz-j4mwQl8xC0Y535zOwFNoVijW8jKEZd2CQGAnWhAqjjG6sYNVBM",
-      "pictureSource": "BusinessToday Malaysia",
-      "relatedSearch": [
-        {
-          "title": "Bali To Require Foreign Tourists To Declare Bank Accounts With Minimum Savings",
-          "snippet": "",
-          "url": "https://www.businesstoday.com.my/2026/01/03/bali-to-require-foreign-tourists-to-declare-bank-accounts-with-minimum-savings/",
-          "source": "BusinessToday Malaysia"
-        },
-        {
-          "title": "Indonesia’s Bali Sets New Standards For Quality Tourism In 2026 With Financial Scrutiny And Detailed Visitor Plans To Foster Sustainable Growth",
-          "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/indonesias-bali-sets-new-standards-for-quality-tourism-in-2026-with-financial-scrutiny-and-detailed-visitor-plans-to-foster-sustainable-growth/",
-          "source": "Travel And Tour World"
-        },
-        {
-          "title": "Indonesia Plans Stricter Screening for Incoming Bali Tourists, Including Checking Bank Account Records",
-          "snippet": "",
-          "url": "https://uniteddaily.my/en/785aa5a2-bfb9-4014-be6f-9bce8b891060/%E5%8D%B0%E5%B0%BC%E6%93%AC%E6%9B%B4%E5%9A%B4%E6%A0%BC%E7%AF%A9%E6%9F%A5%E5%85%A5%E5%A2%83%E5%B3%87%E5%8E%98%E9%81%8A%E5%AE%A2%E5%8C%85%E6%8B%AC%E5%AF%A9%E6%9F%A5%E5%AD%98%E6%AC%BE%E8%A8%98%E9%8C%84",
-          "source": "联合日报"
+          "url": "https://www.liverpoolworld.uk/news/merseyrail-warning-as-snow-falls-on-liverpool-5461949",
+          "source": "LiverpoolWorld"
         }
       ],
       "link": "https://imtaqin.id/"
