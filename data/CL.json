@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05 11:31:45",
+  "lastUpdate": "2026-01-05 11:40:53",
   "data": [
     {
       "title": "udec",
@@ -31,7 +31,7 @@
     },
     {
       "title": "ucm",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 5 Jan 2026 03:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStpb8WzfP-RtRwEfCmL4N0e61LdQDdF5doBs84Ra6H7-mFXLhSn1JxaZkQhI8",
       "pictureSource": "Diario Talca",
@@ -59,7 +59,7 @@
     },
     {
       "title": "universidad catolica",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 5 Jan 2026 03:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE5JxFUHiKS_BK7qQxSWXibXzEESwg1kYbXnoyKecI84ytZBJkLkEtqTwARcQ",
       "pictureSource": "MSN",
@@ -114,29 +114,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "universidad de chile",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 5 Jan 2026 02:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMlGcFD_-milY1545St70YliQcNiUeZ95J3OddX19AM8aJBsF5yN6c3pFMwog",
-      "pictureSource": "AS Chile",
+      "title": "ranking",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 5 Jan 2026 03:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlj4-PTbCMGgWV9lHboNg4yBLDBAURgrpTvyL0RR1u2MzC7FCoZVGGFXhX1sQ",
+      "pictureSource": "halogorlice.info",
       "relatedSearch": [
         {
-          "title": "La U vende a una de sus figuras y recibe millonaria cifra: anuncio oficial",
+          "title": "Wniosek jest jeden. Jest po co przyjeżdżać, ale nie ma gdzie się zatrzymać",
           "snippet": "",
-          "url": "https://chile.as.com/futbol/la-importante-cifra-que-recibira-la-u-por-la-salida-de-una-de-sus-figuras-f202601-n/",
-          "source": "AS Chile"
+          "url": "https://www.halogorlice.info/artykul/29419,wniosek-jest-jeden-jest-po-co-przyjezdzac-ale-nie-ma-gdzie-sie-zatrzymac",
+          "source": "halogorlice.info"
         },
         {
-          "title": "Uno menos para Francisco Meneghini: Huracán confirmó la compra de Emmanuel Ojeda a Universidad de Chile",
+          "title": "To najbardziej atrakcyjne powiaty na Warmii i Mazurach. Nowy ranking GUS",
           "snippet": "",
-          "url": "https://tntsports.cl/nacional/uno-menos-para-francisco-meneghini-huracan-confirmo-la-compra-de-emmanuel-ojeda-a-universidad-de-chile-20260104-0016.html",
-          "source": "TNT Sports"
+          "url": "https://olsztyn.eska.pl/najbardziej-atrakcyjne-powiaty-w-woj-warminsko-mazurskim-nowy-ranking-gus-aa-1jav-uLsc-4mx4.html",
+          "source": "Olsztyn Radio ESKA"
         },
         {
-          "title": "Universidad de Chile pierde definitivamente un jugador para el 2026: club argentino se queda con él",
+          "title": "Dolnośląski powiat zdeklasował Kraków. Liderzy walorów turystycznych z Dolnego Śląska",
           "snippet": "",
-          "url": "https://redgol.cl/udechile/la-u-de-chile-pierde-un-jugador-club-argentino-se-queda-con-el",
-          "source": "RedGol"
+          "url": "https://gazetawroclawska.pl/najbardziej-atrakcyjne-turystycznie-miasta-polski-2026-dolnoslaski-powiat-zdeklasowal-krakow-oto-liderzy-z-dolnego-slaska/ar/c7p2-28312253",
+          "source": "Gazeta Wrocławska"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "universidad de chile",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 5 Jan 2026 02:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJP0ptyCzTR0U_P3pxmcSzuBV8bL2-NvokllXcQv_MYJMwSm8v4ZKVH-aK90",
+      "pictureSource": "Emol",
+      "relatedSearch": [
+        {
+          "title": "Por qué no volvió antes, su \"cambio\" y elogios a Meneghini: Las definiciones y la emoción de Eduardo Vargas en su regreso a la U",
+          "snippet": "",
+          "url": "https://www.emol.com/noticias/Deportes/2026/01/04/1187563/eduardo-vargas-vuelve-udechile.html",
+          "source": "Emol"
+        },
+        {
+          "title": "¡Eduardo Vargas sella su ansiado retorno al Romántico Viajero!",
+          "snippet": "",
+          "url": "https://www.udechile.cl/noticias/eduardo-vargas-sella-su-ansiado-retorno-al-romantico-viajero",
+          "source": "Club Universidad de Chile"
+        },
+        {
+          "title": "Vargas-Charles-Díaz, un tridente con historia que se reencuentra e ilusiona a Universidad de Chile",
+          "snippet": "",
+          "url": "https://www.espn.cl/futbol/chile/nota/_/id/16146932/eduardo-vargas-charles-aranguiz-marcelo-diaz-tridente-universidad-de-chile-2026",
+          "source": "ESPN Chile"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "Clarin.com"
         },
         {
-          "title": "Revisa el pronóstico del tiempo para este 5 de enero",
+          "title": "Pronostican \"tres comportamientos meteorológicos en Santiago\": Este día se viene un bajón térmico y posibles chubascos",
           "snippet": "",
-          "url": "https://www.t13.cl/videos/el-tiempo/revisa-pronostico-del-tiempo-para-este-5-enero-4-1-2026",
-          "source": "Teletrece"
-        },
-        {
-          "title": "Vuelve la lluvia a la región Metropolitana: este es el “día clave” en que habría precipitaciones en la capital",
-          "snippet": "",
-          "url": "https://www.adnradio.cl/2026/01/04/vuelve-la-lluvia-a-la-region-metropolitana-este-es-el-dia-clave-en-que-habria-precipitaciones-en-la-capital/",
-          "source": "ADN Radio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "clima santiago",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 5 Jan 2026 01:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMk_Crd3S-RL8L4Ms_tRIIJlqZlkZaW4adPehhdFI_IoTQdSBgNkpdaniqIE",
-      "pictureSource": "Teletrece",
-      "relatedSearch": [
-        {
-          "title": "Revisa el pronóstico del tiempo para este 5 de enero",
-          "snippet": "",
-          "url": "https://www.t13.cl/videos/el-tiempo/revisa-pronostico-del-tiempo-para-este-5-enero-4-1-2026",
-          "source": "Teletrece"
-        },
-        {
-          "title": "Vuelve la lluvia a la región Metropolitana: este es el “día clave” en que habría precipitaciones en la capital",
-          "snippet": "",
-          "url": "https://www.adnradio.cl/2026/01/04/vuelve-la-lluvia-a-la-region-metropolitana-este-es-el-dia-clave-en-que-habria-precipitaciones-en-la-capital/",
-          "source": "ADN Radio"
-        },
-        {
-          "title": "Se aproximan chubascos y un bajón de temperaturas a la RM: \"Hay condiciones favorables para las precipitaciones\"",
-          "snippet": "",
-          "url": "https://www.megatiempo.cl/pronostico/9575-lluvia-santiago-proximos-dias-enero-2026-1ab.html",
+          "url": "https://www.megatiempo.cl/pronostico/9576-tiempo-santiago-lluvia-esta-semana-enero-2026-1ab.html",
           "source": "megatiempo.cl"
+        },
+        {
+          "title": "Revisa el pronóstico del tiempo para este 5 de enero",
+          "snippet": "",
+          "url": "https://www.t13.cl/videos/el-tiempo/revisa-pronostico-del-tiempo-para-este-5-enero-4-1-2026",
+          "source": "Teletrece"
         }
       ],
       "link": "https://imtaqin.id/"
