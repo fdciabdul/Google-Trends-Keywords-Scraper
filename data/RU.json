@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05 05:03:19",
+  "lastUpdate": "2026-01-05 05:21:42",
   "data": [
     {
       "title": "новости украина",
@@ -31,7 +31,7 @@
     },
     {
       "title": "лейкерс – гриззлис",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 20:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd7p-l0rgVo2_XV-EmLzuVd05Nokf7MbUVmej1sKp9tP8_Del4jpwZpYhjc7Y",
       "pictureSource": "Спорт Mail",
@@ -59,7 +59,7 @@
     },
     {
       "title": "финикс – тандер",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 4 Jan 2026 20:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUpMYUgfNh_DStkB1SSeR7FLeHXpq5YMpBDUOHR1Bof7rIQosQ5xmhd2uxiXE",
       "pictureSource": "Спорт Mail",
@@ -71,16 +71,16 @@
           "source": "Спорт Mail"
         },
         {
+          "title": "Девин Букер забросил победный трехочковый с сопротивлением Алекса Карузо и Лугенца Дорта",
+          "snippet": "",
+          "url": "https://www.slamdunk.ru/news/nba/devin-buker-zabrosil-pobednyy-trehochkovyy-s-soprotivleniem-aleksa-karuzo-i-lugentsa-dorta-r131620/",
+          "source": "Slamdunk.ru"
+        },
+        {
           "title": "Прогноз на матч Финикс – Оклахома. Убедительная победа «Тандер»",
           "snippet": "",
           "url": "https://metaratings.ru/prognozy/basketbol/finiks-oklakhoma-prognoz-na-match-nba-5-yanvarya-2026-goda/",
           "source": "Metaratings"
-        },
-        {
-          "title": "«Финикс» — «Оклахома»: прогноз и ставка 2.23 на матч 05 января",
-          "snippet": "",
-          "url": "https://www.livesport.ru/tips/basketball/2026/01/05/phoenix-suns-oklahomacitythunder/",
-          "source": "LiveSport.Ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +105,38 @@
           "source": "ЯСИА"
         },
         {
-          "title": "Умер актер Хорошев, известный по фильмам «Доктор Живаго» и «Адмиралъ»",
+          "title": "Актер Андрей Хорошев погиб, спасая человека в горячем источнике: детали",
           "snippet": "",
-          "url": "https://kino.mail.ru/news/112152-umer-akter-izvestnyij-po-filmam-doktor-zhivago-i-admiral/",
-          "source": "Кино Mail"
+          "url": "https://lady.mail.ru/article/579643-akter-horoshev-iz-doktora-zhivago-pogib-spasaya-cheloveka-v-goryachem-istochnike/",
+          "source": "Mail.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "последние новости",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 4 Jan 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRciy4tWc76sdcmD2p09xSfRoCQjaInff0lk9Ie1hQxg4-qhin65QgBypzUo8",
+      "pictureSource": "RTVI",
+      "relatedSearch": [
+        {
+          "title": "«Зависит от настроения одного человека». Когда СВО закончится почти мгновенно",
+          "snippet": "",
+          "url": "https://rtvi.com/opinions/zavisit-ot-nastroeniya-odnogo-cheloveka-kogda-svo-zakonchitsya-pochti-mgnovenno/",
+          "source": "RTVI"
+        },
+        {
+          "title": "Что будет с Украиной в 2026 году: судьба Зеленского зависит от пяти факторов",
+          "snippet": "",
+          "url": "https://ura.news/articles/1053052573",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Закончится ли спецоперация в 2026-м? Будет ли мобилизация в этом году?",
+          "snippet": "",
+          "url": "https://kursdela.biz/news/2026-01-03/zakonchitsya-li-spetsoperatsiya-v-2026-m-budet-li-mobilizatsiya-v-etom-godu-5532702",
+          "source": "Курс Дела"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://matchtv.ru/hockey/matchtvnews_NI2283419_Zashhitnik_Floridy_Ekblad_Nam_povezlo_chto_Tarasov_tak_khorosho_sygral_protiv_Kolorado",
           "source": "Матч ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ледник судного дня",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 4 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTokqkTlgsE0pwkPUi0Sa83LCKzVzQY8FecX45eWkOAkSl69ddYg3adV-55yns",
-      "pictureSource": "Рамблер/новости",
-      "relatedSearch": [
-        {
-          "title": "Ледник «Судного дня» начал движение: ждать ли катастрофы человечеству",
-          "snippet": "",
-          "url": "https://news.rambler.ua/tech/55862298-lednik-sudnogo-dnya-nachal-dvizhenie-zhdat-li-katastrofy-chelovechestvu/",
-          "source": "Рамблер/новости"
-        },
-        {
-          "title": "Ученые предупредили об опасности активного движения ледника «Судного дня»: Климат и экология: Экономика",
-          "snippet": "",
-          "url": "https://tve24.ru/news/2026/01/05/uchenye-predupredili-ob-opasnosti-aktivnogo-dvizheniya-lednika-sudnogo-dnya/",
-          "source": "Lenta.ru"
-        },
-        {
-          "title": "Учёные начали миссию по изучению ледника «Судного дня» в Антарктиде",
-          "snippet": "",
-          "url": "https://life.ru/p/1827462",
-          "source": "Life.ru"
         }
       ],
       "link": "https://imtaqin.id/"
