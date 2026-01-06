@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-01-06 06:29:20",
+  "lastUpdate": "2026-01-06 06:49:14",
   "data": [
     {
       "title": "helsingin sanomat",
       "trafficCount": "100+",
       "pubDate": "Mon, 5 Jan 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf8pok6NeTJHVhJdWyh5nG2OYYnPzCE7j5qnLELnilPxHFgUy3d5RoTU6ivkg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJY41Jm9mAkXGhjUDFObHQrPJLGOIrbIrzJ0_qgfATaN-7MFgmLIh-SKC_3wU",
       "pictureSource": "HS.fi",
       "relatedSearch": [
-        {
-          "title": "Taudit | Lepo on väärin ymmärretty flunssalääke, sanoo infektiolääkäri",
-          "snippet": "",
-          "url": "https://www.hs.fi/elama/art-2000011655025.html",
-          "source": "HS.fi"
-        },
         {
           "title": "Oluen hinta | Kauppias selittää, miksi olut on kasipäkissä niin kallista",
           "snippet": "",
@@ -21,9 +15,15 @@
           "source": "HS.fi"
         },
         {
-          "title": "Työt | Pertti Laine menetti työnsä eikä usko saavansa töitä enää tekoälyaikakaudella",
+          "title": "Taudit | Lepo on väärin ymmärretty flunssalääke, sanoo infektiolääkäri",
           "snippet": "",
-          "url": "https://www.hs.fi/feature/art-2000011684581.html",
+          "url": "https://www.hs.fi/elama/art-2000011655025.html",
+          "source": "HS.fi"
+        },
+        {
+          "title": "HS-analyysi | Venezuelaa johtavat nyt sisarukset, jotka ehdottivat diiliä Trumpille jo kauan sitten",
+          "snippet": "",
+          "url": "https://www.hs.fi/maailma/art-2000011729843.html",
           "source": "HS.fi"
         }
       ],
@@ -33,20 +33,20 @@
       "title": "joona saarelainen",
       "trafficCount": "200+",
       "pubDate": "Mon, 5 Jan 2026 15:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbdAVzWX0NtPYsFAnjnBdQkYlOr8yUB7jFYZeoCbdDBAr0O37wFzCRXfFNQfo",
-      "pictureSource": "USA Today",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT608HyRTvvGdvolXOY-ZpX2T66AsxPmGhEB8Axe7Z_AMFjkID15pBT74JcFBs",
+      "pictureSource": "IIHF",
       "relatedSearch": [
-        {
-          "title": "Sweden vs Czechia live updates, score from world juniors gold medal game",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/sports/hockey/juniors/2026/01/05/world-juniors-gold-sweden-czechia-score-watch-tv-highlights/88029125007/",
-          "source": "USA Today"
-        },
         {
           "title": "The last great adventure",
           "snippet": "",
           "url": "https://www.iihf.com/en/events/2026/wm20/news/71548/the_last_great_adventure",
           "source": "IIHF"
+        },
+        {
+          "title": "Sweden tops Czechia, wins 3rd world junior title",
+          "snippet": "",
+          "url": "https://www.espn.com/olympics/story/_/id/47522463/sweden-tops-czechia-wins-third-world-junior-hockey-crown",
+          "source": "ESPN"
         },
         {
           "title": "Red Wings draft pick Eddie Genborg starring at world junior tournament",
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "suomi u20",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 5 Jan 2026 14:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6llLN7mxKfKavxtAL3_FU6ISq3iHytFnVLOsX_YSP2HVnh7wbUitvl-5g2No",
+      "pictureSource": "Ilta-Sanomat",
+      "relatedSearch": [
+        {
+          "title": "Petteri Rimpiseltä suoraa puhetta pronssiottelun jälkeen",
+          "snippet": "",
+          "url": "https://www.is.fi/jaakiekko/art-2000011732006.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Ruotsista jyrähdys – Tähti filmasi Suomea vastaan",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/jaakiekko/a/d309f597-9bb6-4080-9c42-37a335226227",
+          "source": "Iltalehti"
+        },
+        {
+          "title": "Ismo Lehkonen ihastui Suomen ja Ruotsin välieränäytöksestä: ”Jokin taikajuoma pitää pronssipeliin vielä löytyä”",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20202570",
+          "source": "Yle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "zayne parekh",
       "trafficCount": "1000+",
       "pubDate": "Mon, 5 Jan 2026 14:20:00 -0800",
@@ -155,44 +183,16 @@
           "source": "AP News"
         },
         {
-          "title": "Real Madrid soccer legend Roberto Carlos recovering after heart surgery",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/real-madrid-soccer-legend-roberto-143427772.html",
-          "source": "Yahoo Sports"
-        },
-        {
           "title": "Brazil legend Roberto Carlos recovering in hospital",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/articles/cqxyrj9dv5go",
           "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "julius miettinen",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 5 Jan 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6llLN7mxKfKavxtAL3_FU6ISq3iHytFnVLOsX_YSP2HVnh7wbUitvl-5g2No",
-      "pictureSource": "Ilta-Sanomat",
-      "relatedSearch": [
-        {
-          "title": "Petteri Rimpiseltä suoraa puhetta pronssiottelun jälkeen",
-          "snippet": "",
-          "url": "https://www.is.fi/jaakiekko/art-2000011732006.html",
-          "source": "Ilta-Sanomat"
         },
         {
-          "title": "Ruotsista jyrähdys – Tähti filmasi Suomea vastaan",
+          "title": "Madrid great Roberto Carlos has heart surgery",
           "snippet": "",
-          "url": "https://www.iltalehti.fi/jaakiekko/a/d309f597-9bb6-4080-9c42-37a335226227",
-          "source": "Iltalehti"
-        },
-        {
-          "title": "Ismo Lehkonen ihastui Suomen ja Ruotsin välieränäytöksestä: ”Jokin taikajuoma pitää pronssipeliin vielä löytyä”",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20202570",
-          "source": "Yle"
+          "url": "https://www.espn.com/soccer/story/_/id/47462746/real-madrid-great-roberto-carlos-preventive-heart-surgery",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Jääkiekko | Nuorten Leijonien tähtipelaajat suitsuttavat päävalmentajaa: ”Eiköhän hän ole hiljentänyt aivan kaikki”",
-          "snippet": "",
-          "url": "https://www.hs.fi/urheilu/art-2000011729476.html",
-          "source": "HS.fi"
-        },
-        {
           "title": "Lauri Mikkolan hommat ohi – Tunteet pinnassa: ”Olen ylpeä”",
           "snippet": "",
           "url": "https://www.iltalehti.fi/jaakiekko/a/438f5c49-48ad-4026-bf36-3f88dbb296f5",
           "source": "Iltalehti"
+        },
+        {
+          "title": "Jääkiekko | Nuorten Leijonien tähtipelaajat suitsuttavat päävalmentajaa: ”Eiköhän hän ole hiljentänyt aivan kaikki”",
+          "snippet": "",
+          "url": "https://www.hs.fi/urheilu/art-2000011729476.html",
+          "source": "HS.fi"
         }
       ],
       "link": "https://imtaqin.id/"
