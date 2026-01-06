@@ -1,11 +1,39 @@
 {
-  "lastUpdate": "2026-01-06 05:26:25",
+  "lastUpdate": "2026-01-06 05:40:42",
   "data": [
+    {
+      "title": "helsingin sanomat",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 5 Jan 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62sYNYhGTeZC4yX1FWmEVcCQVKVB15N1IPdxk8lRBVPlCuOS2L7W9SNngH-4",
+      "pictureSource": "HS.fi",
+      "relatedSearch": [
+        {
+          "title": "Työt | Pertti Laine menetti työnsä eikä usko saavansa töitä enää tekoälyaikakaudella",
+          "snippet": "",
+          "url": "https://www.hs.fi/feature/art-2000011684581.html",
+          "source": "HS.fi"
+        },
+        {
+          "title": "Taudit | Lepo on väärin ymmärretty flunssalääke, sanoo infektiolääkäri",
+          "snippet": "",
+          "url": "https://www.hs.fi/elama/art-2000011655025.html",
+          "source": "HS.fi"
+        },
+        {
+          "title": "HS-analyysi | Kuka Venezuelaa nyt johtaa? Sisaruspari ehdotti diiliä Trumpille jo kauan sitten",
+          "snippet": "",
+          "url": "https://www.hs.fi/maailma/art-2000011729843.html",
+          "source": "HS.fi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "joona saarelainen",
       "trafficCount": "200+",
       "pubDate": "Mon, 5 Jan 2026 15:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbdAVzWX0NtPYsFAnjnBdQkYlOr8yUB7jFYZeoCbdDBAr0O37wFzCRXfFNQfo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqldUZerKd_dOHtP156zjHBxF1BJqF2m_wpnY8Av3Hyzt8a3TVpnmGGZguqSU",
       "pictureSource": "USA Today",
       "relatedSearch": [
         {
@@ -142,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "julius miettinen",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 5 Jan 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFkw1ZbDGpUimjB3t9oMilx3JJlBKiXazV9iNBlOS9RTI4D2UhYsKb4R9_pdo",
-      "pictureSource": "Ilta-Sanomat",
-      "relatedSearch": [
-        {
-          "title": "Nuorten Leijonien pelaajan temppu kuohuttaa Ruotsissa: ”Skandaali”",
-          "snippet": "",
-          "url": "https://www.is.fi/jaakiekko/art-2000011731712.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Suomen pelaajilta suorat sanat pronssiottelusta",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/jaakiekko/a/4abeb25f-7105-43d9-b408-5439d3cf417e",
-          "source": "Iltalehti"
-        },
-        {
-          "title": "Ismo Lehkonen ihastui Suomen ja Ruotsin välieränäytöksestä: ”Jokin taikajuoma pitää pronssipeliin vielä löytyä”",
-          "snippet": "",
-          "url": "https://yle.fi/a/74-20202570",
-          "source": "Yle"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "david branch",
       "trafficCount": "200+",
       "pubDate": "Mon, 5 Jan 2026 14:00:00 -0800",
@@ -211,16 +211,16 @@
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Lauri Mikkolan hommat ohi – Tunteet pinnassa: ”Olen ylpeä”",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/jaakiekko/a/438f5c49-48ad-4026-bf36-3f88dbb296f5",
-          "source": "Iltalehti"
-        },
-        {
           "title": "Jääkiekko | Nuorten Leijonien tähtipelaajat suitsuttavat päävalmentajaa: ”Eiköhän hän ole hiljentänyt aivan kaikki”",
           "snippet": "",
           "url": "https://www.hs.fi/urheilu/art-2000011729476.html",
           "source": "HS.fi"
+        },
+        {
+          "title": "Lauri Mikkolan hommat ohi – Tunteet pinnassa: ”Olen ylpeä”",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/jaakiekko/a/438f5c49-48ad-4026-bf36-3f88dbb296f5",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
