@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-06 11:30:12",
+  "lastUpdate": "2026-01-06 11:38:45",
   "data": [
     {
       "title": "елена рыбакина",
@@ -87,11 +87,30 @@
     },
     {
       "title": "новости казахстана",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 5 Jan 2026 19:30:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo17zmCvF5jdQgGYFaWqwgsa3CSyt_N-N7Ue0JY36D68xb5BT8gIXiJq51Jog",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Аскар Мустабеков назначен заместителем министра обороны",
+          "snippet": "",
+          "url": "https://www.zakon.kz/politika/6503573-askar-mustabekov-naznachen-zamestitelem-ministra-oborony.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Аскар Мустабеков назначен заместителем министра обороны Казахстана",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/askar-mustabekov-naznachen-zamestitelem-ministra-oboroni-kazahstana-0496cd",
+          "source": "Казинформ"
+        },
+        {
+          "title": "Аскар Мустабеков стал заместителем министра обороны",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/askar-mustabekov-stal-zamestitelem-ministra-oboronyi-589760/",
+          "source": "Tengrinews"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -146,34 +165,6 @@
           "snippet": "",
           "url": "https://www.lada.kz/kazakhstan-news/147906-vse-prazdniki-i-perenosy-kak-otdykhaem-v-kazakhstane-v-2026-godu.html",
           "source": "Новости Актау и Мангистауской области"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 5 Jan 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkGNZAD5Z2PWu-aZUOUEDhCZnfZ1TlrMIgRoCy_7xcIZ7cfJ72_bejUJGMCkk",
-      "pictureSource": "Новости Zakon.kz",
-      "relatedSearch": [
-        {
-          "title": "Токаев объявил 2026-й Годом цифровизации и искусственного интеллекта",
-          "snippet": "",
-          "url": "https://www.zakon.kz/politika/6503571-tokaev-obyavil-2026y-godom-tsifrovizatsii-i-iskusstvennogo-intellekta.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Год цифровизации и ИИ: энергетика Казахстана в 2026 году переходит к масштабированию цифровых проектов",
-          "snippet": "",
-          "url": "https://ortcom.kz/ru/deyatelnost-pravitelstva/1767605345",
-          "source": "Служба центральных коммуникаций при Президенте РК"
-        },
-        {
-          "title": "ChatGPT для госуслуг: Казахстан тестирует новую ИИ-платформу",
-          "snippet": "",
-          "url": "https://www.inform.kz/ru/chatgpt-dlya-gosuslug-kazahstan-testiruet-novuyu-ii-platformu-30061a",
-          "source": "Казинформ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -258,6 +249,34 @@
           "snippet": "",
           "url": "https://www.sport-express.net/football/africa-cup/reviews/egipet-benin-nigeriya-mozambik-rezultaty-i-obzory-matchey-kubka-afriki-5-yanvarya-2026-video-golov-2388308/",
           "source": "sport-express.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сочи – динамо москва",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 5 Jan 2026 08:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxYUXlqJN68uywJo7OmqIMQR4-urfweiURsRxjfz-HDYNJPVUUcq8eXVE_EgY",
+      "pictureSource": "Спорт Mail",
+      "relatedSearch": [
+        {
+          "title": "Тренер «Сочи» Михайлов о 2:0 с «Динамо»: «Команда сплотилась, сейчас мало какая шайба долетает до ворот. Хомченко здорово отыграл»",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/hockey/69340573/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Московское «Динамо» проиграло «Сочи» в матче чемпионата Континентальной хоккейной лиги",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/moskovskoe-dinamo-proigralo-sochi-v-matche-chempionata-kontinentalnoy-khokkeynoy-ligi.html",
+          "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "«Сочи» победил московское «Динамо» в матче КХЛ",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/KHL/spbnews_NI2283533_Sochi_pobedil_moskovskoje_Dinamo_v_matche_KKhL",
+          "source": "Sportbox"
         }
       ],
       "link": "https://imtaqin.id/"
