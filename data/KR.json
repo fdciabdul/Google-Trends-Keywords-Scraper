@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-06 05:58:35",
+  "lastUpdate": "2026-01-06 06:14:07",
   "data": [
+    {
+      "title": "하이닉스",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 5 Jan 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd_oeQd-qIbIDFKPT6nY2ehR9CRE-YxQ3HRmKqrtvsR-6sa-9kV0v39wZ4T_0",
+      "pictureSource": "대한민국 정책브리핑",
+      "relatedSearch": [
+        {
+          "title": "AI 반도체 전쟁, 대한민국이 '골든타임'을 잡으려면",
+          "snippet": "",
+          "url": "https://www.korea.kr/news/contributePolicyView.do?newsId=148957486",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "[CES2026]‘HBM 초격차’ 노리는 SK하이닉스, 차세대 HBM4 16단 48GB 공개",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260106144549712",
+          "source": "Daum"
+        },
+        {
+          "title": "[CES 2026] SK하이닉스 HBM4 16단 첫선…곽노정, 엔비디아와 회동(종합)",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260106024001003",
+          "source": "연합뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "건국대",
       "trafficCount": "500+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://news.mtn.co.kr/news-detail/2026010613395987609",
           "source": "MTN 머니투데이방송"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "하이닉스",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 5 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd_oeQd-qIbIDFKPT6nY2ehR9CRE-YxQ3HRmKqrtvsR-6sa-9kV0v39wZ4T_0",
-      "pictureSource": "대한민국 정책브리핑",
-      "relatedSearch": [
-        {
-          "title": "AI 반도체 전쟁, 대한민국이 '골든타임'을 잡으려면",
-          "snippet": "",
-          "url": "https://www.korea.kr/news/contributePolicyView.do?newsId=148957486",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "SK하이닉스 “올해 반도체 고속성장…시장주도권 유지”",
-          "snippet": "",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1238265.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "[CES2026] SK하이닉스, HBM4 16단 최초 공개",
-          "snippet": "",
-          "url": "https://www.etnews.com/20260106000126",
-          "source": "전자신문"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "네이트"
         },
         {
-          "title": "460만 자 대화 공개…정희원 '위력에 의한 강압 없었다' [이슈&톡]",
+          "title": "‘저속노화’ 정희원 의사, 성추행 사건 새 국면 “알고보니 ‘을질’을 당했다”",
           "snippet": "",
-          "url": "https://news.nate.com/view/20260106n18048",
-          "source": "네이트"
+          "url": "https://www.sportsseoul.com/news/read/1576016",
+          "source": "스포츠서울"
         },
         {
-          "title": "정희원 교수·전 연구원 대화 내용 공개…누가 갑이고 을이었나 보니",
+          "title": "'저속노화' 정희원, 성 착취 가해자 아닌 피해자?..\"불륜해볼까\" 연구원 대화 공개 [스타이슈]",
           "snippet": "",
-          "url": "https://news.nate.com/view/20260106n16960",
-          "source": "네이트"
+          "url": "https://www.starnewskorea.com/star/2026/01/06/2026010614363014288",
+          "source": "스타뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -146,8 +146,14 @@
       "trafficCount": "100+",
       "pubDate": "Mon, 5 Jan 2026 19:50:00 -0800",
       "picture": "",
-      "pictureSource": "네이트",
+      "pictureSource": "스포츠동아",
       "relatedSearch": [
+        {
+          "title": "“두 男와 함께…” ‘솔로지옥5’, 선 제대로 넘었다",
+          "snippet": "",
+          "url": "https://sports.donga.com/ent/article/all/20260106/133099499/1",
+          "source": "스포츠동아"
+        },
         {
           "title": "'솔로지옥' 아닌 '살색지옥'…시즌5 티저부터 \"선정적\" [김소연의 엔터뷰]",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://hypebeast.kr/2026/1/netflix-releases-main-trailer-for-singles-inferno-season-5",
           "source": "Hypebeast.KR"
-        },
-        {
-          "title": "'솔로지옥5' 포스터·예고편 공개…출연진 첫 공개",
-          "snippet": "",
-          "url": "https://www.dailian.co.kr/news/view/1594696",
-          "source": "데일리안 미디어"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,10 +239,10 @@
           "source": "Daum"
         },
         {
-          "title": "\"삼성전자, 올해 영업익 3배 급증…18만원 간다\"[줍줍리포트]",
+          "title": "삼성·LG, 4분기 실적 희비...반도체 호황 속 가전 부진",
           "snippet": "",
-          "url": "https://www.sedaily.com/NewsView/2K774NN3JN",
-          "source": "서울경제신문"
+          "url": "https://zdnet.co.kr/view/?no=20260105094106",
+          "source": "지디넷코리아"
         }
       ],
       "link": "https://imtaqin.id/"
