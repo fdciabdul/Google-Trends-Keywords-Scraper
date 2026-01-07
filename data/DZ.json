@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-07 07:00:21",
+  "lastUpdate": "2026-01-07 07:13:00",
   "data": [
     {
       "title": "بريد الجزائر",
@@ -31,28 +31,84 @@
     },
     {
       "title": "weather",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 6 Jan 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDc513StJlDttRqcvMmDnH6Hdehfrjb1toVdur9sER4Wu3nvD3tJVGPitXg9o",
-      "pictureSource": "HortWeek",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeeKAgJXZVCedmTXM_kR2oscw0AcFPGWGp9cxSKWw0X0B3eVypLHjkwTD0MP0",
+      "pictureSource": "Cleveland 19 News",
       "relatedSearch": [
         {
-          "title": "Health & Safety Executive issues cold weather working warning as snow hits UK",
+          "title": "Northeast Ohio Weather: January thaw continues",
           "snippet": "",
-          "url": "https://www.hortweek.com/health-safety-executive-issues-cold-weather-working-warning-snow-hits-uk/retail/article/1944357",
-          "source": "HortWeek"
+          "url": "https://www.cleveland19.com/2026/01/07/northeast-ohio-weather-january-thaw-continues/",
+          "source": "Cleveland 19 News"
         },
         {
-          "title": "Can you get time off work if your child’s school is closed?",
+          "title": "Rainy week ahead for Cleveland with above-average temperatures",
           "snippet": "",
-          "url": "https://www.joe.co.uk/news/can-you-get-time-off-work-if-your-childs-school-is-closed-518463",
-          "source": "JOE.co.uk"
+          "url": "https://www.cleveland.com/news/2026/01/rainy-week-ahead-for-cleveland-with-above-average-temperatures.html",
+          "source": "Cleveland.com"
         },
         {
-          "title": "Your rights at work as temperatures plummet to -2C in Merseyside",
+          "title": "Finding some mild & dry time between our waves of rain this week",
           "snippet": "",
-          "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/your-rights-work-temperatures-plummet-33168500",
-          "source": "Liverpool Echo"
+          "url": "https://www.news5cleveland.com/weather/finding-some-mild-dry-time-between-our-waves-of-rain-this-week",
+          "source": "News 5 Cleveland WEWS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الأحوال الجوية",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 6 Jan 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz2FLr-9IxhUZKApTrKAFiF3t4L4So1boXmMyOkkKaDT_Thdwbb6QQ4Z7kcys",
+      "pictureSource": "القدس العربي",
+      "relatedSearch": [
+        {
+          "title": "طقس مضطرب بالمغرب.. مصرع شخصين و\"الأرصاد\" تجدد تحذيراتها",
+          "snippet": "",
+          "url": "https://www.alquds.co.uk/%D8%B7%D9%82%D8%B3-%D9%85%D8%B6%D8%B7%D8%B1%D8%A8-%D8%A8%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7/",
+          "source": "القدس العربي"
+        },
+        {
+          "title": "واد حامل حدا تارودانت دا معه أب وبنتو فوق الموطور وما تلقاو حتى لهاد الصباح .",
+          "snippet": "",
+          "url": "https://a5r5br.net/morocco/local-news/7104247-%D9%88%D8%A7%D8%AF-%D8%AD%D8%A7%D9%85%D9%84-%D8%AD%D8%AF%D8%A7-%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D8%AF%D8%A7-%D9%85%D8%B9%D9%87-%D8%A3%D8%A8-%D9%88%D8%A8%D9%86%D8%AA%D9%88-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B7%D9%88%D8%B1-%D9%88%D9%85%D8%A7-%D8%AA%D9%84%D9%82%D8%A7%D9%88-%D8%AD%D8%AA%D9%89-%D9%84%D9%87%D8%A7%D8%AF-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD",
+          "source": "a5r5br.net"
+        },
+        {
+          "title": "العثور على جثتي أب وابنته جرفتهما مياه فيضان وادي باجو بجماعة سيدي واعزيز بتارودانت",
+          "snippet": "",
+          "url": "https://www.ahdath.info/article/248317/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D9%88%D9%82%D8%A7%D8%A6%D8%B9/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%AB%D8%AA%D9%8A-%D8%A3%D8%A8-%D9%88%D8%A7%D8%A8%D9%86%D8%AA%D9%87-%D8%AC%D8%B1%D9%81%D8%AA%D9%87%D9%85%D8%A7-%D9%85%D9%8A%D8%A7%D9%87-%D9%81%D9%8A%D8%B6%D8%A7%D9%86-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A8%D8%A7%D8%AC%D9%88-%D8%A8%D8%AC%D9%85%D8%A7%D8%B9%D8%A9-%D8%B3%D9%8A%D8%AF%D9%8A-%D9%88%D8%A7%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A8%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA",
+          "source": "أحداث.أنفو"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 6 Jan 2026 21:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSediN5GYHagmwQyCmjAMpBRtCNhqdbzbNP8ZpisrNaa0sNMpTPilibfx3wrzU",
+      "pictureSource": "المصري اليوم",
+      "relatedSearch": [
+        {
+          "title": "مع التحذيرات من الطقس غدًا.. نصيحة للسائقين بوضع صابون الأطباق فى السيارات",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/4169038",
+          "source": "المصري اليوم"
+        },
+        {
+          "title": "منخفض جوي: الأرصاد المصرية تحذر من طقس شديد البرودة | صحيفة الخليج",
+          "snippet": "",
+          "url": "https://www.alkhaleej.ae/2026-01-05/%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D8%B4%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-6250416/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
+          "source": "الخليج"
+        },
+        {
+          "title": "صقيع وظاهرة تعيشها المحافظات | الأرصاد تكشف لـ صدى البلد حالة الطقس في 7 أيام",
+          "snippet": "",
+          "url": "https://www.elfagrsport.com/egypt/203052.html",
+          "source": "الفجر سبورت"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "الطقس اليوم",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 6 Jan 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSediN5GYHagmwQyCmjAMpBRtCNhqdbzbNP8ZpisrNaa0sNMpTPilibfx3wrzU",
-      "pictureSource": "المصري اليوم",
-      "relatedSearch": [
-        {
-          "title": "مع التحذيرات من الطقس غدًا.. نصيحة للسائقين بوضع صابون الأطباق فى السيارات",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4169038",
-          "source": "المصري اليوم"
-        },
-        {
-          "title": "منخفض جوي: الأرصاد المصرية تحذر من طقس شديد البرودة | صحيفة الخليج",
-          "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-01-05/%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D8%B4%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-6250416/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
-          "source": "الخليج"
-        },
-        {
-          "title": "صقيع وظاهرة تعيشها المحافظات | الأرصاد تكشف لـ صدى البلد حالة الطقس في 7 أيام",
-          "snippet": "",
-          "url": "https://www.elfagrsport.com/egypt/203052.html",
-          "source": "الفجر سبورت"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "sporting – guimarães",
       "trafficCount": "500+",
       "pubDate": "Tue, 6 Jan 2026 13:20:00 -0800",
@@ -133,10 +161,10 @@
           "source": "A Bola"
         },
         {
-          "title": "Luís Pinto: “A alma vitoriana esteve presente e isso deixa-nos felizes”",
+          "title": "Dois golos nos descontos colocam Vitória de Guimarães na final da Taça da Liga",
           "snippet": "",
-          "url": "https://tribuna.expresso.pt/futebol-nacional/2026-01-06-luis-pinto-a-alma-vitoriana-esteve-presente-e-isso-deixa-nos-felizes-bd6afe13?utm_source=olimpia&utm_medium=category&utm_campaign=WEB&utm_content=/futebol-nacional/2026-01-06-luis-pinto-a-alma-vitoriana-esteve-presente-e-isso-deixa-nos-felizes-bd6afe13",
-          "source": "Tribuna Expresso"
+          "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-na-final-da-taca-da-liga-com-reviravolta_e1708267",
+          "source": "RTP"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +229,26 @@
       "title": "وست هام ضد نوتينغهام فورست",
       "trafficCount": "200+",
       "pubDate": "Tue, 6 Jan 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PxlK2SDNGX9VJlOUvzeTUPXD3ZsMQUxFMwMGuuvq2iWWyEtmD8kcyVI4I-U",
-      "pictureSource": "رأي اليوم",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ6YwbdUIYMEWvzMU9Sz7S3sQfxDCRh95cOl3mqSBsXMgKllhkA960tW01WjE",
+      "pictureSource": "عكاظ",
       "relatedSearch": [
         {
-          "title": "نوتينغهام فورست يعمق جراح وست هام في البريميرليغ",
+          "title": "بعد 20 مباراة.. وولفرهامبتون يتذوّق طعم الفوز",
           "snippet": "",
-          "url": "https://www.raialyoum.com/%D9%86%D9%88%D8%AA%D9%8A%D9%86%D8%BA%D9%87%D8%A7%D9%85-%D9%81%D9%88%D8%B1%D8%B3%D8%AA-%D9%8A%D8%B9%D9%85%D9%82-%D8%AC%D8%B1%D8%A7%D8%AD-%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84/",
-          "source": "رأي اليوم"
+          "url": "https://www.okaz.com.sa/sport/na/2229606",
+          "source": "عكاظ"
         },
         {
-          "title": "نوتنغهام فورست ينتفض ويهزم وست هام في الدوري الانكليزي",
+          "title": "مستقبل نونو إسبيريتو سانتو على المحك في وست هام",
           "snippet": "",
-          "url": "https://www.elsport.com/news/show/806719/%D9%86%D9%88%D8%AA%D9%86%D8%BA%D9%87%D8%A7%D9%85-%D9%81%D9%88%D8%B1%D8%B3%D8%AA-%D9%8A%D9%86%D8%AA%D9%81%D8%B6-%D9%88%D9%8A%D9%87%D8%B2%D9%85-%D9%88%D8%B3%D8%AA-%D9%87%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%83%D9%84%D9%8A%D8%B2",
-          "source": "Elsport"
+          "url": "http://www.elbotola.com/article/2026-01-06-11-20-208.html",
+          "source": "Elbotola"
         },
         {
-          "title": "الدوري الإنجليزي، وست هام يتقدم على نوتنجهام 0 1 في الشوط الأول",
+          "title": "ولفرهامبتون ينتصر أخيرا في الدوري الإنجليزي",
           "snippet": "",
-          "url": "https://www.vetogate.com/5568196",
-          "source": "فيتو"
+          "url": "https://www.reuters.com/ar/sports/MU5JO7N5YZPQHLFE7R6KPMRP3I-2026-01-03/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,13 +257,13 @@
       "title": "ساسولو ضد يوفنتوس",
       "trafficCount": "200+",
       "pubDate": "Tue, 6 Jan 2026 12:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaJBQPe6VcDLPPgXxRrbk5rpgLjf5ijJ1tiPVTfDe2EXdaG_weuKjMaVBK6kQ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpx_Lh7AoIT06xV8xTxrn6sekEFOuQEMsrYaLCjfgHmTP2FhsfjzXidqoomFM",
       "pictureSource": "Kooora",
       "relatedSearch": [
         {
-          "title": "بالفيديو.. احتفال جنوني بنجم يوفنتوس بعد لحظات من المعاناة",
+          "title": "يوفنتوس يضرب ساسولو بالثلاثة في عقر داره",
           "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88--%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%AC%D9%86%D9%88%D9%86%D9%8A-%D8%A8%D9%86%D8%AC%D9%85-%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D8%A8%D8%B9%D8%AF-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9/blt8804e6bfc25250d3",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%B3%D8%A7%D8%B3%D9%88%D9%84%D9%88-%D8%A8%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%81%D9%8A-%D8%B9%D9%82%D8%B1-%D8%AF%D8%A7%D8%B1%D9%87/bltb4aac263bf439b8a",
           "source": "Kooora"
         },
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.raialyoum.com/%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%8A%D8%AA%D8%AE%D8%B7%D9%89-%D8%B3%D8%A7%D8%B3%D9%88%D9%84%D9%88-%D8%A8%D8%B3%D9%87%D9%88%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A/",
           "source": "رأي اليوم"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "اوسيمين",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 6 Jan 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQflPU_IOn1yu8U7HKUfjXNwA3Tx28XyXh8wDMRhUMubQmT-Hx2AZiav4NW3a0",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "قنبلة.. أوسيمين يقرر مغادرة معسكر نيجيريا والعودة إلى تركيا",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%82%D9%86%D8%A8%D9%84%D8%A9--%D8%A7%D9%94%D9%88%D8%B3%D9%8A%D9%85%D9%8A%D9%86-%D9%8A%D9%82%D8%B1%D8%B1-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%95%D9%84%D9%89-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/blt9801fae43ee11db6",
-          "source": "Kooora"
-        },
-        {
-          "title": "شاهد.. نيجيريا تهزم موزمبيق برباعية وتتأهل إلى ربع نهائي كأس الأمم الأفريقية",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/sport/2026/1/6/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%8A%D8%A7-%D9%85%D9%88%D8%B2%D9%85%D8%A8%D9%8A%D9%82-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%85",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "خلافا للشائعات.. فيكتور أوسيمين يواصل تدريباته مع منتخب نيجيريا",
-          "snippet": "",
-          "url": "https://24saa.com/%D8%AE%D9%84%D8%A7%D9%81%D8%A7-%D9%84%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A7%D8%AA-%D9%81%D9%8A%D9%83%D8%AA%D9%88%D8%B1-%D8%A3%D9%88%D8%B3%D9%8A%D9%85%D9%8A%D9%86-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AA/",
-          "source": "24 ساعة"
         }
       ],
       "link": "https://imtaqin.id/"
