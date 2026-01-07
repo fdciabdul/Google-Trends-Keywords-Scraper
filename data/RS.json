@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-07 08:19:41",
+  "lastUpdate": "2026-01-07 08:36:21",
   "data": [
     {
       "title": "polozajnik",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 6 Jan 2026 23:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRq7-Q7v36VeiDg_6GLQP72C3mGJLtNLNHlZJ_qwZt8ijtkjkWQsqvhammg1HI",
       "pictureSource": "N1",
@@ -33,20 +33,20 @@
       "title": "stanje na putevima",
       "trafficCount": "200+",
       "pubDate": "Tue, 6 Jan 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxU35JygjvCEMRU9Yt-QvMWvs26roAMeFFn7cd2hxL8Ur8e9iCWxZZzSrmkJY",
-      "pictureSource": "Danas",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpiYtTjlY5naiC6w1S1ib1fF_M2lBGR9X_WxbheFRDOIvD-v9jqbRjqNc8PI",
+      "pictureSource": "Blic",
       "relatedSearch": [
+        {
+          "title": "Nižu se hitna upozorenja: Putevi Srbije upalili alarm - pašće još puno snega",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/drustvo/nizu-se-hitna-upozorenja-putevi-srbije-upalili-alarm-pasce-jos-puno-snega/mwf5s4b",
+          "source": "Blic"
+        },
         {
           "title": "AMSS: Kakvo je stanje na putevima, na božićno jutro?",
           "snippet": "",
           "url": "https://www.danas.rs/vesti/drustvo/amss-kakvo-je-stanje-na-putevima-na-bozicno-jutro/",
           "source": "Danas"
-        },
-        {
-          "title": "HITAN APEL AMSS NA BOŽIĆ Na put krećite samo sa zimskom opremom, pripremite se i na gužve",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/drustvo/apel-amss-na-bozic-na-put-krecite-sa-zimskom-opremom-pripremite-se-i-na-guzve/w775cyg",
-          "source": "Blic"
         },
         {
           "title": "JP \"Putevi Srbije\": Auto-putevi, državni putevi prvog i drugog reda prohodni za saobraćaj",
@@ -61,9 +61,15 @@
       "title": "severe snow ice warning",
       "trafficCount": "100+",
       "pubDate": "Tue, 6 Jan 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSF6lRP1XjzdYkahsDPGYd1YCm3pBKO8L7XUn7fAfi9lsgefzfmpCE6nHd4hdA",
-      "pictureSource": "The Scotsman",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSe3m2RYofJt2ASqJzRZY4FcTmwaMAQyAvJ5N10TKqCLcrQFroCdsGuNMhME8",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "UK weather latest: Ice warnings for nearly all of UK as Scotland set for heavy snow",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/live/cgez72ln8wwt",
+          "source": "BBC"
+        },
         {
           "title": "Fresh call for military assistance and thousands of pupils at home amid 'one of biggest snow events of last 20 years'",
           "snippet": "",
@@ -75,12 +81,34 @@
           "snippet": "",
           "url": "https://www.chroniclelive.co.uk/news/north-east-news/new-major-snowstorm-forecast-north-33177033",
           "source": "Chronicle Live"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мир божији христос се роди",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 6 Jan 2026 16:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXhnsJv-t99p8xf1yiPpUCpoisQM4kIddB8XV3SCLNvxRkmc_LQ1Cct_B4skg",
+      "pictureSource": "РТС",
+      "relatedSearch": [
+        {
+          "title": "Инциденти на Бадњи дан, тзв. косовска полиција одузела мајице и транспарент због православних натписа",
+          "snippet": "",
+          "url": "https://www.rts.rs/vesti/politika/5861842/incidenti-kosovo-badnji-dan-gracanica-mitrovica.html",
+          "source": "РТС"
         },
         {
-          "title": "Schools remain closed as ice warnings take effect",
+          "title": "Полиција вратила транспарент „Мир Божји, Христос се роди”, одмах је и постављен у Косовској Митровици",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c3wz8ev4w29o",
-          "source": "BBC"
+          "url": "https://www.politika.rs/scc/clanak/722790/policija-vratila-transparent-mir-bozji-hristos-se-rodi-odmah-je-i-postavljen-u-kosovskoj-mitrovici",
+          "source": "Politika"
+        },
+        {
+          "title": "ПРЕДСЕДНИК ОПШТИНЕ ГРАЧАНИЦА ЖИВИЋ: Уместо поштовања празничног мира Срби из Добротина доживели малтретирање",
+          "snippet": "",
+          "url": "https://www.novosti.rs/c/srbija/vesti/1562378/predsednik-opstine-gracanica-zivic-umesto-postovanja-praznicnog-mira-srbi-dobrotina-doziveli-maltretiranje",
+          "source": "Novosti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "Blic"
         },
         {
-          "title": "Srećan Božić!",
-          "snippet": "",
-          "url": "https://www.b92.net/info/drustvo/196428/srecan-bozic/vest",
-          "source": "B92"
-        },
-        {
           "title": "Božić po julijanskom kalendaru: Praznik novog života, mira i porodičnih vrednosti",
           "snippet": "",
           "url": "https://www.danas.rs/zivot/bozic-julijanski-kalendar-obicaji/",
           "source": "Danas"
+        },
+        {
+          "title": "Uživo Proslava Božića u Srbiji: U toku liturgija u Hramu Svetog Save, služi patrijarh Porfirije VIDEO",
+          "snippet": "",
+          "url": "https://www.b92.net/info/drustvo/196480/proslava-bozica-u-srbiji-u-toku-liturgija-u-hramu-svetog-save-sluzi-patrijarh-porfirije-video/vest",
+          "source": "B92"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,20 +173,20 @@
       "title": "greenland",
       "trafficCount": "100+",
       "pubDate": "Tue, 6 Jan 2026 15:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_y4DFdZZ96W1Dj8NkA0zGGXfFzqfqULmQ69QrUoKkz39gGbd9ScAtiWFM1xg",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmRuhBdeNmJ4pKkLopTOgdyIEr99lF1aQA5epu_koRGcVgHSaiZbikV-6hrOw",
+      "pictureSource": "The Economist",
       "relatedSearch": [
+        {
+          "title": "The White House weighs how to acquire Greenland",
+          "snippet": "",
+          "url": "https://www.economist.com/the-americas/2026/01/05/the-white-house-weighs-how-to-acquire-greenland",
+          "source": "The Economist"
+        },
         {
           "title": "Why Trump wants Greenland — and what makes it so important for national security",
           "snippet": "",
           "url": "https://www.cnbc.com/2026/01/07/why-trump-wants-greenland-and-what-makes-it-so-important-for-security.html",
           "source": "CNBC"
-        },
-        {
-          "title": "Denmark has reason to worry that something is rotten in Washington",
-          "snippet": "",
-          "url": "https://www.bostonglobe.com/2026/01/07/opinion/letters-denmark-greenland-trump-threats/",
-          "source": "The Boston Globe"
         },
         {
           "title": "White House floats military option for Greenland, rattling Denmark and NATO",
@@ -199,7 +227,7 @@
     },
     {
       "title": "matija radulovic",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 6 Jan 2026 14:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhWyav5R0QaBjKbdjDUiEzxFM2V9oPc-Rnl5E-Ez6qVClniOAZ5ANl-lcJVYM",
       "pictureSource": "Blic",
@@ -211,16 +239,16 @@
           "source": "Blic"
         },
         {
-          "title": "Poznati frizer preminuo u 43. godini: Estrada se oprašta od saradnika",
-          "snippet": "",
-          "url": "https://nova.rs/zabava/sudbine/umro-frizer-matija-radulovic/",
-          "source": "Nova"
-        },
-        {
           "title": "Juče sam mu čestitala Novu godinu... Slađa Poršelina slomljenja zbog smrti prijatelja i frizera Makija, oglasila se za Pink.rs! Ne dolazi sebi od tuge",
           "snippet": "",
           "url": "https://pink.rs/domaci/751620/juce-sam-mu-cestitala-novu-godinu-slada-porselina-slomljenja-zbog-smrti-prijatelja-i-frizera-makija-oglasila-se-za-pink-rs-ne-dolazi-sebi-od-tuge",
           "source": "Pink.rs"
+        },
+        {
+          "title": "Poznati frizer preminuo u 43. godini: Estrada se oprašta od saradnika",
+          "snippet": "",
+          "url": "https://nova.rs/zabava/sudbine/umro-frizer-matija-radulovic/",
+          "source": "Nova"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.kurir.rs/vesti/drustvo/9879238/pozar-u-manastiru-ribnica",
           "source": "Kurir"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sveta petka",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 6 Jan 2026 13:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAkt7v10PQwXHE6ezMPjommjME6Y-5VhaET2eTkkUoTEd2rk0qvN4CnnTykzQ",
-      "pictureSource": "Telegraf.rs",
-      "relatedSearch": [
-        {
-          "title": "Poznato koji filmovi će biti na RTS-u za Božić: Od bezvremenskih klasika do domaćih hitova",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/pop-i-kultura/film-tv/4244846-poznati-koji-filmovi-ce-biti-na-rts-u-za-bozic-od-bezvremenskih-klasika-do-domacih-hitova",
-          "source": "Telegraf.rs"
-        },
-        {
-          "title": "Gde za Badnji dan možete pogledati film \"Sveta Petka - Krst u pustinji\"",
-          "snippet": "",
-          "url": "https://informer.rs/zabava/kultura/1080332/sveta-petka-krst-u-pustinji-badnji-dan",
-          "source": "Informer"
-        },
-        {
-          "title": "PROGRAMSKA ŠEMA za 6. januar |Filmovi i serije",
-          "snippet": "",
-          "url": "https://alo.rs/razonoda/filmovi-i-serije/542607/programska-sema-za-6-januar.html",
-          "source": "Alo!"
         }
       ],
       "link": "https://imtaqin.id/"
