@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-01-07 05:42:39",
+  "lastUpdate": "2026-01-07 05:52:26",
   "data": [
     {
       "title": "погода вінниця",
       "trafficCount": "200+",
       "pubDate": "Tue, 6 Jan 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIvmT5uWThFtEdSGT-gWH4Ssno6Hxwiwyz9H2co03bbvLelN8z9BGjmi2bQws",
-      "pictureSource": "Українська правда",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ92QR1amUm1C8KXAvJXHP2rJ2pIKwp2GnyQUf_gedtRpVx8-QJFLtw6KPU2z8",
+      "pictureSource": "vinnitsa.info",
       "relatedSearch": [
+        {
+          "title": "Найморозніший день грудня у Вінниці був на Різдво",
+          "snippet": "",
+          "url": "https://vinnitsa.info/article/naymoroznishyy-den-hrudnya-u-vinnytsi-buv-na-rizdvo",
+          "source": "vinnitsa.info"
+        },
         {
           "title": "ДСНС попередила про складну погоду: на вихідних до мінус 23",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "Українська правда"
         },
         {
-          "title": "Синоптики попереджають про сніг, дощ і ожеледицю 7 січня",
+          "title": "В Україні прогнозують сильні снігопади та арктичне похолодання",
           "snippet": "",
-          "url": "https://donpatriot.news/synoptyky-poperedzhayut-pro-snig-doshh-i-ozheledyczyu-7-sichnya",
-          "source": "Патріот Донбасу"
-        },
-        {
-          "title": "Україну накриють снігопади, хуртовини та різке похолодання до -23°",
-          "snippet": "",
-          "url": "https://unn.ua/news/ukrainu-nakryiut-snihopady-khurtovyny-ta-rizke-pokholodannia-do-23",
-          "source": "Українські Національні Новини"
+          "url": "https://agronews.ua/news/v-ukrayini-prognozuyut-sylni-snigopady-ta-arktychne-poholodannya/",
+          "source": "Новини аграрного бізнесу"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,13 +33,13 @@
       "title": "графік відключень",
       "trafficCount": "500+",
       "pubDate": "Tue, 6 Jan 2026 21:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSESNODiyjXt8TYILHzPajKWDJ1wyxSk9jw6UzeTNFG4yiCNqF4QGk6P_DmbQ8",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRskJjzvmvSeQtMqtUEQHW0ITLi4THoKyHIVAqY_uamyVFP4sZJUiVibnTQuc",
       "pictureSource": "DailyLviv.com",
       "relatedSearch": [
         {
-          "title": "Новини Львів: 7 січня світло на Львівщині почнуть відключати з опівночі. Графік",
+          "title": "Львівобленерго додало світла. Оновлений графік 7 січня",
           "snippet": "",
-          "url": "https://dailylviv.com/news/ekonomika/7-sichnya-svitlo-na-lvivshchyni-pochnut-vidklyuchaty-z-opivnochi-144928",
+          "url": "https://dailylviv.com/news/ekonomika/lvivoblenerho-dodalo-dvi-hodyny-svitla-onovlenyi-hrafik-7-sichnya-144935",
           "source": "DailyLviv.com"
         },
         {
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода в києві",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 6 Jan 2026 20:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKNx2q9nyS1W4GNkZjh01RcRAm4WPSayyiV3v9__qlUePqB7_wnzl997Hx5vI",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Україну накрила негода: де буде сніг та ожеледиця",
+          "snippet": "",
+          "url": "https://tsn.ua/ukrayina/ukrayinu-nakryla-nehoda-de-bude-snih-ta-ozeledytsia-2994119.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "ДСНС попередила про складну погоду: на вихідних до мінус 23",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2026/01/06/8014875/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "В Україні прогнозують сильні снігопади та арктичне похолодання",
+          "snippet": "",
+          "url": "https://agronews.ua/news/v-ukrayini-prognozuyut-sylni-snigopady-ta-arktychne-poholodannya/",
+          "source": "Новини аграрного бізнесу"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "графік відключення світла на 7 січня",
       "trafficCount": "100+",
       "pubDate": "Tue, 6 Jan 2026 19:50:00 -0800",
@@ -137,34 +165,6 @@
           "snippet": "",
           "url": "https://nv.ua/ukr/ukraine/events/grafiki-vidklyuchen-7-sichnya-u-dtek-povidomili-koli-ne-bude-svitla-v-seredu-50573753.html",
           "source": "NV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "поздравление с рождеством",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 6 Jan 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjdKtQgtTK9mRRlcUaW9-8xpnJdyKXHm5LvaizdipcY1-u3GLQk96N-PcKpbw",
-      "pictureSource": "Апостроф",
-      "relatedSearch": [
-        {
-          "title": "Рождество Христово 2026 – история праздника и его значение, традиции, приметы и народные обычаи",
-          "snippet": "",
-          "url": "https://apostrophe.ua/ru/society/7-janvarja-rozhdestvo-po-julianskomu-kalendarju-kto-otmechaet-i-chto-nuzhno-znat-o-prazdnike.html",
-          "source": "Апостроф"
-        },
-        {
-          "title": "Рождество Христово 2026: почему нельзя гадать и брать в долг — приметы",
-          "snippet": "",
-          "url": "https://ura.news/news/1053056642",
-          "source": "URA.RU"
-        },
-        {
-          "title": "На пороге Рождества",
-          "snippet": "",
-          "url": "https://severpost.ru/read/201170/",
-          "source": "Severpost.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,18 +226,37 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода на місяць",
-      "trafficCount": "100+",
+      "title": "7 января праздник",
+      "trafficCount": "5000+",
       "pubDate": "Tue, 6 Jan 2026 19:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjdKtQgtTK9mRRlcUaW9-8xpnJdyKXHm5LvaizdipcY1-u3GLQk96N-PcKpbw",
+      "pictureSource": "Апостроф",
+      "relatedSearch": [
+        {
+          "title": "Рождество Христово 2026 – история праздника и его значение, традиции, приметы и народные обычаи",
+          "snippet": "",
+          "url": "https://apostrophe.ua/ru/society/7-janvarja-rozhdestvo-po-julianskomu-kalendarju-kto-otmechaet-i-chto-nuzhno-znat-o-prazdnike.html",
+          "source": "Апостроф"
+        },
+        {
+          "title": "Рождество Христово 2026: почему нельзя гадать и брать в долг — приметы",
+          "snippet": "",
+          "url": "https://ura.news/news/1053056642",
+          "source": "URA.RU"
+        },
+        {
+          "title": "На пороге Рождества",
+          "snippet": "",
+          "url": "https://severpost.ru/read/201170/",
+          "source": "Severpost.ru"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "утікай",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 6 Jan 2026 13:10:00 -0800",
+      "title": "погода на місяць",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 6 Jan 2026 19:00:00 -0800",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
