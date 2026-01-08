@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-08 05:58:22",
+  "lastUpdate": "2026-01-08 06:14:29",
   "data": [
     {
       "title": "pogoda gliwice",
@@ -86,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "pogoda sosnowiec",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 7 Jan 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYtPGa3RMJM5-mUVUEXhTz3ubviX3Iv4DZYiBldSz8KA6a5xPOJKbPed-5dU4",
+      "pictureSource": "Gazeta",
+      "relatedSearch": [
+        {
+          "title": "Wszystko zasnute chmurami! Sosnowiec w szarości. Jaka temperatura?",
+          "snippet": "",
+          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32510198,wszystko-zasnute-chmurami-sosnowiec-w-szarosci-jaka-temperatura.html",
+          "source": "Gazeta"
+        },
+        {
+          "title": "Pogoda tygodniowa dla Sosnowca. Sprawdź, jaka pogoda będzie od jutra (9.01) do środy",
+          "snippet": "",
+          "url": "https://sosnowiec.naszemiasto.pl/pogoda-tygodniowa-dla-sosnowca-sprawdz-jaka-pogoda-bedzie-od-jutra-9-01-do-srody/ar/c1p1-19943957",
+          "source": "Sosnowiec Nasze Miasto"
+        },
+        {
+          "title": "Pogoda na tydzień w Sosnowcu. Sprawdź prognozę na najbliższe dni od jutra (8.01) do wtorku",
+          "snippet": "",
+          "url": "https://sosnowiec.naszemiasto.pl/pogoda-na-tydzien-w-sosnowcu-sprawdz-prognoze-na-najblizsze-dni-od-jutra-8-01-do-wtorku/ar/c1p1-19943957",
+          "source": "Sosnowiec Nasze Miasto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "nba",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 21:10:00 -0800",
@@ -127,16 +155,44 @@
           "source": "Onet Wiadomości"
         },
         {
+          "title": "Atak zimy w Krakowie. Na chodnikach i ulicach zalega śnieg. Trudne warunki na drogach! Trzyma mróz i wciąż sypie śnieg",
+          "snippet": "",
+          "url": "https://gazetakrakowska.pl/atak-zimy-w-krakowie-na-chodnikach-i-ulicach-zalega-snieg-trudne-warunki-na-drogach-trzyma-mroz-i-wciaz-sypie-snieg/ar/c1p2-28326013",
+          "source": "Gazeta Krakowska"
+        },
+        {
           "title": "Pogoda w Krakowie. Prognoza na czwartek 8 stycznia. Mróz i przelotny lekki śnieg",
           "snippet": "",
           "url": "https://pogoda.o2.pl/pogoda/pogoda-w-krakowie-prognoza-na-czwartek-8-stycznia-mroz-i-przelotny-lekki-snieg-7240755442555392a",
           "source": "Pogoda o2"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "portal pasażera",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVokGDVuJz2yGGagNZSnEy8Rv5AieCqJbRnglFsGjNPHSgbaSmkduG8njPZ-0",
+      "pictureSource": "TVN24",
+      "relatedSearch": [
+        {
+          "title": "Awaria pociągu. Stali na stacji ponad dwie godziny",
+          "snippet": "",
+          "url": "https://tvn24.pl/tvnwarszawa/okolice/awaria-pociagu-stali-na-stacji-ponad-dwie-godziny-st8834013",
+          "source": "TVN24"
         },
         {
-          "title": "Prognoza pogody na dzisiaj dla Krakowa (08.01). Co zapowiadają meteorolodzy?",
+          "title": "Utknęli pod Warszawą. W pociągu 205 osób",
           "snippet": "",
-          "url": "https://krakow.naszemiasto.pl/prognoza-pogody-na-dzisiaj-dla-krakowa-08-01-co-zapowiadaja-meteorolodzy/ar/c1p1-19942863",
-          "source": "Kraków Nasze Miasto"
+          "url": "https://www.o2.pl/informacje/utkneli-pod-warszawa-w-pociagu-205-osob-7240796345211872a",
+          "source": "O2"
+        },
+        {
+          "title": "Awaria pociągu na Mazowszu. Od dwóch godzin stoi na stacji",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/warszawa/awaria-pociagu-na-mazowszu/f4vqkyr",
+          "source": "Onet Wiadomości"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,9 +211,9 @@
           "source": "Onet Wiadomości"
         },
         {
-          "title": "Szaro i ponuro w Poznaniu. Synoptycy nie mają dobrych wieści",
+          "title": "W Poznaniu dominują chmury. Sprawdź, co cię czeka",
           "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32510282,szaro-i-ponuro-w-poznaniu-synoptycy-nie-maja-dobrych-wiesci.html",
+          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32512846,w-poznaniu-dominuja-chmury-sprawdz-co-cie-czeka.html",
           "source": "Gazeta"
         },
         {
@@ -170,36 +226,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "portal pasażera",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVokGDVuJz2yGGagNZSnEy8Rv5AieCqJbRnglFsGjNPHSgbaSmkduG8njPZ-0",
-      "pictureSource": "TVN24",
-      "relatedSearch": [
-        {
-          "title": "Awaria pociągu. Stali na stacji ponad dwie godziny",
-          "snippet": "",
-          "url": "https://tvn24.pl/tvnwarszawa/okolice/awaria-pociagu-stali-na-stacji-ponad-dwie-godziny-st8834013",
-          "source": "TVN24"
-        },
-        {
-          "title": "Awaria pociągu na Mazowszu. Od dwóch godzin stoi na stacji",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/warszawa/awaria-pociagu-na-mazowszu/f4vqkyr",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Utknęli pod Warszawą. W pociągu 205 osób",
-          "snippet": "",
-          "url": "https://www.o2.pl/informacje/utkneli-pod-warszawa-w-pociagu-205-osob-7240796345211872a",
-          "source": "O2"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pogoda radom",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTpS5Rs7JRDwowNGktzuj1tzTl27jF3DpneKYZvlo8jlx_WE_YMyWP69DMWIg",
       "pictureSource": "Puck Nasze Miasto",
@@ -229,56 +257,9 @@
       "title": "prognoza pogody",
       "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-nEM2N63dAoQoYCudALMSeHg9UYCMRW24K0l80OrQsOsSIYnwGBV7tCPFIk",
-      "pictureSource": "Szczebrzeszyn Nasze Miasto",
-      "relatedSearch": [
-        {
-          "title": "Prognoza pogody tygodniowa dla Szczebrzeszyna. Sprawdź, jakiej pogody możesz spodziewać się od jutra (9.01) do środy",
-          "snippet": "",
-          "url": "https://szczebrzeszyn.naszemiasto.pl/prognoza-pogody-tygodniowa-dla-szczebrzeszyna-sprawdz-jakiej-pogody-mozesz-spodziewac-sie-od-jutra-9-01-do-srody/ar/c1p1-19945143",
-          "source": "Szczebrzeszyn Nasze Miasto"
-        },
-        {
-          "title": "Sprawdź, czy spadnie dzisiaj (08.01) śnieg w Szczebrzeszynie. Prognoza pogody na najbliższe dni",
-          "snippet": "",
-          "url": "https://szczebrzeszyn.naszemiasto.pl/sprawdz-czy-spadnie-dzisiaj-08-01-snieg-w-szczebrzeszynie-prognoza-pogody-na-najblizsze-dni/ar/c1p1-20824169",
-          "source": "Szczebrzeszyn Nasze Miasto"
-        },
-        {
-          "title": "Prognoza pogody na tydzień dla Szczebrzeszyna. Jakie będą temperatury od jutra (8.01) do wtorku?",
-          "snippet": "",
-          "url": "https://szczebrzeszyn.naszemiasto.pl/prognoza-pogody-na-tydzien-dla-szczebrzeszyna-jakie-beda-temperatury-od-jutra-8-01-do-wtorku/ar/c1p1-19945143",
-          "source": "Szczebrzeszyn Nasze Miasto"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda warszawa",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Rk2EGCTkA4chSn4CzumkzW2xpa8ju0jxY8V2hMAELLpK-A4dsB9zc6YJuEA",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Warszawa - jakiej pogody możemy się spodziewać 08.01.2026?",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-08012026/1h805v2",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Niebo nad Warszawą pociemniało. Czy będzie deszcz?",
-          "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32510192,niebo-nad-warszawa-pociemnialo-czy-bedzie-deszcz.html",
-          "source": "Gazeta"
-        },
-        {
-          "title": "Pogoda w Warszawie. Prognoza na czwartek 8 stycznia. Mróz i przelotny śnieg",
-          "snippet": "",
-          "url": "https://pogoda.o2.pl/pogoda/pogoda-w-warszawie-prognoza-na-czwartek-8-stycznia-mroz-i-przelotny-snieg-7240757894593504a",
-          "source": "Pogoda o2"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
