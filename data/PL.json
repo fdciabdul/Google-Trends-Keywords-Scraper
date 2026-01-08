@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-08 05:51:22",
+  "lastUpdate": "2026-01-08 05:58:22",
   "data": [
     {
       "title": "pogoda gliwice",
@@ -115,7 +115,7 @@
     },
     {
       "title": "pogoda kraków",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShM0ROxHaE-lpGFEeqpgv--LsT95TVgUYXoB7yxH3xaA3kg2MYfP-cvplwJs8",
       "pictureSource": "Onet Wiadomości",
@@ -143,7 +143,7 @@
     },
     {
       "title": "pogoda poznań",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs2crlt3ukMjik3ttZALEPzBWD8LhsOkHKkJ--30xm_rFP-SnbsLJOa5whf6U",
       "pictureSource": "Onet Wiadomości",
@@ -183,16 +183,16 @@
           "source": "TVN24"
         },
         {
-          "title": "Utknęli pod Warszawą. W pociągu 205 osób",
-          "snippet": "",
-          "url": "https://www.o2.pl/informacje/utkneli-pod-warszawa-w-pociagu-205-osob-7240796345211872a",
-          "source": "O2"
-        },
-        {
           "title": "Awaria pociągu na Mazowszu. Od dwóch godzin stoi na stacji",
           "snippet": "",
           "url": "https://wiadomosci.onet.pl/warszawa/awaria-pociagu-na-mazowszu/f4vqkyr",
           "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Utknęli pod Warszawą. W pociągu 205 osób",
+          "snippet": "",
+          "url": "https://www.o2.pl/informacje/utkneli-pod-warszawa-w-pociagu-205-osob-7240796345211872a",
+          "source": "O2"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,11 +227,30 @@
     },
     {
       "title": "prognoza pogody",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 7 Jan 2026 20:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-nEM2N63dAoQoYCudALMSeHg9UYCMRW24K0l80OrQsOsSIYnwGBV7tCPFIk",
+      "pictureSource": "Szczebrzeszyn Nasze Miasto",
+      "relatedSearch": [
+        {
+          "title": "Prognoza pogody tygodniowa dla Szczebrzeszyna. Sprawdź, jakiej pogody możesz spodziewać się od jutra (9.01) do środy",
+          "snippet": "",
+          "url": "https://szczebrzeszyn.naszemiasto.pl/prognoza-pogody-tygodniowa-dla-szczebrzeszyna-sprawdz-jakiej-pogody-mozesz-spodziewac-sie-od-jutra-9-01-do-srody/ar/c1p1-19945143",
+          "source": "Szczebrzeszyn Nasze Miasto"
+        },
+        {
+          "title": "Sprawdź, czy spadnie dzisiaj (08.01) śnieg w Szczebrzeszynie. Prognoza pogody na najbliższe dni",
+          "snippet": "",
+          "url": "https://szczebrzeszyn.naszemiasto.pl/sprawdz-czy-spadnie-dzisiaj-08-01-snieg-w-szczebrzeszynie-prognoza-pogody-na-najblizsze-dni/ar/c1p1-20824169",
+          "source": "Szczebrzeszyn Nasze Miasto"
+        },
+        {
+          "title": "Prognoza pogody na tydzień dla Szczebrzeszyna. Jakie będą temperatury od jutra (8.01) do wtorku?",
+          "snippet": "",
+          "url": "https://szczebrzeszyn.naszemiasto.pl/prognoza-pogody-na-tydzien-dla-szczebrzeszyna-jakie-beda-temperatury-od-jutra-8-01-do-wtorku/ar/c1p1-19945143",
+          "source": "Szczebrzeszyn Nasze Miasto"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
