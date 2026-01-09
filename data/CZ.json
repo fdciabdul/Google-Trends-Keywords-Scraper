@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-09 10:37:38",
+  "lastUpdate": "2026-01-09 10:49:02",
   "data": [
     {
       "title": "orešnik",
@@ -59,7 +59,7 @@
     },
     {
       "title": "dopravní situace",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 9 Jan 2026 00:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ83Z5LXQalzSWCbFp2hzcMZycZvzmFbswLH2esSZ4FivEAL9Q2C7VvkSsXvU",
       "pictureSource": "Seznam Zprávy",
@@ -189,10 +189,10 @@
           "source": "Georgia Tech Athletics"
         },
         {
-          "title": "Bruno Mars is coming to Charlotte this year: Here’s when, where",
+          "title": "Bruno Mars bringing first tour in nearly a decade to Pittsburgh this summer",
           "snippet": "",
-          "url": "https://www.wbtv.com/2026/01/08/bruno-mars-is-coming-charlotte-this-year-heres-when-where/",
-          "source": "WBTV"
+          "url": "https://www.cbsnews.com/pittsburgh/news/bruno-mars-2026-world-tour-pittsburgh-date/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pocasi brno",
+      "title": "idnes",
       "trafficCount": "200+",
-      "pubDate": "Thu, 8 Jan 2026 20:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Thu, 8 Jan 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkw_2A7XuTuga1PjAkVQ4pUX_fg0T2QwJ90mpfTYJ-sfz1yqhARdqMGZKZQbE",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Pavel píše Babišovi, proč nejmenuje Turka: Málo respektu k právnímu řádu a ústavním hodnotám",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/domaci-turek-nerespektoval-pravni-rad-a-ustavni-hodnoty-pise-pavel-babisovi-40556767",
+          "source": "Novinky"
+        },
+        {
+          "title": "Turek nemá respekt vůči ústavním hodnotám, uvedl Pavel v dopise Babišovi",
+          "snippet": "",
+          "url": "https://www.idnes.cz/zpravy/domaci/petr-pavel-babis-dopis-turek-jmenovani.A260109_110325_domaci_aoc",
+          "source": "iDNES.cz"
+        },
+        {
+          "title": "Motoristé řeší spory s prezidentem. Hlavní zbraní mohou být Pavlovy peníze",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-motoriste-resi-valku-s-prezidentem-hlavni-zbrani-mohou-byt-pavlovy-penize-295765",
+          "source": "Seznam Zprávy"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
