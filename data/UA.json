@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-10 06:12:39",
+  "lastUpdate": "2026-01-10 06:27:09",
   "data": [
     {
       "title": "графік відключення світла на 10 січня",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 9 Jan 2026 21:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5MDYgk21saznuM9-78Byfa1_sASvQcYCQizeLivgbl8AB6K_ZSWqMtjCmyk",
       "pictureSource": "Вечірній Київ",
@@ -21,10 +21,10 @@
           "source": "Главком"
         },
         {
-          "title": "Графіки відключень електроенергії в суботу: коли не буде світла 10 січня",
+          "title": "Львівобленерго скоригувало графік відключень на 10 січня",
           "snippet": "",
-          "url": "https://www.unian.ua/economics/energetics/dtek-grafiki-vidklyuchen-svitla-koli-ne-bule-svitla-v-subotu-13250862.html",
-          "source": "УНІАН"
+          "url": "https://dailylviv.com/news/ekonomika/lvivoblenerho-skoryhuvalo-hrafik-vidklyuchen-na-10-sichnya-145104",
+          "source": "DailyLviv.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +89,54 @@
       "title": "погода на сьогодні",
       "trafficCount": "200+",
       "pubDate": "Fri, 9 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTQMWMLzDOSgFXRdlJefniZTmYLOxNBU6ejyUkIXbZ_xBu6F3FpLi6TmAs664",
-      "pictureSource": "Суспільне | Новини",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKyvnKm0gjhat_3vIXEeWm0Cbj-9plNZykrmiRJxrU0ejr0LAPGfyIMOhqQGE",
+      "pictureSource": "ТСН",
       "relatedSearch": [
         {
-          "title": "Снігопад та хуртовина: скільки спецтехніки працює на дорогах Хмельницького та області",
+          "title": "У яких областях вдарить до -18: прогноз погоди на сьогодні",
           "snippet": "",
-          "url": "https://suspilne.media/khmelnytskiy/1208370-snigopad-ta-hurtovina-skilki-spectehniki-pracue-na-dorogah-hmelnickogo-ta-oblasti/",
+          "url": "https://tsn.ua/ukrayina/u-iakykh-oblastiakh-vdaryt-do-19-prohnoz-pohody-na-syohodni-2996594.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "Зима посилює хватку: синоптики попереджають про морози та погодні контрасти",
+          "snippet": "",
+          "url": "https://fakty.com.ua/ua/ukraine/suspilstvo/20260110-zyma-posylyuye-hvatku-synoptyky-poperedzhayut-pro-morozy-ta-pogodni-kontrasty/",
+          "source": "Факти ICTV"
+        },
+        {
+          "title": "Морози до –17°C: якою буде погода на Вінниччині 10 січня",
+          "snippet": "",
+          "url": "https://suspilne.media/vinnytsia/1210104-morozi-do-17c-akou-bude-pogoda-na-vinniccini-10-sicna/",
           "source": "Суспільне | Новини"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "матч бонус",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 9 Jan 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREw9LSxgZ_xrGHlI2pTO7HxlSCV6klrM98GAadejFi4rUCMJshODABER8r1K0",
+      "pictureSource": "Tribuna.com",
+      "relatedSearch": [
+        {
+          "title": "Нигерия пожаловалась на рефери из-за обуви – ему запретили судить матч Кубка Африки",
+          "snippet": "",
+          "url": "https://ua.tribuna.com/football/blogs/3157442-niheriya-poskarzhylasya-na-referi-cherez-vzuttya-yomu-zaborony/",
+          "source": "Tribuna.com"
         },
         {
-          "title": "Чому Хмельницький не скрізь почистили від снігу? Пояснення комунальників",
+          "title": "МАРЕЗ: «Этот Кубок африканских наций будет для меня последним»",
           "snippet": "",
-          "url": "https://vsim.ua/DTP/chomu-hmelnitskiy-ne-skriz-pochistili-vid-snigu-poyasnennya-komunalnik-11984520.html",
-          "source": "Всім - Новини Хмельницького"
+          "url": "https://sport.ua/news/830500-marez-etot-kubok-afrikanskih-natsiy-budet-dlya-menya-poslednim",
+          "source": "Sport.ua"
         },
         {
-          "title": "Погода на завтра – морози посиляться на Хмельниччині",
+          "title": "Алжир – Нигерия прогноз на матч Кубка африканских наций 10 января 2026 года. Ставка с коэффициентом 2,40",
           "snippet": "",
-          "url": "https://ye.ua/syspilstvo/77366_Pogoda_na_zavtra___morozi_posilyatsya_na_Hmelnichchini.html",
-          "source": "ye.ua"
+          "url": "https://metaratings.by/prognozy/futbol/alzhir-nigeriya-prognoz-na-match-kubka-afrikanskikh-nacii-10-yanvarya-2026-goda/",
+          "source": "Белорусские новости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,9 +155,9 @@
           "source": "Українська правда"
         },
         {
-          "title": "Свириденко рассказала о восстановлении работы энергосистемы после удара РФ",
+          "title": "В Киеве свет вернули почти 153 тысячам домов – ДТЭК",
           "snippet": "",
-          "url": "https://epravda.com.ua/rus/biznes/sviridenko-rasskazala-o-vosstanovlenii-raboty-energosistemy-posle-udara-rf-816378/",
+          "url": "https://epravda.com.ua/rus/biznes/v-kieve-svet-vernuli-pochti-153-tysyacham-domov-dtek-816377/",
           "source": "Економічна правда"
         },
         {
@@ -173,26 +201,26 @@
       "title": "брянск",
       "trafficCount": "200+",
       "pubDate": "Fri, 9 Jan 2026 16:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR95xKAPOns-5t-mH_kPW46uKG0oh6ZR6drnJBtfBTQ3Gy6e7f37MOAQQETvI",
-      "pictureSource": "Новости Брянска и Брянской области",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge4xBsZT6OiXYrr2xyjOAUxE92lHFXFpwJ1fHTHMLJTQYq-bAP2YH5Yogo2I",
+      "pictureSource": "Брянская Губерния",
       "relatedSearch": [
         {
-          "title": "Маршрутчики в Брянске повышают цену проезда",
+          "title": "В мэрии объяснили, по какому принципу чистят Брянск от снега и наледи",
           "snippet": "",
-          "url": "https://newsbryansk.ru/fn_1782821.html",
-          "source": "Новости Брянска и Брянской области"
+          "url": "https://guberniya.tv/obshhestvo/325311",
+          "source": "Брянская Губерния"
         },
         {
-          "title": "9 января снегоход ушел под лед на Десне в Брянске",
+          "title": "В Брянске управляющие компании проиграли битву со снегом",
           "snippet": "",
-          "url": "https://newsbryansk.ru/fn_1782473.html",
-          "source": "Новости Брянска и Брянской области"
+          "url": "https://bryansktoday.ru/article/256096",
+          "source": "Bryansktoday"
         },
         {
-          "title": "Железнодорожники прокомментировали задержку поездов из Брянска в Орел",
+          "title": "Гололед стал сущим кошмаром в Брянской области",
           "snippet": "",
-          "url": "https://newsorel.ru/fn_1783131.html",
-          "source": "Орловские новости"
+          "url": "https://www.bragazeta.ru/news/2026/01/10/gololed-stal-sushhim-koshmarom-v-bryanskoj-oblasti/",
+          "source": "Интернет-газета «Брянские новости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,20 +229,20 @@
       "title": "заборона 1с",
       "trafficCount": "1000+",
       "pubDate": "Fri, 9 Jan 2026 15:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXhG3FdmmfOSd37qH7u4r2bkkJ1USx8eUUEe71CCIabuhBBS7n6SV6zEPp_u4",
-      "pictureSource": "Державна служба спеціального зв'язку та захисту інформації",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3FjLnLpANQECIa-jZP1TKmBWkR6jPC_E2P4-7u3PdTKGaolYhj64XpSlmh0",
+      "pictureSource": "УНІАН",
       "relatedSearch": [
-        {
-          "title": "Перелік нормативно-правових актів на виконання Закону № 4336-IX",
-          "snippet": "",
-          "url": "https://cip.gov.ua/ua/news/perelik-normativno-pravovikh-aktiv-na-vikonannya-zakonu-4336-ix",
-          "source": "Державна служба спеціального зв'язку та захисту інформації"
-        },
         {
           "title": "В Україні заборонили найпопулярніше програмне забезпечення для бухгалтерів",
           "snippet": "",
           "url": "https://www.unian.ua/techno/software/programa-1s-buhgalteriya-potrapila-pid-zaboronu-v-ukrajini-13250997.html",
           "source": "УНІАН"
+        },
+        {
+          "title": "Перелік нормативно-правових актів на виконання Закону № 4336-IX",
+          "snippet": "",
+          "url": "https://cip.gov.ua/ua/news/perelik-normativno-pravovikh-aktiv-na-vikonannya-zakonu-4336-ix",
+          "source": "Державна служба спеціального зв'язку та захисту інформації"
         },
         {
           "title": "Держспецзв’язку оприлюднила перелік забороненого ПЗ в Україні: у списку - 1С і BAS",
@@ -245,38 +273,10 @@
           "source": "Korrespondent.net"
         },
         {
-          "title": "У Кривому Розі під час атаки дронів пролунали вибухи",
+          "title": "У Кривому Розі внаслідок удару «Іскандерами» пошкоджені 36 багатоповерхівок",
           "snippet": "",
-          "url": "https://tsn.ua/ukrayina/u-kryvomu-rozi-pid-chas-ataky-droniv-prolunaly-vybukhy-2996561.html",
-          "source": "ТСН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кривой рог",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 9 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcTOwePvYwlfuMNlXAqp5LxwJOB3Cz5xVI7C17-qjzGfgmxG9qCB5VjMb3JwM",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "Россияне массированно атакуют Кривой Рог БпЛА, в городе прогремели взрывы",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/01/10/8015440/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Взрывы в Кривом Роге раздаются из-за массированной атаки \"Шахедов\"",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/vibuhi-krivomu-rozi-lunayut-cherez-masovanu-1767996415.html",
-          "source": "РБК-Україна"
-        },
-        {
-          "title": "РФ била дронами и ракетами: спустя сутки после атаки в Кривом Роге продолжается ликвидация последствий (ВИДЕО)",
-          "snippet": "",
-          "url": "https://uatv.ua/rf-bila-dronami-i-raketami-spustya-sutki-posle-ataki-v-krivom-roge-prodolzhaetsya-likvidatsiya-posledstvij-video/",
-          "source": "uatv.ua"
+          "url": "https://www.ukrinform.ua/rubric-regions/4078517-u-krivomu-rozi-vnaslidok-udaru-iskanderami-poskodzeni-36-bagatopoverhivok.html",
+          "source": "Укрінформ"
         }
       ],
       "link": "https://imtaqin.id/"
