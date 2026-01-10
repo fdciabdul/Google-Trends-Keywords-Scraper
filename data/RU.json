@@ -1,18 +1,37 @@
 {
-  "lastUpdate": "2026-01-10 18:12:29",
+  "lastUpdate": "2026-01-10 18:26:32",
   "data": [
     {
-      "title": "виктория исакова",
+      "title": "весна",
       "trafficCount": "200+",
-      "pubDate": "Sat, 10 Jan 2026 10:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Sat, 10 Jan 2026 10:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVuK_gNrW_cNMr6716hFL6KiWdv1q6fQxbSwbgCetnfIdkSO85oc9catTgpoY",
+      "pictureSource": "Юга.ру",
+      "relatedSearch": [
+        {
+          "title": "\"Весна наступит внезапно\": синоптики предупреждают жителей России о резкой смене погоды - как следует подготовиться",
+          "snippet": "",
+          "url": "https://www.yuga.ru/polza/1785-vesna-nastupit-vnezapno-sinoptiki-preduprezhdayut-zhitelej-rossii-o-rezkoj-smene-pogody-kak-sleduet-podgotovitsya/",
+          "source": "Юга.ру"
+        },
+        {
+          "title": "Эта зима покажет то, что еще никто не видел: прогноз на январь и февраль 2026",
+          "snippet": "",
+          "url": "https://pg12.ru/news/103638",
+          "source": "Pg12.ru"
+        },
+        {
+          "title": "Настоящая зима возвращается: погода в январе преподнесет неприятный сюрприз",
+          "snippet": "",
+          "url": "https://progorod43.ru/news/143145",
+          "source": "Про Город Киров"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "новости воронеж",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 10 Jan 2026 10:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRd9oD5nPGqSGJmmMC-qvuylzhj22b6Fji69o3kuteOuMr-Z8N08OMGu2QnL9I",
       "pictureSource": "МОЁ! Online. Все новости Воронежа",
@@ -30,12 +49,21 @@
           "source": "TV Губерния"
         },
         {
-          "title": "Каток и главную площадь города эвакуировали в Воронеже",
+          "title": "Украинский беспилотник сбили над Воронежской областью минувшей ночью",
           "snippet": "",
-          "url": "https://bloknot-voronezh.ru/news/katok-i-glavnuyu-ploshchad-goroda-evakuirovali-v-v-1937416",
+          "url": "https://bloknot-voronezh.ru/news/ukrainskiy-bespilotnik-sbili-nad-voronezhskoy-obla-1937308",
           "source": "Блокнот Воронеж"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "виктория исакова",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 10 Jan 2026 10:00:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -70,26 +98,26 @@
       "title": "вологда",
       "trafficCount": "100+",
       "pubDate": "Sat, 10 Jan 2026 09:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOHMTqvhE_5WdnHWu0gqFEIRzY4fqCX7zBbNVSkr6l0zZXOrnsHGGCBgod3fQ",
-      "pictureSource": "onlinevologda.ru",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEY5zExdMljNoFw9pHctAmOr3kEBclfpMyXZ17BtVusV04TT-uV2e87Qs31wE",
+      "pictureSource": "NewsVo",
       "relatedSearch": [
         {
-          "title": "Пожар в Лосте унёс жизнь пожилого мужчины",
+          "title": "Под Вологдой семья провалилась под лед на снегоходе",
           "snippet": "",
-          "url": "https://onlinevologda.ru/news/incidents/pozhar-v-loste-unes-zhizn-pozhilogo-muzhchiny/",
-          "source": "onlinevologda.ru"
+          "url": "https://newsvo.ru/proisshestviya/7544937-pod-vologdoy-semya-provalilas-pod-led-na-snegohode",
+          "source": "NewsVo"
         },
         {
-          "title": "Пенсионер погиб на пожаре в Вологде из-за короткого замыкания",
+          "title": "В Вологодской области зафиксирован первый в этом году инцидент на льду",
           "snippet": "",
-          "url": "https://35media.ru/news/news--vol-oblast/pensioner-pogib-na-pozhare-v-vologde-iz-za-korotkogo-zamykaniya/",
-          "source": "35медиа"
-        },
-        {
-          "title": "Полицейские спасли семейную пару из горящего дома в Вологодской области",
-          "snippet": "",
-          "url": "https://vologda-poisk.ru/news/proisshestviya/politseyskie-spasli-semeynuyu-paru-iz-goryaschego-doma-v-vologodskoy-oblasti",
+          "url": "https://vologda-poisk.ru/news/proisshestviya/v-vologodskoy-oblasti-zafiksirovan-pervyy-v-etom-godu-intsident-na-ldu",
           "source": "Vologda-poisk.ru"
+        },
+        {
+          "title": "В Вологде почти 800 человек встали в большой рождественский хоровод",
+          "snippet": "",
+          "url": "https://onlinevologda.ru/news/society/v-vologde-pochti-800-chelovek-vstali-v-bolshoj-rozhdestvenskij-horovod/",
+          "source": "onlinevologda.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -134,6 +162,12 @@
           "snippet": "",
           "url": "https://rozetked.me/index.php/posts/43637-cheburashka-2-lyuboe-drugoe-kino-v-rossii",
           "source": "Rozetked.me"
+        },
+        {
+          "title": "«Чебурашка 2» собрал более 1 млрд рублей в первый день проката",
+          "snippet": "",
+          "url": "https://glagol.press/cheburashka-2-sobral-bolee-1-mlrd-rublej-v-pervyj-den-prokata",
+          "source": "ГлагоL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,29 +176,48 @@
       "title": "знаки зодиака",
       "trafficCount": "200+",
       "pubDate": "Sat, 10 Jan 2026 09:40:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdGzHyqUtFf813Szrk4UL8fpZW2vqWKeRxWqOr_awJmRfmtEq6cqdGd1fMwFM",
+      "pictureSource": "sakhalife",
+      "relatedSearch": [
+        {
+          "title": "- Каким знакам зодиака стоит напрячь все силы на следующей неделе",
+          "snippet": "",
+          "url": "https://sakhalife.ru/kakim-znakam-zodiaka-stoit-napryach-vse-sily-na-sleduyushhej-nedele/",
+          "source": "sakhalife"
+        },
+        {
+          "title": "У Тельцов приступ тревоги, Львов выбесит критика, а Рыбы прячутся от паники: Гороскоп с 10 по 15 января",
+          "snippet": "",
+          "url": "https://primamedia.ru/news/2358333/",
+          "source": "PrimaMedia.ru"
+        },
+        {
+          "title": "У Тельцов может улучшиться материальное положение, Девам стоит уделить внимание здоровью, а Рыб ждёт интересный проект",
+          "snippet": "",
+          "url": "https://ng72.ru/society/5436388-u-telcov-mojet-uluchshitsya-materialnoe-polojenie-devam-stoit-udelit-vnimanie-zdorovyu-a-ryb-jdet-interesnyy-proekt",
+          "source": "Наша Газета - Тюмень"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "жирона – осасуна",
       "trafficCount": "200+",
       "pubDate": "Sat, 10 Jan 2026 09:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7p7X_YCbZ8rQ_6BbDc3PZPgynsXp1VOopH-lTVoRdnIEEXiVZSbLOJCCmba4",
-      "pictureSource": "БарсаМания | Сайт болельщиков ФК «Барселона»",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7EYDEEP2LA8B3d23kzlfgDVSobHYAzkynh-O50-g_yMo4AwvQJ5x-EWzn8LQ",
+      "pictureSource": "Metaratings",
       "relatedSearch": [
-        {
-          "title": "Без грандов, каково оно? Анонс 19-го тура Ла Лиги",
-          "snippet": "",
-          "url": "https://www.barcamania.com/bez-grandov-kakovo-ono-anons-19-go-tura-la-ligi",
-          "source": "БарсаМания | Сайт болельщиков ФК «Барселона»"
-        },
         {
           "title": "Жирона – Осасуна прогноз на матч Ла Лиги 10 января 2026 года. Ставка с коэффициентом 1,75",
           "snippet": "",
           "url": "https://metaratings.ru/prognozy/futbol/zhirona-osasuna-prognoz-na-match-la-ligi-10-yanvarya-2026-goda/",
           "source": "Metaratings"
+        },
+        {
+          "title": "Без грандов, каково оно? Анонс 19-го тура Ла Лиги",
+          "snippet": "",
+          "url": "https://www.barcamania.com/bez-grandov-kakovo-ono-anons-19-go-tura-la-ligi",
+          "source": "БарсаМания | Сайт болельщиков ФК «Барселона»"
         },
         {
           "title": "Испанская Ла Лига։ Стартует 19-й тур",
@@ -177,21 +230,15 @@
     },
     {
       "title": "algeria vs nigeria",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 10 Jan 2026 09:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxGh3uc_K4_dlX_WgRMJVYH1T_xJ5lP_L1-j1z_9RZ2DCsel3hYKyDFET8CZ8",
-      "pictureSource": "Foot Africa",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FrG09gMijXj7IpE934My4vyjFaN0X3YSaO_SUMyl8CeJwunUGlCvhkke3hw",
+      "pictureSource": "Africa Top Sports",
       "relatedSearch": [
         {
-          "title": "CAN: Algeria's record in the quarter-finals",
+          "title": "AFCON 2025: How to Watch Nigeria vs Algeria Quarter final Clash Live",
           "snippet": "",
-          "url": "https://foot-africa.com/en/news/can-algerias-record-in-the-quarter-finals-1036916/",
-          "source": "Foot Africa"
-        },
-        {
-          "title": "AFCON 2025: Nigeria, Algeria Head To The Break On Goalless",
-          "snippet": "",
-          "url": "https://en.africatopsports.com/2026/01/10/afcon-2025-nigeria-algeria-head-to-the-break-on-goalless/",
+          "url": "https://en.africatopsports.com/2026/01/10/afcon-2025-how-to-watch-nigeria-vs-algeria-quarter-final-clash-live/",
           "source": "Africa Top Sports"
         },
         {
@@ -199,34 +246,12 @@
           "snippet": "",
           "url": "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations/articles/victor-osimhen-punished-luca-zidane-with-his-first-goal-conceded-2026-01-10",
           "source": "beIN SPORTS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "code violet",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 10 Jan 2026 09:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL1pVJDFTZL3SjWDG0Q5B_ZyL9W1jHaCxHz9y4l-rXIo867FdqhK5OC_57x8E",
-      "pictureSource": "IGN",
-      "relatedSearch": [
-        {
-          "title": "Code Violet Review",
-          "snippet": "",
-          "url": "https://www.ign.com/articles/code-violet-review",
-          "source": "IGN"
         },
         {
-          "title": "PlayStation's First Exclusive Of 2026 Looks To Be A Massive Flop",
+          "title": "LIVE: AFCON 2025 - 10 January 2026 - 2025 Africa Cup of Nations - Cote d'Ivoire",
           "snippet": "",
-          "url": "https://www.thegamer.com/playstation-first-exclusive-2026-flop/",
-          "source": "TheGamer"
-        },
-        {
-          "title": "Review: Code Violet (PS5) - Gooner Shooter Can't Get It Up",
-          "snippet": "",
-          "url": "https://www.pushsquare.com/reviews/ps5/code-violet",
-          "source": "Push Square"
+          "url": "https://africanfootball.com/news/835771/LIVE-AFCON-2025-10-January-2026",
+          "source": "africanfootball.com"
         }
       ],
       "link": "https://imtaqin.id/"
