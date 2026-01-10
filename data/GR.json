@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-10 04:03:02",
+  "lastUpdate": "2026-01-10 04:19:28",
   "data": [
     {
       "title": "twitch",
@@ -31,7 +31,7 @@
     },
     {
       "title": "χιόνια",
-      "trafficCount": "500+",
+      "trafficCount": "20000+",
       "pubDate": "Fri, 9 Jan 2026 15:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAlAkbH2yVAnjLIaQu-FkKB8uPoc4pUVPa5hQd8eTxEOg5jGAdZnmzGqJY6w0",
       "pictureSource": "NewsIT",
@@ -49,10 +49,10 @@
           "source": "LiFO"
         },
         {
-          "title": "Έρχεται πολικό ψύχος από την Κυριακή – Χιόνια και στα πεδινά τη Δευτέρα – Πού θα το στρώσει",
+          "title": "Καιρός «δύο προσώπων»: Καταιγίδες το Σάββατο και χιόνια στην Αττική από την Κυριακή",
           "snippet": "",
-          "url": "https://www.in.gr/2026/01/09/greece/erxetai-poliko-psyxos-apo-tin-kyriaki-xionia-kai-sta-pedina-ti-deytera-pou-tha-strosei/",
-          "source": "In.gr"
+          "url": "https://www.newsbeast.gr/greece/arthro/12812273/kairos-dyo-prosopon-kataigides-to-savvato-kai-chionia-stin-attiki-apo-tin-kyriaki",
+          "source": "Newsbeast"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "fa cup",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 9 Jan 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFS0JFtsFMZP9YvoGPeA-MST6gCIDTujh9IfZhqzJ9V0KLL6oH-JHJBY4LK04",
-      "pictureSource": "Betarades",
-      "relatedSearch": [
-        {
-          "title": "Μελετημένα Προγνωστικά: Ταμείο με Over στο Ρέξαμ - Νότιγχαμ!",
-          "snippet": "",
-          "url": "https://www.betarades.gr/meletimena-prognostika-tameio-me-over-sto-rexam-notigxam/",
-          "source": "Betarades"
-        },
-        {
-          "title": "Ρέξαμ – Νότιγχαμ 4-3 πεν. (3-3): Πρόωρος αποκλεισμός για τους Ρεντς στον 3ο γύρο του FA Cup",
-          "snippet": "",
-          "url": "https://www.sport24.gr/football/rexam-notigxam-4-3-pen-3-3-prooros-apokleismos-gia-tous-rents-ston-3o-giro-tou-fa-cup/",
-          "source": "Sport24"
-        },
-        {
-          "title": "Ρέξαμ - Νότιγχαμ 3-3 (4-3 πεν), FA Cup: Ο... Deadpool έστειλε εκτός Κυπέλλου την Φόρεστ! (Βίντεο)",
-          "snippet": "",
-          "url": "https://www.parapolitika.gr/sports/article/1663185/rexam-notigham-3-3-4-3-pen-fa-cup-o-deadpool-esteile-ektos-kupellou-tin-forest-video/",
-          "source": "Παραπολιτικά"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "ματσουκα",
       "trafficCount": "500+",
       "pubDate": "Fri, 9 Jan 2026 13:40:00 -0800",
@@ -165,6 +137,34 @@
           "snippet": "",
           "url": "https://www.tlife.gr/eidhseis-nea/media/dimitra-matsouka-den-me-apasxolise-pote-to-na-kano-paidi-panta-me-endiefere-i-douleia-mou/1698960/",
           "source": "Tlife"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ρεξαμ",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 9 Jan 2026 13:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFS0JFtsFMZP9YvoGPeA-MST6gCIDTujh9IfZhqzJ9V0KLL6oH-JHJBY4LK04",
+      "pictureSource": "Betarades",
+      "relatedSearch": [
+        {
+          "title": "Μελετημένα Προγνωστικά: Ταμείο με Over στο Ρέξαμ - Νότιγχαμ!",
+          "snippet": "",
+          "url": "https://www.betarades.gr/meletimena-prognostika-tameio-me-over-sto-rexam-notigxam/",
+          "source": "Betarades"
+        },
+        {
+          "title": "Ρέξαμ – Νότιγχαμ 4-3 πεν. (3-3): Πρόωρος αποκλεισμός για τους Ρεντς στον 3ο γύρο του FA Cup",
+          "snippet": "",
+          "url": "https://www.sport24.gr/football/rexam-notigxam-4-3-pen-3-3-prooros-apokleismos-gia-tous-rents-ston-3o-giro-tou-fa-cup/",
+          "source": "Sport24"
+        },
+        {
+          "title": "Ρέξαμ - Νότιγχαμ 3-3 (4-3 πεν), FA Cup: Ο... Deadpool έστειλε εκτός Κυπέλλου την Φόρεστ! (Βίντεο)",
+          "snippet": "",
+          "url": "https://www.parapolitika.gr/sports/article/1663185/rexam-notigham-3-3-4-3-pen-fa-cup-o-deadpool-esteile-ektos-kupellou-tin-forest-video/",
+          "source": "Παραπολιτικά"
         }
       ],
       "link": "https://imtaqin.id/"
