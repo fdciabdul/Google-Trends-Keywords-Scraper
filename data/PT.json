@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-10 11:59:09",
+  "lastUpdate": "2026-01-10 12:14:11",
   "data": [
+    {
+      "title": "rede elétrica",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 10 Jan 2026 03:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwGTfA120aU5aQiR2n-a80K9kQ094OGv3mbGsMTKpYw1h9401dwPyXZeUgSHE",
+      "pictureSource": "SAPO",
+      "relatedSearch": [
+        {
+          "title": "Central de Alqueva funciona como bateria natural e ajuda a equilibrar a rede elétrica em picos de consumo",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/central-de-alqueva-funciona-como-bateria-natural-e-ajuda-a-equilibrar-a-rede-eletrica-em-picos-de-consumo-69610a1cab728f90f0124679",
+          "source": "SAPO"
+        },
+        {
+          "title": "Central de Alqueva funciona como bateria natural e ajuda a equilibrar a rede elétrica em picos de consumo",
+          "snippet": "",
+          "url": "https://odigital.sapo.pt/central-de-alqueva-funciona-como-bateria-natural-e-ajuda-a-equilibrar-a-rede-eletrica-em-picos-de-consumo/",
+          "source": "ODigital.pt"
+        },
+        {
+          "title": "DME orienta sobre cuidados em período de chuvas",
+          "snippet": "",
+          "url": "https://pocosdecaldas.mg.gov.br/noticias/dme-orienta-sobre-cuidados-em-periodo-de-chuvas/",
+          "source": "Prefeitura de Poços de Caldas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "capas de jornais",
       "trafficCount": "200+",
@@ -183,16 +211,16 @@
           "source": "Maisfutebol"
         },
         {
-          "title": "Antigo talento do Chelsea faz confissão sobre problema de saúde",
-          "snippet": "",
-          "url": "https://www.abola.pt/noticias/antigo-talento-do-chelsea-faz-confissao-sobre-problema-de-saude-2026011007162859299",
-          "source": "A Bola"
-        },
-        {
           "title": "O drama de um ex-Chelsea que luta para «se manter vivo»",
           "snippet": "",
           "url": "https://sapo.pt/artigo/o-drama-de-um-ex-chelsea-que-luta-para-se-manter-vivo-6961391496e34e9d66ec498c",
           "source": "SAPO"
+        },
+        {
+          "title": "Ex-Chelsea anuncia que está a \"lutar para sobreviver\": «Talvez só me restem alguns dias...»",
+          "snippet": "",
+          "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/ex-chelsea-anuncia-que-esta-a-lutar-para-sobreviver-talvez-so-me-restem-alguns-dias",
+          "source": "Record"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,15 +229,9 @@
       "title": "desaparecimento maycon douglas",
       "trafficCount": "2000+",
       "pubDate": "Fri, 9 Jan 2026 15:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQliSPFzZfVqfwiDaNEjD4SLHIrXW0uwUVJ3Vd3ZdV2_c2UIu3l0vbFkSJaBqw",
-      "pictureSource": "Correio da Manhã",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_Oyy9b9hOphIUHB1WgtHd59L1tUBs_dY2lKhkskS9UqlX5AQd68ML5QupMBc",
+      "pictureSource": "TVI",
       "relatedSearch": [
-        {
-          "title": "Revelados pormenores sobre a madrugada do desaparecimento de Maycon: discutiu com a namorada e com a mãe",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/revelados-pormenores-sobre-a-madrugada-do-desaparecimento-de-maycon-discutiu-com-a-namorada-e-com-a-mae",
-          "source": "Correio da Manhã"
-        },
         {
           "title": "Funeral de Maycon Douglas: agência funerária de Marcelo Palma emite comunicado",
           "snippet": "",
@@ -217,10 +239,16 @@
           "source": "TVI"
         },
         {
-          "title": "Maycon Douglas – A promessa que ficou por cumprir a Daniela Santos e que agora foi revelada",
+          "title": "Revelados pormenores sobre a madrugada do desaparecimento de Maycon: discutiu com a namorada e com a mãe",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/maycon-douglas-a-promessa-que-ficou-por-cumprir-a-daniela-santos-e-que-agora-foi-revelada-69618b5e2b17549cbcfd3ef0",
-          "source": "SAPO"
+          "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/revelados-pormenores-sobre-a-madrugada-do-desaparecimento-de-maycon-discutiu-com-a-namorada-e-com-a-mae",
+          "source": "Correio da Manhã"
+        },
+        {
+          "title": "Já se conhecem a data e os pormenores para a despedida a Maycon Douglas",
+          "snippet": "",
+          "url": "https://www.sabado.pt/vida/detalhe/ja-se-conhecem-a-data-e-os-pormenores-para-a-derradeira-despedida-a-maycon-douglas",
+          "source": "Sabado"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/tribunal-espanhol-rejeita-recurso-de-tanlongo-no-diferendo-com-o-racing-de-santander",
           "source": "Record"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fa cup",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 9 Jan 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQis8-yt5gUW1aB3kUR36ccdo6Pz09-6JEOgo9je-CdUKGVocV61xHj-Zx0ms8",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "FA Cup third round, Rosenior’s Chelsea bow, transfer news and Afcon – matchday live",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/jan/10/fa-cup-third-round-buildup-afcon-latest-and-more-matchday-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Sutton's FA Cup third-round predictions v DJ & producer Shadow Child - and AI",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cvg5ldyz606o",
-          "source": "BBC"
-        },
-        {
-          "title": "What are the FA Cup games on TV this weekend? Full list including how to watch Derby County v Leeds United",
-          "snippet": "",
-          "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/what-are-the-fa-cup-games-on-tv-this-weekend-5469697",
-          "source": "Yorkshire Evening Post"
         }
       ],
       "link": "https://imtaqin.id/"
