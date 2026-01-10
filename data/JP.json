@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-10 16:24:30",
+  "lastUpdate": "2026-01-10 16:38:16",
   "data": [
+    {
+      "title": "イラン革命",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 10 Jan 2026 08:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLWIi5-9VGkyDDwKEyalO4JSe_pV5U6VCGr2II_E6Xfb8RQw0B3YXQduSE5s",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "イランのパーレビ元皇太子、2日間の全国スト呼びかけ 最後の国王の息子（CNN.co.jp）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/92cebb1f880563e7f1590a28d3484d9eb9c5bca4",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【速報】イラン司法当局「デモ参加者は死刑」と表明",
+          "snippet": "",
+          "url": "https://www.47news.jp/13707401.html",
+          "source": "47NEWS"
+        },
+        {
+          "title": "イラン各地で政府に抗議デモ、少なくとも５０人死亡…体制側「米国やイスラエルがデモ扇動」",
+          "snippet": "",
+          "url": "https://www.yomiuri.co.jp/world/20260110-GYT1T00131/",
+          "source": "読売新聞オンライン"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "沖縄旅行",
       "trafficCount": "200+",
@@ -8,34 +36,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "停電",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 10 Jan 2026 07:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtYSjqx88pxquCqfzsfqWxlK9HBwqxKnCGfSgbMWqjPfGEIME6wT98PRYIJE",
-      "pictureSource": "秋田魁新報電子版",
-      "relatedSearch": [
-        {
-          "title": "秋田県内で停電相次ぐ 最大１５４８戸、雪の影響か",
-          "snippet": "",
-          "url": "https://www.sakigake.jp/news/article/20260109AK0041/",
-          "source": "秋田魁新報電子版"
-        },
-        {
-          "title": "仙北市・小坂町・北秋田市の一部地域で停電 合わせて約400軒 秋田（9日午後2時20分現在）（ABS秋田放送）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/8bc3b03f64e63e57f1e7a22954e6b725291b63cc",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "鹿角市・小坂町・上小阿仁村の一部地域で停電 樹木の接触や倒木が原因 復旧の見通しが立たない地域も 秋田(8日午後5時半）",
-          "snippet": "",
-          "url": "https://news.ntv.co.jp/n/abs/category/society/abf37163bc47cf467a851ac3006c9e1cea",
-          "source": "日テレNEWS NNN"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -67,8 +67,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "停電",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 10 Jan 2026 07:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtYSjqx88pxquCqfzsfqWxlK9HBwqxKnCGfSgbMWqjPfGEIME6wT98PRYIJE",
+      "pictureSource": "秋田魁新報電子版",
+      "relatedSearch": [
+        {
+          "title": "秋田県内で停電相次ぐ 最大１５４８戸、雪の影響か",
+          "snippet": "",
+          "url": "https://www.sakigake.jp/news/article/20260109AK0041/",
+          "source": "秋田魁新報電子版"
+        },
+        {
+          "title": "仙北市・小坂町・北秋田市の一部地域で停電 合わせて約400軒 秋田（9日午後2時20分現在）（ABS秋田放送）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/8bc3b03f64e63e57f1e7a22954e6b725291b63cc",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "鹿角市・小坂町・上小阿仁村の一部地域で停電 樹木の接触や倒木が原因 復旧の見通しが立たない地域も 秋田(8日午後5時半）",
+          "snippet": "",
+          "url": "https://news.ntv.co.jp/n/abs/category/society/abf37163bc47cf467a851ac3006c9e1cea",
+          "source": "日テレNEWS NNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "木星 衝",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 10 Jan 2026 07:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhtUMq2kSiZhQAFmIm2WlR1fFn0JnSKhr3_CBBcx3vqgcjtIJP94QJjAIBCFc",
       "pictureSource": "Yahoo!ニュース",
@@ -188,37 +216,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ゴールデンディスクアワード",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 10 Jan 2026 07:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG0dL_f5UFzB0Y2K7z5tFfZejLqymEd0jBRpRL0gdMq8RDTWhpeoBRMo6H_-4",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "【GDA】CORTIS、”新人賞”再び獲得「これからも素敵なパフォーマンスと楽曲で」【プロフィール掲載】（オリコン）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/97a0fd5106718a9bb21a067a3f67ed8ecac0a5ae",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "オリコンニュース：K-POP授賞式『ゴールデンディスクアワード』、AI選出の賞を設置 受賞はBOYNEXTDOOR",
-          "snippet": "",
-          "url": "https://mainichi.jp/articles/20260111/orc/00m/200/000000c",
-          "source": "毎日新聞"
-        },
-        {
-          "title": "【GDA】JENNIE、ソロ活動で大賞「胸がいっぱい」 BLACKPINK楽曲でも受賞",
-          "snippet": "",
-          "url": "https://www.saga-s.co.jp/articles/-/1629061",
-          "source": "佐賀新聞"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "大西流星 ドラマ",
+      "title": "原嘉孝",
       "trafficCount": "1000+",
-      "pubDate": "Sat, 10 Jan 2026 07:20:00 -0800",
+      "pubDate": "Sat, 10 Jan 2026 07:30:00 -0800",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
