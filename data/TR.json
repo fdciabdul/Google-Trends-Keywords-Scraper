@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-11 06:13:37",
+  "lastUpdate": "2026-01-11 06:28:23",
   "data": [
     {
       "title": "eskişehir hava durumu",
@@ -87,7 +87,7 @@
     },
     {
       "title": "antalya hava durumu",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 10 Jan 2026 21:10:00 -0800",
       "picture": "",
       "pictureSource": "",
@@ -105,7 +105,7 @@
     },
     {
       "title": "manisa deprem",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Sat, 10 Jan 2026 18:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3pztLDazrOOtn3l-ybN1d9xi5n5g6hk8hUDnFi_fNx9yxXDd6q0SuzD7Z_Io",
       "pictureSource": "Yeni Şafak",
@@ -132,36 +132,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "deprem son dakika",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 10 Jan 2026 17:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQetP1Fvt1D3kb-2D_xcdUWJ9vpovtPWXD9_ZHuIjDAYYdYQEK3ySICsV9TUNU",
-      "pictureSource": "Hürriyet",
-      "relatedSearch": [
-        {
-          "title": "AFAD açıkladı! Muğla'nın Fethiye ilçesi açıklarında 4.1 büyüklüğünde deprem",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/gundem/afad-acikladi-muglanin-fethiye-ilcesi-aciklarinda-4-1-buyuklugunde-deprem-43081103",
-          "source": "Hürriyet"
-        },
-        {
-          "title": "Son depremler listesi 10 Ocak 2026 Cumartesi: AFAD ve Kandilli Rasathanesi verileri ile az önce deprem mi oldu, nerede ve kaç büyüklüğünde?",
-          "snippet": "",
-          "url": "https://www.haberturk.com/son-depremler-listesi-10-ocak-2026-afad-ve-kandilli-rasathanesi-verileri-ile-az-once-deprem-mi-oldu-nerede-ve-kac-buyuklugunde-3852336",
-          "source": "Habertürk"
-        },
-        {
-          "title": "Akdeniz'de 4 büyüklüğünde deprem",
-          "snippet": "",
-          "url": "https://www.haberler.com/3-sayfa/akdeniz-in-hatay-aciklarinda-4-buyuklugunde-19448991-haberi/",
-          "source": "Haberler"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "izmir deprem",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 10 Jan 2026 17:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP6wv3uOIjltqCqg1CiSAkmzqZcef1CLcr-8ygLbOQH2u20Zu44OhXzJkW9OY",
       "pictureSource": "Haberler",
@@ -183,6 +155,34 @@
           "snippet": "",
           "url": "https://www.yenisafak.com/foto-galeri/ozgun/deprem-mi-oldu-son-dakika-az-once-deprem-mi-oldu-10-ocak-2025-afad-ve-kandilli-son-depremler-listesi-4786713",
           "source": "Yeni Şafak"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "deprem",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 10 Jan 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQetP1Fvt1D3kb-2D_xcdUWJ9vpovtPWXD9_ZHuIjDAYYdYQEK3ySICsV9TUNU",
+      "pictureSource": "Hürriyet",
+      "relatedSearch": [
+        {
+          "title": "AFAD açıkladı! Muğla'nın Fethiye ilçesi açıklarında 4.1 büyüklüğünde deprem",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/gundem/afad-acikladi-muglanin-fethiye-ilcesi-aciklarinda-4-1-buyuklugunde-deprem-43081103",
+          "source": "Hürriyet"
+        },
+        {
+          "title": "Son depremler listesi 10 Ocak 2026 Cumartesi: AFAD ve Kandilli Rasathanesi verileri ile az önce deprem mi oldu, nerede ve kaç büyüklüğünde?",
+          "snippet": "",
+          "url": "https://www.haberturk.com/son-depremler-listesi-10-ocak-2026-afad-ve-kandilli-rasathanesi-verileri-ile-az-once-deprem-mi-oldu-nerede-ve-kac-buyuklugunde-3852336",
+          "source": "Habertürk"
+        },
+        {
+          "title": "Akdeniz'de 4 büyüklüğünde deprem",
+          "snippet": "",
+          "url": "https://www.haberler.com/3-sayfa/akdeniz-in-hatay-aciklarinda-4-buyuklugunde-19448991-haberi/",
+          "source": "Haberler"
         }
       ],
       "link": "https://imtaqin.id/"
