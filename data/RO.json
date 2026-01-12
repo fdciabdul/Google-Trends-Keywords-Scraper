@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-01-12 04:02:12",
+  "lastUpdate": "2026-01-12 04:30:59",
   "data": [
     {
-      "title": "gsp",
+      "title": "vremea bucuresti",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 11 Jan 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk89or4lvuDkKttg3S0oPy6Y-BwNiE2AqzgWR5n2fpHh3JjcYUTD3FK4r-UZs",
+      "pictureSource": "HotNews.ro",
+      "relatedSearch": [
+        {
+          "title": "Ninsori în București. La cât ajunge stratul de zăpadă și cum arată prognoza meteo pentru luni",
+          "snippet": "",
+          "url": "https://hotnews.ro/zapada-bucuresti-prognoza-meteo-12-ianuarie-2147857",
+          "source": "HotNews.ro"
+        },
+        {
+          "title": "Prognoză specială pentru București. Meteorologii anunță ger și strat de zăpadă de 15 centimetri",
+          "snippet": "",
+          "url": "https://www.digi24.ro/meteo/prognoza-speciala-pentru-bucuresti-meteorologii-anunta-ger-si-strat-de-zapada-de-15-centimetri-3580007",
+          "source": "Digi24"
+        },
+        {
+          "title": "Meteo București: Strat de zăpadă de până la 15 cm și temperaturi minime de până…",
+          "snippet": "",
+          "url": "https://www.mediafax.ro/stirile-zilei/meteo-bucuresti-strat-de-zapada-de-pana-la-15-cm-si-temperaturi-minime-de-pana-la-10-grade-23669502",
+          "source": "Mediafax"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vremea cluj",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 11 Jan 2026 20:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtlIngTF_PpEtpcYVvthKgIQq3fD1OMIAkZMs7xcXxlxT-RQgpyYuE0fDr6_w",
+      "pictureSource": "Digi24",
+      "relatedSearch": [
+        {
+          "title": "Meteorologii anunță ninsori, ger și vânt puternic: „Senzația de rece va fi mult amplificată”",
+          "snippet": "",
+          "url": "https://www.digi24.ro/meteo/meteorologii-anunta-ninsori-ger-si-vant-puternic-senzatia-de-rece-va-fi-mult-amplificata-3579925",
+          "source": "Digi24"
+        },
+        {
+          "title": "România, sub alertă de ninsori, ger și viscol: Cum se circulă după ninsori. „Până luni, stratul de zăpadă va fi de 12-15 cm în București” / Harta zonelor afectate și prognoza ANM",
+          "snippet": "",
+          "url": "https://hotnews.ro/cad-galben-ninsori-viscol-ger-meteo-vreme-drumuri-cum-se-circula-2147632",
+          "source": "HotNews.ro"
+        },
+        {
+          "title": "Efectele aerului rece de la Polul Nord resimțite deja în România. Gerul devine și mai aprig în zilele următoare",
+          "snippet": "",
+          "url": "https://stirileprotv.ro/stiri/actualitate/efectele-aerului-rece-de-la-polul-nord-resimtite-deja-in-romania-gerul-devine-si-mai-aprig-in-zilele-urmatoare.html",
+          "source": "Știrile Pro TV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "horoscop",
       "trafficCount": "100+",
+      "pubDate": "Sun, 11 Jan 2026 20:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC054lYq3DEH9-7Z5mMYnxjOd3gaI4pUUCARPuvKlSRA9ZFso2wiv57IgB9no",
+      "pictureSource": "Mediafax",
+      "relatedSearch": [
+        {
+          "title": "HOROSCOP 12 ianuarie 2026. Început de săptămână cu decizii importante și noi oportunități",
+          "snippet": "",
+          "url": "https://www.mediafax.ro/horoscop/horoscop-12-ianuarie-2026-inceput-de-saptamana-cu-decizii-importante-si-noi-oportunitati-23669691",
+          "source": "Mediafax"
+        },
+        {
+          "title": "Horoscopul zilei de 12 ianuarie",
+          "snippet": "",
+          "url": "http://www.tvr.ro/horoscop/horoscopul-zilei-de-12-ianuarie_53922.html",
+          "source": "TVR.RO"
+        },
+        {
+          "title": "Horoscop 12 ianuarie 2026, cu Neti Sandu. Urmează o decizie majoră împreună cu partenerul de cuplu",
+          "snippet": "",
+          "url": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-12-ianuarie-2026-cu-neti-sandu-urmeaza-o-decizie-majora-impreuna-cu-partenerul-de-cuplu.html",
+          "source": "Știrile Pro TV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gsp",
+      "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 19:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsKegW588Oqj3_5lgjpsn5QetqHDHEHv8oQyy5s7csm9Gg2TuLEEB4kpfofI",
       "pictureSource": "Yahoo Sports",
@@ -25,34 +109,6 @@
           "snippet": "",
           "url": "https://www.mmamania.com/ncaa-wrestling-news-and-results/414059/colby-covington-teases-move-to-middleweight-again-after-dominant-raf-05-win-i-have-unlimited-endurance",
           "source": "MMA Mania"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meteo bucuresti",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 11 Jan 2026 19:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk89or4lvuDkKttg3S0oPy6Y-BwNiE2AqzgWR5n2fpHh3JjcYUTD3FK4r-UZs",
-      "pictureSource": "HotNews.ro",
-      "relatedSearch": [
-        {
-          "title": "Ninsori în București. La cât ajunge stratul de zăpadă și cum arată prognoza meteo pentru luni",
-          "snippet": "",
-          "url": "https://hotnews.ro/zapada-bucuresti-prognoza-meteo-12-ianuarie-2147857",
-          "source": "HotNews.ro"
-        },
-        {
-          "title": "Prognoză specială pentru București. Meteorologii anunță ger și strat de zăpadă de 15 centimetri",
-          "snippet": "",
-          "url": "https://www.digi24.ro/meteo/prognoza-speciala-pentru-bucuresti-meteorologii-anunta-ger-si-strat-de-zapada-de-15-centimetri-3580007",
-          "source": "Digi24"
-        },
-        {
-          "title": "Meteo București: Strat de zăpadă de până la 15 cm și temperaturi minime de până…",
-          "snippet": "",
-          "url": "https://www.mediafax.ro/stirile-zilei/meteo-bucuresti-strat-de-zapada-de-pana-la-15-cm-si-temperaturi-minime-de-pana-la-10-grade-23669502",
-          "source": "Mediafax"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,57 +142,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "erich von däniken",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 11 Jan 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiPTSL-53GjidscES6Wu8qwbIKnT6Z8f_MXuidDGWrNsfuQJ886KnMoZJ2Ysc",
-      "pictureSource": "Știrile Pro TV",
-      "relatedSearch": [
-        {
-          "title": "Bărbatul care a căutat și documentat extratereștri a murit la 90 de ani. Piramidele din Egipt, printre teoriile controversate",
-          "snippet": "",
-          "url": "https://stirileprotv.ro/stiri/actualitate/barbatul-care-a-cautat-si-documentat-extraterestri-a-murit-la-90-de-ani-piramidele-din-egipt-printre-teoriile-controversate.html",
-          "source": "Știrile Pro TV"
-        },
-        {
-          "title": "A murit controversatul scriitor elvețian Erich von Däniken",
-          "snippet": "",
-          "url": "https://www.radioromania.ro/Actualitate/a-murit-controversatul-scriitor-elvetian-erich-von-daniken-id141384.html",
-          "source": "radioromania.ro"
-        },
-        {
-          "title": "A murit scriitorul elvețian care a lansat teoria că extratereștrii au ajutat la construcția marilor civilizații antice. Erich von Däniken avea 90 de ani",
-          "snippet": "",
-          "url": "https://hotnews.ro/a-murit-autorul-elvetian-care-a-lansat-teoria-ca-extraterestrii-au-ajutat-la-constructia-marilor-civilizatii-antice-erich-von-daniken-avea-90-de-ani-2147873",
-          "source": "HotNews.ro"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "golden globes 2026",
       "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7Pv_Kp1nSFmySnFNbsSk9JuF2_Zdk488GO5g-s8kGeYH1QdSyID-sPKd8R0",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1WwRkA-_It8SEKvCi-qhjCj2rhcV4YDgScDriZvcuIBh-gqkqke-B-y7pZE",
+      "pictureSource": "NZ Herald",
       "relatedSearch": [
         {
-          "title": "Golden Globes red carpet in pictures: Celebrities arrive for Hollywood ceremony",
+          "title": "Erin Doherty says mum scolded her for swearing in Emmy speech",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cy59ekq0dq3o",
-          "source": "BBC"
+          "url": "https://www.nzherald.co.nz/entertainment/erin-doherty-says-mum-scolded-her-for-swearing-in-emmy-awards-speech/YNJZ3SNYVVGO7KJLUOAV2WS74Q/",
+          "source": "NZ Herald"
         },
         {
-          "title": "How to Watch Golden Globes 2026 and Live From E! Red Carpet",
+          "title": "Golden Globes 2026 censors let F-bomb slip through live show",
           "snippet": "",
-          "url": "https://www.eonline.com/news/1426889/golden-globes-2026-how-to-watch-awards-live-from-e",
-          "source": "E! News"
+          "url": "https://ew.com/f-bomb-slips-through-live-show-golden-globes-2026-11883288",
+          "source": "Entertainment Weekly"
         },
         {
-          "title": "The Golden Globes are this week. Here's what to know about the first major show of awards season",
+          "title": "CBS Could Face FCC Fine After ‘Adolescence’s Erin Doherty’s Expletive Sneaks Onto Broadcast",
           "snippet": "",
-          "url": "https://apnews.com/article/golden-globes-2026-what-to-know-5c67be217f15e16da1b97c5d18fb8197",
-          "source": "AP News"
+          "url": "https://deadline.com/2026/01/adolescence-erin-doherty-swearing-cbs-golden-globes-1236679883/",
+          "source": "Deadline"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,44 +183,16 @@
           "source": "news.bet365.com"
         },
         {
-          "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition New Star undefeated in Champions League",
+          "title": "Florin Prunea a dat verdictul despre Adrian Șut",
           "snippet": "",
-          "url": "https://www.dailymirror.lk/print/sports/New-Star-undefeated-in-Champions-League/244-329717",
-          "source": "Daily Mirror - Sri Lanka"
+          "url": "https://www.digisport.ro/fotbal/liga-1/florin-prunea-a-dat-verdictul-despre-adrian-sut-4022775",
+          "source": "Digi Sport"
         },
         {
-          "title": "New Star tighten grip on Champions League lead",
+          "title": "Fotbal: Adrian Șut, transferat oficial de la FCSB la Al Ain",
           "snippet": "",
-          "url": "https://dailynews.lk/2026/01/06/sports/927772/new-star-tighten-grip-on-champions-league-lead/",
-          "source": "Ceylon Daily News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "napoli",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 11 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW5opYoz2lQWHrK6owGFzvH7Vn5FlJ93a6qiLSV5AsMAB-auK40TmdOQQHiJA",
-      "pictureSource": "La Gazzetta dello Sport",
-      "relatedSearch": [
-        {
-          "title": "Inter-Napoli, è un pari spettacolo: McTominay riprende due volte Chivu",
-          "snippet": "",
-          "url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/11-01-2026/inter-napoli-live-risultato-e-gol-in-diretta-serie-a.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "\"Vergognatevi, vergognatevi tutti\": Conte perde la testa e viene espulso da Doveri",
-          "snippet": "",
-          "url": "https://www.sportmediaset.mediaset.it/calcio/vergognatevi-vergognatevi-tutti-conte-perde-la-testa-e-viene-espulso-da-doveri_107831632-202602k.shtml",
-          "source": "Sportmediaset"
-        },
-        {
-          "title": "De Laurentiis: “Con i 9 giocatori assenti per gran parte della stagione, cosa avrebbe fatto il Napoli finora?” Su X il presidente del Napoli esulta: \"Napoli favoloso, bellissima partita!\" https://www.ilnapolista.it/2026/01/de-laurentiis-con-i-9-giocatori-assenti-per-gra",
-          "snippet": "",
-          "url": "https://www.facebook.com/ilnapolista/photos/de-laurentiis-con-i-9-giocatori-assenti-per-gran-parte-della-stagione-cosa-avreb/1401159628689355/",
-          "source": "Facebook"
+          "url": "https://agerpres.ro/sport/2026/01/10/fotbal-adrian-sut-transferat-oficial-de-la-fcsb-la-al-ain--1517606",
+          "source": "Agerpres"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "copa del rey",
       "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe3D5uHwjqNbDmLXSg4SBYWK8NG-NMJwvhfOUkNlKVPPi1mymeyMt2exPuDcg",
-      "pictureSource": "DAZN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdeVL4SRhoOfeU8O2mtPh9CAm4r7l-ZYE7rVeRI39n9MU64YKbyGnonhyh7RM",
+      "pictureSource": "Livetipsportal.com",
       "relatedSearch": [
         {
-          "title": "Racing de Santander vs Barcelona en vivo: horarios, transmisión online y canales de los octavos de final de la Copa del Rey en España, México, Latinoamérica y Estados Unidos",
+          "title": "Racing Santander vs FC Barcelona pronostico y comparación de cuotas 15.01.2026",
           "snippet": "",
-          "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/racing-de-santander-vs-barcelona-vivo-horarios-transmision-online-canales-octavos-final-copa-rey-espana-mexico-latinoamerica-y-estados-unidos/1vozvpmex7itb13r3ej2vfyfvd",
-          "source": "DAZN"
+          "url": "https://www.livetipsportal.com/es/pronosticos-apuestas-deportivas/racing-santander-vs-fc-barcelona-copa-del-rey-11842855/",
+          "source": "Livetipsportal.com"
         },
         {
-          "title": "Duelo de líderes en octavos",
+          "title": "El sorteo de los octavos de la Copa del Rey, en directo",
           "snippet": "",
-          "url": "https://www.pressreader.com/spain/marca-andaluciaef1c/20260108/281861534883378",
-          "source": "PressReader"
+          "url": "https://www.flashscore.es/noticias/futbol-copa-del-rey-asi-queda-el-sorteo-de-copa-racing-barca-y-albacete-real-madrid-en-octavos/Y56fW1Cr/",
+          "source": "Flashscore.es"
         },
         {
-          "title": "Definidos los cruces de octavos de final en la Copa del Rey, cuándo son los juegos y dónde verlos en México",
+          "title": "Sorteo Copa: cuando el Rey se juega a un solo latido",
           "snippet": "",
-          "url": "https://www.infobae.com/mexico/deportes/2026/01/07/definidos-los-cruces-de-octavos-de-final-en-la-copa-del-rey-cuando-son-los-juegos-y-donde-verlos-en-mexico/",
-          "source": "Infobae"
+          "url": "https://www.vavel.com/es/futbol/2026/01/07/1246500-sorteo-copa-cuando-el-rey-se-juega-a-un-solo-latido.html",
+          "source": "VAVEL.com"
         }
       ],
       "link": "https://imtaqin.id/"
