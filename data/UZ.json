@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-12 09:32:28",
+  "lastUpdate": "2026-01-12 09:47:47",
   "data": [
     {
       "title": "куба",
@@ -33,15 +33,9 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Sun, 11 Jan 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlLsHt9oKKaWd4b1pKzHZB9PCDhL22MOqHFemzFuSKK1VucDp-EeiqJyGq_aU",
-      "pictureSource": "Earth.Org",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUuXyaj_vB0uFzXXPL5BMiD_6CUc-yqY0OS3UU5GOyoKs5f0vJ8Fc_0nc0hTM",
+      "pictureSource": "Dimsum Daily",
       "relatedSearch": [
-        {
-          "title": "Hong Kong Breaks 20 Weather and Temperature Records in 2025, City’s Sixth Hottest Year",
-          "snippet": "",
-          "url": "https://earth.org/hong-kong-breaks-20-weather-and-temperature-records-in-2025-citys-sixth-hottest-year/",
-          "source": "Earth.Org"
-        },
         {
           "title": "Hong Kong logs second-warmest December on record following weak monsoon",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "Dimsum Daily"
         },
         {
-          "title": "One hundred flights cancelled at Frankfurt Airport due to ice and snow",
+          "title": "Metro Atlanta weather: Cold week ahead with snow possibility",
           "snippet": "",
-          "url": "https://www.thelocal.de/20260112/one-hundred-flights-cancelled-at-frankfurt-airport-due-to-ice-and-snow",
-          "source": "The Local Germany"
+          "url": "https://www.fox5atlanta.com/news/metro-atlanta-weather-snow-in-georgia",
+          "source": "FOX 5 Atlanta"
+        },
+        {
+          "title": "Colder air arrives to Southeast Georgia and the Lowcountry this week",
+          "snippet": "",
+          "url": "https://www.wjcl.com/article/colder-air-arrives-to-southeast-georgia-and-the-lowcountry-this-week/69968759",
+          "source": "WJCL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,7 +123,7 @@
         {
           "title": "Serie A football match: Inter Milan vs. Napoli",
           "snippet": "",
-          "url": "https://english.news.cn/20260112/ef7af747032f48b3bae854198246f47b/c.html",
+          "url": "http://english.news.cn/20260112/ef7af747032f48b3bae854198246f47b/c.html",
           "source": "Xinhua"
         },
         {
@@ -142,17 +142,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "матч",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 11 Jan 2026 12:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2Yqu6aHTXLdlTbwZ1daaTd8LoL3RhwwnB0zi0Qxl5GhTh96boRjD5IFGJs-M",
+      "pictureSource": "LiveResult",
+      "relatedSearch": [
+        {
+          "title": "ЦСКА – Спартак: прямая трансляция, где смотреть матч онлайн 11 января",
+          "snippet": "",
+          "url": "https://www.liveresult.ru/news/hokkey/305755-TSSKA-Spartak-pryamaya-translyatsiya-gde-smotret-match-onlayn-11-yanvarya",
+          "source": "LiveResult"
+        },
+        {
+          "title": "Дубль Полтапова принес ЦСКА победу в дерби со «Спартаком»",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/spbnews_NI2284853_Dubl_Poltapova_prines_CSKA_pobedu_v_derbi_so_Spartakom",
+          "source": "Sportbox"
+        },
+        {
+          "title": "Порядин вернулся в состав «Спартака» спустя месяц",
+          "snippet": "",
+          "url": "https://www.sport-express.net/hockey/khl/news/napadayuschiy-pavel-poryadin-vernulsya-v-sostav-spartaka-spustya-mesyac-2389435/",
+          "source": "sport-express.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "sports",
       "trafficCount": "100+",
       "pubDate": "Sun, 11 Jan 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD4_1PIlCrHMVxlNeVEnblJ0jaPI3892fnr53uNx06crrlPx_nuaP9ydxklig",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJkXxS_2_PyCiJc__Eb_ClPwlPWCL-giYPIOs_bHDBQtJLwWiKb7yH7PVOdvk",
+      "pictureSource": "San Francisco 49ers",
       "relatedSearch": [
         {
-          "title": "49ers oust Eagles, march on behind Purdy, CMC",
+          "title": "Jennings' Trick Pass Sets Up McCaffrey TD",
           "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/47585326/49ers-defending-champion-eagles-nfc-wild-card-game",
-          "source": "ESPN"
+          "url": "https://www.49ers.com/video/jennings-trick-pass-sets-up-mccaffrey-touch-down-philadelphia-eagles-wild-card-playoffs",
+          "source": "San Francisco 49ers"
         },
         {
           "title": "Brock Purdy overcomes two INTs, leads 49ers' GW drive in postseason return to Philadelphia",
@@ -161,10 +189,10 @@
           "source": "NFL.com"
         },
         {
-          "title": "When do San Francisco 49ers play next? NFL playoff schedule, scenarios",
+          "title": "49ers vs. Eagles score, live updates: George Kittle suffers Achilles injury; Brock Purdy, Jalen Hurts keep things close in 4th quarter",
           "snippet": "",
-          "url": "https://www.azcentral.com/story/sports/nfl/2026/01/11/san-francisco-49ers-nfl-playoff-schedule-scenarios-opponent-2026-postseason-game/88086765007/",
-          "source": "azcentral.com and The Arizona Republic"
+          "url": "https://sports.yahoo.com/nfl/live/49ers-vs-eagles-score-live-updates-george-kittle-suffers-achilles-injury-brock-purdy-jalen-hurts-keep-things-close-in-4th-quarter-200004357.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.fotmob.com/it/news/1nm4rheys32dj1af7fk4t0wq3e_it-madrid-alonso-voltare-pagina-dopo-il-ko-supercoppa",
           "source": "FotMob"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "football",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 11 Jan 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVTNBYnAAaTcbObBJO7HevS9SDECn5M7VXMxgVpY3Qj92TMQ2ZQ5iyuEaJlQ",
-      "pictureSource": "On3",
-      "relatedSearch": [
-        {
-          "title": "Indiana lands commitment from Montana State transfer cornerback Carson Williams",
-          "snippet": "",
-          "url": "https://www.on3.com/teams/indiana-hoosiers/news/indiana-football-lands-commitment-from-montana-state-transfer-cornerback-carson-williams/",
-          "source": "On3"
-        },
-        {
-          "title": "FCS Freshman All-American DB Joins IU’s Portal Haul",
-          "snippet": "",
-          "url": "https://hoosierhuddle.com/2026/01/11/fcs-freshman-all-american-db-joins-ius-portal-haul/",
-          "source": "Hoosier Huddle"
-        },
-        {
-          "title": "Indiana football loses 5th player to transfer portal in reserve safety",
-          "snippet": "",
-          "url": "https://www.indystar.com/story/sports/college/indiana/2026/01/11/jah-jah-boyd-5th-player-to-enter-transfer-portal-from-indiana-football/88137075007/",
-          "source": "IndyStar"
         }
       ],
       "link": "https://imtaqin.id/"
