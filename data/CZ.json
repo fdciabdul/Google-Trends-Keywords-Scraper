@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-13 05:27:20",
+  "lastUpdate": "2026-01-13 05:41:36",
   "data": [
     {
       "title": "idnes",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 12 Jan 2026 21:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdSOClU0hVFvJcfkBk4V707bGb7jwYNroDZessOgV1xlqB9KU0rQfIrKGkeiw",
       "pictureSource": "Kutnohorský deník",
@@ -30,29 +30,85 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "výstraha čhmú ledovka",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 12 Jan 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiN-_ityxx6FUhakumADlTTpkidluIYGEor5SNKU1h5ic5bflUe-wR2UEOtl4",
-      "pictureSource": "Novinky",
+      "title": "aktualne",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 12 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5c6YSY17Q-mAluC88lF2umn0fpAz4VP31fU1WVL_v23YwPgw7SSShcPWUBhA",
+      "pictureSource": "Zprávy – Aktuálně.cz",
       "relatedSearch": [
         {
-          "title": "Na Šumavě naměřili -30 stupňů",
+          "title": "Okamurův přešlap. Tvrdil, že je vzorem, hlas mu dalo jen osm lidí. Ale „porazil“ Ježíše",
           "snippet": "",
-          "url": "https://www.novinky.cz/clanek/pocasi-na-sumave-namerili-30-stupnu-40557056",
+          "url": "https://zpravy.aktualne.cz/domaci/okamuruv-preslap-tvrdil-ze-je-vzorem-hlas-mu-dalo-jen-osm-lidi-ale-porazil-jezise/r~aaa29713fe59570e359122ae0e0d66bc/",
+          "source": "Zprávy – Aktuálně.cz"
+        },
+        {
+          "title": "Tomio Okamura – menší než Babiš, ale větší než Ježíš. Co nám šéf SPD neřekl o anketě Akademie věd",
+          "snippet": "",
+          "url": "https://www.forum24.cz/tomio-okamura-mensi-nez-babis-ale-vetsi-nez-jezis-co-nam-sef-spd-nerekl-o-ankete-akademie-ved",
+          "source": "forum 24"
+        },
+        {
+          "title": "Zazářit a padnout jako Okamura",
+          "snippet": "",
+          "url": "https://medium.seznam.cz/clanek/fraj-pravy-zazarit-a-padnout-jako-okamura-227469",
+          "source": "Médium.cz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "seznam zprávy",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 12 Jan 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GBnWqphI3Y8Ta7TbVeNRD7s74OIH88eEo9jiZBFlTZR5IKXUlO1hmEDmbh8",
+      "pictureSource": "Seznam Zprávy",
+      "relatedSearch": [
+        {
+          "title": "Komentář: Tyran je pryč, ať žije tyran! Trump Venezuelu neosvobodil",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/zahranicni-komentar-tyran-je-pryc-at-zije-tyran-trump-venezuelu-neosvobodil-296001",
+          "source": "Seznam Zprávy"
+        },
+        {
+          "title": "Trefa Vlastislava Břízy: Bleskurychlá operace ve Venezuele je pro Rusko tvrdým políčkem",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/komentare-trefa-vlastislava-brizy-bleskurychla-operace-ve-venezuele-je-pro-rusko-tvrdym-polickem-40556867",
           "source": "Novinky"
         },
         {
-          "title": "Ve středních a severních Čechách je zrušeno několik spojů, ledovka komplikuje železniční dopravu",
+          "title": "Ján Markoš: Bylo to jako televizní show! O Trumpově Božím oku a nečekané moci diváků",
           "snippet": "",
-          "url": "https://www.irozhlas.cz/zpravy-domov/ve-strednich-a-severnich-cechach-je-zruseno-nekolik-spoju-ledovka-komplikuje_2601130602_mkm",
-          "source": "iROZHLAS"
-        },
+          "url": "https://www.respekt.cz/komentare/jan-markos-bylo-to-jako-televizni-show-o-trumpove-bozim-oku-a-necekane-moci-divaku",
+          "source": "RESPEKT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "výstraha čhmú ledovka",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 12 Jan 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIz1gNlKu9gd7bxEuwp0KCBXV0hFnEl-PoufmNUuQEhdUsElib55o8IXXAgk",
+      "pictureSource": "In-počasí",
+      "relatedSearch": [
         {
           "title": "Od západu sněžení, později kromě severovýchodu přecházející v déšť s až velmi silnou ledovkou",
           "snippet": "",
           "url": "https://www.in-pocasi.cz/clanky/aktuality/od-zapadu-snezeni-pozdeji-krome-severovychodu-prechazejici-v-dest-s-az-velmi-silnou-ledovkou-6357/",
           "source": "In-počasí"
+        },
+        {
+          "title": "Silná ledovka od rána komplikuje železniční dopravu kolem Prahy i na severu Čech",
+          "snippet": "",
+          "url": "https://ct24.ceskatelevize.cz/clanek/pocasi/silna-ledovka-od-rana-komplikuje-zeleznicni-dopravu-kolem-prahy-i-na-severu-cech-369192",
+          "source": "ČT24"
+        },
+        {
+          "title": "❗Od dnešního večera až do zítřejšího dne se může v Čechách na řadě míst vyskytnout ledovka. Situace může být velmi nebezpečná, sledujte proto aktualizaci včera vydané výstrahy. 👉Ledovka - aneb když prší, ale mrzne 👀Pro někoho nelogická souvislost. Mr",
+          "snippet": "",
+          "url": "https://www.facebook.com/chmi.cz/posts/od-dne%C5%A1n%C3%ADho-ve%C4%8Dera-a%C5%BE-do-z%C3%ADt%C5%99ej%C5%A1%C3%ADho-dne-se-m%C5%AF%C5%BEe-v-%C4%8Dech%C3%A1ch-na-%C5%99ad%C4%9B-m%C3%ADst-vyskytnou/1277288637753308/",
+          "source": "Facebook"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +155,16 @@
           "source": "FotMob"
         },
         {
-          "title": "Bradley Barcola - 4; Lucas Beraldo - 6 : Notes des joueurs du PSG lors de la défaite contre le PAris FC en Coupe de France",
+          "title": "Coupe de France : exploit du PFC qui élimine le PSG en 16e de finale",
           "snippet": "",
-          "url": "https://tribuna.com/fr/blogs/bradley-barcola-4-lucas-beraldo-6-notes-des-joueurs-du-psg-l/",
-          "source": "Tribuna.com"
+          "url": "https://lecourrier.vn/coupe-de-france-exploit-du-pfc-qui-elimine-le-psg-en-16e-de-finale/1309298.html",
+          "source": "lecourrier.vn"
         },
         {
-          "title": "Un tremblement de terre se produit pendant la Coupe de France.",
+          "title": "\"Impression de revoir la même action depuis 3 ans\" : les fans du PSG pointent du doigt Barcola et son manque de finition",
           "snippet": "",
-          "url": "https://www.vietnam.vn/fr/dia-chan-xay-ra-o-cup-quoc-gia-phap",
-          "source": "Vietnam.vn"
+          "url": "https://tribuna.com/fr/blogs/impression-de-revoir-la-meme-action-depuis-3-ans-les-fans-du/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +173,15 @@
       "title": "juventus – cremonese",
       "trafficCount": "100+",
       "pubDate": "Mon, 12 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRFZ8sH81Cbt-q8VZyzzxE21FYyCStQTe6_dxomFQ2XqNo_GD_609vjP4yO0",
-      "pictureSource": "Il Mattino di Padova",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPOLcOExhuwROedHdzGaZP_TUIHZa8DJpmu0QDW40F6vD6DtLm9mVui0PJgY0",
+      "pictureSource": "Indeksonline.",
       "relatedSearch": [
+        {
+          "title": "La Juventus \"bombarda\" la Cremonese, la sconfigge nettamente in casa",
+          "snippet": "",
+          "url": "https://indeksonline.net/it/La-Juventus-bombarda-la-Cremonese-e-la-sconfigge-in-casa/",
+          "source": "Indeksonline."
+        },
         {
           "title": "Spalletti, 'Inter e Napoli? La Juve deve ancora crescere'",
           "snippet": "",
@@ -127,16 +189,10 @@
           "source": "Il Mattino di Padova"
         },
         {
-          "title": "Audero: “Partita da archiviare, l’avversario ci è stato superiore”",
+          "title": "Audero: \"Partita particolare, quel tocco di Baschirotto è dubbio\"",
           "snippet": "",
-          "url": "https://uscremonese.it/audero-partita-da-archiviare-lavversario-ci-e-stato-superiore/",
-          "source": "US Cremonese"
-        },
-        {
-          "title": "Bremer una fortezza, Miretti al bacio e David rinato",
-          "snippet": "",
-          "url": "https://www.lastampa.it/sport/2026/01/12/news/bremer_una_fortezza_miretti_al_bacio_e_david_rinato-15465598/",
-          "source": "La Stampa"
+          "url": "https://cremonasport.it/2026/01/12/audero-partita-particolare-quel-tocco-di-baschirotto-e-dubbio/",
+          "source": "CremonaSport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -204,62 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "liverpool – barnsley",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 12 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8fHRuIlDkoi-xEtkXLvxmtNXR4VdoCfSowQuRDTjUUTzk3g-n69JH5MCc0NI",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "'I'll get goosebumps' - Barnsley duo out to upset old club Liverpool",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cdex26xd26jo",
-          "source": "BBC"
-        },
-        {
-          "title": "Arne Slot hit with Conor Bradley injury blow as he vows to go strong against Barnsley",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jan/11/arne-slot-to-pick-strong-liverpool-team-a-year-on-from-plymouth-fa-cup-upset",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Virgil van Dijk: You're expected to perform and win when you wear the LFC shirt",
-          "snippet": "",
-          "url": "https://www.liverpoolfc.com/news/virgil-van-dijk-youre-expected-perform-and-win-when-you-wear-lfc-shirt",
-          "source": "Liverpool FC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "helena vondráčková",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 12 Jan 2026 11:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_j_pb69Otri7_o4ZrH3U-v2qIkAjFC1fPidZqUD5UDHZr10ijq0dmB6k6GJI",
-      "pictureSource": "Novinky",
-      "relatedSearch": [
-        {
-          "title": "Helena a Manu. Vondráčková nazpívala k nové komedii duet s nejmladším interpretem své kariéry",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-helena-a-manu-vondrackova-nazpivala-k-nove-komedii-duet-s-nejmladsim-interpretem-sve-kariery-40556732",
-          "source": "Novinky"
-        },
-        {
-          "title": "Vondráčková po padesáti letech oživila svůj hit. Zpívá ho se sedmiletým chlapcem",
-          "snippet": "",
-          "url": "https://www.denik.cz/hudba/helena-vondrackova-vzhuru-k-vyskam-novy-klip-emanuel-bugala.html",
-          "source": "Deník.cz"
-        },
-        {
-          "title": "Helena Vondráčková znovu míří vzhůru k výškám",
-          "snippet": "",
-          "url": "https://radioblanik.cz/aktualne/zajimavosti/helena-vondrackova-znovu-miri-vzhuru-k-vyskam",
-          "source": "Rádio BLANÍK"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
