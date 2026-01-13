@@ -1,6 +1,90 @@
 {
-  "lastUpdate": "2026-01-13 05:13:34",
+  "lastUpdate": "2026-01-13 05:27:40",
   "data": [
+    {
+      "title": "interia pogoda",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 12 Jan 2026 21:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ86zY61JqR1N4mdaB7VD0nuOqzLQSISZaVYcYtB-7nXjg5SDnmETu3HBqnu1I",
+      "pictureSource": "Onet",
+      "relatedSearch": [
+        {
+          "title": "Potężne uderzenie mrozu w Polsce. Na termometrach nawet -23 st. C",
+          "snippet": "",
+          "url": "https://www.onet.pl/informacje/onetwiadomosci/po-siarczystym-mrozie-uderzy-sniezyca-na-termometrach-nawet-23-st-c/94pxp8c,79cfc278",
+          "source": "Onet"
+        },
+        {
+          "title": "Mroźna zima uczepiła się Polski. Najmocniej skupi się na konkretnej części kraju",
+          "snippet": "",
+          "url": "https://wydarzenia.interia.pl/kraj/news-zimowe-zagrozenie-nie-minelo-najmocniej-da-sie-nam-we-znaki,nId,22507511",
+          "source": "Wydarzenia w INTERIA.PL"
+        },
+        {
+          "title": "Niebezpieczna noc. Gdzie zima najbardziej da się we znaki",
+          "snippet": "",
+          "url": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-12-13-01-opady-marznace-silny-mroz-intensywne-opady-sniegu-pomaranczowe-alerty-st8831653",
+          "source": "TVN24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda białystok",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 12 Jan 2026 21:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5o9OmuDdRdZQwHPpMEHBYyIgtyW5KxP5Y3HRegDYfYESS4PW_06aFf5szlk",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Białystok - 13.01.2026. Prognoza pogody w mieście",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/bialystok/bialystok-prognoza-pogody-w-dniu-13012026/3e15mc4",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Chmury nad Białymstokiem gęstnieją. Co mówią meteorolodzy?",
+          "snippet": "",
+          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32521377,chmury-nad-bialymstokiem-gestnieja-co-mowia-meteorolodzy.html",
+          "source": "Gazeta"
+        },
+        {
+          "title": "Pogoda w Białymstoku. Prognoza na wtorek 13 stycznia. Uwaga: silny mróz i miejscami mgły!",
+          "snippet": "",
+          "url": "https://pogoda.o2.pl/pogoda/pogoda-w-bialymstoku-prognoza-na-wtorek-13-stycznia-uwaga-silny-mroz-i-miejscami-mgly-7242522821217248a",
+          "source": "o2.pl"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda krakow",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 12 Jan 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShM0ROxHaE-lpGFEeqpgv--LsT95TVgUYXoB7yxH3xaA3kg2MYfP-cvplwJs8",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Kraków - 13.01.2026. Prognoza pogody w mieście",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-13012026/ywf94lz",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Pogoda w Krakowie. Prognoza na wtorek 13 stycznia. Śnieg rano, po południu mgły; nocą do -10°C",
+          "snippet": "",
+          "url": "https://pogoda.o2.pl/pogoda/pogoda-w-krakowie-prognoza-na-wtorek-13-stycznia-snieg-rano-po-poludniu-mgly-noca-do-10-c-7242524481301472a",
+          "source": "Pogoda o2"
+        },
+        {
+          "title": "Prognoza pogody na tydzień dla Krakowa. Jakie będą temperatury od jutra (14.01) do poniedziałku?",
+          "snippet": "",
+          "url": "https://krakow.naszemiasto.pl/prognoza-pogody-na-tydzien-dla-krakowa-jakie-beda-temperatury-od-jutra-14-01-do-poniedzialku/ar/c1p1-19943929",
+          "source": "Kraków Nasze Miasto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "radar pogodowy",
       "trafficCount": "100+",
@@ -40,28 +124,84 @@
     },
     {
       "title": "nba",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 12 Jan 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSGnsBCAErJa3Za7-DHVfIcerDldxvfnTEgH8N6z3FvGO-I4OHEUDJ2FxaB_o",
-      "pictureSource": "WSLS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2gZcZC-Os78ZeisBJt8zqhRJsuxAG_MF_lbAlrrqj7mysTMaNjz8CEUECuOo",
+      "pictureSource": "BasketNews.com",
       "relatedSearch": [
-        {
-          "title": "Clippers star James Harden passes Shaquille O'Neal for 9th place on the NBA's all-time scoring list",
-          "snippet": "",
-          "url": "https://www.wsls.com/sports/2026/01/13/clippers-star-james-harden-passes-shaquille-oneal-for-9th-place-on-the-nbas-all-time-scoring-list/",
-          "source": "WSLS"
-        },
-        {
-          "title": "James Harden passes Shaquille O'Neal, moves into 9th place on NBA's all-time scoring list",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/nba/breaking-news/article/james-harden-passes-shaquille-oneal-moves-into-9th-place-on-nbas-all-time-scoring-list-045907840.html",
-          "source": "Yahoo Sports"
-        },
         {
           "title": "James Harden surpasses Shaquille O'Neal in NBA's all-time scoring list",
           "snippet": "",
           "url": "https://basketnews.com/news-238682-james-harden-surpasses-shaquille-oneal-in-nbas-all-time-scoring-list.html",
           "source": "BasketNews.com"
+        },
+        {
+          "title": "Harden passes Shaq for 9th on NBA all-time scoring list",
+          "snippet": "",
+          "url": "https://thescore.com/nba/news/3453860/amp",
+          "source": "theScore.com"
+        },
+        {
+          "title": "Clippers news: James Harden passes Shaquille O'Neal for 9th all time in scoring",
+          "snippet": "",
+          "url": "https://clutchpoints.com/nba/los-angeles-clippers/clippers-news-james-harden-passes-shaquille-oneal-for-9th-all-time-in-scoring",
+          "source": "ClutchPoints"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda rybnik",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 12 Jan 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS791YaZSJc2SSSks1N3UFVyEXjMiRDPlv2mdfAoPauxFONh2WrnmvA9PaciQg",
+      "pictureSource": "Rybnik Nasze Miasto",
+      "relatedSearch": [
+        {
+          "title": "Czy będzie dzisiaj padać śnieg w Rybniku? Zobacz, czy dziś (13.01) będzie biało",
+          "snippet": "",
+          "url": "https://rybnik.naszemiasto.pl/czy-bedzie-dzisiaj-padac-snieg-w-rybniku-zobacz-czy-dzis-13-01-bedzie-bialo/ar/c1p1-20823077",
+          "source": "Rybnik Nasze Miasto"
+        },
+        {
+          "title": "Pogoda dla Rybnika na dzisiaj (13.01). Prognoza pogody na wtorek",
+          "snippet": "",
+          "url": "https://rybnik.naszemiasto.pl/pogoda-dla-rybnika-na-dzisiaj-13-01-prognoza-pogody-na-wtorek/ar/c1p1-19942911",
+          "source": "Rybnik Nasze Miasto"
+        },
+        {
+          "title": "Prognoza pogody na jutro 13.01 dla Rybnika. Jaka będzie temperatura we wtorek?",
+          "snippet": "",
+          "url": "https://rybnik.naszemiasto.pl/prognoza-pogody-na-jutro-13-01-dla-rybnika-jaka-bedzie-temperatura-we-wtorek/ar/c1p1-19942911",
+          "source": "Rybnik Nasze Miasto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pogoda opole",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 12 Jan 2026 20:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShM0ROxHaE-lpGFEeqpgv--LsT95TVgUYXoB7yxH3xaA3kg2MYfP-cvplwJs8",
+      "pictureSource": "Onet Wiadomości",
+      "relatedSearch": [
+        {
+          "title": "Opole - sprawdź prognozę pogody w dniu 13.01.2026",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-13012026/10j804h",
+          "source": "Onet Wiadomości"
+        },
+        {
+          "title": "Pogoda w Opolu. Prognoza na wtorek 13 stycznia. Śnieg nad ranem i śliskie drogi",
+          "snippet": "",
+          "url": "https://pogoda.o2.pl/pogoda/pogoda-w-opolu-prognoza-na-wtorek-13-stycznia-snieg-nad-ranem-i-sliskie-drogi-7242525328088032a",
+          "source": "o2.pl"
+        },
+        {
+          "title": "Pogoda na dzisiaj dla Opola Lubelskiego. Zobacz prognozę pogody na dzisiaj (poniedziałek, 12.01)",
+          "snippet": "",
+          "url": "https://opolelubelskie.naszemiasto.pl/pogoda-na-dzisiaj-dla-opola-lubelskiego-zobacz-prognoze-pogody-na-dzisiaj-poniedzialek-12-01/ar/c1p1-19943747",
+          "source": "Opole Lubelskie Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -96,7 +236,7 @@
     },
     {
       "title": "pogoda wrocław",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 12 Jan 2026 20:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtUb8CUvhL-fAFGPgiXbzzj2HeBNKs3UMD6Y4_gbbRwIDsyPp33A8lOqJpmoA",
       "pictureSource": "Onet Wiadomości",
@@ -118,146 +258,6 @@
           "snippet": "",
           "url": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-12012026/r8evctf",
           "source": "Onet Wiadomości"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda poznań",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 12 Jan 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Rk2EGCTkA4chSn4CzumkzW2xpa8ju0jxY8V2hMAELLpK-A4dsB9zc6YJuEA",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Poznań: jaka pogoda czeka nas 13.01.2026?",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-13012026/4jgmcj3",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Poznań pod grubą warstwą chmur. Jaka będzie pogoda?",
-          "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32521477,poznan-pod-gruba-warstwa-chmur-jaka-bedzie-pogoda.html",
-          "source": "Gazeta"
-        },
-        {
-          "title": "Kolejny zimowy poniedziałek w Poznaniu",
-          "snippet": "",
-          "url": "https://codziennypoznan.pl/artykul/2026-01-12/kolejny-zimowy-poniedzialek-w-poznaniu/",
-          "source": "Codzienny Poznań"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda długoterminowa",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 12 Jan 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ86zY61JqR1N4mdaB7VD0nuOqzLQSISZaVYcYtB-7nXjg5SDnmETu3HBqnu1I",
-      "pictureSource": "Onet",
-      "relatedSearch": [
-        {
-          "title": "Potężne uderzenie mrozu w Polsce. Na termometrach nawet -23 st. C",
-          "snippet": "",
-          "url": "https://www.onet.pl/informacje/onetwiadomosci/po-siarczystym-mrozie-uderzy-sniezyca-na-termometrach-nawet-23-st-c/94pxp8c,79cfc278",
-          "source": "Onet"
-        },
-        {
-          "title": "Mroźna zima uczepiła się Polski. Najmocniej skupi się na konkretnej części kraju",
-          "snippet": "",
-          "url": "https://wydarzenia.interia.pl/kraj/news-zimowe-zagrozenie-nie-minelo-najmocniej-da-sie-nam-we-znaki,nId,22507511",
-          "source": "Wydarzenia w INTERIA.PL"
-        },
-        {
-          "title": "Niebezpieczna noc. Gdzie zima najbardziej da się we znaki",
-          "snippet": "",
-          "url": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-12-13-01-opady-marznace-silny-mroz-intensywne-opady-sniegu-pomaranczowe-alerty-st8831653",
-          "source": "TVN24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wyniki multi multi",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 12 Jan 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqJRStSEf8Ldu9XxEY0lTbys-0soRNNb_UtvCcUshCywHF0b6IfMXGPthoUqk",
-      "pictureSource": "TVP Info",
-      "relatedSearch": [
-        {
-          "title": "Wyniki Lotto w poniedziałek 12 stycznia 2026. Poznaj wyniki losowania i wygrane liczby",
-          "snippet": "",
-          "url": "https://www.tvp.info/91008145/wyniki-lotto-w-poniedzialek-12012026-losowania-lotto-multi-multi-ekstra-pensja-ekstra-premia-kaskada-mini-lotto",
-          "source": "TVP Info"
-        },
-        {
-          "title": "Wyniki Lotto 12.01.2026 - EkstraPensja, EkstraPremia, Kaskada, MiniLotto, MultiMulti",
-          "snippet": "",
-          "url": "https://www.gazeta.pl/informacje/7,196952,32523813,wyniki-lotto-12-01-2026-ekstrapensja-ekstrapremia-kaskada.html",
-          "source": "Gazeta"
-        },
-        {
-          "title": "Wyniki LOTTO 12.01.2026. Losowanie Multi Multi, Mini Lotto i innych gier. Sprawdź liczby!",
-          "snippet": "",
-          "url": "https://bydgoszcz.tvp.pl/91004485/wyniki-lotto-12-01-2026-losowanie-mini-lotto-kaskada-multi-multi-ekstra-pensja-ekstra-premia-tvp3-bydgoszcz",
-          "source": "TVP Bydgoszcz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda katowice",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 12 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5o9OmuDdRdZQwHPpMEHBYyIgtyW5KxP5Y3HRegDYfYESS4PW_06aFf5szlk",
-      "pictureSource": "Onet Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Katowice - prognoza pogody w dniu 13.01.2026",
-          "snippet": "",
-          "url": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-13012026/96f904l",
-          "source": "Onet Wiadomości"
-        },
-        {
-          "title": "Śnieg zasypał Katowice. Co mówią synoptycy?",
-          "snippet": "",
-          "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198797,32521443,snieg-zasypal-katowice-co-mowia-synoptycy.html",
-          "source": "Gazeta"
-        },
-        {
-          "title": "Pogoda w Katowicach. Prognoza na wtorek 13 stycznia. Śnieg rano, marznąca mżawka i mgły",
-          "snippet": "",
-          "url": "https://pogoda.o2.pl/pogoda/pogoda-w-katowicach-prognoza-na-wtorek-13-stycznia-snieg-rano-marznaca-mzawka-i-mgly-7242524069927424a",
-          "source": "Pogoda o2"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pogoda sosnowiec",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 12 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpOta7vRuqTTnXGyQmGwS3o21YtJwPE6OrQgi06OXNJPUsQJCOEYgjeDUwuqo",
-      "pictureSource": "Sosnowiec Nasze Miasto",
-      "relatedSearch": [
-        {
-          "title": "Czy spadnie jutro śnieg w Sosnowcu? Zobacz prognozę pogody na jutro (13.01) i najbliższe dni",
-          "snippet": "",
-          "url": "https://sosnowiec.naszemiasto.pl/czy-spadnie-jutro-snieg-w-sosnowcu-zobacz-prognoze-pogody-na-jutro-13-01-i-najblizsze-dni/ar/c1p1-20823057",
-          "source": "Sosnowiec Nasze Miasto"
-        },
-        {
-          "title": "Pogoda na dzisiaj dla Sosnowca. Zobacz prognozę pogody na dzisiaj (poniedziałek, 12.01)",
-          "snippet": "",
-          "url": "https://sosnowiec.naszemiasto.pl/pogoda-na-dzisiaj-dla-sosnowca-zobacz-prognoze-pogody-na-dzisiaj-poniedzialek-12-01/ar/c1p1-19942889",
-          "source": "Sosnowiec Nasze Miasto"
-        },
-        {
-          "title": "Pogoda na tydzień w Sosnowcu. Sprawdź prognozę na najbliższe dni od jutra (13.01) do niedzieli",
-          "snippet": "",
-          "url": "https://sosnowiec.naszemiasto.pl/pogoda-na-tydzien-w-sosnowcu-sprawdz-prognoze-na-najblizsze-dni-od-jutra-13-01-do-niedzieli/ar/c1p1-19943957",
-          "source": "Sosnowiec Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"
