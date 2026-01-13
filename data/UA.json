@@ -1,37 +1,102 @@
 {
-  "lastUpdate": "2026-01-12 23:57:19",
+  "lastUpdate": "2026-01-13 00:29:23",
   "data": [
     {
-      "title": "коростень",
+      "title": "звягель",
       "trafficCount": "100+",
-      "pubDate": "Mon, 12 Jan 2026 15:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNFMIJ53Mif7EBkgQiQOkvjE6AZW0KsdURnGoeGI_7f31x9Yco9wXKeQ4-uvs",
-      "pictureSource": "Укрінформ",
+      "pubDate": "Mon, 12 Jan 2026 16:00:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "київ погода",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 12 Jan 2026 16:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT781yKztGqr7mHb4mKTAmrH8ExOGTdwmYLoVeqlwM0gT8pt95GUEYgCqwAxIE",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Росіяни другу добу атакують критичну інфраструктуру Житомирщини",
+          "title": "В Україні збережеться морозна погода",
           "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-regions/4079283-rosiani-drugu-dobu-atakuut-kriticnu-infrastrukturu-zitomirsini.html",
-          "source": "Укрінформ"
-        },
-        {
-          "title": "Росіяни майже добу атакували Рівненщину, пошкоджено інфраструктуру",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2026/01/11/8015623/",
+          "url": "https://www.pravda.com.ua/news/2026/01/12/8015677/",
           "source": "Українська правда"
         },
         {
-          "title": "\"Укрзалізниця\" скасувала два ранкові рейси: пасажирам потрібно добиратися своїм ходом",
+          "title": "В Укргідрометцентрі розповіли, де цього тижня буде найхолодніше",
           "snippet": "",
-          "url": "https://www.rbc.ua/rus/news/ukrzaliznitsya-skasuvala-dva-rankovi-reysi-1768168084.html",
-          "source": "РБК-Україна"
+          "url": "https://donpatriot.news/v-ukrgidrometczentri-rozpovily-de-czogo-tyzhnya-bude-najholodnishe",
+          "source": "Патріот Донбасу"
+        },
+        {
+          "title": "Синоптикиня Діденко назвала області, де найближчої ночі вдарять 20-градусні морози",
+          "snippet": "",
+          "url": "https://www.unian.ua/pogoda/news/sinoptik-natalka-didenko-nazvala-oblasti-de-nayblizhchoji-nochi-vdaryat-20-gradusni-morozi-13253004.html",
+          "source": "УНІАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ейск",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 12 Jan 2026 15:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOpptDvtp1FFZCcNyGZrAiP_AkGEMpfG-n1T8_WrjbnUPIlrehOtJ7UpBqqI",
+      "pictureSource": "Утренний Юг",
+      "relatedSearch": [
+        {
+          "title": "Полиция расследует осквернение Доски почёта в Ейске",
+          "snippet": "",
+          "url": "https://utyug.info/new/politsiya-rassleduet-oskvernenie-doski-pochyeta-v-eyske-70199/",
+          "source": "Утренний Юг"
+        },
+        {
+          "title": "Полиция задержала мужчину, осквернившего доску почета в Ейске",
+          "snippet": "",
+          "url": "https://krasnodarmedia.su/news/2359719/",
+          "source": "KrasnodarMedia"
+        },
+        {
+          "title": "В Ейске 53-летний мужчина повредил Доску почета недопитым алкоголем",
+          "snippet": "",
+          "url": "https://www.livekuban.ru/news/obshchestvo/v-eyske-53-letniy-muzhchina-povredil-dosku-pocheta-nedopitym-alkogolem",
+          "source": "Живая Кубань"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "карта тревог",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 12 Jan 2026 15:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMy-owBILkCghutqByAZhCaES7z63muKuFkzowWO_cIFCKzP13T6NUhGGIk4s",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "РФ атаковала 156 ударными дронами: ПВО обезвредила 135 беспилотников, есть попадания",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2026/01/12/8015650/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "РФ атакует Украину шахедами, в ряде областей объявлена воздушная тревога",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/vozdushnaya-trevoga-12-yanvarya-rf-zapustila-po-ukraine-gruppy-bespilotnikov-karta-vozdushnyh-trevog-50575186.html",
+          "source": "NV"
+        },
+        {
+          "title": "Сегодня война в Украине сравнялась по длительности с Великой Отечественной. Россия атаковала Украину 154 дронами",
+          "snippet": "",
+          "url": "https://www.currenttime.tv/a/russian-attacks-on-ukraine-january-11/33645212.html",
+          "source": "Настоящее Время"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "вольнянск",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 12 Jan 2026 15:10:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9fEdtT-588N0DhoLlB2E9m5Dsv1ro0D4WzgBt3QcwTsKDHX8B51pwA5MVWak",
       "pictureSource": "Українська правда",
@@ -59,7 +124,7 @@
     },
     {
       "title": "вільнянськ",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 12 Jan 2026 15:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYA-3mXeubXDxpc7sXthC-74V8_2hHTwodpiN8j5YI3fruARgGtKoX0tiE7ms",
       "pictureSource": "Укрінформ",
@@ -105,10 +170,10 @@
           "source": "газета Таганрогская правда"
         },
         {
-          "title": "В Ростове и Таганроге возникли проблемы с водой из-за аварий 4 января",
+          "title": "Жители четырех районов Таганрога остались со сниженным давлением в трубопроводе из-за утечки",
           "snippet": "",
-          "url": "https://www.1rnd.ru/news/obshchestvo/v-rostove-i-taganroge-voznikli-problemy-s-vodoy-iz-za-avariy-4-dekabrya-/",
-          "source": "Новости Ростова-на-Дону"
+          "url": "https://donday-taganrog.ru/zhiteli-chetyreh-rajonov-taganroga-ostalis-so-snizhennym-davleniem-v-truboprovode-iz-za-utechki.html",
+          "source": "Donday-Taganrog"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,7 +220,7 @@
           "source": "Українська правда"
         },
         {
-          "title": "В Харькове были слышны взрывы на фоне атаки баллистики",
+          "title": "В Харькове были слышны взрывы: в чем причина",
           "snippet": "",
           "url": "https://www.rbc.ua/ukr/news/harkovi-bulo-chuti-vibuhi-tli-ataki-balistiki-1768256942.html",
           "source": "РБК-Україна"
@@ -186,97 +251,13 @@
           "title": "Около 1200 кубов снега вывезено с улиц Зеленодольска",
           "snippet": "",
           "url": "https://zpravda.ru/news/novosti/okolo-1200-kubov-snega-vyvezeno-s-ulic-zelenodolska",
-          "source": "Новости Зеленодольска"
+          "source": "газета Зеленодольская правда"
         },
         {
           "title": "В Зеленодольске при пожаре в квартире пострадала женщина",
           "snippet": "",
           "url": "https://tatarstan24.tv/news/19348.v-zelenodolske-pri-pozhare-v-kvartire-postradala-zhenschina",
           "source": "tatarstan24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "старый оскол",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 12 Jan 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirubz1XSWVIZolj4saNr2lh1s-hgUZo86jqMAq3mh1dncKhapd-p-d6wTqPA",
-      "pictureSource": "Oskol.City",
-      "relatedSearch": [
-        {
-          "title": "В Старом Осколе могут сменить перевозчиков из-за срыва графика движения маршруток",
-          "snippet": "",
-          "url": "https://oskol.city/news/auto/102164/",
-          "source": "Oskol.City"
-        },
-        {
-          "title": "В Старом Осколе могут сменить перевозчиков после жалоб на сбои графика маршруток",
-          "snippet": "",
-          "url": "https://www.go31.ru/news/obshchestvo/v-starom-oskole-mogut-smenit-perevozchikov-posle-zhalob-na-sboi-grafika-marshrutok/",
-          "source": "Go31"
-        },
-        {
-          "title": "Жители Старого Оскола массово жалуются на сбои в работе общественного транспорта",
-          "snippet": "",
-          "url": "https://bel.ru/news/2026-01-12/zhiteli-starogo-oskola-massovo-zhaluyutsya-na-sboi-v-rabote-obschestvennogo-transporta-5534527",
-          "source": "Новости Белгорода и области - Бел.ру"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "псж",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 12 Jan 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_kwUoccka20FM5T9x8XciDTdw3SIpgaw9mcdjBRDGquA9iJ5mYV6QzM-P5tY",
-      "pictureSource": "Champion.com.ua",
-      "relatedSearch": [
-        {
-          "title": "ПСЖ с Забарным умудрился проиграть Парижу в Кубке Франции",
-          "snippet": "",
-          "url": "https://champion.com.ua/rus/football/pszh-parizh-rezultat-matcha-1-16-finala-kubka-francii-po-futbolu-1060891/",
-          "source": "Champion.com.ua"
-        },
-        {
-          "title": "Забарный узнал свою роль на историческое дерби в Кубке Франции: стартовые составы и онлайн-трансляция матча ПСЖ – Париж",
-          "snippet": "",
-          "url": "https://football24.ua/ru/news/zabarnyj-uznal-svoju-rol-na-istoricheskoe-derbi-v-kubke-francii-startovye-sostavy-i-onlajn-transljacija-matcha-pszh-parizh-920772",
-          "source": "Футбол 24"
-        },
-        {
-          "title": "«ПСЖ» вылетел в 1/16 финала Кубка Франции впервые с сезона 2013/14",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000310044-pszh-vyletiv-v-116-finalu-kubka-frantsiyi-vpershe-z-sezo/",
-          "source": "Tribuna.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "blackview mega 12",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 12 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkzrgojT0P9DwPXSmybwZjvQMa7p5DkxbcHWIFphhluVz1VPXzBnsltDZjAc",
-      "pictureSource": "Notebookcheck",
-      "relatedSearch": [
-        {
-          "title": "Mega 12: Blackview launches fully waterproof 5G tablet that doubles as notebook",
-          "snippet": "",
-          "url": "https://www.notebookcheck.net/Mega-12-Blackview-launches-fully-waterproof-5G-tablet-that-doubles-as-notebook.1201119.0.html",
-          "source": "Notebookcheck"
-        },
-        {
-          "title": "Blackview announces MEGA 12 tablet with IP69K protection",
-          "snippet": "",
-          "url": "https://root-nation.com/en/news-en/partner-news-en/en-blackview-mega-12-pad-on-aliexpress/",
-          "source": "Root-Nation.com"
-        },
-        {
-          "title": "Обзор Blackview MEGA 12 – водонепроницаемого смартпланшета с защитой IP69K и бесплатными аксессуарами",
-          "snippet": "",
-          "url": "https://itc.ua/articles/obzor-blackview-mega-12-vodonepronytsaemogo-smartplansheta-s-zashhytoj-ip69k-y-besplatnymy-aksessuaramy/",
-          "source": "ITC.ua"
         }
       ],
       "link": "https://imtaqin.id/"
