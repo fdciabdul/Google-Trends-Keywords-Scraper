@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-01-14 02:51:38",
+  "lastUpdate": "2026-01-14 03:27:13",
   "data": [
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Tue, 13 Jan 2026 17:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiZj4jk9NETj2f2gdcUhP0yk7s5Ysv8MWNz0db0hGXgLGizVXVZc9f7hi1UdU",
-      "pictureSource": "Nation Thailand",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEYBp97mgWY97uFWJ6xGscDxDdro_B-VbSZ7leDvkeTpo8frjUdIlcLCvQDY",
+      "pictureSource": "KGET.com",
       "relatedSearch": [
+        {
+          "title": "Pinpoint Weather Forecast: Jan. 13, 2026",
+          "snippet": "",
+          "url": "https://www.kget.com/weather/bakersfield-weather-forecast/pinpoint-weather-forecast-jan-13-2026/",
+          "source": "KGET.com"
+        },
         {
           "title": "Temperature rises 1-3°C in northern Thailand, cold weather persists",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://www.pattayamail.com/news/pattaya-sees-cooler-mornings-and-light-haze-as-temperatures-gradually-rise-532412",
           "source": "Pattaya Mail"
-        },
-        {
-          "title": "Giant Waves Hit Gulf of Thailand; People Urged to Evacuate",
-          "snippet": "",
-          "url": "https://www.khaosodenglish.com/news/2026/01/06/giant-waves-hit-gulf-of-thailand-people-urged-to-evacuate/",
-          "source": "Khaosod English"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "Gismeteo"
         },
         {
-          "title": "До -26 градусов похолодает в Астане",
+          "title": "Прогноз погоды на 14 января: до -35 градусов ожидается ночью на севере Казахстана",
           "snippet": "",
-          "url": "https://www.nur.kz/society/2331102-do-26-gradusov-poholodaet-v-astane/",
-          "source": "NUR.KZ"
+          "url": "https://informburo.kz/novosti/prognoz-pogody-na-14-ianvaria-do-35-gradusov-ozidaetsia-nociu-na-severe-kazaxstana",
+          "source": "Informburo.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,11 +87,86 @@
     },
     {
       "title": "отмена занятий",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 13 Jan 2026 17:10:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1VvD3Kc6bCc_UFinkmgS4Nct4bXc_5YSQHz6wRpiTigEOaQeexO5a4ON1fUA",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Сильный мороз в Астане: школьников перевели на \"дистанционку\"",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6504251-silnyy-moroz-v-astane-shkolnikov-pereveli-na-distantsionku.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Учеников первой смены перевели на дистанционку в Астане",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/uchenikov-pervoy-smeni-pereveli-na-distantsionku-v-astane-iz-za-nepogodi-c6fc76",
+          "source": "Казинформ"
+        },
+        {
+          "title": "Некоторые школьники Астаны будут учиться дистанционно 14 января",
+          "snippet": "",
+          "url": "https://informburo.kz/novosti/nekotorye-skolniki-astany-budut-ucitsia-distancionno-14-ianvaria",
+          "source": "Informburo.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мвд",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 13 Jan 2026 16:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRrRMYbj2dV_sUfdrmJXKdvZozNNGKDLTUA3ro49Tf5geIp53m6VIj4bOOUeI",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Около 49 тонн наркотиков изъяла полиция Казахстана в 2025 году",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6504205-okolo-49-tonn-narkotikov-izyala-politsiya-kazakhstana-v-2025-godu.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Около 49 тонн наркотиков изъято в 2025 году",
+          "snippet": "",
+          "url": "https://khabar.kz/ru/news/obshchestvo/181522-okolo-49-tonn-narkotikov-izyato-v-2025-godu",
+          "source": "khabar.kz"
+        },
+        {
+          "title": "49 тонн наркотиков изъяли в Казахстане за год",
+          "snippet": "",
+          "url": "https://24.kz/ru/news/incidents/749112-49-tonn-narkotikov-izyali-v-kazakhstane-za-god",
+          "source": "24.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "реал сосьедад – осасуна",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 13 Jan 2026 14:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz8WIioAEV74z0adOujcZRi343M0gFAcscRdY_MkNDcP7gTqm2dZ9RY_FdVQw",
+      "pictureSource": "Футбол на Куличках",
+      "relatedSearch": [
+        {
+          "title": "Отчет о матче Реал Сосьедад - Осасуна, 13 января 2026, Кубок Испании 2025/2026 на ФНК",
+          "snippet": "",
+          "url": "https://football.kulichki.net/spain/2026/cup/matches/90332-Real-Sosedad-Osasuna-obzor-matcha-spain-2026-cup.htm",
+          "source": "Футбол на Куличках"
+        },
+        {
+          "title": "«Реал Сосьедад» победил «Осасуну» в 1/8 финала Кубка Испании, Захарян не забил пенальти",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/Kubok_Ispanii/spbnews_NI2285666_Real_Sosjedad_pobedil_Osasunu_v_1_8_finala_Kubka_Ispanii_Zaharan_ne_zabil_penalti",
+          "source": "Sportbox"
+        },
+        {
+          "title": "Баски надеются на легких проход. Где смотреть «Реал Сосьедад» — «Осасуна»",
+          "snippet": "",
+          "url": "https://sportplustv.kz/ru/news/baski-nadeiutsia-na-legkix-proxod-gde-smotret-real-sosedad-osasuna",
+          "source": "Sport Plus Qazaqstan"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -126,26 +201,26 @@
       "title": "кубок короля",
       "trafficCount": "200+",
       "pubDate": "Tue, 13 Jan 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWjCTaDG7CtMnPsfPZmCzAq_p9iCwxRDzVGwVfPa8BcqklkU213d8EPjJC4BU",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVZlwvVfNxBpaIsr0ShNp4VC5Q0Kix-55ogr2XVWyZQop7o4qW2PFxEgvxzmQ",
       "pictureSource": "Евро-Футбол",
       "relatedSearch": [
         {
-          "title": "Актуальная ставка и прогноз на матч Бургос – Валенсия Кубка Испании 15 января 2026",
+          "title": "Прогноз на точный счёт матча Альбасете — Реал Кубка Испании — 14 января 2026",
           "snippet": "",
-          "url": "https://www.euro-football.ru/prognozy/1006103568_aktualnaya_stavka_i_prognoz_na_match_burgos__valensiya_kubka_ispanii_15_yanvarya_2026",
+          "url": "https://www.euro-football.ru/prognozy/1006103803_prognoz_na_tochnyiy_schet_matcha_albasete__real_kubka_ispanii__14_yanvarya_2026",
           "source": "Евро-Футбол"
         },
         {
-          "title": "«Бургос» — «Валенсия»: ставка Виталия Мазурина",
+          "title": "Альбасете — Реал Мадрид: прогноз (кэф 1.71) и составы команд 14 января 2026",
           "snippet": "",
-          "url": "https://www.vseprosport.kz/news/2026/01/13/burgos-valensija-stavka-vitalija-mazurina-15-janvarja-2026-goda",
-          "source": "ВсеПроСпорт"
+          "url": "https://stavka.tv/matches/soccer/14-01-2026-albacete-balompie-real-madrid",
+          "source": "Ставка ТВ"
         },
         {
-          "title": "Бургос — Валенсия: прогноз (кэф 1.83) 15 января 2026",
+          "title": "Альбасете ― Реал Мадрид: превью",
           "snippet": "",
-          "url": "https://stavka.tv/matches/soccer/15-01-2026-burgos-cf-valencia",
-          "source": "Ставка ТВ"
+          "url": "https://soccer365.ru/news/25305/",
+          "source": "Soccer365"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -202,62 +277,6 @@
           "snippet": "",
           "url": "https://www.sportplustv.kz/ru/news/griadet-sensaciia-gde-smotret-kultural-leonesa-atletik-bilbao",
           "source": "Sport Plus Qazaqstan"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ньюкасл юнайтед – манчестер сити",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 13 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS36AuFhG0nuyjppTP1VrBpEalLPq53FF7WVwU-K_ZoSM5NEF43b46vAhMfoJU",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Семеньо об отмене 2-го гола с «Ньюкаслом»: «Нужно было засчитать»",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/69412587/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Отчет о матче Ньюкасл - Манчестер Сити, 13 января 2026, Кубок Лиги 2025/2026 на ФНК",
-          "snippet": "",
-          "url": "https://football.kulichki.net/england/2026/cc/matches/90331-Nukasl-Manchester-Siti-obzor-matcha-england-2026-cc.htm",
-          "source": "Футбол на Куличках"
-        },
-        {
-          "title": "Ньюкасл — Манчестер Сити: прогноз (кэф 1.54) и составы команд 13 января 2026",
-          "snippet": "",
-          "url": "https://stavka.tv/matches/soccer/13-01-2026-newcastle-united-manchester-city",
-          "source": "Ставка ТВ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "дамак – аль-иттихад",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 13 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRII38QMIIMwFhaZ93d7lqLNwVTRN6QfRvoM9RbGYZKNbNITLYMpzl6oT_aEIg",
-      "pictureSource": "Sport24.ru",
-      "relatedSearch": [
-        {
-          "title": "«Аль-Иттихад» с Бензема и Канте не смог обыграть «Дамак» в саудовской Про-лиге",
-          "snippet": "",
-          "url": "https://sport24.ru/football/news-816344-al-ittikhad-s-benzema-i-kante-ne-smog-obygrat-damak-v-saudovskoy-pro-lige",
-          "source": "Sport24.ru"
-        },
-        {
-          "title": "«Аль-Иттихад» не смог победить «Дамак» в саудовской Про-Лиге, Бензема заменили в перерыве",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6315672-damak-al-ittihad-rezultat-matcha-13-yanvarya-2026-schyot-1-1-15-j-tur-saudovskoj-pro-ligi-2025-2026.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "«Дамак» — «Аль-Иттихад»: возьмут ли хозяева очки?",
-          "snippet": "",
-          "url": "https://www.vseprosport.kz/news/2026/01/12/damak-al-ittihad-prognoz-kf-1-90-i-stavki-na-match-chempionata-saudovskoj-aravii-13-janvarja-2026-goda-ot-vps",
-          "source": "ВсеПроСпорт"
         }
       ],
       "link": "https://imtaqin.id/"
