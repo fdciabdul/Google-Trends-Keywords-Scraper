@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-01-15 19:51:45",
+  "lastUpdate": "2026-01-15 19:58:34",
   "data": [
     {
       "title": "burgos vs valencia",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Jan 2026 11:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-sz9uwOA6mFCSADPamZ3fcqrzHA97W_vq4RffgVSacHMW5fPUXX9swyb0ILw",
       "pictureSource": "Burgos CF",
@@ -15,16 +15,16 @@
           "source": "Burgos CF"
         },
         {
-          "title": "La próxima cita del Valencia: cuándo juega los octavos de final de la Copa del Rey",
-          "snippet": "",
-          "url": "https://www.levante-emv.com/valencia-cf/2026/01/14/valencia-cf-octavos-final-copa-del-rey-burgos-dv-125684707.html",
-          "source": "Levante-EMV"
-        },
-        {
           "title": "Ramis: «El Valencia CF tiene mucho nivel y no me dice nada que vayan en descenso»",
           "snippet": "",
           "url": "https://tribunadeportivavalencia.com/ramis-el-valencia-cf-tiene-mucho-nivel-y-no-me-dice-nada-que-vayan-en-descenso/",
           "source": "Tribuna Deportiva"
+        },
+        {
+          "title": "El Burgos quiere hacer historia",
+          "snippet": "",
+          "url": "https://www.diariodeburgos.es/noticia/zd0a0fd5c-7c3b-4beb-9c17fdb84d3e57bd/202601/el-burgos-quiere-hacer-historia",
+          "source": "Diario de Burgos"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,26 @@
       "title": "nasa astronauts space station evacuation",
       "trafficCount": "100+",
       "pubDate": "Thu, 15 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkhcQFJstXOJig4PFPS6hgKsK8BsXI5jbz5R2EhClB5Zof0rpScx_xaFREHWc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf6yk7U1ioWeYr5QOJYw-bGIzXw_KeV3CN1GVLaXBLrquR5QF0phOP4RhK2Zw",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Astronauts splash down to Earth after medical evacuation from space station",
+          "title": "Astronauts return to Earth after first ever medical evacuation from space station",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c205r8n0276o",
+          "url": "https://www.bbc.com/news/live/c4glz3pklkzt",
           "source": "BBC"
-        },
-        {
-          "title": "NASA’s SpaceX Crew-11 Go for Undocking on Wednesday",
-          "snippet": "",
-          "url": "https://www.nasa.gov/blogs/commercialcrew/2026/01/13/nasas-spacex-crew-11-go-for-undocking-on-wednesday/",
-          "source": "NASA (.gov)"
         },
         {
           "title": "ISS astronauts return to Earth in Nasa’s first ever medical evacuation",
           "snippet": "",
           "url": "https://www.theguardian.com/science/2026/jan/15/first-medical-evacuation-nasa-astronauts-back-to-earth",
           "source": "The Guardian"
+        },
+        {
+          "title": "NASA latest: Agency gives update on astronaut with 'serious medical condition' - after first ever emergency return",
+          "snippet": "",
+          "url": "https://news.sky.com/story/nasa-latest-spacex-crew-to-return-early-after-serious-medical-condition-13494209",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,15 +145,9 @@
       "title": "besiktas",
       "trafficCount": "500+",
       "pubDate": "Thu, 15 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzKODe0cX4eSJysvxnFk-KAnLXFc0C9TEc5OtgfSnhhMF4fdeo32GjXugz_vY",
-      "pictureSource": "Hürriyet",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuzSO5YH4_Rofuk3BIXeU9v4ulxHSSuuo9lkAnlIr9xmmTkBz5Mh_0AE1no0M",
+      "pictureSource": "90min.tr",
       "relatedSearch": [
-        {
-          "title": "Canlı: Beşiktaş Keçiörengücü (Türkiye Kupası maçı)",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/sporarena/canli-besiktas-keciorengucu-turkiye-kupasi-maci-43084898",
-          "source": "Hürriyet"
-        },
         {
           "title": "Beşiktaş Keçiörengücü maç özeti ve golleri! (ÖZET) Beşiktaş Keçiörengücü kaç kaç bitti, golleri kim attı? Son durum ne?",
           "snippet": "",
@@ -161,10 +155,16 @@
           "source": "90min.tr"
         },
         {
-          "title": "Beşiktaş-Ankara Keçiörengücü maçından notlar",
+          "title": "Beşiktaş'tan Ziraat Türkiye Kupası'nda '2'de 2'",
           "snippet": "",
-          "url": "https://www.ensondakika.com.tr/besiktas-ankara-keciorengucu-macindan-notlar/571898/",
-          "source": "En Son Dakika"
+          "url": "https://www.akdenizmanset.com.tr/besiktastan-ziraat-turkiye-kupasinda-2de-2",
+          "source": "Akdeniz Manşet Gazetesi"
+        },
+        {
+          "title": "Beşiktaş kupada 2’de 2 yaptı",
+          "snippet": "",
+          "url": "https://www.dunya.com/spor/besiktas-kupada-2de-2-yapti-haberi-811534",
+          "source": "Dünya Gazetesi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -233,16 +233,16 @@
           "source": "ANSA"
         },
         {
-          "title": "LIVE Serie A Enilive 2025/26 | #VeronaBologna 1-3",
+          "title": "Serie A Enilive 2025/26 | #VeronaBologna 2-3",
           "snippet": "",
-          "url": "https://www.hellasverona.it/news/live-serie-a-enilive-2025-26-veronabologna",
+          "url": "https://www.hellasverona.it/news/serie-a-enilive-2025-26-veronabologna-2-3",
           "source": "Hellas Verona"
         },
         {
-          "title": "Hellas-Bologna 1-3 Il Bologna dilaga: piovono fischi. Il Verona non trova reazione",
+          "title": "IL PAGELLONE DI VERONA-BOLOGNA: Disastro Nunez, Serdar impaurito. Bernede indomito",
           "snippet": "",
-          "url": "https://www.larena.it/argomenti/sport/hellas-verona/hellas-verona-bologna-risultato-tabellino-1.12899073",
-          "source": "L'Arena"
+          "url": "https://tggialloblu.telenuovo.it/hellas-verona/2026/01/15/il-pagellone-di-verona-bologna-disastro-nunez-serdar-impaurito-bernede-indomito",
+          "source": "TgGialloblu"
         }
       ],
       "link": "https://imtaqin.id/"
