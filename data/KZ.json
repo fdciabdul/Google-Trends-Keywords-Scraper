@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-15 05:14:59",
+  "lastUpdate": "2026-01-15 05:29:23",
   "data": [
     {
       "title": "teams",
@@ -33,9 +33,15 @@
       "title": "погода алматы",
       "trafficCount": "1000+",
       "pubDate": "Wed, 14 Jan 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQld7me1PZ7C7qy8lm5ehiYvkbT43MMM76tD50cSIdC-9YZTN6jrFI5vOM3DJE",
-      "pictureSource": "Mail.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOxymPGMc0CNKRFQ5BIwzIRMCWtTXGMLZW0O7A_UtnLgdO-BtvITX5Y9oJkG4",
+      "pictureSource": "Новости Zakon.kz",
       "relatedSearch": [
+        {
+          "title": "Крещенским морозам быть: на Алматы надвигается холод",
+          "snippet": "",
+          "url": "https://www.zakon.kz/stati/6504309-kreshchenskim-morozam-byt-na-almaty-nadvigaetsya-kholod.html",
+          "source": "Новости Zakon.kz"
+        },
         {
           "title": "Снег пообещали сегодня в Алматы",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.gismeteo.kz/news/klimat/v-almaty-15-yanvarya-bez-osadkov-dnem-do-1-c/",
           "source": "Gismeteo"
-        },
-        {
-          "title": "Крещенским морозам быть: на Алматы надвигается холод",
-          "snippet": "",
-          "url": "https://www.zakon.kz/stati/6504309-kreshchenskim-morozam-byt-na-almaty-nadvigaetsya-kholod.html",
-          "source": "Новости Zakon.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +89,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Wed, 14 Jan 2026 17:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzNqC_cYE_FxoB3xfn91NyQUWMWjlQvq-GDY-8mxw_Yg1o1DMUXWxJic_v9AY",
-      "pictureSource": "The Weather Network",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU4wwWbjiEwFDvtGyhnU5yfnfoUJikGigzG6CLhs2yACVCni06_hsN0auGePs",
+      "pictureSource": "WDHN",
       "relatedSearch": [
         {
-          "title": "Potential for Canada's first 20°C of the year in Alberta...in January",
+          "title": "Temperatures not escaping the 40s on Thursday",
           "snippet": "",
-          "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/potential-for-canadas-first-20-c-of-the-year-in-alberta-in-january",
-          "source": "The Weather Network"
+          "url": "https://www.wdhn.com/weather/temperatures-not-escaping-the-40s-on-thursday/",
+          "source": "WDHN"
         },
         {
-          "title": "The weather will swing from mild to warm for the weekend",
+          "title": "First Alert Weather: More subfreezing temps, watching the weekend for winter weather",
           "snippet": "",
-          "url": "https://www.ctvnews.ca/calgary/article/the-weather-will-swing-from-mild-to-warm-for-the-weekend/",
-          "source": "CTV News"
+          "url": "https://www.wbrc.com/2026/01/15/first-alert-weather-more-subfreezing-temps-watching-weekend-winter-weather/",
+          "source": "WBRC 6 News"
         },
         {
-          "title": "Calgary basks in record high temperatures, could smash January benchmark",
+          "title": "James Spann: Sharply colder tomorrow in Alabama; more colder air for the weekend",
           "snippet": "",
-          "url": "https://ca.news.yahoo.com/calgary-basks-record-high-temperatures-185956934.html",
-          "source": "Yahoo News Canada"
+          "url": "https://alabamanewscenter.com/2026/01/14/james-spann-sharply-colder-tomorrow-in-alabama-more-colder-air-for-the-weekend/",
+          "source": "Alabama News Center"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "BAQ.KZ"
         },
         {
-          "title": "Студенты колледжей из-за мороза остаются дома. Но не все",
-          "snippet": "",
-          "url": "https://top-news.kz/studenty-kolledzhej-iz-za-moroza-ostajutsja-doma-no-ne-vse/",
-          "source": "Газета Наш Костанай"
-        },
-        {
           "title": "Школьники в трех областях Казахстана ушли на дистанционку из-за мороза",
           "snippet": "",
           "url": "https://www.inform.kz/ru/shkolniki-v-dvuh-oblastyah-kazahstana-ushli-nadistantsionku-iz-za-moroza-056e5f",
           "source": "Казинформ"
+        },
+        {
+          "title": "Студенты колледжей из-за мороза остаются дома. Но не все",
+          "snippet": "",
+          "url": "https://top-news.kz/studenty-kolledzhej-iz-za-moroza-ostajutsja-doma-no-ne-vse/",
+          "source": "Газета Наш Костанай"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "Sportbox"
         },
         {
-          "title": "Кубок Португалии. Орлы за неделю вылетели из двух турниров. Порту – Бенфика 1:0. Обзор матча",
+          "title": "Моуринью ответил на критику: «Я буду Моуринью до конца»",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/portugaly/1768446527-kubok-portugalii-orly-za-nedelyu-vyleteli-iz-dvuh-turnirov-portu-benfika-1-0-obzor-matcha.html",
-          "source": "UA-Football"
+          "url": "https://www.euro-football.ru/article/39/1006104683_mourinyu_otvetil_na_kritiku_ya_budu_mourinyu_do_konca",
+          "source": "Евро-Футбол"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +229,14 @@
       "title": "albacete vs real madrid",
       "trafficCount": "500+",
       "pubDate": "Wed, 14 Jan 2026 12:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6QQNfmTpmi7-X4G4_xI8fYlT_FI9C6A-_yTUBaXsHyzn3Z9ZppPJ4IIGT3w",
-      "pictureSource": "Sports Illustrated",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc-2aIEQiIoQi3qvz33WmSVPChM1FOa95Uh_jHVz-zjllZWAvWh2vaDMawvfQ",
+      "pictureSource": "Telemundo",
       "relatedSearch": [
         {
-          "title": "El calendario de los próximos 5 encuentros del Real Madrid tras perder ante el Albacete en la Copa del Rey",
+          "title": "Puesta a Punto | Show completo | Real Madrid eliminado, presión en Pumas y Arsenal golpea primero",
           "snippet": "",
-          "url": "https://www.si.com/es-us/futbol/el-calendario-de-los-proximos-5-encuentros-del-real-madrid-tras-perder-ante-el-albacete-en-la-copa-del-rey",
-          "source": "Sports Illustrated"
+          "url": "https://www.telemundo.com/deportes/puesta-punto/video/puesta-punto-show-completo-real-madrid-eliminado-presion-en-pumas-y-arsenal-golpea-primero-tmvo13103109",
+          "source": "Telemundo"
         },
         {
           "title": "Carvajal: \"Pedimos perdón a la afición\"",
@@ -245,10 +245,10 @@
           "source": "Yahoo"
         },
         {
-          "title": "La joya argentina responde: Franco Mastantuono marca su segundo gol con el Real Madrid en la Copa del Rey",
+          "title": "Arbeloa, tras su debut: «El fracaso está en el camino al éxito»",
           "snippet": "",
-          "url": "https://us.marca.com/soccer/la-liga/2026/01/14/69681109e2704e836e8b45a2.html",
-          "source": "MARCA Usa"
+          "url": "https://onefootball.com/en/news/arbeloa-tras-su-debut-el-fracaso-esta-en-el-camino-al-exito-42229822",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
