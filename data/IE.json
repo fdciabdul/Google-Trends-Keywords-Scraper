@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-15 06:49:27",
+  "lastUpdate": "2026-01-15 07:00:55",
   "data": [
     {
       "title": "news",
@@ -33,13 +33,19 @@
       "title": "sky news",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 22:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSF4n-q5wPOus8V8eXu7HbJl6Gsi7GJLhLn9zNaFEJ8SPUuMmEiB5Eb52ff5wE",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1wHLlueoB_RPMy4OtUkAYT68VA-Mn-0540lu5b1tTsNXNvv7bXI54YxJ56E",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "ICE agent shoots Minneapolis man in the leg",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c205677pxvxo",
+          "source": "BBC"
+        },
         {
           "title": "US federal agent shoots Venezuelan man in Minneapolis",
           "snippet": "",
-          "url": "https://www.rte.ie/news/us/2026/0115/1553182-minneapolis-shooting/",
+          "url": "https://www.rte.ie/news/us/2026/0115/1553182-minneapolis-us/",
           "source": "RTE.ie"
         },
         {
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://news.sky.com/story/minneapolis-latest-officials-giving-news-conference-after-ice-shooting-in-minneapolis-13494455",
           "source": "Sky News"
-        },
-        {
-          "title": "Federal agents shoot man in leg in north Minneapolis",
-          "snippet": "",
-          "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/reports-shooting-involving-federal-law-enforcement-in-north-minneapolis/89-f0dc3033-f01c-4870-961a-369dc16bde21",
-          "source": "kare11.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "rory mcilroy",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyAsQcZAv2jvKNhq5R0VDyUDZ5bj1_1XrnNxvbzdSZvfRKIhL8bSQLE8Rneb8",
-      "pictureSource": "Sky Sports",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQROPQqYW1BNho7k4bka0T7nAYX8rGjvom6aHWAbztPB3-8LORCddBLQ8h3nIs",
+      "pictureSource": "PGA Tour",
       "relatedSearch": [
+        {
+          "title": "Rory McIlroy makes this equipment switch for first time in his career",
+          "snippet": "",
+          "url": "https://www.pgatour.com/article/news/equipment-report/2026/01/14/rory-mcilroy-makes-this-switch-for-first-time-in-his-career-blade-irons-taylormade-p7cb-dp-world-tour-dubai",
+          "source": "PGA Tour"
+        },
         {
           "title": "Rory McIlroy's confirmed 2026 schedule",
           "snippet": "",
@@ -71,16 +77,10 @@
           "source": "Sky Sports"
         },
         {
-          "title": "Rory's 2025 on Sky Sports Golf HD: full details and when it's on",
+          "title": "Banner 2025 could help Rory McIlroy earn millions more through sponsor deals",
           "snippet": "",
-          "url": "https://www.tvguide.co.uk/schedule/009c7993-8b4a-5d0a-b31c-98880483e26e/rorys-2025",
-          "source": "TVGuide.co.uk"
-        },
-        {
-          "title": "Masters champion Rory McIlroy set to begin 2026 season at Dubai Invitational.",
-          "snippet": "",
-          "url": "https://www.newsletter.co.uk/sport/golf/rory-mcilroy-targets-strong-start-to-2026-season-at-dubai-invitational-5475455",
-          "source": "Belfast News Letter"
+          "url": "https://www.irishmirror.ie/sport/golf/banner-2025-could-help-rory-36544063",
+          "source": "Irish Mirror"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +99,10 @@
           "source": "BBC"
         },
         {
-          "title": "How far will Europe go to defend Greenland from Trump?",
+          "title": "FACT FOCUS: Trump repeats false claims when discussing Greenland's security in the Arctic",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/jan/14/how-far-will-europe-be-willing-to-go-to-defend-greenland-against-trump",
-          "source": "The Guardian"
+          "url": "https://apnews.com/article/fact-check-greenland-denmark-trump-arctic-security-russia-china-6346aa8e86be594e467e8cc18f98357b",
+          "source": "AP News"
         },
         {
           "title": "Denmark to expand military presence in Greenland as White House talks end after just 50 minutes",
@@ -161,10 +161,10 @@
           "source": "NOS"
         },
         {
-          "title": "Ajax gaat kaartjes van fans vergoeden na afstraf­fing in Alkmaar: ‘Je kan beter zeggen: wat ging er niét mis?’",
+          "title": "Kranten zien Ajax keihard afgaan: 'Liggen genoeg vragen op tafel voor Cruijff'",
           "snippet": "",
-          "url": "https://www.destentor.nl/lelystad/ajax-gaat-kaartjes-van-fans-vergoeden-na-afstraffing-in-alkmaar-we-schamen-ons-kapot~a1f4afa0/",
-          "source": "de Stentor"
+          "url": "https://www.ajaxshowtime.com/bijzaken-en-geruchten/kranten-zien-ajax-keihard-afgaan-liggen-genoeg-vragen-op-tafel-voor-cruijff",
+          "source": "Ajax Showtime"
         }
       ],
       "link": "https://imtaqin.id/"
