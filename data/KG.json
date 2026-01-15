@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-15 14:59:40",
+  "lastUpdate": "2026-01-15 15:12:45",
   "data": [
     {
       "title": "weather tomorrow",
@@ -59,7 +59,7 @@
     },
     {
       "title": "арсенал",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 12:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6sXIc5QYZA2D8eEV3Iqw6TIYxrf35d8jD3k6dgQEqIdyyUV7zWEtOAGsU-g",
       "pictureSource": "Тикетон",
@@ -117,9 +117,16 @@
       "title": "реал бетис – эльче",
       "trafficCount": "500+",
       "pubDate": "Wed, 14 Jan 2026 11:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyMDZuRMJ-ADtCScVE0MCLyk9sRhQWs6r-V7FB4EOMWdRZ5-er-cnRTsQL-fQ",
+      "pictureSource": "Soccer.ru",
+      "relatedSearch": [
+        {
+          "title": "«Фиорентина» и «Милан» сыграли вничью",
+          "snippet": "",
+          "url": "https://www.soccer.ru/news/1421776/fiorentina-milan?from=top",
+          "source": "Soccer.ru"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -254,10 +261,10 @@
           "source": "Евро-Футбол"
         },
         {
-          "title": "«Бавария» победила «Кельн» и довела беспроигрышную серию до 17 матчей",
+          "title": "\"Бавария\" победила \"Кельн\" и довела беспроигрышную серию до 17 матчей",
           "snippet": "",
-          "url": "https://mail.kz/ru/news/sport/bavariya-pobedila-keln-i-dovela-besproigryshnuyu-seriyu-do-matchei",
-          "source": "Mail.KZ"
+          "url": "https://www.zakon.kz/sport/6504488-bavariya-pobedila-keln-i-dovela-besproigryshnuyu-seriyu-do-17-matchey.html",
+          "source": "Новости Zakon.kz"
         }
       ],
       "link": "https://imtaqin.id/"
