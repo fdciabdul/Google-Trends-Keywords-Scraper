@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-15 07:56:26",
+  "lastUpdate": "2026-01-15 08:08:24",
   "data": [
+    {
+      "title": "test",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 Jan 2026 23:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpZ0JMah7C5bx_JThOQq2Q37CRaL532T0JPPziACyfJFNW_4sN_tXLYRe9hYg",
+      "pictureSource": "The Boston Globe",
+      "relatedSearch": [
+        {
+          "title": "Drake Maye, Patriots offense prepare for tough playoff test against Texans’ defense",
+          "snippet": "",
+          "url": "https://www.bostonglobe.com/2026/01/14/sports/drake-maye-patriots-texans-nfl-playoffs/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "Patriots’ Drake Maye respects Texans defense for trying to ‘take your head off’",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/patriots-drake-maye-respects-texans-052600590.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Mike Vrabel respects Houston’s defense, but isn’t afraid of them",
+          "snippet": "",
+          "url": "https://www.audacy.com/weei/sports/patriots/vrabel-respects-houstons-defense-but-isnt-afraid-of-them",
+          "source": "Audacy"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "stb",
       "trafficCount": "200+",
@@ -30,9 +58,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "lịch thi đấu lck",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 14 Jan 2026 22:30:00 -0800",
+      "title": "lck",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 14 Jan 2026 22:20:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVqAK7xDfasqt4AKvfEWvmzjsMEV5zEdlk5eOA63uHbmpo6ppcRQQeoNEOvks",
       "pictureSource": "VTV.vn",
       "relatedSearch": [
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://thethaovanhoa.vn/xem-truc-tiep-lck-2026-tren-he-sinh-thai-on-live-esports-vtvcab-voi-co-stream-doc-quyen-cua-blv-hoang-luan-20260115144913636.htm",
           "source": "thethaovanhoa.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lck",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 14 Jan 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShz79suavNnm82flIxjB12VpDo7ZiIRqGW4gbN6BSXkOD3nx796A3lxTP-0tQ",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "LCK và Faker là ván cược của 'Google Hàn Quốc'",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/lck-va-faker-la-van-cuoc-cua-google-han-quoc",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Big Tech Hàn Quốc cược 'tiền tấn' vào LCK và Faker",
-          "snippet": "",
-          "url": "https://znews.vn/big-tech-han-quoc-cuoc-tien-tan-vao-lck-va-faker-post1619622.html",
-          "source": "Znews"
-        },
-        {
-          "title": "Bộ đôi huyền thoại của LCK khen ngợi Gumayusi không tiếc lời",
-          "snippet": "",
-          "url": "https://gamek.vn/bo-doi-huyen-thoai-cua-lck-khen-ngoi-gumayusi-khong-tiec-loi-178260114030204846.chn",
-          "source": "m.gamek.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,15 @@
       "title": "iran",
       "trafficCount": "200+",
       "pubDate": "Wed, 14 Jan 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_UG3V-g3VICApeHDmqaaV2wUWGGgNTwwfQzJh_MPOG0V9zACE8syMxQ3XI-A",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRzK7jhPHDlCqNC__WYo5dRYU7KM50BLRQnduB3y2dq365zAdsyU8NP6_Svo",
+      "pictureSource": "Báo Dân trí",
       "relatedSearch": [
+        {
+          "title": "Iran dọa tấn công, Mỹ rút quân khỏi các căn cứ trọng yếu ở Trung Đông",
+          "snippet": "",
+          "url": "https://dantri.com.vn/the-gioi/iran-doa-tan-cong-my-rut-quan-khoi-cac-can-cu-trong-yeu-o-trung-dong-20260114221218289.htm",
+          "source": "Báo Dân trí"
+        },
         {
           "title": "'Họ cứ giết người liên tục': nhân chứng mô tả cuộc đàn áp đẫm máu tại Iran",
           "snippet": "",
@@ -127,16 +133,10 @@
           "source": "BBC"
         },
         {
-          "title": "Tin tức thế giới 14-1: Quốc hội Ukraine bất tuân ông Zelensky; Iran dọa treo cổ người biểu tình",
+          "title": "Ba nước Ả Rập bí mật thuyết phục Mỹ không tấn công Iran?",
           "snippet": "",
-          "url": "https://tuoitre.vn/tin-tuc-the-gioi-14-1-quoc-hoi-ukraine-bat-tuan-ong-zelensky-iran-doa-treo-co-nguoi-bieu-tinh-20260114070257612.htm",
-          "source": "Báo Tuổi Trẻ"
-        },
-        {
-          "title": "Iran báo động mức cao nhất, thế giới nỗ lực ngăn Mỹ khai hỏa",
-          "snippet": "",
-          "url": "https://znews.vn/iran-bao-dong-muc-cao-nhat-the-gioi-no-luc-ngan-my-khai-hoa-post1619700.html",
-          "source": "Znews"
+          "url": "https://thanhnien.vn/ba-nuoc-a-rap-bi-mat-thuyet-phuc-my-khong-tan-cong-iran-185260114203808168.htm",
+          "source": "Báo Thanh Niên"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "ESPN Argentina"
         },
         {
-          "title": "Toluca Remonta y Golea a Santos y Pumas Gana de Visitante a Tigres en Cierre de J2 de la Liga MX",
+          "title": "Destinarán sólo 2.5% de los recursos nacionales para la búsqueda de personas en Edomex https://mile.io/3LgfdOl",
           "snippet": "",
-          "url": "https://www.nmas.com.mx/deportes/toluca-remonta-y-golea-a-santos-y-pumas-gana-de-visitante-a-tigres-en-cierre-de-j2-de-liga-mx/",
-          "source": "N+"
+          "url": "https://www.facebook.com/story.php?story_fbid=1359311329559668&id=100064424424683",
+          "source": "Facebook"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "giá xăng dầu hôm",
       "trafficCount": "100+",
       "pubDate": "Wed, 14 Jan 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoLM72Ac77OWNs1CdfGcXMA7xNG-NnN1aQE6VEjK_G-xDTMxGxeFOkQIK4YxE",
-      "pictureSource": "Laodong.vn",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS39P5VaSGCq7utQU6mKsKlqwB6buM9oBroP0dRqJ-4SnUkdCPj-rWkspIkn8c",
+      "pictureSource": "VnExpress",
       "relatedSearch": [
         {
-          "title": "Giá xăng dầu hôm nay 14.1: Đồng loạt giảm",
+          "title": "Giá xăng dầu hôm nay 15/1: Giá xăng lên gần 19.000 đồng một lít",
           "snippet": "",
-          "url": "https://laodong.vn/kinh-doanh/gia-xang-dau-hom-nay-141-dong-loat-giam-1640677.ldo",
+          "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-15-1-5006045.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Dự báo giá xăng dầu tăng từ chiều mai",
+          "snippet": "",
+          "url": "https://laodong.vn/kinh-doanh/du-bao-gia-xang-dau-tang-tu-chieu-mai-1640877.ldo",
           "source": "Laodong.vn"
         },
         {
-          "title": "Giá xăng tăng, cắt mạch giảm 5 lần liên tiếp",
+          "title": "Giá xăng bật tăng sau 5 phiên giảm",
           "snippet": "",
-          "url": "https://nld.com.vn/gia-xang-tang-cat-mach-giam-5-lan-lien-tiep-196260114171517918.htm",
-          "source": "Báo Người Lao Động"
-        },
-        {
-          "title": "Giá xăng dầu hôm nay 15.1.2026: Đảo chiều giảm mạnh trước giờ điều chỉnh trong nước",
-          "snippet": "",
-          "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-1512026-dao-chieu-giam-manh-truoc-gio-dieu-chinh-trong-nuoc-185260115085047119.htm",
-          "source": "Báo Thanh Niên"
+          "url": "https://dantri.com.vn/kinh-doanh/gia-xang-bat-tang-sau-5-phien-giam-20260115143534873.htm",
+          "source": "Báo Dân trí"
         }
       ],
       "link": "https://imtaqin.id/"
