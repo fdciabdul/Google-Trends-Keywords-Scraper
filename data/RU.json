@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-16 03:13:55",
+  "lastUpdate": "2026-01-16 03:48:24",
   "data": [
+    {
+      "title": "погода астрахань",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 15 Jan 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JmONdZVBNcRKhVKER6w2w4iz7h932rGJxznkX0lNKpFps6diw92jfk3R0uE",
+      "pictureSource": "Блокнот Астрахань",
+      "relatedSearch": [
+        {
+          "title": "В Астрахани из-за снегопада на дорогах образовались опасные зоны",
+          "snippet": "",
+          "url": "https://bloknot-astrakhan.ru/news/v-astrakhani-iz-za-snegopada-na-dorogakh-obrazoval-1938487",
+          "source": "Блокнот Астрахань"
+        },
+        {
+          "title": "Жизнь астраханских водителей резко пошла не по плану",
+          "snippet": "",
+          "url": "https://kaspyinfo.ru/news/region/112073",
+          "source": "КаспийИнфо. Новости Астрахани и региона"
+        },
+        {
+          "title": "Заснеженная Астрахань в фотографиях Дмитрия Дадонкина",
+          "snippet": "",
+          "url": "https://arbuztoday.ru/zasnezhennaya-astraxan-v-fotografiyax-dmitriya-dadonkina/",
+          "source": "АРБУЗ | Отборные астраханские новости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода саратов",
       "trafficCount": "200+",
@@ -30,36 +58,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "вашингтон сан хосе",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 15 Jan 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq7uXN-NA3zxARxLcCGtRZuga3-nomv-5LcY7QUUgo0Hlqij1JttPWRvUg_gE",
-      "pictureSource": "Sportbox",
-      "relatedSearch": [
-        {
-          "title": "«Вашингтон» проиграл «Сан‑Хосе» в матче НХЛ, Овечкин отдал результативную передачу",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/NHL/spbnews_NI2286301_Vashington_proigral_SanKhose_v_matche_NKhL_Ovechkin_otdal_rezultativnuju_peredachu",
-          "source": "Sportbox"
-        },
-        {
-          "title": "«Вашингтон» — «Сан-Хосе»: Овечкин против удобной защиты",
-          "snippet": "",
-          "url": "https://metaratings.ru/news/analitika-washington-san-jose-ovechkin-shots-goals-15-01-2026-570266/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "Тренер Овечкина и Протаса поужинал с наставником \"Сан-Хосе\" перед матчем: ранее они работали вместе",
-          "snippet": "",
-          "url": "https://sport5.by/news/hockey/Trener-Ovechkina-i-Protasa-pouzhinal-s-nastavnikom-SanKHose-pered-matchem/",
-          "source": "Sport5.by"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "погода в самаре",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 15 Jan 2026 18:20:00 -0800",
       "picture": "",
       "pictureSource": "",
@@ -68,7 +68,7 @@
     },
     {
       "title": "погода ижевск",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 15 Jan 2026 18:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvSvVHw17khJCFefYVk6lF_qkpSvdHfxlQEIOlhthDbqGv1qBx-VxBp8Vn-s",
       "pictureSource": "N+1",
@@ -98,15 +98,9 @@
       "title": "погода екб",
       "trafficCount": "100+",
       "pubDate": "Thu, 15 Jan 2026 17:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4kzfgBJLSXkuPLASOj50G5Or2drAPVcvrHk4UDT_b8cIhtb7dIBzATw8cIw0",
-      "pictureSource": "GISMETEO.Новости",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxw-dbgVj-Mph2fqIs4SYcC07C9njOSK39Cgof-gGp7kPIy6SO9-pQ3eJRDP4",
+      "pictureSource": "TagilCity",
       "relatedSearch": [
-        {
-          "title": "Погода на Урале: сильный мороз до −42",
-          "snippet": "",
-          "url": "https://www.gismeteo.ru/news/weather/pogoda-na-urale-silnyj-moroz-do-42/",
-          "source": "GISMETEO.Новости"
-        },
         {
           "title": "Свердловская область переживает пик зимних холодов",
           "snippet": "",
@@ -118,6 +112,12 @@
           "snippet": "",
           "url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5671524",
           "source": "Главное управление МЧС России по Свердловской области"
+        },
+        {
+          "title": "Когда в Свердловской области станет теплее: прогноз погоды на 15-17 января 📢",
+          "snippet": "",
+          "url": "https://ku66.ru/news/v_sverdlovskoy_oblasti/kogda_v_sverdlovskoy_oblasti_stanet_teplee_prognoz_pogody_na_15_17_yanvarya/",
+          "source": "KU66"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,9 +164,9 @@
           "source": "Mail.ru"
         },
         {
-          "title": "Жителей Башкирии этой весной ждет аномальная погода",
+          "title": "Когда в Башкирии отступят морозы и потеплеет",
           "snippet": "",
-          "url": "https://i-gazeta.com/news/pogoda/2026-01-15/zhiteley-bashkirii-etoy-vesnoy-zhdet-anomalnaya-pogoda-4538599",
+          "url": "https://i-gazeta.com/news/pogoda/2026-01-16/kogda-v-bashkirii-otstupyat-morozy-i-potepleet-4538662",
           "source": "Электрогазета"
         },
         {
@@ -182,14 +182,14 @@
       "title": "орск ру",
       "trafficCount": "200+",
       "pubDate": "Thu, 15 Jan 2026 17:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-ii4ae8U_wKvRkaw9IP44sVgFjdmDJZ1gd-vwefJJNJLH0z6hyySydvVKiso",
-      "pictureSource": "Орск.ру",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRunOyjva-wFoJiA1AiW619jI0TQXWDJGVrVImAhhSYLtjV83bALdxbjrBteME",
+      "pictureSource": "1743",
       "relatedSearch": [
         {
-          "title": "Рубрика «Молоток»: на Станиславского водитель помог мужчине, который оказался на дороге",
+          "title": "Близнецы, всегда приятно порадовать ближнего",
           "snippet": "",
-          "url": "https://pda.orsk.ru/news/144554-rubrika-%C2%ABmolotok%C2%BB-na-stanislavskogo-voditel-pomog-mujchine-kotoryy-okazalsya-na-doroge",
-          "source": "Орск.ру"
+          "url": "https://1743.ru/news/82119",
+          "source": "1743"
         },
         {
           "title": "Кому идти в школу 15 января?",
@@ -210,26 +210,26 @@
       "title": "гисметео",
       "trafficCount": "500+",
       "pubDate": "Thu, 15 Jan 2026 17:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKD6hf8D0OTwrU3twiDUQ8V2Pmf58Y0RtwqmhwPTKwPDubL2RmymtW1kk98U",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj6PAm5dkqXBHueQYSD3HXMQdQXOfb_Zf3ZDxuGSRNZyJkVriuQZ1Gjx2Z5hU",
+      "pictureSource": "GISMETEO.Новости",
       "relatedSearch": [
         {
-          "title": "Лидер оппозиции Венесуэлы Мачадо вручила Трампу медаль Нобелевской премии мира",
+          "title": "Ученые выяснили, почему мы прокрастинируем и что с этим делать",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/c9qpyp4jqewo",
-          "source": "BBC"
+          "url": "https://www.gismeteo.ru/news/health/uchenye-vyyasnili-pochemu-my-prokrastiniruem-i-chto-s-etim-delat/",
+          "source": "GISMETEO.Новости"
         },
         {
-          "title": "Мачадо заявила, что отдала Трампу медаль Нобелевской премии мира",
+          "title": "Обнаружен ключевой механизм в мозге, из-за которого мы откладываем дела",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1067870",
-          "source": "Интерфакс"
+          "url": "https://naukatv.ru/news/obnaruzhen_klyuchevoj_mekhanizm_v_mozge_izza_kotorogo_my_otkladyvaem_dela",
+          "source": "Телеканал «Наука"
         },
         {
-          "title": "Трамп встретился с лидером оппозиции Венесуэлы Марией Кориной Мачадо",
+          "title": "Нейробиологи отключили найденный «тормоз мотивации», чтобы заставить обезьян делать неприятные задачи",
           "snippet": "",
-          "url": "https://meduza.io/news/2026/01/16/tramp-vstretilsya-s-liderom-oppozitsii-venesuely-mariey-korinoy-machado",
-          "source": "Meduza"
+          "url": "https://naked-science.ru/article/biology/tormoz-motivacii",
+          "source": "Naked Science"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,16 +248,16 @@
           "source": "sakhalife"
         },
         {
+          "title": "Девы, будьте в центре событий, Стрельцам захочется новых ощущений, а Львам стоит подумать дважды прежде, чем дать ответ",
+          "snippet": "",
+          "url": "https://orenday.ru/2026/150126165006",
+          "source": "Новости Оренбурга Orenday.ru"
+        },
+        {
           "title": "Гороскоп на 16 января: Раки смогут получить удовольствие от нового знакомства, а Козероги будут блистать на работе",
           "snippet": "",
           "url": "https://asn24.ru/news/culture/143263/",
           "source": "Амурская Служба Новостей"
-        },
-        {
-          "title": "Гороскоп для жителей Бурятии на 16 января 2026 года",
-          "snippet": "",
-          "url": "https://gazeta-n1.ru/news/society/156993/",
-          "source": "Номер Один - Новости Бурятии и Улан-Удэ сегодня"
         }
       ],
       "link": "https://imtaqin.id/"
