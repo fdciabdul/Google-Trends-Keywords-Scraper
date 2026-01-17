@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-17 21:07:32",
+  "lastUpdate": "2026-01-17 21:19:07",
   "data": [
     {
       "title": "sport lisboa e benfica",
@@ -59,7 +59,7 @@
     },
     {
       "title": "twitch",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 17 Jan 2026 12:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRXxBM36EwDgPerlLw8s3keWycEJg6qBgjerqyacmk-AH39Oy8-FdcgyZ9vZk",
       "pictureSource": "Blizzard News",
@@ -89,9 +89,15 @@
       "title": "avião indonesia",
       "trafficCount": "500+",
       "pubDate": "Sat, 17 Jan 2026 12:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3e3D_Zs8IyUURRAo77RxhPazhDRc42Yba5UvLn2-HZxySZlSS2IlzCKR31Vk",
-      "pictureSource": "G1",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk5KzsFOR8uh59F0rrTp9U0hWgffFb-NoB20r4qM2uWv0Wtn78UnIUwJuQ49A",
+      "pictureSource": "SIC Notícias",
       "relatedSearch": [
+        {
+          "title": "Avião com 11 pessoas a bordo desaparece na Indonésia",
+          "snippet": "",
+          "url": "https://sicnoticias.pt/mundo/2026-01-17-aviao-com-11-pessoas-a-bordo-desaparece-na-indonesia-9a9cdef8",
+          "source": "SIC Notícias"
+        },
         {
           "title": "Avião desaparece dos radares na Indonésia; aeronave tinha 11 pessoas a bordo",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://www.sabado.pt/video/detalhe/aviao-de-passageiros-desaparece-na-indonesia",
           "source": "SÁBADO"
-        },
-        {
-          "title": "Avião de pequeno porte desaparece durante voo na Indonésia com 11 pessoas a bordo",
-          "snippet": "",
-          "url": "https://www.dn.pt/internacional/avio-de-pequeno-porte-desaparece-durante-voo-na-indonsia-com-11-pessoas-a-bordo",
-          "source": "Diário de Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "A Bola"
         },
         {
+          "title": "Tudo em aberto: representantes de André Luiz em Vila do Conde para assistir ao Rio Ave-Benfica",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/tudo-em-aberto-representantes-de-andre-luiz-em-vila-do-conde-para-assistir-ao-rio-ave-benfica-696bd2af4feb524eb6047060",
+          "source": "SAPO"
+        },
+        {
           "title": "Veja o onze do Benfica para o jogo com o Rio Ave: novidade no ataque das águias",
           "snippet": "",
           "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/veja-o-onze-do-benfica-para-o-jogo-com-o-rio-ave-novidade-no-ataque-das-aguias",
           "source": "Correio da Manhã"
-        },
-        {
-          "title": "Rio Ave X Benfica - AO MINUTO",
-          "snippet": "",
-          "url": "https://maisfutebol.iol.pt/jogo/aominuto/13828156",
-          "source": "Maisfutebol"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,38 @@
           "source": "Bundesliga | official website"
         },
         {
-          "title": "Harry Kane strikes again! England captain scores as Bayern Munich come from behind to thrash RB Leipzig and maintain 11-point lead in Bundesliga title race",
+          "title": "Defensive crisis forces Kompany to make changes: How Bayern start in Leipzig",
           "snippet": "",
-          "url": "https://www.goal.com/en-in/lists/harry-kane-england-captain-bayern-munich-rb-leipzig-bundesliga/bltd994f49bd6ec5fa2",
-          "source": "Goal.com"
+          "url": "https://fcbinside.com/2026/01/17/defensive-crisis-forces-kompany-to-make-changes-how-bayern-start-in-leipzig/",
+          "source": "Bayern Munich News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "arsenal",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 17 Jan 2026 11:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGLHrNn8fDhn3O3W-1R4i7RQlyMl-j65WM4jdC7VzOqxQ_1ltkpMgGcmf4F9k",
+      "pictureSource": "A Bola",
+      "relatedSearch": [
+        {
+          "title": "Premier League: Arsenal desinspirado deixa pontos em Nottingham",
+          "snippet": "",
+          "url": "https://www.abola.pt/noticias/premier-league-arsenal-desinspirado-deixa-pontos-em-nottingham-2026011719302987071",
+          "source": "A Bola"
+        },
+        {
+          "title": "Arsenal volta a empatar mas mantém liderança folgada sobre perseguidores",
+          "snippet": "",
+          "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-volta-a-empatar-mas-mantem-lideranca-folgada-sobre-perseguidores_d1711024",
+          "source": "RTP"
+        },
+        {
+          "title": "Arsenal empata com o Nottingham Forest e desperdiça chance de abrir 9 pontos na Premier League | Esportes | O Liberal",
+          "snippet": "",
+          "url": "https://www.oliberal.com/esportes/arsenal-empata-com-o-nottingham-forest-e-desperdica-chance-de-abrir-9-pontos-na-premier-league-1.1072829",
+          "source": "O Liberal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://rbleipzig.com/de/news/kevin-kampl-verabschiedung-rb-leipzig-fc-bayern-muenchen",
           "source": "RB Leipzig"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fisioterapeuta sporting",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 17 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvr7pw20vnAf385xMWZp2TPDnpZWcglUE3Ln1mq12Cfvmkfo0RMzrI8nZ7ljM",
-      "pictureSource": "A Bola",
-      "relatedSearch": [
-        {
-          "title": "Ex-fisioterapeuta do Sporting detido por suspeitas de tráfico de esteroides",
-          "snippet": "",
-          "url": "https://www.abola.pt/noticias/ex-fisioterapeuta-do-sporting-detido-por-suspeitas-de-trafico-de-esteroides-2026011714050566491",
-          "source": "A Bola"
-        },
-        {
-          "title": "PJ trava negócio de doping do 'Harry Potter' do culturismo",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/portugal/detalhe/pj-trava-negocio-de-doping-do-harry-potter-do-culturismo",
-          "source": "Correio da Manhã"
-        },
-        {
-          "title": "\"Operação Harry Potter\". Quatro detidos na Área Metropolitana de Lisboa por tráfico de substâncias e doping",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/operacao-harry-potter-quatro-detidos-na-area-metropolitana-de-lisboa-por-trafico-de-substancias-e-doping-696a0be28d78b78a8cdca19d",
-          "source": "SAPO"
         }
       ],
       "link": "https://imtaqin.id/"
