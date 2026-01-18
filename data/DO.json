@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-18 07:39:25",
+  "lastUpdate": "2026-01-18 07:46:16",
   "data": [
     {
       "title": "thunder - heat",
@@ -43,16 +43,16 @@
           "source": "CBS Sports"
         },
         {
-          "title": "Deandre Ayton (knee) won't play Saturday",
-          "snippet": "",
-          "url": "https://www.fantasypros.com/nba/news/566229/deandre-ayton-knee-wont-play-saturday.php",
-          "source": "FantasyPros"
-        },
-        {
           "title": "LeBron James, Lakers Disappoint NBA Fans in Loss to Trail Blazers with Luka Doncic Out Injured",
           "snippet": "",
           "url": "https://bleacherreport.com/articles/25362266-lebron-james-lakers-disappoint-nba-fans-loss-trail-blazers-luka-doncic-out-injured",
           "source": "Bleacher Report"
+        },
+        {
+          "title": "Injury-riddled Lakers fall to Trail Blazers for fifth loss in six games",
+          "snippet": "",
+          "url": "https://www.latimes.com/sports/lakers/story/2026-01-17/lebron-james-lakers-portland-game-recap",
+          "source": "Los Angeles Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "Sean Payton sends emphatic message about Broncos backup QB Jarrett Stidham",
+          "title": "Sean Payton hypes up Jarrett Stidham with Broncos booked for AFC Championship Game",
           "snippet": "",
-          "url": "https://predominantlyorange.com/sean-payton-sends-emphatic-message-about-broncos-backup-qb-jarrett-stidham-01kf7j15ne4e",
-          "source": "Predominantly Orange"
+          "url": "https://www.sportingnews.com/ca/nfl/denver-broncos/news/sean-payton-jarrett-stidham-broncos-afc-championship-game/1a6830601e96428acc86d46a",
+          "source": "Sporting News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,33 +173,61 @@
       "title": "nfl",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 Jan 2026 17:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuNhgBoGX7cxoYv9LjCNKylSqUT6qYr01wLm470GIpvb6D25VgcuuRSFgdsLk",
-      "pictureSource": "CBS Sports",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4VtGsbfP1BwOxJB3aHqgxjZdFOy2STQIetXYXv6Xq_BpSgkwaMVecLJr-FD8",
+      "pictureSource": "The Mercury News",
       "relatedSearch": [
         {
-          "title": "Broncos vs. Bills recap: Denver advances to AFC title game with OT win; loses Bo Nix",
+          "title": "49ers’ 5 keys to upsetting No. 1 seed Seattle in NFC divisional playoffs",
           "snippet": "",
-          "url": "https://www.cbssports.com/nfl/news/broncos-vs-bills-live-updates-can-josh-allen-lead-buffalo-to-another-road-playoff-victory/live/",
-          "source": "CBS Sports"
+          "url": "https://www.mercurynews.com/2026/01/17/49ers-5-keys-to-upsetting-no-1-seed-seattle-in-nfc-divisional-playoffs/",
+          "source": "The Mercury News"
         },
         {
-          "title": "How Bo Nix and the Denver Broncos will beat Josh Allen’s Buffalo Bills",
+          "title": "Is Jaxon Smith-Njigba playing tonight? Why Seahawks WR is off to slow start in divisional round",
           "snippet": "",
-          "url": "https://bvmsports.com/2026/01/17/how-bo-nix-and-the-denver-broncos-will-beat-josh-allens-buffalo-bills/",
-          "source": "BVM Sports"
+          "url": "https://ca.sports.yahoo.com/news/jaxon-smith-njigba-playing-tonight-014643262.html",
+          "source": "Yahoo Sports Canada"
         },
         {
-          "title": "Questionable calls in crunch time haunt Bills in playoffs again",
+          "title": "Rashid Shaheed’s Kick Return Touchdown Jumpstarted The Seahawks' 41-6 Win",
           "snippet": "",
-          "url": "https://thescore.com/nfl/news/3458179/amp",
-          "source": "theScore.com"
+          "url": "https://www.seahawks.com/news/rashid-shaheed-s-kick-return-touchdown-jumpstarted-the-seahawks-41-6-win",
+          "source": "Seattle Seahawks"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nfl scores",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 17 Jan 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXP-o_pZo3VhJ97KHicMnBze2lXThq9uR6IvadBwZjH1fEwzoIQ8ooCy-Xm0Y",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "NFL divisional highlights: Best plays, moments, touchdowns",
+          "snippet": "",
+          "url": "https://www.espn.com/nfl/story/_/id/47633283/nfl-divisional-highlights-best-plays-moments-touchdowns",
+          "source": "ESPN"
+        },
+        {
+          "title": "Biggest winners and losers from Saturday’s Divisional Round NFL playoff games",
+          "snippet": "",
+          "url": "https://www.49erswebzone.com/news/198499-biggest-winners-saturdays-divisional-nfl/",
+          "source": "49ers Webzone"
+        },
+        {
+          "title": "The 11 Greatest NFL Divisional Round Performances Of All-Time",
+          "snippet": "",
+          "url": "https://brobible.com/sports/article/the-11-greatest-nfl-division-round-performances-of-all-time/",
+          "source": "BroBible"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "buffalo bills",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 17 Jan 2026 16:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIdre2nRIu7ayXXffWNmWB3Dsa3OByelG1EaVfvgjKE0O651Wnil-TPxe1X3Y",
       "pictureSource": "Al Bat",
@@ -211,16 +239,16 @@
           "source": "Al Bat"
         },
         {
+          "title": "Broncos knock out Josh Allen and the Bills to advance to the AFC championship game",
+          "snippet": "",
+          "url": "https://apnews.com/article/nfl-playoffs-afc-nfc-championship-games-924b7f0811dfc2588734ca6f731fb3b0",
+          "source": "AP News"
+        },
+        {
           "title": "Josh Allen fumbled away clearest path to Super Bowl",
           "snippet": "",
           "url": "https://nypost.com/2026/01/18/sports/josh-allen-fumbled-away-clearest-path-to-super-bowl/",
           "source": "New York Post"
-        },
-        {
-          "title": "PHOTOS: Denver Broncos outlast Buffalo Bills 33-30 in AFC Divisional Round",
-          "snippet": "",
-          "url": "https://www.denverpost.com/2026/01/17/broncos-bills-afc-playoffs-photos/",
-          "source": "The Denver Post"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "AP News"
         },
         {
+          "title": "As Klay Thompson moves into 4th on 3s made list, his love for the game keeps him going",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/6976272/2026/01/16/klay-thompson-damian-lillard-3-pointers/",
+          "source": "The New York Times"
+        },
+        {
           "title": "Thompson scores 23 points, including the 17,000th of his career, as Mavericks beat the Jazz 138-120",
           "snippet": "",
           "url": "https://www.cbssports.com/nba/news/thompson-scores-23-points-including-the-17000th-of-his-career-as-mavericks-beat-the-jazz-138-120/",
           "source": "CBS Sports"
-        },
-        {
-          "title": "Utah Jazz vs Dallas Mavericks: recap and final score",
-          "snippet": "",
-          "url": "https://www.slcdunk.com/utah-jazz-game-coverage/66234/utah-jazz-vs-dallas-mavericks-recap-and-final-score",
-          "source": "SLC Dunk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bills vs broncos",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 17 Jan 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL8OB5mjWw69pHW9hL25FhOuK3iGudFEif5LmKy6zdeGcilH3TqARNZLyCBC4",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Charlotte 74-73 Rice (Jan 11, 2026) Game Recap",
-          "snippet": "",
-          "url": "https://www.espn.com/mens-college-basketball/recap?gameId=401828170",
-          "source": "ESPN"
-        },
-        {
-          "title": "Broncos 33-30 Bills (Jan 17, 2026) Final Score",
-          "snippet": "",
-          "url": "https://www.espn.com/nfl/game/_/gameId/401772982/bills-broncos",
-          "source": "ESPN"
-        },
-        {
-          "title": "Seahawks 41-6 49ers (Jan 17, 2026) Final Score",
-          "snippet": "",
-          "url": "https://www.espn.com/nfl/game/_/gameId/401772984/49ers-seahawks",
-          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
