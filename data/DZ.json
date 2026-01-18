@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-01-18 06:03:25",
+  "lastUpdate": "2026-01-18 06:15:10",
   "data": [
     {
-      "title": "حالة الطقس",
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 17 Jan 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtOPR1JImX3NJQDgRneNSmIscraL3b3bX0B1Tpe4nhNzqgELPc-4R0dYCczPI",
+      "pictureSource": "FOX Weather",
+      "relatedSearch": [
+        {
+          "title": "Snow in New York City | Latest Weather Clips",
+          "snippet": "",
+          "url": "https://www.foxweather.com/watch/fmc-9ce47tn1ozufrqyq",
+          "source": "FOX Weather"
+        },
+        {
+          "title": "Road crews make ready for Sunday’s snowfall on Long Island",
+          "snippet": "",
+          "url": "https://longisland.news12.com/road-crews-make-ready-for-sundays-snowfall-on-long-island",
+          "source": "News12 | Long Island"
+        },
+        {
+          "title": "Winter storm warnings issued for Genesee, Orleans and Wyoming counties",
+          "snippet": "",
+          "url": "https://www.thelcn.com/news/winter-storm-warnings-issued-for-genesee-orleans-and-wyoming-counties/article_d1bb2ee7-e4f4-4441-9b13-960b92e1f73a.html",
+          "source": "Livingston County News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس",
       "trafficCount": "5000+",
-      "pubDate": "Sat, 17 Jan 2026 21:50:00 -0800",
+      "pubDate": "Sat, 17 Jan 2026 22:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoDQAMy1URKH2VsrpSia0aXtARdJVIhf4UZ3_dIdzHnmX4ZWZSyhRhzrclVs",
       "pictureSource": "الإذاعة الجزائرية |",
       "relatedSearch": [
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.elkhabar.com/societe/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-268210",
           "source": "الخبر"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "طقس اليوم",
-      "trafficCount": "20000+",
-      "pubDate": "Sat, 17 Jan 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLnjNG-573jJ1g4Xc7Ex1DByH0u_gDAI5xBBimHr53vKzJH3Zlnm4djVX04R4",
-      "pictureSource": "المصري اليوم",
-      "relatedSearch": [
-        {
-          "title": "حالة الطقس اليوم الأحد 18 يناير 2026.. تحذير من ضباب كثيف وبرودة شديدة وأمطار على عدة مناطق",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4177236",
-          "source": "المصري اليوم"
-        },
-        {
-          "title": "درجة الحرارة تصل إلى 5 مئوية.. «الصقيع» يضرب محافظات مصر وتحذير من الأرصاد | صحيفة الخليج",
-          "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-01-16/%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B5%D9%84-%D8%A5%D9%84%D9%89-5-%D9%85%D8%A6%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%82%D9%8A%D8%B9-%D9%8A%D8%B6%D8%B1%D8%A8-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-6266671/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA",
-          "source": "الخليج"
-        },
-        {
-          "title": "صباح الخير متابعينا الكرام،، 🔵 أجواء شديدة البرودة صباحًا، وتميل للدفء خلال ساعات النهار. 🌡️ العظمى المتوقعة اليوم على القاهرة الكبرى: 20° 🌧️مع فرص أمطار متوسطة على السواحل الشمالية وشمال الوجه البحري على فترات متقطعة. 🌧️ وفرص أمطار خفيفة على جنوب الوجه ال",
-          "snippet": "",
-          "url": "https://www.facebook.com/story.php?story_fbid=1309452247880006&id=100064457301517",
-          "source": "Facebook"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,6 +226,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "الطقس غدًا",
+      "trafficCount": "20000+",
+      "pubDate": "Sat, 17 Jan 2026 12:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLnjNG-573jJ1g4Xc7Ex1DByH0u_gDAI5xBBimHr53vKzJH3Zlnm4djVX04R4",
+      "pictureSource": "المصري اليوم",
+      "relatedSearch": [
+        {
+          "title": "حالة الطقس اليوم الأحد 18 يناير 2026.. تحذير من ضباب كثيف وبرودة شديدة وأمطار على عدة مناطق",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/4177236",
+          "source": "المصري اليوم"
+        },
+        {
+          "title": "درجة الحرارة تصل إلى 5 مئوية.. «الصقيع» يضرب محافظات مصر وتحذير من الأرصاد | صحيفة الخليج",
+          "snippet": "",
+          "url": "https://www.alkhaleej.ae/2026-01-16/%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B5%D9%84-%D8%A5%D9%84%D9%89-5-%D9%85%D8%A6%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%82%D9%8A%D8%B9-%D9%8A%D8%B6%D8%B1%D8%A8-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-6266671/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA",
+          "source": "الخليج"
+        },
+        {
+          "title": "صباح الخير متابعينا الكرام،، 🔵 أجواء شديدة البرودة صباحًا، وتميل للدفء خلال ساعات النهار. 🌡️ العظمى المتوقعة اليوم على القاهرة الكبرى: 20° 🌧️مع فرص أمطار متوسطة على السواحل الشمالية وشمال الوجه البحري على فترات متقطعة. 🌧️ وفرص أمطار خفيفة على جنوب الوجه ال",
+          "snippet": "",
+          "url": "https://www.facebook.com/story.php?story_fbid=1309452247880006&id=100064457301517",
+          "source": "Facebook"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ياسمين عبد العزيز",
       "trafficCount": "200+",
       "pubDate": "Sat, 17 Jan 2026 11:50:00 -0800",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.youm7.com/story/2026/1/16/%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%85%D9%8A%D8%AF%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D9%81%D9%89-%D8%B9%D9%8A%D8%AF/7269784",
           "source": "اليوم السابع"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "angers – marseille",
-      "trafficCount": "5000+",
-      "pubDate": "Sat, 17 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd3nGK_gCkbhJ6eeQCgTuakMMIr1pKCEEf32Pa_RD6pebGr4Z2iJVGfQLj3rk",
-      "pictureSource": "L'Équipe",
-      "relatedSearch": [
-        {
-          "title": "Angers 2-5 OM, Ligue 1 : l'OM réalise un festival offensif",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2025-2026/angers-om-live/675955",
-          "source": "L'Équipe"
-        },
-        {
-          "title": "Ligue 1 - Hamed Junior Traoré - Amine Gouiri - Mason Greenwood : devant, l'Olympique de Marseille a trouvé la formule",
-          "snippet": "",
-          "url": "https://www.eurosport.fr/football/ligue-1/2025-2026/ligue-1-hamed-junior-traore-amine-gouiri-mason-greenwood-devant-lolympique-de-marseille-a-trouve-la-formule_sto23260187/story.shtml",
-          "source": "Eurosport"
-        },
-        {
-          "title": "OM : Timothy Weah rend hommage à son père",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a2246230684389636439-om-timothy-weah-rend-hommage-a-son-pere",
-          "source": "Foot Mercato"
         }
       ],
       "link": "https://imtaqin.id/"
