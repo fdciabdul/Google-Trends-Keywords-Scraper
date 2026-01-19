@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-19 11:20:09",
+  "lastUpdate": "2026-01-19 11:32:59",
   "data": [
     {
       "title": "metro",
@@ -31,7 +31,7 @@
     },
     {
       "title": "chilevision",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 19 Jan 2026 02:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRerrXcdhDSWOb8qQ2Do3frBd0B663yt5MQs5g6pJxJI18PervFH-XMZz0d-W0",
       "pictureSource": "BioBioChile",
@@ -89,9 +89,15 @@
       "title": "adamuz",
       "trafficCount": "100+",
       "pubDate": "Mon, 19 Jan 2026 02:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK1rqoz1289PO_jGuMigEWMt-AA86VLT_EeO1L-HTFa7uoM68_Ld2mhb_I5C8",
-      "pictureSource": "La Tercera",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTzJTl8OIin49uIKtUthIcGJEw5xv1o3ccYRYR-tSkAbi_GtgIQFWILcyULQ",
+      "pictureSource": "Emol",
       "relatedSearch": [
+        {
+          "title": "\"Raro y difícil de explicar\": Autoridades de España buscan explicación a trágico accidente de tren que provocó al menos 21 muertos",
+          "snippet": "",
+          "url": "https://www.emol.com/noticias/Internacional/2026/01/18/1188955/accidente-tren-espana-muertes.html",
+          "source": "Emol"
+        },
         {
           "title": "Pedro Sánchez se traslada este lunes a Adamuz tras grave accidente ferroviario",
           "snippet": "",
@@ -99,16 +105,10 @@
           "source": "La Tercera"
         },
         {
-          "title": "Tragedia en España: 39 muertos tras colisión de trenes",
+          "title": "Al menos 39 fallecidos en colisión de trenes en España y más",
           "snippet": "",
-          "url": "https://www.dw.com/es/tragedia-ferroviaria-en-espa%C3%B1a-al-menos-39-muertos-en-extra%C3%B1o-siniestro/a-75558992",
+          "url": "https://www.dw.com/es/al-menos-39-fallecidos-en-colisi%C3%B3n-de-trenes-en-espa%C3%B1a-guatemala-decreta-estado-de-sitio-tras-asesinato-de-ocho-polic%C3%ADas-y-m%C3%A1s-noticias/a-75557872",
           "source": "DW.com"
-        },
-        {
-          "title": "Se elevan a 39 los muertos en el accidente de tren del domingo en España",
-          "snippet": "",
-          "url": "https://www.24horas.cl/internacional/noticias/se-elevan-a-39-los-muertos-en-el-accidente-de-tren-del-domingo-en-espana",
-          "source": "24horas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,20 +201,20 @@
       "title": "flight radar",
       "trafficCount": "100+",
       "pubDate": "Mon, 19 Jan 2026 00:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeLV1x-xnLoghOBTiJyxtWUsaRr2oCUBhKkoKhZlQC5Aj7pDApnTSBuenmvQI",
-      "pictureSource": "People.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT41JmuJKf_hZLLLNbs0wjXnWliJ6sxG9X_usxVVywaEu0B0pjlJgOEoK8UUc",
+      "pictureSource": "CBS News",
       "relatedSearch": [
-        {
-          "title": "Plane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues",
-          "snippet": "",
-          "url": "https://people.com/indonesia-air-transport-plane-carrying-11-people-vanished-from-radar-search-for-survivors-continues-11887819",
-          "source": "People.com"
-        },
         {
           "title": "Indonesian rescuers find body, wreckage after passenger aircraft with 11 people goes missing",
           "snippet": "",
           "url": "https://www.cbsnews.com/news/indonesia-air-transport-plane-missing/",
           "source": "CBS News"
+        },
+        {
+          "title": "Plane Carrying 11 People Vanished from Radar During 2-Hour Flight. Search for Wreckage and Survivors Continues",
+          "snippet": "",
+          "url": "https://people.com/indonesia-air-transport-plane-carrying-11-people-vanished-from-radar-search-for-survivors-continues-11887819",
+          "source": "People.com"
         },
         {
           "title": "Indonesia finds wreckage of missing surveillance plane carrying 10, one body",
