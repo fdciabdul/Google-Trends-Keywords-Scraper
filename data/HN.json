@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-19 14:13:35",
+  "lastUpdate": "2026-01-19 14:27:55",
   "data": [
     {
       "title": "tiempo",
@@ -31,7 +31,7 @@
     },
     {
       "title": "clima tegucigalpa",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 19 Jan 2026 04:20:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzyAvhrumdYzagzHrxyuR1pfbN0pUAV-Ss7jyWZya5MFPh_nXEBvRUxvoki2k",
       "pictureSource": "DEBATE",
@@ -89,9 +89,15 @@
       "title": "weather tomorrow",
       "trafficCount": "200+",
       "pubDate": "Sun, 18 Jan 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNCCYS0RnpjPbwayPBiu6bdebu0edC6MxWwdY70D_j4KGl3G4Ziqpo3Z2pjzs",
-      "pictureSource": "WISN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStfr2XYv0uUBy3a43wsB683r_XaXEnKukK6apeoyJaBM1-yB0rd4F_sTmkSpU",
+      "pictureSource": "TMJ4 News",
       "relatedSearch": [
+        {
+          "title": "Southeast Wisconsin weather: Dangerous cold",
+          "snippet": "",
+          "url": "https://www.tmj4.com/weather/forecast/todays-forecast/southeast-wisconsin-weather-dangerous-cold",
+          "source": "TMJ4 News"
+        },
         {
           "title": "SE Wisconsin Weather: Another round of snow to bitter cold",
           "snippet": "",
@@ -99,16 +105,10 @@
           "source": "WISN"
         },
         {
-          "title": "Wisconsin winter weather: Dangerous Arctic cold, wind chills well below zero",
+          "title": "Wisconsin winter weather advisory, more snow on the way Saturday",
           "snippet": "",
-          "url": "https://www.fox6now.com/weather/wisconsin-winter-weather-arctic-cold-wind-chills-well-below-zero",
+          "url": "https://www.fox6now.com/weather/wisconsin-winter-weather-more-snow-way-saturday-011726",
           "source": "FOX6 News Milwaukee"
-        },
-        {
-          "title": "Snow and subzero wind chills to create dangerous week in Oshkosh",
-          "snippet": "",
-          "url": "https://www.thenorthwestern.com/story/weather/2026/01/17/oshkosh-weather-forecast-calls-for-snow-whiteouts-and-deep-freeze/88235142007/",
-          "source": "Oshkosh Northwestern"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +145,26 @@
       "title": "guarani - santos",
       "trafficCount": "500+",
       "pubDate": "Sun, 18 Jan 2026 15:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tDSGw-ukXP_Pr0udpPAXIdSwY1KZ_9TjVlPjYa5bQHnpwx5YDdaAqlIOKWs",
-      "pictureSource": "Bolavip",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsYYpYvLNWs-VuqznbU-cWLwqFQ0qsHKQxa7wHqDPpMAAUg0B5itdoLlESTHE",
+      "pictureSource": "Rádio Itatiaia",
       "relatedSearch": [
         {
-          "title": "Vojvoda fica muito irritado com gol sofrido contra o Guarani e clima esquenta no Santos",
+          "title": "Vojvoda faz suspense sobre presença de Gabigol em Santos x Corinthians",
           "snippet": "",
-          "url": "https://br.bolavip.com/santos/vojvoda-fica-muito-irritado-com-gol-sofrido-contra-o-guarani-e-clima-esquenta-no-santos",
-          "source": "Bolavip"
+          "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-paulista/santos/vojvoda-faz-suspense-sobre-presenca-de-gabigol-em-santos-x-corinthians",
+          "source": "Rádio Itatiaia"
+        },
+        {
+          "title": "Brazão se irrita com empate no fim: \"Erros custam pontos\"",
+          "snippet": "",
+          "url": "https://abcdoabc.com.br/brazao-se-irrita-com-empate-no-fim-erros-custam/",
+          "source": "Portal ABC do ABC"
         },
         {
           "title": "Matheus Costa elogia atacante Kewen: \"Ele tem estrela\"",
           "snippet": "",
           "url": "https://portalcbncampinas.com.br/2026/01/matheus-costa-elogia-atacante-kewen-ele-tem-estrela/",
           "source": "CBN Campinas 99,1 FM"
-        },
-        {
-          "title": "Confira a classificação após a terceira rodada do Paulistão 2026",
-          "snippet": "",
-          "url": "https://www.diariodopeixe.com.br/noticias/confira-a-classificacao-apos-a-terceira-rodada-do-paulistao-2026/",
-          "source": "Diário do Peixe"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -191,7 +191,7 @@
         {
           "title": "PSP detém 37 pessoas por incidentes no Vitória–FC Porto",
           "snippet": "",
-          "url": "https://rr.pt/bola-branca/noticia/futebol-nacional/2026/01/19/psp-detem-37-pessoas-por-incidentes-no-vitoria-fc-porto/455902/?utm_source=cxultimas",
+          "url": "https://rr.pt/bola-branca/noticia/futebol-nacional/2026/01/19/psp-detem-37-pessoas-por-incidentes-no-vitoria-fc-porto/455902/?utm_medium=rss",
           "source": "Renascença"
         }
       ],
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "la liga",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 18 Jan 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgr5hcHM0ehmaL2B83rb7i0bybk7tXeQ96FsaZp56pXmXHP3K5_Jz37siTVg4",
-      "pictureSource": "Sempre Barca",
-      "relatedSearch": [
-        {
-          "title": "Hansi Flick talks Dro, Ter Stegen, Bernal, Rashford, La Masia youngsters ahead of Real Sociedad vs Barcelona",
-          "snippet": "",
-          "url": "https://semprebarca.com/hansi-flick-talks-dro-ter-stegen-bernal-rashford-la-masia-youngsters-ahead-of-real-sociedad-vs-barcelona/",
-          "source": "Sempre Barca"
-        },
-        {
-          "title": "Revealing the Video Technology Recordings in the Barcelona vs Real Sociedad Match",
-          "snippet": "",
-          "url": "https://www.ysscores.com/en/news/13893569/Revealing-the-Video-Technology-Recordings-in-the-Barcelona-vs-Real-Sociedad-Match",
-          "source": "YSscores.com"
-        },
-        {
-          "title": "'You can't talk to the referee, it's frustrating'",
-          "snippet": "",
-          "url": "https://www.besoccer.com/new/andquot-you-canand-39-t-talk-to-the-referee-itand-39-s-frustratingandquot-1390429",
-          "source": "BeSoccer Livescore"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "senegal vs",
       "trafficCount": "1000+",
       "pubDate": "Sun, 18 Jan 2026 13:00:00 -0800",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.chinadaily.com.cn/a/202601/19/WS696e39c1a310d6866eb3491d.html",
           "source": "China Daily"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "laliga",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 18 Jan 2026 12:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgr5hcHM0ehmaL2B83rb7i0bybk7tXeQ96FsaZp56pXmXHP3K5_Jz37siTVg4",
+      "pictureSource": "Sempre Barca",
+      "relatedSearch": [
+        {
+          "title": "Hansi Flick talks Dro, Ter Stegen, Bernal, Rashford, La Masia youngsters ahead of Real Sociedad vs Barcelona",
+          "snippet": "",
+          "url": "https://semprebarca.com/hansi-flick-talks-dro-ter-stegen-bernal-rashford-la-masia-youngsters-ahead-of-real-sociedad-vs-barcelona/",
+          "source": "Sempre Barca"
+        },
+        {
+          "title": "Revealing the Video Technology Recordings in the Barcelona vs Real Sociedad Match",
+          "snippet": "",
+          "url": "https://www.ysscores.com/en/news/13893569/Revealing-the-Video-Technology-Recordings-in-the-Barcelona-vs-Real-Sociedad-Match",
+          "source": "YSscores.com"
+        },
+        {
+          "title": "'You can't talk to the referee, it's frustrating'",
+          "snippet": "",
+          "url": "https://www.besoccer.com/new/andquot-you-canand-39-t-talk-to-the-referee-itand-39-s-frustratingandquot-1390429",
+          "source": "BeSoccer Livescore"
         }
       ],
       "link": "https://imtaqin.id/"
