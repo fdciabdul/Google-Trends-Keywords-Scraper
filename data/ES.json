@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-19 22:34:53",
+  "lastUpdate": "2026-01-19 22:45:25",
   "data": [
     {
       "title": "spurs - jazz",
@@ -87,11 +87,17 @@
     },
     {
       "title": "vox",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 19 Jan 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7kTh5KHxanWbYi3S8ik5LLAxqtyw5xGPMhM1HTW4f86uV4EuRNUFz7xn56eo",
-      "pictureSource": "EL PAÍS",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZcCYSKGfJ7qfyg-Tal72VgELKN0y_WboOxCdBSZAboLrZyUL3hD0lyW8avmc",
+      "pictureSource": "ABC",
       "relatedSearch": [
+        {
+          "title": "Vox rompe la negociación con el PP en Extremadura y deja en el aire el acuerdo con Guardiola",
+          "snippet": "",
+          "url": "https://www.abc.es/espana/oce-meses-segundo-mandato-acaban-adjetivos-20260119114204-nt.html",
+          "source": "ABC"
+        },
         {
           "title": "Vox suspende las negociaciones con el PP en Extremadura para investir a Guardiola",
           "snippet": "",
@@ -103,40 +109,6 @@
           "snippet": "",
           "url": "https://www.hoy.es/extremadura/irene-miguel-guardiola-incapaz-llegar-acuerdos-mejor-20260119141435-nt.html",
           "source": "Hoy"
-        },
-        {
-          "title": "El acuerdo de PP y Vox en Extremadura, en el aire a 24 horas de la constitución de la Asamblea",
-          "snippet": "",
-          "url": "https://www.lavanguardia.com/politica/20260119/11443414/acuerdo-pp-vox-extremadura-aire-24-horas-constitucion-asamblea.html",
-          "source": "La Vanguardia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "clasificación liga",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 19 Jan 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrxDobpSJ7_upS8Krn-Q9gyBtI1SYwxBliCk3aDZy2EXqpnUNFSVndGUInCSk",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Las polémicas de la jornada 20 de LaLiga EA Sports: todos los penaltis, expulsiones y jugadas controvertidas",
-          "snippet": "",
-          "url": "https://as.com/futbol/primera/las-polemicas-de-la-jornada-20-de-laliga-ea-sports-todos-los-penaltis-expulsiones-y-jugadas-controvertidas-f202601-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Objetos en las gradas, polémica arbitral y héroes inesperados: las notas que deja la jornada 20",
-          "snippet": "",
-          "url": "https://www.marca.com/radio/2026/01/19/objetos-gradas-polemica-arbitral-heroes-inesperados-notas-deja-jornada-20.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Así queda la clasificación de LaLiga tras la derrota del Barcelona en la jornada 20",
-          "snippet": "",
-          "url": "https://www.msn.com/es-es/deportes/futbol/as%C3%AD-queda-la-clasificaci%C3%B3n-de-laliga-tras-la-derrota-del-barcelona-en-la-jornada-20/ar-AA1UsCma",
-          "source": "MSN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,6 +142,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "clasificación liga",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 19 Jan 2026 14:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrxDobpSJ7_upS8Krn-Q9gyBtI1SYwxBliCk3aDZy2EXqpnUNFSVndGUInCSk",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "Las polémicas de la jornada 20 de LaLiga EA Sports: todos los penaltis, expulsiones y jugadas controvertidas",
+          "snippet": "",
+          "url": "https://as.com/futbol/primera/las-polemicas-de-la-jornada-20-de-laliga-ea-sports-todos-los-penaltis-expulsiones-y-jugadas-controvertidas-f202601-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Objetos en las gradas, polémica arbitral y héroes inesperados: las notas que deja la jornada 20",
+          "snippet": "",
+          "url": "https://www.marca.com/radio/2026/01/19/objetos-gradas-polemica-arbitral-heroes-inesperados-notas-deja-jornada-20.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "Así queda la clasificación de LaLiga tras la derrota del Barcelona en la jornada 20",
+          "snippet": "",
+          "url": "https://www.msn.com/es-es/deportes/futbol/as%C3%AD-queda-la-clasificaci%C3%B3n-de-laliga-tras-la-derrota-del-barcelona-en-la-jornada-20/ar-AA1UsCma",
+          "source": "MSN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bonoloto 19 de enero",
       "trafficCount": "100+",
       "pubDate": "Mon, 19 Jan 2026 13:50:00 -0800",
@@ -193,34 +193,6 @@
           "snippet": "",
           "url": "https://www.lasexta.com/loteria/bonoloto-comprueba-resultado-hoy-19-enero-2026-que-lleva-premio-4-millones-euros_20260119696e75ddeb223406e5a893ba.html",
           "source": "LaSexta"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "akor adams",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 19 Jan 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuq1t4Pv4W9gzeWsCIA6NcaYpTbU7R3mWFLTCGwXJjaNPGO3e8p1uCFyU03-A",
-      "pictureSource": "Daily Post Nigeria",
-      "relatedSearch": [
-        {
-          "title": "AFCON 2025: Akor Adams thanks CAF for taking care of sick mother",
-          "snippet": "",
-          "url": "https://dailypost.ng/2026/01/18/afcon-2025-akor-adams-thanks-caf-for-taking-care-of-sick-mother/",
-          "source": "Daily Post Nigeria"
-        },
-        {
-          "title": "Akor Adams Thanks CAF for Supporting His Sick Mother at AFCON",
-          "snippet": "",
-          "url": "https://ng.headtopics.com/news/akor-adams-thanks-caf-for-supporting-his-sick-mother-at-78539208",
-          "source": "Head Topics"
-        },
-        {
-          "title": "Morocco to pursue legal action over chaotic end to Africa Cup of Nations final",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jan/19/senegal-afcon-final-walk-off-morocco-sanctions",
-          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -265,6 +237,34 @@
           "snippet": "",
           "url": "https://www.sport.es/es/videos/laliga/20260119/elche-sevilla-gol-german-valera/125861069.shtml",
           "source": "SPORT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rockstar games explosion",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 19 Jan 2026 13:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo2qfq7vSGOEfBUaqx5_LsJ66l214N_IwlpgpyX70YFTDN7mWJKUGAE37kcLE",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Emergency services called after explosion at Rockstar North offices",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c0lx7x5d81lo",
+          "source": "BBC"
+        },
+        {
+          "title": "Edinburgh Rockstar North building taped off after 'boiler explosion'",
+          "snippet": "",
+          "url": "https://www.heraldscotland.com/news/25776012.gta6-dev-rockstar-north-building-taped-off-boiler-explosion/",
+          "source": "The Herald"
+        },
+        {
+          "title": "GTA 6 Developer Rockstar North 'Open and Operational' After Fire Crews Rush to Explosion",
+          "snippet": "",
+          "url": "https://www.ign.com/articles/fire-shuts-gta-6-developer-rockstar-north-following-report-of-explosion",
+          "source": "IGN"
         }
       ],
       "link": "https://imtaqin.id/"
