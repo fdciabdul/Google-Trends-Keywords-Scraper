@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-01-21 07:02:20",
+  "lastUpdate": "2026-01-21 07:16:39",
   "data": [
     {
       "title": "الطقس",
       "trafficCount": "5000+",
       "pubDate": "Tue, 20 Jan 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTvuj63CT7H45Md91rjFHbPERb4-F4Ibb0ugmRZXZSgrCyBik0DvLUVggtleA",
-      "pictureSource": "وكالة عمون الاخبارية",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfC-fB2PJLYhKI8yKtmBHh2kU2ZwraLhSBDgTQTRyJB_y8E_Q153NOYy3jGBg",
+      "pictureSource": "خبرني",
       "relatedSearch": [
-        {
-          "title": "الأرصاد: أجواء باردة وأمطار محتملة ليومين",
-          "snippet": "",
-          "url": "https://www.ammonnews.net/article/974656",
-          "source": "وكالة عمون الاخبارية"
-        },
         {
           "title": "حالة الطقس المتوقعة في الأردن خلال الأربعة أيام القادمة",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://royanews.tv/news/371521",
           "source": "رؤيا الإخباري"
+        },
+        {
+          "title": "الأرصاد: أجواء باردة وأمطار محتملة ليومين",
+          "snippet": "",
+          "url": "https://www.ammonnews.net/article/974656",
+          "source": "وكالة عمون الاخبارية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +61,54 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Tue, 20 Jan 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOd4jqkFapRmYtEXt3uLRjjABIO7a_WK_zZW_RlurvgNfq2HZh85jCOpGQJXI",
-      "pictureSource": "Times of India",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRY3BiDB3rOggeembGOkVcmfLBb2_H-3m1qF-DhluLVzYtflm7-L7uTq4DQ3VA",
+      "pictureSource": "FOX 5 New York",
       "relatedSearch": [
         {
-          "title": "Kolkata weather today: Sunny skies, air quality concerns remain",
+          "title": "Weather models predict scenarios for upcoming winter storm hitting NY",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-weather-today-sunny-skies-warm-afternoons-but-air-quality-concerns-remain/articleshow/126896783.cms",
-          "source": "Times of India"
+          "url": "https://www.fox5ny.com/weather/weather-model-winter-storm-snow-weekend-nyc",
+          "source": "FOX 5 New York"
         },
         {
-          "title": "Heat rises but air quality in Calcutta and Howrah plunges; divided by river, united by pollutants",
+          "title": "Winter Storm Warning for New York, Michigan—‘Hazardous Conditions’",
           "snippet": "",
-          "url": "https://www.telegraphindia.com/west-bengal/kolkata/heat-rises-but-air-quality-in-calcutta-and-howrah-plunges-divided-by-river-united-by-pollutants-prnt/cid/2143296",
-          "source": "Telegraph India"
+          "url": "https://www.newsweek.com/winter-storm-warning-new-york-michigan-hazardous-11384894",
+          "source": "Newsweek"
         },
         {
-          "title": "Toxic gases drove Kolkata AQI on 82 days in 2025: Study",
+          "title": "NY weather: Winter weather advisory in place for Fulton County until Thursday afternoon – up to 5 inches of snow",
           "snippet": "",
-          "url": "https://www.millenniumpost.in/bengal/toxic-gases-drove-kolkata-aqi-on-82-days-in-2025-study-644597",
-          "source": "MillenniumPost"
+          "url": "https://www.silive.com/weather-alerts/2026/01/ny-weather-winter-weather-advisory-in-place-for-fulton-county-until-thursday-afternoon-up-to-5-inche.html",
+          "source": "SILive.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "درجة الحرارة",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 20 Jan 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHasjJgNmzKLOYl2yDrb9LQlQTg-nzRsljVXflnfbCnl2HeIYVDFaWKnlkAQ",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "برد وسيول وثلوج: منخفض قطبي يشلّ شرق المتوسط ويعمّق أزمة غزة",
+          "snippet": "",
+          "url": "https://www.bbc.com/arabic/articles/c4g0d9mq2rgo",
+          "source": "BBC"
+        },
+        {
+          "title": "انحسار الرياح الباردة وارتفاع تدريجي في درجات الحرارة",
+          "snippet": "",
+          "url": "https://dailybeirut.com/%D9%84%D8%A8%D9%86%D8%A7%D9%86/%D8%A7%D9%86%D8%AD%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A/",
+          "source": "Daily Beirut"
+        },
+        {
+          "title": "ارتفاع طفيف بدرجات الحرارة وتحذيرات من الصقيع والجليد",
+          "snippet": "",
+          "url": "https://www.sawtbeirut.com/lebanon-news/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B7%D9%81%D9%8A%D9%81-%D8%A8%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85/",
+          "source": "صوت بيروت إنترناشونال"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://alghad.com/Section-140/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%85%D9%8A%D9%86%D8%AF%D9%8A%D8%B2-%D8%A3%D9%81%D8%B6%D9%84-%D8%B8%D9%87%D9%8A%D8%B1-%D8%A3%D9%8A%D8%B3%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2063576",
           "source": "جريدة الغد"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "جزيرة كامتشاتكا",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 20 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUnoTL1SgzvX1t51WO5MTRKf0eqvTLRoZ6IKtSGkK626MvaBR9zc6KOIMU0mI",
-      "pictureSource": "الجزيرة نت",
-      "relatedSearch": [
-        {
-          "title": "ثلوج روسيا.. مشاهد تفوقت على الذكاء الاصطناعي",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/news/2026/1/19/%D8%AB%D9%84%D9%88%D8%AC-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%85%D8%B4%D8%A7%D9%87%D8%AF-%D8%AA%D9%81%D9%88%D9%82%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "روسيا تحت الحصار الأبيض.. الثلوج تبتلع الطوابق الأربعة الأولى من المباني",
-          "snippet": "",
-          "url": "https://www.khaberni.com/news/773528-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%A8%D9%8A%D8%B6-%D8%A7%D9%84%D8%AB%D9%84%D9%88%D8%AC-%D8%AA%D8%A8%D8%AA%D9%84%D8%B9-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%A7%D8%B1%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A",
-          "source": "خبرني"
-        },
-        {
-          "title": "فيديو. “نهاية العالم الجليدية”: كامتشاتكا الروسية تخرج من عاصفة شتوية قياسية",
-          "snippet": "",
-          "url": "https://www.al-bayader.com/%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/44241/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF%D9%8A%D8%A9-%D9%83%D8%A7%D9%85%D8%AA%D8%B4%D8%A7%D8%AA%D9%83/",
-          "source": "البيادر السياسي"
         }
       ],
       "link": "https://imtaqin.id/"
