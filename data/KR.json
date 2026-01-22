@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-22 06:28:23",
+  "lastUpdate": "2026-01-22 06:48:29",
   "data": [
+    {
+      "title": "제미나이",
+      "trafficCount": "20000+",
+      "pubDate": "Wed, 21 Jan 2026 21:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPDwk9broCF2zVP4Fe9pX9OSrmg-9MRIbvFtTMdxOLXSmlOyedHjWRKkTQwg",
+      "pictureSource": "Daum",
+      "relatedSearch": [
+        {
+          "title": "[질문에 답하다] 애플은 AI를 얻고 구글은 데이터를 확보한다…테크 역사상 최대 시너지 나올 수도",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260122142244451",
+          "source": "Daum"
+        },
+        {
+          "title": "\"시리, AI 챗봇으로 전면 개편…애플 AI 전략 바뀐다\"",
+          "snippet": "",
+          "url": "https://zdnet.co.kr/view/?no=20260122082117",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "'챗GPT처럼'…\"애플, 음성비서 '시리', 챗봇으로 개편 예정\"",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260122021400091",
+          "source": "연합뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "우리은행",
       "trafficCount": "1000+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.g-enews.com/article/Finance/2026/01/202601220952314253bb91c46fcd_1",
           "source": "글로벌이코노믹"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "챗gpt",
-      "trafficCount": "20000+",
-      "pubDate": "Wed, 21 Jan 2026 21:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPDwk9broCF2zVP4Fe9pX9OSrmg-9MRIbvFtTMdxOLXSmlOyedHjWRKkTQwg",
-      "pictureSource": "Daum",
-      "relatedSearch": [
-        {
-          "title": "[질문에 답하다] 애플은 AI를 얻고 구글은 데이터를 확보한다…테크 역사상 최대 시너지 나올 수도",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260122142244451",
-          "source": "Daum"
-        },
-        {
-          "title": "\"시리, AI 챗봇으로 전면 개편…애플 AI 전략 바뀐다\"",
-          "snippet": "",
-          "url": "https://zdnet.co.kr/view/?no=20260122082117",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "'챗GPT처럼'…\"애플, 음성비서 '시리', 챗봇으로 개편 예정\"",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260122021400091",
-          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,10 +121,10 @@
           "source": "경향신문"
         },
         {
-          "title": "'미국 출국' 이정후, 서류 문제로 LA 공항에 1시간 가량 억류",
+          "title": "이정후, 미국 입국하다가 날벼락…LA 공항서 억류됐었다",
           "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260122_0003486433",
-          "source": "뉴시스"
+          "url": "https://www.hankyung.com/article/2026012263387",
+          "source": "한국경제"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,20 +133,20 @@
       "title": "하나은행",
       "trafficCount": "1000+",
       "pubDate": "Wed, 21 Jan 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5eG8qn1UI4VgqyKhgHeyCCHicrigxyaEIaH0qAAaXf3kMZ0O7YF0pm1g8a-E",
-      "pictureSource": "매일경제TV",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSuBQ2a3fHR4QFcJaIBsMcZjln_rH8mBwYovZivnjAjm3eWhWIIGST4vJjAGk",
+      "pictureSource": "뉴시스",
       "relatedSearch": [
-        {
-          "title": "하나은행, 외국인 전용 플랫폼 'Hana EZ' 기능 고도화",
-          "snippet": "",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005745345",
-          "source": "매일경제TV"
-        },
         {
           "title": "하나은행, 외국인 전용 플랫폼 '하나 EZ' 서비스 강화",
           "snippet": "",
           "url": "https://www.newsis.com/view/NISX20260121_0003485317",
           "source": "뉴시스"
+        },
+        {
+          "title": "하나은행, 외국인 고객 대상 디지털 금융서비스 전환",
+          "snippet": "",
+          "url": "https://www.viva100.com/article/20260121500296?site_preference=normal",
+          "source": "브릿지경제"
         },
         {
           "title": "하나은행, 외국인 전용 ‘Hana EZ’ 개편",
