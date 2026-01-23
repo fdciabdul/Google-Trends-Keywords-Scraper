@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-23 19:48:48",
+  "lastUpdate": "2026-01-23 19:55:45",
   "data": [
     {
       "title": "epa",
@@ -31,7 +31,7 @@
     },
     {
       "title": "chicago",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 23 Jan 2026 11:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC3HjXclTvCyrL2OXrGmHtViq1lJ0p8RwzhvaoTAB_Vz1kk6f7uiKEFyOuleI",
       "pictureSource": "MPR News",
@@ -117,20 +117,20 @@
       "title": "olycka e4",
       "trafficCount": "100+",
       "pubDate": "Fri, 23 Jan 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA05kQdeghRP5ihuuzlGCjL0-aYH8qwzGlyrV_dKbNXdyrv-aenjo0qfW-2P8",
-      "pictureSource": "Dagens Nyheter",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQe4qXD1JSjmJuQr0oTkTSqOY4Wj0bYc-KDus7j7mTJkek9ggBHumIiKFsV8",
+      "pictureSource": "Aftonbladet",
       "relatedSearch": [
-        {
-          "title": "DN Direkt – Starmer: Trumps ord motbjudande",
-          "snippet": "",
-          "url": "https://www.dn.se/direkt/2026-01-23/starmer-trumps-ord-motbjudande/",
-          "source": "Dagens Nyheter"
-        },
         {
           "title": "Regeringen vill införa statlig e-legitimation",
           "snippet": "",
           "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1439753",
           "source": "Aftonbladet"
+        },
+        {
+          "title": "DN Direkt – Starmer: Trumps ord motbjudande",
+          "snippet": "",
+          "url": "https://www.dn.se/direkt/2026-01-23/starmer-trumps-ord-motbjudande/",
+          "source": "Dagens Nyheter"
         },
         {
           "title": "Frankrike bordade fartyg i Medelhavet",
@@ -170,9 +170,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "per carlen",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 23 Jan 2026 11:10:00 -0800",
+      "title": "per carlén",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 23 Jan 2026 11:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbp1CzwY9zJQx8IeG_98SYxO6F3r8cbVSMP7Y5LrDn48Bg87JPqIvWJqtRxZw",
       "pictureSource": "Expressen",
       "relatedSearch": [
@@ -198,38 +198,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "per carlén",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 23 Jan 2026 11:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "wien",
       "trafficCount": "500+",
       "pubDate": "Fri, 23 Jan 2026 11:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToq1FDoZutq22mby-hIhpDPonMxBv9MexwPbt-5Ouxt-6eIdi4xswosGD4RO8",
-      "pictureSource": "Der Rechnungshof",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYv5lW9LlGrZNZgTQbISdU0uJYEf4d-XIBKWBX8kk4p23u29zpnbPlBuxVy0g",
+      "pictureSource": "Ariva",
       "relatedSearch": [
         {
-          "title": "Mängel beim Risikomanagementsystem der Stadt Wien",
+          "title": "ROUNDUP/Aktien Wien Schluss: Moderate Verluste - 23.01.26 - News",
           "snippet": "",
-          "url": "https://www.rechnungshof.gv.at/rh/home/news/Meldungen_2026/Maengel-beim-Risikomanagementsystem-der-Stadt-Wien.html",
-          "source": "Der Rechnungshof"
+          "url": "https://www.ariva.de/news/roundup-aktien-wien-schluss-moderate-verluste-11883878",
+          "source": "Ariva"
         },
         {
-          "title": "RH empfahl Stadt Wien Maßnahmen zur IT-Sicherheit",
+          "title": "ATX verliert leicht: IWF fordert stärkere Wachstumsanstrengungen",
           "snippet": "",
-          "url": "https://www.bvz.at/in-ausland/pruefbericht-rh-empfahl-stadt-wien-massnahmen-zur-it-sicherheit-506724259",
-          "source": "BVZ"
+          "url": "https://www.it-boltwise.de/atx-verliert-leicht-iwf-fordert-staerkere-wachstumsanstrengungen.html",
+          "source": "it boltwise"
         },
         {
-          "title": "IT-Sicherheit der Stadt auf dem Prüfstand",
+          "title": "Wiener Börse startet nach Rekordjubel mit gedämpfter Stimmung",
           "snippet": "",
-          "url": "https://wien.orf.at/stories/3338951/",
-          "source": "wien.ORF.at"
+          "url": "https://www.boerse-express.com/news/articles/wiener-boerse-startet-nach-rekordjubel-mit-gedaempfter-stimmung-859844",
+          "source": "Börse Express"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,10 +245,38 @@
           "source": "GP"
         },
         {
-          "title": "Dadgostar ratar Löwengrips drag om barnen röstar vänster",
+          "title": "JUST NU: Isabella Löwengrips ”straff” – om barnen röstar fel",
           "snippet": "",
-          "url": "https://www.tv4.se/artikel/4L8WRBvydA9zjWsx7KZZXk/isabella-loewengrip-stryper-barnens-manadspeng-om-de-roestar-vaenster",
-          "source": "TV4 Nyheterna"
+          "url": "https://marcusoscarsson.se/just-nu-isabella-lowengrips-straff-om-barnen-rostar-fel/",
+          "source": "Marcus Oscarsson"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rwe",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 23 Jan 2026 11:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfIJjwZXtZlJGwHlrwO-JmGSlX0OrdQQ-pKp25hoUy2k0q_AxDsdXJU-KM3ds",
+      "pictureSource": "energate messenger",
+      "relatedSearch": [
+        {
+          "title": "RWE verkauft schwedische Renewables-Sparte",
+          "snippet": "",
+          "url": "https://www.energate-messenger.de/news/259544/rwe-verkauft-schwedische-renewables-sparte",
+          "source": "energate messenger"
+        },
+        {
+          "title": "schwedischen-windaktivitaeten-von-rwe",
+          "snippet": "",
+          "url": "https://www.windkraft-journal.de/2026/01/23/verkauf-der-schwedischen-windenergieaktivitaeten-von-rwe/220729/schwedischen-windaktivitaeten-von-rwe",
+          "source": "Windkraft-Journal"
+        },
+        {
+          "title": "RWE verkauft schwedische Windenergie-Anlagen an Aneo",
+          "snippet": "",
+          "url": "https://ch.marketscreener.com/boerse-nachrichten/rwe-verkauft-schwedische-windenergie-anlagen-an-aneo-ce7e5bdadb8df324",
+          "source": "MarketScreener Schweiz"
         }
       ],
       "link": "https://imtaqin.id/"
