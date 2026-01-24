@@ -1,58 +1,86 @@
 {
-  "lastUpdate": "2026-01-24 06:27:05",
+  "lastUpdate": "2026-01-24 06:45:12",
   "data": [
+    {
+      "title": "الطقس",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 23 Jan 2026 22:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdHb8ZvOF0bjWqtPaDvUJCZ4bFso3dZJKnjvFAVvYqk24-FLqY-hMarOSpSVA",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "السبت: انخفاض في الحرارة.. أمطار مع تساقط البرد",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1496786/%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%B9-%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A7%D9%84%D8%A8%D8%B1%D8%AF",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "الطقس يوم السبت : سحب كثيفة وامطار على اغلب مناطق البلاد",
+          "snippet": "",
+          "url": "https://journalistesfaxien.tn/%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D8%B3%D8%AD%D8%A8-%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7/",
+          "source": "موقع الصحفيين التونسيين بصفاقس"
+        },
+        {
+          "title": "الرصد الجوي: تقلبات جوية ابتداء من بعد ظهر غد",
+          "snippet": "",
+          "url": "https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/138776-%D8%A7%D9%84%D8%B1%D8%B5%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D8%AA%D9%82%D9%84%D8%A8%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A1-%D9%85%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B8%D9%87%D8%B1-%D8%BA%D8%AF",
+          "source": "Assabah news"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "météo",
       "trafficCount": "10000+",
       "pubDate": "Fri, 23 Jan 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkOo9PUbu15l3k9xsUwyJRoO13gaPp6AoLKvIO_hu7sYPyZOl3v0NFFf5SayI",
-      "pictureSource": "Mosaique FM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYT98OU22pLzahvidTh3EYbAmAEfJU094_jRdgxKJElhP5pcdWwMs-DfSeqTI",
+      "pictureSource": "Meteo.bzh",
       "relatedSearch": [
         {
-          "title": "Météo: Baisse des températures , samedi",
+          "title": "La météo de votre samedi 24 janvier 2026",
           "snippet": "",
-          "url": "https://www.mosaiquefm.net/fr/national-tunisie/1496789/meteo-baisse-des-temperatures-samedi",
-          "source": "Mosaique FM"
+          "url": "https://www.meteo.bzh/actualite/la-meteo-de-votre-samedi-24-janvier-2026-2026-01-23",
+          "source": "Meteo.bzh"
         },
         {
-          "title": "Tunisie : Un week-end pluvieux et hivernal",
+          "title": "Météo. Quel temps fera-t-il à Quimper et ses environs le samedi 24 janvier 2026 ?",
           "snippet": "",
-          "url": "https://www.webdo.tn/fr/actualite/national/tunisie-un-week-end-pluvieux-et-hivernal/391936/",
-          "source": "webdo"
+          "url": "https://www.ouest-france.fr/meteo/bretagne/quimper-29000/la-meteo-du-jour-a-quimper-dc38f9dd-61b3-4df5-bc1f-c8a406d1d380",
+          "source": "Ouest-France"
         },
         {
-          "title": "Météo : pluies orageuses attendues dès samedi et forte baisse des températures dimanche",
+          "title": "Neige-verglas, orages, crues… nouvelle perturbation en France ce samedi : voici les départements en vigilance",
           "snippet": "",
-          "url": "https://directinfo.webmanagercenter.com/2026/01/23/meteo-pluies-orageuses-attendues-des-samedi-et-forte-baisse-des-temperatures-dimanche/",
-          "source": "webmanagercenter"
+          "url": "https://actu.fr/meteo/neige-verglas-orages-crues-nouvelle-perturbation-en-france-ce-samedi-voici-les-departements-en-vigilance_63740792.html",
+          "source": "Actu.fr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "weather",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 23 Jan 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSRGrmv9G1LdA9_19Z-QMpwcrnPem1CMV26uESCTNrV6HWhsl58HbIZ-ncFyU",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhr-hgBGIvfHW7-79jyqrUGV_OQdsTV9CFr3-4ynj1rCpT1nkE17kPWPdqyh0",
+      "pictureSource": "KJCT",
       "relatedSearch": [
         {
-          "title": "US braces for 'extremely dangerous' winter storm",
+          "title": "Winter weather poses additional risks for people with dementia",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c0r44l05q52o",
-          "source": "BBC"
+          "url": "https://www.kjct8.com/2026/01/24/winter-weather-poses-additional-risks-people-with-dementia/",
+          "source": "KJCT"
         },
         {
-          "title": "Meteorologists blame a stretched polar vortex, moisture, lack of sea ice for dangerous winter blast",
+          "title": "Alzheimer's Association releases safety tips ahead of winter storm",
           "snippet": "",
-          "url": "https://apnews.com/article/winter-storm-polar-vortex-snow-ice-freezing-06beb5eef46fba3fc81ac3213e5568e0",
-          "source": "AP News"
+          "url": "https://www.wgrz.com/article/news/local/alzheimers-association-shares-safety-tips-ahead-of-winter-storm/71-bf4c5faa-329f-4e31-9bf1-4f97e8a0e079",
+          "source": "WGRZ"
         },
         {
-          "title": "'I’ve been here a while and my brain stopped working': Americans struggle with sub-freezing wind chill as storm closes in",
+          "title": "Tips for caregivers: Protecting loved ones with dementia from cold-related dangers",
           "snippet": "",
-          "url": "https://fortune.com/2026/01/23/how-big-bad-will-the-winter-storm-be-cold-ice-snow/",
-          "source": "Fortune"
+          "url": "https://cbs2iowa.com/news/local/tips-for-caregivers-protecting-loved-ones-with-dementia-from-cold-related-dangers-bitter-weather-freezing-temperatures-forecast-iowa-wintertime-january",
+          "source": "KGAN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://fr.news.yahoo.com/sport/ligue-1-programme-complet-j19-115845367.html",
           "source": "Yahoo Actualités"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sonia mabrouk",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 23 Jan 2026 09:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwNpGXfmwW3fcXxSbUYUI_zXvlKW_-1vbSn7zxVsphqu2i8wlvfM6jKAyKITI",
-      "pictureSource": "Le Parisien",
-      "relatedSearch": [
-        {
-          "title": "« J’ai parlé au nom de beaucoup de personnes » : en direct sur CNews, Sonia Mabrouk prend ses distances avec Morandini",
-          "snippet": "",
-          "url": "https://www.leparisien.fr/culture-loisirs/tv/jai-parle-au-nom-de-beaucoup-de-personnes-en-direct-sur-cnews-sonia-mabrouk-prend-ses-distances-avec-morandini-20-01-2026-O2L7YTKBTJAILMX5EQKEYCROAA.php",
-          "source": "Le Parisien"
-        },
-        {
-          "title": "\"Si tu n'es pas content, tu t'en vas\": Pascal Praud commente les propos de Sonia Mabrouk sur Jean-Marc Morandini",
-          "snippet": "",
-          "url": "https://www.bfmtv.com/people/tv/si-tu-n-es-pas-content-tu-t-en-vas-pascal-praud-commente-les-propos-de-sonia-mabrouk-sur-jean-marc-morandini_AN-202601230651.html",
-          "source": "BFM"
-        },
-        {
-          "title": "Nelson Monfort, l’énorme polémique",
-          "snippet": "",
-          "url": "https://www.sports.fr/medias/nelson-monfort-lenorme-polemique-984513.html",
-          "source": "Sports.fr"
         }
       ],
       "link": "https://imtaqin.id/"
