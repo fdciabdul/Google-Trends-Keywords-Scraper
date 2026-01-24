@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-24 20:09:52",
+  "lastUpdate": "2026-01-24 20:22:16",
   "data": [
     {
       "title": "marseille–lens",
@@ -70,15 +70,9 @@
       "title": "lecce–lazio",
       "trafficCount": "200+",
       "pubDate": "Sat, 24 Jan 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu6q2IAFt-e1ssUp1_kao2DhNmqj89keTKjUfxI2rkO2yjMCLEEEwhS7WWEfQ",
-      "pictureSource": "OneFootball",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnAjLq0-dleV44-WqEBSXaZheS00H-ZPfYot8Xzzz9Xut6bxNqzFjNuyySJ20",
+      "pictureSource": "Corriere dello Sport",
       "relatedSearch": [
-        {
-          "title": "22° Serie A Live | Lecce-Lazio 0-0: si parte allo Stadio Via del Mare!",
-          "snippet": "",
-          "url": "https://onefootball.com/pt-br/noticias/22-serie-a-live-lecce-lazio-0-0-si-parte-allo-stadio-via-del-mare-42294940",
-          "source": "OneFootball"
-        },
         {
           "title": "Sarri, la secca replica al mercato di Lotito: \"Per me Romagnoli è...\"",
           "snippet": "",
@@ -90,6 +84,12 @@
           "snippet": "",
           "url": "https://www.lecceoggi.com/calcio-campionato-serie-a-22a-giornata-lecce-vs-lazio-formazioni-ufficiali-in-campo/",
           "source": "LecceOggi"
+        },
+        {
+          "title": "Serie A Enilive | Lecce-Lazio, le formazioni ufficiali",
+          "snippet": "",
+          "url": "https://www.sslazio.it/it/news/match-report/serie-a-enilive-or-lecce-lazio-le-formazioni-ufficiali-a",
+          "source": "S.S. Lazio"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -179,34 +179,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "miller zoltán",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 24 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEB_pMRyUIix3cqK_a_yZ1nAN9ZJWm45zjJqoEsETBXsC9y2gQf2hoh9SLdfM",
-      "pictureSource": "Blikk",
-      "relatedSearch": [
-        {
-          "title": "Szívszorító, ahogy Miller Zoltán elbúcsúzott a Magyarország, szeretlek! stábjától: \"Miután az utolsó adást leforgattuk...\"",
-          "snippet": "",
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/miller-zoltan-magyarirszag-szeretlek/4l719qx",
-          "source": "Blikk"
-        },
-        {
-          "title": "A magyar színész könnyes szemmel búcsúzott, miután kirúgták a sikerműsorból: a nézők is kiakadtak miatta",
-          "snippet": "",
-          "url": "https://femina.hu/hazai_sztar/miller-zoltan-magyarorszag-szeretlek-tavozas/",
-          "source": "Femina.hu"
-        },
-        {
-          "title": "Miller Zoltán a távozásáról: könnyesre sikeredett a búcsú",
-          "snippet": "",
-          "url": "https://www.hirstart.hu/hk/20260123_a_magyar_szinesz_konnyes_szemmel_bucsuzott_miutan_kirugtak_a_sikermusorbol_a_nezok_is_kiakadtak_miatta",
-          "source": "Hirstart"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "szoboszlai dominik",
       "trafficCount": "500+",
       "pubDate": "Sat, 24 Jan 2026 11:10:00 -0800",
@@ -230,6 +202,34 @@
           "snippet": "",
           "url": "https://mandiner.hu/sport/2026/01/bournemouth-liverpool-szoboszlai-kulon-cikk",
           "source": "Mandiner.hu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "miller zoltán",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 24 Jan 2026 11:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEB_pMRyUIix3cqK_a_yZ1nAN9ZJWm45zjJqoEsETBXsC9y2gQf2hoh9SLdfM",
+      "pictureSource": "Blikk",
+      "relatedSearch": [
+        {
+          "title": "Szívszorító, ahogy Miller Zoltán elbúcsúzott a Magyarország, szeretlek! stábjától: \"Miután az utolsó adást leforgattuk...\"",
+          "snippet": "",
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/miller-zoltan-magyarirszag-szeretlek/4l719qx",
+          "source": "Blikk"
+        },
+        {
+          "title": "A magyar színész könnyes szemmel búcsúzott, miután kirúgták a sikerműsorból: a nézők is kiakadtak miatta",
+          "snippet": "",
+          "url": "https://femina.hu/hazai_sztar/miller-zoltan-magyarorszag-szeretlek-tavozas/",
+          "source": "Femina.hu"
+        },
+        {
+          "title": "Miller Zoltán a távozásáról: könnyesre sikeredett a búcsú",
+          "snippet": "",
+          "url": "https://www.hirstart.hu/hk/20260123_a_magyar_szinesz_konnyes_szemmel_bucsuzott_miutan_kirugtak_a_sikermusorbol_a_nezok_is_kiakadtak_miatta",
+          "source": "Hirstart"
         }
       ],
       "link": "https://imtaqin.id/"
