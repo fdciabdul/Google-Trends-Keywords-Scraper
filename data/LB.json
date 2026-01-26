@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-01-26 11:54:22",
+  "lastUpdate": "2026-01-26 12:02:25",
   "data": [
-    {
-      "title": "silver price",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 26 Jan 2026 02:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKA1ygARQQGrgvC2kY2-MJ56mtQ7C0vmdaBeFRnCmNwyzAowveuniv8T2MSMw",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Speculative frenzy catapults silver above $100/oz",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/india/gold-silver-platinum-extend-recordsetting-rally-2026-01-23/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Silver’s Great Divorce of 2026: Why the $100 Breakout Is Just the Beginning",
-          "snippet": "",
-          "url": "https://ng.investing.com/analysis/silvers-great-divorce-of-2026-why-the-100-breakout-is-just-the-beginning-213444",
-          "source": "Investing.com Nigeria"
-        },
-        {
-          "title": "Is gold no longer the top winner in 'rate-cut trades'? Silver may emerge as the new favorite driven by dual engines.",
-          "snippet": "",
-          "url": "https://news.futunn.com/en/post/67900051/is-gold-no-longer-the-top-winner-in-rate-cut",
-          "source": "富途资讯"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "gold price",
       "trafficCount": "1000+",
@@ -43,16 +15,44 @@
           "source": "CNN"
         },
         {
+          "title": "Gold above $5,000, silver above $100: Precious metals in a new market phase",
+          "snippet": "",
+          "url": "https://goldinvest.de/en/gold-above-5000-silver-above-100-precious-metals-in-a-new-market-phase/",
+          "source": "GOLDINVEST.de"
+        },
+        {
           "title": "Markets Today: Gold Breaches $5100/oz, Yen Intervention Risks Grow, Dollar Slides. USD/JPY Test 100-Day MA",
           "snippet": "",
           "url": "https://www.marketpulse.com/markets/markets-today-gold-breaches-5100oz-yen-intervention-risks-grow-dollar-slides-usdjpy-test-100-day-ma/",
           "source": "MarketPulse"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "silver price today",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 25 Jan 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjaPfnEEiSSXDpQDDjf5dw4VsuEQ1gICYHMCvJi1PcLeH-BBszAKiCXs8PM0",
+      "pictureSource": "The Financial Express",
+      "relatedSearch": [
+        {
+          "title": "Why is silver 17% cheaper in India compared to China?",
+          "snippet": "",
+          "url": "https://www.financialexpress.com/market/gold-pulse/why-is-silver-17-cheaper-in-india-compared-to-china/4119656/",
+          "source": "The Financial Express"
         },
         {
-          "title": "Business - Gold surges to new highs as investors seek 'safe haven' amid global uncertainty",
+          "title": "Gold just hit a record $5,000. What’s driving the surge?",
           "snippet": "",
-          "url": "https://www.france24.com/en/tv-shows/business/20260126-gold-surges-to-new-highs-as-investors-seek-safe-haven-amid-global-uncertainty",
-          "source": "France 24"
+          "url": "https://edition.cnn.com/2026/01/25/business/gold-record-trump-global-concerns-intl-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "Gold above $5,000, silver above $100: Precious metals in a new market phase",
+          "snippet": "",
+          "url": "https://goldinvest.de/en/gold-above-5000-silver-above-100-precious-metals-in-a-new-market-phase/",
+          "source": "GOLDINVEST.de"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "Kooora"
         },
         {
-          "title": "عاجل.. إنزاجي يعيد المأساة القديمة هذه المرة مع البليهي ومصادر تكشف ما يحدث",
+          "title": "انزاغي: التعادل أبطأ تقدمنا وسنعود أقوى",
           "snippet": "",
-          "url": "https://dalylsaudi.com/news453846.html",
-          "source": "دليل السعودية"
+          "url": "https://www.elsport.com/news/show/809302/%D8%A7%D9%86%D8%B2%D8%A7%D8%BA%D9%8A-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A3%D8%A8%D8%B7%D8%A3-%D8%AA%D9%82%D8%AF%D9%85%D9%86%D8%A7-%D9%88%D8%B3%D9%86%D8%B9%D9%88%D8%AF-%D8%A3%D9%82%D9%88%D9%89",
+          "source": "Elsport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -213,7 +213,7 @@
         {
           "title": "African Players In Europe: Mbeumo Strikes As United Stun Arsenal",
           "snippet": "",
-          "url": "https://www.barrons.com/articles/african-players-in-europe-mbeumo-strikes-as-united-stun-arsenal-26346ec4?gaa_at=eafs&gaa_n=AWEtsqcXa-WsI2IaM7SKUQLcY8eoZJ5Rpd1USUqJhE_JrMP1nTUjpXhsYPyh&gaa_ts=6977591d&gaa_sig=smlAxTZsO0rBJJPwoROwUR_ZUrT9uLbZQoEPBtfii_YPPxlEfg34v5i7VXEc1csH-m45VJrMO3VU-H2PKkPanw%3D%3D",
+          "url": "https://www.barrons.com/articles/african-players-in-europe-mbeumo-strikes-as-united-stun-arsenal-26346ec4?gaa_at=eafs&gaa_n=AWEtsqf5XP-qBqKtLntKylihYizv-g3MxvB9fIqcXfd6-zWSV65ijteJxf1I&gaa_ts=69775a97&gaa_sig=QUTZvzhcrzhYZ1EmML0XNkHFDD-qMoFQqPKj6zWDvgCeqo8Mxpt46makS0BIALTawKZxSIbl-UC97yngnxyjRQ%3D%3D",
           "source": "Barron's"
         },
         {
