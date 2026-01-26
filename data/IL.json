@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-01-26 20:06:44",
+  "lastUpdate": "2026-01-26 20:19:00",
   "data": [
-    {
-      "title": "דור פרץ",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 26 Jan 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlLpW6Cmz4Yyx2RlcIGV3fKwg00e332CEvdj99zyxkldElD6_Aw9SHyGS6uA",
-      "pictureSource": "ספורט 5",
-      "relatedSearch": [
-        {
-          "title": "\"יודע מתי לכבוש\": ברשת חוגגים עם דור פרץ",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=532521",
-          "source": "ספורט 5"
-        },
-        {
-          "title": "אייל ברקוביץ': \"זה שחקן עם כושר גופני שלא ראיתי בחיים - כמו למפארד\"",
-          "snippet": "",
-          "url": "https://sport1.maariv.co.il/israeli-soccer/article/1755860/",
-          "source": "ספורט 1"
-        },
-        {
-          "title": "\"עראייס אבו חלווה\": הולכים הערב לדרבי? יש לנו המלצה בשבילכם",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/food/street-food-review/2026-01-26/ty-article-review/.highlight/0000019b-f6de-d831-a99f-fede37060000",
-          "source": "הארץ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "מעיין אדם",
       "trafficCount": "200+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.kipa.co.il/%D7%AA%D7%A8%D7%91%D7%95%D7%AA/%D7%98%D7%9C%D7%95%D7%95%D7%99%D7%96%D7%99%D7%94/1218607-0/",
           "source": "כיפה"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "דור פרץ",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 26 Jan 2026 11:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlLpW6Cmz4Yyx2RlcIGV3fKwg00e332CEvdj99zyxkldElD6_Aw9SHyGS6uA",
+      "pictureSource": "ספורט 5",
+      "relatedSearch": [
+        {
+          "title": "\"יודע מתי לכבוש\": ברשת חוגגים עם דור פרץ",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=532521",
+          "source": "ספורט 5"
+        },
+        {
+          "title": "אייל ברקוביץ': \"זה שחקן עם כושר גופני שלא ראיתי בחיים - כמו למפארד\"",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/israeli-soccer/article/1755860/",
+          "source": "ספורט 1"
+        },
+        {
+          "title": "\"עראייס אבו חלווה\": הולכים הערב לדרבי? יש לנו המלצה בשבילכם",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/food/street-food-review/2026-01-26/ty-article-review/.highlight/0000019b-f6de-d831-a99f-fede37060000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,15 +126,9 @@
       "title": "free tv",
       "trafficCount": "100+",
       "pubDate": "Mon, 26 Jan 2026 11:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKRTrWwYz7OLGLpImaxKd9-EFrTU376yTBsQ8VrqwfRsTNpOxrDrIrtxKWPg",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLlO69eacvopzSqwYo17uLQwaNvryAQf7t7moO3sMkod_GSv_tk5iJRyrYLcg",
+      "pictureSource": "NFL.com",
       "relatedSearch": [
-        {
-          "title": "Seahawks laud Sam Darnold after 3-TD performance in NFC title win",
-          "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/47731790/seahawks-laud-sam-darnold-3-td-performance-nfc-title-win",
-          "source": "ESPN"
-        },
         {
           "title": "Rams-Seahawks on Championship Sunday: What We Learned from Seattle's 31-27 win",
           "snippet": "",
@@ -142,10 +136,16 @@
           "source": "NFL.com"
         },
         {
-          "title": "NFC championship: Seahawks ride late fourth-down stop, career game from Sam Darnold past Rams into Super Bowl",
+          "title": "Seahawks laud Sam Darnold after 3-TD performance in NFC title win",
           "snippet": "",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/live/nfc-championship-seahawks-ride-late-fourth-down-stop-career-game-from-sam-darnold-past-rams-into-super-bowl-220009934.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.espn.com/nfl/story/_/id/47731790/seahawks-laud-sam-darnold-3-td-performance-nfc-title-win",
+          "source": "ESPN"
+        },
+        {
+          "title": "Stacy Rost: Sam Darnold meets the moment for Seahawks",
+          "snippet": "",
+          "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/stacy-rost-seattle-seahawks-sam-darnold-meets-moment/1837077",
+          "source": "Seattle Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,26 +154,26 @@
       "title": "al-nassr vs al-taawoun",
       "trafficCount": "100+",
       "pubDate": "Mon, 26 Jan 2026 10:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBq5kFUOFmn2X1zZB8SfXkipjG7qvJyb_nVvBTquWjDONvZ6HXx6WVmb-KMnk",
-      "pictureSource": "Sports Mole",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSckhnXTnfV9cTV9i9mq58x5aY8cOX4zLdqjdi16pJGP3aRukPu1RHazPuvsFc",
+      "pictureSource": "Reuters Connect",
       "relatedSearch": [
-        {
-          "title": "Preview: Al-Nassr vs Al-Taawoun - prediction, team news, lineups",
-          "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/al-nassr/preview/al-nassr-vs-al-taawoun-prediction-team-news-lineups_590574.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "Sadio Mane outshines Cristiano Ronaldo as Al-Nassr keep up pressure on Saudi Pro League leaders Al-Hilal with narrow win over Al-Taawoun",
-          "snippet": "",
-          "url": "https://www.goal.com/en-in/lists/sadio-mane-outshines-cristiano-ronaldo-al-nassr/blt7c84b3be1f20141b",
-          "source": "Goal.com"
-        },
         {
           "title": "Saudi Pro League - Al Nassr v Al Taawoun",
           "snippet": "",
           "url": "https://www.reutersconnect.com/item/saudi-pro-league-al-nassr-v-al-taawoun/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNMVExREEzTjQ",
           "source": "Reuters Connect"
+        },
+        {
+          "title": "Is Cristiano Ronaldo playing today? Predicted lineups for Al Nassr vs. Al-Taawon in the Saudi Pro League",
+          "snippet": "",
+          "url": "https://worldsoccertalk.com/news/is-cristiano-ronaldo-playing-today-predicted-lineups-for-al-nassr-vs-al-taawon-in-the-saudi-pro-league/",
+          "source": "World Soccer Talk"
+        },
+        {
+          "title": "Victory Ignites the Race for the Lead and Overcomes Al-Taawoun with an Own Goal",
+          "snippet": "",
+          "url": "https://www.ysscores.com/en/news/13898801/Victory-Ignites-the-Race-for-the-Lead-and-Overcomes-Al-Taawoun-with-an-Own-Goal",
+          "source": "YSscores.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,9 +210,15 @@
       "title": "النصر ضد التعاون",
       "trafficCount": "200+",
       "pubDate": "Mon, 26 Jan 2026 10:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS742TLNtxRAqD7LXLW2_1sWEwjVkcQUehrdCKygDV1u8JpTrv8yzeFKldsEgo",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbsMG9ikkei57-LeMeL7SjlwnWyMCCOExZjuKFYdBDkDCZJQpJPx1415e2gZs",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
+        {
+          "title": "ماني أول لاعب يحقق 10 انتصارات في مبارياته العشر الأولى",
+          "snippet": "",
+          "url": "https://onefootball.com/en/news/10-42307114",
+          "source": "OneFootball"
+        },
         {
           "title": "هدف عكسي يقود النصر للفوز على التعاون والاقتراب من الهلال المتصدر",
           "snippet": "",
@@ -224,12 +230,6 @@
           "snippet": "",
           "url": "https://www.goal.com/ar/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%B9%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D9%85%D8%A7%D8%AC%D8%AF-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%AC%D9%88%D8%B1%D8%AC-%D8%AC%D9%8A%D8%B3%D9%88%D8%B3-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AA%D8%B9%D8%A8-%D8%A7%D9%84%D9%85%D9%81%D8%B1%D8%AC/bltdf4f292609e1ab45",
           "source": "Goal.com"
-        },
-        {
-          "title": "بمشاركة رونالدو.. النصر يفوز على التعاون بهدف في الدوري السعودي",
-          "snippet": "",
-          "url": "https://www.cairo24.com/2360295",
-          "source": "القاهرة 24"
         }
       ],
       "link": "https://imtaqin.id/"
