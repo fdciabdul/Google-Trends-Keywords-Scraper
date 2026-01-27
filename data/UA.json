@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-01-27 05:02:59",
+  "lastUpdate": "2026-01-27 05:17:06",
   "data": [
+    {
+      "title": "новости одессы",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 26 Jan 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVfx86ugRQnDHau7t_U4IbSXIbmk-W1Ufj6ZWPjEqRV_CS3Y1FIJNNxc14bVE",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Армия РФ атаковала дронами Одессу: есть пострадавшие, повреждена инфраструктура и дома",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2026/01/27/8018025/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Одесса под обстрелом врага: есть пострадавшие и разрушения",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/odesa-pid-obstrilom-voroga-e-postrazhdali-1769477541.html",
+          "source": "РБК-Україна"
+        },
+        {
+          "title": "РФ атаковала Одессу: повреждены объект инфраструктуры и жилые дома, один человек пострадал",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/udar-po-odesse-27-yanvarya-povrezhdeny-infrastruktura-i-doma-est-postradavshie-novosti-odessy-50578722.html",
+          "source": "NV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "clawdbot",
       "trafficCount": "100+",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://bukvy.org/zelenskyj-vruchyv-nagorody-komandyram-ahillesa-i-raroga-ta-olegu-lyashku/",
           "source": "Букви"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новости харьков",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 26 Jan 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ94wpCnFi8239L_oxfU9IIZ0UI8rOvAw2hq5uoffj3ExFn84prcfJuOoOWvw0",
-      "pictureSource": "DW.com",
-      "relatedSearch": [
-        {
-          "title": "Удар по Харькову: 80% города и области остались без света",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/udar-po-harkovu-80-goroda-i-oblasti-ostalis-bez-elektricestva/a-75669464",
-          "source": "DW.com"
-        },
-        {
-          "title": "Российская армия атаковала Харьков: известно о пострадавшей",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/01/26/8017990/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Оккупанты массированно атаковали Харьков, повреждены многоэтажки и школа, есть пострадавшие",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/udar-po-harkovu-26-yanvarya-vrazheskiy-bpla-porazil-industrialnyy-rayon-goroda-zafiksirovana-raketnaya-ataka-50578686.html",
-          "source": "NV"
         }
       ],
       "link": "https://imtaqin.id/"
