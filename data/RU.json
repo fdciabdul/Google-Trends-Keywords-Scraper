@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-30 06:12:17",
+  "lastUpdate": "2026-01-30 06:30:43",
   "data": [
     {
       "title": "гру",
@@ -43,16 +43,16 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Трамп объявил в США чрезвычайное положение из-за Кубы и пригрозил пошлинами странам, поставляющим ей нефть",
-          "snippet": "",
-          "url": "https://meduza.io/news/2026/01/30/tramp-ob-yavil-v-ssha-chrezvychaynoe-polozhenie-iz-za-kuby-i-prigrozil-poshlinami-stranam-postavlyayuschim-ey-neft",
-          "source": "Meduza — Новости"
-        },
-        {
           "title": "Трамп пригрозил тарифами странам, поставляющим нефть на Кубу",
           "snippet": "",
           "url": "https://www.bbc.com/russian/articles/c4g4ykgy7gxo",
           "source": "BBC"
+        },
+        {
+          "title": "Трамп вводит чрезвычайное положение в США из-за якобы угроз от Кубы",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/tramp-vvodit-chrezvyichajnoe-polozhenie-v-ssha-iz-za-yakobyi-ugroz-ot-kubyi-69196675/",
+          "source": "Финансы Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +87,7 @@
     },
     {
       "title": "вера брежнева",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 29 Jan 2026 20:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpbkxaCXP8I51Ok8B2e_02Luh3ecfVdrpwxcqVWSuRNFfgVcCY2XCyALGnRW4",
       "pictureSource": "Национальная Служба Новостей - НСН",
@@ -114,23 +114,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода кострома",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 29 Jan 2026 20:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh56Fc2fF09xAj3-64Q2zqhLhohiqX7o5Oj_Ih5ZBQ7fX5Y8wFZX8KMtJGG4c",
+      "pictureSource": "K1NEWS",
+      "relatedSearch": [
+        {
+          "title": "Прогноз погоды: январь завершится в Костроме морозами",
+          "snippet": "",
+          "url": "https://k1news.ru/news/8459-11862/prognoz-pogody-yanvar-zavershitsya-v-kostrome-morozami/",
+          "source": "K1NEWS"
+        },
+        {
+          "title": "Прогноз погоды на неделю: морозы с переменным успехом будут подступаться к Костроме",
+          "snippet": "",
+          "url": "https://logos44.ru/prognoz-pogody-na-nedelyu-morozy-s-peremennym-uspehom-budut-podstupatsya-k-kostrome.html",
+          "source": "Logos44"
+        },
+        {
+          "title": "Прогноз погоды: январь завершится в Костроме морозами",
+          "snippet": "",
+          "url": "https://prospect.com.ru/news/6464536/prognoz-pogody-yanvar-zavershitsya-v-kostrome-morozami.html",
+          "source": "https://prospect.com.ru/"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "карлос алькарас",
       "trafficCount": "2000+",
       "pubDate": "Thu, 29 Jan 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvbGIUzcRNzQccm6diBGt33WjsQMM6zK9nPnns0k4-JFzhfeCygLz-w-UgL9o",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1m7HS1LlxZ4qMkaJ2qNH7EXMQ9fQak9Tv1g4pih5e_dnveDMhhA3bsL8zWCQ",
+      "pictureSource": "Betonmobile.ru",
       "relatedSearch": [
-        {
-          "title": "Клиент PARI поставил 1 500 000 рублей на Алькараса в матче со Зверевым на AO-2026",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/sport/rb/news/alcaraz-zverev-2026",
-          "source": "Ведомости"
-        },
         {
           "title": "Россиянин поставил 1,5 млн рублей на Алькараса в матче со Зверевым на Australian Open-2026",
           "snippet": "",
           "url": "https://betonmobile.ru/rossiyanin-postavil-1-5-mln-rubley-na-alkarasa-v-matche-so-zverevyim-na-australian-open-2026",
           "source": "Betonmobile.ru"
+        },
+        {
+          "title": "Клиент PARI поставил 1 500 000 рублей на Алькараса в матче со Зверевым на AO-2026",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/sport/rb/news/alcaraz-zverev-2026",
+          "source": "Ведомости"
         },
         {
           "title": "Карлос Алькарас — Александр Зверев: текстовая онлайн-трансляция полуфинала Australian Open",
@@ -155,16 +183,16 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "«Я это уважаю». Соболенко — об отказе Свитолиной пожимать ей руку после полуфинала AO-2026",
-          "snippet": "",
-          "url": "https://www.championat.ru/tennis/news-6336690-ya-eto-uvazhayu-sobolenko-ob-otkaze-svitolinoj-pozhimat-ej-ruku-posle-polufinala-ao-2026.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
           "title": "Соболенко возмутило решение судьи забрать очко в полуфинале Australian Open за выкрик",
           "snippet": "",
           "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/spbnews_NI2290424_Sobolenko_vozmutilo_reshenije_sudi_zabrat_ochko_v_polufinale_Australian_Open_za_vykrik",
           "source": "Sportbox"
+        },
+        {
+          "title": "Australian Open: Звонарева проиграла в паре, Соболенко и Рыбакина сыграют в финале",
+          "snippet": "",
+          "url": "https://www.forbes.ru/sport/554433-australian-open-zvonareva-proigrala-v-pare-sobolenko-i-rybakina-sygraut-v-finale",
+          "source": "Forbes.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +257,15 @@
       "title": "прогноз магнитных бурь",
       "trafficCount": "200+",
       "pubDate": "Thu, 29 Jan 2026 15:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv58Ov20lbI5Cjp5Tjbq3Pzi6xu5uSG-E9aDdc8cmbHTPHHWfPCMAo5Zhv6io",
-      "pictureSource": "Life.ru",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXglDMB-t0Hi5WZPDargfihUH2ZVIb2m7yyPH_sOXfryPHKALcBPoCq9igvpc",
+      "pictureSource": "URA.RU",
       "relatedSearch": [
+        {
+          "title": "Последний январский шторм: насколько сильной окажется магнитная буря 31 января",
+          "snippet": "",
+          "url": "https://ura.news/news/1053064367",
+          "source": "URA.RU"
+        },
         {
           "title": "Магнитные бури 29, 30 и 31 января: Сколько ещё продлится перемирие перед новой атакой Солнца?",
           "snippet": "",
@@ -243,40 +277,6 @@
           "snippet": "",
           "url": "https://atas.info/news/2026-01-28/magnitnye-buri-nakroyut-zemlyu-s-28-po-30-yanvarya-kosmicheskiy-shtorm-blizko-5542201",
           "source": "Atas.info"
-        },
-        {
-          "title": "Поток солнечного ветра из корональной дыры дошел до Земли",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/society/news/2026/01/28/1172402-potok-solnechnogo-vetra",
-          "source": "Ведомости"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "30 января праздник",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 29 Jan 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspSaVaAlCaKjeSt1AC5XrkrNL6nxZBSMKFvmN7gpC-ZKslCR50shX09nt970",
-      "pictureSource": "Mail.ru",
-      "relatedSearch": [
-        {
-          "title": "Испеките колобок в Антонов день: приметы на 30 января 2026",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/69575896/",
-          "source": "Mail.ru"
-        },
-        {
-          "title": "Почему традиции 30 января часто игнорируют — и чем это может обернуться для семьи",
-          "snippet": "",
-          "url": "https://peterburg2.ru/news/30-yanvarya-chto-nelzya-delat-na-antona-perezimnika-i-kak-privlech-udachu-221168.html",
-          "source": "Peterburg2.ru"
-        },
-        {
-          "title": "Не дели хлеб на половины и получше закрывай дверь: приметы на 30 января",
-          "snippet": "",
-          "url": "https://klops.ru/zodiac/2026-01-29/376965-ne-deli-hleb-na-poloviny-i-poluchshe-zakryvay-dver-primety-na-30-yanvarya",
-          "source": "Клопс - новости Калининград"
         }
       ],
       "link": "https://imtaqin.id/"
