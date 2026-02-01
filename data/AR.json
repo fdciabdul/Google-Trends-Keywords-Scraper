@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-02-01 23:00:37",
+  "lastUpdate": "2026-02-01 23:11:57",
   "data": [
     {
+      "title": "boca",
+      "trafficCount": "100000+",
+      "pubDate": "Sun, 1 Feb 2026 14:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZgtrVU--AhooenVw2Ddb81hPEfvPjmgt3qE_hR7o7Kan8QWyfz7sUwpet8wo",
+      "pictureSource": "Infobae",
+      "relatedSearch": [
+        {
+          "title": "Boca Juniors empata contra Newell’s por el Torneo Apertura con el debut de Santiago Ascacíbar",
+          "snippet": "",
+          "url": "https://www.infobae.com/deportes/2026/02/01/boca-juniors-buscara-volver-al-triunfo-en-el-torneo-apertura-frente-a-newells-hora-tv-y-formaciones/",
+          "source": "Infobae"
+        },
+        {
+          "title": "¡Debut titular para Ascacibar en La Bombonera!",
+          "snippet": "",
+          "url": "https://www.ole.com.ar/boca-juniors/debut-titular-ascacibar-bombonera_3_WXKcGxVJo0.html",
+          "source": "Olé"
+        },
+        {
+          "title": "📰 En busca del rendimiento que se espera",
+          "snippet": "",
+          "url": "https://www.pagina12.com.ar/2026/01/31/en-busca-del-rendimiento-que-se-espera-2/",
+          "source": "Página|12"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "botafogo rp - palmeiras",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 1 Feb 2026 14:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsFNk-HqFsurjsnP71gCFfeJiaWol85gIumHlU15Z0zB1Mn4-NyuVlP4OF5gU",
       "pictureSource": "Bolavip",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras-visita-botafogo-sp-pelo-campeonato-paulista-e-deve-alternar-time/",
           "source": "CNN Brasil"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "general paz juniors",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 1 Feb 2026 14:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNbEbfGj3whivEg7gq9KvJnKk5AEd0jxj-WQh0h-5VDS57T4Q_XX-p9RRO_q0",
-      "pictureSource": "Canal Showsport",
-      "relatedSearch": [
-        {
-          "title": "En juego: General Paz Juniors empata 1-1 ante Central Argentino en la ida febrero 2026",
-          "snippet": "",
-          "url": "https://canalshowsport.com.ar/general-paz-juniors-enfrenta-a-central-argentino-en-la-ida-de-una-final-historica/",
-          "source": "Canal Showsport"
-        },
-        {
-          "title": "🔴 EN JUEGO | Juniors pierde 0-1 con Central Argentino de local por la final de la Región Centro",
-          "snippet": "",
-          "url": "https://www.lavoz.com.ar/deportes/futbol/juniors-en-la-antesala-del-historico-partido-con-central-argentino-entradas-arbitros-y-detalles/",
-          "source": "La Voz del Interior"
-        },
-        {
-          "title": "El \"Albo\" quiere pegar primero en Córdoba",
-          "snippet": "",
-          "url": "https://www.elliberal.com.ar/nota/70793/2026/02/el-albo-quiere-pegar-primero-en-cordoba",
-          "source": "El Liberal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.cronista.com/negocios/el-precio-del-poder-asi-quedaron-valuados-los-planteles-argentinos-en-este-mercado-de-pases/",
           "source": "El Cronista"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "general paz juniors",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Feb 2026 14:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNbEbfGj3whivEg7gq9KvJnKk5AEd0jxj-WQh0h-5VDS57T4Q_XX-p9RRO_q0",
+      "pictureSource": "Canal Showsport",
+      "relatedSearch": [
+        {
+          "title": "En juego: General Paz Juniors empata 1-1 ante Central Argentino en la ida febrero 2026",
+          "snippet": "",
+          "url": "https://canalshowsport.com.ar/general-paz-juniors-enfrenta-a-central-argentino-en-la-ida-de-una-final-historica/",
+          "source": "Canal Showsport"
+        },
+        {
+          "title": "🔴 EN JUEGO | Juniors pierde 0-1 con Central Argentino de local por la final de la Región Centro",
+          "snippet": "",
+          "url": "https://www.lavoz.com.ar/deportes/futbol/juniors-en-la-antesala-del-historico-partido-con-central-argentino-entradas-arbitros-y-detalles/",
+          "source": "La Voz del Interior"
+        },
+        {
+          "title": "El \"Albo\" quiere pegar primero en Córdoba",
+          "snippet": "",
+          "url": "https://www.elliberal.com.ar/nota/70793/2026/02/el-albo-quiere-pegar-primero-en-cordoba",
+          "source": "El Liberal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,34 +165,6 @@
           "snippet": "",
           "url": "https://www.elterritorio.com.ar/noticias/2026/02/01/874112-por-un-paso-mas-hacia-la-gran-ilusion",
           "source": "El Territorio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "boca hoy",
-      "trafficCount": "50000+",
-      "pubDate": "Sun, 1 Feb 2026 14:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZgtrVU--AhooenVw2Ddb81hPEfvPjmgt3qE_hR7o7Kan8QWyfz7sUwpet8wo",
-      "pictureSource": "Infobae",
-      "relatedSearch": [
-        {
-          "title": "Boca Juniors empata contra Newell’s por el Torneo Apertura con el debut de Santiago Ascacíbar",
-          "snippet": "",
-          "url": "https://www.infobae.com/deportes/2026/02/01/boca-juniors-buscara-volver-al-triunfo-en-el-torneo-apertura-frente-a-newells-hora-tv-y-formaciones/",
-          "source": "Infobae"
-        },
-        {
-          "title": "¡Debut titular para Ascacibar en La Bombonera!",
-          "snippet": "",
-          "url": "https://www.ole.com.ar/boca-juniors/debut-titular-ascacibar-bombonera_3_WXKcGxVJo0.html",
-          "source": "Olé"
-        },
-        {
-          "title": "📰 En busca del rendimiento que se espera",
-          "snippet": "",
-          "url": "https://www.pagina12.com.ar/2026/01/31/en-busca-del-rendimiento-que-se-espera-2/",
-          "source": "Página|12"
         }
       ],
       "link": "https://imtaqin.id/"
