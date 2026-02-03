@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-02-03 08:04:12",
+  "lastUpdate": "2026-02-03 08:19:57",
   "data": [
     {
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Feb 2026 23:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnsyHm_BmCLdnbG-NlKYNzCdZ5qeUArRMjqqBainkjFyUicJ9gpb_O2IUjJmo",
-      "pictureSource": "Dublin Live",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8tai74LaN9KnVa2lthZFDtfx_qdJc7ikMfYaaclzVDwt0U6s66_5c5pgUXZ8",
+      "pictureSource": "Irish Examiner",
       "relatedSearch": [
-        {
-          "title": "Dublin weather: Car parks to close as more flooding and wave overtopping could hit capital",
-          "snippet": "",
-          "url": "https://www.dublinlive.ie/news/dublin-weather-car-parks-close-33349206",
-          "source": "Dublin Live"
-        },
         {
           "title": "'You’re a Cork man, aren’t you? You’re forever getting flooded': Taoiseach called on to do more",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.irishtimes.com/politics/2026/02/03/after-the-floods-micheal-martin-makes-a-raft-of-promises/",
           "source": "The Irish Times"
+        },
+        {
+          "title": "Live Ground saturated, rain has nowhere to go, says Met Éireann",
+          "snippet": "",
+          "url": "https://www.rte.ie/news/ireland/2026/0203/1556455-ireland-weather-rain/",
+          "source": "RTE.ie"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +61,15 @@
       "title": "casa pia – porto",
       "trafficCount": "1000+",
       "pubDate": "Mon, 2 Feb 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2qrx03Fgz6DqIp-uPIztzG86paSWsZ5_Qv-ggKhvcbJgJ_oXlFG1q8KpwT0",
-      "pictureSource": "Notícias ao Minuto",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVUsgVoezY-yiSYOSuRn4StS2YSE6e4D7qARuzCUsxI19g_NrXhnzVXe6OubM",
+      "pictureSource": "O Jogo",
       "relatedSearch": [
+        {
+          "title": "No futebol não há mesmo impossíveis",
+          "snippet": "",
+          "url": "https://www.ojogo.pt/opiniao/artigo/no-futebol-nao-ha-mesmo-impossiveis/18047735",
+          "source": "O Jogo"
+        },
         {
           "title": "I Liga relançada. O caminho de FC Porto, Sporting e Benfica para o título",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://sapo.pt/artigo/vista-de-cima-6981588e343ccb6fa36284b9",
           "source": "SAPO"
-        },
-        {
-          "title": "Álvaro Pacheco responde ao Bola na Rede: «Percebemos as soluções que podíamos ter para anular o que o Samu provoca à linha defensiva»",
-          "snippet": "",
-          "url": "https://bolanarede.pt/especial-bola-na-rede/atualidade/alvaro-pacheco-responde-ao-bola-na-rede-percebemos-as-solucoes-que-podiamos-ter-para-anular-o-que-o-samu-provoca-a-linha-defensiva/",
-          "source": "Bola na Rede"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +99,10 @@
           "source": "Record"
         },
         {
-          "title": "Derrota nos descontos",
+          "title": "O que aconteceu aqui? Rui Silva fez o que não devia e Nacional fez o golo",
           "snippet": "",
-          "url": "https://www.jm-madeira.pt/desporto/derrota-nos-descontos-DK19576713",
-          "source": "www.jm-madeira.pt"
+          "url": "https://www.msn.com/pt-pt/noticias/ultimas/o-que-aconteceu-aqui-rui-silva-fez-o-que-n%C3%A3o-devia-e-nacional-fez-o-golo/ar-AA1VrAyi",
+          "source": "MSN"
         },
         {
           "title": "Tiago Margarido responde ao Bola na Rede: «Os jogadores estão de parabéns pelo trabalho que fizeram»",
@@ -129,8 +129,8 @@
         {
           "title": "Regis Le Bris hails ‘new start’ for summer signing Habib Diarra",
           "snippet": "",
-          "url": "https://plzsoccer.com/england/regis-le-bris-hails-new-start-for-summer-signing-habib-diarra/",
-          "source": "PLZ Soccer"
+          "url": "https://uk.sports.yahoo.com/news/regis-le-bris-hails-start-232733325.html",
+          "source": "Yahoo Sports UK"
         },
         {
           "title": "Sunderland make home a fortress as possible place in Europe beckons",
@@ -239,16 +239,16 @@
           "source": "Fotomaç"
         },
         {
+          "title": "Fenerbahçe'nin yıldızına övgü yağdırdı: 'Takımın sadece beyni değil; kalbi, omuriliği, her şeyi!'",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-yildizina-ovgu-yagdirdi-takimin-sadece-beyni-degil-kalbi-omuriligi-her-seyi-43098890",
+          "source": "Hürriyet"
+        },
+        {
           "title": "Rıdvan Dilmen Fenerbahçe için bombayı patlattı!",
           "snippet": "",
           "url": "https://www.babaocagi.com.tr/ridvan-dilmen-fenerbahce-icin-bombayi-patlatti",
           "source": "Baba Ocağı"
-        },
-        {
-          "title": "Fenerbahçe, zirve yarışını sürdürüyor",
-          "snippet": "",
-          "url": "https://gazete3.com.tr/fenerbahce-zirve-yarisini-surduruyor/",
-          "source": "Gazete3"
         }
       ],
       "link": "https://imtaqin.id/"
