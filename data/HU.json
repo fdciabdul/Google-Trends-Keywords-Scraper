@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-02-03 12:21:43",
+  "lastUpdate": "2026-02-03 12:41:29",
   "data": [
-    {
-      "title": "útinform",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 3 Feb 2026 03:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCxKQwSODSTU1u2wlY-jiq62Up50RMRtDLg3A5trL_2x6O9KO6615W-8Rx2Gc",
-      "pictureSource": "Agrárszektor",
-      "relatedSearch": [
-        {
-          "title": "Az igazi havazás még csak most jön: mutatjuk, hol, hány centi hó eshet",
-          "snippet": "",
-          "url": "https://www.agrarszektor.hu/noveny/20260202/az-igazi-havazas-meg-csak-most-jon-mutatjuk-hol-hany-centi-ho-eshet-60244",
-          "source": "Agrárszektor"
-        },
-        {
-          "title": "Riasztás: megbénulhat a közlekedés a következő órákban",
-          "snippet": "",
-          "url": "https://www.agroinform.hu/idojaras_hirek/riasztas-megbenulhat-a-kozlekedes-a-kovetkezo-orakban-90135-001",
-          "source": "Agroinform"
-        },
-        {
-          "title": "Ónos eső: erre a 10 megyére adtak ki figyelmeztetést",
-          "snippet": "",
-          "url": "https://www.hazipatika.com/eletmod/orvosmeteorologia/cikkek/idojaras-orvosmeteorologia-20260203",
-          "source": "Házipatika"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "időjárás budapest",
       "trafficCount": "500+",
@@ -142,29 +114,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "utinform",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 2 Feb 2026 23:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCxKQwSODSTU1u2wlY-jiq62Up50RMRtDLg3A5trL_2x6O9KO6615W-8Rx2Gc",
+      "pictureSource": "Agrárszektor",
+      "relatedSearch": [
+        {
+          "title": "Az igazi havazás még csak most jön: mutatjuk, hol, hány centi hó eshet",
+          "snippet": "",
+          "url": "https://www.agrarszektor.hu/noveny/20260202/az-igazi-havazas-meg-csak-most-jon-mutatjuk-hol-hany-centi-ho-eshet-60244",
+          "source": "Agrárszektor"
+        },
+        {
+          "title": "Riasztás: megbénulhat a közlekedés a következő órákban",
+          "snippet": "",
+          "url": "https://www.agroinform.hu/idojaras_hirek/riasztas-megbenulhat-a-kozlekedes-a-kovetkezo-orakban-90135-001",
+          "source": "Agroinform"
+        },
+        {
+          "title": "Itthon: Havazás és ónos eső jön, kiadták a veszélyjelzést",
+          "snippet": "",
+          "url": "https://hvg.hu/itthon/20260203_tizcentis-ho-kedd-onos-eso",
+          "source": "| hvg.hu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbbxa2GiGM5TcNEDLcUIxP1sDKBqvc3ah_kTr6xPeyBKVzcFTQJON3apAw5Oc",
-      "pictureSource": "OrilliaMatters.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-6hzn-pKP98KlY791HaSvdRSZdBuKV8GYZRRnPPZ0_sJwHxbsTVRbT-D4Ek",
+      "pictureSource": "NJ.com",
       "relatedSearch": [
         {
-          "title": "Good morning, Orillia! Here's today's weather!",
+          "title": "N.J. weather: Snow squalls in Friday’s forecast with more sub-zero wind chills this weekend",
           "snippet": "",
-          "url": "https://www.orilliamatters.com/good-morning-orillia/good-morning-orillia-heres-todays-weather-11822774",
-          "source": "OrilliaMatters.com"
+          "url": "https://www.nj.com/weather/2026/02/nj-weather-snow-squalls-in-fridays-forecast-with-more-sub-zero-wind-chills-this-weekend.html",
+          "source": "NJ.com"
         },
         {
-          "title": "Good morning, Midland! Here's today's weather!",
+          "title": "A Chilly Start to Tuesday in Newark With Modest Improvement",
           "snippet": "",
-          "url": "https://www.midlandtoday.ca/good-morning/good-morning-midland-heres-todays-weather-11797764",
-          "source": "MidlandToday.ca"
+          "url": "https://www.rlsmedia.com/article/chilly-start-tuesday-newark-modest-improvement",
+          "source": "RLS Media"
         },
         {
-          "title": "Good morning, Barrie! Here's today's weather!",
+          "title": "Freezing temperatures hang around New Jersey, more cold this week",
           "snippet": "",
-          "url": "https://www.barrietoday.com/good-morning/good-morning-barrie-heres-todays-weather-11824046",
-          "source": "BarrieToday.com"
+          "url": "https://www.app.com/story/weather/2026/02/02/new-jersey-weather-this-week-freezing-temperatures-new-jersey/88477457007/",
+          "source": "Asbury Park Press"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +229,15 @@
       "title": "casa pia–porto",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Feb 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJXWijS6J5r19W79b33aC1lL0QQSGFbgb3w2KKsbCTIRbVRr64U7I435VL1n8",
-      "pictureSource": "RTP",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs334adYs5fyq5P7JnHDf81jfs0tLr6rlTQf8kF1Qaya_cNRdkQ-kLd-EyES8",
+      "pictureSource": "OneFootball",
       "relatedSearch": [
+        {
+          "title": "Pablo Rosario: “Criámos mesmo muitas oportunidades, mas este relvado não é para uma Primeira Liga”",
+          "snippet": "",
+          "url": "https://onefootball.com/en/news/pablo-rosario-criamos-mesmo-muitas-oportunidades-mas-este-relvado-nao-e-para-uma-primeira-liga-42350574",
+          "source": "OneFootball"
+        },
         {
           "title": "Campeonato relançado antes do clássico entre FC Porto e Sporting",
           "snippet": "",
@@ -243,12 +249,6 @@
           "snippet": "",
           "url": "https://sapo.pt/artigo/vista-de-cima-6981588e343ccb6fa36284b9",
           "source": "SAPO"
-        },
-        {
-          "title": "AO VIVO: Mais uma defesa de Patrick Sequeira a negar o empate (75')",
-          "snippet": "",
-          "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ao-vivo-mais-uma-defesa-de-patrick-sequeira-a-negar-o-empate-75/f5M52g7t/",
-          "source": "Flashscore.pt"
         }
       ],
       "link": "https://imtaqin.id/"
