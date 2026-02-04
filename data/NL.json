@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-02-04 21:49:28",
+  "lastUpdate": "2026-02-04 21:58:32",
   "data": [
     {
-      "title": "claude ai",
-      "trafficCount": "500+",
+      "title": "griep epidemie",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 4 Feb 2026 13:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-QAbrxeKkHAc955tZBFBZAEO43nDkjiy8aBgcv8E6VF5mf54yFU6HyHjR5Lc",
+      "pictureSource": "Nieuwsblad",
+      "relatedSearch": [
+        {
+          "title": "Niet alleen griep, ook werklozen die uitkering dreigen te verliezen zorgen voor volle huisartspraktijken",
+          "snippet": "",
+          "url": "https://www.nieuwsblad.be/binnenland/niet-alleen-griep-ook-werklozen-die-uitkering-dreigen-te-verliezen-zorgen-voor-volle-huisartspraktijken/127709006.html",
+          "source": "Nieuwsblad"
+        },
+        {
+          "title": "Griepepidemie neemt nog toe, code oranje blijft van kracht",
+          "snippet": "",
+          "url": "https://www.vrt.be/vrtnws/nl/2026/01/28/griep-stand-van-zaken-code-oranje/",
+          "source": "VRT"
+        },
+        {
+          "title": "Spoeddiensten ervaren drukte door toename van virale infecties: \"Influenza, covid en RSV\"",
+          "snippet": "",
+          "url": "https://www.robtv.be/nieuws/spoeddiensten-ervaren-drukte-door-toename-van-virale-infecties-influenza-covid-en-rsv-207862",
+          "source": "ROBtv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "claude",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 4 Feb 2026 13:30:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsqi0faDy41QuFny41xm4T-I_TdqLeMK94NkWUNG3sIWcRxZ_ZBDucV_nQgB0",
       "pictureSource": "Anthropic",
@@ -21,38 +49,10 @@
           "source": "ABC News"
         },
         {
-          "title": "Anthropic says no to ads on Claude chatbot, weeks after OpenAI made move to test them",
+          "title": "Exclusive | Anthropic Takes Aim at OpenAI’s ChatGPT in Super Bowl Ad Debut",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/02/04/anthropic-no-ads-claude-chatbot-openai-chatgpt.html",
-          "source": "CNBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "koen wauters",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 4 Feb 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPi729ZUzOHYDp3HbvcBFHvPIuPrrnL0IyolO77qXOLPpMDjqtKuZoaQOAEsg",
-      "pictureSource": "AD.nl",
-      "relatedSearch": [
-        {
-          "title": "Holland’s Got Talent krijgt nieuwe naam, Buddy Vedder en Jamai Loman vertrekken",
-          "snippet": "",
-          "url": "https://www.ad.nl/show/hollands-got-talent-krijgt-nieuwe-naam-buddy-vedder-en-jamai-loman-vertrekken~a626eb25/",
-          "source": "AD.nl"
-        },
-        {
-          "title": "Holland's Got Talent gaat op de schop: 'Coproductie met België'",
-          "snippet": "",
-          "url": "https://www.nu.nl/media/6384902/hollands-got-talent-gaat-op-de-schop-coproductie-met-belgie.html",
-          "source": "NU"
-        },
-        {
-          "title": "Holland's Got Talent op de schop: ’Onzekerheid voor medewerkers’",
-          "snippet": "",
-          "url": "https://www.telegraaf.nl/podcast/hollands-got-talent-op-de-schop-onzekerheid-voor-medewerkers/128576873.html",
-          "source": "De Telegraaf"
+          "url": "https://www.wsj.com/business/media/anthropic-takes-aim-at-openais-chatgpt-in-super-bowl-ad-debut-e38d08bb?gaa_at=eafs&gaa_n=AWEtsqeJ6MsBvSaPJU0xp4ODsD-MFbcEUEifg4mMTgkCOuGQneOBWweNRyKH&gaa_ts=6983c48a&gaa_sig=DPMJ0L0ywkDv-84u5TL9u-hnkPoBAFKd4fV0pcJSYDoZsNPAI_CE5KJdtj4BNvfzqwMifXaHWz-kj3Bi_yhKaA%3D%3D",
+          "source": "The Wall Street Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,17 +86,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "koen wauters",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 4 Feb 2026 13:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPi729ZUzOHYDp3HbvcBFHvPIuPrrnL0IyolO77qXOLPpMDjqtKuZoaQOAEsg",
+      "pictureSource": "AD.nl",
+      "relatedSearch": [
+        {
+          "title": "Holland’s Got Talent krijgt nieuwe naam, Buddy Vedder en Jamai Loman vertrekken",
+          "snippet": "",
+          "url": "https://www.ad.nl/show/hollands-got-talent-krijgt-nieuwe-naam-buddy-vedder-en-jamai-loman-vertrekken~a626eb25/",
+          "source": "AD.nl"
+        },
+        {
+          "title": "Holland's Got Talent gaat op de schop: 'Coproductie met België'",
+          "snippet": "",
+          "url": "https://www.nu.nl/media/6384902/hollands-got-talent-gaat-op-de-schop-coproductie-met-belgie.html",
+          "source": "NU"
+        },
+        {
+          "title": "Holland's Got Talent op de schop: ’Onzekerheid voor medewerkers’",
+          "snippet": "",
+          "url": "https://www.telegraaf.nl/podcast/hollands-got-talent-op-de-schop-onzekerheid-voor-medewerkers/128576873.html",
+          "source": "De Telegraaf"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "city",
       "trafficCount": "100+",
       "pubDate": "Wed, 4 Feb 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUk9XenN17syML0KZpxyh9CAN5ZaRjX_myKN9PmWHqtN-dZsLoDhUj85IHzc8",
-      "pictureSource": "CBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYpw0oeV8eom-hZJGN86PrLY7IjhgyHQiFez9PILPuqMQN8V33Likd7m1RxVI",
+      "pictureSource": "City of Brentwood, TN (.gov)",
       "relatedSearch": [
         {
-          "title": "New station on the way for Summerside Fire Department as city awards tender",
+          "title": "Granny White Parks Closed for Next Few Weeks",
           "snippet": "",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-new-summerside-fire-department-tender-awarded-9.7074104",
-          "source": "CBC"
+          "url": "https://www.brentwoodtn.gov/News-articles/Granny-White-Parks-Closed-for-Next-Few-Weeks",
+          "source": "City of Brentwood, TN (.gov)"
         },
         {
           "title": "Bogale launches bid for Reno City Attorney",
@@ -105,10 +133,10 @@
           "source": "KOLO | 8 News Now"
         },
         {
-          "title": "Hillary Clinton: MAGA's War on Empathy",
+          "title": "City skylines need an upgrade in the face of climate stress",
           "snippet": "",
-          "url": "https://www.theatlantic.com/ideas/2026/01/war-empathy-hillary-clinton/685809/",
-          "source": "The Atlantic"
+          "url": "https://theconversation.com/city-skylines-need-an-upgrade-in-the-face-of-climate-stress-267763",
+          "source": "The Conversation"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,15 +145,9 @@
       "title": "google stock",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Feb 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdQg6PYR843nxQvaSwYU1FVT3jl5U1NObmkdcrP01BfD-Lngs4fRhEJEH2Kk",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_QLJqmntAr0CcZH-w0YsJmBIxHvWqCii8PsQg0vo0Wj_6sBKAk0DKtbm_RBg",
+      "pictureSource": "CNBC",
       "relatedSearch": [
-        {
-          "title": "Alphabet set to report Q4 earnings in test of stock's rally amid Google's AI wins",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/alphabet-set-to-report-q4-earnings-in-test-of-stocks-rally-amid-googles-ai-wins-195254201.html",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Google parent beats on revenue, projects significant AI spending increase",
           "snippet": "",
@@ -133,10 +155,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Alphabet's stock has seen subdued reactions to earnings recently",
+          "title": "Alphabet to Blow Past Investor Expectations on AI Spending",
           "snippet": "",
-          "url": "https://www.marketwatch.com/livecoverage/alphabet-earnings-stock-google-results-q4-guidance/card/alphabet-s-stock-has-seen-subdued-reactions-to-earnings-recently-D7SozLgjGULkEIJQCoRC",
-          "source": "MarketWatch"
+          "url": "https://www.bloomberg.com/news/articles/2026-02-04/alphabet-to-blow-past-investor-expectations-on-spending",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Google Profit Jumps 30 Percent on A.I. Gains",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/02/04/business/google-earnings-ai.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,14 +201,14 @@
       "title": "lyon fc",
       "trafficCount": "200+",
       "pubDate": "Wed, 4 Feb 2026 13:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6ha3Rk1gL7qwvipG0IzBzZznEcnFp8Av1lZFOkAZDmj4I7M_hPL8gDtFPq8I",
-      "pictureSource": "Foot01",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRhNAqt_QtS5u8Rd81RztkGU3h13XvfVCzX7s1shEOsQJO-AMRHE-e6WbCuaY",
+      "pictureSource": "L'Équipe",
       "relatedSearch": [
         {
-          "title": "OL : Sulc transféré en 2027, c'est annoncé",
+          "title": "OL 2-0 Laval, Coupe de France : résumé du match (04/02/2026)",
           "snippet": "",
-          "url": "https://www.foot01.com/ol/ol-sulc-transfere-en-2027-cest-annonce",
-          "source": "Foot01"
+          "url": "https://www.lequipe.fr/Football/match-direct/coupe-de-france/2025-2026/lyon-laval-live/688525",
+          "source": "L'Équipe"
         },
         {
           "title": "Stade lavallois. Le bloc a résisté, Camara a pesé, mais le talent d’Endrick a frappé : les notes à Lyon",
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.yahoo.com/entertainment/tv/articles/where-boston-blue-danny-baez-221939499.html",
           "source": "Yahoo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fallout season 2",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 4 Feb 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbkfYppV1i_pVfPqUfrtj87p-eg4VKe2Yn8Wo5xRZuDGHDeAoORTx7qgJgpU",
-      "pictureSource": "Forbes",
-      "relatedSearch": [
-        {
-          "title": "What Time Does The ‘Fallout’ Season 2 Finale Begin?",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/timlammers/2026/02/02/what-time-does-the-fallout-season-2-finale-begin-on-tuesday/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Fallout Season 2 Finale Review",
-          "snippet": "",
-          "url": "https://www.ign.com/articles/fallout-season-2-finale-review-episode-8",
-          "source": "IGN"
-        },
-        {
-          "title": "In the end, Fallout season 2 secretly turned out to be a Fallout 4 adaptation",
-          "snippet": "",
-          "url": "https://www.polygon.com/fallout-season-2-fallout-4-the-institute/",
-          "source": "Polygon"
         }
       ],
       "link": "https://imtaqin.id/"
