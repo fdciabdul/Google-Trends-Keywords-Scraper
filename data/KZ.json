@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-02-06 02:01:53",
+  "lastUpdate": "2026-02-06 03:07:21",
   "data": [
     {
-      "title": "weather",
+      "title": "прогноз погоды",
       "trafficCount": "100+",
-      "pubDate": "Thu, 5 Feb 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_kWRj7fbx5a6Yn8mszeK_QRqwZHJMUmHziFPrLA69SMnAutjfuyASm3ooMM8",
-      "pictureSource": "The Weather Channel",
+      "pubDate": "Thu, 5 Feb 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLGnZJ7vmOn7nwp0cAv5xezbbKJKLIvFgfx3EI2DOibPf4q3penGuQD9JthJo",
+      "pictureSource": "Погода Mail",
       "relatedSearch": [
         {
-          "title": "Strong Cold Front Brings Chance For Snow, Snow Squalls",
+          "title": "Жителей Красноярского края предупредили о сильном морозе",
           "snippet": "",
-          "url": "https://weather.com/forecast/regional/video/snow-squalls-great-lakes-northeast-travel",
-          "source": "The Weather Channel"
+          "url": "https://pogoda.mail.ru/news/69674358/",
+          "source": "Погода Mail"
         },
         {
-          "title": "Next round of snow begins across winter-weary East, late-week storm could cause travel trouble",
+          "title": "«Будут температурные качели»: синоптик рассказал о погоде на февраль в Красноярске",
           "snippet": "",
-          "url": "https://www.foxweather.com/weather-news/fast-moving-snow-targets-east-weeks-winter-grip-region",
-          "source": "FOX Weather"
+          "url": "https://tvknews.ru/publications/after-news/88902/",
+          "source": "ТВК"
         },
         {
-          "title": "Extended stretch of winter weather worsening conditions for those suffering from “winter blues”",
+          "title": "Прогноз погоды в Красноярске на 6 февраля",
           "snippet": "",
-          "url": "https://www.whio.com/news/extended-stretch-winter-weather-worsening-conditions-those-suffering-winter-blues/463fb79d-5a8c-4e4f-8413-1d3619b996ef/",
-          "source": "WHIO TV"
+          "url": "https://1line.info/news/social/pogoda/prognoz-pgody-v-krasnoyarske-na-6-fevralya.html",
+          "source": "ИА 1-LINE"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода костанай",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 5 Feb 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-DNV3yJK_FeAF7vMAw9smPYdBLI48yOah6hVrwW0vW6cMbTkT420osoIJeSY",
+      "pictureSource": "ALAU.KZ",
+      "relatedSearch": [
+        {
+          "title": "Сильны морозы возвращаются: прогноз по Костанаю и области",
+          "snippet": "",
+          "url": "https://alau.kz/silny-morozy-vozvrashhajutsja-prognoz-po-kostanaju-i-oblasti/",
+          "source": "ALAU.KZ"
+        },
+        {
+          "title": "Потепление до 0 градусов ждет костанайцев на этой неделе",
+          "snippet": "",
+          "url": "https://top-news.kz/poteplenie-do-0-gradusov-zhdet-kostanajcev-na-jetoj-nedele/",
+          "source": "Газета Наш Костанай"
+        },
+        {
+          "title": "Резкое ухудшение погоды: Костанай и область под ударом непогоды",
+          "snippet": "",
+          "url": "https://alau.kz/rezkoe-uhudshenie-pogody-kostanaj-i-oblast-pod-udarom-nepogody/",
+          "source": "ALAU.KZ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода на сегодня",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 5 Feb 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtARUUJHc7s-rVsNB_Zu9leMi4tmVkH2qd6Mac8tYwHDYgWUAT649MpdADx1A",
+      "pictureSource": "Smartpress.by",
+      "relatedSearch": [
+        {
+          "title": "Метели и еще 3 вида снега накроют Беларусь. Синоптики рассказали, что принесет с собой южное тепло",
+          "snippet": "",
+          "url": "https://smartpress.by/news/meteli-i-eshche-3-vida-snega-nakroyut-belarus-sinoptiki-rasskazali-chto-prineset-s-soboy-yuzhnoe-tep/",
+          "source": "Smartpress.by"
+        },
+        {
+          "title": "Мороз и солнце! Прогноз погоды на неделю 2-8 февраля от Дмитрия Рябова",
+          "snippet": "",
+          "url": "https://ont.by/ru/novosti-pogody-ru/view/moroz-i-solntse-prognoz-pogody-na-nedelju-2-8-fevralja-ot-dmitrija-rjabova-311472-2026/",
+          "source": "ОНТ"
+        },
+        {
+          "title": "Белгидромет: после рекордных морозов в Беларусь возвращается оттепель",
+          "snippet": "",
+          "url": "https://belta.by/society/view/belgidromet-posle-rekordnyh-morozov-v-belarus-vozvraschaetsja-ottepel-762272-2026/",
+          "source": "БелТА"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,9 +89,15 @@
       "title": "мошенники",
       "trafficCount": "100+",
       "pubDate": "Thu, 5 Feb 2026 12:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRumP4bZMgkahglLyctc82WYsAcq56qamIUfobrXPjCcQnG_yM41RqvYGPlyCM",
-      "pictureSource": "Primorye24.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWYE9woWssHRn_uzu0HkooKEo8Nxlq64sTqbqX-eo2n-X7mvp02w-kR29rLFE",
+      "pictureSource": "Pchela.news",
       "relatedSearch": [
+        {
+          "title": "Самые популярные мошеннические схемы ко Дню всех влюблённых перечислили эксперты",
+          "snippet": "",
+          "url": "https://pchela.news/news/detail/48987",
+          "source": "Pchela.news"
+        },
         {
           "title": "Мошенники к 14 февраля выманивают деньги под видом доставки цветов",
           "snippet": "",
@@ -47,12 +109,6 @@
           "snippet": "",
           "url": "https://news.rambler.ua/community/56004812-v-mvd-rasskazali-o-moshennicheskih-shemah-na-14-fevralya/",
           "source": "Рамблер"
-        },
-        {
-          "title": "И конфеты, и букеты: какая опасность скрывается за романтическим подарком",
-          "snippet": "",
-          "url": "https://regions.ru/bezopasnost/i-konfety-i-bukety-kakaja-opasnost-skryvaetsja-za-romanticheskim-podarkom",
-          "source": "REGIONS.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +133,10 @@
           "source": "Meta-ratings.kz"
         },
         {
-          "title": "Opta о рекорда «Ювентуса» в Кубке Италии",
+          "title": "«Аталанта» разгромила «Ювентус» и вышла в полуфинал Кубка Италии по футболу",
           "snippet": "",
-          "url": "https://forzajuve.ru/news/201757-opta-o-rekorda-yuventusa-v-kubke-italii",
-          "source": "ForzaJuve.ru"
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Italiya/Kubok_Italii/spbnews_NI2292576_Atalanta_razgromila_Juventus_i_vyshla_v_polufinal_Kubka_Italii_po_futbolu",
+          "source": "Sportbox"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +155,16 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "«Монако» с треском вылетел из Кубка Франции и проваливает сезон. Головина заменили в перерыве — он н...",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/france/reviews/strasbur-monako-rezultat-i-obzor-matcha-i-igry-aleksandra-golovina-v-kubke-francii-5-fevralya-2026-goda-2396418/",
-          "source": "sport-express.ru"
-        },
-        {
-          "title": "«Страсбург» уверенно прошёл «Монако» по пути в полуфинал Кубка Франции",
+          "title": "«Страсбург» уверенно прошёл «Монако» по пути в четвертьфинал Кубка Франции",
           "snippet": "",
           "url": "https://www.euro-football.ru/article/1003386092/1006120660_strasburg_uverenno_proshel_monako_po_puti_v_polufinal_kubka_francii",
           "source": "Евро-Футбол"
+        },
+        {
+          "title": "Страсбур – Монако прогноз на матч Кубка Франции 5 февраля 2026 года. Ставка с коэффициентом 1,90",
+          "snippet": "",
+          "url": "https://metaratings.by/prognozy/futbol/strasbur-monako-prognoz-na-match-kubka-francii-5-fevralya-2026-goda/",
+          "source": "Белорусские новости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +217,10 @@
           "source": "Meta-ratings.kz"
         },
         {
-          "title": "Экспресс дня на 5 февраля 2026 года: футбол и хоккей",
+          "title": "Экспресс дня 5 февраля: прогноз и ставка 5.17 на матч 05 февраля",
           "snippet": "",
-          "url": "https://stavka.tv/articles/express/express-2026-february-5",
-          "source": "Ставка ТВ"
+          "url": "https://www.livesport.ru/tips/express/2026/02/05/express/",
+          "source": "LiveSport.Ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -204,62 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "фенербахче – эрзурумспор",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 5 Feb 2026 09:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd3h-66xfm-lrDBPXAMGKe22ysWTm3NuCPnOY8G_SSPRVrNvkveUSUK9FUkYg",
-      "pictureSource": "Лига прогнозов на спорт",
-      "relatedSearch": [
-        {
-          "title": "Фенербахче - ББ Эрзурум: прогнозы 05 февраля 2026, ставки Футбол Кубок Турции",
-          "snippet": "",
-          "url": "https://kushvsporte.ru/event/6425861-fenerbahche-bb-erzurum",
-          "source": "Лига прогнозов на спорт"
-        },
-        {
-          "title": "Кубок Турции: «Фенербахче» уверенно победил «Эрзурумспор»",
-          "snippet": "",
-          "url": "https://media.az/sports/kubok-turcii-fenerbahche-uverenno-pobedil-erzurumspor",
-          "source": "Media.az"
-        },
-        {
-          "title": "Фенербахче — Эрзурумспор: прогноз и ставка на точный счёт матча Кубка Турции — 5 февраля 2026",
-          "snippet": "",
-          "url": "https://www.liveresult.ru/tips/football/Turkiye/tip352937-Fenerbahce-Erzurum-BB",
-          "source": "LiveResult"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "авангард – автомобилист",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 5 Feb 2026 08:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8vaHKa5fcYDGA4KILvX93U6zQF8Upgh_zQ555XnI2NYwQg-XjGz6vcz_zRS8",
-      "pictureSource": "KHL",
-      "relatedSearch": [
-        {
-          "title": "«Автомобилист» попытается остановить «Авангард», «Северсталь» примет СКА. Превью 5 февраля: Новости",
-          "snippet": "",
-          "url": "https://www.khl.ru/news/2026/02/05/557563.html",
-          "source": "KHL"
-        },
-        {
-          "title": "\"Авангард\" обеспечил себе участие в Кубке Гагарина-2026",
-          "snippet": "",
-          "url": "https://allhockey.ru/news/show/583665-Avangard_obespechil_sebe_uchastie_v_Kubke_Gagarina_2026",
-          "source": "Allhockey.ru"
-        },
-        {
-          "title": "Избавившийся от наставника «Барыса» клуб КХЛ узнал плохую новость перед важнейшим матчем",
-          "snippet": "",
-          "url": "https://prosports.kz/news/731432-izbavivshiisya-ot-nastavnika-barisa-klub-khl-uznal-plohuyu-novost-pered-vazhneishim-matchem/",
-          "source": "Prosports.kz"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
