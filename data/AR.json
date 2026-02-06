@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-02-06 09:24:06",
+  "lastUpdate": "2026-02-06 09:43:49",
   "data": [
     {
       "title": "pronóstico",
-      "trafficCount": "20000+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 6 Feb 2026 01:00:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1-sgN68hx7YmOEMSZ3ZM0wtEC8FQVXunX8gpZZI4WlbvwGo7Lz7i3_yfHZV4",
       "pictureSource": "Infobae",
@@ -30,8 +30,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "el clima",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 6 Feb 2026 01:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc40PzAK9tRNpvaxNPM3rSpAO6YHvB0jTS_sKZIL-klkiryEdo9dRtB8IbseU",
+      "pictureSource": "Infobae",
+      "relatedSearch": [
+        {
+          "title": "¿Cómo estará el clima en Miami?",
+          "snippet": "",
+          "url": "https://www.infobae.com/noticias/2026/02/06/como-estara-el-clima-en-miami/",
+          "source": "Infobae"
+        },
+        {
+          "title": "Miami: el tiempo para hoy jueves 29 de enero",
+          "snippet": "",
+          "url": "https://laopinion.com/2026/01/29/miami-el-tiempo-para-hoy-jueves-29-de-enero/",
+          "source": "La Opinión"
+        },
+        {
+          "title": "Pronóstico del tiempo hoy en Miami: 30% de probabilidad de lluvia y vientos fuertes",
+          "snippet": "",
+          "url": "https://www.univision.com/local/miami-wltv/pronostico-del-tiempo-hoy-en-miami-30-de-probabilidad-de-lluvia-y-vientos-fuertes-video",
+          "source": "Univision"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "paro de colectivos hoy",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 6 Feb 2026 00:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbsieBerpUtdyjxwT1GetMqIorp4ZTJUO8uldmX-IEOKFuLRLNpLec1tRuYUE",
       "pictureSource": "Radio Mitre",
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.cronica.com.ar/sociedad/anunciaron-un-paro-de-colectivos-en-el-amba-para-este-viernes-6-de-febrero-cuales-son-las-lineas-afectadas/",
           "source": "Crónica"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "rockets - hornets",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 5 Feb 2026 21:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvEOVFWKIhqKS5a19DnkZUW749YeKTfZKs6zJb-3aNYe8GGjyan846dnRs74",
-      "pictureSource": "HoopsHype",
-      "relatedSearch": [
-        {
-          "title": "Hornets beat Rockets, win eight-straight games for first time since 1998-99 season",
-          "snippet": "",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/02/05/hornets-beat-rockets-win-eight-straight-games-for-first-time-since-1998-99-season/88540549007/",
-          "source": "HoopsHype"
-        },
-        {
-          "title": "Commanders star Bobby Wagner named Walter Payton NFL Man of the Year, honors mother lost to stroke",
-          "snippet": "",
-          "url": "https://www.thederrick.com/ap/sports/commanders-star-bobby-wagner-named-walter-payton-nfl-man-of-the-year-honors-mother-lost/article_2ab87aef-b176-51b5-b198-e82a9d67cadd.html",
-          "source": "The Derrick"
-        },
-        {
-          "title": "Game Recap: Hornets 109, Rockets 99",
-          "snippet": "",
-          "url": "https://www.nba.com/watch/video/game-recap-hornets-109-rockets-99",
-          "source": "NBA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,16 +114,44 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hornets - rockets",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 5 Feb 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvEOVFWKIhqKS5a19DnkZUW749YeKTfZKs6zJb-3aNYe8GGjyan846dnRs74",
+      "pictureSource": "HoopsHype",
+      "relatedSearch": [
+        {
+          "title": "Hornets beat Rockets, win eight-straight games for first time since 1998-99 season",
+          "snippet": "",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/02/05/hornets-beat-rockets-win-eight-straight-games-for-first-time-since-1998-99-season/88540549007/",
+          "source": "HoopsHype"
+        },
+        {
+          "title": "Commanders star Bobby Wagner named Walter Payton NFL Man of the Year, honors mother lost to stroke",
+          "snippet": "",
+          "url": "https://www.thederrick.com/ap/sports/commanders-star-bobby-wagner-named-walter-payton-nfl-man-of-the-year-honors-mother-lost/article_2ab87aef-b176-51b5-b198-e82a9d67cadd.html",
+          "source": "The Derrick"
+        },
+        {
+          "title": "Game Recap: Hornets 109, Rockets 99",
+          "snippet": "",
+          "url": "https://www.nba.com/watch/video/game-recap-hornets-109-rockets-99",
+          "source": "NBA"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "76ers - lakers",
       "trafficCount": "2000+",
       "pubDate": "Thu, 5 Feb 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDVjUN1no2-rdBWIr1CkSr06vObxg8AZTmqFZB6S3ni5XWfyEUUowuntiUZTM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhF50vhv08mE9u0ActLdO6zlok_VNKO8kPahLr23W4f4B3RJyuKXO7BiRX5EQ",
       "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Cavaliers, NBA to discuss changes to unusual raised court after Luka Dončić’s injury - The Athletic",
+          "title": "Cavs’ unusual raised court draws new scrutiny after Luka Dončić injury - The Athletic",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7008562/2026/01/29/cavaliers-court-changes-nba-luka-doncic-injury-lakers/",
+          "url": "https://www.nytimes.com/athletic/7005642/2026/01/28/luka-doncic-injury-lakers-cavaliers-nba/",
           "source": "The New York Times"
         },
         {
@@ -133,10 +161,10 @@
           "source": "PHLY Sports"
         },
         {
-          "title": "“Too early to say if it’s an injury - he had a sore …",
+          "title": "Lakers finally return home, beat 76ers but lose Luka Doncic",
           "snippet": "",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/02/06/too-early-to-say-if-its-an-injury-he-had-a-sore/88543156007/",
-          "source": "HoopsHype"
+          "url": "https://www.reuters.com/sports/lakers-finally-return-home-beat-76ers-lose-luka-doncic--flm-2026-02-06/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,7 +173,7 @@
       "title": "suns - warriors",
       "trafficCount": "1000+",
       "pubDate": "Thu, 5 Feb 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmagh6jd_6yAyje01MzNQjE6filapxyOP3gWtkvvWi9xkiY3wmmN-LYn-W7wY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXcwIojAz7tfBC5PpMyNljZI9intvS1nQqksbrTv7w9iYd-_Gv1xutGuSJqI",
       "pictureSource": "Golden State Of Mind",
       "relatedSearch": [
         {
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.couriernews.com/sports/spurs-mavericks-basketball/image_03313445-9e52-5c95-912b-5ccb8b7a5262.html",
           "source": "couriernews.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "galarza fonda",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 5 Feb 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT_ayyHjx_aghaJdHLHDHxhvonGgIhUmnYL1EOZkPRSu1fXM-4-gV0cK_DdPU",
-      "pictureSource": "El Intransigente",
-      "relatedSearch": [
-        {
-          "title": "Racing aceptó y está listo para cerrar un acuerdo con River: “Un movimiento”",
-          "snippet": "",
-          "url": "https://elintransigente.com/2026/02/racing-acepto-y-esta-listo-para-cerrar-un-acuerdo-con-river-un-movimiento/",
-          "source": "El Intransigente"
-        },
-        {
-          "title": "Racing aceleró y va por un jugador de River: \"Lo quiere\"",
-          "snippet": "",
-          "url": "https://urgente24.com/golazo24/racing-acelero-y-va-un-jugador-river-lo-quiere-n618412",
-          "source": "Urgente24"
-        },
-        {
-          "title": "Gallardo lo relegó y puede irse de River: \"No descartaría que empiece a buscar clubes\"",
-          "snippet": "",
-          "url": "https://soydelmillo.com/mercado-de-pases/2026/02/05/gallardo-lo-relego-en-river-y-puede-irse-no-descartaria-que-empiece-a-buscar-clubes/",
-          "source": "Soy del Millo"
         }
       ],
       "link": "https://imtaqin.id/"
