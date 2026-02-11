@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-02-11 09:29:04",
+  "lastUpdate": "2026-02-11 09:52:09",
   "data": [
+    {
+      "title": "погода в бишкеке",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 10 Feb 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MI3Shn934o46g3NsMOTrAU4UgyazUv-T9jaNwEIvA8J8d3a46n7FJIjvY1Y",
+      "pictureSource": "AKIPress",
+      "relatedSearch": [
+        {
+          "title": "На этой неделе ожидается похолодание и осадки. Обзор Кыргызгидромета по областям",
+          "snippet": "",
+          "url": "https://eco.akipress.org/news:2412421",
+          "source": "AKIPress"
+        },
+        {
+          "title": "В Бишкеке ожидаются дожди. Прогноз погоды на 12-15 февраля",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/361448_vbishkeke_ojidayutsya_dojdi_prognoz_pogodyi_na12-15_fevralya_/",
+          "source": "24.KG"
+        },
+        {
+          "title": "Осадки и до +16 °C. Прогноз погоды в Бишкеке и по Кыргызстану на неделю",
+          "snippet": "",
+          "url": "https://kaktus.media/doc/540325_osadki_i_do_16_c._prognoz_pogody_v_bishkeke_i_po_kyrgyzstany_na_nedelu.html",
+          "source": "Кактус Медиа"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "эвертон – борнмут",
       "trafficCount": "100+",
@@ -33,26 +61,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Tue, 10 Feb 2026 16:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQLWLzklPKJgF5HVmH_ZMXZ9nFcE1HKQ44ggB_TqizHiJ4SDwE6D-Dp75691A",
-      "pictureSource": "Egypt Today",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzle3p7g5eWNyqKDtZwplNzfOTTjOTtJLnsrAdyNSVCo7fYyRvM8PtohgC2Ig",
+      "pictureSource": "Agenzia Nova",
       "relatedSearch": [
         {
-          "title": "EMA forecasts slight drop in temperature across Egypt on Wednesday",
+          "title": "Severe weather: gale-force winds and rain in the South",
           "snippet": "",
-          "url": "https://www.egypttoday.com/Article/1/144981/EMA-forecasts-slight-drop-in-temperature-across-Egypt-on-Wednesday",
-          "source": "Egypt Today"
+          "url": "https://www.agenzianova.com/en/news/bad-weather--gale-force-winds-and-rain-in-the-south/",
+          "source": "Agenzia Nova"
         },
         {
-          "title": "Warm winter continues with hot weather across Egypt on Tuesday",
+          "title": "Sea storms Sardinia, alert on the western coasts",
           "snippet": "",
-          "url": "https://www.egyptindependent.com/warm-winter-continues-with-hot-weather-across-egypt-on-tuesday/",
-          "source": "Egypt Independent"
+          "url": "https://www.unicaradio.it/en/blog/2026/02/06/sea-storms-sardinia-alert-on-the-western-coasts/",
+          "source": "Unica Radio"
         },
         {
-          "title": "When will cold weather return to Egypt?",
+          "title": "Record-breaking January rains: Sardinia's drought emergency is over.",
           "snippet": "",
-          "url": "https://www.egyptindependent.com/when-will-cold-weather-return-to-egypt/",
-          "source": "Egypt Independent"
+          "url": "https://www.unionesarda.it/en/sardinia/record-rain-january-drought-emergency-over-gkllbzp6",
+          "source": "L'Unione Sarda.it"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +115,7 @@
     },
     {
       "title": "2026 winter olympics ice hockey",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 10 Feb 2026 12:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHgVE-uPLfxITG-fwR1Ihhx9y0qPRiPCKzLNTLeaHb5XFCniFyL3I9qIDEoY0",
       "pictureSource": "ESPN",
@@ -170,31 +198,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "английская премьер-лига",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 10 Feb 2026 11:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJUVgfYGFHeNBc3HE8Fg-JEDt4DlE-6l2fGz_9aAJtbWfO6UqF0DdxIPJH0TE",
+      "pictureSource": "Евро-Футбол",
+      "relatedSearch": [
+        {
+          "title": "Павлюченко дал прогноз на матч «Манчестер Сити» - «Фулхэм»",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/31/1006124543_pavlyuchenko_dal_prognoz_na_match_manchester_siti_-_fulhem",
+          "source": "Евро-Футбол"
+        },
+        {
+          "title": "«Манчестер Сити» возобновил борьбу за чемпионский титул.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/hoi-sinh-cuoc-dua-vo-dich-cua-man-city",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "«Манчестер Сити» — «Фулхэм». Онлайн-трансляция начнется в 22:30",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football/69764750/",
+          "source": "Спорт Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "погода бишкек",
       "trafficCount": "5000+",
       "pubDate": "Tue, 10 Feb 2026 11:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MI3Shn934o46g3NsMOTrAU4UgyazUv-T9jaNwEIvA8J8d3a46n7FJIjvY1Y",
-      "pictureSource": "AKIPress",
-      "relatedSearch": [
-        {
-          "title": "На этой неделе ожидается похолодание и осадки. Обзор Кыргызгидромета по областям",
-          "snippet": "",
-          "url": "https://eco.akipress.org/news:2412421",
-          "source": "AKIPress"
-        },
-        {
-          "title": "В Бишкеке ожидаются дожди. Прогноз погоды на 12-15 февраля",
-          "snippet": "",
-          "url": "https://24.kg/obschestvo/361448_vbishkeke_ojidayutsya_dojdi_prognoz_pogodyi_na12-15_fevralya_/",
-          "source": "24.KG"
-        },
-        {
-          "title": "Осадки и до +16 °C. Прогноз погоды в Бишкеке и по Кыргызстану на неделю",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/540325_osadki_i_do_16_c._prognoz_pogody_v_bishkeke_i_po_kyrgyzstany_na_nedelu.html",
-          "source": "Кактус Медиа"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -221,62 +258,6 @@
           "snippet": "",
           "url": "https://stavkiprognozy.ru/prognozy/football/apl/pro_prognoz-chelsi-lids-yunayted-10-fevralya-2026g",
           "source": "stavkiprognozy.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "тоттенхэм – ньюкасл юнайтед",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 10 Feb 2026 10:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcFTs7jjAR9nvwaF7R12xYf4dxO3OSp0x84Wi5js7Dlotc06LVdWvznOrYROg",
-      "pictureSource": "Kursiv Media Узбекистан",
-      "relatedSearch": [
-        {
-          "title": "Ньюкасл дожал Тоттенхэм в Лондоне и прервал серию без побед",
-          "snippet": "",
-          "url": "https://uz.kursiv.media/2026-02-11/nyukasl-dozhal-tottenhem-v-londone-i-prerval-seriyu-bez-pobed/",
-          "source": "Kursiv Media Узбекистан"
-        },
-        {
-          "title": "У «Тоттенхэма» серия без побед из 8 матчей в АПЛ впервые с 2008 года",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/football/69763644/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "«Ньюкасл» отправил «Тоттенхэм» к зоне вылета: кризис Франка всё серьёзнее",
-          "snippet": "",
-          "url": "https://www.livesport.ru/football/2026/02/11/tottenham_newcastle_review/",
-          "source": "LiveSport.Ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "зимние олимпийские игры 2026 года – хоккей с шайбой",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 10 Feb 2026 10:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKoQ30mipo9CBEvjRIrCnLnnxOK2y5MQk6wPcGIFRan_TKNA6-5Zg5_mVJ5iI",
-      "pictureSource": "https://www.championat.ru/",
-      "relatedSearch": [
-        {
-          "title": "Хоккей, Олимпиада-2026 в Милане, мужчины — расписание соревнований, Олимпийские игры 2026",
-          "snippet": "",
-          "url": "https://www.championat.ru/hockey/news-6352014-hokkej-olimpiada-2026-v-milane-muzhchiny-raspisanie-sorevnovanij-zimnie-olimpijskie-igry-2026.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Милан – Кортина-2026 | Хоккей. Мужчины. Финляндия – Словакия, Швеция – Италия: что ждать и где смотреть",
-          "snippet": "",
-          "url": "https://www.olympics.com/ru/milano-cortina-2026/news/milan-kortina-2026-hokkei-muzhchiny-finlyandiya-slovakiya-shveciya-italiya-chto-zhdat",
-          "source": "Milano Cortina 2026"
-        },
-        {
-          "title": "\"Конечно, там не хватает России\": Зак Фукале — об Олимпийских играх в Милане",
-          "snippet": "",
-          "url": "https://sport5.by/news/hockey/kkhl/Konechno-tam-ne-khvataet-Rossii-Zak-Fukale--ob-Olimpiyskikh-igrakh-v-Milane/",
-          "source": "Sport5.by"
         }
       ],
       "link": "https://imtaqin.id/"
