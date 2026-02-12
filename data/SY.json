@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-02-12 07:35:26",
+  "lastUpdate": "2026-02-12 07:57:54",
   "data": [
     {
-      "title": "الطقس الان",
+      "title": "حالة الطقس",
       "trafficCount": "100+",
-      "pubDate": "Wed, 11 Feb 2026 21:00:00 -0800",
+      "pubDate": "Wed, 11 Feb 2026 21:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb7mcVkN4i4-U2wMtQqI7OzNAKqFtJCqZkp1F7LHfajOXaLH4g8ahwH527uC4",
+      "pictureSource": "إيجبتكِ",
+      "relatedSearch": [
+        {
+          "title": "الأرصاد تحذر من موجة حارة وأتربة كثيفة نهاية الأسبوع|خاص",
+          "snippet": "",
+          "url": "https://www.egyptke.com/185661",
+          "source": "إيجبتكِ"
+        },
+        {
+          "title": "حالة الطقس اليوم الخميس",
+          "snippet": "",
+          "url": "https://www.eldyar.net/628594",
+          "source": "جريدة الديار"
+        },
+        {
+          "title": "«الأرصاد»: ارتفاع درجات الحرارة ونشاط رياح مثيرة للأتربة يومي الجمعة والسبت",
+          "snippet": "",
+          "url": "https://www.nogoumfm.net/2026/02/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D9%86%D8%B4%D8%A7%D8%B7/",
+          "source": "نجوم إف إم"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس اليوم",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 11 Feb 2026 20:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREjo31opAb_m9cVGIPjNbxZctB_9BTW414Lm2raLtUZpvJjeVmDTySoTB5YDU",
       "pictureSource": "إيجبتكِ",
       "relatedSearch": [
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.vetogate.com/5593177",
           "source": "فيتو"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الطقس اليوم",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 11 Feb 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSh5ufn83lgS_tC5X8XNQCpkeEgnPv3mNzXMbl0q-achcF23lLstUbMfMxV-tU",
-      "pictureSource": "صوت العرب",
-      "relatedSearch": [
-        {
-          "title": "الأرصاد: طقس حار الخميس في معظم أنحاء مصر",
-          "snippet": "",
-          "url": "https://iq.arabsvoice.net/98560/",
-          "source": "صوت العرب"
-        },
-        {
-          "title": "أجواء صيفية في قلب الشتاء وأتربة وشبورة والأرصاد تحذر المواطنين",
-          "snippet": "",
-          "url": "https://www.alwafd.news/5808820",
-          "source": "بوابة الوفد الإلكترونية"
-        },
-        {
-          "title": "أيام عِجاف.. درجات حرارة مرتفعة وشبورة وتحذيرات من الأرصاد",
-          "snippet": "",
-          "url": "https://www.elbalad.news/6866693",
-          "source": "صدى البلد"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "أتلتيك بيلباو ضد ريال سوسيداد",
       "trafficCount": "200+",
       "pubDate": "Wed, 11 Feb 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0aFOg3EkW3tUm6qAUcQtMqvAr6MmqdujhesZBxXGptckAkEIeQmbaZw-4CTo",
-      "pictureSource": "الجزيرة نت",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27wPnSHKMj_xGHUzdNjsuB4xN-ZtZQVBwNtT66YkE8JoP0dGtgyxCnklf5p8",
+      "pictureSource": "هاي كورة",
       "relatedSearch": [
+        {
+          "title": "أرقام مهمة قبل مباراة بيلباو وسوسيداد",
+          "snippet": "",
+          "url": "https://hihi2.com/2026/02/11/p3645329.html",
+          "source": "هاي كورة"
+        },
         {
           "title": "بالفيديو.. حكم يحتسب أغرب ركلة جزاء في كأس إسبانيا",
           "snippet": "",
@@ -99,16 +105,10 @@
           "source": "الجزيرة نت"
         },
         {
-          "title": "سوسيداد يهزم بيلباو 1-صفر بذهاب قبل نهائي كأس ملك إسبانيا",
+          "title": "كأس ملك إسبانيا – سوسيداد ينتصر ذهابا أمام بلباو وينتظر الحسم في العودة",
           "snippet": "",
-          "url": "https://www.reuters.com/ar/sports/IDKBDVT23RNOTOOVRRIFNGW74I-2026-02-11/",
-          "source": "Reuters"
-        },
-        {
-          "title": "ريال سوسييداد يهزم أتلتيك بلباو ويقترب من نهائي كأس إسبانيا",
-          "snippet": "",
-          "url": "https://msdrnews.com/112190/%D8%B1%D9%8A%D8%A7%D9%84-%D8%B3%D9%88%D8%B3%D9%8A%D9%8A%D8%AF%D8%A7%D8%AF-%D9%8A%D9%87%D8%B2%D9%85-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83-%D8%A8%D9%84%D8%A8%D8%A7%D9%88-%D9%88%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7",
-          "source": "شبكة مصدر الاخبارية"
+          "url": "https://twaslnews.twaslnews.com/342983/",
+          "source": "شبكة تواصل الإخبارية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +117,26 @@
       "title": "dizi izle",
       "trafficCount": "5000+",
       "pubDate": "Wed, 11 Feb 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_u4jKAMXTyheVVb3nfDNzol8dDR-PZEnvAv0ZhRn7rMCBVf8kfE5bJ9nrF8o",
-      "pictureSource": "Ülke TV",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHAUTdsq43D02DdcvO-QP6SXwlCYlng9IrO1Or2uOBlldNYcXlW6stMavp7P4",
+      "pictureSource": "ATV",
       "relatedSearch": [
         {
-          "title": "Yeraltı dizisine sürpriz transfer!",
+          "title": "A.B.İ.",
           "snippet": "",
-          "url": "https://www.ulketv.com/yeralti-dizisine-surpriz-transfer",
-          "source": "Ülke TV"
+          "url": "https://www.atv.com.tr/abi/5-bolum/izle",
+          "source": "ATV"
         },
         {
-          "title": "Yeraltı 3. Bölümde Sultan, Ferhat'ın karşısına Haydar Ali ile beraber çıktı! Sezai ve ailesi, Bozo'nun evinde akşam yemeği yedi!",
+          "title": "ABİ’nin yıldızları, senaryoyu parlatır mı?",
           "snippet": "",
-          "url": "https://www.diziler.com/yeralti-3-bolumde-sultan-ferhatin-karsisina-haydar-ali-ile-beraber-cikti-sezai-ve-ailesi-bozonun-evinde-aksam-yemegi-yedi",
-          "source": "Diziler.com"
+          "url": "https://t24.com.tr/yazarlar/ayse-naz-bulamur/abinin-yildizlari-senaryoyu-parlatir-mi,53665",
+          "source": "T24"
         },
         {
-          "title": "YERALTI 3. BÖLÜM FULL İZLE | YOUTUBE’DA VAR MI, NOW TV’DEN NEREDEN İZLENİR?",
+          "title": "Baba gözünü açtı reyting patladı",
           "snippet": "",
-          "url": "https://www.bugunkocaeli.com.tr/yeralti-3-bolum-full-izle-youtubeda-var-mi-now-tvden-nereden-izlenir",
-          "source": "Bugün Kocaeli Gazetesi"
+          "url": "https://www.sabah.com.tr/magazin/baba-gozunu-acti-reyting-patladi-7522287",
+          "source": "Sabah"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,9 +177,9 @@
       "pictureSource": "الهيئة الوطنية للإعلام",
       "relatedSearch": [
         {
-          "title": "نوتنجهام فورست يتعادل سلبياً مع وولفرهامبتون في معركة الدفاعات",
+          "title": "نوتنجهام فورست يتعادل سلبيا مع وولفرهامبتون في الدوري الإنجليزي",
           "snippet": "",
-          "url": "https://www.maspero.eg/sport/2026/02/11/927938/%D9%86%D9%88%D8%AA%D9%86%D8%AC%D9%87%D8%A7%D9%85-%D9%81%D9%88%D8%B1%D8%B3%D8%AA-%D9%8A%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B3%D9%84%D8%A8%D9%8A%D8%A7%D9%8B-%D9%85%D8%B9-%D9%88%D9%88%D9%84%D9%81%D8%B1%D9%87%D8%A7%D9%85%D8%A8%D8%AA%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA",
+          "url": "https://www.maspero.eg/sport/2026/02/11/927938/%D9%86%D9%88%D8%AA%D9%86%D8%AC%D9%87%D8%A7%D9%85-%D9%81%D9%88%D8%B1%D8%B3%D8%AA-%D9%8A%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B3%D9%84%D8%A8%D9%8A%D8%A7-%D9%85%D8%B9-%D9%88%D9%88%D9%84%D9%81%D8%B1%D9%87%D8%A7%D9%85%D8%A8%D8%AA%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A",
           "source": "الهيئة الوطنية للإعلام"
         },
         {
@@ -245,10 +245,10 @@
           "source": "VOI.id"
         },
         {
-          "title": "أول تعليق من جيرارد بعد تحطيم محمد صلاح رقمه القياسي",
+          "title": "بطولة إنكلترا: سلوت يشيد بصلاح \"المذهل\" بعد معادلته الرقم القياسي بالتمريرات الحاسمة",
           "snippet": "",
-          "url": "https://www.eremnews.com/sports/evjz1j4",
-          "source": "إرم نيوز"
+          "url": "https://www.mc-doualiya.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260212-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A5%D9%86%D9%83%D9%84%D8%AA%D8%B1%D8%A7-%D8%B3%D9%84%D9%88%D8%AA-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D8%B0%D9%87%D9%84-%D8%A8%D8%B9%D8%AF-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%AA%D9%87-%D8%A7%D9%84%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%85%D8%A9",
+          "source": "مونت كارلو الدولية"
         }
       ],
       "link": "https://imtaqin.id/"
