@@ -1,11 +1,39 @@
 {
-  "lastUpdate": "2026-02-14 14:42:03",
+  "lastUpdate": "2026-02-14 14:54:14",
   "data": [
     {
+      "title": "accidente calle 80 hoy",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 14 Feb 2026 06:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8mlu_0rTYvkiZKykPzoLxWikqbSud6ors9YUro6umXIltb45lqTiAda34Jb4",
+      "pictureSource": "Bogota.gov.co",
+      "relatedSearch": [
+        {
+          "title": "Movilidad en Bogotá hoy 13 de febrero: dos accidentes que han generado congestión",
+          "snippet": "",
+          "url": "https://bogota.gov.co/mi-ciudad/movilidad/en-vivo-movilidad-bogota-y-rutas-transmilenio-hoy-13-de-febrero-2026",
+          "source": "Bogota.gov.co"
+        },
+        {
+          "title": "Accidente fatal colapsa la movilidad en la calle 80 y deja largas filas de vehículos",
+          "snippet": "",
+          "url": "https://citytv.eltiempo.com/fotos-y-videos/video-y-multimedia/accidente-fatal-colapsa-la-movilidad-en-la-calle-80-y-deja-largas-filas-de-vehiculos_88948",
+          "source": "City Tv"
+        },
+        {
+          "title": "Trancón por la calle 80 en la salida de Bogotá por accidente de tránsito que dejó fallecido",
+          "snippet": "",
+          "url": "https://www.noticiascaracol.com/colombia/bogota/trancon-por-la-calle-80-en-los-limites-de-bogota-por-grave-accidente-de-transito-que-dejo-un-fallecido-rg10",
+          "source": "Noticias Caracol"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "getafe - villarreal",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 14 Feb 2026 06:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJQIQqAF_pkCfGnmK0p-2Elf-AUgLwoalHyW2iC8OUQhK3nlHdUxbqczvysjg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuFaiTA4GbxokrAJ_1Dwm5VfCHl7nBQr_61PeJtKx6X8MNukq9llHkL7d4wWc",
       "pictureSource": "Diario AS",
       "relatedSearch": [
         {
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.flashscore.com.ar/noticias/futbol-laliga-ea-sports-futbol-en-directo-onces-confirmados-en-el-getafe-villarreal-en-juego-el-espanyol-celta/AVF07kue/",
           "source": "Flashscore.com.ar"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "leverkusen - st. pauli",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 14 Feb 2026 06:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRSD3EPRNYL_3-5qZWpEqylrFH3MR9QpsgH6WtHn75XWsbdMfS0xhuYUe4GBM",
-      "pictureSource": "NDR.de",
-      "relatedSearch": [
-        {
-          "title": "St. Pauli hungrig auf Revanche in Leverkusen – Andrichs Worte als heimlicher Motivationsschub?",
-          "snippet": "",
-          "url": "https://www.ndr.de/sport/fussball/Bundesliga-FC-St-Pauli-Leverkusen,pauli-456.html",
-          "source": "NDR.de"
-        },
-        {
-          "title": "Ein positiver Trend",
-          "snippet": "",
-          "url": "https://millernton.de/2026/02/12/ein-positiver-trend/",
-          "source": "MillernTon"
-        },
-        {
-          "title": "Maza bei Comeback direkt in der Startelf",
-          "snippet": "",
-          "url": "https://www.ligainsider.de/ibrahim-maza_35905/maza-bei-comeback-direkt-in-der-startelf-408894/",
-          "source": "LigaInsider"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "leverkusen - st. pauli",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 14 Feb 2026 06:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRSD3EPRNYL_3-5qZWpEqylrFH3MR9QpsgH6WtHn75XWsbdMfS0xhuYUe4GBM",
+      "pictureSource": "NDR.de",
+      "relatedSearch": [
+        {
+          "title": "St. Pauli hungrig auf Revanche in Leverkusen – Andrichs Worte als heimlicher Motivationsschub?",
+          "snippet": "",
+          "url": "https://www.ndr.de/sport/fussball/Bundesliga-FC-St-Pauli-Leverkusen,pauli-456.html",
+          "source": "NDR.de"
+        },
+        {
+          "title": "Ein positiver Trend",
+          "snippet": "",
+          "url": "https://millernton.de/2026/02/12/ein-positiver-trend/",
+          "source": "MillernTon"
+        },
+        {
+          "title": "Maza bei Comeback direkt in der Startelf",
+          "snippet": "",
+          "url": "https://www.ligainsider.de/ibrahim-maza_35905/maza-bei-comeback-direkt-in-der-startelf-408894/",
+          "source": "LigaInsider"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "god of war sons of sparta ps5",
       "trafficCount": "200+",
       "pubDate": "Sat, 14 Feb 2026 06:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnCB8mE14s-IYIKYrViYlCOFa06II0CrilFly_OPOi-JTkuT_XGonDzAmHzyQ",
-      "pictureSource": "PlayStation",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_A0_T_o7FRCVTBG4U0XOCeBNm7qDYfZCalQFaRSWGhZc-EdDZHrL2LzfeJ7Y",
+      "pictureSource": "PlayStation.Blog",
       "relatedSearch": [
         {
-          "title": "God of War Sons of Sparta",
+          "title": "God of War Greek trilogy remake in development & God of War Sons of Sparta out now",
           "snippet": "",
-          "url": "https://www.playstation.com/en-us/games/god-of-war-sons-of-sparta/",
-          "source": "PlayStation"
+          "url": "https://blog.playstation.com/2026/02/12/god-of-war-greek-trilogy-remake-in-development-god-of-war-sons-of-sparta-out-now/",
+          "source": "PlayStation.Blog"
         },
         {
-          "title": "Santa Monica Studio Is Remaking The Original God Of War Trilogy",
+          "title": "All The Biggest Game Franchises Are Going Backwards",
           "snippet": "",
-          "url": "https://gameinformer.com/state-of-play/2026/02/12/santa-monica-studio-is-remaking-the-original-god-of-war-trilogy",
-          "source": "Game Informer"
+          "url": "https://kotaku.com/all-the-biggest-game-franchises-are-going-backwards-2000668403",
+          "source": "Kotaku"
         },
         {
-          "title": "God of War Sons of Sparta Spin-off Out Now, and God of War Trilogy Remake Announced | Sony State of Play",
+          "title": "PS5 Surprise: Top 5 God of War: Sons of Sparta Shadow-Drop Moments",
           "snippet": "",
-          "url": "https://www.ign.com/articles/god-of-war-sons-of-sparta-side-scrolling-spin-off-out-today-and-god-of-war-trilogy-remake-announced-sony-state-of-play",
-          "source": "IGN"
+          "url": "https://battleofguardians.com/ps5-surprise-top-5-god-of-war-sons-of/",
+          "source": "battleofguardians.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +145,15 @@
       "title": "manchester city - salford",
       "trafficCount": "5000+",
       "pubDate": "Sat, 14 Feb 2026 06:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVFLbriYBFyc5o7s_bj4ht3Wv5ALNaMHCXN9weqJh4wWiQL0usz_Gl9Nn4I1I",
-      "pictureSource": "streamlinefeed.co.ke",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_-MhvMGBEfM11k6_DpsDwnp-p2n8kp6o01xZZ2jIH7OWBiLvbS31fIuobsw",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
+        {
+          "title": "Manchester City v Salford, Burnley v Mansfield and more: FA Cup and EFL – live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2026/feb/14/manchester-city-v-salford-burnley-v-mansfield-fa-cup-and-efl-football-live",
+          "source": "The Guardian"
+        },
         {
           "title": "Salford Boss Vows Grit in David vs Goliath Rematch",
           "snippet": "",
@@ -127,16 +161,10 @@
           "source": "streamlinefeed.co.ke"
         },
         {
-          "title": "Manchester City vs Salford LIVE Score Updates in FA Cup Match",
+          "title": "Stones returns and captains City in Salford clash",
           "snippet": "",
-          "url": "https://www.vavel.com/en-us/soccer/2026/02/14/1250805-manchester-city-vs-salford-live-score-fa-cup.html",
-          "source": "VAVEL.com"
-        },
-        {
-          "title": "'Memories I will take for the rest of my life': Guardiola cherishes FA Cup away days ahead of Salford clash",
-          "snippet": "",
-          "url": "https://tribuna.com/en/news/2026-02-14-memories-i-will-take-for-the-rest-of-my-life-guardiola-cherishes-fa-cup-away-days-ahead-o/",
-          "source": "Tribuna.com"
+          "url": "https://onefootball.com/en/news/stones-returns-and-captains-city-in-salford-clash-42409379",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -174,13 +202,13 @@
       "trafficCount": "500+",
       "pubDate": "Sat, 14 Feb 2026 06:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzdO95q97m4uUYV44t1fWrw1roQekX0NvItZscFwehjTnr_2QbimW5a0jjqY",
-      "pictureSource": "Sport Bild",
+      "pictureSource": "SPORT BILD",
       "relatedSearch": [
         {
           "title": "Bundesliga: Union-Coach vor Rückkehr – Darum ist Baumgart überrascht vom neuen HSV",
           "snippet": "",
           "url": "https://sportbild.bild.de/fussball/hamburger-sv/bundesliga-union-coach-vor-rueckkehr-darum-ist-baumgart-ueberrascht-vom-neuen-hsv-698d97a30abe5c8b74eccb09",
-          "source": "Sport Bild"
+          "source": "SPORT BILD"
         },
         {
           "title": "Liveticker | Hamburger SV - 1. FC Union Berlin : | 22. Spieltag | Bundesliga 2025/26",
@@ -217,10 +245,10 @@
           "source": "Tribuna.com"
         },
         {
-          "title": "EN VIVO: 0-0 en el arranque: ya juegan Como 1907 y Fiorentina por la fecha 25 de la Serie A",
+          "title": "Como 1907 vs. Fiorentina, EN VIVO: dónde ver por TV y ONLINE",
           "snippet": "",
-          "url": "https://www.t13.cl/noticia/deportes13/en-vivo-0-0-en-el-arranque-ya-juegan-como-1907-y-fiorentina-por-la-fecha-25-de-la-serie-a-14-02-2026",
-          "source": "Teletrece"
+          "url": "https://www.tycsports.com/serie-a/como-1907-vs-fiorentina-en-vivo-donde-ver-por-tv-y-online-id712966.html",
+          "source": "TyC Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "wnoz.de"
         },
         {
-          "title": "Bundesliga - Eintracht Frankfurt vs. Borussia Mönchengladbach heute live im Ticker: Erster Sieg für Riera? - Liveticker",
+          "title": "Albert Riera mit Eintracht Frankfurt gegen Gladbach in Bundesliga",
           "snippet": "",
-          "url": "https://www.eurosport.de/fussball/bundesliga/2025-2026/live-eintracht-frankfurt-borussia-mgladbach_mtc1609162/live-commentary.shtml",
-          "source": "Eurosport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "werder bremen - bayern",
-      "trafficCount": "20000+",
-      "pubDate": "Sat, 14 Feb 2026 05:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4ytprQ5qPJBFCFYIoo9CyHq51glprm8CHhu1-3bAGT3-CYtzYNTEdIj7Tyzk",
-      "pictureSource": "ELTIEMPO.COM",
-      "relatedSearch": [
-        {
-          "title": "Luis Díaz y el Bayern Múnich, listos para ‘seguir derecho’ en la Bundesliga: día, hora y por dónde ver el partido contra Werder Bremen",
-          "snippet": "",
-          "url": "https://www.eltiempo.com/deportes/futbol-internacional/luis-diaz-y-el-bayern-munich-listos-para-seguir-derecho-en-la-bundesliga-dia-hora-y-por-donde-ver-el-partido-contra-werder-bremen-3532277",
-          "source": "ELTIEMPO.COM"
-        },
-        {
-          "title": "Werder Bremen vs. Bayern Múnich EN VIVO, fecha 22 de la Bundesliga con Luis Díaz en acción",
-          "snippet": "",
-          "url": "https://www.infobae.com/colombia/deportes/2026/02/14/werder-bremen-vs-bayern-munich-en-vivo-fecha-22-de-la-bundesliga-con-luis-diaz-en-accion/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Duelo en el Weser-Stadion: Luis Díaz quiere seguir de racha ante Werder Bremen",
-          "snippet": "",
-          "url": "https://www.elinformador.com.co/index.php/deportes/118-deportes-nacional/347625-duelo-en-el-weser-stadion-luis-diaz-quiere-seguir-de-racha-ante-werder-bremen",
-          "source": "EL INFORMADOR - Santa Marta, Colombia"
+          "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/albert-riera-mit-eintracht-frankfurt-gegen-gladbach-in-bundesliga-accg-110836542.html",
+          "source": "FAZ.NET"
         }
       ],
       "link": "https://imtaqin.id/"
