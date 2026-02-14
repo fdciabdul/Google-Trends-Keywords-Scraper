@@ -1,10 +1,66 @@
 {
-  "lastUpdate": "2026-02-14 06:08:22",
+  "lastUpdate": "2026-02-14 06:26:31",
   "data": [
     {
-      "title": "izmir su kesintisi",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 13 Feb 2026 21:20:00 -0800",
+      "title": "aski",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 13 Feb 2026 22:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSacg2G7DLkDdpfUXSvP5pxfQ6xtQlyNBgGsyn6YBP1BulCwE5swd9OzmOEc4c",
+      "pictureSource": "CNN Türk",
+      "relatedSearch": [
+        {
+          "title": "İSTANBUL BARAJLARI DOLULUK ORANI 13 ŞUBAT: İSKİ barajları doluluk oranı son durum",
+          "snippet": "",
+          "url": "https://www.cnnturk.com/turkiye/istanbul-barajlari-doluluk-orani-13-subat-iski-barajlari-doluluk-orani-son-durum-2395826",
+          "source": "CNN Türk"
+        },
+        {
+          "title": "ASKİ açıkladı: Ankara’da barajlar kritik seviyede",
+          "snippet": "",
+          "url": "https://www.evrensel.net/haber/5970275/aski-acikladi-ankarada-barajlar-kritik-seviyede",
+          "source": "Evrensel.net"
+        },
+        {
+          "title": "İstanbul, Ankara ve İzmir'in kaç günlük suyu kaldı?",
+          "snippet": "",
+          "url": "https://www.memurlar.net/haber/1159114/istanbul-ankara-ve-izmir-in-kac-gunluk-suyu-kaldi.html",
+          "source": "Memurlar.Net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "van hava durumu",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 13 Feb 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnXDJpmzqncDV28DTJPp8KtWfxGbtfkci2OssRNkEti71AHNL8vodFMhdijr4",
+      "pictureSource": "Anadolu Ajansı",
+      "relatedSearch": [
+        {
+          "title": "Meteorolojiden Güneydoğu'daki bazı iller için kuvvetli sağanak uyarısı",
+          "snippet": "",
+          "url": "https://www.aa.com.tr/tr/gundem/meteorolojiden-guneydogudaki-bazi-iller-icin-kuvvetli-saganak-uyarisi/3828998",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "Van, Muş, Hakkari ve Bitlis'te 111 yerleşim yerine ulaşım sağlanamıyor",
+          "snippet": "",
+          "url": "https://www.rudaw.net/turkish/middleeast/turkey/130220264",
+          "source": "rudaw.net"
+        },
+        {
+          "title": "Kar yağışı başladı: Birçok kent beyaza büründü! Kar kalınlığı 3 metreye ulaştı",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/galeri-kar-yagisi-basladi-bircok-kent-beyaza-burundu-kar-kalinligi-3-metreye-ulasti-43106535",
+          "source": "Hürriyet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "izsu su kesintileri",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 13 Feb 2026 22:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowlYrMlw9ESpT-nnOv4BX3O1qx7OGTPrrMv1p_2OW-6kfg5ERFWPfbwghHJw",
       "pictureSource": "Gündeme Bakış",
       "relatedSearch": [
@@ -89,14 +145,26 @@
       "title": "kars hava durumu",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Feb 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiv5HnafT6RfJdcYxIbbfzJhJD69nb9PYsuccMMpZ5jKK8SiQ-ALjcZvMaJ3E",
-      "pictureSource": "Marmaris Yeni Sayfa",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5sCqFPK4Dkq6AD25a0OKwGSpEE1H90RS-Ad2F9eAzlsTkopBsGYb2Fk6V5W8",
+      "pictureSource": "Palandöken Gazetesi",
       "relatedSearch": [
         {
-          "title": "Erzurum’da kar sebebiyle 312 köyün yolu kapalı",
+          "title": "Erzurum’da beyaz esaret: 775 köy yolu kapalı",
           "snippet": "",
-          "url": "https://www.marmarisyenisayfa.com/haber/erzurum-da-kar-sebebiyle-312-koyun-yolu-kapali-627155.html",
+          "url": "https://www.palandokengazetesi.net/haber/erzurum-da-beyaz-esaret-775-koy-yolu-kapali_56555/",
+          "source": "Palandöken Gazetesi"
+        },
+        {
+          "title": "Erzurum’da çığ, buzlanma ve don uyarısı",
+          "snippet": "",
+          "url": "https://www.marmarisyenisayfa.com/haber/erzurum-da-cig-buzlanma-ve-don-uyarisi-626875.html",
           "source": "Marmaris Yeni Sayfa"
+        },
+        {
+          "title": "Meteoroloji uyarmıştı: Kars’ta yoğun kar yağışı başladı",
+          "snippet": "",
+          "url": "https://herkesduysun.com/cevre/meteoroloji-uyarmisti-karsta-yogun-kar-yagisi-basladi/",
+          "source": "Herkes Duysun"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -131,28 +199,28 @@
     },
     {
       "title": "dizi izle",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 13 Feb 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmYcjVw_UY-vfnRYUmCGynEe4x8S-x9WV4xHi7bNFseRLm-taEMfTlHRVcWxU",
-      "pictureSource": "Show TV",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1hnoX9GaoFP-9cY5rEca_KOSeDQWEt1OY9sdSJd8D2HOxBgAK6OVYOD55j5M",
+      "pictureSource": "ATV",
       "relatedSearch": [
         {
-          "title": "Veliaht 21. Bölüm HD Tek Parça İzle - Son Bölüm",
+          "title": "Kuruluş Orhan",
           "snippet": "",
-          "url": "https://www.showtv.com.tr/dizi/tum_bolumler/veliaht-sezon-1-bolum-21-izle/130579",
-          "source": "Show TV"
+          "url": "https://www.atv.com.tr/kurulus-orhan/14-bolum/izle",
+          "source": "ATV"
         },
         {
-          "title": "Veliaht Dizisi Yine Kartpostallık Sahnelere Ev Sahipliği Yaptı!",
+          "title": "’Kuruluş Orhan’da savaş kapıda: Saray, aşk- ihanet- savaş üçgeninde!",
           "snippet": "",
-          "url": "https://onedio.com/haber/veliaht-dizisi-yine-kartpostallik-sahnelere-ev-sahipligi-yapti-1342411",
-          "source": "Onedio"
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/kurulus-orhanda-savas-kapida-saray-ask-ihanet-savas-ucgeninde",
+          "source": "Sabah"
         },
         {
-          "title": "Kars Barosu’ndan dizi çekimlerine destek açıklaması",
+          "title": "Kuruluş Orhan 12 Şubat 2026 - Saat Kaçta Başlıyor? - TV Rehberi",
           "snippet": "",
-          "url": "https://www.karsmanset.com/haber/kars-barosundan-dizi-cekimlerine-destek-aciklamasi-1632054.htm",
-          "source": "Kars Manşet"
+          "url": "https://www.hurriyet.com.tr/tv-rehberi/program-detay/23807516/kurulus-orhan/",
+          "source": "Hürriyet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,20 +229,20 @@
       "title": "halef son bölüm full izle",
       "trafficCount": "100+",
       "pubDate": "Fri, 13 Feb 2026 14:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaEoBkBDLXDfRdZspTVUK4P06x7tP_F9PzIGXJ2Uo74OZizpl0oDnoDgUPu0",
-      "pictureSource": "Haberler",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe6sq10KX6TYivl2I0Eoze_Erqv8jUH_87e_Io_bwplI9DaMH-cmRZRhHzebQ",
+      "pictureSource": "Cumhuriyet",
       "relatedSearch": [
+        {
+          "title": "Halef dizisinin yeni bölümü ne zaman? Halef dizisinin son bölümünde ne oldu?",
+          "snippet": "",
+          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/halef-dizisinin-yeni-bolumu-ne-zaman-halef-dizisinin-son-bolumunde-ne-oldu-2478158",
+          "source": "Cumhuriyet"
+        },
         {
           "title": "Halef 21. bölüm fragmanı yayınlandı mı?",
           "snippet": "",
           "url": "https://www.haberler.com/haber/halef-21-bolum-fragmani-yayinlandi-mi-19561551-haberi/",
           "source": "Haberler"
-        },
-        {
-          "title": "Sahte gizli gebelik dengeleri bozuyor",
-          "snippet": "",
-          "url": "https://www.dizidoktoru.com/dizi/sahte-gizli-gebelik-dengeleri-bozuyor-h48295.html",
-          "source": "Dizi Doktoru"
         },
         {
           "title": "Halef: Köklerin Çağrısı 20. Bölüm – Hicran’ın Pavyon Geçmişi Urfa’ya Yayılıyor",
@@ -189,82 +257,26 @@
       "title": "nba all star 2026",
       "trafficCount": "100+",
       "pubDate": "Fri, 13 Feb 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPUD_rlbGsSXp_QsKlkcXfN4bRTVzXlMm9gG1xnl5VaNYaKDRb_wHR84lENBU",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrMPKt7f5MS65HiVZtRWdPuq_VMFfW4yiOafbmEsJkXPCl-Xvd3D3WaQgOKc8",
       "pictureSource": "NBA",
       "relatedSearch": [
         {
-          "title": "While Flagg was sidelined with an injury, Edgecombe takes MVP honors in Rising Stars game",
+          "title": "2026 NBA All-Star Saturday participants",
           "snippet": "",
-          "url": "https://www.nba.com/mavs/news/while-flagg-was-sidelined-with-an-injury-edgecombe-takes-mvp-honors-in-rising-stars-game",
+          "url": "https://www.nba.com/news/2026-nba-all-star-saturday-participants",
           "source": "NBA"
         },
         {
-          "title": "Full highlights and interviews from VJ Edgecombe's historic night in LA",
+          "title": "Star-Studded NBA All-Star Celebrity Game Ignites Los Angeles",
           "snippet": "",
-          "url": "https://www.nbcphiladelphia.com/video/nba/philadelphia-76ers/full-highlights-and-interviews-from-vj-edgecombes-historic-night-in-la/4352076/",
-          "source": "NBC10 Philadelphia"
+          "url": "https://evrimagaci.org/gpt/starstudded-nba-allstar-celebrity-game-ignites-los-angeles-528946",
+          "source": "Evrim Ağacı"
         },
         {
-          "title": "With a game-winning shot in the first game and the …",
+          "title": "2026 NBA All-Star Weekend preview: Dunks, stars and more",
           "snippet": "",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/02/13/with-a-game-winning-shot-in-the-first-game-and-the/88674119007/",
-          "source": "HoopsHype"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mikhail shaidorov",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 13 Feb 2026 14:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9Q1GFlLTyPmXxH39n93ImYCkigwOqoiwfT9LZDeFtE306eOXY0u5GvkV7LwM",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "2026 Winter Olympics: Mikhail Shaidorov wins men's figure skating gold as 'Quad God' Ilia Malinin crumbles",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/articles/c99jx4l7191o",
-          "source": "BBC"
-        },
-        {
-          "title": "Will American ‘Quad God’ Ilia Malinin try hardest quad of all in his last skate at the Olympics?",
-          "snippet": "",
-          "url": "https://apnews.com/article/milan-cortina-olympics-figure-skating-malinin-quad-axel-winter-games-52767d938dfa8869ef4f8d84dbe40da5",
-          "source": "AP News"
-        },
-        {
-          "title": "Who is Ilia Malinin, the back-flipping 'Quad God' figure skater whose catastrophic final skate was the biggest shock of the Winter Olympics?",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/us/article/who-is-ilia-malinin-the-back-flipping-quad-god-figure-skater-whose-catastrophic-final-skate-was-the-biggest-shock-of-the-winter-olympics-180815935.html",
-          "source": "Yahoo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tusaş kaan",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 13 Feb 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzzP0hetM2fW9zHnOd5x-44E45djHgznRnrrdSnTNoYXvuVv1LMljlFCzfEMA",
-      "pictureSource": "Anadolu Ajansı",
-      "relatedSearch": [
-        {
-          "title": "Savunma Sanayii Başkanı Haluk Görgün Milli Muharip Uçak KAAN'ın 2 yeni prototip uçağını paylaştı",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/vg/video-galeri/savunma-sanayii-baskani-haluk-gorgun-milli-muharip-ucak-kaanin-2-yeni-prototip-ucagini-paylasti-/0",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "TUSAŞ Genel Müdürü Demiroğlu’ndan Defence Turk’e özel açıklamalar",
-          "snippet": "",
-          "url": "https://www.defenceturk.net/tusas-genel-muduru-demiroglundan-defence-turke-ozel-aciklamala",
-          "source": "Defence Turk"
-        },
-        {
-          "title": "KAAN, J-35 ve F-35 Riyad’da Karşı Karşıya: Çin Basınından “Türkiye’nin Gölgesinde Kaldık” Yorumu",
-          "snippet": "",
-          "url": "https://www.savunmatr.com/kaan-j-35-ve-f-35-riyadda-karsi-karsiya-cin-basinindan-turkiyenin-golgesinde-kaldik-yorumu/",
-          "source": "SavunmaTR"
+          "url": "https://www.espn.com/nba/story/_/id/47851191/nba-all-star-2026-superstar-weekend-usa-world-lebron-durant-giannis-wemby-dunk-contest-3-point",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
