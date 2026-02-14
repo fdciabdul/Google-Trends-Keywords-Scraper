@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-02-14 09:29:57",
+  "lastUpdate": "2026-02-14 09:45:50",
   "data": [
     {
+      "title": "الطقس الان",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 13 Feb 2026 21:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQPQJ8xh49_K77eKMsVjq0JXmqIIyQSE3RjxWU7RjkOEISmW45doOJBlLnO48",
+      "pictureSource": "إيجبتكِ",
+      "relatedSearch": [
+        {
+          "title": "أجواء شتوية باردة ورياح محملة بالأتربة وتوقعات بسقوط أمطار في الإسكندرية",
+          "snippet": "",
+          "url": "https://www.egyptke.com/187767",
+          "source": "إيجبتكِ"
+        },
+        {
+          "title": "استقرار الأحوال الجوية بالإسكندرية رغم التحذيرات من العاصفة الترابية",
+          "snippet": "",
+          "url": "https://www.vetogate.com/5593998",
+          "source": "فيتو"
+        },
+        {
+          "title": "انخفاض طفيف في الحرارة مع رياح قوية.. أمطار متوقعة في الإسكندرية اليوم",
+          "snippet": "",
+          "url": "https://gate.ahram.org.eg/News/5530060.aspx",
+          "source": "بوابة الأهرام"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "الطقس اليوم",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 13 Feb 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRArAqSiZ3dzXmqWSx10NioYGVqif_Nq-X8nCKYOZfuDE8G029g99Om9sDIfuc",
       "pictureSource": "الصباح العربي",
@@ -33,54 +61,26 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Fri, 13 Feb 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDesOjZW0JszCcC5NrxuyQOrbbQvpsqlHlvuTQKMGnjWO3IdmJgOx0VVnb1q8",
-      "pictureSource": "Radio Val d'Isère",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT26u9UlU7iE6GpdNNV2Yr81Sa4XNIOf1W62kfo0z2CU0ChzoEwTW5Yi79FpnM",
+      "pictureSource": "Statesman Journal",
       "relatedSearch": [
-        {
-          "title": "English News, Weather and Daily Events - February 14, 2026",
-          "snippet": "",
-          "url": "https://www.radiovaldisere.com/index.php/fiche-publication/english-news-weather-and-daily-events-february-14-2026",
-          "source": "Radio Val d'Isère"
-        },
-        {
-          "title": "Work starts on historic walls after weather damage",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cg4glpxl13zo",
-          "source": "BBC"
-        },
         {
           "title": "Heavy rain returns to Oregon, but will it bring any snow to mountains?",
           "snippet": "",
           "url": "https://www.statesmanjournal.com/story/news/local/oregon/2026/02/06/rain-weather-forecast-for-northwest-oregon-this-weekend/88550466007/",
           "source": "Statesman Journal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "حالة الطقس",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 13 Feb 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoP8ONFxD7hcM3NBj8DO1qLMmimqP4fDd_hFYJRw94edqjeUgNPSIGH_DQxVk",
-      "pictureSource": "إيجبتكِ",
-      "relatedSearch": [
-        {
-          "title": "اعتدال نهاري وبرودة ليلية تفرض نفسها على الشارع في طقس الغربية اليوم",
-          "snippet": "",
-          "url": "https://www.egyptke.com/187762",
-          "source": "إيجبتكِ"
         },
         {
-          "title": "اليوم السبت.. انخفاض الحرارة صباحًا مع شبورة مائية ورياح مثيرة للأتربة والرمال",
+          "title": "Showers Arrive Saturday Afternoon",
           "snippet": "",
-          "url": "https://www.dostor.org/5419338",
-          "source": "جريدة الدستور"
+          "url": "https://nbc16.com/news/local/showers-arrive-saturday-afternoon",
+          "source": "KMTR"
         },
         {
-          "title": "مائل للبرودة ليلًا.. تعرّف على حالة الطقس اليوم السبت بالغربية",
+          "title": "Wetter & Cooler Weekend Weather Begins",
           "snippet": "",
-          "url": "https://gate.ahram.org.eg/News/5529971.aspx",
-          "source": "بوابة الأهرام"
+          "url": "https://kval.com/news/local/wetter-cooler-weekend-weather-begins",
+          "source": "KVAL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "DutchNews.nl"
         },
         {
+          "title": "Batting first wasn't easy, but we showed right intent: USA captain Monank",
+          "snippet": "",
+          "url": "https://www.msn.com/en-in/sports/cricket/batting-first-wasn-t-easy-but-we-showed-right-intent-usa-captain-monank/ar-AA1WiHnV",
+          "source": "MSN"
+        },
+        {
           "title": "Mohsin goes through Van Beek's gates | T20WC 2026",
           "snippet": "",
           "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/videos/mohsin-goes-through-van-beek-s-gates-t20wc-2026",
           "source": "ICC"
-        },
-        {
-          "title": "Mukkamalla, Harmeet fashion big win for United States",
-          "snippet": "",
-          "url": "https://dailypioneer.com/news/mukkamalla-harmeet-fashion-big-win-for-united-states",
-          "source": "Daily Pioneer"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "Reuters"
         },
         {
-          "title": "من هو الرئيس التنفيذي الجديد لـ«دي بي ورلد»؟",
+          "title": "عبدالله بن دميثان رئيساً لـ «الموانئ والجمارك»",
           "snippet": "",
-          "url": "https://twaslnews.twaslnews.com/384536/",
-          "source": "شبكة تواصل الإخبارية"
+          "url": "https://25h.app/2026/02/14/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%AF%D9%85%D9%8A%D8%AB%D8%A7%D9%86-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A7%D9%8B-%D9%84%D9%80-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%86%D8%A6-%D9%88/",
+          "source": "25H"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,14 +173,14 @@
       "title": "hull city vs chelsea",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Feb 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm06n2hbMZ9pgsfmxF9yf07qnFthI7X3nGxfNg2hiLs2b7jE7OnWyGu-tgypA",
-      "pictureSource": "The Chelsea Chronicle",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQcmFQatc2YygSHQkppPOJ8JBwfSUigtWzc1-7Ej2X_pJgN8JwoFMMTKQDytQ",
+      "pictureSource": "Football London",
       "relatedSearch": [
         {
-          "title": "Liam Rosenior's celebration for Pedro Neto goal shows Chelsea's training ground work has paid off",
+          "title": "Every word Liam Rosenior said on arrests in Hull vs Chelsea, Pedro Neto heroics, injury concern",
           "snippet": "",
-          "url": "https://www.thechelseachronicle.com/match-coverage/liam-roseniors-celebration-for-pedro-neto-goal-shows-chelseas-training-ground-work-has-paid-off/",
-          "source": "The Chelsea Chronicle"
+          "url": "https://www.football.london/chelsea-fc/news/every-word-liam-rosenior-said-33424847",
+          "source": "Football London"
         },
         {
           "title": "Chelsea's mentality thrills Rosenior in FA Cup victory over Hull",
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "عبارات عيد الحب",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 13 Feb 2026 13:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjAymJGnH-Eg93pFTvNAwmZwdL83Z2S4SWZ_jJqkqoG7trcTQltZsIJ5UVCMQ",
-      "pictureSource": "Euronews.com",
-      "relatedSearch": [
-        {
-          "title": "من دم القديس \"فالنتاين\" إلى أرباح بالمليارات.. كيف تحوّل عيد الحب من تضحية إلى ساحة جدل وموسم تجاري؟",
-          "snippet": "",
-          "url": "https://arabic.euronews.com/2026/02/14/from-blood-saint-billions-profits-how-did-valentines-day-transform-from-sacr",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "د.عبد الفتاح طوقان يكتب: عيد \" حب الوطن\" أقوى من عيد فالنتين",
-          "snippet": "",
-          "url": "https://www.ghadnews.net/2026/02/13/%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%AD-%D8%B7%D9%88%D9%82%D8%A7%D9%86-%D9%8A%D9%83%D8%AA%D8%A8-%D8%B9%D9%8A%D8%AF-%D8%AD%D8%A8-%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D8%A3%D9%82/",
-          "source": "أخبار الغد"
-        },
-        {
-          "title": "أغرب تقاليد عيد الحب في كل دول العالم",
-          "snippet": "",
-          "url": "https://beirutcom.net/375552",
-          "source": "Beirutcom.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "متى عيد الحب",
       "trafficCount": "200+",
       "pubDate": "Fri, 13 Feb 2026 12:50:00 -0800",
@@ -265,6 +237,34 @@
           "snippet": "",
           "url": "https://www.elaosboa.com/tag/%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%85%D9%8A%D8%B1%D8%A9-%D8%A7%D8%AD%D9%85%D8%AF/",
           "source": "الأسبوع"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "موناكو ضد نانت",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 13 Feb 2026 12:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ84tM02uXW8jMLwRuKsD7Psdi8ATrXaCajMBu_pmsj74plha8PuVJkz-VVT5w",
+      "pictureSource": "شبكة تواصل الإخبارية",
+      "relatedSearch": [
+        {
+          "title": "مشاهدة بث مباشر مباراة نانت وموناكو (0-0) في الدوري الفرنسي",
+          "snippet": "",
+          "url": "https://twaslnews.twaslnews.com/390117/",
+          "source": "شبكة تواصل الإخبارية"
+        },
+        {
+          "title": "إندريك يتعرف على مدى الحظر بعد أن حصل لاعب ريال مدريد المعار إلى ليون على بطاقة حمراء في مباراة ليون ضد نانت",
+          "snippet": "",
+          "url": "https://www.goal.com/ar/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A7%D9%95%D9%86%D8%AF%D8%B1%D9%8A%D9%83-%D9%8A%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%89-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%94%D9%86-%D8%AD%D8%B5%D9%84-%D9%84%D8%A7%D8%B9%D8%A8-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1-%D8%A7%D9%95%D9%84%D9%89-%D9%84%D9%8A%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%AD%D9%85%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%84%D9%8A%D9%88%D9%86-%D8%B6%D8%AF-%D9%86%D8%A7%D9%86%D8%AA/blt752b098888384e9d",
+          "source": "Goal.com"
+        },
+        {
+          "title": "مصطفى محمد احتياطي.. تشكيل نانت أمام موناكو في الدوري الفرنسي",
+          "snippet": "",
+          "url": "https://www.elbalad.news/6869413",
+          "source": "صدى البلد"
         }
       ],
       "link": "https://imtaqin.id/"
