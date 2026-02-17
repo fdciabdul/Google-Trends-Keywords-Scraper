@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-02-17 18:01:54",
+  "lastUpdate": "2026-02-17 18:28:09",
   "data": [
     {
       "title": "meda variakojytė",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 17 Feb 2026 09:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpTPzWoYgxtl-mQprbYwWpy0PP4sXUApKq9kPJrbc_DAToZoLc43pOJL6kA0",
       "pictureSource": "15min.lt",
@@ -59,7 +59,7 @@
     },
     {
       "title": "adas darinskas",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 17 Feb 2026 05:20:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNQx5l7Fdz7xNNtGYE6CYdf2vwujxH25PfVcJ68E-zeAwyQgxaa5biJCyuJA8",
       "pictureSource": "Delfi",
@@ -89,15 +89,9 @@
       "title": "vmi",
       "trafficCount": "2000+",
       "pubDate": "Tue, 17 Feb 2026 00:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpcoWilJBUxy4R9SP4tGi9isf1UkyptGsBfkJM79jj-6CZOF6N8SqrRwgalOs",
-      "pictureSource": "Delfi",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX64BIoiXzizVMQKxQd86ajgg3N4e8VJPCZOruNzXaQJU5JSRiv0_uwnuULJE",
+      "pictureSource": "Lrytas",
       "relatedSearch": [
-        {
-          "title": "Sutriko „Mano VMI“ sistema",
-          "snippet": "",
-          "url": "https://www.delfi.lt/verslas/naujienos/sutriko-mano-vmi-sistema-120212840",
-          "source": "Delfi"
-        },
         {
           "title": "Daliai gyventojų nepavyksta prisijungti prie „Mano VMI“: paaiškino, kas nutiko",
           "snippet": "",
@@ -109,6 +103,12 @@
           "snippet": "",
           "url": "https://www.15min.lt/verslas/naujiena/bendroves/mano-vmi-sistema-sutriko-vartotojai-susiduria-su-trikdziais-663-2623412",
           "source": "15min.lt"
+        },
+        {
+          "title": "Pajamų deklaracijos: prieš spaudžiant „patvirtinti“ – svarbus perspėjimas dėl VMI duomenų",
+          "snippet": "",
+          "url": "https://77.lt/pajamu-deklaracijos-pries-spaudziant-patvirtinti-svarbus-perspejimas-del-vmi-duomenu",
+          "source": "77.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,40 +170,18 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "delfi",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 16 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2f8vik69nexU1S3c9gKGVscAg-b2McnqNbNQsqN7qjcW2LGc_8Cfy0RgBT-U",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Viktorijos Siegel ir Lauryno Suodaičio skyrybų dramoje – esminis pokytis",
-          "snippet": "",
-          "url": "https://www.delfi.lt/veidai/zmones/viktorijos-siegel-ir-lauryno-suodaicio-skyrybu-dramoje-esminis-pokytis-120212841",
-          "source": "Delfi"
-        },
-        {
-          "title": "Kelio atgal nėra: V. Siegel ir L. Suodaičio skyrybos pasiekė teismą",
-          "snippet": "",
-          "url": "https://www.etaplius.lt/gyvenimas/veidai/kelio-atgal-nera-v-siegel-ir-l-suodaicio-skyrybos-pasieke-teisma/387174",
-          "source": "Etaplius"
-        },
-        {
-          "title": "L. Suodaičio ir V. Siegel skyrybų byloje pasiektas lemiamas lūžis",
-          "snippet": "",
-          "url": "https://lnk.lt/straipsniai/veidai/l-suodaicio-ir-v-siegel-skyrybu-byloje-pasiektas-lemiamas-luzis/361030",
-          "source": "LNK.LT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "yahoo",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRJQ8Wm4hXEu3WSSxCOF8_c5RAZBEqCWEW62Rpzop6xID1C8x4Mm6yT9ZMstw",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5OjCOOJ_DxUoogygATHkAw-5VUrtDxyHga_zjG2jhh4EIVnEluaAmmO1gX4",
+      "pictureSource": "The Wall Street Journal",
       "relatedSearch": [
+        {
+          "title": "Stock Market Today: Nasdaq Drops in Continued Tech Selloff— Live Updates",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-17-2026?gaa_at=eafs&gaa_n=AWEtsqe6nmsiiEUSzZRLRBSHX7a5fRfts9EKEfsiK6LgRjXTgU4_WjE4sKzN&gaa_ts=6994b6bd&gaa_sig=GdqsaUMliU26GomKny1cxFJjRpt96OR78bpLiDbcMV-UL9VNtFZ_njTimdrVL5NLjKjeCaF-UYpORIaUiuqBzw%3D%3D",
+          "source": "The Wall Street Journal"
+        },
         {
           "title": "Stock market today: Dow, S&P 500, Nasdaq waver in volatile trading as AI anxiety lingers",
           "snippet": "",
@@ -215,12 +193,6 @@
           "snippet": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-google-amazon-meta-nvidia/",
           "source": "Investor's Business Daily"
-        },
-        {
-          "title": "U.S. stocks open mixed to kick off holiday-shortened week",
-          "snippet": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-fed-minutes-econ-data-in-focus-4507837",
-          "source": "Investing.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -247,7 +219,7 @@
         {
           "title": "Žinios",
           "snippet": "",
-          "url": "https://www.lrt.lt/mediateka/irasas/2000653073/zinios",
+          "url": "https://www.lrt.lt/mediateka/irasas/2000653100/zinios",
           "source": "LRT"
         }
       ],
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.nikkansports.com/entertainment/news/202602160000731.html",
           "source": "nikkansports.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "uzgavenes",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 16 Feb 2026 21:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHYwM1Yv25owLyuQ-QALhvJMHvXyleDy3tac6Em8A-2gem64np4Wyf217D5fs",
+      "pictureSource": "Kauno miesto savivaldybė",
+      "relatedSearch": [
+        {
+          "title": "Užgavėnių šventė",
+          "snippet": "",
+          "url": "https://www.kaunas.lt/seniunijos/uzgaveniu-svente-14/",
+          "source": "Kauno miesto savivaldybė"
+        },
+        {
+          "title": "„Žiema, žiema, bėk iš kiemo!“: sostinėje smagiai paminėtos Užgavėnės",
+          "snippet": "",
+          "url": "https://www.lrt.lt/naujienos/laisvalaikis/13/2842147/ziema-ziema-bek-is-kiemo-sostineje-smagiai-paminetos-uzgavenes",
+          "source": "LRT"
+        },
+        {
+          "title": "Švenčiantys Užgavėnes Rumšiškėse gali paskanauti ne tik blynų: apžvelgė maisto kainas",
+          "snippet": "",
+          "url": "https://www.delfi.lt/verslas/naujienos/svenciantys-uzgavenes-rumsiskese-gali-paskanauti-ne-tik-blynu-apzvelge-maisto-kainas-120212034",
+          "source": "Delfi"
         }
       ],
       "link": "https://imtaqin.id/"
