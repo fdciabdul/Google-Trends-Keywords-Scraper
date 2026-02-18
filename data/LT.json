@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-02-18 20:41:35",
+  "lastUpdate": "2026-02-18 20:59:40",
   "data": [
-    {
-      "title": "lkl",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 18 Feb 2026 08:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMRrHl2Pn4lwMf-vh0cQ8cqKHJpabe_tVi8q5-bmvmZm-BgAHf2nUjUmCyRbw",
-      "pictureSource": "15min.lt",
-      "relatedSearch": [
-        {
-          "title": "„Žalgiris“ sudorojo be išvaryto trenerio likusį varžovą",
-          "snippet": "",
-          "url": "https://www.15min.lt/24sek/naujiena/lietuva/zalgiris-sudorojo-be-isvaryto-trenerio-likusi-varzova-875-2624550",
-          "source": "15min.lt"
-        },
-        {
-          "title": "Kėdainiuose – išvarytas Eglinskas ir užtikrintas „Žalgirio“ triumfas / Naujienos",
-          "snippet": "",
-          "url": "https://www.basketnews.lt/news-241427-kedainiuose-isvarytas-eglinskas-ir-uztikrintas-zalgirio-triumfas.html",
-          "source": "BasketNews.lt"
-        },
-        {
-          "title": "Informacija apie žalgiriečių 12-uką prieš LKL rungtynes Kėdainiuose",
-          "snippet": "",
-          "url": "https://zalgiris.lt/naujienos/informacija-apie-zalgirieciu-12-uka-pries-lkl-rungtynes-kedainiuose",
-          "source": "Žalgiris"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "sportas",
       "trafficCount": "200+",
@@ -49,10 +21,38 @@
           "source": "Lrytas"
         },
         {
-          "title": "Olimpinio ledo ritulio drama – Kanada vos išvengė kelionės namo",
+          "title": "Olimpinių žaidynių ledo ritulio ketvirtfinalis: Kanada – Čekija",
           "snippet": "",
-          "url": "https://www.15min.lt/sportas/naujiena/ziemos-sportas/olimpinio-ledo-ritulio-drama-kanada-vos-isvenge-keliones-namo-295-2624544",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/2843373/olimpiniu-zaidyniu-ledo-ritulio-ketvirtfinalis-kanada-cekija",
+          "source": "LRT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nevėžis vs žalgiris",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMRrHl2Pn4lwMf-vh0cQ8cqKHJpabe_tVi8q5-bmvmZm-BgAHf2nUjUmCyRbw",
+      "pictureSource": "15min.lt",
+      "relatedSearch": [
+        {
+          "title": "„Žalgiris“ sudorojo be išvaryto trenerio likusį varžovą",
+          "snippet": "",
+          "url": "https://www.15min.lt/24sek/naujiena/lietuva/zalgiris-sudorojo-be-isvaryto-trenerio-likusi-varzova-875-2624550",
           "source": "15min.lt"
+        },
+        {
+          "title": "Informacija apie žalgiriečių 12-uką prieš LKL rungtynes Kėdainiuose",
+          "snippet": "",
+          "url": "https://zalgiris.lt/naujienos/informacija-apie-zalgirieciu-12-uka-pries-lkl-rungtynes-kedainiuose",
+          "source": "Žalgiris"
+        },
+        {
+          "title": "Paskutinėje repeticijoje prieš KMT finalo ketvertą „Žalgiris“ nesunkiai įveikė kėdainiečius",
+          "snippet": "",
+          "url": "https://www.lrytas.lt/sportas/krepsinis/2026/02/18/news/paskutineje-repeticijoje-pries-kmt-finalo-ketverta-zalgiris-nesunkiai-iveike-kedainiecius-41370619",
+          "source": "Lrytas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "Delfi"
         },
         {
-          "title": "Sinoptikai: šalčiai švelnės, vėl iškris sniegas, tačiau netrukus sulauksime ir atodrėkio",
-          "snippet": "",
-          "url": "https://www.15min.lt/naujiena/aktualu/orai/sinoptikai-salciai-svelnes-vel-iskris-sniegas-taciau-netrukus-sulauksime-ir-atodrekio-60-2623766",
-          "source": "15min.lt"
-        },
-        {
           "title": "Perspėja dėl atslenkančio ciklono – dangus maišysis su žeme",
           "snippet": "",
           "url": "https://www.tv3.lt/naujiena/lietuva/perspeja-del-atslenkancio-ciklono-dangus-maisysis-su-zeme-n1495754",
           "source": "tv3.lt"
+        },
+        {
+          "title": "Sinoptikai: šalčiai švelnės, vėl iškris sniegas, tačiau netrukus sulauksime ir atodrėkio",
+          "snippet": "",
+          "url": "https://www.15min.lt/naujiena/aktualu/orai/sinoptikai-salciai-svelnes-vel-iskris-sniegas-taciau-netrukus-sulauksime-ir-atodrekio-60-2623766",
+          "source": "15min.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +143,7 @@
     },
     {
       "title": "2026 winter olympics men's snowboarding slopestyle",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Tue, 17 Feb 2026 14:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvgDPlGUqABc9J7n7zIPH1aAQZwR09dXh0OCB4p4MjdGAO2QWkoklukHVyvfA",
       "pictureSource": "ESPN",
@@ -193,34 +193,6 @@
           "snippet": "",
           "url": "https://www.nbcnews.com/sports/figure-skating/sports-newsletter-blade-angels-take-ice-rcna259442",
           "source": "NBC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "benfica vs real madrid",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 17 Feb 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD-DtRcC1VEjtpWhGAhLR3j4PPoRvFXn2Tl_FXj17WBcapWODSZcAjTRtMzyY",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Vinicius Junior says 'racists are cowards' as Gianluca Prestianni denies alleged abuse",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cp9myemmg3ro",
-          "source": "BBC"
-        },
-        {
-          "title": "Euroviews. Racism is not rivalry. It is a crime",
-          "snippet": "",
-          "url": "https://www.euronews.com/2026/02/18/racism-is-not-rivalry-it-is-a-crime",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "Jose Mourinho's new low: Benfica boss embarrassed himself with hypocritical and unhelpful reaction to Vinicius Junior racism row",
-          "snippet": "",
-          "url": "https://www.goal.com/en-sa/lists/jose-mourinho-new-low-benfica-boss-embarrassed-hypocritical-reaction-vinicius-junior-racism-row/blte8881abde288bd7b",
-          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
