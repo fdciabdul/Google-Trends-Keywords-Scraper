@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-02-20 14:08:56",
+  "lastUpdate": "2026-02-20 14:27:18",
   "data": [
-    {
-      "title": "asos",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 20 Feb 2026 05:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXnIxnCg-41gyfo_7C2-tW1t8dbDAIs6XFzIVHYyCgV9bKS6azK0h87DT1--Q",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Asos co-founder dies after Thailand balcony fall",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/ce8w0n061ryo",
-          "source": "BBC"
-        },
-        {
-          "title": "ASOS co-founder Quentin Griffiths dies after Thailand balcony fall",
-          "snippet": "",
-          "url": "https://news.sky.com/story/asos-co-founder-quentin-griffiths-dies-after-thailand-balcony-fall-13509902",
-          "source": "Sky News"
-        },
-        {
-          "title": "Millionaire Asos founder, 58, plunges to his death from 17th floor in mysterious balcony fall in Thailand",
-          "snippet": "",
-          "url": "https://www.thesun.co.uk/news/38279235/asos-millionaire-founder-plunges-death-thailand-balcony/",
-          "source": "The Sun"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "marnus van der merwe",
       "trafficCount": "100+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://www.independent.ie/sport/rugby/munster-rugby/munster-announce-signing-of-springbok-hooker-marnus-van-der-merwe/a564252587.html",
           "source": "The Irish Independent"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "quentin griffiths",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 20 Feb 2026 05:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLUCOudYsk7DuDI6WMDSaAtXfjC5Dobfl_wq2xdbcNYNavF3qV0EgyCVS4hug",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Asos co-founder dies in fall from 18-storey building in Thailand",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2026/feb/20/asos-cofounder-quentin-griffiths-killed-fall-apartment-thailand",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Asos co-founder dies after Thailand balcony fall",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/ce8w0n061ryo",
+          "source": "BBC"
+        },
+        {
+          "title": "ASOS co-founder Quentin Griffiths dies after Thailand balcony fall",
+          "snippet": "",
+          "url": "https://news.sky.com/story/asos-co-founder-quentin-griffiths-dies-after-thailand-balcony-fall-13509902",
+          "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "index",
       "trafficCount": "100+",
       "pubDate": "Fri, 20 Feb 2026 02:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjRS2J8-dfjOviIH2wZyvY_k1BJbnCL4VqmJmao8drgoWKzgO5JxhV2VBk6x0",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvJSbbwR5P_MI4EbtMziDQI99GNZs4twI1Eb2vP6FWWY_ny8XtWeX3ws1YbBo",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Stock futures decline after weaker-than-expected GDP report: Live updates",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures falter as US GDP cools, Fed-favored PCE inflation heats up",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/02/19/stock-market-today-live-updates.html",
-          "source": "CNBC"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-falter-as-us-gdp-cools-fed-favored-pce-inflation-heats-up-000113883.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Dow Set to Open Up Ahead of PCE Inflation Data",
+          "title": "Stock Market Today: Dow Futures Inch Higher; GDP, Inflation Data in Focus — Live Updates",
           "snippet": "",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-022026?gaa_at=eafs&gaa_n=AWEtsqcgtITSurpkcao_zJZqnRg-l9pH7mLoZDTIHUxGi7mNbw5yDBkfdo2R&gaa_ts=69986e3e&gaa_sig=5r1zS93ZXuu7e6nAeRvyCNRBwiWUJhqMAiac_TJvUNVZmWjCfXV-U_mX2dMGqClSougebkzJ-aJPny35P-lnRg%3D%3D",
-          "source": "Barron's"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-us-gdp-report-02-20-26?gaa_at=eafs&gaa_n=AWEtsqehdoNM5XbjK72i2c_YRaAZ-CQs5iTpBonuPvtoiUkOBDYAmGxnIepG&gaa_ts=699872ca&gaa_sig=vsDtAHnY9YQ7upjMnaesFRsI_neWP7M-AbvATJRIVM-E0QTVcBJ05OuIeBpDe8au9YUEALEWy6bN-OT485youQ%3D%3D",
+          "source": "The Wall Street Journal"
         },
         {
-          "title": "Dow Jones Futures Rise; AI Leader Climbs, Cancer-Test Firm Crashes; Trump Tariff Ruling Due?",
+          "title": "Private credit jitters; U.S. PCE, GDP data ahead - what’s moving markets",
           "snippet": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-fall-iran-fears-trump-tariff-ruling-ai-leader/",
-          "source": "Investor's Business Daily"
+          "url": "https://www.investing.com/news/economy-news/private-credit-jitters-us-pce-gdp-data-ahead--whats-moving-markets-4515387",
+          "source": "Investing.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "ticketmaster",
       "trafficCount": "500+",
       "pubDate": "Fri, 20 Feb 2026 01:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0h3jHMmwCM62nUUfM0BQsN9ZxYpfF-H8nW0RgjNQeneY6PiKfI3icqnibt78",
-      "pictureSource": "Yahoo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFqotVwbNUP55xHZBbn051PczQ2gLcNiwMb9VxNH8W4ket3kifh3Cn2g06x80",
+      "pictureSource": "YourTango",
       "relatedSearch": [
         {
-          "title": "Rep. Jamie Raskin Respectfully Disagrees With Trump’s Springsteen ‘Loser’ Diss: ‘America Has No Kings, But We’ve Got One Boss’",
+          "title": "People Are Grieving ‘The End Of Concerts’ As Tickets Become Next To Impossible To Get",
           "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/music/articles/rep-jamie-raskin-respectfully-disagrees-132213239.html",
-          "source": "Yahoo"
+          "url": "https://www.yourtango.com/self/people-grieving-end-concerts-tickets-become-impossible-get",
+          "source": "YourTango"
         },
         {
-          "title": "Trump White House Reacts to 'Loser' Springsteen Tour Announcement With So Many Bad Puns",
+          "title": "Here's How To *actually* Win The Ticketmaster War",
           "snippet": "",
-          "url": "https://www.rollingstone.com/music/music-news/trump-white-house-respond-springsteen-tour-announcement-1235519380/",
-          "source": "Rolling Stone"
+          "url": "https://girlslife.com/trending/315827/heres-how-to-actually-win-the-ticketmaster-war/",
+          "source": "Girls' Life"
         },
         {
-          "title": "Bruce Springsteen tour: How to get tickets and what's the price?",
+          "title": "A thousand dollar ticket: How tour prices reflect on artists",
           "snippet": "",
-          "url": "https://www.app.com/story/entertainment/music/2026/02/18/bruce-springsteen-tour-how-to-get-tickets-prices-bruce-springsteen-barclays-center/88745751007/",
-          "source": "Asbury Park Press"
+          "url": "https://theboar.org/2026/02/how-tour-prices-reflect-on-artists/",
+          "source": "The Boar"
         }
       ],
       "link": "https://imtaqin.id/"
