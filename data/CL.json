@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-02-21 09:42:22",
+  "lastUpdate": "2026-02-21 09:53:43",
   "data": [
-    {
-      "title": "sismo",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 20 Feb 2026 23:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8Yux1KqCSVdbt1KjW0VKPs6AT2eGV4l7WdkL8zec8f-gGAEw0TpHl_L65f1g",
-      "pictureSource": "La Tercera",
-      "relatedSearch": [
-        {
-          "title": "Temblor hoy, viernes 20 de febrero en Chile: consulta epicentro y magnitud",
-          "snippet": "",
-          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-viernes-20-de-febrero-en-chile-consulta-epicentro-y-magnitud/",
-          "source": "La Tercera"
-        },
-        {
-          "title": "Sismo se percibió este miércoles en la Región de Tarapacá",
-          "snippet": "",
-          "url": "https://www.soychile.cl/iquique/sociedad/2026/02/18/940442/sismo-region-tarapaca.html",
-          "source": "SoyChile.cl"
-        },
-        {
-          "title": "Temblor magnitud 5,2 sacude a la región de Antofagasta: epicentro fue cerca de Calama",
-          "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/02/16/temblor-magnitud-49-sacude-a-la-region-de-antofagasta-epicentro-fue-cerca-de-calama.shtml",
-          "source": "BioBioChile"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "temblor",
       "trafficCount": "2000+",
@@ -49,10 +21,38 @@
           "source": "ADN Radio"
         },
         {
-          "title": "Sismo se percibe en la Región del Maule: Revisa AQUÍ la magnitud",
+          "title": "Temblor remeció a la región Metropolitana: conoce la magnitud acá",
           "snippet": "",
-          "url": "https://www.t13.cl/noticia/nacional/sismo-se-percibe-laregion-del-maule-revisa-aqui-magnitud-21-2-2026",
-          "source": "Teletrece"
+          "url": "https://www.radioagricultura.cl/noticias/nacional/temblor-remecio-a-la-region-metropolitana-conoce-la-magnitud-aca_20260220/",
+          "source": "Radio Agricultura"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sismologia chile",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 20 Feb 2026 23:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8Yux1KqCSVdbt1KjW0VKPs6AT2eGV4l7WdkL8zec8f-gGAEw0TpHl_L65f1g",
+      "pictureSource": "La Tercera",
+      "relatedSearch": [
+        {
+          "title": "Temblor hoy, viernes 20 de febrero en Chile: consulta epicentro y magnitud",
+          "snippet": "",
+          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-viernes-20-de-febrero-en-chile-consulta-epicentro-y-magnitud/",
+          "source": "La Tercera"
+        },
+        {
+          "title": "Sismo se percibió este miércoles en la Región de Tarapacá",
+          "snippet": "",
+          "url": "https://www.soychile.cl/iquique/sociedad/2026/02/18/940442/sismo-region-tarapaca.html",
+          "source": "SoyChile.cl"
+        },
+        {
+          "title": "Temblor magnitud 5,2 sacude a la región de Antofagasta: epicentro fue cerca de Calama",
+          "snippet": "",
+          "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/02/16/temblor-magnitud-49-sacude-a-la-region-de-antofagasta-epicentro-fue-cerca-de-calama.shtml",
+          "source": "BioBioChile"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Vanity Fair España"
         },
         {
-          "title": "\"Es un honor\": Kika Silva lució icónico vestido de Kate Middleton en la Gala de Viña",
-          "snippet": "",
-          "url": "https://www.24horas.cl/festival-de-vina-del-mar/kika-silva-brillo-al-estilo-de-la-realeza-britanica-con-el-iconico",
-          "source": "24horas"
-        },
-        {
           "title": "Kika Silva deslumbra en Viña con el vestido que usó la princesa de Gales",
           "snippet": "",
           "url": "https://www.soychile.cl/valparaiso/vina/2026/02/21/940869/kika-silva-vina-princesa-gales.html",
           "source": "SoyChile.cl"
+        },
+        {
+          "title": "'Es reutilizado': Kika Silva entregó adelantos sobre lo que será su vestuario en la Gala de Viña",
+          "snippet": "",
+          "url": "https://www.meganoticias.cl/tendencias/515196-kika-silva-adelanto-vestuario-gala-de-vina-del-mar-20-02-2026.html",
+          "source": "Meganoticias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,7 +211,7 @@
           "source": "BBC"
         },
         {
-          "title": "From handsome prince to a ghost behind glass, Andrew’s face tells the story of his decline | Fay Bound-Alberti",
+          "title": "From handsome prince to a ghost behind glass, Andrew’s face tells the story of his downfall",
           "snippet": "",
           "url": "https://www.theguardian.com/commentisfree/2026/feb/20/andrew-mountbatten-windsor-prince-face-car-window",
           "source": "The Guardian"
