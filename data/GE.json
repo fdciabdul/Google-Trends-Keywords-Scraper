@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-02-22 06:28:49",
+  "lastUpdate": "2026-02-22 06:50:40",
   "data": [
     {
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Sat, 21 Feb 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmauPy3KbOU3cdIWpva7X42flvE70VRHqls2Oj0__qaCQgEKgiNx17fEa7n0s",
-      "pictureSource": "The Weather Channel",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDpKQDGHXAlk8TtfifhcrJzDnefGCB-YcLIvzjsn8KP5jmXfPjPkufiFHBN9E",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
+        {
+          "title": "Blizzard Warnings Issued for Swath of East Coast, Including N.Y.C.",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/02/21/us/blizzard-warnings-northeast-new-york.html",
+          "source": "The New York Times"
+        },
         {
           "title": "Major East Coast Storm Expected Sunday, Monday",
           "snippet": "",
@@ -15,16 +21,10 @@
           "source": "The Weather Channel"
         },
         {
-          "title": "Traveling This Weekend? Here’s What to Know About the Snowstorm.",
+          "title": "Brewing nor’easter bomb cyclone to unleash powerful weekend snowstorm for millions across I-95 corridor",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/02/21/travel/flight-cancellations-blizzard.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Blizzard warning: natural gas prices brace for volatile Sunday open",
-          "snippet": "",
-          "url": "https://www.investing.com/news/general-news/blizzard-warning-natural-gas-prices-brace-for-volatile-sunday-open-4517545",
-          "source": "Investing.com"
+          "url": "https://www.foxweather.com/weather-news/potential-blockbuster-noreaster-snowstorm-interstate-95-corridor-weekend",
+          "source": "FOX Weather"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "Foot Mercato"
         },
         {
-          "title": "L1 : Paris SG-Metz, les compos",
+          "title": "« Les manques nous font du mal » : pas de miracle pour le FC Metz face au PSG",
           "snippet": "",
-          "url": "https://www.maxifoot.fr/ligue-1/paris-sg-metz-les-compos-foot-450734.htm",
-          "source": "Maxifoot"
+          "url": "https://onefootball.com/fr/news/les-manques-nous-font-du-mal-pas-de-miracle-pour-le-fc-metz-face-au-psg-42447908",
+          "source": "OneFootball"
         },
         {
-          "title": "Match : Hakimi en jambes, Zaïre-Emery dominateur, les notes de PSG/Metz (3-0)",
+          "title": "Ligue 1 : le PSG s’offre une victoire franche contre Metz et la tête du classement",
           "snippet": "",
-          "url": "https://www.culturepsg.com/fr/news/match/hakimi-en-jambes-zaire-emery-dominateur-les-notes-de-psg-metz-3-0/58681",
-          "source": "CulturePSG"
+          "url": "https://lecourrier.vn/ligue-1-le-psg-soffre-une-victoire-franche-contre-metz-et-la-tete-du-classement/1341903.html",
+          "source": "lecourrier.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "beIN SPORTS"
         },
         {
-          "title": "PSG return to top of Ligue 1 as Lens lose to Monaco",
+          "title": "Lens lose, giving PSG chance to reclaim Ligue 1 lead",
           "snippet": "",
-          "url": "https://www.chinadailyasia.com/article/629232",
-          "source": "chinadailyhk"
+          "url": "https://www.rfi.fr/en/sports/20260221-lens-lose-giving-psg-chance-to-reclaim-ligue-1-lead",
+          "source": "RFI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "Sportarena.ua"
         },
         {
-          "title": "С дебютом Дро Фернандеса ПСЖ мгновенно преобразился.",
+          "title": "ПСЖ – Мец: прямая трансляция, где смотреть матч онлайн 21 февраля",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/dro-fernandez-ra-mat-psg-lap-tuc-doi-khac",
-          "source": "Vietnam.vn"
+          "url": "https://www.liveresult.ru/news/Futbol/313529-PSG-Mets-pryamaya-translyatsiya-gde-smotret-match-onlayn-21-fevralya",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,10 +211,10 @@
           "source": "beinsports.com.tr"
         },
         {
-          "title": "‘Şampiyonluğumuzu da iptal etmeye hazırlanın’",
+          "title": "Okan Buruk'tan İstanbul'da kendilerini karşılayan taraftara mesaj: Ne yaparlarsa yapsınlar hep beraber başaracağız",
           "snippet": "",
-          "url": "https://www.sabah.com.tr/spor/futbol/2026/02/22/sampiyonlugumuzu-da-iptal-etmeye-hazirlanin",
-          "source": "Sabah"
+          "url": "https://t24.com.tr/spor/okan-buruktan-istanbulda-kendilerini-karsilayan-taraftara-mesaj-ne-yaparlarsa-yapsinlar-hep-beraber-basaracagiz,1301455",
+          "source": "T24"
         },
         {
           "title": "Bu zafere bu sonuç!",
