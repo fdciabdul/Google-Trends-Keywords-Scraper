@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-02-22 21:49:35",
+  "lastUpdate": "2026-02-22 21:58:10",
   "data": [
     {
+      "title": "franco",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 22 Feb 2026 13:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzxobLPQc30dkhpKqyZr4sedeBPNuT9vFyiAHXsV5lzUNEuaXCV01uXSw_YIY",
+      "pictureSource": "Cadena SER",
+      "relatedSearch": [
+        {
+          "title": "No, con Franco no se vivía mejor",
+          "snippet": "",
+          "url": "https://cadenaser.com/nacional/2026/02/13/no-con-franco-no-se-vivia-mejor-cadena-ser/",
+          "source": "Cadena SER"
+        },
+        {
+          "title": "Antes vivíamos mejor",
+          "snippet": "",
+          "url": "https://www.miciudadreal.es/2026/02/22/antes-viviamos-mejor/",
+          "source": "MiCiudadReal.es"
+        },
+        {
+          "title": "Le preguntan sobre los que dicen que con Franco se vivía mejor y su respuesta es tremenda",
+          "snippet": "",
+          "url": "https://www.huffingtonpost.es/virales/le-preguntan-sobre-dicen-franco-vivia-mejor-respuesta-toda-leccion-historia-f202602.html",
+          "source": "El HuffPost"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "carrillo",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 22 Feb 2026 13:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWRGmY7Z3NJjBQalR9aE067HRJtjXkj-7gu2TF39iySsK9lNIoIaB_xIhty_Q",
       "pictureSource": "Milano Cortina 2026",
@@ -31,7 +59,7 @@
     },
     {
       "title": "marta fernandez muro",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 22 Feb 2026 13:40:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbpP9Zngh4mBpySYrZoOrXzkedBM5oAiCF_DfliLdonT2jcIMA4e4UjIHfrHM",
       "pictureSource": "RTVE.es",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "agente nocturno",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 22 Feb 2026 13:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGJOm2FS7hLw-tvnU3xPg9NSePJMjycODfI8ovNlsNnW1Vr8t1qlnF6evbSGY",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "El nuevo número 1 de Netflix en 38 países: la serie thriller de acción que puede con todos",
-          "snippet": "",
-          "url": "https://as.com/meristation/series/el-nuevo-numero-1-de-netflix-en-38-paises-la-serie-thriller-de-accion-que-puede-con-todos-f202602-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "El final de El agente nocturno : temporada 3, explicado",
-          "snippet": "",
-          "url": "https://www.revistagq.com/articulo/el-final-de-el-agente-nocturno-temporada-3-explicado",
-          "source": "GQ España"
-        },
-        {
-          "title": "Furor en Netflix por el estreno de la nueva temporada de su mejor serie y es ideal para maratonear",
-          "snippet": "",
-          "url": "https://www.a24.com/trends/furor-netflix-el-estreno-la-nueva-temporada-su-mejor-serie-y-es-ideal-maratonear-n1528852",
-          "source": "A24.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "cuenca",
       "trafficCount": "200+",
       "pubDate": "Sun, 22 Feb 2026 13:40:00 -0800",
@@ -142,12 +142,46 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "agente nocturno",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 22 Feb 2026 13:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGJOm2FS7hLw-tvnU3xPg9NSePJMjycODfI8ovNlsNnW1Vr8t1qlnF6evbSGY",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "El nuevo número 1 de Netflix en 38 países: la serie thriller de acción que puede con todos",
+          "snippet": "",
+          "url": "https://as.com/meristation/series/el-nuevo-numero-1-de-netflix-en-38-paises-la-serie-thriller-de-accion-que-puede-con-todos-f202602-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "El final de El agente nocturno : temporada 3, explicado",
+          "snippet": "",
+          "url": "https://www.revistagq.com/articulo/el-final-de-el-agente-nocturno-temporada-3-explicado",
+          "source": "GQ España"
+        },
+        {
+          "title": "Furor en Netflix por el estreno de la nueva temporada de su mejor serie y es ideal para maratonear",
+          "snippet": "",
+          "url": "https://www.a24.com/trends/furor-netflix-el-estreno-la-nueva-temporada-su-mejor-serie-y-es-ideal-maratonear-n1528852",
+          "source": "A24.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "kirsty coventry",
       "trafficCount": "200+",
       "pubDate": "Sun, 22 Feb 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt3OBkTLnUjSf2uZjZD32R_uvR_oBdF1zcMeOJP_bAgP4VQ2Y765KLPu3PZAg",
-      "pictureSource": "Milano Cortina 2026",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYEBe1F7Vn3aEF96AXz_Pa-WbJxmcdB3yjickWj6HWnMTjrpBLGeOxJ_ypg3A",
+      "pictureSource": "ACCESS Newswire",
       "relatedSearch": [
+        {
+          "title": "Milano Cortina 2026 Sustainability Efforts in the Spotlight",
+          "snippet": "",
+          "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/milano-cortina-2026-sustainability-efforts-in-the-spotlight-1139791",
+          "source": "ACCESS Newswire"
+        },
         {
           "title": "IOC President Kirsty Coventry issues heartfelt thanks: “I hope we have inspired generations around the world”",
           "snippet": "",
@@ -155,16 +189,10 @@
           "source": "Milano Cortina 2026"
         },
         {
-          "title": "Winter Olympics Tourism Explosion: Why Italy, France, Austria, Switzerland, Norway, Russia and Bosnia & Herzegovina Are Winning Big While the Rest of the World Watches",
+          "title": "Rosie DiManno: Olympic Games from A to Z: Milan and Cortina delivered the quads, the frauds and the bods",
           "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/winter-olympics-tourism-explosion-why-italy-france-austria-switzerland-norway-russia-and-bosnia-herzegovina-are-winning-big-while-the-rest-of-the-world-watches/",
-          "source": "Travel And Tour World"
-        },
-        {
-          "title": "GB chief Muirhead reflects on 'most successful ever Winter Olympics'",
-          "snippet": "",
-          "url": "https://www.tntsports.co.uk/olympics/olympic-games-milano-cortina-2026/2026/team-gb-chef-de-mission-eve-muirhead-reflects-on-most-successful-ever-winter-olympics-at-culmination-of-2026-milano-cortina-games_vid60059696/video.shtml",
-          "source": "TNT Sports"
+          "url": "https://www.thestar.com/sports/olympics-and-paralympics/olympic-games-from-a-to-z-milan-and-cortina-delivered-the-quads-the-frauds-and/article_db0b4aa9-9f4a-476c-ae4f-83ecd4c6086d.html",
+          "source": "The Star"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.latribunadeciudadreal.es/noticia/z8b12f594-0bff-4cd3-a656399a0502b8e4/202602/seis-siglos-de-raices-gitanas",
           "source": "La Tribuna de Ciudad Real"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jessie buckley",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 22 Feb 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0klzdg3Yv9QYFXxZV7MystaTk1gyrIH5a1YrvvH0wi_9rwMvppAMrYExlXAo",
-      "pictureSource": "RTE.ie",
-      "relatedSearch": [
-        {
-          "title": "Irish hopes high for BAFTAs in London tonight",
-          "snippet": "",
-          "url": "https://www.rte.ie/entertainment/2026/0222/1559305-irish-hopes-high-for-baftas-in-london-tonight/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "An ode to Jessie Buckley, the star of 'Hamnet'",
-          "snippet": "",
-          "url": "https://www.glamourmagazine.co.uk/article/jessie-buckley-hamnet-awards",
-          "source": "Glamour UK"
-        },
-        {
-          "title": "'This is nuts': Jessie Buckley wins Bafta for best actress",
-          "snippet": "",
-          "url": "https://www.irishexaminer.com/lifestyle/arid-41798405.html",
-          "source": "Irish Examiner"
         }
       ],
       "link": "https://imtaqin.id/"
