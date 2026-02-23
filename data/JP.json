@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-02-23 21:22:51",
+  "lastUpdate": "2026-02-23 21:42:06",
   "data": [
     {
-      "title": "今日の天気",
-      "trafficCount": "100000+",
-      "pubDate": "Mon, 23 Feb 2026 13:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK934katF3WkLJxFy7pw-LsuvPT0vMWM0yXj37d-vxDP14amdTdVzE_PRGZ6E",
-      "pictureSource": "ウェザーニュース",
+      "title": "天気",
+      "trafficCount": "200000+",
+      "pubDate": "Mon, 23 Feb 2026 13:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvebP1PK8ViwnIkpNH8n7y9IyfjUJK7dQOi2hrMoBs0wD5enTdK2DcjvOl37I",
+      "pictureSource": "Yahoo!ニュース",
       "relatedSearch": [
-        {
-          "title": "低気圧が次々に日本付近を通過 3月はじめにかけて晴天続かず",
-          "snippet": "",
-          "url": "https://weathernews.jp/news/202602/230206/",
-          "source": "ウェザーニュース"
-        },
         {
           "title": "お帰り時間の傘予報 西日本を中心に雨 九州は局地的に激しい雨（tenki.jp）",
           "snippet": "",
@@ -21,10 +15,72 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "関東の週間　気温の変動大　日々の服装選びは慎重に　25日(水)頃は冷たい雨(気象予報士 戸田　よしか 2026年02月23日)",
+          "title": "週間天気予報 週中頃は広く雨や雪 気温は高めの傾向",
           "snippet": "",
-          "url": "https://tenki.jp/forecaster/yosh_ika/2026/02/23/37925.html",
-          "source": "tenki.jp"
+          "url": "https://article.auone.jp/detail/1/2/2/150_2_r_20260224_1771880602500176",
+          "source": "au Webポータル"
+        },
+        {
+          "title": "低気圧が次々に日本付近を通過 3月はじめにかけて晴天続かず",
+          "snippet": "",
+          "url": "https://weathernews.jp/news/202602/230206/",
+          "source": "ウェザーニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 23 Feb 2026 13:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtwpng2SqAM_f4p61HDPLLcRg5H31fHxGjH7cgPKVem8d5JQSovRRhI2Bf2QQ",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Blizzard travel bans remain in effect as five states have over 2 feet of snow",
+          "snippet": "",
+          "url": "https://www.cnn.com/weather/live-news/blizzard-snow-nyc-storm-forecast-02-22-26",
+          "source": "CNN"
+        },
+        {
+          "title": "'Near impossible' travel conditions in New York as 22 inches of snow falls on US east coast",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cy7jnjz75e8t",
+          "source": "BBC"
+        },
+        {
+          "title": "Mayor Mamdani Declares Local State of Emergency, Snow Day for NYC Public Schools to Keep New Yorkers Safe",
+          "snippet": "",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/02/mayor-mamdani-declares-local-state-of-emergency--snow-day-for-ny",
+          "source": "NYC.gov"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "熊本天気",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Feb 2026 13:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSat1OBxeG4dokidIlYQY5ITp0oCkuonmFta2Fb1aoH86_6Xq0IxXJQ-wencOY",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "2月に25℃超の夏日「暑い！熱い！」梅に野焼きに競輪…3連休各地でにぎわう（ＫＫＴ熊本県民テレビ）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/22daa600d0894e533e70c5aa3d27c72f3738b509",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "春の暖かさ 大分市で15.6度を記録 24日からは一転して雨の見込み",
+          "snippet": "",
+          "url": "https://newsdig.tbs.co.jp/articles/obs/2485294?display=1",
+          "source": "TBS NEWS DIG"
+        },
+        {
+          "title": "広島など中国地方で春一番　黄砂の飛来予想も　2月22日夜から23日朝にかけ",
+          "snippet": "",
+          "url": "https://www.chugoku-np.co.jp/articles/-/791215",
+          "source": "中国新聞デジタル"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,12 +142,18 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "東京 天気",
+      "title": "今日の気温",
       "trafficCount": "1000+",
       "pubDate": "Mon, 23 Feb 2026 13:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMovPsmoOYjSyca4fYIHRd6Om8lz18n6lECtLTptfjcO60UaNOqYJ6QHDNbWI",
-      "pictureSource": "ウェザーニュース",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtithjcpfS2AbP4KU7Y7SCfjQGFWZsl3g9yrSlgGOn7I_B6JFE9iNpjNSFiNs",
+      "pictureSource": "Yahoo!ニュース",
       "relatedSearch": [
+        {
+          "title": "「べちゃべちゃどころかグチャグチャ」札幌7.3℃で一気に雪解け進む 路上でスタックする車も （HBCニュース北海道）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/c8a5cd0e99aa2072468de44f1ce61c5d0e4aa60b",
+          "source": "Yahoo!ニュース"
+        },
         {
           "title": "今日2月22日(日)の天気予報 西日本や東海で雨 気温上がり融雪注意",
           "snippet": "",
@@ -103,19 +165,13 @@
           "snippet": "",
           "url": "https://tenki.jp/forecaster/deskpart/2026/02/22/37907.html",
           "source": "tenki.jp"
-        },
-        {
-          "title": "北海道内でも気温上昇 観光客「寒いと思って厚着を持ってきたが…」",
-          "snippet": "",
-          "url": "https://newsdig.tbs.co.jp/articles/-/2484315",
-          "source": "TBS NEWS DIG"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "広島 天気",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 23 Feb 2026 13:00:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcko6gwBAl7ugLZ4w3U4CncWP0bSsfGJ8LGfPlIiZYevc9s1d-Fm1wn61I5-o",
       "pictureSource": "Yahoo!ニュース",
@@ -137,6 +193,34 @@
           "snippet": "",
           "url": "https://news.ntv.co.jp/category/society/hte2998875237845d49ea006b0f752c2c6",
           "source": "日テレNEWS NNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ダウ",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 23 Feb 2026 13:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzKIMWR7O94aTR0B9HRV3L0bicaP2bKFzzxNU-vaCwqWchKh4iZ8vrQ48zXCQ",
+      "pictureSource": "日本経済新聞",
+      "relatedSearch": [
+        {
+          "title": "NYダウ820ドル安 AIと関税不安が交錯、金や米国債にマネー退避",
+          "snippet": "",
+          "url": "https://www.nikkei.com/article/DGXZQOGN232JD0T20C26A2000000/",
+          "source": "日本経済新聞"
+        },
+        {
+          "title": "ＮＹ株反落、８２１ドル安",
+          "snippet": "",
+          "url": "https://www.topics.or.jp/articles/-/1388908",
+          "source": "徳島新聞デジタル"
+        },
+        {
+          "title": "〔米株式〕ダウ大幅反落、530ドル安＝ナスダックも安い（23日午前）(時事通信)",
+          "snippet": "",
+          "url": "https://finance.yahoo.co.jp/news/detail/c4830288cc279783a8a73a1f880dad5da10db96b",
+          "source": "Yahoo!ファイナンス"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -195,71 +279,6 @@
           "source": "au Webポータル"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ダンダダン",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Feb 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOYYgDCowSeuFfLgLeQCSPTANqMOLDcoha-E4kf1Od9BR78yyBF9ONwuec2i8",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "島本和彦『ヴァンパイドル滾』第3巻に『ダンダダン』龍幸伸がコメント＆イラスト寄稿 藤田和日郎に劣らずリスペクトたっぷり",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/536a1b27a8f25339f06f5358dbdf651a9920b068",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "「ヴァンパイドル滾」3巻が本日発売！ 滾たちはヴァンパイアを撃退できるのか 「アオイホノオ」島本和彦氏の最新作！",
-          "snippet": "",
-          "url": "https://manga.watch.impress.co.jp/docs/news/2086354.html",
-          "source": "株式会社インプレス"
-        },
-        {
-          "title": "「ヴァンパイドル滾」3巻が本日発売！ 滾たちはヴァンパイアを撃退できるのか「アオイホノオ」島本和彦氏の最新作！",
-          "snippet": "",
-          "url": "https://news.livedoor.com/topics/detail/30605355/",
-          "source": "ライブドアニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "長澤まさみ",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Feb 2026 12:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbEQMYXEAxodcmb8OID9mZQSiSEsjs_K3UcktAS45LhoJ4k_mEYbL8HpDuigU",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "長澤まさみ「自分が大事にしたいなと思っていたことを分かってくれるパートナー」（オリコン）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/1713933365f7dfd9a2c4a39f8caae724334099c9",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "長澤まさみ「初めての撮影時は、青春真っ只中という感じ。私自身も大人になりました」初起用から20年以上が経ち、変化と成長を振り返る",
-          "snippet": "",
-          "url": "https://article.auone.jp/detail/1/5/9/239_9_r_20260224_1771874097131030",
-          "source": "au Webポータル"
-        },
-        {
-          "title": "長澤まさみ：ブルーのノースリーブワンピ姿で新CMに 20年前の制服姿など懐かしいCM映像も公開",
-          "snippet": "",
-          "url": "https://mainichikirei.jp/article/20260220dog00m100004000a.html",
-          "source": "毎日キレイ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "岡山 天気",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Feb 2026 12:20:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
