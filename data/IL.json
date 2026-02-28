@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-02-28 10:43:00",
+  "lastUpdate": "2026-02-28 10:52:41",
   "data": [
     {
       "title": "bda",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 02:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe-JJ9KrzqvghvdPTJoWI-UOp-QmYuCdZO7G59ZutfMQWXiPUvkMkTO82Og5M",
       "pictureSource": "The Hindu",
@@ -33,9 +33,15 @@
       "title": "טירת הכרמל",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 02:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYqqJFAcBV_j4EURhhSlaHuXY8V--USv4yCkwoA8QaPL9IW2Kn0QHCFqB_BLs",
-      "pictureSource": "רדיו חיפה",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyvdWhXwfJjjIcpVg9Ge-eJS03yiBTXbNFSCk13uPaRk6415QrLtGzkX64cw",
+      "pictureSource": "כאן 11",
       "relatedSearch": [
+        {
+          "title": "גבר בן 53 בצפון נפגע קל לאחר שנפל דרך חור שנפער בדירתו כתוצאה מתקיפה",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/defense/live-1003818/liveid-1003981/",
+          "source": "כאן 11"
+        },
         {
           "title": "בוקר של אזעקות ויירוטים באזור: רסיסי יירוט פגעו במבנה מגורים בגזרת חוף",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.news08.net/%D7%93%D7%99%D7%95%D7%95%D7%97-%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%99-%D7%A2%D7%9C-%D7%A0%D7%A4%D7%99%D7%9C%D7%94-%D7%91%D7%92%D7%96%D7%A8%D7%AA-%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%95%D7%A3/",
           "source": "חדשות אפס שמונה"
-        },
-        {
-          "title": "לוחמי אש באזור מחוז חוף מטפלים בזירה בה התקבלו דיווחים על נפילת טיל הצוותים זיהו נפילת רסיס שפגע בקומה ה-20 ונעצר בקומה 17. לפי צוותי הרפואה במקום דווח על נפגע אחד במצב קל כתוצאה מהנזק שנגרם במקום. בשלב זה לוחמי האש סורקים בקומות לשלילת לכודים. *קרדיט צילום כבאות וה",
-          "snippet": "",
-          "url": "https://www.facebook.com/IsraelFireServices/posts/%D7%9C%D7%95%D7%97%D7%9E%D7%99-%D7%90%D7%A9-%D7%91%D7%90%D7%96%D7%95%D7%A8-%D7%9E%D7%97%D7%95%D7%96-%D7%97%D7%95%D7%A3-%D7%9E%D7%98%D7%A4%D7%9C%D7%99%D7%9D-%D7%91%D7%96%D7%99%D7%A8%D7%94-%D7%91%D7%94-%D7%94%D7%AA%D7%A7%D7%91%D7%9C%D7%95-%D7%93%D7%99%D7%95%D7%95%D7%97%D7%99%D7%9D-%D7%A2%D7%9C-%D7%A0%D7%A4%D7%99%D7%9C%D7%AA-%D7%98%D7%99%D7%9C%D7%94%D7%A6%D7%95%D7%95%D7%AA%D7%99%D7%9D-%D7%96%D7%99%D7%94%D7%95-/1392349286268332/",
-          "source": "Facebook"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +99,10 @@
           "source": "i24NEWS"
         },
         {
-          "title": "Air India suspends flights to Israel for 1 week amid rising US-Iran tensions: Report",
+          "title": "Airlines suspend Middle East flights after US, Israel strikes on Iran",
           "snippet": "",
-          "url": "https://www.aa.com.tr/en/americas/air-india-suspends-flights-to-israel-for-1-week-amid-rising-us-iran-tensions-report/3842448",
-          "source": "Anadolu Ajansı"
+          "url": "https://www.al-monitor.com/originals/2026/02/airlines-suspend-middle-east-flights-after-us-israel-strikes-iran",
+          "source": "AL-Monitor"
         },
         {
           "title": "Israel closes airspace amid Iran strike: What are your rights if your flight was canceled?",
@@ -142,6 +142,15 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "דיסני",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 01:30:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "קטאר",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 01:20:00 -0800",
@@ -155,16 +164,16 @@
           "source": "ynet"
         },
         {
-          "title": "דיווח איראני: בסיסים אמריקאים במפרץ מותקפים כעת",
+          "title": "קטאר סגרה את המרחב האווירי שלה; פיצוצים נשמעו בחרייין",
           "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1290085",
+          "url": "https://www.maariv.co.il/breaking-news/article-1290065",
           "source": "מעריב"
         },
         {
-          "title": "מלחמה במזרח התיכון: איראן תקפה בסיסים אמריקניים ומדינות במפרץ; בחריין וכווית תחת אש",
+          "title": "קטאר ואיראן שוחחו על צמצום ההסלמה באזור",
           "snippet": "",
-          "url": "https://www.mako.co.il/news-world/2026_q1/Article-0022fc71883ac91026.htm",
-          "source": "mako"
+          "url": "https://www.israelhayom.co.il/israelnow/article/19949334",
+          "source": "היום"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +258,6 @@
           "snippet": "",
           "url": "https://passportnews.co.il/article/203581",
           "source": "PassportNews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "חיפה",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 01:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp0EbdNtISLb9Psv2j37cY1pi5c9hp6pJPugn4AP6I1hIf-uHLRl0XbgXUtGs",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "חשד לקשר אסור: מפקד תחנת משטרה בצפון עוכב לחקירה במח\"ש",
-          "snippet": "",
-          "url": "https://www.mako.co.il/news-law/2026_q1/Article-8acdf6d0d299c91026.htm",
-          "source": "mako"
-        },
-        {
-          "title": "מפקד תחנת חיפה הוא הקצין שחשוד במעשה מגונה ובקיום יחסי מין עם שוטרות",
-          "snippet": "",
-          "url": "https://www.haaretz.co.il/news/law/2026-02-27/ty-article/.premium/0000019c-9dbe-d981-a1be-9fbe06f70000",
-          "source": "הארץ"
-        },
-        {
-          "title": "מפקד תחנת חיפה חשוד במעשה מגונה בשוטרת - ובניצול יחסי מרות עם פקודה",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/sygpcoau11x",
-          "source": "ynet"
         }
       ],
       "link": "https://imtaqin.id/"
