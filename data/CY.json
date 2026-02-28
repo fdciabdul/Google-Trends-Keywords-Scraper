@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-28 09:20:41",
+  "lastUpdate": "2026-02-28 09:35:57",
   "data": [
     {
       "title": "cnn",
@@ -33,26 +33,54 @@
       "title": "iran",
       "trafficCount": "500+",
       "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVFE8HYgjIyaf6jN6kFfoJxFNgUY5-elD59mgz1mvBITWeSfB_f2aPUPnxWPY",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJKcqqhftyF1eOFtChCvUL-0ZTKUxsvMIiNB5NOIAu9YLjhf7dboAOmySG3cs",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Live Updates: U.S. and Israel Conduct Strikes on Iran",
+          "title": "US and Israel launch an attack on Iran with tensions high over nuclear talks",
           "snippet": "",
-          "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+          "url": "https://apnews.com/article/iran-us-explosion-tehran-c2f11247d8a66e36929266f2c557a54c",
+          "source": "AP News"
+        },
+        {
+          "title": "Blasts thunder in Bahrain, citizens advised to shelter",
+          "snippet": "",
+          "url": "https://breakingthenews.net/Article/Blasts-thunder-in-Bahrain-citizens-advised-to-shelter/65767767",
+          "source": "Breaking The News"
+        },
+        {
+          "title": "Smoke Seen Near US Navy Base in Bahrain’s Juffair Area: Reuters",
+          "snippet": "",
+          "url": "https://gulistannewstv.com/smoke-seen-near-us-navy-base-in-bahrains-juffair-area-reuters/",
+          "source": "Gulistan News Tv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB49WjAZdyoUecM1CcrwFV4w7hfO5fi1vszkI4n98s-GPPoQmNRQlPeUOargo",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "Live updates: US, Israel attack Iran in ‘preemptive strike,’ Trump posts video on Truth Social",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "Chaos and Panic Grip Tehran as Airstrikes Shake City",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html",
           "source": "The New York Times"
         },
         {
-          "title": "Iran's IRGC says it has begun 'first wave' of missile and drone attacks; no injuries reported in Israel",
+          "title": "Live: Israel and US launch strikes on Iran as Trump confirms 'major combat operations'",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-it-has-begun-first-wave-of-missile-and-drone-attacks-no-injuries-reported-in-israel/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "US, Israel attack Iran live: Trump announces ‘major combat operations’",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/28/live-israel-launches-attacks-on-iran-multiple-explosions-heard-in-tehran",
-          "source": "Al Jazeera"
+          "url": "https://www.reuters.com/world/iran-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -65,22 +93,22 @@
       "pictureSource": "Philenews",
       "relatedSearch": [
         {
-          "title": "Απειλεί η Τεχεράνη: Ετοιμαζόμαστε για αντίποινα",
+          "title": "Ξεκίνησαν τα αντίποινα από το Ιράν: Μπαράζ επιθέσεων με πυραύλους στο Ισραήλ – Σειρήνες πολέμου στο Τελ Αβίβ (βίντεο-εικόνες)",
           "snippet": "",
           "url": "https://www.philenews.com/kosmos/diethni/article/1687570/apili-i-techerani-etimazomaste-gia-antipina-i-apantisi-tha-ine-sintriptiki/",
           "source": "Philenews"
-        },
-        {
-          "title": "Το Ισραήλ εξαπέλυσε προληπτική επίθεση στο Ιράν - Εκρήξεις στην Τεχεράνη",
-          "snippet": "",
-          "url": "https://www.sigmalive.com/news/all/1305270/to-israil-eksapelise-proliptiki-epithesi-sto-iran-ekrikseis-stin-tekherani",
-          "source": "Sigmalive"
         },
         {
           "title": "Οι ΗΠΑ εκκενώνουν μερικώς την πρεσβεία τους στο Ισραήλ",
           "snippet": "",
           "url": "https://m.kathimerini.com.cy/gr/kosmos/oi-ipa-ekkenwnoyn-merikws-tin-presbeia-toys-sto-israil",
           "source": "Kathimerini.com.cy"
+        },
+        {
+          "title": "Τραμπ για Ιράν:«Θα αφανίσουμε το ναυτικό τους-Η ελευθερία πλησιάζει» (BINTEO)",
+          "snippet": "",
+          "url": "https://www.sigmalive.com/news/all/1305277/tramp-ghia-irantha-afanisoyme-to-nautiko-toys-h-eleftheria-plisiazei-binteo",
+          "source": "Sigmalive"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +133,10 @@
           "source": "Sky Sports"
         },
         {
-          "title": "Sancho, Rogers And Luiz Get 6.5 | Aston Villa Players Rated In Derby Defeat Vs Wolves",
+          "title": "Wolves Stun Villa With Gritty Draw In Midlands Derby",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/sancho-rogers-luiz-6-5-222000880.html",
-          "source": "Yahoo Sports"
+          "url": "https://evrimagaci.org/gpt/wolves-stun-villa-with-gritty-draw-in-midlands-derby-531853",
+          "source": "Evrim Ağacı"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,22 +149,22 @@
       "pictureSource": "Zamin.uz",
       "relatedSearch": [
         {
-          "title": "\"Başakşehir\", galibiyet alarak turnuvadaki yerini sağlamlaştırdı (video)",
+          "title": "\"Başakşehir\" ikna edici bir zaferle turnuvadaki konumunu güçlendirdi",
           "snippet": "",
-          "url": "https://zamin.uz/tr/spor/192263-basaksehir-galibiyet-alarak-turnuvadaki-yerini-saglamlastirdi-video.html",
+          "url": "https://zamin.uz/tr/spor/192263-basaksehir-ikna-edici-bir-zaferle-turnuvadaki-konumunu-guclendirdi.html",
           "source": "Zamin.uz"
         },
         {
-          "title": "Bjorlo: Bu maç Galatasaray galibiyetini anlamlı hale getirecekti",
+          "title": "Başakşehir Selke ile kazandı",
           "snippet": "",
-          "url": "https://www.memleket.com.tr/bjorlo-bu-mac-galatasaray-macini-anlamli-hale-getirecekti-2353744h.htm",
-          "source": "Memleket"
+          "url": "https://www.futboo.com/basaksehir-selke-ile-kazandi/89965/",
+          "source": "Futboo.com"
         },
         {
-          "title": "Nuri Şahin: \"O kadar fazla kredi kaybettik ki...\"",
+          "title": "Nuri Şahin: Galibiyet için çok mutluyum",
           "snippet": "",
-          "url": "https://beinsports.com.tr/haber/nuri-sahin-o-kadar-fazla-kredi-kaybettik-ki",
-          "source": "beinsports.com.tr"
+          "url": "https://www.yenimeram.com.tr/nuri-sahin-galibiyet-icin-cok-mutluyum.htm",
+          "source": "Yeni Meram"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,9 +217,9 @@
           "source": "Taka Gazete - Trabzon Haber - Karadeniz Haber"
         },
         {
-          "title": "Trabzonspor'da Ozan Tufan'ın sözleri dikkatleri üzerine çekti",
+          "title": "Trabzon'da Nwaiwu gündem oldu!",
           "snippet": "",
-          "url": "https://www.61saat.com/trabzonsporda-ozan-tufanin-sozleri-dikkatleri-uzerine-cekti",
+          "url": "https://www.61saat.com/trabzonda-nwaiwu-gundem-oldu",
           "source": "61SAAT - TRABZON HABER SAYFASI"
         }
       ],
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.skysports.com/football/live-blog/37002/13512366/conference-league-draw-live-crystal-palace-to-learn-round-of-16-quarter-final-and-semi-final-fixtures",
           "source": "Sky Sports"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "liverpool",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 03:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLKauO55DAYrPdGDjgvGKhkUMBuFjshYiGjsP2YdnHaqgav8kYnfICCHWahQA",
-      "pictureSource": "Sky Sports",
-      "relatedSearch": [
-        {
-          "title": "Premier League predictions and best bets: West Ham win at Liverpool to spark Spurs relegation panic",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/news/11095/13512615/premier-league-predictions-and-best-bets-west-ham-win-at-liverpool-to-spark-spurs-relegation-panic",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Training Gallery | Irons conclude preparations for Liverpool",
-          "snippet": "",
-          "url": "https://www.whufc.com/en/news/training-gallery-or-irons-conclude-preparations-for-liverpool",
-          "source": "West Ham United"
-        },
-        {
-          "title": "Virgil van Dijk: We must keep pushing for results and progress",
-          "snippet": "",
-          "url": "https://www.liverpoolfc.com/news/virgil-van-dijk-we-must-keep-pushing-results-and-progress",
-          "source": "Liverpool FC"
         }
       ],
       "link": "https://imtaqin.id/"
