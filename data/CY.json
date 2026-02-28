@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-02-28 22:46:27",
+  "lastUpdate": "2026-02-28 22:55:08",
   "data": [
-    {
-      "title": "dubai airport",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 13:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1pyAadF2W1tTSi6doXcVtgtzVj87haMmYkVXd8rIoxDPaKFSYlMXhuHSyJPA",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Flights cancelled as travel warnings issued after strikes on Iran",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c0rjpr575g9o",
-          "source": "BBC"
-        },
-        {
-          "title": "US strikes on Iran spark travel chaos as airlines cancel flights",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/europe/airlines-suspend-middle-east-flights-after-us-israel-strikes-iran-2026-02-28/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saudi Airlines cancels flights, Muscat airport shuts amid Iran-Israel escalation",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/en/middle-east/saudi-airlines-cancels-flights-muscat-airport-shuts-amid-iran-israel-escalation/3843389",
-          "source": "Anadolu Ajansı"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "μιμη ντενιση",
       "trafficCount": "200+",
@@ -46,22 +18,50 @@
       "pictureSource": "Hürriyet",
       "relatedSearch": [
         {
-          "title": "Son dakika: Orta Doğu yangın yeri: İran, ABD ve İsrail ile karşı karşıya... Erakçi’den ‘Hamaney hayatta mı?’ sorusuna yanıt... Trump'tan Hamaney açıklaması",
+          "title": "Son dakika: Orta Doğu yangın yeri: İran, ABD ve İsrail ile karşı karşıya... Erakçi’den ‘Hamaney hayatta mı?’ sorusuna yanıt... Trump'tan Hamaney açıklaması... Hürmüz Boğazı kapatıldı",
           "snippet": "",
           "url": "https://www.hurriyet.com.tr/dunya/live-son-dakika-iran-savasi-basladi-israil-tahrani-vurdu-43118343",
           "source": "Hürriyet"
         },
         {
-          "title": "Trump: Hamaney'in Ölümü Tarihin En Kötü İnsanlarından Biri",
+          "title": "Hamaney öldü mü? İsrail, ABD ve İran'dan art arda açıklamalar",
           "snippet": "",
-          "url": "https://www.sondakika.com/3-sayfa/haber-trump-hamaney-in-olumu-tarihin-en-kotu-insanlarind-19612279/",
-          "source": "Son Dakika"
+          "url": "https://www.sozcu.com.tr/netanyahu-hamaney-in-oldugune-dair-isaretler-var-p297658",
+          "source": "Sözcü Gazetesi"
         },
         {
-          "title": "İran'dan sert açıklama: 'Hedeflerine ulaşamayınca psikolojik operasyon başlattılar'",
+          "title": "Öldüğü iddia edilen Hamaney'in sosyal medya hesabından paylaşım: Ali, Zülfikar'ı ile İsrail'e geliyor",
           "snippet": "",
-          "url": "https://www.yenicaggazetesi.com/irandan-sert-aciklama-hedeflerine-ulasamayinca-psikolojik-operasyon-baslattilar-1005010h.htm",
-          "source": "Yeniçağ Gazetesi"
+          "url": "https://www.birgun.net/haber/oldugu-iddia-edilen-hamaney-in-sosyal-medya-hesabindan-paylasim-ali-zulfikar-i-ile-israil-e-geliyor-696618",
+          "source": "birgun.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 28 Feb 2026 11:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJVOd6p6RZTGeHFborcFZI-_DxcZgy_P4DNVWvYgUeul9NIKquKonOlREN_0U",
+      "pictureSource": "WKYT",
+      "relatedSearch": [
+        {
+          "title": "FIRST ALERT WEATHER | Chris Bailey tracks big changes to start March",
+          "snippet": "",
+          "url": "https://www.wkyt.com/2026/02/27/first-alert-weather-chris-bailey-tracks-big-changes-start-march/",
+          "source": "WKYT"
+        },
+        {
+          "title": "Morning Briefing in the Bluegrass",
+          "snippet": "",
+          "url": "https://spectrumnews1.com/ky/louisville/morning-briefing/2026/02/26/ky-morning-briefing",
+          "source": "Spectrum News 1"
+        },
+        {
+          "title": "Morning rain and snow, drier Thursday afternoon",
+          "snippet": "",
+          "url": "https://www.wlky.com/article/morning-rain-and-snow-drier-thursday-afternoon/70510683",
+          "source": "WLKY"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -132,7 +132,7 @@
         {
           "title": "Goldman Sachs Stock Tests Key Support. A Breakdown Could Pressure the Market.",
           "snippet": "",
-          "url": "https://www.barrons.com/articles/goldman-stock-technical-support-market-implications-f07b1372?gaa_at=eafs&gaa_n=AWEtsqdcdIVmWaZr_DgJwzSASSJvCEArqM2SWP8bbSIQ6BEuWAKRyrK05Jbx&gaa_ts=69a373c7&gaa_sig=gwfsWD5eK-vnmmxyvw6_a1cMFKpUFbO44Pgj6bFFwH74raOk-mdgLpTo2hNRpoQ-n0pGOCOgnE3YI2zPgf1N5g%3D%3D",
+          "url": "https://www.barrons.com/articles/goldman-stock-technical-support-market-implications-f07b1372?gaa_at=eafs&gaa_n=AWEtsqchzXMNHJvBwBm69S4FS41bKJihlTHI6W7DzBNiQVUwuP_H6rU_uqW3&gaa_ts=69a375bc&gaa_sig=MAA1NLk1jqs-SaZe9xSQiXP1lcyv7qkdD0VKD-qsQAGOW62uc_xCZf-TLXRizBAqcnCjUVml83JlIvP0dT3RXQ%3D%3D",
           "source": "Barron's"
         },
         {
@@ -179,6 +179,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "apoel fc",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 08:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodxxR6QWGUtvC5rWaJt-Fl2ktWjmjosErr7N9I7nggVI-PsnN8iq2GVwQ8zo",
+      "pictureSource": "Kathimerini.com.cy",
+      "relatedSearch": [
+        {
+          "title": "ΑΠΟΕΛ: Μήνυμα Γκαρσία, πιο σημαντικό από κάθε τρίποντο!",
+          "snippet": "",
+          "url": "https://m.kathimerini.com.cy/gr/athlitismos/kypros-spor/apoel/apoel-minyma-gkarsia-pio-simantiko-apo-kathe-triponto",
+          "source": "Kathimerini.com.cy"
+        },
+        {
+          "title": "Γκαρσία: «Στα δύσκολα μαθαίνεις πράγματα»",
+          "snippet": "",
+          "url": "https://m.24sports.com.cy/gr/sports/podosfairo/kypros/a-katigoria/apoel/gkarsia-sta-dyskola-mathaineis-pragmata",
+          "source": "24Sports & News"
+        },
+        {
+          "title": "Το πρώτο του με άψογο τελείωμα",
+          "snippet": "",
+          "url": "https://sportime.sigmalive.com/podosfairo/kypros/a-katigoria/545358_to-proto-toy-me-apsogo-teleioma",
+          "source": "Sigmalive"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "anorthosis",
       "trafficCount": "500+",
       "pubDate": "Sat, 28 Feb 2026 08:20:00 -0800",
@@ -210,54 +238,26 @@
       "title": "galatasaray - alanyaspor",
       "trafficCount": "5000+",
       "pubDate": "Sat, 28 Feb 2026 08:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPEBxZN2WlfUoAzWb0i8YcY413VtPDPEjEXJ3fWnudf63vnpYbSbY3ttMY5r4",
-      "pictureSource": "Fotomaç",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuW6U9lYng3RNjJKW5c0cLAt0zu8wsV10To0O9sVBEqKvGHdEnbfSbgTdkRY",
+      "pictureSource": "Yeniçağ Gazetesi",
       "relatedSearch": [
         {
-          "title": "Galatasaray Avrupa dönüşü sahasında Alanyaspor'u mağlup etti!",
+          "title": "Galatasaray'da galibiyetin mimarı Torreira maç sonu duygusal konuştu",
           "snippet": "",
-          "url": "https://www.fotomac.com.tr/galatasaray/2026/02/28/galatasaray-sahasinda-corendon-alanyasporu-maglup-etti-iste-macin-ozeti",
-          "source": "Fotomaç"
+          "url": "https://www.yenicaggazetesi.com/galatasarayda-galibiyetin-mimari-torreira-mac-sonu-duygusal-konustu-1004983h.htm",
+          "source": "Yeniçağ Gazetesi"
         },
         {
-          "title": "Okan Buruk: Odaklanmamız Şampiyonluk ve Kupalar",
+          "title": "Okan Buruk'tan Beşiktaş maçı için erteleme cevabı!",
           "snippet": "",
-          "url": "https://www.sondakika.com/spor/haber-okan-buruk-odaklanmamiz-sampiyonluk-ve-kupalar-19612224/",
-          "source": "Son Dakika"
+          "url": "https://beinsports.com.tr/haber/okan-buruktan-besiktas-maci-icin-erteleme-cevabi",
+          "source": "beinsports.com.tr"
         },
         {
-          "title": "Joao Pereira: 'Şampiyonlar Ligi'nde son 16'ya kalan bir takımla oynadık!'",
+          "title": "Wilfried Singo: Liverpool eşleşmesi zor olacak; her şeyimizi vereceğiz ve turu geçmeye çalışacağız",
           "snippet": "",
-          "url": "https://www.hurriyet.com.tr/sporarena/joao-pereira-sampiyonlar-liginde-son-16ya-kalan-bir-takimla-oynadik-43118915",
-          "source": "Hürriyet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dubai news",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Feb 2026 08:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6xMKWm02cuVC_2IVF_-sarXIoxeZQIZEPG2NMO7DYLYBJ3L2l1cjdpJsf9wY",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Iran launches retaliatory strikes at targets across Middle East",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c204px4zddro",
-          "source": "BBC"
-        },
-        {
-          "title": "Live. Trump said he believes reports of Khamenei death are 'correct'",
-          "snippet": "",
-          "url": "https://www.euronews.com/2026/02/28/israel-launches-attack-on-iran-defence-minister-says",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "Iran vows ‘no leniency’ as it launches reprisal attacks on Israel and US air bases",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/feb/28/iran-vows-no-leniency-reprisal-attacks-israel-us-air-bases",
-          "source": "The Guardian"
+          "url": "https://t24.com.tr/spor/wilfried-singo-liverpool-eslesmesi-zor-olacak-her-seyimizi-verecegiz-ve-turu-gecmeye-calisacagiz,1303299",
+          "source": "T24"
         }
       ],
       "link": "https://imtaqin.id/"
