@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-02-28 07:46:33",
+  "lastUpdate": "2026-02-28 07:54:49",
   "data": [
     {
-      "title": "al jazeera",
+      "title": "trump",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 27 Feb 2026 23:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhTlbzUMyj3Vl78TZm5SF3NoNmZWJKUVwuobM5ulY44Aj2Ki488SVSt31GWqo",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c309vz0z893o",
+          "source": "BBC"
+        },
+        {
+          "title": "Trump ‘not happy’ with Iran situation and says military force is still an option",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Trump claimed Iran is building missiles that could soon hit the US. Sources say that’s not backed up by US intelligence.",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/02/27/politics/iran-missiles-trump-intelligence-nuclear",
+          "source": "CNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nyt",
       "trafficCount": "100+",
+      "pubDate": "Fri, 27 Feb 2026 23:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBgcwepz6Hd-nb5V2YUu7oqM7cSM2xsFyCXTssIkdxzNr6HG5niEmRZpkIM0g",
+      "pictureSource": "Ilta-Sanomat",
+      "relatedSearch": [
+        {
+          "title": "Trumpilta pahaa enteilevä lausunto Iranista: ”Joskus on käytettävä voimaa”",
+          "snippet": "",
+          "url": "https://www.is.fi/ulkomaat/art-2000011849664.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Trump: En haluaisi iskeä Iraniin, mutta joskus on pakko",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20212838",
+          "source": "Yle.fi"
+        },
+        {
+          "title": "Omanin ulkoministeri CBS:lle: Huomattavaa edistystä Iranin ja Yhdysvaltain neuvotteluissa",
+          "snippet": "",
+          "url": "https://www.karjalainen.fi/uutissuomalainen/9264132",
+          "source": "Karjalainen"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "al jazeera",
+      "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 23:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnV0Rn4wwVG4HTG7716UfKKd881JdgwJI_tOiyMhD7Q_2vUN2Cd64nKPnjjJE",
       "pictureSource": "camera uk",
@@ -30,29 +86,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "trump iran",
+      "title": "oman",
       "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 23:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhTlbzUMyj3Vl78TZm5SF3NoNmZWJKUVwuobM5ulY44Aj2Ki488SVSt31GWqo",
-      "pictureSource": "BBC",
+      "pubDate": "Fri, 27 Feb 2026 23:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcdc_8slBz6liBHg9qM2Ycun7Vm4rS_fFOXgxIaWx62kmWtxXD28gcGVyL4t0",
+      "pictureSource": "Al Jazeera",
       "relatedSearch": [
         {
-          "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+          "title": "Peace ‘within reach’ as Iran agrees no nuclear material stockpile: Oman FM",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c309vz0z893o",
-          "source": "BBC"
+          "url": "https://www.aljazeera.com/news/2026/2/28/peace-within-reach-as-iran-agrees-no-nuclear-material-stockpile-oman-fm",
+          "source": "Al Jazeera"
         },
         {
-          "title": "February 27, 2026 - Trump administration updates",
+          "title": "U.S.-Iran deal is \"within our reach,\" Omani mediator says",
           "snippet": "",
-          "url": "https://www.cnn.com/politics/live-news/trump-administration-news-02-27-26",
-          "source": "CNN"
+          "url": "https://www.cbsnews.com/news/us-iran-deal-within-our-reach-oman-mediator-says/",
+          "source": "CBS News"
         },
         {
-          "title": "Trump ‘not happy’ with Iran situation and says military force is still an option",
+          "title": "Iranian foreign minister warns that a conflict with the US would be ‘a devastating war’",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran",
-          "source": "The Guardian"
+          "url": "https://apnews.com/video/it-would-be-a-devastating-war-says-iranian-fm-ahead-of-us-nuclear-talks-cd0530e6226c4627b458d01690a5a2b5",
+          "source": "AP News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,85 +142,113 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "oman",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 23:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcdc_8slBz6liBHg9qM2Ycun7Vm4rS_fFOXgxIaWx62kmWtxXD28gcGVyL4t0",
-      "pictureSource": "Al Jazeera",
-      "relatedSearch": [
-        {
-          "title": "Peace ‘within reach’ as Iran agrees no nuclear material stockpile: Oman FM",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2026/2/28/peace-within-reach-as-iran-agrees-no-nuclear-material-stockpile-oman-fm",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "U.S.-Iran deal is \"within our reach,\" Omani mediator says",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/us-iran-deal-within-our-reach-oman-mediator-says/",
-          "source": "CBS News"
-        },
-        {
-          "title": "US and Iran wrap up latest nuclear talks without a deal as the risk of war looms",
-          "snippet": "",
-          "url": "https://apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6",
-          "source": "AP News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ultime notizie",
+      "title": "corriere",
       "trafficCount": "1000+",
       "pubDate": "Fri, 27 Feb 2026 23:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-NmMLg9p9zbEI1n4vAIA1Qc4JCw7Uim6aJ2mXip1cTPUyyInfLzR01AvzU3I",
-      "pictureSource": "Corriere Napoli",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg39PlvwqbX0DMSOxLn1cYcsgsHPfcuxnSLateSlu5LJXR7q3bCkoCYuSY-zY",
+      "pictureSource": "Corriere della Sera",
       "relatedSearch": [
         {
-          "title": "Domenico, la relazione inviata al ministero: «Nessuno controllò il box-frigo. In sala operatoria senza procedure di sicurezza»",
+          "title": "Perché Trump ha attaccato l'Iran ora? Le sei ragioni che lo hanno convinto",
           "snippet": "",
-          "url": "https://napoli.corriere.it/notizie/cronaca/26_febbraio_28/domenico-la-relazione-inviata-al-ministero-nessuno-controllo-il-box-frigo-in-sala-operatoria-senza-procedure-di-sicurezza-19b1d747-1127-4169-8df6-064f0a36exlk.shtml",
-          "source": "Corriere Napoli"
+          "url": "https://www.corriere.it/esteri/26_febbraio_28/perche-trump-attacco-iran-c7795085-7227-4bc7-acd2-fb7518de8xlk.shtml",
+          "source": "Corriere della Sera"
         },
         {
-          "title": "Domenico Caliendo, anche Fico tenuto all'oscuro: «L'ho scoperto solo dai giornali: ora le istruttorie, poi le scelte»",
+          "title": "Trump, avviata operazione in Iran, difendiamo gli americani dalle minacce",
           "snippet": "",
-          "url": "https://www.ilmattino.it/napoli/politica/domenico_caliendo_anche_fico_tenuto_all_oscuro_l_ho_imparato_solo_dai_giornali_ora_le_istruttorie_poi_le_scelte-9386493.html",
-          "source": "Il Mattino"
-        },
-        {
-          "title": "Fico, conclusa relazione commissione su Domenico, al vaglio del ministro",
-          "snippet": "",
-          "url": "https://www.ansa.it/campania/notizie/2026/02/27/fico-conclusa-relazione-commissione-su-domenico-al-vaglio-del-ministro_af633c93-fc12-44c9-a065-6d15f264ea5e.html",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/02/28/trump-avviata-operazione-in-iran-difendiamo-gli-americani-dalle-minacce_9738a91b-4db4-45d3-8393-fa3f4beda473.html",
           "source": "ANSA"
+        },
+        {
+          "title": "Ricordate i siti nucleari che Trump aveva distrutto in Iran? Ora dice che Tehran deve chiuderli tutti e tre",
+          "snippet": "",
+          "url": "https://www.reggioemilianotizie.gaiaitalia.com/notizie/ricordate-i-siti-nucleari-che-trump-aveva-distrutto-in-iran-ora-dice-che-tehran-deve-chiuderli-tutti-e-tre/",
+          "source": "Reggio Emilia Notizie"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "news",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-iLBFCYouWU_T7FuuRyEJYdT6BzKKt_v19QaMe0Ij6054xt1n2fzg1a45ujA",
-      "pictureSource": "Sky TG24",
+      "title": "buon sabato 28 febbraio 2026",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 27 Feb 2026 23:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU--ydqE91CNBPt310an8_G74N6P1o_FW0TiuC3Q4QDEph54qQ5-m7paEBiGE",
+      "pictureSource": "La Gazzetta dello Sport",
       "relatedSearch": [
         {
-          "title": "Dallo scandalo Epstein a Sanremo, quante ne sai sulle notizie della settimana? FAI IL QUIZ",
+          "title": "Oroscopo di sabato 28 febbraio 2026: giornata da 10 per Cancro e Acquario",
           "snippet": "",
-          "url": "https://tg24.sky.it/cronaca/2026/02/28/news-settimana-28-febbraio-quiz",
+          "url": "https://www.gazzetta.it/oroscopo/storie/27-02-2026/oroscopo-di-sabato-28-febbraio-2026-le-previsioni-per-i-12-segni/ariete.shtml",
+          "source": "La Gazzetta dello Sport"
+        },
+        {
+          "title": "Paolo Fox, l'oroscopo del fine settimana: Scorpione romantico, Ariete nervoso, Vergine in ripresa. Sagittario? Alti e bassi",
+          "snippet": "",
+          "url": "https://www.leggo.it/schede/27_febbraio_2026_oroscopo_paolo_fox_stelle_fine_settimana_weekend_28_febbraio_1_marzo_2026-9385938.html",
+          "source": "Leggo.it"
+        },
+        {
+          "title": "Leone, riflettete prima di prendere decisioni epocali nella professione: l'oroscopo di domani, sabato 28 febb",
+          "snippet": "",
+          "url": "https://gds.it/articoli/oroscopo/2026/02/27/leone-riflettete-prima-di-prendere-decisioni-epocali-nella-professione-loroscopo-di-domani-sabato-28-febbraio-9331f190-ece3-4957-b705-56acd16a3ae1/",
+          "source": "Giornale di Sicilia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "il fatto quotidiano",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4JKJupF-y1OwhiiBwUWKYVOUFfjnRWagVV8xXvoQwFO7ZxCIrYyjWH1y0QkM",
+      "pictureSource": "la Repubblica",
+      "relatedSearch": [
+        {
+          "title": "Fragile ma a testa alta, l’ultima rimonta di Bill Clinton davanti ai commissari",
+          "snippet": "",
+          "url": "https://www.repubblica.it/esteri/2026/02/28/news/chi_e_bill_clinton_caso_epstein_ex_presidente_usa-425189881/",
+          "source": "la Repubblica"
+        },
+        {
+          "title": "TG5: Difesa di Bill Clinton: \"Fatto nulla di male\" Video",
+          "snippet": "",
+          "url": "https://mediasetinfinity.mediaset.it/video/tg5/difesa-di-bill-clinton-fatto-nulla-di-male_F314202201233C04",
+          "source": "Mediaset Infinity"
+        },
+        {
+          "title": "Bill Clinton testimonia sul caso Epstein: 'Non sapevo dei suoi crimini'",
+          "snippet": "",
+          "url": "https://www.ilfattoquotidiano.it/2026/02/27/caso-epstein-clinton-testimonia-congresso-news/8307984/",
+          "source": "Il Fatto Quotidiano"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "skytg24",
+      "trafficCount": "50000+",
+      "pubDate": "Fri, 27 Feb 2026 22:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrhvNqJEOQSunrq29QXavc42s0P8N7u0BPPqwvQTheMZTOSe1qh9a7DGLybC0",
+      "pictureSource": "RaiPlay",
+      "relatedSearch": [
+        {
+          "title": "Festival di Sanremo 2026 - Sayf con Alex Britti e Mario Biondi - Hit the Road Jack - Video",
+          "snippet": "",
+          "url": "https://www.raiplay.it/video/2026/02/Sanremo-2026-serata-cover-Sayf-con-Alex-Britti-e-Mario-Biondi---Hit-the-Road-Jack-da9a4920-c34f-4dd3-b8ba-4ed10b8dff5e.html",
+          "source": "RaiPlay"
+        },
+        {
+          "title": "Classifica Sanremo 2026, i primi 5 cantanti dopo la terza serata (e le precedenti)",
+          "snippet": "",
+          "url": "https://tg24.sky.it/spettacolo/musica/2026/02/27/classifica-sanremo",
           "source": "Sky TG24"
         },
         {
-          "title": "Israele: attacco preventivo all'Iran. Sirene d'allarme a Gerusalemme",
+          "title": "Scaletta finale Sanremo: ordine uscita artisti (e orari) con tutti gli ospiti e i co-conduttori. I Pooh, Bocelli e Cardinaletti",
           "snippet": "",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/02/28/israele-attacco-preventivo-alliran.-sirene-dallarme-a-gerusalemme_3bcb749d-6d92-4d76-b49f-d8605eaf8b66.html",
-          "source": "ANSA"
-        },
-        {
-          "title": "Usa-Israele attaccano Iran: 'Azione preventiva'. Khamenei al sicuro",
-          "snippet": "",
-          "url": "https://tg24.sky.it/mondo/2026/02/28/usa-iran-trump-news-diretta",
-          "source": "Sky TG24"
+          "url": "https://www.ilmessaggero.it/schede/scaletta_finale_sanremo_orari_ospiti_co_conduttori_regolamento-9386568.html",
+          "source": "Il Messaggero"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,100 +267,16 @@
           "source": "tagesschau.de"
         },
         {
-          "title": "Angriffe auf den Iran: USA beteiligen sich an Angriff auf den Iran",
+          "title": "USA-Iran-Konflikt - News im Live-Blog: USA und Israel starten Militärschlag gegen Iran",
           "snippet": "",
-          "url": "https://www.zeit.de/politik/ausland/2026-01/israel-iran-angriff-usa-liveblog",
-          "source": "DIE ZEIT"
+          "url": "https://www.spiegel.de/ausland/israel-iran-konflikt-news-im-live-blog-israel-startet-militaerschlag-auf-iran-a-f722bed7-b4cb-47fe-bc42-5eab0cb6edb2",
+          "source": "Spiegel"
         },
         {
-          "title": "Explosionen in Teheran: Israel: Haben Präventivschlag gegen den Iran gestartet",
+          "title": "Alarmstufe Rot: Israel startet Iran-Angriff",
           "snippet": "",
-          "url": "https://www.n-tv.de/politik/Israel-Haben-Praeventivschlag-gegen-den-Iran-gestartet-id30415243.html",
-          "source": "ntv.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "guerra",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 27 Feb 2026 22:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB1byLdwD0fm2mR7gD0nuh3xr47A4ErZ7WB7e6rEAp5A9ZC8zJxJtvd-TfWHE",
-      "pictureSource": "Yahoo Finanza",
-      "relatedSearch": [
-        {
-          "title": "Il rischio di guerra tra USA e Iran cresce mentre l’FBI accusa il rapimento di cittadini americani",
-          "snippet": "",
-          "url": "https://it.finance.yahoo.com/notizie/il-rischio-di-guerra-tra-014957970.html",
-          "source": "Yahoo Finanza"
-        },
-        {
-          "title": "Usa designano l'Iran 'Stato che pratica detenzioni illegittime'",
-          "snippet": "",
-          "url": "https://www.prealpina.it/pages/usa-designano-liran-stato-che-pratica-detenzioni-illegittime-406211.html",
-          "source": "La Prealpina"
-        },
-        {
-          "title": "Gli USA iscrivono l'Iran tra i Paesi che praticano \"detenzioni ingiustificate\" e Trump è pronto a colpire Teheran",
-          "snippet": "",
-          "url": "https://metropolitanmagazine.it/gli-usa-iscrivono-liran-tra-i-paesi-che-praticano-detenzioni-ingiustificate-e-trump-e-pronto-a-colpire-teheran/",
-          "source": "Metropolitan Magazine"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bbc news",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 22:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpqrpjmtIqWSIVlTdgbuPbCV1NugDDcdJzvtqlYP_nC-FglvfD9mCTt-avdPo",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Palestine Action arrest as Churchill statue defaced",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c07jm1kp228o",
-          "source": "BBC"
-        },
-        {
-          "title": "Man arrested after Churchill statue outside UK parliament sprayed with graffiti",
-          "snippet": "",
-          "url": "https://www.theguardian.com/uk-news/2026/feb/27/man-arrested-winston-churchill-statue-uk-parliament-graffiti",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Man arrested after 'completely abhorrent' vandalism of Churchill statue",
-          "snippet": "",
-          "url": "https://news.sky.com/story/churchill-statue-in-parliament-square-defaced-with-zionist-war-criminal-13512850",
-          "source": "Sky News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bbc",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIrN_0rl9LOyQhjKoalTsoPbTRLMlfYr0aLYtTEnYnAJ0EKMBrrdPfcTsZKp8",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Hospice opens furniture store to raise funds in Shepshed",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/cp32xk2zy1vo",
-          "source": "BBC"
-        },
-        {
-          "title": "Rainbows Hospice to open its biggest store in Shepshed dedicated to furniture",
-          "snippet": "",
-          "url": "https://www.inyourarea.co.uk/news/rainbows-hospice-to-open-its-biggest-store-in-shepshed-dedicated-to-furniture",
-          "source": "InYourArea"
-        },
-        {
-          "title": "Hospice opens furniture store to raise funds in Shepshed",
-          "snippet": "",
-          "url": "http://news.bbc.co.uk/news/articles/cp32xk2zy1vo",
-          "source": "BBC"
+          "url": "https://www.bild.de/politik/alarmstufe-rot-israel-startet-iran-angriff-69a289077c787f6a1cef1b52",
+          "source": "BILD"
         }
       ],
       "link": "https://imtaqin.id/"
