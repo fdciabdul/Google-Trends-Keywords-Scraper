@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-02-28 09:35:49",
+  "lastUpdate": "2026-02-28 09:46:51",
   "data": [
+    {
+      "title": "bahrain",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Feb 2026 01:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTynQ1lu3rHZDZFjXDGY61XZXjCVyP4qoB23NZkrE-HhtMDLJuqDrD9YmKZ1fM",
+      "pictureSource": "The Wall Street Journal",
+      "relatedSearch": [
+        {
+          "title": "U.S. Urges Americans in Middle East to Shelter in Place",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-urges-americans-in-middle-east-to-shelter-in-place-0g7g1jOc8L27aU4CqgxS?mod=WSJ_home_supertoppermiddle_lctimeline",
+          "source": "The Wall Street Journal"
+        },
+        {
+          "title": "Ministry of Interior confirms no security concerns in Qatar, calls on public to avoid rumours",
+          "snippet": "",
+          "url": "https://thepeninsulaqatar.com/article/28/02/2026/ministry-of-interior-confirms-no-security-concerns-in-qatar-calls-on-public-to-avoid-rumours",
+          "source": "The Peninsula Qatar"
+        },
+        {
+          "title": "US embassies in Qatar, Bahrain advise shelter-in-place after joint US-Israel strikes against Iran",
+          "snippet": "",
+          "url": "https://www.stripes.com/theaters/middle_east/2026-02-28/attack-on-iran-20901976.html",
+          "source": "Stars and Stripes"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "reuters",
       "trafficCount": "2000+",
@@ -21,10 +49,10 @@
           "source": "Al Jazeera"
         },
         {
-          "title": "Donald Trump goes nuclear on Anthropic",
+          "title": "Trump moves to blacklist Anthropic AI from all government work",
           "snippet": "",
-          "url": "https://www.economist.com/business/2026/02/28/donald-trump-goes-nuclear-on-anthropic",
-          "source": "The Economist"
+          "url": "https://www.axios.com/2026/02/27/anthropic-pentagon-supply-chain-risk-claude",
+          "source": "Axios"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -39,7 +67,7 @@
         {
           "title": "In a First, U.S. Deploys Combat Jets to Israel for Potential Wartime Mission in Iran",
           "snippet": "",
-          "url": "https://www.wsj.com/world/middle-east/in-a-first-u-s-deploys-combat-jets-to-israel-for-potential-wartime-mission-in-iran-c739d870?gaa_at=eafs&gaa_n=AWEtsqcuLmYnJjHP0DmKuHhWtCL6PIk1wWPf2gNAqwo6xV0lve32UyMD6_Js&gaa_ts=69a2ba79&gaa_sig=J0KED71ealagC5lbMKom9ZzyQGlNcEt3gvEmlHBIf1GNB5BZ25L8bpNVlI4FLcw3ctB4GwPtEWvmZj3k2W0lbQ%3D%3D",
+          "url": "https://www.wsj.com/world/middle-east/in-a-first-u-s-deploys-combat-jets-to-israel-for-potential-wartime-mission-in-iran-c739d870?gaa_at=eafs&gaa_n=AWEtsqePZgeLl5SRQAVi0oEMmbtlO0IBZnVeTq2q7GUBRhdvalEPHHdbD62_&gaa_ts=69a2bd0f&gaa_sig=ItQlFhy1T6UPAA3WjBjH2VGyDVF-s-jlbUC0ia3ysdNAwUqW3L_Rxf-z7gHpVBnjUfOmKmHGiEyuWqAMtJKh6w%3D%3D",
           "source": "The Wall Street Journal"
         },
         {
@@ -71,16 +99,44 @@
           "source": "The New York Times"
         },
         {
-          "title": "Google Wins Conditional Nod From Seoul Over Map Data Request",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-27/google-wins-conditional-nod-from-seoul-over-map-data-request",
-          "source": "Bloomberg.com"
-        },
-        {
           "title": "Google Maps makes another pitch for better South Korean data",
           "snippet": "",
           "url": "https://www.economist.com/asia/2026/02/26/google-maps-makes-another-pitch-for-better-south-korean-data",
           "source": "The Economist"
+        },
+        {
+          "title": "Google Wins Conditional Nod From Seoul Over Map Data Request",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-27/google-wins-conditional-nod-from-seoul-over-map-data-request",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bbc news",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 27 Feb 2026 23:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRow2xDvu8ta3R7vWSbLKupyog18lw1nr8L85ZELLpzPVQKxG8iAAHVmYz9pUw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Scotland's papers: Tuition fee 'rethink' call and painkiller probe",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c1jk8eedw8po",
+          "source": "BBC"
+        },
+        {
+          "title": "'Free tuition is not up for sacrifice — Scotland must protect education'",
+          "snippet": "",
+          "url": "https://www.heraldscotland.com/news/education/25873930.free-tuition-red-line----scotland-cannot-surrender/",
+          "source": "The Herald"
+        },
+        {
+          "title": "Scotland's papers: Tuition fee 'rethink' call and painkiller probe",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/articles/c1jk8eedw8po",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +173,26 @@
       "title": "bbc bangla",
       "trafficCount": "1000+",
       "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgLu_ud_xduaTeVS-Q_ANOf7IVaVs2tQCraE5B-veHvCL5NwRiY2zJkYNeOrg",
-      "pictureSource": "এখন টিভি",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp13QwfgE1D34Esnr6LgwfnLsgYDhhB_kBbnmenTqxxeH1Z96OYtyn7MKQgoY",
+      "pictureSource": "প্রথম আলো",
       "relatedSearch": [
         {
-          "title": "চাঁদাবাজি নিয়ে পরিবহনমন্ত্রীর বক্তব্যে টিআইবির উদ্বেগ",
+          "title": "ইরানে ক্ষেপণাস্ত্র হামলা চালিয়েছে ইসরায়েল: প্রতিরক্ষামন্ত্রী কাৎজ",
           "snippet": "",
-          "url": "https://ekhon.tv/article/6998451662e41dd1b1a236e4",
-          "source": "এখন টিভি"
+          "url": "https://www.prothomalo.com/world/asia/h9kkobu3se",
+          "source": "প্রথম আলো"
         },
         {
-          "title": "দুর্নীতির টুঁটি চেপে ধরার প্রতিশ্রুতি দিয়ে সরকার চাঁদাবাজির বৈধতা দিচ্ছে: ড. হেলাল উদ্দিন",
+          "title": "খামেনির বাসভবনের কাছে মুহুর্মুহু ক্ষেপণাস্ত্র হামলা",
           "snippet": "",
-          "url": "https://orthosongbad.com/384117/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9F%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%9A%E0%A7%87%E0%A6%AA%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%BE/",
-          "source": "Orthosongbad"
+          "url": "https://www.ittefaq.com.bd/777046/%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%AD%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%81-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0",
+          "source": "The Daily Ittefaq"
+        },
+        {
+          "title": "মধ্যপ্রাচ্যের ৫ দেশে মার্কিন বাহিনীকে লক্ষ্য করে হামলা ইরানের",
+          "snippet": "",
+          "url": "https://bangla.bdnews24.com/world/6c5f0a11296f",
+          "source": "bdnews24.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,26 +229,26 @@
       "title": "iran",
       "trafficCount": "2000+",
       "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB49WjAZdyoUecM1CcrwFV4w7hfO5fi1vszkI4n98s-GPPoQmNRQlPeUOargo",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfP5KlSUq4qz16UEtH7fB68h4Leinj22gl1jQEe-PoyYKE4Oa_KVzsM9eaub4",
+      "pictureSource": "Al Jazeera",
       "relatedSearch": [
         {
-          "title": "Live updates: US, Israel attack Iran in ‘preemptive strike,’ Trump posts video on Truth Social",
+          "title": "US, Israel attack Iran live: Trump announces ‘major combat operations’",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
-          "source": "CNN"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/28/live-israel-launches-attacks-on-iran-multiple-explosions-heard-in-tehran",
+          "source": "Al Jazeera"
         },
         {
-          "title": "Chaos and Panic Grip Tehran as Airstrikes Shake City",
+          "title": "Iran Israel War Live Updates | US-Israel strike Iran; Tehran starts retaliation | Israel Iran Conflict Latest News",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html",
-          "source": "The New York Times"
+          "url": "https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961",
+          "source": "The Daily Star"
         },
         {
-          "title": "Live updates: U.S. and Israel launch attack on Iran as Trump calls for regime change",
+          "title": "Live: Israel and US launch strikes on Iran as Trump confirms 'major combat operations'",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/world/2026/02/28/israel-strikes-iran-live-updates/",
-          "source": "The Washington Post"
+          "url": "https://www.reuters.com/world/iran-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -215,56 +277,6 @@
           "snippet": "",
           "url": "https://www.cricketwinner.com/fantasy-cricket-tips/jpn-vs-bah-dream11-prediction-today-final-pitch-report-playing-xi-fantasy-tips/",
           "source": "Cricket Winner"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hong kong vs kuwait",
-      "trafficCount": "2000+",
-      "pubDate": "Fri, 27 Feb 2026 21:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTETJ3loFlyqdQnVWtktANz8hU2baIfVOpc7g8506SCh-bG1x0HBm9NMVKcoMo",
-      "pictureSource": "Cricbuzz.com",
-      "relatedSearch": [
-        {
-          "title": "Hong Kong, China vs Kuwait, 3rd T20I, Kuwait tour of Hong Kong, China, 2026 - Commentary",
-          "snippet": "",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/147722/hkc-vs-kuw-3rd-t20i-kuwait-tour-of-hong-kong-china-2026",
-          "source": "Cricbuzz.com"
-        },
-        {
-          "title": "Hong Kong vs Kuwait, free match prediction 28 February 2026",
-          "snippet": "",
-          "url": "https://www.thetopbookies.com/betting-tips/cricket/hkg-vs-kuw-28-Feb-2026",
-          "source": "TheTopBookies"
-        },
-        {
-          "title": "Kuwait Tour of Hong Kong, 2026 - 3rd T20I Match - Hong Kong vs Kuwait - Cricket Match Predictions: February 28th",
-          "snippet": "",
-          "url": "https://www.cricketworld.com/kuwait-tour-of-hong-kong-2026-3rd-t20i-match-hong-kong-vs-kuwait-cricket-match-predictions-february-28th/109079.htm",
-          "source": "Cricket World"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "anandabazar",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbdvurm-g1LZqeU3HP-AWy9fRSnrrLqOEU2nbUpO6a8aNbU6ZIHArXkX_ri7Q",
-      "pictureSource": "The News 24",
-      "relatedSearch": [
-        {
-          "title": "আফগানিস্তানে পাকিস্তানের হামলায় ঘটনায় ভারতের নিন্দা",
-          "snippet": "",
-          "url": "https://www.thenews24.com/international/news/60210",
-          "source": "The News 24"
-        },
-        {
-          "title": "পাকিস্তানের বিমান হামলায় আফগানিস্তানে নিহত বেড়ে ৮০",
-          "snippet": "",
-          "url": "https://www.onenewsbd.com/2026/02/23/528883",
-          "source": "One News BD"
         }
       ],
       "link": "https://imtaqin.id/"
