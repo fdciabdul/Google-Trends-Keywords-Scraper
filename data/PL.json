@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-02-28 07:21:24",
+  "lastUpdate": "2026-02-28 07:35:59",
   "data": [
-    {
-      "title": "usa",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 23:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTz3NY0QugdCPuKhhRDLkRk0z7pX5se3YJ7pAqgXUb47FHNSEIpR_e_48QlNc",
-      "pictureSource": "Wydarzenia w INTERIA.PL",
-      "relatedSearch": [
-        {
-          "title": "\"Przyspieszyły przygotowania do wojny\". Trump zapowiada \"wielką decyzję\"",
-          "snippet": "",
-          "url": "https://wydarzenia.interia.pl/zagranica/news-przyspieszyly-przygotowania-do-wojny-trump-zapowiada-wielka,nId,22607674",
-          "source": "Wydarzenia w INTERIA.PL"
-        },
-        {
-          "title": "Ogromne napięcie na linii USA-Iran. Kluczowa rola Izraela?",
-          "snippet": "",
-          "url": "https://wiadomosci.wp.pl/ogromne-napiecie-na-linii-usa-iran-kluczowa-rola-izraela-7258906306398656a",
-          "source": "WP Wiadomości"
-        },
-        {
-          "title": "Donald Trump o Iranie: nie chciałbym używać armii, ale czasami trzeba",
-          "snippet": "",
-          "url": "https://tvn24.pl/swiat/donald-trump-o-iranie-nie-chcialbym-uzywac-armii-ale-czasami-trzeba-st8923553",
-          "source": "TVN24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "egipt",
       "trafficCount": "100+",
@@ -58,8 +30,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "wojna",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTz3NY0QugdCPuKhhRDLkRk0z7pX5se3YJ7pAqgXUb47FHNSEIpR_e_48QlNc",
+      "pictureSource": "Wydarzenia w INTERIA.PL",
+      "relatedSearch": [
+        {
+          "title": "\"Przyspieszyły przygotowania do wojny\". Trump zapowiada \"wielką decyzję\"",
+          "snippet": "",
+          "url": "https://wydarzenia.interia.pl/zagranica/news-przyspieszyly-przygotowania-do-wojny-trump-zapowiada-wielka,nId,22607674",
+          "source": "Wydarzenia w INTERIA.PL"
+        },
+        {
+          "title": "Ogromne napięcie na linii USA-Iran. Kluczowa rola Izraela?",
+          "snippet": "",
+          "url": "https://wiadomosci.wp.pl/ogromne-napiecie-na-linii-usa-iran-kluczowa-rola-izraela-7258906306398656a",
+          "source": "WP Wiadomości"
+        },
+        {
+          "title": "Donald Trump o Iranie: nie chciałbym używać armii, ale czasami trzeba",
+          "snippet": "",
+          "url": "https://tvn24.pl/swiat/donald-trump-o-iranie-nie-chcialbym-uzywac-armii-ale-czasami-trzeba-st8923553",
+          "source": "TVN24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bbc news",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgtSGfjUYT1X5UKFDMD6j1egIw3iqy5cuneW3vPTjMVDDubIpSCkwqfu0GC0E",
       "pictureSource": "BBC",
@@ -86,57 +86,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "wojna",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu3sMsS1L5ffN13xft6mvgEaTtnfJJDf724G7qe_Slz4MfrrmBxdzIvL8Nrk8",
-      "pictureSource": "WP Wiadomości",
-      "relatedSearch": [
-        {
-          "title": "Atak na Afganistan, setki ofiar. \"Dołożono wszelkich starań\"",
-          "snippet": "",
-          "url": "https://wiadomosci.wp.pl/atak-na-afganistan-setki-ofiar-dolozono-wszelkich-staran-7258934514067840a",
-          "source": "WP Wiadomości"
-        },
-        {
-          "title": "\"Mamy otwartą wojnę\". Padły przerażające słowa, bomby uderzyły w nocy",
-          "snippet": "",
-          "url": "https://www.fakt.pl/polityka/pakistan-oglasza-wojne-z-afganistanem-ataki-lotnicze-na-kabul-i-kandahar/g4rndmm",
-          "source": "Fakt.pl"
-        },
-        {
-          "title": "\"To otwarta wojna\". Talibowie walczą z Pakistanem",
-          "snippet": "",
-          "url": "https://wyborcza.pl/7,75399,32627913,to-otwarta-wojna-talibowie-najechali-granice-pakistan-zbombardowal.html",
-          "source": "Wyborcza.pl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "microsoft",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Feb 2026 23:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHtaIIbR8MKGvjDy0VRKeKAJ2ghvOiyFmcCPeyGamAtMdTMpIe_N3q48VV1U",
-      "pictureSource": "OpenAI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0FoAsAmMEUU2_aPxe_iKA6FOBQKEcVNpWKtiII4W0P5mxhbloJQSo5lFgfA",
+      "pictureSource": "Yahoo Finance",
       "relatedSearch": [
         {
-          "title": "Joint Statement from OpenAI and Microsoft",
+          "title": "Goldman Sachs resets Microsoft stock forecast",
           "snippet": "",
-          "url": "https://openai.com/index/continuing-microsoft-partnership/",
-          "source": "OpenAI"
+          "url": "https://finance.yahoo.com/news/goldman-sachs-resets-microsoft-stock-040700222.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Amazon strikes $50B OpenAI deal to launch stateful AI services",
+          "title": "Microsoft: A Very Healthy Business And Fairly Negative Sentiments: The Ingredients For A Timely Investment!",
           "snippet": "",
-          "url": "https://www.axios.com/2026/02/27/amazon-openai-stateful-ai-deal",
-          "source": "Axios"
+          "url": "https://seekingalpha.com/article/4876357-microsoft-a-very-healthy-business-and-fairly-negative-sentiments-the-ingredients-for-a-timely-investment",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "OpenAI Branches Out from Microsoft with New Products For Amazon’s Cloud",
+          "title": "Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges",
           "snippet": "",
-          "url": "https://www.theinformation.com/briefings/openai-branches-microsoft-new-products-exclusively-amazons-cloud",
-          "source": "The Information"
+          "url": "https://www.tipranks.com/news/microsoft-stock-2026-forecast-msft-has-a-600-billion-backlog-as-demand-for-microsoft-cloud-surges",
+          "source": "TipRanks"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +145,15 @@
       "title": "teheran",
       "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdeLqNlZiyVi3bGoGak9U4_oMVKvi8y_1fm7TWmRpMSqC3X_QKRXHJsx9d1iI",
-      "pictureSource": "BILD",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStDqnoB_vG-3gB9t9l0KbSgRa6J5yt4Qvrn_CxOzcI1HVjkZSaYZp0DFjWtwo",
+      "pictureSource": "tagesschau.de",
       "relatedSearch": [
+        {
+          "title": "Israel greift eigenen Angaben zufolge Iran an - Explosionen in Teheran",
+          "snippet": "",
+          "url": "https://www.tagesschau.de/eilmeldung/israel-praeventivschlag-100.html",
+          "source": "tagesschau.de"
+        },
         {
           "title": "Alarmstufe Rot: Israel startet Iran-Angriff",
           "snippet": "",
@@ -183,16 +161,10 @@
           "source": "BILD"
         },
         {
-          "title": "Israelischer Verteidigungsbeamter: Israelische Operation im Iran mit den USA abgestimmt",
+          "title": "Dichter Rauch steigt in der Nähe der Pasteur-Straße im Zentrum Teherans auf, berichtet ISNA",
           "snippet": "",
-          "url": "https://ch.marketscreener.com/boerse-nachrichten/israelischer-verteidigungsbeamter-israelische-operation-im-iran-mit-den-usa-abgestimmt-ce7e5cdfde80f726",
-          "source": "MarketScreener Schweiz"
-        },
-        {
-          "title": "Nahost - Israels Militär führt Angriffe auf den Iran aus",
-          "snippet": "",
-          "url": "https://www.deutschlandfunk.de/israels-militaer-fuehrt-angriffe-auf-den-iran-aus-100.html",
-          "source": "Deutschlandfunk"
+          "url": "https://de.marketscreener.com/boerse-nachrichten/dichter-rauch-steigt-in-der-naehe-der-pasteur-strasse-im-zentrum-teherans-auf-berichtet-isna-ce7e5cdfde81f121",
+          "source": "MarketScreener Deutschland"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +173,26 @@
       "title": "bbc",
       "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS459bPJhEdzSmSetg6H-7EqmfuzcjNOXthyZgitO0c098lPSEPcBGjK3QMWXs",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWEg98dcxFbEGWaRbiWkP65ys2_nzR7WEjmGelbZNvrl47cKdjhfzQacq_KXI",
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Israel launches strike against Iran, declares state of emergency across country",
+          "title": "Live updates: Israel launches ‘pre-emptive’ strike against Iran",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+          "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
           "source": "CNN"
-        },
-        {
-          "title": "Israel launches attack on Iran, explosions in downtown Tehran",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/news/2026/2/28/explosions-in-downtown-tehran-smoke-seen-rising",
-          "source": "Al Jazeera"
         },
         {
           "title": "Live Updates: U.S. and Israel Conduct Strikes on Iran",
           "snippet": "",
           "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
           "source": "The New York Times"
+        },
+        {
+          "title": "Israel says it launched pre-emptive attack against Iran",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +201,54 @@
       "title": "iran",
       "trafficCount": "5000+",
       "pubDate": "Fri, 27 Feb 2026 22:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwNQbw_cX0URb3b43BOqiXeMXo9OLf4JplT82ig5OMXsxfsIlC783AQA5Trks",
-      "pictureSource": "Wydarzenia w INTERIA.PL",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoIK9uqRUO5noluKbD245Bx7Uh9L-1Fvd9y0IqTcXvZJS1GKmBYHXUPXuU9uA",
+      "pictureSource": "Onet",
       "relatedSearch": [
         {
-          "title": "Bliski Wschód. Izrael zaatakował Iran. Eksplozje w Teheranie",
+          "title": "Eksplozje w Teheranie. Izrael i USA zaatakowały Iran [RELACJA NA ŻYWO]",
           "snippet": "",
-          "url": "https://wydarzenia.interia.pl/zagranica/news-izrael-zaatakowal-iran-eksplozje-w-teheranie,nId,22607679",
-          "source": "Wydarzenia w INTERIA.PL"
+          "url": "https://wiadomosci.onet.pl/swiat/eksplozje-w-teheranie-izrael-i-usa-zaatakowaly-iran-relacja-na-zywo/jnnlkpd",
+          "source": "Onet"
         },
         {
-          "title": "Minister obrony Izraela: przypuściliśmy prewencyjny atak na Iran",
+          "title": "Rozpoczęły się uderzenia na Iran",
           "snippet": "",
-          "url": "https://wyborcza.pl/7,75399,32630259,minister-obrony-izraela-przypuscilismy-prewencyjny-atak-na.html",
-          "source": "Wyborcza.pl"
+          "url": "https://defence24.pl/geopolityka/rozpoczely-sie-uderzenia-na-iran",
+          "source": "Defence24"
         },
         {
-          "title": "Wybuchy w stolicy Iranu. \"Prewencyjny atak\" Izraela",
+          "title": "Media: Trwa wspólna operacja USA i Izraela przeciwko Iranowi",
           "snippet": "",
-          "url": "https://tvn24.pl/swiat/iran-wybuchy-w-teheranie-izrael-przeprowadzil-ataki-st8923662",
-          "source": "TVN24"
+          "url": "https://wiadomosci.wp.pl/media-trwa-wspolna-operacja-usa-i-izraela-przeciwko-iranowi-7259185258043840a",
+          "source": "WP Wiadomości"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "trojmiasto",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Feb 2026 21:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQV6UDpNjAt8jOkFk42TCxiinO2YZCD4QXGbu_omfvw-zHNhuu1OPRKh2Pg9AM",
+      "pictureSource": "ESKA.pl",
+      "relatedSearch": [
+        {
+          "title": "Tu nie jest jak w Gdańsku. To najgorsze miasta do życia w woj. pomorskim",
+          "snippet": "",
+          "url": "https://trojmiasto.eska.pl/najgorsze-miasta-do-zycia-w-woj-pomorskim-wedlug-ai-dramatyczne-warunki-aa-uNPM-uqiE-HJow.html",
+          "source": "ESKA.pl"
+        },
+        {
+          "title": "Życie tu to koszmar? W tych miastach województwa zachodniopomorskiego żyje się najgorzej 27.02.2026",
+          "snippet": "",
+          "url": "https://gk24.pl/zycie-tu-to-koszmar-w-tych-miastach-wojewodztwa-zachodniopomorskiego-zyje-sie-najgorzej-27-02-2026/ar/c1p2-28251183",
+          "source": "Głos Koszaliński"
+        },
+        {
+          "title": "Te miasta z woj. śląskiego są NAJBRZYDSZE? Zgadzasz się? Tak odpowiedziała sztuczna inteligencja. LISTA 12 miast",
+          "snippet": "",
+          "url": "https://czestochowa.naszemiasto.pl/te-miasta-z-woj-slaskiego-sa-najbrzydsze-zgadzasz-sie-tak/ar/c12-9353415",
+          "source": "Częstochowa Nasze Miasto"
         }
       ],
       "link": "https://imtaqin.id/"
