@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-28 15:19:42",
+  "lastUpdate": "2026-02-28 15:33:07",
   "data": [
     {
       "title": "хартс – абердин",
@@ -59,7 +59,7 @@
     },
     {
       "title": "барселона – вильярреал",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Sat, 28 Feb 2026 06:30:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQovK7Rjl-lSCTt4zjnezdoEASxnYmu7YCQrlYQEQUod3lVlsktv8zZBmyv-Pc",
       "pictureSource": "Спорт Mail",
@@ -115,7 +115,7 @@
     },
     {
       "title": "ньюкасл юнайтед – эвертон",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 28 Feb 2026 06:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQMbWeXcxV8MOGYVPRjTq6Lz7dkFSmDG1fxG4xEvLRaBFePFEgsij4WPbTMCU",
       "pictureSource": "allsport-news.net",
@@ -171,16 +171,35 @@
     },
     {
       "title": "байер – майнц 05",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 28 Feb 2026 06:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjdIx2wEVu30T-Lde0U0MBfPFqg0TZ-pYUF6MB1IgO-DiUp2sLlo3R1K9MkmE",
+      "pictureSource": "Спорт Mail",
+      "relatedSearch": [
+        {
+          "title": "«Байер» — «Майнц». Онлайн-трансляция начнется в 17:30",
+          "snippet": "",
+          "url": "https://sportmail.ru/news/football/69977858/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "«Байер» - «Майнц» прогнозы и ставки на матч 28 февраля 2026 (Бундеслига)",
+          "snippet": "",
+          "url": "https://stavkiprognozy.ru/prognozy/football/bundesliga/pro_prognoz-bayer-maynts-05-28-fevralya-2026",
+          "source": "stavkiprognozy.ru"
+        },
+        {
+          "title": "Начало прямой видеотрансляции матча Бундеслиги «Байер» — «Майнц»",
+          "snippet": "",
+          "url": "https://www.championat.ru/football/news-6364544-bajer-majnc-pryamaya-translyaciya-matcha-24-go-tura-bundesligi-po-futbolu-2025-2026-nachnetsya-v-17-30.html",
+          "source": "https://www.championat.ru/"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "спартак – барыс",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 28 Feb 2026 05:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS07OKX3bn50P3Bf3TQNlxbGu-xzCiit4rqhJthBk3qiP_je4yjHgIkHM6IZwI",
       "pictureSource": "HC Barys",
