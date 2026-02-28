@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-02-28 07:07:58",
+  "lastUpdate": "2026-02-28 07:20:56",
   "data": [
     {
-      "title": "moto gp",
+      "title": "bbc news",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Feb 2026 22:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpqrpjmtIqWSIVlTdgbuPbCV1NugDDcdJzvtqlYP_nC-FglvfD9mCTt-avdPo",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Palestine Action arrest as Churchill statue defaced",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c07jm1kp228o",
+          "source": "BBC"
+        },
+        {
+          "title": "Man arrested after Churchill statue outside UK parliament sprayed with graffiti",
+          "snippet": "",
+          "url": "https://www.theguardian.com/uk-news/2026/feb/27/man-arrested-winston-churchill-statue-uk-parliament-graffiti",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Man charged over Churchill statue damage",
+          "snippet": "",
+          "url": "https://www.lbc.co.uk/article/man-charged-over-churchill-statue-damage-5HjdTdb_2/",
+          "source": "LBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "motogp",
       "trafficCount": "200+",
-      "pubDate": "Fri, 27 Feb 2026 21:10:00 -0800",
+      "pubDate": "Fri, 27 Feb 2026 20:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzf3U50LJuA4XSbwhYg73JbpRu-ViOk6megnWK5wrp6-jt_Wpjs1FWwXyRQtw",
       "pictureSource": "motogp.com",
       "relatedSearch": [
@@ -31,7 +59,7 @@
     },
     {
       "title": "cnn",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS496JbnoWwDetulsOCn5bRcsAsi6Lv-vHolVti6XeK5pjcXr37puk1C-levo",
       "pictureSource": "Status",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "euromillion",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 27 Feb 2026 19:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEG_eZcdoflFLgboniYfWsjdxD92mXyaiE-yq9swuEUWHBzLAxHXR8K1Aa3mc",
-      "pictureSource": "Le Soir",
-      "relatedSearch": [
-        {
-          "title": "EuroMillions : deux Belges ont remporté une grosse somme",
-          "snippet": "",
-          "url": "https://www.lesoir.be/731571/article/2026-02-27/euromillions-deux-belges-ont-remporte-une-grosse-somme",
-          "source": "Le Soir"
-        },
-        {
-          "title": "EuroMillions : deux joueurs belges empochent une très belle somme",
-          "snippet": "",
-          "url": "https://www.rtl.be/actu/conso/euromillions-deux-joueurs-belges-empochent-une-tres-belle-somme/2026-02-27/article/781231",
-          "source": "RTL Info"
-        },
-        {
-          "title": "Tirage EuroMillions: ce vendredi 27 février, un jackpot de 159 millions d'euros à remporter",
-          "snippet": "",
-          "url": "https://www.20minutes.fr/guide-achat/4203489-20260227-tirage-euromillions-vendredi-27-fevrier-jackpot-159-millions-euros-remporter",
-          "source": "20 Minutes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "rtbf auvio",
       "trafficCount": "100+",
       "pubDate": "Fri, 27 Feb 2026 19:50:00 -0800",
@@ -142,8 +142,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "euromillion",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 27 Feb 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEG_eZcdoflFLgboniYfWsjdxD92mXyaiE-yq9swuEUWHBzLAxHXR8K1Aa3mc",
+      "pictureSource": "Le Soir",
+      "relatedSearch": [
+        {
+          "title": "EuroMillions : deux Belges ont remporté une grosse somme",
+          "snippet": "",
+          "url": "https://www.lesoir.be/731571/article/2026-02-27/euromillions-deux-belges-ont-remporte-une-grosse-somme",
+          "source": "Le Soir"
+        },
+        {
+          "title": "EuroMillions : deux joueurs belges empochent une très belle somme",
+          "snippet": "",
+          "url": "https://www.rtl.be/actu/conso/euromillions-deux-joueurs-belges-empochent-une-tres-belle-somme/2026-02-27/article/781231",
+          "source": "RTL Info"
+        },
+        {
+          "title": "Résultats EuroMillions FDJ: les numéros gagnants du vendredi 27 février",
+          "snippet": "",
+          "url": "https://www.20minutes.fr/guide-achat/bon-plan-fdj/4203843-20260227-resultats-euromillions-fdj-numeros-gagnants-vendredi-27-fevrier",
+          "source": "20 Minutes"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "iran",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 27 Feb 2026 16:30:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS459bPJhEdzSmSetg6H-7EqmfuzcjNOXthyZgitO0c098lPSEPcBGjK3QMWXs",
       "pictureSource": "CNN",
@@ -155,23 +183,23 @@
           "source": "CNN"
         },
         {
-          "title": "Israel launches attack on Iran, defence minister says",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
-          "source": "BBC"
-        },
-        {
           "title": "Israel launches attack on Iran as explosions heard in Tehran",
           "snippet": "",
           "url": "https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran",
           "source": "The Guardian"
+        },
+        {
+          "title": "Israel launches attack on Iran, explosions in downtown Tehran",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/2/28/explosions-in-downtown-tehran-smoke-seen-rising",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "neil sedaka",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 27 Feb 2026 16:10:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9zt-EXvZ8PnaHMVW9fMytJfkwhKckN1bhRSg8104AJ7aSH8ysBvui6enLqdc",
       "pictureSource": "The New York Times",
@@ -189,10 +217,10 @@
           "source": "CNN"
         },
         {
-          "title": "Legendary Singer Neil Sedaka Rushed to Hospital in Los Angeles",
+          "title": "Neil Sedaka's Last Post: Excitement for Upcoming Album Release Before His Passing",
           "snippet": "",
-          "url": "https://www.tmz.com/2026/02/27/legendary-singer-neil-sedaka-hospitalized/",
-          "source": "TMZ"
+          "url": "https://www.yahoo.com/entertainment/music/articles/neil-sedakas-last-post-excitement-035348545.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "Libero"
         },
         {
-          "title": "Caterina Caselli commossa all’Ariston: il premio alla carriera a Sanremo e quel messaggio di libertà che riecheggia dopo 60 anni",
+          "title": "Festival di Sanremo a tutto swing: Ditonellapiaga e TonyPitony vincono la serata dei duetti",
           "snippet": "",
-          "url": "https://pisachannel.tv/news/7334/caterina-caselli-premio-sanremo-2026/",
-          "source": "Ac Pisa 1909"
+          "url": "https://www.larena.it/argomenti/spettacoli/spettacoli-nazionali/sanremo-quarta-serata-duetti-1.12941665",
+          "source": "L'Arena"
         },
         {
-          "title": "Chi è Caterina Caselli: storia, età, biografia e carriera della cantante e produttrice, il ritorno a Sanremo",
+          "title": "Caterina Caselli premio alla Carriera: 'Sentitevi liberi dal giudizio'",
           "snippet": "",
-          "url": "https://www.ilmattino.it/schede/caterina_caselli_chi_e_biografia_sanremo-9386116.html",
-          "source": "Il Mattino"
+          "url": "https://www.ansa.it/sito/notizie/cultura/musica/speciali/sanremo_2026/ospiti/2026/02/27/caterina-caselli-premio-alla-carriera-sentitevi-liberi-dal-giudizio_6d36ccaf-2a7b-45bd-96ea-e6e64b78656f.html",
+          "source": "ANSA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000192381.html",
           "source": "AlloCiné"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "elodie fontan",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 14:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_ClLhPucjsyyJ9UOEBssn3YY5lgDktUutTc9-WM0Y8XcJ3AZcExytyTUyUBI",
-      "pictureSource": "parismatch.be",
-      "relatedSearch": [
-        {
-          "title": "Double date en famille : Matt Pokora, Christina Milian, Philippe Lacheau et Élodie Fontan s'éclatent à Universal Studios (photos)",
-          "snippet": "",
-          "url": "https://www.parismatch.be/actualites/people/2026/02/26/double-date-en-famille-matt-pokora-christina-milian-philippe-lacheau-et-elodie-fontan-seclatent-a-universal-studios-photos-DHYUKENOHNAUREH3MREQVL3JZY/",
-          "source": "parismatch.be"
-        },
-        {
-          "title": "M. Pokora s’offre des vacances avec femme et enfants à 9000 km de la France dans une ville qu'il connaît bien",
-          "snippet": "",
-          "url": "https://www.purepeople.com/article/m-pokora-soffre-des-vacances-avec-femme-et-enfants-a-9000-km-de-la-france-dans-une-ville-quil-connait-bien_a547653/1",
-          "source": "Purepeople"
-        },
-        {
-          "title": "Philippe Lacheau et Elodie Fontan : rare photo de leur fils avec les enfants de Matt Pokora et Christina Milian",
-          "snippet": "",
-          "url": "https://www.magicmaman.com/philippe-lacheau-et-elodie-fontan-rare-photo-de-leur-fils-avec-les-enfants-de-matt-pokora-et-christina-milian,3780777.asp",
-          "source": "magicmaman"
         }
       ],
       "link": "https://imtaqin.id/"
