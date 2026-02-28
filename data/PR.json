@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-02-28 20:45:13",
+  "lastUpdate": "2026-02-28 20:54:25",
   "data": [
     {
       "title": "dubai",
       "trafficCount": "100+",
       "pubDate": "Sat, 28 Feb 2026 10:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTgCVAyRVYnUAC9-uRMXuWJOhviDc8Vo3qAphJqBNk7G1btjVvKUC7Igbvwqk",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6xMKWm02cuVC_2IVF_-sarXIoxeZQIZEPG2NMO7DYLYBJ3L2l1cjdpJsf9wY",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Iran launches retaliatory strikes at targets across Middle East",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c204px4zddro",
+          "source": "BBC"
+        },
         {
           "title": "Missile strikes near US Navy base in Bahrain",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://evrimagaci.org/gpt/explosions-rock-riyadh-and-gulf-cities-amid-escalation-531952",
           "source": "Evrim Ağacı"
-        },
-        {
-          "title": "This Is the System That Intercepted Iran's Missiles Over the UAE",
-          "snippet": "",
-          "url": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
-          "source": "WIRED"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +89,15 @@
       "title": "iran",
       "trafficCount": "2000+",
       "pubDate": "Sat, 28 Feb 2026 00:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjehkfBlbP4lTxQLjjttbJAZ8IkOoIv31OgULn6WQLHN2oIBXs5O-vgTDRe-0",
-      "pictureSource": "AP News",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuRqp58R4u2Sgzef2QNH2YUcyImyekl3ijRep6umbQslqL3_Njqdg-phxysSg",
+      "pictureSource": "Axios",
       "relatedSearch": [
+        {
+          "title": "Exclusive: Trump floats \"off ramps\" after attacking Iran",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/02/28/trump-iran-war-israel-off-ramps",
+          "source": "Axios"
+        },
         {
           "title": "Live updates: Israeli officials say Iran’s supreme leader is dead, but US and Iran haven’t confirmed",
           "snippet": "",
@@ -99,16 +105,10 @@
           "source": "AP News"
         },
         {
-          "title": "Iran latest: Netanyahu says 'growing signs' Iran's supreme leader Khamenei is 'gone' after US-Israel attacks",
+          "title": "U.S., Israel Attack Iran: Middle East on High Alert as Tehran Retaliates — Live Updates",
           "snippet": "",
-          "url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
-          "source": "BBC"
-        },
-        {
-          "title": "Tehran strikes back at Gulf states after U.S.-Israel launch massive attack on Iran",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
-          "source": "CNBC"
+          "url": "https://www.wsj.com/livecoverage/iran-strikes-2026",
+          "source": "The Wall Street Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,10 +211,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic",
+          "title": "The Trump Administration Is Trying to Make an Example of the AI Giant Anthropic",
           "snippet": "",
-          "url": "https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055",
-          "source": "NBC News"
+          "url": "https://www.americanprogress.org/article/the-trump-administration-is-trying-to-make-an-example-of-the-ai-giant-anthropic/",
+          "source": "Center for American Progress"
         },
         {
           "title": "Hegseth gives Anthropic CEO until Friday to back down in AI safeguards fight",
