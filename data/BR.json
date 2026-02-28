@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-28 10:30:19",
+  "lastUpdate": "2026-02-28 10:42:45",
   "data": [
     {
       "title": "dubai",
@@ -31,7 +31,7 @@
     },
     {
       "title": "kasımpaşa x rizespor",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 28 Feb 2026 01:50:00 -0800",
       "picture": "",
       "pictureSource": "",
@@ -42,20 +42,20 @@
       "title": "folha",
       "trafficCount": "100+",
       "pubDate": "Sat, 28 Feb 2026 01:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiuz-1QGv_y-E4UMzNDGPDAES2vxbjXvwk1OGLcztWPQnO6W6yAvs3C9RIH60",
-      "pictureSource": "Folha de S.Paulo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmxAP4m7OmnpOPSXwMINaLDUPKJ46TLotgtdnIU7SgSvNqfaFt3Qw8qt2BOo",
+      "pictureSource": "G1",
       "relatedSearch": [
-        {
-          "title": "Milei tem vitória no Senado e consegue aprovar reforma trabalhista na Argentina",
-          "snippet": "",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/02/milei-tem-vitoria-no-senado-e-consegue-aprovar-reforma-trabalhista-na-argentina.shtml",
-          "source": "Folha de S.Paulo"
-        },
         {
           "title": "Reforma trabalhista de Milei é aprovada no Senado",
           "snippet": "",
           "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/02/27/reforma-trabalhista-de-milei-senado.ghtml",
           "source": "G1"
+        },
+        {
+          "title": "Argentina aprova reforma trabalhista de Milei com jornada de 12 horas",
+          "snippet": "",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/02/27/argentina-aprova-reforma-trabalhista-de-milei-com-jornada-de-12-horas.htm",
+          "source": "UOL Economia"
         },
         {
           "title": "Escala 6x1: A luta política para não morrer de tanto trabalhar",
@@ -95,34 +95,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tempo rio de janeiro",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Feb 2026 01:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSloX1NuaOfGcNZpLlsWhKxxcKvBEZMHiXSKyzYRYtMU3wTHQtUbFUNA7XYbYo",
-      "pictureSource": "G1",
-      "relatedSearch": [
-        {
-          "title": "Rio tem o fevereiro mais chuvoso em quase 30 anos",
-          "snippet": "",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/27/volume-de-chuva-no-rio-em-fevereiro-de-2026.ghtml",
-          "source": "G1"
-        },
-        {
-          "title": "Chuva persiste e Defesa Civil alerta para riscos em mais de 20 municípios no Rio; saiba quais",
-          "snippet": "",
-          "url": "https://veja.abril.com.br/brasil/chuva-persiste-e-defesa-civil-alerta-para-riscos-em-mais-de-20-municipios-no-rio-saiba-quais/",
-          "source": "VEJA"
-        },
-        {
-          "title": "Temporal no RJ já provocou 80 ocorrências, segundo Bombeiros",
-          "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/temporal-no-rj-ja-provocou-80-ocorrencias-segundo-bombeiros/",
-          "source": "CNN Brasil"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "estadão",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 01:10:00 -0800",
@@ -151,64 +123,92 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "jovem pan",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 01:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkwuhxWkWiSPmbRanYAkrSA8A-PZ7CFLp1iLrKqHpNJ3OQ-UuR1KMXl1uQtv0",
-      "pictureSource": "NaTelinha",
+      "title": "tempo rio de janeiro",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Feb 2026 01:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSloX1NuaOfGcNZpLlsWhKxxcKvBEZMHiXSKyzYRYtMU3wTHQtUbFUNA7XYbYo",
+      "pictureSource": "G1",
       "relatedSearch": [
         {
-          "title": "Âncora do Jornal da Manhã, da Jovem Pan, Evandro Cini fala sobre novo desafio e entrega \"maratona\"",
+          "title": "Rio tem o fevereiro mais chuvoso em quase 30 anos",
           "snippet": "",
-          "url": "https://natelinha.uol.com.br/televisao/2026/02/26/ancora-do-jornal-da-manha-da-jovem-pan-evandro-cini-fala-sobre-novo-desafio-e-entrega-maratona-238501.php",
-          "source": "NaTelinha"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/27/volume-de-chuva-no-rio-em-fevereiro-de-2026.ghtml",
+          "source": "G1"
         },
         {
-          "title": "Âncora do Jornal da Manhã, da Jovem Pan, Evandro Cini fala sobre novo desafio e entrega \"maratona\"",
+          "title": "Chuva persiste e Defesa Civil alerta para riscos em mais de 20 municípios no Rio; saiba quais",
           "snippet": "",
-          "url": "https://portal6.com.br/2026/02/26/ancora-do-jornal-da-manha-da-jovem-pan-evandro-cini-fala-sobre-novo-desafio-e-entrega-maratona/",
-          "source": "Portal 6"
+          "url": "https://veja.abril.com.br/brasil/chuva-persiste-e-defesa-civil-alerta-para-riscos-em-mais-de-20-municipios-no-rio-saiba-quais/",
+          "source": "VEJA"
         },
         {
-          "title": "Crise: audiência baixa provoca tensão nos bastidores da Jovem Pan",
+          "title": "Temporal no RJ já provocou 80 ocorrências, segundo Bombeiros",
           "snippet": "",
-          "url": "https://www.diariodocentrodomundo.com.br/essencial/crise-audiencia-baixa-provoca-tensao-nos-bastidores-da-jovem-pan/",
-          "source": "Diário do Centro do Mundo"
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/temporal-no-rj-ja-provocou-80-ocorrencias-segundo-bombeiros/",
+          "source": "CNN Brasil"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "russia",
+      "title": "jovem pan",
       "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 00:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRljFKW2wsT0KElhPk-tjVOA-gzTQdRNelmmCxoQUG1OBZ47N8m4WHZ6Al04Io",
-      "pictureSource": "CNBC",
+      "pubDate": "Sat, 28 Feb 2026 01:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3dcpAEkVeA8UhcdRTI5nDlpmnF2V7gNCfiMQxl8GoBw0jX1ve9648B3BQPU",
+      "pictureSource": "Diário do Centro do Mundo",
       "relatedSearch": [
         {
-          "title": "Russia and Ukraine agree local truce to allow repairs at Europe’s largest nuclear power plant",
+          "title": "Crise: audiência baixa provoca tensão nos bastidores da Jovem Pan",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/02/27/russia-ukraine-war-local-ceasefire-zaporizhzhia-nuclear-power-plant.html",
-          "source": "CNBC"
+          "url": "https://www.diariodocentrodomundo.com.br/essencial/crise-audiencia-baixa-provoca-tensao-nos-bastidores-da-jovem-pan/",
+          "source": "Diário do Centro do Mundo"
         },
         {
-          "title": "Update 342 – IAEA Director General Statement on Situation in Ukraine",
+          "title": "Jovem Pan tensa com audiência baixa",
           "snippet": "",
-          "url": "http://www.iaea.org/newscenter/pressreleases/update-342-iaea-director-general-statement-on-situation-in-ukraine",
-          "source": "International Atomic Energy Agency"
+          "url": "https://odia.ig.com.br/diversao/canal-d/2026/02/7214197-jovem-pan-tensa-com-audiencia-baixa.html",
+          "source": "O Dia"
         },
         {
-          "title": "Russia says local truce established to enable repairs at Zaporizh",
+          "title": "CNN Brasil conquista a vice liderança no PNT",
           "snippet": "",
-          "url": "https://www.globalbankingandfinance.com/russia-local-truce-established-enable-repairs-zaporizhzhia/",
-          "source": "Global Banking & Finance Review®"
+          "url": "https://ntvb.com.br/2026/02/20/cnn-brasil-conquista-a-vice-lideranca-no-pnt/",
+          "source": "Portal NTVB"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "g1 mundo",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 28 Feb 2026 00:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdyx9vxByZPTi3fjt90uxzDUZSrP44j1lTC5KYgXdlx46vBjQDZlRE322EWWA",
+      "pictureSource": "G1",
+      "relatedSearch": [
+        {
+          "title": "VÍDEO de criança sendo empurrada por mulher em rua de Tóquio causa indignação",
+          "snippet": "",
+          "url": "https://g1.globo.com/mundo/noticia/2026/02/27/video-de-crianca-sendo-empurrada-por-mulher-em-rua-de-toquio-causa-indignacao.ghtml",
+          "source": "G1"
+        },
+        {
+          "title": "Vídeo de criança sendo empurrada em Tóquio gera revolta nas redes; veja",
+          "snippet": "",
+          "url": "https://www.cnnbrasil.com.br/internacional/video-de-crianca-sendo-empurrada-em-toquio-gera-revolta-nas-redes-veja/",
+          "source": "CNN Brasil"
+        },
+        {
+          "title": "Imagem de mulher que empurra criança em faixa de pedestre no Japão causa indignação",
+          "snippet": "",
+          "url": "https://noticias.r7.com/jr-na-tv/video/imagem-de-mulher-que-empurra-crianca-em-faixa-de-pedestre-no-japao-causa-indignacao-28022026/",
+          "source": "R7"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "noticias",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 28 Feb 2026 00:20:00 -0800",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEFTEe7TWwl2nSCSQ5zGFA0KxZK3T1GzftmZOiJhw1Z-6ISSlgROwJ1Arrsa0",
       "pictureSource": "Gazeta do Povo",
@@ -226,10 +226,10 @@
           "source": "O Globo"
         },
         {
-          "title": "Bases militares dos EUA estão sob ataque do Irã",
+          "title": "Irã lança mísseis contra Israel em retaliação a ataque coordenado",
           "snippet": "",
-          "url": "https://g1.globo.com/mundo/noticia/2026/02/28/bases-militares-eua-sob-ataque.ghtml",
-          "source": "G1"
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/02/28/ira-revida-ataque-israel.htm",
+          "source": "UOL Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
