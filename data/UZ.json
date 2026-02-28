@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-02-28 02:41:07",
+  "lastUpdate": "2026-02-28 03:25:33",
   "data": [
+    {
+      "title": "погода ташкент",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 27 Feb 2026 18:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLlH_1X61vgWb1zIcscztumCpllE2BiYMIOOPzxPLS-p-DvTdP4WHXPijLNg",
+      "pictureSource": "Газета.uz",
+      "relatedSearch": [
+        {
+          "title": "В выходные по Узбекистану ожидается тёплая погода, в большинстве регионов без осадков",
+          "snippet": "",
+          "url": "https://www.gazeta.uz/ru/2026/02/27/meteo/",
+          "source": "Газета.uz"
+        },
+        {
+          "title": "В середине этой недели в Узбекистане ожидается похолодание до -2 градусов",
+          "snippet": "",
+          "url": "https://www.uznews.uz/ru/news/107591",
+          "source": "UzNews.uz"
+        },
+        {
+          "title": "Узбекистанцев предупредили об усилении ветра и возможных пыльных бурях в отдельных регионах страны",
+          "snippet": "",
+          "url": "https://podrobno.uz/cat/obchestvo/uzbekistantsev-predupredili-ob-usilenii-vetra-i-vozmozhnykh-pylnykh-buryakh-v-otdelnykh-regionakh-st/",
+          "source": "Podrobno.uz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "парма – кальяри",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.livesport.ru/football/2026/02/27/parma-cagliari-smotret-onlain/",
           "source": "LiveSport.Ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "аль-хазм – аль-иттифак",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Feb 2026 13:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdwEEVnJgrRgzayshsz8Wm1VDnRLcshFBIT0qcyELjsI_hkvH9ughPc02fb8Y",
-      "pictureSource": "Ставка ТВ",
-      "relatedSearch": [
-        {
-          "title": "ИИ-прогноз на матч Коокоо - Ильвес 28 февраля 2026",
-          "snippet": "",
-          "url": "https://stavka.tv/matches/ice-hockey/28-02-2026-kookoo-kouvola-ilves-tampere",
-          "source": "Ставка ТВ"
-        },
-        {
-          "title": "Чемпионат Аргентины. Примера С. Метрополитана",
-          "snippet": "",
-          "url": "https://kushvsporte.ru/event/6482959-feniks-pilar-luhan",
-          "source": "Лига прогнозов на спорт"
-        },
-        {
-          "title": "КооКоо - Ильвес: прогнозы 28 февраля 2026, ставки Хоккей Чемпионат Финляндии",
-          "snippet": "",
-          "url": "https://kushvsporte.ru/event/6483911-kookoo-ilves",
-          "source": "Лига прогнозов на спорт"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,10 @@
           "source": "Terrikon"
         },
         {
-          "title": "Ла Лига. Битва неудачников: Леванте вырвал победу над обескровленным Алавесом",
+          "title": "«Леванте» победил «Алавес» в матче Ла Лиги, забив два гола в большинстве",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/spain/1772228816-la-liga-bitva-neudachnikov-levante-vyrval-pobedu-nad-obeskrovlennym-alavesom.html",
-          "source": "UA-Football"
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2299261_Levante_pobedil_Alaves_v_matche_La_Ligi_zabiv_dva_gola_v_bolshinstve",
+          "source": "Sportbox"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Tribuna.uz"
         },
         {
-          "title": "«Аль-Хиляль» обыграл «Аль-Шабаб» в 24-м туре саудовской Про-Лиги",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6375132-al-shabab-al-hilyal-rezultat-matcha-27-fevralya-2026-schet-3-5-24-j-tur-pro-ligi-2025-2026.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
           "title": "«Аль-Хиляль» забил 5 мячей «Аль-Шабабу» и не отпустил двойку лидеров чемпионата",
           "snippet": "",
           "url": "https://sport24.ru/football/news-828640-al-khilyal-zabil-5-myachey-al-shababu-i-ne-otpustil-dvoyku-liderov-chempionata",
           "source": "Sport24.ru"
+        },
+        {
+          "title": "«Аль-Хиляль» обыграл «Аль-Шабаб» в 24-м туре саудовской Про-Лиги",
+          "snippet": "",
+          "url": "https://www.championat.ru/football/news-6375132-al-shabab-al-hilyal-rezultat-matcha-27-fevralya-2026-schet-3-5-24-j-tur-pro-ligi-2025-2026.html",
+          "source": "https://www.championat.ru/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +229,14 @@
       "title": "зенит – балтика",
       "trafficCount": "200+",
       "pubDate": "Fri, 27 Feb 2026 08:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYYgEIXaLUEWUJAj9ZTLm33Jsl5Fc2utfl0esclnMM0IwWFZzYKuqDFKcW4PI",
-      "pictureSource": "sport-express.ru",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX_n6KW4Q4lWPC-QmQPJ1ikBWOvT73JM2D4DIoQyXdT2X90QyzsBSkAtrgdHU",
+      "pictureSource": "Sport.ru",
       "relatedSearch": [
         {
-          "title": "«Зенит» — «Балтика»: новый судья ФИФА отменил гол. Что увидели Сухой и его ВАР?",
+          "title": "Генич высказался о победе \"Зенита\" над \"Балтикой\"",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/rfpl/news/zenit-baltika-novyy-sudya-fifa-otmenil-gol-chto-uvideli-suhoy-i-ego-var-2402896/",
-          "source": "sport-express.ru"
+          "url": "https://www.sport.ru/football/genich-vyskazalsya-o-pobede-zenita-nad-baltikoy/article641553/",
+          "source": "Sport.ru"
         },
         {
           "title": "Дивеев о голе «Балтики»: «Был офсайд, если отменили. У “Зенита” была двойная мотивация — день рождения Семака и необходимость находиться на 1-й строчке»",
@@ -245,10 +245,10 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "У Дурана и Джона один удар по воротам на двоих в дебютном матче за «Зенит»",
+          "title": "Нигматуллин об отмененном голе «Балтики» в ворота «Зенита»: «Гниет футбол…»",
           "snippet": "",
-          "url": "https://www.championat.ru/football/news-6374958-u-durana-i-dzhona-odin-udar-po-vorotam-na-dvoih-v-debyutnom-matche-za-zenit.html",
-          "source": "https://www.championat.ru/"
+          "url": "https://sport24.ru/football/news-828626-nigmatullin-ob-otmenennom-gole-baltiki-v-vorota-zenita-gniyet-futbol",
+          "source": "Sport24.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -263,7 +263,7 @@
         {
           "title": "«Трабзонспор» против аутсайдера. Где смотреть «Трабзонспор» — «Фатих Карагюмрюк»",
           "snippet": "",
-          "url": "https://sportplustv.kz/ru/news/trabzonspor-protiv-autsaidera-gde-smotret-trabzonspor-fatix-karagiumriuk",
+          "url": "https://www.sportplustv.kz/ru/news/trabzonspor-protiv-autsaidera-gde-smotret-trabzonspor-fatix-karagiumriuk",
           "source": "Sport Plus Qazaqstan"
         },
         {
