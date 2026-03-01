@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-01 09:54:24",
+  "lastUpdate": "2026-03-01 10:02:19",
   "data": [
+    {
+      "title": "кипр",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Mar 2026 01:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqxDZEuvWtmTpvsGZzO2Yzm5c9xa89xYFkit6LwqzNLcOXJG3RN1dDD4reFmQ",
+      "pictureSource": "URA.RU",
+      "relatedSearch": [
+        {
+          "title": "Кипр эвакуирует иностранцев из-за обострения ситуации на Ближнем Востоке",
+          "snippet": "",
+          "url": "https://ura.news/news/1053073146",
+          "source": "URA.RU"
+        },
+        {
+          "title": "Серьезная эскалация военных действий на Ближнем Востоке: президент МККК призывает соблюдать правила ведения войны",
+          "snippet": "",
+          "url": "https://www.icrc.org/ru/statement/icrc-president-urges-respect-rules-war-major-military-escalation-starts-middle-east",
+          "source": "ICRC"
+        },
+        {
+          "title": "Минтранс организует доставку застрявших за границей морем с Кипра",
+          "snippet": "",
+          "url": "https://news.israelinfo.co.il/141601",
+          "source": "Израиль на ладони - israelinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "гибралтар",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://russpain.com/news/novyj-dogovor-menyaet-zhizn-na-granice-gibraltara-rost-nalogov-i-trevogi-401118/",
           "source": "russpain.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кипр",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 1 Mar 2026 01:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxl8uMpAZ93QHirykWFzi_QrS7DLzh6cjKOkH0we_fi_CVzwv2zqzM6sj8MFo",
-      "pictureSource": "Euronews.com",
-      "relatedSearch": [
-        {
-          "title": "Видео. Никосийский аэропорт-призрак могут превратить в музей",
-          "snippet": "",
-          "url": "https://ru.euronews.com/video/2026/02/23/nikosijskij-aeroport-prizrak-mogut-prevratit-v-muzej",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "Аэропорт-призрак на Кипре может стать популярным туристическим аттракционом",
-          "snippet": "",
-          "url": "https://bb.lv/statja/lifenews/2026/02/28/aeroport-prizrak-na-kipre-mozet-stat-populiarnym-turisticeskim-attrakcionom",
-          "source": "BB.LV"
-        },
-        {
-          "title": "Никосийский аэропорт-призрак могут превратить в музей",
-          "snippet": "",
-          "url": "https://ru.euronews.com/culture/2026/02/23/nikosijskij-aeroport-prizrak-mogut-prevratit-v-muzej",
-          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,20 +257,20 @@
       "title": "златоуст",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Mar 2026 00:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGzx1XbP1EhT-AkrpC0RjkmClodwjq-dIg1kp4WVucOIAOKHdBYQ_7L8KCN2Y",
-      "pictureSource": "Rusbiathlon.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS79tj2GlXrBPhVpmvjUpoXMNfGz1mTPwGo0mB4DSKM4CTPVD2EIcoS5bHAqB8",
+      "pictureSource": "Матч ТВ",
       "relatedSearch": [
-        {
-          "title": "Старт-лист на мужской масс-старт Кубка России в Златоусте",
-          "snippet": "",
-          "url": "https://rusbiathlon.ru/news/biathlon/id236381/",
-          "source": "Rusbiathlon.ru"
-        },
         {
           "title": "Биатлонистка Юлия Коваленко победила в масс‑старте на этапе Кубка России в Златоусте, Резцова — третья",
           "snippet": "",
           "url": "https://matchtv.ru/biathlon/matchtvnews_NI2299867_Biatlonistka_Julija_Kovalenko_pobedila_v_massstarte_na_etape_Kubka_Rossii_v_Zlatouste_Rezcova__tretja",
           "source": "Матч ТВ"
+        },
+        {
+          "title": "Юлия Коваленко выиграла масс-старт в финале Кубка России в Златоусте",
+          "snippet": "",
+          "url": "https://rusbiathlon.ru/news/biathlon/id236421/",
+          "source": "Rusbiathlon.ru"
         },
         {
           "title": "Биатлонист Коновалов выиграл гонку преследования на этапе Кубка России в Златоусте",
