@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-01 07:19:52",
+  "lastUpdate": "2026-03-01 07:36:17",
   "data": [
     {
       "title": "fournil didot",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Feb 2026 23:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTNKRrCkv6aKyoHHN9KD1BsTFYoQN736mSSXbJq0jB--mkX7TvBIe6U6OpdQ",
       "pictureSource": "Ville de Paris",
@@ -30,8 +30,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "the guardian",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 28 Feb 2026 23:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQe9_-Uk-zMQy_WCn5KY9XYHhJhvOe4FGZDxZ17FuElWJxwWgmGqcykSi4DA4Q",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Opinion | Trump’s Attack on Iran Is Reckless",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Iran may yet endure this war, but the Islamic Republic as we have known it cannot survive unchanged | Sanam Vakil",
+          "snippet": "",
+          "url": "https://www.theguardian.com/commentisfree/2026/mar/01/iran-war-islamic-republic-donald-trump-regime",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Opinion | Thanks to President Trump, the hour of Iran’s freedom is at hand",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/opinions/2026/02/28/reza-pahlavi-iran-freedom-trump/",
+          "source": "The Washington Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "gp moto",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 28 Feb 2026 22:40:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQt7xvgK-CuOmpZIvclOHazqscDIMvOzkPbcvAcldHefF1QnHU3ozKw2V5kX0",
       "pictureSource": "AutoHebdo",
@@ -89,15 +117,9 @@
       "title": "horoscope",
       "trafficCount": "500+",
       "pubDate": "Sat, 28 Feb 2026 22:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrNOJX9L_T9r3E7Q9qjluR4EyV2Zbx5-lmZMgsGlgE_wrkRHhv_izmUCjsKE",
-      "pictureSource": "France Bleu",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs2FBZ8hP08XKQUHIDpwDYBMsZYoi_ixPg3g3vNmEl7EVmI08ktWNlaKerGfU",
+      "pictureSource": "RTL2.fr",
       "relatedSearch": [
-        {
-          "title": "L'horoscope du dimanche 1er mars 2026",
-          "snippet": "",
-          "url": "https://www.francebleu.fr/emissions/l-horoscope-de-catherine-viguie/l-horoscope-du-dimanche-1er-mars-2026-2525865",
-          "source": "France Bleu"
-        },
         {
           "title": "L horoscope de l Expresso du Week-End du dimanche 1er mars 2026",
           "snippet": "",
@@ -109,6 +131,12 @@
           "snippet": "",
           "url": "https://www.tendanceouest.com/actualite-436613-astrologie-votre-horoscope-signe-par-signe-du-dimanche-1er-mars",
           "source": "tendanceouest.com"
+        },
+        {
+          "title": "Quel sera votre état d'esprit aujourd'hui ? Consultez votre horoscope du Dimanche 1er mars 2026",
+          "snippet": "",
+          "url": "https://www.sudouest.fr/horoscope/quel-sera-votre-etat-d-esprit-aujourd-hui-consultez-votre-horoscope-du-dimanche-1er-mars-2026-28089407.php",
+          "source": "Sud Ouest"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,44 @@
           "source": "Le Monde.fr"
         },
         {
-          "title": "Rien ne va plus entre Washington et la Silicon Valley",
-          "snippet": "",
-          "url": "https://www.lepoint.fr/monde/entre-washington-et-la-silicon-valley-rien-ne-va-plus-TXG5Q2BHUREPDFGHB47KFDWOBI/",
-          "source": "Le Point"
-        },
-        {
           "title": "Le Pentagone autorisé à utiliser l’intelligence artificielle d’OpenAI",
           "snippet": "",
           "url": "https://www.20minutes.fr/high-tech/4203867-20260228-patron-openai-createur-chatgpt-annonce-pentagone-pourra-utiliser-modeles-garanties",
           "source": "20 Minutes"
+        },
+        {
+          "title": "OpenAI détaille les protections en couches dans le pacte du département de la défense des États-Unis",
+          "snippet": "",
+          "url": "https://www.boursorama.com/bourse/actualites/openai-detaille-les-protections-en-couches-dans-le-pacte-du-departement-de-la-defense-des-etats-unis-24fc62510b8551fd91812b327b2bcee7",
+          "source": "Boursorama"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "franceinfo",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Feb 2026 22:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuQJbTzkS_QccGx0ukqsZ1CFIPNUvPAh9IUH99GvxUVUKaZo5L3aO0kg8X4us",
+      "pictureSource": "Le Monde.fr",
+      "relatedSearch": [
+        {
+          "title": "Ce qui change à partir du 1ᵉʳ mars pour votre budget",
+          "snippet": "",
+          "url": "https://www.lemonde.fr/argent/article/2026/03/01/ce-qui-change-a-partir-du-1-mars-pour-votre-budget_6668748_1657007.html",
+          "source": "Le Monde.fr"
+        },
+        {
+          "title": "Hausse du prix du gaz, taxe sur les petits colis, clôture de certains PEL... Tout ce qui change au 1er mars",
+          "snippet": "",
+          "url": "https://www.bfmtv.com/economie/hausse-du-prix-du-gaz-taxe-sur-les-petits-colis-cloture-de-certains-pel-tout-ce-qui-change-au-1er-mars_AN-202602280119.html",
+          "source": "BFM"
+        },
+        {
+          "title": "Carte grise, petits colis, recours en justice… Tout ce change au 1er mars",
+          "snippet": "",
+          "url": "https://www.huffingtonpost.fr/france/video/ce-qui-change-au-1er-mars-2026-carte-grise-petits-colis-recours-en-justice-carnet-de-maternite-clx1_260869.html",
+          "source": "Le HuffPost"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +239,16 @@
           "source": "The Times of Israel"
         },
         {
-          "title": "Iran bombards Israel, Gulf, vowing unprecedented response to killing of Khamenei",
+          "title": "US-Israel war on Iran: Ayatollah Ali Khamenei confirmed dead by state media; Iran launches fresh strikes – latest reports",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog-march-01-2026/",
-          "source": "The Times of Israel"
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports",
+          "source": "The Guardian"
         },
         {
-          "title": "US-Israel Attacks Iran LIVE Updates: Iran Confirms Deaths Of Army Chief, Defence Minister In US-Israel Strikes",
+          "title": "Iran's Revolutionary Guards vow 'severe' punishment for Khamenei's 'murderers'",
           "snippet": "",
-          "url": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388",
-          "source": "NDTV"
+          "url": "https://www.lemonde.fr/en/international/article/2026/02/28/iran-s-supreme-leader-khamenei-confirmed-dead-says-trump_6750968_4.html",
+          "source": "Le Monde.fr"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -223,43 +279,6 @@
           "source": "Albanian Daily News"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vosges matin",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 28 Feb 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTISxJm2191-c66kmI4tcFCo2GXdAHnkAmlUJtdfaYTRWCDiTRywCmQhB7SyDw",
-      "pictureSource": "Vosges Matin",
-      "relatedSearch": [
-        {
-          "title": "Photos. Découvrez les mariés du week-end dans les Vosges",
-          "snippet": "",
-          "url": "https://www.vosgesmatin.fr/carnet-du-jour/2026/03/01/decouvrez-les-maries-du-week-end-dans-les-vosges",
-          "source": "Vosges Matin"
-        },
-        {
-          "title": "Photos . Les mariés du week-end dans les Vosges",
-          "snippet": "",
-          "url": "https://www.vosgesmatin.fr/societe/2026/02/22/les-maries-du-week-end-dans-les-vosges",
-          "source": "Vosges Matin"
-        },
-        {
-          "title": "Vosges : un homme de trente ans perd la vie après une chute mortelle d'un balcon",
-          "snippet": "",
-          "url": "https://actu.orange.fr/societe/fait-divers/vosges-un-homme-de-trente-ans-perd-la-vie-apres-une-chute-mortelle-d-un-balcon-magic-CNT000002nCNpx.html",
-          "source": "Portail Orange"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "corse matin",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Feb 2026 22:10:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]

@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-03-01 07:20:00",
+  "lastUpdate": "2026-03-01 07:36:25",
   "data": [
-    {
-      "title": "новости",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Feb 2026 21:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0hrfCzxVv7VrKiBJNOJcz0Y4ZE9_MidKOHrQpZiAdHvs049OxAZIcn9MFKfs",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "«Будь проклята исламская диктатура». В Иране царят самые разные настроения на фоне атаки Израиля и США — от паники до радости",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/ckgzkvv4xv1o",
-          "source": "BBC"
-        },
-        {
-          "title": "Иран. Война. Что известно на утро 1 марта?",
-          "snippet": "",
-          "url": "https://kaktus.media/doc/541544_iran._voyna._chto_izvestno_na_ytro_1_marta.html",
-          "source": "Кактус Медиа"
-        },
-        {
-          "title": "Ракетная атака Ирана на Тель-Авив: один человек погиб",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/raketnaa-ataka-irana-na-telaviv-odin-celovek-pogib/a-76169760",
-          "source": "DW.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "килиан мбаппе",
       "trafficCount": "100+",
@@ -81,6 +53,34 @@
           "snippet": "",
           "url": "https://24.kg/vlast/363923_akimyi_kara-suyskogo_inbsptoguz-torouskogo_rayonov_ushli_vnbspotstavku/",
           "source": "24.KG"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "али хаменеи",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 28 Feb 2026 14:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7QvA1Gd9DqfCKr9iDsmSlOTfMOeZbU6hNSKMjHm5x9_WW7JttKjntO5X11mY",
+      "pictureSource": "Кактус Медиа",
+      "relatedSearch": [
+        {
+          "title": "В Иране прошли празднования после сообщений о гибели Али Хаменеи (видео)",
+          "snippet": "",
+          "url": "https://kaktus.media/doc/541546_v_irane_proshli_prazdnovaniia_posle_soobsheniy_o_gibeli_ali_hamenei_video.html",
+          "source": "Кактус Медиа"
+        },
+        {
+          "title": "Убит аятолла Али Хаменеи — консервативный революционер и жесткий верховный правитель Ирана",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cq550qd7xy5o",
+          "source": "BBC"
+        },
+        {
+          "title": "Трамп объявил о смерти верховного лидера Ирана Хаменеи",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/tramp-obavil-o-smerti-verhovnogo-lidera-irana-hamenei/a-76169714",
+          "source": "DW.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,10 +211,10 @@
           "source": "Футбол на Куличках"
         },
         {
-          "title": "Роналду травмировался в матче «Аль-Насра» с «Аль-Фейхой»",
+          "title": "Роналду двумя предложениями отреагировал на победу «Аль-Насра» в игре Про-Лиги",
           "snippet": "",
-          "url": "https://stavkinasport.com/ronaldo-poluchil-travmu/",
-          "source": "Ставки на спорт"
+          "url": "https://www.championat.ru/football/news-6376670-ronaldu-dvumya-predlozheniyami-otreagiroval-na-pobedu-al-nasra-v-igre-pro-ligi.html",
+          "source": "https://www.championat.ru/"
         },
         {
           "title": "Роналду заменили из-за дискомфорта в матче с «Аль-Фейхой» на 81-й минуте",
@@ -267,10 +267,10 @@
           "source": "CNN"
         },
         {
-          "title": "Smoke Plumes, Sirens As Iran Strikes Doha, Dubai After Khamenei's Death",
+          "title": "Iran strikes Gulf again: More explosions in Dubai, Doha and Manama; airports targeted?",
           "snippet": "",
-          "url": "https://www.ndtv.com/world-news/smoke-plumes-sirens-as-iran-strikes-doha-dubai-after-ayatollah-ali-khameneis-death-11153018",
-          "source": "NDTV"
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-strikes-gulf-again-more-explosions-in-dubai-doha-and-manama-airports-targeted/articleshow/128908100.cms",
+          "source": "The Times of India"
         },
         {
           "title": "Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikes",
