@@ -1,18 +1,46 @@
 {
-  "lastUpdate": "2026-03-01 11:25:03",
+  "lastUpdate": "2026-03-01 11:35:04",
   "data": [
+    {
+      "title": "claude",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 1 Mar 2026 03:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKAvjOEpwJlJYNRqscbydPezB8Vv_zJRFWi32cHRI1egnBQDOXg6ojgBCzyMU",
+      "pictureSource": "Axios",
+      "relatedSearch": [
+        {
+          "title": "OpenAI-Pentagon deal faces same safety concerns that plagued Anthropic talks",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/03/01/openai-pentagon-anthropic-safety",
+          "source": "Axios"
+        },
+        {
+          "title": "What’s Really at Stake in the Fight Between Anthropic and the Pentagon",
+          "snippet": "",
+          "url": "https://www.wsj.com/tech/ai/whats-really-at-stake-in-the-fight-between-anthropic-and-the-pentagon-d450c1a1?gaa_at=eafs&gaa_n=AWEtsqcUfW4a_rjmOW8sgBWfGUrkujmycMaEFoxHiE-4zMrkPYhtYTqkRnlv&gaa_ts=69a42750&gaa_sig=q7Z86Z6h9EXg56XFH7-7CH24uKkjCnBTV9tdh4itvCnZgLQKzlTdGKdzMGr8hIy-EBllCgtzQiPS_jYPs4vBCA%3D%3D",
+          "source": "The Wall Street Journal"
+        },
+        {
+          "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "сулейман керимов",
       "trafficCount": "100+",
       "pubDate": "Sun, 1 Mar 2026 03:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqFzkO_djlxVAj58QCwOsT5M73afMa9Sr2yRn3e8uzB7Il8bMRdA8DYPKIJqE",
-      "pictureSource": "Dagpravda.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC2awq6-QlC8x8S2EvkWgKLPxOG-guXADNYllw2Bl-OffYZFMhRQ0HnkPlZho",
+      "pictureSource": "РИА Дагестан",
       "relatedSearch": [
         {
-          "title": "Саид Ибрагимов – девятнадцатый Герой России из Дагестана",
+          "title": "Руководство Дахадаевского района навестило семью Героя России Саида Ибрагимова",
           "snippet": "",
-          "url": "https://dagpravda.ru/aktualnye-temy/said-ibragimov-devya-tnadcatyj-geroj-rossii-iz-dagestana/",
-          "source": "Dagpravda.ru"
+          "url": "https://riadagestan.ru/news/dakhadaevskiy_rayon/rukovodstvo_dakhadaevskogo_rayona_navestili_semyu_geroya_rossii_saida_ibragimova",
+          "source": "РИА Дагестан"
         },
         {
           "title": "Сулейман Керимов передал 5 млн рублей Герою России из Дагестана",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://ndelo.ru/novosti/u-dagestana-19-j-geroj-rossii-s-nachala-svo",
           "source": "Новое дело"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "спартак",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 03:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK8-kBPcJVeUQUBn26IM7eUSeGwAAZuzJtsnMU8kpYcw-sN7FgJNUHL49DC7M",
-      "pictureSource": "Sportbox",
-      "relatedSearch": [
-        {
-          "title": "«Сочи» — «Спартак»: когда начало, где смотреть онлайн матч 19‑го тура РПЛ 1 марта",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbnews_NI2299836_Sochi__Spartak_kogda_nachalo_gde_smotret_onlajn_match_19go_tura_RPL_1_marta",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Колыванов: «Если «Спартак» не будет заниматься ерундой, то выиграет у «Сочи»",
-          "snippet": "",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2299890_Kolyvanov_Jesli_Spartak_ne_budet_zanimatsa_jerundoj_to_vyigrajet_u_Sochi",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Нужна первая победа на «Фиште»",
-          "snippet": "",
-          "url": "https://spartak.com/media/news/9e0c73b7-65b4-4d42-b59c-6cfa458e7b9a",
-          "source": "ФК Спартак-Москва - официальный сайт"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "Sportbox"
         },
         {
-          "title": "Прогноз на матч чемпионата России Ахмат – ЦСКА. Гости не уступят в мало результативном матче",
+          "title": "Колыванов — о матче «Ахмата» и ЦСКА: «Черчесов никому спуску не даёт, его команда будет сражаться»",
           "snippet": "",
-          "url": "https://www.sportsdaily.ru/prognozy-na-sport/ahmat-cz-ska-1-70-prognoz-na-match-1-marta-2026-i-stavka-na-chempionat-rossii/",
-          "source": "Спорт день за днем"
+          "url": "https://matchtv.ru/football/matchtvnews_NI2299881_Kolyvanov__o_matche_Ahmata_i_CSKA_Cherchesov_nikomu_spusku_ne_dajot_jego_komanda_budet_srazhatsa",
+          "source": "Матч ТВ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,6 +137,34 @@
           "snippet": "",
           "url": "https://stavka.tv/matches/ice-hockey/01-03-2026-sochi-torpedo-n-novgorod",
           "source": "Ставка ТВ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сочи спартак",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 1 Mar 2026 02:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK8-kBPcJVeUQUBn26IM7eUSeGwAAZuzJtsnMU8kpYcw-sN7FgJNUHL49DC7M",
+      "pictureSource": "Sportbox",
+      "relatedSearch": [
+        {
+          "title": "«Сочи» — «Спартак»: когда начало, где смотреть онлайн матч 19‑го тура РПЛ 1 марта",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbnews_NI2299836_Sochi__Spartak_kogda_nachalo_gde_smotret_onlajn_match_19go_tura_RPL_1_marta",
+          "source": "Sportbox"
+        },
+        {
+          "title": "Колыванов: «Если «Спартак» не будет заниматься ерундой, то выиграет у «Сочи»",
+          "snippet": "",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2299890_Kolyvanov_Jesli_Spartak_ne_budet_zanimatsa_jerundoj_to_vyigrajet_u_Sochi",
+          "source": "Матч ТВ"
+        },
+        {
+          "title": "Нужна первая победа на «Фиште»",
+          "snippet": "",
+          "url": "https://spartak.com/media/news/9e0c73b7-65b4-4d42-b59c-6cfa458e7b9a",
+          "source": "ФК Спартак-Москва - официальный сайт"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,34 +249,6 @@
           "snippet": "",
           "url": "https://metaratings.ru/prognozy/hokkey/traktor-ak-bars-prognoz-na-match-kkhl-1-marta-2026-goda/",
           "source": "Metaratings"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "макарем ширази",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 02:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF93vSDKV5_tNUyMskW8R61ZSnYpKy16qdmq3GLcMy4i67ZJ9vf9qg-bpSNbc",
-      "pictureSource": "Ведомости",
-      "relatedSearch": [
-        {
-          "title": "В Иране объявили джихад Израилю и США",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/politics/news/2026/03/01/1179863-irane-obyavili-dzhihad",
-          "source": "Ведомости"
-        },
-        {
-          "title": "В Иране объявили джихад против США и Израиля",
-          "snippet": "",
-          "url": "https://ura.news/news/1053073367",
-          "source": "URA.RU"
-        },
-        {
-          "title": "Аятолла Ширази объявил джихад США и Израилю после убийства аятоллы Хаменеи",
-          "snippet": "",
-          "url": "https://spbdnevnik.ru/news/2026-03-01/ayatolla-shirazi-obyavil-dzhikhad-ssha-i-izrailyu-posle-ubiystva-ayatolly-khamenei",
-          "source": "spbdnevnik.ru"
         }
       ],
       "link": "https://imtaqin.id/"
