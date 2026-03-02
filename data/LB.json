@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-02 14:04:55",
+  "lastUpdate": "2026-03-02 14:25:47",
   "data": [
     {
       "title": "claude",
@@ -33,26 +33,26 @@
       "title": "aramco",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 00:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKJgPbQ4Xs6LusGj4LEJn6Q1dHcLJJyNXvEgHjlZRuRs08jSaUvEzc-9OT_lw",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy731GCoL_yP4fku5e0-MJIsgqQ4xk7g_hvsEvoukRO4qk8EiUYI-8KiVoDHA",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "Live updates: Saudi Aramco refinery hit; Iran security chief rejects U.S. talks",
+          "title": "Major Saudi refinery, Iraqi Kurdish and Israeli oil, gas fields shut amid Mideast strikes",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/02/us-iran-live-updates-trump-oil-gold.html",
-          "source": "CNBC"
+          "url": "https://www.reuters.com/business/energy/saudi-aramco-shuts-ras-tanura-refinery-after-drone-strike-source-says-2026-03-02/",
+          "source": "Reuters"
         },
         {
-          "title": "Iran Denies Targeting Saudi Oil Facility",
+          "title": "‘Missile debris’ sparks fire at Saudi’s Aramco oil refinery",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/03/02/world/video/iran-denies-targeting-saudi-oil-ldn-digvid",
-          "source": "CNN"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/missile-debris-sparks-fire-at-saudis-aramco-oil-refinery",
+          "source": "Al Jazeera"
         },
         {
-          "title": "Iran attack on giant Saudi refinery pushes up oil prices",
+          "title": "Saudis threaten to target Iranian oil facilities if Tehran mounts ‘concerted’ strike on Aramco",
           "snippet": "",
-          "url": "https://www.axios.com/2026/03/02/iran-attack-refinery-prices",
-          "source": "Axios"
+          "url": "https://www.timesofisrael.com/liveblog_entry/saudis-threaten-to-target-iranian-oil-facilities-if-tehran-mounts-concerted-strike-on-aramco/",
+          "source": "The Times of Israel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,17 +170,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "silver price",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmyurCY319vPuBTtncfO9HLDM8ui7S_yFoWkPO562giBkmaH1-PX-D2BOGEI",
+      "pictureSource": "Seeking Alpha",
+      "relatedSearch": [
+        {
+          "title": "Silver And Gold: Short Squeeze Potential Is Still Considerable",
+          "snippet": "",
+          "url": "https://seekingalpha.com/article/4876690-silver-gold-short-squeeze-potential-still-considerable",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Precious Metal: Safe-Haven Demand Amid Geopolitical Uncertainty",
+          "snippet": "",
+          "url": "https://www.fintechbiznews.com/exchanges-commodity-exchanges/precious-metal-safehaven-demand-amid-geopolitical-uncertainty",
+          "source": "https://www.fintechbiznews.com/"
+        },
+        {
+          "title": "Why are gold and silver prices rising now, and will gold surge to $6,000 and silver to $200? Gold and silv",
+          "snippet": "",
+          "url": "https://m.economictimes.com/news/international/us/why-are-gold-and-silver-prices-rising-now-and-will-gold-surge-to-6000-and-silver-to-200-gold-and-silver-climb-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/128942931.cms",
+          "source": "The Economic Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "oil price",
       "trafficCount": "100+",
       "pubDate": "Sun, 1 Mar 2026 20:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-XJUxzV6hC-gciY_x_xG8NZf30cuB35Jw4J4P2_TsaHBwyKYBzobAiEtEX4E",
-      "pictureSource": "NBC News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxsz64BJOQsqjp5UGCKaGrz1L3dy0VktUm95sAmkWT0x2Sg7FIOQroB4UkZGk",
+      "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Higher gas prices are likely coming to the pump after oil prices jump in wake of U.S. strikes in Iran",
+          "title": "Dow futures drop 400 points as oil prices spike following U.S. attack on Iran: Live updates",
           "snippet": "",
-          "url": "https://www.nbcnews.com/business/business-news/oil-prices-iran-strikes-rcna261209",
-          "source": "NBC News"
+          "url": "https://www.cnbc.com/2026/03/01/stock-market-today-live-update.html",
+          "source": "CNBC"
         },
         {
           "title": "Beyond a Trade War, China, Japan and Others in Asia Face a New Energy Threat",
@@ -189,10 +217,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "One early risk of Trump's Iran strategy is already emerging",
+          "title": "Higher gas prices are likely coming to the pump after oil prices jump in wake of U.S. strikes in Iran",
           "snippet": "",
-          "url": "https://www.politico.com/news/2026/03/01/oil-prices-energy-iran-trump-00806537",
-          "source": "Politico"
+          "url": "https://www.nbcnews.com/business/business-news/oil-prices-iran-strikes-rcna261209",
+          "source": "NBC News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "Al Jazeera"
         },
         {
-          "title": "Series of overnight Israeli attacks on Lebanon kill at least 31, injure 149",
+          "title": "Hezbollah Claims Responsibility for Missile Strike on Israel",
           "snippet": "",
-          "url": "https://today.lorientlejour.com/article/1496811/hezbollah-fires-toward-israel-salam-condemns-irresponsible-act-and-warns-against-further-adventures.html",
-          "source": "L'Orient Today"
+          "url": "https://www.mtv.com.lb/en/news/Local/1658083/hezbollah-claims-responsibility-for-missile-strike-on-israel",
+          "source": "MTV Lebanon"
         },
         {
-          "title": "Watch: Airstrikes Target the South Lebanon",
+          "title": "Nassar instructs security to arrest those who ordered rocket fire at Israel",
           "snippet": "",
-          "url": "https://www.mtv.com.lb/en/news/Local/1658226/watch--airstrikes-target-the-south-lebanon",
-          "source": "MTV Lebanon"
+          "url": "https://today.lorientlejour.com/article/1496845/nassar-instructs-security-to-arrest-those-who-ordered-rocket-fire-at-israel.html",
+          "source": "L'Orient Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +273,10 @@
           "source": "en.sedaily.com"
         },
         {
-          "title": "South Korea approves Google bid to export high-precision map data",
+          "title": "Approval of high-precision map exports to Google requires strict security control",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/video-collection/south-korea-approves-google-bid-to-export-high-precision-map-data/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBOTAxMzI3MDIyMDI2UlAx",
-          "source": "Reuters Connect"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "orlando city vs inter miami",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 1 Mar 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBUwXp8i0uIKXwcIA4nVptniHbX1qZ82WY80Y0vBXLM1Uw8zaRlivp-ae0O5Q",
-      "pictureSource": "Tribuna.com",
-      "relatedSearch": [
-        {
-          "title": "Javier Mascherano: ‘In the second half of the game against Orlando, Inter Miami's players were a championship-calibre team’",
-          "snippet": "",
-          "url": "https://tribuna.com/en/news/2026-03-02-javier-mascherano-in-the-second-half-of-the-game-against-orlando-inter-miamis-players-wer/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Messi shines in Clásico del Sol: two stunners, Mascherano’s first win",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/messi-shines-in-clasico-del-sol-two-stunners-mascheranos-first-win-42491770",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Inter Miami Vs Orlando City: Orlando tinker with three changes ahead of Florida Derby",
-          "snippet": "",
-          "url": "https://www.filmogaz.com/177649",
-          "source": "FilmoGaz"
+          "url": "https://koreajoongangdaily.joins.com/news/2026-03-02/opinion/editorials/Approval-of-highprecision-map-exports-to-Google-requires-strict-security-control/2534373",
+          "source": "Korea JoongAng Daily"
         }
       ],
       "link": "https://imtaqin.id/"
