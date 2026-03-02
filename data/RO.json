@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-02 12:44:15",
+  "lastUpdate": "2026-03-02 13:12:44",
   "data": [
     {
       "title": "claude",
@@ -37,22 +37,22 @@
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Live updates: Several US military aircraft have crashed but all crew survived, Kuwait’s defense ministry says",
+          "title": "Live updates: War spirals in Middle East as explosions heard across region",
           "snippet": "",
           "url": "https://www.cnn.com/world/live-news/iran-israel-us-attack-03-02-26-intl-hnk",
           "source": "CNN"
         },
         {
-          "title": "3 U.S. jets downed by friendly fire over Kuwait",
+          "title": "3 American F-15 jets \"mistakenly shot down\" by Kuwait but all crew safe, U.S. military says",
           "snippet": "",
-          "url": "https://www.axios.com/2026/03/02/3-us-fighter-jets-friendly-fire-kuwait",
-          "source": "Axios"
+          "url": "https://www.cbsnews.com/news/us-f-15-jets-mistakenly-shot-down-kuwait-riendly-fire-crew-safe/",
+          "source": "CBS News"
         },
         {
-          "title": "War widens across Middle East as three American jets downed in Kuwait",
+          "title": "American Military Jet Downed in Kuwait",
           "snippet": "",
-          "url": "https://www.ft.com/content/91cae073-71db-46ea-a950-62b17faf1882",
-          "source": "Financial Times"
+          "url": "https://www.wsj.com/livecoverage/iran-israel-us-strikes-2026/card/american-aircraft-downed-in-kuwait-5h0iQXZtWDoaNtEILvCo?gaa_at=eafs&gaa_n=AWEtsqfzZdh8OXlA_V8MW4FA02jeDjxvZETV9H2kuZIAdwJgqrPAosaj2o0D&gaa_ts=69a58fcf&gaa_sig=fe5beX7_3JIyCiaOJ8_saq_ZpDPGmIrsNdJ8MLsmATMQd3kwUoNfL6A548DUAbZUHHy5julKWTGVO_HK9olw_w%3D%3D",
+          "source": "The Wall Street Journal"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,12 +254,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "digi24 live",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 1 Mar 2026 22:00:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "hezbollah",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 22:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReyRkYezvAtf7DDvZcSjtZWe7ZpS1qVPMjCA51fhQfzvWJ1S62VmT1XkS3TEg",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Iranian strikes reported on Qatar and Saudi energy sites as US jets crash under 'friendly fire' in Kuwait",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Live. Iran launches another salvo of drones and missiles across region after Hezbollah strikes",
+          "snippet": "",
+          "url": "https://www.euronews.com/2026/03/02/war-widens-as-israel-us-strike-iran-and-clash-with-hezbollah",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Iran conflict widens to Lebanon; Kuwait mistakenly shoots down US jets",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/middle-east/israel-strikes-lebanon-following-hezbollah-attacks-widening-iran-conflict-2026-03-02/",
+          "source": "Reuters"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
