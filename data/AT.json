@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2026-03-02 14:25:12",
+  "lastUpdate": "2026-03-02 14:44:54",
   "data": [
+    {
+      "title": "gaspreis",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 06:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHxOPksK0jniteqtZPvuDgg_RtX_dVkjHYdbFkeohsc-3vcHwQeXgCuyO7PUM",
+      "pictureSource": "FOCUS online",
+      "relatedSearch": [
+        {
+          "title": "QatarEnergy stellt LNG-Produktion im Nahen Osten ein",
+          "snippet": "",
+          "url": "https://www.focus.de/finanzen/news/boerse-liveticker-dax-stabil-china-kauft-mehr-russland-oel_b8564b28-0c19-4faf-a1a1-a6d836cce90c.html",
+          "source": "FOCUS online"
+        },
+        {
+          "title": "Iran-Krieg: Weltgrößter LNG-Konzern Qatar Energy stoppt Produktion",
+          "snippet": "",
+          "url": "https://www.handelsblatt.com/politik/international/iran-krieg-weltgroesster-lng-konzern-qatar-energy-stoppt-produktion/100136895.html",
+          "source": "Handelsblatt"
+        },
+        {
+          "title": "Keine Gasknappheit, aber die Preise ziehen an",
+          "snippet": "",
+          "url": "https://www.sn.at/wirtschaft/oesterreich/keine-gasknappheit-aber-die-preise-ziehen-an-art-638255",
+          "source": "Salzburger Nachrichten"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "claude",
       "trafficCount": "1000+",
       "pubDate": "Mon, 2 Mar 2026 04:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXRL9X7jkgFgIfv028JOEafjvQWTN6YQ60ZmaD8Kw8zSzZHftC9nNzLzYGPP8",
-      "pictureSource": "Bloomberg",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSCMZOfr_3k01o1o3t0gGLZLSZAsdeRe9IGlfJOPeWJ3wFeT--4u0QQzlVX_U",
+      "pictureSource": "Mashable",
       "relatedSearch": [
+        {
+          "title": "Claude is down: What we know about the Anthropic outage",
+          "snippet": "",
+          "url": "https://mashable.com/article/claude-down-ai-anthropic-outage",
+          "source": "Mashable"
+        },
         {
           "title": "Anthropic’s Claude Chatbot Goes Down For Thousands of Users",
           "snippet": "",
           "url": "https://www.bloomberg.com/news/articles/2026-03-02/anthropic-s-claude-chatbot-goes-down-for-thousands-of-users",
           "source": "Bloomberg"
-        },
-        {
-          "title": "Anthropic’s Claude reports widespread outage",
-          "snippet": "",
-          "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-          "source": "TechCrunch"
         },
         {
           "title": "Anthropic confirms Claude is down in a worldwide outage",
@@ -61,19 +89,13 @@
       "title": "f15",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 03:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WZNCb1LJJcijYVyuNtURJ2rhTb8kWuZoekBC6gM2jQyAIQs6bG1Ofr2uYeg",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReyRkYezvAtf7DDvZcSjtZWe7ZpS1qVPMjCA51fhQfzvWJ1S62VmT1XkS3TEg",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Live updates: Several US military aircraft have crashed but all crew survived, Kuwait’s defense ministry says",
+          "title": "Iranian strikes reported on Qatar and Saudi energy sites as US jets shot down by Kuwaiti 'friendly fire'",
           "snippet": "",
-          "url": "https://www.cnn.com/world/live-news/iran-israel-us-attack-03-02-26-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "Video appears to show US F-15 fighter jet crashing in Kuwait",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/videos/ce8wed33e07o",
+          "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
           "source": "BBC"
         },
         {
@@ -81,6 +103,12 @@
           "snippet": "",
           "url": "https://www.ft.com/content/91cae073-71db-46ea-a950-62b17faf1882",
           "source": "Financial Times"
+        },
+        {
+          "title": "Middle East crisis live: Kuwait mistakenly shoots down three US fighter planes, as US says Iran’s ‘reckless’ attacks threaten regional stability",
+          "snippet": "",
+          "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news?page=with:block-69a55dc58f080cbafb286a49",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,9 +127,9 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Что известно о самоубийстве Умара Джабраилова",
+          "title": "Бывший сенатор Умар Джабраилов совершил самоубийство",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/society/articles/2026/03/02/1180046-o-samoubiistve-dzhabrailova",
+          "url": "https://www.vedomosti.ru/society/news/2026/03/02/1180013-samoubiistve-dzhabrailova",
           "source": "Ведомости"
         },
         {
@@ -117,13 +145,13 @@
       "title": "atx",
       "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 00:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2e11NOAoVvbNHKHMCd5yDtS-DAcoDgsBrnvtMq9Q-wQqsOeplvMC6LgrIsYk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_qGeKCFVx7QdE57UajgpwFxoWDZG0xAkhIKk0ILQJ8xMSaVYRq2d3lEMYg8I",
       "pictureSource": "finanzen.at",
       "relatedSearch": [
         {
-          "title": "Schwacher Wochentag in Wien: So bewegt sich der ATX am Montagmittag",
+          "title": "Zurückhaltung in Wien: ATX Prime verbucht zum Start des Montagshandels Verluste",
           "snippet": "",
-          "url": "https://www.finanzen.at/nachrichten/aktien/schwacher-wochentag-in-wien-so-bewegt-sich-der-atx-am-montagmittag-1035885480",
+          "url": "https://www.finanzen.at/nachrichten/aktien/zurueckhaltung-in-wien-atx-prime-verbucht-zum-start-des-montagshandels-verluste-1035884909",
           "source": "finanzen.at"
         },
         {
@@ -239,44 +267,16 @@
           "source": "ORF"
         },
         {
+          "title": "Krieg im Nahen Osten: Ölpreis, Gold und Franken legen kräftig zu, Aktien im Minus",
+          "snippet": "",
+          "url": "https://www.derstandard.at/story/3000000310644/krieg-im-nahen-osten-oelpreis-legt-kraeftig-zu-gold-gewinnt-an-wert",
+          "source": "derStandard.at"
+        },
+        {
           "title": "Irankrieg sorgt für hohe Nervosität an den Börsen, doch gibt es auch Gewinner",
           "snippet": "",
           "url": "https://www.diepresse.com/20639146/irankrieg-sorgt-fuer-hohe-nervositaet-an-den-boersen-doch-gibt-es-auch",
           "source": "DiePresse.com"
-        },
-        {
-          "title": "Iran-Krieg: Warum jetzt Öl, Gas und Gold durch die Decke gehen",
-          "snippet": "",
-          "url": "https://www.vol.at/iran-krieg-laesst-aktienmarkt-einknicken-gold-gefragt/10021724",
-          "source": "VOL.AT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zendaya",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 1 Mar 2026 23:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDgHsdaYqoT-Ic7j9VlnjXwV8id_IW9Y3De5xx05O1tzgpjl029u26Hhmy7l4",
-      "pictureSource": "People.com",
-      "relatedSearch": [
-        {
-          "title": "Zendaya and Tom Holland Are Married, Stylist Law Roach Claims: 'You Missed It'",
-          "snippet": "",
-          "url": "https://people.com/zendaya-and-tom-holland-are-married-stylist-law-roach-claims-8769894",
-          "source": "People.com"
-        },
-        {
-          "title": "Zendaya Pregnancy Rumors Resurface as Secret Marriage Leaks—Is This the Real Reason for Tying the Knot?",
-          "snippet": "",
-          "url": "https://www.inkl.com/news/zendaya-pregnancy-rumors-resurface-as-secret-marriage-leaks-is-this-the-real-reason-for-tying-the-knot",
-          "source": "inkl"
-        },
-        {
-          "title": "Tom Holland and Zendaya’s Rumored Secret Wedding Could Reorder Their 2026 Release Strategy and Fan Expectations",
-          "snippet": "",
-          "url": "https://www.filmogaz.com/177713",
-          "source": "FilmoGaz"
         }
       ],
       "link": "https://imtaqin.id/"
