@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-01 23:55:12",
+  "lastUpdate": "2026-03-02 00:18:42",
   "data": [
+    {
+      "title": "oil price",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 15:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrI8ggvSLOY30p5GbdUUYn5snnxQYu9YrXlhr2qFb4m829yC5ldzihMAzYEuo",
+      "pictureSource": "Financial Times",
+      "relatedSearch": [
+        {
+          "title": "Iran conflict: Oil flows through Strait of Hormuz dry up",
+          "snippet": "",
+          "url": "https://www.ft.com/content/e026b4a7-1115-493a-9b31-c8b0b5965491",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Oil jumps as US-Iran conflict disrupts shipping",
+          "snippet": "",
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1845599-20260302.htm?spTabChangeable=0",
+          "source": "香港電台"
+        },
+        {
+          "title": "Iran's revolutionary guards tell ships passage through Strait of Hormuz 'not allowed', EU naval mission official says",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-tell-ships-passage-through-strait-hormuz-not-allowed-2026-02-28/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "天氣",
       "trafficCount": "5000+",
@@ -61,26 +89,54 @@
       "title": "weather",
       "trafficCount": "1000+",
       "pubDate": "Sun, 1 Mar 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPJ2cgZryWsy2uZQZxDMad7Z2VZiG2PlT6IhyzzvigdvbjJpkGTH7WCjmHASY",
-      "pictureSource": "GX94 Radio",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwW2eWf7hBvoHDkTsc9QBf2bWgZ7zPzkbJ0KcpixrqkgGzCselzUr_BNn-KU",
+      "pictureSource": "The Manila Times",
       "relatedSearch": [
         {
-          "title": "GX94 Precision Weather Forecast – Evening March 1, 2026",
+          "title": "Hot, humid weather expected over entire PH in 24 hours",
           "snippet": "",
-          "url": "https://www.gx94radio.com/2026/03/01/94490/",
-          "source": "GX94 Radio"
+          "url": "https://www.manilatimes.net/2026/03/02/news/hot-humid-weather-expected-over-entire-ph-in-24-hours/2290742",
+          "source": "The Manila Times"
         },
         {
-          "title": "5 Day Forecast March 1st, 2026",
+          "title": "March 2026",
           "snippet": "",
-          "url": "https://uwmpost.com/home-featured-weather/5-day-weather-forecast-march-1-2026",
-          "source": "UWM Post"
+          "url": "https://carindia.in/2026/03/",
+          "source": "Car India"
         },
         {
-          "title": "GX94 Precision Weather Forecast – Afternoon March 1, 2026",
+          "title": "Amihan affects extreme northern Luzon; no storms expected in PAR — PAGASA",
           "snippet": "",
-          "url": "https://www.gx94radio.com/2026/03/01/gx94-precision-weather-forecast-afternoon-march-1-2026/",
-          "source": "GX94 Radio"
+          "url": "https://dzrh.com.ph/post/amihan-affects-extreme-northern-luzon-no-storms-expected-in-par-pagasa",
+          "source": "DZRH"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "黑期",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 1 Mar 2026 14:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfxt0Wo6vWOH_-8BoYr8aw1hpxOjrMRPqUe3SIXIgi3U5Hf5TU9H7JpZMeU4U",
+      "pictureSource": "香港經濟日報HKET",
+      "relatedSearch": [
+        {
+          "title": "【港股夜期+ADR+北水】周末黑期低水263點 報26367點（不斷更新）",
+          "snippet": "",
+          "url": "https://inews.hket.com/article/4090233/%E3%80%90%E6%B8%AF%E8%82%A1%E5%A4%9C%E6%9C%9F-ADR-%E5%8C%97%E6%B0%B4%E3%80%91%E5%91%A8%E6%9C%AB%E9%BB%91%E6%9C%9F%E4%BD%8E%E6%B0%B4263%E9%BB%9E%E3%80%80%E5%A0%B126367%E9%BB%9E%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89",
+          "source": "香港經濟日報HKET"
+        },
+        {
+          "title": "港股美國預託證券與本港收市比較 造價普遍向下",
+          "snippet": "",
+          "url": "https://news.tvb.com/sc/finance/69a21843f3bac3b7e4e149c0/%E8%B4%A2%E7%BB%8F-%E6%B8%AF%E8%82%A1%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%A8%97%E8%AD%89%E5%88%B8%E8%88%87%E6%9C%AC%E6%B8%AF%E6%94%B6%E5%B8%82%E6%AF%94%E8%BC%83-%E9%80%A0%E5%83%B9%E6%99%AE%E9%81%8D%E5%90%91%E4%B8%8B",
+          "source": "news.tvb.com"
+        },
+        {
+          "title": "港股ADR個別發展 滙控升近2%",
+          "snippet": "",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1845290-20260227.htm",
+          "source": "香港電台新聞網"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +155,16 @@
           "source": "Yahoo"
         },
         {
-          "title": "英超聯賽 阿仙奴2:1車路士 曼聯2:1水晶宮",
-          "snippet": "",
-          "url": "https://news.rthk.hk/rthk/ch/component/k2/1845596-20260302.htm",
-          "source": "香港電台新聞網"
-        },
-        {
           "title": "【英超點將】祖奧柏度欺善怕惡？",
           "snippet": "",
           "url": "https://sports.now.com/home/news/details?id=39517430802",
           "source": "Now Sports"
+        },
+        {
+          "title": "「倫敦打吡」爭標關鍵阿仙奴抗壓有方必拆「車」 - 體育 - 香港文匯網",
+          "snippet": "",
+          "url": "https://www.wenweipo.com/a/202603/01/AP69a34e0ce4b04d7d56d5b594.html",
+          "source": "香港文匯網"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +201,26 @@
       "title": "pl",
       "trafficCount": "100+",
       "pubDate": "Sun, 1 Mar 2026 08:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwowJlXbYldvWWG-SpQGk-WCdPODRU7sPmkMl7Q_SZdD1t8PnCrQsmnwHApiw",
-      "pictureSource": "WP Wiadomości",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkwHc1bRQ72aAtKh1g_-ipthAzCbZm0djOkWalkfTta9XDK0Ubp-e5Ab3nfw",
+      "pictureSource": "Super-Basket.pl",
       "relatedSearch": [
         {
-          "title": "Ataki w Zatoce Perskiej. Uszkodzenie tankowców po irańskich uderzeniach",
+          "title": "Zanim ruszy druga runda koszykarskiej bitwy z Łotwą, spójrz na tabelę II fazy eliminacji do MŚ 2027",
           "snippet": "",
-          "url": "https://wiadomosci.wp.pl/ataki-w-zatoce-perskiej-uszkodzenie-tankowcow-po-iranskich-uderzeniach-7259709556877760a",
-          "source": "WP Wiadomości"
+          "url": "https://super-basket.pl/zanim-ruszy-druga-runda-koszykarskiej-bitwy-z-lotwa-spojrz-na-tabele-ii-fazy-eliminacji-do-ms-2027/",
+          "source": "Super-Basket.pl"
         },
         {
-          "title": "Ceny ropy gwałtownie wzrosną? Zwiększenie wydobycia to może być za mało",
+          "title": "Polscy koszykarze o krok od awansu. Oto czego im jeszcze brakuje",
           "snippet": "",
-          "url": "https://www.money.pl/gielda/ceny-ropy-gwaltownie-wzrosna-zwiekszenie-wydobycia-to-moze-byc-za-malo-7259739087948224a.html",
-          "source": "Money.pl"
+          "url": "https://przegladsportowy.onet.pl/koszykowka/reprezentacja-polski/polscy-koszykarze-o-krok-od-awansu-oto-czego-im-jeszcze-brakuje/5x5jm8s",
+          "source": "Przegląd Sportowy"
         },
         {
-          "title": "MAERSK zawiesza kursy przez Cieśninę Ormuz",
+          "title": "Eliminacje mistrzostw świata. Gdzie oglądać mecz Łotwa - Polska? Będzie w TV? Kiedy start?",
           "snippet": "",
-          "url": "https://www.portalmorski.pl/zegluga/60092-maersk-zawiesza-kursy-przez-ciesnine-ormuz",
-          "source": "Portal Morski"
+          "url": "https://sportowefakty.wp.pl/koszykowka/1237268/eliminacje-mistrzostw-swiata-gdzie-ogladac-mecz-lotwa-polska-bedzie-w-tv-kiedy-s",
+          "source": "SportoweFakty"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +229,15 @@
       "title": "premier league table",
       "trafficCount": "100+",
       "pubDate": "Sun, 1 Mar 2026 07:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRprhKmxszuuS9wLCRJ3-9H425mYrfSd0aDlyi3Hin3esr4eo67IIqv-AllbLc",
-      "pictureSource": "Yorkshire Evening Post",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNckAhH1lFXtHLRqIyKgwMvkXslAo4TBZkYD9YQ8_Nt67EfRx9tl064IFOmo",
+      "pictureSource": "Official Manchester United Website",
       "relatedSearch": [
+        {
+          "title": "Every word from Michael Carrick's press conference after 2-1 v Crystal Palace",
+          "snippet": "",
+          "url": "https://www.manutd.com/en/news/detail/every-word-from-michael-carrick-press-conference-after-2-1-v-palace",
+          "source": "Official Manchester United Website"
+        },
         {
           "title": "Leeds United's next 5 Premier League fixtures vs West Ham, Nottingham Forest & Spurs after Man City defeat",
           "snippet": "",
@@ -187,12 +249,6 @@
           "snippet": "",
           "url": "https://www.leedsunited.news/news/opta-predicts-leeds-united-to-reach-45-points/",
           "source": "Leeds United News"
-        },
-        {
-          "title": "Daniel Farke laughing as Leeds United top the list in new Premier League fixture reveal",
-          "snippet": "",
-          "url": "https://motleedsnews.com/tactics/daniel-farke-laughing-leeds-united-top-list-new-premier-league-fixture-reveal/",
-          "source": "MOT Leeds News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/articles/c3v71ykvxwpo",
           "source": "BBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "林肯號",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 1 Mar 2026 07:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvBexIPYNGQruAvbXnZafFYqmYaCfYIKS9rh7bh3kYL9mRjXln3gi6322uHlM",
-      "pictureSource": "香港電台",
-      "relatedSearch": [
-        {
-          "title": "伊朗指已对美以两国发动新一波攻势 目标包括中东地区美军基地",
-          "snippet": "",
-          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1845540-20260301.htm",
-          "source": "香港電台"
-        },
-        {
-          "title": "伊朗反击袭击中东地区27个美军基地",
-          "snippet": "",
-          "url": "https://finance.sina.cn/2026-03-02/detail-inhppphz1770018.d.html",
-          "source": "新浪财经"
-        },
-        {
-          "title": "据称伊朗用法塔赫-2导弹袭击美军基地 中东地缘格局生变",
-          "snippet": "",
-          "url": "https://military.china.com/news/13004177/20260301/49281417.html",
-          "source": "中华军事"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "曼聯",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 1 Mar 2026 06:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaD7Qu9lylFCujBBS5E823yfoowEVdn6B51QU6jXnvlOajOHxC47caZ_EHPC8",
-      "pictureSource": "新浪财经",
-      "relatedSearch": [
-        {
-          "title": "[2026年3月1日]英超前瞻：曼彻斯特联主场迎战水晶宫，状态火热红魔剑指三分",
-          "snippet": "",
-          "url": "https://cj.sina.cn/articles/view/7879995911/1d5af320706801kafi?froms=ggmp&vt=4",
-          "source": "新浪财经"
-        },
-        {
-          "title": "卡里克：开局我们踢得不够好，完成逆转是一个重要突破|曼联|水晶宫|卢克-肖|卡里克|马奎尔|谢什科",
-          "snippet": "",
-          "url": "https://m.dongqiudi.com/article/5691642.html",
-          "source": "懂球帝"
-        },
-        {
-          "title": "英超︱曼联2：1反胜水晶宫升上第三位 卡域克激活锡斯高再建奇功",
-          "snippet": "",
-          "url": "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E4%BD%93%E8%82%B2/60326306/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%942-1%E5%8F%8D%E8%83%9C%E6%B0%B4%E6%99%B6%E5%AE%AB%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D-%E5%8D%A1%E5%9F%9F%E5%85%8B%E6%BF%80%E6%B4%BB%E9%94%A1%E6%96%AF%E9%AB%98%E5%86%8D%E5%BB%BA%E5%A5%87%E5%8A%9F",
-          "source": "香港01"
         }
       ],
       "link": "https://imtaqin.id/"
