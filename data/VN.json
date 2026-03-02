@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-03-02 23:07:23",
+  "lastUpdate": "2026-03-02 23:19:33",
   "data": [
     {
+      "title": "gia vang the gioi",
+      "trafficCount": "100000+",
+      "pubDate": "Mon, 2 Mar 2026 15:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsRKm9qRXVfW2aqjDsHVP-ikRbwmVYqmIVtezdJbGvR7a-jVhj_N4BgsNOZN4",
+      "pictureSource": "CafeF",
+      "relatedSearch": [
+        {
+          "title": "Chiều 2/3: Giá vàng nhẫn, vàng miếng vượt 190 triệu đồng/lượng",
+          "snippet": "",
+          "url": "https://cafef.vn/chieu-2-3-gia-vang-nhan-vang-mieng-vuot-190-trieu-dong-luong-188260302065651045.chn",
+          "source": "CafeF"
+        },
+        {
+          "title": "Giá vàng tăng cao, chứng khoán lao dốc",
+          "snippet": "",
+          "url": "https://thanhnien.vn/gia-vang-tang-cao-chung-khoan-lao-doc-185260302213812098.htm",
+          "source": "Báo Thanh Niên"
+        },
+        {
+          "title": "Giá vàng lên 191 triệu đồng một lượng",
+          "snippet": "",
+          "url": "https://vnexpress.net/gia-vang-hom-nay-2-3-5045522.html",
+          "source": "VnExpress"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "thời tiết hôm nay",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 2 Mar 2026 14:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BkvDTrwe-4hORdVAW5nTsWNAyKenyvJ9ISorpODYEMPrEY8lhHAUoxfzEj8",
       "pictureSource": "Tuổi Trẻ",
@@ -58,17 +86,73 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tin tuc 24h",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 2 Mar 2026 14:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGIBFAHda-zSBpx2Kr04xM-lPF_2A59J80aQti9duosiD8-0SzoRtcWY_gjA",
+      "pictureSource": "VnExpress",
+      "relatedSearch": [
+        {
+          "title": "Bộ Quốc phòng sẽ điều tra 4 doanh nghiệp trong dự án Bệnh viện Bạch Mai 2, Việt Đức 2",
+          "snippet": "",
+          "url": "https://vnexpress.net/bo-quoc-phong-se-dieu-tra-4-doanh-nghiep-trong-du-an-benh-vien-bach-mai-2-viet-duc-2-5045529.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Cấp dưới của bà Nguyễn Thị Kim Tiến gợi ý 'luật chơi', doanh nghiệp răm rắp chi tiền",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/cap-duoi-cua-ba-nguyen-thi-kim-tien-de-ra-luat-bat-thanh-van-cho-doanh-nghiep-2493996.html",
+          "source": "Báo VietNamNet"
+        },
+        {
+          "title": "Tổng công ty 36 - Doanh nghiệp quốc phòng liên quan vụ cựu Bộ trưởng Nguyễn Thị Kim Tiến kinh doanh ra sao?",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/kinh-doanh/tong-cong-ty-36-doanh-nghiep-quoc-phong-lien-quan-vu-cuu-bo-truong-nguyen-thi-kim-tien-kinh-doanh-ra-sao-c161a1741410.html",
+          "source": "Tin tức 24h"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ukraine",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 14:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69oVy-r-f9ZBfaC6L8r7mcNdFyrIDbI3t0rvzchkiz9Mw3Z4UbjP9r5CU5io",
+      "pictureSource": "Báo Dân trí",
+      "relatedSearch": [
+        {
+          "title": "Chiến sự Ukraine 2/3: \"Sự im lặng trước cơn bão\" ở Konstantinovka",
+          "snippet": "",
+          "url": "https://dantri.com.vn/the-gioi/chien-su-ukraine-23-su-im-lang-truoc-con-bao-o-konstantinovka-20260302091229640.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Cánh quân phía Bắc của Nga hạ hơn 50 cứ điểm Ukraina trong ngày",
+          "snippet": "",
+          "url": "https://laodong.vn/ban-tin/canh-quan-phia-bac-cua-nga-ha-hon-50-cu-diem-ukraina-trong-ngay-1662912.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Tin tức thế giới 2-3: Ông Zelensky nói Ukraine đã vượt qua mùa đông khó khăn; Dân số Trung Quốc giảm",
+          "snippet": "",
+          "url": "https://tuoitre.vn/tin-tuc-the-gioi-2-3-ong-zelensky-noi-ukraine-da-vuot-qua-mua-dong-kho-khan-dan-so-trung-quoc-giam-20260302022239049.htm",
+          "source": "Báo Tuổi Trẻ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "tin the gioi",
       "trafficCount": "20000+",
       "pubDate": "Mon, 2 Mar 2026 14:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa0Xm6NEO_3gs52gc6RS91LLJNvfI0J2mE28F4tYZEBXClnpAKoja68koewRk",
-      "pictureSource": "Tuổi Trẻ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXR0GXDiQyjZsqDi5gy_T-e5obnraK__swUNW4xxge-lu4DIJJ624BjdJtC4",
+      "pictureSource": "Znews",
       "relatedSearch": [
         {
-          "title": "Bộ trưởng Chiến tranh Mỹ họp báo về cuộc tấn công Iran: Mỹ không tấn công Iran để thay đổi chế độ",
+          "title": "TT Trump: Sóng lớn vẫn còn chưa diễn ra",
           "snippet": "",
-          "url": "https://tuoitre.vn/bo-truong-chien-tranh-my-hop-bao-ve-cuoc-tan-cong-iran-my-khong-tan-cong-iran-de-thay-doi-che-do-20260302171607748.htm",
-          "source": "Tuổi Trẻ"
+          "url": "https://znews.vn/tt-trump-song-lon-van-con-chua-dien-ra-post1631638.html",
+          "source": "Znews"
         },
         {
           "title": "Điểm mặt dàn khí tài ‘khủng’ Mỹ huy động cho chiến dịch tấn công Iran",
@@ -77,9 +161,9 @@
           "source": "Báo VietNamNet"
         },
         {
-          "title": "Mỹ điều thêm lực lượng đến Trung Đông",
+          "title": "Mỹ điều thêm lực lượng đến Trung Đông, mục tiêu không phải thay đổi chế độ",
           "snippet": "",
-          "url": "https://tienphong.vn/my-dieu-them-luc-luong-den-trung-dong-post1824077.tpo",
+          "url": "https://tienphong.vn/my-dieu-them-luc-luong-den-trung-dong-muc-tieu-khong-phai-thay-doi-che-do-post1824077.tpo",
           "source": "Báo điện tử Tiền Phong"
         }
       ],
@@ -133,10 +217,10 @@
           "source": "BeSoccer Livescore"
         },
         {
-          "title": "Real Madrid Player Ratings vs. Getafe: Los Blancos Implode Without Kylian Mbappe",
+          "title": "Real Madrid beaten at home by Getafe for second successive loss",
           "snippet": "",
-          "url": "https://www.si.com/soccer/real-madrid-player-ratings-vs-getafe-3-2-26",
-          "source": "Sports Illustrated"
+          "url": "https://www.aol.com/articles/real-madrid-beaten-home-getafe-221121726.html",
+          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +229,26 @@
       "title": "real madrid",
       "trafficCount": "2000+",
       "pubDate": "Mon, 2 Mar 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS35n0Swt_txUX4IBlrMwjMvov2kwNj9iq_uDDpFmjMyHXT0GFHzAMSVFHwIzs",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1jrCjPoKsatLwGe9aX85aH1GhKSoHV5R4SK43EaMeaGNvaJsAsh2f_Mewoo",
+      "pictureSource": "Chicago Tribune",
       "relatedSearch": [
         {
-          "title": "Sin Mbappé, el Real Madrid sufrió una impactante derrota en el Bernabéu.",
+          "title": "Real Madrid pierde su segundo partido seguido y se rezaga a cuatro puntos del líder Barcelona",
           "snippet": "",
-          "url": "https://www.vietnam.vn/es/vang-mbappe-real-madrid-thua-soc-ngay-tai-bernabeu",
-          "source": "Vietnam.vn"
+          "url": "https://www.chicagotribune.com/2026/03/02/real-madrid-pierde-su-segundo-partido-seguido-y-se-rezaga-a-cuatro-puntos-del-lder-barcelona/",
+          "source": "Chicago Tribune"
         },
         {
-          "title": "La reacción en caliente de Roncero, totalmente hundido: “Así se tira una Liga...”",
+          "title": "Pitada general del Bernabéu: a los jugadores, a Arbeloa y al palco",
           "snippet": "",
-          "url": "https://as.com/futbol/videos/la-reaccion-en-caliente-de-roncero-totalmente-hundido-asi-se-tira-una-liga-f202603-v/",
+          "url": "https://as.com/futbol/primera/pitada-general-del-bernabeu-a-los-jugadores-a-arbeloa-y-al-palco-f202603-n/",
           "source": "Diario AS"
         },
         {
-          "title": "La fea provocación de Nyom a Vinicius: le celebra la victoria en la cara",
+          "title": "No hace falta ni hablar de media Liga perdida...",
           "snippet": "",
-          "url": "https://okdiario.com/diariomadridista/real-madrid/fea-provocacion-nyom-vinicius-celebra-victoria-cara-611667",
-          "source": "OkDiario"
+          "url": "https://www.marca.com/futbol/real-madrid/2026/03/02/falta-hablar-media-liga-perdida.html",
+          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,110 +257,26 @@
       "title": "benfica",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYWylGTDOYGikO46NbTMCzZSBxZ3blWnCfmqnToDc5__bg9s4cVy33hd1MmU",
-      "pictureSource": "SAPO",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp2oIM5D6Rqcr00i5hBJrMyabdopwZ8M4LkSIgfH1k0DQON47hnfFsbSJJEGU",
+      "pictureSource": "Correio da Manhã Canadá",
       "relatedSearch": [
+        {
+          "title": "I Liga: Benfica vence em Barcelos com golo de Schjelderup",
+          "snippet": "",
+          "url": "https://www.correiodamanhacanada.com/i-liga-benfica-vence-em-barcelos-com-golo-de-schjelderup/",
+          "source": "Correio da Manhã Canadá"
+        },
+        {
+          "title": "AO VIVO: Trubin nega o remate de longa distância de Konan (90')",
+          "snippet": "",
+          "url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ao-vivo-trubin-nega-o-remate-de-longa-distancia-de-konan-90/6owh5Zo1/",
+          "source": "Flashscore.pt"
+        },
         {
           "title": "César Peixoto: «Hoje o futebol não foi justo connosco»",
           "snippet": "",
           "url": "https://sapo.pt/artigo/cesar-peixoto-hoje-o-futebol-nao-foi-justo-connosco-69a61342f91c55619a1de450",
           "source": "SAPO"
-        },
-        {
-          "title": "A águia real fugiu aos virtualismos para acabar com o galo",
-          "snippet": "",
-          "url": "https://observador.pt/2026/03/02/schjelderup-o-soldado-mais-fiel-de-uma-aguia-real-que-se-libertou-de-virtualismos-para-acabar-com-o-galo-a-cronica-do-gil-vicente-benfica/",
-          "source": "Observador"
-        },
-        {
-          "title": "Canto de Schjelderup e cabeceamento de António Silva: o golo com que o Benfica abriu o ativo em Barcelos",
-          "snippet": "",
-          "url": "https://www.record.pt/multimedia/videos/detalhe/canto-de-schjelderup-e-cabeceamento-de-antonio-silva-o-golo-com-que-o-benfica-abriu-o-ativo-em-barcelos",
-          "source": "Record"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gil vicente đấu với benfica",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 2 Mar 2026 11:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTR82pRxsorM0hERzttSRZe-JlgZRJMVtkZ3iXrTvAz1n2FQw2-WfhalOAJuA",
-      "pictureSource": "baonghean.vn",
-      "relatedSearch": [
-        {
-          "title": "Nhận định GIL Vicente vs Benfica - Thử thách cho chuỗi bất bại tại Primeira Liga",
-          "snippet": "",
-          "url": "https://baonghean.vn/nhan-dinh-gil-vicente-vs-benfica-thu-thach-cho-chuoi-bat-bai-tai-primeira-liga-10325830.html",
-          "source": "baonghean.vn"
-        },
-        {
-          "title": "Nhận định bóng đá Gil Vicente vs Benfica, 03h15 ngày 3/3: Ca khúc khải hoàn",
-          "snippet": "",
-          "url": "https://bongdaplus.vn/bong-da-the-gioi/nhan-dinh-bong-da-gil-vicente-vs-benfica-03h15-ngay-3-3-ca-khuc-khai-hoan-4963852603.html",
-          "source": "Bongdaplus"
-        },
-        {
-          "title": "Nhận định bóng đá Gil Vicente vs Benfica VĐQG Bồ Đào Nha",
-          "snippet": "",
-          "url": "https://bongda24h.vn/nhan-dinh-bong-da/du-doan-gil-vicente-vs-benfica-hom-nay-344-444357.html",
-          "source": "Bongda24h"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fiorentina",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 11:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5I0T21EmdPYY81bm2O7IDPNXwKU5wmBVg7xjrIY2Co0aLm3kOmGgWLWLst5c",
-      "pictureSource": "OneFootball",
-      "relatedSearch": [
-        {
-          "title": "Fiorentina, Ferrari: “Il lavoro di Vanoli sta portano frutti, i tifosi ci stanno vicini”",
-          "snippet": "",
-          "url": "https://onefootball.com/es/noticias/fiorentina-ferrari-il-lavoro-di-vanoli-sta-portano-frutti-i-tifosi-ci-stanno-vicini-42494255",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Viola, occasione sprecata: la zona retrocessione resta ancora un incubo",
-          "snippet": "",
-          "url": "https://firenze.repubblica.it/sport/2026/03/02/news/fiorentina_udinese_battuta_disastro_zona_retrocessione-425196363/",
-          "source": "la Repubblica"
-        },
-        {
-          "title": "Udinese-Fiorentina 3-0",
-          "snippet": "",
-          "url": "https://www.udinese.it/news/squadra/udinese-fiorentina-3-0",
-          "source": "Udinese"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "udinese đấu với fiorentina",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 2 Mar 2026 11:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl4dUyk4-tzjXI2SIxo2Leggmo-8qZxwlXfndCQYJ_bWJ94DWd9pLKUhWH1ho",
-      "pictureSource": "Laodong.vn",
-      "relatedSearch": [
-        {
-          "title": "Nhận định bóng đá Udinese vs Fiorentina tại Serie A",
-          "snippet": "",
-          "url": "https://laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-udinese-vs-fiorentina-tai-serie-a-1662432.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Nhận định Udinese vs Fiorentina - Serie A: Cuộc chiến bứt phá tại Bluenergy Stadium",
-          "snippet": "",
-          "url": "https://baonghean.vn/nhan-dinh-udinese-vs-fiorentina-serie-a-cuoc-chien-but-pha-tai-bluenergy-stadium-10325829.html",
-          "source": "baonghean.vn"
-        },
-        {
-          "title": "Fiorentina và 'căn bệnh phút bù giờ'",
-          "snippet": "",
-          "url": "https://bongdaplus.vn/serie-a/fiorentina-va-can-benh-phut-bu-gio-4964902603.html",
-          "source": "Bongdaplus"
         }
       ],
       "link": "https://imtaqin.id/"
