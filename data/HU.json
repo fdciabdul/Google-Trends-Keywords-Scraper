@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2026-03-02 07:18:07",
+  "lastUpdate": "2026-03-02 07:39:31",
   "data": [
     {
       "title": "hezbollah",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Mar 2026 22:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS59CJkKXupiIWnIRW3q5nHUQpwFY21GuzS2y1AXeoOiM2Vxs_KYteY1uAMi4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4MevwcXWl8Y_Zl-BVomunixJM7j2nDZ06msX89Gc-HZ7LSMAa3Mbx18PfDE0",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Israel and Hezbollah in Lebanon exchange fire as conflict widens after attack on Iran",
+          "title": "Israeli attacks kill at least 31 in Lebanon as Iranian attacks continue around Middle East",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
           "source": "BBC"
@@ -21,10 +21,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "IDF strikes in Beirut after Hezbollah enters fray, fires rockets, drones at north",
+          "title": "Iran live: Tehran says no talks, Trump sees more deaths, Israel hits Beirut",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/idf-strikes-targets-in-beirut-after-hezbollah-enters-fray-fires-at-northern-israel/",
-          "source": "The Times of Israel"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/2/us-israel-attack-iran-live",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +87,7 @@
     },
     {
       "title": "origo",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 1 Mar 2026 22:10:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk6DYR6O5uZh-PrG4UYAnP1oeJX4l_Z6IkV_7Zk8hrxEuCjwY3TwSdSc6PaZg",
       "pictureSource": "ORIGO",
@@ -170,18 +170,40 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "olajár",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 1 Mar 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0vv9mEbDr6ly00ZbrIRf0j0xRYyD6Z3cDu-MRudrgv7cX4TjALXeJdZS8tCg",
+      "pictureSource": "Telex",
+      "relatedSearch": [
+        {
+          "title": "Durva olajár-emelkedés jöhet az iráni háború miatt",
+          "snippet": "",
+          "url": "https://telex.hu/gazdasag/2026/03/01/gazdasagi-hatasok-irani-haboru-olajar-gaz-hormuzi-szoros",
+          "source": "Telex"
+        },
+        {
+          "title": "A 70-es évekhez hasonló energiapiaci sokkra figyelmeztetnek a Hormuzi-szoros miatt",
+          "snippet": "",
+          "url": "https://www.portfolio.hu/gazdasag/20260302/a-70-es-evekhez-hasonlo-energiapiaci-sokkra-figyelmeztetnek-a-hormuzi-szoros-miatt-821420",
+          "source": "Portfolio.hu"
+        },
+        {
+          "title": "Évtizedek óta nem látott krízist hozhat az olajpiacon az Irán elleni háború",
+          "snippet": "",
+          "url": "https://www.forbes.hu/penz/olajar-iran-haboru-hormuzi/",
+          "source": "Forbes.hu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "idojaras",
       "trafficCount": "200+",
       "pubDate": "Sun, 1 Mar 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8UadGTfGOZ9-aRhpDlfox9NBn7W8nq-iPTmM8gTm5br1uQ5mCFrR3jfjndt8",
-      "pictureSource": "Index.hu",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYhJmM7fU9aiWhtVdfriiBSoUAaDw-jYFaHmwjV8zXdu_CWBLQhEC-7sRkYrY",
+      "pictureSource": "ORIGO",
       "relatedSearch": [
-        {
-          "title": "Belföld - Kicsit veszít az erejéből, de a hét első napján folytatódik a tavaszias időjárás",
-          "snippet": "",
-          "url": "https://index.hu/belfold/2026/03/02/idojaras-elorejelzes-marcius-gomolyfelho-zapor-radar/",
-          "source": "Index.hu"
-        },
         {
           "title": "Mutatjuk, milyen időre kell számítania a jövő héten",
           "snippet": "",
@@ -193,6 +215,12 @@
           "snippet": "",
           "url": "https://www.portfolio.hu/gazdasag/20260301/berugta-az-ajtot-a-tavasz-821318",
           "source": "Portfolio.hu"
+        },
+        {
+          "title": "Belföld - Kicsit veszít az erejéből, de a hét első napján folytatódik a tavaszias időjárás",
+          "snippet": "",
+          "url": "https://index.hu/belfold/2026/03/02/idojaras-elorejelzes-marcius-gomolyfelho-zapor-radar/",
+          "source": "Index.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,7 +255,7 @@
     },
     {
       "title": "brent oil price",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 1 Mar 2026 20:40:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWbgh98YHERmTxF66Uk_vUQPeVoof2HBjI8v4NVg6PkR2UKpPHO6HU7Pfacqs",
       "pictureSource": "CNN",
@@ -245,38 +273,10 @@
           "source": "Reuters"
         },
         {
-          "title": "U.S.-Israel strikes Iran: What we know as markets brace for turmoil",
+          "title": "How US-Israel attacks on Iran threaten the Strait of Hormuz, oil markets",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/01/iran-khamenei-trump-us-investors-markets.html",
-          "source": "CNBC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "benzin ára",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 1 Mar 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-U3dSpFw4RwTvWMDb9B5ebqza_72RVvk0Tj3ueG-88Dh8SVFz3G771MyhS5s",
-      "pictureSource": "Portfolio.hu",
-      "relatedSearch": [
-        {
-          "title": "Elképesztő számok: a pandémia óta nem történt ilyen a hazánkban is terjeszkedő kínai óriásnál",
-          "snippet": "",
-          "url": "https://www.portfolio.hu/gazdasag/20260301/elkepeszto-szamok-a-pandemia-ota-nem-tortent-ilyen-a-hazankban-is-terjeszkedo-kinai-oriasnal-821344",
-          "source": "Portfolio.hu"
-        },
-        {
-          "title": "Most induljon tankolni – holnap változás jön a kutakon",
-          "snippet": "",
-          "url": "https://www.origo.hu/gazdasag/2026/02/uzemanyag-arak-holtankoljak",
-          "source": "ORIGO"
-        },
-        {
-          "title": "Tényleg közeledik az 1000 forintos benzinár?",
-          "snippet": "",
-          "url": "https://privatbankar.hu/cikkek/makro/tenyleg-kozeledik-az-1000-forintos-benzinar.html",
-          "source": "Privátbankár.hu"
+          "url": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
