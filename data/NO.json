@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-03 09:22:09",
+  "lastUpdate": "2026-03-03 09:40:51",
   "data": [
     {
       "title": "nrk nyheter",
@@ -33,15 +33,9 @@
       "title": "fredriksstad blad",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBGBRa_eGopTiaOsG9xmAJadhcd16TlIXQxbd-TJ7_svHJrfAbpHdqrGwuSME",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR422EB0j-x-HfYqPm4__nuRV4RQlD7-AZ79ssp6U-MudINT-INCDq9bBSOkGA",
       "pictureSource": "Fredriksstad Blad",
       "relatedSearch": [
-        {
-          "title": "Kultur & underholdning, På byen-bilder | Er du Fredriksstad Blads nye «På byen»-fotograf?",
-          "snippet": "",
-          "url": "https://www.f-b.no/er-du-fredriksstad-blads-nye-pa-byen-fotograf/s/5-59-3841851",
-          "source": "Fredriksstad Blad"
-        },
         {
           "title": "Brann, Nødetater | Brann i tomannsbolig på Selbak natt til tirsdag – flere personer ble evakuert",
           "snippet": "",
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.folkebladet.no/norgeogverden/i/WvRyvK/boligbrann-i-fredrikstad-har-spredd-seg",
           "source": "folkebladet.no"
+        },
+        {
+          "title": "Brann i tomannsbolig på Selbak",
+          "snippet": "",
+          "url": "https://www.ha-halden.no/brann-i-tomannsbolig-pa-selbak/s/5-20-1861222",
+          "source": "Halden Arbeiderblad"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tv2",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 19:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9IxB-MeU8lkwRs8e8VGGHow0jv8_porCFfyQMo-pdErLOV-oA2XdZwWJY6Ow",
+      "pictureSource": "TV2.no",
+      "relatedSearch": [
+        {
+          "title": "Galla på Slottet: – Krevende timing",
+          "snippet": "",
+          "url": "https://www.tv2.no/underholdning/galla-pa-slottet-krevende-timing/18617747/",
+          "source": "TV2.no"
+        },
+        {
+          "title": "Høiby tiltalt for hensynsløs adferd og brudd på besøksforbud etter hendelse i egen leilighet",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/norge/i/6q6Xqe/hoeiby-tiltalt-for-hensynsloes-adferd-og-brudd-paa-besoeksforbud-etter-hendelse-i-egen-leilighet",
+          "source": "Aftenposten"
+        },
+        {
+          "title": "Marius Borg Høiby tiltalt for nye forhold – erkjenner straffskyld",
+          "snippet": "",
+          "url": "https://www.nrk.no/nyheter/marius-borg-hoiby-tiltalt-for-nye-forhold-_-erkjenner-straffskyld-1.17792139",
+          "source": "NRK"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "adressa",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 16:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS8VrG5uRgppyZGE7veOK-oTZoNPmg7lR5I5oXJvNxP1E0LFqmXsoshQ7NqpU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTnatwHCO0VFVFe6TokhD6F_GKq9mpYjyUXHw8VgrrZrAkzZznCkOrvup640",
       "pictureSource": "Adressa.no",
       "relatedSearch": [
         {
-          "title": "Ni personer evakuert etter bolig­brann: – Et utrolig trist syn",
+          "title": "Stenger dørene i to år",
           "snippet": "",
-          "url": "https://www.adressa.no/nyheter/trondheim/i/QJ7WJW/full-overtenning-i-bolig-i-trondheim",
+          "url": "https://www.adressa.no/nyheter/trondheim/i/ArP56A/stenger-doerene-i-to-aar",
           "source": "Adressa.no"
         },
         {
-          "title": "Brann i leilighetskompleks i Trondheim – ni personer er evakuert",
+          "title": "Midtbyen, NTNU vitenskapsmuseet | Holder stengt i minst to år",
           "snippet": "",
-          "url": "https://www.nrk.no/trondelag/ni-personer-ble-evakuert-i-boligbrann-i-trondheim-1.17791968",
-          "source": "NRK"
+          "url": "https://www.nidaros.no/holder-stengt-i-minst-to-ar/s/5-113-818251",
+          "source": "Nidaros"
         },
         {
-          "title": "Full overtenning i bolig - beboere og naboer evakuert",
+          "title": "1. April stenges Vitenskapsmuseet i minst to år",
           "snippet": "",
-          "url": "https://www.nidaros.no/full-overtenning-i-bolig-beboere-og-naboer-evakuert/s/30-113-12502",
-          "source": "Nidaros"
+          "url": "https://www.universitetsavisa.no/campusutvikling-masterplan-vitenskapsmuseet/1-april-stenges-vitenskapsmuseet-i-minst-to-ar/452539",
+          "source": "Universitetsavisa"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +155,16 @@
           "source": "Stavanger Aftenblad"
         },
         {
+          "title": "Bjarte Baasland er død",
+          "snippet": "",
+          "url": "https://www.vl.no/nyheter/bjarte-baasland-er-dod/10231517",
+          "source": "Vårt Land"
+        },
+        {
           "title": "(+) Bjarte Baasland er død",
           "snippet": "",
           "url": "https://www.dagen.no/nyheter/bjarte-baasland-er-dod/1558117",
           "source": "Dagen"
-        },
-        {
-          "title": "Baasland-saken",
-          "snippet": "",
-          "url": "https://www.nrk.no/nyheter/baasland-saken-1.11556368",
-          "source": "NRK"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +239,16 @@
           "source": "TV2.no"
         },
         {
-          "title": "Nå bør alarmen ringe. Høyt.",
-          "snippet": "",
-          "url": "https://www.aftenbladet.no/meninger/kommentar/i/6q91B8/16-aaring-fra-stavanger-tiltalt-for-aa-ha-bestilt-drap",
-          "source": "Stavanger Aftenblad"
-        },
-        {
           "title": "Tiltalt 16-åring nekter straffskyld for drapsforsøk i Stavanger",
           "snippet": "",
           "url": "https://www.vg.no/nyheter/i/pBQO8R/tiltalt-16-aaring-nekter-straffskyld-for-drapsforsoek-i-stavanger",
           "source": "VG"
+        },
+        {
+          "title": "Nå bør alarmen ringe. Høyt.",
+          "snippet": "",
+          "url": "https://www.aftenbladet.no/meninger/kommentar/i/6q91B8/16-aaring-fra-stavanger-tiltalt-for-aa-ha-bestilt-drap",
+          "source": "Stavanger Aftenblad"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,54 +257,26 @@
       "title": "tv2.no",
       "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-WU49kMS270kCILLrbeTnhAMrHsybGnOXUaBHYtk6tPcCMUTQ7ESMxfV3hJY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-janLWWYnc5q9DMb0JIeWcdvlqs0cZ21o-tthjmR5Oq40Z_UrdQa_QvaQU2s",
       "pictureSource": "TV2.no",
       "relatedSearch": [
         {
-          "title": "17.000 straffesaker ligger på vent",
+          "title": "Tapte over 800.000 per bil",
           "snippet": "",
-          "url": "https://www.tv2.no/nyheter/17000-straffesaker-ligger-pa-vent/18608402/",
+          "url": "https://www.tv2.no/broom/tapte-over-800000-per-bil/18609979/",
           "source": "TV2.no"
         },
         {
-          "title": "«Det er urettferdig at noen slipper unna de vanskelige sakene»",
+          "title": "Aston Martin kutter hver femte ansatt",
           "snippet": "",
-          "url": "https://www.itromso.no/nyheter/n/y56z8E/statsadvokaten-bekymret-over-politiets-statistikk-skremmende",
-          "source": "itromso.no"
+          "url": "https://e24.no/boers-og-finans/i/5pBpJz/aston-martin-kutter-hver-femte-ansatt",
+          "source": "E24"
         },
         {
-          "title": "Justis-topp: –⁠ Nå bør alarmen for alvor gå",
+          "title": "Luksusbilmerket Aston Martin kutter en femdel av arbeidsstokken",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/xr8o6V/justistopp-slaar-krim-alarm",
-          "source": "VG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ballistiske missiler",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHnUsKgxkqP0rfpWBQUOJ17NykHru02hG9Js2YDMK74TU9fPrbW3PC3xYsZJ4",
-      "pictureSource": "TV2.no",
-      "relatedSearch": [
-        {
-          "title": "Iran angriper amerikansk hangarskip med ballistiske missiler",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/iran-angriper-amerikansk-hangarskip-med-ballistiske-missiler/18615941/",
+          "url": "https://www.tv2.no/direkte/jpybz/siste-nytt/699f3248cf1b3ece3b59a270/luksusbilmerket-aston-martin-kutter-en-femdel-av-arbeidsstokken",
           "source": "TV2.no"
-        },
-        {
-          "title": "(+) Iran sier de har skutt raketter mot amerikansk hangarskip – USA avviser",
-          "snippet": "",
-          "url": "https://www.altaposten.no/norgeogverden/i/M7oppJ/iran-sier-de-har-skutt-raketter-mot-amerikansk-hangarskip",
-          "source": "altaposten.no"
-        },
-        {
-          "title": "Utenriksstudio - Iran sier de har skutt raketter mot amerikansk hangarskip",
-          "snippet": "",
-          "url": "https://www.aftenbladet.no/i/ja1x6n/?pinnedEntry=303848",
-          "source": "Stavanger Aftenblad"
         }
       ],
       "link": "https://imtaqin.id/"
