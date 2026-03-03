@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "2026-03-03 05:29:08",
+  "lastUpdate": "2026-03-03 05:51:06",
   "data": [
     {
-      "title": "servicio meteorológico nacional",
+      "title": "el tiempo en buenos aires",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 21:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNiwFedRpmaK4dk8AOTsSWCzq1swVYmdZJ32ID8RzYdSmg7z7qy1ZOUU5weWI",
+      "pictureSource": "La Nación",
+      "relatedSearch": [
+        {
+          "title": "Chau verano: el pronóstico del tiempo para esta semana en el AMBA",
+          "snippet": "",
+          "url": "https://www.lanacion.com.ar/clima/chau-verano-el-pronostico-del-tiempo-para-esta-semana-en-el-amba-nid02032026/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Vuelven las lluvias a Buenos Aires: cuándo llegan y cómo va a estar el tiempo esta semana",
+          "snippet": "",
+          "url": "https://tn.com.ar/sociedad/2026/03/01/vuelven-las-lluvias-a-buenos-aires-cuando-llegarian-y-como-va-a-estar-el-tiempo-esta-semana/",
+          "source": "TN"
+        },
+        {
+          "title": "Se esperan días con máximas superiores a los 30°C en el AMBA: cuándo llegarán las lluvias y el descenso de temperatura",
+          "snippet": "",
+          "url": "https://www.infobae.com/sociedad/2026/03/01/se-esperan-dias-con-maximas-superiores-a-los-30c-en-el-amba-cuando-llegaran-las-lluvias-y-el-descenso-de-temperatura/",
+          "source": "Infobae"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tiempo de hoy",
       "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 21:10:00 -0800",
+      "pubDate": "Mon, 2 Mar 2026 21:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOcux7ouGkyxlMWU1zITPF3y0J-YIbqJLRczg_3EDDa3mx0ULueIndFAV2UGg",
       "pictureSource": "Meteored Argentina",
       "relatedSearch": [
@@ -89,20 +117,20 @@
       "title": "el clima",
       "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEQ9sCCI24oi17Y3Rc7BZZMQWz1ctKP5etAWsKRNnLz4tXceVLDUlQzYdOwQ",
-      "pictureSource": "La Voz del Interior",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeLnwUQSqjnpytn1hxbUVNIxj6UYMCYK_TtI-cbtjVzxcuYR27t94KlmXF-yk",
+      "pictureSource": "Clarin.com",
       "relatedSearch": [
         {
-          "title": "Atención. Clima en Córdoba: alerta amarilla y naranja por tormentas para este martes 3 de marzo",
+          "title": "Clima hoy en Córdoba: el pronóstico del tiempo para este martes 3 marzo de 2026",
           "snippet": "",
-          "url": "https://www.lavoz.com.ar/servicios/clima-en-cordoba-alerta-amarilla-por-tormentas-para-este-martes-3-de-marzo_0_S4ZrjUcP1h.html",
-          "source": "La Voz del Interior"
+          "url": "https://www.clarin.com/informacion-general/clima-hoy-cordoba-pronostico-tiempo-martes-3-marzo-2026_0_gLherXbboY.html",
+          "source": "Clarin.com"
         },
         {
-          "title": "Predicción del tiempo en Córdoba para este 2 de marzo",
+          "title": "Hay alerta naranja por tormentas para este martes 3 de marzo en Córdoba: las zonas afectadas",
           "snippet": "",
-          "url": "https://www.infobae.com/noticias/2026/03/02/prediccion-del-tiempo-en-cordoba-para-este-2-de-marzo/",
-          "source": "Infobae"
+          "url": "https://tn.com.ar/clima/alertas/2026/03/03/hay-alerta-naranja-por-tormentas-para-este-martes-3-de-marzo-en-cordoba-las-zonas-afectadas/",
+          "source": "TN"
         },
         {
           "title": "Lunes de calor y ráfagas en Córdoba: cuándo llegan las tormentas y el alivio",
@@ -180,7 +208,7 @@
     },
     {
       "title": "pronostico",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 2 Mar 2026 20:30:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzSjogOOyeAPspjxob4saPg3sdSITE4e3b_1XZUA5mauoupSewRIC5f65usQ",
       "pictureSource": "Clarin.com",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://sinmordaza.com/noticia/497364-alerta-por-lluvias-para-toda-la-provincia-21.html",
           "source": "Sin Mordaza"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "clima santa fe",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 20:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLtB5t0G02xv1c48Iay8p80BMB2G92ozQ7klBOvWbqoS4Gd-h3VHnbCrIQA4",
-      "pictureSource": "Clarin.com",
-      "relatedSearch": [
-        {
-          "title": "Clima hoy en Rosario, Santa Fe: el pronóstico del tiempo para este martes 3 marzo de 2026",
-          "snippet": "",
-          "url": "https://www.clarin.com/informacion-general/clima-hoy-rosario-santa-fe-pronostico-tiempo-martes-3-marzo-2026_0_ms1RSO7eYD.html",
-          "source": "Clarin.com"
-        },
-        {
-          "title": "Clima en Rafaela hoy: cuál es el pronóstico del tiempo para el 3 de marzo de 2026",
-          "snippet": "",
-          "url": "https://www.lanacion.com.ar/clima/santa-fe/rafaela/clima-en-rafaela-hoy-cual-es-el-pronostico-del-tiempo-para-el-3-de-marzo-de-2026-nid02032026/",
-          "source": "La Nación"
-        },
-        {
-          "title": "ALERTA por CALOR: cómo sigue el clima en Santa Fe y Rosario hoy, lunes 2 de marzo de 2026",
-          "snippet": "",
-          "url": "https://www.eldestapeweb.com/sociedad/pronostico-del-tiempo/alerta-por-calor-en-santa-fe-y-rosario-como-sigue-el-clima-este-lunes-2026325044",
-          "source": "El Destape"
         }
       ],
       "link": "https://imtaqin.id/"
