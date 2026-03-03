@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-03 18:05:30",
+  "lastUpdate": "2026-03-03 18:25:49",
   "data": [
     {
       "title": "فزورة فريش اليوم",
@@ -33,15 +33,9 @@
       "title": "us vs iran",
       "trafficCount": "100+",
       "pubDate": "Tue, 3 Mar 2026 08:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXAcjTnKUadNvqKsaLSXxAIhENvGjgqMLjwnGLM98l_GhiHrINdKSsEfn7Rv0",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBuTMLEvQJR-zqYH-ImXfIu2KngZ_raKl_cJjE7S_MNJ5Av3hxkcIHYnX7Kf0",
+      "pictureSource": "CNN",
       "relatedSearch": [
-        {
-          "title": "Trump Says Iran War Could Last Weeks and Gives Competing Visions of New Regime",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html",
-          "source": "The New York Times"
-        },
         {
           "title": "Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "CNN"
         },
         {
-          "title": "‘I Have Agreed to Talk’",
+          "title": "Iran live news: Trump says new leadership hit as Israel targets Lebanon",
           "snippet": "",
-          "url": "https://www.theatlantic.com/national-security/2026/03/trump-iran-attack-negotiations/686201/",
-          "source": "The Atlantic"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/3/iran-live-news-israel-bombs-tehran-beirut-trump-says-war-to-last-4-weeks",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Security Alert: Threat of Imminent Missile / UAV Attacks Over Dhahran (Mar. 3, 2026)",
+          "snippet": "",
+          "url": "https://sa.usembassy.gov/security-alert-threat-of-imminent-missile-uav-attacks-over-dhahran-mar-3-2026/",
+          "source": "U.S. Embassy & Consulates in Saudi Arabia (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "CNN Arabic"
         },
         {
-          "title": "الصورة: هجمات متبادلة بين إسرائيل وحزب الله",
+          "title": "جيش الاحتلال يعلن استهداف عناصر قيادية في حزب الله",
           "snippet": "",
-          "url": "https://arabic.news.cn/20260303/f3b5d845a336483cbb2a77a89f4d067d/c.html",
-          "source": "新华网"
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=03032026&id=016ae1dc-454c-43b3-a2b0-e9b42e0954c0",
+          "source": "بوابة الشروق"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ضيف رامز جلال اليوم",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 3 Mar 2026 08:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdKHRafghWsBFKpkR9ZzsPaQWQfScm_7XaDaUIVYl9qHS55ouqkrwYkqUZaQ",
-      "pictureSource": "المصري اليوم",
-      "relatedSearch": [
-        {
-          "title": "«كنت عارف».. ماجد المصري يكشف كواليس مشاركته في «رامز ليفل الوحش»",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4213032",
-          "source": "المصري اليوم"
-        },
-        {
-          "title": "رامز جلال بإطلالة كاجوال أنيقة في برنامجه \"رامز ليفل الوحش\"",
-          "snippet": "",
-          "url": "https://www.masrawy.com/ramadan/ramadanstyle/details/2026/3/3/2951811/%D8%B1%D8%A7%D9%85%D8%B2-%D8%AC%D9%84%D8%A7%D9%84-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%84%D8%A9-%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84-%D8%A3%D9%86%D9%8A%D9%82%D8%A9-%D9%81%D9%8A-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D9%87-%D8%B1%D8%A7%D9%85%D8%B2-%D9%84%D9%8A%D9%81%D9%84-%D8%A7%D9%84%D9%88%D8%AD%D8%B4-",
-          "source": "Masrawy"
-        },
-        {
-          "title": "يارا السكري عن حلقتها مع رامز جلال: اتبهدلت بس انبسطت",
-          "snippet": "",
-          "url": "https://www.filfan.com/news/180309",
-          "source": "FilFan.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "قم",
       "trafficCount": "200+",
       "pubDate": "Tue, 3 Mar 2026 07:40:00 -0800",
@@ -267,16 +239,44 @@
           "source": "سكاي نيوز عربية"
         },
         {
+          "title": "هيئة البث الإسرائيلية: استهداف مجلس خبراء القيادة بإيران خلال اختيار مرشد جديد",
+          "snippet": "",
+          "url": "https://www.ajnet.me/news/2026/3/3/%D8%B9%D8%A7%D8%AC%D9%84-%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D8%B9%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
+          "source": "الجزيرة نت"
+        },
+        {
           "title": "أثناء اختيار مرشد أعلى جديد.. إسرائيل تقصف مقر مجلس خبراء القيادة فى إيران",
           "snippet": "",
           "url": "https://www.almasryalyoum.com/news/details/4213021",
           "source": "المصري اليوم"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "حزب مستقبل وطن",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-CPusGWqjZ56IApv5qzWkSAVR-i_USrE9nIeqxQz4a3ydqb-B3vt5hCABHeI",
+      "pictureSource": "سكاي نيوز عربية",
+      "relatedSearch": [
+        {
+          "title": "خلال اتصال مع رئيس الإمارات.. السيسي يدين اعتداءات إيران",
+          "snippet": "",
+          "url": "https://www.skynewsarabia.com/middle-east/1855789-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+          "source": "سكاي نيوز عربية"
         },
         {
-          "title": "(وسائط متعددة) عاجل: إعلام إيراني: هجوم أمريكي إسرائيلي على مقر مجلس الخبراء في قم",
+          "title": "اتصالات مصرية مكثفة مع وزراء خارجية دول الخليج لاحتواء التصعيد الإقليمي",
           "snippet": "",
-          "url": "https://arabic.news.cn/20260303/4e69232f65ce429597821c4513291faf/c.html",
-          "source": "新华网"
+          "url": "https://www.mubasher.info/news/4563036/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85%D9%83%D8%AB%D9%81%D8%A9-%D9%85%D8%B9-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A/%7B%7Bstock.url%7D%7D",
+          "source": "معلومات مباشر"
+        },
+        {
+          "title": "وزير الخارجية يبحث مع نظيره العماني مستجدات الأوضاع الإقليمية وسبل احتواء التصعيد",
+          "snippet": "",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=03032026&id=0e435087-1a67-4351-80b2-0f48f9b294d6",
+          "source": "بوابة الشروق"
         }
       ],
       "link": "https://imtaqin.id/"
