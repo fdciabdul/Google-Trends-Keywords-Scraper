@@ -1,265 +1,234 @@
 {
-  "lastUpdate": "2026-03-03 15:28:21",
+  "lastUpdate": "2026-03-03 15:49:39",
   "data": [
     {
-      "title": "şanlıurfa iftar vakti",
+      "title": "samsun iftar vakti",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgQXoPA4I2ivHdzLF_L67fQ5phgYHK0Law5hhnyXoImrAs1vLPqz1giWccYOg",
+      "pictureSource": "Gazete Arena",
+      "relatedSearch": [
+        {
+          "title": "3 Mart 2026 Samsun'da iftar saat kaçta?",
+          "snippet": "",
+          "url": "https://www.gazetearena.com/3-mart-2026-samsunda-iftar-saat-kacta",
+          "source": "Gazete Arena"
+        },
+        {
+          "title": "Gazipaşa'da 3 Mart 2026 sahur vakti ne zaman?",
+          "snippet": "",
+          "url": "https://www.alanyapostasi.com.tr/gazipasada-3-mart-2026-sahur-vakti-ne-zaman",
+          "source": "Alanya Postası"
+        },
+        {
+          "title": "SAMSUN İFTAR SAATİ VE SAHUR VAKTİ İMSAKİYE 2026: Samsun'da iftar saat kaçta, oruç ne zaman açılacak? Samsun teravih namazı saati, imsak vakti ve iftar saati",
+          "snippet": "",
+          "url": "https://www.milliyet.com.tr/galeri/samsun-iftar-saati-ve-sahur-vakti-imsakiye-2026-samsunda-iftar-saat-kacta-oruc-ne-zaman-acilacak-samsun-teravih-namazi-saati-7536008",
+          "source": "Milliyet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "adana iftar",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHa8ajGHZoV5rlBXGTDxXqxk977ydKnG1VF2A5WdDAe4cLhm7HUyyj8VL_hjY",
+      "pictureSource": "Hürriyet",
+      "relatedSearch": [
+        {
+          "title": "Tarihi köprü’de gönül sofrası",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/yazarlar/erdal-fernergiz/tarihi-koprude-gonul-sofrasi-43120607",
+          "source": "Hürriyet"
+        },
+        {
+          "title": "Yüreğir Belediyesi tarihi Taşköprü’de halk iftarı düzenledi",
+          "snippet": "",
+          "url": "https://www.karsmanset.com/haber/yuregir-belediyesi-tarihi-taskoprude-halk-iftari-duzenledi-1646434.htm",
+          "source": "Kars Manşet"
+        },
+        {
+          "title": "Tarihi Taşköprü'de iftar",
+          "snippet": "",
+          "url": "https://www.dha.com.tr/yerel-haberler/adana/tarihi-taskoprude-iftar-2829425",
+          "source": "DHA | Demirören Haber Ajansı"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kayseri iftar",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQke-XWemUrRBDfne_y2M8EsiwPetRfgEm-gsVQvDUqOlAdJCBOD9gPMvWgCVU",
+      "pictureSource": "Kayseri Olay Haber",
+      "relatedSearch": [
+        {
+          "title": "Kayseri'de bugün iftar kaçta yapılacak? (01 Mart Pazar)",
+          "snippet": "",
+          "url": "https://www.kayseriolay.com/kayseri-de-bugun-iftar-kacta-yapilacak-01-mart-pazar/176976/",
+          "source": "Kayseri Olay Haber"
+        },
+        {
+          "title": "Kayseri namaz vakitleri 28 Şubat 2026",
+          "snippet": "",
+          "url": "https://www.denizpostasi.com/kayseri-namaz-vakitleri-28-subat-2026",
+          "source": "Deniz Postası"
+        },
+        {
+          "title": "KAYSERİ İFTAR SAATİ VE SAHUR VAKTİ İMSAKİYE 2026: Kayseri'de iftar saat kaçta, oruç ne zaman açılacak? Kayseri teravih namazı saati, imsak vakti ve iftar saati",
+          "snippet": "",
+          "url": "https://www.milliyet.com.tr/galeri/kayseri-iftar-saati-ve-sahur-vakti-imsakiye-2026-kayseride-iftar-saat-kacta-oruc-ne-zaman-acilacak-kayseri-teravih-namazi-7535901",
+          "source": "Milliyet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nevşehir iftar vakti",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtMJd745l9Qc1rFgUDGEpLmdEyw8D3lWn0SK9Ec-YYaDc6d2cyIoi-Z5Nn22c",
+      "pictureSource": "Kapadokya Haber",
+      "relatedSearch": [
+        {
+          "title": "Nevşehir’de İftar Saati 18:34 – Macitler Kasap Hatırlattı",
+          "snippet": "",
+          "url": "https://www.kapadokyahaber.com.tr/haber/27513159/nevsehirde-iftar-saati-1834-macitler-kasap-hatirlatti",
+          "source": "Kapadokya Haber"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hatay iftar vakti",
       "trafficCount": "1000+",
-      "pubDate": "Tue, 3 Mar 2026 07:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpiPa_Qflc-RD20WGqfZjEX4JhdrQN5La-iSvIh_1dKz7My7v_o7of-zmt-Vc",
-      "pictureSource": "Bengü Türk",
-      "relatedSearch": [
-        {
-          "title": "Şanlıurfa iftar vakti saat kaçta 2026? Günlük imsakiye ve akşam ezanı saatleri",
-          "snippet": "",
-          "url": "https://www.benguturk.com/yasam/sanliurfa-iftar-vakti-saat-kacta-2026-gunluk-imsakiye-ve-aksam-ezani-saatleri-258089h",
-          "source": "Bengü Türk"
-        },
-        {
-          "title": "Şanlıurfa ezan ne zaman okunacak? | 2026 Diyanet Şanlıurfa iftar, sahur, imsak vakitleri",
-          "snippet": "",
-          "url": "https://www.fotomac.com.tr/haberler/2026/03/03/sanliurfa-iftar-vakti-2026-sanliurfa-sahur-ve-imsak-saatleri-diyanet-imsakiye",
-          "source": "Fotomaç"
-        },
-        {
-          "title": "2026 Şanlıurfa İftar saati ne zaman? Şanlıurfa'da iftar saat kaçta?",
-          "snippet": "",
-          "url": "https://www.gazetegercek.com.tr/2026-sanliurfa-iftar-saati-ne-zaman-sanliurfada-iftar-saat-kacta/214550",
-          "source": "Gazete Gerçek"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trabzon iftar",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 3 Mar 2026 07:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4nAlrEx3atRdVOsplY1WW_Ug9-wWa3wiSP5v9tRO-cIgTS2OMT5gLjOr4RM",
-      "pictureSource": "Karadeniz'de Sonnokta Gazetesi",
-      "relatedSearch": [
-        {
-          "title": "Başkan Genç, Ktü’lü Öğrencilerle İftar Sofrasında Buluştu",
-          "snippet": "",
-          "url": "https://www.karadenizdesonnokta.com.tr/baskan-genc-ktulu-ogrencilerle-iftar-sofrasinda-bulustu",
-          "source": "Karadeniz'de Sonnokta Gazetesi"
-        },
-        {
-          "title": "KTÜ yemekhanesinde iftar tartışması! \"Yazıklar olsun, bu düzen değişecek...\"",
-          "snippet": "",
-          "url": "https://www.61saat.com/ktu-yemekhanesinde-iftar-tartismasi-yaziklar-olsun-bu-duzen-degisecek",
-          "source": "61SAAT - TRABZON HABER SAYFASI"
-        },
-        {
-          "title": "Çocuklarla Ramazan Coşkusu! Başkan Genç’ten Anlamlı Mesaj",
-          "snippet": "",
-          "url": "https://www.takagazete.com.tr/cocuklarla-ramazan-coskusu-baskan-gencten-anlamli-mesaj",
-          "source": "Taka Gazete - Trabzon Haber - Karadeniz Haber"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "3 mart iftar saati",
-      "trafficCount": "20000+",
-      "pubDate": "Tue, 3 Mar 2026 07:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSwJ7D2A2wrlwISuEnNIbj94pHcZ0ROSSBJfF8zl4Lg8vFiKKD4pEvcCOxP0Q",
-      "pictureSource": "Hürriyet",
-      "relatedSearch": [
-        {
-          "title": "SAHUR VE İFTAR SAATLERİ (İFTARA NE KADAR KALDI 3 MART 2026) RAMAZAN İMSAKİYESİ || Bugün iftar saat kaçta?",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/galeri-sahur-ve-iftar-saatleri-iftara-ne-kadar-kaldi-3-mart-2026-ramazan-imsakiyesi-bugun-iftar-saat-kacta-43120669",
-          "source": "Hürriyet"
-        },
-        {
-          "title": "Antalya ezan ne zaman okunacak? | 2026 Diyanet Antalya iftar, sahur, imsak vakitleri",
-          "snippet": "",
-          "url": "https://www.fotomac.com.tr/haberler/2026/03/03/antalya-iftar-vakti-2026-antalya-sahur-ve-imsak-saatleri-diyanet-imsakiye",
-          "source": "Fotomaç"
-        },
-        {
-          "title": "Bugün iftar saat kaçta? Akşam ezanı kaçta okunuyor? 2 Mart 2026 Ankara, İstanbul, İzmir, Bursa, Adana, Antalya, Konya, Balıkesir il il iftar vakitleri",
-          "snippet": "",
-          "url": "https://www.yenisafak.com/foto-galeri/ozgun/bugun-iftar-saat-kacta-aksam-ezani-kacta-okunuyor-2-mart-2026-ankara-istanbul-izmir-bursa-adana-antalya-konya-balikesir-il-il-iftar-vakitleri-4802269",
-          "source": "Yeni Şafak"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "erzurum iftar",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 3 Mar 2026 07:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8VzQR3qQTMK5hmjwUNIWa5hulfwVcUcIMo2DHwUdg65sOqVAc_mrnNu6pgY4",
-      "pictureSource": "Gazete Gerçek",
-      "relatedSearch": [
-        {
-          "title": "Store55'in üçüncü şubesi Atakum'a açılıyor",
-          "snippet": "",
-          "url": "https://www.gazetegercek.com.tr/store55in-ucuncu-subesi-atakuma-aciliyor/214471",
-          "source": "Gazete Gerçek"
-        },
-        {
-          "title": "Samsunspor'da Ntcham, Zeki Yavru ve İrfan Can neden kadroda yer almadı?",
-          "snippet": "",
-          "url": "https://www.gazetegercek.com.tr/samsunsporda-ntcham-zeki-yavru-ve-irfan-can-neden-kadroda-yer-almadi/214280",
-          "source": "Gazete Gerçek"
-        },
-        {
-          "title": "Samsun'da iki farklı devre iki farklı performans",
-          "snippet": "",
-          "url": "https://www.gazetegercek.com.tr/samsunda-iki-farkli-devre-iki-farkli-performans/214353",
-          "source": "Gazete Gerçek"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hifa ikra şengüler",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 3 Mar 2026 04:30:00 -0800",
-      "picture": "",
-      "pictureSource": "T24",
-      "relatedSearch": [
-        {
-          "title": "\"İntihar demeyin\" demişti; Kuran'a Hizmet Vakfı yöneticisinin istismar ettiği iddia edilen öz kızı ve anne ölü bulundu!",
-          "snippet": "",
-          "url": "https://t24.com.tr/gundem/intihar-demeyin-demisti-kurana-hizmet-vakfi-yoneticisinin-istismar-ettigi-iddia-edilen-oz-kizi-ve-anne-olu-bulundu,1304076",
-          "source": "T24"
-        },
-        {
-          "title": "“Başıma bir şey gelirse intihar demeyin” demişti | İstismarcısıyla evlendirilen kadın ve kızı ölü bulundu",
-          "snippet": "",
-          "url": "https://medyascope.tv/2026/03/03/istismarcisiyla-evlendirilen-kadin-ve-kizi-olu-bulundu/",
-          "source": "Medyascope"
-        },
-        {
-          "title": "\"İntihar demeyin\" demişti: İstismar edilen anne ve kızı ölü bulundu",
-          "snippet": "",
-          "url": "https://bianet.org/haber/intihar-demeyin-demisti-istismar-edilen-anne-ve-kizi-olu-bulundu-317311",
-          "source": "Bianet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "istanbulspor - boluspor",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 3 Mar 2026 04:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSTI3loMNH7ElLqTd-WmGnEfy6dpHRmv3z_Jq4heBf4MStCn1ZvI9KZO9rDqY",
-      "pictureSource": "Hürriyet",
-      "relatedSearch": [
-        {
-          "title": "İstanbulspor - Boluspor maçı ne zaman, hangi kanalda, saat kaçta?",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/sporarena/istanbulspor-boluspor-maci-ne-zaman-hangi-kanalda-saat-kacta-43120402",
-          "source": "Hürriyet"
-        },
-        {
-          "title": "Ziraat Türkiye Kupası'na 2 takım daha veda etti",
-          "snippet": "",
-          "url": "https://www.ntvspor.net/futbol/ziraat-turkiye-kupasina-2-takim-daha-veda-etti-418642",
-          "source": "NTVSpor"
-        },
-        {
-          "title": "İstanbulspor ve Boluspor kupaya veda etti",
-          "snippet": "",
-          "url": "https://www.fanatik.com.tr/futbol/istanbulspor-ve-boluspor-turnuvaya-veda-etti-2614601",
-          "source": "Fanatik"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "yusuf tekin",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 3 Mar 2026 04:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7nS5Ic2a-1mmtJQxhPE5ct-RH-JtDGZutancnSjJ_ddwAEb7IAmpEAIxH2cE",
-      "pictureSource": "Hürriyet",
-      "relatedSearch": [
-        {
-          "title": "MEB ARA TATİL TAKVİMİ VE GÜNLERİ MART 2026 || Okullarda 2. ara tatil ne zaman başlıyor, kaç gün, bayram tatili ile birleşiyor mu? İkinci ara tatil ne zaman?",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/bilgi/galeri/2-ara-tatil-ne-zaman-2026-bayram-tatili-ile-birlesiyor-mu-ara-tatil-ne-zaman-2026-mart-hangi-tarihte-basliyor-ve-bitiyor-meb-2026-43119614",
-          "source": "Hürriyet"
-        },
-        {
-          "title": "Öğretmene alan değişikliği olacak mı?",
-          "snippet": "",
-          "url": "https://www.pervinkaplan.com/detay/ogretmene-alan-degisikligi-olacak-mi/33153",
-          "source": "PervinKaplan.com"
-        },
-        {
-          "title": "ARA TATİL TARİHLERİ: 2025-2026 ara tatili ne zaman başlayacak, Ramazan Bayramı ile birleşecek mi?",
-          "snippet": "",
-          "url": "https://m.sabah.com.tr/trend/galeri/yasam/ikinci-ara-tatil-ne-zaman-bayram-tatiliyle-birlesecek-mi-2025-2026-meb-2-ara-tatil-takvimi/4",
-          "source": "Sabah"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gençlik ve spor bakanlığı",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 3 Mar 2026 03:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxAPm03t32wHuK9X2QvJSiSwQ0UJRCGBHJjRwcqRH38hVhlRfHRoKucsZIn90",
-      "pictureSource": "Gençlik ve Spor Bakanlığı",
-      "relatedSearch": [
-        {
-          "title": "BAKAN BAK MİLLİ ATICILARI TEBRİK ETTİ",
-          "snippet": "",
-          "url": "https://gsb.gov.tr/tr/haber-detay/296660-bakan-bak-milli-aticilari-tebrik-etti",
-          "source": "Gençlik ve Spor Bakanlığı"
-        },
-        {
-          "title": "Milli atıcı Elif Duygu Eren, Avrupa üçüncüsü oldu",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/spor/milli-atici-elif-duygu-eren-avrupa-ucuncusu-oldu/3846543",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "Şevval İlayda Tarhan ve Yusuf Dikeç, Avrupa ikincisi",
-          "snippet": "",
-          "url": "https://www.diken.com.tr/sevval-ilayda-tarhan-ve-yusuf-dikec-avrupa-ikincisi/",
-          "source": "Diken"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "burhanettin duran",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 3 Mar 2026 02:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGm_M8712tA4nplToNplOVmJUqNAkkHo9gHf1ZRJJSgH6HhUmZajvU-ZYpRYY",
-      "pictureSource": "Anadolu Ajansı",
-      "relatedSearch": [
-        {
-          "title": "Türk gazeteciler İsrail'de gözaltına alındı",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/ayrimcilikhatti/aktuel/turk-gazeteciler-israilde-gozaltina-alindi/1829639",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "İletişim başkanı duyurdu: İki Türk gazeteci İsrail'de gözaltına alındı",
-          "snippet": "",
-          "url": "https://www.diken.com.tr/iletisim-baskani-duyurdu-iki-turk-gazeteci-israilde-gozaltina-alindi/",
-          "source": "Diken"
-        },
-        {
-          "title": "CNN Türk ekibinin İsrail'de gözaltına alınmasına alınmasına peş peşe tepkiler",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/gundem/omer-celik-cnn-turk-muhabiri-ve-kameramaninin-gozalti-karari-kabul-edilemez-43120514",
-          "source": "Hürriyet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "burkina faso",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 3 Mar 2026 02:20:00 -0800",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 -0800",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "maraş iftar vakti",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kahramanmaraş iftar vakti",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 3 Mar 2026 07:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT93Aoms2BKxSWYqbkRD3AC-7Z4VMrMCiei-FuufESWCaRNLK7iSzZ3e4wFvGY",
+      "pictureSource": "Kahramanmaraş Manşet Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Kahramanmaraş’ta İftar Heyecanı: Ezan Saat Kaçta?",
+          "snippet": "",
+          "url": "https://www.marasmanset.com/kahramanmarasta-iftar-heyecani-ezan-saat-kacta",
+          "source": "Kahramanmaraş Manşet Gazetesi"
+        },
+        {
+          "title": "Kahramanmaraş’ta Oruç Saat Kaçta Açılacak?",
+          "snippet": "",
+          "url": "https://www.ajans344.com/kahramanmarasta-oruc-saat-kacta-acilacak",
+          "source": "Ajans344"
+        },
+        {
+          "title": "Bugün Kahramanmaraş’ta Oruçlar Ne Zaman Açılacak?",
+          "snippet": "",
+          "url": "https://www.marasmanset.com/bugun-kahramanmarasta-oruclar-ne-zaman-acilacak",
+          "source": "Kahramanmaraş Manşet Gazetesi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "malatya ezan vakti",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 3 Mar 2026 07:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsBQ3dm9a9ESWffSVSU8BBbuURKQJ2aCwZMuM-tgyByrChWvPBXhNYCxBDF7E",
+      "pictureSource": "Busabah Malatya",
+      "relatedSearch": [
+        {
+          "title": "3 Mart Malatya ezan vakitleri ve oruç niyetinde bilinmesi gerekenler",
+          "snippet": "",
+          "url": "https://www.busabahmalatya.com/haber/27559724/3-mart-malatya-ezan-vakitleri-ve-oruc-niyetinde-bilinmesi-gerekenler",
+          "source": "Busabah Malatya"
+        },
+        {
+          "title": "2 Mart 2026 Pazartesi Malatya ezan vakitleri | Kişinin çok sayıda kaza orucu varsa nasıl tutmalıdır?",
+          "snippet": "",
+          "url": "https://www.busabahmalatya.com/haber/27553314/2-mart-2026-pazartesi-malatya-ezan-vakitleri-kisinin-cok-sayida-kaza-orucu-varsa-nasil-tutmalidir",
+          "source": "Busabah Malatya"
+        },
+        {
+          "title": "Malatya’da 1 Mart 2026 ezan vakitleri | Oruç fidyesi kimlere verilebilir?",
+          "snippet": "",
+          "url": "https://www.busabahmalatya.com/haber/27548907/malatyada-1-mart-2026-ezan-vakitleri-oruc-fidyesi-kimlere-verilebilir",
+          "source": "Busabah Malatya"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "malatya iftar",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 3 Mar 2026 07:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpJZ3lEeJ3dxUMkKqlk6tQEWM7QTzGp67Mqrx5VCL9DisbaDWmuhci0VvLHDY",
+      "pictureSource": "İlke Haber Ajansı",
+      "relatedSearch": [
+        {
+          "title": "Malatya'da yetimler iftar sofrası kuruldu",
+          "snippet": "",
+          "url": "https://ilkha.com/guncel/malatyada-yetimler-iftar-sofrasi-kuruldu-515521",
+          "source": "İlke Haber Ajansı"
+        },
+        {
+          "title": "Malatya'da İyilik Kervanı Yola Çıktı! 520 Aileye Can Suyu Geldi",
+          "snippet": "",
+          "url": "https://www.malatyatime.com/haber/malatyada-iyilik-kervani-yola-cikti-520-aileye-can-suyu-geldi-114052",
+          "source": "Malatya Haber, Malatya Haberi, Malatya Son Dakika Haberleri"
+        },
+        {
+          "title": "Umut Kervanı ve Yetimler Vakfı'ndan Malatya'da geleneksel iftar buluşması",
+          "snippet": "",
+          "url": "https://www.erganigazetesi.com.tr/umut-kervani-ve-yetimler-vakfindan-malatyada-geleneksel-iftar-bulusmasi",
+          "source": "Ergani Haber Gazetesi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "elazığ namaz",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 3 Mar 2026 07:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX9da5Uodn0iUeGU4qR_bg7fwKyUaO_5Xdf_5ktYHPenKKFH3P02kU1McUedM",
+      "pictureSource": "Günışığı Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Elazığ'da namaz vakitleri (03.03.2026)",
+          "snippet": "",
+          "url": "https://www.gunisigigazetesi.net/haber/27559663/elazigda-namaz-vakitleri-03032026",
+          "source": "Günışığı Gazetesi"
+        },
+        {
+          "title": "Elazığ'da namaz vakitleri (24.02.2026)",
+          "snippet": "",
+          "url": "https://www.elazighakimiyethaber.com/elazig-da-namaz-vakitleri-24-02-2026/130541/",
+          "source": "Elazığ Hakimiyet Haber"
+        },
+        {
+          "title": "Elazığ'da namaz vakitleri (27.02.2026)",
+          "snippet": "",
+          "url": "https://www.gunisigigazetesi.net/haber/27537137/elazigda-namaz-vakitleri-27022026",
+          "source": "Günışığı Gazetesi"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
