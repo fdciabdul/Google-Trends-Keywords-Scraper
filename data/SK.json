@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-03-03 05:01:02",
+  "lastUpdate": "2026-03-03 05:29:48",
   "data": [
     {
-      "title": "pluska",
+      "title": "hlavne spravy",
       "trafficCount": "100+",
-      "pubDate": "Mon, 2 Mar 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLFp-TIYfhyjK9pIi6lZ8P37-vndibioKu52Kp3MJJjWba13Us7le0R2pKLes",
+      "pubDate": "Mon, 2 Mar 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_0HoCa3fLpmXq8GPfyY5lpnwNa2qkvTYBqpyseMtQeBCsoeJVvrcSTWDgjNs",
+      "pictureSource": "TA3",
+      "relatedSearch": [
+        {
+          "title": "Hlavné správy z 1. marca",
+          "snippet": "",
+          "url": "https://www.ta3.com/relacia/1036759/hlavne-spravy-z-1-marca",
+          "source": "TA3"
+        },
+        {
+          "title": "Hlavné správy z 28. februára",
+          "snippet": "",
+          "url": "https://www.ta3.com/relacia/1036661/hlavne-spravy-z-28-februara",
+          "source": "TA3"
+        },
+        {
+          "title": "Týždenný súhrn dôležitých správ 27.02.2026",
+          "snippet": "",
+          "url": "https://sita.sk/tyzdenny-suhrn-dolezitych-sprav-27-02-2026/",
+          "source": "SITA.sk"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "horoskop na dnes",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 20:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRJ2v7wpb0dEf0DavCi5UYSU-YnGPD014v2YAy0-1fZBav76bqBp4BW6--OZA",
+      "pictureSource": "Plus 7 Dní",
+      "relatedSearch": [
+        {
+          "title": "HOROSKOP NA DNES Kozorožec spomaľuje tempo, Vodnár naráža na minulosť",
+          "snippet": "",
+          "url": "https://plus7dni.pluska.sk/zazracny-svet/horoskop-na-dnes-kozorozec-spomaluje-tempo-vodnar-naraza-na-minulost",
+          "source": "Plus 7 Dní"
+        },
+        {
+          "title": "Denný horoskop: Strelca čaká studená sprcha v práci, Baran by si mal dávať pozor",
+          "snippet": "",
+          "url": "https://www.odzadu.sk/denny-horoskop-strelca-caka-studena-sprcha-v-praci-baran-by-si-mal-davat-pozor/4/?to=Rak",
+          "source": "OdZadu"
+        },
+        {
+          "title": "Denný horoskop: Strelca čaká studená sprcha v práci, Baran by si mal dávať pozor",
+          "snippet": "",
+          "url": "https://www.odzadu.sk/denny-horoskop-strelca-caka-studena-sprcha-v-praci-baran-by-si-mal-davat-pozor/7/?to=V%C3%A1hy",
+          "source": "OdZadu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sme",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReiQp1tLpagtgwSEFBANHbEp8w5prY19dQZwF8kKYXsS9abT55iRFE8Jrd8UI",
       "pictureSource": "SME.sk",
       "relatedSearch": [
         {
-          "title": "Prečo padajú rakety na Dubaj? Je za tým premyslená stratégia Iránu",
+          "title": "Kde sú tankery pre Slovnaft? Družbu neotvárajú, Eštok hovorí o ohrozenej energetickej bezpečnosti",
           "snippet": "",
-          "url": "https://www.sme.sk/svet/c/preco-padaju-rakety-na-dubaj-je-za-tym-premyslena-strategia-iranu",
+          "url": "https://www.sme.sk/index/c/kde-su-tankery-pre-slovnaft-druzbu-neotvaraju-sutaj-hovori-o-ohrozenej-energetickej-bezpecnosti",
           "source": "SME.sk"
         },
         {
-          "title": "Napätá situácia na Blízkom východe mení plány dovolenkujúcim Slovákom. Cestovky riešia krízový scenár",
+          "title": "Kližan odrezaný vo VOJNOU zmietanej oblasti: Rozsiahly útok Iránu... Prosí o POMOC!",
           "snippet": "",
-          "url": "https://www.aktuality.sk/clanok/BWsR15d/napata-situacia-na-blizkom-vychode-meni-plany-dovolenkujucim-slovakom-cestovky-riesia-krizovy-scenar/",
-          "source": "Aktuality.sk"
+          "url": "https://www.topky.sk/cl/100313/9337401/Klizan-odrezany-vo-VOJNOU-zmietanej-oblasti--Rozsiahly-utok-Iranu----Prosi-o-POMOC-",
+          "source": "Topky.sk"
         },
         {
-          "title": "Turisti v Dubaji: Sedeli sme na terase, preletel dron a ozvala sa explózia",
+          "title": "Vojna na Blízkom východe: porazení budú aj slovenskí spotrebitelia. Plyn a ropa idú nahor",
           "snippet": "",
-          "url": "https://www.topky.sk/cl/2005793/9337011/Turisti-v-Dubaji--Sedeli-sme-na-terase--preletel-dron-a-ozvala-sa-explozia",
-          "source": "Topky.sk"
+          "url": "https://www.aktuality.sk/clanok/yemravk/drahsia-ropa-drahsi-plyn-drahsie-vsetko-kolko-nam-z-penazeniek-vytiahne-trumpova-vojna/",
+          "source": "Aktuality.sk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,15 +115,15 @@
     },
     {
       "title": "gil vicente – benfica",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjV7h_60vycwgEitpxfD77g3TqcE9snzpQpnKlsZUCw_r-vHbm4o5ry25aMQ8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYVDB2sPnJ-plzHmIcKccu7sLACkkJTlimDnLhsFVLgkEpG9-a52IYgwrTgFM",
       "pictureSource": "SAPO",
       "relatedSearch": [
         {
-          "title": "Gil Vicente-Benfica, 1-2: o duelo em 5 factos",
+          "title": "Héctor Hernández antecipa-se a Otamendi e empata o Gil Vicente-Benfica. Ora veja",
           "snippet": "",
-          "url": "https://sapo.pt/artigo/gil-vicente-benfica-1-2-o-duelo-em-5-factos-69a62b16983f234be835e683",
+          "url": "https://sapo.pt/artigo/hector-hernandez-antecipa-se-a-otamendi-e-empata-o-gil-vicente-benfica-ora-veja-69a60409983f234be82d152b",
           "source": "SAPO"
         },
         {
@@ -133,10 +189,10 @@
           "source": "MARCA"
         },
         {
-          "title": "Endrick, Satriano y el 'efecto mariposa'",
+          "title": "Reclamos, silbidos y “Florentino dimisión”: Real Madrid se fue abucheado del Bernabéu tras caer con Getafe",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/endrick-satriano-efecto-mariposa-221322120.html",
-          "source": "Yahoo"
+          "url": "https://bolavip.com/laliga/reclamos-silbidos-y-florentino-dimision-real-madrid-se-fue-abucheado-del-bernabeu-tras-caer-con-getafe",
+          "source": "Bolavip Global"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +201,26 @@
       "title": "birmingham – middlesbrough",
       "trafficCount": "500+",
       "pubDate": "Mon, 2 Mar 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRT0fkr2MjkBhWAiLI_H4vbYUiHBBxi_q2VBk7MqR8DwrohPj5U4EAX9LasIw",
-      "pictureSource": "National Today",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOto1HN-VOmoBcHqqYoe5w5olf7lrloqDEomFIPCghlZh91NZM1MxFStIEnXQ",
+      "pictureSource": "Evrim Ağacı",
       "relatedSearch": [
         {
-          "title": "Birmingham Face Middlesbrough in Crucial Promotion Battle",
+          "title": "Birmingham City And Middlesbrough Face Crucial Championship Showdown",
           "snippet": "",
-          "url": "https://nationaltoday.com/us/al/birmingham/news/2026/03/02/birmingham-face-middlesbrough-in-crucial-promotion-battle/",
-          "source": "National Today"
+          "url": "https://evrimagaci.org/gpt/birmingham-city-and-middlesbrough-face-crucial-championship-showdown-532308",
+          "source": "Evrim Ağacı"
         },
         {
-          "title": "'First goal rocked us'",
+          "title": "Targett double gets promotion hopes back on track",
           "snippet": "",
-          "url": "https://au.sports.yahoo.com/first-goal-rocked-us-230142032.html",
-          "source": "Yahoo Sports Australia"
+          "url": "https://www.beinsports.com/en-au/football/championship/articles/birmingham-city-1-3-middlesbrough-targett-at-the-double-as-promotion-hopefuls-get-back-on-track-2026-03-02",
+          "source": "beIN SPORTS"
         },
         {
-          "title": "Sky Bet Championship: Boro back to winning ways",
+          "title": "Paik Seung-ho Returns From Injury in 1-3 Loss",
           "snippet": "",
-          "url": "https://www.efl.com/news/2026/march/02/sky-bet-championship--boro-back-to-winning-ways/",
-          "source": "The English Football League"
+          "url": "https://www.chosun.com/english/sports-en/2026/03/03/GA67ECK76RH27BLT6DUYWIEUNY/",
+          "source": "조선일보"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +229,26 @@
       "title": "real – getafe",
       "trafficCount": "5000+",
       "pubDate": "Mon, 2 Mar 2026 11:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI262IMGsqZP_TkiHe69PqtxeZwcCpaKeNS8zJL1n0IHixQWdTl9GoAHo9v5Q",
-      "pictureSource": "Managing Madrid",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdLyBZfqIgDL3ZxIixQ6h0X9qX5pPqo5GeXwSifK0TG8perrQRgVrPRxNHKpU",
+      "pictureSource": "Foot Africa",
       "relatedSearch": [
         {
-          "title": "Player Ratings: Real Madrid 0 - 1 Getafe",
+          "title": "\"No one gives up!\" Arbeloa energizes his players after the loss to Getafe!",
           "snippet": "",
-          "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/104708/player-ratings-real-madrid-0-1-getafe",
-          "source": "Managing Madrid"
+          "url": "https://foot-africa.com/en/news/no-one-gives-up-arbeloa-energizes-his-players-after-the-loss-to-getafe-1108253/",
+          "source": "Foot Africa"
         },
         {
-          "title": "Arbeloa: \"We have no other goal but to fight to earn the 36 points\"",
+          "title": "Real Madrid Host Getafe In High-Stakes Bernabeu Derby Showdown",
           "snippet": "",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/arbeloa-02-03-2026",
-          "source": "Real Madrid CF | Web Oficial"
+          "url": "https://evrimagaci.org/gpt/real-madrid-host-getafe-in-highstakes-bernabeu-derby-showdown-532346",
+          "source": "Evrim Ağacı"
         },
         {
-          "title": "Satriano stunner beats Real Madrid",
+          "title": "Satriano volley stuns Real Madrid as Getafe shake up LaLiga title race",
           "snippet": "",
-          "url": "https://www.beinsports.com/en-nz/football/laliga/articles-video/real-madrid-0-1-getafe-satriano-stunner-keeps-hosts-four-points-behind-barcelona-2026-03-02",
-          "source": "beIN SPORTS"
+          "url": "https://www.chinadailyasia.com/article/629694",
+          "source": "chinadailyhk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://newsinamerica.com/pdcc/boletin/2026/shakira-la-loba-logra-caza-bestial-en-el-zocalo/",
           "source": "Periódico Digital Centroamericano y del Caribe"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "juraj javorsky",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 2 Mar 2026 10:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_MhPER5FcJ6MM3lkJPsNJDzUuK8huKo_pWGpQw1FpUVod19rYErnuHPmQbtE",
-      "pictureSource": "Denník N",
-      "relatedSearch": [
-        {
-          "title": "Zomrel zástupca šéfredaktora, autor Newsfiltra, náš kolega a kamarát Juraj Javorský",
-          "snippet": "",
-          "url": "https://dennikn.sk/5175397/zomrel-zastupca-sefredaktora-autor-newsfiltra-nas-kolega-a-kamarat-juraj-javorsky/",
-          "source": "Denník N"
-        },
-        {
-          "title": "Za Jurajom Javorským",
-          "snippet": "",
-          "url": "https://www.sme.sk/komentare/c/za-jurajom-javorskym",
-          "source": "SME.sk"
-        },
-        {
-          "title": "Slovensko v slzách: Uznávaný novinár prehral boj s krutou chorobou!",
-          "snippet": "",
-          "url": "https://koktejl.azet.sk/clanok/bb1PPKk/slovensko-v-slzach-uznavany-novinar-prehral-boj-s-krutou-chorobou/",
-          "source": "Koktejl.sk"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "iphone 17e",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 2 Mar 2026 08:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS_q-KI5oVLjsbHEBiBE5AMPGRW71qHAGzLOvRzP-f4fw-JgqOlcCrMEe8nIs",
-      "pictureSource": "Živé.sk",
-      "relatedSearch": [
-        {
-          "title": "Apple má nový lacný iPhone: Čím chce zaujať?",
-          "snippet": "",
-          "url": "https://zive.aktuality.sk/clanok/gbr8BC4/apple-ma-novy-lacny-iphone-cim-chce-zaujat/",
-          "source": "Živé.sk"
-        },
-        {
-          "title": "iPhone 17e je tu: Apple láka na MagSafe a dvojnásobné úložisko za rovnakú cenu",
-          "snippet": "",
-          "url": "https://jablickar.cz/sk/iphone-17e-je-tu-apple-laka-na-magsafe/",
-          "source": "Jablíčkář.cz"
-        },
-        {
-          "title": "Nový lacný MacBook naonec možno nebude tak lacný, ako svet očakával! Tu je dôvod",
-          "snippet": "",
-          "url": "https://www.letemsvetemapplem.eu/sk/2026/02/25/novy-levny-macbook-nakonec-mozna-nebude-tak-levny-jak-svet-ocekaval-zde-je-duvod/",
-          "source": "LetemSvetemApplem.eu"
         }
       ],
       "link": "https://imtaqin.id/"
