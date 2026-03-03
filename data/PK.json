@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-03 06:08:51",
+  "lastUpdate": "2026-03-03 06:29:47",
   "data": [
     {
       "title": "is claude down",
@@ -17,7 +17,7 @@
         {
           "title": "Anthropic’s Claude recovers from outage following ‘unprecedented’ demand surge",
           "snippet": "",
-          "url": "https://www.marketwatch.com/story/anthropics-claude-suffers-an-outage-heres-what-to-know-df8ada64?gaa_at=eafs&gaa_n=AWEtsqe6G1LuOIWNtbJqApSN_6ec8h9jYuAvxhp32JQ7b6sihR0AbXssIFPg&gaa_ts=69a67e3b&gaa_sig=ULsOER7M0EBftoqKADpqcYMTNqPbHc5K01x1l_QXDLwnW_-_YPoOH61ngz2-N9mC7GVx-CP-BLCDXE0dkvsJfQ%3D%3D",
+          "url": "https://www.marketwatch.com/story/anthropics-claude-suffers-an-outage-heres-what-to-know-df8ada64?gaa_at=eafs&gaa_n=AWEtsqd_onnND4qdhgp3kJ2jz1y9oszDdjmcOAXlY9J-3-SP_FQfqWQydwLp&gaa_ts=69a6824a&gaa_sig=nVlJNBcA_MZRkvFDqPXRwmx9YmpfK9LGeHAHD8qybHUHIARo8s42a5icFPU5zjxBjRDLVChPWukF-G7WknrBtw%3D%3D",
           "source": "MarketWatch"
         },
         {
@@ -31,28 +31,56 @@
     },
     {
       "title": "iranwar",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 2 Mar 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUbF-ZCqQ4ZLhU59Lhx8Y2xGGRuL7l8qRuvbvR3VKv5CiC0ZNdMfbJAaObRrk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmNtkoaDclE1eZO3DINpUSjVvInSBHTOwILhAP9Uq88rmQye_0HgrBpo-g4DM",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "Iran live news: US embassy in Riyadh hit; Tehran closes Strait of Hormuz",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/3/iran-live-news-israel-bombs-tehran-beirut-trump-says-war-to-last-4-weeks",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Live updates: US-Israel attacks on Iran expected to continue as war spirals in Middle",
+          "snippet": "",
+          "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26",
+          "source": "CNN"
+        },
+        {
+          "title": "Trump Says Iran War Could Last Weeks and Gives Competing Visions of New Regime",
+          "snippet": "",
+          "url": "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html",
+          "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "business recorder",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 20:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUt_76vz0CGrwcYp6JvEApF21opRPjIFg1aGTVXkqGlFSozdqUvaSZCF-3MfA",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
+          "title": "Oil and gas prices jump as conflict escalates",
           "snippet": "",
-          "url": "https://www.bbc.com/news/videos/cvgk8vj56v1o",
+          "url": "https://www.bbc.com/news/articles/c75evve6l63o",
           "source": "BBC"
         },
         {
-          "title": "Drone Attacks on Qatar and Saudi Oil Sites Shake World Markets | US-Israel War On Iran | Dawn News",
+          "title": "Iran says will attack any ship trying to pass through Strait of Hormuz",
           "snippet": "",
-          "url": "https://www.dawn.com/news/1977583/drone-attacks-on-qatar-and-saudi-oil-sites-shake-world-markets-us-israel-war-on-iran-dawn-news",
-          "source": "Dawn"
+          "url": "https://www.aljazeera.com/news/2026/3/2/iran-says-will-attack-any-ship-trying-to-pass-through-strait-of-hormuz",
+          "source": "Al Jazeera"
         },
         {
-          "title": "US Israel Iran War News Live Updates: Iran launches 'massive missile' strike at US airbase in Bahrain; Israel bombs Beirut",
+          "title": "What is the strait of Hormuz and why is it crucial for oil supplies?",
           "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-conflict-attack-middle-east-state-dubai-qatar-airways-of-emergency-explosions-tehran-gulf-countries-netanyahu-trump-us-ali-khamenei/liveblog/128959227.cms",
-          "source": "The Times of India"
+          "url": "https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -74,7 +102,7 @@
           "title": "U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban",
           "snippet": "",
           "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2",
-          "source": "The Wall Street Journal"
+          "source": "WSJ"
         },
         {
           "title": "Anthropic's Claude hits No. 1 on Apple's top free apps list after Pentagon rejection",
@@ -87,28 +115,28 @@
     },
     {
       "title": "kse",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 20:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHUm3Es_0EvD2MnsURGun-F5apAmzH4dAdApG3eAdqpZUbmwYm7CrOmUefCpU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBx_aX_WzjVj1mq5uM7h8ucZvxD8tSFGa886nQs4-BGuuSdwzOLVv56UogPxc",
       "pictureSource": "Dawn",
       "relatedSearch": [
         {
-          "title": "Bloodbath at PSX as region reels from fallout of war",
+          "title": "KSE-100 plunges 16,089 points in record one-day drop",
           "snippet": "",
-          "url": "https://www.dawn.com/news/1977694",
+          "url": "https://www.dawn.com/news/1977356",
           "source": "Dawn"
+        },
+        {
+          "title": "PSX tumbles over 16,000 points",
+          "snippet": "",
+          "url": "https://tribune.com.pk/story/2595475/psx-tumbles-over-16000-points",
+          "source": "The Express Tribune"
         },
         {
           "title": "Buying returns to bourse, KSE-100 gains over 2,900 points in early trade",
           "snippet": "",
           "url": "https://www.brecorder.com/news/40409854/buying-returns-to-bourse-kse-100-gains-over-2900-points-in-early-trade",
           "source": "Business Recorder"
-        },
-        {
-          "title": "PSX rebounds sharply as KSE-100 gains over 4,000 points at open",
-          "snippet": "",
-          "url": "https://profit.pakistantoday.com.pk/2026/03/03/psx-rebounds-sharply-as-kse-100-gains-over-4000-points-at-open/",
-          "source": "Profit by Pakistan Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -123,37 +151,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "tucker carlson",
+      "title": "riyadh",
       "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo_vnSQ1rYPj64VTMmnxGkCNlrw0N205b2E0jEgnuQ3lFCXoJSzLWn_2N7Eu4",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Trump's Republicans defend Iran strikes as Democrats push for war powers vote",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/trumps-republicans-defend-iran-strikes-democrats-push-war-powers-vote-2026-03-03/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Democrats thrown into disarray as US offensive on Iran creates cracks",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/democrats-divided-iran-trump",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Democrats Denounce Trump’s Iran Attack, but Subtle Divisions Emerge",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-attack-democratic-divisions.html",
-          "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "khaleej times",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Mar 2026 17:00:00 -0800",
+      "pubDate": "Mon, 2 Mar 2026 18:00:00 -0800",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzwY09l-054dQJbbalz5gwtuWlxOqneMuUH2Fj6PFuqIQ8bACtTVXBLqbPikM",
       "pictureSource": "CNBC",
       "relatedSearch": [
@@ -164,16 +164,44 @@
           "source": "CNBC"
         },
         {
-          "title": "US Embassy in Saudi capital Riyadh hit by drones, fire reported: Ministry",
+          "title": "U.S. Embassy in Saudi Arabia Struck by Drones",
           "snippet": "",
-          "url": "https://www.aljazeera.com/news/2026/3/3/us-embassy-in-saudi-capital-riyadh-hit-by-drones-fire-reported-ministry",
-          "source": "Al Jazeera"
+          "url": "https://www.wsj.com/livecoverage/iran-israel-us-strikes-2026/card/u-s-embassy-in-saudi-arabia-struck-by-drones-a5ZnNRhwscVXJInXFhSq?gaa_at=eafs&gaa_n=AWEtsqepZi8s1F7e3jcTF0JJGVTLxgziKA_iilXbgVIovL2vropfXe6oIk18&gaa_ts=69a682a0&gaa_sig=CE4dd1aad3aMODEt3HUv9qQvchXlqUb0LNcpvA-XDpOd-8L3XqpzKqbPwZV5GLP2Dd7B56OnPS9OZ88FxGwboA%3D%3D",
+          "source": "WSJ"
         },
         {
-          "title": "Trump's U-Turn On \"Boots On Ground\" After US Embassy In Riyadh Attacked",
+          "title": "Iran Israel News: Trump's U-Turn On \"Boots On Ground\" After US Embassy In Riyadh Attacked",
           "snippet": "",
           "url": "https://www.ndtv.com/world-news/iran-israel-news-trumps-u-turn-on-boots-on-ground-after-us-embassy-in-riyadh-attacked-11161379",
           "source": "NDTV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tucker carlson",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFJCCuEYtUIlnG5QvDSNYV1fLwrzCN7x74vNpVVL9fHOEYkz_LKqmisTtD00",
+      "pictureSource": "The Atlantic",
+      "relatedSearch": [
+        {
+          "title": "Trump Has Given America a Constitutional Dilemma",
+          "snippet": "",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/war-powers-resolution-trump-congress/686216/",
+          "source": "The Atlantic"
+        },
+        {
+          "title": "Josh Hawley says he’ll oppose Iran war powers resolution",
+          "snippet": "",
+          "url": "https://www.politico.com/live-updates/2026/03/02/congress/josh-hawley-iran-vote-00808149",
+          "source": "Politico"
+        },
+        {
+          "title": "Congress gears up for vote on Trump's war powers in Iran — after the battle began",
+          "snippet": "",
+          "url": "https://www.npr.org/2026/03/02/g-s1-112092/iran-war-powers-congress-trump",
+          "source": "NPR"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,19 +238,19 @@
       "title": "today sehri time karachi",
       "trafficCount": "20000+",
       "pubDate": "Mon, 2 Mar 2026 16:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy38P8mGvpWN8VIQ9XrgXr6DTIvkR17Ky9daz9-JnIvpLRJBr0cvFntNfEu2Y",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMtYsA_yKwXeBGVZBOFWZXe1YfHAe4ySlBH2hBw40AMcd91XaMKlA9BZzd9GE",
       "pictureSource": "Dawn",
       "relatedSearch": [
         {
-          "title": "Iftar, Sehri timings for Ramazan 9/10",
+          "title": "Iftar, Sehri timings for Ramazan 13/14",
           "snippet": "",
-          "url": "https://www.dawn.com/news/1976105",
+          "url": "https://www.dawn.com/news/1977806/iftar-sehri-timings-for-ramazan-1314",
           "source": "Dawn"
         },
         {
-          "title": "Karachi Sehri Time Today: 13th Ramadan (03 March 2026)",
+          "title": "Peshawar Sehri Time Today: 12th Ramadan (02 March 2026)",
           "snippet": "",
-          "url": "https://www.techjuice.pk/karachi-sehri-time-today-13th-ramadan-03-march-2026/",
+          "url": "https://www.techjuice.pk/peshawar-sehri-time-today-12th-ramadan-02-march-2026/",
           "source": "TechJuice"
         },
         {
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://www.pakistantoday.com.pk/2026/03/01/iftar-and-sehri-timings-announced-for-ramazan-11-and-12-in-major-cities",
           "source": "Pakistan Today"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "chi",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 2 Mar 2026 16:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP50iYICaS0cnJA8Xa0QLuYkViFAXDZqg4oQBD_YmbLQ-00XptFhrQp1BqTLY",
-      "pictureSource": "La Verità",
-      "relatedSearch": [
-        {
-          "title": "A Milano si indaga per disastro",
-          "snippet": "",
-          "url": "https://www.laverita.info/a-milano-si-indaga-per-disastro-2675538681.html",
-          "source": "La Verità"
-        },
-        {
-          "title": "Tram deragliato, Atm versa primo indennizzo di 5mila euro a chi è coinvolto Archivi",
-          "snippet": "",
-          "url": "https://www.espansionetv.it/tag/tram-deragliato-atm-versa-primo-indennizzo-di-5mila-euro-a-chi-coinvolto/",
-          "source": "Espansione TV"
-        },
-        {
-          "title": "Il soccorso ai passeggeri dopo il deragliamento. S. Mesa Paniagua",
-          "snippet": "",
-          "url": "https://www.milanotoday.it/foto/cronaca/passeggeri-tram-deragliato/",
-          "source": "MilanoToday"
         }
       ],
       "link": "https://imtaqin.id/"
