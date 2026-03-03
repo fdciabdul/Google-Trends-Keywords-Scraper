@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-03-03 08:39:49",
+  "lastUpdate": "2026-03-03 08:59:40",
   "data": [
     {
       "title": "libanon",
       "trafficCount": "100+",
       "pubDate": "Tue, 3 Mar 2026 00:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4MevwcXWl8Y_Zl-BVomunixJM7j2nDZ06msX89Gc-HZ7LSMAa3Mbx18PfDE0",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-4kd5LHgPPluxLlRE4KT80AaaMerFMfU4mscfTPr4lsnPk37aVS1aFg-vx8",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
-        {
-          "title": "Israeli attacks kill 31 in Lebanon, Iran strikes across region, and US warplanes crash in Kuwait",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
-          "source": "BBC"
-        },
         {
           "title": "‘They don’t care about Lebanon’: anger with Hezbollah boils as war returns to weary Beirut",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Hezbollah just restarted the fight that Israel was waiting to finish",
+          "title": "Iran Live Updates: Israel Strikes Tehran, Beirut in Widening Conflict",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/03/02/middleeast/hezbollah-israel-conflict-analysis-intl",
-          "source": "CNN"
+          "url": "https://www.wsj.com/livecoverage/iran-israel-us-strikes-2026",
+          "source": "WSJ"
+        },
+        {
+          "title": "Lebanese PM bans Hezbollah’s military activities after attack on Israel",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/3/2/lebanese-pm-nawaf-salam-announces-ban-on-hezbollah-military-activities",
+          "source": "Al Jazeera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,19 +33,13 @@
       "title": "pähkinärinne tulipalo",
       "trafficCount": "1000+",
       "pubDate": "Mon, 2 Mar 2026 23:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaPeSG_XIIudgp5H5rMon6-raEVBNOwwG60Mjx2jDsV4cWuijyQThEEL5wIuM",
-      "pictureSource": "Yle.fi",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQBqlLVOuqSzgttekhRXXMynfsmvpKuMQuzB2_eb7V8BgQi0pSWKP2muJE40",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
         {
-          "title": "Viisi kuollut palossa Vantaalla, poliisi epäilee rikosta",
+          "title": "Viisi kuoli tulipalossa Vantaalla – Tältä paikalla näyttää nyt",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20213274",
-          "source": "Yle.fi"
-        },
-        {
-          "title": "Kotitalo roihusi, Aki odotti pelastajia parvekkeellaan – ”En mä päässyt sieltä ollenkaan pois”",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/kotimaa/a/6ed9a11d-a3dc-46ca-8768-f7d1530e2dcb",
+          "url": "https://www.iltalehti.fi/kotimaa/a/bfd82d89-c2c2-4a9c-8397-869b7ee3a5ce",
           "source": "Iltalehti"
         },
         {
@@ -53,6 +47,12 @@
           "snippet": "",
           "url": "https://www.is.fi/kotimaa/art-2000011854807.html",
           "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Viisi kuollut palossa Vantaalla, poliisi epäilee rikosta",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20213274",
+          "source": "Yle.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +71,16 @@
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Hiihto | Hakola ja Vuorela mukana Lahdessa – viimeisen kerran?",
-          "snippet": "",
-          "url": "https://www.satakunnankansa.fi/urheilu/art-2000011854431.html",
-          "source": "Satakunnan Kansa"
-        },
-        {
           "title": "Perttu Hyvärinen hyvästelee maailmancup-ladut Lahdessa – tässä Suomen joukkueet Salpausselälle",
           "snippet": "",
           "url": "https://yle.fi/a/74-20213183",
           "source": "Yle.fi"
+        },
+        {
+          "title": "Iivo Niskanen: Paluu Salpausselällä",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/talviurheilu/a/dada8820-28af-4885-b619-319c0826b0cb",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "HS.fi"
         },
         {
-          "title": "Uutta tietoa pyöräliikkeen tulipalosta Helsingissä",
+          "title": "Uutta tietoa pyöräliikkeen tulipalosta Helsingissä – 17-vuotias otettu kiinni",
           "snippet": "",
           "url": "https://www.is.fi/kotimaa/art-2000011854600.html",
           "source": "Ilta-Sanomat"
         },
         {
-          "title": "Pyöräliike tuhoutui tulipalossa Helsingin Lauttasaaressa",
+          "title": "Helsingissä suuri rakennuspalo – Pyöräliike tuhoutui kokonaan",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20213268",
-          "source": "Yle.fi"
+          "url": "https://www.iltalehti.fi/kotimaa/a/8154763d-87cf-439b-b24b-4bd0638ec173",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "Ilta-Sanomat"
         },
         {
+          "title": "Alaikäisestä näyttelijästä tuli seksisymboli: Ei saanut lupaa rohkeaan rooliin – ”Menin silti”",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/tv-ja-leffat/a/51470955-3ad6-4c8d-900d-6cf1eb43c279",
+          "source": "Iltalehti"
+        },
+        {
           "title": "Tänään tv:ssä: Vuoden 1973 kotimainen elokuva nostatti valtavan kohun ja keräsi yli 700 000 katsojaa",
           "snippet": "",
           "url": "https://www.episodi.fi/uutiset/tanaan-tvssa-vuoden-1973-kotimainen-elokuva-nostatti-valtavan-kohun-ja-kerasi-yli-700-000-katsojaa/",
           "source": "Episodi.fi"
-        },
-        {
-          "title": "”Anna ihmisen ymmärtää kiimainen tuska maan” – Maa on syntinen laulu on yksi Teeman toive-elokuvista",
-          "snippet": "",
-          "url": "https://yle.fi/aihe/a/20-10009303",
-          "source": "Yle.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Aamulehti"
         },
         {
-          "title": "Rekka ajautui vastaantulevien kaistalle ja törmäsi henkilöautoon Orivedellä – Ysitie oli pitkään suljettuna",
+          "title": "Kolme ihmistä kuoli onnettomuudessa Ysitiellä, yksi loukkaantui vakavasti – rekka ajautui vastaantulevien kaistalle",
           "snippet": "",
-          "url": "https://yle.fi/a/74-20165593",
+          "url": "https://yle.fi/a/74-20212673",
           "source": "Yle.fi"
         },
         {
-          "title": "Lohduton näky Ysitiellä – Kolme kuoli kolarissa",
+          "title": "Oriveden liikenneonnettomuus, jatkotiedote",
           "snippet": "",
-          "url": "https://www.iltalehti.fi/kotimaa/a/78ba9a18-ea5b-4c32-bef2-acde00bc2aaa",
-          "source": "Iltalehti"
+          "url": "https://poliisi.fi/-/oriveden-liikenneonnettomuus-jatkotiedote",
+          "source": "Poliisi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,44 +211,44 @@
           "source": "People.com"
         },
         {
-          "title": "Spider-man: Brand New Day Stars Tom Holland And Zendaya Have Reportedly Gotten Married",
+          "title": "Law Roach Knew Exactly What He Was Doing on the SAG Actor Awards' Red Carpet",
           "snippet": "",
-          "url": "https://www.imdb.com/news/ni65731369/?ref_=ttnw_art_perm",
-          "source": "IMDb"
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/law-roach-knew-exactly-doing-082406920.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Zendaya’s Mom Claire Stoermer Reacts to Law Roach’s Claim That Her Daughter Married Tom Holland",
+          "title": "Where does Zendaya live? Exploring ‘The Drama’ actress’s lavish real estate portfolio spread across LA",
           "snippet": "",
-          "url": "https://www.aol.com/articles/zendaya-mom-claire-stoermer-reacts-050146642.html",
-          "source": "AOL.com"
+          "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/where-does-zendaya-live-exploring-the-drama-actresss-lavish-real-estate-portfolio-spread-across-la/articleshow/128959644.cms",
+          "source": "The Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "nashville predators",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 12:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9PpNlaU8F8IP61ZzbQpaasr_C0VflCi4D_IkyGJiaOwGAIhX419lm9hX76Ms",
       "pictureSource": "NHL.com",
       "relatedSearch": [
         {
-          "title": "Red Wings at Predators projected lineups",
+          "title": "PREVIEW: Blue Jackets host Predators to complete back-to-back",
           "snippet": "",
-          "url": "https://www.nhl.com/news/detroit-red-wings-nashville-predators-game-preview-march-2-2026",
+          "url": "https://www.nhl.com/bluejackets/news/blue-jackets-preview-nashville-hockey-is-for-everyone",
           "source": "NHL.com"
         },
         {
-          "title": "Red Wings find 5-on-5 scoring in big win to open crucial March: 5 thoughts",
+          "title": "Columbus Blue Jackets vs. Nashville Predators odds, tips and betting trends",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7082145/2026/03/02/detroit-red-wings-five-on-five-gibson-march-predators/",
-          "source": "The New York Times"
+          "url": "https://sportsbookwire.usatoday.com/story/sports/sports-betting/2026/03/03/columbus-vs-nashville-3-3-2026-hockey-odds-lines-how-to-watch/88956604007/",
+          "source": "Sportsbook Wire"
         },
         {
-          "title": "DeBrincat, Raymond each have goal, assist and Red Wings top Preds 4-2",
+          "title": "Blue Jackets vs. Predators: How to Watch, Odds, Picks & Predictions",
           "snippet": "",
-          "url": "https://www.macombdaily.com/2026/03/02/debrincat-raymond-each-have-goal-assist-and-red-wings-top-preds-4-2/",
-          "source": "Macomb Daily"
+          "url": "https://www.bleachernation.com/picks/2026/03/02/blue-jackets-vs-predators-how-to-watch-odds-picks-predictions-2/",
+          "source": "Bleacher Nation"
         }
       ],
       "link": "https://imtaqin.id/"
