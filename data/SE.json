@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-03-03 03:41:42",
+  "lastUpdate": "2026-03-03 04:25:30",
   "data": [
-    {
-      "title": "amazon",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 2 Mar 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnHe5HY-UWn1xbT0JywhufZqJCbZmo0S_ooTCIYRUBni0rDwzCg_xPdMwCFA",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Amazon says drone strikes damaged 3 facilities in UAE and Bahrain",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/02/amazon-says-drone-strikes-damaged-3-facilities-in-uae-and-bahrain.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Amazon's cloud unit reports fire after objects hit UAE data center",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Amazon closes warehouses and suspends deliveries across Abu Dhabi",
-          "snippet": "",
-          "url": "https://www.businessinsider.com/amazon-closes-abu-dhabi-operations-warehouses-uae-deliveries-suspended-2026-3",
-          "source": "Business Insider"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "tradera",
       "trafficCount": "200+",
@@ -58,57 +30,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "usa",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 2 Mar 2026 18:30:00 -0800",
-      "picture": "",
-      "pictureSource": "SVT Nyheter",
-      "relatedSearch": [
-        {
-          "title": "Attack mot USA:s ambassad i Riyad – Senaste nytt om Iran och konflikten med USA och Israel",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/utrikes/senaste-nytt-om-protesterna-i-iran?inlagg=4ab5e2f4a7df08c9bdfeaeb07da15b11",
-          "source": "SVT Nyheter"
-        },
-        {
-          "title": "Trump: ”Vi kan hålla på länge, vi har inte tråkigt”",
-          "snippet": "",
-          "url": "https://www.aftonbladet.se/nyheter/a/d4wajq/trumps-nya-hot-mot-iran-kan-satta-in-marktrupper",
-          "source": "Aftonbladet"
-        },
-        {
-          "title": "USA och Israel krigar mot Iran",
-          "snippet": "",
-          "url": "https://8sidor.se/varlden/2026/03/usa-och-israel-krigar-mot-iran/",
-          "source": "8 Sidor"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "flyg",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 17:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnhThz3LVbit1DViONVvpuH16_JOyhWv4PsWhUtZRxLLY8vrAVfVpOuobTbh8",
-      "pictureSource": "Expressen",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt3Irsy0_WaGIfMGB7l_4BAQRHY8lciI34Bb4ZCSvA7d5J9FLQgXq6BbvaguE",
+      "pictureSource": "SVT Nyheter",
       "relatedSearch": [
+        {
+          "title": "SVT-medarbetare fast i Bangkok: ”Nästan gråtfärdig”",
+          "snippet": "",
+          "url": "https://www.svt.se/nyheter/lokalt/skane/svt-medarbetare-fast-i-bangkok-nastan-gratfardig",
+          "source": "SVT Nyheter"
+        },
+        {
+          "title": "Nicole i Dubai – oroad för att inte komma hem",
+          "snippet": "",
+          "url": "https://tv.aftonbladet.se/video/397012/nicole-i-dubai-oroad-foer-att-inte-komma-hem",
+          "source": "Aftonbladet TV"
+        },
         {
           "title": "Resebolagen om de strandade svenskarna – en stor utmaning",
           "snippet": "",
           "url": "https://www.expressen.se/nyheter/varlden/vings-varning-i-kaoset-det-kommer-att-eskalera/",
           "source": "Expressen"
-        },
-        {
-          "title": "Inga planerade flyg för strandade svenskar",
-          "snippet": "",
-          "url": "https://www.aftonbladet.se/minekonomi/a/bOgwqe/inga-planerade-flyg-for-strandade-svenskar",
-          "source": "Aftonbladet"
-        },
-        {
-          "title": "SAS ställer in flyg till 16 mars – Senaste nytt om Iran och konflikten med USA och Israel",
-          "snippet": "",
-          "url": "https://www.svt.se/nyheter/utrikes/senaste-nytt-om-protesterna-i-iran?inlagg=e20d80a6b0498b0f001925dec3f9840f",
-          "source": "SVT Nyheter"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +99,16 @@
           "source": "The Times of Israel"
         },
         {
+          "title": "FACT CHECK: Benjamin Netanyahu assassinated in Iranian strike? Truth behind massive claim",
+          "snippet": "",
+          "url": "https://www.wionews.com/photos/fact-check-benjamin-netanyahu-assassinated-in-iranian-strike-truth-behind-massive-claim-1772420690844",
+          "source": "WION"
+        },
+        {
           "title": "Netanyahu's Office Targeted In \"Surprise Missile Attacks,\" Claims Iran",
           "snippet": "",
           "url": "https://www.ndtv.com/world-news/iran-israel-war-netanyahus-office-targeted-in-surprise-missile-attacks-iran-revolutionary-guards-11158402",
           "source": "NDTV"
-        },
-        {
-          "title": "Iranian Revolutionary Guard announces targeting 500 U.S.- Israel-linked sites",
-          "snippet": "",
-          "url": "https://hawarnews.com/en/iranian-revolutionary-guard-announces-targeting-500-us-israel-linked-sites",
-          "source": "ANHA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +117,26 @@
       "title": "kick",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 14:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDFdkH_haOBFeqpLfAvNyazuHpANoAhz490xHS6WrM7YoDtZ02GL_QiGidTsE",
-      "pictureSource": "KSWO 7News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROM4eQi8ZtZmmgt8upqkIRTPJkgM7tmqU4YafgiG_T2OdVA6papXL6OwKT3cE",
+      "pictureSource": "Voice of Nigeria",
       "relatedSearch": [
         {
-          "title": "Annual Red River Career Expo set to kick off at Cameron University soon",
+          "title": "Lawmakers Move To Regulate Fintech Industries",
           "snippet": "",
-          "url": "https://www.kswo.com/2026/03/03/annual-red-river-career-expo-set-kick-off-cameron-university-soon/",
-          "source": "KSWO 7News"
+          "url": "https://von.gov.ng/lawmakers-move-to-regulate-fintech-industries/",
+          "source": "Voice of Nigeria"
         },
         {
-          "title": "Job seekers invited to CU’s Red River Career Expo",
+          "title": "Public hearing on Bill for an Act to provide for establishment of Nigerian Fintech Regulatory Commission ,related matters held in Abuja",
           "snippet": "",
-          "url": "https://www.duncanbanner.com/community/job-seekers-invited-to-cu-s-red-river-career-expo/article_4949e937-f138-405b-8df3-f2e4660bd635.html",
-          "source": "Duncan Banner"
+          "url": "https://championnews.com.ng/2026/03/02/public-hearing-on-bill-for-an-act-to-provide-for-establishment-of-nigerian-fintech-regulatory-commission-related-matters-held-in-abuja/",
+          "source": "Champion Newspapers LTD"
         },
         {
-          "title": "Employers invited to register for Red River Career Expo",
+          "title": "Reps move to establish fintech regulatory commission",
           "snippet": "",
-          "url": "https://www.duncanbanner.com/community/employers-invited-to-register-for-red-river-career-expo/article_08ecdafb-4fe2-4696-bd32-e29c659bdf24.html",
-          "source": "Duncan Banner"
+          "url": "https://guardian.ng/news/reps-move-to-establish-fintech-regulatory-commission/",
+          "source": "The Guardian Nigeria News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +155,44 @@
           "source": "Kpler"
         },
         {
+          "title": "The Strait of Hormuz crisis explained: What it means for global shipping",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/03/02/strait-of-hormuz-crisis-us-iran-israel-war-shipping-trade-oil.html",
+          "source": "CNBC"
+        },
+        {
           "title": "Iran-U.S. war chokes key shipping lane and threatens global cargo industry",
           "snippet": "",
           "url": "https://www.nbcnews.com/business/economy/iran-us-war-strait-hormuz-shipping-cargo-oil-rcna261410",
           "source": "NBC News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "rouzbeh parsi",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 2 Mar 2026 13:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX9wVALfM2t-BOHWnA1PcD5By6iTcuAEascb51dklgdzk7TLPwkLnQh1-8rdg",
+      "pictureSource": "Aftonbladet",
+      "relatedSearch": [
+        {
+          "title": "Nya uppgifter: Så kunde de döda Khamenei",
+          "snippet": "",
+          "url": "https://www.aftonbladet.se/nyheter/a/pBQbEo/nya-uppgifter-sa-kunde-de-doda-khamenei",
+          "source": "Aftonbladet"
         },
         {
-          "title": "Shipping through the Strait of Hormuz has come to a halt, war insurance almost impossible: Analyst",
+          "title": "SAS ställer in flyg till 16 mars – Israel och USA angriper Iran",
           "snippet": "",
-          "url": "https://www.cnbc.com/video/2026/03/03/shipping-through-hormuz-strait-halted-war-insurance-nearly-impossible.html",
-          "source": "CNBC"
+          "url": "https://www.svt.se/nyheter/utrikes/israel-har-attackerat-iran-skriver-reuters?inlagg=e20d80a6b0498b0f001925dec3f9840f",
+          "source": "SVT Nyheter"
+        },
+        {
+          "title": "Direkt – Krisen i Mellanöstern – Rutte: Inga planer på att Nato dras in",
+          "snippet": "",
+          "url": "https://www.dn.se/direkt/mellanostern/2026-03-02/rutte-inga-planer-pa-att-nato-dras-in/",
+          "source": "Dagens Nyheter"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,19 +201,19 @@
       "title": "real madrid",
       "trafficCount": "2000+",
       "pubDate": "Mon, 2 Mar 2026 12:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW6MMdC_nysuNIPwsYIfTpbS6qRe8-ncItq9_wYyG8xrhXQMO0XzJn-_37JnY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTteqqFQWsAiSpJvlpKP_-3CB8lYWpxlXpBYCzhNmYUglXgy_kQz-i2gIWrO2g",
       "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "El Madrid se baja de la Liga",
+          "title": "Real Madrid 0-1 Getafe: resumen, goles y resultado",
           "snippet": "",
-          "url": "https://as.com/futbol/primera/el-madrid-se-baja-de-la-liga-f202603-n/",
+          "url": "https://as.com/futbol/primera/real-madrid-getafe-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202603-d/",
           "source": "Diario AS"
         },
         {
-          "title": "Uno a uno del Real Madrid ante el Getafe: Una caída sin precedentes",
+          "title": "No hace falta ni hablar de media Liga perdida...",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/real-madrid/2026/03/02/real-madrid-getafe-valoracion-comentarios.html",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/03/02/falta-hablar-media-liga-perdida.html",
           "source": "MARCA"
         },
         {
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://hockeysverige.se/nhl/vassast-i-strafflaggningen-anaheim-ducks-vann-mot-calgary/",
           "source": "hockeysverige.se"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الريال ضد خيتافي",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 2 Mar 2026 11:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIAXRIRTZtd8gTa44XSRq61SMyJgueEzRXYao2xZySe5wC5F-P_Wxw6saStg",
+      "pictureSource": "Kooora",
+      "relatedSearch": [
+        {
+          "title": "فيديو: خيتافي يقهر ريال مدريد في عقر داره.. ويمنح برشلونة صدارة مريحة",
+          "snippet": "",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AE%D9%8A%D8%AA%D8%A7%D9%81%D9%8A-%D9%8A%D9%82%D9%87%D8%B1-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%81%D9%8A-%D8%B9%D9%82%D8%B1-%D8%AF%D8%A7%D8%B1%D9%87--%D9%88%D9%8A%D9%85%D9%86%D8%AD-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%B1%D9%8A%D8%AD%D8%A9/blta328b4633dbeb9f6",
+          "source": "Kooora"
+        },
+        {
+          "title": "هزيمة ريال مدريد على أرضه في ملعب البرنابيو تجعله متأخراً في سباق اللقب.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ar/guc-nga-san-nha-bernabeu-real-madrid-hut-hoi-cuoc-dua-vo-dich",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "عاجل .. الكشف عن كلمات ماستانتونو للحكم التي تسببت في طرده",
+          "snippet": "",
+          "url": "https://hihi2.com/2026/03/03/p3674568.html",
+          "source": "هاي كورة"
         }
       ],
       "link": "https://imtaqin.id/"
