@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-03 07:12:35",
+  "lastUpdate": "2026-03-03 07:31:35",
   "data": [
     {
       "title": "dnevni avaz",
@@ -11,29 +11,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "vijesti",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Mar 2026 22:20:00 -0800",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "kurir",
       "trafficCount": "200+",
       "pubDate": "Mon, 2 Mar 2026 22:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65Yn_hF5dZhSrzf1LPmmfv8VDV_j1FN7vwOsOjDOaGV0_7PB4iGusZYRY56w",
-      "pictureSource": "Blic",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrn2LPEsXjWwT7Kmo-bpPZFeT45vJaWxrPCw8jrke5rlteDb5a-d-jxy-DL7A",
+      "pictureSource": "Telegraf.rs",
       "relatedSearch": [
         {
-          "title": "Sleteo avion iz Dubaija u Beograd: Saobraćaj još nije potpuno normalizovan",
+          "title": "Ameri posle Jute napali Jokića na društvenim mrežama, Srbin poručio: \"Nisam osećao da je bitno...\"",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/beograd/sleteo-avion-iz-dubaija-u-beograd-saobracaj-jos-nije-potpuno-normalizovan/fhsdnbh",
-          "source": "Blic"
+          "url": "https://www.telegraf.rs/sport/kosarka/4281893-ameri-posle-jute-napali-jokica-na-drustvenim-mrezama-srbin-posle-meca-porucio-nisam-osecao-da-je-bitno",
+          "source": "Telegraf.rs"
         },
         {
-          "title": "Jedno mesto neočekivano pošteđeno: Bogataši iz zaliva glavom bez obzira beže tamo",
+          "title": "Jokić se \"vratio\" sa šest penala, Denver slavio",
           "snippet": "",
-          "url": "https://www.b92.net/biz/svet/vesti/212262/jedno-mesto-neocekivano-postedjeno-bogatasi-iz-zaliva-glavom-bez-obzira-beze-tamo/vest",
-          "source": "B92"
-        },
-        {
-          "title": "Odložen prvi planirani let iz Dubaija za Beograd",
-          "snippet": "",
-          "url": "https://www.nezavisne.com/novosti/svijet/Odlozen-prvi-planirani-let-iz-Dubaija-za-Beograd/953848",
+          "url": "https://www.nezavisne.com/sport/kosarka/jokic-penali-denver-juta/953857",
           "source": "Nezavisne novine"
+        },
+        {
+          "title": "Komentari na vest Jokić gledao Marijevih 45 poena i grejao ruke za ključne penale, Denver se spasio čelendžom",
+          "snippet": "",
+          "url": "https://www.mozzartsport.com/kosarka/vesti/jokic-gledao-marijevih-45-poena-i-grejao-ruke-za-kljucne-penale-denver-se-spasio-celendzom/537573/komentari",
+          "source": "Mozzart Sport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -51,26 +60,26 @@
       "title": "blic",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 22:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3cqkvUjFfKSE3IOTWY_Gljns77dX_RK3rFzSOA53cYJHL8B_kS-aXW17o6JA",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSUGuGWNn-d8D0eGTDydYZAEwRybO44pM5-UAeVpI1oNIl4NAHcX1tdNVuMo",
       "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Iran, Amerika i Izrael u ratu do istrebljenja: U toku hitna evakuacija, sprema se krvoproliće",
+          "title": "Rat iz Irana se nekontrolisano širi: Broje se mrtvi, gori Dubai, EU zemlja na udaru",
           "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/iran-amerika-i-izrael-u-ratu-do-istrebljenja-u-toku-hitna-evakuacija-sprema-se/l335mnd",
+          "url": "https://www.blic.rs/vesti/svet/rat-iz-irana-se-nekontrolisano-siri-broje-se-mrtvi-gori-dubai-eu-zemlja-na-udaru/hde662p",
           "source": "Blic"
-        },
-        {
-          "title": "Izbio je \"treći svetski rat lajt\"",
-          "snippet": "",
-          "url": "https://www.b92.net/info/svet/212202/izbio-je-treci-svetski-rat-lajt/vest",
-          "source": "B92"
         },
         {
           "title": "BLOG Revolucionarna garda: Ormuski moreuz zatvoren, Iran će zapaliti svaki brod koji pokuša da prođe",
           "snippet": "",
           "url": "https://www.vijesti.me/svijet/globus/798182/blog-revolucionarna-garda-ormuski-moreuz-zatvoren-iran-ce-zapaliti-svaki-brod-koji-pokusa-da-prodje",
           "source": "Vijesti.me"
+        },
+        {
+          "title": "Izbio je \"treći svetski rat lajt\"",
+          "snippet": "",
+          "url": "https://www.b92.net/info/svet/212202/izbio-je-treci-svetski-rat-lajt/vest",
+          "source": "B92"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -79,42 +88,23 @@
       "title": "klix ba",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 21:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa7g3LLBYXOO4Dggt9oDhh2WDbHfumbn5q3gyfj2MRTkgFIdoODN1wRh_PmPY",
-      "pictureSource": "Portal.hr",
-      "relatedSearch": [
-        {
-          "title": "Berlin, Pariz i London spremni braniti svoje interese protiv Irana",
-          "snippet": "",
-          "url": "https://www.portal.hr/en/novosti/hr/105697-berlin-pariz-i-london-spremni-braniti-svoje-interese-protiv-irana",
-          "source": "Portal.hr"
-        },
-        {
-          "title": "U iranskim protunapadima mrtvi u Izraelu, Emiratima i Kuvajtu",
-          "snippet": "",
-          "url": "https://www.portal.hr/en/novosti/hr/105688-u-iranskim-protunapadima-mrtvi-u-izraelu-emiratima-i-kuvajtu",
-          "source": "Portal.hr"
-        },
-        {
-          "title": "Netanyahu and Trump to Iranians: Take power into your own hands after the operation",
-          "snippet": "",
-          "url": "https://www.portal.hr/en/novosti/hr/105637-netanyahu-i-trump-irancima-nakon-operacije-preuzmite-vlast-u-svoje-ruke",
-          "source": "Portal.hr"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "slobodna bosna",
       "trafficCount": "100+",
       "pubDate": "Mon, 2 Mar 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnAeq8_Y6HG780o4KY5pVx-wfEHwafJeWa4AMea0v7R7VaOjntHpLLNrftDY4",
-      "pictureSource": "slobodna-bosna.ba",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgF4rFhbu6wDZvQGe2eAfZzu3dJ1r0Naig1Da6WCT7FzlYWBWiNQljS0QLFag",
+      "pictureSource": "Radio Sarajevo",
       "relatedSearch": [
         {
-          "title": "'SVI ĆE BITI IZDAJNICI...': Ćamil Duraković uzburkao duhove, pogledajte šta je rekao o Naseru Oriću...",
+          "title": "Duraković upozorava: \"U RS-u se ozbiljne stvari ispod radaru dešavaju; bit ću kandidat na izborima\"",
           "snippet": "",
-          "url": "https://www.slobodna-bosna.ba/vijest/469902/svi_ce_biti_izdajnici_camil_durakovic_uzburkao_duhove_pogledajte_sta_je_rekao_o_naseru_oricu.html",
-          "source": "slobodna-bosna.ba"
+          "url": "https://radiosarajevo.ba/vijesti/bosna-i-hercegovina/durakovic-upozorava-ozbiljne-stvari-u-rs-u-desavaju-se/627810",
+          "source": "Radio Sarajevo"
         },
         {
           "title": "Amerikanci pozvani da napuste Bliski istok što je prije moguće koristeći sva dostupna sredstva",
@@ -192,34 +182,6 @@
           "snippet": "",
           "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/104708/player-ratings-real-madrid-0-1-getafe",
           "source": "Managing Madrid"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gil vicente – benfica",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 2 Mar 2026 12:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYVDB2sPnJ-plzHmIcKccu7sLACkkJTlimDnLhsFVLgkEpG9-a52IYgwrTgFM",
-      "pictureSource": "SAPO",
-      "relatedSearch": [
-        {
-          "title": "Héctor Hernández antecipa-se a Otamendi e empata o Gil Vicente-Benfica. Ora veja",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/hector-hernandez-antecipa-se-a-otamendi-e-empata-o-gil-vicente-benfica-ora-veja-69a60409983f234be82d152b",
-          "source": "SAPO"
-        },
-        {
-          "title": "César Peixoto: «É muito prematuro para assumir um lugar europeu»",
-          "snippet": "",
-          "url": "https://maisfutebol.iol.pt/gil-vicente/cesar-peixoto/cesar-peixoto-e-muito-prematuro-para-assumir-um-lugar-europeu",
-          "source": "Maisfutebol"
-        },
-        {
-          "title": "Schjelderup antecipa Clássico frente ao FC Porto: \"Estamos com fome...\"",
-          "snippet": "",
-          "url": "https://www.noticiasaominuto.com/desporto/2948439/schjelderup-antecipa-classico-frente-ao-fc-porto-estamos-com-fome",
-          "source": "Notícias ao Minuto"
         }
       ],
       "link": "https://imtaqin.id/"
