@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-03-04 11:45:11",
+  "lastUpdate": "2026-03-04 11:55:52",
   "data": [
     {
       "title": "alpha tv",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Wed, 4 Mar 2026 01:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Ucg6pdfaBGE2uVVJ-27m2hIqvRcMd3EJ-MbSlTitj561zJhzvlCl9AmE1pw",
-      "pictureSource": "ΡΙΚ News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyXwd-IpLIFHLJbAsTxOBWWBLtP0fMAcPmEN7CUq4MNj8oTjr75Y7a0TGUUw",
+      "pictureSource": "AlphaNews",
       "relatedSearch": [
+        {
+          "title": "Βρήκαν 27χρονο κρυμμένο στο όχημα 57χρονου στο οδόφραγμα, τον πλήρωσε για τη μεταφορά",
+          "snippet": "",
+          "url": "https://www.alphanews.live/cyprus/syllipseis-sto-odofragma-vrikan-27chrono-krymmeno-sto-ochima-57chronou-ton-plirose-gia-ti-metafora/",
+          "source": "AlphaNews"
+        },
         {
           "title": "Νέος συναγερμός μετά από πληροφορία για ύποπτο αντικείμενο με κατεύθυνση την Κύπρο - Απογειώθηκαν ελληνικά F-16",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://m.24sports.com.cy/gr/news/nea/koinonia/ti-simainei-to-kleisimo-fir",
           "source": "24Sports & News"
-        },
-        {
-          "title": "Διευκρινίσεις για τον εναέριο χώρο. Γιατί η μία πτήση επέστρεψε Αθήνα",
-          "snippet": "",
-          "url": "https://cyprustimes.com/koinonia/diefkriniseis-gia-ton-enaerio-choro-giati-i-mia-ptisi-epestrepse-athina/",
-          "source": "Cyprus Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,10 +43,10 @@
           "source": "Knews, Kathimerini"
         },
         {
-          "title": "Paphos airport records most cancellations since start of war",
+          "title": "Paphos airport records highest number of cancellations since outbreak of Iran conflict",
           "snippet": "",
-          "url": "https://in-cyprus.philenews.com/local/paphos-airport-records-most-cancellations-since-start-of-war/",
-          "source": "Philenews"
+          "url": "https://cyprus-mail.com/2026/03/04/paphos-airport-records-highest-number-of-cancellations-since-outbreak-of-iran-conflict",
+          "source": "Cyprus Mail"
         },
         {
           "title": "UK travel advisory says Cyprus remains ‘safe’ but warns of knock-on delays from regional conflict",
@@ -105,10 +105,38 @@
           "source": "Philenews"
         },
         {
-          "title": "Σρι Λάνκα: Υποβρύχιο χτύπησε ιρανική φρεγάτα – Τουλάχιστον 100 αγνοούμενοι",
+          "title": "Εγκλωβισμένοι στην Ταϊλάνδη φοιτητές από την Πάφο–Προσπάθειες επαναπατρισμού",
           "snippet": "",
-          "url": "https://nomisma.com.cy/world/%CF%83%CF%81%CE%B9-%CE%BB%CE%AC%CE%BD%CE%BA%CE%B1-%CF%85%CF%80%CE%BF%CE%B2%CF%81%CF%8D%CF%87%CE%B9%CE%BF-%CF%87%CF%84%CF%8D%CF%80%CE%B7%CF%83%CE%B5-%CE%B9%CF%81%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE-%CF%86/",
-          "source": "nomisma.com.cy"
+          "url": "https://www.sigmalive.com/news/all/1305587/eghklovismenoi-stin-tailandi-foitites-apo-tin-pafo-prospatheies-epanapatrismou",
+          "source": "Sigmalive"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "reporter cy",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 3 Mar 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79Lw4BsZMYocXioIqWv8gWYLQnvlD3DAks5PGLtjRRGJ_CmSOGkY2TpAtWsU",
+      "pictureSource": "Cyprus Times",
+      "relatedSearch": [
+        {
+          "title": "Διευκρινίσεις για τον εναέριο χώρο. Γιατί η μία πτήση επέστρεψε Αθήνα",
+          "snippet": "",
+          "url": "https://cyprustimes.com/koinonia/diefkriniseis-gia-ton-enaerio-choro-giati-i-mia-ptisi-epestrepse-athina/",
+          "source": "Cyprus Times"
+        },
+        {
+          "title": "Κ. Λετυμπιώτης: Δεν έκλεισε ούτε μια στιγμή ο εναέριος χώρος της Κύπρου",
+          "snippet": "",
+          "url": "https://economytoday.sigmalive.com/k.-letympiotis-den-ekleise-oyte-mia-stigmi-o-enaerios-xoros-tis-kyproy/",
+          "source": "Economy Today"
+        },
+        {
+          "title": "LIVE: Πληροφορίες αναφέρουν ότι ελληνικά F-16 αναχαίτισαν drones στον εναέριο χώρο του Λιβάνου – Στα υπόγεια προληπτικά το προσωπικό της πρεσβείας των ΗΠΑ – Επέστρεψε στην Αθήνα πτήση προς Λάρνακα – Ανοιχτός ο εναέριος χώρος",
+          "snippet": "",
+          "url": "https://www.philenews.com/kipros/koinonia/article/1689674/live-se-epifilaki-i-arches-me-afximena-metra-asfalias-ellada-gallia-ke-vretania-stelnoun-dinamis-aeraminas/",
+          "source": "Philenews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +201,15 @@
       "title": "barcelona",
       "trafficCount": "1000+",
       "pubDate": "Tue, 3 Mar 2026 11:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpue3INxwNc4la0iGpux1E7RzT9yX8DUtba-T_lX_jdB9BuMdUYy0LCStfFbY",
-      "pictureSource": "Yahoo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmX03-AvpzGYmifPXPKcjbdvinTHmgV1tqdCkpHwdG8PZPgVnLWS873kCE2e4",
+      "pictureSource": "FotMob",
       "relatedSearch": [
+        {
+          "title": "“Esperamos la final con ilusión”: Simeone devuelve al Atlético a una final de Copa del Rey 13 años después",
+          "snippet": "",
+          "url": "https://www.fotmob.com/es/embed/news/01kjtz8nk6bt/esperamos-la-final-con-ilusion-simeone-devuelve-al-atletico-una-final-de-copa-del-rey-13-anos-despues",
+          "source": "FotMob"
+        },
         {
           "title": "La eliminación copera del Barça en nueve apuntes",
           "snippet": "",
@@ -187,12 +221,6 @@
           "snippet": "",
           "url": "https://onefootball.com/es/noticias/cuasimilagro-negreiro-42501969",
           "source": "OneFootball"
-        },
-        {
-          "title": "Lamine Yamal lo armó y Marc Bernal adelantó a Barcelona ante Atlético Madrid",
-          "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/16383945/video-lamine-yamal-lo-armo-y-marc-bernal-adelanto-a-barcelona-ante-atletico-madrid-copa-del-rey",
-          "source": "ESPN Deportes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://beinsports.com.tr/haber/nuri-sahin-zirvedeki-takimlarin-arasina-girmek-istiyorsak",
           "source": "beinsports.com.tr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hms dragon",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 3 Mar 2026 09:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQ5RRODaPVBPGjRjVyGhFnII3mhpe0y39gDLtJH-qiUsG_hLmcqBK0ZGUsTE",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Israel pounds Iran and Lebanon; Trump weighs military cover for Hormuz tankers - as it happened",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/iran-live-israel-strikes-hezbollah-uk-base-hit-cyprus-conflict-widens-2026-03-02/",
-          "source": "Reuters"
-        },
-        {
-          "title": "‘We never imagined this’: the Cypriot village on edge after RAF Akrotiri drone strike",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/mar/04/cypriot-village-on-edge-after-raf-akrotiri-drone-strike",
-          "source": "The Guardian"
-        },
-        {
-          "title": "European allies rush to bolster Cyprus defences after drones target British base",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c4g74npdwnyo",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
