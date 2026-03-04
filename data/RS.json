@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-04 05:55:47",
+  "lastUpdate": "2026-03-04 06:15:20",
   "data": [
     {
       "title": "rhmz",
@@ -15,16 +15,16 @@
           "source": "Blic"
         },
         {
+          "title": "U Srbiji danas preko dana sunčano, krajem dana kiša, temperatura do 20 stepeni",
+          "snippet": "",
+          "url": "https://www.tanjug.rs/srbija/drustvo/234590/u-srbiji-danas-preko-dana-suncano-krajem-dana-kisa-temperatura-do-20-stepeni/vest",
+          "source": "tanjug.rs"
+        },
+        {
           "title": "Svi komentari - U Srbiji pravo proleće: Temperatura do 19 stepeni",
           "snippet": "",
           "url": "https://www.b92.net/svi-komentari/212438",
           "source": "B92"
-        },
-        {
-          "title": "Vreme danas sunčano prepodne, potom naoblačenje sa kišom",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/drustvo/vreme-danas-suncano-prepodne-potom-naoblacenje-sa-kisom/",
-          "source": "Dnevni list Danas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +33,9 @@
       "title": "loto",
       "trafficCount": "500+",
       "pubDate": "Tue, 3 Mar 2026 20:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_mcDPD8czdI-iPREANI6m0DEs0h982rMl4BibVb_1NdQQHJ2kPR3t6BwIEdg",
-      "pictureSource": "Dnevnik.rs",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRohfJxH18JWtkzVg4yhn5H5hJPIPHBD7QvGs4o8HsIStdvQfN0-8RYtSfiF-g",
+      "pictureSource": "Naslovi.net",
       "relatedSearch": [
-        {
-          "title": "ШЕСТИЦА ОБРАДОВАЛА ПЕТ ИГРАЧА Ово су извучени ЛОТО бројеви СЕДМИЦА СЕ И ДАЉЕ ЧЕКА",
-          "snippet": "",
-          "url": "https://www.dnevnik.rs/vesti/drustvo/sestoca-obradovala-pet-igraca-ovo-su-izvuceni-loto-brojevi-sedmica-dalje-ceka-2026-03-03",
-          "source": "Dnevnik.rs"
-        },
         {
           "title": "Ovo su izvučeni loto brojevi večeras: Nema dobitnika, 6 igrača osvojilo \"šesticu\"",
           "snippet": "",
@@ -53,34 +47,12 @@
           "snippet": "",
           "url": "https://www.bl-portal.com/zanimljivosti/bubanj-izbacio-krivi-broj-nista-od-miliona-na-lutriji-osvojili-utjesnu-nagradu/",
           "source": "BL Portal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "b92",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 3 Mar 2026 20:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7Yu_jajGCkABBroECs8Tky4JOy-AqyuEugaO93IlGwyP0grAqNAE-RF-_9I",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "IZABRAN NOVI VRHOVNI VOĐA IRANA! Evo ko će zameniti Alija Hamneija",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/svet/izabran-novi-vrhovni-vodja-irana-evo-ko-ce-zameniti-alija-hamneija/lb8qgl9",
-          "source": "Blic"
         },
         {
-          "title": "Mediji: Iran izabrao novog vrhovnog vođu",
+          "title": "Loto: Milion stiže u Bujanovac",
           "snippet": "",
-          "url": "https://n1info.rs/svet/modztaba-hameni-novi-vrhovni-vodja-iran/",
-          "source": "N1"
-        },
-        {
-          "title": "Pali su u ruke Revolucionarne garde, a oni se neće povući",
-          "snippet": "",
-          "url": "https://www.b92.net/info/svet/212504/pali-su-u-ruke-revolucionarne-garde-a-oni-se-nece-povuci/vest",
-          "source": "B92"
+          "url": "https://bujanovacke.co.rs/2026/03/02/loto-milion-stize-u-bujanovac/",
+          "source": "Bujanovačke"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,16 +86,44 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "b92",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 3 Mar 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7Yu_jajGCkABBroECs8Tky4JOy-AqyuEugaO93IlGwyP0grAqNAE-RF-_9I",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "IZABRAN NOVI VRHOVNI VOĐA IRANA! Evo ko će zameniti Alija Hamneija",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/izabran-novi-vrhovni-vodja-irana-evo-ko-ce-zameniti-alija-hamneija/lb8qgl9",
+          "source": "Blic"
+        },
+        {
+          "title": "Mediji: Iran izabrao novog vrhovnog vođu",
+          "snippet": "",
+          "url": "https://n1info.rs/svet/modztaba-hameni-novi-vrhovni-vodja-iran/",
+          "source": "N1"
+        },
+        {
+          "title": "Pali su u ruke Revolucionarne garde, a oni se neće povući",
+          "snippet": "",
+          "url": "https://www.b92.net/info/svet/212504/pali-su-u-ruke-revolucionarne-garde-a-oni-se-nece-povuci/vest",
+          "source": "B92"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "комо – интер",
       "trafficCount": "500+",
       "pubDate": "Tue, 3 Mar 2026 15:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROY_Vp67h2kj3U2qkGAPfBq9uwoUcfUne8DOoaYWCndgBZ_KS8_MtcRjir0jg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzG6zem8AY4718zkOG1yN57ThlsxwJScz587cEYMIGQ3Uvcv3iuHuBfTD6jZY",
       "pictureSource": "Sportbox",
       "relatedSearch": [
         {
-          "title": "Корнеев считает, что «Комо» может выйти в финал Кубка Италии",
+          "title": "«Получились итальянские шахматы». Никитин — о кубковом матче «Комо» — «Интер»",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Italiya/spbnews_NI2301027_Kornejev_schitajet_chto_Komo_mozhet_vyjti_v_final_Kubka_Italii",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Italiya/Kubok_Italii/spbnews_NI2301026_Poluchilis_italjanskije_shahmaty_Nikitin__o_kubkovom_matche_Komo__Inter",
           "source": "Sportbox"
         },
         {
@@ -155,16 +155,16 @@
           "source": "WCNC"
         },
         {
-          "title": "Is Facebook down? Outage fixed afternoon of problems",
-          "snippet": "",
-          "url": "https://www.usatoday.com/story/tech/2026/03/03/is-facebook-down-outage-reported/88969254007/",
-          "source": "USA Today"
-        },
-        {
           "title": "Facebook largely back up after brief outage in the US, Downdetector shows",
           "snippet": "",
           "url": "https://www.reuters.com/business/facebook-down-thousands-users-us-downdetector-shows-2026-03-03/",
           "source": "Reuters"
+        },
+        {
+          "title": "Is Facebook down? Outage fixed afternoon of problems",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/tech/2026/03/03/is-facebook-down-outage-reported/88969254007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "Blic"
         },
         {
-          "title": "Na licu mesta poginule majka i ćerka, sinu se bore za život: Užasna tragedija pogodila Sjenicu",
-          "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/hronika/4282566-na-licu-mesta-poginule-majka-i-cerka-sinu-se-bore-za-zivot-uzasna-tragedija-pogodila-sjenicu",
-          "source": "Telegraf.rs"
-        },
-        {
           "title": "Аутомобил налетео на пешаке у Сјеници – погинуле мајка и ћерка, син тешко повређен",
           "snippet": "",
           "url": "https://rts.rs/vesti/hronika/5898663/saobracajna-nesreca-sjenica.html",
           "source": "Радио Телевизија Србије"
+        },
+        {
+          "title": "Na licu mesta poginule majka i ćerka, sinu se bore za život: Užasna tragedija pogodila Sjenicu",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/vesti/hronika/4282566-na-licu-mesta-poginule-majka-i-cerka-sinu-se-bore-za-zivot-uzasna-tragedija-pogodila-sjenicu",
+          "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "barcelona vs atlético madrid",
       "trafficCount": "500+",
       "pubDate": "Tue, 3 Mar 2026 13:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVM5NeIsgzNOL4lPpa0VKAYiUCnpBYF3a6jIc1zBv5RSAgmpxieXwi_8ckkyI",
-      "pictureSource": "Sports Illustrated",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbOTvGv6FNy7zi6oeAkSZRi_BhodA88O6-MVCb_iL8cPx-qXSp_rLLf-9A4Pw",
+      "pictureSource": "FOX Deportes",
       "relatedSearch": [
         {
-          "title": "“Esperamos la final con ilusión”: Simeone devuelve al Atlético a una final de Copa del Rey 13 años después",
+          "title": "Barcelona ganó, pero Atlético avanzó a la final de la Copa del Rey",
           "snippet": "",
-          "url": "https://www.si.com/es-us/futbol/esperamos-la-final-con-ilusion-simeone-devuelve-al-atletico-a-una-final-de-copa-del-rey-13-anos-despues",
-          "source": "Sports Illustrated"
+          "url": "https://www.foxdeportes.com/copa-del-rey/nota/barcelona-gano-pero-atletico-avanzo-a-la-final-de-la-copa-del-rey",
+          "source": "FOX Deportes"
+        },
+        {
+          "title": "Simeone: \"Cuando íbamos 3-0, dije 'esto es el Atleti'\"",
+          "snippet": "",
+          "url": "https://onefootball.com/de/news/simeone-cuando-ibamos-3-0-dije-esto-es-el-atleti-42500563",
+          "source": "OneFootball"
         },
         {
           "title": "Raphinha: \"Estoy muy orgulloso; lo hemos dado todo desde el inicio\"",
           "snippet": "",
           "url": "https://es-us.noticias.yahoo.com/deportes/raphinha-orgulloso-inicio-222656318.html",
           "source": "Yahoo"
-        },
-        {
-          "title": "Deco: \"Podemos soñar con cosas importantes con este espíritu\"",
-          "snippet": "",
-          "url": "https://www.infobae.com/america/agencias/2026/03/03/deco-podemos-sonar-con-cosas-importantes-con-este-espiritu/",
-          "source": "Infobae"
         }
       ],
       "link": "https://imtaqin.id/"
