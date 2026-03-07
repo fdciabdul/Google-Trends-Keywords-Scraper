@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-07 10:23:31",
+  "lastUpdate": "2026-03-07 10:37:59",
   "data": [
     {
       "title": "包致金",
@@ -109,7 +109,7 @@
     },
     {
       "title": "tomorrowland thailand",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 6 Mar 2026 22:50:00 -0800",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxiQVw8RWukrm69jYvY0X4UxUCqrSLtsV_e3o1T9n9V4KGA5yRwPUl6HohTA",
       "pictureSource": "DJ Mag",
@@ -185,9 +185,15 @@
       "title": "f1 qualifying",
       "trafficCount": "1000+",
       "pubDate": "Fri, 6 Mar 2026 21:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuGQ0Gu8ZUekfkQwDvSYxdmW0NcSsh-F5msUPBWnDFemo1fx_2oLI7xaI0yuc",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC6KG127RuX9ec0uAPj-gZpga9aV8CbLYWFQOZarraGC6h1syF5PjQW-2pN-k",
+      "pictureSource": "Formula 1",
       "relatedSearch": [
+        {
+          "title": "Russell storms to pole for the Australian GP",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/russell-storms-to-pole-position-for-the-season-opening-australian-gp-as.59kj0cIRcQVqXUSKPp5KzG",
+          "source": "Formula 1"
+        },
         {
           "title": "Australian Grand Prix: George Russell takes Melbourne pole after Max Verstappen crash",
           "snippet": "",
@@ -195,27 +201,40 @@
           "source": "BBC"
         },
         {
-          "title": "LIVE COVERAGE: Qualifying in Australia",
+          "title": "Mercedes’ Russell, Antonelli top in Australian GP qualifying, Verstappen crashes",
           "snippet": "",
-          "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-australia-2026.140thrSUo1ciir5j4YX7yE",
-          "source": "Formula 1"
-        },
-        {
-          "title": "Australian GP qualifying: George Russell claims pole as Kimi Antonelli seals dominant Mercedes one-two after Max Verstappen crashes out",
-          "snippet": "",
-          "url": "https://www.skysports.com/f1/news/12433/13516116/australian-gp-qualifying-george-russell-claims-pole-as-kimi-antonelli-seals-dominant-mercedes-one-two-after-max-verstappen-crashes-out",
-          "source": "Sky Sports"
+          "url": "https://www.scmp.com/sport/formula-one-f1/article/3345804/australian-grand-prix-mercedes-russell-antonelli-top-qualifying-verstappen-crashes",
+          "source": "South China Morning Post"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "湖人 對 溜馬",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 6 Mar 2026 20:50:00 -0800",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "f1 live",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 6 Mar 2026 21:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSau3cA0siWAWkV3Xl_iOzKsqqQJuaV8XyGgzo83VVqzIyoAc8L3w3hF132QBA",
+      "pictureSource": "Formula 1",
+      "relatedSearch": [
+        {
+          "title": "FP3: Russell goes fastest in final Australia practice as Antonelli crashes late on",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-in-final-australia-practice-as-antonelli-crashes.7787HPr7wqS9Hx2FMOh7Rx",
+          "source": "Formula 1"
+        },
+        {
+          "title": "Australian GP: Kimi Antonelli in huge crash as George Russell reveals stunning Mercedes pace in Practice Three",
+          "snippet": "",
+          "url": "https://www.skysports.com/f1/news/12433/13516120/australian-gp-kimi-antonelli-in-huge-crash-as-george-russell-reveals-stunning-mercedes-pace-in-practice-three",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "McLaren's Piastri fastest at home Grand Prix, Aston Martin battle",
+          "snippet": "",
+          "url": "https://www.reuters.com/sports/formula1/ferraris-leclerc-fastest-first-practice-australian-grand-prix-2026-03-06/",
+          "source": "Reuters"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
