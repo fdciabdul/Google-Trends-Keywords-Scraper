@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-07 08:13:26",
+  "lastUpdate": "2026-03-07 08:28:22",
   "data": [
+    {
+      "title": "jesse jackson",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 6 Mar 2026 22:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvkCkvZpdZVvSe_JXPDIybCtsuuXPQkd1oQePX2OsbRiVMzBlt3gl3HnPzT28",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Watch: Obama, Biden and Clinton remember 'tenacious' Jesse Jackson",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/videos/cjwz8py0l2go",
+          "source": "BBC"
+        },
+        {
+          "title": "After a storied civil rights career, Jesse Jackson heads home to South Carolina and lies in state",
+          "snippet": "",
+          "url": "https://apnews.com/article/jesse-jackson-lie-state-south-carolina-5e8200205d0b30ae55f7583984ae46c1",
+          "source": "AP News"
+        },
+        {
+          "title": "Rev. Jesse Jackson to be laid to rest at Oak Woods Cemetery, ‘part of the city’s unrivaled historic fabric’",
+          "snippet": "",
+          "url": "https://www.wbez.org/architecture/2026/03/05/rev-jesse-jackson-laid-rest-oak-woods-cemetery",
+          "source": "WBEZ Chicago"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "stephen hibbert",
       "trafficCount": "200+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "jesse jackson",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 6 Mar 2026 22:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXzdMqRaOBx3JLjFFCDa7gDUBbiWnFSDB8qWuV6DtN5ZqSfNDsAJMGYHrZIE",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Obama, Biden, Clinton honour Jesse Jackson at funeral in Chicago",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cdr2mmnzn0ko",
-          "source": "BBC"
-        },
-        {
-          "title": "After a storied civil rights career, Jesse Jackson heads home to South Carolina and lies in state",
-          "snippet": "",
-          "url": "https://apnews.com/article/jesse-jackson-lie-state-south-carolina-5e8200205d0b30ae55f7583984ae46c1",
-          "source": "AP News"
-        },
-        {
-          "title": "South Siders glued to the TV for Jackson's homegoing service: 'Everybody has been watching all day'",
-          "snippet": "",
-          "url": "https://chicago.suntimes.com/chicago/2026/03/06/south-siders-glued-to-the-tv-for-jacksons-homegoing-service-everybody-has-been-watching-all-day",
-          "source": "Chicago Sun-Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pelle hvenegaard",
       "trafficCount": "100+",
       "pubDate": "Fri, 6 Mar 2026 22:30:00 -0800",
@@ -79,8 +79,8 @@
         {
           "title": "Børnefamilies badeferie har udviklet sig til mareridt: Missilfragmenter brager på hotellets tag",
           "snippet": "",
-          "url": "https://avisendanmark.dk/udland/boernefamilies-badeferie-har-udviklet-sig-til-mareridt-missilfragmenter-brager-paa-hotellets-tag",
-          "source": "Avisen Danmark"
+          "url": "https://stiften.dk/samfund/boernefamilies-badeferie-har-udviklet-sig-til-mareridt-missilfragmenter-brager-paa-hotellets-tag",
+          "source": "Stiften.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,50 +183,22 @@
           "source": "underholdning.tv2.dk"
         },
         {
-          "title": "B.T.s dom over 'X Factor': Nej, nej, nej - kæmpe tab for TV 2 | Anmeldelser | Underholdning | Video",
-          "snippet": "",
-          "url": "https://www.bt.dk/anmeldelser/bts-dom-over-x-factornej-nej-nej-kaempe-tab-for-tv-2?gaa_at=eafs&gaa_n=AWEtsqfgoyDBQqe9R68vgnbwFPaY9XNIIsT9HkX-d53vTOeif7r3JAnOhzIb&gaa_ts=69abe1aa&gaa_sig=drBdk5QQ0y5b0_ewJgrEeq4pUNr25MoqxjAWWWCi9qoLSQggvMmvfh6FpvCI_A_s_ytU34lKQ2WoxQjFIHcckQ%3D%3D",
-          "source": "B.T."
-        },
-        {
           "title": "X Factor-tvillinger har valgt sang til i aften: - De fleste kan synge med derhjemme",
           "snippet": "",
           "url": "https://fyens.dk/sydfyn/x-factor-tvillinger-har-valgt-sang-til-i-aften-de-fleste-kan-synge-med-derhjemme",
           "source": "Fyens.dk"
+        },
+        {
+          "title": "B.T.s dom over 'X Factor': Nej, nej, nej - kæmpe tab for TV 2 | Anmeldelser | Underholdning | Video",
+          "snippet": "",
+          "url": "https://www.bt.dk/anmeldelser/bts-dom-over-x-factornej-nej-nej-kaempe-tab-for-tv-2?gaa_at=eafs&gaa_n=AWEtsqfVnlXE55JzGA77phMHS7os_ZXKRKajorg4jqF_VetspyeX5KLRRk0W&gaa_ts=69abe52a&gaa_sig=UkP54Nl5PHMdhOJGJPVKQv6mWVaeCzLZBKTGWkf1fNIDHcJRg5PYdN0M71lG5ks_pXF_E1OD1VqeYP0DqHI3zw%3D%3D",
+          "source": "B.T."
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "f1tv",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 6 Mar 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSilAHU1JO1vtEFZPx-34erLCABv6NntuJTPZ9GhrFh2GKNUvAR-csbi-7Jj8M",
-      "pictureSource": "Sky Sports",
-      "relatedSearch": [
-        {
-          "title": "Sky Sports unveils 2026 coverage plans and new F1 titles featuring Tate McRae's 'Just Keep Watching'",
-          "snippet": "",
-          "url": "https://www.skysports.com/f1/news/12433/13515019/sky-sports-unveils-2026-coverage-plans-and-new-f1-titles-featuring-tate-mcraes-just-keep-watching",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Sky Sports unveils plans for 2026 Formula 1 coverage",
-          "snippet": "",
-          "url": "https://www.skygroup.sky/en-gb/article/skysports-unveils-plans-for-2026-formula-1-coverage",
-          "source": "Sky Group"
-        },
-        {
-          "title": "Time to get in pole position. 🏁 Formula 1 returns this weekend as the 2026 season gets underway and all the action will be live on one channel. Lando Norris will defend his title for the first time against Lewis Hamilton and Max Verstappen at the Australian Gra",
-          "snippet": "",
-          "url": "https://www.facebook.com/ManchesterEveningNews/photos/time-to-get-in-pole-position-formula-1-returns-this-weekend-as-the-2026-season-g/1391496076346087/",
-          "source": "Facebook"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "f1 tv",
       "trafficCount": "200+",
       "pubDate": "Fri, 6 Mar 2026 20:50:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAyz2l2Ovq8a_LCYmtn42xB1ptAyjmGhzPSRsydKEQpA3tuQRNkkKJRL9L-pM",
@@ -245,10 +217,10 @@
           "source": "Formula 1"
         },
         {
-          "title": "How to watch F1 live streams online for free",
+          "title": "How to watch Formula 1’s Australian GP on Apple TV",
           "snippet": "",
-          "url": "https://mashable.com/article/f1-live-stream-for-free",
-          "source": "Mashable"
+          "url": "https://racer.com/2026/03/05/how-to-watch-formula-1-s-australian-gp-on-apple-tv",
+          "source": "RACER - Racing News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +245,38 @@
           "source": "AutoHebdo"
         },
         {
-          "title": "Formel 1, Australien Tag 1, Esteban Ocon steht vor dem F1-Dilemma 2026: „Mir platzt gleich der Kopf“",
+          "title": "Rennfahrer starten mit neuen Autos",
           "snippet": "",
-          "url": "https://www.paddock-gp.com/de/Formel-1-Australien--Tag-1%3A-Esteban-Ocon-steht-vor-dem-R%C3%A4tsel-der-Formel-1-2026-%E2%80%93-mir-platzt-gleich-der-Kopf%21/",
-          "source": "Paddock GP"
+          "url": "https://www.kicker.at/rennfahrer-starten-mit-neuen-autos-1199318/artikel",
+          "source": "kicker"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "formel 1",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 6 Mar 2026 19:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmA1-bEUUrKM2On03_gCUUolihph97aQrrcUnxfhztS4VxKgg0NBSzzVm9JYk",
+      "pictureSource": "BILD.de",
+      "relatedSearch": [
+        {
+          "title": "Formel 1: Verstappen crasht seinen Red Bull bei der Qualifikation",
+          "snippet": "",
+          "url": "https://www.bild.de/sport/mehr-sport/formel-1-verstappen-crasht-seinen-red-bull-bei-der-qualifikation-69abbd6210f264d559776d26",
+          "source": "BILD.de"
+        },
+        {
+          "title": "Kimi Antonelli nach Crash und P2 im Qualifying: «Ein sehr stressiger Tag»",
+          "snippet": "",
+          "url": "https://www.speedweek.com/a/formel-1/kimi-antonelli-nach-crash-und-p2-im-qualifying-ein-sehr-stressiger-tag",
+          "source": "SPEEDWEEK.com"
+        },
+        {
+          "title": "Großer Preis von Australien: George Russell als Erster auf der Pole-Position, Isack Hadjar Dritter!",
+          "snippet": "",
+          "url": "https://www.autohebdo.de/Nachrichten/f1/Gro%C3%9Fer-Preis-von-Australien%3A-George-Russell-gewinnt-%28Pole-Position%29--Max-Verstappen-in-der-Mauer.html",
+          "source": "AutoHebdo"
         }
       ],
       "link": "https://imtaqin.id/"
