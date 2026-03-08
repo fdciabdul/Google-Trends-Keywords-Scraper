@@ -1,58 +1,30 @@
 {
-  "lastUpdate": "2026-03-08 23:29:06",
+  "lastUpdate": "2026-03-08 23:41:24",
   "data": [
     {
-      "title": "오늘 날씨",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 8 Mar 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_DrBoHvN-2UJPeBPN4EV-pNwoF6H2eAP7hnka9lhZwDYKhWjRLwjbS7Vct18",
-      "pictureSource": "KBS 뉴스",
-      "relatedSearch": [
-        {
-          "title": "[출근길 날씨] 중부 중심 비·눈…초미세먼지 주의",
-          "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8502668",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "대전·세종·충남 대체로 흐려…낮 최고 10도",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260309006300063",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "전국 아침 영하권…중부지방 중심 눈이나 비도",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260309072202867",
-          "source": "Daum"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "유가",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 8 Mar 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfGAh2pjknhOeG5TdwI3rmBv9BaSDWdwlvIk8FD1AzkBIKQDvji7vFDoBM5Sc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9zK0MzNHJORV7kp19p14Dn9YcFJkB5mBSZBli8YZ5CdJES1nRSx12vmr-uPI",
       "pictureSource": "조선일보",
       "relatedSearch": [
         {
-          "title": "[속보] 국제 유가 배럴당 100달러 돌파...공급 차질 영향",
+          "title": "유가 뛰자 물가·환율까지… 한국 ‘3高 쇼크’",
           "snippet": "",
-          "url": "https://www.chosun.com/international/international_general/2026/03/09/I55ELVCZEVB6HITFLWZFIIOBCU/",
+          "url": "https://www.chosun.com/economy/economy_general/2026/03/09/57765S5Z4BECPC3Q4XO4S3AODE/",
           "source": "조선일보"
         },
         {
-          "title": "[유가 100달러 돌파] 주가지수 선물 급락…달러 강세",
+          "title": "산업장관, 정유 4사 만나 \"공정한 석유가격 책정\" 당부",
           "snippet": "",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4402414",
-          "source": "연합인포맥스"
+          "url": "https://www.newsis.com/view/NISX20260308_0003539293",
+          "source": "뉴시스"
         },
         {
-          "title": "[속보] 블룸버그 “국제유가 배럴당 100달러 넘어”",
+          "title": "“경유 300원 올랐는데 운송비 그대로, 이대론 못 버텨”···화물노동자 직격한 유가 급등",
           "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8502613",
-          "source": "KBS 뉴스"
+          "url": "https://www.khan.co.kr/article/202603081600001",
+          "source": "경향신문"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,29 +58,66 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "wti 유가",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 8 Mar 2026 15:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "국제유가",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 8 Mar 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBlNsHvQAR5q1IT-erDrsYZLeL7609Btb3IvzDpncU5FVl6nHaU2k1I9l0LI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfGAh2pjknhOeG5TdwI3rmBv9BaSDWdwlvIk8FD1AzkBIKQDvji7vFDoBM5Sc",
       "pictureSource": "조선일보",
       "relatedSearch": [
         {
-          "title": "호르무즈 해협서 예인선 미사일 맞고 침몰... 인도네시아 선원 3명 실종",
+          "title": "[속보] 국제 유가 배럴당 100달러 돌파...공급 차질 영향",
           "snippet": "",
-          "url": "https://www.chosun.com/international/international_general/2026/03/09/A7X5NL7Q2ZGQXGV7FFN4Q225YU/",
+          "url": "https://www.chosun.com/international/international_general/2026/03/09/I55ELVCZEVB6HITFLWZFIIOBCU/",
           "source": "조선일보"
         },
         {
-          "title": "걸프 해역서 ‘중국 선박’ 위장…중 외교부장 “무력으로 해결 못해”",
+          "title": "[부자들의 투자노트] 올스프링 \"유가 상승, 美보다 신흥국에 더 문제\"",
           "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8502588",
+          "url": "https://v.daum.net/v/20260309073914204",
+          "source": "Daum"
+        },
+        {
+          "title": "[속보] 블룸버그 “국제유가 배럴당 100달러 넘어”",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8502613",
+          "source": "KBS 뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "오늘날씨",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 8 Mar 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuriBEZIKEuGsEC576O04fX6HUJHnzbQELS8yhbowt0MX5PV9q9bd2LzO_gEM",
+      "pictureSource": "KBS 뉴스",
+      "relatedSearch": [
+        {
+          "title": "[출근길 날씨] 중부 중심 비·눈…초미세먼지 주의",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8502584",
           "source": "KBS 뉴스"
         },
         {
-          "title": "'기름값 2500원' 커지는 공포…\"한국도 사정권\" 경고 쏟아졌다",
+          "title": "전국 아침 영하권…중부지방 중심 눈이나 비도",
           "snippet": "",
-          "url": "https://www.hankyung.com/article/2026030866761",
-          "source": "한국경제"
+          "url": "https://v.daum.net/v/20260309072202867",
+          "source": "Daum"
+        },
+        {
+          "title": "대전·세종·충남 대체로 흐려…낮 최고 10도",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260309006300063",
+          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,34 +146,6 @@
           "snippet": "",
           "url": "https://www.vietnam.vn/ko/thoi-tiet-nghe-an-ngay-1-3-trung-du-va-vung-nui-nang-nong-co-noi-tren-36-do-c",
           "source": "Vietnam.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "중앙일보",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 8 Mar 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxmll9sFsfcWECRGHlLCjeP0wcMwVqwuxBFs-sQVqBWRQEnGW5oV7Xm-hRXmY",
-      "pictureSource": "경향신문",
-      "relatedSearch": [
-        {
-          "title": "“경유 300원 올랐는데 운송비 그대로, 이대론 못 버텨”···화물노동자 직격한 유가 급등",
-          "snippet": "",
-          "url": "https://www.khan.co.kr/article/202603081600001",
-          "source": "경향신문"
-        },
-        {
-          "title": "산업장관, 정유 4사 만나 \"공정한 석유가격 책정\" 당부",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260308_0003539293",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"폭리는 반사회적 악행\" 대통령 경고에 정유·주유소 업계 심야 '백기투항'",
-          "snippet": "",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003212630",
-          "source": "OhmyNews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +192,16 @@
           "source": "동아일보"
         },
         {
+          "title": "이란 외무장관 “새 지도자 선택은 이란 국민의 일”",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202603090826001",
+          "source": "경향신문"
+        },
+        {
           "title": "“중동국가 공격 중단” 이란 대통령 사과직후 또 공격…걸프국 “보복”",
           "snippet": "",
           "url": "https://v.daum.net/v/20260309060901752",
           "source": "Daum"
-        },
-        {
-          "title": "주말 내내 걸프국 공습‥'걸프국 공습 중단' 무산",
-          "snippet": "",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6805762_37004.html",
-          "source": "MBC 뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
