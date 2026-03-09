@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-09 09:49:35",
+  "lastUpdate": "2026-03-09 10:10:08",
   "data": [
     {
       "title": "tunisie telecom",
@@ -33,9 +33,15 @@
       "title": "claude ai",
       "trafficCount": "100+",
       "pubDate": "Mon, 9 Mar 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2ktU0GjDct9EA_QCp5g_AhEpYzIESorHfQE2DniP9KCz8BGvT3wOcJ8vOpT4",
-      "pictureSource": "PCMag",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-bB7EERWrmmntYJepXm-QnDPEc07UlYUMuNf9r7ggpktxbSl_qgkXxT2gQYc",
+      "pictureSource": "The Mozilla Blog",
       "relatedSearch": [
+        {
+          "title": "Hardening Firefox with Anthropic’s Red Team",
+          "snippet": "",
+          "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
+          "source": "The Mozilla Blog"
+        },
         {
           "title": "Anthropic’s Claude Finds More Bugs in Firefox than Human Teams",
           "snippet": "",
@@ -45,14 +51,8 @@
         {
           "title": "Exclusive | Anthropic’s AI Hacked the Firefox Browser. It Found a Lot of Bugs.",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?gaa_at=eafs&gaa_n=AWEtsqcWoFPCmHlb83xMzVuferA_Im863f4aMt08sMnSRWeYUEqPFiyFoNmK&gaa_ts=69ae9a44&gaa_sig=BbkUGp5MolsDp96-iLDtZpBNzqkVYRT4RmY0Gh1ouXeg1b_yICBpEbP2-h6tTIFFCgitAlreA7WpBfdw6PHlWg%3D%3D",
+          "url": "https://www.wsj.com/tech/ai/send-us-more-anthropics-claude-sniffs-out-bevy-of-bugs-c6822075?gaa_at=eafs&gaa_n=AWEtsqfMjXe_zsD2BFI0TrnORuLslcurCHYN2J9Lxg0TGwVjo285Bo2rdDrf&gaa_ts=69aea004&gaa_sig=Yy1BtIh8gbt1SDEGVZZ5X5G3ow73gweiUh8hh5ZtGnLv22VxLzvQBbwOky8Xe-47JaZECoWFeu5JqZfRR329Uw%3D%3D",
           "source": "The Wall Street Journal"
-        },
-        {
-          "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
-          "snippet": "",
-          "url": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
-          "source": "The Hacker News"
         }
       ],
       "link": "https://imtaqin.id/"
