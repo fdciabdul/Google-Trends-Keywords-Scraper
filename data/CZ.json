@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-09 12:26:55",
+  "lastUpdate": "2026-03-09 12:48:59",
   "data": [
+    {
+      "title": "turecko",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Mar 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCUF_t4acBBBKMZseYF9PDkXoMli0bqfEJkDHddPCahVsnC__m-pu-udeBJUM",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "ON-LINE: USA vyzvaly občany, ať opustí jihovýchod Turecka",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-iran-utoky-usa-izrael-desaty-den-online-40566500",
+          "source": "Novinky"
+        },
+        {
+          "title": "ONLINE: NATO v tureckém vzdušném prostoru zničilo raketu vypálenou z Íránu",
+          "snippet": "",
+          "url": "https://www.irozhlas.cz/zpravy-svet/online-nato-v-tureckem-vzdusnem-prostoru-znicilo-raketu-vypalenou-z-iranu_2603091332_jva",
+          "source": "iROZHLAS"
+        },
+        {
+          "title": "Online: NATO zničilo v tureckém vzdušném prostoru raketu z Íránu",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/zahranicni-online-izrael-podnikl-nove-udery-na-libanon-a-iran-v-bejrutu-zemreli-ctyri-lide-300959",
+          "source": "Seznam Zprávy"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "leoš šimánek",
       "trafficCount": "100+",
@@ -21,10 +49,10 @@
           "source": "CNN Prima NEWS"
         },
         {
-          "title": "Zemřel cestovatel Leoš Šimánek. Dobrodruh z Chocně prožil život plný výprav",
+          "title": "Dobrodruh z Chocně se už z další výpravy nevrátí. Zemřel cestovatel Leoš Šimánek",
           "snippet": "",
-          "url": "https://orlicky.denik.cz/zpravy_region/zemrel-cestovatel-leos-simanek-dobrodruh-z-podkrkonosi-prozil-zivot-plny-vyprav.html",
-          "source": "Orlický deník"
+          "url": "https://hradecka.drbna.cz/zpravy/24003-dobrodruh-z-chocne-uz-se-z-dalsi-vypravy-nevrati-zemrel-cestovatel-leos-simanek.html",
+          "source": "Hradecká Drbna"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,7 +61,7 @@
       "title": "bahrajn",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScFNIlrE31IURDXsLrAXiHfGzjg75yI0ScUcZjzSpZR-v-kzQ2y08r17cwLF8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxppEogzdxFXegyTy35MxA542iIp3yF1h5qizV8REMdrjSee5LCazT1STIPl0",
       "pictureSource": "iDNES.cz",
       "relatedSearch": [
         {
@@ -43,23 +71,23 @@
           "source": "iDNES.cz"
         },
         {
-          "title": "Íránské údery na Izrael pokračují, v Bahrajnu dron zranil 32 lidí — ČT24",
-          "snippet": "",
-          "url": "https://ct24.ceskatelevize.cz/clanek/svet/iran-vypalil-salvu-strel-na-izrael-v-bahrajnu-pri-utoku-dronem-zranil-32-lidi-371096",
-          "source": "Česká televize"
-        },
-        {
           "title": "Írán vypálil první salvu střel na Izrael po zvolení nového duchovního vůdce",
           "snippet": "",
           "url": "https://www.ceskenoviny.cz/zpravy/2796662",
           "source": "České noviny"
+        },
+        {
+          "title": "ON-LINE: Írán zahájil první útok po jmenování nového vůdce",
+          "snippet": "",
+          "url": "https://www.stream.cz/zahranicni-9232/on-line-iran-zahajil-prvni-utok-po-jmenovani-noveho-vudce-65469556",
+          "source": "Stream.cz"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "cena nafty",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 9 Mar 2026 00:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIk-5MDgMyaBoaH2YVaxu_qMvTD7RYRvboA6VQasCaiWmxwV4kaAKx6J0n4IQ",
       "pictureSource": "Novinky",
@@ -71,16 +99,44 @@
           "source": "Novinky"
         },
         {
+          "title": "Nafta už ve Varech překročila 40 korun za litr. ONO v Ostrově stále s frontami",
+          "snippet": "",
+          "url": "https://karlovarsky.denik.cz/zpravy_region/nafta-benzin-vary-karlovy-ceny-ostrov.html",
+          "source": "Karlovarský deník"
+        },
+        {
           "title": "Okrádají pumpaři řidiče? Provozovatelé se nařčení brání a přinášejí vlastní argumenty",
           "snippet": "",
           "url": "https://www.garaz.cz/clanek/zajimavosti-okradaji-pumpari-ridice-provozovatele-se-narceni-brani-a-prinaseji-vlastni-argumenty-21016572",
           "source": "Garáž.cz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cena ropy",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 8 Mar 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfFCczRHRQgqq_yP5yPnO_qQPlzUZY5ck8V-pxlOKuTF5QjgakJvbmsunJBCk",
+      "pictureSource": "Next Gazeta.pl",
+      "relatedSearch": [
+        {
+          "title": "Naftowy szok. Ropa najdroższa od 2022 r. Panika na giełdzie",
+          "snippet": "",
+          "url": "https://next.gazeta.pl/inwestycje/7,187021,32647867,naftowy-szok-ropa-najdrozsza-od-2022-r-panika-na-gieldzie.html",
+          "source": "Next Gazeta.pl"
         },
         {
-          "title": "Němečtí celníci loví u hranic s Českem „tankovací turisty“",
+          "title": "Panika na giełdzie. Ceny ropy wystrzeliły",
           "snippet": "",
-          "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-nemecti-celnici-lovi-u-hranic-s-ceskem-tankovaci-turisty-300943",
-          "source": "Seznam Zprávy"
+          "url": "https://www.money.pl/gielda/panika-na-gieldzie-ceny-ropy-wystrzelily-7262336420821184a.html",
+          "source": "Money.pl"
+        },
+        {
+          "title": "„Burza” energetyczna niweczy zyski na giełdach azjatyckich.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/pl/con-loc-nang-luong-quet-sach-da-tang-cua-chung-khoan-chau-a",
+          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -107,8 +163,8 @@
         {
           "title": "Pardubický Červenka vyhrál produktivitu extraligy, střelcům vládl Nellis",
           "snippet": "",
-          "url": "https://www.ceskenoviny.cz/zpravy/pardubicky-cervenka-vyhral-produktivitu-extraligy-strelcum-vladl-nellis/2795964",
-          "source": "České noviny | ČeskéNoviny.cz"
+          "url": "https://www.ceskenoviny.cz/zpravy/2795964",
+          "source": "České noviny"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +173,26 @@
       "title": "chance",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Mar 2026 16:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcJoLtS2ZIJ4VyJcMFMvmJgEdJjK9o0zZ5LtH1ZrBm2bdXJPtEHQldjkuRmdA",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZzzz9OaotF-r39qJTmXXRfg-2WkdgTOvQGioNvChvwU97219ouOWLe5QM0A",
+      "pictureSource": "CBS Sports",
       "relatedSearch": [
         {
-          "title": "Amid airstrikes and hundreds of thousand displaced, CNN reports on how a tense Lebanon has been dragged into the Iran war",
+          "title": "Chance to play for coveted WCC title awaits No. 21 Saint Mary's, Santa Clara",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/03/07/world/video/beirut-lebanon-airstrikes-matthew-chance-digvid",
-          "source": "CNN"
+          "url": "https://www.cbssports.com/college-basketball/news/chance-to-play-for-coveted-wcc-title-awaits-no-21-saint-marys-santa-clara/",
+          "source": "CBS Sports"
         },
         {
-          "title": "IDF pushes deeper into south Lebanon amid incessant Hezbollah rocket fire on Israeli towns",
+          "title": "Santa Clara Broncos vs. Saint Mary's Gaels - Boxscore - Live Score - March 09, 2026",
           "snippet": "",
-          "url": "https://www.timesofisrael.com/idf-pushes-deeper-into-south-lebanon-amid-incessant-hezbollah-rocket-fire-on-israeli-towns/",
-          "source": "The Times of Israel"
+          "url": "https://www.foxsports.com/college-basketball/conference-tournament-santa-clara-broncos-vs-saint-marys-gaels-mar-09-2026-game-boxscore-264193?tab=boxscore",
+          "source": "FOX Sports"
         },
         {
-          "title": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400",
+          "title": "Saint Mary's (CA) plays in WCC Tournament against the Santa Clara",
           "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/least-two-killed-strike-hotel-building-central-beirut-security-source-says-2026-03-08/",
-          "source": "Reuters"
+          "url": "https://ca.sports.yahoo.com/news/saint-marys-ca-plays-wcc-084437149.html",
+          "source": "Yahoo Sports Canada"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +229,26 @@
       "title": "kat",
       "trafficCount": "100+",
       "pubDate": "Sun, 8 Mar 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_Wt-r-MoMCKPBj3ggSm27lHsSTQF-zXVT7vNYNT5PR3lq4nldXQw7PMdiTf4",
-      "pictureSource": "TRI247",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8kVo_NkMAyjWzJqYPJ9p5Oh3VDEJFeuG_2P1Rexh1bA0N_0Qo16TqKQVRDyI",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "IRONMAN New Zealand men’s results 2026: Foley holds off Le Corre as Big Blu struggles",
+          "title": "Lakers beat Knicks with LeBron James (elbow) sidelined",
           "snippet": "",
-          "url": "https://www.tri247.com/triathlon-news/elite/ironman-new-zealand-2026-results-report-pro-men",
-          "source": "TRI247"
+          "url": "https://www.espn.com/nba/story/_/id/48145145/lakers-downgrade-lebron-james-elbow-vs-knicks",
+          "source": "ESPN"
         },
         {
-          "title": "Matthews Charges to IRONMAN New Zealand Win and Course Record",
+          "title": "Luka Doncic and Austin Reaves carry LeBron-less Lakers to win over Knicks",
           "snippet": "",
-          "url": "https://slowtwitch.com/triathlon/matthews-charges-to-ironman-new-zealand-win-and-course-record/",
-          "source": "Slowtwitch News"
+          "url": "https://www.latimes.com/sports/lakers/story/2026-03-08/los-angeles-lakers-luka-doncic-new-york-knicks-lebron",
+          "source": "Los Angeles Times"
         },
         {
-          "title": "Ironman New Zealand 2026 race results and records broken",
+          "title": "Knicks vs. Lakers odds, line: Proven model reveals picks for NBA matchup on Sunday, March 8",
           "snippet": "",
-          "url": "https://www.220triathlon.com/news/ironman-new-zealand-2026-winners",
-          "source": "220 Triathlon"
+          "url": "https://www.sportsline.com/insiders/knicks-vs-lakers-odds-line-proven-model-reveals-picks-for-nba-matchup-on-sunday-march-8/",
+          "source": "SportsLine"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,72 +267,16 @@
           "source": "La Gazzetta dello Sport"
         },
         {
+          "title": "Moviola GdS: “Braccio Ricci? Ritenuto in trazione. Ne hanno concessi di meno evidenti”",
+          "snippet": "",
+          "url": "https://www.fcinter1908.it/news/rassegna-stampa/moviola-gds-braccio-ricci-ritenuto-in-trazione/",
+          "source": "FC Inter 1908"
+        },
+        {
           "title": "Milan, Elena Santarelli festeggia il derby in tribuna per il \"suo\" Corradi",
           "snippet": "",
           "url": "https://www.corrieredellosport.it/video/video-virali/2026/03/09-147162547/milan_elena_santarelli_festeggia_il_derby_in_tribuna_per_il_suo_corradi",
           "source": "Corriere dello Sport"
-        },
-        {
-          "title": "Allegri: “Ecco perché la vittoria con l’Inter vale doppio. Ora l’obiettivo è…”",
-          "snippet": "",
-          "url": "https://www.fcinter1908.it/news/interviste/allegri-vittoria-inter-doppio-obiettivo/",
-          "source": "FC Inter 1908"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "daniel žižka",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 8 Mar 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwhasW_oHP5P5SPKmAama8uAJienZamqjDcEzxdiufhIRn8ZlOIINIwi4RCjs",
-      "pictureSource": "Seznam Zprávy",
-      "relatedSearch": [
-        {
-          "title": "Česko představilo svého zástupce na Eurovizi. Bude to málo známý mladý talent",
-          "snippet": "",
-          "url": "https://www.seznamzpravy.cz/clanek/kultura-eurovize-2026-daniel-zizka-301025",
-          "source": "Seznam Zprávy"
-        },
-        {
-          "title": "Česko bude na Eurovizi reprezentovat Daniel Žižka",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/kultura-hudba-cesku-bude-na-eurovizi-reprezentovat-daniel-zizka-40566534",
-          "source": "Novinky"
-        },
-        {
-          "title": "Česko bude na Eurovizi reprezentovat Daniel Žižka se skladbou Crossroads",
-          "snippet": "",
-          "url": "https://magazin.aktualne.cz/kultura/hudba/cesko-bude-na-eurovizi-reprezentovat-daniel-zizka-se-skladbou-crossroads/r~aaa2905ef008222b6187ea926d816467/",
-          "source": "Aktuálně.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kambodža",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 8 Mar 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIuSxpnE_Adf2K6xF9P8yF4mMbNWFAMnAcI8VbFMmxvEaI9Rp7XgoU5rgIMow",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "Kambodža se odhlásila, AFF upravila harmonogram mistrovství jihovýchodní Asie ve futsalu 2026.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/cs/campuchia-rut-lui-aff-dieu-chinh-lich-giai-futsal-dong-nam-a-2026",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Kambodžský fotbalový tým se odhlásil z regionálního turnaje ve futsalu.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/cs/bong-da-campuchia-rut-khoi-giai-futsal-khu-vuc",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Kambodža se odstoupí z mistrovství jihovýchodní Asie ve futsalu 2026.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/cs/campuchia-rut-khoi-giai-futsal-dong-nam-a-2026",
-          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"
