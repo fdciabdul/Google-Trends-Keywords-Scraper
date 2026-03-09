@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-09 09:27:42",
+  "lastUpdate": "2026-03-09 09:49:37",
   "data": [
     {
       "title": "назк",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 9 Mar 2026 01:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYuuGui8ip8o86DUyD62xvN7xyLw5Kb3KHpdGKHdzEYXUSDYIo5rOvVrxHFRs",
       "pictureSource": "Закон і Бізнес",
@@ -173,15 +173,9 @@
       "title": "магнітні бурі",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Mar 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhTJdOFzlhNpHJRgAEQn6HghrG6co4UUBT59TsLbMMSiuXxHBG7Gr0q1ASpM",
-      "pictureSource": "Главком",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYul1fFtUSNhGwVeFcgcA2t7-1Uw1tH6fb6DqrrfySvrHcc6Zy2_22zxhtcs",
+      "pictureSource": "УНІАН",
       "relatedSearch": [
-        {
-          "title": "Прогноз магнітних бур на 9-10 березня: якою буде сонячна активність",
-          "snippet": "",
-          "url": "https://glavcom.ua/country/health/prohnoz-mahnitnikh-bur-na-9-10-bereznja-jakoju-bude-sonjachna-aktivnist-1106996.html",
-          "source": "Главком"
-        },
         {
           "title": "Магнітні бурі 9 березня: чи чекати удару на початку тижня (графік)",
           "snippet": "",
@@ -189,9 +183,15 @@
           "source": "УНІАН"
         },
         {
-          "title": "Магнітна буря 9 березня: яка буде її потужність",
+          "title": "Прогноз магнітних бур на 9–10 березня: рівень активності та поради метеозалежним",
           "snippet": "",
-          "url": "https://tsn.ua/other/mahnitna-buria-9-bereznia-iaka-bude-yiyi-potuznist-3036962.html",
+          "url": "https://ua.news/ua/ukraine/prognoz-magnitnikh-bur-na-9-10-bereznia-riven-aktivnosti-ta-poradi-meteozalezhnim",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Магнітні бурі, прогноз на три дні: чого очікувати від сонячної активності 9–11 березня",
+          "snippet": "",
+          "url": "https://tsn.ua/lady/zdorovye/aktualnaya-tema/mahnitni-buri-prohnoz-na-try-dni-choho-ochikuvaty-vid-soniachnoyi-aktyvnosti-9-11-bereznia-3037019.html",
           "source": "ТСН"
         }
       ],
@@ -199,7 +199,7 @@
     },
     {
       "title": "9 березня свято",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 8 Mar 2026 17:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbs6c2Ud1BzyGIS8Bp409c7roHcK5GsIJtnMKwcYL2D3i7SqtXqiuE2vIYWNs",
       "pictureSource": "ТСН",
@@ -221,6 +221,34 @@
           "snippet": "",
           "url": "https://kg.ua/news/cikavinki/zavtra-9-bereznya-imenini-svyata-prikmeti",
           "source": "Кременчуцька газета"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "9 березня",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 8 Mar 2026 15:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNfOfE_1Qb5p9znLH-RPRXgkrUwcXNxB0OERqXlxtxyBTXnim2WhnInJWdbNw",
+      "pictureSource": "ukrinform.ua",
+      "relatedSearch": [
+        {
+          "title": "У Пекіні відзначили 212-ту річницю від дня народження Тараса Шевченка",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-diaspora/4099489-u-pekini-vidznacili-212tu-ricnicu-vid-dna-narodzenna-tarasa-sevcenka.html",
+          "source": "ukrinform.ua"
+        },
+        {
+          "title": "\"Борітеся — поборете\". У день народження Тараса Шевченка на ТОТ України провели акцію з рядками з його поезії",
+          "snippet": "",
+          "url": "https://suspilne.media/crimea/1258794-boritesa-poborete-u-den-narodzenna-tarasa-sevcenka-na-tot-ukraini-proveli-akciu-z-radkami-z-jogo-poezii/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "Маловідомий Шевченко: факти про Кобзаря, які дивують",
+          "snippet": "",
+          "url": "https://trueua.info/news/nezvichniy-taras-shevchenko-fakti-pro-kobzarya-yaki-ruynuyut-shkilni-stereotipi",
+          "source": "TrueUA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://epravda.com.ua/rus/energetika/administraciya-trampa-zashchishchaet-otmenu-sankciy-protiv-nefti-rf-818905/",
           "source": "Економічна правда"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "brent oil price",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 8 Mar 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_DkNtFwGfbkZGGEazwFeHE0adUDeCDUCU--si-XyGyLIo_QCbXy2BtfWlYp8",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Iran war: Stock markets slump as oil prices surge over Strait of Hormuz fears",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c79542n0grwo",
-          "source": "BBC"
-        },
-        {
-          "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
-          "snippet": "",
-          "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Oil Tops $110 as Iran War Forces More Gulf Giants to Cut Output",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-08/latest-oil-market-news-and-analysis-for-march-9",
-          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"
