@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-09 16:14:01",
+  "lastUpdate": "2026-03-09 16:37:38",
   "data": [
     {
       "title": "smp",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 9 Mar 2026 08:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD0RctNgf-jcdGkMpsHByIELtkvSFI134vDh0_hl4GjMkwjGqiZnNzWzGdNw",
       "pictureSource": "smp.no",
@@ -31,7 +31,7 @@
     },
     {
       "title": "terje rød-larsen",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 08:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXtYpkhEIJnWDagcnpEwMkDExjsof3L-CT6V9cUSElWDHcssuHFEb50gYbL6s",
       "pictureSource": "VG",
@@ -58,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "sunnmørsposten",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 9 Mar 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS41lVBXelFjb2MeiPKk1YrjVxgUsJEs5RIckNRQiXlqtGDHNwvl5l6vgqhcFQ",
+      "pictureSource": "Aftenposten",
+      "relatedSearch": [
+        {
+          "title": "De ville rive ned skillet mellom jobb og familieliv. Med to barn på under tre år har familien valgt å bo på jobben.",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/foreldreliv/i/wrAy4M/de-bor-paa-jobben",
+          "source": "Aftenposten"
+        },
+        {
+          "title": "Åtvarar etter millionsvindel",
+          "snippet": "",
+          "url": "https://www.smp.no/naeringsliv/n/Okob4l/bank-aatvarar-etter-at-fleire-er-svindla",
+          "source": "smp.no"
+        },
+        {
+          "title": "Utsatt for svindelforsøk: Utga seg for å være lokalt politi",
+          "snippet": "",
+          "url": "https://www.hitra-froya.no/nyheter/n/9pzRld/utsatt-for-svindelforsoek-utga-seg-for-aa-vaere-lokalt-politi",
+          "source": "hitra-froya.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "gaziantep",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 05:30:00 -0700",
@@ -77,10 +105,10 @@
           "source": "Kurdistan24"
         },
         {
-          "title": "Gaziantep Valiliğinden “füze” açıklaması: Can kaybı, yaralanma ya da hasar yok",
+          "title": "BAE’den İran’a Türkiye’ye doğru ateşlenen balistik füze için kınama",
           "snippet": "",
-          "url": "https://gaziantepsoz.com/gaziantep-valiliginden-fuze-aciklamasi-can-kaybi-yaralanma-ya-da-hasar-yok.html",
-          "source": "Gaziantep Söz"
+          "url": "https://www.savunmasanayist.com/baeden-irana-turkiyeye-dogru-ateslenen-balistik-fuze-icin-kinama/",
+          "source": "SavunmaSanayiST"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +117,15 @@
       "title": "claude",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 01:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOx6aL4TD_exWMxosQlDlTJAtb9yh5sm61ZFtOrWBDVbHJxI5M3wwzIhlYBgw",
-      "pictureSource": "Microsoft",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTa-56Q-XCsz7DYwiG2w83t9SgdjPFAaIbiyQ8-krkXWUyUMObpzmO6ck3j7q8",
+      "pictureSource": "Axios",
       "relatedSearch": [
+        {
+          "title": "Microsoft launches AI tool that competes with Anthropic",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/03/09/microsoft-copilot-cowork-anthropic",
+          "source": "Axios"
+        },
         {
           "title": "Copilot Cowork: A new way of getting work done",
           "snippet": "",
@@ -103,12 +137,6 @@
           "snippet": "",
           "url": "https://finance.yahoo.com/news/microsoft-and-anthropic-team-up-to-bring-claude-cowork-to-microsoft-365-130001836.html",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Microsoft adds higher-priced Office tier with Copilot as it tries to juice sales with AI",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/09/microsoft-office-365-e7-copilot-ai.html",
-          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,15 +173,9 @@
       "title": "brent spot",
       "trafficCount": "200+",
       "pubDate": "Sun, 8 Mar 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPYpm4Ve0NZm7Pk4x12kcBh28VRcBDhhdGvSfZFsvJ1LdejqurkpDVOMoWduE",
-      "pictureSource": "CNN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_ZzRsixEopf1fLLOkCmC9lVzOJT6qbo0vx1ze9tLmHh54n8wB4DSQCB9ee_g",
+      "pictureSource": "Financial Times",
       "relatedSearch": [
-        {
-          "title": "Oil prices soar past $100 a barrel as war escalates in Iran",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
-          "source": "CNN"
-        },
         {
           "title": "Middle East war live: Stocks and bonds tumble as oil soars past $100 a barrel",
           "snippet": "",
@@ -161,10 +183,16 @@
           "source": "Financial Times"
         },
         {
-          "title": "‘Sky is the limit’: Analysts warn oil prices could surge further",
+          "title": "Watch: Why the Iran war is pushing up oil prices",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
-          "source": "CNBC"
+          "url": "https://www.bbc.com/news/videos/cpv8342e3xvo",
+          "source": "BBC"
+        },
+        {
+          "title": "Oil prices soar past $100 a barrel as war escalates in Iran",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.aftenbladet.no/okonomi/i/5pBmQe/bloomberg-oljeprisen-steget-til-over-110-dollar-fatet",
           "source": "Stavanger Aftenblad"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "oljepris",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 8 Mar 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt43aH2V6o3MzXUEHuaYcxVhM1XqkMlsPIKKIhkX0D6mN0xRBIjy3eyNASIYg",
-      "pictureSource": "E24",
-      "relatedSearch": [
-        {
-          "title": "Oljeprisen til himmels",
-          "snippet": "",
-          "url": "https://e24.no/energi-og-klima/i/Ok8LvO/medier-oljeprisen-passerer-100-dollar-fatet",
-          "source": "E24"
-        },
-        {
-          "title": "Krigen i Midtøsten - IMF-sjefen: – Forbered dere på det utenkelige",
-          "snippet": "",
-          "url": "https://www.bt.no/nyheter/direkte/i/zOEXVK/krig-i-midtoesten?pinnedEntry=332095",
-          "source": "Bergens Tidende"
-        },
-        {
-          "title": "Aksjetopp tror på «taco»: – Ikke så mye mer som skal til før verden stopper opp",
-          "snippet": "",
-          "url": "https://www.dn.no/marked/aksjetopp-tror-pa-taco-ikke-sa-mye-mer-som-skal-til-for-verden-stopper-opp/2-1-1956662",
-          "source": "Dagens Næringsliv"
         }
       ],
       "link": "https://imtaqin.id/"
