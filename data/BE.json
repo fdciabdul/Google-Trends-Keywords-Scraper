@@ -1,37 +1,65 @@
 {
-  "lastUpdate": "2026-03-10 06:05:04",
+  "lastUpdate": "2026-03-10 06:26:52",
   "data": [
     {
-      "title": "weather",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 9 Mar 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC18lMHkccQ1zvdqUzw4_X2Sb71onuLpXl7aYAXzpPgxMZWcRShzYqLkgcGK0",
-      "pictureSource": "tovima.com",
+      "title": "weer",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 9 Mar 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXxMKv-i2SD_vIPdIVMq02edNCZKekPMEEZLEwGURqbNa0b8hxnLh9ClXHqx8",
+      "pictureSource": "Nieuwsblad",
       "relatedSearch": [
         {
-          "title": "Greece Weather Tuesday: Cool with Clouds and Light Rain",
+          "title": "Na het vroege lenteweer volgt deze week periode van regen, wind en frissere temperaturen: “We mogen onze trui weer bovenhalen”",
           "snippet": "",
-          "url": "https://www.tovima.com/society/greece-weather-tuesday-cool-with-clouds-and-light-rain/",
-          "source": "tovima.com"
+          "url": "https://www.nieuwsblad.be/binnenland/na-het-vroege-lenteweer-volgt-deze-week-periode-van-regen-wind-en-frissere-temperaturen-we-mogen-onze-trui-weer-bovenhalen/140153060.html",
+          "source": "Nieuwsblad"
         },
         {
-          "title": "National Weather Forecast: Warm And Sunny Day For South",
+          "title": "Het is gedaan met het lenteweer, komende dagen kouder en wisselvallig",
           "snippet": "",
-          "url": "https://www.miragenews.com/national-weather-forecast-warm-and-sunny-day-1633339/",
-          "source": "Mirage News"
+          "url": "https://www.rtl.nl/nieuws/weer/artikel/5576265/het-gedaan-met-het-lenteweer-komende-dagen-kouder-en-wisselvallig",
+          "source": "RTL.nl"
         },
         {
-          "title": "Southern states set to enjoy warm weather, clear skies over long weekend",
+          "title": "Na het vroege lenteweer volgen deze week regen en frissere temperaturen: “Haal de trui maar weer boven”",
           "snippet": "",
-          "url": "https://www.9news.com.au/national/long-weekend-weather-forecast-australia-victoria-tasmania-south-australia-march-2026/b6b09470-0edd-453c-90b7-625301aebf68",
-          "source": "9News"
+          "url": "https://www.standaard.be/binnenland/na-het-vroege-lenteweer-volgen-deze-week-regen-en-frissere-temperaturen-haal-de-trui-maar-weer-boven/140346548.html",
+          "source": "De Standaard"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Mon, 9 Mar 2026 22:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxISuDtNhbN3i7aLWIia7ArnCXjPqrDPa2YzWAQMKjCTHsWESfBNzphM4udsw",
+      "pictureSource": "wandtv.com",
+      "relatedSearch": [
+        {
+          "title": "Severe Weather Set To Return",
+          "snippet": "",
+          "url": "https://www.wandtv.com/severe-weather-set-to-return/video_bf36e6a1-304c-5a49-8452-d29be45f237b.html",
+          "source": "wandtv.com"
+        },
+        {
+          "title": "On the edge of a greater severe storm risk Tuesday",
+          "snippet": "",
+          "url": "https://www.kcrg.com/2026/03/09/chance-few-stronger-storms-tuesday-then-colder/",
+          "source": "KCRG"
+        },
+        {
+          "title": "Preparations underway as Tuesday's severe storms could bring possible flooding, hail, and tornadoes",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/chicago/news/weather-preparations-underway-ahead-severe-storms/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "kmi",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 9 Mar 2026 22:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSga1zlOYF0dIAstEHm67DN8a4yzDjcsiLyyV9RcbcfGQTW6arKNpIa4k7ClVg",
       "pictureSource": "Nieuwsblad",
@@ -43,16 +71,16 @@
           "source": "Nieuwsblad"
         },
         {
-          "title": "KMI waarschuwt voor dichte mist: \"Zichtbaarheid kan lokaal minder dan 100 meter zijn\"",
-          "snippet": "",
-          "url": "https://www.vrt.be/vrtnws/nl/2026/03/07/kmi-mist-code-geel/",
-          "source": "VRT"
-        },
-        {
           "title": "zichtbaarheid kan tot en met zondagochtend lokaal minder dan 100 meter zijn",
           "snippet": "",
           "url": "https://www.hln.be/weernieuws/zichtbaarheid-kan-tot-en-met-zondagochtend-lokaal-minder-dan-100-meter-zijn~ac484c3e/",
           "source": "HLN"
+        },
+        {
+          "title": "KMI waarschuwt voor mist zaterdagochtend: code geel in bijna heel Vlaanderen",
+          "snippet": "",
+          "url": "https://www.gva.be/binnenland/kmi-waarschuwt-voor-mist-zaterdagochtend-code-geel-in-bijna-heel-vlaanderen/139781445.html",
+          "source": "GVA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +115,7 @@
     },
     {
       "title": "het weer",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 9 Mar 2026 22:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPubnzodZmIDHQVGirAtTY6BFIyrnyIce9HjuIA2chQvRCKEgBzJiJjcdSlM",
       "pictureSource": "Ruben Weytjens",
@@ -115,16 +143,16 @@
     },
     {
       "title": "carlos alcaraz",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 9 Mar 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVom7jryYs_w-jnNUWCmLp1lZchTnZI7nnhl6S6Oof7x02iDzbCMYOm9ibTyo",
-      "pictureSource": "Yahoo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvXQdKyckBsyqWtzFG8D01dfyzq1m-s6mqIZO_5fAWz-lMO7wWbX3TmQe618c",
+      "pictureSource": "MARCA",
       "relatedSearch": [
         {
-          "title": "Alcaraz, Djokovic y Swiatek pasan ronda; Cerúndolo, Andreeva y Fritz quedan fuera",
+          "title": "Alcaraz es el terror de Francia en el camino a los octavos de Indian Wells",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/alcaraz-djokovic-swiatek-pasan-ronda-051000030.html",
-          "source": "Yahoo"
+          "url": "https://www.marca.com/tenis/indian-wells/2026/03/10/alcaraz-terror-francia-camino-octavos-indian-wells.html",
+          "source": "MARCA"
         },
         {
           "title": "Espectáculo En El Tenis Mundial Durante El Torneo De Indian Wells 2026",
@@ -133,10 +161,10 @@
           "source": "Pausa.MX"
         },
         {
-          "title": "Alcaraz remonta contra Rinderknech y accede a los octavos de Indian Wells",
+          "title": "Alcaraz, Djokovic y Swiatek pasan ronda; Cerúndolo, Andreeva y Fritz quedan fuera",
           "snippet": "",
-          "url": "https://elpais.com/deportes/tenis/2026-03-10/alcaraz-remonta-contra-rinderknech-y-accede-a-los-octavos-de-indian-wells.html",
-          "source": "EL PAÍS"
+          "url": "https://es-us.noticias.yahoo.com/deportes/alcaraz-djokovic-swiatek-pasan-ronda-051000030.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +229,26 @@
       "title": "indian wells",
       "trafficCount": "200+",
       "pubDate": "Mon, 9 Mar 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPiXRd3DlwRQiSlQ2wsb18n1a_Yxuy1qb4c-GtXGUMUMmzt_Hu7s-4XR1pK5Q",
-      "pictureSource": "Flashscore.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIuKa97FuPe7Dw6E3Y-T5HOcDxwoKBD24FgsqkOl_UcvHn4Bdkk2xkqwSbBI",
+      "pictureSource": "Tennis365",
       "relatedSearch": [
         {
-          "title": "Unseeded Katerina Siniakova completes comeback to stun Mirra Andreeva at Indian Wells",
+          "title": "WTA Rankings set for major shake up as Indian Wells champion crashes out",
           "snippet": "",
-          "url": "https://www.flashscore.com/news/tennis-indian-wells-atp-singles-unseeded-katerina-siniakova-completes-comeback-to-stun-mirra-andreeva-at-indian-wells/Y1UIyfdm/",
-          "source": "Flashscore.com"
+          "url": "https://www.tennis365.com/tennis-news/mirra-andreeva-screams-spectators-indian-wells-defeat",
+          "source": "Tennis365"
+        },
+        {
+          "title": "Tennis Star Mirra Andreeva Facing Backlash For Being 'Sore Loser'",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/tennis-star-mirra-andreeva-facing-014438247.html",
+          "source": "Yahoo Sports"
         },
         {
           "title": "Tennis, WTA – BNP Paribas Open 2026: Kartal upends Keys",
           "snippet": "",
           "url": "https://www.tennismajors.com/wta-tour-news/defending-champion-andreeva-crashes-out-amid-behavioral-meltdown-as-keys-falls-to-kartal-846316.html",
           "source": "Tennis Majors"
-        },
-        {
-          "title": "Defending champion Mirra Andreeva reacts to a hostile crowd after falling to Katerina Siniakova in the third round at Indian Wells",
-          "snippet": "",
-          "url": "https://themercury.com/news/national/defending-champion-mirra-andreeva-reacts-to-a-hostile-crowd-after-falling-to-katerina-siniakova-in/image_9fc69c43-d025-5f2a-9013-4a5322ee8356.html",
-          "source": "themercury.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,28 +277,6 @@
           "snippet": "",
           "url": "https://www.manilatimes.net/2026/03/09/sports/eala-faces-world-no-14-linda-noskova-at-indian-wells-4th-round/2295613",
           "source": "The Manila Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "contrôle technique des véhicules",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 9 Mar 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKN63-vtjQ3Gx16wwkQ7l1XTVYSyfV3C3X89tncvow_0E_YfsbxMYimAOA66I",
-      "pictureSource": "Sudinfo",
-      "relatedSearch": [
-        {
-          "title": "De plus en plus de voitures recalées au contrôle technique pour une raison bien spécifique : « C’était le sort de plus de 48.500 véhicules en 2025 ! »",
-          "snippet": "",
-          "url": "https://www.sudinfo.be/id1120433/article/2026-03-09/de-plus-en-plus-de-voitures-recalees-au-controle-technique-pour-une-raison-bien",
-          "source": "Sudinfo"
-        },
-        {
-          "title": "Record de voitures diesel recalées: pourquoi de plus en plus de Flamands passent leur contrôle technique en Wallonie",
-          "snippet": "",
-          "url": "https://www.7sur7.be/belgique/record-de-voitures-diesel-recalees-pourquoi-de-plus-en-plus-de-flamands-passent-leur-controle-technique-en-wallonie~a63cccee/",
-          "source": "7sur7.be"
         }
       ],
       "link": "https://imtaqin.id/"
