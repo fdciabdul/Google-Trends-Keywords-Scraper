@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-03-11 23:52:03",
+  "lastUpdate": "2026-03-12 00:00:44",
   "data": [
     {
-      "title": "ช่อง 3",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 11 Mar 2026 16:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyF7EAhM_QBIVWcahjZI_Sk-e8eEIVjw0HF84P7y-W-_loLeoMA7xKcFvM0vg",
-      "pictureSource": "ผู้จัดการออนไลน์",
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 11 Mar 2026 16:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV3Sh2Z4i-ZRKjMTAY4pnh9MjlQfNNtroDdDCQvM1zmR_CFargpccx9CvA3zw",
+      "pictureSource": "KRQE News 13",
       "relatedSearch": [
         {
-          "title": "“แอน ทองฯ” กล่อม “โป๊ป” เล่นละครเรื่องใหม่ ยกเป็นสมบัติช่อง - รอวันกลับมาส่องแสง แต่ให้ดังเท่าบุพเพฯ คงทำไม่ได้",
+          "title": "Warmer weather returns Thursday with a high fire danger",
           "snippet": "",
-          "url": "https://mgronline.com/entertainment/detail/9690000023658",
-          "source": "ผู้จัดการออนไลน์"
+          "url": "https://www.krqe.com/weather/video-forecast/warmer-weather-returns-thursday-with-a-high-fire-danger/",
+          "source": "KRQE News 13"
         },
         {
-          "title": "ที่สุดของความปัง! “แอน ทองประสม” คว้า “โป๊ป” เป็นมนุษย์ต่างดาวประชันรัก “มิ้นท์ รัญชน์รวี”",
+          "title": "Breezy winds, mountain snow, and a big warm-up on the way",
           "snippet": "",
-          "url": "https://today.line.me/th/v3/article/eL86r5B",
-          "source": "LINE TODAY"
+          "url": "https://www.kivitv.com/weather/breezy-winds-mountain-snow-and-a-big-warm-up-on-the-way",
+          "source": "Idaho News 6"
         },
         {
-          "title": "งานฟุตบอลช่อง 3 ปี 2569 มาแน่! ทัพนักแสดงร่วมแถลงใหญ่ \"มหกรรมความบันเทิงฉลองครบรอบ 56 ปี ช่อง 3 มีอะไรใหม่\"",
+          "title": "First Alert: Warmth continues beyond the weekend",
           "snippet": "",
-          "url": "https://entertainment.trueid.net/detail/KBxvLb59ZeMG",
-          "source": "TrueID"
+          "url": "https://www.wdbj7.com/2026/03/04/first-alert-patchy-dense-fog-early/",
+          "source": "WDBJ7"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "สภาพอากาศ",
+      "trafficCount": "20000+",
+      "pubDate": "Wed, 11 Mar 2026 16:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUHsXUv8pKFb2ZB5j1S3F9wsXJvxddPx5TV720WecngyqOGHjEnx0kQkzpKbs",
+      "pictureSource": "posttoday",
+      "relatedSearch": [
+        {
+          "title": "กรมอุตุฯเตือนพายุฤดูร้อนไทยตอนบนรับมือฝนตกหนักและลมแรงจนถึง13มี.ค.69",
+          "snippet": "",
+          "url": "https://www.posttoday.com/general-news/739248",
+          "source": "posttoday"
+        },
+        {
+          "title": "ข่าวพายุฤดูร้อนถล่ม ฝนตกหนัก ลมแรง",
+          "snippet": "",
+          "url": "https://news.ch7.com/detail/860907",
+          "source": "Ch7.com"
+        },
+        {
+          "title": "คาดการณ์อากาศเดือนมี.ค. “ฝนน้อย” กว่าปกติ",
+          "snippet": "",
+          "url": "https://www.tnnthailand.com/earth/228186/",
+          "source": "TNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "날씨",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 11 Mar 2026 16:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlE-jxr_Xfu9erpgPVMh7MksJyKOcnFpzCLLuDnxl-tKioy5N3fHq3Zfi_iFQ",
+      "pictureSource": "연합뉴스",
+      "relatedSearch": [
+        {
+          "title": "동해안과 영남 곳곳에 눈·비…중서부는 미세먼지 '나쁨'",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260312029500530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "3월 중순, 강원 산지 대설특보…최대 20cm 폭설",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20260312_0003544715",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[날씨] 오늘까지 대기질 '나쁨'‥영동·경상 비, 산지 비·눈",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6806782_37012.html",
+          "source": "MBC 뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +115,7 @@
     },
     {
       "title": "ผลยูฟ่าแชมเปียนส์ลีก",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 14:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEc8gbcWvxom04jgak8W-ubsEOWtfka_m9XFh3Hb0AeHLA6dflpPudDIP3MZg",
       "pictureSource": "Siamsport",
@@ -215,62 +271,6 @@
           "snippet": "",
           "url": "https://entertain.teenee.com/thaistar/318426.html",
           "source": "Teenee.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 11 Mar 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIHO_L098I8_tTSvsMGpBez0z9CgDCZvXmBMj9KbsQ6aUv0sQvP2cM8OV3LS4",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Real Madrid 3-0 Manchester City: resumen, goles y resultado",
-          "snippet": "",
-          "url": "https://as.com/futbol/champions/real-madrid-manchester-city-en-directo-previa-y-ultima-hora-de-la-champions-league-hoy-en-vivo-f202603-d/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Arbeloa mantiene a Thiago en un once con Huijsen como novedad; Doku por Cherki en el City",
-          "snippet": "",
-          "url": "https://www.infobae.com/america/agencias/2026/03/11/arbeloa-mantiene-a-thiago-en-un-once-con-huijsen-como-novedad-doku-por-cherki-en-el-city/",
-          "source": "Infobae"
-        },
-        {
-          "title": "Fede Valverde, tras su ‘hat trick’ ante el City: “Es el mejor partido de mi carrera”",
-          "snippet": "",
-          "url": "https://elpais.com/deportes/futbol/2026-03-11/fede-valverde-es-el-mejor-partido-de-mi-carrera.html",
-          "source": "EL PAÍS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "โคเวนทรี",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 11 Mar 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjVyIh77DaywTMp_AAmHIi-jGYX2_ZSZkkhK66gPP4kQ4N-N9lLlp3-AyclXY",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Championship & League One LIVE: Action from eight games - scores, match stats & text updates",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c2k8v0y24p9t",
-          "source": "BBC"
-        },
-        {
-          "title": "Championship roundup: Coventry pull away as Middlesbrough are beaten by Charlton",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/mar/11/championship-roundup-coventry-preston-eight-points-middlesbrough",
-          "source": "The Guardian"
-        },
-        {
-          "title": "We've still got work to do - Lampard",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/weve-still-got-lampard-230356627.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
