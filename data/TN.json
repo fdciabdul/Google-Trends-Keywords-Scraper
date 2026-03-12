@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-03-12 10:40:39",
+  "lastUpdate": "2026-03-12 11:00:31",
   "data": [
     {
       "title": "météo",
       "trafficCount": "10000+",
       "pubDate": "Wed, 11 Mar 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtG7xLORCOPa58Avt6ikJDGR6ssbMPEu1zSc45CZHCTygfVD1vAAD0bjIAxc",
-      "pictureSource": "tendanceouest.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_W9yQ5uLARcfMGixFOTtzQvaZ0jFQR-mDDS6YF2t63xbCUPmytzPWXk6zzQ",
+      "pictureSource": "La Chaîne Météo",
       "relatedSearch": [
-        {
-          "title": "Météo Normandie. Attention à la chute brutale des températures, risque de gelées dès vendredi dans plusieurs départements",
-          "snippet": "",
-          "url": "https://www.tendanceouest.com/actualite-437172-meteo-normandie-attention-a-la-chute-brutale-des-temperatures-risque-de-gelees-des-vendredi-dans-plusieurs-departements",
-          "source": "tendanceouest.com"
-        },
         {
           "title": "Météo du vendredi 13 mars : pluie battante et vent par l'ouest",
           "snippet": "",
@@ -21,10 +15,16 @@
           "source": "La Chaîne Météo"
         },
         {
-          "title": "Vents violents : voici le seul département placé en vigilance jaune ce jeudi",
+          "title": "Vents forts dans le Pas-de-Calais : le département en vigilance jusqu’à vendredi matin",
           "snippet": "",
-          "url": "https://www.cnews.fr/france/2026-03-11/vents-violents-voici-le-seul-departement-place-en-vigilance-jaune-ce-jeudi",
-          "source": "CNews"
+          "url": "https://actu.fr/societe/vents-forts-dans-le-pas-de-calais-le-departement-en-vigilance-jusqua-vendredi-matin_63965081.html",
+          "source": "Actu.fr"
+        },
+        {
+          "title": "Une matinée nuageuse avant un retour du soleil ce jeudi",
+          "snippet": "",
+          "url": "https://www.journaldemillau.fr/2026/03/11/une-matinee-nuageuse-avant-un-retour-du-soleil-ce-jeudi-13267132.php",
+          "source": "Le Journal de Millau"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +33,26 @@
       "title": "weather",
       "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu9Pj1TFvhlfMPilse_KEV8IKIMc806hMRknqCaHrwgDXqHl7JK9YHoZ0A9zY",
-      "pictureSource": "WAVY.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVuzLfPAuGmvCKPP755tEkWAPlHD6HJrWoItP5jQVQioLvuK9OIX0Yra46lIA",
+      "pictureSource": "WTTE",
       "relatedSearch": [
         {
-          "title": "Blog: More record heat then temps drop like a brick",
+          "title": "Columbus Weather: Chilly, breezy Thursday with sun and clouds",
           "snippet": "",
-          "url": "https://www.wavy.com/blogs/weather-blog/blog-more-record-heat-then-temps-drop-like-a-brick/",
-          "source": "WAVY.com"
+          "url": "https://myfox28columbus.com/news/local/columbus-ohio-weather-forecast-chilly-cool-breezy-thursday-sun-clouds-march-12-2026",
+          "source": "WTTE"
         },
         {
-          "title": "CWG Live: Much colder tomorrow after today’s record warmth, storms",
+          "title": "Colder today, then the wind cranks up on Friday",
           "snippet": "",
-          "url": "https://www.washingtonpost.com/weather/2026/03/11/dc-weather-live-updates-wednesday-warm-storms/",
-          "source": "The Washington Post"
+          "url": "https://www.wdtn.com/weather/daily-forecast/colder-today-then-the-wind-cranks-up-on-friday/",
+          "source": "WDTN.com"
         },
         {
-          "title": "Storm Team 11: Rain to heavy snow this morning",
+          "title": "Weather About to Get Ugly",
           "snippet": "",
-          "url": "https://www.wjhl.com/wjhl-weather/forecast/storm-team-11-rain-to-heavy-snow-this-morning/",
-          "source": "WJHL"
+          "url": "https://whbl.com/2026/03/12/weather-about-to-get-ugly/",
+          "source": "WHBL News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -74,7 +74,7 @@
           "title": "طقس اليوم.. أمطار في هذه المناطق",
           "snippet": "",
           "url": "https://www.assabahnews.tn/ar/%D8%B7%D9%82%D8%B3/141947-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%81%D9%8A-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-15",
-          "source": "جريدة الصباح نيوز"
+          "source": "Assabah news"
         },
         {
           "title": "حذار.. ضباب كثيف يحجب الرؤية في هذه المناطق",
@@ -105,17 +105,17 @@
           "source": "اليوم السابع"
         },
         {
-          "title": "السينما والمسرح في حياة هاني شاكر: فنان شامل جسد شخصية سيد درويش طفلًا",
+          "title": "بعد أزمته الصحية : هذا شنوا قالت وزيرة الثقافة المصرية على هاني شاكر",
           "snippet": "",
-          "url": "https://www.matnnews.com/273422",
-          "source": "متن نيوز"
+          "url": "https://www.tuniscope.com/ar/article/426986/arabe/star/hani-chaker-241516",
+          "source": "Tuniscope"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bodo glimt",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 11 Mar 2026 14:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3vLzcsG_QOGPgVc4_DTR7tG6BJrvRSuABeY-b2h9RSrrQZg4oya17jS9fyP4",
       "pictureSource": "BBC",
@@ -145,26 +145,26 @@
       "title": "city",
       "trafficCount": "100+",
       "pubDate": "Wed, 11 Mar 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpbml-NH5Ff9Y4Mx5pfizXAATaYhS1K9dub2z-kpJEa8eWKgEt3wQpNBCJgmM",
-      "pictureSource": "Forbes",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vmNMnZhZqseKnd0jSLVWdwuZPoanY_P_AewlkwCctofu3aAg9bnNe9-jY0Q",
+      "pictureSource": "Kitsap Sun",
       "relatedSearch": [
         {
-          "title": "The 50 Best Cities In The World For 2026—According To Time Out",
+          "title": "Port Orchard partners with Kirkland startup to test AI permit reviews",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/laurabegleybloom/2026/03/11/50-best-cities-in-the-world-for-2026-according-to-time-out/",
-          "source": "Forbes"
+          "url": "https://www.kitsapsun.com/story/news/2026/03/12/port-orchard-will-use-ai-software-to-test-city-building-permit-reviews/89073637007/",
+          "source": "Kitsap Sun"
         },
         {
-          "title": "The top 10 world’s best cities to visit includes one capital whose country just issued a frightening travel advisory",
+          "title": "Charleston City Council to revise e-bike ordinance, seeks public input",
           "snippet": "",
-          "url": "https://www.aol.com/top-10-world-best-cities-174731305.html",
-          "source": "AOL.com"
+          "url": "https://www.live5news.com/2026/03/12/charleston-city-council-revise-e-bike-ordinance-seeks-public-input/",
+          "source": "Live 5 News"
         },
         {
-          "title": "Time Out names Melbourne the best city in the world – but is it more ‘vibes’ than hard data?",
+          "title": "E-bikes vs. mopeds: The difference is becoming a sticking point for Charleston-area municipalities",
           "snippet": "",
-          "url": "https://www.theguardian.com/australia-news/2026/mar/11/time-out-melbourne-best-city-world",
-          "source": "The Guardian"
+          "url": "https://www.postandcourier.com/charleston_sc/charleston-mount-pleasant-regulate-e-bike-ordinance/article_29d2aefa-e61d-4cb1-a058-4cf8192f021f.html",
+          "source": "Post and Courier"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,38 +189,10 @@
           "source": "Libertad Digital"
         },
         {
-          "title": "El Real Madrid se fija en la cantera del Elche",
+          "title": "El Bernabéu en pie para despedir a Thiago Pitarch: la ovación que reconoce su partidazo",
           "snippet": "",
-          "url": "https://www.informacion.es/elche-cf/2026/03/12/real-madrid-fija-cantera-elche-127863245.html",
-          "source": "Información"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "manchester city",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 11 Mar 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7D66t8hOy3406XkTVPo0nnl0zDHZcZVAiOAC-4JKaUpbwo6I3cd9qWBYVaPI",
-      "pictureSource": "Sports Mole",
-      "relatedSearch": [
-        {
-          "title": "Real Madrid head coach Alvaro Arbeloa confirms worrying Los Blancos injury after sensational Champions League win",
-          "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/real-madrid/champions-league/news/didnt-look-good-arbeloa-confirms-real-madrid-injury-after-sensational-ucl-win_593632.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "Ferland Mendy injury 'does not look good' - Arbeloa",
-          "snippet": "",
-          "url": "https://tribuna.com/en/news/2026-03-11-ferland-mendy-injury-does-not-look-good-arbeloa/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Real Madrid Star Suffers Hamstring Injury in Manchester City Victory",
-          "snippet": "",
-          "url": "https://nationaltoday.com/us/nh/manchester/news/2026/03/12/real-madrid-star-suffers-hamstring-injury-in-manchester-city-victory/",
-          "source": "National Today"
+          "url": "https://www.marca.com/futbol/real-madrid/2026/03/12/bernabeu-pie-despedir-thiago-pitarch-ovacion-reconoce-partidaz-video.html",
+          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://www.eurosport.fr/football/ligue-des-champions/2025-2026/ligue-des-champions-i-8e-de-finale-aller-lirreel-fede-valverde-voit-triple-et-le-real-madrid-balaie-manchester-city_sto23280021/story.shtml",
           "source": "Eurosport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chelsea",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 11 Mar 2026 13:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNTvoaw510hdQn2UfnIMHj5fySUpaRUzuo7MNE4gbObO3Zw1Vhaatwduyc8c",
+      "pictureSource": "The Chelsea Chronicle",
+      "relatedSearch": [
+        {
+          "title": "What Filip Jorgensen did in dressing room after Chelsea defeat to PSG",
+          "snippet": "",
+          "url": "https://www.thechelseachronicle.com/match-coverage/what-filip-jorgensen-did-in-dressing-room-after-chelsea-defeat-to-psg/",
+          "source": "The Chelsea Chronicle"
+        },
+        {
+          "title": "VIDEO: Furious Enzo Fernandez completely loses it with Filip Jorgensen as he rages at Chelsea goalkeeper for costly error in PSG defeat",
+          "snippet": "",
+          "url": "https://www.goal.com/en-sa/lists/video-enzo-fernandez-filip-jorgensen-chelsea-psg-champions-league/blt96cc50755b0cea8b",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Jamie Carragher tears into Chelsea and names problem position - 'A million miles off'",
+          "snippet": "",
+          "url": "https://www.mirror.co.uk/sport/football/news/carragher-chelsea-psg-champions-league-36855080",
+          "source": "The Mirror"
         }
       ],
       "link": "https://imtaqin.id/"
