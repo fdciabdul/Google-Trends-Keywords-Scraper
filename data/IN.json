@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-03-13 21:03:37",
+  "lastUpdate": "2026-03-13 21:18:41",
   "data": [
     {
+      "title": "twitch",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 13 Mar 2026 14:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLHgYLL-u_f0-XONe4KUfRucQkFZI08MQ_2QSlCG6I9hktqBsTv7qDOTq0m4w",
+      "pictureSource": "The Times of India",
+      "relatedSearch": [
+        {
+          "title": "Twitch’s new ‘Gift ’em All’ feature could let users gift subs to entire streams",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/world/us-streamers/twitchs-new-gift-em-all-feature-could-let-users-gift-subs-to-entire-streams/articleshow/129522092.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Gotta gift ’em all? Twitch’s experimental feature gives Subscriptions to everyone.",
+          "snippet": "",
+          "url": "https://www.tubefilter.com/2026/03/12/twitch-subscriptions-gift-em-all-experimental-feature/",
+          "source": "Tubefilter"
+        },
+        {
+          "title": "Twitch is testing a “Gift ‘Em All” feature to buy subs for everyone watching a stream",
+          "snippet": "",
+          "url": "https://www.dexerto.com/twitch/twitch-is-testing-a-gift-em-all-feature-to-buy-subs-for-everyone-watching-a-stream-3333572/",
+          "source": "Dexerto"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "championship",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 13 Mar 2026 13:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6sCrV6_hxBsSMAOepuJhi7UjsVtuZJ28_cFk_fFH3exERx6qWdUuHPV4b7b8",
       "pictureSource": "Sky Sports",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.nytimes.com/athletic/7107919/2026/03/12/wrexham-goalposts-ball-bounce/",
           "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "russian",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 13 Mar 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxDxoCvneYUIAY-Ek5Z0O9PUYxKUeRKCzx_Cf7W9clEVDYkloaGwYTt11P-WQ",
-      "pictureSource": "NDTV",
-      "relatedSearch": [
-        {
-          "title": "After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea",
-          "snippet": "",
-          "url": "https://www.ndtv.com/world-news/iran-israel-us-war-after-india-us-temporarily-allows-sale-of-russian-oil-at-sea-middle-east-conflict-11208403",
-          "source": "NDTV"
-        },
-        {
-          "title": "Crude tankers from Russia, Liberia on way to Indian ports",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/india/crude-tankers-from-russia-liberia-on-way-to-indian-ports/articleshow/129564372.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "U.S. grants India-like waiver to other countries to buy Russian oil",
-          "snippet": "",
-          "url": "https://www.thehindu.com/news/international/trump-administration-takes-steps-to-ease-sanction-on-russian-oil/article70737840.ece",
-          "source": "The Hindu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.theguardian.com/film/video/2026/mar/13/oscars-2026-who-should-win-and-who-actually-will-the-latest",
           "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "russian",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 13 Mar 2026 13:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxDxoCvneYUIAY-Ek5Z0O9PUYxKUeRKCzx_Cf7W9clEVDYkloaGwYTt11P-WQ",
+      "pictureSource": "NDTV",
+      "relatedSearch": [
+        {
+          "title": "After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea",
+          "snippet": "",
+          "url": "https://www.ndtv.com/world-news/iran-israel-us-war-after-india-us-temporarily-allows-sale-of-russian-oil-at-sea-middle-east-conflict-11208403",
+          "source": "NDTV"
+        },
+        {
+          "title": "Crude tankers from Russia, Liberia on way to Indian ports",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/india/crude-tankers-from-russia-liberia-on-way-to-indian-ports/articleshow/129564372.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "U.S. grants India-like waiver to other countries to buy Russian oil",
+          "snippet": "",
+          "url": "https://www.thehindu.com/news/international/trump-administration-takes-steps-to-ease-sanction-on-russian-oil/article70737840.ece",
+          "source": "The Hindu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +183,16 @@
           "source": "WRAL News"
         },
         {
-          "title": "National Pi Day is March 14. Find Hudson Valley pie and food deals",
+          "title": "34 Pi Day Deals for a Slice of Savings on 3.14",
           "snippet": "",
-          "url": "https://www.yahoo.com/lifestyle/articles/national-pi-day-march-14-194154305.html",
-          "source": "Yahoo"
+          "url": "https://www.today.com/food/restaurants/pi-day-food-deals-2026-rcna261898",
+          "source": "TODAY.com"
         },
         {
-          "title": "In the 608: It's Pi Day (3.14) on Saturday! Here's how you can celebrate and support local",
+          "title": "National Pi Day Food Deals 2026: Score on Pizza, Pies, and Doughnuts",
           "snippet": "",
-          "url": "https://www.channel3000.com/features/in-the-608-its-pi-day-3-14-on-saturday-heres-how-you-can-celebrate/article_36d1f430-b740-4772-bcb1-54541a38d718.html",
-          "source": "Channel 3000"
+          "url": "https://www.yahoo.com/lifestyle/articles/national-pi-day-food-deals-201600157.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,13 +201,13 @@
       "title": "adani total gas",
       "trafficCount": "2000+",
       "pubDate": "Fri, 13 Mar 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAYa52PmOnFVEVUVcpjrNnALQYuUVGpll0hx5ArHEPaRIt9LVJVfmfV_AGiOw",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSClgauVGxeAOkakK-Vq6-eWGuIGvTUBgMncFSCt5OfsTwN5p1frEdqRSV5LHA",
       "pictureSource": "The Ken",
       "relatedSearch": [
         {
           "title": "India is running out of gas. Why is Adani Total Gas running up?",
           "snippet": "",
-          "url": "https://the-ken.com/story/india-is-running-out-of-gas-why-is-adani-total-gas-running-up/",
+          "url": "https://the-ken.com/story/india-is-running-out-of-gas-why-is-adani-total-gas-running-up/?utm_source=web&utm_medium=homepage&utm_campaign=con_1_unit_1",
           "source": "The Ken"
         },
         {
@@ -211,72 +239,44 @@
           "source": "Goal.com"
         },
         {
-          "title": "Preview: Torino vs Parma - prediction, team news, lineups",
+          "title": "Suzuki nightmare 😱 Simeone, Pellegrino lethal 🎯 Torino-Parma draw ⏸ Cremaschi injured 😢",
           "snippet": "",
-          "url": "https://www.sportsmole.co.uk/football/torino/preview/torino-vs-parma-prediction-team-news-lineups_593613.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "Torino vs Parma – D’Aversa backs Adams & draws inspiration from tennis star Sinner",
-          "snippet": "",
-          "url": "https://onefootball.com/en/news/torino-vs-parma-daversa-backs-adams-draws-inspiration-from-tennis-star-sinner-42553223",
+          "url": "https://onefootball.com/en/news/suzuki-nightmare-simeone-pellegrino-lethal-torino-parma-draw-cremaschi-injured-42553440",
           "source": "OneFootball"
+        },
+        {
+          "title": "Torino coach D’Aversa gives Che Adams update ahead of Parma clash",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/torino-coach-d-aversa-gives-163500989.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "labrinth euphoria",
-      "trafficCount": "200+",
+      "title": "emily rudd",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 13 Mar 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuEOY4315F4u76mZpuGQ8zuWTD9JZ_paNUcGo421pareZFidNj6_j0sD3eM5A",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReM-V7vxbHUvsII1EN23thoP1oLrCEB7LwPHLc7tEdCpaiyoNnpzYwE9BEDJk",
+      "pictureSource": "Netflix",
       "relatedSearch": [
         {
-          "title": "Musician Labrinth says he is 'done with this industry' and hits out at Euphoria",
+          "title": "Which ONE PIECE Character Are You?",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/cx28z41v98do",
-          "source": "BBC"
+          "url": "https://www.netflix.com/tudum/articles/one-piece-character-quiz",
+          "source": "Netflix"
         },
         {
-          "title": "Labrinth Built the Sound of Euphoria. Then Sam Levinson Left Him Out. Two Days Later, Labrinth Went Scorched-Earth",
+          "title": "‘One Piece’ Season 2 review: Swashbuckling sophomore season is a Gum-Gum good time across the Grand Line",
           "snippet": "",
-          "url": "https://www.yahoo.com/entertainment/music/articles/labrinth-built-sound-euphoria-then-162550779.html",
-          "source": "Yahoo"
+          "url": "https://www.thehindu.com/entertainment/movies/one-piece-netflix-live-action-season-2-review-grand-line-luffy-straw-hats/article70731162.ece",
+          "source": "The Hindu"
         },
         {
-          "title": "Labrinth Says ‘F— “Euphoria”’ in Cryptic Social Media Post: ‘I’m Done With This Industry’",
+          "title": "One Piece Season 2 cast reveal the best advice they got playing the Straw Hats | Exclusive - India Today",
           "snippet": "",
-          "url": "https://www.imdb.com/fr/news/ni65748396/?ref_=nwc_art_perm",
-          "source": "IMDb"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "19 34 viral video",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 13 Mar 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhJUs3w7d6WbXxQ7xmJF57ZO3vhUC5ClzDmmOraKcp5DFconp2yNavzB8qtw",
-      "pictureSource": "Bollywood Life",
-      "relatedSearch": [
-        {
-          "title": "19 Minute 34 Second Viral Video: SHOCKING twist unlocked ahead of Sofik SK-Dustu Sonali's Season 2 clip",
-          "snippet": "",
-          "url": "https://www.bollywoodlife.com/viral-stories/19-minute-34-second-viral-video-shocking-twist-unlocked-ahead-of-sofik-sk-dustu-sonalis-season-2-clip-3326018/",
-          "source": "Bollywood Life"
-        },
-        {
-          "title": "19 Minute 34 Second Viral MMS: Still Trying To Download The Clip? Think Twice Before You Do That Or You Might Face…",
-          "snippet": "",
-          "url": "https://www.newsx.com/offbeat/19-minute-34-second-viral-mms-link-watch-download-video-still-trying-to-download-the-clip-think-twice-before-you-do-that-or-you-might-face-182082/",
-          "source": "NewsX"
-        },
-        {
-          "title": "Viral News | ⚡The Truth Behind the '19 Minute 34 Second' Viral MMS Season 1 and Season 2",
-          "snippet": "",
-          "url": "https://www.latestly.com/quickly/social-viral/the-truth-behind-the-19-minute-34-second-viral-mms-season-1-and-season-2-7350385.html",
-          "source": "LatestLY"
+          "url": "https://www.indiatoday.in/entertainment/ott/video/one-piece-season-2-cast-reveal-the-best-advice-they-got-playing-the-straw-hats-exclusive-2880816-2026-03-12",
+          "source": "India Today"
         }
       ],
       "link": "https://imtaqin.id/"
