@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-13 14:24:19",
+  "lastUpdate": "2026-03-13 14:43:30",
   "data": [
     {
       "title": "קיבוץ כברי",
@@ -14,15 +14,9 @@
       "title": "אסף רפפורט",
       "trafficCount": "500+",
       "pubDate": "Fri, 13 Mar 2026 05:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCrOrKg8Ju3CxYp64qvgJ_7R6tVaZFf8i8Ysc2lgmMM4zujmZnf3TwGxCLWs",
-      "pictureSource": "גלובס זירת העסקים של ישראל",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTnY3pfEV6qyU9ofDCwYLLuyjnTr7gMYfSFTnQl_UdTHbDjdiLLzuM5gLDUyw",
+      "pictureSource": "Calcalist",
       "relatedSearch": [
-        {
-          "title": "נחשף בגלובס: ההייטקיסטים יהפכו לבעלי השליטה ברשת 13",
-          "snippet": "",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001537500",
-          "source": "גלובס זירת העסקים של ישראל"
-        },
         {
           "title": "דרהי בחוץ, רפפורט בפנים: קבוצת ההייטקיסטים רוכשת את רשת 13",
           "snippet": "",
@@ -30,9 +24,15 @@
           "source": "Calcalist"
         },
         {
-          "title": "רשות התחרות דחתה את רכישת פטריק דרהי, אסף רפפורט שוב בתמונה",
+          "title": "נחשף בגלובס: ההייטקיסטים יהפכו לבעלי השליטה ברשת 13",
           "snippet": "",
-          "url": "https://www.maariv.co.il/culture/tv/article-1295851",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001537500",
+          "source": "גלובס זירת העסקים של ישראל"
+        },
+        {
+          "title": "אחרי עסקת הענק עם גוגל: אסף רפפורט רכש את רשת 13",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/culture/tv/article-1295868",
           "source": "מעריב"
         }
       ],
@@ -52,16 +52,16 @@
           "source": "mako"
         },
         {
-          "title": "מפקד פיקוד צפון לוקח אחריות על המחדל: \"אני טעיתי\"",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/military/article-1295356",
-          "source": "מעריב"
-        },
-        {
           "title": "מתי הייתה אמורה לצאת ההתרעה לצפון? סיכום היום ה-13 למלחמה במזרח התיכון",
           "snippet": "",
           "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1011184/",
           "source": "כאן 11"
+        },
+        {
+          "title": "איראן וחיזבאללה ירו שלושה מטחים משולבים; כ־200 שיגורים מלבנון מהלילה",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/news/politics/2026-03-12/ty-article/.premium/0000019c-e0b9-d9b7-a5fd-effbc95f0000",
+          "source": "הארץ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,20 +98,20 @@
       "title": "יום ירושלים האיראני",
       "trafficCount": "100+",
       "pubDate": "Fri, 13 Mar 2026 04:30:00 -0700",
-      "picture": "",
-      "pictureSource": "ynet",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3DpUjfCUCmT1RO6pnfH-6pi24vcldVjbLzb-LqotLVT-_O1oU2a8g_lqQo8",
+      "pictureSource": "mako",
       "relatedSearch": [
-        {
-          "title": "צה\"ל תקף בטהרן ב\"יום ירושלים\" האיראני, לריג'אני ופזשכיאן יצאו מהמסתור",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/skxz44z5zl",
-          "source": "ynet"
-        },
         {
           "title": "עסקים כרגיל בטהראן: בכירי המשטר האיראני צועדים ללא חשש בשיא המלחמה",
           "snippet": "",
           "url": "https://www.mako.co.il/news-world/2026_q1/Article-357c36f1e86ec91026.htm",
           "source": "mako"
+        },
+        {
+          "title": "צה\"ל תקף בטהרן ב\"יום ירושלים\" האיראני, לריג'אני ופזשכיאן יצאו מהמסתור",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/skxz44z5zl",
+          "source": "ynet"
         },
         {
           "title": "דיווח: פיצוצים בעצרת \"יום קודס\" בטהרן; יורט כטב\"ם ששוגר לצפון",
@@ -164,10 +164,10 @@
           "source": "https://www.durhamccc.co.uk/"
         },
         {
-          "title": "Unchanged Bangladesh bowl first; Haris Rauf in for Pakistan",
+          "title": "Bangladesh wins toss, elects to field against Pakistan in 2nd one-day cricket international",
           "snippet": "",
-          "url": "https://www.espn.com/cricket/story/_/id/48192496/unchanged-bangladesh-bowl-first-haris-rauf-pakistan",
-          "source": "ESPN"
+          "url": "https://abcnews.com/Sports/wireStory/bangladesh-wins-toss-elects-field-pakistan-2nd-day-131030526",
+          "source": "ABC News"
         },
         {
           "title": "Maaz Sadaqat Stars in Pakistan vs Bangladesh ODI Thriller",
@@ -182,20 +182,20 @@
       "title": "גאיה אורן",
       "trafficCount": "1000+",
       "pubDate": "Fri, 13 Mar 2026 02:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5Ee93ApGx96FtRnCExkZ3gu_s9yY9Y9Uy3xVrQIi3hyUjrjhyXQ4gLoO9pt8",
-      "pictureSource": "ynet",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlFsVXKszWm3kyc2uUFMqGwxErS31BPTEFt7NeH-c0u9MkcLF6Bq54Behh6jQ",
+      "pictureSource": "mako",
       "relatedSearch": [
+        {
+          "title": "תאונה קשה ברחובות: נערה בת 17 נהרגה מפגיעת רכב",
+          "snippet": "",
+          "url": "https://www.mako.co.il/news-israel/2026_q1/Article-2ffe35ad3a3ec91027.htm",
+          "source": "mako"
+        },
         {
           "title": "גאיה בת ה-17 נהרגה בדרך למרחב מוגן, הדורס נעצר וחשוד בנהיגה בשכרות",
           "snippet": "",
           "url": "https://www.ynet.co.il/news/article/hjiew8w9wg",
           "source": "ynet"
-        },
-        {
-          "title": "נלחצה מההתרעה ורצה לכביש: נערה בת 17 נדרסה למוות בזמן אזעקה ברחובות",
-          "snippet": "",
-          "url": "https://www.mako.co.il/health-news/Article-f5b535ad3a3ec91027.htm",
-          "source": "mako"
         },
         {
           "title": "אסון בזמן האזעקה: בת 17 רצה למרחב המוגן - ונדרסה למוות",
