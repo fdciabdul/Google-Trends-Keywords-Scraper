@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-15 17:44:48",
+  "lastUpdate": "2026-03-15 17:56:22",
   "data": [
+    {
+      "title": "eliteserien - kamper",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 15 Mar 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz1q28ZMZLVVPgQsyeolwYUqSKadRFWYtGMp0jSrF2BMqCoNrm6tJ52FXK1fY",
+      "pictureSource": "Bodø/Glimt",
+      "relatedSearch": [
+        {
+          "title": "Billettinformasjon til kvartfinalen i cupen mot LSK",
+          "snippet": "",
+          "url": "https://www.glimt.no/nyheter/billettinformasjon-til-kvartfinalen-i-cupen-mot-lsk",
+          "source": "Bodø/Glimt"
+        },
+        {
+          "title": "– Misunnelse er ikke en strategi",
+          "snippet": "",
+          "url": "https://www.tv2.no/mening-og-analyse/misunnelse-er-ikke-en-strategi/18650649/",
+          "source": "TV2.no"
+        },
+        {
+          "title": "Vålerenga-leder: –⁠ Uheldig for publikum, negativt sportslig",
+          "snippet": "",
+          "url": "https://www.vg.no/sport/i/5pEpBX/vaalerenga-leder-om-glimt-tilrettelegging-uheldig-for-publikum-negativt-sportslig",
+          "source": "VG"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "igor tudor",
       "trafficCount": "200+",
@@ -59,7 +87,7 @@
     },
     {
       "title": "liverpool vs tottenham",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 15 Mar 2026 09:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbwT7mcPWj2hvF8PdZL58NOX2eAEolKdY469cYntBa4kO5cqNlffTAshXEtsE",
       "pictureSource": "BBC",
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.theguardian.com/football/live/2026/mar/15/embattled-spurs-face-liverpool-womens-league-cup-final-and-more-matchday-live",
           "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vålerenga",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 15 Mar 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlMLaKvJe2fh1jTA9fdodMu_jRrerh7ymhA2gccPXAT1NZ_5eh41nSOwn1UyM",
-      "pictureSource": "Vålerenga",
-      "relatedSearch": [
-        {
-          "title": "Viktig info til alle billettkjøpere",
-          "snippet": "",
-          "url": "https://www.vif-fotball.no/nyheter/viktig-info-til-alle-billettkjopere",
-          "source": "Vålerenga"
-        },
-        {
-          "title": "Ole Sæter benket i sesongåpningen for VIF",
-          "snippet": "",
-          "url": "https://www.tv2.no/direkte/0nr51/sportsdognet-live/69b6c5f114eddeab21bb3b10/ole-saeter-benket-i-sesongapningen-for-vif",
-          "source": "TV2.no"
-        },
-        {
-          "title": "Før kampen VIF",
-          "snippet": "",
-          "url": "https://www.sandefjordfotball.no/nyheter/for-kampen-vif-sandefjord-fotball",
-          "source": "Sandefjord Fotball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +143,7 @@
     },
     {
       "title": "aalesund mot lillestrøm",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 15 Mar 2026 08:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnpSy-IHHpJGC_d0F_Mx-a7tT2VNFq42PezpMHaF0UmuL1ogixQ3enzx6rBxk",
       "pictureSource": "TV2.no",
@@ -170,23 +170,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "vålerenga mot sandefjord",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 15 Mar 2026 08:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlMLaKvJe2fh1jTA9fdodMu_jRrerh7ymhA2gccPXAT1NZ_5eh41nSOwn1UyM",
+      "pictureSource": "Vålerenga",
+      "relatedSearch": [
+        {
+          "title": "Viktig info til alle billettkjøpere",
+          "snippet": "",
+          "url": "https://www.vif-fotball.no/nyheter/viktig-info-til-alle-billettkjopere",
+          "source": "Vålerenga"
+        },
+        {
+          "title": "Ole Sæter benket i sesongåpningen for VIF",
+          "snippet": "",
+          "url": "https://www.tv2.no/direkte/0nr51/sportsdognet-live/69b6c5f114eddeab21bb3b10/ole-saeter-benket-i-sesongapningen-for-vif",
+          "source": "TV2.no"
+        },
+        {
+          "title": "Før kampen VIF",
+          "snippet": "",
+          "url": "https://www.sandefjordfotball.no/nyheter/for-kampen-vif-sandefjord-fotball",
+          "source": "Sandefjord Fotball"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "fc barcelona – sevilla",
       "trafficCount": "1000+",
       "pubDate": "Sun, 15 Mar 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvFaGXGcJ3pOo4RuYc8Lp5vsMM7442B1R_D-6KXUV0Y0zua787Fd2zGii30K8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEXmrkiAcKhZ7--Uxz7XasyS6AHw9xoFPqkJxtjblOZNfTmjtU3jhye4BymxI",
       "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Barcelona - Sevilla hoy, en directo: última hora en el Spotify Camp Nou, LaLiga EA Sports en vivo",
+          "title": "Barcelona 5-2 Sevilla: resumen, goles y resultado",
           "snippet": "",
           "url": "https://as.com/futbol/primera/barcelona-sevilla-hoy-en-directo-laliga-ea-sports-ultima-hora-en-el-spotify-camp-nou-en-vivo-f202603-d/",
           "source": "Diario AS"
         },
         {
-          "title": "VIDEO: así fue el gol de Raphinha para el 1-0 de Barcelona vs Sevilla",
+          "title": "5-2. Raphinha y Cancelo votan Liga",
           "snippet": "",
-          "url": "https://www.365scores.com/es/news/raphinha-gol-barcelona-vs-sevilla/",
-          "source": "365Scores"
+          "url": "https://es-us.noticias.yahoo.com/deportes/5-2-raphinha-lidera-goleada-171826939.html",
+          "source": "Yahoo"
         },
         {
           "title": "Cancelo se estrena con un gol tras provocar dos penaltis a favor",
@@ -229,54 +257,26 @@
       "title": "barcelona mot sevilla",
       "trafficCount": "2000+",
       "pubDate": "Sun, 15 Mar 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2iWzchRTyVBpBxULgm1nRWyCc_MG0v99By07H2dwhYVNc4oOITS0XMQ4ZTgI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEHaw9BfFBXWklYUgC3EZm6DZS4KRqXO6KezqOWnTZEg6C4PVaXjfDt975HHA",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Barcelona vs Sevilla: Spanish La Liga stats & head-to-head",
+          "title": "Barcelona 5-2 Sevilla - Raphinha scores hat-trick in comfortable win",
           "snippet": "",
           "url": "https://www.bbc.com/sport/football/live/c204j74k426t",
           "source": "BBC"
+        },
+        {
+          "title": "Flick’s squad celebrates election day with a dominant win",
+          "snippet": "",
+          "url": "https://www.mundodeportivo.com/en/20260315/1004153071/flick-s-squad-celebrates-election-day-with-dominant-win.html",
+          "source": "Mundo Deportivo"
         },
         {
           "title": "Raphinha pulls off unique penalty feat not seen in a decade 🎯",
           "snippet": "",
           "url": "https://onefootball.com/en/news/raphinha-pulls-off-unique-penalty-feat-not-seen-in-a-decade-42562097",
           "source": "OneFootball"
-        },
-        {
-          "title": "Raphinha hits treble as Liga leaders Barca thrash Sevilla",
-          "snippet": "",
-          "url": "https://www.france24.com/en/live-news/20260315-raphinha-hits-treble-as-liga-leaders-barca-thrash-sevilla",
-          "source": "France 24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kbk mot brann",
-      "trafficCount": "5000+",
-      "pubDate": "Sun, 15 Mar 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGj8sKSEKpUpR4y0YyeGlN_LA_G5_RsrNg4GfjBMMWCklFS5qfwu1d6ic-qvQ",
-      "pictureSource": "VG",
-      "relatedSearch": [
-        {
-          "title": "18-år gammel innbytter senket Brann: –⁠ Sjokkerende svakt",
-          "snippet": "",
-          "url": "https://www.vg.no/sport/i/zOAb99/18-aar-gammel-innbytter-senket-brann-sjokkerende-svakt",
-          "source": "VG"
-        },
-        {
-          "title": "Tapte etter stygg tabbe: – Roter det til",
-          "snippet": "",
-          "url": "https://www.tv2.no/sport/tapte-etter-stygg-tabbe-roter-det-til/18659135/",
-          "source": "TV2.no"
-        },
-        {
-          "title": "Raknet i seriepremieren: – Elendig!",
-          "snippet": "",
-          "url": "https://www.bt.no/sport/ballspark/i/GxyqqV/raknet-elendig",
-          "source": "Bergens Tidende"
         }
       ],
       "link": "https://imtaqin.id/"
