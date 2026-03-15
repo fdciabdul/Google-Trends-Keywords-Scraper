@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-15 01:41:46",
+  "lastUpdate": "2026-03-15 02:39:40",
   "data": [
+    {
+      "title": "google",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 14 Mar 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd5OcLuEjLGQDnlWAs4sLBeBg9ai7quw9_hALPyFk_aqw6AerG4Uo7mPCNAA",
+      "pictureSource": "blog.google",
+      "relatedSearch": [
+        {
+          "title": "How we’re reimagining Maps with Gemini",
+          "snippet": "",
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+          "source": "blog.google"
+        },
+        {
+          "title": "Google Maps gets a very ‘Dora’ update",
+          "snippet": "",
+          "url": "https://www.morningbrew.com/stories/2026/03/13/google-maps-gemini-update",
+          "source": "Morning Brew"
+        },
+        {
+          "title": "Google Maps brings a 3D map to your driving directions",
+          "snippet": "",
+          "url": "https://www.engadget.com/ai/google-maps-brings-a-3d-map-to-your-driving-directions-123000843.html",
+          "source": "Engadget"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "רמלה",
       "trafficCount": "200+",
@@ -46,40 +74,59 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "נפילות",
+      "title": "i24news",
       "trafficCount": "100+",
-      "pubDate": "Sat, 14 Mar 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELDG3BfhhjHmCh3f_-03AgV8otu0-puS01V3O6fnf-nCxI9QO10AqG7C3WJ0",
-      "pictureSource": "מעריב",
+      "pubDate": "Sat, 14 Mar 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSYTOkowBCkB_KMZoao3DJ07U5qCBoayf9tE8-UmnW-f974EpzJj0egSd8x6Q",
+      "pictureSource": "Euronews.com",
       "relatedSearch": [
         {
-          "title": "מרבית השיגורים מאיראן יורטו; דיווחים אודות נפילות בראשון לציון, חולון ורמלה",
+          "title": "Iranian lawmaker says Ukraine a legitimate target over drone support",
           "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1296357",
-          "source": "מעריב"
+          "url": "https://www.euronews.com/2026/03/14/iranian-lawmaker-says-ukraines-drone-support-makes-it-a-legitimate-war-target",
+          "source": "Euronews.com"
         },
         {
-          "title": "שריפה פרצה בבניין בשוהם בעקבות פגיעת פצצת מצרר, עשרות פונו מבתיהם",
+          "title": "Ukraine 'ready to support partners as much as necessary,' envoy to Israel tells i24NEWS after Tehran lawmaker claimed Kyiv was party to war",
           "snippet": "",
-          "url": "https://www.haaretz.co.il/news/politics/2026-03-13/ty-article/0000019c-e8b4-d02e-abdf-e9b606b90000",
-          "source": "הארץ"
+          "url": "https://www.i24news.tv/en/news/israel/artc-ukraine-ready-to-support-partners-as-much-as-necessary-envoy-to-israel-tells-i24news-after-tehran-lawmaker-claimed-kyiv-was-party-to-war",
+          "source": "i24NEWS"
         },
         {
-          "title": "דורון רדעי: עיכוב הליכים כמוצא מן הפלונטר הלאומי",
+          "title": "Iranian lawmaker cites UN charter in calling Ukraine ‘legitimate target’ for helping Israel with drones",
           "snippet": "",
-          "url": "https://www.zman.co.il/670118/",
-          "source": "זמן ישראל | פוליטיקה · מדיניות · סביבה · שלטון החוק"
+          "url": "https://thehill.com/policy/international/5784483-iran-threatens-ukraine-drone-support/",
+          "source": "The Hill"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "השפלה",
-      "trafficCount": "100+",
+      "title": "ווינט",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 14 Mar 2026 17:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCB8DNfre5IX1ba70OGjEATlE_uZtl8012-4edQIPdwSur2sxQI34RYgSncew",
+      "pictureSource": "ynet",
+      "relatedSearch": [
+        {
+          "title": "נורה למוות לעיני אשתו ובתו: \"התקשרו ואמרו 'תגיע לחקירה'\". הערב: רצח בנצרת",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/h16ti1qq11x",
+          "source": "ynet"
+        },
+        {
+          "title": "67 נרצחים ב־73 ימים: בן 30 נורה למוות בנצרת",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/news/law/2026-03-14/ty-article/0000019c-ee04-df16-a3dc-feb5673f0000",
+          "source": "הארץ"
+        },
+        {
+          "title": "גבר בן 30 נרצח ביריות בנצרת",
+          "snippet": "",
+          "url": "https://www.kan.org.il/content/kan-news/local/1012102/",
+          "source": "כאן 11"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -114,28 +161,37 @@
       "title": "12 live",
       "trafficCount": "200+",
       "pubDate": "Sat, 14 Mar 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvBamOM5JBTWMPS_RUnP_bEW1z8pdq7fLuqPpgtrnUT1jTKorHAPVpqs8f-go",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpnKPY76x1Y8phlCJaMGEOPNjUKVrpigKH7w_uT0n1ARkFdRiQbaXhuHnfQDs",
+      "pictureSource": "247Sports",
       "relatedSearch": [
         {
-          "title": "Jaden Bradley's buzzer-beater puts No. 2 Arizona in Big 12 final",
+          "title": "Jaden Bradley saves his best for last",
           "snippet": "",
-          "url": "https://www.espn.com/mens-college-basketball/story/_/id/48200412/bradley-buzzer-beater-puts-no-2-arizona-big-12-final",
-          "source": "ESPN"
+          "url": "https://247sports.com/college/arizona/article/jaden-bradley-best-for-last-arizona-wildcats-277637002/",
+          "source": "247Sports"
         },
         {
-          "title": "UA players and head coach outline big win over Iowa State",
+          "title": "Three Key Numbers From Iowa State Basketball's Loss to Arizona Wildcats",
           "snippet": "",
-          "url": "https://www.azcentral.com/videos/sports/college/2026/03/14/ua-players-head-coach-outline-big-win-iowa-state/89154088007/",
-          "source": "The Arizona Republic"
+          "url": "https://www.si.com/college/iowa-state/latest-news/three-key-numbers-from-iowa-state-basketball-loss-arizona-wildcats",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "Here is the latest Big 12 Conference sports news from The Associated Press",
+          "title": "Bradley's Buzzer Beater Sends Arizona To Title Game",
           "snippet": "",
-          "url": "https://www.wdtimes.com/sports/national_sports/here-is-the-latest-big-12-conference-sports-news-from-the-associated-press/article_75ee2c11-f863-5bec-a758-8358e65745d3.html",
-          "source": "wdtimes.com"
+          "url": "https://arizonawildcats.com/news/2026/3/14/mens-basketball-bradley-buzzer-beater-sends-arizona-to-title-game.aspx",
+          "source": "University of Arizona Athletics"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "השפלה",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 14 Mar 2026 17:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -170,14 +226,14 @@
       "title": "אזעקות",
       "trafficCount": "100+",
       "pubDate": "Sat, 14 Mar 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELDG3BfhhjHmCh3f_-03AgV8otu0-puS01V3O6fnf-nCxI9QO10AqG7C3WJ0",
-      "pictureSource": "מעריב",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV7d4J9Ov_fucK_Mv9IQwMUuF8ey4vgYt05a5SckOKIxl8Kdi2CaDUq6nJ6Vw",
+      "pictureSource": "כאן 11",
       "relatedSearch": [
         {
-          "title": "אזעקות נוספות נשמעות בגוש דן עקב ירי נוסף מאיראן",
+          "title": "חימוש מצרר ששוגר מלבנון נפלה במטולה, לא היו נפגעים",
           "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1296351",
-          "source": "מעריב"
+          "url": "https://www.kan.org.il/content/kan-news/defense/live-1011670/",
+          "source": "כאן 11"
         },
         {
           "title": "לאחר ההתרעות: אזעקות נשמעות כעת באזור גוש דן והסביבה",
@@ -186,66 +242,10 @@
           "source": "מעריב"
         },
         {
-          "title": "חימוש מצרר ששוגר מלבנון נפלה במטולה, לא היו נפגעים",
+          "title": "אזעקות במרכז ובדרום: טראמפ: \"נפציץ את איראן חזק בשבוע הבא\"",
           "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/defense/live-1011670/",
-          "source": "כאן 11"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "פיקוד העורף התראות",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 14 Mar 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3YB48u3J8Aq9vHTtwfIXKDvyh20RLuAoNKXs055g4RaA5d5oKcjpi-l5nr0E",
-      "pictureSource": "mako",
-      "relatedSearch": [
-        {
-          "title": "מפת השקט: איפה נמצאים האזורים הכי רגועים בישראל?",
-          "snippet": "",
-          "url": "https://www.mako.co.il/nexter-news/Article-b5c89228e92ec91026.htm",
-          "source": "mako"
-        },
-        {
-          "title": "נמאס לכם מהמרחב המוגן? ששה מקומות בלי אזעקה אחת",
-          "snippet": "",
-          "url": "https://www.emess.co.il/radio/1839234",
-          "source": "אמס"
-        },
-        {
-          "title": "מצפה רמון ללא הפסקה - וללא אזעקות: העיר שהפכה לפנינת תיירות",
-          "snippet": "",
-          "url": "https://13tv.co.il/item/news/domestic/internal/mitzpe-ramon-905022318/",
-          "source": "רשת 13"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "indian wells",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 14 Mar 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkLhv_FRK2HSYgndZWOvEuXdLavXb62D7mL4hC6d4oElXOJN5uPv0Suq2P_8",
-      "pictureSource": "ATP Tour",
-      "relatedSearch": [
-        {
-          "title": "Medvedev ends Alcaraz's perfect start to 2026 to reach Indian Wells final",
-          "snippet": "",
-          "url": "https://www.atptour.com/en/news/alcaraz-medvedev-indian-wells-2026-sf",
-          "source": "ATP Tour"
-        },
-        {
-          "title": "Alcaraz and Sinner looking to set up a blockbuster final at Indian Wells",
-          "snippet": "",
-          "url": "https://www.flashscore.com/news/indian-wells-atp-semi-finals-preview-alcaraz-and-sinner-looking-to-reach-decider/COmhBznm/",
-          "source": "Flashscore.com"
-        },
-        {
-          "title": "Why tennis star Carlos Alcaraz impresses legendary coach Brad Gilbert",
-          "snippet": "",
-          "url": "https://www.marca.com/en/tennis/2026/03/14/69b4a6bf22601df8018b4587.html",
-          "source": "MARCA"
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001537493",
+          "source": "גלובס זירת העסקים של ישראל"
         }
       ],
       "link": "https://imtaqin.id/"
