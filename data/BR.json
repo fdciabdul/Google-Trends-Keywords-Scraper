@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-15 08:54:49",
+  "lastUpdate": "2026-03-15 09:09:45",
   "data": [
+    {
+      "title": "driver of the day",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 15 Mar 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHPQv94Ve1hve7fOdsp33FRs-V6yM7AWqBZvjReuLhMyPzc8rmYj4CijUY6J4",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Chinese Grand Prix: Kimi Antonelli breaks F1 record to claim pole position",
+          "snippet": "",
+          "url": "https://www.espn.com/f1/story/_/id/48173298/chinese-grand-prix-qualifying-kimi-antonelli-george-russell-mercedes-front-row",
+          "source": "ESPN"
+        },
+        {
+          "title": "Antonelli beats Russell for maiden F1 victory in China as Hamilton takes first GP podium for Ferrari",
+          "snippet": "",
+          "url": "https://www.formula1.com/en/latest/article/antonelli-beats-russell-for-maiden-f1-victory-in-china-as-hamilton-takes.5aJsWCPiRhp2euZctEwEYA",
+          "source": "Formula 1"
+        },
+        {
+          "title": "Kimi Antonelli takes historic pole for F1’s Chinese GP after George Russell’s sprint race win",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/2026/mar/14/f1-chinese-grand-prix-sprint-qualifying-george-russell-mercedes-ferrari-report",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "mclaren",
       "trafficCount": "100+",
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.grandepremio.com.br/f1/noticias/charles-leclerc-ve-evolucao-ferrari-espera-tornar-coisas-dificeis-mercedes-gp-da-china/",
           "source": "Grande Prêmio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gabriel bortoleto",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 15 Mar 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMFZGyOoZh8gVMYsO0_ORID_DF2m7ljUvuFqsLRjs5Y3a05JZgqLd0TN3h_E",
-      "pictureSource": "UOL/motorsport",
-      "relatedSearch": [
-        {
-          "title": "F1: Com problemas no carro, Bortoleto não disputa o GP da China; McLaren também fica fora",
-          "snippet": "",
-          "url": "https://motorsport.uol.com.br/f1/news/f1-com-problemas-no-carro-bortoleto-nao-disputa-o-gp-da-china-mclaren-tambem-fica-fora/10805382/",
-          "source": "UOL/motorsport"
-        },
-        {
-          "title": "Bortoleto assume culpa em erro na classificação: \"Completamente minha\"",
-          "snippet": "",
-          "url": "https://ge.globo.com/motor/formula-1/noticia/2026/03/14/bortoleto-assume-culpa-em-erro-na-classificacao-completamente-minha.ghtml",
-          "source": "ge"
-        },
-        {
-          "title": "Bortoleto analisa erro no Q2 do GP da China e diz que traseira do carro estava ‘muito sensível’",
-          "snippet": "",
-          "url": "https://www.estadao.com.br/esportes/velocidade/bortoleto-analisa-erro-no-q2-do-gp-da-china-e-diz-que-traseira-do-carro-estava-muito-sensivel/",
-          "source": "Estadão"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,28 +199,28 @@
     },
     {
       "title": "f1",
-      "trafficCount": "20000+",
+      "trafficCount": "50000+",
       "pubDate": "Sat, 14 Mar 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPvHsNEqlxjaQnIS3XijfL9HaklFmuAU8q_S21XEP0z-n5mc0uqGvCOdQjsqk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUanohwHF_JeoDAqtlw9hzppGeK7EyPAIw-YHDQYryPi-dT7xGf4lm5Cs6zI",
       "pictureSource": "ge",
       "relatedSearch": [
         {
-          "title": "GP da China da F1 2026: horários e onde assistir ao vivo",
+          "title": "GP da China: Antonelli vence 1ª, Hamilton estreia no pódio com Ferrari e Bortoleto não larga",
           "snippet": "",
-          "url": "https://ge.globo.com/motor/formula-1/noticia/2026/03/14/gp-da-china-da-f1-2026-horarios-e-onde-assistir-ao-vivo.ghtml",
+          "url": "https://ge.globo.com/motor/formula-1/noticia/2026/03/15/gp-da-china-antonelli-vence-1a-com-podio-inedito-de-hamilton-bortoleto-nao-larga.ghtml",
           "source": "ge"
+        },
+        {
+          "title": "Antonelli vence pela 1ª vez na F1 e Bortoleto sequer larga no GP da China",
+          "snippet": "",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/03/15/f1-gp-da-china.htm",
+          "source": "UOL"
         },
         {
           "title": "F1: classificação atualizada após a corrida sprint e onde assistir ao vivo ao GP da China",
           "snippet": "",
           "url": "https://www.espn.com.br/f1/artigo/_/id/16434932/f1-classificacao-atualizada-apos-a-corrida-sprint-e-onde-assistir-ao-vivo-ao-gp-da-china",
           "source": "ESPN Brasil"
-        },
-        {
-          "title": "Fórmula 1: Antonelli é piloto mais jovem a conquistar pole do GP da China",
-          "snippet": "",
-          "url": "https://www.cnnbrasil.com.br/esportes/formula-1-antonelli-conquista-pole-position-recorde-na-china/",
-          "source": "CNN Brasil"
         }
       ],
       "link": "https://imtaqin.id/"
