@@ -1,6 +1,15 @@
 {
-  "lastUpdate": "2026-03-17 10:24:50",
+  "lastUpdate": "2026-03-17 10:45:33",
   "data": [
+    {
+      "title": "токмак",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 17 Mar 2026 03:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "мвф",
       "trafficCount": "100+",
@@ -31,7 +40,7 @@
     },
     {
       "title": "день святого патрика",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Mon, 16 Mar 2026 22:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhK9VHuAm0R7SBkd3H-0qKtkkV8sVlzmv6LpEKfDgf6LHCbO9PuhRaQAubC4",
       "pictureSource": "Euronews.com",
@@ -74,7 +83,7 @@
           "title": "На Буковину прийдуть похолодання: після 15-17 градусів температура опуститься до 5",
           "snippet": "",
           "url": "https://acc.cv.ua/news/chernivtsi/na-bukovinu-priydut-poholodannya-pislya-15-17-gradusiv-temperatura-opustitsya-do-5-118931",
-          "source": "Інформаційне агентство АСС"
+          "source": "агентство АСС."
         },
         {
           "title": "На Буковині синоптики прогнозують похолодання: у горах можливий мокрий сніг",
@@ -89,15 +98,9 @@
       "title": "новости запорожья",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Mar 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF87iccUCDOLNQY6y469DTyw0JbHeSMvRxS8JVK3QN4lon0sOtZ8ehAFWP4bA",
-      "pictureSource": "DW.com",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjhF9b2T_flU8e9pPe41ETkIfR4iStNT0ySGa3qbm-v_FDuCSlrNAGECDNKoM",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
-        {
-          "title": "Россия ударила по терминалу \"Новой почты\" в Запорожье",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/udar-rossii-po-terminalu-novoj-pocty-v-zaporoze-vosem-postradavsih/a-76390029",
-          "source": "DW.com"
-        },
         {
           "title": "Россияне нанесли удар по Запорожью, трое раненых – Федоров",
           "snippet": "",
@@ -109,6 +112,12 @@
           "snippet": "",
           "url": "https://nv.ua/ukraine/events/u-kiyevi-ta-kilkoh-oblastyah-ogolosili-povitryanu-trivogu-cherez-zagrozu-bpla-50592276.html",
           "source": "NV"
+        },
+        {
+          "title": "Россия ударила по терминалу Нової пошти в Запорожье – фото",
+          "snippet": "",
+          "url": "https://biz.liga.net/all/transport/novosti/rossiya-udarila-po-terminalu-novoi-poshti-v-zaporozhe-foto",
+          "source": "LIGA.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +182,26 @@
       "title": "нба",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Mar 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gUM7eU2b5NAsRWMZYW0bsFwOXJGtGSqziz2homePD86_0ZkNbkh1DUTIRw0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwQdsbEY97c659-Rkceo7MMDKNrZzcj4YzZ9ATIzFDCUZhWqMZ3ReY26mhT2I",
       "pictureSource": "Slamdunk.ru",
       "relatedSearch": [
         {
-          "title": "НБА. 36 очков Дончича помогли «Лейкерс» обыграть «Хьюстон», «Бостон» победил «Финикс» благодаря 41 очку Джейлена Брауна и другие результаты",
+          "title": "Дончич и Адебайо стали лучшими игроками недели в НБА",
           "snippet": "",
-          "url": "https://www.slamdunk.ru/news/nba/nba-36-ochkov-donchicha-pomogli-leykers-obygrat-hyuston-boston-pobedil-finiks-blagodarya-41-ochku-dzheylena-brauna-i-drugie-rezultaty-r134569/",
+          "url": "https://www.slamdunk.ru/news/nba/donchich-i-adebayo-stali-luchshimi-igrokami-nedeli-v-nba-r134575/",
           "source": "Slamdunk.ru"
         },
         {
-          "title": "Кевин Дюрент: «Я проиграл матч против «Лейкерс» – все просто»",
+          "title": "С историческим рекордом. Названы игроки недели в НБА",
           "snippet": "",
-          "url": "https://ua.tribuna.com/basketball/1000000327621-kevin-dyurent-ya-prohrav-match-proty-leykers-vse-prosto/",
-          "source": "Tribuna.com"
+          "url": "https://www.ua-football.com/sport/basketball/1773697160-s-istoricheskim-rekordom-nazvany-igroki-nedeli-v-nba.html",
+          "source": "UA-Football"
         },
         {
-          "title": "НБА: Лейкерс и Бостон празднуют победы",
+          "title": "Дрэймонд Грин – о критике в сторону Споэльстры: «Эта лузерская ментальность»",
           "snippet": "",
-          "url": "https://korrespondent.net/sport/basketball/4863019-nba-leikers-y-boston-prazdnuuit-pobedy",
-          "source": "Korrespondent.net"
+          "url": "https://ua.tribuna.com/basketball/1000000326700-dreymond-hrin-pro-krytyku-v-bik-spoelstry-tsya-luzerska-/",
+          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -217,9 +226,9 @@
           "source": "LIGA.net"
         },
         {
-          "title": "Dota 2 вже другий рік поспіль є найпопулярнішою грою серед україномовних дівчат-стримерок",
+          "title": "Streams Charts порахували, скільки грошей заробляють україномовні стримери Twitch",
           "snippet": "",
-          "url": "https://players.com.ua/news/dota-2-vzhe-drugyj-rik-pospil-ye-najpopulyarnishoyu-groyu-sered-ukrayinomovnyh-divchat-strymerok/",
+          "url": "https://players.com.ua/news/streams-charts-porahuvaly-skilky-groshej-zaroblyayut-ukrayinomovni-strymery-twitch/",
           "source": "Players"
         }
       ],
@@ -239,44 +248,16 @@
           "source": "Mezha"
         },
         {
-          "title": "NVIDIA представила DLSS 5: нову AI-технологію масштабування для ігор",
+          "title": "Випробовуємо новітню технологію NVIDIA DLSS 4.5 на Predator Helios Neo 16 AI",
           "snippet": "",
-          "url": "https://www.ukr.net/news/details/technologies/116508708.html",
-          "source": "UKR.NET"
+          "url": "https://itc.ua/ua/blogs/vyprobovuyemo-novitnyu-tehnologiyu-nvidia-dlss-4-5-na-predator-helios-neo-16-ai/",
+          "source": "ITC.ua"
         },
         {
-          "title": "NVIDIA запевняє, що її майбутні відеокарти у \"мільйон разів\" кращі, за попередні",
+          "title": "NVIDIA анонсувала DLSS 5: дві RTX 5090 для запуску та шквал критики від геймерів",
           "snippet": "",
-          "url": "https://24tv.ua/tech/nvidia-rtx-videokarti-maybutnye-trasuvannya-shlyahu-igrah_n3027756",
-          "source": "24 Канал"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "багдад",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 16 Mar 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUAbSyKPp-ickhtAcRnCO19TziwgKCkp_W0Nq_u_Uo9tNjDcr6gHl4JMfgL6s",
-      "pictureSource": "Українська правда",
-      "relatedSearch": [
-        {
-          "title": "CNN: Иран атаковал посольство США в Багдаде и нефтяные объекты в ОАЭ",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/03/17/8025832/",
-          "source": "Українська правда"
-        },
-        {
-          "title": "Посольство США в Багдаде подверглось удару ракетами и дронами",
-          "snippet": "",
-          "url": "https://ru.krymr.com/a/news-posol-stvo-ssha-bagdad-udar-raketami-dronami/33708751.html",
-          "source": "Крым.Реалии"
-        },
-        {
-          "title": "БПЛА атаковали критически важный сектор Ирака",
-          "snippet": "",
-          "url": "https://korrespondent.net/world/4863000-bpla-atakovaly-krytychesky-vazhnyi-sektor-yraka",
-          "source": "Korrespondent.net"
+          "url": "https://gsminfo.com.ua/197257-nvidia-anonsuvala-dlss-5-dvi-rtx-5090-dlya-zapusku-ta-shkval-krytyky-vid-gejmeriv.html",
+          "source": "GSMinfo"
         }
       ],
       "link": "https://imtaqin.id/"
