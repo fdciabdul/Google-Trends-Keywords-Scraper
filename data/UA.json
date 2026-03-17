@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-17 11:08:29",
+  "lastUpdate": "2026-03-17 11:28:46",
   "data": [
     {
       "title": "токмак",
@@ -24,16 +24,16 @@
           "source": "Букви"
         },
         {
-          "title": "«Часу залишилося до кінця березня». Узгоджені з МВФ закони не ухвалено, подальше фінансування України під питанням — Bloomberg",
-          "snippet": "",
-          "url": "https://biz.nv.ua/ukr/finance/mvf-verhovna-rada-maye-shvaliti-novi-podatki-do-kincya-bereznya-podalshe-finansuvannya-pid-pitannyam-50592381.html",
-          "source": "NV Бизнес"
-        },
-        {
           "title": "МВФ занепокоєний затримкою реформ: гроші для України під загрозою, - Bloomberg",
           "snippet": "",
           "url": "https://www.unian.ua/economics/finance/transh-vid-mvf-groshi-dlya-ukrajini-pid-zagrozoyu-13317606.html",
           "source": "УНІАН"
+        },
+        {
+          "title": "МВФ занепокоєний здатністю України отримати 81 млрд допомоги",
+          "snippet": "",
+          "url": "https://lb.ua/economics/2026/03/17/727701_mvf_zanepokoieniy_zdatnistyu.html",
+          "source": "LB.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -67,34 +67,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода чернівці",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 16 Mar 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl7G_7Pj_tI_DsDTWCVECWOvhHen316lmWnpLoFBVsbMyf0w7E9fpMynodMTs",
-      "pictureSource": "Суспільне | Новини",
-      "relatedSearch": [
-        {
-          "title": "До 14 градусів тепла: якою буде погода у Чернівцях та області 17 березня",
-          "snippet": "",
-          "url": "https://suspilne.media/chernivtsi/1265012-do-14-gradusiv-tepla-akou-bude-pogoda-u-cernivcah-ta-oblasti-17-berezna/",
-          "source": "Суспільне | Новини"
-        },
-        {
-          "title": "На Буковину прийдуть похолодання: після 15-17 градусів температура опуститься до 5",
-          "snippet": "",
-          "url": "https://acc.cv.ua/news/chernivtsi/na-bukovinu-priydut-poholodannya-pislya-15-17-gradusiv-temperatura-opustitsya-do-5-118931",
-          "source": "агентство АСС."
-        },
-        {
-          "title": "На Буковині синоптики прогнозують похолодання: у горах можливий мокрий сніг",
-          "snippet": "",
-          "url": "https://molbuk.ua/chernivtsi_news/353889-na-bukovyni-synoptyky-prognozuut-pokholodannia-u-gorakh-mozhlyvyi-mokryi-snig.html",
-          "source": "Молодий буковинець"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "новости запорожья",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Mar 2026 21:50:00 -0700",
@@ -123,8 +95,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "погода чернівці",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 16 Mar 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl7G_7Pj_tI_DsDTWCVECWOvhHen316lmWnpLoFBVsbMyf0w7E9fpMynodMTs",
+      "pictureSource": "Суспільне | Новини",
+      "relatedSearch": [
+        {
+          "title": "До 14 градусів тепла: якою буде погода у Чернівцях та області 17 березня",
+          "snippet": "",
+          "url": "https://suspilne.media/chernivtsi/1265012-do-14-gradusiv-tepla-akou-bude-pogoda-u-cernivcah-ta-oblasti-17-berezna/",
+          "source": "Суспільне | Новини"
+        },
+        {
+          "title": "На Буковину прийдуть похолодання: після 15-17 градусів температура опуститься до 5",
+          "snippet": "",
+          "url": "https://acc.cv.ua/news/chernivtsi/na-bukovinu-priydut-poholodannya-pislya-15-17-gradusiv-temperatura-opustitsya-do-5-118931",
+          "source": "агентство АСС."
+        },
+        {
+          "title": "На Буковині синоптики прогнозують похолодання: у горах можливий мокрий сніг",
+          "snippet": "",
+          "url": "https://molbuk.ua/chernivtsi_news/353889-na-bukovyni-synoptyky-prognozuut-pokholodannia-u-gorakh-mozhlyvyi-mokryi-snig.html",
+          "source": "Молодий буковинець"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "теплого олекси 2026",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 16 Mar 2026 21:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrOANSFXczPeNNnzQ62MTn1fHXF77O6qHPAlsNAHM940wq8Z-q5rshDx6Ayls",
       "pictureSource": "ТСН",
@@ -182,13 +182,19 @@
       "title": "нба",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Mar 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCUhQA9SSWG3Bjapy2YamjbxGaQeAyOYMdlx6dLRQgb7PX-eR07RzC7o7n3Es",
-      "pictureSource": "Slamdunk.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPPFeMIvMt3_x5aA9YIQYQaox9PCOYLYKWFOuhPCwIz1hGHrVvxlBNXS1YfHU",
+      "pictureSource": "football24.ua",
       "relatedSearch": [
         {
-          "title": "НБА. «Хьюстон» сыграет с «Лейкерс», «Клипперс» примут «Сан-Антонио» и другие матчи",
+          "title": "Дюрант взял вину за поражение Хьюстона от Лейкерс – Футбол 24+",
           "snippet": "",
-          "url": "https://www.slamdunk.ru/news/nba/nba-hyuston-sygraet-s-leykers-klippers-primut-san-antonio-i-drugie-matchi-r134569/",
+          "url": "https://football24.ua/ru/sport/news/superzvezda-hjustona-skromno-obvinil-sebja-v-porazhenii-ot-lejkers-ja-proigral-jetot-match-932132",
+          "source": "football24.ua"
+        },
+        {
+          "title": "НБА. 36 очков Дончича помогли «Лейкерс» обыграть «Хьюстон», «Бостон» победил «Финикс» благодаря 41 очку Джейлена Брауна и другие результаты",
+          "snippet": "",
+          "url": "https://www.slamdunk.ru/news/nba/nba-36-ochkov-donchicha-pomogli-leykers-obygrat-hyuston-boston-pobedil-finiks-blagodarya-41-ochku-dzheylena-brauna-i-drugie-rezultaty-r134569/",
           "source": "Slamdunk.ru"
         },
         {
@@ -196,12 +202,6 @@
           "snippet": "",
           "url": "https://ua.tribuna.com/basketball/1000000327664-luka-donchych-ya-mih-by-zihraty-znachno-krashche/",
           "source": "Tribuna.com"
-        },
-        {
-          "title": "НБА: Лейкерс и Бостон празднуют победы",
-          "snippet": "",
-          "url": "https://korrespondent.net/sport/basketball/4863019-nba-leikers-y-boston-prazdnuuit-pobedy",
-          "source": "Korrespondent.net"
         }
       ],
       "link": "https://imtaqin.id/"
