@@ -1,13 +1,47 @@
 {
-  "lastUpdate": "2026-03-17 07:29:08",
+  "lastUpdate": "2026-03-17 07:52:02",
   "data": [
+    {
+      "title": "yahoo",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 17 Mar 2026 00:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI3rsMsOqGaGtXOt7Uxz7zpovsgapOJHM_dOf87m6gwVx2ytHRnUuP8KVeGgQ",
+      "pictureSource": "Yahoo",
+      "relatedSearch": [
+        {
+          "title": "N.Y. man who spent 19 years in prison after buying mom a stove with stolen money order is freed",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/articles/n-y-man-spent-19-003727684.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "New York man freed after 19 years in prison for robbery he didn't commit",
+          "snippet": "",
+          "url": "https://abcnews.com/US/wireStory/new-york-man-freed-after-19-years-prison-131129918",
+          "source": "ABC News"
+        },
+        {
+          "title": "NYC man freed after serving 19 years of a 20-to-life sentence for robbery he didn’t commit",
+          "snippet": "",
+          "url": "https://www.nydailynews.com/2026/03/16/nyc-man-freed-after-serving-19-years-of-a-20-to-life-sentence-for-robbery-he-didnt-commit/",
+          "source": "New York Daily News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Mon, 16 Mar 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv1FfyjdM-QuNWMTKVm5ZThNxXvrwL-qsmPmoknp4QVyHco9WJD7KwkFzt6VI",
-      "pictureSource": "WLFI News 18",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYEuGMugEqjcVkKQa0eG6pDsbb67AWA54TIlgARys-umqW-TsCQfxIRGGkDBI",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
+        {
+          "title": "‘Unbelievable’: Local residents shocked by drastic change in weather as snow falls",
+          "snippet": "",
+          "url": "https://www.yahoo.com/news/articles/unbelievable-local-residents-shocked-drastic-035330778.html",
+          "source": "Yahoo"
+        },
         {
           "title": "100 Who Cares",
           "snippet": "",
@@ -15,16 +49,10 @@
           "source": "WLFI News 18"
         },
         {
-          "title": "‘Unbelievable’: Local residents shocked by drastic change in weather as snow falls",
+          "title": "Snow showers, chilly temperatures create slick spots throughout the area",
           "snippet": "",
-          "url": "https://www.wpxi.com/news/local/unbelievable-local-residents-shocked-by-drastic-change-weather-snow-falls/OZFVTE4OEJFK5CSJDTRHOS2EHM/",
+          "url": "https://www.wpxi.com/weather/snow-showers-chilly-temperatures-create-slick-spots-throughout-area/QXE7GYVR5FF5XAVRUUYLHSIOOM/",
           "source": "WPXI"
-        },
-        {
-          "title": "Scattered snow showers forecast for county",
-          "snippet": "",
-          "url": "https://www.therepublic.com/2026/03/16/scattered-snow-showers-forecast-for-county/",
-          "source": "The Republic News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,15 +61,9 @@
       "title": "weather tomorrow",
       "trafficCount": "5000+",
       "pubDate": "Mon, 16 Mar 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAkl0nbhHpJv4k8V7_j02svQp6q4WZcWWiP61H-KgioaDwem-F9DSYUdTVHqE",
-      "pictureSource": "NBC4 Washington",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmL7FrQPwKoqcqVQ74rXvTr-e6AnGwLjro36kxg2oasCWlonmtvsn8xoeu7ng",
+      "pictureSource": "WTOP",
       "relatedSearch": [
-        {
-          "title": "Recap: Heavy rain and strong winds move through the DC area",
-          "snippet": "",
-          "url": "https://www.nbcwashington.com/weather/weather-stories/live-coverage-severe-storms-with-tornado-risk-to-hit-dc-area-schools-to-dismiss-early/4076251/",
-          "source": "NBC4 Washington"
-        },
         {
           "title": "More strong winds in the DC region after earlier severe storms cause flooding",
           "snippet": "",
@@ -49,10 +71,16 @@
           "source": "WTOP"
         },
         {
-          "title": "DC Forecast | Wind Advisory issued until midnight",
+          "title": "A rare tornado threat covers Mid-Atlantic, including D.C. area",
           "snippet": "",
-          "url": "https://www.wusa9.com/article/weather/forecast/dc-forecast-heavy-rain-and-severe-storms-monday/65-99900293-3eba-46be-87d8-85af8704c01f",
-          "source": "WUSA9"
+          "url": "https://www.washingtonpost.com/weather/2026/03/16/tornadoes-midatlantic-storms-forecast-risks/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "WEATHER ALERT TIMELINE: Storms end, surge of cold air overspreads the DMV",
+          "snippet": "",
+          "url": "https://wjla.com/weather/first-alert-weather-blog/dc-severe-thunderstorm-tornado-threat-monday-storm-when-will-it-rain-metro-dmv-maryland-virginia-strong-winds-damaging-damage-timing-what-to-expect-radar-outlook-hail-dangerous-nws",
+          "source": "WJLA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +133,10 @@
           "source": "Goal.com"
         },
         {
-          "title": "Liverpool Face Crisis-Hit Tottenham In High-Stakes Anfield Showdown",
+          "title": "Tottenham injury update: Conor Gallagher, Cristian Romero and Destiny Udogie latest news and return dates",
           "snippet": "",
-          "url": "https://evrimagaci.org/gpt/liverpool-face-crisishit-tottenham-in-highstakes-anfield-showdown-533645",
-          "source": "Evrim Ağacı"
+          "url": "https://www.inkl.com/news/tottenham-injury-update-conor-gallagher-cristian-romero-and-destiny-udogie-latest-news-and-return-dates",
+          "source": "inkl"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +145,20 @@
       "title": "sabah nuzi",
       "trafficCount": "100+",
       "pubDate": "Mon, 16 Mar 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz7WXDidyzgYgPshoigXPNVawZIBVafgYSz8LEeAGEz13xJifnqaLnWJWwbK0",
-      "pictureSource": "Albanian Daily News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSovrPndf51O4bT0tcb3zF-SQ0UjrQ2Sta8Ph7QwIX71OHsPvDaVbN9wZDnOPI",
+      "pictureSource": "Balkanweb.com",
       "relatedSearch": [
-        {
-          "title": "Car Bombing in Tirana Linked to €15,000 Dispute, Police Reveal",
-          "snippet": "",
-          "url": "https://albaniandailynews.com/news/car-bombing-in-tirana-linked-to-15-000-dispute-police-reveal",
-          "source": "Albanian Daily News"
-        },
         {
           "title": "He ordered the placement of TNT in Oltjon Klos' car from prison/ Who is Sabah Nuzi, he killed his friend for 50 thousand euros on the orders of Aurel Hoxha",
           "snippet": "",
           "url": "https://www.balkanweb.com/en/ordered-the-placement-of-TNT-in-Oltjon-Klos%27-car-from-prison--who-is-Sabah-Nuzi-He-killed-his-friend-for-50-thousand-euros-on-the-orders-of-Aurel-Hoxha./",
           "source": "Balkanweb.com"
+        },
+        {
+          "title": "Car Bombing in Tirana Linked to €15,000 Dispute, Police Reveal",
+          "snippet": "",
+          "url": "https://albaniandailynews.com/news/car-bombing-in-tirana-linked-to-15-000-dispute-police-reveal",
+          "source": "Albanian Daily News"
         },
         {
           "title": "Explosive explosion in Tirana",
