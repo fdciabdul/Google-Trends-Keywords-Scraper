@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-19 04:26:49",
+  "lastUpdate": "2026-03-19 05:06:39",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 18 Mar 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV9zengsqoDwqFBd4QlFdwYPy5VvuHHVMSDdXaKuAY0Bw-0khLL_ST-UQr9Ro",
+      "pictureSource": "RTL Today",
+      "relatedSearch": [
+        {
+          "title": "Weather & Traffic: Thursday 19 March: Sun, is that you?",
+          "snippet": "",
+          "url": "https://today.rtl.lu/news/luxembourg/thursday-19-march-sun-is-that-you-1981960015",
+          "source": "RTL Today"
+        },
+        {
+          "title": "Fears of early summer recede, wet spells likely in North till March-end",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/india/fears-of-early-summer-recede-wet-spells-likely-in-north-till-march-end/articleshow/129668607.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Delhi Wakes Up to Cool, Cloudy Morning More Rain Likely As IMD Issues Yellow Alert Till Friday",
+          "snippet": "",
+          "url": "https://news.abplive.com/cities/delhi-wakes-up-to-cool-cloudy-morning-more-rain-likely-as-imd-issues-yellow-alert-till-friday-1831908",
+          "source": "ABP Live English"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "εμυ",
       "trafficCount": "200+",
@@ -21,10 +49,10 @@
           "source": "ΤΟ ΒΗΜΑ"
         },
         {
-          "title": "Καιρός: Ψυχρή εισβολή πρόσκαιρα, τα επόμενα 24ωρα – Έρχονται «κρύες αέριες μάζες από τη Σιβηρία»",
+          "title": "Καιρός σήμερα: Βροχές και αφρικανική σκόνη σε Αττική, Κυκλάδες και Κρήτη – Στους 19 βαθμούς η θερμοκρασία",
           "snippet": "",
-          "url": "https://www.in.gr/2026/03/17/greece/kairos-psyxri-eisvoli-proskaira-ta-epomena-24ora-erxontai-kryes-aeries-mazes-apo-ti-siviria/",
-          "source": "In.gr"
+          "url": "https://www.newsit.gr/ellada/kairos-simera-vroxes-kai-afrikaniki-skoni-se-attiki-kyklades-kai-kriti-stous-19-vathmous-i-thermokrasia/4628899/",
+          "source": "NewsIT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://www.vradini.gr/ellada/klirosi-lotto-2710-oi-tyxeroi-arithmoi-simera-tetarti-18-3-26/1386415/",
           "source": "Η Βραδυνή"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "αθλητικά",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 18 Mar 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQra-pfUhtypy8XiI0qVMqRScu0MNIOScFXiTHW4wAeXsr9f0CH4Ccjb6W_qt8",
-      "pictureSource": "NewsIT",
-      "relatedSearch": [
-        {
-          "title": "Κατερίνα Καινούργιου: Συζητάω με τον άντρα μου ότι δε θα ήθελα ποτέ να βάλω το παιδάκι μου στα social",
-          "snippet": "",
-          "url": "https://www.newsit.gr/lifestyle/katerina-kainourgiou-syzitao-me-ton-antra-mou-oti-de-tha-ithela-pote-na-valo-to-paidaki-mou-sta-social/4628653/",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Η Κατερίνα Καινούργιου ξεκαθαρίζει: \"Δεν θα βάλω ποτέ το παιδί μου στα social\" (Βίντεο)",
-          "snippet": "",
-          "url": "https://www.parapolitika.gr/lifestyle/article/1696190/i-katerina-kainourgiou-xekatharizei-den-tha-valo-pote-to-paidi-mou-sta-social-video/",
-          "source": "Παραπολιτικά"
-        },
-        {
-          "title": "Κατερίνα Καινούργιου: Ο φόβος για το παιδί της και η απόφαση για τα social media",
-          "snippet": "",
-          "url": "https://womenonly.skai.gr/news/celebrity-news/131082368/katerina-kainoyrgiou-o-fovos-gia-to-paidi-tis-kai-i-apofasi-gia-ta-social-media",
-          "source": "WomenOnly"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +117,15 @@
       "title": "inter miami",
       "trafficCount": "100+",
       "pubDate": "Wed, 18 Mar 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJtETm0We0Ykjc_RAMLDwWP46ZVs5V4Oz1KtPXL4NGESw42z3EIu2anqOvyvw",
-      "pictureSource": "beIN SPORTS",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCLMgXXIotISJFNoPG6Ofhu48Lq4DF-1APMFsC9FvUWEBcNLUh6hCFvMH68CM",
+      "pictureSource": "The Tennessean",
       "relatedSearch": [
+        {
+          "title": "Nashville SC stuns Lionel Messi, Inter Miami to advance to CONCACAF Champions Cup quarterfinals",
+          "snippet": "",
+          "url": "https://www.tennessean.com/live-story/sports/nashvillesc/2026/03/18/nashville-sc-inter-miami-lionel-messi-concacaf-champions-cup-leg-2/89142866007/",
+          "source": "The Tennessean"
+        },
         {
           "title": "The anatomy of Lionel Messi’s 900 goals",
           "snippet": "",
@@ -127,16 +133,10 @@
           "source": "beIN SPORTS"
         },
         {
-          "title": "Player Ratings: Inter Miami crashes out of the CONCACAF Champions Cup",
+          "title": "Lionel Messi scores 900th career goal, joins Cristiano Ronaldo",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/player-ratings-inter-miami-crashes-out-of-the-concacaf-champions-cup-42580140",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Messi and Cristiano Ronaldo receive praises from NBA legend Magic Johnson after Lionel reaches 900th goal",
-          "snippet": "",
-          "url": "https://bolavip.com/en/soccer/messi-and-cristiano-ronaldo-receive-praises-from-nba-legend-magic-johnson-after-lionel-reaches-900th-goal",
-          "source": "Bolavip US English"
+          "url": "https://africa.espn.com/football/story/_/id/48081661/lionel-messi-scores-900-goals-cristiano-ronaldo",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,37 +170,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "μαρκετ πασσ 2026",
+      "title": "crimson desert review",
       "trafficCount": "200+",
-      "pubDate": "Wed, 18 Mar 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfewO0bEoj3NNJesNnOWljG1f3RugEgxad69oA_5IotyLPpV28xHFt8BzAEcU",
-      "pictureSource": "Aftodioikisi.gr",
-      "relatedSearch": [
-        {
-          "title": "Market pass για τρόφιμα: Ποιοι το δικαιούνται – Πότε ξεκινά η πληρωμή",
-          "snippet": "",
-          "url": "https://www.aftodioikisi.gr/epidomata/market-pass-gia-trofima-poioi-to-dikaioyntai-pote-xekina-i-pliromi/",
-          "source": "Aftodioikisi.gr"
-        },
-        {
-          "title": "Πότε και για ποιους θα είναι διαθέσιμες οι επιταγές τροφίμων",
-          "snippet": "",
-          "url": "https://www.in.gr/2026/03/17/economy/oikonomikes-eidiseis/pote-kai-gia-poious-einai-diathesima-oi-epitages-trofimon/",
-          "source": "In.gr"
-        },
-        {
-          "title": "Δ. Μιχαηλίδου: Αξιοπρέπεια στην επισιτιστική βοήθεια με το νέο σύστημα vouchers",
-          "snippet": "",
-          "url": "https://www.liberal.gr/oikonomia/d-mihailidoy-axioprepeia-stin-episitistiki-boitheia-me-neo-systima-vouchers",
-          "source": "Liberal.gr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "crimson desert",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 18 Mar 2026 15:50:00 -0700",
+      "pubDate": "Wed, 18 Mar 2026 16:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD28LJKvc4TN_vJcX3EHqPc6PGHTSbBVr_WkqAxCsBwQbsaDO8Z1MmaIChmMs",
       "pictureSource": "Digital Foundry",
       "relatedSearch": [
@@ -221,6 +193,34 @@
           "snippet": "",
           "url": "https://alineaanalytics.substack.com/p/crimson-desert-is-on-track-for-a",
           "source": "The Alinea Insight newsletter"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "μαρκετ πασσ 2026",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 18 Mar 2026 16:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfewO0bEoj3NNJesNnOWljG1f3RugEgxad69oA_5IotyLPpV28xHFt8BzAEcU",
+      "pictureSource": "Aftodioikisi.gr",
+      "relatedSearch": [
+        {
+          "title": "Market pass για τρόφιμα: Ποιοι το δικαιούνται – Πότε ξεκινά η πληρωμή",
+          "snippet": "",
+          "url": "https://www.aftodioikisi.gr/epidomata/market-pass-gia-trofima-poioi-to-dikaioyntai-pote-xekina-i-pliromi/",
+          "source": "Aftodioikisi.gr"
+        },
+        {
+          "title": "Πότε και για ποιους θα είναι διαθέσιμες οι επιταγές τροφίμων",
+          "snippet": "",
+          "url": "https://www.in.gr/2026/03/17/economy/oikonomikes-eidiseis/pote-kai-gia-poious-einai-diathesima-oi-epitages-trofimon/",
+          "source": "In.gr"
+        },
+        {
+          "title": "Έρχεται voucher για ψώνια από το σούπερ μάρκετ με αναδρομική πληρωμή - Οι δικαιούχοι",
+          "snippet": "",
+          "url": "https://www.dnews.gr/eidhseis/oikonomia/577806/erxetai-voucher-gia-psonia-apo-to-soyper-market-me-anadromiki-pliromi-oi-dikaioyxoi",
+          "source": "Dnews"
         }
       ],
       "link": "https://imtaqin.id/"
