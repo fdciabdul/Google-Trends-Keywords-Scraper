@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-03-21 09:15:39",
+  "lastUpdate": "2026-03-21 09:31:08",
   "data": [
-    {
-      "title": "openai",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 21 Mar 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgZ9s9fJLNkrGaZPQdxbrLwsnPlxx1FNubI47N574yjBxF3bnh8RoZv2KFwIk",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "OpenAI plans desktop 'superapp' to streamline user experience",
-          "snippet": "",
-          "url": "https://www.reuters.com/technology/openai-plans-desktop-superapp-simplify-user-experience-wsj-reports-2026-03-19/",
-          "source": "Reuters"
-        },
-        {
-          "title": "OpenAI Plans Desktop App Combining Chat, Coding and Web Browsing",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing",
-          "source": "Bloomberg.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "bitcoin price",
       "trafficCount": "100+",
@@ -53,6 +25,34 @@
           "snippet": "",
           "url": "https://coincentral.com/blockdag-news-bdag-price-crashes-71-despite-new-exchange-listings-investors-turn-to-deepsnitch-ais-march-31-for-100x-return-to-recover-losses/",
           "source": "CoinCentral"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "openai",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 21 Mar 2026 01:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgZ9s9fJLNkrGaZPQdxbrLwsnPlxx1FNubI47N574yjBxF3bnh8RoZv2KFwIk",
+      "pictureSource": "CNBC",
+      "relatedSearch": [
+        {
+          "title": "OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI plans desktop 'superapp' to streamline user experience",
+          "snippet": "",
+          "url": "https://www.reuters.com/technology/openai-plans-desktop-superapp-simplify-user-experience-wsj-reports-2026-03-19/",
+          "source": "Reuters"
+        },
+        {
+          "title": "OpenAI Reworks Product Strategy Around New Desktop Super App",
+          "snippet": "",
+          "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-reworks-product-strategy-around-new-desktop-super-app/",
+          "source": "PYMNTS.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,20 +229,20 @@
       "title": "apagão",
       "trafficCount": "1000+",
       "pubDate": "Fri, 20 Mar 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6Kb7qxmzC30Npfpsypk8emYBp29IFZPePneaqPIcp5ocfWz_7UFiDCVaJJ4M",
-      "pictureSource": "Público",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_FQnP0xfyeuN_Ssq9XLn_1JrO1AXYdmij_hcEzpKlqO-COL39OBCX_5PBEM",
+      "pictureSource": "Expresso",
       "relatedSearch": [
-        {
-          "title": "Espanha tarda em identificar os culpados do apagão, passa a tarefa aos tribunais",
-          "snippet": "",
-          "url": "https://www.publico.pt/2026/03/20/economia/noticia/espanha-tarda-identificar-culpados-apagao-passa-tarefa-tribunais-2168588",
-          "source": "Público"
-        },
         {
           "title": "De quem é, afinal, a culpa do apagão? Faltam responsáveis e os lesados terão de ir a tribunal",
           "snippet": "",
           "url": "https://expresso.pt/economia/economia_energia/2026-03-20-de-quem-e-afinal-a-culpa-do-apagao--faltam-responsaveis-e-os-lesados-terao-de-ir-a-tribunal-b59761b3",
           "source": "Expresso"
+        },
+        {
+          "title": "Espanha tarda em identificar os culpados do apagão, passa a tarefa aos tribunais",
+          "snippet": "",
+          "url": "https://www.publico.pt/2026/03/20/economia/noticia/espanha-tarda-identificar-culpados-apagao-passa-tarefa-tribunais-2168588",
+          "source": "Público"
         },
         {
           "title": "Relatório sobre apagão na Península Ibérica revela necessidade de reforçar sistema elétrico da UE",
