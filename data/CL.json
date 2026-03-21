@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-21 10:38:20",
+  "lastUpdate": "2026-03-21 10:51:04",
   "data": [
     {
       "title": "temperatura santiago",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 21 Mar 2026 03:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNeE4_5lcCQggF6TyQ0HEKfFdKAGemMppXAZU9sOmYFrVCBzASjbuRpyxd4sY",
       "pictureSource": "BioBioChile",
@@ -31,17 +31,11 @@
     },
     {
       "title": "temblor antofagasta",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 21 Mar 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8Yux1KqCSVdbt1KjW0VKPs6AT2eGV4l7WdkL8zec8f-gGAEw0TpHl_L65f1g",
-      "pictureSource": "La Tercera",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhYTvVXHvM7VjkZt81EdPgQFOUAVG9vlgC4xomS5k405b0XQP314QpymsItmQ",
+      "pictureSource": "BioBioChile",
       "relatedSearch": [
-        {
-          "title": "Temblor hoy, sábado 21 de marzo en Chile: consulta epicentro y magnitud",
-          "snippet": "",
-          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-sabado-21-de-marzo-en-chile-consulta-epicentro-y-magnitud/",
-          "source": "La Tercera"
-        },
         {
           "title": "Reportan sismo en las regiones de Antofagasta y Atacama",
           "snippet": "",
@@ -49,38 +43,16 @@
           "source": "BioBioChile"
         },
         {
+          "title": "Temblor hoy, sábado 21 de marzo en Chile: consulta epicentro y magnitud",
+          "snippet": "",
+          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-sabado-21-de-marzo-en-chile-consulta-epicentro-y-magnitud/",
+          "source": "La Tercera"
+        },
+        {
           "title": "Tiembla en Chile: sismo de magnitud 4.0 con epicentro en Tocopilla",
           "snippet": "",
           "url": "https://www.infobae.com/noticias/2026/03/21/tiembla-en-chile-sismo-de-magnitud-40-con-epicentro-en-tocopilla/",
           "source": "Infobae"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "temblor hoy",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 21 Mar 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhYTvVXHvM7VjkZt81EdPgQFOUAVG9vlgC4xomS5k405b0XQP314QpymsItmQ",
-      "pictureSource": "BioBioChile",
-      "relatedSearch": [
-        {
-          "title": "Temblor magnitud 5,1 sacudió a Tarapacá: epicentro fue en el mar y cercano a Iquique",
-          "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/nacional/region-de-tarapaca/2026/03/20/temblor-magnitud-51-sacudio-a-tarapaca-epicentro-fue-en-el-mar-y-cercano-a-iquique.shtml",
-          "source": "BioBioChile"
-        },
-        {
-          "title": "Sismo de leve intensidad es percibido en Iquique: Revisa aquí la magnitud",
-          "snippet": "",
-          "url": "https://www.cnnchile.com/pais/sismo-leve-intensidad-percibido-iquique-cual-fue-su-magnitud_20260320/",
-          "source": "CNN Chile"
-        },
-        {
-          "title": "Temblor hoy, viernes 20 de marzo en Chile: consulta epicentro y magnitud",
-          "snippet": "",
-          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-viernes-20-de-marzo-en-chile-consulta-epicentro-y-magnitud/",
-          "source": "La Tercera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,7 +86,35 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "temblor",
+      "title": "sismo",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 21 Mar 2026 03:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhYTvVXHvM7VjkZt81EdPgQFOUAVG9vlgC4xomS5k405b0XQP314QpymsItmQ",
+      "pictureSource": "BioBioChile",
+      "relatedSearch": [
+        {
+          "title": "Temblor magnitud 5,1 sacudió a Tarapacá: epicentro fue en el mar y cercano a Iquique",
+          "snippet": "",
+          "url": "https://www.biobiochile.cl/noticias/nacional/region-de-tarapaca/2026/03/20/temblor-magnitud-51-sacudio-a-tarapaca-epicentro-fue-en-el-mar-y-cercano-a-iquique.shtml",
+          "source": "BioBioChile"
+        },
+        {
+          "title": "Sismo de leve intensidad es percibido en Iquique: Revisa aquí la magnitud",
+          "snippet": "",
+          "url": "https://www.cnnchile.com/pais/sismo-leve-intensidad-percibido-iquique-cual-fue-su-magnitud_20260320/",
+          "source": "CNN Chile"
+        },
+        {
+          "title": "Temblor hoy, viernes 20 de marzo en Chile: consulta epicentro y magnitud",
+          "snippet": "",
+          "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-viernes-20-de-marzo-en-chile-consulta-epicentro-y-magnitud/",
+          "source": "La Tercera"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "sismología",
       "trafficCount": "2000+",
       "pubDate": "Sat, 21 Mar 2026 03:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhYTvVXHvM7VjkZt81EdPgQFOUAVG9vlgC4xomS5k405b0XQP314QpymsItmQ",
@@ -145,14 +145,14 @@
       "title": "nuggets - raptors",
       "trafficCount": "200+",
       "pubDate": "Sat, 21 Mar 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTacXWuwNUfJNBXzY1MMDbl-LhHUHgwVRPzTOWL46484TJyhOXihO7khBJ1VAM",
-      "pictureSource": "Outlook India",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8bWHK3GxbsmumWTekYurvK416srUxGYDzYmvmbhBKrK2cNFH5xaQXdQCJnz4",
+      "pictureSource": "Evrim Ağacı",
       "relatedSearch": [
         {
-          "title": "Denver Nuggets Vs Toronto Raptors, NBA 2026: Jamal Murray Stars As Nuggets Hold Off Raptors 121-115",
+          "title": "Raptors And Nuggets Face Off In High Stakes NBA Showdown",
           "snippet": "",
-          "url": "https://www.outlookindia.com/sports/denver-nuggets-vs-toronto-raptors-nba-2026-ball-arena-in-pics",
-          "source": "Outlook India"
+          "url": "https://evrimagaci.org/gpt/raptors-and-nuggets-face-off-in-high-stakes-nba-showdown-534455",
+          "source": "Evrim Ağacı"
         },
         {
           "title": "Nikola Jokić Game Highlights DEN vs. TOR",
