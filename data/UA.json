@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-23 19:40:48",
+  "lastUpdate": "2026-03-23 19:58:05",
   "data": [
     {
       "title": "твіч",
@@ -31,7 +31,7 @@
     },
     {
       "title": "литва",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 23 Mar 2026 12:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxJdZ-2FDaKWUkAWuwcdzDzL79vRXEG4eJP_uM9S96uTftLfZUYxdgqsCb1lA",
       "pictureSource": "Європейська правда",
@@ -87,28 +87,28 @@
     },
     {
       "title": "дтэк",
-      "trafficCount": "1000+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 23 Mar 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ6ykrjwBTezQCD4pgart9WTkTOezvUuNHjU1h80Z1yHBybwEaLdgL2JzG7OY",
-      "pictureSource": "Економічна правда",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9DGiCsJVpL6FELOLWrQfG-i3oQWaY1-GJH1Yidg5KbNNFDAT1vuU2th0Ip_Y",
+      "pictureSource": "РБК-Україна",
       "relatedSearch": [
         {
-          "title": "Обесточенные потребители в шести областях: состояние энергосистемы на 23 марта",
+          "title": "Масштабные восстановления после атак: ДТЭК вернул свет более чем в 800 тысяч домов",
           "snippet": "",
-          "url": "https://epravda.com.ua/rus/energetika/sostoyanie-energosistemy-23-marta-gde-net-sveta-i-grafiki-819514/",
-          "source": "Економічна правда"
-        },
-        {
-          "title": "В Киеве и Киевской области ввели экстренные отключения света",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/otklyuchenie-sveta-23-marta-v-kieve-i-oblasti-vveli-ekstrennye-otklyucheniya-elektroenergii-50594238.html",
-          "source": "NV"
-        },
-        {
-          "title": "Отключения возвращаются: в какие часы в Украине 23 марта не будет света",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/vidklyuchennya-povertayutsya-ki-godini-ukrayini-1774199959.html",
+          "url": "https://www.rbc.ua/ukr/news/masshtabni-vidnovlennya-pislya-atak-dtek-1774274966.html",
           "source": "РБК-Україна"
+        },
+        {
+          "title": "За неделю ДТЭК вернул свет более 800 тысяч семей после обстрелов",
+          "snippet": "",
+          "url": "https://apostrophe.ua/ru/economy/za-nedelju-dtek-vernul-svet-bolee-800-tysjach-semej-posle-obstrelov.html",
+          "source": "Апостроф"
+        },
+        {
+          "title": "Восстановление после обстрелов: за неделю энергетики электросети вернули свет в 190 тысяч домов",
+          "snippet": "",
+          "url": "https://www.gorod.dp.ua/news/255608",
+          "source": "Gorod.dp.ua"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +161,38 @@
           "source": "Радіо Свобода"
         },
         {
-          "title": "Стало відомо про нові відключення через удари РФ",
+          "title": "Не сідайте в ліфт: у Києві та областях екстрені відключення світла",
           "snippet": "",
-          "url": "https://ua.korrespondent.net/ukraine/4864652-stalo-vidomo-pro-novi-vidkluichennia-cherez-udary-rf",
-          "source": "Korrespondent.net"
+          "url": "https://www.rbc.ua/rus/news/sidayte-lift-kievi-ta-oblasti-ekstreni-vidklyuchennya-1774288706.html",
+          "source": "РБК-Україна"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "график отключения света киев",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 23 Mar 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ6ykrjwBTezQCD4pgart9WTkTOezvUuNHjU1h80Z1yHBybwEaLdgL2JzG7OY",
+      "pictureSource": "Економічна правда",
+      "relatedSearch": [
+        {
+          "title": "Обесточенные потребители в шести областях: состояние энергосистемы на 23 марта",
+          "snippet": "",
+          "url": "https://epravda.com.ua/rus/energetika/sostoyanie-energosistemy-23-marta-gde-net-sveta-i-grafiki-819514/",
+          "source": "Економічна правда"
+        },
+        {
+          "title": "В Киеве и Киевской области ввели экстренные отключения света",
+          "snippet": "",
+          "url": "https://nv.ua/ukraine/events/otklyuchenie-sveta-23-marta-v-kieve-i-oblasti-vveli-ekstrennye-otklyucheniya-elektroenergii-50594238.html",
+          "source": "NV"
+        },
+        {
+          "title": "Отключения возвращаются: в какие часы в Украине 23 марта не будет света",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/vidklyuchennya-povertayutsya-ki-godini-ukrayini-1774199959.html",
+          "source": "РБК-Україна"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,9 +257,15 @@
       "title": "leonid radvinsky",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Mar 2026 06:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH4P866iJ4vYmi1CHmgTpsarlewVY5VBrv5ocCTj8AnE5sYz1dk40Il5DNK8k",
-      "pictureSource": "Bloomberg.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzsyTS0Dv_XX-7N_BqfHcA9GmLoEndYT0mN-_RXw_JSybn1SN99fzd6YdLrg0",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "OnlyFans owner Leonid Radvinsky dies at 43",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/c33le6yv7pno",
+          "source": "BBC"
+        },
         {
           "title": "Leonid Radvinsky, Who Changed Porn With OnlyFans, Dies at 43",
           "snippet": "",
@@ -239,44 +273,10 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Adult site CEO and owner dies aged 43 as tributes paid",
+          "title": "Only Fans CEO and owner Leonid Radvinsky dies aged 43 as company issues statement",
           "snippet": "",
           "url": "https://www.dailystar.co.uk/news/latest-news/onlyfans-ceo-owner-leonid-radvinsky-36909681",
           "source": "Daily Star"
-        },
-        {
-          "title": "Leonid Radvinsky's Tragic Death At 43, Meet His Wife, Katie Chudnovsky, Is A Mom To His Four Kids",
-          "snippet": "",
-          "url": "https://www.bollywoodshaadis.com/articles/leonid-radvinsky-tragic-death-at-43-meet-his-wife-katie-chudnovsky-is-a-mom-to-his-four-kids-76650",
-          "source": "BollywoodShaadis"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "мозамбік",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 23 Mar 2026 06:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf-DdgMHDt_5n50L6Ae6j-7xwFGrXGhn-6V0LxQUp6GMnIJfDuVhHsVvzna20",
-      "pictureSource": "Korrespondent.net",
-      "relatedSearch": [
-        {
-          "title": "Україна домовляється про газ із Мозамбіку",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/ukraine/4864781-ukraina-domovliaietsia-pro-haz-iz-mozambiku",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "​Зеленський обговорив із президентом Мозамбіку можливості постачання газу в Україну",
-          "snippet": "",
-          "url": "https://lb.ua/world/2026/03/23/728768_zelenskiy_obgovoriv_prezidentom.html",
-          "source": "LB.ua"
-        },
-        {
-          "title": "Зеленський обговорив з президентом Мозамбіку можливості постачання газу в Україну",
-          "snippet": "",
-          "url": "https://suspilne.media/1271038-zelenskij-obgovoriv-z-prezidentom-mozambiku-mozlivosti-postacanna-gazu-v-ukrainu/",
-          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
