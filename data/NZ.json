@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-03-23 15:32:33",
+  "lastUpdate": "2026-03-23 15:57:04",
   "data": [
+    {
+      "title": "world news",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 23 Mar 2026 07:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmTs9Jzrsis0AyCqX9dxxjXtypYu5KpdvQWBJWxGpXvXLBHdngFjwUQGGfyjY",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "LaGuardia: Two pilots killed after plane collides with fire truck at New York airport - follow live",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/c620w12y59nt",
+          "source": "BBC"
+        },
+        {
+          "title": "Plane and vehicle collide on New York airport runway",
+          "snippet": "",
+          "url": "https://www.stuff.co.nz/travel/360954881/plane-and-vehicle-collide-new-york-airport-runway",
+          "source": "Stuff"
+        },
+        {
+          "title": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
+          "source": "The Guardian"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "trump",
       "trafficCount": "100+",
@@ -37,9 +65,9 @@
       "pictureSource": "RNZ",
       "relatedSearch": [
         {
-          "title": "Live: Oil prices rise as fall out from Middle East crisis continues",
+          "title": "As it happened: Oil prices rise as fall out from Middle East crisis continues",
           "snippet": "",
-          "url": "https://www.rnz.co.nz/news/world/590353/live-oil-prices-rise-as-fall-out-from-middle-east-crisis-continues",
+          "url": "https://www.rnz.co.nz/news/top/590353/as-it-happened-oil-prices-rise-as-fall-out-from-middle-east-crisis-continues",
           "source": "RNZ"
         },
         {
@@ -65,50 +93,22 @@
       "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Gold and silver in freefall as investors flee safe haven metals trade",
+          "title": "Gold and silver losses ease as Trump postpones Iran energy strikes",
           "snippet": "",
           "url": "https://www.cnbc.com/2026/03/23/gold-and-silver-in-freefall-as-investors-flee-safe-haven-metals-trade.html",
           "source": "CNBC"
-        },
-        {
-          "title": "Gold extends losses amid 'brutal flush'",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/news/gold-extends-losses-amid-brutal-flush-135632457.html",
-          "source": "Yahoo Finance"
         },
         {
           "title": "Why Is the Gold Price Falling Despite Iran War Uncertainty?",
           "snippet": "",
           "url": "https://global.morningstar.com/en-gb/markets/why-is-gold-price-falling-despite-iran-war-uncertainty",
           "source": "Morningstar Canada"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "air canada",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 23 Mar 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmTs9Jzrsis0AyCqX9dxxjXtypYu5KpdvQWBJWxGpXvXLBHdngFjwUQGGfyjY",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "LaGuardia: Two pilots killed after plane collides with fire truck at New York airport - follow live",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/c620w12y59nt",
-          "source": "BBC"
         },
         {
-          "title": "Plane and vehicle collide on New York airport runway",
+          "title": "Why gold’s plunge into a bear market is a good signal for stocks, according to Morgan Stanley",
           "snippet": "",
-          "url": "https://www.stuff.co.nz/travel/360954881/plane-and-vehicle-collide-new-york-airport-runway",
-          "source": "Stuff"
-        },
-        {
-          "title": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
-          "snippet": "",
-          "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
-          "source": "The Guardian"
+          "url": "https://www.marketwatch.com/story/why-golds-plunge-into-a-bear-market-is-a-good-signal-for-stocks-according-to-morgan-stanley-bacf5d35?gaa_at=eafs&gaa_n=AWEtsqd3SvOW7DGU_HhvhFcjMfoHtBCxpPaRztEqlpsNH2YsQDlk_W7ua2CR&gaa_ts=69c16539&gaa_sig=XP7g-CXzD0kdKXx8yzZFtJgseKrKat1TpZi7F5xtz3iJNnts0FiK3Jw890mowBuoMHs5D2bYi2kDs21levr6IA%3D%3D",
+          "source": "MarketWatch"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "Newsweek"
         },
         {
-          "title": "Alan Ritchson Reportedly Crashed His Motorcycle Before a Fight With a Neighbor",
+          "title": "Alan Ritchson Caught on Video in Neighborhood Brawl After Dirt Bike Noise Clash",
           "snippet": "",
-          "url": "https://parade.com/celebrities/alan-ritchson-reportedly-crashed-his-motorcycle-before-a-fight-with-a-neighbor",
-          "source": "Parade"
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/alan-ritchson-caught-video-neighborhood-053525357.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Deadline"
         },
         {
+          "title": "In ‘Project Hail Mary,’ Phil Lord and Chris Miller finally get their space odyssey",
+          "snippet": "",
+          "url": "https://apnews.com/article/project-hail-mary-phil-lord-chris-miller-d636d596f17ce853b17ec58f38dd1ed3",
+          "source": "AP News"
+        },
+        {
           "title": "Weekend Box Office: Project Hail Mary Scores Big Win for Amazon MGM",
           "snippet": "",
           "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-project-hail-mary-scores-big-win-for-amazon-mgm/",
           "source": "Rotten Tomatoes"
-        },
-        {
-          "title": "Project Hail Mary: Why Rocky And Grace Can't Be In The Same Space",
-          "snippet": "",
-          "url": "https://www.slashfilm.com/2125069/project-hail-mary-why-rocky-grace-not-same-space/",
-          "source": "SlashFilm"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,9 +239,9 @@
           "source": "ESPN"
         },
         {
-          "title": "Jaden McDaniels News: Productive in win Sunday",
+          "title": "Jaylen Brown News: Cleared to play Sunday",
           "snippet": "",
-          "url": "https://www.rotowire.com/basketball/headlines/jaden-mcdaniels-news-productive-in-win-sunday-525180",
+          "url": "https://www.rotowire.com/basketball/headlines/jaylen-brown-news-cleared-to-play-sunday-525133",
           "source": "RotoWire"
         },
         {
