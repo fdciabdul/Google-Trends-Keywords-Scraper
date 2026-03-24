@@ -1,24 +1,52 @@
 {
-  "lastUpdate": "2026-03-24 04:02:22",
+  "lastUpdate": "2026-03-24 04:44:27",
   "data": [
     {
-      "title": "weather",
-      "trafficCount": "2000+",
-      "pubDate": "Mon, 23 Mar 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1erT8YsdLQPPhSZM_b_AVAnj0CmG74_hPgtcciHihzF6d3StLE5ztcUcXGE",
-      "pictureSource": "WBRZ",
+      "title": "الطقس",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 23 Mar 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeap-YVjDxpapMLhZlrJLTt4BONFDhZQG9tCgSX04RKAPitiC6n-e_dz8CAlk",
+      "pictureSource": "جريدة الأنباء الكويتية",
       "relatedSearch": [
+        {
+          "title": "موجة طقس غير مستقر تضرب القاهرة.. أمطار رعدية وسيول متوقعة حتى الخميس",
+          "snippet": "",
+          "url": "https://www.alanba.com.kw/1351490",
+          "source": "جريدة الأنباء الكويتية"
+        },
+        {
+          "title": "عواصف رملية وأمطار رعدية.. الأرصاد تحذر من الطقس في مصر",
+          "snippet": "",
+          "url": "https://www.alarabiya.net/arab-and-world/egypt/2026/03/23/%D8%B9%D9%88%D8%A7%D8%B5%D9%81-%D8%B1%D9%85%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1",
+          "source": "العربية"
+        },
+        {
+          "title": "الأرصاد: غدا دافئ نهارا بارد ليلا",
+          "snippet": "",
+          "url": "https://egyption-yua.com/80636/",
+          "source": "بوابة شباب المصريين بالخارج"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 23 Mar 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGPsos1OGCrPKmdtTD27xY2nve6qJCALphbw2f_jqHWN6Jjr1G-OWMEFUbS10",
+      "pictureSource": "12newsnow.com",
+      "relatedSearch": [
+        {
+          "title": "Weather Impact Alert Tuesday Morning due to Dense Fog",
+          "snippet": "",
+          "url": "https://www.12newsnow.com/video/weather/forecast/weather-impact-alert-tuesday-morning-due-to-dense-fog/502-cbb893c7-dbdd-47e5-8846-b66c382afa3e",
+          "source": "12newsnow.com"
+        },
         {
           "title": "Monday evening video forecast",
           "snippet": "",
           "url": "https://www.wbrz.com/videos/monday-evening-video-forecast-90867",
           "source": "WBRZ"
-        },
-        {
-          "title": "More spring warmth and morning fog",
-          "snippet": "",
-          "url": "https://www.katc.com/weather/more-spring-warmth-and-morning-fog",
-          "source": "KATC"
         },
         {
           "title": "The warm streak continues with another dry week ahead before a slight cooldown returns",
@@ -30,92 +58,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "اخبار الكويت",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Mar 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0E3iHNy8LkldfhIakSOkkm_MEXc9o2e712XQf3pSmNigXsnJ47lOP3r4ycKQ",
-      "pictureSource": "سكاي نيوز عربية",
-      "relatedSearch": [
-        {
-          "title": "الكويت.. شظايا تخرج 7 خطوط كهرباء عن الخدمة",
-          "snippet": "",
-          "url": "https://www.skynewsarabia.com/middle-east/1860216-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%B4%D8%B8%D8%A7%D9%8A%D8%A7-%D8%AA%D8%AE%D8%B1%D8%AC-7-%D8%AE%D8%B7%D9%88%D8%B7-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9",
-          "source": "سكاي نيوز عربية"
-        },
-        {
-          "title": "«الكهرباء»: خروج 7 خطوط هوائية لنقل الطاقة الكهربائية عن الخدمة في عدد من مناطق البلاد",
-          "snippet": "",
-          "url": "https://www.aljarida.com/article/126883",
-          "source": "جريدة الجريدة الكويتية"
-        },
-        {
-          "title": "وزير الكهرباء: مستمرون في متابعة جاهزية جميع قطاعات الوزارة لضمان استمرارية الخدمات دون انقطاع",
-          "snippet": "",
-          "url": "https://www.alanba.com.kw/1351414",
-          "source": "جريدة الأنباء الكويتية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cnn",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 23 Mar 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7aI3lXH-1gTshjMfvL58DyBHFDmqRlot78-fjB397kVzdPWUOndRk6dIJ1aM",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "What we know on Day 25 of the US and Israel’s war with Iran",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/03/23/middleeast/us-israel-iran-middle-east-war-day-25-what-we-know-intl-hnk",
-          "source": "CNN"
-        },
-        {
-          "title": "Live Updates: Trump calls off Strait of Hormuz ultimatum as Iran receives U.S. message from mediators",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/",
-          "source": "CBS News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "kuwait news",
       "trafficCount": "200+",
       "pubDate": "Mon, 23 Mar 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1I-1MHP0Df5VElU7KkhCX7N7YQVCwM1YNQwOabfkbrLKHXXZo_BImF7SR7M",
-      "pictureSource": "Times Kuwait",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMUgKNUDlgCWnTnLy-2qVLW42BomVJ50TnsB_c8nlt-HGIr312EMH0WR9Gys",
+      "pictureSource": "Kuwait Times",
       "relatedSearch": [
         {
-          "title": "Jazeera Airways Fully Restores Indian Network with Ahmedabad and Thiruvananthapuram Routes",
+          "title": "Kuwait’s gold market sees slower Eid rush amid high prices and regional tensions",
           "snippet": "",
-          "url": "https://timeskuwait.com/jazeera-airways-resumes-flights-to-ahmedabad-trivandrum-via-al-qaisumah-airport/",
-          "source": "Times Kuwait"
+          "url": "https://kuwaittimes.com/article/41293/kuwait/kuwaits-gold-market-sees-slower-eid-rush-amid-high-prices-and-regional-tensions/",
+          "source": "Kuwait Times"
         },
         {
-          "title": "Jazeera Airways Resumes Flights to Ahmedabad and Trivandrum",
+          "title": "Gold Prices in Kuwait Fall Sharply",
           "snippet": "",
-          "url": "https://www.arabtimesonline.com/news/jazeera-airways-resumes-flights-to-ahmedabad-and-trivandrum/",
+          "url": "https://www.arabtimesonline.com/news/gold-prices-in-kuwait-fall-sharply/",
           "source": "Arab Times Kuwait News"
         },
         {
-          "title": "Jazeera Airways resumes Egypt flights via Saudi Arabia",
+          "title": "Gold price surge and ongoing tensions soften Ramadan trade at Manama Souq",
           "snippet": "",
-          "url": "https://gulfnews.com/business/aviation/jazeera-airways-resumes-egypt-flights-via-saudi-arabia-1.500482572",
-          "source": "Gulf News"
+          "url": "https://www.newsofbahrain.com/bahrain/128793.html",
+          "source": "News of Bahrain"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kuwait",
-      "trafficCount": "200+",
+      "title": "kuwait news today",
+      "trafficCount": "100+",
       "pubDate": "Mon, 23 Mar 2026 18:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQukCDKstfsCGaHK8CxpWx_fYXJaNCFL9Sd2AxX8CSkw1AwH49s0WyaDanuwxs",
       "pictureSource": "Times Kuwait",
@@ -142,17 +114,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "kuwait",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 23 Mar 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQleYHLwsqziAWQd1D-z-RvnKbfrO1i-EpB3vY3XsGx56c79C4RRBG0e8_5-L4",
+      "pictureSource": "WSJ",
+      "relatedSearch": [
+        {
+          "title": "Debris From Intercepted Missiles Cuts Power Lines in Kuwait",
+          "snippet": "",
+          "url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates-2026/card/debris-from-intercepted-missiles-cuts-power-lines-in-kuwait-mIiKr4EedJJnLQhYbJL8",
+          "source": "WSJ"
+        },
+        {
+          "title": "Power Outages Reported in Kuwait After Air Defense Operations Damage Lines",
+          "snippet": "",
+          "url": "https://www.arabtimesonline.com/news/power-outages-reported-in-kuwait-after-air-defense-operations-damage-lines/",
+          "source": "Arab Times Kuwait News"
+        },
+        {
+          "title": "Kuwait restores electricity transmission line",
+          "snippet": "",
+          "url": "https://www.gdnonline.com/Details/1379239/Kuwait-restores-electricity-transmission-line",
+          "source": "Gulf Daily News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "australia women vs west indies women",
       "trafficCount": "500+",
       "pubDate": "Mon, 23 Mar 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfyzI_93qTBtYWzSeXFEuSeXZeHoWI0NvDCln-Sg_24G5CSOXuDvnM-6yeudk",
-      "pictureSource": "Female Cricket",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtAnjrGZNA9N4i12SxVvz5laG9CgfqQakRX-NTcTqias7qZ-N34M4wBd8Psjo",
+      "pictureSource": "Cricbuzz.com",
       "relatedSearch": [
         {
-          "title": "King and Perry Lead Australia Women to 17-Run Win Over West Indies in 2nd T20I",
+          "title": "West Indies Women vs Australia Women, 3rd T20I, Australia Women tour of West Indies, 2026 - Player Highlights",
           "snippet": "",
-          "url": "https://femalecricket.com/australia-tour-of-west-indies-2026/85865-king-and-perry-lead-australia-women-to-17-run-win-over-west-indies-in-2nd-t20i.html",
-          "source": "Female Cricket"
+          "url": "https://www.cricbuzz.com/player-match-highlights/148353/1/15636/batting",
+          "source": "Cricbuzz.com"
         },
         {
           "title": "WI vs AUS Live Streaming 3rd T20I: When And Where to Watch West Indies Women vs Australia Women in India, Pakistan And Worldwide; Check Predicted Playing XIs And Weather Report",
@@ -161,10 +161,38 @@
           "source": "The Sunday Guardian"
         },
         {
-          "title": "West Indies Women vs Australia Women, 3rd T20I, Australia Women tour of West Indies, 2026 - Player Highlights",
+          "title": "Matthews half-century gives Australia a scare",
           "snippet": "",
-          "url": "https://www.cricbuzz.com/player-match-highlights/148353/1/15636/batting",
-          "source": "Cricbuzz.com"
+          "url": "https://www.espncricinfo.com/cricket-videos/matthews-half-century-gives-australia-a-scare-1528663",
+          "source": "ESPNcricinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الكويت",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 23 Mar 2026 15:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0E3iHNy8LkldfhIakSOkkm_MEXc9o2e712XQf3pSmNigXsnJ47lOP3r4ycKQ",
+      "pictureSource": "سكاي نيوز عربية",
+      "relatedSearch": [
+        {
+          "title": "الكويت.. شظايا تخرج 7 خطوط كهرباء عن الخدمة",
+          "snippet": "",
+          "url": "https://www.skynewsarabia.com/middle-east/1860216-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%B4%D8%B8%D8%A7%D9%8A%D8%A7-%D8%AA%D8%AE%D8%B1%D8%AC-7-%D8%AE%D8%B7%D9%88%D8%B7-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9",
+          "source": "سكاي نيوز عربية"
+        },
+        {
+          "title": "«الكهرباء»: خروج 7 خطوط هوائية لنقل الطاقة الكهربائية عن الخدمة في عدد من مناطق البلاد",
+          "snippet": "",
+          "url": "https://www.aljarida.com/article/126883",
+          "source": "جريدة الجريدة الكويتية"
+        },
+        {
+          "title": "إعادة خط هوائي كهربائي «متضرر بشظية» إلى الخدمة",
+          "snippet": "",
+          "url": "https://www.annaharkw.com/Article.aspx?id=1041583&date=23032026",
+          "source": "www.annaharkw.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "Euronews.com"
         },
         {
-          "title": "Sharjah Airport urges passengers to check flight status due to unstable weather",
+          "title": "Dubai Airport on High Alert Severe Weather Forecasted to Disrupt Flights and Travel — What Every Traveller Must Know Before 27 March!",
           "snippet": "",
-          "url": "https://gulfnews.com/business/aviation/sharjah-airport-urges-passengers-to-check-flight-status-due-to-unstable-weather-1.500483451",
-          "source": "Gulf News"
+          "url": "https://www.travelandtourworld.com/news/article/dubai-airport-on-high-alert-severe-weather-forecasted-to-disrupt-flights-and-travel-what-every-traveller-must-know-before-27-march/",
+          "source": "Travel And Tour World"
         },
         {
           "title": "NCM: Rainfall to continue across UAE until Friday",
           "snippet": "",
           "url": "https://sharjah24.ae/en/Articles/2026/03/23/Ma41",
           "source": "Sharjah24"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الطقس غدًا",
-      "trafficCount": "5000+",
-      "pubDate": "Mon, 23 Mar 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeap-YVjDxpapMLhZlrJLTt4BONFDhZQG9tCgSX04RKAPitiC6n-e_dz8CAlk",
-      "pictureSource": "جريدة الأنباء الكويتية",
-      "relatedSearch": [
-        {
-          "title": "موجة طقس غير مستقر تضرب القاهرة.. أمطار رعدية وسيول متوقعة حتى الخميس",
-          "snippet": "",
-          "url": "https://www.alanba.com.kw/1351490",
-          "source": "جريدة الأنباء الكويتية"
-        },
-        {
-          "title": "عواصف رملية وأمطار رعدية.. الأرصاد تحذر من الطقس في مصر",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/arab-and-world/egypt/2026/03/23/%D8%B9%D9%88%D8%A7%D8%B5%D9%81-%D8%B1%D9%85%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1",
-          "source": "العربية"
-        },
-        {
-          "title": "الأرصاد: غدا دافئ نهارا بارد ليلا",
-          "snippet": "",
-          "url": "https://egyption-yua.com/80636/",
-          "source": "بوابة شباب المصريين بالخارج"
         }
       ],
       "link": "https://imtaqin.id/"
