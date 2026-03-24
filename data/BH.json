@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2026-03-24 11:58:08",
+  "lastUpdate": "2026-03-24 12:28:23",
   "data": [
     {
-      "title": "aws bahrain",
+      "title": "bahrain weather",
       "trafficCount": "500+",
-      "pubDate": "Tue, 24 Mar 2026 00:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDA0rtuRacO94QBhyteRKMozHm6o9nk2sKKH72ZlMmhmN8KE5oLazenSKPUCE",
-      "pictureSource": "CNBC",
+      "pubDate": "Tue, 24 Mar 2026 05:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5mdW9qEAAJfjbwsOkfkUA6340loKa90-HV_CfoTvlOGNXV6s3oCJ2do3MSLk",
+      "pictureSource": "Gulf Daily News",
       "relatedSearch": [
         {
-          "title": "Amazon faces further AWS disruption in the Middle East from Iran conflict",
+          "title": "Unstable weather to continue",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/03/24/amazon-aws-disruption-in-bahrain-iran.html",
-          "source": "CNBC"
+          "url": "https://www.gdnonline.com/Details/1379410/Unstable-weather-to-continue",
+          "source": "Gulf Daily News"
         },
+        {
+          "title": "Thunderstorm brings rain, strong winds across Kingdom",
+          "snippet": "",
+          "url": "https://www.newsofbahrain.com/bahrain/129083.html",
+          "source": "News of Bahrain"
+        },
+        {
+          "title": "Heavy rain boosts Al-Baha’s tourist appeal",
+          "snippet": "",
+          "url": "https://www.arabnews.com/node/2637380/saudi-arabia",
+          "source": "Arab News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "aws bahrain",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 24 Mar 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbxil81WkqB7uhvrfUpBkkLXYKYjUBjOwZrwqQm0Jy0RlDXbebxm6YqhdHzn0",
+      "pictureSource": "Reuters",
+      "relatedSearch": [
         {
           "title": "Exclusive: Amazon says AWS' Bahrain region 'disrupted' following drone activity",
           "snippet": "",
@@ -21,10 +43,16 @@
           "source": "Reuters"
         },
         {
-          "title": "Data Is Now the Front Line of Warfare",
+          "title": "Amazon faces further AWS disruption in the Middle East from Iran conflict",
           "snippet": "",
-          "url": "https://www.csis.org/analysis/data-now-front-line-warfare",
-          "source": "CSIS | Center for Strategic and International Studies"
+          "url": "https://www.cnbc.com/2026/03/24/amazon-aws-disruption-in-bahrain-iran.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Amazon Web Services hit again: Drone-linked disruption shakes Bahrain cloud network",
+          "snippet": "",
+          "url": "https://m.economictimes.com/us/news/amazon-web-services-hit-again-drone-linked-disruption-shakes-bahrain-cloud-network/articleshow/129768012.cms",
+          "source": "The Economic Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,44 +89,9 @@
       "title": "وزارة العمل",
       "trafficCount": "1000+",
       "pubDate": "Mon, 23 Mar 2026 16:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQtnGmCRWIbzeDlRNbnQ4u6SO-9jYpcizghRLMFXFU-KE_RjUg2FVzNrxI_U",
-      "pictureSource": "elmwatin.com",
-      "relatedSearch": [
-        {
-          "title": "جنوب سيناء تشدد الرقابة على تطبيق قانون العمل الجديد في شرم الشيخ",
-          "snippet": "",
-          "url": "https://www.elmwatin.com/682105",
-          "source": "elmwatin.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bahrain weather",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 23 Mar 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5mdW9qEAAJfjbwsOkfkUA6340loKa90-HV_CfoTvlOGNXV6s3oCJ2do3MSLk",
-      "pictureSource": "Gulf Daily News",
-      "relatedSearch": [
-        {
-          "title": "Unstable weather to continue",
-          "snippet": "",
-          "url": "https://www.gdnonline.com/Details/1379410/Unstable-weather-to-continue",
-          "source": "Gulf Daily News"
-        },
-        {
-          "title": "Thunderstorm brings rain, strong winds across Kingdom",
-          "snippet": "",
-          "url": "https://www.newsofbahrain.com/bahrain/129083.html",
-          "source": "News of Bahrain"
-        },
-        {
-          "title": "Heavy rain boosts Al-Baha’s tourist appeal",
-          "snippet": "",
-          "url": "https://www.arabnews.com/node/2637380/saudi-arabia",
-          "source": "Arab News"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
