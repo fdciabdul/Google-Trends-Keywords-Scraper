@@ -1,10 +1,66 @@
 {
-  "lastUpdate": "2026-03-24 22:50:56",
+  "lastUpdate": "2026-03-24 23:03:04",
   "data": [
     {
-      "title": "금값시세",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 24 Mar 2026 14:40:00 -0700",
+      "title": "날씨",
+      "trafficCount": "100000+",
+      "pubDate": "Tue, 24 Mar 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU991THi4420upVwf7gN8EJUxRaPWd4FJkfLHO04Ab52QTEHu47grhSYQYt7A",
+      "pictureSource": "뉴시스",
+      "relatedSearch": [
+        {
+          "title": "부산, 비 내리다 오후부터 맑아져…5㎜ 미만",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20260325_0003562404",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[오늘의 날씨] 부산·경남(24일, 수)…낮 동안 5㎜ 미만 비",
+          "snippet": "",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6112634",
+          "source": "뉴스1"
+        },
+        {
+          "title": "부산·울산·경남 맑다가 흐려져…낮 최고 15∼18도",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260324009400051",
+          "source": "연합뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 24 Mar 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq9c4Ey-FP6y4CZ10cLfiU97VFIl41POlQ572TKkcwSz6f0W3ocAEu8k6Nld4",
+      "pictureSource": "Iowa Public Radio",
+      "relatedSearch": [
+        {
+          "title": "State agencies urge Iowans to prepare for natural disasters before they hit",
+          "snippet": "",
+          "url": "https://www.iowapublicradio.org/ipr-news/2026-03-24/severe-weather-awareness-week-storms-recovery",
+          "source": "Iowa Public Radio"
+        },
+        {
+          "title": "KTIC 840 AM/98.3 FM/98.7 FM - KTIC News Center Tuesday News 3-24-26",
+          "snippet": "",
+          "url": "https://ruralradio.com/ktic/news/ktic-news-center-tuesday-news-3-24-26/",
+          "source": "Rural Radio Network"
+        },
+        {
+          "title": "Pottawattamie County Recognizes Severe Weather Awareness Week, March 23–27",
+          "snippet": "",
+          "url": "https://www.pottcounty-ia.gov/news/pottawattamie_county_recognizes_severe_weather_awareness_week_march_2327/",
+          "source": "Pottawattamie County (.gov)"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "금시세",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 24 Mar 2026 14:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDR1SC6X7hlSEpH5GOwKGyCa0Fx2dheeWqbr7qLEKAOvZz4Ay72tXVQq4-bi4",
       "pictureSource": "Daum",
       "relatedSearch": [
@@ -109,34 +165,6 @@
           "snippet": "",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8515979",
           "source": "KBS 뉴스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "부산날씨",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 24 Mar 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU991THi4420upVwf7gN8EJUxRaPWd4FJkfLHO04Ab52QTEHu47grhSYQYt7A",
-      "pictureSource": "뉴시스",
-      "relatedSearch": [
-        {
-          "title": "부산, 비 내리다 오후부터 맑아져…5㎜ 미만",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260325_0003562404",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[오늘의 날씨] 부산·경남(24일, 수)…낮 동안 5㎜ 미만 비",
-          "snippet": "",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6112634",
-          "source": "뉴스1"
-        },
-        {
-          "title": "부산·울산·경남 맑다가 흐려져…낮 최고 15∼18도",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260324009400051",
-          "source": "연합뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.newsis.com/view/NISX20260324_0003562095",
           "source": "뉴시스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lng",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 24 Mar 2026 07:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzkTD0R0AoE4NC9lXaI3HzPIuQsRhGhtL8YJKkj71UvvVyA_zi4q_hrk3pVXM",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "Venture Global working to ship critical LNG cargoes globally, CEO says",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/energy/ceraweek-venture-global-has-adequate-long-term-supply-lng-ceo-says-2026-03-24/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Jim Cramer on Venture Global: “This Is the One You Want to Own If You’re a True Believer”",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-venture-global-one-142618187.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Venture Global, Cheniere upgraded to Buy at Morgan Stanley on upbeat LNG outlook (LNG:NYSE)",
-          "snippet": "",
-          "url": "https://seekingalpha.com/news/4567516-venture-global-cheniere-upgraded-to-buy-at-morgan-stanley-on-upbeat-lng-outlook",
-          "source": "Seeking Alpha"
         }
       ],
       "link": "https://imtaqin.id/"
