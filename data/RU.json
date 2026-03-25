@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-25 23:30:08",
+  "lastUpdate": "2026-03-25 23:48:12",
   "data": [
     {
       "title": "новости сегодня",
@@ -25,34 +25,6 @@
           "snippet": "",
           "url": "https://ulpravda.ru/rubrics/accidents/administratsiia-ulianovska-o-chp-s-podrostkami-v-avtobusy-ne-seli-poshli-k-volge",
           "source": "Улправда"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "claude ai",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 25 Mar 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqlkr5ZlwuccfgOiiTG4Qx1953hl1OFJdJEWL7kXsmLmCG_ke2ATzr_TDKhHc",
-      "pictureSource": "Anthropic",
-      "relatedSearch": [
-        {
-          "title": "Harness design for long-running application development",
-          "snippet": "",
-          "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
-          "source": "Anthropic"
-        },
-        {
-          "title": "Anthropic’s Claude Code gets ‘safer’ auto mode",
-          "snippet": "",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-          "source": "The Verge"
-        },
-        {
-          "title": "How Claude Code's new auto mode prevents AI coding disasters - without slowing you down",
-          "snippet": "",
-          "url": "https://www.zdnet.com/article/claude-code-auto-mode/",
-          "source": "ZDNET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +59,7 @@
     },
     {
       "title": "торонто рейнджерс прогноз",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 25 Mar 2026 14:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-NNd_RbwT-9BIrr9gZ68baO-YejQh3jqmkdDusVYu4hqX1ErO_ZjWKm9Mrgs",
       "pictureSource": "Metaratings",
@@ -257,26 +229,54 @@
       "title": "teams",
       "trafficCount": "100+",
       "pubDate": "Wed, 25 Mar 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1i3TNd75jeyBoJ11G3uiGyI4LHnYpFq9QmIV2VJx5bzhsCsPGWCY288u7Bms",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNZRZKwSl9Pzf2Q4bPXUVueTEIrJKcrM7hjLuxe9UcN30b6nJV8zAUnxA6kC4",
       "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Bengals' Joe Flacco says teams 'dumb' for not signing him to start",
+          "title": "NBA owners vote to explore Vegas, Seattle expansion bids",
           "snippet": "",
-          "url": "https://www.espn.com/nfl/story/_/id/48304474/bengals-joe-flacco-says-teams-dumb-not-signing-start",
+          "url": "https://www.espn.com/nba/story/_/id/48304338/sources-nba-votes-explore-vegas-seattle-expansion-bids",
           "source": "ESPN"
         },
         {
-          "title": "Ravens will again square off with a one-time ally in a continuing rivalry",
+          "title": "Vegas and Seattle a step closer to getting NBA teams. League's owners approve expansion exploration",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/ravens-again-square-off-one-223414580.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.channel3000.com/news/shareable-stories/vegas-and-seattle-a-step-closer-to-getting-nba-teams-leagues-owners-approve-expansion-exploration/article_2e189dbf-9769-5f32-b80c-21c536462e06.html",
+          "source": "Channel 3000"
         },
         {
-          "title": "Joe Flacco, 41, calls out 'dumb' NFL teams for not making him a starting quarterback",
+          "title": "What NBA commissioner said about Seattle, Vegas expansion",
           "snippet": "",
-          "url": "https://www.foxnews.com/sports/joe-flacco-41-calls-out-dumb-nfl-teams-not-making-him-starting-quarterback",
-          "source": "Fox News"
+          "url": "https://sports.mynorthwest.com/seattle-sports-pit/nba-commissioner-adam-silver-said-seattle-sonics-expansion/1843607",
+          "source": "Seattle Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "github",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 25 Mar 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9aglmuOTgiQVIhOmpF9UHrZPsXqLAzNuuHiOSvEfSV120Cj4tVIXnPWiytKI",
+      "pictureSource": "The GitHub Blog",
+      "relatedSearch": [
+        {
+          "title": "Updates to GitHub Copilot interaction data usage policy",
+          "snippet": "",
+          "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+          "source": "The GitHub Blog"
+        },
+        {
+          "title": "GitHub’s Copilot will use you as AI training data, but you can opt out",
+          "snippet": "",
+          "url": "https://www.howtogeek.com/githubs-copilot-will-use-you-as-ai-training-data-but-you-can-opt-out/",
+          "source": "How-To Geek"
+        },
+        {
+          "title": "Microsoft's GitHub is going to start using Copilot interactions to train AI models and it's starting soon",
+          "snippet": "",
+          "url": "https://www.windowscentral.com/software-apps/microsofts-github-is-going-to-start-using-copilot-interactions-to-train-ai-models-and-its-starting-soon",
+          "source": "Windows Central"
         }
       ],
       "link": "https://imtaqin.id/"
