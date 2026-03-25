@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-25 07:07:43",
+  "lastUpdate": "2026-03-25 07:34:23",
   "data": [
     {
       "title": "ye",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 24 Mar 2026 23:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxkavGqPFIouhIDmIYUx3LIICj-BAI06fdPLell48QoDIQKmBR9v4Qc5pJWnI",
       "pictureSource": "Shatter the Standards",
@@ -33,15 +33,9 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Tue, 24 Mar 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9zv2xQXg7TLa-AhBQhF5JIA05R8P0juACFMbzt9G_2e8CfTJf1zk4r02mLaM",
-      "pictureSource": "Hawaii News Now",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPHrFj1Ql2iCjl3F1GQgYRVn0byE22KVAnGv8IanM39xnz_Qvceta_ePaq6z4",
+      "pictureSource": "Kauai Now",
       "relatedSearch": [
-        {
-          "title": "Main weather radar serving Oahu and Maui County down during Kona lows",
-          "snippet": "",
-          "url": "https://www.hawaiinewsnow.com/2026/03/25/main-weather-radar-serving-oahu-maui-county-down-during-kona-lows/",
-          "source": "Hawaii News Now"
-        },
         {
           "title": "Kauai Weather Forecast for March 25, 2026",
           "snippet": "",
@@ -52,6 +46,12 @@
           "title": "Kauai Weather Forecast for March 24, 2026",
           "snippet": "",
           "url": "https://kauainownews.com/2026/03/23/kauai-weather-forecast-for-march-24-2026/",
+          "source": "Kauai Now"
+        },
+        {
+          "title": "Kauai Weather Forecast for March 24, 2026",
+          "snippet": "",
+          "url": "https://kauainownews.com/2026/03/24/kauai-weather-forecast-for-march-24-2026-2/",
           "source": "Kauai Now"
         }
       ],
@@ -77,10 +77,10 @@
           "source": "TV2.no"
         },
         {
-          "title": "Frisk Asker, Varner Arena | Frisk tapte dramatisk kamp: – Snytt for straffe",
+          "title": "(+) Mer Vålerenga-trøbbel: Ny spiller utestenges i NM-semifinalen",
           "snippet": "",
-          "url": "https://www.budstikka.no/frisk-tapte-dramatisk-kamp-pa-jordal/s/5-55-2244119",
-          "source": "Budstikka"
+          "url": "https://www.folkebladet.no/norgeogverden/i/gkk04A/mer-vaalerenga-troebbel-ny-spiller-utestenges-i-nm-semifinalen",
+          "source": "folkebladet.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +89,9 @@
       "title": "tv2.no",
       "trafficCount": "200+",
       "pubDate": "Tue, 24 Mar 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy7r4wA5XHWAj6-O5EyEpVf171TWcrtKms1TZBd6DtzXR6XdzpcrymTs9dXjc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAeG6eV6mp70hJxZ9BnHX762SXsG9Gw1C0ud1d1h8FdtswtYWaMsUgTBbwlfY",
       "pictureSource": "TV2.no",
       "relatedSearch": [
-        {
-          "title": "Ventet i dagevis på legetime. Så kom beskjeden: – Kom deg hit med en gang",
-          "snippet": "",
-          "url": "https://www.tv2.no/nyheter/ventet-i-dagevis-pa-legetime-sa-kom-beskjeden-kom-deg-hit-med-en-gang/18687001/",
-          "source": "TV2.no"
-        },
         {
           "title": "Skal ha rundlurt eldre kvinner: – Ekstra stygt",
           "snippet": "",
@@ -109,6 +103,12 @@
           "snippet": "",
           "url": "https://www.fvn.no/nyheter/lokalt/i/Pd4p0b/soerlending-skal-ha-vaert-med-paa-aa-svindle-eldre-norske-kvinner-for-28-millioner-kroner",
           "source": "fvn.no"
+        },
+        {
+          "title": "Nyheter, Rettssaker | Eldrebedragerier lagt ut på anbud - ti eldre kvinner ble svindlet for sju millioner",
+          "snippet": "",
+          "url": "https://www.dt.no/eldrebedragerier-lagt-ut-pa-anbud-ti-eldre-kvinner-ble-svindlet-for-sju-millioner/s/5-57-2809907",
+          "source": "Drammens Tidende"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,16 +239,16 @@
           "source": "NRK"
         },
         {
+          "title": "Alle evakuert etter nødmelding",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/nyheter/alle-evakuert-etter-nodmelding/84415525",
+          "source": "Dagbladet"
+        },
+        {
           "title": "Skip sendte ut nødmelding i Norskehavet: –⁠ Alle er tatt av skipet",
           "snippet": "",
           "url": "https://www.vg.no/nyheter/i/K88z8o/skip-har-sendt-ut-noedmelding-i-norskehavet",
           "source": "VG"
-        },
-        {
-          "title": "Skip fikk trøbbel - rykket ut fra Ørland",
-          "snippet": "",
-          "url": "https://www.fosna-folket.no/nyheter/n/PddovR/redningshelikopter-sendt-ut-etter-noedmelding-fra-skip-ber-om-evakuering",
-          "source": "fosna-folket.no"
         }
       ],
       "link": "https://imtaqin.id/"
