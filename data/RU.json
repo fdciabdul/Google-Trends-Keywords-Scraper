@@ -1,23 +1,51 @@
 {
-  "lastUpdate": "2026-03-26 22:45:08",
+  "lastUpdate": "2026-03-26 22:58:39",
   "data": [
+    {
+      "title": "бпла",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 26 Mar 2026 15:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJk1nyU9dyokpsg7CoCsKubECMnvNS_cOl6eCAbl-yfj0x9mAT097ZbmZ3hOg",
+      "pictureSource": "DW.com",
+      "relatedSearch": [
+        {
+          "title": "Дроны атаковали промышленный объект в Ленинградской области",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/bespilotniki-vnov-atakovali-promyslennyj-obekt-v-leningradskoj-oblasti/a-76539978",
+          "source": "DW.com"
+        },
+        {
+          "title": "Минобороны подтвердило вечернюю атаку БПЛА на Ленобласть",
+          "snippet": "",
+          "url": "https://www.fontanka.ru/2026/03/26/76333057/",
+          "source": "ФОНТАНКА.ру"
+        },
+        {
+          "title": "Reuters: 40% мощностей России по экспорту нефти выведены из строя",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/reuters-40-moschnostey-rossii-po-eksportu-nefti-vyvedeny-iz-stroya/33716469.html",
+          "source": "Радио Свобода"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "бпла спб",
       "trafficCount": "200+",
       "pubDate": "Thu, 26 Mar 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTficnCAA_VWnu8dnJS5i4ElWoxeT7DJyyjygo7BEBWqibrxREuqNE5tm2EsFA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzshhXJS3pZSVXvTLQhrepxAOzi3DVVi8K9kg61HTb6EsrOfEx5G7JeFLteDo",
       "pictureSource": "ФОНТАНКА.ру",
       "relatedSearch": [
         {
-          "title": "Есть задержки и отмены. Как улетают из Пулково после отмены угрозы БПЛА",
+          "title": "Аэропорт Пулково работает с ограничениями на фоне воздушной тревоги",
           "snippet": "",
-          "url": "https://www.fontanka.ru/2026/03/26/76331565/",
+          "url": "https://www.fontanka.ru/2026/03/27/76333075/",
           "source": "ФОНТАНКА.ру"
         },
         {
-          "title": "Росавиация ограничила работу аэропорта «Пулково»",
+          "title": "Росавиация снова ограничила работу «Пулково»",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/society/news/2026/03/23/1185848-rosaviatsiya-pulkovo",
+          "url": "https://www.vedomosti.ru/society/news/2026/03/26/1185885-rosaviatsiya-pulkovo",
           "source": "Ведомости"
         },
         {
@@ -201,26 +229,26 @@
       "title": "впн",
       "trafficCount": "2000+",
       "pubDate": "Thu, 26 Mar 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuCnMGDdXXbZk509Vx2fG4tzFiPRCd0DI9TmN7YpjSEUfZPrtDGzK7JIbCPYs",
-      "pictureSource": "портал Объясняем РФ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCVLnl4CncW33TQk7opHZXWA-F2ebu3w3fFA77tUXtSlmrGNXmzlOYXmG4L8s",
+      "pictureSource": "Anti-Malware.ru",
       "relatedSearch": [
         {
-          "title": "Как бесплатные VPN продают данные пользователей?",
+          "title": "Телега ответила на главный вопрос: есть ли у приложения связь с VK",
           "snippet": "",
-          "url": "https://xn--90aivcdt6dxbc.xn--p1ai/articles/questions/social-protection/bezopasnost/kak-besplatnye-vpn-prodayut-dannye-polzovateley/",
-          "source": "портал Объясняем РФ"
+          "url": "https://www.anti-malware.ru/news/2026-03-23-111332/49450",
+          "source": "Anti-Malware.ru"
         },
         {
-          "title": "В Госдуме предложили запретить взимать дополнительную плату за использование VPN",
+          "title": "Полный технический анализ MITM в клиенте Telega",
           "snippet": "",
-          "url": "https://www.banki.ru/news/lenta/?id=11022826",
-          "source": "Банки.ру"
+          "url": "https://habr.com/ru/articles/1014144/",
+          "source": "Хабр"
         },
         {
-          "title": "Почему вам нужен VPN и как его выбрать. Рекомендации специалистов для читателей и зрителей в России",
+          "title": "В популярном клиенте Telega для Telegram обнаружен механизм MITM-атаки",
           "snippet": "",
-          "url": "https://www.currenttime.tv/a/pochemu-vam-nuzhen-vpn-i-kak-ego-vybra/33717040.html",
-          "source": "Настоящее Время"
+          "url": "https://www.itsec.ru/news/v-pouliarnom-kliente-telega-dlai-telegram-obnaruzhen-mehanism-mitm-ataki",
+          "source": "ITSec.Ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.euro-football.ru/article/150545/1006163707_braziliya__franciya_gde_smotret_pryamuyu_translyaciyu_onlayn",
           "source": "Евро-Футбол"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "winline",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 26 Mar 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRARlo9OXLLdMBkBGHNg941QyJEXqAvk712V4h5KM7rtLUVo5w8m4i4ofeenJM",
-      "pictureSource": "Матч ТВ",
-      "relatedSearch": [
-        {
-          "title": "УНИКС - Зенит. WINLINE Basket Cup",
-          "snippet": "",
-          "url": "https://matchtv.ru/basketball/matchtvvideo_NI2306188_translation_UNIKS___Zenit_WINLINE_Basket_Cup",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "«Зенит» обыграл УНИКС и вышел в «Финал четырех» WBC",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Basketbol/vtb-league/spbnews_NI2309026_Zenit_obygral_UNIKS_i_vyshel_v_Final_chetyreh_WBC",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Беленицкий ответил на обвинения после поражении от «Зенита»: «Это не слив. Все старались»",
-          "snippet": "",
-          "url": "https://sport.business-gazeta.ru/news/314895",
-          "source": "БО Спорт"
         }
       ],
       "link": "https://imtaqin.id/"
