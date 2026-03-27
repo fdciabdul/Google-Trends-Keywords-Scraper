@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-03-27 17:36:02",
+  "lastUpdate": "2026-03-27 17:57:54",
   "data": [
     {
       "title": "מפעלי פלדה בישראל",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 27 Mar 2026 09:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5OR0GvVjCds_IWEO6kp057HHxTDU_Xeovo7Vr83plr-ujJkGWNE9nMIRyxGk",
       "pictureSource": "ynet",
@@ -15,16 +15,16 @@
           "source": "ynet"
         },
         {
-          "title": "תקיפת מפעלי הפלדה באיראן: נזק נגרם לקווי הייצור והחשמל - והותקף גם מפעל מים כבדים",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/breaking-news/article-1301976",
-          "source": "מעריב"
-        },
-        {
-          "title": "טיל מתפצל שוגר למרכז: נזק בדירות בכפ\"ס ובמלון בהרצליה; בארה\"ב סבורים: הושמד רק שליש מטילי איראן",
+          "title": "הותקפו כור המים הכבדים באראק ומתקן גרעין נוסף; נזק בדירות בכפ\"ס ובמלון בהרצליה",
           "snippet": "",
           "url": "https://www.calcalist.co.il/updates_news/article/syvlbfqj11g",
           "source": "Calcalist"
+        },
+        {
+          "title": "צה\"ל תקף באיראן: דיווחים על פיצוצים במספר ערים - טהרן ללא חשמל",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/world/article-1301749",
+          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +59,7 @@
     },
     {
       "title": "הפועל עפולה נגד בני יהודה",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 27 Mar 2026 07:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIRSIe1ClkeI1c0zobMrp7HqmzmqonkpXwgQ5yq4q5yVuSzllqHptR6FAP4sE",
       "pictureSource": "ONE",
@@ -71,16 +71,16 @@
           "source": "ONE"
         },
         {
+          "title": "דקה אחר דקה: הליגה הלאומית: הפועל עפולה מול בני יהודה, נוף הגליל נגד מכבי יפו",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/dayevents.aspx?FolderID=5374&docID=538527",
+          "source": "ספורט 5"
+        },
+        {
           "title": "המלחמה לא עצרה את המומנטום: בני יהודה עם עוד ניצחון",
           "snippet": "",
           "url": "https://sports.walla.co.il/item/3826681",
           "source": "וואלה ספורט"
-        },
-        {
-          "title": "חי מהליגה הלאומית: הפועל עפולה – בני יהודה 0:0 (מחצית 1)",
-          "snippet": "",
-          "url": "https://sport1.maariv.co.il/israeli-soccer/liga-leumit/article/1812444/",
-          "source": "ספורט 1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -108,10 +108,38 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ליגה לאומית",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 27 Mar 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOBmpeyYNnL1yNrK9o10EAbEMFhrcP7PHffN1L_kDS2a4rLjWTJfff3YgKvnc",
+      "pictureSource": "הארץ",
+      "relatedSearch": [
+        {
+          "title": "הכדורגל חוזר. הם חייבים מסגרת",
+          "snippet": "",
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-03-26/ty-article-midrug/.highlight/0000019d-28a6-d77a-a7ff-ffe65fac0000",
+          "source": "הארץ"
+        },
+        {
+          "title": "\"לא מביאים אותנו לישיבה, איך שחקנים יתאמנו?\"",
+          "snippet": "",
+          "url": "https://www.one.co.il/Article/518197.html?ref=rss",
+          "source": "ONE"
+        },
+        {
+          "title": "לפני חזרת ליגת העל: שני האצטדיונים שאושרו על ידי פיקוד העורף",
+          "snippet": "",
+          "url": "https://sport1.maariv.co.il/israeli-soccer/ligat-haal/article/1811765/",
+          "source": "ספורט 1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "דן אכדיה",
       "trafficCount": "500+",
       "pubDate": "Fri, 27 Mar 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rRlJHXth2KXzqweC4oqELNbEIFm6AnLG1iYNat3i5S2dGVALZFmq0HUyPIc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMaVsgwUSXUJAyW2srh1fLgF6y_dOkkVck_zarrm5T7pXwSXHZ3rMqnkAn0E",
       "pictureSource": "מעריב",
       "relatedSearch": [
         {
@@ -214,44 +242,16 @@
           "source": "mako"
         },
         {
-          "title": "אילת תהיה נצורה: סכנת שיטפונות בדרום; אלו הכבישים שייחסמו",
-          "snippet": "",
-          "url": "https://www.davar1.co.il/665369/",
-          "source": "אתר החדשות דבר"
-        },
-        {
           "title": "7 צמתים מרכזיים בדרום נסגרו עד להודעה חדשה",
           "snippet": "",
           "url": "https://www.srugim.co.il/1300760-%D7%97%D7%A1%D7%99%D7%9E%D7%95%D7%AA-%D7%9B%D7%91%D7%99%D7%A9%D7%99%D7%9D-%D7%91%D7%93%D7%95%D7%9D-%D7%9E%D7%96%D7%92-%D7%94%D7%90%D7%95%D7%95%D7%99%D7%A8-%D7%A0%D7%A1%D7%92%D7%A8%D7%95-%D7%9B%D7%91%D7%99%D7%A9%D7%99%D7%9D",
           "source": "סרוגים"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "יעקב ארז",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 27 Mar 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8eVGPun3fULMhw6XAvoa3a5LwDyVQo7XyflS5ii9iHKG8mDUxV9DyLa4m-MY",
-      "pictureSource": "גלובס",
-      "relatedSearch": [
-        {
-          "title": "עורך מעריב לשעבר יעקב ארז הלך לעולמו",
-          "snippet": "",
-          "url": "https://www.globes.co.il/news/article.aspx?did=1001538731",
-          "source": "גלובס"
         },
         {
-          "title": "עורך \"מעריב\" לשעבר וחתן פרס סוקולוב יעקב ארז הלך לעולמו בגיל 87",
+          "title": "מזג האוויר: גשום וסוער; חשש לשיטפונות - כביש 40 ייחסם משעה 8:00",
           "snippet": "",
-          "url": "https://www.maariv.co.il/news/israel/article-1301805",
-          "source": "מעריב"
-        },
-        {
-          "title": "איש התקשורת המיתולוגי יעקב ארז הלך לעולמו בגיל 87",
-          "snippet": "",
-          "url": "https://www.israelhayom.co.il/news/local/article/20209174",
-          "source": "היום"
+          "url": "https://www.davar1.co.il/665537/",
+          "source": "אתר החדשות דבר"
         }
       ],
       "link": "https://imtaqin.id/"
