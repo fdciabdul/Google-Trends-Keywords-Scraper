@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-03-27 08:47:42",
+  "lastUpdate": "2026-03-27 09:09:09",
   "data": [
     {
       "title": "climate change",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfnhcxff0uvHVi9PD6PXOQ04WRb7Eb55-t95jvc9Xj_K1CExjSV21KrTR1LOY",
-      "pictureSource": "Grist",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN1s4caHvAiPFAEjFni_CtkC8OuBlpzjgYhcxxKjAJnshLi0PvVckapBXY8BM",
+      "pictureSource": "PBS",
       "relatedSearch": [
-        {
-          "title": "Modern agriculture is collapsing under climate change. Indigenous farming has answers.",
-          "snippet": "",
-          "url": "https://grist.org/indigenous/modern-agriculture-is-collapsing-under-climate-change-indigenous-farming-has-answers/",
-          "source": "Grist"
-        },
         {
           "title": "How climate change has powered the heat wave blanketing much of the U.S.",
           "snippet": "",
@@ -25,13 +19,47 @@
           "snippet": "",
           "url": "https://science.nasa.gov/earth/earth-observatory/a-hot-start-to-spring-in-the-southwest/",
           "source": "NASA Science (.gov)"
+        },
+        {
+          "title": "Historic March Heat Wave Smashed US And Monthly Records In Almost 180 Cities, From California To The East",
+          "snippet": "",
+          "url": "https://weather.com/forecast/regional/news/2026-03-23-march-record-heat-wave-southwest-plains-california-arizona-0",
+          "source": "The Weather Channel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "space exploration",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhB20t3IM8y1yOH-qHmOs3wVngZPX7eZXnSeq7L02wT7p_4Ufc_e9DjpiJV7E",
+      "pictureSource": "NASA (.gov)",
+      "relatedSearch": [
+        {
+          "title": "NASA Unveils Initiatives to Achieve America’s National Space Policy",
+          "snippet": "",
+          "url": "https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
+          "source": "NASA (.gov)"
+        },
+        {
+          "title": "With Artemis Changes, Europe is Left Holding the Bag",
+          "snippet": "",
+          "url": "https://payloadspace.com/with-artemis-changes-europe-is-left-holding-the-bag/",
+          "source": "Payload Space"
+        },
+        {
+          "title": "From Moon Base To Nuclear-Powered Spacecraft To Mars 5 Highlights From NASA’s Revised Space Strategy",
+          "snippet": "",
+          "url": "https://in.mashable.com/science/107652/from-moon-base-to-nuclear-powered-spacecraft-to-mars-5-highlights-from-nasas-revised-space-strategy",
+          "source": "Mashable India"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "deep learning",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe0OWaqng24S-KNScAc9E1E6WWieIYX4kWZtppSsRo7LhgCp3Kv2Zk3BEWZpg",
       "pictureSource": "Nature",
@@ -58,36 +86,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "space exploration",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhB20t3IM8y1yOH-qHmOs3wVngZPX7eZXnSeq7L02wT7p_4Ufc_e9DjpiJV7E",
-      "pictureSource": "NASA (.gov)",
-      "relatedSearch": [
-        {
-          "title": "NASA Unveils Initiatives to Achieve America’s National Space Policy",
-          "snippet": "",
-          "url": "https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
-          "source": "NASA (.gov)"
-        },
-        {
-          "title": "With Artemis Changes, Europe is Left Holding the Bag",
-          "snippet": "",
-          "url": "https://payloadspace.com/with-artemis-changes-europe-is-left-holding-the-bag/",
-          "source": "Payload Space"
-        },
-        {
-          "title": "Sky News Australia. . Sky News host Danica De Giorgio details US President Donald Trump’s plan to build a $20 billion moon base.",
-          "snippet": "",
-          "url": "https://www.facebook.com/SkyNewsAustralia/videos/space-race-trumps-plan-to-build-a-20-billion-moon-base/2528886587547890/",
-          "source": "Facebook"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "artificial intelligence",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJNWSxPlSBVUAZMS5t9ZNBvB-1esBPQJJw8z9yp-ihAINyEUQTIyCId3E4_oI",
       "pictureSource": "CNN",
@@ -114,36 +114,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bitcoin price",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3nUO-tLUsn6Lpr3E_dY03xtwS-D7BAum_Ff7_YMH48PnRk-xd1ZFz8oJlYIc",
-      "pictureSource": "Decrypt",
-      "relatedSearch": [
-        {
-          "title": "Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War",
-          "snippet": "",
-          "url": "https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war",
-          "source": "Decrypt"
-        },
-        {
-          "title": "#bitcoinprices Community Insights & Market Sentiment | Binance Square",
-          "snippet": "",
-          "url": "https://www.binance.com/en/square/hashtag/BitcoinPrices",
-          "source": "Binance"
-        },
-        {
-          "title": "Market Whiplash: Conflicting Ceasefire Reports Send Mixed Signals to Investors",
-          "snippet": "",
-          "url": "https://parameter.io/market-whiplash-conflicting-ceasefire-reports-send-mixed-signals-to-investors/",
-          "source": "Parameter"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "electric vehicles",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGSxVdFHYQwVA0Wzl2H37fRl3UdshCbPv-TBnIWnzc6Ohg-vCCkju0Cusmn4",
       "pictureSource": "CNN",
@@ -161,45 +133,95 @@
           "source": "The New York Times"
         },
         {
-          "title": "Iran War Is Pushing Consumers to Break Up With Fossil Fuels",
+          "title": "Used EV sales jump in Europe as Iran war drives up petrol prices",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/features/2026-03-26/war-oil-price-shock-sparks-new-interest-in-green-tech-around-the-world",
-          "source": "Bloomberg.com"
+          "url": "https://www.reuters.com/business/energy/used-ev-sales-jump-europe-iran-war-drives-up-petrol-prices-2026-03-26/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "world cup 2026",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6l2ovhQpjDTAuRKqaCeH6p6uFwocC06jF19zOBXA0xFgr1Ypmrv7AG49Gk9E",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6ZBNlzP-6wIPU_1gNx9oqgl4aWBGFPK4gfivGGkEreLsFISEojIGP4kKovEU",
       "pictureSource": "Flashscore.com",
       "relatedSearch": [
         {
-          "title": "Bolivia pull off comeback against Suriname to meet Iraq for spot in World Cup",
+          "title": "Jamaica hold on for nervy win over New Caledonia in inter-confederation playoff",
           "snippet": "",
-          "url": "https://www.flashscore.com/news/bolivia-suriname-world-cup-intercontinental-play-off-report-2026-03-26/bNpVS0Gs/",
+          "url": "https://www.flashscore.com/news/new-caledonia-jamaica-world-cup-intercontinental-play-off-report-2026-03-26/pvqwRvof/",
           "source": "Flashscore.com"
         },
         {
-          "title": "Even if he's a candidate for the K League 2, he's a \"front-line striker\" at Korea National University... Bolivia, led by Enzo in Cheongju, North Chungcheong Province, wins 2-1 Theater Reversal Over Suriname",
+          "title": "DR Congo learns Play-off final opponent",
           "snippet": "",
-          "url": "https://www.starnewskorea.com/en/sports/2026/03/27/2026032716100787014",
-          "source": "www.starnewskorea.com"
+          "url": "https://africanfootball.com/news/837497/DR-Congo-learns-Play-off-final-opponent",
+          "source": "africanfootball.com"
         },
         {
-          "title": "Fans celebrate Bolivia's victory over Suriname and dream of qualifying for a second World Cup",
+          "title": "Bolivia, Jamaica close in on World Cup after playoff wins",
           "snippet": "",
-          "url": "https://ca.news.yahoo.com/fans-celebrate-bolivias-victory-over-061825267.html",
-          "source": "Yahoo News Canada"
+          "url": "https://www.cbs19news.com/bolivia-jamaica-close-in-on-world-cup-after-playoff-wins/article_973a9951-85d4-5224-a082-c91649a0f2cb.html",
+          "source": "cbs19news.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bitcoin price",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSndsdI9oWZB7cmlRNBUvHqLsER49KHOajwlZOOKCeaF37d9i7tMZPZSkI7Sc",
+      "pictureSource": "FinanceFeeds",
+      "relatedSearch": [
+        {
+          "title": "Bitcoin Price Prediction: Here Is What You Need To Know About BTC Price Targets While Pepeto Listing Approaches",
+          "snippet": "",
+          "url": "https://financefeeds.com/bitcoin-price-prediction-here-is-what-you-need-to-know-about-btc-price-targets-while-pepeto-listing-approaches/",
+          "source": "FinanceFeeds"
+        },
+        {
+          "title": "Best Crypto to Buy Now After Strategy Files $42 Billion as",
+          "snippet": "",
+          "url": "https://www.openpr.com/news/4442631/best-crypto-to-buy-now-after-strategy-files-42-billion-as",
+          "source": "openPR.com"
+        },
+        {
+          "title": "Bitcoin Hyper Price Prediction Faces 500x Pepeto as SEC Director Resigns While HYPER and Hexydog Trail",
+          "snippet": "",
+          "url": "https://captainaltcoin.com/bitcoin-hyper-price-prediction-faces-500x-pepeto-as-sec-director-resigns-while-hyper-and-hexydog-trail/",
+          "source": "CaptainAltcoin"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "naftal",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 26 Mar 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm8jecA4ot42CW4-YwkoxSPBNNATtePP5uNZCrD07ta0ewlj2WN4Jj71Izo3Q",
+      "pictureSource": "L'Algérie Aujourd'hui",
+      "relatedSearch": [
+        {
+          "title": "Naftal scelle un protocole d’accord avec les chauffeurs de taxi",
+          "snippet": "",
+          "url": "https://lalgerieaujourdhui.dz/naftal-scelle-un-protocole-daccord-avec-les-chauffeurs-de-taxi/",
+          "source": "L'Algérie Aujourd'hui"
+        },
+        {
+          "title": "Transport : Naftal scelle une alliance stratégique avec les chauffeurs de taxi",
+          "snippet": "",
+          "url": "https://www.algerie360.com/transport-naftal-scelle-une-alliance-strategique-avec-les-chauffeurs-de-taxi/",
+          "source": "Algerie360"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "عاصفة رعدية",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 26 Mar 2026 22:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCVfmOXAqrHArNDEXRKgqTW0B_R9grHRE4EmjAQo9srECGYALuVlW6fi0uxOU",
       "pictureSource": "النهار أونلاين",
@@ -211,16 +233,16 @@
           "source": "النهار أونلاين"
         },
         {
+          "title": "أمطار رعدية غزيرة على العديد من ولايات الوطن",
+          "snippet": "",
+          "url": "http://news.radioalgerie.dz/ar/node/82283",
+          "source": "الإذاعة الجزائرية |"
+        },
+        {
           "title": "أمطار رعدية على عدة ولايات من جنوب الوطن ابتداءً من اليوم الثلاثاء",
           "snippet": "",
           "url": "https://www.aps.dz/algerie/sante-et-environnement/mn4kzgzj-%D8%A7%D9%94%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B9%D8%AF%D8%A9-%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A1%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
           "source": "وكالة الأنباء الجزائرية"
-        },
-        {
-          "title": "نشرية خاصة: أمطار رعدية عبر 20 ولاية",
-          "snippet": "",
-          "url": "https://www.echoroukonline.com/%D9%86%D8%B4%D8%B1%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-20-%D9%88%D9%84%D8%A7%D9%8A%D8%A9",
-          "source": "الشروق أونلاين"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +261,16 @@
           "source": "The Guardian"
         },
         {
-          "title": "Judge weighs whether Venezuela can pay Maduro's legal costs in US drug trafficking case",
+          "title": "Judge Questions Why U.S. Is Blocking Funding for Maduro’s Lawyers",
           "snippet": "",
-          "url": "https://www.npr.org/2026/03/27/nx-s1-5763491/judge-venezuela-maduro-legal-costs-us-drug-trafficking",
-          "source": "NPR"
+          "url": "https://www.nytimes.com/2026/03/26/nyregion/maduro-venezuela-court-manhattan.html",
+          "source": "The New York Times"
         },
         {
           "title": "Live updates: Ousted Venezuelan leader Nicolás Maduro in court",
           "snippet": "",
           "url": "https://www.cnn.com/2026/03/26/world/live-news/nicolas-maduro-new-york-court",
           "source": "CNN"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kick",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 26 Mar 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlDabWki1e9fh4tkN8its1lo9mR_gsNWEN76qI5ftiXQR3VKAFBmWrBxX0UQ",
-      "pictureSource": "RTE.ie",
-      "relatedSearch": [
-        {
-          "title": "Lidl Ireland announces new price cuts on milk and butter",
-          "snippet": "",
-          "url": "https://www.rte.ie/news/business/2026/0326/1565274-lidl-to-cut-own-brand-milk-and-butter-prices/",
-          "source": "RTE.ie"
-        },
-        {
-          "title": "Farmers question motive behind supermarket dairy price cuts",
-          "snippet": "",
-          "url": "https://www.independent.ie/business/money/farmers-question-motive-behind-supermarket-dairy-price-cuts/a992257162.html",
-          "source": "The Irish Independent"
-        },
-        {
-          "title": "Lidl, Tesco and Supervalu and Aldi have reduced price of their own-brand milk and butter today",
-          "snippet": "",
-          "url": "https://www.thejournal.ie/irish-supermarkets-milk-butter-price-reductions-6995226-Mar2026/",
-          "source": "The Journal"
         }
       ],
       "link": "https://imtaqin.id/"
