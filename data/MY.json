@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-27 08:26:33",
+  "lastUpdate": "2026-03-27 08:48:04",
   "data": [
     {
       "title": "suhu hari ini",
@@ -30,29 +30,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "fadiah nadwa fikri",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 27 Mar 2026 00:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScRHQCm6EOa1-DWMXhMwSTPzser-0shzZofjMmOpFsc5MeTIKX9Lr0R_H8rmU",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Singapore denies Malaysian scholar entry, calling her 'undesirable visitor'",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cql7d9neee0o",
+          "source": "BBC"
+        },
+        {
+          "title": "Singapore denies entry to Malaysian activist over involvement in domestic politics, promotion of unlawful civil protest",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/asia/singapore-malaysia-lawyer-activist-banned-deported-nus-student-6015886",
+          "source": "CNA"
+        },
+        {
+          "title": "Malaysian who did PhD in S’pore banned from re-entry after engaging in political activism here: MHA",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/singapore/politics/malaysian-who-did-phd-in-spore-banned-from-re-entry-after-engaging-in-political-activism-here-mha",
+          "source": "The Straits Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "bitcoin price",
       "trafficCount": "500+",
       "pubDate": "Fri, 27 Mar 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8F3rd5rWjsGr33xT4czn91CoCLU_vdAeTMwEWa_RDb9JOO2QDHZA9vVKpAsE",
-      "pictureSource": "Investing.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZcpMuoxOBVnFw1VcyxwQKATBOjC3M3n1xJaIhsTq7-YfYYoY5KzIs0IpjpM",
+      "pictureSource": "Bitcoin Magazine",
       "relatedSearch": [
         {
-          "title": "Bitcoin ticks up above $71k as de-escalation hopes lift risk assets",
+          "title": "Goldman Sachs: Bitcoin And Crypto May Be Nearing A Bottom",
           "snippet": "",
-          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-edges-up-above-71k-amid-conflicting-iran-war-signals-4579031",
-          "source": "Investing.com"
+          "url": "https://bitcoinmagazine.com/markets/goldman-sachs-bitcoin-might-have-bottomed",
+          "source": "Bitcoin Magazine"
         },
         {
-          "title": "Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War",
+          "title": "Bernstein Sets $150,000 Bitcoin Target As ETF Inflows Surpass $1.6B In March",
           "snippet": "",
-          "url": "https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war",
-          "source": "Decrypt"
+          "url": "https://www.tradingview.com/news/newsbtc:f6917fc9a094b:0-bernstein-sets-150-000-bitcoin-target-as-etf-inflows-surpass-1-6b-in-march/",
+          "source": "TradingView"
         },
         {
-          "title": "Crypto in a War Economy: How the US-Iran Conflict Is Reshaping Bitcoin's Safe Haven Narrative",
+          "title": "157-year-old Wall Street giant recommends 3 ‘attractive’ crypto stocks",
           "snippet": "",
-          "url": "https://cryptoadventure.com/crypto-in-a-war-economy-how-the-us-iran-conflict-is-reshaping-bitcoins-safe-haven-narrative/",
-          "source": "Crypto Adventure"
+          "url": "https://www.thestreet.com/crypto/investing/157-year-old-wall-street-giant-recommends-3-attractive-crypto-stocks",
+          "source": "TheStreet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.itnonline.com/content/study-ai-model-can-read-cardiac-mri-scans-near-expert-accuracy",
           "source": "Imaging Technology News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "openai",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSos2eCMPTeOOR8uatqR4mBZ6lZiDAViaxV03KfZ_1XdlhVMNpSg6WoJWJA0HI",
-      "pictureSource": "Financial Times",
-      "relatedSearch": [
-        {
-          "title": "OpenAI puts erotic chatbot plans on hold ‘indefinitely’",
-          "snippet": "",
-          "url": "https://www.ft.com/content/de9bf0af-b241-424f-8229-5870b1c0d93d?syn-25a6b1a6=1",
-          "source": "Financial Times"
-        },
-        {
-          "title": "OpenAI's Adult Chatbot Probably Isn't Happening",
-          "snippet": "",
-          "url": "https://in.mashable.com/tech-industry/107667/openais-adult-chatbot-probably-isnt-happening",
-          "source": "Mashable India"
-        },
-        {
-          "title": "ChatGPT 'Adult Mode' Cancelled: OpenAI Ditches Feature",
-          "snippet": "",
-          "url": "https://stealthoptional.com/article/openai-scraps-controversial-chatgpt-adult-mode",
-          "source": "Stealth Optional"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,11 +143,17 @@
     },
     {
       "title": "electric vehicles",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMAX4p6B51stOj-eltpo8-Fyq3FHqssIWLlV7kqBYd-_0f560LXIjxEaMLoFA",
-      "pictureSource": "Bloomberg.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrMv7L2gl85KoJ6f8Z57QkiwilDa0MJSNlEFeyAb9hFk66JMrZlNKgRuZHHCU",
+      "pictureSource": "AASTOCKS.com",
       "relatedSearch": [
+        {
+          "title": "CN Automakers' Shrs of PHEV Registrations in Europe Rise to 16% in Feb",
+          "snippet": "",
+          "url": "http://www.aastocks.com/en/stocks/news/aafn-news/NOW.1513379/3",
+          "source": "AASTOCKS.com"
+        },
         {
           "title": "China’s Carmakers Return to Growth in Europe With EV Sales",
           "snippet": "",
@@ -159,23 +165,23 @@
           "snippet": "",
           "url": "https://www.techinasia.com/news/chinese-ev-makers-grow-share-in-europes-hybrid-ev-market",
           "source": "Tech in Asia"
-        },
-        {
-          "title": "Chinese automakers' share of hybrid vehicle registrations in Europe rose to 16% in February.",
-          "snippet": "",
-          "url": "https://news.futunn.com/en/post/70711988/chinese-automakers-share-of-hybrid-vehicle-registrations-in-europe-rose",
-          "source": "富途牛牛"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "climate change",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN1s4caHvAiPFAEjFni_CtkC8OuBlpzjgYhcxxKjAJnshLi0PvVckapBXY8BM",
-      "pictureSource": "PBS",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfnhcxff0uvHVi9PD6PXOQ04WRb7Eb55-t95jvc9Xj_K1CExjSV21KrTR1LOY",
+      "pictureSource": "Grist",
       "relatedSearch": [
+        {
+          "title": "Modern agriculture is collapsing under climate change. Indigenous farming has answers.",
+          "snippet": "",
+          "url": "https://grist.org/indigenous/modern-agriculture-is-collapsing-under-climate-change-indigenous-farming-has-answers/",
+          "source": "Grist"
+        },
         {
           "title": "How climate change has powered the heat wave blanketing much of the U.S.",
           "snippet": "",
@@ -187,19 +193,13 @@
           "snippet": "",
           "url": "https://science.nasa.gov/earth/earth-observatory/a-hot-start-to-spring-in-the-southwest/",
           "source": "NASA Science (.gov)"
-        },
-        {
-          "title": "Historic March Heat Wave Smashed US And Monthly Records In Almost 180 Cities, From California To The East",
-          "snippet": "",
-          "url": "https://weather.com/forecast/regional/news/2026-03-23-march-record-heat-wave-southwest-plains-california-arizona-0",
-          "source": "The Weather Channel"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "space exploration",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZG9O73jXrPg45_Y2v0_4MJ0bgT4RBMt13VWv-K8fETl6Tun3hm0qNQ7avhCY",
       "pictureSource": "Forbes",
@@ -217,10 +217,38 @@
           "source": "Malay Mail"
         },
         {
-          "title": "China's commercial space sector on the rise",
+          "title": "China might beat SpaceX and NASA to Mars - here’s why",
           "snippet": "",
-          "url": "https://news.cgtn.com/news/2026-03-27/China-s-commercial-space-sector-on-the-rise-1LQO2c65zhu/p.html",
-          "source": "CGTN"
+          "url": "http://www.msn.com/en-us/money/other/china-might-beat-spacex-and-nasa-to-mars-here-s-why/vi-AA1ZqGk0",
+          "source": "MSN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "openai",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 26 Mar 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSos2eCMPTeOOR8uatqR4mBZ6lZiDAViaxV03KfZ_1XdlhVMNpSg6WoJWJA0HI",
+      "pictureSource": "Financial Times",
+      "relatedSearch": [
+        {
+          "title": "OpenAI puts erotic chatbot plans on hold ‘indefinitely’",
+          "snippet": "",
+          "url": "https://www.ft.com/content/de9bf0af-b241-424f-8229-5870b1c0d93d?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "OpenAI's Adult Chatbot Probably Isn't Happening",
+          "snippet": "",
+          "url": "https://in.mashable.com/tech-industry/107667/openais-adult-chatbot-probably-isnt-happening",
+          "source": "Mashable India"
+        },
+        {
+          "title": "ChatGPT 'Adult Mode' Cancelled: OpenAI Ditches Feature",
+          "snippet": "",
+          "url": "https://stealthoptional.com/article/openai-scraps-controversial-chatgpt-adult-mode",
+          "source": "Stealth Optional"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,54 +257,26 @@
       "title": "solat sunat istisqa",
       "trafficCount": "500+",
       "pubDate": "Thu, 26 Mar 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEmmURZrwz74oTwpsFGHoN3aTPhIhmuR3NIwC2zj2KnJXpxuEfGuhXV8t2zI",
-      "pictureSource": "Portal Berita RTM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxBYoXU8wZhIrBbBeLeEqaFOf15Xsh5paKVT9vzEu4EprwzPydmSrk6lZBFxQ",
+      "pictureSource": "Jabatan Penyiaran Malaysia",
       "relatedSearch": [
         {
-          "title": "Cuaca panas : Kedah laksana solat Istisqa di 12 daerah",
+          "title": "1,000 jemaah tunaikan solat Al-istisqa di Perlis",
           "snippet": "",
-          "url": "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/cuaca-panas-kedah-laksana-solat-istisqa-di-12-daerah/",
-          "source": "Portal Berita RTM"
+          "url": "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/1000-jemaah-tunaikan-solat-al-istisqa-di-perlis/",
+          "source": "Jabatan Penyiaran Malaysia"
         },
         {
-          "title": "Raja Perlis berangkat solat Al Istisqa’ di Arau, Perlis mohon hujan di tengah kemarau panjang",
+          "title": "Masjid seluruh Kelantan laksana solat sunat Istisqa, mohon hujan | Sinar Harian",
           "snippet": "",
-          "url": "https://www.sinarharian.com.my/article/772990/video/berita-semasa-video/raja-perlis-berangkat-solat-al-istisqa-di-arau-perlis-mohon-hujan-di-tengah-kemarau-panjang",
+          "url": "https://www.sinarharian.com.my/article/772958/edisi/masjid-seluruh-kelantan-laksana-solat-sunat-istisqa-mohon-hujan",
           "source": "Sinar Harian"
         },
         {
-          "title": "Masjid seluruh Kelantan laksana solat sunat Istisqa'",
+          "title": "Raja Perlis berangkat solat Al‑Istisqa’ di Arau, Perlis mohon hujan di tengah kemarau panjang",
           "snippet": "",
-          "url": "https://www.hmetro.com.my/mutakhir/2026/03/1337808/masjid-seluruh-kelantan-laksana-solat-sunat-istisqa",
-          "source": "Harian Metro"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "robin padilla",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 26 Mar 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIqX9Q5zvhV_HPAh5kexjB3PiO8xFJGEhGvU7GZ490GvQhsIODTCSPSH51bc",
-      "pictureSource": "Free Malaysia Today",
-      "relatedSearch": [
-        {
-          "title": "Sabah PKR slams fresh call for Philippines to claim state",
-          "snippet": "",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/sabah-pkr-slams-fresh-call-for-philippines-to-claim-state",
-          "source": "Free Malaysia Today"
-        },
-        {
-          "title": "Robin Padilla to Marcos: Revive PH claim to oil-rich Sabah",
-          "snippet": "",
-          "url": "https://politiko.com.ph/2026/03/25/robin-padilla-to-marcos-revive-ph-claim-to-oil-rich-sabah/headlines/",
-          "source": "Politiko"
-        },
-        {
-          "title": "Manila rep sees Sabah solution in energy crisis",
-          "snippet": "",
-          "url": "https://www.dailyexpress.com.my/news/278382/manila-rep-sees-sabah-solution-in-energy-crisis/",
-          "source": "Daily Express Malaysia"
+          "url": "https://www.astroawani.com/video/raja-perlis-berangkat-solat-alistisqa-di-arau-perlis-mohon-hujan-di-tengah-kemarau-panjang",
+          "source": "Astro Awani"
         }
       ],
       "link": "https://imtaqin.id/"
