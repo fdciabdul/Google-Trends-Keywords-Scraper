@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-27 16:06:50",
+  "lastUpdate": "2026-03-27 16:30:08",
   "data": [
     {
       "title": "one ui 8.5",
@@ -59,11 +59,17 @@
     },
     {
       "title": "ticketmaster",
-      "trafficCount": "5000+",
+      "trafficCount": "20000+",
       "pubDate": "Fri, 27 Mar 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOUfeMUdkUJ-fErF5niKe2_tJREAXqi0SSC-qW7NifOPg4yRURamqoCELq-AA",
-      "pictureSource": "Ticketmaster Chile",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHHh96hHF0p0KFX283dEUwWoxSrTZXlUlm3tKs14ojxCfO4sb6G_LcfPU82k",
+      "pictureSource": "All Access",
       "relatedSearch": [
+        {
+          "title": "Fechas de la gira BTS 2026",
+          "snippet": "",
+          "url": "https://www.allaccess.com.ar/event/bts",
+          "source": "All Access"
+        },
         {
           "title": "BTS - World Tour ARIRANG in Santiago",
           "snippet": "",
@@ -75,12 +81,6 @@
           "snippet": "",
           "url": "https://www.elespectador.com/revista-vea/musica-y-conciertos/revelan-precios-de-boletas-para-bts-en-colombia-fechas-de-preventa-y-como-comprarlas/",
           "source": "El Espectador"
-        },
-        {
-          "title": "BTS se presentará en el estadio El Campin de Bogotá: conozca las fechas y el acceso a la preventa con Ticketmaster",
-          "snippet": "",
-          "url": "https://www.eltiempo.com/cultura/gente/bts-se-presentara-en-el-estadio-el-campin-de-bogota-conozca-las-fechas-y-el-acceso-a-la-preventa-3543450",
-          "source": "ELTIEMPO.COM"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -227,16 +227,16 @@
           "source": "ELTIEMPO.COM"
         },
         {
-          "title": "Temblor en Colombia sacudió la medianoche de este martes; es el segundo en menos de dos horas",
-          "snippet": "",
-          "url": "https://www.pulzo.com/nacion/temblor-colombia-magnitud-32-con-epicentro-santos-santander-PP5110615",
-          "source": "Pulzo"
-        },
-        {
           "title": "Sismos en Colombia hoy: varios temblores sacuden 7 departamentos",
           "snippet": "",
           "url": "https://www.elnuevodia.com.co/colombia/sismos-en-colombia-hoy-varios-temblores-sacuden-7-departamentos-535538",
           "source": "El Nuevo Dia (Colombia)"
+        },
+        {
+          "title": "Temblor de magnitud 4,1 sacude al Chocó en la mañana de este 22 de marzo: características del sismo",
+          "snippet": "",
+          "url": "https://www.noticiascaracol.com/colombia/temblor-de-magnitud-4-1-sacude-al-choco-en-la-manana-de-este-22-de-marzo-caracteristicas-del-sismo-rg10",
+          "source": "Noticias Caracol"
         }
       ],
       "link": "https://imtaqin.id/"
