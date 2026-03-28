@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-28 14:25:20",
+  "lastUpdate": "2026-03-28 14:42:52",
   "data": [
     {
       "title": "vtv1 trực tiếp",
@@ -30,10 +30,38 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "hàn quốc vs",
+      "title": "vtv8",
       "trafficCount": "500+",
       "pubDate": "Sat, 28 Mar 2026 06:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OUWU4B2DYZjkhnjxrfw3e4Sbh6MW6OKkb7IGAk_l8prE8aY_mx63eNFlbr4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpOu49gNXl-D5cwmBG6taIg8kwywCnX4xqRrCmEaHIpeRElK49Y1fOfasrOg",
+      "pictureSource": "Báo VietNamNet",
+      "relatedSearch": [
+        {
+          "title": "Gia Lai cấp phép 273 dự án có vốn đầu tư gần 840 nghìn tỷ đồng",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/gia-lai-cap-phep-273-du-an-co-von-dau-tu-gan-840-nghin-ty-dong-2501228.html",
+          "source": "Báo VietNamNet"
+        },
+        {
+          "title": "Phó Thủ tướng Chính phủ đề nghị Gia Lai tiếp tục quan tâm, hỗ trợ doanh nghiệp",
+          "snippet": "",
+          "url": "https://tienphong.vn/pho-thu-tuong-chinh-phu-de-nghi-gia-lai-tiep-tuc-quan-tam-ho-tro-doanh-nghiep-post1831190.tpo",
+          "source": "Báo điện tử Tiền Phong"
+        },
+        {
+          "title": "Chuyên gia hiến kế thoát cảnh “chưa giàu đã già”",
+          "snippet": "",
+          "url": "https://dantri.com.vn/kinh-doanh/chuyen-gia-hien-ke-thoat-canh-chua-giau-da-gia-20260328114452767.htm",
+          "source": "Báo Dân trí"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hàn quốc vs",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 28 Mar 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_CawY6PTJGhpwBDqihjM2WbtyDyCspZpTxygA7kmB-tGL5it7XUQesIoM04",
       "pictureSource": "Tin tức 24h",
       "relatedSearch": [
         {
@@ -53,34 +81,6 @@
           "snippet": "",
           "url": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-han-quoc-vs-bo-bien-nga-21h00-ngay-28-3-khuat-phuc-bay-voi-4983922603.html",
           "source": "BongdaPlus"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vtv8",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 28 Mar 2026 06:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpOu49gNXl-D5cwmBG6taIg8kwywCnX4xqRrCmEaHIpeRElK49Y1fOfasrOg",
-      "pictureSource": "Báo VietNamNet",
-      "relatedSearch": [
-        {
-          "title": "Gia Lai cấp phép 273 dự án có vốn đầu tư gần 840 nghìn tỷ đồng",
-          "snippet": "",
-          "url": "https://vietnamnet.vn/gia-lai-cap-phep-273-du-an-co-von-dau-tu-gan-840-nghin-ty-dong-2501228.html",
-          "source": "Báo VietNamNet"
-        },
-        {
-          "title": "Chủ tịch FPT Trương Gia Bình: \"Gia Lai phải trở thành nơi thu hút nhân tài, tạo ra giá trị cho Việt Nam và thế giới\"",
-          "snippet": "",
-          "url": "https://vn.investing.com/news/economy-news/chu-tich-fpt-truong-gia-binh-gia-lai-phai-tro-thanh-noi-thu-hut-nhan-tai-tao-ra-gia-tri-cho-viet-nam-va-the-gioi-2574187",
-          "source": "Investing.com Việt Nam"
-        },
-        {
-          "title": "Chuyên gia hiến kế thoát cảnh “chưa giàu đã già”",
-          "snippet": "",
-          "url": "https://dantri.com.vn/kinh-doanh/chuyen-gia-hien-ke-thoat-canh-chua-giau-da-gia-20260328114452767.htm",
-          "source": "Báo Dân trí"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,9 +161,9 @@
           "source": "Báo Dân trí"
         },
         {
-          "title": "Houthi tham chiến, đe dọa thương mại toàn cầu",
+          "title": "Houthi tham chiến, đe dọa làm tê liệt thương mại toàn cầu",
           "snippet": "",
-          "url": "https://znews.vn/houthi-tham-chien-de-doa-thuong-mai-toan-cau-post1638687.html",
+          "url": "https://znews.vn/houthi-tham-chien-de-doa-lam-te-liet-thuong-mai-toan-cau-post1638687.html",
           "source": "Znews"
         }
       ],
@@ -183,16 +183,16 @@
           "source": "Báo VietNamNet"
         },
         {
+          "title": "HLV Park tặng 'món quà Son Heung-min' cho Ngọc Hải, Văn Hậu",
+          "snippet": "",
+          "url": "https://znews.vn/hlv-park-tang-mon-qua-son-heung-min-cho-ngoc-hai-van-hau-post1638601.html",
+          "source": "Znews"
+        },
+        {
           "title": "Trở lại ĐT Việt Nam sau hơn 1000 ngày, Đoàn Văn Hậu nhận thêm món quà lớn từ HLV Park Hang Seo",
           "snippet": "",
           "url": "https://www.techz.vn/206-326-1-tro-lai-dt-viet-nam-sau-hon-1000-ngay-doan-van-hau-nhan-them-mon-qua-lon-tu-hlv-park-hang-seo-ylt684769.html",
           "source": "Techz.vn"
-        },
-        {
-          "title": "Thầy Park tặng quà Son Heung-min cho 2 ngôi sao Việt Nam",
-          "snippet": "",
-          "url": "https://voh.com.vn/bong-da/thay-park-tang-qua-son-heung-min-cho-2-ngoi-sao-viet-nam-650636.html",
-          "source": "VOH"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,20 +201,20 @@
       "title": "tiểu linh",
       "trafficCount": "200+",
       "pubDate": "Sat, 28 Mar 2026 05:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMDvsxx8QR7IEm7VvFygQ3V2M0MunhFUa-ZczoKT0aVnzCxrWpvspIYcsQjY",
-      "pictureSource": "Laodong.vn",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaLgUz93RHVIi-XUF1Lp-KPZ3IGk660BIzvXyPuM2mYnRVeE3jpwSW_ShG1DQ",
+      "pictureSource": "Báo Thanh Niên",
       "relatedSearch": [
-        {
-          "title": "Nghệ sĩ Tiểu Linh nói lý do từ mặt con gái Bùm Bum vì liên quan Hồng Loan",
-          "snippet": "",
-          "url": "https://laodong.vn/van-hoa-giai-tri/nghe-si-tieu-linh-noi-ly-do-tu-mat-con-gai-bum-bum-vi-lien-quan-hong-loan-1675940.ldo",
-          "source": "Laodong.vn"
-        },
         {
           "title": "Nghệ sĩ Tiểu Linh nói về ồn ào từ mặt con gái",
           "snippet": "",
           "url": "https://thanhnien.vn/nghe-si-tieu-linh-noi-ve-on-ao-tu-mat-con-gai-185260328133935688.htm",
           "source": "Báo Thanh Niên"
+        },
+        {
+          "title": "Nghệ sĩ Tiểu Linh nói lý do từ mặt con gái Bùm Bum vì liên quan Hồng Loan",
+          "snippet": "",
+          "url": "https://laodong.vn/van-hoa-giai-tri/nghe-si-tieu-linh-noi-ly-do-tu-mat-con-gai-bum-bum-vi-lien-quan-hong-loan-1675940.ldo",
+          "source": "Laodong.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -264,7 +264,7 @@
           "title": "'Táo kinh tế' Quang Thắng: 'Táo quân trở lại tháng 3 vì lỡ hẹn với khán giả dịp Tết'",
           "snippet": "",
           "url": "https://tuoitre.vn/tao-kinh-te-quang-thang-tao-quan-tro-lai-thang-3-vi-lo-hen-voi-khan-gia-dip-tet-20260327165410236.htm",
-          "source": "Báo Tuổi Trẻ"
+          "source": "Tuổi Trẻ"
         },
         {
           "title": "'Sasuke' trở lại, Hồng Diễm và Thanh Hương tiết lộ vai diễn đặc biệt trên VTV3",
