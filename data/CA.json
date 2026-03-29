@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-29 11:17:25",
+  "lastUpdate": "2026-03-29 11:32:55",
   "data": [
     {
       "title": "journal de québec",
@@ -12,7 +12,7 @@
     },
     {
       "title": "connections nyt",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 29 Mar 2026 03:30:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU2X6lJns3_JJXKuNYgTImeBfNP6D-p3GGwzoVXbIAuudsxmkvD6723crjg6g",
       "pictureSource": "The New York Times",
@@ -124,17 +124,11 @@
     },
     {
       "title": "driver of the day",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Mar 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx-Msw5bR0hoXQjuQ-BbWBwKKujckJrL-b9FUX38F5keuwtPGolRv7c0GwhtA",
-      "pictureSource": "Yahoo Sports Canada",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1US5vIiBTB_XaHklpOgKuE4WgAvh2PJeZpLR80kNdIYihAKGFHMPAljyx5M",
+      "pictureSource": "Formula 1",
       "relatedSearch": [
-        {
-          "title": "When Piastri starts, he scores big - driver ratings",
-          "snippet": "",
-          "url": "https://ca.sports.yahoo.com/news/piastri-starts-scores-big-driver-110612595.html",
-          "source": "Yahoo Sports Canada"
-        },
         {
           "title": "What the teams said – Race day in Japan",
           "snippet": "",
@@ -142,10 +136,44 @@
           "source": "Formula 1"
         },
         {
-          "title": "Could Piastri have won Japanese GP without decisive safety car?",
+          "title": "Japanese Grand Prix: Harry Benjamin's driver ratings for Suzuka weekend",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/formula1/articles/cevke8kweleo",
+          "source": "BBC"
+        },
+        {
+          "title": "Was Piastri robbed of Japanese GP victory by the safety car?",
           "snippet": "",
           "url": "https://www.the-race.com/formula-1/could-piastri-have-won-japanese-gp-without-safety-car/",
           "source": "The Race"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "charlie kirk",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 28 Mar 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKqHZkm71DaKo4exKp3KfeHHinNRhkz41aqYXIW1CEK6UJHFgfKxUg7gMd6ts",
+      "pictureSource": "Yahoo",
+      "relatedSearch": [
+        {
+          "title": "Meghan McCain Doesn’t Understand Erika Kirk Criticism: ‘Some of You Were Literally Birthed in Hell’",
+          "snippet": "",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/meghan-mccain-doesn-t-understand-162248877.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Erika Kirk Feels the Heat",
+          "snippet": "",
+          "url": "https://www.newsweek.com/erika-charlie-kirk-criticism-joe-rogan-druski-turning-point-social-media-11746753",
+          "source": "Newsweek"
+        },
+        {
+          "title": "Meghan McCain condemns hate against Erika Kirk",
+          "snippet": "",
+          "url": "https://thenationaldesk.com/news/americas-news-now/meghan-mccain-condemns-hate-against-erika-kirk-charlie-kirk-turning-point-usa-utah-2025",
+          "source": "The National News Desk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,38 +198,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike",
+          "title": "US Forces at Saudi Air Base Suffer Iranian Attack",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-29/us-sees-first-combat-loss-of-valuable-e-3-jet-in-missile-strike",
-          "source": "Bloomberg.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "charlie kirk",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Mar 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVDlSzM_922O5XntBu6yPKWqg5nLiPi6Mr_i3qb36x3xtl8xWtL-WMLZOvcxE",
-      "pictureSource": "Financial Post",
-      "relatedSearch": [
-        {
-          "title": "Ex-Brookfield VP claims wrongful firing over Charlie Kirk post",
-          "snippet": "",
-          "url": "https://financialpost.com/fp-work/ex-brookfield-vp-claims-wrongful-firing",
-          "source": "Financial Post"
-        },
-        {
-          "title": "Ex-Brookfield VP Claims Wrongful Firing Over Charlie Kirk Post",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-27/ex-brookfield-vp-claims-wrongful-firing-over-charlie-kirk-post",
-          "source": "Bloomberg"
-        },
-        {
-          "title": "Ex-Brookfield VP claims wrongful firing over Charlie Kirk post",
-          "snippet": "",
-          "url": "https://www.msn.com/en-us/money/other/ex-brookfield-vp-claims-wrongful-firing-over-charlie-kirk-post/ar-AA1ZybVh",
-          "source": "MSN"
+          "url": "https://www.airandspaceforces.com/us-forces-saudi-arabia-iran-attack/",
+          "source": "Air & Space Forces Magazine"
         }
       ],
       "link": "https://imtaqin.id/"
