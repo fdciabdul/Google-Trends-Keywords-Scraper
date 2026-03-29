@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-03-29 05:21:28",
+  "lastUpdate": "2026-03-29 05:55:46",
   "data": [
     {
+      "title": "vejret",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 28 Mar 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRviCi3Eqkz1r46fIUEOpFLh2K5ntNbmLHs-drvB2tGi1P8KjnEa0ZzGQvtSo",
+      "pictureSource": "vejr.tv2.dk",
+      "relatedSearch": [
+        {
+          "title": "Påskevejret kan overraske",
+          "snippet": "",
+          "url": "https://vejr.tv2.dk/2026-03-27-paaskevejret-kan-overraske",
+          "source": "vejr.tv2.dk"
+        },
+        {
+          "title": "Planlæg i god tid: Sådan bliver vejret i påskeferien",
+          "snippet": "",
+          "url": "https://migogaalborg.dk/vejret-i-paaskeferien-2026/",
+          "source": "MigogAalborg"
+        },
+        {
+          "title": "Påskevejret driver gæk: Solen kæmper med skyer og byger",
+          "snippet": "",
+          "url": "https://www.dr.dk/nyheder/vejret/paaskevejret-driver-gaek-solen-kaemper-med-skyer-og-byger",
+          "source": "DR"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "formel 1",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 28 Mar 2026 22:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhhPDiP6tJ5VO8yR3I-zb1F6vax2q1m5IWFezxzP0Si5CcFLM-wLLQmA1b3Jg",
       "pictureSource": "BILD",
@@ -89,26 +117,26 @@
       "title": "se og hør",
       "trafficCount": "1000+",
       "pubDate": "Sat, 28 Mar 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWmoKity49YDqxeZ1ZdnZZ6yewgfp3nH8axSclfq_t9LCb6JxeAGbN3MeXJvs",
-      "pictureSource": "SE og HØR",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_C3t1cgdAlzBw8_XopPAEbGZocx44CUFDpBqtIaPyrXitApQaj4qXUW6a8vQ",
+      "pictureSource": "Ekstra Bladet",
       "relatedSearch": [
         {
-          "title": "Babylykke: Sofia Richie er blevet mor igen",
+          "title": "Vil flytte sammen alligevel: Gustav og kæresten i stor kovending",
           "snippet": "",
-          "url": "https://www.seoghoer.dk/hollywood/babylykke-sofia-richie-er-blevet-mor-igen",
-          "source": "SE og HØR"
+          "url": "https://ekstrabladet.dk/underholdning/dkkendte/vil-flytte-sammen-alligevel-gustav-og-kaeresten-i-stor-kovending/11135549",
+          "source": "Ekstra Bladet"
         },
         {
-          "title": "Køligt forårsvejr med flere solchancer står for døren",
+          "title": "Gustav Salinas afslører: Kæresten flytter ind",
           "snippet": "",
-          "url": "https://politiken.dk/danmark/art10785832/K%C3%B8ligt-for%C3%A5rsvejr-med-flere-solchancer-st%C3%A5r-for-d%C3%B8ren",
-          "source": "Politiken"
+          "url": "https://www.billedbladet.dk/kendte/gustav-salinas-afsloerer-kaeresten-flytter-ind",
+          "source": "BILLED-BLADET"
         },
         {
-          "title": "Kølig weekend: Husk både solbriller og regnjakke",
+          "title": "Gustav Salinas savner langdistance-kæreste: “Afstanden er ikke altid nem”",
           "snippet": "",
-          "url": "https://www.tvmidtvest.dk/midt-og-vestjylland/kolig-weekend-husk-bade-solbriller-og-regnjakke-445f1",
-          "source": "TV Midtvest"
+          "url": "https://www.avisen.dk/gustav-salinas-savner-langdistance-kaereste-afstand_828002.aspx",
+          "source": "Avisen.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,9 +155,9 @@
           "source": "JydskeVestkysten"
         },
         {
-          "title": "Cecilie Liv Hansen efter chok-exit fra LA: Rygter om mig er usande",
+          "title": "Cecilie Liv Hansen smidt ud af Liberal Alliance: Samlever står frem som pusher",
           "snippet": "",
-          "url": "https://www.tvsyd.dk/kolding/cecilie-liv-hansen-efter-chok-exit-fra-la-rygter-om-mig-er-usande-1ec88",
+          "url": "https://www.tvsyd.dk/kolding/liberal-alliance-ekskluderer-nyvalgt-folketingsmedlem-21908",
           "source": "tvSyd"
         },
         {
@@ -219,7 +247,7 @@
         {
           "title": "Vraget socialdemokrat kritiserer mediers fokus på unge kvinder: »Du er færdigspillet i politik, når du er 40«",
           "snippet": "",
-          "url": "https://www.berlingske.dk/politik/vraget-socialdemokrat-kritiserer-mediers-fokus-paa-unge-kvinder-du-er-faerdigspillet-i-politik-naar-du-er-40?gaa_at=eafs&gaa_n=AWEtsqfSSiHTOGqid1sEkuon0ox9L8KQ-eLdOqcqVuCGWdXF5DaHdHmxtL4N&gaa_ts=69c8ba5b&gaa_sig=adwdH3NdufD7e4Y5-F4KTbfZ_1MZtPHeG7qeOegj8tOBzp-sfzliuOaNq3qd0raxEshoqGu7N-eQ9CN-zyfnKA%3D%3D",
+          "url": "https://www.berlingske.dk/politik/vraget-socialdemokrat-kritiserer-mediers-fokus-paa-unge-kvinder-du-er-faerdigspillet-i-politik-naar-du-er-40?gaa_at=eafs&gaa_n=AWEtsqemgwbvutn1KJhXQYWgvsDVIfSO8ch8YooEnywSCEP128yRN0RSgnl5&gaa_ts=69c8c266&gaa_sig=nhVo_ZLlF3EfNRj_MR_X3TKTkZ7dUdPIv3p3If76mMz42ACGc2y1FkHK-BoYKu-4rGBt_vQ__kA7jzETxb_4vQ%3D%3D",
           "source": "Berlingske"
         }
       ],
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.zdfheute.de/video/zdfheute-xpress/deutschland-australien-ruestungsindustrie-partner-video-100.html",
           "source": "ZDFheute"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kong frederik",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 28 Mar 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsZjtQm48_ySUn6-82-3Wq_d4OIXdFLV2A7vDMqVBi4X7uIHsf_doh2O1HrW0",
-      "pictureSource": "BILLED-BLADET",
-      "relatedSearch": [
-        {
-          "title": "Kong Frederik sendte hilsen i sød anledning: Flemming Østergaard sætter ord på æren",
-          "snippet": "",
-          "url": "https://www.billedbladet.dk/kendte/kong-frederik-sendte-hilsen-i-soed-anledning-flemming-oestergaard-saetter-ord-paa-aeren",
-          "source": "BILLED-BLADET"
-        },
-        {
-          "title": "Don Ø hylder syg hustru: \"Jeg fik lov til at elske Inge et helt liv\"",
-          "snippet": "",
-          "url": "https://www.alt.dk/kendte/reality/don-o-hylder-syg-hustru-tak-for-helt-livs-kaerlighed/5738494",
-          "source": "Alt.dk"
-        },
-        {
-          "title": "'Don Ø' har fået brev fra kong Frederik: 'Sender min hjertelige lykønskning'",
-          "snippet": "",
-          "url": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/don-oe-har-faaet-brev-fra-kong-frederik-sender-min-hjertelige-lykoenskning/11127694",
-          "source": "Ekstra Bladet"
         }
       ],
       "link": "https://imtaqin.id/"
