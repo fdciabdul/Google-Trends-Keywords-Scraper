@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-04-01 06:53:23",
+  "lastUpdate": "2026-04-01 07:27:01",
   "data": [
+    {
+      "title": "deutsche bank",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 31 Mar 2026 23:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdWKZYgw9bNMwUXfaxz2lQB5zrGVRk_zyJ1tXc0ap6XdEwfnEVUEyUREH6qhY",
+      "pictureSource": "IG Group",
+      "relatedSearch": [
+        {
+          "title": "SP 500 rebota pero el riesgo sigue alto según Sergio Ávila",
+          "snippet": "",
+          "url": "https://www.ig.com/es/ideas-de-trading-y-noticias/sp-500--rebote-tecnico-con-riesgo-alto-segun-sergio-avila-260401",
+          "source": "IG Group"
+        },
+        {
+          "title": "El Dow Jones, Nasdaq 100 y S&P 500 alcanzan máximos de dos jornadas",
+          "snippet": "",
+          "url": "https://www.fxstreet.es/news/el-dow-jones-nasdaq-100-y-sp-500-rebotan-y-alcanzan-maximos-de-dos-jornadas-202603311633",
+          "source": "FXStreet"
+        },
+        {
+          "title": "Wall Street sube más del 3% y el petróleo cae con fuerza después de que Irán se muestre dispuesto a acabar la guerra",
+          "snippet": "",
+          "url": "https://www.msn.com/es-es/dinero/economia/wall-street-sube-m%C3%A1s-del-3-y-el-petr%C3%B3leo-cae-con-fuerza-despu%C3%A9s-de-que-ir%C3%A1n-se-muestre-dispuesto-a-acabar-la-guerra/ar-AA1ZPRri?ocid=finance-verthp-feeds",
+          "source": "MSN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "bbva",
       "trafficCount": "2000+",
@@ -30,36 +58,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "banco santander",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 31 Mar 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHKkLBenm5Qlsls1LS3BLzsIkgt_ougPwfJsUek77G_s5YBHHm-LIh7UwrlVQ",
-      "pictureSource": "Expansión",
-      "relatedSearch": [
-        {
-          "title": "Santander planta cara a Trump con la entrada en el 'top 10' de M&A y Bolsa en EEUU",
-          "snippet": "",
-          "url": "https://www.expansion.com/empresas/banca/2026/04/01/69c3d05f468aeb177c8b456d.html",
-          "source": "Expansión"
-        },
-        {
-          "title": "Santander entra en el club de los grandes bancos de EEUU: supera a Citi y las previsiones ya lo sitúan por delante de Morgan Stanley",
-          "snippet": "",
-          "url": "https://www.eleconomista.es/banca-finanzas/noticias/13851832/03/26/santander-entra-en-el-club-de-los-grandes-bancos-de-eeuu-supera-a-citi-y-las-previsiones-ya-lo-situan-por-delante-de-morgan-stanley.html",
-          "source": "El Economista"
-        },
-        {
-          "title": "Santander marca distancias con los 'tiburones' de Wall Street",
-          "snippet": "",
-          "url": "https://www.expansion.com/empresas/banca/2026/03/27/69414c2f468aeb644d8b4592.html",
-          "source": "Expansión"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "seguridad social",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 31 Mar 2026 23:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZLBprJlFSBs61XRSanO3WJ4B0khuleiWbKEjq3rhlc-j5grQ0hNjml0gK_6U",
       "pictureSource": "El Confidencial",
@@ -86,36 +86,64 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "banco santander",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 31 Mar 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHKkLBenm5Qlsls1LS3BLzsIkgt_ougPwfJsUek77G_s5YBHHm-LIh7UwrlVQ",
+      "pictureSource": "Expansión",
+      "relatedSearch": [
+        {
+          "title": "Santander planta cara a Trump con la entrada en el 'top 10' de M&A y Bolsa en EEUU",
+          "snippet": "",
+          "url": "https://www.expansion.com/empresas/banca/2026/04/01/69c3d05f468aeb177c8b456d.html",
+          "source": "Expansión"
+        },
+        {
+          "title": "Santander entra en el club de los grandes bancos de EEUU: supera a Citi y las previsiones ya lo sitúan por delante de Morgan Stanley",
+          "snippet": "",
+          "url": "https://www.eleconomista.es/banca-finanzas/noticias/13851832/03/26/santander-entra-en-el-club-de-los-grandes-bancos-de-eeuu-supera-a-citi-y-las-previsiones-ya-lo-situan-por-delante-de-morgan-stanley.html",
+          "source": "El Economista"
+        },
+        {
+          "title": "Santander marca distancias con los 'tiburones' de Wall Street",
+          "snippet": "",
+          "url": "https://www.expansion.com/empresas/banca/2026/03/27/69414c2f468aeb644d8b4592.html",
+          "source": "Expansión"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "miercoles santo",
       "trafficCount": "2000+",
       "pubDate": "Tue, 31 Mar 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6BD-R4dU46buDIFug1OjV0rHrooBVBzbY0pQIpvmeI1sG5t3h8QeVIKWu-k",
-      "pictureSource": "ABC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqIdRDw2abrqHxkGHDP_H7HPgY0S1zRk311IHXVvobpDhgXTHGblM7JIfgxg",
+      "pictureSource": "El Mundo",
       "relatedSearch": [
         {
-          "title": "Martes Santo de la Semana Santa de Sevilla 2026, en directo: última hora, avisos y recorridos",
+          "title": "Procesiones en Sevilla hoy, Miércoles Santo, de la Semana Santa 2026: horarios y recorridos",
           "snippet": "",
-          "url": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/martes-santo-semana-santa-sevilla-2026-directo-20260331093734-dis.html",
+          "url": "https://www.elmundo.es/como/2026/04/01/69c3f6cee4d4d8c1068b4589.html",
+          "source": "El Mundo"
+        },
+        {
+          "title": "El Miércoles Santo vuelve a cambiar el orden con El Buen Fin segunda y cerrando las Siete Palabras",
+          "snippet": "",
+          "url": "https://cadenaser.com/andalucia/2026/04/01/el-miercoles-santo-vuelve-a-cambiar-el-orden-con-el-buen-fin-segunda-y-cerrando-las-siete-palabras-radio-sevilla/",
+          "source": "Cadena SER"
+        },
+        {
+          "title": "Y al tercer día, el Martes Santo cuadró la Semana Santa",
+          "snippet": "",
+          "url": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/tercer-dia-martes-santo-puso-hora-semana-20260331225030-nts.html",
           "source": "ABC"
-        },
-        {
-          "title": "Mapa en tiempo real del Miércoles Santo en Sevilla 2026: dónde están las cofradías hoy",
-          "snippet": "",
-          "url": "https://www.diariodesevilla.es/semana_santa/mapa-gps-cofradias-sevilla-hoy-semana-santa-2026_0_2006277831.html",
-          "source": "Diario de Sevilla"
-        },
-        {
-          "title": "Los contrastes de un luminoso Martes Santo",
-          "snippet": "",
-          "url": "https://www.larazon.es/andalucia/contrastes-luminoso-martes-santo_2026040169cc717f6b2f8835925dc2c8.html",
-          "source": "La Razón"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "unicaja",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 31 Mar 2026 23:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYvzy1Gz2jygf9NaCuZ4NB_sIlCLqNWyQ098dkM3jfaG0rluleC7yEVk3W4Zc",
       "pictureSource": "Diario AS",
@@ -145,26 +173,26 @@
       "title": "supervivientes",
       "trafficCount": "500+",
       "pubDate": "Tue, 31 Mar 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jkRtePbb2PjbSqB3rALZiH27Z52C6oapsjPBUqJas1ZyanA1TY5BeDBB_ag",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Q23iw6gH8Sz3rCiYiH-ZqNwFqiOEl5Nm3FZuOgDH2nJcIaxbohGqL81rv18",
       "pictureSource": "Telecinco",
       "relatedSearch": [
         {
-          "title": "'Supervivientes 2026': Tierra de nadie 4 (31/03/26), completo",
+          "title": "La unificación de 'Playa destino' provoca mucha sorpresa entre los concursantes de Supervivientes 2026",
           "snippet": "",
-          "url": "https://www.telecinco.es/television/a-la-carta/20260401/supervivientes-tierra-nadie-4-completo_18_018777319.html",
+          "url": "https://www.telecinco.es/reality/20260401/supervivientes-2026-unificacion-playa-destino-apertura-excepcional-palapa-sorpresa-concursantes-dos-nuevas-incorporaciones_18_018777060.html",
           "source": "Telecinco"
-        },
-        {
-          "title": "La felicidad de la segunda expulsada definitiva de 'Supervivientes 2026' y la llegada de dos nuevos concursantes: \"Ya lo he vivido y tengo ganas de ver a mi bebé\"",
-          "snippet": "",
-          "url": "https://www.semana.es/television/felicidad-segunda-expulsada-definitiva-supervivientes-2026-llegada-dos-nuevos-concursantes-ya-he-vivido-tengo-ganas-ver-mi-bebe_2812776",
-          "source": "Semana"
         },
         {
           "title": "El expulsado de 'Supervivientes 2026' de ayer, atónito al tener que irse tras la decisión sorpresa de la audiencia",
           "snippet": "",
           "url": "https://www.lecturas.com/television/expulsado-ayer-supervivientes-2026-atonito-tener-que-irse-tras-decision-sorpresa-audiencia_190864",
           "source": "Lecturas"
+        },
+        {
+          "title": "La felicidad de la segunda expulsada definitiva de 'Supervivientes 2026' y la llegada de dos nuevos concursantes: \"Ya lo he vivido y tengo ganas de ver a mi bebé\"",
+          "snippet": "",
+          "url": "https://www.semana.es/television/felicidad-segunda-expulsada-definitiva-supervivientes-2026-llegada-dos-nuevos-concursantes-ya-he-vivido-tengo-ganas-ver-mi-bebe_2812776",
+          "source": "Semana"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "ESPN"
         },
         {
-          "title": "Caesars Sportsbook Promo Code COVERSBONUSDYW Unlocks 100% Boosts with a Bet on Blazers vs Clippers",
+          "title": "Tiago Splitter Discusses Win Versus Clippers, Play Of The Bench",
           "snippet": "",
-          "url": "https://www.covers.com/daily-promos/caesars-sportsbook-promo-code-nba-trail-blazers-clippers-03-31-2026",
+          "url": "https://www.nba.com/blazers/videos/tiago-splitter-discusses-win-versus-clippers-play-of-the-bench",
+          "source": "NBA"
+        },
+        {
+          "title": "Bet365 Bonus Code Gives $365 Bonus Bets for Blazers vs Clippers",
+          "snippet": "",
+          "url": "https://www.covers.com/daily-promos/bet365-bonus-code-nba-trail-blazers-clippers-03-31-2026",
           "source": "Covers.com"
-        },
-        {
-          "title": "Trail Blazers vs. Clippers prediction: NBA picks, odds, best bets Tuesday",
-          "snippet": "",
-          "url": "https://nypost.com/2026/03/31/betting/trail-blazers-vs-clippers-prediction-nba-picks-odds-best-bets-tuesday/",
-          "source": "New York Post"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pistons - raptors",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 31 Mar 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkQ5YJp9VKnB2yaau3vHwuxCQjeFlIgJEo9mOLSXcbolBDTzYHK7reqQglcOk",
-      "pictureSource": "Instagram",
-      "relatedSearch": [
-        {
-          "title": "Detroit Pistons score: Jalen Duren dominated in the paint for the Pistons as they clinched their first Central Division championship since 2007-08. 📸 Photo by David Reginek, Imagn Images Check link in bio to read more.",
-          "snippet": "",
-          "url": "https://www.instagram.com/p/DWksjhbDA5S/",
-          "source": "Instagram"
-        },
-        {
-          "title": "Raptors offense, then defense sputter in loss to Pistons",
-          "snippet": "",
-          "url": "https://www.raptorsrepublic.com/2026/03/31/raptors-offense-then-defense-sputter-in-loss-to-pistons/",
-          "source": "Raptors Republic"
-        },
-        {
-          "title": "Detroit Pistons vs. Toronto Raptors odds, tips and betting trends | March 31, 2026",
-          "snippet": "",
-          "url": "https://sportsbookwire.usatoday.com/story/sports/sports-betting/2026/03/31/nba-detroit-pistons-vs-toronto-raptors-betting-odds-tips-trends-3-31-2026/89397519007/",
-          "source": "Sportsbook Wire"
         }
       ],
       "link": "https://imtaqin.id/"
