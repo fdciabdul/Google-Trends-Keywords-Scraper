@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-02 12:32:46",
+  "lastUpdate": "2026-04-02 12:57:55",
   "data": [
     {
       "title": "li xiong",
@@ -33,20 +33,20 @@
       "title": "nasa artemis 2",
       "trafficCount": "500+",
       "pubDate": "Thu, 2 Apr 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NFBwsW3yF4wyhZF3aFaiS5dNgdBBCYCt3ftkNaunJpDCmeS3NnDFfC2-ODY",
-      "pictureSource": "NASA (.gov)",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5YPe3sh5GbrkQAgRdkqaceM9tHLYFTtZ6r7JGTn6zX279aiAILyKPbmVKP3Y",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "LIVE: Artemis II Launch Day Updates",
-          "snippet": "",
-          "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-          "source": "NASA (.gov)"
-        },
         {
           "title": "Artemis II: Astronauts in final orbital position before setting course to Moon - watch live",
           "snippet": "",
           "url": "https://www.bbc.com/news/live/c4g4ygw0r02t",
           "source": "BBC"
+        },
+        {
+          "title": "LIVE: Artemis II Launch Day Updates",
+          "snippet": "",
+          "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+          "source": "NASA (.gov)"
         },
         {
           "title": "Nasa’s Artemis II rocket lifts off for historic moon mission",
@@ -86,6 +86,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "t",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 2 Apr 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnrqa_CEkfVsdPqMbODGUDMyTWd5jdzJ0QT7Is9oTb9vL79LS_RqXy2lL67Kw",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Iran War Live Updates: Trump Claims Success as Gulf Nations and Israel Fend Off More Attacks",
+          "snippet": "",
+          "url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Stocks recoil and oil surges after Trump vows to continue hitting Iran",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/stocks-down-today-trump-speech-sp500-index-djia-oil-prices/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Stock futures sell-off picks up steam, Dow drops 700 points as oil surges: Live updates",
+          "snippet": "",
+          "url": "https://www.cnbc.com/2026/04/01/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "claude code source code",
       "trafficCount": "200+",
       "pubDate": "Wed, 1 Apr 2026 23:00:00 -0700",
@@ -105,38 +133,10 @@
           "source": "The Verge"
         },
         {
-          "title": "Anthropic Races to Contain Leak of Code Behind Claude AI Agent",
+          "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
           "snippet": "",
-          "url": "https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7",
-          "source": "WSJ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tradingview",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 1 Apr 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnrqa_CEkfVsdPqMbODGUDMyTWd5jdzJ0QT7Is9oTb9vL79LS_RqXy2lL67Kw",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Iran War Live Updates: Trump Claims Success as Gulf Nations and Israel Fend Off More Attacks",
-          "snippet": "",
-          "url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Stock Market Today: Dow Futures Fall, Oil Climbs After Trump Iran Address — Live Updates",
-          "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-02-2026?gaa_at=eafs&gaa_n=AWEtsqczGCKTvTD1WlecuQ-BZcFvDibGNB_WYSvPWA6OMTBqk46OxXhqE1jT&gaa_ts=69ce6572&gaa_sig=t00-G0rjqZTSVSKRbSPb0mVQfxUnoiB820U1-BvMUHvbRaehlLg0I6ksheKy9lQaVfAyKv-DBEpcBp2bCGm_0Q%3D%3D",
-          "source": "WSJ"
-        },
-        {
-          "title": "Dow Set to Open Down After Trump's Iran Speech Rattles Markets",
-          "snippet": "",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-040226?gaa_at=eafs&gaa_n=AWEtsqcPySereepOzl6dS1VZitAR6xAKcM90ybUjS5DR4UuBYsH0fhTDVJy-&gaa_ts=69ce6572&gaa_sig=4MvZqdQ7Or037ggULexPiWQpue43NOH3V51bP_k6ebw38s4z7s5uyqDTqFdqGsUIZuivzo2ttbKRPMfCjbgHIA%3D%3D",
-          "source": "Barron's"
+          "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+          "source": "Ars Technica"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,10 +155,10 @@
           "source": "Mshale"
         },
         {
-          "title": "‘I don’t want to engage in this discussion’ - Thomas Tuchel bites back at England 'pressure' question after 'painful' loss to Japan",
+          "title": "Chelsea playmaker Cole Palmer fails England audition",
           "snippet": "",
-          "url": "https://www.goal.com/en-ca/lists/don-t-want-to-engage-in-this-discussion-thomas-tuchel-bites-back-england-pressure-question-painful-loss-japan/bltf7f6f18b47e13511",
-          "source": "Goal.com"
+          "url": "https://onefootball.com/en/news/chelsea-playmaker-cole-palmer-fails-england-audition-42644712",
+          "source": "OneFootball"
         },
         {
           "title": "Guehi urges England to 'stick together' ahead of World Cup",
@@ -171,7 +171,7 @@
     },
     {
       "title": "kristi noem",
-      "trafficCount": "2000+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 1 Apr 2026 10:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTO1YRrIejcUNBWu4roZjuPe4iy97YImg2Go9DKE94Rth5CqHPKnupzt3y6Tg",
       "pictureSource": "The New York Times",
@@ -211,44 +211,16 @@
           "source": "The New York Times"
         },
         {
+          "title": "Goodbye mrbrightside416: Google allows users to alter quirky Gmail addresses",
+          "snippet": "",
+          "url": "https://www.theguardian.com/technology/2026/apr/02/google-allows-users-alter-quirky-gmail-addresses",
+          "source": "The Guardian"
+        },
+        {
           "title": "Change your Google Account username in a few simple steps.",
           "snippet": "",
           "url": "https://blog.google/products-and-platforms/products/workspace/google-account-username-change/",
           "source": "blog.google"
-        },
-        {
-          "title": "Google is now letting users in the US change their Gmail address",
-          "snippet": "",
-          "url": "https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/",
-          "source": "TechCrunch"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kitkat heist",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 1 Apr 2026 05:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo1scLHPR6egPw9SICG1QDHTFCGNhRTdgl3RvWKovTbpKxsmNHL6qyH1skehM",
-      "pictureSource": "WSJ",
-      "relatedSearch": [
-        {
-          "title": "How a Massive KitKat Heist Turned Into Crisis PR Gold",
-          "snippet": "",
-          "url": "https://www.wsj.com/business/kitkat-heist-nestle-theft-chocolate-03f807bb",
-          "source": "WSJ"
-        },
-        {
-          "title": "Twelve tonnes of Formula 1 KitKat bars stolen in Europe - The Athletic",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7154143/2026/03/28/f1-kitkat-bars-stolen-europe/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "12 tons of KitKat bars stolen in chocolaty heist in Europe, Nestle says",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/nestle-kitkat-shipment-heist-stolen-europe/",
-          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
