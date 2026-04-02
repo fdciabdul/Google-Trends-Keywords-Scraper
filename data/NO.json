@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-04-02 17:05:29",
+  "lastUpdate": "2026-04-02 17:27:17",
   "data": [
+    {
+      "title": "tv2.no",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 2 Apr 2026 10:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEeaRhfiv9obiBTS_fmCyKXgmR5yL73weNRkb6AyvDnoKf0dcCM9B4Ki2mSb0",
+      "pictureSource": "TV2.no",
+      "relatedSearch": [
+        {
+          "title": "Har du disse klærne i skapet? Da bør du vurdere å selge",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/har-du-disse-klaerne-i-skapet-da-bor-du-vurdere-a-selge/18662348/",
+          "source": "TV2.no"
+        },
+        {
+          "title": "På vei mot Norge",
+          "snippet": "",
+          "url": "https://www.tv2.no/nyheter/pa-vei-mot-norge/18717324/",
+          "source": "TV2.no"
+        },
+        {
+          "title": "Varsler mulig storm på Sørlandet",
+          "snippet": "",
+          "url": "https://www.agderposten.no/nyheter/n/aJJ9nL/to-dager-skiller-seg-ut",
+          "source": "agderposten.no"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "påskequiz",
       "trafficCount": "100+",
       "pubDate": "Thu, 2 Apr 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAg5flFZj2foWH6LwK74fkp07WZRkOc4lX5Dt8KXQqHJVEVWQKOO8q4fq28XE",
-      "pictureSource": "morenytt.no",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhaRoAsix2kR5qrxrpl5Ee7uoUhxrcJv3MuoYWEYUU3iIceHIMIuCYkUuA_z0",
+      "pictureSource": "vol.no",
       "relatedSearch": [
         {
-          "title": "(+) Prøv Møre-Nytt sin påskequiz",
+          "title": "VOLs påskequiz - Skjærtorsdag",
           "snippet": "",
-          "url": "https://www.morenytt.no/nyheiter/i/JOOwk8/proev-moere-nytt-sin-paaskequiz",
-          "source": "morenytt.no"
+          "url": "https://www.vol.no/nyheter/n/0ppVXJ/vols-paaskequiz-skjaertorsdag",
+          "source": "vol.no"
         },
         {
-          "title": "Hildurs påskequiz – hva er sjette løsningsord?",
+          "title": "Klarer du Kulingens påskequiz? Test deg selv og familien!",
           "snippet": "",
-          "url": "https://www.frostingen.no/hildurs-paskequiz-hva-er-sjette-losningsord/s/5-166-58686",
-          "source": "Frostingen"
+          "url": "https://www.kulingen.no/kulturogfolk/n/7pp5M4/klarer-du-kulingens-paaskequiz-test-deg-selv-og-familien",
+          "source": "kulingen.no"
         },
         {
-          "title": "Hildurs påskequiz – hva er femte løsningsord?",
+          "title": "Påskehilsen med påskequiz!",
           "snippet": "",
-          "url": "https://www.frostingen.no/hildurs-paskequiz-hva-er-femte-losningsord/s/5-166-58683",
-          "source": "Frostingen"
+          "url": "https://www.aure.kommune.no/aktuelt/paskehilsen-med-paskequiz.22457.aspx",
+          "source": "Aure kommune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +77,10 @@
           "source": "People.com"
         },
         {
-          "title": "US News | ⚡Christina Marie Plante Found Alive After 32 Years: Who Is She?",
+          "title": "Arizona girl last seen walking to stable before vanishing found alive decades later, authorities say",
           "snippet": "",
-          "url": "https://www.latestly.com/quickly/us/christina-marie-plante-found-alive-after-32-years-who-is-she-7377179.html",
-          "source": "LatestLY"
+          "url": "https://www.wfmd.com/2026/04/02/arizona-girl-last-seen-walking-to-stable-before-vanishing-found-alive-decades-later-authorities-say/",
+          "source": "930 WFMD Free Talk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -75,6 +103,12 @@
           "snippet": "",
           "url": "https://www.laagendalsposten.no/kinoen-gar-litt-bedre-enn-i-fjor/s/5-64-1648811",
           "source": "Laagendalsposten"
+        },
+        {
+          "title": "Filmen «Jesu siste måltid»",
+          "snippet": "",
+          "url": "https://www.vestlandsnytt.no/frittord/n/Gxxn2J/filmen-jesu-siste-maaltid",
+          "source": "vestlandsnytt.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,16 +205,16 @@
           "source": "IBM Newsroom"
         },
         {
-          "title": "What's Going On With IBM Stock Thursday? - ARM Holdings (NASDAQ:ARM), IBM (NYSE:IBM)",
-          "snippet": "",
-          "url": "https://www.benzinga.com/markets/tech/26/04/51619385/ibm-partners-with-arm-to-power-next-wave-of-ai-infrastructure",
-          "source": "Benzinga"
-        },
-        {
           "title": "IBM Extends AI Capabilities With Arm’s Power-Efficient Architecture",
           "snippet": "",
           "url": "https://quantumzeitgeist.com/ibm-ai-capabilities-extends-arms/",
           "source": "Quantum Zeitgeist"
+        },
+        {
+          "title": "IBM Lays Out Patches For ARM Virtualization Acceleration On IBM Z Servers",
+          "snippet": "",
+          "url": "https://www.phoronix.com/news/IBM-KVM-ARM-VMs-On-s390",
+          "source": "Phoronix"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,42 +263,14 @@
         {
           "title": "Астана стала лидером по открытию нового бизнеса в Казахстане",
           "snippet": "",
-          "url": "https://mail.kz/ru/news/kz-news/astana-stala-liderom-po-otkrytiyu-novogo-biznesa-v-kazahstane",
-          "source": "Mail.KZ"
+          "url": "https://www.zakon.kz/finansy/6513017-astana-stala-liderom-po-otkrytiyu-novogo-biznesa-v-kazakhstane.html",
+          "source": "Новости Zakon.kz"
         },
         {
           "title": "Рейтинг регионов по развитию предпринимательства: где открылось больше всего новых компаний?",
           "snippet": "",
           "url": "https://dknews.kz/ru/biznes/389393-reyting-regionov-po-razvitiyu-predprinimatelstva-gde",
           "source": "DKNews.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "xpeng",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 2 Apr 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKk60Ek5Dk7ElDWguEhdI67QP9KkSpBQIQM-IW1Jfr4Sc3NK27rOnKKDRKZQQ",
-      "pictureSource": "TV2.no",
-      "relatedSearch": [
-        {
-          "title": "Svarer Tesla med kraftige priskutt",
-          "snippet": "",
-          "url": "https://www.tv2.no/broom/svarer-tesla-med-kraftige-priskutt/18716035/",
-          "source": "TV2.no"
-        },
-        {
-          "title": "Rekordsterkt salg for XPENG – sikter mot 7000 biler i 2026",
-          "snippet": "",
-          "url": "https://kommunikasjon.ntb.no/pressemelding/18852796/rekordsterkt-salg-for-xpeng-sikter-mot-7000-biler-i-2026?publisherId=17847332&lang=no",
-          "source": "NTB Kommunikasjon"
-        },
-        {
-          "title": "Vi tester Xpeng X9 – ikke sett makan",
-          "snippet": "",
-          "url": "https://elbil.no/vi-tester-xpeng-x9-ikke-sett-makan/",
-          "source": "Norsk elbilforening"
         }
       ],
       "link": "https://imtaqin.id/"
