@@ -1,37 +1,121 @@
 {
-  "lastUpdate": "2026-04-02 07:43:51",
+  "lastUpdate": "2026-04-02 08:11:31",
   "data": [
+    {
+      "title": "sfg",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 2 Apr 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS31lFCiIuTmBkYTxbOTsO9N7WjpqGY5BIy8SfkRxWcsFl2FlOJ5gTGvACtY3w",
+      "pictureSource": "SFGATE",
+      "relatedSearch": [
+        {
+          "title": "In Point Reyes, National Park Service scientist made incredibly rare find",
+          "snippet": "",
+          "url": "https://www.sfgate.com/national-parks/article/point-reyes-salamanders-22183955.php",
+          "source": "SFGATE"
+        },
+        {
+          "title": "Surprise Sighting Sheds Light on the Lives of Elusive Salamanders",
+          "snippet": "",
+          "url": "https://www.nps.gov/articles/000/psv40n1_surprise-sighting-sheds-light-on-the-lives-of-elusive-salamanders.htm",
+          "source": "National Park Service (.gov)"
+        },
+        {
+          "title": "A Snorkeling Biologist Just Captured Something Never Before Photographed in a Northern California Creek",
+          "snippet": "",
+          "url": "https://www.activenorcal.com/a-snorkeling-biologist-just-captured-something-never-before-photographed-in-a-northern-california-creek/",
+          "source": "Active NorCal"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "صحة",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 2 Apr 2026 00:40:00 -0700",
+      "picture": "",
+      "pictureSource": "جريدة المدينة",
+      "relatedSearch": [
+        {
+          "title": "طبية مكة تدشّن عيادة متخصصة للموجات فوق الصوتية المعوية - جريدة المدينة",
+          "snippet": "",
+          "url": "https://www.al-madina.com/article/982962/%D8%B5%D8%AD%D8%A9/%D8%B7%D8%A8%D9%8A%D8%A9-%D9%85%D9%83%D8%A9-%D8%AA%D8%AF%D8%B4%D9%86-%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9-%D9%84%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B5%D9%88%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%88%D9%8A%D8%A9",
+          "source": "جريدة المدينة"
+        },
+        {
+          "title": "في اليوم العالمي للتوعية بمرض التوحد..ماذا عن أحدث الدراسات؟وما هو دور الذكاء الاصطناعي في التشخيص؟",
+          "snippet": "",
+          "url": "https://www.sayidaty.net/%D8%B5%D8%AD%D8%A9-%D9%88%D8%B1%D8%B4%D8%A7%D9%82%D8%A9/%D8%B5%D8%AD%D8%A9/1831852-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D8%AF",
+          "source": "مجلة سيدتي"
+        },
+        {
+          "title": "دراسة: الذكاء الاصطناعى يكشف اضطراب التوحد مبكرًا",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2026/3/31/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D8%AF-%D9%85%D8%A8%D9%83%D8%B1%D9%8B%D8%A7/7358396",
+          "source": "اليوم السابع"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "claude code",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 2 Apr 2026 00:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVhgG51PQl1ThmHLjDY_0a8kYws4qeLXYkWlU4EbQjTg4oaVcuK0lCIckeCEw",
+      "pictureSource": "WSJ",
+      "relatedSearch": [
+        {
+          "title": "Anthropic Races to Contain Leak of Code Behind Claude AI Agent",
+          "snippet": "",
+          "url": "https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqecWyMQAyZkBRC5sWwpNOH7BsVEkO5NquQ5SpA4RBiVMldM_8LPyjkn&gaa_ts=69ce2830&gaa_sig=jjpQWSpoRGqvEWdD01gbNJ7yYIkawAmbtXj4ZatmkevU-ULfup_6V3uQsRD-rFZ8jBBLOCURwwfRrZg-Q3HuVQ%3D%3D",
+          "source": "WSJ"
+        },
+        {
+          "title": "Anthropic leaked 500,000 lines of its own source code",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/03/31/anthropic-leaked-source-code-ai",
+          "source": "Axios"
+        },
+        {
+          "title": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’",
+          "snippet": "",
+          "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+          "source": "Fortune"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "scotland vs oman",
       "trafficCount": "2000+",
       "pubDate": "Thu, 2 Apr 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjeNMM-J5vl5liaCsmvfko4ppkxUFGbKl6xAXpp9jzsStn8u_joMw-uiKHP2Y",
-      "pictureSource": "The Sunday Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROEBLOMK45Q7hiER1GpYclwNHG6ZmiJzodZOwwchovDoxl4h-4GTDm2XaAMMs",
+      "pictureSource": "Cricbuzz",
       "relatedSearch": [
         {
-          "title": "SCO vs OMN Live Streaming Details, ICC Cricket World Cup League Two 2023-27: Where To Watch Scotland vs Oman Live In India?",
+          "title": "Scotland vs Oman, 92nd Match, ICC Cricket World Cup League Two 2023-27 - Scorecard",
           "snippet": "",
-          "url": "https://sundayguardianlive.com/sports/sco-vs-omn-live-streaming-details-where-to-watch-scotland-national-cricket-team-vs-oman-national-cricket-team-icc-cricket-world-cup-league-two-2023-27-180879/",
-          "source": "The Sunday Guardian"
+          "url": "https://www.cricbuzz.com/live-cricket-scorecard/151470/sco-vs-oman-92nd-match-icc-cricket-world-cup-league-two-2023-27",
+          "source": "Cricbuzz"
         },
         {
-          "title": "ICC CWC League 2 ODI 2026, Match 92",
+          "title": "Oman vs. Namibia Odds & Predictions (Apr. 4, 2026)",
           "snippet": "",
-          "url": "https://cricketaddictor.com/fantasy-cricket/sco-vs-omn-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-icc-cwc-league-2-odi-2026-match-92-428391/",
-          "source": "Cricket Addictor"
+          "url": "https://polymarket.com/event/crint-nam-omn-2026-04-04",
+          "source": "Polymarket"
         },
         {
-          "title": "Match Predictions: ICC CWC League 2 2026 - Match 98 - Scotland vs Oman - April 2nd",
+          "title": "SCO vs OMN Dream11 Prediction Today: 98th Match, Pitch Report, Playing XI & Fantasy Tips",
           "snippet": "",
-          "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-98-scotland-vs-oman-april-2nd/109685.htm",
-          "source": "Cricket World"
+          "url": "https://www.cricketwinner.com/fantasy-cricket-tips/sco-vs-omn-dream11-prediction-today-98th-match-pitch-report-playing-xi-fantasy-tips/",
+          "source": "Cricket Winner"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "وفاة الاميره الجوهره",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 1 Apr 2026 23:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnXnmGHCll0dTQJ2v-gZOjv8cL3avBRwQzGYE554IxcAtCRY0ceGfJW_cFUJQ",
       "pictureSource": "وكالة الأنباء السعودية",
@@ -53,6 +137,62 @@
           "snippet": "",
           "url": "https://www.akhbaar24.com/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%87%D8%B1%D9%87-%D8%A8%D9%86%D8%AA-%D9%81%D9%8A%D8%B5%D9%84-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A2%D9%84-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-112367",
           "source": "أخبار 24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "makkah airport",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 1 Apr 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc6HHN6N22EZuIgzN03uJpHZYpwBJ0a1ckzj2n7xCTlvXZdS1-HxuZym8mhFc",
+      "pictureSource": "Saudi Gazette",
+      "relatedSearch": [
+        {
+          "title": "Makkah airport and metro plans underway: Official",
+          "snippet": "",
+          "url": "https://saudigazette.com.sa/article/660176",
+          "source": "Saudi Gazette"
+        },
+        {
+          "title": "Saudi Arabia invests in Makkah transport infrastructure to enhance pilgrimage access",
+          "snippet": "",
+          "url": "https://www.constructionweekonline.com/projects-tenders/makkah-infrastructure-pilgrimage",
+          "source": "Construction Week Online"
+        },
+        {
+          "title": "Makkah set to get its own airport as Saudi Arabia approves plan",
+          "snippet": "",
+          "url": "https://www.siasat.com/makkah-set-to-get-its-own-airport-as-saudi-arabia-approves-plan-3444933/",
+          "source": "The Siasat Daily"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "noor",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 1 Apr 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAyskwkCRPx2LNNYL9P2DyXQ6weBwPWYzQRC-j8Hkx_DsAd4_OPNlBL_9l_D0",
+      "pictureSource": "The Daily Star",
+      "relatedSearch": [
+        {
+          "title": "‘Bonolota Express’ overtakes ‘Domm’ in multiplex shows",
+          "snippet": "",
+          "url": "https://www.thedailystar.net/culture/tv-film/news/bonolota-express-overtakes-domm-multiplex-shows-4141571",
+          "source": "The Daily Star"
+        },
+        {
+          "title": "Daily Sun Report, Dhaka",
+          "snippet": "",
+          "url": "https://www.daily-sun.com/index.php/culturetainment/866240",
+          "source": "www.daily-sun.com"
+        },
+        {
+          "title": "'Banalata Express' Hits 52 Theaters Across North America and Europe",
+          "snippet": "",
+          "url": "https://www.businesstimes-bd.com/entertainment/5200",
+          "source": "https://www.businesstimes-bd.com/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +245,10 @@
           "source": "Pounding The Rock"
         },
         {
-          "title": "Spurs vs Warriors Prediction, Picks & Best Bets for Tonight’s NBA Game",
+          "title": "NBA results: Victor Wembanyama scores 41 as Spurs win 10 in a row",
           "snippet": "",
-          "url": "https://www.covers.com/nba/spurs-vs-warriors-prediction-picks-best-bets-sgp-wednesday-4-1-2026",
-          "source": "Covers.com"
+          "url": "https://www.bbc.com/sport/basketball/articles/c8dl6j3ym05o",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -137,146 +277,6 @@
           "snippet": "",
           "url": "https://www.arrajol.com/content/400496/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D8%AA%D8%B1%D9%82%D9%8B%D8%A8-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%81%D8%B1%D8%B5-1447%D9%87%D9%80-%D8%B9%D8%A8%D8%B1-%D9%86%D8%B8%D8%A7%D9%85-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A",
           "source": "مجلة الرجل"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "سعر الدولار اليوم مقابل الجنيه المصري",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 1 Apr 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoWSUpF0jxDNIXPgBx5EFWvqDzS4kr9nuyd-unbjsWy_8ZW95JPVBD5H7AT2o",
-      "pictureSource": "العربية",
-      "relatedSearch": [
-        {
-          "title": "سعر الدولار في مصر يتراجع فجأة بعد موجة ارتفاعات قياسية",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/aswaq/special-stories/2026/04/01/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D9%81%D8%A7%D8%AC%D8%A6-%D9%84%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9",
-          "source": "العربية"
-        },
-        {
-          "title": "تراجع مفاجئ للدولار أمام الجنيه المصري يربك الأسواق",
-          "snippet": "",
-          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/5257776-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D9%81%D8%A7%D8%AC%D8%A6-%D9%84%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B1%D8%A8%D9%83-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82",
-          "source": "الشرق الأوسط"
-        },
-        {
-          "title": "استقرار سعر الدولار مقابل الجنيه اليوم الأربعاء في البنوك المصرية",
-          "snippet": "",
-          "url": "https://www.alyaum.com/articles/6653576/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D9%85%D8%A7%D9%84-%D9%88%D8%A3%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
-          "source": "صحيفة اليوم السعودية"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "احمد عز",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 1 Apr 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcBBPJupoQCbgi5wFT8gF4pDH9RIt_mtguxynlkfWo-gp6v3_V7CL3K0vVIQ0",
-      "pictureSource": "المصري اليوم",
-      "relatedSearch": [
-        {
-          "title": "توقف تصوير «فرقه الموت» لـ أحمد عز وخروجه من السينمات عام 2026",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4235539",
-          "source": "المصري اليوم"
-        },
-        {
-          "title": "العرض قريبًا.. أحمد عز وأبطال فيلم فرقة الموت ينتهون من تصوير 80% من مشاهدهم بالعمل",
-          "snippet": "",
-          "url": "https://www.cairo24.com/2393960",
-          "source": "القاهرة 24"
-        },
-        {
-          "title": "عمل جديد يشعل المنافسة.. أحمد عز وأمينة خليل في مواجهة درامية",
-          "snippet": "",
-          "url": "https://bisara7a.com/archives/300075",
-          "source": "bisara7a"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "اليوم العالمي للتوحد",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 1 Apr 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaWQzrPx408IAJZcPK1M5hWIvgyCrB5mQ-6cHS9Ybf36iV5zsruXLAgbLABNc",
-      "pictureSource": "الأيام البحرينية",
-      "relatedSearch": [
-        {
-          "title": "رحلة تبدأ بالحيرة.. وتنتهي بالأمل.. أمهات يروين حكاية التوحد من الداخل..",
-          "snippet": "",
-          "url": "https://www.alayam.com/alayam/local/1128551/News.html",
-          "source": "الأيام البحرينية"
-        },
-        {
-          "title": "زيد الخير: قصة ابني المصاب بالتوحد ألهمتني بتأسيس \"المنهج الكندي\"",
-          "snippet": "",
-          "url": "https://www.hespress.com/%D8%B2%D9%8A%D8%AF-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1-%D9%82%D8%B5%D8%A9-%D8%A7%D8%A8%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8-%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D8%AF-%D8%A3%D9%84%D9%87%D9%85-1724348.html",
-          "source": "Hespress"
-        },
-        {
-          "title": "اليوم العالمي للتوحد: تجربة أم كويتية مع ابنها ودروس في الدعم والأمل",
-          "snippet": "",
-          "url": "https://www.sayidaty.net/%D8%A8%D9%84%D8%B3/%D9%82%D8%B5%D8%B5-%D9%85%D9%84%D9%87%D9%85%D8%A9/1831815-%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A3%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%AA%D9%88%D8%AD%D8%AF",
-          "source": "مجلة سيدتي"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "زلزال مصر",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 1 Apr 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8dhnVnTz98xr1yZFfxF3vDu0Pw_xj-JkrDIeAOzE5DeeBLwFw6qZM5XfHvA",
-      "pictureSource": "العربية",
-      "relatedSearch": [
-        {
-          "title": "بقوة 4.9 درجة.. هزة أرضية جديدة تضرب مصر",
-          "snippet": "",
-          "url": "https://www.alarabiya.net/arab-and-world/egypt/2026/04/01/%D8%A8%D9%82%D9%88%D8%A9-49-%D8%AF%D8%B1%D8%AC%D8%A9-%D9%87%D8%B2%D8%A9-%D8%A7%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%85%D8%B5%D8%B1-",
-          "source": "العربية"
-        },
-        {
-          "title": "هزة أرضية بقوة 4.9 ريختر قبالة سواحل مصر بعد أيام من زلزال الغردقة",
-          "snippet": "",
-          "url": "https://sabq.org/article/CVyR2mj",
-          "source": "صحيفة سبق الإلكترونية"
-        },
-        {
-          "title": "زلازل وكوارث طبيعية.. أبرز الأحداث العالمية في الدول",
-          "snippet": "",
-          "url": "https://www.eanlibya.com/%D8%B2%D9%84%D8%A7%D8%B2%D9%84-%D9%88%D9%83%D9%88%D8%A7%D8%B1%D8%AB-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D8%B9%D8%A7/",
-          "source": "عين ليبيا"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "محافظ بدر",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 1 Apr 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3msCXqdvcaeT1-c0CplkVtrzRsCdBmdQ92zQi5MRqHE5dTFnJfPyZXRFFSOI",
-      "pictureSource": "صحيفة سبق الإلكترونية",
-      "relatedSearch": [
-        {
-          "title": "\"أمير المدينة المنورة\" يتفقد منظومة الخدمات المقدمة للأهالي في بدر",
-          "snippet": "",
-          "url": "https://sabq.org/article/fBd2FbD",
-          "source": "صحيفة سبق الإلكترونية"
-        },
-        {
-          "title": "أمير المدينة يستقبل محافظ بدر الجديد - جريدة المدينة",
-          "snippet": "",
-          "url": "https://www.al-madina.com/article/982730/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D8%AF%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
-          "source": "جريدة المدينة"
-        },
-        {
-          "title": "أمير المدينة المنورة يستقبل محافظ بدر ويهنئه بالثقة الكريمة",
-          "snippet": "",
-          "url": "https://al-hadath.com/post/97063",
-          "source": "صحيفة الحدث"
         }
       ],
       "link": "https://imtaqin.id/"
