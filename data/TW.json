@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-04 20:27:33",
+  "lastUpdate": "2026-04-04 20:46:02",
   "data": [
     {
       "title": "馬德里競技 對 巴塞隆納",
@@ -70,20 +70,26 @@
       "title": "新聞",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Apr 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkrjsdYnY7bfvGHFcBXZFMo2tCc425zFXIbcIPMhJIFlnixC-YM08nnyD4-SQ",
-      "pictureSource": "福井新聞社",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiVrNGKofSGZ10AkJ4ji5sbiYaHLDAlrY5XH4-LNbZZ25Lr9-mkA64XF0V4Yc",
+      "pictureSource": "読売新聞オンライン",
       "relatedSearch": [
         {
-          "title": "【越山若水】（４月５日）",
+          "title": "広島：誰でも最初は１年生：地域ニュース",
           "snippet": "",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2569631",
-          "source": "福井新聞社"
+          "url": "https://www.yomiuri.co.jp/local/hiroshima/news/20260404-GYTNT00263/",
+          "source": "読売新聞オンライン"
         },
         {
           "title": "新聞活用の明記要望 新聞協会、次期指導要領で",
           "snippet": "",
           "url": "https://ryukyushimpo.jp/education/entry-5171147.html",
           "source": "琉球新報デジタル"
+        },
+        {
+          "title": "【越山若水】（４月５日）",
+          "snippet": "",
+          "url": "https://www.fukuishimbun.co.jp/articles/-/2569631",
+          "source": "福井新聞社"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -108,10 +114,10 @@
           "source": "Yahoo新聞"
         },
         {
-          "title": "地震速報／01:15花蓮地區地震，預估震度3級",
+          "title": "地震",
           "snippet": "",
-          "url": "https://www.mirrormedia.mg/external/setn_1817897",
-          "source": "鏡週刊Mirror Media"
+          "url": "https://udn.com/weather/quake/031-20260405-011458",
+          "source": "聯合新聞網"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,34 +151,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "台灣地震",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 4 Apr 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLteHQwNcK0wyVe1kNe_ttRNHF3AmrbbTDsqVpCmJQxqz_-iT7nNDX-jvG6-M",
-      "pictureSource": "新浪财经",
-      "relatedSearch": [
-        {
-          "title": "台湾花莲县海域发生5.0级地震 震源深度10千米",
-          "snippet": "",
-          "url": "https://finance.sina.cn/2026-04-05/detail-inhtkkzp2519975.d.html?vt=4&cid=76729&node_id=76729",
-          "source": "新浪财经"
-        },
-        {
-          "title": "台湾花莲县海域发生5.0级地震 震源深度10千米",
-          "snippet": "",
-          "url": "https://m.sohu.com/a/1005514241_123753?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "Sohu"
-        },
-        {
-          "title": "台湾花莲县海域发生5.0级地震 震源深度10千米",
-          "snippet": "",
-          "url": "https://www.chinanews.com.cn/sh/2026/04-05/10598961.shtml",
-          "source": "中国新闻网"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "taiwan earthquake",
       "trafficCount": "2000+",
       "pubDate": "Sat, 4 Apr 2026 10:10:00 -0700",
@@ -201,6 +179,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "台灣地震",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 4 Apr 2026 10:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLteHQwNcK0wyVe1kNe_ttRNHF3AmrbbTDsqVpCmJQxqz_-iT7nNDX-jvG6-M",
+      "pictureSource": "新浪财经",
+      "relatedSearch": [
+        {
+          "title": "台湾花莲县海域发生5.0级地震 震源深度10千米",
+          "snippet": "",
+          "url": "https://finance.sina.cn/2026-04-05/detail-inhtkkzp2519975.d.html?vt=4&cid=76729&node_id=76729",
+          "source": "新浪财经"
+        },
+        {
+          "title": "台灣花蓮縣近海規模5.7地震 最大震度4級",
+          "snippet": "",
+          "url": "https://www.worldjournal.com/wj/story/121475/9422885?zh-cn",
+          "source": "世界新聞網"
+        },
+        {
+          "title": "台湾花莲县海域发生5.0级地震 震源深度10千米",
+          "snippet": "",
+          "url": "https://m.sohu.com/a/1005514241_123753?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "hook",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Apr 2026 09:50:00 -0700",
@@ -220,10 +226,10 @@
           "source": "National Today"
         },
         {
-          "title": "Pam Bondi’s portrait already taken down at Justice Department",
+          "title": "How Pam Bondi lost her job",
           "snippet": "",
-          "url": "https://www.ms.now/news/pam-bondis-portrait-already-taken-down-at-justice-department",
-          "source": "MS NOW"
+          "url": "https://www.cnn.com/2026/04/04/politics/how-pam-bondi-lost-her-job",
+          "source": "CNN"
         }
       ],
       "link": "https://imtaqin.id/"
