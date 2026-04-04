@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-04-04 17:49:56",
+  "lastUpdate": "2026-04-04 18:01:00",
   "data": [
+    {
+      "title": "新聞",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 4 Apr 2026 10:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX6flrgt85VA6owy1warmM4guP7iaW0xge23AE_povCyMCN_tmNfPPFjXMe0o",
+      "pictureSource": "毎日新聞",
+      "relatedSearch": [
+        {
+          "title": "きょうの星占い：5日＝エバ・プリマヴェラ",
+          "snippet": "",
+          "url": "https://mainichi.jp/articles/20260405/ddm/018/200/016000c",
+          "source": "毎日新聞"
+        },
+        {
+          "title": "日本が貧しくなる一方、中国は豊かになった…14億人が「超格差社会」「独裁政治」でも習近平を支持するワケ",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/4aafed7ba9a349662807e9b34758673e78a226cc",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "「新型文革」に向かう中国 高市首相はどう臨むのか",
+          "snippet": "",
+          "url": "https://www.nikkei.com/article/DGXZQODK2777N0X20C26A3000000/",
+          "source": "日本経済新聞"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "台湾 地震",
       "trafficCount": "200+",
       "pubDate": "Sat, 4 Apr 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDdZG0egtup0bddXJQO-w74_MvcVnY89ZexiA3GL9hp7njR3Zdv2fJvrfL-uQ",
-      "pictureSource": "TVBS新聞網",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5psAkLYEQpZ2KmoERvyKDO4KW3n4e7i2emrWtC5p1YbQJbyg7QqdacD3Ydr4",
+      "pictureSource": "Sohu",
       "relatedSearch": [
+        {
+          "title": "台湾花莲县海域发生5.0级地震 震源深度10千米",
+          "snippet": "",
+          "url": "https://m.sohu.com/a/1005514241_123753?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
+        },
+        {
+          "title": "台湾花莲县海域发生5.0级地震 震源深度10千米",
+          "snippet": "",
+          "url": "https://www.chinanews.com.cn/sh/2026/04-05/10598961.shtml",
+          "source": "中国新闻网"
+        },
         {
           "title": "印尼7.4地震！專家示警「1事」不尋常：恐爆規模8強震",
           "snippet": "",
           "url": "https://news.tvbs.com.tw/life/3168774",
           "source": "TVBS新聞網"
-        },
-        {
-          "title": "全球今年4起規模逾7強震 專家指均在澳洲板塊北邊",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%85%A8%E7%90%83%E4%BB%8A%E5%B9%B44%E8%B5%B7%E8%A6%8F%E6%A8%A1%E9%80%BE7%E5%BC%B7%E9%9C%87-%E5%B0%88%E5%AE%B6%E6%8C%87%E5%9D%87%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%9D%BF%E5%A1%8A%E5%8C%97%E9%82%8A-120904901.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "全球今年4起規模逾7強震 專家指均在澳洲板塊北邊｜20260402 公視晚間新聞",
-          "snippet": "",
-          "url": "https://news.pts.org.tw/video/17909",
-          "source": "公視新聞網PNN"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,15 +89,9 @@
       "title": "中央",
       "trafficCount": "100+",
       "pubDate": "Sat, 4 Apr 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwSGttGt9GI_nQ8aSWFGDPoF7pXCviLLyv2YIY8xc_MzydyDyl2dqxocFIXZQ",
-      "pictureSource": "上報Up Media",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9FUzKdklMuOw2-pn6asWsNos5AcIQpRQK1sVnm7fftX7uRybsCn3j1TlKx2g",
+      "pictureSource": "MSN",
       "relatedSearch": [
-        {
-          "title": "【內幕】民進黨中央守南二都樂觀 地方仍有隱憂",
-          "snippet": "",
-          "url": "https://www.upmedia.mg/tw/investigation/politics/255556",
-          "source": "上報Up Media"
-        },
         {
           "title": "高雄有望變天? 吳子嘉爆柯志恩「1致命傷」",
           "snippet": "",
@@ -81,34 +103,40 @@
           "snippet": "",
           "url": "https://www.chinatimes.com/realtimenews/20260402004342-260407",
           "source": "中時新聞網"
+        },
+        {
+          "title": "高雄起風了？吳子嘉驚爆賴瑞隆致命缺點：柯志恩有機會勝選",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%B5%B7%E9%A2%A8%E4%BA%86-%E5%90%B3%E5%AD%90%E5%98%89%E9%A9%9A%E7%88%86%E8%B3%B4%E7%91%9E%E9%9A%86%E8%87%B4%E5%91%BD%E7%BC%BA%E9%BB%9E-%E6%9F%AF%E5%BF%97%E6%81%A9%E6%9C%89%E6%A9%9F%E6%9C%83%E5%8B%9D%E9%81%B8-004206123.html",
+          "source": "Yahoo新聞"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "地震",
-      "trafficCount": "50000+",
+      "trafficCount": "100000+",
       "pubDate": "Sat, 4 Apr 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMSvkqM1X3SXU6OgrxTNJ-8buimsqDMFDLvJGfXPtAHR6zDHRpoi0Z81jLPnk",
-      "pictureSource": "Yahoo新聞",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGEiRSi9_i9HuMFaH3O94m1KH_EzS2UtsiOo8X6_01lZ642gjhCLmWoSVnjCQ",
+      "pictureSource": "民視新聞網",
       "relatedSearch": [
         {
-          "title": "地震速報／01:14花蓮地區地震，預估震度3級",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1-01-14%E8%8A%B1%E8%93%AE%E5%9C%B0%E5%8D%80%E5%9C%B0%E9%9C%87-%E9%A0%90%E4%BC%B0%E9%9C%87%E5%BA%A63%E7%B4%9A-172025050.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "最新／深夜晃一下！01:14花蓮規模5.6地震 初估最大震度3級",
+          "title": "最新／深夜好晃！01:14花蓮近海規模5.7地震 最大震度4級",
           "snippet": "",
           "url": "https://www.ftvnews.com.tw/news/detail/2026405W0004",
           "source": "民視新聞網"
         },
         {
-          "title": "快訊》01:14花蓮縣近海發生規模5.7有感地震 3縣市有感 最大震度4級",
+          "title": "地震速報！ 04/05 01:15左右 花蓮地區發生有感地震",
           "snippet": "",
-          "url": "https://newtalk.tw/news/view/2026-04-05/1028116",
-          "source": "Newtalk新聞"
+          "url": "https://news.ebc.net.tw/news/living/545371",
+          "source": "東森新聞"
+        },
+        {
+          "title": "花蓮縣近海規模5.7地震 最大震度4級",
+          "snippet": "",
+          "url": "https://www.cna.com.tw/news/ahel/202604050002.aspx",
+          "source": "中央社 CNA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,113 +198,73 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "chelsea vs port vale",
+      "title": "taiwan earthquake",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 4 Apr 2026 10:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaq44KiXN01YSqaseyF25AW4_4uMHkeoqBHutQD4FUpsxYo-wDX0CKqLFTExg",
+      "pictureSource": "The Yucatan Times",
+      "relatedSearch": [
+        {
+          "title": "Global Earthquake News Resonates in Mexico",
+          "snippet": "",
+          "url": "https://theyucatantimes.com/2026/04/global-earthquake-news-resonates-in-mexico/",
+          "source": "The Yucatan Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "earthquake taiwan",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 4 Apr 2026 10:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToiDcEYd4uAFDJYthtLwLVkKuVj17rvIrTxE_XXuslzDmQpu0ozW8a4zB6VVc",
+      "pictureSource": "Focus Taiwan",
+      "relatedSearch": [
+        {
+          "title": "Magnitude 5.7 earthquake shakes eastern Taiwan",
+          "snippet": "",
+          "url": "https://focustaiwan.tw/society/202604050001",
+          "source": "Focus Taiwan"
+        },
+        {
+          "title": "Seismic Stir: Earthquake Shakes Hualien City, Taiwan",
+          "snippet": "",
+          "url": "https://www.devdiscourse.com/article/headlines/3862663-seismic-stir-earthquake-shakes-hualien-city-taiwan",
+          "source": "Devdiscourse"
+        },
+        {
+          "title": "Rare quake occurs deep under mountains of Pingtung",
+          "snippet": "",
+          "url": "https://www.taiwannews.com.tw/news/6330316",
+          "source": "Taiwan News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hook",
       "trafficCount": "100+",
       "pubDate": "Sat, 4 Apr 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQileoZNtGfVwfypmtT5yM_eN5ncnitJf_XDkMcNUwOnZ1tRca16Z1w4ZFVU4M",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRodcHNaz2a00X1a26NhH9KWCkhKIqj-nho-UWxe3stkmV290ZBLvZRljSSfDs",
+      "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "FA Cup quarter-final LIVE: Chelsea vs Port Vale - score, TV coverage, radio commentary, text updates & match stats",
+          "title": "Nike is the most oversold stock on Wall Street after a wild week of trading",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/clyew9r7jdet",
-          "source": "BBC"
+          "url": "https://www.cnbc.com/2026/04/04/nike-is-the-most-oversold-stock-on-wall-street-after-a-wild-week-of-trading.html",
+          "source": "CNBC"
         },
         {
-          "title": "Confirmed Chelsea XI to face Port Vale as Liam Rosenior goes strong for the FA Cup",
+          "title": "Jim Cramer on Venture Global: “I Think It Can Go Much Higher”",
           "snippet": "",
-          "url": "https://www.thechelseachronicle.com/news/confirmed-chelsea-xi-to-face-port-vale-as-liam-rosenior-goes-strong/",
-          "source": "The Chelsea Chronicle"
+          "url": "https://sg.finance.yahoo.com/news/jim-cramer-venture-global-think-163609732.html",
+          "source": "Yahoo Finance Singapore"
         },
         {
-          "title": "Chelsea take control as Hato and Joao Pedro fire Blues past Port Vale",
+          "title": "Thursday, April 2, 2026: Cramer says his instinct is to buy this energy stock after a recent selloff",
           "snippet": "",
-          "url": "https://www.besoccer.com/new/chelsea-take-control-as-hato-and-joao-pedro-fire-blues-past-port-vale-1402666",
-          "source": "BeSoccer Livescore"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mallorca vs real madrid",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 4 Apr 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-guVkxQmcVhcwIvvpOfzafV8BjiKjjSD4mFhnsIrWUABuObyDZUNE7aVmOk",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Mallorca 2-1 Real Madrid: resumen, goles y resultado",
-          "snippet": "",
-          "url": "https://as.com/futbol/primera/mallorca-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202604-d/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "RCD Mallorca - Real Madrid: resultado, resumen y goles del partido de LALIGA EA Sports",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/laliga-ea-sports/mallorca-r-madrid/2026/04/04/01_0101_20260404_181_186-directo.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "El cuadro dirigido por Martín Demichelis salió de los puestos de descenso",
-          "snippet": "",
-          "url": "https://fdpradio.com/el-cuadro-dirigido-por-martin-demichelis-salio-de-los-puestos-de-descenso/",
-          "source": "FDP Radio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "西甲",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 4 Apr 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7Bqh0oO3K0div_yTtGPu_tNVLNr1Og3vS8NELbSJUsKCyFBl0fphYAiJ56JE",
-      "pictureSource": "手机新浪网",
-      "relatedSearch": [
-        {
-          "title": "爆冷！马略卡半场1-0领先皇马，争冠之路再添悬念",
-          "snippet": "",
-          "url": "https://sports.sina.cn/2026-04-04/detail-inhtketr2613570.d.html?vt=4",
-          "source": "手机新浪网"
-        },
-        {
-          "title": "德米凯利斯督战主场 能否击败豪强",
-          "snippet": "",
-          "url": "https://m.sohu.com/a/1005443078_122354598?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "Sohu"
-        },
-        {
-          "title": "皇家马德里进入一个不能犯错误的决定期",
-          "snippet": "",
-          "url": "https://voi.id/zh/sports-zh/568025",
-          "source": "VOI.id"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "陳天仁",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 4 Apr 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnK2NiqEqrtBUeS-5m7k-AaFcril-T02VNVR9nDQ3DGC0pj9h31bNUMYWFehc",
-      "pictureSource": "LINE TODAY",
-      "relatedSearch": [
-        {
-          "title": "討論牆 | 陳天仁曾心死「不想再結婚」 曝點頭再婚日尪原因：全方位加分",
-          "snippet": "",
-          "url": "https://today.line.me/tw/v3/posts/list/article/zNw0mz5",
-          "source": "LINE TODAY"
-        },
-        {
-          "title": "陳天仁曾心死「不想再結婚」　曝點頭再婚日尪原因：全方位加分",
-          "snippet": "",
-          "url": "https://star.ettoday.net/news/3143981",
-          "source": "ETtoday星光雲| ETtoday新聞雲"
-        },
-        {
-          "title": "陳天仁跨國婚姻卡關！日本尪「少做1關鍵」當場被拒絕",
-          "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E9%99%B3%E5%A4%A9%E4%BB%81%E8%B7%A8%E5%9C%8B%E5%A9%9A%E5%A7%BB%E5%8D%A1%E9%97%9C-%E6%97%A5%E6%9C%AC%E5%B0%AA-%E5%B0%91%E5%81%9A1%E9%97%9C%E9%8D%B5-%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8B%92%E7%B5%95-142100638.html",
-          "source": "Yahoo新聞"
+          "url": "https://www.cnbc.com/video/2026/04/02/thursday-april-2-2026-cramer-says-his-instinct-is-to-buy-this-energy-stock-after-a-recent-selloff.html",
+          "source": "CNBC"
         }
       ],
       "link": "https://imtaqin.id/"
