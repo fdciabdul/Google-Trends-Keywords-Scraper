@@ -1,282 +1,263 @@
 {
-  "lastUpdate": "2026-04-06 03:48:03",
+  "lastUpdate": "2026-04-06 04:48:35",
   "data": [
     {
-      "title": "petrolimex điều chỉnh giá xăng dầu",
+      "title": "hôm nay là ngày gì",
       "trafficCount": "200+",
-      "pubDate": "Sun, 5 Apr 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQmACoFLj6htDN9aWwAVZ9uzTcIGI0TFLDUay6crtyRH1RHOJvhL3n9vksTw",
+      "pubDate": "Sun, 5 Apr 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AEOagVE1rKB44lAL8iRQq8-2ySumxRDEiVKb8kAxQ2AHzCA5RTqfJ9RykHg",
+      "pictureSource": "Báo VietNamNet",
+      "relatedSearch": [
+        {
+          "title": "Cách cúng tết Thanh minh năm 2026 chi tiết, đầy đủ theo truyền thống",
+          "snippet": "",
+          "url": "https://vietnamnet.vn/cach-cung-tet-thanh-minh-nam-2026-chi-tiet-day-du-theo-truyen-thong-2502883.html",
+          "source": "Báo VietNamNet"
+        },
+        {
+          "title": "Hơn 3.000 người tham dự Đại lễ tưởng niệm tại Hoa viên Nghĩa trang Bình Dương",
+          "snippet": "",
+          "url": "https://www.sggp.org.vn/hon-3000-nguoi-tham-du-dai-le-tuong-niem-tai-hoa-vien-nghia-trang-binh-duong-post846530.html",
+          "source": "BÁO SÀI GÒN GIẢI PHÓNG"
+        },
+        {
+          "title": "Hơn 3.000 người dân TP.HCM tham gia đại lễ cầu siêu, cầu an tiết thanh minh",
+          "snippet": "",
+          "url": "https://thanhnien.vn/hon-3000-nguoi-dan-tphcm-tham-gia-dai-le-cau-sieu-cau-an-tiet-thanh-minh-185260405182335668.htm",
+          "source": "Báo Thanh Niên"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "thị trường chứng khoán",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Apr 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqOyql2C7q_XLWDkGDz74VbOyBr9LAr-x5Fv37zHIjpIAmXbCVjsg9fo0YnRM",
+      "pictureSource": "baotintuc.vn",
+      "relatedSearch": [
+        {
+          "title": "Bất ổn tại Trung Đông tiếp tục chi phối các thị trường chứng khoán châu Á",
+          "snippet": "",
+          "url": "https://baotintuc.vn/thi-truong-tien-te/bat-on-tai-trung-dong-tiep-tuc-chi-phoi-cac-thi-truong-chung-khoan-chau-a-20260406110903391.htm",
+          "source": "baotintuc.vn"
+        },
+        {
+          "title": "Cổ phiếu châu Á: Hàn Quốc, Nhật Bản tăng nhờ công nghệ; chờ dữ liệu việc làm Mỹ",
+          "snippet": "",
+          "url": "https://vn.investing.com/news/stock-market-news/co-phieu-chau-a-han-quoc-nhat-ban-tang-nho-cong-nghe-cho-du-lieu-viec-lam-my-2578589",
+          "source": "Investing.com Việt Nam"
+        },
+        {
+          "title": "Chứng khoán Nhật Bản phục hồi nhờ lực kéo từ Phố Wall",
+          "snippet": "",
+          "url": "https://bnews.vn/chung-khoan-nhat-ban-phuc-hoi-nho-luc-keo-tu-pho-wall/416136.html",
+          "source": "Bnews.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "xe tải",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 5 Apr 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnaEnEmYQ9qXldDOeT_ZUuGIjqHPhlHkMblKV_NC3GxWTIBcfcrKAvqXQtIyM",
+      "pictureSource": "Tin tức 24h",
+      "relatedSearch": [
+        {
+          "title": "Tài xế dừng xe giữa quốc lộ cứu bé gái, CSGT lên tiếng",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/tai-xe-dung-xe-giua-quoc-lo-cuu-be-gai-csgt-len-tieng-c46a1750914.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Tài xế cứu bé gái 1 tuổi giữa quốc lộ nhận mưa lời khen về kỹ năng nghề",
+          "snippet": "",
+          "url": "https://dantri.com.vn/lao-dong-viec-lam/tai-xe-cuu-be-gai-1-tuoi-giua-quoc-lo-nhan-mua-loi-khen-ve-ky-nang-nghe-20260405194855317.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Cảm phục tài xế nhanh trí cứu bé gái hơn 1 tuổi lững thững băng qua quốc lộ",
+          "snippet": "",
+          "url": "https://tuoitre.vn/cam-phuc-tai-xe-nhanh-tri-cuu-be-gai-hon-1-tuoi-lung-thung-bang-qua-quoc-lo-20260406090115884.htm",
+          "source": "Tuổi Trẻ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hòa minzy",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Apr 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVdF0xwGcnSqOO-9zeDkeVUpbr_lizGLU5Cj7CKmW4OpywTlRkn4fjG-J6gww",
+      "pictureSource": "Tin tức 24h",
+      "relatedSearch": [
+        {
+          "title": "Ca sĩ Phương Linh lên tiếng về thông tin sai liên quan tới Hòa Minzy",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/giai-tri/ca-si-phuong-linh-len-tieng-ve-thong-tin-sai-lien-quan-toi-hoa-minzy-c731a1750792.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Phương Linh đính chính thông tin sai lệch về Hòa Minzy",
+          "snippet": "",
+          "url": "https://www.saostar.vn/am-nhac/phuong-linh-dinh-chinh-thong-tin-sai-lech-ve-hoa-minzy-202604031721396851.html",
+          "source": "Tạp chí Saostar"
+        },
+        {
+          "title": "Ca sĩ Phương Linh phủ nhận danh xưng \"cô giáo Hòa Minzy\" sau khi loạt clip dạy hát gây bão mạng",
+          "snippet": "",
+          "url": "https://docnhanh.vn/giai-tri/ca-si-phuong-linh-phu-nhan-danh-xung-co-giao-hoa-minzy-sau-khi-loat-clip-day-hat-gay-bao-mang-tintuc1034926",
+          "source": "Docnhanh.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "phạm minh chính",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Apr 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwt6Ca7hHcYrd0Q1Tc77Xtop-8_l1YT3FUjVFXcMM8E1flqodfKI8mm_CLTLA",
+      "pictureSource": "Báo Dân trí",
+      "relatedSearch": [
+        {
+          "title": "Lời cảm ơn của Thủ tướng Phạm Minh Chính sau hành trình 5 năm của nhiệm kỳ",
+          "snippet": "",
+          "url": "https://dantri.com.vn/thoi-su/loi-cam-on-cua-thu-tuong-pham-minh-chinh-sau-hanh-trinh-5-nam-cua-nhiem-ky-20260404134351534.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Nghị quyết phiên họp Chính phủ thường kỳ tháng 3/2026 và Hội nghị Chính phủ với địa phương",
+          "snippet": "",
+          "url": "https://www.nghean.gov.vn/chinh-tri/nghi-quyet-phien-hop-chinh-phu-thuong-ky-thang-3-2026-va-hoi-nghi-chinh-phu-voi-dia-phuong-1008808",
+          "source": "Cổng thông tin điện tử Nghệ An"
+        },
+        {
+          "title": "Thủ tướng yêu cầu 'hạ nhiệt' lãi suất ngân hàng",
+          "snippet": "",
+          "url": "https://tienphong.vn/thu-tuong-yeu-cau-ha-nhiet-lai-suat-ngan-hang-post1833035.tpo",
+          "source": "Báo điện tử Tiền Phong"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gsw",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Apr 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6WUhmjaxDTcP0qRRyFQen8MUv6-8mnEZ7bL4fMEUNkSsc2fj_XA764OVwdpo",
+      "pictureSource": "AOL.com",
+      "relatedSearch": [
+        {
+          "title": "Tonight's Rockets-Warriors Game Reminds Us of the KD/Steph Dynasty That Could Have Been",
+          "snippet": "",
+          "url": "https://www.aol.com/articles/tonights-rockets-warriors-game-reminds-110202450.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "NBA Best Bets: Rockets vs. Warriors Best Prop Bets for Sunday 4/5/26",
+          "snippet": "",
+          "url": "https://dknetwork.draftkings.com/2026/04/05/nba-best-bets-rockets-vs-warriors-best-prop-bets-for-sunday-4-5-26/",
+          "source": "DraftKings Network"
+        },
+        {
+          "title": "BetMGM Bonus Code COVERS50: Get $1.5K First Bet Bonus for Rockets-Warriors, Sunday NBA Games",
+          "snippet": "",
+          "url": "https://www.covers.com/daily-promos/betmgm-bonus-code-nba-rockets-warriors-4-5-2026-8-pm",
+          "source": "Covers.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cà phê",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Apr 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBJ-C2MLFCS96cc-ohOVe-hZmRjqfIiSJoOIb99mca8ILOgAz4uNm5st8IccQ",
       "pictureSource": "Laodong.vn",
       "relatedSearch": [
         {
-          "title": "Kinh tế 24h: Giá xăng dầu biến động, mức chiết khấu xăng dầu trong nước có sự phân hóa",
+          "title": "Giá cà phê hôm nay 5.4: Áp lực dư cung kỷ lục, thị trường nội địa lùi sâu",
           "snippet": "",
-          "url": "https://laodong.vn/kinh-doanh/kinh-te-24h-gia-xang-dau-bien-dong-muc-chiet-khau-xang-dau-trong-nuoc-co-su-phan-hoa-1680549.ldo",
+          "url": "https://laodong.vn/thi-truong/gia-ca-phe-hom-nay-54-ap-luc-du-cung-ky-luc-thi-truong-noi-dia-lui-sau-1680406.ldo",
           "source": "Laodong.vn"
         },
         {
-          "title": "Giá xăng dầu hôm nay (6-4): Dự kiến tiếp tục tăng",
+          "title": "Giá cà phê hôm nay 6/4/2026: Tây Nguyên giữ mức 89.300 đồng",
           "snippet": "",
-          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-6-4-du-kien-tiep-tuc-tang-1033666",
-          "source": "Báo Quân đội nhân dân"
-        },
-        {
-          "title": "Giá xăng dầu hôm nay 6/4: Bảng giá xăng dầu Petrolimex, PVOIL, Mipec, Thalexim",
-          "snippet": "",
-          "url": "https://baonghean.vn/gia-xang-dau-hom-nay-6-4-bang-gia-xang-dau-petrolimex-pvoil-mipec-thalexim-10331461.html",
+          "url": "https://baonghean.vn/gia-ca-phe-hom-nay-6-4-2026-tay-nguyen-giu-muc-89-300-dong-10331624.html",
           "source": "baonghean.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "xe chạy điện",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 5 Apr 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfS2GYRHkVvMpEZ7OBz7Nrh9dOc0W6hBaut6LWZt3PEu9rJ2t2FnppJG3JV1c",
-      "pictureSource": "GenK.vn",
-      "relatedSearch": [
-        {
-          "title": "Ô tô điện sắp ra mắt Việt Nam: Tháo pin như xe máy, rẻ hơn Honda SH",
-          "snippet": "",
-          "url": "https://genk.vn/o-to-dien-sap-ra-mat-viet-nam-thao-pin-nhu-xe-may-re-hon-honda-sh-165260406072636895.chn",
-          "source": "GenK.vn"
         },
         {
-          "title": "Lên 4 bánh vẫn nhẹ gánh, tài xế mạnh dạn xuống tiền với Minio Green",
+          "title": "Giá cà phê hôm nay 6/4: Giá cà phê Robusta và Arabia đồng loạt giảm",
           "snippet": "",
-          "url": "https://www.24h.com.vn/tin-tuc-o-to/len-4-banh-van-nhe-ganh-tai-xe-manh-dan-xuong-tien-voi-minio-green-c332a1750548.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Điểm danh ô tô điện rẻ nhất Việt Nam: Cầm từ 200 triệu xuống tiền mua xe gì?",
-          "snippet": "",
-          "url": "https://nguoiquansat.vn/diem-danh-o-to-dien-re-nhat-viet-nam-cam-tu-200-trieu-xuong-tien-mua-xe-gi-284088.html",
-          "source": "nguoiquansat.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "oatside",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 5 Apr 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJWvoWY5lXCE3Kg4dh_plDUgBj5hkFVheeF-KKi3U5IOuXcJfopmOcuAsqT0s",
-      "pictureSource": "Báo VietNamNet",
-      "relatedSearch": [
-        {
-          "title": "Hãng sữa mới vào Việt Nam phải xin lỗi vì 'tuyển dụng kiểu lạ lùng'",
-          "snippet": "",
-          "url": "https://vietnamnet.vn/hang-sua-tuyen-dung-cot-nha-khien-cong-dong-mang-day-song-2503686.html",
-          "source": "Báo VietNamNet"
-        },
-        {
-          "title": "Cú lừa tuyển dụng ở Việt Nam khiến hãng sữa Singapore 'lãnh đủ'",
-          "snippet": "",
-          "url": "https://znews.vn/cu-lua-tuyen-dung-o-viet-nam-khien-hang-sua-singapore-lanh-du-post1640961.html",
-          "source": "Znews"
-        },
-        {
-          "title": "Công ty gây tranh cãi với “giám đốc 4 tuổi” trong chiến dịch tuyển dụng",
-          "snippet": "",
-          "url": "https://dantri.com.vn/lao-dong-viec-lam/cong-ty-gay-tranh-cai-voi-giam-doc-4-tuoi-trong-chien-dich-tuyen-dung-20260405235938030.htm",
-          "source": "Báo Dân trí"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "evn",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 5 Apr 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY3vnx9xTPHpWaqVnULL5SoiUBFl7s47FQlZwQTlw6Y0nxEiLvAsxtM7pC32E",
-      "pictureSource": "SOHA",
-      "relatedSearch": [
-        {
-          "title": "Nhiều dự án lưới điện vướng mặt bằng",
-          "snippet": "",
-          "url": "https://soha.vn/nhieu-du-an-luoi-dien-vuong-mat-bang-198260404102002482.htm",
-          "source": "SOHA"
-        },
-        {
-          "title": "Các ‘ông lớn’ ngành năng lượng bắt tay cung ứng LNG cho trung tâm điện lực",
-          "snippet": "",
-          "url": "https://soha.vn/cac-ong-lon-nganh-nang-luong-bat-tay-cung-ung-lng-cho-trung-tam-dien-luc-198260405061729887.htm",
-          "source": "SOHA"
-        },
-        {
-          "title": "EVN ký hợp đồng mua bán điện cho dự án Nhà máy điện LNG Hiệp Phước",
-          "snippet": "",
-          "url": "https://chuyendongthitruong.vn/evn-ky-hop-dong-mua-ban-dien-cho-du-an-nha-may-dien-lng-hiep-phuoc-307924.html",
-          "source": "Chuyển động Thị trường"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bảo hiểm",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 5 Apr 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCRyfbybbffZz0MLbp51CyG_4Rz9fIYM7NBEJbWXAX-P7u1AMZ4lHUH4fTmSw",
-      "pictureSource": "Tuổi Trẻ",
-      "relatedSearch": [
-        {
-          "title": "Cổ phiếu Bảo hiểm Bảo Minh vào diện cảnh báo, nguyên nhân xuất phát từ nhân viên gian lận 156 tỉ",
-          "snippet": "",
-          "url": "https://tuoitre.vn/co-phieu-bao-hiem-bao-minh-vao-dien-canh-bao-nguyen-nhan-xuat-phat-tu-nhan-vien-gian-lan-156-ti-20260405222651901.htm",
-          "source": "Tuổi Trẻ"
-        },
-        {
-          "title": "Cổ phiếu BMI của Tổng Công ty Bảo Minh vào diện cảnh báo từ ngày 10/4/2026",
-          "snippet": "",
-          "url": "https://antt.nguoiduatin.vn/co-phieu-bmi-cua-tong-cong-ty-bao-minh-vao-dien-canh-bao-tu-ngay-10-4-2026-205260405153436957.htm",
-          "source": "An ninh Tiền tệ"
-        },
-        {
-          "title": "Nhân viên gian lận số tiền 156 tỷ, một công ty bảo hiểm gửi đơn tố giác tới công an",
-          "snippet": "",
-          "url": "https://nguoiquansat.vn/nhan-vien-gian-lan-so-tien-156-ty-mot-cong-ty-bao-hiem-gui-don-to-giac-toi-cong-an-283815.html",
-          "source": "nguoiquansat.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gemi",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 5 Apr 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQsxjPXN_PwDYXz9jsQ_857kK0M3Dph49Ue9JIHylPyJY8jnKXdGI3RWiNEEQ",
-      "pictureSource": "www.canakkalekalem.com",
-      "relatedSearch": [
-        {
-          "title": "Çanakkale Boğazı’nda Dev Tanker Alarmı! 274 Metrelik Gemi Köprü Önünde Arıza Yaptı… O Anlarda Neler Yaşandı?",
-          "snippet": "",
-          "url": "https://www.canakkalekalem.com/canakkale-bogazinda-dev-tanker-alarmi-274-metrelik-gemi-kopru-onunde-ariza-yapti-o-anlarda-neler-yasandi/163491",
-          "source": "www.canakkalekalem.com"
-        },
-        {
-          "title": "Çanakkale Boğazı’nda makine arızası yapan tanker kamerada | Video videosunu izle | Son Dakika Haberleri",
-          "snippet": "",
-          "url": "https://www.sabah.com.tr/video/yasam/canakkale-bogazinda-makine-arizasi-yapan-tanker-kamerada-video",
-          "source": "Sabah"
-        },
-        {
-          "title": "1915 Çanakkale Köprüsü'nde yüzen tehlike önlendi: Arızalı tanker güvenli alana çekildi",
-          "snippet": "",
-          "url": "https://www.alparslandiyari.com/haber/1915-canakkale-koprusu-nde-yuzen-tehlike-onlendi-arizali-tanker-guvenli-alana-cekildi_52148/",
-          "source": "Alparslan Diyarı"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "khí thải",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 5 Apr 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8wiguRQd50gMr0BvJVX6C7x1Vp8sSPT3dj-0u5ma7rGVPd0YHYgGEziQT0Bo",
-      "pictureSource": "Báo VietNamNet",
-      "relatedSearch": [
-        {
-          "title": "Đăng kiểm khí thải ôtô 'đạp hết ga' có phản ánh đúng thực tế vận hành?",
-          "snippet": "",
-          "url": "https://vietnamnet.vn/dang-kiem-khi-thai-oto-dap-het-ga-co-phan-anh-dung-thuc-te-van-hanh-2503552.html",
-          "source": "Báo VietNamNet"
-        },
-        {
-          "title": "Đạp hết ga khi đăng kiểm: Bất đồng giữa Hiệp hội vận tải và cơ quan đăng kiểm",
-          "snippet": "",
-          "url": "https://vov.vn/xa-hoi/dap-het-ga-khi-dang-kiem-bat-dong-giua-hiep-hoi-van-tai-va-co-quan-dang-kiem-post1281578.vov",
+          "url": "https://vov.vn/thi-truong/gia-ca-phe-hom-nay-64-gia-ca-phe-robusta-va-arabia-dong-loat-giam-post1281459.vov",
           "source": "VOV"
-        },
-        {
-          "title": "Cho rằng chưa thỏa đáng, Hiệp hội đề nghị xem xét lại quy định 'đạp hết chân ga' khi đăng kiểm",
-          "snippet": "",
-          "url": "https://plo.vn/cho-rang-chua-thoa-dang-hiep-hoi-de-nghi-xem-xet-lai-quy-dinh-dap-het-chan-ga-khi-dang-kiem-post902727.html",
-          "source": "Báo Pháp Luật TP. Hồ Chí Minh"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "etax",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 5 Apr 2026 19:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQziRQhjLhWGapCTvuL-56OqAuMMZ1vgeeZPMdvaOelS09RF6vbwFVHTsj6zNk",
-      "pictureSource": "Báo điện tử Tiền Phong",
-      "relatedSearch": [
-        {
-          "title": "NHỊP SỐNG 24: Có thể tự quyết toán thuế thu nhập cá nhân trên điện thoại",
-          "snippet": "",
-          "url": "https://tienphong.vn/nhip-song-24-co-the-tu-quyet-toan-thue-thu-nhap-ca-nhan-tren-dien-thoai-post1832727.tpo",
-          "source": "Báo điện tử Tiền Phong"
-        },
-        {
-          "title": "Người nộp thuế được hướng dẫn trực tiếp quyết toán TNCN từ 1/4",
-          "snippet": "",
-          "url": "https://doanhnhan.congly.vn/nguoi-nop-thue-duoc-huong-dan-truc-tiep-quyet-toan-tncn-tu-1-4.html",
-          "source": "congly.vn"
-        },
-        {
-          "title": "Tổng lực \"cầm tay chỉ việc\" trong tháng cao điểm quyết toán thuế",
-          "snippet": "",
-          "url": "https://htv.vn/tong-luc-cam-tay-chi-viec-trong-thang-cao-diem-quyet-toan-thue-222260402101527982.htm",
-          "source": "Đài Phát thanh và Truyền hình TP.HCM"
-        }
-      ],
+      "title": "lao động",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Apr 2026 21:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "giá xăng hôm nay 6/4",
-      "trafficCount": "10000+",
-      "pubDate": "Sun, 5 Apr 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZHwyaJMsvG8HHbVkDvBY1rsH5Y5UFzxi0hfdteuK40oxkbWEG5ti1mEay6FM",
-      "pictureSource": "VnExpress",
+      "title": "tàu",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 5 Apr 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtkzEf__e1TSz0H5IO6SR1PspRavW8l4Ghn48ZMSzFnzqTBS-XBF9eIiUwh8A",
+      "pictureSource": "Báo Người Lao Động",
       "relatedSearch": [
         {
-          "title": "Giá vàng được dự báo đi ngang tuần này",
+          "title": "Tàu Kiểm ngư 475 cứu 36 ngư dân gặp nạn trên vùng biển Trường Sa",
           "snippet": "",
-          "url": "https://vnexpress.net/gia-vang-duoc-du-bao-di-ngang-tuan-nay-5058853.html",
-          "source": "VnExpress"
-        },
-        {
-          "title": "Giá vàng hôm nay 6-4: Vừa mở cửa, vàng, bạc đã rớt nhanh",
-          "snippet": "",
-          "url": "https://nld.com.vn/gia-vang-hom-nay-6-4-vua-mo-cua-vang-bac-da-rot-nhanh-196260406074248136.htm",
+          "url": "https://nld.com.vn/tau-kiem-ngu-475-cuu-36-ngu-dan-gap-nan-tren-vung-bien-truong-sa-196260406080442836.htm",
           "source": "Báo Người Lao Động"
         },
         {
-          "title": "Giá vàng hôm nay 6/4: Quay đầu đi xuống",
+          "title": "Kịp thời cứu kéo tàu cá Quảng Ngãi cùng 36 ngư dân gặp nạn trên biển",
           "snippet": "",
-          "url": "https://www.24h.com.vn/kinh-doanh/gia-vang-hom-nay-6-4-quay-dau-di-xuong-c161a1750918.html",
-          "source": "Tin tức 24h"
+          "url": "https://chinhsachcuocsong.vnanet.vn/kip-thoi-cuu-keo-tau-ca-quang-ngai-cung-36-ngu-dan-gap-nan-tren-bien/83949.html",
+          "source": "chinhsachcuocsong.vnanet.vn"
+        },
+        {
+          "title": "Cứu kịp thời tàu cá cùng 36 ngư dân gặp nạn trên biển đặc khu Trường Sa",
+          "snippet": "",
+          "url": "https://vtv.vn/cuu-kip-thoi-tau-ca-cung-36-ngu-dan-gap-nan-tren-bien-dac-khu-truong-sa-10026040610310112.htm",
+          "source": "VTV.vn"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "vtv1",
-      "trafficCount": "10000+",
-      "pubDate": "Sun, 5 Apr 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9A7yfTMFmIqH6WzLnvZcxeRJbIufT4iDTdJBZ2tMBkYKQue7AmUPAozFXfOc",
-      "pictureSource": "Báo VietNamNet",
+      "title": "stephen curry",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 5 Apr 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNa6DT-OqV3yPyBDSnOqQvgbeANKS3-PSYYZ_hBq-P0G1F_Nvyl0he29aTNu0",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Lãnh đạo Đảng, Nhà nước và đại biểu Quốc hội vào Lăng viếng Chủ tịch Hồ Chí Minh",
+          "title": "Warriors' Curry details his 'new normal' after 'unpredictable' knee rehab",
           "snippet": "",
-          "url": "https://vietnamnet.vn/lanh-dao-dang-nha-nuoc-va-dai-bieu-quoc-hoi-vao-lang-vieng-chu-tich-ho-chi-minh-2503660.html",
-          "source": "Báo VietNamNet"
+          "url": "https://www.espn.com/nba/story/_/id/48397821/warriors-curry-details-new-normal-unpredictable-knee-rehab",
+          "source": "ESPN"
         },
         {
-          "title": "Thông điệp quan trọng của Tổng Bí thư tại kỳ họp đầu tiên Quốc hội khóa XVI",
+          "title": "Warriors’ Steph Curry eyes return Sunday after successful workout: Sources",
           "snippet": "",
-          "url": "https://dantri.com.vn/thoi-su/thong-diep-quan-trong-cua-tong-bi-thu-tai-ky-hop-dau-tien-quoc-hoi-khoa-xvi-20260406103622297.htm",
-          "source": "Báo Dân trí"
+          "url": "https://www.nytimes.com/athletic/7162374/2026/03/31/warriors-steph-curry-return-knee-injury-sunday/",
+          "source": "The New York Times"
         },
         {
-          "title": "Quốc hội bắt đầu quy trình bầu Chủ tịch Quốc hội",
+          "title": "Dazzling outfits and colorful hats shine at New York Easter parade, in photos",
           "snippet": "",
-          "url": "https://tuoitre.vn/quoc-hoi-bat-dau-quy-trinh-bau-chu-tich-quoc-hoi-20260406095509957.htm",
-          "source": "Tuổi Trẻ"
+          "url": "https://www.bastillepost.com/global/article/5750750-dazzling-outfits-and-colorful-hats-shine-at-new-york-easter-parade-in-photos",
+          "source": "巴士的報"
         }
       ],
       "link": "https://imtaqin.id/"
