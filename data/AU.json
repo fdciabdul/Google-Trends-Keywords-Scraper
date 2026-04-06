@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-04-06 18:34:24",
+  "lastUpdate": "2026-04-06 18:59:17",
   "data": [
+    {
+      "title": "apollo 13",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 6 Apr 2026 10:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMIV6F95QHiDdbWi3uQfy0P8qNvqA4LM_BMRHlMdPHgeK9ja1Cdvdol1nvAk",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Artemis II sets new record as astronauts travel farthest from Earth than ever before",
+          "snippet": "",
+          "url": "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Artemis II Flight Day 6: Lunar Flyby Updates",
+          "snippet": "",
+          "url": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-lunar-flyby-updates/",
+          "source": "NASA (.gov)"
+        },
+        {
+          "title": "Live: Artemis II on track to break humanity's all-time distance record",
+          "snippet": "",
+          "url": "https://www.abc.net.au/news/2026-04-07/artemis-ii-on-track-to-break-all-time-distance-record/106534158",
+          "source": "Australian Broadcasting Corporation"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "twitch",
       "trafficCount": "100+",
       "pubDate": "Mon, 6 Apr 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS81buDR6oxOHG-vB7JwTl1dzPofv1afcjFdBAxYS2IDYgBPCC-kPowNtzJ6j0",
-      "pictureSource": "Gameranx",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD4Ddw8buDAh6avlt0QgfMBp8A_mnlO2Zjo4qFjcJUTSkJu4NUQ7lhLlfFfS0",
+      "pictureSource": "Minecraft",
       "relatedSearch": [
-        {
-          "title": "GTA Online Twitch Drops Are Back, Where You Can Earn Up To GTA $ 1 Million",
-          "snippet": "",
-          "url": "https://gameranx.com/updates/id/562089/article/gta-online-twitch-drops-are-back-where-you-can-earn-up-to-gta-1-million/",
-          "source": "Gameranx"
-        },
-        {
-          "title": "All GTA Online Twitch Rewards (& How to Claim Them)",
-          "snippet": "",
-          "url": "https://fandomwire.com/gta-online-twitch-rewards-list-how-to-claim/",
-          "source": "FandomWire"
-        },
         {
           "title": "Join our Twitch Tiny Takeover",
           "snippet": "",
           "url": "https://www.minecraft.net/en-us/article/tiny-takeover-on-twitch",
           "source": "Minecraft"
+        },
+        {
+          "title": "Minecraft Presents Tiny Takeover",
+          "snippet": "",
+          "url": "https://blog.twitch.tv/en/2026/04/06/minecrafts-tiny-takeover/",
+          "source": "Twitch Blog"
+        },
+        {
+          "title": "GTA Online Twitch Drops Are Back, Where You Can Earn Up To GTA $ 1 Million",
+          "snippet": "",
+          "url": "https://gameranx.com/updates/id/562089/article/gta-online-twitch-drops-are-back-where-you-can-earn-up-to-gta-1-million/",
+          "source": "Gameranx"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "bitcoin",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 6 Apr 2026 09:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROVhpN6X54jZvJJM6jQGjIIpDmiNLmAlcg7or575qUpl1GYiaGRmdyYz8WtaU",
+      "pictureSource": "Bloomberg.com",
+      "relatedSearch": [
+        {
+          "title": "Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Markets",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Bitcoin climbs above $70,000 as more contrarian bottoming signs emerge",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-climbs-above-usd70-000-as-more-contrarian-bottoming-signs-emerge",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto Weekly Radar: All eyes on Donald Trump’s ultimatum, US macroeconomic data",
+          "snippet": "",
+          "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-weekly-radar-all-eyes-on-donald-trumps-ultimatum-us-macroeconomic-data-202604060735",
+          "source": "FXStreet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +99,16 @@
           "source": "Australian Broadcasting Corporation"
         },
         {
-          "title": "Trump outlines ‘massive’ rescue operation, truce plan ‘not good enough",
+          "title": "Trump threatens to jail journalist who reported on crew’s rescue in Iran if they don’t reveal source",
           "snippet": "",
-          "url": "https://www.theaustralian.com.au/world/trump-outlines-massive-rescue-operation-truce-plan-not-good-enough/live-coverage/48904da51ca825f124cdcd7e836261ba",
-          "source": "The Australian"
+          "url": "https://www.politico.com/news/2026/04/06/trump-iran-pilot-rescue-media-threat-00860508",
+          "source": "Politico"
         },
         {
-          "title": "Iran war live updates: Trump holds press conference after Tehran rejects strait reopening in ceasefire talks",
+          "title": "Trump says operation to rescue airmen from Iran was like finding 'needle in a haystack'",
           "snippet": "",
-          "url": "https://www.reuters.com/world/middle-east/iran-war-live-updates-trump-hold-press-conference-after-tehran-rejects-strait-2026-04-06/",
-          "source": "Reuters"
+          "url": "https://www.bbc.com/news/live/c5yw4g3z7qgt?page=2",
+          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +133,10 @@
           "source": "Black & White & Read All Over"
         },
         {
-          "title": "Ottolini: ‘Juventus plot new Vlahovic and Spalletti talks’",
+          "title": "De Rossi praise for ‘modern coach’ Spalletti",
           "snippet": "",
-          "url": "https://onefootball.com/en/news/ottolini-juventus-plot-new-vlahovic-and-spalletti-talks-42670238",
-          "source": "OneFootball"
+          "url": "https://football-italia.net/de-rossi-praise-for-modern-coach-spalletti/",
+          "source": "Football Italia"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +155,16 @@
           "source": "Pitchfork"
         },
         {
-          "title": "Sabrina Carpenter, Margaret Qualley, Madelyn Cline Make Grand Larceny Glam in 'House Tour' Video",
+          "title": "Sabrina Carpenter, Margaret Qualley and Madelyn Cline Steal a Grammy, Ransack a Mansion in ‘House Tour’ Video",
           "snippet": "",
-          "url": "https://www.rollingstone.com/music/music-news/sabrina-carpenter-house-tour-music-video-margaret-qualley-1235542151/",
-          "source": "Rolling Stone"
+          "url": "https://variety.com/2026/music/news/sabrina-carpenter-margaret-qualley-steal-a-grammy-house-tour-video-1236709136/",
+          "source": "Variety"
         },
         {
-          "title": "Sabrina Carpenter excites fans with 'House Tour' music video countdown",
+          "title": "Fans Are Already Obsessed With Sabrina Carpenter’s Wild ‘House Tour’ Music Video",
           "snippet": "",
-          "url": "https://www.geo.tv/latest/658743-sabrina-carpenter-excites-fans-with-house-tour-music-video-countdown",
-          "source": "Geo News"
+          "url": "https://lifestyle.si.com/celebrities/sabrina-carpenter-house-tour-music-video-fan-reactions",
+          "source": "Sports Illustrated Lifestyle"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://royaldutchshellplc.com/2026/04/04/shells-secret-conscience-club-the-rebel-retailers-who-blew-the-whistle-on-big-oils-hypocrisy/",
           "source": "Royal Dutch Shell Plc .com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ev charging",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 6 Apr 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2UhCkUClP8U9i0B5ARp1W7m1vyDC6F2lNuWUQ9_SzT9SPUyTbNFDsZHx7gpk",
-      "pictureSource": "SBS Australia",
-      "relatedSearch": [
-        {
-          "title": "Where are Australia's EV 'charging deserts'?",
-          "snippet": "",
-          "url": "https://www.sbs.com.au/news/article/australias-ev-charging-blackspots-as-car-sales-surge/bn5tbj33b",
-          "source": "SBS Australia"
-        },
-        {
-          "title": "Fuel insecurity boosts push to slug all homes for EV charging network",
-          "snippet": "",
-          "url": "https://www.afr.com/politics/fuel-insecurity-boosts-push-to-slug-all-homes-for-ev-charging-network-20260401-p5zkkf",
-          "source": "AFR"
-        },
-        {
-          "title": "‘Stuck’: Tesla driver stranded in Aus desert",
-          "snippet": "",
-          "url": "https://www.news.com.au/technology/motoring/electric-car-driver-left-scrambling-for-power-as-chargers-go-offline-on-nullarbor/news-story/93a559da76ebf3766745d3d4797d1cef",
-          "source": "News.com.au"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sheffield wednesday vs leicester city",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 6 Apr 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyeBVIRG7HJj7Gt5aUEp5WHD07XIAXeltTBqBP5eY89nMYWPf32dFibDigwxU",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Sheffield Wednesday v Leicester City: Championship stats & head-to-head",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/live/c17vr447exqt",
-          "source": "BBC"
-        },
-        {
-          "title": "Gary Rowett frustrated after Leicester held to draw",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cyv161q0vq4o",
-          "source": "BBC"
-        },
-        {
-          "title": "Match Pack: Owls v Leicester",
-          "snippet": "",
-          "url": "https://www.swfc.co.uk/news/2026/april/05/match-pack--owls-v-leicester/",
-          "source": "Sheffield Wednesday FC"
         }
       ],
       "link": "https://imtaqin.id/"
