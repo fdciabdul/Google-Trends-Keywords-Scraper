@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-04-07 08:15:41",
+  "lastUpdate": "2026-04-07 08:43:31",
   "data": [
     {
-      "title": "foo fighters st james church",
+      "title": "kanye west",
       "trafficCount": "100+",
+      "pubDate": "Tue, 7 Apr 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwpAfnVJIAIowY9_ZTOnCU5RwHlRM4n-whXHlGnx1J_Uq5bDwXjBJ7eW0n4V4",
+      "pictureSource": "RTE.ie",
+      "relatedSearch": [
+        {
+          "title": "Kanye West responds to backlash over Wireless Festival",
+          "snippet": "",
+          "url": "https://www.rte.ie/entertainment/2026/0407/1566986-kanye-west-responds-to-backlash-over-wireless-festival/",
+          "source": "RTE.ie"
+        },
+        {
+          "title": "Wireless festival promoter stands by decision to have Kanye West perform",
+          "snippet": "",
+          "url": "https://www.theguardian.com/music/2026/apr/06/wireless-festival-says-kayne-west-still-due-to-perform-despite-calls-for-ban",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Kanye offers to meet Jewish community in UK after Wireless controversy",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cly79lrrz4lo",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "foo fighters st james church",
+      "trafficCount": "200+",
       "pubDate": "Tue, 7 Apr 2026 00:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpJgiQEksS8nOY9mDdj1LYlRtj4Y3-JxZtGfw3fiKEY3V8IX4h_5vJswQdFps",
       "pictureSource": "RTE.ie",
@@ -30,57 +58,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "world news",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 6 Apr 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHKI26hURvR4_AXCVz_Q5GHpEXgUB-k8Rz9x9znsfebBa8eRFpdNnusdFKBWU",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-          "snippet": "",
-          "url": "https://www.bbc.com/news/live/clyr8k06jv7t",
-          "source": "BBC"
-        },
-        {
-          "title": "Trump calls Artemis II astronauts after record-setting moon fly-by",
-          "snippet": "",
-          "url": "https://www.irishtimes.com/world/us/2026/04/07/trump-calls-artemis-ii-astronauts-after-record-setting-moon-fly-by/",
-          "source": "The Irish Times"
-        },
-        {
-          "title": "Blackouts, broken records and a message from the past: five key moments from Artemis II’s lunar flyby",
-          "snippet": "",
-          "url": "https://www.theguardian.com/science/2026/apr/07/artemis-ii-lunar-flyby-blackouts-five-key-moments",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "irish sun",
       "trafficCount": "100+",
       "pubDate": "Mon, 6 Apr 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQipnHq7UpTV1hN9OlzTy-H0yeRjF5T-Zpn6pdiWcYIgb--n80kNzmheSKnJVc",
-      "pictureSource": "The Irish Sun",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP6xrVuSFqcrM2XT3P8NGmkOy0cKbdWt6oDopoK1YKVwfugjmYpMsBunCssAg",
+      "pictureSource": "Euronews.com",
       "relatedSearch": [
-        {
-          "title": "Frank McCann's wife warned in-laws he was trying to kill her before inferno but family thought it was joke, says brother",
-          "snippet": "",
-          "url": "https://www.thesun.ie/news/16785296/frank-mccann-murder-fire-brother-new-podcast/",
-          "source": "The Irish Sun"
-        },
-        {
-          "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
-          "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel?page=with%3Ablock-69d37d6b8f080da25b48bc9f",
-          "source": "The Guardian"
-        },
         {
           "title": "Israel strikes Iran's key gas field as Trump's Hormuz deadline looms",
           "snippet": "",
           "url": "https://www.euronews.com/2026/04/06/tehran-and-trump-trade-threats-amid-renewed-iran-war-ceasefire-proposal-push",
           "source": "Euronews.com"
+        },
+        {
+          "title": "Israel attacks plant at Iranian gas field despite ceasefire proposal",
+          "snippet": "",
+          "url": "https://www.thejournal.ie/air-strikes-iran-strait-of-hormuz-deadline-7004622-Apr2026/",
+          "source": "The Journal"
+        },
+        {
+          "title": "US Israel Iran War News Live Updates: US issues stark warning to Iran says 'today will be largest volume of strikes', cautions 'choose wisely'",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-middle-east-crisis-conflict-latest-news-iran-drone-missile-attack-gulf-dubai-qatar-bahrain-news-strait-of-hormuz-crude-oil-impact-donald-trump/liveblog/130050583.cms",
+          "source": "The Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,35 +115,35 @@
     },
     {
       "title": "breaking news",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 6 Apr 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_vVMXhQlx4bjdv0noLotwXO9aBGUk2ovGXURBXyaMGrOFN_uh6_0XsMq8Gdg",
-      "pictureSource": "NBC News",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxq4VXEZrTQ7LoScwbIYx9Op3vR-vOTCfPapzUuVWTPgZAtmeVVix47vbIf30",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "The U.S. fighter jet was downed in Iran by a shoulder-fired missile",
+          "title": "Blackouts, broken records and a message from the past: five key moments from Artemis II’s lunar flyby",
           "snippet": "",
-          "url": "https://www.nbcnews.com/politics/white-house/us-fighter-jet-was-downed-iran-shoulder-fired-missile-rcna266907",
-          "source": "NBC News"
+          "url": "https://www.theguardian.com/science/2026/apr/07/artemis-ii-lunar-flyby-blackouts-five-key-moments",
+          "source": "The Guardian"
         },
         {
-          "title": "7 Locations, 176 Aircraft, 45 Hours: US' \"Air Armada\" Rescue Ops In Iran",
+          "title": "Video | Artemis II crew re-emerges from communications blackout | RTÉ",
           "snippet": "",
-          "url": "https://www.ndtv.com/world-news/us-iran-war-news-7-locations-176-aircraft-45-hours-us-air-armada-rescue-ops-in-iran-11321476",
-          "source": "NDTV"
+          "url": "https://www.rte.ie/video/id/31710",
+          "source": "RTE.ie"
         },
         {
-          "title": "Two Planes Destroyed by U.S. During Rescue Operation",
+          "title": "The Near Side of the Moon",
           "snippet": "",
-          "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/two-special-operations-mj-130s-destroyed-by-u-s-during-rescue-operation-NbFfOdbvk7dWX1a7ZuW8?gaa_at=eafs&gaa_n=AWEtsqfeTRdSvQK1Gpziq6D4HvtowibmTU22Uc5rbm16gvdEBBnNrHeq7P9B&gaa_ts=69d4c0b1&gaa_sig=OTXDNFfVqV7COYAMFq8-X-ssmgnSXhNpAsmndyupOv5tc9z03g9AOvFgLthrvPsR8jPEnVKyvrhZ2BwxYSeF1g%3D%3D",
-          "source": "WSJ"
+          "url": "https://www.nasa.gov/image-article/the-near-side-of-the-moon/",
+          "source": "NASA (.gov)"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "offset",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 6 Apr 2026 22:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnfH2xEZ4cLKzlA-vcE9Sqrz1FvEE6xOpC9UTxdcW6qkv0OYtgGCIxM6-bDY",
       "pictureSource": "TMZ",
@@ -189,9 +189,9 @@
           "source": "The New York Times"
         },
         {
-          "title": "Iran rejects ceasefire as Trump ramps up threats",
+          "title": "Recap: Trump threatens to jail reporter over leak",
           "snippet": "",
-          "url": "https://www.rte.ie/news/world/2026/0406/1566871-iran-conflict/",
+          "url": "https://www.rte.ie/news/2026/0406/1566880-iran-conflict-blog/",
           "source": "RTE.ie"
         }
       ],
@@ -201,9 +201,15 @@
       "title": "news headlines",
       "trafficCount": "100+",
       "pubDate": "Mon, 6 Apr 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAkAScsdMTYQJ-L2CWcQ7gzMKEEsGLG-gbZRXfZ-xqO-wgTpsZ3ajO5gCqAM",
-      "pictureSource": "RTE.ie",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIqlch1zLRagU6qLxj08RIeBAN52K8MNNZMYAt1a9LB28MF-3KF0r3kpxTON0",
+      "pictureSource": "The Irish Independent",
       "relatedSearch": [
+        {
+          "title": "Kerry GAA club bar up for lease as Danny Leane calls time – ‘It’s a tough trade to be in now’",
+          "snippet": "",
+          "url": "https://www.independent.ie/regionals/kerry/tralee-news/kerry-gaa-club-bar-up-for-lease-as-danny-leane-calls-time-its-a-tough-trade-to-be-in-now/a1490757744.html",
+          "source": "The Irish Independent"
+        },
         {
           "title": "40% of parents want multi-denominational schools - survey",
           "snippet": "",
@@ -215,12 +221,6 @@
           "snippet": "",
           "url": "https://www.irishtimes.com/ireland/education/2026/04/07/large-number-of-parents-seek-shift-to-multidenominational-ethos-in-schools/",
           "source": "The Irish Times"
-        },
-        {
-          "title": "Growing demand for non‑denominational education at primary schools, finds landmark survey",
-          "snippet": "",
-          "url": "https://www.irishexaminer.com/news/arid-41822972.html",
-          "source": "Irish Examiner"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,9 +257,15 @@
       "title": "michael o'leary",
       "trafficCount": "200+",
       "pubDate": "Mon, 6 Apr 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyeKAkBE7H5l51-ksUOdFdASkxzCiEQlPURGJngXjC89JC1ZeInkHx2yM649M",
-      "pictureSource": "Fortune",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFpHUgxTf5A5751N_9Eajaoz2vUo_Q7k80tan-owdwO2DkCzMjvsw8OxreYWQ",
+      "pictureSource": "The Irish Independent",
       "relatedSearch": [
+        {
+          "title": "‘Tankering’ and ‘demand destruction’ – how Asian airlines are trimming schedules and carrying extra fuel",
+          "snippet": "",
+          "url": "https://www.independent.ie/life/travel/travel-news/tankering-and-demand-destruction-how-asian-airlines-are-trimming-schedules-and-carrying-extra-fuel/a696842966.html",
+          "source": "The Irish Independent"
+        },
         {
           "title": "Ryanair CEO says book summer trips before fares soar, despite risk of fuel crunch canceling flights",
           "snippet": "",
@@ -271,12 +277,6 @@
           "snippet": "",
           "url": "https://news.sky.com/video/iran-and-fuel-shortages-is-it-safe-to-book-a-long-haul-flight-for-your-summer-holidays-13526988",
           "source": "Sky News"
-        },
-        {
-          "title": "Ryanair plans to increase flight costs after Easter",
-          "snippet": "",
-          "url": "https://www.thetimes.com/world/ireland-world/article/ryanair-plans-to-increase-flight-costs-after-easter-l6m2gdj82",
-          "source": "The Times"
         }
       ],
       "link": "https://imtaqin.id/"
