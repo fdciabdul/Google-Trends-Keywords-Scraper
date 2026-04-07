@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-04-07 22:01:32",
+  "lastUpdate": "2026-04-07 22:20:23",
   "data": [
     {
-      "title": "tsm",
+      "title": "美股新聞",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 7 Apr 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrCpBeJ_kgfKtzBWyzi5D33KSwTGRINAktp2wNXsgLsuCfXhRVHazU4e2NWlo",
+      "pictureSource": "Yahoo股市",
+      "relatedSearch": [
+        {
+          "title": "川普強硬放話「文明將消亡」！美股開盤4大指數重摔 谷歌、英特爾逆勢上漲",
+          "snippet": "",
+          "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%BC%B7%E7%A1%AC%E6%94%BE%E8%A9%B1-%E6%96%87%E6%98%8E%E5%B0%87%E6%B6%88%E4%BA%A1-%E7%BE%8E%E8%82%A1%E9%96%8B%E7%9B%A44%E5%A4%A7%E6%8C%87%E6%95%B8%E9%87%8D%E6%91%94-%E8%B0%B7%E6%AD%8C-%E8%8B%B1%E7%89%B9%E7%88%BE%E9%80%86%E5%8B%A2%E4%B8%8A%E6%BC%B2-135500312.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "市場觀望中東局勢走向國際油價收盤走勢不一| 產經",
+          "snippet": "",
+          "url": "https://www.cna.com.tw/news/afe/202604080012.aspx",
+          "source": "中央社 CNA"
+        },
+        {
+          "title": "別救股市？小摩前主管：「這麼做」更有利 還可加速停火",
+          "snippet": "",
+          "url": "https://money.udn.com/money/story/123398/9427245",
+          "source": "經濟日報"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "smci",
       "trafficCount": "100+",
+      "pubDate": "Tue, 7 Apr 2026 15:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLOKG0jp-fRnyWWiK_L1vDacy0df6Q38ne0l3Npnry3PR4jo48ENb87C08rKU",
+      "pictureSource": "Bloomberg.com",
+      "relatedSearch": [
+        {
+          "title": "Super Micro Launches Internal Probe of Server Sales to China",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-07/super-micro-launches-internal-probe-of-server-sales-to-china",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Super Micro Computer's Rack-Scale AI Push: A New Growth Catalyst?",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/super-micro-computers-rack-scale-150800888.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "SMCI Investor Alert: Super Micro Computer Securities Fraud Lawsuit - Investors With Losses May Seek to Lead the Class Action After Allegedly Diverting AI Servers Illegally: Levi & Korsinsky",
+          "snippet": "",
+          "url": "https://www.businesswire.com/news/home/20260407351457/en/SMCI-Investor-Alert-Super-Micro-Computer-Securities-Fraud-Lawsuit---Investors-With-Losses-May-Seek-to-Lead-the-Class-Action-After-Allegedly-Diverting-AI-Servers-Illegally-Levi-Korsinsky",
+          "source": "Business Wire"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tsm",
+      "trafficCount": "200+",
       "pubDate": "Tue, 7 Apr 2026 14:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfBOpv8cdqliQX2gDn3-eYVaAsVd3nW14qWAk2TdmV-zxW_DMVOKLGwu7BFQ8",
       "pictureSource": "Rti 中央廣播電臺",
@@ -30,17 +86,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "樂透",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 7 Apr 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtJR1Tef8EutTd58qiiJqg33Ntndsf8MTXLeeIMzYOwcvFYPUj1qCPU6hipQg",
+      "pictureSource": "台視新聞網",
+      "relatedSearch": [
+        {
+          "title": "大樂透頭獎再槓！下期上看1.5億 今彩539貳獎開出210組",
+          "snippet": "",
+          "url": "https://news.ttv.com.tw/news/11504070004400W/amp",
+          "source": "台視新聞網"
+        },
+        {
+          "title": "大樂透4/7開獎 中獎號碼20:30開獎直播看這篇",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F47%E9%96%8B%E7%8D%8E-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC2030%E9%96%8B%E7%8D%8E%E7%9B%B4%E6%92%AD%E7%9C%8B%E9%80%99%E7%AF%87-080000017.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "新／大樂透4／7中獎號碼出爐",
+          "snippet": "",
+          "url": "https://www.mirrormedia.mg/external/setn_1819114",
+          "source": "鏡週刊Mirror Media"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "sporting cp vs arsenal",
       "trafficCount": "200+",
       "pubDate": "Tue, 7 Apr 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBUE5-YAroL30KwFzu1buoGfEWEISckMhBpAuj3JrcA5vvI4_DWp_RkKEjj38",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkK6gaNR5HKuOb8ETQ8L4AAjymycNk3Z0orNPIDoep_2NeaSDWkr8orzmhvvk",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Sporting v Arsenal: Champions League quarter-final first leg – live",
+          "title": "Sporting 0-1 Arsenal 1: Kai Havertz nets late winner",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/apr/07/sporting-v-arsenal-champions-league-quarter-final-first-leg-live",
-          "source": "The Guardian"
+          "url": "https://www.bbc.com/sport/football/live/clyx8k8pn8dt",
+          "source": "BBC"
         },
         {
           "title": "Havertz: We can win major trophies... and Raya is the best in the world",
@@ -49,10 +133,10 @@
           "source": "Yahoo Sports Australia"
         },
         {
-          "title": "Arsenal boss Mikel Arteta calls for perspective before crucial Sporting Champions League tie",
+          "title": "Sporting 0-1 Arsenal: Champions League quarter-final first leg – as it happened",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/c77md5mp475o",
-          "source": "BBC"
+          "url": "https://www.theguardian.com/football/live/2026/apr/07/sporting-v-arsenal-champions-league-quarter-final-first-leg-live",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,13 +201,13 @@
       "title": "費城半導體指數",
       "trafficCount": "200+",
       "pubDate": "Tue, 7 Apr 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9N7s6auzrKEcIp-Qtt4o1pTfyuTM48HzKgHG8DzxWpLgr97uvdCfjspM3pVk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzekDyq-6Pn_jn0g2yBDmACPUsfH0LR337A5OHZdyyLbHeNP7FN1W-rmcXys0",
       "pictureSource": "AASTOCKS.com",
       "relatedSearch": [
         {
-          "title": "《亞股》亞太股市造好 韓股漲逾7%領跑 三星電子抽高逾11% 日經及台股各揚逾4%",
+          "title": "《美股》戰爭結束希望日增道指收市飆1,125點納指帶頭漲近4%財經新聞Financial News",
           "snippet": "",
-          "url": "http://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1515448/negative-news/AAFN",
+          "url": "http://www.aastocks.com/tc/mobile/news.aspx?newsid=NOW.1515099&newstype=61&newssource=AAFN",
           "source": "AASTOCKS.com"
         },
         {
@@ -171,7 +255,7 @@
     },
     {
       "title": "vix指數",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 7 Apr 2026 14:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2VlaBJieQVg0_Nbjdn3aTdelYUE41GCE8Zb4CRozVcErusPZvCXpM3_lsHPg",
       "pictureSource": "AASTOCKS.com",
@@ -195,71 +279,6 @@
           "source": "AASTOCKS.com"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nvda",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROpU_zXuGQnkLs2rpUF0asKMGRhtJ0xiDtRBuYvooiQe6YXPZwSwnIE4n_ydQ",
-      "pictureSource": "The Motley Fool",
-      "relatedSearch": [
-        {
-          "title": "Best Stock to Buy: Nvidia Stock or AMD Stock?",
-          "snippet": "",
-          "url": "https://www.fool.com/investing/2026/04/07/best-stock-to-buy-nvidia-stock-or-amd-stock/",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Nvidia Redefines The AI Economics (NASDAQ:NVDA)",
-          "snippet": "",
-          "url": "https://seekingalpha.com/article/4889021-nvidia-redefines-the-ai-economics",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "I've Changed My Mind on AMD Stock. The AI Supercycle Has Room for More Than Just Nvidia.",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ive-changed-mind-amd-stock-172000123.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "aaoi",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbheoeUAN4qhu8K-XTWgLDqSQrL0qD9Mp4rHwnqa2naFHvbYYRMEm-77joems",
-      "pictureSource": "Yahoo Finance Singapore",
-      "relatedSearch": [
-        {
-          "title": "RS: Spot Tomorrow's Leaders in Today's Volatility",
-          "snippet": "",
-          "url": "https://sg.finance.yahoo.com/news/rs-spot-tomorrows-leaders-todays-171700530.html",
-          "source": "Yahoo Finance Singapore"
-        },
-        {
-          "title": "AAOI is Overvalued at 6.68X PS: Buy, Sell or Hold the Stock?",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aaoi-overvalued-6-68x-ps-133700263.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Applied Optoelectronics: Momentum Is Real, And Estimates Still Look Too Low (NASDAQ:AAOI)",
-          "snippet": "",
-          "url": "https://seekingalpha.com/article/4888478-applied-optoelectronics-momentum-real-estimates-still-look-too-low",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "暫停 交易",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 7 Apr 2026 14:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
