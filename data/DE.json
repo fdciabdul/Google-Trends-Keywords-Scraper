@@ -1,19 +1,13 @@
 {
-  "lastUpdate": "2026-04-08 00:06:45",
+  "lastUpdate": "2026-04-08 00:56:45",
   "data": [
     {
       "title": "haberler",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 7 Apr 2026 16:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDscOND2vZh676l_Caehf4dFqT9uTMEIRvkQXeJYqRne_Lo0q-csL0lNFp68",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdvEtCu2sa4oR_0aA7tM-RilOSbq-eVyBggPm5mqNH7bQihMonZWDNM8ajSRw",
+      "pictureSource": "Bloomberght",
       "relatedSearch": [
-        {
-          "title": "Trump, İran'ın Hürmüz'ü açması koşuluyla iki haftalık ateşkesi kabul etti",
-          "snippet": "",
-          "url": "https://www.bbc.com/turkce/articles/cvg4762dvdno",
-          "source": "BBC"
-        },
         {
           "title": "Beyaz Saray: Trump Pakistan'ın süreyi uzatma çağrısına cevap verecek",
           "snippet": "",
@@ -25,6 +19,12 @@
           "snippet": "",
           "url": "https://www.haber7.com/dunya/haber/3618217-savasta-son-dakika-gelismesi-trumptan-baris-aciklamasi-iran-ve-abd-anlasma-sagladi",
           "source": "Haber 7"
+        },
+        {
+          "title": "İran'dan resmi açıklama: Sahadaki zaferimizin, siyasi alanda da pekiştirilmesi hedefleniyor",
+          "snippet": "",
+          "url": "https://www.birgun.net/haber/iran-dan-resmi-aciklama-sahadaki-zaferimizin-siyasi-alanda-da-pekistirilmesi-hedefleniyor-704349",
+          "source": "birgun.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -58,23 +58,51 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ntv news",
-      "trafficCount": "100+",
+      "title": "nachrichten",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 7 Apr 2026 16:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcxoxBGGNOval3fmdlFtF4bT0cPH8UTJfqhhaidMYsw2re07Sh1DeF0CFBSwE",
-      "pictureSource": "Ukrinform News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfPkdD8f-kZg1Gq-dkaj9t8DxUzVO2SP66MuTKJEY_m16Cq-LFiAFgo9omdxU",
+      "pictureSource": "Ntv",
       "relatedSearch": [
+        {
+          "title": "Iran-Krieg im Liveticker: +++ 22:03 Mehrere Demokraten fordern Trumps Amtsenthebung +++",
+          "snippet": "",
+          "url": "https://www.n-tv.de/politik/22-03-Mehrere-Demokraten-fordern-Trumps-Amtsenthebung-id30415311.html",
+          "source": "Ntv"
+        },
+        {
+          "title": "Eskalation im Irankrieg: US-Demokraten verlangen Amtsenthebung von Donald Trump",
+          "snippet": "",
+          "url": "https://www.zeit.de/politik/2026-04/donald-trump-iran-usa-krieg-drohungen-demokraten-tim-walz-tucker-carlson",
+          "source": "DIE ZEIT"
+        },
+        {
+          "title": "USA News: Mehrere Demokraten fordern Amtsenthebung Trumps - Politik - SZ.de",
+          "snippet": "",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-amtsenthebung-li.3462913",
+          "source": "SZ.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ntv news",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 7 Apr 2026 16:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf5FdPd5zgoLoGSv3WP3DHn8K2DPL6HOUoYMrZ7RYpG1qkyx3Yz2c8cF9HCE4",
+      "pictureSource": "Ntv",
+      "relatedSearch": [
+        {
+          "title": "Ukraine-Krieg im Liveticker: +++ 08:43 Ukrainisches Militär zerstört 65 russische Artilleriesysteme +++",
+          "snippet": "",
+          "url": "https://www.n-tv.de/politik/08-43-Ukrainisches-Militaer-zerstoert-65-russische-Artilleriesysteme-article23143824.html",
+          "source": "Ntv"
+        },
         {
           "title": "980 Soldaten - Kampfverluste der Russen von gestern",
           "snippet": "",
           "url": "https://www.ukrinform.de/rubric-ato/4109876-980-soldaten-kampfverluste-der-russen-von-gestern.html",
           "source": "Ukrinform News"
-        },
-        {
-          "title": "Ukraine-Krieg im Liveticker: +++ 12:14 Kriewald: Selenskyj sucht im Nahen Osten neue Verbündete +++",
-          "snippet": "",
-          "url": "https://www.n-tv.de/politik/12-14-Kriewald-Selenskyj-sucht-im-Nahen-Osten-neue-Verbuendete-article23143824.html?fbclid=IwAR0MqvMxz3-0Gz8heG5iAJ7l8p1kwlk1_3veyaFvKk5QPL7oWZRGVKsHiKI",
-          "source": "Ntv"
         },
         {
           "title": "Ukraine: Russen versuchen, in Hryshyne durch den Nebel vorzurücken, werden aber vom Starlink-Netzwerk ausgeschlossen.",
@@ -114,37 +142,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "neueste nachrichten",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfPkdD8f-kZg1Gq-dkaj9t8DxUzVO2SP66MuTKJEY_m16Cq-LFiAFgo9omdxU",
-      "pictureSource": "Ntv",
-      "relatedSearch": [
-        {
-          "title": "Iran-Krieg im Liveticker: +++ 22:03 Mehrere Demokraten fordern Trumps Amtsenthebung +++",
-          "snippet": "",
-          "url": "https://www.n-tv.de/politik/22-03-Mehrere-Demokraten-fordern-Trumps-Amtsenthebung-id30415311.html",
-          "source": "Ntv"
-        },
-        {
-          "title": "Eskalation im Irankrieg: US-Demokraten verlangen Amtsenthebung von Donald Trump",
-          "snippet": "",
-          "url": "https://www.zeit.de/politik/2026-04/donald-trump-iran-usa-krieg-drohungen-demokraten-tim-walz-tucker-carlson",
-          "source": "DIE ZEIT"
-        },
-        {
-          "title": "USA News: Mehrere Demokraten fordern Amtsenthebung Trumps - Politik - SZ.de",
-          "snippet": "",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-amtsenthebung-li.3462913",
-          "source": "SZ.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "shehbaz sharif",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 16:10:00 -0700",
+      "title": "x",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 7 Apr 2026 16:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmgwAZZTadgCNQGpwyus7-KuFt41jI1X8oubH_Gs_H8WGpQjmjk37JZ5WwOQ",
       "pictureSource": "CNBC",
       "relatedSearch": [
@@ -155,44 +155,16 @@
           "source": "CNBC"
         },
         {
-          "title": "Middle East war live: Oil eases and US stocks close higher as Pakistan floats US-Iran deadline extension",
+          "title": "Middle East crisis live: Pakistan says agreed ceasefire includes Lebanon; Iran will allow ‘conditional passage’ through strait of Hormuz",
           "snippet": "",
-          "url": "https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906?syn-25a6b1a6=1",
-          "source": "Financial Times"
+          "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict?page=with:block-69d59c118f082af210bc5864",
+          "source": "The Guardian"
         },
         {
-          "title": "Iran live updates: US, Iran agree to 2-week ceasefire tied to strait reopening",
+          "title": "'A whole civilization will die tonight': Oil falls as Trump's deadline looms, Pakistan calls for peace",
           "snippet": "",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074",
-          "source": "ABC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "x",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 7 Apr 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt83ylknmwD3tTNp4aZvyrGLI674VV6QHDhUjnJEIta30R7UeIQfflyLIIaaM",
-      "pictureSource": "NBC News",
-      "relatedSearch": [
-        {
-          "title": "Live updates: U.S. journalist to be freed; Trump doubles down on massive attack threats",
-          "snippet": "",
-          "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039",
-          "source": "NBC News"
-        },
-        {
-          "title": "US has struck Iranian military targets on Kharg Island. Here’s what we know about it",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/04/07/middleeast/kharg-island-us-assault-risk-trump-intl",
-          "source": "CNN"
-        },
-        {
-          "title": "The Latest: US and Israel strike Iran's oil, rail and bridges ahead of Trump deadline",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/national/2026/04/07/iran-israel-us-lebanon-latest-april-7-2026/7ad503d0-323e-11f1-b85b-2cd751275c1d_story.html",
-          "source": "The Washington Post"
+          "url": "https://finance.yahoo.com/markets/article/a-whole-civilization-will-die-tonight-oil-falls-as-trumps-deadline-looms-pakistan-calls-for-peace-133302322.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +211,72 @@
           "source": "RND.de"
         },
         {
-          "title": "Markus Lanz im ZDF: Das sind die Gäste am Dienstag, 7. April 2026",
-          "snippet": "",
-          "url": "https://rp-online.de/panorama/fernsehen/das-sind-die-gaeste-bei-markus-lanz-am-7-april-2026_aid-55914681",
-          "source": "RP Online"
-        },
-        {
           "title": "„Markus Lanz“: Diese Gäste sind am Dienstag (7. April) im Studio",
           "snippet": "",
           "url": "https://www.morgenpost.de/kultur/tv-streaming/article401463642/markus-lanz-gaeste-heute-dienstag-7-april-iran-krieg.html",
           "source": "Berliner Morgenpost"
+        },
+        {
+          "title": "Markus Lanz heute: Das sind die Gäste und Themen am 7. April",
+          "snippet": "",
+          "url": "https://www.bild.de/unterhaltung/tv-fernsehformate/markus-lanz-heute-das-sind-die-gaeste-und-themen-69d4e63a8ba297d4b1231623",
+          "source": "BILD"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "brent oil price",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1wv7ERtff2LXXOjl9VZovD0PKiDx37zOhuhmMEY1zvYArFOQMWBddqeyNaWU",
-      "pictureSource": "OilPrice.com",
+      "title": "eurojackpot ziehung",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 7 Apr 2026 15:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDsg5qOD72PTiS3ZL7rc2A6C58O_4Xr8QeB3MA42wCR3RtaDhDjY3WnwfBekc",
+      "pictureSource": "Lotto.de",
       "relatedSearch": [
         {
-          "title": "U.S. Oil Premiums Hit Record High as World Scrambles for Crude",
+          "title": "Däne freut sich über zehn Millionen Euro",
           "snippet": "",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Premiums-Hit-Record-High-as-World-Scrambles-for-Crude.html",
-          "source": "OilPrice.com"
+          "url": "https://www.lotto.de/ueber/neuigkeiten/eurojackpot/2026/pressemeldung-eurojackpot-20260407",
+          "source": "Lotto.de"
         },
         {
-          "title": "North American Oil Is In Demand as World Grasps for Supplies",
+          "title": "Eurojackpot am Dienstag, 7.4.2026: Die Gewinnzahlen von heute",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-06/north-american-oil-is-in-demand-as-world-grasps-for-supplies",
-          "source": "Bloomberg.com"
+          "url": "https://www.bild.de/news/inland/eurojackpot-am-dienstag-7-4-2026-die-gewinnzahlen-von-heute-69cd24dd54836f652f88b56a",
+          "source": "BILD"
         },
         {
-          "title": "U.S. crude oil enters a new phase of geopolitical price differences as the gap between WTI and Brent reaches its widest point in over a decade",
+          "title": "Oster-Glück der besonderen Art: Lottospieler aus Niedersachsen räumt hohen Gewinn ab",
           "snippet": "",
-          "url": "https://www.bitget.com/news/detail/12560605341168",
-          "source": "Bitget"
+          "url": "https://www.kreiszeitung.de/lokales/niedersachsen/oster-glueck-der-besonderen-art-lottospieler-aus-niedersachsen-raeumt-hohen-gewinn-ab-94251537.html",
+          "source": "Kreiszeitung"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "der super mario galaxy film",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 7 Apr 2026 15:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRK5-jJAhaJipQqJ6mRhx3YVRBtrgKFpDzOuiuWSZaMI6zv6BFQc0sutTj611E",
+      "pictureSource": "Vodafone live",
+      "relatedSearch": [
+        {
+          "title": "«Der Super Mario Galaxy Film» legt Blitzstart in Kinos hin",
+          "snippet": "",
+          "url": "https://live.vodafone.de/news/unterhaltung/tvkino/der-super-mario-galaxy-film-legt-blitzstart-in-kinos-hin/13165743",
+          "source": "Vodafone live"
+        },
+        {
+          "title": "Fantasy-Abenteuer wird zum weltweiten Leinwand-Hit – und sorgt auch in Deutschland für ein überragendes Kino-Wochenende",
+          "snippet": "",
+          "url": "https://www.filmstarts.de/nachrichten/1000198167.html",
+          "source": "Filmstarts"
+        },
+        {
+          "title": "Nintendo hat die Geschichte von Peach nach 41 Jahren umgeschrieben",
+          "snippet": "",
+          "url": "https://www.gamepro.de/artikel/super-mario-galaxy-film-peach-umgeschrieben,3450961.html",
+          "source": "GamePro"
         }
       ],
       "link": "https://imtaqin.id/"
