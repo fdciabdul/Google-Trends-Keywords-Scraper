@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-04-08 06:00:32",
+  "lastUpdate": "2026-04-08 06:44:21",
   "data": [
     {
-      "title": "طقس مراكش",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoHMstjuZs5U4BczPIKwE_edOQp0dbhvcsYJivNCzMuTm02l0AHA490hIJuuw",
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 7 Apr 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYuPATDc0bszd12m3Bp5T5nsK7uDGeGxLKZq_QHgvE2CG5kGbnI2teQHMNiXk",
+      "pictureSource": "CNN",
+      "relatedSearch": [
+        {
+          "title": "A Super El Niño is coming. Here’s how a hotter ocean could change the weather near you",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/04/07/weather/super-el-nino-extreme-weather-climate-disaster",
+          "source": "CNN"
+        },
+        {
+          "title": "Strongest El Niño in a century? What this rare phenomenon could bring.",
+          "snippet": "",
+          "url": "https://www.washingtonpost.com/weather/2026/04/06/super-el-nino-chances-increasing-risks/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Super El Niño could be the biggest ever. What does it mean for Colorado snow?",
+          "snippet": "",
+          "url": "https://www.9news.com/article/weather/weather-impact/super-el-nino-snow-colorado-forecast/73-ea5fabf0-75f6-4d0b-9957-072f95b66bb1",
+          "source": "KUSA.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "météo",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 7 Apr 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsj0JdtmvanJN84IopRbGMclMPcw5UUTfDXpcVs2miccYSWzp8p4eEP1xmuEA",
+      "pictureSource": "BX1",
+      "relatedSearch": [
+        {
+          "title": "Météo : jusqu’à 22°C attendus dans le centre du pays",
+          "snippet": "",
+          "url": "https://bx1.be/categories/news/meteo-jusqua-22c-attendus-dans-le-centre-du-pays/",
+          "source": "BX1"
+        },
+        {
+          "title": "Soleil et 22°C: le beau temps s'installe en Belgique",
+          "snippet": "",
+          "url": "https://www.bruxellestoday.be/meteo/soleil-beau-temps-belgique.html",
+          "source": "BruxellesToday"
+        },
+        {
+          "title": "« Mieux qu’à la Costa del Sol » : David Dehenauw a de très bonnes nouvelles pour les deux prochaines semaines, aurons-nous autant de chance que les Flamands pour nos vacances de Pâques ?",
+          "snippet": "",
+          "url": "https://www.sudinfo.be/id1134207/article/2026-04-07/mieux-qua-la-costa-del-sol-david-dehenauw-de-tres-bonnes-nouvelles-pour-les-deux",
+          "source": "Sudinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 7 Apr 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX-L-7WO0Br2nPGT2RETcCztTRnvGjza2JvJ6qyZ8kZlVoIaoatwcBfYArIO0",
       "pictureSource": "Hespress",
       "relatedSearch": [
         {
-          "title": "توقعات طقس اليوم الثلاثاء بالمغرب",
+          "title": "توقعات طقس اليوم الأربعاء بالمغرب",
           "snippet": "",
-          "url": "https://www.hespress.com/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-79-1727093.html",
+          "url": "https://www.hespress.com/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-75-1727663.html",
           "source": "Hespress"
-        },
-        {
-          "title": "أحوال الطقس اليوم الجمعة.. طقس بارد وأمطار متفرقة",
-          "snippet": "",
-          "url": "https://ar.telquel.ma/%D9%8A%D9%88%D8%B9%D8%A7%D8%A8%D8%AF-%D9%84%D9%80%D8%AA%D9%8A%D9%84%D9%83%D9%8A%D9%84-%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D9%85%D8%AA%D9%82%D9%84%D8%A8%D8%A9-%D9%88%D8%A3/",
-          "source": "تيل كيل عربي"
         },
         {
           "title": "زخات رعدية وهبات رياح قوية مرتقبة يومي الثلاثاء والأربعاء بعدد من مناطق المملكة (نشرة إنذارية) – اليوم 24",
           "snippet": "",
           "url": "https://alyaoum24.com/2018623.html",
           "source": "اليوم 24"
+        },
+        {
+          "title": "منخفض جوي يضرب المغرب وأمطار رعدية ورياح قوية تعمّ مناطق واسعة",
+          "snippet": "",
+          "url": "https://ar.lesiteinfo.com/maroc/%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%B1%D9%8A-994547.html",
+          "source": "LeSiteinfo.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +99,44 @@
           "source": "Le Desk"
         },
         {
-          "title": "Après une chaleur exceptionnelle, retour des pluies dès ce mardi au Maroc",
+          "title": "Les prévisions météo pour le mercredi 8 avril - Médias24 - Numéro un de l'information économique marocaine",
           "snippet": "",
-          "url": "https://medias24.com/2026/04/06/apres-une-chaleur-exceptionnelle-retour-des-pluies-des-ce-mardi-au-maroc-1654409/",
+          "url": "https://medias24.com/2026/04/07/les-previsions-meteo-pour-ce-mercredi-8-avril-2026-1655653/",
           "source": "Medias24"
         },
         {
-          "title": "Le temps qu'il fera ce mardi 7 avril 2026",
+          "title": "Météo : temps instable avec pluies et vents forts à partir de ce mardi, accalmie en vue la semaine prochaine",
           "snippet": "",
-          "url": "https://fr.hespress.com/468571-le-temps-quil-fera-ce-mardi-7-avril-2026.html",
-          "source": "Hespress Français - Actualités du Maroc"
+          "url": "https://lematin.ma/regions/meteo-temps-instable-avec-pluies-et-vents-forts-a-partir-de-ce-mardi/338883",
+          "source": "Le Matin.ma"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mojtaba khamenei",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 7 Apr 2026 19:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbPuU5GQnsk9zwoBEgtYx9FtksuVUqJxnj3GGJinRVgdC97MPKk6bz18afkIE",
+      "pictureSource": "The Times of Israel",
+      "relatedSearch": [
+        {
+          "title": "Mojtaba Khamenei reportedly in ‘severe’ condition, unable to govern Iran",
+          "snippet": "",
+          "url": "https://www.timesofisrael.com/mojtaba-khamenei-reportedly-in-severe-condition-unable-to-govern-iran/",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Iran’s supreme leader ‘unconscious and receiving treatment in Qom’",
+          "snippet": "",
+          "url": "https://www.thetimes.com/world/middle-east/israel-iran/article/iran-supreme-leader-mojtaba-khamenei-qom-war-latest-c2th5xgqb",
+          "source": "The Times"
+        },
+        {
+          "title": "Iran Supreme Leader \"Unconscious\", Not Involved In Decision-Making: Report",
+          "snippet": "",
+          "url": "https://www.ndtv.com/world-news/us-iran-war-news-mojtaba-khamenei-unconscious-being-treated-in-holy-city-of-qom-report-11321005",
+          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +155,16 @@
           "source": "Medias24"
         },
         {
-          "title": "Le prix du pétrole chute après l’annonce de Trump",
-          "snippet": "",
-          "url": "https://www.noovo.info/nouvelles/economie/article/le-prix-du-petrole-chute-apres-lannonce-de-trump/",
-          "source": "Noovo Info"
-        },
-        {
           "title": "Wall Street se stabilise mardi, l'incertitude persiste sur la tournure de la guerre",
           "snippet": "",
           "url": "https://ch.zonebourse.com/actualite-bourse/wall-street-se-stabilise-mardi-l-incertitude-persiste-sur-la-tournure-de-la-guerre-ce7e50dad889f526",
           "source": "Zonebourse Suisse"
+        },
+        {
+          "title": "Cessez-le-feu en Iran: les Bourses européennes attendues en forte hausse à l'ouverture",
+          "snippet": "",
+          "url": "https://www.boursorama.com/bourse/actualites/cessez-le-feu-en-iran-les-bourses-europeennes-attendues-en-forte-hausse-a-l-ouverture-contrats-a-terme-9d2fb0148c9c4a9472f3dee289abac4f",
+          "source": "Boursorama"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,44 +183,44 @@
           "source": "العربية"
         },
         {
-          "title": "حرب إيران مباشر.. ترمب يتباهى بـ\"انتصار كامل\" وطهران تكشف شروط عبور هرمز",
+          "title": "ما الذي حدث خلال الساعات الأخيرة بين إيران وأميركا؟",
           "snippet": "",
-          "url": "https://www.aljazeera.net/news/liveblog/2026/4/7/%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D9%82%D8%B5%D9%81?update=9075120",
-          "source": "الجزيرة نت"
+          "url": "https://www.skynewsarabia.com/video/1863093-%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
+          "source": "سكاي نيوز عربية"
         },
         {
-          "title": "ترامب يعلن هدنة مشروطة لأسبوعين مع إيران مقابل فتح مضيق هرمز",
+          "title": "ما هي أبرز النقاط في المقترح الإيراني لإنهاء الحرب مع الولايات المتحدة وإسرائيل؟",
           "snippet": "",
-          "url": "https://www.hespress.com/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D9%87%D8%AF%D9%86%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D9%86-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8-1727695.html",
-          "source": "Hespress"
+          "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260408-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A7%D8%B9%D8%AA%D8%A8%D8%B1%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D8%B3%D8%A7%D8%B3%D8%A7-%D9%84%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "kylian mbappé",
-      "trafficCount": "200+",
+      "title": "arsenal fc",
+      "trafficCount": "100+",
       "pubDate": "Tue, 7 Apr 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTnQzc_opykHF6ZN7gStoYM13JbNo1TxESqdx07yHdPjzG5KdUFHZavwED3c",
-      "pictureSource": "Gazeta Express",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOCnBkJ9Yr0471r_L7yeSehEI7E33mHSDJi7T5xscnoTHErGA2yUZ6ATcsf4Y",
+      "pictureSource": "UEFA.com",
       "relatedSearch": [
         {
-          "title": "Kane and Mbappé with new records, aim to reach the legends",
+          "title": "Real Madrid vs Bayern München",
           "snippet": "",
-          "url": "https://www.gazetaexpress.com/en/They-are-done-with-new-records--they-aim-to-reach-the-legends./",
-          "source": "Gazeta Express"
+          "url": "https://www.uefa.com/uefachampionsleague/match/2048064--real-madrid-vs-bayern-munchen/",
+          "source": "UEFA.com"
         },
         {
-          "title": "Mbappe joins Messi, Ronaldo in elite Champions League scorers group after Bayern Munich goal",
+          "title": "Sporting CP - Arsenal Live - Champions League: Football Scores & Highlights - 07/04/2026",
           "snippet": "",
-          "url": "https://worldsoccertalk.com/news/mbappe-joins-messi-ronaldo-in-elite-champions-league-scorers-group-after-bayern-munich-goal/",
-          "source": "World Soccer Talk"
+          "url": "https://www.tntsports.co.uk/football/champions-league/2025-2026/sporting-cp-arsenal_mtc1601221/live.shtml",
+          "source": "TNT Sports"
         },
         {
-          "title": "Mbappé closes in on Ronaldo's achievement... and saves Real Madrid's streak | Goal.com English Saudi Arabia",
+          "title": "Arsenal: Sporting CP star faces Champions League ban for quarter-final showdown",
           "snippet": "",
-          "url": "https://www.goal.com/en-sa/news/mbappe-edges-toward-ronaldo-s-milestone-and-rescues-real-madrid-s-streak/blt1a82cbaad056f17b",
-          "source": "Goal.com"
+          "url": "https://www.aol.co.uk/articles/arsenal-sporting-cp-star-faces-104800506.html",
+          "source": "AOL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,7 +255,7 @@
     },
     {
       "title": "السنغال",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 7 Apr 2026 13:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBYEZETkdOGEA3tM16hw6sJAbeYY4jjkbqXiu113_QLQDYC5dGTA-TJK0K0TE",
       "pictureSource": "Kooora",
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.aljazeera.net/sport/2026/4/7/%D9%85%D9%88%D8%AA%D8%B3%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D9%81",
           "source": "الجزيرة نت"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "لويس إنريكي",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 7 Apr 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxYHCF9NrOLvDRZCFAwCR8USNyV2w2Z5t7CW3CzxAE5xikXBk7THCaT8yBEk",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "إنريكي: هذا هو أسرع طريق للوقوع في فخ ليفربول",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D8%A7%D9%95%D9%86%D8%B1%D9%8A%D9%83%D9%8A-%D9%87%D8%B0%D8%A7-%D9%87%D9%88-%D8%A7%D9%94%D8%B3%D8%B1%D8%B9-%D8%B7%D8%B1%D9%8A%D9%82-%D9%84%D9%84%D9%88%D9%82%D9%88%D8%B9-%D9%81%D9%8A-%D9%81%D8%AE-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84/blt7352ac22ab864ead",
-          "source": "Kooora"
-        },
-        {
-          "title": "الإسباني سانشيز حكما لقمة باريس سان جيرمان وليفربول بدروي أبطال أوروبا",
-          "snippet": "",
-          "url": "https://www.hesport.com/%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D8%B3%D8%A7%D9%86%D8%B4%D9%8A%D8%B2-%D8%AD%D9%83%D9%85%D8%A7-%D9%84%D9%82%D9%85%D8%A9-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A-433962.html",
-          "source": "هسبورت"
-        },
-        {
-          "title": "سان جيرمان ضد ليفربول في ربع نهائي دوري الأبطال: الموعد والقنوات الناقلة",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/sport/2026/4/6/%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-          "source": "الجزيرة نت"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "atlético madrid",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 7 Apr 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjPI4oADMf883815aUy8GOJuw7Ww3PHIeXnnTGsa-PBZkuHze9eSVxt8qNbDI",
-      "pictureSource": "Elbotola",
-      "relatedSearch": [
-        {
-          "title": "Flick Settles on Barcelona XI for Atlético Madrid Champions League Tie",
-          "snippet": "",
-          "url": "https://m.elbotola.com/en/article/2026-04-07-14-15-540.html",
-          "source": "Elbotola"
-        },
-        {
-          "title": "Domestic rivalry, European stage: The unpredictable allure of Champions League derbies",
-          "snippet": "",
-          "url": "https://www.besoccer.com/new/domestic-rivalry-european-stage-the-unpredictable-allure-of-champions-league-derbies-1403242",
-          "source": "BeSoccer Livescore"
-        },
-        {
-          "title": "Simeone: We Respect Barcelona but We Have Enthusiasm, and Griezmann is One of the Key Players",
-          "snippet": "",
-          "url": "https://www.ysscores.com/en/news/13941147/Simeone:-We-Respect-Barcelona-but-We-Have-Enthusiasm,-and-Griezmann-is-One-of-the-Key-Players",
-          "source": "www.ysscores.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jamal musiala",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 7 Apr 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8EecwmOYoFwKowzyS41sAt5YEUZXg25zHBoQhDq2RkiuPfe09Y_vQBUohLo",
-      "pictureSource": "Yahoo Sports",
-      "relatedSearch": [
-        {
-          "title": "Vincent Kompany explains how he and Julian Nagelsmann coordinate to help Jamal Musiala return to fitness",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/vincent-kompany-explains-julian-nagelsmann-183000758.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "„Not everything flawless“: Eberl’s statements on Musiala’s injury raise eyebrows",
-          "snippet": "",
-          "url": "https://fcbinside.com/2026/04/07/not-everything-flawless-eberls-statements-on-musialas-injury-raise-eyebrows/",
-          "source": "Bayern Munich News"
-        },
-        {
-          "title": "Canada's Alphonso Davies subs on for Bayern in return from injury",
-          "snippet": "",
-          "url": "https://www.sportsnet.ca/bundesliga/article/canadas-alphonso-davies-named-to-bayerns-bench-in-return-from-injury/",
-          "source": "Sportsnet"
         }
       ],
       "link": "https://imtaqin.id/"
