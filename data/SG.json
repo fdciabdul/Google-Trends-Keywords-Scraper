@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2026-04-09 22:03:52",
+  "lastUpdate": "2026-04-09 22:23:01",
   "data": [
+    {
+      "title": "s&p 500",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 9 Apr 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4vE3R0oioWWh6wjW3Tzk99CUIIi5DnrDvKbD5WW9nR2JeMDmYTWKhIsvWxjI",
+      "pictureSource": "CNA",
+      "relatedSearch": [
+        {
+          "title": "US stocks extend gains, shrugging off ceasefire worries",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/world/oil-prices-stocks-market-us-iran-strait-hormuz-6046711",
+          "source": "CNA"
+        },
+        {
+          "title": "Stocks Fall as US-Iran Doubts Push Up Oil Prices: Markets Wrap",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-08/stock-market-today-dow-s-p-live-updates",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Wall Street ends higher as Middle East peace talks lift sentiment",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/us-stock-futures-dip-over-shaky-mideast-truce-inflation-focus-2026-04-09/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather today",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 9 Apr 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5FHxc6G_UJ3Bc9_DSqILpG0f51XjA5yCKLuIabWsGoEqO8LU2MroVvgehEE0",
+      "pictureSource": "CNA",
+      "relatedSearch": [
+        {
+          "title": "Dry weather and wind set up tough conditions for Masters",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/sport/dry-weather-and-wind-set-up-tough-conditions-masters-6044821",
+          "source": "CNA"
+        },
+        {
+          "title": "From Premier League champion to survival mode, Liverpool’s season is on the brink",
+          "snippet": "",
+          "url": "https://www.thespec.com/sports/soccer/from-premier-league-champion-to-survival-mode-liverpools-season-is-on-the-brink/article_d2c4b9c5-55c8-5b9b-860d-47af98e73b05.html",
+          "source": "The Spec"
+        },
+        {
+          "title": "Masters 2026: Overheard in the gallery at Augusta National on Thursday",
+          "snippet": "",
+          "url": "https://www.golfdigest.com/story/masters-2026-overheard-in-the-gallery-augusta-national-thursday",
+          "source": "Golf Digest"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather forecast",
       "trafficCount": "100+",
@@ -15,16 +71,44 @@
           "source": "Bernews"
         },
         {
-          "title": "Weather Forecast for Thursday, April 9",
+          "title": "Environment Canada adopts AI for weather forecasting",
           "snippet": "",
-          "url": "https://www.foxla.com/video/fmc-atdd3mg6ep6eyy69",
-          "source": "FOX 11 Los Angeles"
+          "url": "https://letsdatascience.com/news/environment-canada-adopts-ai-for-weather-forecasting-df6aa4ae",
+          "source": "Let's Data Science"
         },
         {
-          "title": "Storm Alert Wx 3: Seasonable Thursday, scattered evening rain showers",
+          "title": "Environment Canada to use AI in new weather forecasting model",
           "snippet": "",
-          "url": "https://www.kimt.com/news/storm-alert-wx-3-seasonable-thursday-scattered-evening-rain-showers/article_8fc138bd-3a08-4a99-8fab-be64fee188a0.html",
-          "source": "KIMT"
+          "url": "https://www.winnipegsun.com/national-news/environment-canada-to-use-ai-in-new-weather-forecasting-model/article_e4c38395-af35-59f4-9a62-3447448da909.html",
+          "source": "Winnipeg Sun"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "masters 2026",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 9 Apr 2026 14:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd06GRk0e8n3ZEvOQlfQE-O2dy1c9WkkmX8E77dPFxHw_ANVmi-YKnZk-w69E",
+      "pictureSource": "CNA",
+      "relatedSearch": [
+        {
+          "title": "McIlroy grabs share of Masters clubhouse lead, Scheffler in pursuit",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/sport/mcilroy-grabs-share-masters-clubhouse-lead-scheffler-in-pursuit-6046666",
+          "source": "CNA"
+        },
+        {
+          "title": "Rory McIlroy tied for lead to begin Masters defence",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/sport/golf/rory-mcilroy-tied-for-lead-to-begin-masters-defence",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "The Masters 2026: day one golf updates from Augusta National – live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/sport/live/2026/apr/09/the-masters-2026-day-one-golf-updates-from-augusta-national-live?page=with%3Ablock-69d7b5d88f08dd4830773019",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
           "source": "The Verge"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sbti",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 9 Apr 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCSYded9m8s171yo0Ji3yGaY_7dgiY7AqmHx1KsafB4Uq6YZFmgcEiHv-MD0",
-      "pictureSource": "Reuters",
-      "relatedSearch": [
-        {
-          "title": "More companies committed to validated emission targets in 2025, SBTi reports",
-          "snippet": "",
-          "url": "https://www.reuters.com/sustainability/climate-energy/more-companies-committed-validated-emission-targets-2025-sbti-reports-2026-04-09/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Was 2025 really the year of climate retreat? The data tells a different story",
-          "snippet": "",
-          "url": "https://www.businessgreen.com/opinion/4528078/2025-climate-retreat-tells-different-story",
-          "source": "Business Green"
-        },
-        {
-          "title": "SBTi Data Shows Corporate Climate Targets Jump 40% in 2025 as Asia Emerges",
-          "snippet": "",
-          "url": "https://esgnews.com/sbti-data-shows-corporate-climate-targets-jump-40-in-2025-as-asia-emerges/",
-          "source": "ESG News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "carlos alcaraz",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 9 Apr 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREp0Zy53G07f2FeUOW946se9kVWr8CAiTM-VwfJD55RYoHzSbFiQP2LmJkT8s",
-      "pictureSource": "France 24",
-      "relatedSearch": [
-        {
-          "title": "Alcaraz y Sinner ceden un set pero avanzan a cuartos en Montecarlo",
-          "snippet": "",
-          "url": "https://www.france24.com/es/minuto-a-minuto/20260409-alcaraz-y-sinner-ceden-un-set-pero-avanzan-a-cuartos-en-montecarlo",
-          "source": "France 24"
-        },
-        {
-          "title": "Alcaraz sigue en la lucha por la cima tras vencer a Etcheverry",
-          "snippet": "",
-          "url": "https://www.ilmessaggero.it/es/alcaraz_sigue_en_la_lucha_por_la_cima_tras_vencer_a_etcheverry-9464595.html",
-          "source": "Il Messaggero"
-        },
-        {
-          "title": "Alcaraz necesita del tercer set para alcanzar la victoria ante un combativo Etcheverry y certifica su pase a cuartos de final en Montecarlo",
-          "snippet": "",
-          "url": "https://www.infobae.com/espana/deportes/2026/04/09/alcaraz-necesita-del-tercer-set-para-alcanzar-la-victoria-ante-un-combativo-etcheverry-y-certifica-su-pase-a-cuartos-de-final-en-montecarlo/",
-          "source": "Infobae"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kkr vs lsg",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 9 Apr 2026 06:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdPmRV2CcOYswUzONuRI-EnxnAxHD2h2MLcC6QXFtQRwxxulJ2MjVVx7q-aR0",
-      "pictureSource": "ESPNcricinfo",
-      "relatedSearch": [
-        {
-          "title": "Ball by Ball Commentary & Live Score - KKR vs LSG, 15th Match",
-          "snippet": "",
-          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/kolkata-knight-riders-vs-lucknow-super-giants-15th-match-1527688/ball-by-ball-commentary",
-          "source": "ESPNcricinfo"
-        },
-        {
-          "title": "Choudhary smashes Lucknow to dramatic IPL win over Kolkata",
-          "snippet": "",
-          "url": "https://sg.news.yahoo.com/choudhary-smashes-lucknow-dramatic-ipl-181244940.html",
-          "source": "Yahoo News Singapore"
-        },
-        {
-          "title": "Who is Mukul Choudhary? Know his salary and 3 franchises that bid for him in IPL 2026 auction",
-          "snippet": "",
-          "url": "https://www.indiatvnews.com/sports/cricket/who-is-mukul-choudhary-know-his-salary-and-3-franchises-that-bid-for-him-in-ipl-2026-auction-2026-04-09-1036980",
-          "source": "India TV News"
         }
       ],
       "link": "https://imtaqin.id/"
