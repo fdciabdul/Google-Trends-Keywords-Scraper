@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-04-10 13:59:03",
+  "lastUpdate": "2026-04-10 14:30:24",
   "data": [
+    {
+      "title": "nyári dia",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Apr 2026 07:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZEYzCwCh81KqqidLG4fhYj8rQCD1j9K0S_-M_If_mYK0KzBMsC8nSoUwMyY",
+      "pictureSource": "Blikk",
+      "relatedSearch": [
+        {
+          "title": "Megszületett Nyári Dia kislánya, tündéri nevet kapott",
+          "snippet": "",
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/megszuletett-nyari-dia-masodik-gyermeke/helr3vd",
+          "source": "Blikk"
+        },
+        {
+          "title": "Nyári Dia kislánya megszületett: íme az első babafotó róla",
+          "snippet": "",
+          "url": "https://femina.hu/hazai_sztar/nyari-dia-megszult/",
+          "source": "Femina.hu"
+        },
+        {
+          "title": "Megszületett Nyári Dia kislánya, gyönyörű nevet kapott",
+          "snippet": "",
+          "url": "https://www.kisalfold.hu/helyi-bulvar-celeb/2026/04/nyari-dia-szules-emma-panni",
+          "source": "KISALFOLD"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "választás",
       "trafficCount": "1000+",
@@ -31,7 +59,7 @@
     },
     {
       "title": "kreml",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 10 Apr 2026 06:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr_5zhkoP9yNUNkGsHocM0clVzwDW7V-SCGWgVDL-_JlK91m5ArLv4V5KBA7k",
       "pictureSource": "| hvg.hu",
@@ -49,38 +77,10 @@
           "source": "24.hu"
         },
         {
-          "title": "Szijjártó Péter a kiszivárgott Orbán–Putyin-jegyzőkönyvről: Szégyentelen külföldi titkosszolgálati beavatkozás",
+          "title": "Orbán Viktor egy benzinkúton árulta el a Telexnek, mit szól ahhoz, hogy kiszivárgott a Putyinnal folytatott beszélgetése",
           "snippet": "",
-          "url": "https://nepszava.hu/3317960_szijjarto-peter-orban-viktor-vlagyimir-putyin-kiszivargott-jegyzokonyv-titkosszolgalati-beavatkozas",
-          "source": "Népszava"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hírszerzés",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Apr 2026 06:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnNbtAt6gBmtpgKEBa6hu6eDHDtTGL1j3kCxcQaD8Vdkery2CNNUf-r8ylQnU",
-      "pictureSource": "Portfolio.hu",
-      "relatedSearch": [
-        {
-          "title": "Riasztást adott ki az amerikai hírszerzés: váratlan technológia miatt kerültek célkeresztbe a katonáik a Közel-Keleten",
-          "snippet": "",
-          "url": "https://www.portfolio.hu/global/20260407/riasztast-adott-ki-az-amerikai-hirszerzes-varatlan-technologia-miatt-kerultek-celkeresztbe-a-katonaik-a-kozel-keleten-829010",
-          "source": "Portfolio.hu"
-        },
-        {
-          "title": "Kínai segítséggel támadhat amerikai bázisokra Irán",
-          "snippet": "",
-          "url": "https://24.hu/tech/2026/04/09/iran-kina-usa-muholdkepek/",
-          "source": "24.hu"
-        },
-        {
-          "title": "Digitális vasfüggöny: Washington elrejtené az iráni csapások vizuális bizonyítékait",
-          "snippet": "",
-          "url": "https://maszol.ro/kulfold/Digitalis-vasfuggony-Washington-elrejtene-az-irani-csapasok-vizualis-bizonyitekait",
-          "source": "Maszol"
+          "url": "https://www.hirstart.hu/hk/20260409_egyetlen_szoval_reagalt_orban_viktor_a_kiszivargott_putyin-beszelgetesre",
+          "source": "Hírstart"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,8 +114,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hírszerzés",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 10 Apr 2026 06:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnNbtAt6gBmtpgKEBa6hu6eDHDtTGL1j3kCxcQaD8Vdkery2CNNUf-r8ylQnU",
+      "pictureSource": "Portfolio.hu",
+      "relatedSearch": [
+        {
+          "title": "Riasztást adott ki az amerikai hírszerzés: váratlan technológia miatt kerültek célkeresztbe a katonáik a Közel-Keleten",
+          "snippet": "",
+          "url": "https://www.portfolio.hu/global/20260407/riasztast-adott-ki-az-amerikai-hirszerzes-varatlan-technologia-miatt-kerultek-celkeresztbe-a-katonaik-a-kozel-keleten-829010",
+          "source": "Portfolio.hu"
+        },
+        {
+          "title": "Kínai segítséggel támadhat amerikai bázisokra Irán",
+          "snippet": "",
+          "url": "https://24.hu/tech/2026/04/09/iran-kina-usa-muholdkepek/",
+          "source": "24.hu"
+        },
+        {
+          "title": "Digitális vasfüggöny: Washington elrejtené az iráni csapások vizuális bizonyítékait",
+          "snippet": "",
+          "url": "https://maszol.ro/kulfold/Digitalis-vasfuggony-Washington-elrejtene-az-irani-csapasok-vizualis-bizonyitekait",
+          "source": "Maszol"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "április 12.",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 10 Apr 2026 06:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSDWIAvfT04Xbxnu9-k2Obnk66xerLXNZZf5XVhC9QBB25dApw5lPi72xy_0k",
       "pictureSource": "Portfolio.hu",
@@ -223,9 +251,15 @@
       "title": "soltész miklós",
       "trafficCount": "500+",
       "pubDate": "Fri, 10 Apr 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9loU_2PPQT33gJbP4mFNsceGXFv1o-zQRgAed_F4bbHcpPTWHopdjvQxUDw",
-      "pictureSource": "24.hu",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT00GlMFb0C8cIycRmO0xfle1EcqjAAAGZVuWQUciq3ezXa6V_NjAIQ1yGgnSk",
+      "pictureSource": "| hvg.hu",
       "relatedSearch": [
+        {
+          "title": "Legfőbb ügyész: A Szőlő utcai nyomozásban nem merült fel, hogy Soltész Miklós kapcsolatban lett volna Juhász Péter Pállal",
+          "snippet": "",
+          "url": "https://hvg.hu/itthon/20260410_legfobb-ugyesz-soltesz-miklos-juhasz-peter-pal",
+          "source": "| hvg.hu"
+        },
         {
           "title": "Legfőbb ügyész: Nincs olyan adat, amely szerint Juhász Péter Pál és Soltész Miklós kapcsolatban álltak volna",
           "snippet": "",
@@ -237,40 +271,6 @@
           "snippet": "",
           "url": "https://www.hirstart.hu/hk/20260410_iran_targyal_is_amerikaval_meg_nem_is",
           "source": "Hírstart"
-        },
-        {
-          "title": "Sziklának, majd autónak ütközött, súlyos állapotban kórházban fekszik a spanyol kerékpáros",
-          "snippet": "",
-          "url": "https://www.eurosport.hu/kerekpar/jaume-guardeno-bukas-sulyos-allapot-korhaz_sto23286855/story.shtml",
-          "source": "Eurosport"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nutella",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Apr 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG0xqCWzIBua_CHPiFD52hL87Eh6_R99NC4qjCbMyQWoE9nB92CnSE0IBVbeQ",
-      "pictureSource": "CNN",
-      "relatedSearch": [
-        {
-          "title": "Nutella goes viral in deep space",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/04/07/science/video/nutella-viral-space-artemis-digvid",
-          "source": "CNN"
-        },
-        {
-          "title": "Nutella capitalizes on greatest free advertising moment in history on NASA Moon mission",
-          "snippet": "",
-          "url": "https://www.foxnews.com/science/nutella-capitalizes-greatest-free-advertising-moment-history-nasa-moon-mission",
-          "source": "Fox News"
-        },
-        {
-          "title": "It’s nuts how much it cost to get Nutella into space",
-          "snippet": "",
-          "url": "https://www.telegraph.co.uk/news/2026/04/09/cost-of-sending-nutella-into-space-artemis-astronauts/",
-          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
