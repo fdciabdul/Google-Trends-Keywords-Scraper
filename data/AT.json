@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-04-11 20:15:40",
+  "lastUpdate": "2026-04-11 20:31:25",
   "data": [
+    {
+      "title": "kai pflaume",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 11 Apr 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXo3LYIcjzcZnKV_uOvM0i4jNPgbHvBWRxiwvpNaI6vgHo4He1gnxJWV-oZrs",
+      "pictureSource": "ORF ON",
+      "relatedSearch": [
+        {
+          "title": "Wer weiß denn sowas XXL",
+          "snippet": "",
+          "url": "https://on.orf.at/video/14318618/wer-weiss-denn-sowas-xxl",
+          "source": "ORF ON"
+        },
+        {
+          "title": "Nach heftiger Kritik an Wotan Wilke Möhring: So reagiert \"Wer weiß denn sowas?\"",
+          "snippet": "",
+          "url": "https://www.mz.de/kultur/tv-und-streaming/wer-weiss-denn-sowas-wotan-wilke-moehring-kritik-ard-reaktion-4230015",
+          "source": "Mitteldeutsche Zeitung"
+        },
+        {
+          "title": "Wer weiß denn sowas?: Jeannie Wagner und Twenty4tim - hier anschauen",
+          "snippet": "",
+          "url": "https://www.ardmediathek.de/video/wer-weiss-denn-sowas/jeannie-wagner-und-twenty4tim/ndr/Y3JpZDovL25kci5kZS84YTI1MWM1NS0xMTE0LTQ1ZDQtODEwMi00NzE4Mzk0YzI0N2U",
+          "source": "ARD Mediathek"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "wald",
       "trafficCount": "100+",
@@ -59,7 +87,7 @@
     },
     {
       "title": "daniel küblböck",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 11 Apr 2026 12:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZdJR_Pzq8FQq8fyYXATXgFkAC5soyg5Ya945Dfgendn_BBpvjWIZluhHMII",
       "pictureSource": "ARD Mediathek",
@@ -114,34 +142,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "harald krassnitzer",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 11 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4N7Qazny9KvunzCl-OmF0r-PQKTjTnCP1nfou6Wz_laB6Ajn2m1wrj40VM0w",
-      "pictureSource": "Joyn",
-      "relatedSearch": [
-        {
-          "title": "Harald Krassnitzer: Mit dieser berühmten Frau ist der \"Tatort\"-Star liiert",
-          "snippet": "",
-          "url": "https://www.joyn.de/bts/serien/tatort/harald-krassnitzer-das-ist-die-beruehmte-frau-an-der-seite-des-tatort-stars-8017",
-          "source": "Joyn"
-        },
-        {
-          "title": "Ann-Kathrin Kramer und Harald Krassnitzer: Haben sie Kinder?",
-          "snippet": "",
-          "url": "https://www.tz.de/stars/ann-kathrin-kramer-und-harald-krassnitzer-haben-sie-kinder-zr-94253948.html",
-          "source": "TZ"
-        },
-        {
-          "title": "Vor ihrer Ehe mit Harald Krassnitzer: Das ist Ann-Kathrin Kramers berühmter Ex",
-          "snippet": "",
-          "url": "https://www.t-online.de/unterhaltung/stars/id_101203700/ann-kathrin-kramer-mit-diesem-promi-war-sie-vor-harald-krassnitzer-liiert.html",
-          "source": "T-Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "linz",
       "trafficCount": "2000+",
       "pubDate": "Sat, 11 Apr 2026 12:20:00 -0700",
@@ -170,29 +170,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "harald krassnitzer",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 11 Apr 2026 12:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4N7Qazny9KvunzCl-OmF0r-PQKTjTnCP1nfou6Wz_laB6Ajn2m1wrj40VM0w",
+      "pictureSource": "Joyn",
+      "relatedSearch": [
+        {
+          "title": "Harald Krassnitzer: Mit dieser berühmten Frau ist der \"Tatort\"-Star liiert",
+          "snippet": "",
+          "url": "https://www.joyn.de/bts/serien/tatort/harald-krassnitzer-das-ist-die-beruehmte-frau-an-der-seite-des-tatort-stars-8017",
+          "source": "Joyn"
+        },
+        {
+          "title": "Ann-Kathrin Kramer und Harald Krassnitzer: Haben sie Kinder?",
+          "snippet": "",
+          "url": "https://www.tz.de/stars/ann-kathrin-kramer-und-harald-krassnitzer-haben-sie-kinder-zr-94253948.html",
+          "source": "TZ"
+        },
+        {
+          "title": "Vor ihrer Ehe mit Harald Krassnitzer: Das ist Ann-Kathrin Kramers berühmter Ex",
+          "snippet": "",
+          "url": "https://www.t-online.de/unterhaltung/stars/id_101203700/ann-kathrin-kramer-mit-diesem-promi-war-sie-vor-harald-krassnitzer-liiert.html",
+          "source": "T-Online"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "usa",
       "trafficCount": "500+",
       "pubDate": "Sat, 11 Apr 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhjafIk0s3IP83pndurumnT68Atu1WYGRCGeRTbkIrdhBeA3pOsBVUZzkxmE",
-      "pictureSource": "Billie Jean King Cup",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuaIO9n_ryn1_IGXDD_BxVTEbb3y9HSOtIgNzkPR9jh1r-TuB7P_AlzNCRrQ",
+      "pictureSource": "USA Boxing",
       "relatedSearch": [
         {
-          "title": "Reigning Champions Italy secure Finals return in style against Japan",
+          "title": "United States Sends Four Boxers to Sunday’s Gold Medal Round at 2026 Gee Bee Boxing Tournament",
           "snippet": "",
-          "url": "https://www.billiejeankingcup.com/en/news/italy-v-japan-how-the-tie-was-won",
-          "source": "Billie Jean King Cup"
+          "url": "https://www.usaboxing.org/news/2026/april/11/united-states-sends-four-boxers-to-sunday-s-gold-medal-round-at-2026-gee-bee-boxing-tournament",
+          "source": "USA Boxing"
         },
         {
-          "title": "Holders Italy, Britain into BJK Cup finals, USA fight back",
+          "title": "Boxing News: USA Opens Strong At 2026 Gee Bee Tournament In Helsinki » April 11, 2026",
           "snippet": "",
-          "url": "https://www.moorenews.com/news/national/holders-italy-britain-into-bjk-cup-finals-usa-fight-back/article_9f3f3dff-db6e-5f5d-99d3-89b753b7b07a.html",
-          "source": "The Moore County News-Press"
+          "url": "https://fightnews.com/usa-opens-strong-at-2026-gee-bee-tournament-in-helsinki/186256",
+          "source": "FightNews"
         },
         {
-          "title": "Italy, Ukraine make strong starts in BJK Cup",
+          "title": "USA Boxing High Performance Squad Head to 2026 GeeBee Boxing Tournament in Finland",
           "snippet": "",
-          "url": "https://tribune.com.pk/story/2602275/italy-ukraine-make-strong-starts-in-bjk-cup",
-          "source": "The Express Tribune"
+          "url": "https://www.usaboxing.org/news/2026/april/06/usa-boxing-high-performance-squad-head-to-2026-geebee-boxing-tournament-in-finland",
+          "source": "USA Boxing"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +254,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "helen dorn",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 11 Apr 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53FcoFUUjtA7_5TrGJnSUlMx85C_uKVs7zf9b7rA3UMBUwQ7gS1OltISHXW0",
-      "pictureSource": "ZDF",
-      "relatedSearch": [
-        {
-          "title": "Anschlag im Frauengefängnis! Verdammte Familie - Helen Dorn im ZDF streamen",
-          "snippet": "",
-          "url": "https://www.zdf.de/video/serien/helen-dorn-104/helen-dorn---verdammte-familie-100",
-          "source": "ZDF"
-        },
-        {
-          "title": "TV-Tipps am Samstag",
-          "snippet": "",
-          "url": "https://www.gmx.at/magazine/unterhaltung/tv-shows/tv-tipps-samstag-42107456",
-          "source": "GMX.AT"
-        },
-        {
-          "title": "\"Helen Dorn – Verdammte Familie\": Kritik zum neuen ZDF-Krimi mit Anna Loos",
-          "snippet": "",
-          "url": "https://www.prisma.de/news/tv/Helen-Dorn-Verdammte-Familie-Kritik-zum-neuen-ZDF-Krimi-mit-Anna-Loos,56477353",
-          "source": "Prisma"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "tyson fury",
       "trafficCount": "200+",
       "pubDate": "Sat, 11 Apr 2026 11:50:00 -0700",
@@ -273,10 +273,10 @@
           "source": "The Sun"
         },
         {
-          "title": "Where to watch Tyson Fury fight live in the UK tonight and what time fight will start",
+          "title": "Fury vs Makhmudov free bets: Best betting offers from top boxing betting sites",
           "snippet": "",
-          "url": "https://www.express.co.uk/sport/boxing/2193000/where-to-watch-tyson-fury-fight-live-uk-tonight",
-          "source": "Daily Express"
+          "url": "https://www.independent.co.uk/sport/boxing/fury-vs-makhmudov-free-bets-from-best-boxing-betting-sites-b2955445.html",
+          "source": "The Independent"
         }
       ],
       "link": "https://imtaqin.id/"
