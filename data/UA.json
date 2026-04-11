@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-04-11 02:21:33",
+  "lastUpdate": "2026-04-11 03:24:50",
   "data": [
+    {
+      "title": "россия",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 10 Apr 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8gjCnV_j6BargnZd6cpGna0JaYKIg6OSVbUDcskVjqC8nemUArVwaIMgDLQ",
+      "pictureSource": "NV",
+      "relatedSearch": [
+        {
+          "title": "России нужны не «несколько километров». Что происходит после достижения перемирия",
+          "snippet": "",
+          "url": "https://nv.ua/opinion/pasha-peremirie-diplomat-rasskazal-chto-nuzhno-rossii-ot-ukrainy-50599310.html",
+          "source": "NV"
+        },
+        {
+          "title": "Выжидание Путина. Как действует Россия в войне США с Ираном",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/vyzhidanie-putina-kak-deystvuet-rossiya-v-voyne-usa-s-iranom/33727003.html",
+          "source": "Радио Свобода"
+        },
+        {
+          "title": "\"В представлениях Трампа король должен быть один\": эксперт рассказал, в чём просчитался Путин",
+          "snippet": "",
+          "url": "https://www.unian.net/world/voyna-v-irane-ivan-timochko-rasskazal-v-chem-proschitalsya-vladimir-putin-13342836.html",
+          "source": "УНИАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "nasa",
       "trafficCount": "100+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "новости спорта",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 10 Apr 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT447fq3bxiCpEmoyJr2OPHbtuoyEKYOALqcpat1xX4ONkHqKsEK4Jl6lAGNdI",
-      "pictureSource": "Sport.ua",
-      "relatedSearch": [
-        {
-          "title": "В Динамо заявили, что судья помог Шахтеру выиграть матч",
-          "snippet": "",
-          "url": "https://sport.ua/news/857170-v-dinamozayavili-chto-sudya-pomog-shahteruvyigrat-match",
-          "source": "Sport.ua"
-        },
-        {
-          "title": "«Цинциннати» ведет переговоры с окружением Неймара о возможном трансфере",
-          "snippet": "",
-          "url": "https://ua.tribuna.com/football/1000000334288-tsyntsynnati-vede-perehovory-z-otochennyam-neymara-shcho/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Неймар начал переговоры с новым клубом",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/1003386719/1006173478_neymar_nachal_peregovoryi_s_novyim_klubom",
-          "source": "Евро-Футбол"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "погода украина",
       "trafficCount": "500+",
       "pubDate": "Fri, 10 Apr 2026 15:40:00 -0700",
@@ -81,6 +81,34 @@
           "snippet": "",
           "url": "https://www.obozrevatel.com/novosti-obschestvo/eto-vtoroj-uroven-opasnosti-sinoptik-predupredil-ob-izmenenii-pogodyi.htm",
           "source": "Obozrevatel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "новости спорта",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 10 Apr 2026 15:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3J36kwKPfq6JxIHLmaOYaFhrwxBG9Vuv-G_g-3HD5JddSLKcXo66S9uWRGU",
+      "pictureSource": "Футбол 24",
+      "relatedSearch": [
+        {
+          "title": "В Металлисте 1925 оценили отсутствие Пономаренко на очный матч с Динамо",
+          "snippet": "",
+          "url": "https://football24.ua/ru/news/v-metalliste-1925-ocenili-otsutstvie-ponomarenko-na-ochnyj-match-s-dinamo-936520",
+          "source": "Футбол 24"
+        },
+        {
+          "title": "Эксперт считает, что у Динамо сейчас немало проблем. Ставит на Металлист 1925",
+          "snippet": "",
+          "url": "https://www.ua-football.com/ukrainian/high/1775818773-yekspert-schitaet-chto-u-dinamo-seychas-nemalo-problem-stavit-na-metallist-1925.html",
+          "source": "UA-Football"
+        },
+        {
+          "title": "Арбитры матча «Динамо» — «Карпаты» не получили назначений в 23-м туре (10 апреля 2026 г.)",
+          "snippet": "",
+          "url": "https://dynamo.kiev.ua/news/721221-arbitryi-matcha-dinamo-karpatyi-ne-poluchili-naznachenij-v-23-m-ture",
+          "source": "Динамо Киев от Шурика"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -161,10 +189,38 @@
           "source": "ТСН"
         },
         {
-          "title": "Реал Мадрид Жирона – онлайн-трансляція і склади на матч Ла Ліги – Футбол 24",
+          "title": "Реал Мадрид Жирона – огляд матчу 31 туру Ла Ліги – Футбол 24",
           "snippet": "",
-          "url": "https://football24.ua/news/real-madryd-zhyrona-onlayn-translyatsiya-i-sklady-na-match-la-lihy-936493",
+          "url": "https://football24.ua/news/real-madryd-zhyrona-ohlyad-matchu-31-turu-la-lihy-936521",
           "source": "Футбол 24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "знак",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 10 Apr 2026 13:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJVxIj5N5fC0bsuAfmgOVqOt_I_k19-F4if-TNfNCpwwd1KtZcr9C5nLChpuw",
+      "pictureSource": "Українські Новини",
+      "relatedSearch": [
+        {
+          "title": "Гороскоп на 11 апреля. Что подготовили звезды для всех знаков зодиака",
+          "snippet": "",
+          "url": "https://ukranews.com/news/1145542-goroskop-na-11-aprelya-chto-podgotovili-zvezdy-dlya-vseh-znakov-zodiaka",
+          "source": "Українські Новини"
+        },
+        {
+          "title": "Гороскоп на выходные с 10 по 12 апреля: время смелых решений и неожиданных поворотов",
+          "snippet": "",
+          "url": "https://mixnews.lv/goroskop/2026/04/10/goroskop-na-vyhodnye-s-10-po-12-aprelya-vremya-smelyh-resheniy-i-neozhidannyh-povorotov/",
+          "source": "Mixnews"
+        },
+        {
+          "title": "Дева, мелочность может стать преградой для успеха, Скорпион, сбавьте градус контроля — гороскоп на 11 апреля",
+          "snippet": "",
+          "url": "https://riabir.ru/480170/",
+          "source": "РИА Биробиджан"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -180,7 +236,7 @@
     },
     {
       "title": "роберт левандовський",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 10 Apr 2026 13:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShRPPSi08PE924SaE6cdMdP7LrgxRtKIZEhsQ0xDBaHP8SeLE0lw07VgnEHt8",
       "pictureSource": "Korrespondent.net",
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://ua.tribuna.com/uk/football/1000000333961-milan-ta-yuventus-tsikavlyatsya-levandovskym/",
           "source": "Tribuna.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid vs girona",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 10 Apr 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRMTEj9Ydtw1o64r72SQxMDlvvbhJoN535xGZ_bS5C8RSyj6IPcFQ1rZY-Nno",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Real Madrid 1-1 Girona: Los Blancos continue stuttering form with home draw in La Liga",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cgrlqgzr0elt",
-          "source": "BBC"
-        },
-        {
-          "title": "Rudiger set for Girona rest as Madrid manages defensive workload",
-          "snippet": "",
-          "url": "https://tribuna.com/en/news/2026-04-10-rudiger-set-for-girona-rest-as-madrid-manages-defensive-workload/",
-          "source": "Tribuna.com"
-        },
-        {
-          "title": "Crisis of form ahead of Bayern’s second leg: Real slip up in the league against Girona",
-          "snippet": "",
-          "url": "https://fcbinside.com/2026/04/10/crisis-of-form-ahead-of-bayerns-second-leg-real-slip-up-in-the-league-against-girona/",
-          "source": "fcbinside.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "кір стармер",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 10 Apr 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5JyRPHCD_nUx7d2ABTA7SLeh-PZH6h4U_EJQqGmiXgpFyxV43g8Ce7GcHh7s",
-      "pictureSource": "Korrespondent.net",
-      "relatedSearch": [
-        {
-          "title": "Стармер про вартість енергоносіїв: Мені набрид вплив Трампа та Путіна",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/business/economics/4869907-starmer-pro-vartist-enerhonosiiv-meni-nabryd-vplyv-trampa-ta-putina",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "\"Мені набридло\": Стармер різко висловився про дії Трампа і Путіна",
-          "snippet": "",
-          "url": "https://www.unian.ua/economics/energetics/meni-nabridlo-starmer-rizko-vislovivsya-pro-diji-trampa-i-putina-13344564.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Стармер заявив, що йому \"набрид\" вплив Путіна й Трампа на вартість енергоносіїв",
-          "snippet": "",
-          "url": "https://espreso.tv/svit-starmer-zayaviv-shcho-yomu-nabrid-vpliv-putina-y-trampa-na-vartist-energonosiiv",
-          "source": "Espreso.tv"
         }
       ],
       "link": "https://imtaqin.id/"
