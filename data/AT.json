@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-04-14 20:05:08",
+  "lastUpdate": "2026-04-14 20:29:44",
   "data": [
+    {
+      "title": "die presse",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 14 Apr 2026 12:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSGKzdTWiu3qgzB3eC_U0OVtMWlZ9xnQ14Px3ligQ5Y1hsBkG5dWShjveh-_Y",
+      "pictureSource": "ORF",
+      "relatedSearch": [
+        {
+          "title": "Ungarn: Hürden bei Rückbau des „Systems Orban“",
+          "snippet": "",
+          "url": "https://orf.at/stories/3426741/",
+          "source": "ORF"
+        },
+        {
+          "title": "Designierter ungarischer Minister feiert Wahlsieg mit Tanz auf der Bühne",
+          "snippet": "",
+          "url": "https://www.srf.ch/news/international/showeinlage-in-budapest-minister-in-spe-zeigt-den-wahlsieg-kann-man-auch-tanzen",
+          "source": "SRF"
+        },
+        {
+          "title": "Nach Ungarn-Wahl: Kickl will künftig Orbáns „Kampf“ fortsetzen",
+          "snippet": "",
+          "url": "https://www.diepresse.com/20766836/nach-ungarn-wahl-kickl-will-kuenftig-orbans-kampf-fortsetzen",
+          "source": "DiePresse.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "bushido",
       "trafficCount": "500+",
@@ -30,36 +58,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "die presse",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 14 Apr 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSGKzdTWiu3qgzB3eC_U0OVtMWlZ9xnQ14Px3ligQ5Y1hsBkG5dWShjveh-_Y",
-      "pictureSource": "ORF",
-      "relatedSearch": [
-        {
-          "title": "Ungarn: Hürden bei Rückbau des „Systems Orban“",
-          "snippet": "",
-          "url": "https://orf.at/stories/3426741/",
-          "source": "ORF"
-        },
-        {
-          "title": "Designierter ungarischer Minister feiert Wahlsieg mit Tanz auf der Bühne",
-          "snippet": "",
-          "url": "https://www.srf.ch/news/international/showeinlage-in-budapest-minister-in-spe-zeigt-den-wahlsieg-kann-man-auch-tanzen",
-          "source": "SRF"
-        },
-        {
-          "title": "Magyar: Würde mit Putin sprechen - \"es wäre ein kurzes Telefonat\"",
-          "snippet": "",
-          "url": "https://www.vol.at/magyar-wuerde-mit-putin-sprechen-es-waere-ein-kurzes-telefonat/10108595",
-          "source": "VOL.AT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "conchita wurst",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 14 Apr 2026 12:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjL8zlSaxXkWBD_yho04gPSigUMXJlBkh8jwnJhHyWHuOnSYirHEezddu968",
       "pictureSource": "Kleine Zeitung",
@@ -71,16 +71,16 @@
           "source": "Kleine Zeitung"
         },
         {
-          "title": "Frisch vergeben - Conchita im Beziehungsglück: „Bin sehr verliebt“",
-          "snippet": "",
-          "url": "https://www.krone.at/4107215",
-          "source": "Kronen Zeitung"
-        },
-        {
           "title": "\"Very much in love\": Tom Neuwirth verrät, dass er in einer Beziehung ist",
           "snippet": "",
           "url": "https://kurier.at/stars/austropromis/very-much-in-love-tom-neuwirth-verraet-dass-er-in-einer-beziehung-ist-conchita-wurst/403150089",
           "source": "Kurier"
+        },
+        {
+          "title": "Frisch vergeben - Conchita im Beziehungsglück: „Bin sehr verliebt“",
+          "snippet": "",
+          "url": "https://www.krone.at/4107215",
+          "source": "Kronen Zeitung"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,9 +133,9 @@
           "source": "Crash.net"
         },
         {
-          "title": "FIA steps in after 'trick' by Mercedes and Red Bull discovered in qualifying",
+          "title": "F1 Today: FIA stops Mercedes and Red Bull trick, Aston Martin hit with brutal verdict",
           "snippet": "",
-          "url": "https://www.gpblog.com/en/news/fia-steps-in-after-trick-by-mercedes-and-red-bull-discovered-in-qualifying",
+          "url": "https://www.gpblog.com/en/news/f1-today-fia-stops-mercedes-and-red-bull-trick-aston-martin-hit-with-brutal-verdict",
           "source": "GPblog"
         }
       ],
@@ -143,7 +143,7 @@
     },
     {
       "title": "champions league",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Tue, 14 Apr 2026 12:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjiQyJZZ-ilJ1IxL81jqe7n2LWfQThjkj7usZp0PstICIhVSgmhiIyVeCyYYY",
       "pictureSource": "The Guardian",
@@ -161,10 +161,10 @@
           "source": "Sky Sports"
         },
         {
-          "title": "Barcelona’s confirmed lineup vs. Atlético: Gavi starts, with a true No. 9 leading the attack",
+          "title": "Lenglet's catastrophic error gifts Lamine Yamal the opener",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/en/20260414/1004170560/barcelona-s-confirmed-lineup-vs-atletico-gavi-starts-with-true-no-9-leading-the-attack.html",
-          "source": "Mundo Deportivo"
+          "url": "https://www.besoccer.com/new/lenglets-catastrophic-error-gifts-lamine-yamal-the-opener-1404458",
+          "source": "BeSoccer Livescore"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,7 +173,7 @@
       "title": "wo wird teilnehmer: atlético madrid gegen fc barcelona übertragen",
       "trafficCount": "1000+",
       "pubDate": "Tue, 14 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ-ba5Vdl71NoTCvj2jHedisNfl_y9vbuNyOpa41lgk4R7qzjAgfLO2uTWPFA",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFGcDTJKbgcbQAfxuoZ1FblKQFkAbV-fUDF4q9q6YoC9Y06c-Yo_or8SvCh8",
       "pictureSource": "sport.ORF.at",
       "relatedSearch": [
         {
@@ -183,38 +183,38 @@
           "source": "sport.ORF.at"
         },
         {
-          "title": "Champions League: Atletico – Barcelona und Liverpool – PSG jetzt live!",
-          "snippet": "",
-          "url": "https://www.kleinezeitung.at/sport/fussball/international/championsleague/20767344/atletico-barcelona-und-liverpool-psg-jetzt-im-liveticker",
-          "source": "Kleine Zeitung"
-        },
-        {
           "title": "Liverpool und Barca unter Druck: Wer überträgt die Champions League heute im TV und Stream?",
           "snippet": "",
           "url": "https://www.kicker.at/liverpool-und-barca-unter-druck-wer-uebertraegt-die-champions-league-heute-im-tv-und-stream-1210074/artikel",
           "source": "kicker"
+        },
+        {
+          "title": "„Jetzt schießt die Angst ein, alles zu verlieren!“",
+          "snippet": "",
+          "url": "https://www.krone.at/4105685",
+          "source": "Kronen Zeitung"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "psg",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 14 Apr 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbWbLjhmg_sWyHDwslk8cHjdjmJUCEf_Qf2Lr09hAx5mZuxUrrnaiCr0dCQIQ",
-      "pictureSource": "L'Équipe",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSY8VzLuoLzu-7tX78DvmI8ZrDVZEp6QGhiAzpAo_P9NfvW7ce_tiBNOsh-KQ0",
+      "pictureSource": "DAZN",
       "relatedSearch": [
-        {
-          "title": "DIRECT. Liverpool-PSG (Ligue des champions 2025-2026) en direct",
-          "snippet": "",
-          "url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/liverpool-psg-live/689026",
-          "source": "L'Équipe"
-        },
         {
           "title": "Comment regarder Liverpool - Paris Saint-Germain ? Date, heure, streaming et comment regarder la Ligue des champions​",
           "snippet": "",
           "url": "https://www.dazn.com/fr-FR/news/football/comment-regarder-liverpool-paris-saint-germain-date-heure-streaming-et-comment-regarder-la-ligue-des-champions/1xq2l85h9p3ig12vk8fzw7uuha",
           "source": "DAZN"
+        },
+        {
+          "title": "🎥 C1 : souvenirs du dernier déplacement du PSG à Anfield 🤩",
+          "snippet": "",
+          "url": "https://onefootball.com/fr/news/c1-souvenirs-du-dernier-deplacement-du-psg-a-anfield-42710037",
+          "source": "OneFootball"
         },
         {
           "title": "Six Madrilènes menacés de suspension en cas de qualification en demi-finale de LDC",
@@ -255,22 +255,22 @@
     },
     {
       "title": "liverpool",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 14 Apr 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPpCOaCihBckuplB4jzkqrAIXnmRNHJxIbTDBDSR_hkeXLWLa8DJ_rbgZHuLs",
-      "pictureSource": "Liverpool Echo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ89u-q4pvTfL6j5LjpcYG5G77Cdfmj5btI2Dp_6D7z-t6cUTqTzd1iZ7ueSf4",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
+        {
+          "title": "(1) Liverpool v Paris Saint-Germain: Champions League quarter-final, second leg – live",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2026/apr/14/liverpool-v-paris-saint-germain-champions-league-quarter-final-second-leg-live",
+          "source": "The Guardian"
+        },
         {
           "title": "Liverpool hit with Hugo Ekitike injury blow as Mohamed Salah gets PSG nod",
           "snippet": "",
           "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/hugo-ekitike-liverpool-injury-psg-33771767",
           "source": "Liverpool Echo"
-        },
-        {
-          "title": "HT: GOALLESS DRAW AT ANFIELD SO FAAAAAAARRRR!",
-          "snippet": "",
-          "url": "https://www.besoccer.com/new/live-liverpool-vs-psg-1404407",
-          "source": "BeSoccer Livescore"
         },
         {
           "title": "🔴Liverpool-PSG 0-0 | Ekitike stretchered off, N. Mendes ❌",
