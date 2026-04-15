@@ -1,46 +1,102 @@
 {
-  "lastUpdate": "2026-04-15 03:50:38",
+  "lastUpdate": "2026-04-15 04:50:49",
   "data": [
     {
-      "title": "תחזית",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 14 Apr 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyOfra9mEKI-F-jn3xK3PeHnl8g-TDtSk3EkFYe541vsJuBJPNq3hWCoI5rSs",
+      "title": "דניאל הגרי",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 14 Apr 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfkrIxaYToP_mYvBy-VHSkjMpP0JDE8wd7hM_HLw2IHkiG39I4s5fsmd1Z42k",
+      "pictureSource": "מעריב",
+      "relatedSearch": [
+        {
+          "title": "הבחירות מתקרבות - ודניאל הגרי שוקל צעד דרמטי | דיווח",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/politics/article-1310029",
+          "source": "מעריב"
+        },
+        {
+          "title": "בדרך לפוליטיקה? זו המפלגה איתה מנהל דניאל הגרי מגעים להצטרפות",
+          "snippet": "",
+          "url": "https://www.kikar.co.il/political-news/tdi3hz",
+          "source": "kikar.co.il"
+        },
+        {
+          "title": "דניאל הגרי מנהל מגעים עם מפלגת \"ישר!\" של גדי איזנקוט | דיווח",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/breaking-news/article-1310032",
+          "source": "מעריב"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "מזג אוויר",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 14 Apr 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3ZEcQxC54qPvTJGRyI1_HizQOMbvhKYEvgNk9zTN9HRZe6g96y9tzvXR4BRM",
       "pictureSource": "mako",
       "relatedSearch": [
         {
-          "title": "השרב בפתח: התחממות ניכרת בכל הארץ, ייתכן גם אובך",
+          "title": "שרבי ואביך: שינוי חד לקראת סוף השבוע",
           "snippet": "",
-          "url": "https://www.mako.co.il/news-science/2026_q2/Article-d990b12372e8d91027.htm",
+          "url": "https://www.mako.co.il/hix-nature/Article-ed25763892d8d91026.htm",
           "source": "mako"
+        },
+        {
+          "title": "התחממות ניכרת במזג האוויר: שרב ברוב אזורי הארץ | התחזית",
+          "snippet": "",
+          "url": "https://www.ynet.co.il/news/article/5tf0c27ob",
+          "source": "ynet"
         },
         {
           "title": "תחזית מזג האוויר: לומדים מפאר טסי מהו החיזוי הקלאסי",
           "snippet": "",
           "url": "https://www.haaretz.co.il/news/weather/2026-04-14/ty-article/.premium/0000019d-8c2e-d290-afbf-ac6e43f20000",
           "source": "הארץ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "אירוויזיון 2026",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 14 Apr 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpLstKtBgW6VcLHQMd3oDQFFqqabM1-eKP-uLxkt72EpY4ygnK_j6Ma7ln00I",
+      "pictureSource": "מעריב",
+      "relatedSearch": [
+        {
+          "title": "אירוויזיון 2026 והנתון שחושף הכל: התחרות בדרך לישראל",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/culture/music/article-1309995",
+          "source": "מעריב"
         },
         {
-          "title": "40 מעלות ואובך - ואז מהפך ושיטפונות: \"צפוי להישבר שיא\" | התחזית",
+          "title": "חודש לאירוויזיון: \"מישל\" של נועם בתן הופך ללהיט - וסערת דגלי פלסטין",
           "snippet": "",
-          "url": "https://www.ynet.co.il/news/article/h111lwc93bl",
-          "source": "ynet"
+          "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s1/1026480/",
+          "source": "כאן 11"
+        },
+        {
+          "title": "אחרי הפסקת האש: זה הדירוג של ישראל בהימורי האירוויזיון",
+          "snippet": "",
+          "url": "https://www.srugim.co.il/1301723-%D7%90%D7%97%D7%A8%D7%99-%D7%94%D7%A4%D7%A1%D7%A7%D7%AA-%D7%94%D7%90%D7%A9-%D7%93%D7%99%D7%A8%D7%95%D7%92-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%90%D7%99%D7%A8%D7%95%D7%95%D7%99%D7%96%D7%99%D7%95%D7%9F",
+          "source": "סרוגים"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "trail blazers vs suns",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 14 Apr 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVC3o4SPlJNrMExO7l2zZ9kRuyzhLn4DniXRzLPJ5H41SC6cf53IknQEjpmvk",
-      "pictureSource": "Blazer's Edge",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJL16LI2tBcOHRbqn8gyy9GfEofb1C6lX9KuUSxWSMIkVZYXAitNI9tRkc91A",
+      "pictureSource": "NBA",
       "relatedSearch": [
         {
-          "title": "Breaking Down the Trail Blazers vs. Suns Play-In Matchup",
+          "title": "Portland Trail Blazers vs Phoenix Suns Apr 14, 2026 Game Summary",
           "snippet": "",
-          "url": "https://www.blazersedge.com/trail-blazers-analysis/111307/portland-trail-blazers-phoenix-suns-nba-play-in-game-time-rules-stats-matchup-analysis",
-          "source": "Blazer's Edge"
+          "url": "https://www.nba.com/game/por-vs-phx-0052500121",
+          "source": "NBA"
         },
         {
           "title": "Can Devin Booker conquer Jrue Holiday and secure the 7-Seed?",
@@ -49,10 +105,38 @@
           "source": "BVM Sports"
         },
         {
-          "title": "NBA Pick'Em Picks Today: Best Props for Tuesday April 14 Play-In Games",
+          "title": "Devin Booker, Scoot Henderson, and 3 Other Underdog Props For Suns vs. Trail Blazers",
           "snippet": "",
-          "url": "https://www.rotowire.com/basketball/article/nba-pickem-today-pick6-sleeper-and-prizepicks-for-tuesday-april-14-111230",
-          "source": "RotoWire"
+          "url": "https://www.si.com/onsi/fantasy/dfs/devin-booker-scoot-henderson-and-3-other-underdog-props-for-suns-vs-trail-blazers",
+          "source": "Sports Illustrated"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ערוץ הספורט",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 14 Apr 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhlUVv3sDHNmO9IwHeUzEQok0TlZlAVnYCosbae3__MCL48CM001d3Vy8tIU",
+      "pictureSource": "היום",
+      "relatedSearch": [
+        {
+          "title": "פאנליסט ערוץ 14 וכתבת ערוץ הספורט: צוות השידור המלא למונדיאל 2026",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/sport/world-soccer/article/20304404",
+          "source": "היום"
+        },
+        {
+          "title": "בגיל 83 - יורם ארבל חוזר לרגע הגדול בקריירה שלו: \"אני נרגש מאוד\"",
+          "snippet": "",
+          "url": "https://www.ice.co.il/sport_news/news/article/1109432",
+          "source": "ice (אייס)"
+        },
+        {
+          "title": "אחרי 40 שנה: יורם ארבל ישדר את משחק הפתיחה במונדיאל",
+          "snippet": "",
+          "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/20318218",
+          "source": "היום"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,33 +145,33 @@
       "title": "סאנס נגד טרייל בלייזרס",
       "trafficCount": "2000+",
       "pubDate": "Tue, 14 Apr 2026 19:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPIUelBW0kJaJ0ESWS1JXLSOXh-IjfkXGZlqxExKZl7EHmzFHLDs7snN4VhI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ096i2rnva8EDA_KK8tOfZx1eFaNPaxAwCdw-u65k49L4sbM6b181LJy3L7-8",
       "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "הלילה זה קורה: דני אבדיה במרחק נגיעה מהיסטוריה",
+          "title": "רבע 4, 10:48: פיניקס - פורטלנד 83:88",
           "snippet": "",
-          "url": "https://www.ynet.co.il/sport/worldbasketball/article/bjotfp5h11e",
+          "url": "https://www.ynet.co.il/sport/article/one519753",
           "source": "ynet"
         },
         {
-          "title": "רגע האמת. לחצו למעקב: פורטלנד ודני אבדיה מול פיניקס",
+          "title": "בארצות הברית זעמו על העבירה השנויה במחלוקת והחמיאו: \"אבדיה חתיכת שחקן\"",
           "snippet": "",
-          "url": "https://m.sport5.co.il/articles.aspx?FolderID=8166&docID=540286",
-          "source": "ספורט 5"
+          "url": "https://sport1.maariv.co.il/world-basketball/nba/article/1826385/",
+          "source": "ספורט 1"
         },
         {
-          "title": "דני אבדיה ופורטלנד ישחקו בטורניר הפליי-אין",
+          "title": "דאבל דאבל גדול לאבדיה, פורטלנד סיימה שמינית",
           "snippet": "",
-          "url": "https://www.kan.org.il/content/kan-news/sport/1026635/",
-          "source": "כאן 11"
+          "url": "https://m.one.co.il/Mobile/Article/25-26/2,12,234,114453/519630.html?ref=hp",
+          "source": "ONE"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "nba",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 14 Apr 2026 19:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQeXtiQq3p5eqPoZJ8DQKT3YSJ1q6LhAn5KrpVPe3jCVgGU-L0NGBPefiX3A",
       "pictureSource": "NBA",
@@ -105,10 +189,10 @@
           "source": "Yahoo Sports"
         },
         {
-          "title": "Hornets 127-126 Heat (Apr 14, 2026) Final Score",
+          "title": "NBA Best Bets Today: Top Expert Picks & Predictions for the NBA Play-In Tournament on Tuesday 4/14/26",
           "snippet": "",
-          "url": "https://www.espn.com/nba/game?gameId=401866755",
-          "source": "ESPN"
+          "url": "https://dknetwork.draftkings.com/2026/04/14/nba-best-bets-today-top-expert-picks-predictions-for-the-nba-play-in-tournament-on-tuesday-4-14-26-transcript/",
+          "source": "DraftKings Network"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +211,16 @@
           "source": "ynet"
         },
         {
+          "title": "לבנון בלחץ: זו הסיבה האמיתית למו\"מ עם ישראל | ד\"ר אדי כהן",
+          "snippet": "",
+          "url": "https://www.maariv.co.il/news/military/article-1310026",
+          "source": "מעריב"
+        },
+        {
           "title": "שגריר ישראל בתום מו\"מ עם מקבילתו הלבנונית: אמרה שחיזבאללה לא ישלוט שם",
           "snippet": "",
           "url": "https://www.haaretz.co.il/news/politics/2026-04-14/ty-article/0000019d-8c7f-db77-a3ff-adff7c940000",
           "source": "הארץ"
-        },
-        {
-          "title": "אופטימיות בעולם הערבי לאחר השיחות: \"שונאים את חיזבאללה - איראן מחזיקה בקלפים\"",
-          "snippet": "",
-          "url": "https://www.maariv.co.il/news/world/article-1310020",
-          "source": "מעריב"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/%D7%99%D7%95%D7%9D-%D7%94%D7%96%D7%99%D7%9B%D7%A8%D7%95%D7%9F-%D7%9C%D7%A9%D7%95%D7%90%D7%94-%D7%95%D7%9C%D7%92%D7%91%D7%95%D7%A8%D7%94-%D7%94%D7%AA%D7%A9%D7%A4-%D7%95/2026/%D7%94%D7%97%D7%99%D7%99%D7%9C%D7%95%D7%AA-%D7%A9%D7%96%D7%95%D7%9B%D7%A8%D7%95%D7%AA-%D7%95%D7%9E%D7%96%D7%9B%D7%99%D7%A8%D7%95%D7%AA-%D7%91%D7%9B%D7%9C-%D7%99%D7%95%D7%9D-%D7%9E%D7%97%D7%93%D7%A9-%D7%90%D7%AA-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%94%D7%9D-%D7%A9%D7%9C-6-%D7%94%D7%9E%D7%99%D7%9C%D7%99%D7%95%D7%9F/",
           "source": "את\"צ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ספורט 5",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 14 Apr 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jWwPKE0IsvxmFy54lxVCZ5C3UZlgiOW9vb86-dMdoc2ldIWjpPknWyMgGKc",
-      "pictureSource": "ספורט 5",
-      "relatedSearch": [
-        {
-          "title": "ישפיע על הקהל בחצי הגמר? ההגבלות החדשות בי-ם",
-          "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=283&docID=540150",
-          "source": "ספורט 5"
-        },
-        {
-          "title": "ההנחיות לא שונו: חצי גמר הגביע בין מכבי ת\"א למכבי חיפה ישוחק תחת הגבלת קהל",
-          "snippet": "",
-          "url": "https://www.ynet.co.il/sport/israelisoccer/article/e59yrbn6u",
-          "source": "ynet"
-        },
-        {
-          "title": "בכר: זה הסופר קלאסיקו של הכדורגל הישראלי",
-          "snippet": "",
-          "url": "https://m.one.co.il/Mobile/Article/25-26/1,1,4,68333/519781.html?ref=hp",
-          "source": "ONE - מספר 1 בספורט"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sport5",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 14 Apr 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK5L7IsnTegraUpkD36DeKhMofqXVSlxGIIGDaC70FvJhVTAlb_OGjblhtxfo",
-      "pictureSource": "ספורט 5",
-      "relatedSearch": [
-        {
-          "title": "מטורף: סל ניצחון של לאמלו בול הדיח את מיאמי",
-          "snippet": "",
-          "url": "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=540291",
-          "source": "ספורט 5"
-        },
-        {
-          "title": "אחרי הארכה ודרמה פרועה: שארלוט ניצחה את מיאמי בפלייאין",
-          "snippet": "",
-          "url": "https://sport1.maariv.co.il/world-basketball/nba/article/1826332/",
-          "source": "ספורט 1"
-        },
-        {
-          "title": "מטורף: סל ניצחון של לאמלו בול הדיח את מיאמי",
-          "snippet": "",
-          "url": "https://m.sport5.co.il/articles.aspx?FolderID=403&docID=540291&showHeader=false",
-          "source": "ספורט 5"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "championship",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 14 Apr 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1WIHG3f-qBE2u1I6ceVaoWlX0T994zB5fMoBTyuAGFbSMR7jDVo8BEsvOQPA",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Denver Pioneers win 3rd NCAA men's hockey title in 5 years",
-          "snippet": "",
-          "url": "https://www.espn.com/college-sports/story/_/id/48461899/denver-pioneers-win-3rd-ncaa-men-hockey-title-5-years",
-          "source": "ESPN"
-        },
-        {
-          "title": "DU ready to celebrate 11th national championship with fans",
-          "snippet": "",
-          "url": "https://www.aol.com/articles/du-ready-celebrate-11th-national-021744941.html",
-          "source": "AOL.com"
-        },
-        {
-          "title": "Denver and Wisconsin Clash in Epic NCAA Hockey Championship",
-          "snippet": "",
-          "url": "https://nationaltoday.com/us/co/denver/news/2026/04/13/denver-and-wisconsin-clash-in-epic-ncaa-hockey-championship/",
-          "source": "National Today"
         }
       ],
       "link": "https://imtaqin.id/"
