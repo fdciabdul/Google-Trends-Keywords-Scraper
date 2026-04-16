@@ -1,13 +1,32 @@
 {
-  "lastUpdate": "2026-04-16 13:45:39",
+  "lastUpdate": "2026-04-16 14:24:20",
   "data": [
     {
       "title": "hay alerta hoy",
       "trafficCount": "200+",
       "pubDate": "Thu, 16 Apr 2026 02:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvxTe4qcrkTAUA9tqtnAsXHUYsnAtwR2M9ekQFragU0-BKsy7cnWV4N_rQedI",
+      "pictureSource": "Yahoo",
+      "relatedSearch": [
+        {
+          "title": "Se viene una tormenta con actividad eléctrica, granizo, vientos de 90km/h y 180mm de lluvias",
+          "snippet": "",
+          "url": "https://es-us.noticias.yahoo.com/viene-tormenta-actividad-el%C3%A9ctrica-granizo-134428417.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Alerta naranja por tormentas severas en el AMBA y 12 provincias: lluvias fuertes y ráfagas intensas",
+          "snippet": "",
+          "url": "https://www.perfil.com/noticias/clima/hay-alertas-naranja-y-amarilla-por-tormentas-y-vientos-fuertes-en-el-amba-y-12-provincias.phtml",
+          "source": "Perfil"
+        },
+        {
+          "title": "Se viene una importante lluvia al campo, con acumulados de hasta 180 mm",
+          "snippet": "",
+          "url": "https://news.agrofy.com.ar/noticia/215637/se-viene-importante-lluvia-campo-acumulados-180-mm",
+          "source": "Agrofy News"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -24,16 +43,16 @@
           "source": "Montevideo Portal"
         },
         {
-          "title": "Inumet extiende su alerta amarilla por el ciclón extratropical: las zonas afectadas por lluvias abundantes",
-          "snippet": "",
-          "url": "https://www.elpais.com.uy/informacion/servicios/ciclon-extratropical-inumet-alerta-16-4-2026",
-          "source": "EL PAÍS Uruguay"
-        },
-        {
           "title": "Paysandú sigue bajo lluvia y viento tras un día de alta inestabilidad",
           "snippet": "",
           "url": "https://www.eltelegrafo.com/2026/04/paysandu-sigue-bajo-lluvia-y-viento-tras-un-dia-de-alta-inestabilidad/",
           "source": "El Telégrafo"
+        },
+        {
+          "title": "Advertencia amarilla del Inumet por la persistencia de lluvias abundantes",
+          "snippet": "",
+          "url": "https://www.subrayado.com.uy/advertencia-amarilla-del-inumet-la-persistencia-lluvias-abundantes-n1005261",
+          "source": "subrayado.com.uy"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,37 +68,28 @@
     },
     {
       "title": "clima montevideo",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 16 Apr 2026 01:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "sudamericana",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 15 Apr 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHbzkUM1JdDb4rnm5yiQK73qD5w2ApfikaSkM4Jzav_FAJu6oFkkeHMFfoEP4",
-      "pictureSource": "TyC Sports",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0IRGJ_9DL1da5dCLCyBRSeIXaYqvwta1H07Zl5AIzW0M5sVgf5mLKS_Rr7uo",
+      "pictureSource": "EL PAÍS Uruguay",
       "relatedSearch": [
         {
-          "title": "San Lorenzo vs. Deportivo Cuenca, EN VIVO: dónde verlo por TV y ONLINE",
+          "title": "Clima de hoy en Uruguay: el pronóstico de Inumet de este jueves 16 de abril y los próximos días",
           "snippet": "",
-          "url": "https://www.tycsports.com/copa-sudamericana/san-lorenzo-vs-deportivo-cuenca-en-vivo-donde-ver-por-tv-y-online-id724314.html",
-          "source": "TyC Sports"
+          "url": "https://www.elpais.com.uy/informacion/servicios/el-pronostico-para-el-jueves-16-de-abril-de-2026-como-estara-el-tiempo-en-cada-zona-del-pais-segun-inumet",
+          "source": "EL PAÍS Uruguay"
         },
         {
-          "title": "Cero distracciones: Jorge Célico tiene una sola meta en Sudamericana con el Deportivo Cuenca (VIDEO)",
+          "title": "Inumet prevé una desmejora desde la tarde del martes",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/cero-distracciones-jorge-celico-tiene-una-sola-meta-en-sudamericana-con-el-deportivo-cuenca-video-42717670",
-          "source": "OneFootball"
+          "url": "https://www.fmgente.com.uy/noticias/inumet-preve-desmejora-desde-tarde-80898.html",
+          "source": "FM Gente"
         },
         {
-          "title": "Los antecedentes de San Lorenzo contra equipos ecuatorianos en copas internacionales",
+          "title": "Martes con cielo cubierto, neblinas y lluvia en distintas zonas del país, según Inumet",
           "snippet": "",
-          "url": "https://mundoazulgrana.com.ar/sanlorenzo/noticias/41514/historial-positivo-los-antecedentes-de-san-lorenzo-contra-equipos-de-ecuador_.html",
-          "source": "Mundo Azulgrana"
+          "url": "https://www.telenoche.com.uy/sociedad/martes-cielo-cubierto-neblinas-y-lluvia-distintas-zonas-del-pais-segun-inumet-n5398309",
+          "source": "Telenoche"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -97,54 +107,26 @@
       "title": "river",
       "trafficCount": "1000+",
       "pubDate": "Wed, 15 Apr 2026 18:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRtRy0VQgfe5789ASrUuzlSzzAGMOqGJVSSJrRZWLez_aSGHV8XWyqqP_ewLg",
-      "pictureSource": "Ottawa Citizen",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZXMw9t9ZFXMHIQyf-HoY-o-OXJs-OYRgZfWuFiWS2oDCDdcN6wMTrM_h4yrI",
+      "pictureSource": "FOX 17 West Michigan News",
       "relatedSearch": [
         {
-          "title": "One-on-one: Senators GM Steve Staios on playoffs, Linus Ullmark and facing the Hurricanes",
+          "title": "Neighbors along the Muskegon River prepare for flooding as water levels rise",
           "snippet": "",
-          "url": "https://ottawacitizen.com/ottawa-senators/ottawa-senators-steve-staios-playoffs",
-          "source": "Ottawa Citizen"
+          "url": "https://www.fox17online.com/news/local-news/neighbors-along-the-muskegon-river-prepare-for-flooding-as-water-levels-rise",
+          "source": "FOX 17 West Michigan News"
         },
         {
-          "title": "City of Gatineau urging residents to prepare for flooding on Ottawa River",
+          "title": "Flash flood warning issued in Newaygo County as rising rivers trigger state of emergency",
           "snippet": "",
-          "url": "https://www.ctvnews.ca/ottawa/article/city-of-gatineau-urging-residents-to-prepare-for-flooding-on-ottawa-river/",
-          "source": "CTV News"
+          "url": "https://www.thenews.com.pk/latest/1399127-flash-flood-warning-issued-in-newaygo-county-as-rising-rivers-trigger-state-of-emergency",
+          "source": "The News International"
         },
         {
-          "title": "Flood warning, outlooks for areas in Renfrew County amid forecasted heavy rainfall",
+          "title": "Residents in Muskegon River floodplain near Croton Dam directed to evacuate immediately",
           "snippet": "",
-          "url": "https://www.insideottawavalley.com/news/renfrew-county-flood-warnings-outlook/article_ba7bd09a-83ae-5dab-b363-537418600f6a.html",
-          "source": "Inside Ottawa Valley"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "river plate",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 15 Apr 2026 18:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLOijG-t_DmoysihIHSLXqdav_9rVUTTNrH6Dxu76_pk0EJZvDvaeaWypQUB8",
-      "pictureSource": "ESPN Uruguay",
-      "relatedSearch": [
-        {
-          "title": "¡Alarma en River! Juanfer Quintero salió con molestias ante Carabobo",
-          "snippet": "",
-          "url": "https://www.espn.com.uy/futbol/copa-sudamericana/nota/_/id/16580628/video-lesion-juan-fernando-quintero-river-vs-carabobo-baja-superclasico-parte-medico",
-          "source": "ESPN Uruguay"
-        },
-        {
-          "title": "Preocupación en River: así se lesionó un jugador clave para Coudet que es duda para el partido con Boca",
-          "snippet": "",
-          "url": "https://www.eldestapeweb.com/deportes/futbol-argentino/preocupacion-en-river-se-lesiono-un-jugador-clave-para-coudet-y-es-duda-para-el-partido-con-boca-202641521542",
-          "source": "El Destape"
-        },
-        {
-          "title": "¿Baja en el Superclásico? Fausto Vera salió dolorido de River vs. Carabobo",
-          "snippet": "",
-          "url": "https://espndeportes.espn.com/futbol/copa-sudamericana/nota/_/id/16580399/video-la-lesion-de-fausto-vera-river-vs-carabobo-baja-superclasico",
-          "source": "ESPN Deportes"
+          "url": "https://wwmt.com/news/local/residents-in-muskegon-river-floodplain-near-croton-dam-directed-to-evacuate-immediately-newaygo-county-emergency",
+          "source": "WWMT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,6 +164,62 @@
           "snippet": "",
           "url": "https://www.lmneuquen.com/espectaculos/el-nuevo-desafio-mariano-martinez-lejos-la-actuacion-n1234941",
           "source": "LM Neuquén"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "millonarios - boston river",
+      "trafficCount": "5000+",
+      "pubDate": "Wed, 15 Apr 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ__md1Nz6GbzFaInrG0ueylNqH6KETlHldMwAbcewSE9VA9qtChATS08TXCcQ",
+      "pictureSource": "la diaria",
+      "relatedSearch": [
+        {
+          "title": "Copa Sudamericana: Boston River cayó con altura",
+          "snippet": "",
+          "url": "https://ladiaria.com.uy/deporte/articulo/2026/4/copa-sudamericana-boston-river-cayo-con-altura/",
+          "source": "la diaria"
+        },
+        {
+          "title": "Sudamericana: Boston River está empatando 0-0 en su visita a Millonarios en Colombia",
+          "snippet": "",
+          "url": "https://www.montevideo.com.uy/Deportes/Sudamericana-Boston-River-esta-empatando-0-0-en-su-visita-a-Millonarios-en-Colombia-uc959182",
+          "source": "Montevideo Portal"
+        },
+        {
+          "title": "Millonarios 1-0 Boston River por Sudamericana: el Sastre lo aguantó, pero se le escapó el punto en el final",
+          "snippet": "",
+          "url": "https://www.elpais.com.uy/ovacion/futbol/millonarios-vs-boston-river-en-vivo-por-copa-sudamericana-el-sastre-busca-sus-primeros-puntos-en-bogota",
+          "source": "EL PAÍS Uruguay"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "river vs",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 15 Apr 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqKtwIzuk-qy2RpMAbMeGuHoNmlsr49cOWBTzAui1QGl4UdZAk71GvIKq_f8",
+      "pictureSource": "Olé",
+      "relatedSearch": [
+        {
+          "title": "River y Boca llegan de racha al superclásico: las claves de un partido con muchas cosas en juego",
+          "snippet": "",
+          "url": "https://www.ole.com.ar/futbol-primera/river-boca-superclasico-clave-victorias_0_WeUSHAG8Ag.html",
+          "source": "Olé"
+        },
+        {
+          "title": "Votá en la encuesta de TN: ¿quién ganará el Superclásico?",
+          "snippet": "",
+          "url": "https://tn.com.ar/deportes/futbol/2026/04/16/vota-en-la-encuesta-de-tn-quien-ganara-el-superclasico/",
+          "source": "TN"
+        },
+        {
+          "title": "La reventa se dispara y piden hasta $1,7 millones para ver River vs. Boca",
+          "snippet": "",
+          "url": "https://www.puntocapitalnoticias.com/la-reventa-se-dispara-y-piden-hasta-17-millones-para-ver-river-vs-boca/",
+          "source": "Punto Capital Noticias"
         }
       ],
       "link": "https://imtaqin.id/"
