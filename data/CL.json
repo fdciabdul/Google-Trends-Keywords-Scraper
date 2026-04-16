@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-16 11:09:04",
+  "lastUpdate": "2026-04-16 11:36:25",
   "data": [
     {
       "title": "clima hoy",
@@ -31,7 +31,7 @@
     },
     {
       "title": "hallazgo arqueológico",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 16 Apr 2026 03:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXogTsUbT9EYE4MgDZEbuP143OD_sHWhsVOdYUM4vRmOwjM0OqNSfaSQqjSf4",
       "pictureSource": "Ladera Sur",
@@ -59,56 +59,56 @@
     },
     {
       "title": "weather",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 16 Apr 2026 03:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaU36f805kp4KfL99-pUSCii3vgo6VlZjc13zchqqonooVuQpzg4wKdFpB9qg",
-      "pictureSource": "WGN-TV",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcatmWhX06F3BrSp_XX_UxmZlAB3c_6MfzUalR_qsBICXl3BO5a0QILSO9d0",
+      "pictureSource": "Detroit Free Press",
       "relatedSearch": [
         {
-          "title": "Friday’s cooler, more seasonable temps followed another round of rainfall",
+          "title": "Heavy rainfall, severe storms predicted for metro Detroit starting tonight",
           "snippet": "",
-          "url": "https://wgntv.com/weather/chicago-weather-friday-04102026/",
-          "source": "WGN-TV"
+          "url": "https://www.freep.com/story/news/local/michigan/detroit/2026/04/14/flood-warning-4-inches-rain-metro-detroit/89611939007/",
+          "source": "Detroit Free Press"
         },
         {
-          "title": "Rainy and Turning Cooler on Friday, Drying Out This Weekend",
+          "title": "🌧️ And now our (flood) watch begins",
           "snippet": "",
-          "url": "https://www.newschannel20.com/rainy-and-turning-cooler-on-friday-drying-out-this-weekend/video_543f197b-f462-5b74-a31b-002662735c62.html",
-          "source": "NewsChannel20"
+          "url": "https://outliermedia.org/newsletter/and-now-our-flood-watch-begins/",
+          "source": "Outlier Media"
         },
         {
-          "title": "Chicago Weather: Highs in the upper 50s and sunshine before rain",
+          "title": "Metro Detroit Weather: Severe storm chance overnight",
           "snippet": "",
-          "url": "https://www.fox32chicago.com/video/fmc-2l6j101c7ah6nojm",
-          "source": "FOX 32 Chicago"
+          "url": "https://www.wxyz.com/weather/forecast/todays-forecast/metro-detroit-weather-flood-watch-more-storms-coming-to-metro-detroit",
+          "source": "WXYZ Channel 7"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "combustible",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 16 Apr 2026 03:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr-8LuSwUFb3B341Ln2Y4xR9TXwJ6EAiXhTOAYPS3Pm9caQunSeHN_rnzHF_M",
-      "pictureSource": "BioBioChile",
+      "title": "la tercera",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 16 Apr 2026 03:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVsP7pD2PEvNvERQBKbAyIqPhY9nG17kl6yZiG5kZm8ky6GT15fC2A_rwHNAw",
+      "pictureSource": "Emol",
       "relatedSearch": [
         {
-          "title": "Camioneros presionan al Gobierno por alza del petróleo: confirman movilizaciones y más podrían sumarse",
+          "title": "Triunfazo de Coquimbo ante Universitario en Perú y es líder en la Libertadores: Mira los goles y cómo quedó el grupo",
           "snippet": "",
-          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/04/16/camioneros-presionan-al-gobierno-por-alza-del-petroleo-confirman-movilizaciones-y-mas-podrian-sumarse.shtml",
-          "source": "BioBioChile"
-        },
-        {
-          "title": "Camioneros golpean la mesa tras nueva alza de gasolinas: \"No se nos puede obligar a trabajar bajo los costos\"",
-          "snippet": "",
-          "url": "https://www.emol.com/noticias/Economia/2026/04/15/1197351/camioneros-alza-gasolinas-trabajar-costos.html",
+          "url": "https://www.emol.com/noticias/Deportes/2026/04/15/1197251/coquimbo-peru-universitario-goles-grupo.html",
           "source": "Emol"
         },
         {
-          "title": "Enap confirma nueva alza en las bencinas: precio subirá hasta $22 por litro este jueves",
+          "title": "Ganando en Perú con el libreto del campeón: el mejor Coquimbo de la temporada eleva los números de la era Caputto",
           "snippet": "",
-          "url": "https://www.latercera.com/pulso/noticia/enap-confirma-nueva-alza-en-las-bencinas-precio-subira-hasta-22-por-litro-este-jueves/",
+          "url": "https://www.latercera.com/el-deportivo/noticia/ganando-en-peru-con-el-libreto-del-campeon-el-mejor-coquimbo-de-la-temporada-eleva-los-numeros-de-la-era-caputto/",
           "source": "La Tercera"
+        },
+        {
+          "title": "Caputto y triunfo de Coquimbo ante Universitario: \"Es un gran resultado, pero esto sigue\"",
+          "snippet": "",
+          "url": "https://www.espn.cl/futbol/copa-libertadores/nota/_/id/16577468/caputto-triunfo-coquimbo-universitario-libertadores-declaraciones",
+          "source": "ESPN Chile"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,33 +145,33 @@
       "title": "76ers - magic",
       "trafficCount": "200+",
       "pubDate": "Thu, 16 Apr 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSknojTLzkSozhxTlVAtEvaLaMHWjGTufuAhBKPPs9W8gffVod5bE6ATf4n4Dg",
-      "pictureSource": "Hoops Rumors",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo5yJgzYXtExTrXv4cpXWmwBY3HUYEiYlv6MUaJCO17BN0YHL04aA1hmvdB9w",
+      "pictureSource": "The Sixer Sense",
       "relatedSearch": [
         {
-          "title": "Sixers Clinch Playoff Spot, Will Face Celtics In First Round",
+          "title": "Tyrese Maxey just confirmed what Sixers fans already knew with Play-In masterclass",
           "snippet": "",
-          "url": "https://www.hoopsrumors.com/2026/04/sixers-clinch-playoff-spot-will-face-celtics-in-first-round.html",
-          "source": "Hoops Rumors"
+          "url": "https://thesixersense.com/tyrese-maxey-just-confirmed-what-sixers-fans-already-knew-with-play-in-masterclass",
+          "source": "The Sixer Sense"
         },
         {
-          "title": "76ers' Tyrese Maxey: Powers 76ers to victory",
+          "title": "Joel Embiid provides an emotional lift and Tyrese Maxey carries the 76ers into the playoffs",
           "snippet": "",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/76ers-tyrese-maxey-powers-76ers-to-victory/",
-          "source": "CBS Sports"
+          "url": "https://sports.yahoo.com/articles/joel-embiid-provides-emotional-lift-044127878.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Desmond Bane Shines, But Magic Lose to 76ers in Play-In Tournament",
+          "title": "Warriors rally to eliminate Clippers, 76ers reach NBA playoffs",
           "snippet": "",
-          "url": "https://www.si.com/nba/magic/onsi/desmond-bane-shines-orlando-magic-lose-76ers-play-in-tournament",
-          "source": "Sports Illustrated"
+          "url": "https://www.rfi.fr/en/sports/20260416-sixers-top-magic-to-book-nba-playoff-clash-with-celtics",
+          "source": "RFI"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "precipitación",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 16 Apr 2026 01:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWbVA4Zu5pigRp-jV6eA5HR3hnfkbxRGQ4A4RV7_2uZG4WlZdFML_mpHuDlQA",
       "pictureSource": "La Tercera",
@@ -201,26 +201,26 @@
       "title": "world cup 2026",
       "trafficCount": "2000+",
       "pubDate": "Thu, 16 Apr 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOoGvDIFinpDGQ7ef_bgxDRxqdYyNw1jLCL7ILJ5K38rbkoSP_2A0i6s-v6ig",
-      "pictureSource": "CNBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4go-y5e2gICne0zCy0baSRDuMfjlrsbPuGhOH9O_pSTe2fX_iHfz9IVi27c",
+      "pictureSource": "Australian Broadcasting Corporation",
       "relatedSearch": [
         {
-          "title": "Iran team is 'coming for sure' to 2026 World Cup in U.S., says FIFA President Infantino",
+          "title": "FIFA provides more expensive World Cup tickets after backlash over prices",
           "snippet": "",
-          "url": "https://www.cnbc.com/2026/04/15/fifa-president-iran-team-coming-for-sure-to-2026-world-cup-in-us.html",
-          "source": "CNBC"
+          "url": "https://www.abc.net.au/news/2026-04-15/fifa-world-cup-ticket-prices-soar-despite-backlash/106565834",
+          "source": "Australian Broadcasting Corporation"
         },
         {
-          "title": "Football Infantino confirms the participation of Iran in World Cup 2026",
+          "title": "World Cup 2026: Fans with disabilities 'excluded'",
           "snippet": "",
-          "url": "https://en.africatopsports.com/2026/04/16/infantino-confirms-the-participation-of-iran-in-world-cup-2026/",
-          "source": "Africa Top Sports"
+          "url": "https://www.dw.com/en/world-cup-2026-fans-with-disabilities-excluded/a-76796915",
+          "source": "DW.com"
         },
         {
-          "title": "Gianni Infantino 'sure' Iran will compete at World Cup despite ongoing war with United States and Israel",
+          "title": "World Cup 2026 tickets are still available for some games in Texas",
           "snippet": "",
-          "url": "https://au.sports.yahoo.com/gianni-infantino-sure-iran-compete-082428701.html",
-          "source": "Yahoo Sports Australia"
+          "url": "https://www.elpasotimes.com/story/sports/soccer/2026/04/14/world-cup-2026-tickets-still-available-for-houston-games-how-to-buy/89611481007/",
+          "source": "El Paso Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -273,10 +273,10 @@
           "source": "BBC"
         },
         {
-          "title": "Viral video reveals how photographers captured the Artemis II splashdown in the middle of the ocean",
+          "title": "The Moon Feels Close Again",
           "snippet": "",
-          "url": "https://www.digitalcameraworld.com/photography/astrophotography/the-splashdown-of-a-lifetime-viral-video-reveals-how-photographers-captured-the-artemis-ii-splashdown-in-the-middle-of-the-ocean",
-          "source": "Digital Camera World"
+          "url": "https://vocal.media/humans/the-moon-feels-close-again",
+          "source": "vocal.media"
         }
       ],
       "link": "https://imtaqin.id/"
