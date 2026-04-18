@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-04-18 21:20:27",
+  "lastUpdate": "2026-04-18 21:38:00",
   "data": [
-    {
-      "title": "manchester united",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Apr 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBLGgvTD3dFICL7ZC-vZIGvaJxbwzqN_0atUq3UdnPj6KDmc0HbPSquXFt0x8",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Premier League LIVE: Chelsea lose to Man Utd after Tottenham draw with Brighton",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cz7gz3xqy38t",
-          "source": "BBC"
-        },
-        {
-          "title": "Chelsea - Manchester Utd",
-          "snippet": "",
-          "url": "https://www.flashscore.com/match/football/chelsea-4fGZN2oK/manchester-united-ppjDR086/summary/lineups/?mid=42nywR4D",
-          "source": "Flashscore.com"
-        },
-        {
-          "title": "Argentine duel in the Premier: Enzo and Garnacho v Licha Martínez",
-          "snippet": "",
-          "url": "https://onefootball.com/de/news/argentine-duel-in-the-premier-enzo-and-garnacho-v-licha-martinez-42730826",
-          "source": "OneFootball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "atletico madrid",
       "trafficCount": "200+",
@@ -49,10 +21,10 @@
           "source": "Into the Calderon"
         },
         {
-          "title": "Atletico Madrid vs Real Sociedad– Predicted lineup/team news",
+          "title": "Atlético - R. Sociedad LIVE",
           "snippet": "",
-          "url": "https://thefootballfaithful.com/atletico-madrid-vs-real-sociedad-predicted-lineup-and-team-news-2/",
-          "source": "The Football Faithful"
+          "url": "https://www.marca.com/en/soccer/spanish-copa-del-rey/atletico-r-sociedad/2026/04/18/01_0105_20260418_175_188-live.html",
+          "source": "MARCA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -81,6 +53,34 @@
           "snippet": "",
           "url": "https://www.livesport.ru/football/2026/04/18/roma-atalanta-smotret-onlain/",
           "source": "LiveSport.Ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "premier league",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 18 Apr 2026 11:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG9o6tNHZrkC9mq7og9cWg1PtnTLa4yvrRmioIxU2Lt-1IsFQsMQaT83WSP1M",
+      "pictureSource": "Sports Illustrated",
+      "relatedSearch": [
+        {
+          "title": "How Man Utd, Aston Villa, Liverpool & Chelsea’s Remaining Premier League Fixtures Compare",
+          "snippet": "",
+          "url": "https://www.si.com/soccer/how-man-utd-aston-villa-liverpool-chelsea-remaining-premier-league-fixtures-compare-4-18-26",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Liverpool's next five fixtures compared to rivals in Champions League race after Fulham win",
+          "snippet": "",
+          "url": "https://www.mirror.co.uk/sport/football/news/liverpool-champions-league-man-utd-37001088",
+          "source": "The Mirror"
+        },
+        {
+          "title": "How many points Liverpool need to qualify for Champions League after Chelsea and Aston Villa slip-ups",
+          "snippet": "",
+          "url": "https://www.liverpoolworld.uk/sport/football/liverpool/how-many-points-liverpool-need-to-secure-champions-league-qualification-after-chelsea-latest-slip-up-6572002",
+          "source": "LiverpoolWorld"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "Евро-Футбол"
         },
         {
-          "title": "Предварительный обзор матча «Челси» и «Манчестер Юнайтед», Премьер-лига 2025-2026",
+          "title": "Энцо Фернандес вернулся в состав Челси на матч против Манчестер Юнайтед",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/nhan-dinh-chelsea-va-man-united-ngoai-hang-anh-2025-2026",
-          "source": "Vietnam.vn"
+          "url": "http://allsport-news.net/769041_entso_fernandes_vernulsya_v_sostav_chelsi_na_match_protiv_manchester_yunayted.html",
+          "source": "allsport-news.net"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,10 +239,10 @@
           "source": "Anthropic"
         },
         {
-          "title": "Tech stocks today: Anthropic releases its newest model, Claude Opus 4.7",
+          "title": "Claude Opus 4.7 is generally available",
           "snippet": "",
-          "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-anthropic-releases-its-newest-model-claude-opus-47-144220692.html",
-          "source": "Yahoo Finance"
+          "url": "https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/",
+          "source": "The GitHub Blog"
         },
         {
           "title": "Anthropic launches Claude Design, a Figma and Canva rival built on Claude",
