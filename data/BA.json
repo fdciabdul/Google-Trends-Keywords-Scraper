@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-04-20 13:55:41",
+  "lastUpdate": "2026-04-20 14:36:14",
   "data": [
     {
       "title": "снег",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 20 Apr 2026 04:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1RiPVTDMjaa1Zf-mDxFR2qSENqezdAkttQbp_zduRdLpsDZZQd22B2WYlr90",
       "pictureSource": "Чехов Вид",
@@ -33,20 +33,20 @@
       "title": "meteorolog",
       "trafficCount": "2000+",
       "pubDate": "Mon, 20 Apr 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjCpff2B_fGMjecImCI-BdXmK-zUH45gc3SS-irFLgK7sgaHXhAUxeKuLOyGQ",
-      "pictureSource": "Radio Sarajevo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTFqEeZ7aNMBEySgsj1gFCbGRdj2ty_hyk_hrr2sWFMjf_K1kILY6shYR-hts",
+      "pictureSource": "Tuzlanski.ba",
       "relatedSearch": [
-        {
-          "title": "Pripremite kišobrane: Stižu kiša, pljuskovi i grmljavina, poznato koji su dijelovi BiH prvi na udaru",
-          "snippet": "",
-          "url": "https://radiosarajevo.ba/vijesti/bosna-i-hercegovina/pripremite-kisobrane-stizu-kisa-pljuskovi-grmljavina/634247",
-          "source": "Radio Sarajevo"
-        },
         {
           "title": "Nedim Sladić otkrio kada nas očekuje kraj nestabilnog vremena i pljuskova",
           "snippet": "",
           "url": "https://tuzlanski.ba/vijesti/bih/nedim-sladic-otkrio-kada-nas-ocekuje-kraj-nestabilnog-vremena-i-pljuskova/1010662",
           "source": "Tuzlanski.ba"
+        },
+        {
+          "title": "Pripremite kišobrane: Stižu kiša, pljuskovi i grmljavina, poznato koji su dijelovi BiH prvi na udaru",
+          "snippet": "",
+          "url": "https://radiosarajevo.ba/vijesti/bosna-i-hercegovina/pripremite-kisobrane-stizu-kisa-pljuskovi-grmljavina/634247",
+          "source": "Radio Sarajevo"
         },
         {
           "title": "Meteorolozi najavljuju promjenu: Evo što nas čeka do kraja tjedna",
@@ -68,7 +68,7 @@
     },
     {
       "title": "трампа",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 20 Apr 2026 00:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqsqb4TIujTS1t5thsiC01ac7l6k9rAbRr_ftOTG_cMVJodGojv3QCMagXSRA",
       "pictureSource": "Радио Свобода",
@@ -86,10 +86,10 @@
           "source": "Meduza"
         },
         {
-          "title": "Трамп анонсировал новые переговоры с Ираном, который обвинил в нарушении договоренностей",
+          "title": "Трамп ожидает сделку по Ирану в ближайшие один – два дня",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/04/19/8030816/",
-          "source": "Українська правда"
+          "url": "https://www.vedomosti.ru/politics/news/2026/04/17/1191267-tramp-ozhidaet-sdelku",
+          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -169,40 +169,59 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Apr 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2VbqjPacQkvwE7Gw4XXstaK8TFC__ZDNTGSutv4KNDF5PAUvQk0OsKdeWXeU",
+      "pictureSource": "KXLY.com",
+      "relatedSearch": [
+        {
+          "title": "The Inland Northwest will have a warm and pleasant start to the work week",
+          "snippet": "",
+          "url": "https://www.kxly.com/video/the-inland-northwest-will-have-a-warm-and-pleasant-start-to-the-work-week/video_ff8acac8-337a-5c18-897e-0bc5fa1b1d65.html",
+          "source": "KXLY.com"
+        },
+        {
+          "title": "Pleasant weather to start the work week",
+          "snippet": "",
+          "url": "https://www.koamnewsnow.com/news/top-stories/pleasant-weather-to-start-the-work-week/article_1bc2bc3e-6b51-48fc-bdc3-d5b9e5b66323.html",
+          "source": "KOAM News Now"
+        },
+        {
+          "title": "Nice weather to begin the work week",
+          "snippet": "",
+          "url": "https://www.waow.com/weather/nice-weather-to-begin-the-work-week/article_33061974-ec41-4d7d-a56c-11ca447c7a1c.html",
+          "source": "WAOW"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "google",
       "trafficCount": "100+",
       "pubDate": "Sun, 19 Apr 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Zu4x2phKbtyVqgP1SuZJ_yi8O1cWfxlGS7_MWESDSJAZlFtWg7cYWi0asbA",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTi5AHCC5BG5H-6vf0spvBFo9g_9CF7aRmrP7MYxu-Brhn9zetqRMmOz2__tCU",
+      "pictureSource": "Los Angeles Times",
       "relatedSearch": [
         {
-          "title": "Tech stocks today: Google, Marvell reportedly developing AI chips together",
+          "title": "Google challenges Nvidia with new chips to speed up AI",
           "snippet": "",
-          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-google-marvell-reportedly-developing-ai-chips-together-144220995.html",
-          "source": "Yahoo Finance"
+          "url": "https://www.latimes.com/business/story/2026-04-20/google-challenges-nvidia-with-new-chips-to-speed-up-ai",
+          "source": "Los Angeles Times"
+        },
+        {
+          "title": "Marvell shares gain on report of deal talks with Google to develop two AI chips",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/marvell-shares-gain-report-deal-talks-with-google-develop-two-ai-chips-2026-04-20/",
+          "source": "Reuters"
         },
         {
           "title": "Marvell gains, Broadcom, Celestica dip on Google report (MRVL:NASDAQ)",
           "snippet": "",
           "url": "https://seekingalpha.com/news/4576506-marvell-gains-broadcom-celestica-dip-on-google-report",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "Google in Talks With Marvell to Build New AI Chips for Inference",
-          "snippet": "",
-          "url": "https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference",
-          "source": "The Information"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pitka voda",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 19 Apr 2026 12:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
