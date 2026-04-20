@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-20 06:03:07",
+  "lastUpdate": "2026-04-20 07:01:34",
   "data": [
     {
       "title": "tv3",
@@ -25,7 +25,7 @@
     },
     {
       "title": "meteorologas",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 19 Apr 2026 21:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8xaf6r-kOh2ZoVIGlvcX4UIhmeeEUjCtSWZLN_TpyNVjVZMLD3_RMFLND7WY",
       "pictureSource": "Lrytas",
@@ -55,9 +55,15 @@
       "title": "orai vilnius",
       "trafficCount": "100+",
       "pubDate": "Sun, 19 Apr 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZTQZq_IV6350MG-4zE_dJEIGqDv1MuSyVfiJXV9AGq6uQ18yLg953eBKEd5s",
-      "pictureSource": "15min.lt",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lDkZKL9kUoR0vu881dgomtlZH0WfSQS7chN0g02rFs5HztZRlxqaUYJzDu8",
+      "pictureSource": "Delfi",
       "relatedSearch": [
+        {
+          "title": "Gerų žinių nėra: šiltų orų dar reikės palaukti",
+          "snippet": "",
+          "url": "https://www.delfi.lt/orai/lietuvoje/geru-ziniu-nera-siltu-oru-dar-reikes-palaukti-120239136",
+          "source": "Delfi"
+        },
         {
           "title": "Nauja savaitė pasižymės temperatūros svyravimais – nuo šalnų iki malonios šilumos",
           "snippet": "",
@@ -65,16 +71,10 @@
           "source": "15min.lt"
         },
         {
-          "title": "Nuo šalnų iki pavasariškos šilumos: temperatūra smarkiai svyruos",
+          "title": "Savaitės pradžia: bus sausa ir saulėta, naktį kandžios šalnos iki 1–6 laipsnių šalčio",
           "snippet": "",
-          "url": "https://kaunas.kasvyksta.lt/oru-prognozes/nuo-salnu-iki-pavasariskos-silumos-temperatura-smarkiai-svyruos",
-          "source": "Kas vyksta Kaune"
-        },
-        {
-          "title": "„Naktimis gali net pasnyguriuoti“: ateinančios dienos dar džiugins, tačiau jau greit – nemalonios permainos",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/gamta/gamtaorai/2026/04/20/news/-naktimis-gali-net-pasnyguriuoti-ateinancios-dienos-dar-dziugins-taciau-jau-greit-nemalonios-permainos-42117939",
-          "source": "Lrytas"
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2903154/savaites-pradzia-bus-sausa-ir-sauleta-nakti-kandzios-salnos-iki-1-6-laipsniu-salcio",
+          "source": "LRT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -121,16 +121,44 @@
           "source": "Delfi"
         },
         {
-          "title": "Po triumfo „Didžiajame chorų mūšyje” – prabilo Kauno choristai ir Martynas Kavaliauskas",
-          "snippet": "",
-          "url": "https://www.15min.lt/zmones/naujiena/lietuva/po-triumfo-didziajame-choru-musyje-prabilo-kauno-choristai-ir-martynas-kavaliauskas-1050-2665842",
-          "source": "15min.lt"
-        },
-        {
           "title": "Paaiškėjo, kuris miestas laimėjo „Didįjį chorų mūšį“",
           "snippet": "",
           "url": "https://www.lrytas.lt/zmones/tv-antena/2026/04/19/news/tv-eteryje-aistru-kupinas-didziojo-choru-musio-finalas-kuris-miestas-isples-pergale--42116044",
           "source": "Lrytas"
+        },
+        {
+          "title": "Po triumfo „Didžiajame chorų mūšyje” – prabilo Kauno choristai ir Martynas Kavaliauskas",
+          "snippet": "",
+          "url": "https://www.15min.lt/zmones/naujiena/lietuva/po-triumfo-didziajame-choru-musyje-prabilo-kauno-choristai-ir-martynas-kavaliauskas-1050-2665842",
+          "source": "15min.lt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "stambulo fenerbahçe",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Apr 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlI3Z2B2NtSmSiwW6beka7CsX2tfF6Ka9vc3KvqTrl-W05qw6K-3B6mxuui74",
+      "pictureSource": "15min.lt",
+      "relatedSearch": [
+        {
+          "title": "Jocytei nepavyko pasipuošti Eurolygos bronza",
+          "snippet": "",
+          "url": "https://www.15min.lt/24sek/naujiena/europa/jocytei-nepavyko-pasipuosti-eurolygos-bronza-874-2665796",
+          "source": "15min.lt"
+        },
+        {
+          "title": "Žironos klubas su J. Jocyte Eurolygoje užėmė ketvirtąją vietą",
+          "snippet": "",
+          "url": "https://www.etaplius.lt/aktualu/sportas/zironos-klubas-su-j-jocyte-eurolygoje-uzeme-ketvirtaja-vieta/393850",
+          "source": "ETAPLIUS"
+        },
+        {
+          "title": "Į WNBA iškviesta Jocytė pasižymėjo Ispanijoje",
+          "snippet": "",
+          "url": "https://www.delfi.lt/krepsinis/naujienos/i-wnba-iskviesta-jocyte-pasizymejo-ispanijoje-120236205",
+          "source": "Delfi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,26 +195,42 @@
       "title": "nuosprendis",
       "trafficCount": "500+",
       "pubDate": "Sun, 19 Apr 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfzmtw3CGaMAr940Rmot-Oyd9NVUmUAkHbuk7VZJxbB2b_c3p7lT27hb-i34",
-      "pictureSource": "tv3.lt",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFbLRT6W2vo4VSbzPMFDHjlXaCflZakclVINlOc6G3BIluVuW8G60WAxKdmYE",
+      "pictureSource": "Lrytas",
       "relatedSearch": [
+        {
+          "title": "Nualpo net prokuroras: tokio teismo nuosprendžio nesitikėjo niekas",
+          "snippet": "",
+          "url": "https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/04/19/news/nualpo-net-prokuroras-tokio-teismo-nuosprendzio-nesitikejo-niekas-42001837",
+          "source": "Lrytas"
+        },
+        {
+          "title": "Nualpo net prokuroras: tokio teismo nuosprendžio nesitikėjo niekas",
+          "snippet": "",
+          "url": "https://www.lrytas.lt/lietuvosdiena/kriminalai/2026/04/19/news/nualpo-net-prokuroras-tokio-teismo-nuosprendzio-nesitikejo-niekas-42001837/",
+          "source": "Lrytas"
+        },
         {
           "title": "Nenustebkite, jeigu atvažiuos ir patikrins, ar to nedarote: gali tekti susimokėti",
           "snippet": "",
           "url": "https://www.tv3.lt/naujiena/gyvenimas/nenustebkite-jeigu-atvaziuos-ir-patikrins-ar-to-nedarote-gali-tekti-susimoketi-n1512176",
           "source": "tv3.lt"
-        },
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "širdis",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 19 Apr 2026 12:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmcSsoMx5GPArixZShW9mgFEAObDMaQ_V41Q-fSHKlSfktBxCM_WOSk9yCMmI",
+      "pictureSource": "tv3.lt",
+      "relatedSearch": [
         {
-          "title": "2026.04.19. Kova su žolės degintojais įsibėgėja: ugniagesiai griežtina kontrolę",
+          "title": "Kardiologas po 18 val. griežtai vengia 6 dalykų: jie slapta kenkia širdžiai",
           "snippet": "",
-          "url": "http://www.aidas.lt/lt/gamta/article/35970-2026-04-19-kova-su-zoles-degintojais-isibegeja-ugniagesiai-grieztina-kontrole",
-          "source": "Lietuvos Aidas"
-        },
-        {
-          "title": "Deginama žolė: mirties nuosprendis viskam, kas gyva",
-          "snippet": "",
-          "url": "http://www.vilkmerge.lt/deginama-zole-mirties-nuosprendis-viskam-kas-gyva/",
-          "source": "Ukmergės naujienų portalas"
+          "url": "https://www.tv3.lt/naujiena/gyvenimas/kardiologas-po-18-val-grieztai-vengia-6-dalyku-jie-slapta-kenkia-sirdziai-n1511681",
+          "source": "tv3.lt"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -215,62 +259,6 @@
           "snippet": "",
           "url": "https://www.15min.lt/zmones/naujiena/lietuva/beata-nicholson-sulauke-akibroksto-garsi-tinklarastininke-jai-kirto-drasiai-karaliene-prisnudo-sloves-olimpe-1050-2665736",
           "source": "15min.lt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kaunas",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 19 Apr 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVUDh-tkgvmFOxJy9-hsPqr1vhn10uWf27zX4YkGQvxbgOOylpqJ3okjSKEnQ",
-      "pictureSource": "15min.lt",
-      "relatedSearch": [
-        {
-          "title": "Eismo pokyčiai Kaune: 10 gatvių, kuriose vyks darbai",
-          "snippet": "",
-          "url": "https://www.15min.lt/verslas/naujiena/saugukelyje-lt/eismo-pokyciai-kaune-10-gatviu-kuriose-vyks-darbai-1662-2665870",
-          "source": "15min.lt"
-        },
-        {
-          "title": "Kaune bus ribojamas eismas – tvarkys nuotekas",
-          "snippet": "",
-          "url": "https://www.delfi.lt/miestai/kaunas/kaune-bus-ribojamas-eismas-tvarkys-nuotekas-120239083",
-          "source": "Delfi"
-        },
-        {
-          "title": "Prasideda Neries krantinės kapitalinis remontas: laikinai keičiami viešojo transporto maršrutai",
-          "snippet": "",
-          "url": "https://www.kaunas.lt/2026/04/14/prasideda-neries-krantines-kapitalinis-remontas-laikinai-keiciami-viesojo-transporto-marsrutai/",
-          "source": "Kauno miesto savivaldybė"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city vs arsenal",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 19 Apr 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzY6VTGCwT_p95AfLk2Wu1Xwj4GekjQT_Rf8cAShtWSCn8zBVyGzSUZXjUMM8",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Manchester City 2-1 Arsenal: Premier League – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/apr/19/manchester-city-v-arsenal-premier-league-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Post-City quotes round-up: Arteta, Guardiola, Odegaard, Silva, Vieira, Keane, Keown & more",
-          "snippet": "",
-          "url": "https://arseblog.news/2026/04/post-city-quotes-round-up-arteta-guardiola-odegaard-silva-vieira-keane-keown-more/",
-          "source": "Arseblog News"
-        },
-        {
-          "title": "Cherki brilliance followed by Donnarumma disaster in two-minute Etihad whirlwind",
-          "snippet": "",
-          "url": "https://www.besoccer.com/new/cherki-brilliance-followed-by-donnarumma-disaster-in-two-minute-etihad-whirlwind-1405256",
-          "source": "BeSoccer Livescore"
         }
       ],
       "link": "https://imtaqin.id/"
