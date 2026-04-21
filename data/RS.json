@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-21 11:14:38",
+  "lastUpdate": "2026-04-21 11:41:51",
   "data": [
     {
       "title": "душан лајовић",
@@ -31,7 +31,7 @@
     },
     {
       "title": "астероид",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 21 Apr 2026 03:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1DBtE_kv7t3yoD4EWy9GxlV0V7SxSqVVSgnciy9Hbsdgcrse4dM_jR2r27o",
       "pictureSource": "ГТРК Иртыш",
@@ -117,14 +117,35 @@
       "title": "vrijeme",
       "trafficCount": "200+",
       "pubDate": "Mon, 20 Apr 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC7uBPkC4qczEs405I1wRcCB9Amo3cMhxlZpTdKHvEg-GUKjVRCGyLT-VHvsA",
-      "pictureSource": "Portal.hr",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vesti",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 20 Apr 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_T01pcVrgZ9KmFQq7VmIW25XCsB8in0Fbr1EnuIHNGXiSMzL4cVslFxyyed4",
+      "pictureSource": "Danas",
       "relatedSearch": [
         {
-          "title": "Changeable and unstable weather ahead: strong southerly winds, showers and thunderstorms are coming",
+          "title": "Tramp nakon operacije „Ponoćni čekić“ u Iranu: Uklanjanje obogaćenog uranijuma biće dugotrajan i težak proces",
           "snippet": "",
-          "url": "https://www.portal.hr/en/novosti/aktualnosti/107365-promjenjivo-nestabilno-vrijeme-pred-nama-jaca-jugo",
-          "source": "Portal.hr"
+          "url": "https://www.danas.rs/svet/tramp-nakon-operacije-ponocni-cekic-u-iranu-uklanjanje-obogacenog-uranijuma-bice-dugotrajan-i-tezak-proces/",
+          "source": "Danas"
+        },
+        {
+          "title": "Tramp torpeduje pregovore: Iran je pristao na ključne zahteve, a onda je sve palo vodu",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/svet/tramp-torpeduje-pregovore-iran-je-pristao-na-kljucne-zahteve-a-onda-je-sve-palo-vodu/st1z88y",
+          "source": "Blic"
+        },
+        {
+          "title": "BLISKOISTOČNI SUKOB: Neizvesni pregovori - Islamabad pod blokadom; Iran poziva na \"punu pripravnost\" zbog mogućeg novog napada SAD i Izraela",
+          "snippet": "",
+          "url": "https://www.rtv.rs/sr_lat/svet/bliskoistocni-sukob-neizvesni-pregovori-islamabad-pod-blokadom;-iran-poziva-na-punu-pripravnost-zbog-moguceg-novog-napada-sad-i-izraela_1708658.html",
+          "source": "Радио-телевизија Војводине"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -158,62 +179,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "vreme danas",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 20 Apr 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjlhMns29Rd_hXvhsvOQcsdEl7dDlRiCFyXsYA1TfcquSM4hz_1dvgYLtHp0U",
-      "pictureSource": "Blic",
-      "relatedSearch": [
-        {
-          "title": "Hitno upozorenje RHMZ: Sneg ne prestaje da pada, a u četvrtak stiže nova opasnost",
-          "snippet": "",
-          "url": "https://www.blic.rs/vremenska-prognoza/hitno-upozorenje-rhmz-sneg-ne-prestaje-da-pada-a-u-cetvrtak-stize-nova-opasnost/cgjg3kp",
-          "source": "Blic"
-        },
-        {
-          "title": "Stiže zahlađenje u Srbiju: Spremite se za pogoršanje vremena, najavljen i mraz MAPA",
-          "snippet": "",
-          "url": "https://www.b92.net/info/drustvo/226405/u-srbiju-stize-zahladjenje-najavljeni-pljuskovi-i-mraz/vest",
-          "source": "B92"
-        },
-        {
-          "title": "Vreme danas oblačno sa povremenom kišom, temperatura do 18 stepeni",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/drustvo/vreme-danas-oblacno-sa-povremenom-kisom-temperatura-do-18-stepeni/",
-          "source": "Danas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pink rs zadruga",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 20 Apr 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDsIZ7DVCkCENlYV4CB5NIWuB9p0QFjY-O02iok0GBOnKlMbxl5CzIauJ5QpQ",
-      "pictureSource": "Pink.rs",
-      "relatedSearch": [
-        {
-          "title": "Terza već počeo da se hladi od Sofije: Nedeljama unazad pratio njene laži, sad otkrio sve detalje! (VIDEO)",
-          "snippet": "",
-          "url": "https://pink.rs/zadruga/779469/terza-vec-poceo-da-se-hladi-od-sofije-nedeljama-unazad-pratio-njene-lazi-sad-otkrio-sve-detalje-video",
-          "source": "Pink.rs"
-        },
-        {
-          "title": "Bivša devojka iznela šok tvrdnje: Terza je sponzoruša, uzimao mi je pare",
-          "snippet": "",
-          "url": "https://www.blic.rs/zabava/bivsa-devojka-iznela-sok-tvrdnje-terza-je-sponzorusa-uzimao-mi-je-pare/9gmdwgl",
-          "source": "Blic"
-        },
-        {
-          "title": "Oglasila se Milica Veličković nakon vesti da je Terza šutnuo Sofiju",
-          "snippet": "",
-          "url": "https://www.pulsonline.rs/rijaliti/oglasila-se-milica-velickovic-nakon-vesti-da-je-terza-sutnuo-sofiju/q1fstgn",
-          "source": "Puls Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "timberwolves vs nuggets",
       "trafficCount": "2000+",
       "pubDate": "Mon, 20 Apr 2026 20:40:00 -0700",
@@ -233,10 +198,10 @@
           "source": "Eurohoops"
         },
         {
-          "title": "Julius Randle Imposed His Will Vs The Denver Nuggets With 24 Points | 4.20.26",
+          "title": "Wolves coach rips Jamal Murray, Nuggets for flopping",
           "snippet": "",
-          "url": "https://bvmsports.com/2026/04/21/julius-randle-imposed-his-will-vs-the-denver-nuggets-with-24-points-4-20-26/",
-          "source": "BVM Sports"
+          "url": "https://basketnews.com/news-245545-wolves-coach-rips-jamal-murray-nuggets-for-flopping.html",
+          "source": "BasketNews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -265,6 +230,34 @@
           "snippet": "",
           "url": "https://www.telegraf.rs/vesti/srbija/4311681-veje-kao-usred-zime-temperatura-opala-na-0c-evo-gde-ce-sneg-padati-i-tokom-danasnjeg-dana-u-srbiji",
           "source": "Telegraf.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nba",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 20 Apr 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBr-Wj4YtwskKyJRUoQUMh9m1OBb_bTvVXRcn2SHoXdndUPD5hQ3YKJrSluOw",
+      "pictureSource": "B92",
+      "relatedSearch": [
+        {
+          "title": "Gober \"zaključao\" Jokića: \"Nije prvi put da me ne poštuju\" VIDEO",
+          "snippet": "",
+          "url": "https://www.b92.net/sport/kosarka/nba/226630/rudi-gober-zaustavio-nikolu-jokica-minesota-preokrenula-19-u-denveru/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Denver ispustio veliku prednost, Minesota zaustavila Jokića i Mareja u finišu meča (VIDEO)",
+          "snippet": "",
+          "url": "https://www.danas.rs/sport/denver-minesota-nikola-jokic-dzamal-marej/",
+          "source": "Danas"
+        },
+        {
+          "title": "Jokić i Marej očajni u finišu, Minesota \"ukrala\" pobedu u Denveru",
+          "snippet": "",
+          "url": "https://sportklub.n1info.rs/kosarka/nba/denver-minesota-nikola-jokic-murray-marej/",
+          "source": "Sportklub"
         }
       ],
       "link": "https://imtaqin.id/"
