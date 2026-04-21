@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-04-21 23:04:28",
+  "lastUpdate": "2026-04-21 23:22:14",
   "data": [
     {
       "title": "maldivas",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 21 Apr 2026 15:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5Dj-8UvkkziD-vYYKB2ScF1L0XqL_W0QHksxlcl0v1apNI4OOKViWEGzL0Ug",
       "pictureSource": "TVI",
@@ -80,16 +80,44 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "leicester city",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Apr 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRth2ZV-6HEKf_fg8e5I-eRtG8-DkA3WOPawAf31AoGCTUJG8eqndIUUYvUVb4",
+      "title": "copa do brasil",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 21 Apr 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJrNlQFygpXtu7ygErGyFRW39aw32IiC9oraEEmZyeH12zzOX1GbupBe8hix0",
+      "pictureSource": "SAPO",
+      "relatedSearch": [
+        {
+          "title": "Taça do Brasil: ex-FC Porto apura Botafogo com golo aos 90'",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/taca-do-brasil-ex-fc-porto-apura-botafogo-com-golo-aos-90-69e7fa347bbda4cdb0122b66",
+          "source": "SAPO"
+        },
+        {
+          "title": "Botafogo de Franclim Carvalho em vantagem nos 16 avos da Taça do Brasil",
+          "snippet": "",
+          "url": "https://www.record.pt/internacional/paises/brasil/detalhe/botafogo-de-franclim-carvalho-em-vantagem-nos-16-avos-da-taca-do-brasil",
+          "source": "Record"
+        },
+        {
+          "title": "ATUAÇÕES FN: Montoro é o melhor em Botafogo 1x0 Chapecoense, e Alex Telles decide; Caio Roque vai muito mal",
+          "snippet": "",
+          "url": "https://www.fogaonet.com/noticias-do-botafogo/atuacoes-fn-montoro-melhor-botafogo-1-x-0-chapecoense-alex-telles-decide-caio-roque-muito-mal/",
+          "source": "FogãoNET"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "leicester",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 21 Apr 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_1NOBVjWDmR9G39oCdm2cuzwvCFcKCBynMmiLVSCi1vQsOsbif2lHn0ZPW_Q",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Championship LIVE: Reaction as Leicester City are relegated and Coventry City win title",
+          "title": "Leicester relegated to League One after Hull draw",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c5y5w290914t",
+          "url": "https://www.bbc.com/sport/football/live/cvg0zz7xm63t",
           "source": "BBC"
         },
         {
@@ -99,66 +127,10 @@
           "source": "The Guardian"
         },
         {
-          "title": "Jordan Ayew and Abdul Fatawu Issahaku suffer relegation with Leicester City to League One",
+          "title": "\"The lowest point in the club's history\": Ten years after their sensational title win, Leicester City are relegated to the third tier",
           "snippet": "",
-          "url": "https://ghanasoccernet.com/jordan-ayew-and-abdul-fatawu-issahaku-suffer-relegation-with-leicester-city-to-league-one",
-          "source": "GhanaSoccernet"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "copa do brasil",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 21 Apr 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpkTexezXvSB5U3pGPykQPByjxcAmIkfw5PlnYx1FOLCzLGTqomzbYsE4g-sA",
-      "pictureSource": "FogãoNET",
-      "relatedSearch": [
-        {
-          "title": "ATUAÇÕES FN: Montoro é o melhor em Botafogo 1 x 0 Chapecoense, e Alex Telles decide; Caio Roque vai muito mal",
-          "snippet": "",
-          "url": "https://www.fogaonet.com/noticias-do-botafogo/atuacoes-fn-montoro-melhor-botafogo-1-x-0-chapecoense-alex-telles-decide-caio-roque-muito-mal/",
-          "source": "FogãoNET"
-        },
-        {
-          "title": "Botafogo vence pela primeira vez no Brasileirão sob o comando de Franclim Carvalho",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/botafogo-vence-pela-primeira-vez-no-brasileirao-sob-o-comando-de-franclim-carvalho-69e4b7e4c2da480e3c140484",
-          "source": "SAPO"
-        },
-        {
-          "title": "Botafogo bate Chapecoense em nova vitória de Franclim Carvalho",
-          "snippet": "",
-          "url": "https://www.noticiasaominuto.com/desporto/2977086/botafogo-bate-chapecoense-em-nova-vitoria-de-franclim-carvalho",
-          "source": "Notícias ao Minuto"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "leicester",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Apr 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3noVFKdj0JKixOwjrZY9wm-PUrFmA-Lih8U67rJvqbM-9FYvqm9L2Bd06OMc",
-      "pictureSource": "SAPO",
-      "relatedSearch": [
-        {
-          "title": "Oficial: 10 anos depois de vencer a Premier League, Leicester desce do Championship",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/oficial-10-anos-depois-de-vencer-a-premier-league-leicester-desce-do-championship-69e7e2d52a6983a5f92b9c34",
-          "source": "SAPO"
-        },
-        {
-          "title": "Leicester é rebaixado para a terceira divisão inglesa 10 anos depois de título da Premier League",
-          "snippet": "",
-          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/04/21/leicester-e-rebaixado-para-a-terceira-divisao-inglesa-10-anos-depois-de-titulo-da-premier-league.ghtml",
-          "source": "ge"
-        },
-        {
-          "title": "Do céu ao inferno: dez anos depois do título na Premier... Leicester é despromovido à League One",
-          "snippet": "",
-          "url": "https://www.record.pt/internacional/paises/inglaterra/leicester-city/detalhe/do-ceu-ao-inferno-dez-anos-depois-do-titulo-na-premier-leicester-e-despromovido-a-league-one",
-          "source": "Record"
+          "url": "https://www.goal.com/en/lists/the-lowest-point-in-the-club-s-history-ten-years-after-their-sensational-title-win-leicester-city-are-relegated-to-the-third-tier/bltbefa52c8c085a484",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -187,34 +159,6 @@
           "snippet": "",
           "url": "https://www.zerozero.pt/jogo/2026-04-21-internazionale-como-1907/11861169",
           "source": "zerozero.pt"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "championship",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Apr 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZeSPkNhnDSoXCW8xaxwNr3Zb-twAjNWYx-XoyUvbaJilO3PN3yMTUy5DvuIk",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Coventry City 5-1 Portsmouth: Frank Lampard's men secure Championship title",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cn9qppjg5yxt",
-          "source": "BBC"
-        },
-        {
-          "title": "Lampard reacts to Cov's title-clinching Portsmouth win",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/lampard-reacts-covs-title-clinching-221553001.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Leicester Relegation Confirmed As Coventry Crown Championship 2026 Champions",
-          "snippet": "",
-          "url": "https://www.mykhel.com/football/leicester-relegation-championship-coventry-champions-2026-analysis-011-427411.html",
-          "source": "myKhel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -267,10 +211,66 @@
           "source": "The Korea Herald"
         },
         {
-          "title": "HYBE Chairman Bang Si-hyuk Faces Arrest Over 190 Billion Won IPO Fraud",
+          "title": "10 Must-Know Facts About Bang Si-Hyuk: BTS Mastermind Faces Arrest Warrant",
           "snippet": "",
-          "url": "https://en.sedaily.com/society/2026/04/22/hybe-chairman-bang-si-hyuk-faces-arrest-over-190-billion",
-          "source": "Seoul Economic Daily"
+          "url": "https://www.ibtimes.com.au/10-must-know-facts-about-bang-si-hyuk-bts-mastermind-faces-arrest-warrant-1867168",
+          "source": "International Business Times Australia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "incêndio",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 21 Apr 2026 13:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR96sednR77Pqoiwn8AmVVLBQvzUO6FLCxWIEFOEHYUXSBnZNn1lzNB_hqJA-w",
+      "pictureSource": "SAPO",
+      "relatedSearch": [
+        {
+          "title": "Mais de cem operacionais combatem incêndio na Serra do Caramulo",
+          "snippet": "",
+          "url": "https://sapo.pt/artigo/mais-de-cem-operacionais-combatem-incendio-na-serra-do-caramulo-69e74074c2da480e3c4c9c7c",
+          "source": "SAPO"
+        },
+        {
+          "title": "Mais de 100 operacionais combatem fogo na Serra do Caramulo",
+          "snippet": "",
+          "url": "https://www.dn.pt/sociedade/mais-de-100-operacionais-combatem-fogo-na-serra-do-caramulo",
+          "source": "Diário de Notícias"
+        },
+        {
+          "title": "Incêndio em zona de mato mobiliza mais de 100 operacionais em Tondela",
+          "snippet": "",
+          "url": "https://www.record.pt/fora-de-campo/detalhe/incendio-em-zona-de-mato-mobiliza-mais-de-100-operacionais-em-tondela",
+          "source": "Record"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "jackpot",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 21 Apr 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3XGJGT-ELFGuAArDwj4hw_hpgALmHM7JENEQ7Y06J0QtrIqLPi8NKgPc7U6w",
+      "pictureSource": "A Bola",
+      "relatedSearch": [
+        {
+          "title": "Euromilhões: outra vez um segundo prémio para Portugal",
+          "snippet": "",
+          "url": "https://www.abola.pt/noticias/euromilhoes-outra-vez-um-segundo-premio-para-portugal-2026042120552901144",
+          "source": "A Bola"
+        },
+        {
+          "title": "Esta é a chave do Euromilhões. Jackpot é de 145 milhões de euros",
+          "snippet": "",
+          "url": "https://eco.sapo.pt/2026/04/21/esta-e-a-chave-do-euromilhoes-jackpot-e-de-145-milhoes-de-euros/",
+          "source": "ECO"
+        },
+        {
+          "title": "Os números do Euromilhões que valem 145 milhões de euros",
+          "snippet": "",
+          "url": "https://www.jn.pt/nacional/artigo/os-numeros-do-euromilhoes-que-valem-145-milhoes-de-euros/18075660",
+          "source": "Jornal de Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
