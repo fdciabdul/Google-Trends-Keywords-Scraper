@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-04-22 07:42:24",
+  "lastUpdate": "2026-04-22 08:19:01",
   "data": [
     {
       "title": "кристалина георгиева",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 22 Apr 2026 00:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxUKRncPW7XlBBYZGcL5FalviWLGAwuOPyHuPQD13A4EtEfO8dcuaKL-3DzgE",
       "pictureSource": "www.24chasa.bg",
@@ -31,7 +31,7 @@
     },
     {
       "title": "депутат",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 21 Apr 2026 23:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZbaMZ-AjcjzpsdgKdDetHkg-6sCJtRN5PT3saB20UwJtr1AdWmarKigA_hvA",
       "pictureSource": "БНР Новини",
@@ -59,7 +59,7 @@
     },
     {
       "title": "виц",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 21 Apr 2026 22:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9lr7slsxcn_5bYRHewYGa4HApx000cMTfzypdwofae45ule0I8L_KNBbDG8",
       "pictureSource": "Chernomore",
@@ -86,29 +86,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "маркъс рашфорд",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 21 Apr 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKMZsj_zhnhknQoVS9ld2YsP-sj7Y7SrspooEY_F5qvVpSzzhn8Ub79vmGxPQ",
+      "pictureSource": "Gong.bg",
+      "relatedSearch": [
+        {
+          "title": "Барселона взе решение за Рашфорд",
+          "snippet": "",
+          "url": "https://gong.bg/football-sviat/ispania/barselona-vze-reshenie-za-rashford-888780",
+          "source": "Gong.bg"
+        },
+        {
+          "title": "От Барселона решиха за Маркъс Рашфорд",
+          "snippet": "",
+          "url": "https://www.focus-news.net/sport/2955110.html",
+          "source": "ФОКУС"
+        },
+        {
+          "title": "Вратата за Маркъс Рашфорд в Манчестър Юнайтед не е затворена",
+          "snippet": "",
+          "url": "https://dsport.bg/vratata-za-markas-rashford-v-manchestar-unaited-ne-e-zatvorena~227457.html",
+          "source": "Dsport"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "трамваи в софия",
       "trafficCount": "100+",
       "pubDate": "Tue, 21 Apr 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq7ioswy3GphyDm0Mtviaov2z5ujybn7W3hyt05xPuk30oLpkRSdRbt_NI38",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTob0IofI22txKwge2hdYOe1XXSfonOnUgY4gkMEPO5MPpff80zcELJzPS3Y48",
       "pictureSource": "Dnevnik.bg",
       "relatedSearch": [
         {
-          "title": "Катастрофа спря трамвай 20 в София",
+          "title": "Два трамвая се удариха на столичен булевард",
           "snippet": "",
-          "url": "https://www.dnevnik.bg/skorost/2026/04/22/4905464_katastrofa_spria_tramvai_20_v_sofiia/",
+          "url": "https://www.dnevnik.bg/gradska_sreda/2026/04/21/4905388_dva_tramvaia_se_udariha_na_stolichen_bulevard/",
           "source": "Dnevnik.bg"
         },
         {
-          "title": "Катастрофа между кола и трамвай в София, спряно е движението на мотрисите",
+          "title": "Катастрофа между два трамвая в София",
           "snippet": "",
-          "url": "https://novini.bg/article/2026042206241475092",
-          "source": "Novini.bg"
+          "url": "https://nova.bg/news/view/2026/04/21/534669/%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%B4%D0%B2%D0%B0-%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D1%8F-%D0%B2-%D1%81%D0%BE%D1%84%D0%B8%D1%8F/",
+          "source": "nova.bg"
         },
         {
-          "title": "Катастрофа спря трамвай 20 край ЦСКА в София",
+          "title": "Два трамвая се удариха на ключово кръстовище в София",
           "snippet": "",
-          "url": "https://eurocom.bg/2026/04/22/katastrofa-mezhdu-kola-i-tramvay-sprya-liniya-20-kray-cska/",
-          "source": "Евроком"
+          "url": "https://www.focus-news.net/novini/regioni/Dva-tramvaya-se-udariha-na-klyuchovo-krustovishte-v-Sofiya-2955095",
+          "source": "ФОКУС"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +173,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Tue, 21 Apr 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh78CYaO2TkyqODySkbZCOvWJmQSSi_C9qpBMC8Zh9xu0W6F6YGJTOemRTWhU",
-      "pictureSource": "Kauai Now",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_9HtpZlMSAjXVqw_uY0G2qc9rgcBhk6J1Z_Og6cjoYR2T8fhn8iIGIgy1ag",
+      "pictureSource": "Tallahassee Democrat",
       "relatedSearch": [
         {
-          "title": "Kauai Weather Forecast for April 22, 2026",
+          "title": "Florida fire watch: How to track wildfires, smoke from Tallahassee",
           "snippet": "",
-          "url": "https://kauainownews.com/2026/04/21/kauai-weather-forecast-for-april-22-2026-2/",
-          "source": "Kauai Now"
+          "url": "https://www.tallahassee.com/story/news/2026/04/21/track-florida-wildfires-smoke-from-tallahassee-air-quality-drought/89722797007/",
+          "source": "Tallahassee Democrat"
         },
         {
-          "title": "Kauai Weather Forecast for April 17, 2026",
+          "title": "High fire danger lingers into Wednesday on the Gulf Coast",
           "snippet": "",
-          "url": "https://kauainownews.com/2026/04/16/kauai-weather-forecast-for-april-17-2026-2/",
-          "source": "Kauai Now"
+          "url": "https://www.gulfcoastnewsnow.com/article/high-fire-danger-red-flag-warning-tuesday-weather-impact/71085115",
+          "source": "Gulf Coast News and Weather"
         },
         {
-          "title": "Kauai Weather Forecast for April 21, 2026",
+          "title": "Wildfire risk is high as firefighters contain blaze in Lake County",
           "snippet": "",
-          "url": "https://kauainownews.com/2026/04/20/kauai-weather-forecast-for-april-21-2026-2/",
-          "source": "Kauai Now"
+          "url": "https://www.cfpublic.org/environment/2026-04-21/wildfire-risk-is-high-as-firefighters-contain-blaze-in-lake-county",
+          "source": "Central Florida Public Media"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,7 +229,7 @@
       "title": "григор димитров",
       "trafficCount": "1000+",
       "pubDate": "Tue, 21 Apr 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKKUFqv893NgxrDvbcRexzsq11v_yAcPHogVSwZNgX3YYM-enj4MWKZnZK9-c",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtxLL33TMj59RV3okRJ5fLkTpnhtcr1AqHGgnxlFR49x3z4hcf_BHvq0pyMKQ",
       "pictureSource": "Gong.bg",
       "relatedSearch": [
         {
@@ -239,44 +267,16 @@
           "source": "БНТ Новини"
         },
         {
-          "title": "ЦИК при 100% преброени: \"Прогресивна България\" печели изборите с 44.594%, ГЕРБ са втори",
-          "snippet": "",
-          "url": "https://www.24chasa.bg/bulgaria/article/22701194",
-          "source": "www.24chasa.bg"
-        },
-        {
           "title": "Защо Радев ще получи над 121 депутати, без да има 50% от вота на изборите",
           "snippet": "",
           "url": "https://webcafe.bg/vlast/zashto-progresivna-balgariya-shte-poluchi-nad-121-deputati-bez-da-ima-50-ot-vota-na-izborite.html",
           "source": "Webcafe"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ергенът 2026",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Apr 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLtDr_0Ta6TwMgdCTJrV0Qq8CygNDvcgTsOtmaDBkv-pucaW0QQewcbjHn0g8",
-      "pictureSource": "Ladyzone.bg",
-      "relatedSearch": [
-        {
-          "title": "Стоян се завърна в „Ергенът“ – ще спечели ли отново сърцето на Илияна",
-          "snippet": "",
-          "url": "https://ladyzone.bg/ergenat/stojan-se-zavarna-v-ergenat-shte-specheli-li-otnovo-sarceto-na-ilijana.html",
-          "source": "Ladyzone.bg"
         },
         {
-          "title": "Влюбен ли е още Гатев в Диляна Попова?",
+          "title": "ЦИК при 100% преброени: \"Прогресивна България\" печели изборите с 44.594%, ГЕРБ са втори",
           "snippet": "",
-          "url": "https://life.dir.bg/shou/vlyuben-li-e-oshte-gatev-v-dilyana-popova",
-          "source": "Dir"
-        },
-        {
-          "title": "Крехката Илияна в основата на взривоопасен триъгълник в \"Ергенът\"",
-          "snippet": "",
-          "url": "https://www.flagman.bg/article/379858",
-          "source": "Флагман.Бг"
+          "url": "https://www.24chasa.bg/bulgaria/article/22701194",
+          "source": "www.24chasa.bg"
         }
       ],
       "link": "https://imtaqin.id/"
