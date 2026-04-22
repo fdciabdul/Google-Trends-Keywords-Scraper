@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-22 12:04:16",
+  "lastUpdate": "2026-04-22 12:35:57",
   "data": [
     {
       "title": "ndma",
@@ -37,9 +37,9 @@
       "pictureSource": "The New York Times",
       "relatedSearch": [
         {
-          "title": "Sheila Cherfilus-McCormick, a Florida Democrat, Resigns From Congress",
+          "title": "Florida Democrat Resigns From Congress Just as Panel Weighs Expelling Her",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html",
+          "url": "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html",
           "source": "The New York Times"
         },
         {
@@ -49,10 +49,10 @@
           "source": "Politico"
         },
         {
-          "title": "Florida Democrat resigns from Congress minutes before House ethics panel was set to weigh her expulsion",
+          "title": "Rep. Sheila Cherfilus-McCormick resigns from Congress, moments before Ethics hearing to determine sanctions",
           "snippet": "",
-          "url": "https://edition.cnn.com/2026/04/21/politics/sheila-cherfilus-mccormick-resigns-house-congress",
-          "source": "CNN"
+          "url": "https://www.cbsnews.com/news/rep-sheila-cherfilus-mccormick-resigns-ethics-hearing/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +143,7 @@
     },
     {
       "title": "binance kenya user accounts frozen",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 21 Apr 2026 22:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqiy5qalDOM0KdGe3CuVAQ5WZFibWssMRJmEuRU4VKdfYk3Ii3bPbZwnv6kIk",
       "pictureSource": "TechCabal",
@@ -199,11 +199,17 @@
     },
     {
       "title": "lakers vs rockets",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 21 Apr 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI-yRSX0pVg0DExLZ9LdtDxIktBfOt1LjAADBbcyqNxG8hGY1gf7zPXPzDoyQ",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3_JbxktfFYQcQMy29hDKuIiPC42A79B74gNmSVjlMpPnbLCcvN-kBrUc7YAY",
+      "pictureSource": "NBA",
       "relatedSearch": [
+        {
+          "title": "Houston Rockets vs Los Angeles Lakers Apr 21, 2026 Game Summary",
+          "snippet": "",
+          "url": "https://www.nba.com/game/hou-vs-lal-0042500172",
+          "source": "NBA"
+        },
         {
           "title": "Lakers 101-94 Rockets (Apr 21, 2026) Game Recap",
           "snippet": "",
@@ -215,12 +221,6 @@
           "snippet": "",
           "url": "https://streamlinefeed.co.ke/news/the-shooting-mirage-analyzing-the-lakers-game-1-offensive-burst",
           "source": "https://streamlinefeed.co.ke/"
-        },
-        {
-          "title": "LeBron James leads Lakers with 28-8-7 in Game 2",
-          "snippet": "",
-          "url": "https://www.nba.com/watch/video/highlights-from-lebron-james-28-point-game-4",
-          "source": "NBA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "claude ai",
       "trafficCount": "100+",
       "pubDate": "Tue, 21 Apr 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4RdBtV-kOY33p6Mo2oB8ZVkq6zlko8wJa5gSH5tNFryc4gL_kDSj72_pqGQ4",
-      "pictureSource": "Bloomberg",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXYk0srqfl25jT2IFzxbKZmUjt0sszg-tu8YnLIhmsbEphjLOkrdOZPByYtPg",
+      "pictureSource": "The Mozilla Blog",
       "relatedSearch": [
         {
-          "title": "Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users",
+          "title": "The zero-days are numbered",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users",
-          "source": "Bloomberg"
+          "url": "https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/",
+          "source": "The Mozilla Blog"
         },
         {
-          "title": "Anthropic just made AI scarier",
+          "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
           "snippet": "",
-          "url": "https://www.vox.com/podcasts/486336/anthropic-claude-mythos-preview-cybersecurity-hacking-glasswing",
-          "source": "Vox"
+          "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+          "source": "WIRED"
         },
         {
-          "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+          "title": "Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150",
           "snippet": "",
-          "url": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
-          "source": "The Guardian"
+          "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+          "source": "Ars Technica"
         }
       ],
       "link": "https://imtaqin.id/"
