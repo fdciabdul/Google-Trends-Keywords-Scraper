@@ -1,19 +1,41 @@
 {
-  "lastUpdate": "2026-04-23 18:08:28",
+  "lastUpdate": "2026-04-23 18:38:50",
   "data": [
+    {
+      "title": "общественный транспорт",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 23 Apr 2026 11:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0Er4UPvN_CeVPBSDGppqrKyVBeWH64nCpGstre4SPESx7OpWb18R8cai8rs",
+      "pictureSource": "Minval Politika",
+      "relatedSearch": [
+        {
+          "title": "Вниманию водителей: в Баку ограничат движение на двух улицах",
+          "snippet": "",
+          "url": "https://minval.az/news/124529017",
+          "source": "Minval Politika"
+        },
+        {
+          "title": "Почему в Баку не создают единую систему общественного транспорта? - ВИДЕО",
+          "snippet": "",
+          "url": "https://oxu.az/ru/obshestvo/pochemu-v-baku-ne-sozdayut-edinuyu-sistemu-obshestvennogo-transporta-video",
+          "source": "Oxu.Az"
+        },
+        {
+          "title": "После перенастройки светофоров на ключевых перекрёстках в Баку исчезла 220-метровая пробка - ВИДЕО",
+          "snippet": "",
+          "url": "https://1news.az/news/20260423123631942-Posle-perenastroiki-svetoforov-na-klyuchevykh-perekryostkakh-v-Baku-ischezla-220-metrovaya-probka-VIDEO",
+          "source": "1News.az"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "новости",
       "trafficCount": "100+",
       "pubDate": "Thu, 23 Apr 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-_X44u_MlcZZnT3Pvg6wq5-B5lf0tkzIlfobJzJzfuamK7DfhVQQIYuorn6c",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-UbGyQ8HjldaqKFQxd-VN-38okXT70EuG1ia5iOEGOS-a8RGQhej9LJSZqp0",
       "pictureSource": "DW.com",
       "relatedSearch": [
-        {
-          "title": "Трамп: США полностью контролируют Ормузский пролив",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/tramp-ssa-polnostu-kontroliruut-ormuzskij-proliv/a-76916351",
-          "source": "DW.com"
-        },
         {
           "title": "Перемирие США и Ирана: возможные сценарии развития конфликта",
           "snippet": "",
@@ -25,13 +47,19 @@
           "snippet": "",
           "url": "https://www.bbc.com/russian/articles/cn89m3812vyo",
           "source": "BBC"
+        },
+        {
+          "title": "\"Нет временных рамок\" для войны с Ираном – Трамп",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2026/04/23/8031384/",
+          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "polija",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 23 Apr 2026 10:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUPPpVI-SUcfHnzizxUvkymNgIm2NbDzQNEGk9ON1qTx87KL9wF45YiK0Kcmo",
       "pictureSource": "Jauns.lv",
@@ -59,17 +87,11 @@
     },
     {
       "title": "алексей пиманов",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 23 Apr 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWKEVUFlmSJNQ3ujJS4-_2kURVz4Ux82YX-kyUgen1U2GFn0ev55npYyOm9Fw",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEQwBQ-tTgf1GsiI5p9JJicUvzFSRkYRo9CfJaaBdf7ZM2D4vI4de7hFFyXSk",
+      "pictureSource": "Meduza",
       "relatedSearch": [
-        {
-          "title": "Умер ведущий программы «Человек и закон» Алексей Пиманов",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/society/news/2026/04/23/1192639-umer-aleksei-pimanov",
-          "source": "Ведомости"
-        },
         {
           "title": "Умер Алексей Пиманов — ведущий программы «Человек и закон» на Первом канале",
           "snippet": "",
@@ -77,10 +99,16 @@
           "source": "Meduza"
         },
         {
-          "title": "Умер ведущий программы \"Человек и закон\" Алексей Пиманов",
+          "title": "Умер ведущий программы «Человек и закон» Алексей Пиманов",
           "snippet": "",
-          "url": "https://www.svoboda.org/a/umer-veduschiy-programmy-chelovek-i-zakon-aleksey-pimanov/33741034.html",
-          "source": "Радио Свобода"
+          "url": "https://www.vedomosti.ru/society/news/2026/04/23/1192639-umer-aleksei-pimanov",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Скончался тележурналист Алексей Пиманов",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1085661",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -131,6 +159,12 @@
           "snippet": "",
           "url": "https://jauns.lv/raksts/izklaide/705637-dartai-danevicai-dels-iemacijis-gatavot-francu-keksinus?utm_term=Autofeed&utm_medium=Social&utm_source=Facebook&fbclid=IwY2xjawRTJstleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR4YKDeqW2NLw8YdkxkuoCDbJcQVv1BR6rW5ZFxG_PAsfpQF5zyy-OpXaj5Mjw_aem_aJjV0GBGhfYCb2ORSVvV1g",
           "source": "Jauns.lv"
+        },
+        {
+          "title": "Kaimiņš, Daneviča, Gobzems un citi. Slavenības, kas atteikušās no vecāku dotā vārda",
+          "snippet": "",
+          "url": "https://www.santa.lv/raksts/privatadzive/kaimins-danevica-gobzems-un-citi.-slavenibas-kas-atteikusas-no-vecaku-dota-varda-82219/",
+          "source": "Santa.lv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,16 +211,16 @@
           "source": "Delfi"
         },
         {
-          "title": "Vācijā aizturēti Latvijas un Ukrainas pilsoņi – aizdomas par sabotāžas gatavošanu",
-          "snippet": "",
-          "url": "https://tv3.lv/zinas/arvalstis/vacija-aiztureti-latvijas-un-ukrainas-pilsoni-aizdomas-par-sabotazas-gatavosanu/",
-          "source": "tv3.lv"
-        },
-        {
           "title": "Ugunsgrēks Hospitāļu ielas piecstāvu dzīvojamā mājā: dzēšanā iesaistīti plaši spēki",
           "snippet": "",
           "url": "https://jauns.lv/raksts/zinas/706374-ugunsgreks-hospitalu-ielas-piecstavu-dzivojama-maja-dzesana-iesaistiti-plasi-speki",
           "source": "Jauns.lv"
+        },
+        {
+          "title": "Likvidēts ugunsgrēks dzīvojamajā mājā Hospitāļu ielā Rīgā",
+          "snippet": "",
+          "url": "https://www.diena.lv/raksts/latvija/riga/likvidets-ugunsgreks-dzivojamaja-maja-hospitalu-iela-riga-14350921",
+          "source": "Diena"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -223,14 +257,14 @@
       "title": "janis kalnins",
       "trafficCount": "2000+",
       "pubDate": "Thu, 23 Apr 2026 03:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuaytPplXMaKTIKFWVyOp_ivFDYPFIVCtcM80klcnT36v8kv3K78gZzQ-Er0A",
-      "pictureSource": "LSM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThyXK337TG5PZGEGmDfYm9z6DJTR_Xd1CzmsdC-N-j01WhX4Af8VZCfHTo1oY",
+      "pictureSource": "Jauns.lv",
       "relatedSearch": [
         {
-          "title": "Bēdīgi slavenais hokejists Kalniņš ieguvis trenera sertifikātu; federāciju padome izskata iespēja to anulēt",
+          "title": "Bijušais Latvijas izlases vārtsargs Kalniņš varētu zaudēt trenera sertifikātu par spēlēšanu agresorvalstī Krievijā",
           "snippet": "",
-          "url": "https://www.lsm.lv/raksts/sports/sporta-politika/23.04.2026-bedigi-slavenais-hokejists-kalnins-ieguvis-trenera-sertifikatu-federaciju-padome-izskata-iespeja-to-anulet.a644322/",
-          "source": "LSM"
+          "url": "https://jauns.lv/raksts/sports/706384-bijusais-latvijas-izlases-vartsargs-kalnins-varetu-zaudet-trenera-sertifikatu-par-spelesanu-agresorvalsti-krievija",
+          "source": "Jauns.lv"
         },
         {
           "title": "Krievijā pēc kara sākuma naudu pelnījušais hokeja vārtsargs noslēdz karjeru un strādās par treneri",
@@ -239,38 +273,10 @@
           "source": "Delfi"
         },
         {
-          "title": "Hokejists Jānis Kalniņš, kurš Ukrainas kara laikā pelnīja naudu Krievijā, paziņo par karjeras beigām",
+          "title": "Bēdīgi slavenais hokejists Kalniņš ieguvis trenera sertifikātu; federāciju padome izskata iespēja to anulēt",
           "snippet": "",
-          "url": "https://jauns.lv/raksts/sports/706247-hokejists-janis-kalnins-kurs-ukrainas-kara-laika-pelnija-naudu-krievija-pazino-par-karjeras-beigam",
-          "source": "Jauns.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "eiropas komisija",
-      "trafficCount": "2000+",
-      "pubDate": "Thu, 23 Apr 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1GnvmN6r3Xtf7NsJel86TuuRFW9weCOT1J8jrDjX9oa6RFn3PVkeUirhB9Y",
-      "pictureSource": "LSM",
-      "relatedSearch": [
-        {
-          "title": "Eiropas Komisija aptur Venēcijas biennāles finansējumu Krievijas dalības dēļ / Raksts",
-          "snippet": "",
-          "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/23.04.2026-eiropas-komisija-aptur-venecijas-biennales-finansejumu-krievijas-dalibas-del.a644305/",
+          "url": "https://www.lsm.lv/raksts/sports/sporta-politika/23.04.2026-bedigi-slavenais-hokejists-kalnins-ieguvis-trenera-sertifikatu-federaciju-padome-izskata-iespeja-to-anulet.a644322/",
           "source": "LSM"
-        },
-        {
-          "title": "ES plāno samazināt finansējumu Venēcijas biennālei Krievijas paviljona dēļ",
-          "snippet": "",
-          "url": "https://jauns.lv/raksts/arzemes/706181-es-plano-samazinat-finansejumu-venecijas-biennalei-krievijas-paviljona-del",
-          "source": "Jauns.lv"
-        },
-        {
-          "title": "Progresīvā Lāce meklē veidus, kā vienlaikus būt klāt Venēciijas biennālē un izlikties, ka neesam",
-          "snippet": "",
-          "url": "https://m.pietiek.com/raksti/progresiva_lace_mekle_veidus,_ka_vienlaikus_but_klat_veneciijas_biennale_un_izlikties,_ka_neesam/",
-          "source": "Pietiek.com"
         }
       ],
       "link": "https://imtaqin.id/"
