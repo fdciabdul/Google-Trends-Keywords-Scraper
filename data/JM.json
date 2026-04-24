@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-04-24 12:01:37",
+  "lastUpdate": "2026-04-24 12:34:52",
   "data": [
     {
       "title": "weather",
       "trafficCount": "2000+",
       "pubDate": "Fri, 24 Apr 2026 04:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRppAr1GdxeOrpe_A9Wx1ckOZoNuM6vEztrSzxAvKj2zB2r8DLH3xWy-9AZPw0",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtJK8UhuTn3MDN30RtE3zdpCgx1mKB8b5yMcnIkApFkAwjMPzem4Ld3kXW0Xc",
+      "pictureSource": "The Weather Channel",
       "relatedSearch": [
+        {
+          "title": "El Niño: What It Is And How It Can Affect Your Weather",
+          "snippet": "",
+          "url": "https://weather.com/science/weather-explainers/video/el-nino-explained-ocean-temperatures-hurricane-season-impacts",
+          "source": "The Weather Channel"
+        },
         {
           "title": "What is a ‘super El Niño’ and what might it mean for the global climate?",
           "snippet": "",
@@ -19,40 +25,6 @@
           "snippet": "",
           "url": "https://wmo.int/media/news/wmo-likelihood-increases-of-el-nino",
           "source": "World Meteorological Organization WMO"
-        },
-        {
-          "title": "Developing El Niño points to stronger solar conditions across Australasia and South Asia",
-          "snippet": "",
-          "url": "https://www.pv-magazine.com/2026/04/24/developing-el-nino-points-to-stronger-solar-conditions-across-australasia-and-south-asia/",
-          "source": "pv magazine International"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "timberwolves vs nuggets",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 24 Apr 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtF_3hqceVAtOsZgWA9Ysi8ZJOgbTcWWE5mcEq7IzmubVOrC5hjs_evaO93Xk",
-      "pictureSource": "AP News",
-      "relatedSearch": [
-        {
-          "title": "Edwards and Randle rally Timberwolves past Nuggets 119-114 to even series at 1 apiece",
-          "snippet": "",
-          "url": "https://apnews.com/article/nuggets-timberwolves-score-nba-playoffs-44e56550e4ef425d10a86f2addf7c9d2",
-          "source": "AP News"
-        },
-        {
-          "title": "Wolves Back Up the Big Talk With Blowout Win Over Denver in Game 3",
-          "snippet": "",
-          "url": "https://www.si.com/nba/timberwolves/onsi/wolves-back-up-the-big-talk-with-blowout-win-over-denver-in-game-3",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Denver outscored Minnesota 57-52 in the 2H, but for …",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/denver-outscored-minnesota-57-52-042458814.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +49,38 @@
           "source": "CNN"
         },
         {
-          "title": "Soldier Used Classified Information to Bet on Maduro’s Ouster, U.S. Says",
+          "title": "U.S. soldier accused of pocketing $400,000 through bets on Maduro’s capture",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html",
-          "source": "The New York Times"
+          "url": "https://www.washingtonpost.com/national-security/2026/04/23/polymarket-soldier-maduro-bet-charges/",
+          "source": "The Washington Post"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nuggets vs timberwolves",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 23 Apr 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtF_3hqceVAtOsZgWA9Ysi8ZJOgbTcWWE5mcEq7IzmubVOrC5hjs_evaO93Xk",
+      "pictureSource": "AP News",
+      "relatedSearch": [
+        {
+          "title": "Edwards and Randle rally Timberwolves past Nuggets 119-114 to even series at 1 apiece",
+          "snippet": "",
+          "url": "https://apnews.com/article/nuggets-timberwolves-score-nba-playoffs-44e56550e4ef425d10a86f2addf7c9d2",
+          "source": "AP News"
+        },
+        {
+          "title": "Wolves Back Up the Big Talk With Blowout Win Over Denver in Game 3",
+          "snippet": "",
+          "url": "https://www.si.com/nba/timberwolves/onsi/wolves-back-up-the-big-talk-with-blowout-win-over-denver-in-game-3",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Denver outscored Minnesota 57-52 in the 2H, but for …",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/denver-outscored-minnesota-57-52-042458814.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,44 @@
           "source": "ABC7 New York"
         },
         {
+          "title": "Unlikely duo of CJ McCollum, Jonathan Kuminga has Hawks positioned to upset Knicks",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/7224940/2026/04/24/cj-mccollum-jonathan-kuminga-hawks-knicks-nba-playoffs-game-3/",
+          "source": "The New York Times"
+        },
+        {
           "title": "Jalen Johnson, Jonathan Kuminga make Hawks history in Game 3 win over Knicks",
           "snippet": "",
           "url": "https://sports.yahoo.com/articles/jalen-johnson-jonathan-kuminga-hawks-020945239.html",
           "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "real oviedo vs villarreal",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 23 Apr 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Real Oviedo vs Villarreal: Spanish La Liga stats & head-to-head",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cge0vl90dy1t",
+          "source": "BBC"
         },
         {
-          "title": "Hawks fend off Knicks, Raptors pull away from Cavs to cut deficit",
+          "title": "La Liga: Villarreal held, Levante and Rayo earn key wins",
           "snippet": "",
-          "url": "https://www.rfi.fr/en/sports/20260424-hawks-fend-off-knicks-raptors-pull-away-from-cavs-to-cut-deficit",
-          "source": "RFI"
+          "url": "https://www.socialnews.xyz/2026/04/23/la-liga-villarreal-held-levante-and-rayo-earn-key-wins/",
+          "source": "Social News XYZ"
+        },
+        {
+          "title": "Real Oviedo vs. Villarreal - Game Highlights",
+          "snippet": "",
+          "url": "https://www.espn.com/video/clip/_/id/48573787",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
