@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-25 08:56:25",
+  "lastUpdate": "2026-04-25 09:22:18",
   "data": [
     {
       "title": "rain lõhmus",
@@ -51,9 +51,28 @@
       "title": "погода",
       "trafficCount": "1000+",
       "pubDate": "Fri, 24 Apr 2026 20:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU4TTqcfUNKR9Jt5Uzbv2uki09i52BnOfY8xa29YEVrG1l75AXW_W1_cBfD-8",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "В Москве и Подмосковье ожидается ухудшение погоды",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/70668287/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "Погода на выходные: от сибирской жары до возвращения зимы в Москве",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/gorod/ourcity/articles/vozvrascheniya-zimi",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Дождь, снег, ветер: синоптики предупреждают об ухудшении погоды в Москве",
+          "snippet": "",
+          "url": "https://www.mos.ru/news/item/169006073/",
+          "source": "mos.ru"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -94,10 +113,10 @@
           "source": "Беларусь сегодня"
         },
         {
-          "title": "«Реал Мадрид» потерял очки на 90+4 минуте матча против «Реал Бетиса»: надежды на победу в Ла Лиге тают.",
+          "title": "«У вас нет стыда!» Фанаты «Реала» высказали недовольство игрокам после матча с «Бетисом»",
           "snippet": "",
-          "url": "https://baonghean.vn/ru/real-madrid-roi-diem-phut-904-truoc-real-betis-hy-vong-vo-dich-la-liga-dan-tan-bien-10334287.html",
-          "source": "baonghean.vn"
+          "url": "https://www.championat.ru/football/news-6444554-u-vas-net-styda-fanaty-reala-vyskazali-nedovolstvo-igrokam-posle-matcha-s-betisom.html",
+          "source": "https://www.championat.ru/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -115,19 +134,19 @@
       "title": "reet linna",
       "trafficCount": "1000+",
       "pubDate": "Fri, 24 Apr 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZkQTE9gWPKdMCzst3iIaq5S0Y4KHXKNVKg5Fej1lgVZ4CAUtathDAJSo5JFk",
-      "pictureSource": "sport | ERR",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzww2RZMyFnEy33BFmJcZJ2STuI3UiS6JIXmIVKBHGby7sHypAiG6vDyL_Wg",
+      "pictureSource": "Uudis.net",
       "relatedSearch": [
-        {
-          "title": "Avaseti kaotanud Sinner pääses Madridis ehmatusega",
-          "snippet": "",
-          "url": "https://sport.err.ee/1610006092/avaseti-kaotanud-sinner-paases-madridis-ehmatusega",
-          "source": "sport | ERR"
-        },
         {
           "title": "Reet Linna pälvis auhinna panuse eest Eesti televaldkonda",
           "snippet": "",
           "url": "https://uudis.net/12330091",
+          "source": "Uudis.net"
+        },
+        {
+          "title": "Avaseti kaotanud Sinner pääses Madridis ehmatusega",
+          "snippet": "",
+          "url": "https://uudis.net/12329927",
           "source": "Uudis.net"
         },
         {
