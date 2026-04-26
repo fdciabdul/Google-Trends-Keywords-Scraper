@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-26 15:10:19",
+  "lastUpdate": "2026-04-26 15:29:02",
   "data": [
     {
       "title": "дженоа – комо",
@@ -42,20 +42,20 @@
       "title": "электробус",
       "trafficCount": "200+",
       "pubDate": "Sun, 26 Apr 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt6XDfvhy6oAE2mHoXx6TE7fjdyNv1shLf9FpnR1oKZZAexaT3FLXGJuKOWYU",
-      "pictureSource": "24.KG",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9TO1__qIl6xYU8Jw-HHTNIQOzwtp-0CoJeCcff8WjXmGs_N8X0goJgvoys74",
+      "pictureSource": "Economist.kg",
       "relatedSearch": [
-        {
-          "title": "Новые электробусы Geely для общественного транспорта презентовали в Бишкеке",
-          "snippet": "",
-          "url": "https://24.kg/obschestvo/371920_novyie_elektrobusyi_Geely_dlya_obschestvennogo_transporta_prezentovali_vbishkeke/",
-          "source": "24.KG"
-        },
         {
           "title": "Мэрии Бишкека презентовали компактные электробусы Geely",
           "snippet": "",
           "url": "https://economist.kg/transport/2026/04/25/merii-bishkeka-prezentovali-kompaktnye-elektrobusy-geely/",
           "source": "Economist.kg"
+        },
+        {
+          "title": "Новые электробусы Geely для общественного транспорта презентовали в Бишкеке",
+          "snippet": "",
+          "url": "https://24.kg/obschestvo/371920_novyie_elektrobusyi_Geely_dlya_obschestvennogo_transporta_prezentovali_vbishkeke/",
+          "source": "24.KG"
         },
         {
           "title": "В Бишкеке презентовали новые электробусы Geely",
@@ -67,29 +67,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "аукцион",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 26 Apr 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+      "pictureSource": "24.KG",
+      "relatedSearch": [
+        {
+          "title": "Три месторождения в Иссык-Кульской области выставлены на аукцион",
+          "snippet": "",
+          "url": "https://24.kg/ekonomika/371927_tri_mestorojdeniya_vissyik-kulskoy_oblasti_vyistavlenyi_naauktsion/",
+          "source": "24.KG"
+        },
+        {
+          "title": "В Тюпском и Тонском районах состоятся аукционы на недропользование",
+          "snippet": "",
+          "url": "https://www.akchabar.kg/news/v-tyupskom-i-tonskom-rajonakh-sostoyatsya-auktsioni-na-nedropolzovanie-btkoyrfsxctxtpvl",
+          "source": "Акчабар"
+        },
+        {
+          "title": "В Иссык-Кульской области выставили на аукцион три месторождения",
+          "snippet": "",
+          "url": "https://economist.kg/novosti/2026/04/25/v-issyk-kulskoi-oblasti-vystavili-na-auktsion-tri-mestorozhdeniia/",
+          "source": "Economist.kg"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "пари нн – спартак-москва",
       "trafficCount": "200+",
       "pubDate": "Sun, 26 Apr 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxY7mkVGkDRTAc7wuhhMEfoTp3h1S8baaG2q7kYY--EVt-SLbxbhJYG-sFz2Y",
-      "pictureSource": "Евро-Футбол",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzLphQmMh0NUbfT_G6p4whZmNmgdbtg_b_XCguEUnF2D822FmqYoG3rn4BBx0",
+      "pictureSource": "Sportbox",
       "relatedSearch": [
-        {
-          "title": "Карседо обратился к побеждённому сопернику",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/29/1006183952_karsedo_obratilsya_k_pobejdennomu_soperniku",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "Умяров: Сейчас у нас стоит задача добраться до третьего места в РПЛ",
-          "snippet": "",
-          "url": "https://www.liveresult.ru/news/Futbol/325124-Umyarov-Seychas-u-nas-stoit-zadacha-dobratsya-do-tretego-mesta-v-RPL",
-          "source": "LiveResult"
-        },
         {
           "title": "«Спартак» отчаянно рвется к медалям. Важнейшая победа москвичей на характере!",
           "snippet": "",
           "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2319581_Spartak_otchajanno_rvetsa_k_medalam_Vazhnejshaja_pobeda_moskvichej_na_kharaktere",
           "source": "Sportbox"
+        },
+        {
+          "title": "«Спартак» вплотную приблизился к третьему месту в РПЛ",
+          "snippet": "",
+          "url": "https://www.euro-football.ru/article/29/1006183930_spartak_vplotnuyu_priblizilsya_k_tretemu_mestu_v_rpl",
+          "source": "Евро-Футбол"
+        },
+        {
+          "title": "Сефас назвал причину поражения «Пари НН» от «Спартака»",
+          "snippet": "",
+          "url": "https://www.liveresult.ru/news/Futbol/325129-Sefas-nazval-prichinu-porageniya-Pari-NN-ot-Spartaka",
+          "source": "LiveResult"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,9 +126,15 @@
       "title": "райо вальекано – реал сосьедад",
       "trafficCount": "1000+",
       "pubDate": "Sun, 26 Apr 2026 04:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1giNZMKefon1hKQOLV2snOQ0341gzvnq8Ym5jCxt7ivFRXbRY4RNk5F1PhPg",
-      "pictureSource": "Футбол на Куличках",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8OcuUy4u0LhoJw15Osgk8fIc1oUouhraDXvjVYUyD46CFI2RyzKq4b9Iru_8",
+      "pictureSource": "Футбол 24",
       "relatedSearch": [
+        {
+          "title": "Райо Вальекано оформил сумасшедший камбэк с Реал Сосьедадом на 90+9 мин – арбитр \"украл\" у мадридцев два гола",
+          "snippet": "",
+          "url": "https://football24.ua/ru/news/rajo-valekano-oformil-sumasshedshij-kambjek-s-real-sosedadom-na-909-min-arbitr-ukral-u-madridcev-dva-gola-939257",
+          "source": "Футбол 24"
+        },
         {
           "title": "Чемпионат Испании. Драматичная ничья на \"Кампо-де-Вальекас\".",
           "snippet": "",
@@ -112,12 +146,6 @@
           "snippet": "",
           "url": "https://matchtv.ru/football/matchtvnews_NI2319639_Real_Sosjedad_upustil_pobedu_nad_Rajo_Valjekano_v_matche_La_ligi_propustiv_v_kompensirovannoje_vrema",
           "source": "Матч ТВ"
-        },
-        {
-          "title": "Райо Вальекано оформил сумасшедший камбэк с Реал Сосьедадом на 90+9 мин – арбитр \"украл\" у мадридцев два гола",
-          "snippet": "",
-          "url": "https://football24.ua/ru/news/rajo-valekano-oformil-sumasshedshij-kambjek-s-real-sosedadom-na-909-min-arbitr-ukral-u-madridcev-dva-gola-939257",
-          "source": "Футбол 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,26 +154,26 @@
       "title": "csk vs gt",
       "trafficCount": "200+",
       "pubDate": "Sun, 26 Apr 2026 03:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-MOZyn6aT7y878nxMrW5n02RGEEXiq9dL7bgwtwvLcOzEkGuQHGPAXAdI0nA",
-      "pictureSource": "https://www.durhamccc.co.uk/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2TB6XK9G1Nq1dfLnTd8bUGHvUJwCvWC6pyepNZxhMRyvDXxx6aJddo5wJi_4",
+      "pictureSource": "France 24",
       "relatedSearch": [
         {
-          "title": "IPL 2026: CSK vs GT Match 37 Impact Player List",
+          "title": "Rabada's 3-25 helps Gujarat thrash Chennai in IPL",
           "snippet": "",
-          "url": "https://www.durhamccc.co.uk/csk-vs-gt-match-37-impact-player-list/",
-          "source": "https://www.durhamccc.co.uk/"
+          "url": "https://www.france24.com/en/live-news/20260426-rabada-s-3-25-helps-gujarat-thrash-chennai-in-ipl",
+          "source": "France 24"
         },
         {
-          "title": "Rabada faces Brevis test in Chennai",
+          "title": "Sudharsan masterclass powers Titans past CSK after bowlers set it up",
           "snippet": "",
-          "url": "https://www.sacricketmag.com/rabada-faces-brevis-test-in-chennai/",
-          "source": "SA Cricket Mag"
+          "url": "https://www.siasat.com/sudharsan-masterclass-powers-titans-past-csk-after-bowlers-set-it-up-3460730/",
+          "source": "The Siasat Daily"
         },
         {
-          "title": "Ruturaj Gaikwad’s 49-ball 50 torn into as ‘confusing’, ‘unacceptable’ in modern T20: ‘He couldn’t take a single?’ | Cricket",
+          "title": "Ruturaj Gaikwad opens up on 'challenges' as CSK suffer tough loss to GT: 'We were lethargic'",
           "snippet": "",
-          "url": "https://www.hindustantimes.com/cricket/ruturaj-gaikwad-s-49-ball-50-torn-into-as-confusing-unacceptable-in-modern-t20-he-couldn-t-take-a-single-101777206433705.html",
-          "source": "Hindustan Times"
+          "url": "https://www.firstpost.com/firstcricket/ruturaj-gaikwad-admits-challenges-csk-vs-gt-ipl-2026-14004611.html",
+          "source": "Firstpost"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,10 +226,10 @@
           "source": "Newtimes.kz"
         },
         {
-          "title": "Шесть пассажиров пострадали при эвакуации в аэропорту Нью-Дели",
+          "title": "В аэропорту Нью-Дели во время взлета загорелся самолет: есть пострадавшие -",
           "snippet": "",
-          "url": "https://1news.az/news/20260426102134539-SHest-passazhirov-postradali-pri-evakuatsii-v-aeroportu-Nyu-Deli",
-          "source": "1News.az"
+          "url": "https://zerkalo.az/v-aeroportu-nyu-deli-vo-vremya-vzleta-zagorelsya-samolet-est-postradavshie/",
+          "source": "ZERKALO.AZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://eadaily.com/ru/news/2026/04/25/orban-otkazalsya-ot-deputatskogo-mandata-iz-za-planov-poluchit-ubezhishche-v-ssha-pani",
           "source": "EADaily"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "интер майами – нью-инглэнд революшн",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 25 Apr 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcN-S6qeQL3Qr0RuvP_De5O1AsJMIVuAR75ttGgD4gXGkMf2C2X7i-kIsP2o",
-      "pictureSource": "Евро-Футбол",
-      "relatedSearch": [
-        {
-          "title": "Месси не забил во втором матче подряд – впервые в сезоне",
-          "snippet": "",
-          "url": "https://www.euro-football.ru/article/1003413647/1006183745_messi_ne_zabil_vo_vtorom_matche_podryad__vpervyie_v_sezone",
-          "source": "Евро-Футбол"
-        },
-        {
-          "title": "Месси и Суарес так и не смогли помочь «Интер Майами» одержать победу на новом домашнем стадионе; удача им пока не улыбнулась.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/messi-va-suarez-van-chua-the-giup-inter-miami-thang-tren-san-nha-moi-van-son-chua-den",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Жесткая борьба и ключевые замены: как Inter Miami CF уступил на своем поле",
-          "snippet": "",
-          "url": "https://russpain.com/news/gol-carles-gil-prinosit-pobedu-new-england-revolution-v-matche-s-inter-miami-cf-443106/",
-          "source": "russpain.com"
         }
       ],
       "link": "https://imtaqin.id/"
