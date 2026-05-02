@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-05-02 07:58:42",
+  "lastUpdate": "2026-05-02 08:40:19",
   "data": [
     {
       "title": "лето",
       "trafficCount": "100+",
       "pubDate": "Fri, 1 May 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Or36AT4kPCJM_Ks_8eROSAmpwvfA2VAZl8DMc24lxsI6UzcS6qzqE1uUTlE",
-      "pictureSource": "Москвич Mag",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROE9QMTanvAASBJBr7xBTBeqhz2Uec6kKMEHLQXO866ON41gMIrp59rY0pkgo",
+      "pictureSource": "Инфо РМ",
       "relatedSearch": [
+        {
+          "title": "Похолодание ещё вернётся: синоптик озвучил прогноз погоды на май",
+          "snippet": "",
+          "url": "https://info-rm.com/lenta/societyru/pokholodanie-eshchye-vernyetsya-sinoptik-ozvuchil-prognoz-pogody-na-may-/",
+          "source": "Инфо РМ"
+        },
         {
           "title": "Субтропики, грозы и черемуховые холода. Синоптики обещают погодные качели до конца месяца",
           "snippet": "",
@@ -19,12 +25,6 @@
           "snippet": "",
           "url": "https://tvernews.ru/news/334330/",
           "source": "TverNews"
-        },
-        {
-          "title": "Погода на выходные: Москву ждет лето, а юг страны – осадки и заморозки",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/gorod/ourcity/articles/osadki-zamorozki",
-          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,10 +49,10 @@
           "source": "Sportacentrs.com"
         },
         {
-          "title": "U-18 hokeja izlase sīkstā cīniņā piekāpjas slovākiem, pasaules čempionātā pretendēs uz bronzu",
+          "title": "Latvijas jauniešu izlase spēlēs par bronzas medaļām",
           "snippet": "",
-          "url": "https://www.lsm.lv/raksts/sports/hokejs/01.05.2026-u-18-hokeja-izlase-siksta-cinina-piekapjas-slovakiem-pasaules-cempionata-pretendes-uz-bronzu.a645359/",
-          "source": "LSM"
+          "url": "https://www.lhf.lv/jaunumi/latvijas-jauniesu-izlase-speles-par-bronzas-medalam",
+          "source": "LHF"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,10 +133,10 @@
           "source": "Интерфакс"
         },
         {
-          "title": "Парламент Азербайджана приостановил сотрудничество с Европарламентом из-за резолюции в поддержку прав армян Нагорного Карабаха",
+          "title": "Европарламент против реальности",
           "snippet": "",
-          "url": "https://www.currenttime.tv/a/azerbaydzhan-evroparlament/33746989.html",
-          "source": "Настоящее Время"
+          "url": "https://minval.az/news/124530930",
+          "source": "Minval Politika"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "latvijas avīze",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 1 May 2026 10:00:00 -0700",
-      "picture": "",
-      "pictureSource": "Lasi.lv",
-      "relatedSearch": [
-        {
-          "title": "Kas notika pēc tam. Viens hibrīdkara ierocis mazāk",
-          "snippet": "",
-          "url": "https://lasi.lv/par-svarigo/projekti/kas-notika-pec-tam-viens-hibridkara-ierocis-mazak.41516",
-          "source": "Lasi.lv"
-        },
-        {
-          "title": "Aptauja: Vai vajadzēja parakstīt Latvijas un Krievijas robežlīgumu, atdodot Abreni?",
-          "snippet": "",
-          "url": "https://lasi.lv/par-svarigo/projekti/aptauja-vai-vajadzeja-parakstit-latvijas-un-krievijas-robezligumu-atdodot-abreni.41487",
-          "source": "Lasi.lv"
-        },
-        {
-          "title": "Necerēt uz brīnumu: iznākusi neparasta latviešu autora grāmata",
-          "snippet": "",
-          "url": "https://lasi.lv/par-svarigo/kultura/neceret-uz-brinumu-iznakusi-neparasta-latviesu-autora-gramata.41462",
-          "source": "Lasi.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "eiropa",
       "trafficCount": "500+",
       "pubDate": "Fri, 1 May 2026 10:00:00 -0700",
@@ -226,29 +198,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "latvijas avīze",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 1 May 2026 10:00:00 -0700",
+      "picture": "",
+      "pictureSource": "Lasi.lv",
+      "relatedSearch": [
+        {
+          "title": "Kas notika pēc tam. Viens hibrīdkara ierocis mazāk",
+          "snippet": "",
+          "url": "https://lasi.lv/par-svarigo/projekti/kas-notika-pec-tam-viens-hibridkara-ierocis-mazak.41516",
+          "source": "Lasi.lv"
+        },
+        {
+          "title": "Aptauja: Vai vajadzēja parakstīt Latvijas un Krievijas robežlīgumu, atdodot Abreni?",
+          "snippet": "",
+          "url": "https://lasi.lv/par-svarigo/projekti/aptauja-vai-vajadzeja-parakstit-latvijas-un-krievijas-robezligumu-atdodot-abreni.41487",
+          "source": "Lasi.lv"
+        },
+        {
+          "title": "Necerēt uz brīnumu: iznākusi neparasta latviešu autora grāmata",
+          "snippet": "",
+          "url": "https://lasi.lv/par-svarigo/kultura/neceret-uz-brinumu-iznakusi-neparasta-latviesu-autora-gramata.41462",
+          "source": "Lasi.lv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "новости",
       "trafficCount": "200+",
       "pubDate": "Fri, 1 May 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKghawPI-ZegYuOjFg58q1EdKc10AgD0iZjd7hvRCbKpM37vyqsqe65Z9vDE",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbF_CV5M-587pJo0-hh8hliV2awvAhhPu3i00rL93SrPOQ5tD57n-1lqHwID4",
       "pictureSource": "Официальный сайт Мэра Москвы",
       "relatedSearch": [
         {
-          "title": "Собянин сообщил о сбитии пятого беспилотника, направлявшегося к Москве",
+          "title": "Молодежь Москвы примет участие в Суворовском параде 17 мая",
           "snippet": "",
-          "url": "https://www.mos.ru/mayor/themes/14689050/",
+          "url": "https://www.mos.ru/news/item/169326073/",
           "source": "Официальный сайт Мэра Москвы"
         },
         {
-          "title": "Москву атаковали беспилотники",
+          "title": "МАИ станет первой площадкой для экспозиции «Духовные покровители армии: от святого воинства — к Суворову",
           "snippet": "",
-          "url": "https://www.fontanka.ru/2026/05/02/76399102/",
-          "source": "ФОНТАНКА.ру"
+          "url": "https://radonezh.ru/2026/04/30/mai-stanet-pervoy-ploshchadkoy-dlya-ekspozicii-duhovnye-pokroviteli-armii-ot-svyatogo",
+          "source": "Радонеж.Ру"
         },
         {
-          "title": "В ряде регионов России отключено электричество, есть раненые: карта атак дронов 2 мая",
+          "title": "В Москве пройдет «Суворовский парад: вера, служение и преемственность поколений»",
           "snippet": "",
-          "url": "https://ura.news/articles/1053090153",
-          "source": "URA.RU"
+          "url": "https://www.patriarchia.ru/article/120876",
+          "source": "Патриархия.ru"
         }
       ],
       "link": "https://imtaqin.id/"
