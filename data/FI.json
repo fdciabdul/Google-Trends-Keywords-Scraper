@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-05-02 11:29:57",
+  "lastUpdate": "2026-05-02 11:51:24",
   "data": [
     {
-      "title": "keskuspankki",
+      "title": "venäläiset",
       "trafficCount": "200+",
+      "pubDate": "Sat, 2 May 2026 04:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4OZ81oY8LbEuCe_BlDuvQGNcFaljp137Eq7Wa8mnW5IUQYr1jDqI-fc_lSY",
+      "pictureSource": "Kauppalehti",
+      "relatedSearch": [
+        {
+          "title": "Venäläisen teräsjätin hämmästyttävä romahdus hakee vertaistaan – Alamäelle ei näy loppua",
+          "snippet": "",
+          "url": "https://www.kauppalehti.fi/uutiset/a/745db29d-4427-4b3e-bdec-4bd75823c516",
+          "source": "Kauppalehti"
+        },
+        {
+          "title": "Kreml uhosi liian aikaisin – Al-Qaida etenee Venäjän liittolaismaassa",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/ulkomaat/a/69a7774b-50d4-4374-9f6a-4d0f56fa4927",
+          "source": "Iltalehti"
+        },
+        {
+          "title": "Venäjän soturit joutumassa ahtaalle Malissa – laineet voivat lyödä myös Eurooppaan, tutkija sanoo",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20223351",
+          "source": "Yle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "keskuspankki",
+      "trafficCount": "500+",
       "pubDate": "Sat, 2 May 2026 04:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHA9LAEFfBl-pyk6Qu7PsBGkL9_kl630osssCCWZjZwzsOAQ1A55C0VGmA3Cc",
       "pictureSource": "Kauppalehti",
@@ -61,9 +89,15 @@
       "title": "tv5",
       "trafficCount": "100+",
       "pubDate": "Sat, 2 May 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT54lT4wHmHpE2JlP3Bx-eI-O9LR2fYN6q8uy6ubjdq_mi-QAbrYOUx05S9N4Q",
-      "pictureSource": "WDBJ7",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4i5yRZOXDfWE-xTWoiftI33FfoMrPdtKfYQ6hBROOpuAHx07-Zma7HInky9o",
+      "pictureSource": "WIBW",
       "relatedSearch": [
+        {
+          "title": "Gray Media agrees to deal with Dish Network, ending station blackout",
+          "snippet": "",
+          "url": "https://www.wibw.com/2026/05/02/gray-media-agrees-deal-with-dish-network-ending-station-blackout/",
+          "source": "WIBW"
+        },
         {
           "title": "WDBJ7 set to get back on DISH Network after new agreement reached",
           "snippet": "",
@@ -75,12 +109,6 @@
           "snippet": "",
           "url": "https://www.weau.com/2026/05/02/weau-returns-dish-lineup-after-new-agreement-between-gray-media-dish/",
           "source": "WEAU"
-        },
-        {
-          "title": "KOLN, KSNB and KNOP are back on DISH",
-          "snippet": "",
-          "url": "https://www.1011now.com/2026/05/02/koln-ksnb-knop-are-back-dish/",
-          "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +171,7 @@
     },
     {
       "title": "viihdeuutiset",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 2 May 2026 03:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2Hg59iE5ey6shOvhdsoyIlarcBDl4ldKaJMZo3HrQc_7gOknPziMMOcWFJeI",
       "pictureSource": "Iltalehti",
@@ -155,16 +183,16 @@
           "source": "Iltalehti"
         },
         {
-          "title": "Karita Tykkä julkaisi rohkean videon – kuhertelee uuden rakkaansa kanssa avoimesti",
+          "title": "Suomalainen Roosa Söderholm sai paras näyttelijä -palkinnon Cannesissa",
           "snippet": "",
-          "url": "https://www.is.fi/viihde/art-2000011980668.html",
-          "source": "Ilta-Sanomat"
+          "url": "https://yle.fi/a/74-20223288",
+          "source": "Yle"
         },
         {
-          "title": "Tältä näytti Karita Tykän ja Sami Saikkosen vappu – katso romanttinen video",
+          "title": "Suomalaisnäyttelijälle merkittävä kansainvälinen palkinto",
           "snippet": "",
-          "url": "https://www.como.fi/uutiset/talta-naytti-karita-tykan-ja-sami-saikkosen-vappu-katso-romanttinen-video/",
-          "source": "Como.fi"
+          "url": "https://www.iltalehti.fi/tv-ja-leffat/a/154ef3fc-d92a-4bab-b690-c974128886d4",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -248,34 +276,6 @@
           "title": "Kiekkotoimitus: Näin käy Tapparalle finaaleissa – yhdellä pelaajalla koitti tilipäivä",
           "snippet": "",
           "url": "https://www.aamulehti.fi/liiga/art-2000011973100.html",
-          "source": "Aamulehti"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "radek kučeřík",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 2 May 2026 02:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzvj6Mmg09vYnNxXJMISmzyAfI2Zf3IakoiLciJBS-5MR7EyMhK6WZYMBZTIo",
-      "pictureSource": "Aamulehti",
-      "relatedSearch": [
-        {
-          "title": "Ilves-tähden uusi osoite selvisi – saa seurakseen Tapparan mestaripelaajan",
-          "snippet": "",
-          "url": "https://www.aamulehti.fi/urheilu/art-2000011980834.html",
-          "source": "Aamulehti"
-        },
-        {
-          "title": "IS: Ilveksen tähtipelaaja lähtee",
-          "snippet": "",
-          "url": "https://www.aamulehti.fi/liiga/art-2000011975835.html",
-          "source": "Aamulehti"
-        },
-        {
-          "title": "Ilvekseltä poikkeuksellista tietoa pelaajien loukkaantumisista",
-          "snippet": "",
-          "url": "https://www.aamulehti.fi/liiga/art-2000011979536.html",
           "source": "Aamulehti"
         }
       ],
