@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-05 08:31:54",
+  "lastUpdate": "2026-05-05 09:18:35",
   "data": [
     {
       "title": "høj håndbold",
@@ -31,7 +31,7 @@
     },
     {
       "title": "ai",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 5 May 2026 00:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaN6AjGw-O4ntgwGAuRIGgxcwmRUgqQRxbrIXX3P_h_pZ2BrLOiP8iiaauUZ8",
       "pictureSource": "The New York Times",
@@ -43,10 +43,10 @@
           "source": "The New York Times"
         },
         {
-          "title": "Trump administration considering safety review for new AI models after Mythos",
+          "title": "White House Opposes Anthropic’s Plan to Expand Access to Mythos Model",
           "snippet": "",
-          "url": "https://www.axios.com/2026/05/04/trump-white-house-ai-safety-tests-mythos",
-          "source": "Axios"
+          "url": "https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5",
+          "source": "WSJ"
         },
         {
           "title": "White House considers government reviews for AI models, NYT reports",
@@ -87,11 +87,17 @@
     },
     {
       "title": "debatindlæg",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 5 May 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgBCeAuHHxAdJa1j6uAYKdmz2yN0acxFPv4zvtBk-DoDr1_cWgVtiBeaJn2wg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfy6pehwBpgF_VHnvWkp9hmlDK2Wkflj0_lVmtgqIaqJkYuppcsbwEc6oC_80",
       "pictureSource": "Politiken",
       "relatedSearch": [
+        {
+          "title": "Deltager i 'Alene i vildmarken': Nej, du skal ikke have et sabbatår. Få dig et sabbatliv. Et, hvor du ikke kun lever i weekenderne og i ferierne",
+          "snippet": "",
+          "url": "https://politiken.dk/debat/debatindlaeg/art10800398/Nej-du-skal-ikke-have-et-sabbat%C3%A5r.-F%C3%A5-dig-et-sabbatliv.-Et-hvor-du-ikke-kun-lever-i-weekenderne-og-i-ferierne",
+          "source": "Politiken"
+        },
         {
           "title": "Hvornår blev det en feministisk kamp at hakke ned på det mandlige køn?",
           "snippet": "",
@@ -103,12 +109,6 @@
           "snippet": "",
           "url": "https://sundhedsmonitor.dk/nyheder/debat/article19260600.ece",
           "source": "Sundhedsmonitor"
-        },
-        {
-          "title": "Debatindlæg: Mange vigtige dagsordener venter på ældre- og sundhedsområdet",
-          "snippet": "",
-          "url": "https://www.kl.dk/forsidenyheder/2026/april/debatindlaeg-mange-vigtige-dagsordener-venter-paa-aeldre-og-sundhedsomraadet",
-          "source": "KL.dk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "Spotify"
         },
         {
-          "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
-          "snippet": "",
-          "url": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/",
-          "source": "TechCrunch"
-        },
-        {
           "title": "Why Spotify has no button to filter out AI music",
           "snippet": "",
           "url": "https://www.bbc.com/news/articles/cd7jpg4w181o",
           "source": "BBC"
+        },
+        {
+          "title": "Spotify's new badge identifies human artists, as AI music floods in",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/spotify-verified-badge-ai-music/",
+          "source": "CBS News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,26 +257,26 @@
       "title": "dr nyheder",
       "trafficCount": "100+",
       "pubDate": "Mon, 4 May 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFI4ZAtOG3clmUEd1LlEAsoIrh_Qvk8FWdXKp4AvfUwocTkQxb9ka9F-BBxAg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWHAgSBXv5hY7ac-VUJd2oNMj_Q-SJTOXoQE7UeZljdsUGhoRl6GXZpC1YJY4",
       "pictureSource": "dr.dk",
       "relatedSearch": [
         {
-          "title": "37-årig sigtet i sag om bortført baby havde spor af stoffer i blodet",
+          "title": "Personale har hængt papir og affaldssække op i vinduerne på nyt hospital, der kæmper med for varmt indeklima",
           "snippet": "",
-          "url": "https://www.dr.dk/nyheder/indland/37-aarig-sigtet-i-sag-om-bortfoert-baby-havde-spor-af-stoffer-i-blodet",
+          "url": "https://www.dr.dk/nyheder/indland/personale-har-haengt-papir-og-affaldssaekke-op-i-vinduerne-paa-nyt-hospital-der-kaemper-med-varmt",
           "source": "dr.dk"
         },
         {
-          "title": "Skal han fortsat sidde inde? I dag udløber fængslingen af den sigtede i spædbarnssagen",
+          "title": "Dolly Parton aflyser flere koncerter på grund af dårligt helbred",
           "snippet": "",
-          "url": "https://www.tvsyd.dk/soenderborg/skal-han-fortsat-sidde-inde-i-dag-udlober-faengslingen-af-den-sigtede-i-spaedbarnssagen-00e38",
-          "source": "tvSyd"
+          "url": "https://www.dr.dk/nyheder/seneste/dolly-parton-aflyser-flere-koncerter-paa-grund-af-daarligt-helbred",
+          "source": "dr.dk"
         },
         {
-          "title": "Påvirket af flere stoffer: Nu er der nyt om babykidnapper",
+          "title": "Dårligt helbred tvinger Dolly Parton til at aflyse koncerter",
           "snippet": "",
-          "url": "https://presse-fotos.dk/paavirket-af-flere-stoffer-nu-er-der-nyt-om-babykidnapper/",
-          "source": "Presse-fotos.dk"
+          "url": "https://politiken.dk/kultur/musik/art10829091/D%C3%A5rligt-helbred-tvinger-Dolly-Parton-til-at-aflyse-koncerter",
+          "source": "Politiken"
         }
       ],
       "link": "https://imtaqin.id/"
