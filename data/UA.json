@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2026-05-07 02:02:15",
+  "lastUpdate": "2026-05-07 03:21:03",
   "data": [
     {
-      "title": "рбк украина",
+      "title": "украинская правда",
       "trafficCount": "100+",
-      "pubDate": "Wed, 6 May 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzQU7jCNFITcLXNsFV2IzDXj4o8DfkE108Rn-zGjKMZpVNkQBEjEeL-HJuNU",
-      "pictureSource": "Росбалт",
+      "pubDate": "Wed, 6 May 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOhCiJ-CGHa2tnkBlr6RZFh2XPA6jeie4Z0h7fb87k7MRGViBoY159sk8FU-E",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "«РБК-Украина»: Киев рассматривает завершение боев на линии соприкосновения",
+          "title": "В США обнародовали предполагаемую предсмертную записку Эпштейна",
           "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2026-05-04/rbk-ukraina-kiev-rassmatrivaet-zavershenie-boev-na-linii-soprikosnoveniya-5591328",
-          "source": "Росбалт"
+          "url": "https://www.pravda.com.ua/rus/news/2026/05/07/8033522/",
+          "source": "Українська правда"
         },
         {
-          "title": "Что нужно для договоренностей: Кулеба назвал ключевое условие по гарантиям безопасности Украины",
+          "title": "Опубликована \"прощальная записка\" Джеффри Эпштейна - NEWSru.co.il",
           "snippet": "",
-          "url": "https://112.ua/ru/garantii-bezpeki-dla-ukraini-kuleba-ozvuciv-golovnu-umovu-dla-domovlenostej-159407",
-          "source": "112.ua"
+          "url": "https://www.newsru.co.il/world/7may2026/je_101.html",
+          "source": "NEWSru.co.il"
         },
         {
-          "title": "Политолог предрёк потерю Украиной всего Донбасса в обозримой перспективе",
+          "title": "Обнародована предсмертная записка Эпштейна",
           "snippet": "",
-          "url": "https://life.ru/p/1871638",
-          "source": "Life.ru"
+          "url": "https://ura.news/news/1053091382",
+          "source": "URA.RU"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "россия",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 6 May 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8HKD5gipIMfiKfuK3gn9pPmfv2m2auhzxwZ6AbVABiCnqflH54HUlYP1nOoA",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Зеленский: Россия довоевалась до того, что и их главный парад уже зависит от нас",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/news/2026/05/06/8033495/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "«Выбор России – очевидный отказ от тишины» – Зеленский о срыве режима прекращения огня",
+          "snippet": "",
+          "url": "https://ru.krymr.com/a/news-zelenskiy-sryv-rezhima-prekrashcheniya-ognya/33751163.html",
+          "source": "Крым.Реалии"
+        },
+        {
+          "title": "Россия нарушила режим \"тишины\": что известно об атаке на Харьков, Запорожье и не только",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/rosiya-porushila-rezhim-tishi-shcho-vidomo-1778041777.html",
+          "source": "РБК-Україна"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "парад",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 6 May 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy2xB8uw4ingBiZwydJ0cd5V9pN68xnzIwpgsalQ91IDj33h8KvR2sDGFxtj4",
+      "pictureSource": "ТСН",
+      "relatedSearch": [
+        {
+          "title": "Війна — уже в Москві: пропагандисти Кремля пішли на \"бунт\" проти Путіна, погрози не працюють — ISW",
+          "snippet": "",
+          "url": "https://tsn.ua/svit/viyna-uze-v-moskvi-propahandysty-kremlia-pishly-na-bunt-proty-putina-pohrozy-ne-pratsiuiut-isw-3077129.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "В ISW пояснили причину погроз Кремля на тлі підготовки до 9 травня",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/world/worldabus/4876498-v-ISW-poiasnyly-prychynu-pohroz-kremlia-na-tli-pidhotovky-do-9-travnia",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "\"Ми Москву мочимо\": експерт розповів, як може зганьбитися Путін",
+          "snippet": "",
+          "url": "https://www.unian.ua/war/udari-po-moskvi-ekspert-rozpoviv-pro-ganbu-yaka-navisla-nad-putinim-13373661.html",
+          "source": "УНІАН"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "выплата",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 6 May 2026 18:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyXoAU2PqrXOhYbUnTK4Ua81UtBwX1FcoOYK_FsoknZL6_D1_opahtINiFPN0",
       "pictureSource": "РБК-Україна",
@@ -58,17 +114,45 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "переговори",
-      "trafficCount": "100+",
+      "title": "міністерство закордонних справ російської федерації",
+      "trafficCount": "200+",
       "pubDate": "Wed, 6 May 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyMIH0ShoWNTNPeNuehCKkTH4oI8vy7Rd7SuTh5krsoF34Y1gnA3MIR_jZEo",
-      "pictureSource": "Європейська правда",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTecpZK9iDfNN6OZbC37d0dAVzRaiBR4O0zuRQ5QmEOeetjPebHrdM0kxcmUMI",
+      "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "Трамп заявив, що Іран передасть США свій збагачений уран",
+          "title": "У МЗС РФ анонсують \"удар у відповідь\" по \"центрах прийняття рішень\" в Києві 9 травня",
           "snippet": "",
-          "url": "https://www.eurointegration.com.ua/news/2026/05/6/7237054/",
-          "source": "Європейська правда"
+          "url": "https://www.pravda.com.ua/news/2026/05/06/8033499/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "МЗС РФ закликало іноземні посольства в Києві до евакуації перед 9 травня",
+          "snippet": "",
+          "url": "https://www.radiosvoboda.org/a/33751428.html",
+          "source": "Радіо Свобода"
+        },
+        {
+          "title": "Нові погрози Росії. Ескалація навколо 9 травня",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/ukraine/4876712-novi-pohrozy-rosii-eskalatsiia-navkolo-9-travnia",
+          "source": "Korrespondent.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "переговори",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 6 May 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfHFdJ4Vqrk0KW7_P090iTJCsuAqdsyj8cKMCEMiEaPpDki58elkpEeSDppE8",
+      "pictureSource": "Korrespondent.net",
+      "relatedSearch": [
+        {
+          "title": "Іран передасть США свій збагачений уран - Трамп",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/world/4876720-iran-peredast-ssha-svii-zbahachenyi-uran-tramp",
+          "source": "Korrespondent.net"
         },
         {
           "title": "Трамп назвав умови, які мають бути виконані Іраном для укладення угоди по завершенню війни",
@@ -93,9 +177,9 @@
       "pictureSource": "Рамблер/новости",
       "relatedSearch": [
         {
-          "title": "Взрывы раздаются над Таганрогом, работает ПВО",
+          "title": "SHOT: над Таганрогом прогремели взрывы при отражении атаки украинских БПЛА",
           "snippet": "",
-          "url": "https://news.rambler.ua/army/56411141-vzryvy-razdayutsya-nad-taganrogom-rabotaet-pvo/",
+          "url": "https://news.rambler.ua/army/56411278-shot-nad-taganrogom-progremeli-vzryvy-pri-otrazhenii-ataki-ukrainskih-bpla/",
           "source": "Рамблер/новости"
         },
         {
@@ -142,57 +226,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "псж арсенал",
+      "title": "champions league",
       "trafficCount": "200+",
-      "pubDate": "Wed, 6 May 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjANa4WGTYHxG1DVxxqJ62NJ7Ej3UUCfZxQlYUpsOpt-AHdb2tLxlIx6PyOw",
-      "pictureSource": "UEFA.com",
+      "pubDate": "Wed, 6 May 2026 14:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLaeTNHhw13o6TjXJxfSsk-YasBEBi_Ctz1Lh1rVkfBh5se5SMcb5YxVPq48",
+      "pictureSource": "Bundesliga",
       "relatedSearch": [
         {
-          "title": "Досье финалистов Лиги чемпионов",
+          "title": "Kompany and Tah speak ahead of PSG second leg",
           "snippet": "",
-          "url": "https://ru.uefa.com/uefachampionsleague/news/02a5-2090327f41a1-153a1b2e3135-1000--%D0%B4%D0%BE%D1%81%D1%8C%D0%B5-/",
-          "source": "UEFA.com"
+          "url": "https://www.bundesliga.com/en/bundesliga/videos/watch/kompany-and-tah-speak-ahead-of-psg-second-leg-qid6DYuw",
+          "source": "Bundesliga"
         },
         {
-          "title": "Определились участники исторического финала Лиги чемпионов: кто сыграет за трофей",
+          "title": "'We made history last year and we want more'",
           "snippet": "",
-          "url": "https://www.obozrevatel.com/sport-oboz/opredelilis-uchastniki-istoricheskogo-finala-ligi-chempionov-kto-syigraet-za-trofej.htm",
-          "source": "Obozrevatel"
+          "url": "https://www.besoccer.com/new/we-made-history-last-year-and-we-want-more-1408144",
+          "source": "BeSoccer Livescore"
         },
         {
-          "title": "Забарный в запасе: Бавария и ПСЖ объявили составы на второй полуфинал Лиги чемпионов",
+          "title": "Bayern Munich vs Paris Saint-Germain: Champions League semi-final second leg score, match updates, team news and commentary",
           "snippet": "",
-          "url": "https://champion.com.ua/rus/football/bavariya-pszh-startovye-sostavy-i-prognoz-na-otvetnyy-match-lch-6-maya-1072360/",
-          "source": "Champion.com.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "фінал лч",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 6 May 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdlFs-63NbrloLyyxGqhbuCuNrfPgG92eImyfQT_Ji_8E1OIm1Y0oCYsj9nms",
-      "pictureSource": "Korrespondent.net",
-      "relatedSearch": [
-        {
-          "title": "Герой матчу з Атлетіко прокоментував перемогу Арсеналу",
-          "snippet": "",
-          "url": "https://ua.korrespondent.net/sport/football/4876448-heroi-matchu-z-atletiko-prokomentuvav-peremohu-arsenalu",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "«Арсенал» вийшов у фінал Ліги чемпіонів УЄФА, обігравши «Атлетико»",
-          "snippet": "",
-          "url": "https://www.ukrinform.ua/rubric-sports/4120136-arsenal-vijsov-u-final-ligi-cempioniv-uefa-obigravsi-atletiko.html",
-          "source": "Укрінформ"
-        },
-        {
-          "title": "\"Арсенал\" повторив клубний рекорд, який тримається понад пів століття",
-          "snippet": "",
-          "url": "https://tsn.ua/prosport/arsenal-povtoryv-klubnyy-rekord-iakyy-trymayetsia-ponad-piv-stolittia-3077276.html",
-          "source": "ТСН"
+          "url": "https://www.skysports.com/football/live-blog/12309/13540077/bayern-munich-vs-paris-saint-germain-champions-league-semi-final-second-leg-score-match-updates-team-news-and-commentary",
+          "source": "Sky Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,72 +267,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "Венгрия вернула изъятые деньги украинского \"Ощадбанка\"",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/vengria-vernula-izatye-dengi-i-cennosti-ukrainskogo-osadbanka/a-77068958",
-          "source": "DW.com"
-        },
-        {
           "title": "Венгрия вернула Украине деньги и золото Ощадбанка, изъятые при Орбане",
           "snippet": "",
           "url": "https://meduza.io/news/2026/05/06/vengriya-vernula-ukraine-dengi-i-zoloto-oschadbanka-iz-yatye-pri-orbane",
           "source": "Meduza"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg bayern",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 6 May 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAHEve3-p375klhgo7THtNqyf44CYgrFWwdxSYcTzkdCo8a3WquGS7Fs7XBLs",
-      "pictureSource": "Sky Sports",
-      "relatedSearch": [
-        {
-          "title": "Bayern Munich vs Paris Saint-Germain: Champions League semi-final second leg score, match updates, team news and commentary",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/live-blog/12309/13540077/bayern-munich-vs-paris-saint-germain-champions-league-semi-final-second-leg-score-match-updates-team-news-and-commentary",
-          "source": "Sky Sports"
         },
         {
-          "title": "Kompany and Tah speak ahead of PSG second leg",
+          "title": "Венгрия вернула изъятые деньги украинского \"Ощадбанка\"",
           "snippet": "",
-          "url": "https://www.bundesliga.com/en/bundesliga/videos/watch/kompany-and-tah-speak-ahead-of-psg-second-leg-qid6DYuw",
-          "source": "Bundesliga"
-        },
-        {
-          "title": "Who Arsenal will face in Champions League final as opponents confirmed",
-          "snippet": "",
-          "url": "https://au.sports.yahoo.com/arsenal-face-champions-league-final-211743748.html",
-          "source": "Yahoo Sports Australia"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "адмирал григорович",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 6 May 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ91hHUnL9ZXIlcbV_UgVC_Yi5CYHNLHyVExMdIJDcSBAfy1e5GWE22VlW72VY",
-      "pictureSource": "УНИАН",
-      "relatedSearch": [
-        {
-          "title": "Российский фрегат \"Адмирал Григорович\" заметили за странной активностью у берегов Британии",
-          "snippet": "",
-          "url": "https://www.unian.net/world/admiral-grigorovich-fregat-vmf-rossii-podozritelno-manevriroval-u-poberezhya-velikobritanii-13373994.html",
-          "source": "УНИАН"
-        },
-        {
-          "title": "Около 100 российских судов прошли через британские воды",
-          "snippet": "",
-          "url": "https://obzor.lt/news/n123482.html",
-          "source": "Obzor.lt"
-        },
-        {
-          "title": "Daily Mail: всего 30 миль до Саффолка — ремонтное судно России устроило переполох в Британии",
-          "snippet": "",
-          "url": "https://abnews.ru/news/2026/5/6/daily-mail-vsego-30-mil-do-saffolka-remontnoe-sudno-rossii-ustroilo-perepoloh-v-britanii",
-          "source": "АБН24"
+          "url": "https://www.dw.com/ru/vengria-vernula-izatye-dengi-i-cennosti-ukrainskogo-osadbanka/a-77068958",
+          "source": "DW.com"
         }
       ],
       "link": "https://imtaqin.id/"
