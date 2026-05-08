@@ -1,9 +1,27 @@
 {
-  "lastUpdate": "2026-05-08 08:51:18",
+  "lastUpdate": "2026-05-08 09:24:05",
   "data": [
     {
-      "title": "spacex starship",
+      "title": "республика абхазия",
       "trafficCount": "100+",
+      "pubDate": "Fri, 8 May 2026 01:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ким джэ-вон",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 8 May 2026 01:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "spacex starship",
+      "trafficCount": "200+",
       "pubDate": "Fri, 8 May 2026 01:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2whqsI8EraVz221Cy0SRTELtqNaxTs1yCNPgwIB1gDbyDPwxtXOxmrGGDpcU",
       "pictureSource": "The Independent",
@@ -61,20 +79,20 @@
       "title": "интернет в россии",
       "trafficCount": "5000+",
       "pubDate": "Fri, 8 May 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpXtuHTkCQkukc12J-BqczXEMzIMT11b95KDtPDjQx5EfiK7abUyt1MIfrH0",
-      "pictureSource": "Meduza",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8IwJS3qr9YRw3LOaL4rLjnLizSYLND62KZWSXmngooOAdzjnoD6FmRuLYrDc",
+      "pictureSource": "Финансы Mail",
       "relatedSearch": [
-        {
-          "title": "Минцифры объявило, что 9 мая в Москве не будет мобильного интернета. Даже «белых списков»",
-          "snippet": "",
-          "url": "https://meduza.io/news/2026/05/07/mintsifry-ob-yavilo-chto-9-maya-v-moskve-ne-budet-mobilnogo-interneta-dazhe-belyh-spiskov",
-          "source": "Meduza"
-        },
         {
           "title": "Песков: компенсации для бизнеса из-за отключения связи не предусмотрены",
           "snippet": "",
           "url": "https://finance.mail.ru/article/peskov-kompensatsii-dlya-biznesa-iz-za-otklyucheniya-svyazi-ne-predusmotrenyi-69207905/",
           "source": "Финансы Mail"
+        },
+        {
+          "title": "В Москве 9 мая полностью ограничат мобильный интернет, в том числе на \"белый список\"",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1088123",
+          "source": "Интерфакс"
         },
         {
           "title": "Интернет и связь в Москве будут работать 7 и 8 мая",
@@ -87,7 +105,7 @@
     },
     {
       "title": "конор макгрегор",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 8 May 2026 01:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTePmj5M_QexAtJckVIVKgSZNzkAxF9MSFkAo7kZGO0mAsxzLJVLzVsxZ25vc",
       "pictureSource": "Матч ТВ",
@@ -117,26 +135,26 @@
       "title": "claude",
       "trafficCount": "500+",
       "pubDate": "Fri, 8 May 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTeUK5PxqbG_GpyngIb1qU-uVPidyXNm3jTE6RQToslttrRcQoUqDhprNIatE",
-      "pictureSource": "SecurityWeek",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCu1JyQakC082KzR6MPfVc6XSA5CnJhAk4un9MwSLZEAo5GqQGvJqyPJWOymY",
+      "pictureSource": "WIRED",
       "relatedSearch": [
         {
-          "title": "Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion",
+          "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
           "snippet": "",
-          "url": "https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/",
-          "source": "SecurityWeek"
+          "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+          "source": "WIRED"
         },
         {
-          "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
+          "title": "Anthropic’s Deal With SpaceX Exposes a Potential Problem for Elon Musk’s xAI",
           "snippet": "",
-          "url": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-          "source": "Dark Reading"
+          "url": "https://www.barrons.com/articles/anthropic-spacex-ai-deal-musk-a5f8e10a",
+          "source": "Barron's"
         },
         {
-          "title": "OpenAI and Anthropic LLMs Used in Critical Infrastructure Cyber-Attack, Warns Dragos",
+          "title": "Creators of Grok, the AI Chatbot",
           "snippet": "",
-          "url": "https://www.infosecurity-magazine.com/news/llm-critical-infrastructure/",
-          "source": "Infosecurity Magazine"
+          "url": "https://x.ai/news/anthropic-compute-partnership",
+          "source": "xAI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,54 +163,54 @@
       "title": "гроза",
       "trafficCount": "1000+",
       "pubDate": "Fri, 8 May 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwvlfR5rBIH9fYj3O0Hv5KPNCL9zQlW57XVPX7N11N-bMbvaAVIy86bSL93Ss",
-      "pictureSource": "КаспийИнфо. Новости Астрахани и региона",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Rp5Mn1yzRl9zXQkNPWaR2jTb4bAfxtm2RYdTo4qrJQDeq9PFueRH-DEFrnQ",
+      "pictureSource": "62ИНФО",
       "relatedSearch": [
         {
-          "title": "Штормовое предупреждение по ливням на три дня объявлено в Астраханской области",
+          "title": "В Рязанской области 8 мая поднимется ветер в 7 баллов, в 4 районах ждут грозу",
           "snippet": "",
-          "url": "https://kaspyinfo.ru/news/region/114681",
-          "source": "КаспийИнфо. Новости Астрахани и региона"
+          "url": "https://62info.ru/news/obshchestvo/149380-v-ryazanskoy-oblasti-8-maya-podnimetsya-veter-v-7-ballov-v-4-rayonakh-zhdut-grozu/",
+          "source": "62ИНФО"
         },
         {
-          "title": "Штормовое предупреждение: в Астраханской области ожидается резкое ухудшение погоды",
+          "title": "В пятницу в Рязанской области ожидаются дожди и гроза — Новости за 07.05.2026",
           "snippet": "",
-          "url": "https://punkt-a.info/news/glavnoe/shtormovoe-preduprezhdenie-v-astrakhanskoy-oblasti-ozhidaetsya-rezkoe-ukhudshenie-pogody",
-          "source": "Новости Астрахани | Пункт-А"
+          "url": "https://www.rzn.info/news/2026/5/7/v-pyatnicu-v-ryazanskoj-oblasti-ozhidayutsya-dozhdi-i-groza-344497.html",
+          "source": "RZN.info"
         },
         {
-          "title": "В Астрахань идет ощутимое потепление и дожди: погода будет неоднозначной",
+          "title": "Жителей Рязанской области предупреждают о грозе и сильном ветре |",
           "snippet": "",
-          "url": "https://arbuztoday.ru/v-astraxan-idet-poteplenie-i-dozhdi-pogoda-budet-neodnoznachnoj/",
-          "source": "АРБУЗ | Отборные астраханские новости"
+          "url": "https://ryazpressa.ru/zhitelej-ryazanskoj-oblasti-preduprezhdayut-o-groze-i-silnom-vetre/",
+          "source": "ИЗДАТЕЛЬСТВО «ПРЕССА»"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "хк локомотив",
-      "trafficCount": "200+",
+      "title": "волгоград",
+      "trafficCount": "500+",
       "pubDate": "Fri, 8 May 2026 00:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgzXzpx3olrXOB3nFOjGU3R3KrsITtgpsBlgqWZT1LgZuXoSfFNxdMRhznu0k",
-      "pictureSource": "KHL",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgCKgJfVu7otpZJFpT9LsBSwRnpUfbuMjf2ncm4od2TprLFzhZr3FE1yuEuHk",
+      "pictureSource": "Интерфакс",
       "relatedSearch": [
         {
-          "title": "Не стоит недооценивать сердце чемпиона. Итоги серии «Локомотив» – «Авангард»: Новости",
+          "title": "Аэропорт Волгограда возобновил обслуживание рейсов",
           "snippet": "",
-          "url": "https://www.khl.ru/news/2026/05/07/562326.html",
-          "source": "KHL"
+          "url": "https://www.interfax.ru/russia/1088131",
+          "source": "Интерфакс"
         },
         {
-          "title": "Терещенко — о серии «Локомотива» с «Авангардом»: «Все ждали семь матчей. Две равные команды, классный хоккей»",
+          "title": "Росавиация сообщила о закрытии на неопределенное время аэропорта Волгограда",
           "snippet": "",
-          "url": "https://matchtv.ru/hockey/matchtvnews_NI2323242_Tereshhenko__o_serii_Lokomotiva_s_Avangardom_Vse_zhdali_sem_matchej_Dve_ravnyje_komandy_klassnyj_khokkej",
-          "source": "Матч ТВ"
+          "url": "https://v1.ru/text/gorod/2026/05/08/76409522/",
+          "source": "Новости Волгограда и Волгоградской области | V1.ру"
         },
         {
-          "title": "«Авангард» не может вылететь из Ярославля",
+          "title": "Аэропорт Волгограда приостановил авиасообщение",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/KHL/spbnews_NI2323124_Avangard_ne_mozhet_vyletet_iz_Jaroslavla",
-          "source": "Sportbox"
+          "url": "https://ura.news/news/1053091320",
+          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,9 +219,15 @@
       "title": "министерство обороны",
       "trafficCount": "2000+",
       "pubDate": "Fri, 8 May 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxR-IeYZDCL-Pa3IQB1FjnTCfdZPYMZBdfQwoEcbGztIAlGzJmnGL9cx1JDk",
-      "pictureSource": "Москвич Mag",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZyN3We-8GGWZW0k-ERV3I2AmmNhMrWx3SBHqlBXoxVWnPsjbU8qHiMyk9suk",
+      "pictureSource": "mos.ru",
       "relatedSearch": [
+        {
+          "title": "Мэр Москвы сообщил о 88-м уничтоженном беспилотнике, летевшем к столице",
+          "snippet": "",
+          "url": "https://www.mos.ru/mayor/themes/14777050/",
+          "source": "mos.ru"
+        },
         {
           "title": "Появилось видео из квартиры на Мосфильмовской, куда попал беспилотник",
           "snippet": "",
@@ -211,72 +235,10 @@
           "source": "Москвич Mag"
         },
         {
-          "title": "Мэр Москвы сообщил об отражении атаки 87-го БПЛА на подлете к столице",
-          "snippet": "",
-          "url": "https://www.mos.ru/mayor/themes/14778050/",
-          "source": "Официальный сайт Мэра Москвы"
-        },
-        {
           "title": "Первый день «перемирия», объявленного Россией в одностороннем порядке. Украина запустила больше 200 беспилотников. На подлете к Москве сбили 27 дронов",
           "snippet": "",
           "url": "https://meduza.io/news/2026/05/08/pervyy-den-peremiriya-ob-yavlennogo-rossiey-v-odnostoronnem-poryadke-ukraina-zapustila-bolshe-200-bespilotnikov-na-podlete-k-moskve-sbili-27-dronov",
           "source": "Meduza"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "apple",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 8 May 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp8qWRBPqXy0iHT6-ekwJuolhO97D53IiXEmIo3yvVZfSWAGzqPdqEjFqLu-o",
-      "pictureSource": "Bloomberg.com",
-      "relatedSearch": [
-        {
-          "title": "Apple’s Camera-Equipped AirPods Reach Late Testing in AI Device Push",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Apple is putting cameras in AirPods. What could possibly go wrong?",
-          "snippet": "",
-          "url": "https://www.soundguys.com/apple-is-putting-cameras-in-airpods-what-could-possibly-go-wrong-157212/",
-          "source": "SoundGuys"
-        },
-        {
-          "title": "Apple hits milestone in development of AirPods with cameras: report",
-          "snippet": "",
-          "url": "https://9to5mac.com/2026/05/07/apple-hits-milestone-in-development-of-airpods-with-cameras-report/",
-          "source": "9to5Mac"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "перекрытие дорог 9 мая",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 8 May 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV0ruJtN2pSNgy_5K_CyPwoGLTdR4G6-QAsvFTmpCzN_LXRIf-RxAftWIWsHg",
-      "pictureSource": "Новости Владивостока на VL.ru",
-      "relatedSearch": [
-        {
-          "title": "Завтра движение в центре Владивостока будет перекрыто весь день, автобусы будут ходить по изменённым маршрутам",
-          "snippet": "",
-          "url": "https://www.newsvl.ru/shallnotpass/2026/05/08/238236/",
-          "source": "Новости Владивостока на VL.ru"
-        },
-        {
-          "title": "Металлодетекторы, запрет на еду и воду: как будут пускать на праздник 9 Мая во Владивостоке",
-          "snippet": "",
-          "url": "https://primamedia.ru/news/2486788/",
-          "source": "PrimaMedia.ru"
-        },
-        {
-          "title": "Во Владивостоке усилят меры безопасности во время празднования Дня Победы",
-          "snippet": "",
-          "url": "https://konkurent.ru/article/87034",
-          "source": "KONKURENT.RU"
         }
       ],
       "link": "https://imtaqin.id/"
