@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-05-08 04:03:02",
+  "lastUpdate": "2026-05-08 05:09:45",
   "data": [
     {
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 7 May 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqN6BbLbzlTftfofJOIn-QHxrMN-iSMFbqjW4GS0He__LO3R0eJR3qBCPgS-8",
+      "pictureSource": "Mecardo",
+      "relatedSearch": [
+        {
+          "title": "Hay and feed grain rally starting in the north",
+          "snippet": "",
+          "url": "https://mecardo.com.au/hay-and-feed-grain-rally-starting-in-the-north/",
+          "source": "Mecardo"
+        },
+        {
+          "title": "\"Timing is everything\" with weather system building up Central Australia",
+          "snippet": "",
+          "url": "https://www.beefcentral.com/news/timing-is-everything-with-weather-system-building-up-central-australia/",
+          "source": "Beef Central"
+        },
+        {
+          "title": "Welcome rain for dry parts of northern NSW, southern Qld",
+          "snippet": "",
+          "url": "https://www.weatherzone.com.au/news/welcome-rain-for-dry-parts-of-northern-nsw-southern-qld/1891341",
+          "source": "Weatherzone"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "meteo",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Thu, 7 May 2026 20:10:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -11,29 +39,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ilie bolojan",
+      "title": "prognoza meteo",
       "trafficCount": "100+",
-      "pubDate": "Thu, 7 May 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAo7hmCaPspvmrJVINdU4GiaNtu_1B3V8olKeS3qJ60RdUQik0ql0CltCtiI",
-      "pictureSource": "Digi24",
+      "pubDate": "Thu, 7 May 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq9mbzUtSIgsBMg53t8-zLD1w2rmJ2-A6fCZ2agiKG7Ppt0JVSR24k1vvhHJ0",
+      "pictureSource": "Ziarul de Gardă",
       "relatedSearch": [
         {
-          "title": "Negocieri informale la Cotroceni. Surse: Ilie Bolojan a fost primit de Nicușor Dan",
+          "title": "Cer senin și maxime de 24 de grade Celsius. Cum va fi vremea pe 7 mai",
           "snippet": "",
-          "url": "https://www.digi24.ro/stiri/actualitate/politica/noi-negocieri-la-cotroceni-dupa-caderea-guvernului-bolojan-ce-variante-sunt-pe-masa-presedintelui-nicusor-dan-3759683",
-          "source": "Digi24"
+          "url": "https://www.zdg.md/stiri/cer-senin-si-maxime-de-24-de-grade-celsius-cum-va-fi-vremea-pe-7-mai/",
+          "source": "Ziarul de Gardă"
         },
         {
-          "title": "Ecuația cu prea multe necunoscute de pe masa lui Nicușor Dan. Ce ar fi \"guvernul de un an\"",
+          "title": "Se strică vremea în întreaga țară. Șefa ANM a anunțat când vin primele furtuni",
           "snippet": "",
-          "url": "https://www.antena3.ro/politica/ecuatia-cu-prea-multe-necunoscute-de-pe-masa-lui-nicusor-dan-culisele-primelor-consultari-de-la-cotroceni-787339.html",
-          "source": "Antena 3 CNN"
+          "url": "https://hotnews.ro/se-strica-vremea-furtuni-ploi-torentiale-prognoza-meteo-2239406",
+          "source": "HotNews.ro"
         },
         {
-          "title": "Eurocronica - Nicușor Dan – ”pro-occidental”. Ambiguități și semne de întrebare",
+          "title": "Meteo, 7 Mai",
           "snippet": "",
-          "url": "https://www.rfi.fr/ro/podcasturi/eurocronica/20260507-nicu%C8%99or-dan-%E2%80%93-pro-occidental-ambiguit%C4%83%C8%9Bi-%C8%99i-semne-de-%C3%AEntrebare",
-          "source": "RFI"
+          "url": "https://www.jurnaltv.md/news/a7d16ffd78aee82e/meteo-7-mai.html",
+          "source": "JurnalTV.md"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "парламент",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 7 May 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3gvWiPZwxbXA0ii8W_TWvPAP4IcgxqrJ61HO69bmNbgcR2n-bqlhRiR_PtHw",
+      "pictureSource": "NewsMaker",
+      "relatedSearch": [
+        {
+          "title": "Кодекс со скандалом: в парламенте запретят «политический туризм», а депутатов обяжут говорить на румынском. Оппозиция покинула зал заседаний",
+          "snippet": "",
+          "url": "https://newsmaker.md/ru/kodeks-so-skandalom-v-parlamente-zapretyat-politicheskii-turizm-a-deputatov-obyajut-govorit-na-rumynskom-oppozicziya-pokinula-zal-zasedanii",
+          "source": "NewsMaker"
+        },
+        {
+          "title": "Нейтралитет страны под вопросом в проекте PAS. Талмазан: «Это ошибка, мы её признаем и исправим»",
+          "snippet": "",
+          "url": "https://noi.md/ru/politika/nejtralitet-strany-pod-voprosom-v-proekte-pas-talmazan-jeto-oshibka-my-eyo-priznaem-i-ispravim",
+          "source": "noi.md"
+        },
+        {
+          "title": "«Сегрегация по политическому и культурному признаку»: в молдавском парламенте планируют запретить русский язык",
+          "snippet": "",
+          "url": "https://prospect.com.ru/news/6699251/segregatsiya-po-politicheskomu-i-kulturnomu-priznaku-v-moldavskom-parlamente-planiruyut-zapretit-rus.html",
+          "source": "https://prospect.com.ru/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,10 +142,10 @@
           "source": "Спорт Mail"
         },
         {
-          "title": "ПСЖ с ранним голом Дембеле сыграл вничью с Баварией и стал вторым финалистом Лиги чемпионов",
+          "title": "ПСЖ с Сафоновым и Кварацхелией вышел в финал Лиги чемпионов",
           "snippet": "",
-          "url": "https://champion.com.ua/rus/football/pszh-vo-vtoroy-raz-obygral-bavariyu-i-vyshel-v-final-ligi-chempionov-1072373/",
-          "source": "Champion.com.ua"
+          "url": "https://m.business-gazeta.ru/news/701591",
+          "source": "БИЗНЕС Online — Новости Казани"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,15 +154,9 @@
       "title": "армения",
       "trafficCount": "100+",
       "pubDate": "Thu, 7 May 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXfmSts5qvUzZXa0t8TnNTfEm9Xnh_lbOIoOv94hvdF23VnfO4uN9XTvryaqg",
-      "pictureSource": "Meduza",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy1B3CfXummwHISsDfdZCHkm5No2NIRR8jjIqAEldNdRlm1KTyvxfNrrNcgkg",
+      "pictureSource": "Ведомости",
       "relatedSearch": [
-        {
-          "title": "Российский МИД «испытал негодование» из-за того, что Зеленскому дали «трибуну для озвучивания угроз» в Ереване",
-          "snippet": "",
-          "url": "https://meduza.io/news/2026/05/07/rossiyskiy-mid-ispytal-negodovanie-iz-za-togo-chto-zelenskomu-dali-tribunu-dlya-ozvuchivaniya-ugroz-v-erevane",
-          "source": "Meduza"
-        },
         {
           "title": "МИД РФ: власти Армении нарушили обещание не предпринимать шагов против России",
           "snippet": "",
@@ -118,6 +168,12 @@
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1088312",
           "source": "Интерфакс"
+        },
+        {
+          "title": "Российский МИД «испытал негодование» из-за того, что Зеленскому дали «трибуну для озвучивания угроз» в Ереване",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/05/07/rossiyskiy-mid-ispytal-negodovanie-iz-za-togo-chto-zelenskomu-dali-tribunu-dlya-ozvuchivaniya-ugroz-v-erevane",
+          "source": "Meduza"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -152,7 +208,7 @@
     },
     {
       "title": "черешня",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 7 May 2026 15:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFbpZ1Q8_af05mYizhUQJMNX1zYeV1sRIm8OmM0djdtKgWpabRcERGDu1HwrI",
       "pictureSource": "NewsMaker",
@@ -182,82 +238,26 @@
       "title": "хантавирус",
       "trafficCount": "200+",
       "pubDate": "Thu, 7 May 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhlDQjUmlx-50RYTmoTrCtQtDEQ8vY2j5tGX3lScis4LG1aQbZnmMd65vB5Og",
-      "pictureSource": "URA.RU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOSGwm89smU_22CnUKss8gcC3ITpCzacUCg6mW8bKHFnL3NcLy1sPLadw_SM",
+      "pictureSource": "ВФокусе Mail",
       "relatedSearch": [
         {
-          "title": "Российские ученые принялись готовить вакцину от нового вируса",
+          "title": "Рост потерь в рядах ВСУ объяснили распространением хантавируса",
           "snippet": "",
-          "url": "https://ura.news/news/1053091702",
+          "url": "https://vfokuse.mail.ru/news/69620058-rost-poter-v-ryadah-vsu-obyasnili-rasprostraneniem-hantavirusa/",
+          "source": "ВФокусе Mail"
+        },
+        {
+          "title": "ТАСС: Хантавирус распространяется на Украине",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/701676",
+          "source": "БИЗНЕС Online — Новости Казани"
+        },
+        {
+          "title": "Украину накрыла эпидемия нового неизлечимого вируса",
+          "snippet": "",
+          "url": "https://ura.news/news/1053091693",
           "source": "URA.RU"
-        },
-        {
-          "title": "Новый смертельный вирус хотят остановить: когда появится вакцина от хантавируса",
-          "snippet": "",
-          "url": "https://www.chita.ru/text/health/2026/05/08/76409328/",
-          "source": "ЧИТА.ру"
-        },
-        {
-          "title": "Гинцбург: На создание вакцины от хантавируса уйдет 1,5 года",
-          "snippet": "",
-          "url": "https://nsn.fm/nauka-i-tehnologii/gintsburg-na-sozdanie-vaktsiny-ot-hantavirusa-uidet-15-goda",
-          "source": "Национальная Служба Новостей - НСН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "посол",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 7 May 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLPTbeZfKHPVztG1MRaemcDeFrmsvS5mvIAWuuJ3RJl91DJPjgRrLaxpYK5o",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Вальверде попал в больницу из-за драки на тренировке «Реала»",
-          "snippet": "",
-          "url": "https://sportmail.ru/article/football-foreign/70812559/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Футболист \"Реала\" потерял сознание в драке с партнером по команде",
-          "snippet": "",
-          "url": "https://www.sport-interfax.ru/1088315",
-          "source": "sport-interfax.ru"
-        },
-        {
-          "title": "Звезды \"Реала\" подрались на тренировке, и один из них попал в больницу",
-          "snippet": "",
-          "url": "https://www.zakon.kz/sport/6517121-zvezdy-reala-podralis-na-trenirovke-i-odin-iz-nikh-popal-v-bolnitsu.html",
-          "source": "Новости Zakon.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "молдова",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 7 May 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSuduTU48Uv8JZy2chYGcFCR-UOfGUFxPU4bHW40z4uEZ9eGafbBTSMloagvU",
-      "pictureSource": "TV8.md",
-      "relatedSearch": [
-        {
-          "title": "/ВИДЕО/ 12 мая Молдова откроет I полуфинал «Евровидения-2026». Satoshi выйдет на сцену первым",
-          "snippet": "",
-          "url": "https://tv8.md/ru/2026/05/07/video-12-maya-moldova-otkroet-i-polufinal-evrovideniya-2026-satoshi-viidet-na-stsenu-pervim/302111",
-          "source": "TV8.md"
-        },
-        {
-          "title": "За что на «Евровидении» (не) любят Молдову. С кем в 2026 году поборется Satoshi, и какие шансы?",
-          "snippet": "",
-          "url": "https://newsmaker.md/ru/za-chto-na-evrovidenii-ne-lyubyat-moldovu-s-kem-v-2026-godu-poboretsya-satoshi-i-kakie-shansy",
-          "source": "NewsMaker"
-        },
-        {
-          "title": "В сети появилось первое фото молдавской делегации на Евровидении:",
-          "snippet": "",
-          "url": "https://www.md.kp.media/online/news/6950732",
-          "source": "MD.KP.MEDIA"
         }
       ],
       "link": "https://imtaqin.id/"
