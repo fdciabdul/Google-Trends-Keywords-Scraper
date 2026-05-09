@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-05-09 16:26:26",
+  "lastUpdate": "2026-05-09 16:48:12",
   "data": [
-    {
-      "title": "naujienos",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 9 May 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Ltm7UEIuAs3BZlxYKZfmvyur8jx05szzc_Co7xgpJf8svbg7Y-tiZSAqHAc",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Pirmuoju Vilniaus dangoraižiu vadintas pastatas atgyja naujai",
-          "snippet": "",
-          "url": "https://www.delfi.lt/naujienos/lietuvoje/pirmuoju-vilniaus-dangoraiziu-vadintas-pastatas-atgyja-naujai-120246969",
-          "source": "Delfi"
-        },
-        {
-          "title": "Estijoje ant Narvos pilies iškabintas transparantas su užrašu „Putinas – karo nusikaltėlis“",
-          "snippet": "",
-          "url": "https://www.delfi.lt/naujienos/uzsienyje/estijoje-ant-narvos-pilies-iskabintas-transparantas-su-uzrasu-putinas-karo-nusikaltelis-120247837",
-          "source": "Delfi"
-        },
-        {
-          "title": "Gegužės 9-oji Estijoje",
-          "snippet": "",
-          "url": "https://www.respublika.lt/lt/naujienos/pasaulis/kitos_pasaulio_naujienos/geguzes-9-oji-estijoje/",
-          "source": "Respublika"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "katažina zvonkuvienė",
       "trafficCount": "200+",
@@ -58,18 +30,40 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "pergalės diena",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 9 May 2026 06:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrUFnGcECx_p3aOfap3rs8L_jMFZrJwXSOy_oxPcLtzr4iCgarEtDbSBgWmp8",
+      "title": "naujienos",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 9 May 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Ltm7UEIuAs3BZlxYKZfmvyur8jx05szzc_Co7xgpJf8svbg7Y-tiZSAqHAc",
       "pictureSource": "Delfi",
       "relatedSearch": [
         {
-          "title": "Kitoks Pergalės paradas: Putino kalba netruko nė 10 minučių, pirmą kartą nebuvo jokios karinės technikos",
+          "title": "Pirmuoju Vilniaus dangoraižiu vadintas pastatas atgyja naujai",
           "snippet": "",
-          "url": "https://www.delfi.lt/naujienos/uzsienyje/kitoks-pergales-paradas-putino-kalba-netruko-ne-10-minuciu-pirma-karta-nebuvo-jokios-karines-technikos-120247753",
+          "url": "https://www.delfi.lt/naujienos/lietuvoje/pirmuoju-vilniaus-dangoraiziu-vadintas-pastatas-atgyja-naujai-120246969",
           "source": "Delfi"
         },
+        {
+          "title": "Pergalės dienos parade – keista akimirka",
+          "snippet": "",
+          "url": "https://www.delfi.lt/naujienos/uzsienyje/pergales-dienos-parade-keista-akimirka-120247839",
+          "source": "Delfi"
+        },
+        {
+          "title": "Komunikacinė LRT operacija",
+          "snippet": "",
+          "url": "https://www.respublika.lt/lt/naujienos/lietuva/kitos-lietuvos-zinios/komunikacine-lrt-operacija/",
+          "source": "Respublika"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pergalės diena",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 9 May 2026 06:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVu0FrfxAHHbpOUO96bGdmApYrN6elo_SQxsnB3wpyttZWwNG9riNvoyNIm0",
+      "pictureSource": "15min.lt",
+      "relatedSearch": [
         {
           "title": "Stano rėžė apie Rusijos paradą ir „degradus“: „Švęskite, kol Zelenskis jums leidžia“",
           "snippet": "",
@@ -77,10 +71,16 @@
           "source": "15min.lt"
         },
         {
-          "title": "Karas Ukrainoje. Rusija kaltina Ukrainą pažeidus paliaubas",
+          "title": "Rusija kaltina Ukrainą pažeidus paliaubas",
           "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/uzsienis/karas-ukrainoje-rusija-kaltina-ukraina-pazeidus-paliaubas-n1518184",
-          "source": "tv3.lt"
+          "url": "https://www.delfi.lt/naujienos/uzsienyje/rusija-kaltina-ukraina-pazeidus-paliaubas-120247827",
+          "source": "Delfi"
+        },
+        {
+          "title": "Maskvoje sustiprinto saugumo sąlygomis be karinės technikos vyko Pergalės dienos paradas",
+          "snippet": "",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2923027/maskvoje-sustiprinto-saugumo-salygomis-be-karines-technikos-vyko-pergales-dienos-paradas",
+          "source": "LRT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "BBC"
         },
         {
-          "title": "Gravenberch's curler and a freak Enzo Fernández free-kick share the points at Anfield",
+          "title": "(Video): Enzo Fernandez grabs latest goal with long range free kick and unintentional Wesley Fofana dummy",
           "snippet": "",
-          "url": "https://www.sportsadda.asia/football/news-football/gravenberchs-curler-and-a-freak-enzo-fernandez-free-kick-share-the-points-at-anfield/",
-          "source": "SportsAdda"
+          "url": "https://onefootball.com/de/news/video-enzo-fernandez-grabs-latest-goal-with-long-range-free-kick-and-unintentional-wesley-fofana-dummy-42839177",
+          "source": "OneFootball"
         },
         {
-          "title": "Gags Tandon: “We are broken, and everything’s on Slot”",
+          "title": "Cody Gakpo on need 'to be better', Chelsea warning and 50th LFC goal",
           "snippet": "",
-          "url": "https://onefootball.com/it/notizie/gags-tandon-we-are-broken-and-everythings-on-slot-42839378",
-          "source": "OneFootball"
+          "url": "https://www.liverpoolfc.com/news/cody-gakpo-need-be-better-chelsea-warning-and-50th-lfc-goal",
+          "source": "Liverpool FC"
         }
       ],
       "link": "https://imtaqin.id/"
