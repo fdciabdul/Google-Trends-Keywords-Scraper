@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-05-15 16:16:02",
+  "lastUpdate": "2026-05-15 16:58:06",
   "data": [
     {
       "title": "ак барс – локомотив",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 May 2026 08:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAvPXc4EcU4F7j1xRdugtrIbp7e7aodz0URO2XqEd3A0bOQ6QVxOHFUUAwTk",
       "pictureSource": "KHL",
@@ -31,7 +31,7 @@
     },
     {
       "title": "директор",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 15 May 2026 08:40:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -40,7 +40,7 @@
     },
     {
       "title": "twitch",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 May 2026 08:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE3nlyS8qPQW1xXVn_vhWcZ4lv7i44g8aDcc8TT8T4VvZEY39UczW-dRwkKXk",
       "pictureSource": "IGN",
@@ -67,29 +67,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "депутат",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 15 May 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4nt9THQgSZaDO-h0so16srhxH9my_Jp0B4AmaRJ0fmc3NqW402hSJxXMYMh0",
-      "pictureSource": "BBC",
+      "title": "ставка на любовь 2 сезон",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 15 May 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1YqpZM7T70uKJD5Y9KM76AY3DGIRkNHbXv7qtCgpe2iMcwvSMbgSlV1jybT4",
+      "pictureSource": "ТВ Mail",
       "relatedSearch": [
         {
-          "title": "Бывшего главу Офиса президента Украины Андрея Ермака арестовали по делу об отмывании денег",
+          "title": "Редкий выход: звезда «Универа» Хилькевич пришла на премьеру с мужем",
           "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/c0526d236e3o",
-          "source": "BBC"
+          "url": "https://tv.mail.ru/news/125229-redkij-vyhod-zvezda-univera-hilkevich-prishla-na-premeru-s-muzhem/",
+          "source": "ТВ Mail"
         },
         {
-          "title": "Брюссель: Дело Ермака не повлияет на вступление Украины в ЕС",
+          "title": "«Ставка на любовь» 2 сезон 1 выпуск: кто попал в номинацию и ушел ли кто-то",
           "snippet": "",
-          "url": "https://www.dw.com/ru/brussel-delo-ermaka-ne-povliaet-na-process-vstuplenia-ukrainy-v-es/a-77142532",
-          "source": "DW.com"
+          "url": "https://uz.kursiv.media/2026-05-15/stavka-na-lyubov-2-sezon-1-vypusk/",
+          "source": "Kursiv Media"
         },
         {
-          "title": "Адвокат оплатил Ермаку улучшенную камеру в СИЗО",
+          "title": "«Ставка на любовь»: скандал на премьере, миллионные ставки и нервные срывы на Бали",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/05/14/8034730/",
-          "source": "Українська правда"
+          "url": "https://pulsfid.ru/news/stavka-na-lyubov-skandal-na-premere-millionnye-stavki-i-nervnye-sryvy-na-bali-122535931",
+          "source": "Пульсфид"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "депутат",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 15 May 2026 08:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdZhpXKNjrxYWiwuk-va--E1fml5os4hxHwXHg_Nz0SjozABwQ_8PZOfYSxG0",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "В маслихат города Алматы избран новый депутат",
+          "snippet": "",
+          "url": "https://www.zakon.kz/obshestvo/6518031-v-maslikhat-goroda-almaty-izbran-novyy-deputat.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Игорь Проценко сложил полномочия депутата маслихата Алматы",
+          "snippet": "",
+          "url": "https://bes.media/news/igor-protsenko-slozhil-polnomochiya-deputata-maslihata-almati/",
+          "source": "BES.media"
+        },
+        {
+          "title": "Проект закона о Қазақстан Халық Кеңесі одобрен в первом чтении",
+          "snippet": "",
+          "url": "https://www.zakon.kz/politika/6517940-proekt-zakona-o-azastan-khaly-kees-odobren-v-pervom-chtenii.html",
+          "source": "Новости Zakon.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,10 +142,10 @@
           "source": "khabar.kz"
         },
         {
-          "title": "Казахстанцев массово атакуют мошенники: в МВД сделали заявление",
+          "title": "За счёт дропперов растёт статистика экономических преступлений",
           "snippet": "",
-          "url": "https://www.nur.kz/society/2377065-kazahstancev-massovo-atakuyut-moshenniki-v-mvd-sdelali-zayavlenie/",
-          "source": "NUR.KZ"
+          "url": "https://24.kz/ru/news/social/768757-za-schjot-dropperov-rastjot-statistika-ekonomicheskikh-prestuplenij",
+          "source": "24.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -136,16 +164,16 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "FURIA и Molodoy рвутся в плей-офф — PGL Astana 2026 кипит с первых матчей",
+          "title": "Рев трибун и лучшие команды мира: как проходит PGL Astana 2026",
           "snippet": "",
-          "url": "https://el.kz/ru/furia-i-molodoy-rvutsya-v-pley-off-pgl-astana-2026-kipit-s-pervyh-matchey_400047587/",
-          "source": "El.kz"
+          "url": "https://www.inform.kz/ru/rev-tribun-iluchshie-komandi-mira-kakprohodit-pgl-astana-2026-f8f6d89e",
+          "source": "Казинформ"
         },
         {
-          "title": "Компания MySkill совместно с 1xBet выступает официальным организатором казахоязычной трансляции турнира PGL Astana 2026",
+          "title": "Sh1ro: «Мы стали командой»",
           "snippet": "",
-          "url": "https://legalbet.kz/news/kompaniya-myskill-sovmestno-s-1xbet-vistupaet/",
-          "source": "Legalbet.kz"
+          "url": "https://escorenews.com/ru/csgo/news/78145-sh1ro-my-stali-komandoy",
+          "source": "Escorenews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -180,7 +208,7 @@
     },
     {
       "title": "владимир соловьёв",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 15 May 2026 07:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2GF7ljUCe2AiWUZbRbOCvTgDEz2pGrHwQAWOqKhHWVnUrQDLgOFsziuZIcHw",
       "pictureSource": "Настоящее Время",
@@ -230,34 +258,6 @@
           "snippet": "",
           "url": "https://24.kz/ru/news/social/768672-farmzavod-postroyat-v-karagandinskoj-oblasti",
           "source": "24.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "вратарь",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 15 May 2026 05:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMvYcqrhqpMLFcvxXU7njrvhIXSIhGvtqjeqlonLXyA5x9SkKxRdLAFLIkNTI",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Тренер «ПСЖ» восхитился игрой Матвея Сафонова после чемпионства",
-          "snippet": "",
-          "url": "https://sportmail.ru/article/football-foreign/70883698/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Победитель Лиги чемпионов пятый год подряд становится чемпионом Франции",
-          "snippet": "",
-          "url": "https://www.zakon.kz/sport/6517816-pobeditel-ligi-chempionov-pyatyy-god-podryad-stanovitsya-chempionom-frantsii.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Сафонов эффектно взял золото с «ПСЖ»! Россиянин стал лучшим в чемпионском матче",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2325648_Safonov_effektno_vzal_zoloto_s_PSZh_Rossijanin_stal_luchshim_v_chempionskom_matche",
-          "source": "Sportbox"
         }
       ],
       "link": "https://imtaqin.id/"
