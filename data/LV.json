@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-05-20 19:22:14",
+  "lastUpdate": "2026-05-20 20:11:20",
   "data": [
     {
       "title": "nodoklis",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 20 May 2026 11:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQL5R7d9B-3KQ4WvT7g3Mh6oLuNflXgQYUCjE-kTsZWaPr1YTBgLWlkp8IqSA",
       "pictureSource": "LA.LV",
@@ -31,17 +31,11 @@
     },
     {
       "title": "эвакуация",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 20 May 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTErK_nSz5_Kkl0Q0pik_W0utrWUA-xeWIrl_c-giNq_eIO0DZxwiJJ141Xcmk",
-      "pictureSource": "Погода Mail",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuJ5i8ZalqtsIqf5vM5arGAbhgqxFx8a4NTXG5UtwZOvFWYWtQg_Op-nWXvao",
+      "pictureSource": "Сайт города Армавира",
       "relatedSearch": [
-        {
-          "title": "В Армавире объявили эвакуацию из‑за угрозы подтопления",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/70960444/",
-          "source": "Погода Mail"
-        },
         {
           "title": "В Армавире сохраняется угроза подтопления 8 территорий",
           "snippet": "",
@@ -49,10 +43,16 @@
           "source": "Сайт города Армавира"
         },
         {
-          "title": "Поселки ушли под воду, оползень перекрыл мост: Кубань переживает буйство стихии",
+          "title": "Поднимающаяся вода гонит людей из домов: Армавир спешно эвакуируют",
           "snippet": "",
-          "url": "https://bloknot-krasnodar.ru/news/poselki-ushli-pod-vodu-opolzen-perekryl-most-kuban",
+          "url": "https://bloknot-krasnodar.ru/news/podnimayushchayasya-voda-gonit-lyudey-iz-domov-arm",
           "source": "Блокнот Краснодар"
+        },
+        {
+          "title": "Жителей южного города экстренно эвакуируют: что произошло",
+          "snippet": "",
+          "url": "https://ura.news/articles/1053094957",
+          "source": "URA.RU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "Dzentlmenis.lv"
         },
         {
-          "title": "\"Piedod, es neizturēju!\" Sieva Edīte atgriezās no atpūtas Turcijā un 2 nedēļas staigāja pilnīgi sveša, līdz nolēma atzīties",
-          "snippet": "",
-          "url": "https://dzentlmenis.lv/piedod-es-neiztureju-sieva-edite-atgriezas-no-atputas-turcija-un-2-nedelas-staigaja-pilnigi-svesa-lidz-nolema-atzities/269565/2/",
-          "source": "Dzentlmenis.lv"
-        },
-        {
           "title": "“Otrā pusē tāda scenārija nav…” Armands Simsons nāk klajā ar skaudru atzīšanos par krīzi laulībā",
           "snippet": "",
           "url": "https://www.la.lv/otra-puse-tada-scenarija-nav-armands-simsons-nak-klaja-ar-skaudru-atzisanos-par-krizi-lauliba",
           "source": "LA.LV"
+        },
+        {
+          "title": "Simsonu ģimenes drāma: vai šis ir beigu sākums?",
+          "snippet": "",
+          "url": "https://nra.lv/tautaruna/slavenibas/521458-armands-simsonam-un-vina-sievai-ivetai-laulibas-krize.htm",
+          "source": "nra"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "LSM"
         },
         {
+          "title": "“Es saprotu, ka šoreiz apdraudējums bija nopietns” – Inese Supe kopā ar filmēšanas grupu nonākusi dronu apdraudētajā teritorijā",
+          "snippet": "",
+          "url": "https://www.la.lv/es-saprotu-ka-soreiz-apdraudejums-bija-nopietns-inese-supe-kopa-ar-filmesanas-grupu-nonakusi-dronu-apdraudetaja-teritorija",
+          "source": "LA.LV"
+        },
+        {
           "title": "Siliņa: Jāatrod labāks veids, kā krīzes situācijās nodrošināt cilvēku drošību",
           "snippet": "",
           "url": "https://www.tvnet.lv/8474246/silina-jaatrod-labaks-veids-ka-krizes-situacijas-nodrosinat-cilveku-drosibu",
           "source": "TVNET"
-        },
-        {
-          "title": "Gaisa telpas apdraudējuma dēļ Latgalē daļēji atcelts fizikas eksāmens",
-          "snippet": "",
-          "url": "https://jauns.lv/raksts/zinas/710171-gaisa-telpas-apdraudejuma-del-latgale-daleji-atcelts-fizikas-eksamens",
-          "source": "Jauns.lv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,15 +257,9 @@
       "title": "ungārija",
       "trafficCount": "500+",
       "pubDate": "Wed, 20 May 2026 01:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyO6J_FgVetT1NrK24GyfT1eXB4Q5b_seG_BsdEqDwRA13mzrC6n91jIxNEWA",
-      "pictureSource": "Delfi",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-CnrAFDwS3OBY9731U5O9PzowX7Aqmkbd-ykHXZh0vvSUhsFackrxmzMrr0Q",
+      "pictureSource": "Sportacentrs.com",
       "relatedSearch": [
-        {
-          "title": "Tusks: Polija un Ungārija Briselē aizstāvēs kopīgās intereses",
-          "snippet": "",
-          "url": "https://www.delfi.lv/46713439/arzemes/120119264/tusks-polija-un-ungarija-brisele-aizstaves-kopigas-intereses",
-          "source": "Delfi"
-        },
         {
           "title": "Ungārijas izlase grauj britus un sper svarīgu soli pretī palikšanai elitē – Hokejs",
           "snippet": "",
@@ -277,6 +271,12 @@
           "snippet": "",
           "url": "https://www.apollo.lv/8474266/ungarijai-graujosaka-uzvara-pasaules-cempionata-elite-kops-1939-gada",
           "source": "Apollo.lv"
+        },
+        {
+          "title": "Ungārija - Lielbritānija. 1. trešdaļas momenti",
+          "snippet": "",
+          "url": "https://www.lsm.lv/hokeja-cempionats-2026/video-arhivs/2026-05-1369821?utm_source=lsm&utm_campaign=hockey-widget&utm_medium=hockey-widget",
+          "source": "LSM"
         }
       ],
       "link": "https://imtaqin.id/"
