@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-22 17:17:26",
+  "lastUpdate": "2026-05-22 17:59:51",
   "data": [
     {
       "title": "континентальная хоккейная лига",
@@ -99,16 +99,16 @@
           "source": "Ведомости"
         },
         {
-          "title": "Путин прокомментировал удар ВСУ по общежитию колледжа в Старобельске",
-          "snippet": "",
-          "url": "https://belta.by/world/view/putin-prokommentiroval-udar-vsu-po-obschezhitiju-kolledzha-v-starobelske-782196-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
           "title": "Видео. Удар Украины по общежитию в Старобельске: четверо погибших в оккупированном Луганске",
           "snippet": "",
           "url": "https://ru.euronews.com/video/2026/05/22/ukraine-strike-on-starobilsk-dormitory-kills-four-in-occupied-luhansk",
           "source": "Euronews"
+        },
+        {
+          "title": "Путин прокомментировал удар ВСУ по общежитию колледжа в Старобельске",
+          "snippet": "",
+          "url": "https://belta.by/world/view/putin-prokommentiroval-udar-vsu-po-obschezhitiju-kolledzha-v-starobelske-782196-2026/",
+          "source": "Новости Беларуси | БелТА"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -171,7 +171,7 @@
     },
     {
       "title": "хлестов",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Fri, 22 May 2026 00:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlQ7Z71wBBfE6JnJy-3G-haa2sfgUV5kSdzbSgye706qBsI2OmZZ9bl-nPVFg",
       "pictureSource": "spring96.org",
@@ -257,9 +257,28 @@
       "title": "волна похолодания",
       "trafficCount": "5000+",
       "pubDate": "Thu, 21 May 2026 21:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidXNFH1pQCxTRI72SvI4REOmFrC23cqPkfgVD4hvqMDanE8Ff4K095dPjJf4",
+      "pictureSource": "Здоровье Mail",
+      "relatedSearch": [
+        {
+          "title": "Врач Мойсенко объяснила, как пережить жару на работе в офисе",
+          "snippet": "",
+          "url": "https://health.mail.ru/news/3947948-vrach-mojsenko-obyasnila-kak-perezhit-zharu-na-rabote-v-ofise/?from=swap&swap=2",
+          "source": "Здоровье Mail"
+        },
+        {
+          "title": "В воскресенье в Татарстане возможны грозы и усиления ветра до 15 м/с",
+          "snippet": "",
+          "url": "https://realnoevremya.ru/news/396320-v-voskresene-v-tatarstane-vozmozhny-grozy-i-usileniya-vetra-do-15-ms",
+          "source": "Реальное время"
+        },
+        {
+          "title": "Новости Татарстана. ТНВ",
+          "snippet": "",
+          "url": "https://dzen.ru/b/ahAexXM-KU9rsX7C",
+          "source": "Дзен"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
