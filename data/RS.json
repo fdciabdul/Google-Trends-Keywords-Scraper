@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-23 12:06:30",
+  "lastUpdate": "2026-05-23 12:35:08",
   "data": [
     {
       "title": "информер",
@@ -58,6 +58,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "n1",
+      "trafficCount": "10000+",
+      "pubDate": "Sat, 23 May 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-aucyn0BfoOQrQUwHrQcZanbPHeiY76jfne6eG9XdtVymBeP4uwkxDZvCHGw",
+      "pictureSource": "N1",
+      "relatedSearch": [
+        {
+          "title": "(BLOG) Studenti organizuju skup na Slaviji, građani iz cele zemlje na putu ka Beogradu",
+          "snippet": "",
+          "url": "https://n1info.rs/vesti/blog-najnovija-vest-studenti-protest-slavija/",
+          "source": "N1"
+        },
+        {
+          "title": "UŽIVO Protest na Slaviji: Obustavljeni vozovi, blokiran saobraćaj kod Pravnog",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/drustvo/protest-na-slaviji-studenti-23-maj/",
+          "source": "Danas"
+        },
+        {
+          "title": "BLOG Uživo: Ti i ja – Slavija",
+          "snippet": "",
+          "url": "https://www.masina.rs/blog-uzivo-ti-i-ja-slavija/",
+          "source": "Mašina"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "богатић",
       "trafficCount": "1000+",
       "pubDate": "Sat, 23 May 2026 01:40:00 -0700",
@@ -81,34 +109,6 @@
           "snippet": "",
           "url": "https://www.politika.rs/scc/clanak/757363/dvojica-tinejdzera-poginula-na-ulasku-u-bogatic",
           "source": "Politika Online"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "protest",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 23 May 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqih7ROoXenr-UgogBVToapBJWRAcC6ZaQrFBtjSFoIYBYqNCveRPobFw1CYs",
-      "pictureSource": "tanjug.rs",
-      "relatedSearch": [
-        {
-          "title": "Protest ispred ambasade SAD u Havani, zbog optužnice protiv Raula Kastra",
-          "snippet": "",
-          "url": "https://www.tanjug.rs/svet/politika/254026/protest-ispred-ambasade-sad-u-havani-zbog-optuznice-protiv-raula-kastra/vest",
-          "source": "tanjug.rs"
-        },
-        {
-          "title": "„Mogućnost koja obećava istorijsko priznanje za čime Tramp žudi“: Predsedniku SAD očajnički potrebna pobeda nakon neuspeha u Iranu",
-          "snippet": "",
-          "url": "https://www.danas.rs/svet/tramp-pobeda-rat-iran-sad/",
-          "source": "Danas"
-        },
-        {
-          "title": "\"Domovina ili smrt\"; Kuba \"eksplodirala\" nakon poteza Amerike FOTO/VIDEO",
-          "snippet": "",
-          "url": "https://www.b92.net/svi-komentari/235650",
-          "source": "B92"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -154,26 +154,26 @@
       "title": "gsp",
       "trafficCount": "200+",
       "pubDate": "Sat, 23 May 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS51MUHYh8xjqlDZSSQEa1ozoSpxVYhCzlDJwBczBWC37rAhYDl5LQIGr_Fp0U",
-      "pictureSource": "N1",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTccW2JwxUitOMVdVaa5_R_1XhIOt4_aQ2lqxD-EPVwJLMKG3edC3fKP69NAj0",
+      "pictureSource": "Danas",
       "relatedSearch": [
         {
-          "title": "Oko 300.000 trakica biće podeljeno vernicima tokom poklonjenja Časnom pojasu Presvete Bogorodice",
+          "title": "Sindikat: Autobusi su na ulicama Beograda, povlače se samo tramvaji i trolejbusi zbog bezbednosti",
           "snippet": "",
-          "url": "https://n1info.rs/vesti/trakice-casni-pojas-presvete-bogorodice/",
-          "source": "N1"
-        },
-        {
-          "title": "Sastanak arhimandrita Jefrema i ministra Nenada Popovića",
-          "snippet": "",
-          "url": "https://www.tanjug.rs/video-gallery/bd6a0873-81aa-4d55-b9dd-4a28287f54d5",
-          "source": "tanjug.rs"
-        },
-        {
-          "title": "Spasovdanska litija na čelu sa Pojasom Presvete Bogorodice stigla do Hrama Svetog Save",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/drustvo/spasovdan-litija-2/",
+          "url": "https://www.danas.rs/vesti/drustvo/sindikat-autobusi-su-na-ulicama-beograda-povlace-se-samo-tramvaji-i-trolejbusi-zbog-bezbednosti/",
           "source": "Danas"
+        },
+        {
+          "title": "„Ljudi sa kičmom danas brane svoja radna mesta i grad“: Protest protiv privatizacije javnog prevoza u Beogradu",
+          "snippet": "",
+          "url": "https://www.masina.rs/ljudi-sa-kicmom-danas-brane-svoja-radna-mesta-i-grad-protest-protiv-privatizacije-javnog-prevoza-u-beogradu/",
+          "source": "Mašina"
+        },
+        {
+          "title": "Za GSP",
+          "snippet": "",
+          "url": "https://www.mojnovisad.com/megafon/za-gsp/",
+          "source": "Moj Novi Sad"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,13 +182,13 @@
       "title": "б92",
       "trafficCount": "2000+",
       "pubDate": "Fri, 22 May 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ_pdlE-1ynImFFSZQCG5bZH8UR0jJdrnf36r7sI6EWd1acXL2byAIn9yzyRs",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGbX4iJZYd-XcmodAqaW-6RD9alFFFBko_gzQeDX60s7V20mvcA9vsquqbQw",
       "pictureSource": "Nova.rs",
       "relatedSearch": [
         {
-          "title": "Poginuli makedonski pevač i njegov sin u stravičnoj nesreći kod Skoplja",
+          "title": "Ko je makedonski pevač koji je nastradao u nesreći sa sinom?",
           "snippet": "",
-          "url": "https://nova.rs/zabava/sudbine/poginuli-makedonski-pevac-i-njegov-sin-u-stravicnoj-nesreci-kod-skoplja/",
+          "url": "https://nova.rs/zabava/sudbine/ko-je-makedonski-pevac-koji-je-nastradao-u-nesreci-sa-sinom/",
           "source": "Nova.rs"
         },
         {
@@ -248,16 +248,16 @@
           "source": "Sportklub"
         },
         {
-          "title": "Јокић игра за Србију у јулу и августу, неизвесност око Богдановића",
-          "snippet": "",
-          "url": "https://rts.rs/sport/kosarka/reprezentacija/5956247/jokic-igra-za-srbiju-u-julu-i-avgustu.html",
-          "source": "РТС"
-        },
-        {
           "title": "Алимпијевић: Очекујемо да Никола Јокић игра за Србију у квалификацијама за СП",
           "snippet": "",
           "url": "https://www.rtv.rs/sr_ci/sport/kosarka/alimpijevic-ocekujemo-da-nikola-jokic-igra-za-srbiju-u-kvalifikacijama-za-sp_1716513.html",
           "source": "Радио-телевизија Војводине"
+        },
+        {
+          "title": "Алимпијевић: Јокић би требало да буде на оба прозора у јулу и августу",
+          "snippet": "",
+          "url": "https://zurnal.politika.rs/scc/clanak/246832/kosarka/reprezentacija/alimpijevic-jokic-bi-trebalo-da-bude-na-oba-prozora-u-julu-i-avgustu",
+          "source": "СПОРТСКИ ЖУРНАЛ"
         }
       ],
       "link": "https://imtaqin.id/"
