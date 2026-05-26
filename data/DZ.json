@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-05-26 04:46:49",
+  "lastUpdate": "2026-05-26 06:14:28",
   "data": [
     {
+      "title": "ccp",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 25 May 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo7Iaf4hSvOiL5i_Jmh2haZh90TsMeARoqzO5bLMJod2TQnZiw0a6g5CmqObY",
+      "pictureSource": "Taipei Times",
+      "relatedSearch": [
+        {
+          "title": "NSB identifies thousands of ‘cognitive warfare’ posts following Trump-Xi summit",
+          "snippet": "",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/05/26/2003857971",
+          "source": "Taipei Times"
+        },
+        {
+          "title": "Security bureau rejects Chinese disinformation",
+          "snippet": "",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/24/2003857874",
+          "source": "Taipei Times"
+        },
+        {
+          "title": "NSB flags 9,000 posts linked to CCP after Trump-Xi meeting",
+          "snippet": "",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/25/2003857943",
+          "source": "Taipei Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "الشروق",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 25 May 2026 20:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2udFW9AIV3qMmHTkHIkzBfnlbENEQoTJL9uAPmcK40G0UizopCYxqa8y_P1s",
       "pictureSource": "www.al-bayader.com",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "اذان",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 25 May 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB7dloco3JuVquNsj3hqvb2b9H_e8Skso2P3_7U0waVvvw3NCu0sFuQB76-0M",
-      "pictureSource": "الجزيرة نت",
-      "relatedSearch": [
-        {
-          "title": "\"صوت الأذان غير حياتي\".. حاج إيطالي يروي قصته مع الإسلام من مكة المكرمة",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/news/2026/5/24/%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D8%A3%D8%B0%D8%A7%D9%86-%D8%BA%D9%8A%D8%B1-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-%D8%AD%D8%A7%D8%AC-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%8A%D8%B1%D9%88%D9%8A",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "أحدهما أسره الأذان طفلاً والآخر وجد ضالته في القرآن... حكاية حاجَّين جمعتهما التلبية",
-          "snippet": "",
-          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5276375-%D8%A3%D8%AD%D8%AF%D9%87%D9%85%D8%A7-%D8%A3%D8%B3%D8%B1%D9%87-%D8%A7%D9%84%D8%A3%D8%B0%D8%A7%D9%86-%D8%B7%D9%81%D9%84%D8%A7%D9%8B-%D9%88%D8%A7%D9%84%D8%A2%D8%AE%D8%B1-%D9%88%D8%AC%D8%AF-%D8%B6%D8%A7%D9%84%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%AD%D8%A7%D8%AC%D9%91%D9%8E%D9%8A%D9%86",
-          "source": "الشرق الأوسط"
-        },
-        {
-          "title": "من إيطاليا وألبانيا.. حجاج جدد يروون رحلة الهداية إلى مكة المكرمة",
-          "snippet": "",
-          "url": "https://www.iraqnews-in.com/egypt/100660.html",
-          "source": "العراق نيوز"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "منصة الاضاحي",
       "trafficCount": "200+",
       "pubDate": "Mon, 25 May 2026 16:00:00 -0700",
@@ -71,16 +71,16 @@
           "source": "وكالة الأنباء الجزائرية"
         },
         {
+          "title": "جيجل: رسو سفينة بميناء جن جن قادمة من رومانيا محملة بأزيد من 81 ألف رأس من الأغنام",
+          "snippet": "",
+          "url": "http://news.radioalgerie.dz/ar/node/86915",
+          "source": "الإذاعة الجزائرية |"
+        },
+        {
           "title": "وصول أضخم شحنة من الأضاحي المستوردة إلى ميناء جن جن في ولاية جيجل",
           "snippet": "",
           "url": "https://www.echoroukonline.com/%D9%88%D8%B5%D9%88%D9%84-%D8%A3%D8%B6%D8%AE%D9%85-%D8%B4%D8%AD%D9%86%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B6%D8%A7%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF%D8%A9-%D8%A5%D9%84",
           "source": "الشروق أونلاين"
-        },
-        {
-          "title": "سفينة مُحملة بالأغنام ترسو بميناء عنابة",
-          "snippet": "",
-          "url": "https://www.ennaharonline.com/%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%85%D9%8F%D8%AD%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D8%AA%D8%B1%D8%B3%D9%88-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%B9%D9%86%D8%A7/",
-          "source": "النهار أونلاين"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,10 +99,10 @@
           "source": "الكونسلتو"
         },
         {
-          "title": "أستاذ بالقومي للبحوث يوضح نصائح مهمة لذبح الأضحية وحفظ اللحوم",
+          "title": "مع قرب عيد الأضحى.. خطوات حفظ لحوم الأضاحي من الذبح إلى التجميد",
           "snippet": "",
-          "url": "https://m.akhbarelyom.com/news/newdetails/4826567/1/%D8%B0%D8%A8%D8%AD-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%8A%D8%A9",
-          "source": "بوابة أخبار اليوم الإلكترونية"
+          "url": "https://www.youm7.com/story/2026/5/26/%D9%85%D8%B9-%D9%82%D8%B1%D8%A8-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%AD%D9%81%D8%B8-%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B6%D8%A7%D8%AD%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%B0%D8%A8%D8%AD/7428047",
+          "source": "اليوم السابع"
         },
         {
           "title": "طبيب بيطري يكشف: أخطاء خطيرة قبل عيد الأضحى",
@@ -145,26 +145,26 @@
       "title": "جريمة",
       "trafficCount": "100+",
       "pubDate": "Mon, 25 May 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lzxbcxy4DU9h8iiL1_RvzpU1-RIT9kH76c2BEq4VSrNVOmXoz9-HW3VQJE0",
-      "pictureSource": "الجزيرة نت",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-hcO4w7kyfgovSzh9YRVfBpEhHVG-se7gb0v8Kz91hFgWkVQA-CSs3SQdbBc",
+      "pictureSource": "صحيفة المرصد",
       "relatedSearch": [
         {
-          "title": "في حكم \"تاريخي\".. محكمة النقض تؤكد مسؤولية بلجيكا عن جرائم بحق أطفال \"الميتيس\" بالكونغو",
+          "title": "جريمة مروعة تهزّ العراق.. تفاصيل مصرع طفلة وإصابة ابنة خالها بعد تعرضهما للاغتصاب في بغداد ومفاجأة بشأن الجناة _ فيديو",
           "snippet": "",
-          "url": "https://www.aljazeera.net/news/2026/5/24/%D9%81%D9%8A-%D8%AD%D9%83%D9%85-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D8%B6-%D8%AA%D8%A4%D9%83%D8%AF",
-          "source": "الجزيرة نت"
+          "url": "https://al-marsd.com/article/256262/%D8%A2%D8%AE%D8%B1%20%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D8%AA%D9%87%D8%B2%D9%91-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82..-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%B5%D8%B1%D8%B9-%D8%B7%D9%81%D9%84%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D8%A8%D9%86%D8%A9-%D8%AE%D8%A7%D9%84%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B9%D8%B1%D8%B6%D9%87%D9%85%D8%A7-%D9%84%D9%84%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A9-_-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+          "source": "صحيفة المرصد"
         },
         {
-          "title": "محكمة بلجيكية تدين بروكسل بارتكاب جرائم ضد الإنسانية",
+          "title": "تصاعد معدلات الجرائم ضد الأطفال في العراق",
           "snippet": "",
-          "url": "http://www.jordanzad.com/index.php?page=article&id=735440",
-          "source": "زاد الاردن"
+          "url": "https://www.alaraby.co.uk/society/%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D9%85%D8%B9%D8%AF%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+          "source": "العربي الجديد"
         },
         {
-          "title": "ماذا فعل ميلادينوف في غزة؟",
+          "title": "خورخي أباد: “المسيرة الخضراء” كانت جريمة بشعة والصحراء الغربية ضحية خيانات وحصار دولي",
           "snippet": "",
-          "url": "https://www.aljazeera.net/opinions/2026/5/25/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%AA%D9%87%D8%AC%D9%8A%D8%B1-%D8%BA%D8%B2%D8%A9-%D8%AA%D8%B5%D8%B1%D8%AE-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-          "source": "الجزيرة نت"
+          "url": "https://www.dz54.dz/%D8%AE%D9%88%D8%B1%D8%AE%D9%8A-%D8%A3%D8%A8%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1-%D9%83%D8%A7%D9%86%D8%AA-%D8%AC%D8%B1%D9%8A%D9%85/",
+          "source": "DZ54"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,17 +189,17 @@
           "source": "The Conversation"
         },
         {
-          "title": "L’économie parallèle de la fierté",
+          "title": "Nationale - À l’approche de l’Aïd, la capitale vit au rythme des préparatifs et des traditions.",
           "snippet": "",
-          "url": "https://www.lesoirdalgerie.com/soit-dit-en-passant/l-economie-parallele-de-la-fierte-81905",
-          "source": "Le soir d'Algérie"
+          "url": "https://www.lexpressiondz.com/nationale/a-l-approche-de-l-aid-la-capitale-vit-au-rythme-des-preparatifs-et-des-traditions-406069",
+          "source": "L'Expression"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ambassadeur de france",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Mon, 25 May 2026 14:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUICFg4zMYqyYMQnFxPBjwWFn6Os-iSVLtaS_oStbUJLXh9TcHJ52clCz86SU",
       "pictureSource": "Le Point",
@@ -229,15 +229,9 @@
       "title": "غوغل",
       "trafficCount": "100+",
       "pubDate": "Mon, 25 May 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDQA0hMgPl6K9W_nbtfG4f5zVO5aTc_l_bIbNhGCAEvQyzhjC2TXxXNrTlBeI",
-      "pictureSource": "Alkompis الكومبس",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRydZeaiAOVe7-RR00vZNWYBPCN04vDb9qLMlgqaRbai9ZHtZJ6aRJq6uY1pPQ",
+      "pictureSource": "الجزيرة نت",
       "relatedSearch": [
-        {
-          "title": "تحرّك سويدي أوروبي ضد غوغل وميتا وتيك توك",
-          "snippet": "",
-          "url": "https://alkompis.se/news/%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D8%B3%D9%88%D9%8A%D8%AF%D9%8A-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%B6%D8%AF-%D8%BA%D9%88%D8%BA%D9%84-%D9%88%D9%85%D9%8A%D8%AA%D8%A7-%D9%88%D8%AA%D9%8A%D9%83-%D8%AA",
-          "source": "Alkompis الكومبس"
-        },
         {
           "title": "هل بقيت معالم للحياة؟ خرائط غوغل تكشف مشاهد مرعبة من غزة",
           "snippet": "",
@@ -249,6 +243,12 @@
           "snippet": "",
           "url": "https://felesteen.news/post/181201/%D8%B9%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%B7%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AE%D8%B0%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
           "source": "فلسطين أون لاين"
+        },
+        {
+          "title": "الثوابتة: العدو الإسرائيلي يواصل استهداف منازل المدنيين ويوقع المزيد من الشهداء في غزة",
+          "snippet": "",
+          "url": "https://www.saba.ye/ar/news3712826.htm",
+          "source": "وكالة سبأ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,15 +257,9 @@
       "title": "wolfsburg",
       "trafficCount": "1000+",
       "pubDate": "Mon, 25 May 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAp8qKkmg3KjGRpse8RvFMZjV7jTQKOeh0DQ-jXS7A-3gO7STUWcsS-keN3Tc",
-      "pictureSource": "Neue Westfälische",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWCQaxwdCsW1gbaDzeOGoTz3olj7ebUKqupPSEeise6xobiSWtEULZMVICu9E",
+      "pictureSource": "ZDFheute",
       "relatedSearch": [
-        {
-          "title": "Der Ticker der Partynacht zum Nachlesen: SCP-Fans feiern den Aufstieg in Paderborn",
-          "snippet": "",
-          "url": "https://www.nw.de/sport/sc_paderborn_07/23990609_Der-Ticker-der-Partynacht-zum-Nachlesen-SCP-Fans-feiern-den-Aufstieg-in-Paderborn-LT.html",
-          "source": "Neue Westfälische"
-        },
         {
           "title": "Paderborn steigt auf: Ein ostwestfälisches Wunder, das keines ist",
           "snippet": "",
@@ -273,10 +267,16 @@
           "source": "ZDFheute"
         },
         {
-          "title": "Wolfsburger Abstieg: Wolfsburgs Abstieg ist die logische Konsequenz vieler Fehler",
+          "title": "Trainer, Kader & Etat: Die Folgen des Wolfsburg-Abstiegs",
           "snippet": "",
-          "url": "https://www.zeit.de/news/2026-05/26/wolfsburgs-abstieg-ist-die-logische-konsequenz-vieler-fehler",
-          "source": "DIE ZEIT"
+          "url": "https://www.fussballtransfers.com/a5417998774072125037-trainer-kader-etat-die-folgen-des-wolfsburg-abstiegs",
+          "source": "Fussball Transfers"
+        },
+        {
+          "title": "Mit vielen Fotos: Tausende SCP-Fans auf dem Weg zum Paderborner Stadion Party",
+          "snippet": "",
+          "url": "https://www.nw.de/lokal/kreis_paderborn/paderborn/24340017_Mit-vielen-Fotos-Tausende-SCP-Fans-auf-dem-Weg-zum-Paderborner-Stadion-Party.html",
+          "source": "Neue Westfälische"
         }
       ],
       "link": "https://imtaqin.id/"
