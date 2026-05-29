@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-05-29 16:09:20",
+  "lastUpdate": "2026-05-29 17:23:27",
   "data": [
     {
       "title": "delfi sport",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 29 May 2026 08:40:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -12,7 +12,7 @@
     },
     {
       "title": "nasa",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 29 May 2026 07:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYF3cx__vmo9O46rRIM3WxzJyBFdXSy-iiA8z4dp530lHuDt1THORF6h6--qI",
       "pictureSource": "NASA (.gov)",
@@ -42,15 +42,9 @@
       "title": "заморозки",
       "trafficCount": "200+",
       "pubDate": "Fri, 29 May 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFeboV3_tK04W-tOks6M_rm1TKk1wxqi1Ju4IuN9eT6vXHMplC22_itkwVmI",
-      "pictureSource": "Delfi",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSu2opVbkg8Jx7KD7cRyOKitYYEtvWtYJxVmF9VlDGNF7MGeSzCS2_ScQquUo",
+      "pictureSource": "LSM",
       "relatedSearch": [
-        {
-          "title": "Пятница будет ветреной, местами в Латгале и Видземе пройдут дожди",
-          "snippet": "",
-          "url": "https://rus.delfi.lv/prognoz-pogody/42449944/novosti/120120442/pyatnica-budet-vetrenoy-mestami-v-latgale-i-vidzeme-proydut-dozhdi",
-          "source": "Delfi"
-        },
         {
           "title": "Среда, 28 мая: возможны дожди и грозы / Статья",
           "snippet": "",
@@ -58,49 +52,55 @@
           "source": "LSM"
         },
         {
-          "title": "Грозы и град: погода на четверг",
+          "title": "Пятница будет ветреной, местами в Латгале и Видземе пройдут дожди",
           "snippet": "",
-          "url": "https://press.lv/post/grozy-i-grad-pogoda-na-chetverg",
+          "url": "https://rus.delfi.lv/prognoz-pogody/42449944/novosti/120120442/pyatnica-budet-vetrenoy-mestami-v-latgale-i-vidzeme-proydut-dozhdi",
+          "source": "Delfi"
+        },
+        {
+          "title": "Лета ждете? А этой ночью ждите заморозки",
+          "snippet": "",
+          "url": "https://press.lv/post/leta-zhdete-a-etoj-nochyu-zhdite-zamorozki",
           "source": "Press.lv"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "temperatuur",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 29 May 2026 06:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtfXmmYuFxyJW_ihW0hQJ2xbdkvwBz56QKcXyKCnjF4b5VAywje42QRdd1e3Q",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "Het Vietnamese U19-team traint in Indonesië bij een temperatuur van 32 graden Celsius.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/nl/u19-viet-nam-ren-quan-duoi-nang-nong-32-do-tai-indonesia",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "TV360 zal het Zuidoost-Aziatische voetbalkampioenschap onder 19 jaar van 2026 exclusief uitzenden.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/nl/tv360-doc-quyen-phat-song-giai-vo-dich-bong-da-u19-dong-nam-a-2026",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Vietnam U19: De namen die niet geselecteerd werden voor het Zuidoost-Aziatische U19-kampioenschap.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/nl/u19-viet-nam-nhung-cai-ten-lo-hen-giai-u19-dong-nam-a",
-          "source": "Vietnam.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "brigitte susanne hunt",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 29 May 2026 06:30:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "temperatuur",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 29 May 2026 06:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmwZ1euhmismmmJTsMBRulZxtW0CC0q36mhsYaNRJokIubThPfk4izDuKnQY",
+      "pictureSource": "De Nieuwsbode",
+      "relatedSearch": [
+        {
+          "title": "Mei ondanks lange koele fase in top-10 warmste ooit",
+          "snippet": "",
+          "url": "https://www.denieuwsbode.nl/lokaal/natuur-en-milieu/1281579/mei-ondanks-lange-koele-fase-in-top-10-warmste-ooit",
+          "source": "De Nieuwsbode"
+        },
+        {
+          "title": "Mei 2026: van frisse ijsheiligen naar tropenhitte",
+          "snippet": "",
+          "url": "https://www.weeronline.nl/nieuws/weeroverzichten-2026-mei",
+          "source": "Weeronline"
+        },
+        {
+          "title": "Aangepaste openingstijden milieustraat en vervroegde afvalinzameling in Deurne vanwege voorspelde hitte",
+          "snippet": "",
+          "url": "https://dmgdeurne.nl/aangepaste-openingstijden-milieustraat-en-vervroegde-afvalinzameling-in-deurne-vanwege-voorspelde-hitte/",
+          "source": "Deurne Media Groep"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -163,44 +163,16 @@
           "source": "The New York Times"
         },
         {
-          "title": "Russian drone targeting Ukraine goes astray, crashes into apartment building in NATO member Romania",
+          "title": "Putin adviser warns EU after drone hits Romania: ‘The peaceful sleep is over’",
           "snippet": "",
-          "url": "https://www.latimes.com/world-nation/story/2026-05-29/russian-drone-targeting-ukraine-goes-astray-crashes-into-apartment-building-in-nato-member-romania",
-          "source": "Los Angeles Times"
+          "url": "https://thehill.com/policy/international/5901241-dmitry-medvedev-eu-russia-drone-attack/",
+          "source": "The Hill"
         },
         {
           "title": "Russia denounced after drone hits Romanian apartment building",
           "snippet": "",
           "url": "https://www.nbcnews.com/world/ukraine/russian-drone-hits-romania-apartment-block-nato-ukraine-rcna347495",
           "source": "NBC News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пограничные войска",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 28 May 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUftuAIEop84oJarYGLOBeZ2OLvjH5fMCgJcbOFsvBcIaIyIc7Nn68PP29bCA",
-      "pictureSource": "Президент России",
-      "relatedSearch": [
-        {
-          "title": "Видеообращение по случаю Дня пограничника",
-          "snippet": "",
-          "url": "http://kremlin.ru/events/president/news/79888",
-          "source": "Президент России"
-        },
-        {
-          "title": "Лукашенко: за годы независимости в Беларуси создана высокопрофессиональная пограничная служба",
-          "snippet": "",
-          "url": "https://belta.by/president/view/lukashenko-za-gody-nezavisimosti-v-belarusi-sozdana-vysokoprofessionalnaja-pogranichnaja-sluzhba-782984-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "«Зеленые береты»: как в России отметили День пограничника",
-          "snippet": "",
-          "url": "https://www.vedomosti.ru/society/galleries/2026/05/28/1200956-den-pogranichnika",
-          "source": "Ведомости"
         }
       ],
       "link": "https://imtaqin.id/"
