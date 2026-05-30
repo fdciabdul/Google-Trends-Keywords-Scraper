@@ -1,34 +1,6 @@
 {
-  "lastUpdate": "2026-05-30 21:42:01",
+  "lastUpdate": "2026-05-30 22:08:25",
   "data": [
-    {
-      "title": "pais",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 30 May 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeA9kmNxXpYDTurOl7EU_aCD84QBsyGDChFDYInLhjTuOR-4j6Ek9Ay1BUVdM",
-      "pictureSource": "Notícias ao Minuto",
-      "relatedSearch": [
-        {
-          "title": "Colômbia diz que proposta do Equador interferência eleitoral",
-          "snippet": "",
-          "url": "https://www.noticiasaominuto.com/mundo/2998496/colombia-diz-que-proposta-do-equador-interferencia-eleitoral",
-          "source": "Notícias ao Minuto"
-        },
-        {
-          "title": "Noboa, do Equador, retira tarifas sobre Colômbia, em apoio a candidato conservador",
-          "snippet": "",
-          "url": "https://www.infomoney.com.br/mundo/noboa-do-equador-retira-tarifas-sobre-colombia-em-apoio-a-candidato-conservador/",
-          "source": "InfoMoney"
-        },
-        {
-          "title": "Colômbia acusa Equador de interferir em eleição presidencial",
-          "snippet": "",
-          "url": "https://www.terra.com.br/noticias/eleicoes/colombia-acusa-equador-de-interferir-em-eleicao-presidencial,35bb7f151f90de00e5edde7f1fd4abaadn9ystzx.html",
-          "source": "Terra"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "ראש המוסד",
       "trafficCount": "100+",
@@ -77,10 +49,38 @@
           "source": "TMI"
         },
         {
-          "title": "הלם באח הגדול: זו המודחת ה-16 בהדחה דרמטית - \"רעידת אדמה\"",
+          "title": "רעידת אדמה בבית ''האח הגדול'': ההדחה הדרמטית של העונה",
           "snippet": "",
-          "url": "https://www.ice.co.il/tv/news/article/1114822",
-          "source": "ice (אייס)"
+          "url": "https://www.israelhayom.co.il/culture/tv/article/20651387",
+          "source": "היום"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pais",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 30 May 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeA9kmNxXpYDTurOl7EU_aCD84QBsyGDChFDYInLhjTuOR-4j6Ek9Ay1BUVdM",
+      "pictureSource": "Notícias ao Minuto",
+      "relatedSearch": [
+        {
+          "title": "Colômbia diz que proposta do Equador interferência eleitoral",
+          "snippet": "",
+          "url": "https://www.noticiasaominuto.com/mundo/2998496/colombia-diz-que-proposta-do-equador-interferencia-eleitoral",
+          "source": "Notícias ao Minuto"
+        },
+        {
+          "title": "Noboa, do Equador, retira tarifas sobre Colômbia, em apoio a candidato conservador",
+          "snippet": "",
+          "url": "https://www.infomoney.com.br/mundo/noboa-do-equador-retira-tarifas-sobre-colombia-em-apoio-a-candidato-conservador/",
+          "source": "InfoMoney"
+        },
+        {
+          "title": "Colômbia acusa Equador de interferir em eleição presidencial",
+          "snippet": "",
+          "url": "https://www.terra.com.br/noticias/eleicoes/colombia-acusa-equador-de-interferir-em-eleicao-presidencial,35bb7f151f90de00e5edde7f1fd4abaadn9ystzx.html",
+          "source": "Terra"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,11 +199,17 @@
     },
     {
       "title": "דוד דביר",
-      "trafficCount": "1000+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 30 May 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHSKkUFyPtKVHusOZlF_DttWdIfYI9ZN4j-X8NDNZzHtiV0dcHQVW5aUvQdos",
-      "pictureSource": "mako",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0mJ_ITsTh_i8NhTN2vRBIvYs4f-FcejYvF0d76G9orKlbMHnn_BNYJiOp9KE",
+      "pictureSource": "ice (אייס)",
       "relatedSearch": [
+        {
+          "title": "דרמה בשידור חי בקשת 12: השופט הדהים עם הציון 2 - \"הגזמת\" | צפו",
+          "snippet": "",
+          "url": "https://www.ice.co.il/culture/news/article/1114823",
+          "source": "ice (אייס)"
+        },
         {
           "title": "לוסי איוב: \"אנשים לא יודעים כמה זה קשה\"",
           "snippet": "",
@@ -215,12 +221,6 @@
           "snippet": "",
           "url": "https://www.ice.co.il/culture/news/article/1114787",
           "source": "ice (אייס)"
-        },
-        {
-          "title": "חיים פרשטיין: \"אין לי מושג מה ייצא לי מהפה\"",
-          "snippet": "",
-          "url": "https://www.mako.co.il/tvbee-tv-news/Article-992c8990e736e91027.htm",
-          "source": "mako"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,29 +254,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "שרן ייני",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 30 May 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiCV1oT-DDgnOUx_t3zbQ-dRYrsjWpJmXFKFeyb7LLr8IGdiQhOy3K2Ptc8TQ",
-      "pictureSource": "ספורט 5",
+      "title": "מרקיניוס",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 30 May 2026 12:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGUoImBq3yGhQHF6Xfta0HSindpGAtdIYNzP8n6458RrU63fVIDsme3TyVU3c",
+      "pictureSource": "ynet",
       "relatedSearch": [
         {
-          "title": "צפו בבכורה של ייני ברוקדים עם כוכבים",
+          "title": "ניחם את חברו לפני שהתחיל לחגוג: הרגע המרגש בגמר ליגת האלופות",
           "snippet": "",
-          "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=546162",
+          "url": "https://www.ynet.co.il/sport/worldsoccer/article/rk114r6olml",
+          "source": "ynet"
+        },
+        {
+          "title": "גדול מכדורגל: הרגע של מרקיניוס וגבריאל",
+          "snippet": "",
+          "url": "https://www.sport5.co.il/articles.aspx?FolderID=398&docID=546161",
           "source": "ספורט 5"
         },
         {
-          "title": "האקזיט של קפטן מכבי: \"בדיוק הודיעו לי על ההצלחה\"",
+          "title": "\"ידעתי מהרגע הראשון ששניהם יחמיצו\": גבריאל, אזה וארטטה תחת אש",
           "snippet": "",
-          "url": "https://www.ice.co.il/tv/news/article/1114449",
-          "source": "ice (אייס)"
-        },
-        {
-          "title": "קפטן מכבי תל אביב לשעבר: \"חשבתי שהחברים לא ייקחו את זה בטוב\"",
-          "snippet": "",
-          "url": "https://www.mako.co.il/tvbee-tv-news/Article-f975a7b11df5e91027.htm",
-          "source": "mako"
+          "url": "https://sport1.maariv.co.il/world-soccer/article/1863203/",
+          "source": "ספורט 1"
         }
       ],
       "link": "https://imtaqin.id/"
