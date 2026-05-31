@@ -1,38 +1,94 @@
 {
-  "lastUpdate": "2026-05-31 03:41:41",
+  "lastUpdate": "2026-05-31 05:12:21",
   "data": [
     {
-      "title": "slot",
+      "title": "srf meteo",
       "trafficCount": "500+",
-      "pubDate": "Sat, 30 May 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVJ_L7wVsjq638rlzMKgogc049yz9hkCvVAjKqTtw-Isc3wo7c_gAtMfaxOec",
-      "pictureSource": "BBC",
+      "pubDate": "Sat, 30 May 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuROBBOnSEavZ_7IPg_CuyKauovHKkd4UWBne7h4CAS5fwaqtErbV5J6QHAug",
+      "pictureSource": "SRF",
       "relatedSearch": [
         {
-          "title": "Liverpool sack head coach Slot and approach Iraola",
+          "title": "Garten giessen? - Der Regen kommt – aber ist's genug?",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo",
-          "source": "BBC"
+          "url": "https://www.srf.ch/meteo/meteo-stories/garten-giessen-der-regen-kommt-aber-ist-s-genug",
+          "source": "SRF"
         },
         {
-          "title": "Arne Slot sacked by Liverpool, Champions League final buildup: matchday live – as it happened",
+          "title": "Frühling 2026 gehört zu den drei wärmsten seit Messbeginn",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
-          "source": "The Guardian"
+          "url": "https://www.swissinfo.ch/ger/fr%C3%BChling-2026-geh%C3%B6rt-zu-den-drei-w%C3%A4rmsten-seit-messbeginn/91496479",
+          "source": "SWI swissinfo.ch"
         },
         {
-          "title": "Arne Slot sacked by Liverpool: Jamie Redknapp claims player power contributed to Dutchman's dismissal but backs Andoni Iraola to handle pressure",
+          "title": "Extreme Trockenheit: Im Rheintal und Werdenberg fehlt der Regen",
           "snippet": "",
-          "url": "https://www.skysports.com/football/news/18932/13549327/arne-slot-sacked-by-liverpool-jamie-redknapp-claims-player-power-contributed-to-dutchmans-dismissal-but-backs-andoni-iraola-to-handle-pressure",
-          "source": "Sky Sports"
+          "url": "https://www.tagblatt.ch/ostschweiz/rheintal/rheintal-und-werdenberg-extreme-trockenheit-und-folgen-ld.4176944",
+          "source": "St. Galler Tagblatt"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "nba",
+      "title": "wetter",
       "trafficCount": "2000+",
-      "pubDate": "Sat, 30 May 2026 17:00:00 -0700",
+      "pubDate": "Sat, 30 May 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYNI-j6tHByPn99lM_xvI4qCZuUYhxPCye_PT88fPnZBgIeRuN44ZBXsSr-ls",
+      "pictureSource": "Blick",
+      "relatedSearch": [
+        {
+          "title": "Jetzt kommt die Abkühlung für die Schweiz",
+          "snippet": "",
+          "url": "https://www.blick.ch/schweiz/temperatursturz-ab-montag-hitze-vorbei-kaltfront-beendet-sommerwetter-id21989546.html",
+          "source": "Blick"
+        },
+        {
+          "title": "Kräftige Gewitter beenden die Hitzewelle in der Schweiz",
+          "snippet": "",
+          "url": "https://www.20min.ch/story/wetter-schweiz-kraeftige-gewitter-beenden-den-hitze-mai-103572153",
+          "source": "20 Minuten"
+        },
+        {
+          "title": "Heiss, dann krachts: So ist das Wetter am Wochenende",
+          "snippet": "",
+          "url": "https://www.zentralplus.ch/wetter/heiss-dann-krachts-so-ist-das-wetter-am-wochenende-2874536/",
+          "source": "zentralplus"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 30 May 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzKE3HrWis4eOVKHMEKZYskF2BsMTPmnn5KS26VBSCYaQdYLAryfOmySKBn0g",
+      "pictureSource": "The Guardian",
+      "relatedSearch": [
+        {
+          "title": "Thousands without power in Perth as destructive storms hit WA",
+          "snippet": "",
+          "url": "https://www.theguardian.com/australia-news/2026/may/31/thousands-without-power-storm-winds-perth-margaret-river-mandurah-wa-weather",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Wild weather seen ‘once every three to five years’ set to lash one state",
+          "snippet": "",
+          "url": "https://www.skynews.com.au/australia-news/weather/wild-weather-seen-once-every-three-to-five-years-set-to-lash-western-australia/news-story/745bbff659cfa4b8814322013be2cef4",
+          "source": "Sky News Australia"
+        },
+        {
+          "title": "Popular festival cancels second day as storm descends on WA",
+          "snippet": "",
+          "url": "https://www.perthnow.com.au/wa/pinjarra-festival-2026-day-of-popular-festival-cancelled-as-monster-storm-descends-on-wa-c-22357400",
+          "source": "PerthNow"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "spurs",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 30 May 2026 17:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXPULXNUPUMObYeszGcCZNBpq_Biu5JAkZH85MyWYXVQUNSihvcnRCvL04qfY",
       "pictureSource": "ESPN",
       "relatedSearch": [
@@ -46,13 +102,13 @@
           "title": "ASSIMILATION",
           "snippet": "",
           "url": "https://www.teamziller.com/victor-wembanyama-spurs-vs-thunder-nba-playoffs-2026-game-7/",
-          "source": "www.teamziller.com"
+          "source": "Good Morning It's Basketball"
         },
         {
-          "title": "Victor Wembanyama ascends for the slam!",
+          "title": "Victor Wembanyama on playing the NBA Finals: 'It's a lifetime chance'",
           "snippet": "",
-          "url": "https://www.nba.com/watch/video/victor-wembanyama-ascends-for-the-slam-40",
-          "source": "NBA.com"
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/05/31/victor-wembanyama-on-playing-the-nba-finals-its-a-lifetime-chance/90339618007/",
+          "source": "HoopsHype"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,16 +127,16 @@
           "source": "Reuters"
         },
         {
-          "title": "Prayer service held at Ground Zero",
+          "title": "Knocking sounds detected at ground zero in Angeles City",
           "snippet": "",
-          "url": "https://thevoicenewsweekly.com/prayer-service-held-at-ground-zero/",
-          "source": "The Voice Newsweekly"
+          "url": "https://www.manilatimes.net/2026/05/29/regions/knocking-sounds-detected-at-ground-zero-in-angeles-city/2354363",
+          "source": "The Manila Times"
         },
         {
-          "title": "Life signs detected under the rubble",
+          "title": "Seventh fatality recovered from Balibago collapse site",
           "snippet": "",
-          "url": "https://www.manilatimes.net/2026/05/30/regions/life-signs-detected-under-the-rubble/2354756",
-          "source": "The Manila Times"
+          "url": "https://thevoicenewsweekly.com/seventh-fatality-recovered-from-balibago-collapse-site/",
+          "source": "The Voice Newsweekly"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,13 +145,13 @@
       "title": "lara fabian",
       "trafficCount": "200+",
       "pubDate": "Sat, 30 May 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkugVUFbXQgdYoi5wRD9fPKQo-eQuoeyy4498Nv81LKXz8WwqqDV4inGqESps",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3tQA0OgbG9AbqUZXLrBvAr8T3k8hAKDEORnL-hbflpv5EUwDT6tiSodmVlVU",
       "pictureSource": "rts.ch",
       "relatedSearch": [
         {
-          "title": "Lady O, la jeune chanteuse vaudoise qui pourrait remporter le télé-crochet The Voice",
+          "title": "La chanteuse vaudoise Lady O remporte l'émission The Voice 2026",
           "snippet": "",
-          "url": "https://www.rts.ch/info/culture/musiques/2026/article/lady-o-la-jeune-chanteuse-vaudoise-qui-pourrait-remporter-le-tele-crochet-the-voice-29257048.html",
+          "url": "https://www.rts.ch/info/culture/musiques/2026/article/lady-o-remporte-the-voice-2026-premiere-victoire-suisse-du-telecrochet-29258853.html",
           "source": "rts.ch"
         },
         {
@@ -117,26 +173,26 @@
       "title": "massimo ranieri",
       "trafficCount": "200+",
       "pubDate": "Sat, 30 May 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA6zAOhPZixqczBZ6X0ue2B2ECPBwISBR-hPx0ASWlHYuHyjOR1c7k6nFg-V8",
-      "pictureSource": "Pickx.be",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnK4NMvDklw1uKcgTdG-iMlCVNl9uUs9fA3TiRqBsNDnHUWBQ_5UeaO96MP78",
+      "pictureSource": "Libero",
       "relatedSearch": [
-        {
-          "title": "RAI Uno HD - Tutti i sogni ancora in volo - Puntata del 26/05/2023",
-          "snippet": "",
-          "url": "https://www.pickx.be/fr/television/programme-tv/UID2371_2026052918907/tutti-i-sogni-ancora-in-volo",
-          "source": "Pickx.be"
-        },
-        {
-          "title": "Tutti i sogni ancora in volo, Massimo Ranieri gela Gianni Morandi: \"Ti farà male ma devo chiedertelo\", poi la vendetta inattesa",
-          "snippet": "",
-          "url": "https://www.today.it/tv/news/tutti-i-sogni-ancora-in-volo-gianni-morandi-30-maggio.html",
-          "source": "Today"
-        },
         {
           "title": "Tutti i sogni ancora in volo, Massimo Ranieri contro Gigi D’Alessio (con Gianni Morandi): cosa succede stasera",
           "snippet": "",
           "url": "https://www.libero.it/magazine/news/anticipazioni-tutti-i-sogni-ancora-in-volo-massimo-ranieri-puntata-30-maggio-2026-208967",
           "source": "Libero"
+        },
+        {
+          "title": "Massimo Ranieri a luglio in concerto sulla Rotonda del Lungomare di Taranto",
+          "snippet": "",
+          "url": "https://www.buonasera24.it/evento/cultura-spettacoli/921007/massimo-ranieri-a-luglio-in-concerto-sulla-rotonda-del-lungomare-di-taranto.html",
+          "source": "Buonasera24"
+        },
+        {
+          "title": "RAI Uno HD - Tutti i sogni ancora in volo - Puntata del 26/05/2023",
+          "snippet": "",
+          "url": "https://www.pickx.be/fr/television/programme-tv/UID2371_2026052918907/tutti-i-sogni-ancora-in-volo",
+          "source": "Pickx.be"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,7 +255,7 @@
     },
     {
       "title": "nicolas cage",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sat, 30 May 2026 13:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTvODHA58lnEfDGyT_sx3pP_2IAmTXgXVYo_C8iMkPd4VZ3VdUrp10aJvXUg",
       "pictureSource": "Entertainment Weekly",
@@ -221,43 +277,6 @@
           "snippet": "",
           "url": "https://parade.com/celebrities/nicolas-cage-denies-rumored-inspiration-for-his-sons-name",
           "source": "Parade"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "simon ammann",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 30 May 2026 13:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jaime faria",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 30 May 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFkTZZvVqqVL5oJI4k7LkNiMefEfCVLHiZH-tE2Zt-bx8bNumagOhUl7Qus4",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Tiafoe jaws with Faria in another five-set win at French Open",
-          "snippet": "",
-          "url": "https://www.espn.com/tennis/story/_/id/48923394/tiafoe-jaws-faria-another-five-set-win-french-open",
-          "source": "ESPN"
-        },
-        {
-          "title": "‘This Has To Stop’ – Frances Tiafoe’s Fiery Confrontation With French Open Rival Forces Umpire to Defuse Tensions",
-          "snippet": "",
-          "url": "https://www.profootballnetwork.com/tennis/frances-tiafoe-fiery-confrontation-french-open-umpire/",
-          "source": "PFSN"
-        },
-        {
-          "title": "Francis Tiafoe Slammed For Behavior During French Open",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/francis-tiafoe-slammed-behavior-during-233500141.html",
-          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
