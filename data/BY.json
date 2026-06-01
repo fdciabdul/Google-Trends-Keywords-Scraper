@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-06-01 05:27:53",
+  "lastUpdate": "2026-06-01 07:16:27",
   "data": [
     {
-      "title": "mail",
+      "title": "новости беларуси",
       "trafficCount": "100+",
+      "pubDate": "Sun, 31 May 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRV5wGolYnnWNv7kry9dCQBd_yEKGxExvhcZifsAR2M41VYZLtMaY1ZoPuKsRA",
+      "pictureSource": "СБ. Беларусь сегодня",
+      "relatedSearch": [
+        {
+          "title": "ЕАБР: в Беларуси сохраняется устойчивый рост реальных зарплат",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/eabr-v-belarusi-sokhranyaetsya-ustoychivyy-rost-realnykh-zarplat-01.06.2026.html",
+          "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "Беларусь заняла второе место в ЕАЭС по уровню зарплат за прошлый год",
+          "snippet": "",
+          "url": "https://ont.by/ru/economy-ru/view/belarus-zanjala-vtoroe-mesto-v-eaes-po-urovnju-zarplat-za-proshlyj-god-319339-2026",
+          "source": "ОНТ"
+        },
+        {
+          "title": "В апреле замедлился темп роста реальных доходов белорусов",
+          "snippet": "",
+          "url": "https://officelife.media/news/72280-v-aprele-zamedlilsya-temp-rosta-realnykh-dokhodov-belorusov/",
+          "source": "officelife.media"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mail",
+      "trafficCount": "200+",
       "pubDate": "Sun, 31 May 2026 21:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2fESmxV_vPUktOX88-yzjUnguCmzB15SFO2a3nUAMIU-W-l3lTrYkGqOVYTs",
       "pictureSource": "Democracy Docket",
@@ -30,29 +58,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "день защиты детей",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 31 May 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmhJxcwkizxi54GdHo2VV1Rzi6bUHhvj6ukUb8NPstWRYjHd6VdXT650E8pd4",
+      "pictureSource": "KrichevLIVE",
+      "relatedSearch": [
+        {
+          "title": "Руководство района: дети – самое дорогое, что есть в нашей жизни",
+          "snippet": "",
+          "url": "https://krichevlive.by/rukovodstvo-rajona-deti-samoe-dorogoe-chto-est-v-nashej-zhizni.html",
+          "source": "KrichevLIVE"
+        },
+        {
+          "title": "Как 21 век изменил смысл Дня защиты детей",
+          "snippet": "",
+          "url": "https://www.techinsider.ru/news/news-1735957-kak-21-vek-izmenil-smysl-dnya-zashchity-detei/",
+          "source": "Techinsider.ru"
+        },
+        {
+          "title": "Красивые открытки на 1 июня и поздравления для детей и родителей",
+          "snippet": "",
+          "url": "https://vfokuse.mail.ru/news/69623462-krasivyie-otkryitki-na-1-iyunya-i-pozdravleniya-dlya-detej-i-roditelej/",
+          "source": "ВФокусе Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "новости мира",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 31 May 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtloMT5wCzrogQJftK74urPwtVCLbUpuEGdQpEpgsSvkC_z_JY-5JDLq1hu28",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRy0RsCBFyfFjH6ZLbd-G9obVI14Qs1PsiQbbh7KlZKHhG7lq0WUyXHagYbok",
       "pictureSource": "Euronews.com",
       "relatedSearch": [
         {
-          "title": "Ирак открыл новое гигантское месторождение нефти: 8,8 млрд баррелей",
+          "title": "США нанесли удары по Ирану, Трамп ужесточил условия мирной сделки",
           "snippet": "",
-          "url": "https://ru.euronews.com/business/2026/05/31/iraq-announces-the-discovery-of-a-large-oil-fi",
+          "url": "https://ru.euronews.com/2026/06/01/iran-war-latest",
           "source": "Euronews.com"
         },
         {
-          "title": "Новое нефтяное месторождение нашли на юге Ирака",
+          "title": "КСИР ответно ударил по авиабазе США, с которой был атакован иранский остров Сирик",
           "snippet": "",
-          "url": "https://rus.baq.kz/novoe-neftyanoe-mestorozhdenie-nashli-na-yuge-iraka-320029013/",
-          "source": "BAQ.KZ"
+          "url": "https://www.interfax.ru/world/1092990",
+          "source": "Интерфакс"
         },
         {
-          "title": "Гигантское месторождение нефти с запасами более 8,8 млрд баррелей обнаружил Ирак",
+          "title": "Иран нанес удар по военной базе США на Ближнем Востоке в ответ на атаку на остров Сирик",
           "snippet": "",
-          "url": "https://rus.azattyq-ruhy.kz/world/109369-gigantskoe-mestorozhdenie-nefti-s-zapasami-bolee-8-8-mlrd-barrelei-obnaruzhil-irak",
-          "source": "Azattyq Ruhy"
+          "url": "https://www.sb.by/articles/ksir-nanes-udar-po-amerikanskoy-baze-s-kotoroy-ssha-atakovali-iranskiy-ostrov.html",
+          "source": "СБ. Беларусь сегодня"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,20 +145,20 @@
       "title": "фильмы 2026",
       "trafficCount": "100+",
       "pubDate": "Sun, 31 May 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPx4GmP_e23y3_V9u4P1adnXHkyC1udeZl6SlqQJgbIseed4X5jVRiAb3QE6M",
-      "pictureSource": "Кино-Театр.Ру",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWPUy_yrUE20FPFeHOZRulRTcpI-9zmyeLub1wINZ5DL0Yhf0UeMm09IONS0",
+      "pictureSource": "Кино Mail",
       "relatedSearch": [
+        {
+          "title": "Михалкова, Уварова, Бондарчук: звезды на открытии кинофестиваля «Новое движение»",
+          "snippet": "",
+          "url": "https://kino.mail.ru/news/126829-otkrytie-festivalya-novoe-dvizhenie-2026/",
+          "source": "Кино Mail"
+        },
         {
           "title": "«Новое движение»: Анна Михалкова, Анастасия Красовская и Владимир Канухин",
           "snippet": "",
           "url": "https://www.kino-teatr.ru/lifestyle/news/y2026/5-30/41962/",
           "source": "Кино-Театр.Ру"
-        },
-        {
-          "title": "На фестивале «Новое движение» открылась выставка «Наследие авангарда»",
-          "snippet": "",
-          "url": "https://tv.mail.ru/news/126948-na-festivale-novoe-dvizhenie-otkryilas-vyistavka-nasledie-avangarda/",
-          "source": "ТВ Mail"
         },
         {
           "title": "Где на этой неделе мы встретили Михалкову с мужем и Олесю Судзиловскую: светский дайджест Woman.ru",
@@ -127,16 +183,16 @@
           "source": "StarHit"
         },
         {
+          "title": "Сценарист «Счастливы вместе» признался в убийстве звезды «Дома-2»: детали",
+          "snippet": "",
+          "url": "https://lady.mail.ru/article/589441-scenarist-schastlivy-vmeste-priznalsya-v-ubijstve-zvezdy-doma-2/",
+          "source": "Леди Mail"
+        },
+        {
           "title": "Сценарист Берестовой признал вину в убийстве экс-участника «Дома-2» Лукина",
           "snippet": "",
           "url": "https://4esnok.by/kalejdoskop/scenarist-berestovoj-priznal-vinu-v-ubijstve-eks-uchastnika-doma-2-lukina/",
           "source": "Интернет-журнал \"Чеснок\""
-        },
-        {
-          "title": "Сценарист раскрыл детали убийства звезды «Дома-2»: «Он шел на меня как зомби»",
-          "snippet": "",
-          "url": "https://teleprogramma.org/headlines/scenarist-raskryl-detali-ubiystva-zvezdy-doma-2-shel-na-menya-kak-zombi_nid4534250__au73639auau_cr73639cr",
-          "source": "Teleprogramma.pro"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,26 +201,26 @@
       "title": "mail.ru",
       "trafficCount": "200+",
       "pubDate": "Sun, 31 May 2026 06:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk3RXbGaBTG2DYjte23PK6uwMiC3RrzjMf7Tc5zp598jRhU_LWLn-z0JI0l70",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYM9JFWKKFKUJ7kVdLkcmCtNUm_vNLIVDYLxOSooqWTV0j8whT5dZGP6aLsPY",
       "pictureSource": "https://www.championat.ru/",
       "relatedSearch": [
         {
-          "title": "Жена Хвичи Кварацхелии обратилась к мужу после победы «ПСЖ» в Лиге чемпионов",
+          "title": "Хвича Кварацхелия отказался общаться на русском с журналистом после финала ЛЧ",
           "snippet": "",
-          "url": "https://www.championat.ru/football/news-6489080-zhena-hvichi-kvarachelii-obratilas-k-muzhu-posle-pobedy-pszh-v-lige-chempionov.html",
+          "url": "https://www.championat.ru/football/news-6489764-hvicha-kvaracheliya-otkazalsya-obschatsya-na-russkom-s-zhurnalistom-posle-finala-lch.html",
           "source": "https://www.championat.ru/"
         },
         {
-          "title": "Кварацхелия признан лучшим игроком сезона в Лиге чемпионов",
+          "title": "Кварацхелию признали лучшим игроком сезона в Лиге чемпионов",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/champions-league/news/kvaracheliya-priznan-luchshim-igrokom-sezona-v-lige-chempionov-2427378/",
-          "source": "sport-express.ru"
+          "url": "https://sportmail.ru/article/football-eurocups/71090623/",
+          "source": "Спорт Mail"
         },
         {
-          "title": "Семин о Хвиче: «В “Локо” не мог подумать, что он станет футболистом такого уровня. Дальше может быть “Золотой мяч”",
+          "title": "Бывший футболист \"Рубина\" и \"Локомотива\" признан лучшим игроком Лиги чемпионов",
           "snippet": "",
-          "url": "https://sportmail.ru/news/football/71092631/",
-          "source": "Спорт Mail"
+          "url": "https://www.sport.ru/football/byvshiy-futbolist-rubina-i-lokomotiva-priznan-luchshim-igrokom-ligi-chempionov/article649981/",
+          "source": "Sport.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,72 +267,16 @@
           "source": "СБ. Беларусь сегодня"
         },
         {
+          "title": "На \"Ролан Гаррос\"-2026 не исключен белорусско-украинский финал: возможный путь Арины Соболенко до титула",
+          "snippet": "",
+          "url": "https://pressball.by/news/tennis/na-rolan-garros-2026-ne-isklyuchen-belorussko-ukrainskij-final-vozmozhnyj-put-ariny-sobolenko-do-titula/",
+          "source": "Прессбол"
+        },
+        {
           "title": "Арина Соболенко — Дарья Касаткина: где смотреть матч третьего круга «Ролан Гаррос» — 2026",
           "snippet": "",
           "url": "https://www.championat.ru/tennis/news-6487526-arina-sobolenko-darya-kasatkina-gde-smotret-match-tretego-kruga-rolan-garros-2026.html",
           "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Соболенко не дала Касаткиной ни гейма в первом сете и прошла в 1/8 финала",
-          "snippet": "",
-          "url": "https://smartpress.by/idea/sport/sobolenko-ne-dala-kasatkinoy-ni-geyma-v-pervom-sete-i-proshla-v-1-8-finala/",
-          "source": "Смартпресс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "курсы валют",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 31 May 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH5Sr9kAPUlJcwSib2y8MqjzfH0Al3fjqe4R-N1YRyBApMsl1irxm0FvfsGqU",
-      "pictureSource": "Myfin.by",
-      "relatedSearch": [
-        {
-          "title": "Доллар вырос еще сильнее. Курс НБРБ на 1 июня 2026",
-          "snippet": "",
-          "url": "https://myfin.by/article/currency/dollar-vyros-ese-silnee-kurs-nbrb-na-1-iuna-2026-45928",
-          "source": "Myfin.by"
-        },
-        {
-          "title": "Почему доллар перестал дешеветь, и что будет с курсом летом",
-          "snippet": "",
-          "url": "https://minsknews.by/pochemu-dollar-perestal-deshevet-i-chto-budet-s-kursom-letom/",
-          "source": "Минск-новости"
-        },
-        {
-          "title": "Что будет с курсами доллара, рубля и биткоина в июне. Прогноз по валютам и крипте",
-          "snippet": "",
-          "url": "https://officelife.media/news/72276-chto-budet-s-kursami-dollara-rublya-i-bitkoina-v-iyune-prognoz-po-valyutam-i-kripte-/",
-          "source": "officelife.media"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сорана кырстя",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 31 May 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GoFrDrhdw5ib4TXDGUd7F1mR8stWBt1fsXNmeAcDGFr0Jilu6MkWU22yBtQ",
-      "pictureSource": "https://www.championat.ru/",
-      "relatedSearch": [
-        {
-          "title": "Сорана Кырстя вышла в 1/4 финала «Ролан Гаррос» — 2026, где может сыграть с Андреевой",
-          "snippet": "",
-          "url": "https://www.championat.ru/tennis/news-6489010-sorana-kyrstya-van-siyuj-rezultat-matcha-31-maya-2026-schet-2-0-4-j-krug-rolan-garros-2026.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Недавняя обидчица Соболенко побила рекорд Виктории Азаренко на ТБШ",
-          "snippet": "",
-          "url": "https://sport5.by/news/tennis/Nedavnyaya-obidchitsa-Sobolenko-pobila-rekord-eshchye-odnoy-beloruski-na-TBSH/",
-          "source": "Sport5.by"
-        },
-        {
-          "title": "Сорана Кырстя - о решении завершить карьеру: На данный момент оно остаётся в силе. Если честно, пока об этом не думаю",
-          "snippet": "",
-          "url": "https://gotennis.ru/read/news/sorana_kyrstya_-_o_reshenii_zavershit_kareru_na_dannyji_moment_ono_ostayotsya_v_sile__esli_chestno_p.html",
-          "source": "GoTennis.ru"
         }
       ],
       "link": "https://imtaqin.id/"
