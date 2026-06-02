@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-06-02 02:26:35",
+  "lastUpdate": "2026-06-02 03:47:45",
   "data": [
     {
       "title": "microsoft",
       "trafficCount": "500+",
       "pubDate": "Mon, 1 Jun 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2eA4lNk0WF8bYbOo3iep__McjrAYbso95_jDRBEoH4qrBbJv5comCtp2ck5s",
-      "pictureSource": "Yahoo Finance",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdpVRcL4czlzvs6bi8R0c8FFR8N8oap6M2_o0szwtBqavBQPioNaXsVJrRhfA",
+      "pictureSource": "WSJ",
       "relatedSearch": [
         {
-          "title": "Microsoft Corporation (MSFT): One of the Elite Stocks to Buy According to AI",
+          "title": "Nvidia Introduces First PCs Designed for AI Agents",
           "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-one-elite-165708401.html",
+          "url": "https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd",
+          "source": "WSJ"
+        },
+        {
+          "title": "Nvidia Expands Into CPUs As AI Partnerships Grow And Valuation Stretches",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-expands-cpus-ai-partnerships-021042415.html",
           "source": "Yahoo Finance"
         },
         {
-          "title": "What’s Happening With Microsoft Stock?",
+          "title": "Introducing Surface Laptop Ultra: Made for world makers",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/greatspeculations/2026/06/01/whats-happening-with-microsoft-stock/",
-          "source": "Forbes"
+          "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+          "source": "Windows Blog"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "occ",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 1 Jun 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUXsALy8TzTufdTISSvRA6-UsNczPDiWw-4ItzJb957IHq33Q6CoYihQV5Zs",
+      "pictureSource": "PR Newswire",
+      "relatedSearch": [
+        {
+          "title": "Arrow Financial Corporation and Adirondack Bancorp, Inc. Receive OCC Approval for Merger",
+          "snippet": "",
+          "url": "https://www.prnewswire.com/news-releases/arrow-financial-corporation-and-adirondack-bancorp-inc-receive-occ-approval-for-merger-302787622.html",
+          "source": "PR Newswire"
         },
         {
-          "title": "Microsoft: This Price Makes No Sense (NASDAQ:MSFT)",
+          "title": "Arrow Financial receives OCC approval to merge with Adirondack; combined assets ~$5.4B",
           "snippet": "",
-          "url": "https://seekingalpha.com/article/4910391-microsoft-this-price-makes-no-sense",
-          "source": "Seeking Alpha"
+          "url": "https://www.tradingview.com/news/tradingview:545b83f5c5138:0-arrow-financial-receives-occ-approval-to-merge-with-adirondack-combined-assets-5-4b/",
+          "source": "TradingView"
+        },
+        {
+          "title": "Arrow Financial gains OCC approval for Adirondack merger",
+          "snippet": "",
+          "url": "https://www.tipranks.com/news/company-announcements/arrow-financial-gains-occ-approval-for-adirondack-merger",
+          "source": "TipRanks"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -53,6 +81,34 @@
           "snippet": "",
           "url": "https://www.idealista.pt/news/imobiliario/habitacao/2026/06/01/75782-escrituras-passam-a-ter-de-indicar-se-imoveis-tem-titulo-urbanistico",
           "source": "Idealista"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "correio manha",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 1 Jun 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMC7wTR4b6AkMZHRJOUR0Uaqiuux0Dw_MLGPBE4ytZ1x8h2h8-N74CCpz9VvA",
+      "pictureSource": "SIC",
+      "relatedSearch": [
+        {
+          "title": "Jovem de 24 anos abatido a tiro enquanto esperava namorada: \"Ela ouviu os tiros\"",
+          "snippet": "",
+          "url": "https://sic.pt/programas/casa-feliz/analise-criminal/2026-06-01-video-jovem-de-24-anos-abatido-a-tiro-enquanto-esperava-namorada-ela-ouviu-os-tiros-cb7eba82",
+          "source": "SIC"
+        },
+        {
+          "title": "Jovem que ficou ferido em tiroteio que matou o amigo está em morte cerebral",
+          "snippet": "",
+          "url": "https://www.cmjornal.pt/portugal/detalhe/jovem-que-ficou-ferido-em-tiroteio-que-matou-o-amigo-esta-em-morte-cerebral",
+          "source": "Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados"
+        },
+        {
+          "title": "Morre baleado junto a bar no Barreiro",
+          "snippet": "",
+          "url": "https://www.jn.pt/justica/artigo/morre-baleado-junto-a-bar-no-barreiro/18090120",
+          "source": "Jornal de Notícias"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,27 +143,27 @@
     },
     {
       "title": "correio da manhã",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 1 Jun 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhdV-PEagnQlS_0VpR2FczDEcRNnVD2I0h8yAxnGzN9Tf5N0Jy_OkwNw9h0dU",
-      "pictureSource": "SIC Notícias",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwb44kcNxpmPXeU9o6t8oIZ2phdpEOah1P8ajKftYq4RWRVWX5Mq8KVdaMsUg",
+      "pictureSource": "A Bola",
       "relatedSearch": [
+        {
+          "title": "Um morto e dois feridos em acidente entre autocarro e carro em Cascais",
+          "snippet": "",
+          "url": "https://www.abola.pt/noticias/um-morto-e-dois-feridos-em-acidente-entre-autocarro-e-carro-em-cascais-2026060119143343762",
+          "source": "A Bola"
+        },
         {
           "title": "Acidente entre carro e autocarro em Cascais faz um morto e dois feridos ligeiros",
           "snippet": "",
-          "url": "https://sicnoticias.pt/pais/2026-06-01-acidente-entre-autocarro-e-carro-em-cascais-faz-varias-vitimas-8fce8148?fbclid=IwZnRzaASK4DRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEegmpV1GYZZEOZiHcwiq2jADUUakz6qN_bhm58RkVycTptvKjHBX9j-YqtFRw_aem_HSee8AnsExi2ywxo3S97eA",
+          "url": "https://sicnoticias.pt/pais/2026-06-01-acidente-entre-autocarro-e-carro-em-cascais-faz-varias-vitimas-8fce8148",
           "source": "SIC Notícias"
         },
         {
-          "title": "Um morto e dois feridos em acidente entre autocarro e automóvel ligeiro em Cascais",
+          "title": "Os números do EuroDreams",
           "snippet": "",
-          "url": "https://www.dn.pt/sociedade/um-morto-e-dois-feridos-em-acidente-entre-autocarro-e-automvel-ligeiro-em-cascais",
-          "source": "Diário de Notícias"
-        },
-        {
-          "title": "Das distritais para os nacionais: veja os campeões!",
-          "snippet": "",
-          "url": "https://sapo.pt/artigo/das-distritais-para-os-nacionais-veja-os-campeoes-6a1dd991434934ab04272902",
+          "url": "https://sapo.pt/artigo/os-numeros-do-eurodreams-6a1ddb22272fc55d31f3f18b",
           "source": "SAPO"
         }
       ],
@@ -115,28 +171,28 @@
     },
     {
       "title": "correio da manha",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 1 Jun 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMC7wTR4b6AkMZHRJOUR0Uaqiuux0Dw_MLGPBE4ytZ1x8h2h8-N74CCpz9VvA",
-      "pictureSource": "SIC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpP5W0mWSGCgqeQ4jE2Sc45OIB9qVH3WWbQPrP1lzfo3V41J-it6Z99SmmXw",
+      "pictureSource": "Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados",
       "relatedSearch": [
         {
-          "title": "Jovem de 24 anos abatido a tiro enquanto esperava namorada: \"Ela ouviu os tiros\"",
+          "title": "Português assassinado em Espanha foi atraído a uma cilada pelo homicida que descobriu traição",
           "snippet": "",
-          "url": "https://sic.pt/programas/casa-feliz/analise-criminal/2026-06-01-video-jovem-de-24-anos-abatido-a-tiro-enquanto-esperava-namorada-ela-ouviu-os-tiros-cb7eba82",
-          "source": "SIC"
-        },
-        {
-          "title": "Jovem que ficou ferido em tiroteio que matou o amigo está em morte cerebral",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/portugal/detalhe/jovem-que-ficou-ferido-em-tiroteio-que-matou-o-amigo-esta-em-morte-cerebral",
+          "url": "https://www.cmjornal.pt/portugal/detalhe/portugues-assassinado-em-espanha-foi-atraido-a-uma-cilada-pelo-homicida-que-descobriu-traicao",
           "source": "Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados"
         },
         {
-          "title": "Morre baleado junto a bar no Barreiro",
+          "title": "Português morto em Espanha por homem que também agrediu a mulher",
           "snippet": "",
-          "url": "https://www.jn.pt/justica/artigo/morre-baleado-junto-a-bar-no-barreiro/18090120",
+          "url": "https://www.jn.pt/mundo/artigo/portugues-morto-em-espanha-por-homem-que-tambem-agrediu-a-mulher/18089426",
           "source": "Jornal de Notícias"
+        },
+        {
+          "title": "Português morto em Espanha",
+          "snippet": "",
+          "url": "https://recordeuropa.com/videos/fala-portugal/portugues-morto-em-espanha-01-06-2026-338398",
+          "source": "TV RECORD EUROPA"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -204,62 +260,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "radio online",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 1 Jun 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi97vedmao25n6P73KloKKPhOESrPc65s16Y8O_PFro5GLxDOTlqLsN6Qw4WQ",
-      "pictureSource": "The Portugal News",
-      "relatedSearch": [
-        {
-          "title": "Portugal to have new online radio",
-          "snippet": "",
-          "url": "https://www.theportugalnews.com/news/2026-05-30/portugal-to-have-new-online-radio/1030168",
-          "source": "The Portugal News"
-        },
-        {
-          "title": "ABC accuses Trump’s FCC of ‘unconstitutional retaliation’ in station license fight",
-          "snippet": "",
-          "url": "https://www.cnn.com/2026/05/28/media/abc-fcc-disney-licenses-unconstitutional",
-          "source": "CNN"
-        },
-        {
-          "title": "ABC Accuses Trump Administration of Threatening Its Broadcast Licenses",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/05/28/business/media/abc-licenses-fcc-brendan-carr.html",
-          "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "radio comercial",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 1 Jun 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi8Y6YaTHOIG5K07G4HscymKoh-eN1hjqcOII-vLnbclDrGLsdg26VTpPNkA",
-      "pictureSource": "Notícias de hoje - IOL",
-      "relatedSearch": [
-        {
-          "title": "Nuno Markl regressa ao estúdio da Rádio Comercial e celebra reencontro em ambiente festivo",
-          "snippet": "",
-          "url": "https://www.lux.iol.pt/nacional/01-06-2026/nuno-markl-regressa-ao-estudio-da-radio-comercial-e-celebra-reencontro-em-ambiente-festivo",
-          "source": "Notícias de hoje - IOL"
-        },
-        {
-          "title": "Ao vivo e a cores, em palco seis meses depois do AVC. De pé, Nuno Markl revela \"nervosismo\" e 'brinca' com paralisia do lado esquerdo",
-          "snippet": "",
-          "url": "https://www.flash.pt/celebridades/nacional/detalhe/ao-vivo-e-a-cores-em-palco-seis-meses-depois-do-avc-de-pe-nuno-markl-revela-nervosismo-e-brinca-com-paralisia-do-lado-esquerdo",
-          "source": "Flash"
-        },
-        {
-          "title": "Vitória! De pé e em frente a uma plateia, Nuno Markl lança novo projeto",
-          "snippet": "",
-          "url": "https://www.cmjornal.pt/vidas/detalhe/vitoria-de-pe-e-em-frente-a-uma-plateia-nuno-markl-lanca-novo-projeto",
-          "source": "Correio da Manhã"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
