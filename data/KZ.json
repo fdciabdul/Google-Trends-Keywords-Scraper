@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-06-05 07:58:44",
+  "lastUpdate": "2026-06-05 09:21:28",
   "data": [
     {
       "title": "казмунайгаз",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 5 Jun 2026 00:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyR1d5ec0Wo2S_-dCIZPk4edy-pQrtkgd0UDo-Xks_EoX0cOFE1QbdysUCEHw",
       "pictureSource": "Ак Жайык",
@@ -31,7 +31,7 @@
     },
     {
       "title": "пособие",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 5 Jun 2026 00:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu71QvXErRtaEKTv75q2IY4wFWJ7kIJYecvMZuWE_ezdzycWrDybvuwyBvPqE",
       "pictureSource": "Казинформ",
@@ -86,23 +86,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "электробус",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 4 Jun 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuC8Y1GuqB-BRPgE7KwkauHSp-ZTfgsSYaw8d_pY0u3rJ5gQ27EzW-16xEAG0",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Новые красные автобусы и новые маршруты: хорошую новость сообщили жителям Алматы",
+          "snippet": "",
+          "url": "https://www.zakon.kz/sobytiia/6520377-novye-krasnye-avtobusy-i-novye-marshruty-khoroshuyu-novost-soobshchili-zhitelyam-almaty.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Новые автобусные маршруты запускают в Алматы",
+          "snippet": "",
+          "url": "https://informburo.kz/novosti/novye-avtobusnye-marsruty-zapuskaiut-v-almaty",
+          "source": "Informburo.kz"
+        },
+        {
+          "title": "В Алматы запустят три новых маршрута на электробусах",
+          "snippet": "",
+          "url": "https://www.inalmaty.kz/news/4114038/v-almaty-zapustat-tri-novyh-marsruta-na-elektrobusah",
+          "source": "inAlmaty.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "змеи",
       "trafficCount": "1000+",
       "pubDate": "Thu, 4 Jun 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHHM6oZNSB_VT3i4oqeXClqIKe1IqV7YNsKqfej1_qI4i1nPD3oYjF-66LtKk",
-      "pictureSource": "om1.ru",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAK23hsUZo57GiKmZr0ZBY-y4PdMHgxSNumIikprCXM_j2OgI1BRfQqjzAIls",
+      "pictureSource": "Погода Mail",
       "relatedSearch": [
+        {
+          "title": "В России возросло число укусов змей",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/71157351/",
+          "source": "Погода Mail"
+        },
         {
           "title": "Укусила змея: сохраните спокойствие и запомните эти пять действий — список регионов, где уже есть пострадавшие",
           "snippet": "",
           "url": "https://www.nsk.om1.ru/news/society/421781-ukusila_zmeja_sokhranite_spokojjstvie_i_zapomnite_ehti_pjat_dejjstvijj__spisok_regionov_gde_uzhe_est_postradavshie/",
           "source": "om1.ru"
-        },
-        {
-          "title": "Россиян предупредили о начале сезона активности змей",
-          "snippet": "",
-          "url": "https://www.gazeta.press/social/news/2026/06/05/28621879.shtml",
-          "source": "www.gazeta.press"
         },
         {
           "title": "Россиян предупредили о резком росте активности змей",
@@ -115,7 +143,7 @@
     },
     {
       "title": "владимир зеленский",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 4 Jun 2026 19:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNW-pbhHyrQbYJWJMVgIpCvKek7OwjnhDKcmb5PB9k0kDLSRLh37l3EWRuLOE",
       "pictureSource": "DW",
@@ -127,16 +155,16 @@
           "source": "DW"
         },
         {
-          "title": "Письмо Зеленского Путину: о чем он предложил договориться",
-          "snippet": "",
-          "url": "https://24.kz/ru/news/in-the-world/772720-pismo-zelenskogo-putinu-o-chem-on-predlozhil-dogovoritsya",
-          "source": "24.kz"
-        },
-        {
           "title": "«Вы можете остановить свою войну». Зеленский написал письмо Путину, тот рассказал на ПМЭФ об украинских дронах и «Орешнике»",
           "snippet": "",
           "url": "https://www.bbc.com/russian/articles/cjepex0pzyyo",
           "source": "BBC"
+        },
+        {
+          "title": "Зеленский опубликовал открытое письмо Путину",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/zelenskiy-opublikoval-otkrytoe-pisjmo-putinu/33772821.html",
+          "source": "Радио Свобода"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,26 +201,26 @@
       "title": "налог",
       "trafficCount": "500+",
       "pubDate": "Thu, 4 Jun 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsHZgRvybaZ1VGLOcvJ9f6JEYuw0K_lJtKLka6JvOff8moK6WxOY_wYXXzMuY",
-      "pictureSource": "Крыша",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXjR_Wo-MuK-T1NPJtii-mLOYKQzQCEvG399NcOS5bgwGyv9l411qjJwusyVE",
+      "pictureSource": "DigitalBusiness.kz",
       "relatedSearch": [
         {
-          "title": "Налоги с аренды в 2026 году: сколько и когда платить",
+          "title": "Министерство нацэкономики обозначило позицию по введению нового налога на вторую квартиру",
           "snippet": "",
-          "url": "https://krisha.kz/content/articles/2026/2026-nalogi-s-arendy-v-2026-godu-skolko-i-kogda-platit",
-          "source": "Крыша"
+          "url": "https://digitalbusiness.kz/2026-06-04/ministerstvo-natsekonomiki-oboznachilo-pozitsiyu-po-vvedeniyu-novogo-naloga-na-vtoruyu-kvartiru/",
+          "source": "DigitalBusiness.kz"
         },
         {
-          "title": "Как можно платить налоги с аренды жилья в Казахстане",
+          "title": "\"Наказывать нет необходимости\". Что думает об идее повышения налогов для владельцев нескольких квартир глава Нацбанка",
           "snippet": "",
-          "url": "https://www.nur.kz/nurfin/fines-and-taxes/2384451-kak-mozhno-platit-nalogi-s-arendy-zhilya-v-kazahstane/",
-          "source": "NUR.KZ"
+          "url": "https://informburo.kz/novosti/nakazyvat-net-neobxodimosti-cto-dumaet-ob-idee-povyseniia-nalogov-dlia-vladelcev-neskolkix-kvartir-glava-nacbanka",
+          "source": "Informburo.kz"
         },
         {
-          "title": "О тонкостях аренды жилых помещений, садовых домиков, дач, гаражей и машино-мест рассказали в налоговой",
+          "title": "Глава Нацбанка сказал, стоит ли казахстанцам ждать новый налог на вторую квартиру",
           "snippet": "",
-          "url": "https://mogilevnews.by/news/04-06-2026-08-51/o-tonkostyah-arendy-zhilyh-pomeshchenij-sadovyh-domikov-dach-garazhej-i-mashino-mest-rasskazali-v-nalogovoj/",
-          "source": "mogilevnews.by"
+          "url": "https://digitalbusiness.kz/2026-06-05/glava-natsbanka-skazal-stoit-li-kazahstantsam-zhdat-noviy-nalog-na-vtoruyu-kvartiru/",
+          "source": "DigitalBusiness.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,34 +249,6 @@
           "snippet": "",
           "url": "https://24.kz/ru/news/top-news/772647-sinoptiki-predupredili-o-grozakh-livnyakh-i-pylnoj-bure-v-kazakhstane",
           "source": "24.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "теннис",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 4 Jun 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMEOHnF_AxZ1YWuVJa0HUUWD7GSn1ez9ENQQ8UnQk5uTc3oIROOLtEMPbweXw",
-      "pictureSource": "NUR.KZ",
-      "relatedSearch": [
-        {
-          "title": "114-я ракетка мира вышла в финал \"Ролан Гаррос\" и переписала историю тенниса",
-          "snippet": "",
-          "url": "https://www.nur.kz/sport/tennis/2384616-114-ya-raketka-mira-vyshla-v-final-rolan-garros-i-perepisala-istoriyu-tennisa/",
-          "source": "NUR.KZ"
-        },
-        {
-          "title": "Хвалиньская назвала невероятной игру Андреевой на Roland Garros",
-          "snippet": "",
-          "url": "https://sportmail.ru/news/tennis/71151448/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "114-я ракетка мира продолжает сказочное путешествие с финалом \"Ролан Гаррос\"",
-          "snippet": "",
-          "url": "https://www.zakon.kz/sport/6520369-114ya-raketka-mira-prodolzhaet-skazochnoe-puteshestvie-s-finalom-rolan-garros.html",
-          "source": "Новости Zakon.kz"
         }
       ],
       "link": "https://imtaqin.id/"
