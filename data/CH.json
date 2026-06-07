@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-06-07 08:04:12",
+  "lastUpdate": "2026-06-07 09:14:40",
   "data": [
     {
       "title": "aargauer kantonalschwingfest",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 7 Jun 2026 00:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSldbYR_4e00PTnOQgZ1huPZzzVnmaxP4AryYGex0pmLcTxFlslfv0a2NL93pQ",
       "pictureSource": "Blick",
@@ -31,7 +31,7 @@
     },
     {
       "title": "états-unis",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 6 Jun 2026 22:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6OCfzCNhH0p6VV_bfu_GHsrrhF4y_zDzM6mgTP4uYQTlK0LV5PF-4zVZWJ4k",
       "pictureSource": "Le Monde.fr",
@@ -58,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "frauenlauf bern",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 6 Jun 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUFQI2yR3HjMy5laCL-IFwwHgS5WaAG5SWOdxBPJKjZWESbu-8haj66v1e9UE",
-      "pictureSource": "Bernmobil",
-      "relatedSearch": [
-        {
-          "title": "07.06.26: Umleitungen infolge Frauenlauf Bern",
-          "snippet": "",
-          "url": "https://www.bernmobil.ch/de/070626-umleitungen-infolge-frauenlauf-bern",
-          "source": "Bernmobil"
-        },
-        {
-          "title": "15’000 Läuferinnen in Bern: Frauenlauf Bern: Teilnehme­rinnen sollen mit ÖV anreisen",
-          "snippet": "",
-          "url": "https://www.derbund.ch/frauenlauf-bern-anreise-mit-oev-empfohlen-strassensperrungen-917547896166",
-          "source": "Der Bund"
-        },
-        {
-          "title": "Tipps zu 40 Jahre Berner Frauenlauf: «Nicht gleich das ganze Pulver verschiessen», warnt die Marathonläuferin",
-          "snippet": "",
-          "url": "https://www.bernerzeitung.ch/frauenlauf-bern-alles-wichtige-zum-40-jubilaeum-106764389570",
-          "source": "Berner Zeitung"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "alfred gantner",
       "trafficCount": "200+",
       "pubDate": "Sat, 6 Jun 2026 22:10:00 -0700",
@@ -99,16 +71,44 @@
           "source": "Tages-Anzeiger"
         },
         {
-          "title": "Partners-Group will nach Kurseinbruch besser kommunizieren",
-          "snippet": "",
-          "url": "https://www.cash.ch/news/top-news/partners-group-will-nach-kurseinbruch-besser-kommunizieren-943187",
-          "source": "Cash"
-        },
-        {
           "title": "Aktiencrash bei Partners Group: Gantner nennt Schuldige",
           "snippet": "",
           "url": "https://www.20min.ch/story/partners-group-aktiencrash-gantner-gibt-gezieltem-angriff-die-schuld-103577927",
           "source": "20 Minuten"
+        },
+        {
+          "title": "Private Equity in der Kritik: Warum Banken weiterhin zu Partners Group stehen",
+          "snippet": "",
+          "url": "https://www.nzz.ch/wirtschaft/trotz-aktien-absturz-banken-stellen-sich-hinter-partners-group-und-private-equity-ld.10010020",
+          "source": "Neue Zürcher Zeitung"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "frauenlauf bern 2026",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 6 Jun 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUFQI2yR3HjMy5laCL-IFwwHgS5WaAG5SWOdxBPJKjZWESbu-8haj66v1e9UE",
+      "pictureSource": "Bernmobil",
+      "relatedSearch": [
+        {
+          "title": "07.06.26: Umleitungen infolge Frauenlauf Bern",
+          "snippet": "",
+          "url": "https://www.bernmobil.ch/de/070626-umleitungen-infolge-frauenlauf-bern",
+          "source": "Bernmobil"
+        },
+        {
+          "title": "15’000 Läuferinnen in Bern: Das sind die schönsten Bilder des Frauenlaufs",
+          "snippet": "",
+          "url": "https://www.bernerzeitung.ch/frauenlauf-bern-15000-laeuferinnen-feiern-40-jubilaeum-338590971275",
+          "source": "Berner Zeitung"
+        },
+        {
+          "title": "15’000 Läuferinnen in Bern: Frauenlauf Bern: Teilnehme­rinnen sollen mit ÖV anreisen",
+          "snippet": "",
+          "url": "https://www.derbund.ch/frauenlauf-bern-anreise-mit-oev-empfohlen-strassensperrungen-917547896166",
+          "source": "Der Bund"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "Inbox.eu"
         },
         {
-          "title": "Frankfurt Faces an Unexpected Ground Incident as Lufthansa Airbus A320 Suffers a Big Nose Gear Collapse, Injuring Crew and Airport Staff Ahead of Departure",
+          "title": "Breaking Airline News: Frankfurt Battles Terrifying Travel Chaos as Lufthansa Airbus A320 Suffers Massive Nose Gear Collapse",
           "snippet": "",
-          "url": "https://www.travelandtourworld.com/news/article/mgmevgk1xe2l/",
-          "source": "Travel And Tour World"
+          "url": "https://nomadlawyer.org/frankfurt-lufthansa-a320-gear-collapse-travel-chaos-2026",
+          "source": "Nomad Lawyer"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "ukraine",
       "trafficCount": "100+",
       "pubDate": "Sat, 6 Jun 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSee2HCdqOEyMXBogucBVJEeexgcakCiWPt78nIlnw4Lb-xvKjokK1yoGE5eoo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAb8K9chlkLqdvSuUhu1wJGRjF_H7f7a1sFn7OLg6-ZFup1ZzNCd3AQLwlOU",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "The lasting image of Russia's economic forum will be a plume of black smoke after Ukraine attack",
+          "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c9q2gp52rgro",
+          "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o",
           "source": "BBC"
         },
         {
-          "title": "Ukraine targets Russian navy base near St. Petersburg on last day of ‘Putin’s Davos’",
+          "title": "Putin rejects Zelenskyy’s offer to meet and reaffirms Ukraine war aims",
           "snippet": "",
-          "url": "https://www.cnn.com/2026/06/06/europe/ukraine-targets-st-petersburg-intl",
-          "source": "CNN"
+          "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
+          "source": "The Guardian"
         },
         {
-          "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
+          "title": "In public letter, Ukraine's Zelenskyy calls on Putin for direct negotiations in a neutral country",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
-          "source": "The Guardian"
+          "url": "https://www.gulfcoastnewsnow.com/article/ukraine-zelenskyy-putin-for-direct-negotiations/71510875",
+          "source": "Gulf Coast News and Weather"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,26 +229,26 @@
       "title": "ufc",
       "trafficCount": "200+",
       "pubDate": "Sat, 6 Jun 2026 16:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHn3Tjx2MKZyVTWBaUJcN3phVHz4iLLMjb_qSj8i2AQimefnq8ykp1UixHhS0",
-      "pictureSource": "MMA Fighting",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl_LZEFAGxANVtmA7mpLRbkPMRXXl_Cc1mPqi7SPBicoRnmpuPJkUxLdyWVBA",
+      "pictureSource": "ESPN",
       "relatedSearch": [
         {
-          "title": "Gabriel Bonfim sees Belal Muhammad as ‘test’ to show he’s ready for Islam Makhachev",
+          "title": "UFC's White: Pereira surpasses Jones as GOAT with win vs. Gane",
           "snippet": "",
-          "url": "https://www.mmafighting.com/ufc/491857/gabriel-bonfim-sees-belal-muhammad-as-test-to-show-hes-ready-for-islam-makhachev",
-          "source": "MMA Fighting"
+          "url": "https://www.espn.com/mma/story/_/id/48978261/ufc-white-pereira-surpasses-jones-goat-win-vs-gane",
+          "source": "ESPN"
         },
         {
-          "title": "Matches to make after UFC Vegas 118",
+          "title": "Dana White combats Joe Rogan’s 'crazy' UFC White House ‘gimmick’ take with Alex Pereira GOAT claim",
           "snippet": "",
-          "url": "https://www.sherdog.com/news/articles/Matches-to-make-after-UFC-Vegas-118-201448",
-          "source": "Sherdog"
+          "url": "https://bloodyelbow.com/2026/06/05/dana-white-combats-joe-rogans-crazy-ufc-white-house-gimmick-take-with-alex-pereira-goat-claim/",
+          "source": "Bloody Elbow"
         },
         {
-          "title": "Gabriel Bonfim Post-Fight Interview | UFC Fight Night: Muhammad vs Bonfim",
+          "title": "Midnight Mania! Poatan Surpasses Bones With White House Win",
           "snippet": "",
-          "url": "https://www.ufc.com/video/157178",
-          "source": "UFC.com"
+          "url": "https://sports.yahoo.com/articles/midnight-mania-poatan-surpasses-bones-035900650.html",
+          "source": "Yahoo Sports"
         }
       ],
       "link": "https://imtaqin.id/"
