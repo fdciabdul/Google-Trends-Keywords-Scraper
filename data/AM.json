@@ -1,86 +1,58 @@
 {
-  "lastUpdate": "2026-06-08 02:11:56",
+  "lastUpdate": "2026-06-08 03:26:45",
   "data": [
     {
-      "title": "exit poll",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 7 Jun 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDmFkDPoXO-A0BkC3wYaL-NwOVIHRHvnpU-9o0rrX_KZfttOK3H0M0LDcJsc4",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Peru’s Presidential Runoff in a Dead Heat",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Peru begins counting votes after polls close in presidential runoff",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/en/americas/peru-begins-counting-votes-after-polls-close-in-presidential-runoff/3959657",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "International Observers and the Will of the People in the Peruvian Elections",
-          "snippet": "",
-          "url": "https://www.atalayar.com/en/opinion/miguel-angel-rodriguez-mackay/international-observers-and-the-will-of-the-people-in-the-peruvian-elections/20260607133139226310.html",
-          "source": "Atalayar"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "выборы в армении",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 7 Jun 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnis-pv2L43ALZnfiQeAOuBX4hW4wL9nqFfg585as7TXBXnxaJ44PHvhrUSQk",
-      "pictureSource": "Armenpress",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF_ro1EAR7oo8RwycG9gSSZNeVmsXRq6tGj5FHVgPZh1z0FxOr78kPwgEKrxg",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Выборы в Армении: борьба мира и войны",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cddl47gr4ymo",
+          "source": "BBC"
+        },
+        {
+          "title": "Центризбирком Армении на 06.30 утра обработал лишь 56% бюллетеней",
+          "snippet": "",
+          "url": "https://news.am/ru/news/1041895",
+          "source": "NEWS.am"
+        },
         {
           "title": "ЦИК представила результаты электронного голосования на парламентских выборах: лидирует партия «Гражданский договор»",
           "snippet": "",
           "url": "https://armenpress.am/ru/article/1252293",
           "source": "Armenpress"
-        },
-        {
-          "title": "Центризбирком Армении на 05.00 обработал меньше половины бюллетеней",
-          "snippet": "",
-          "url": "https://news.am/ru/news/1041889",
-          "source": "NEWS.am"
-        },
-        {
-          "title": "В Армении завершились парламентские выборы. В стране их называют судьбоносными",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cwyd5l0xgeko",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "news",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 7 Jun 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-9I5ykrFP82rSR3lse0IWnXP3lZ5HxZaIreGBnGAYTzXVFFIWBJLZNV9sTyo",
-      "pictureSource": "Axios",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToANbPu9VXfSlfHKAk28YO-S-nW6rFm2AnxEI0Sc24qHbHJMxDzOygeXKQf3k",
+      "pictureSource": "WSJ",
       "relatedSearch": [
         {
-          "title": "Israel strikes Iran military targets after Iranian missile attack",
+          "title": "Israel Hits Back at Iran after Missile Attack, Renewing Fear of War",
           "snippet": "",
-          "url": "https://www.axios.com/2026/06/08/israel-strikes-iran-military-targets-after-iranian-missile-attack",
+          "url": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7",
+          "source": "WSJ"
+        },
+        {
+          "title": "Trump news at a glance: Israel strikes back at Iran despite president’s appeal",
+          "snippet": "",
+          "url": "https://www.theguardian.com/us-news/2026/jun/08/trump-briefing-israel-iran-missile-attack-peace-deal",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Trump tells Axios he will ask Netanyahu not to strike back at Iran",
+          "snippet": "",
+          "url": "https://www.axios.com/2026/06/07/trump-israel-iran-missile-attack",
           "source": "Axios"
-        },
-        {
-          "title": "IDF says it struck military targets in western and central Iran following missile attacks",
-          "snippet": "",
-          "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-struck-military-targets-in-western-and-central-iran-following-missile-attacks/",
-          "source": "The Times of Israel"
-        },
-        {
-          "title": "Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran",
-          "snippet": "",
-          "url": "https://www.ft.com/content/a0ce59f9-fbde-49e8-9158-fba3d4079859?syn-25a6b1a6=1",
-          "source": "Financial Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,9 +61,15 @@
       "title": "news am",
       "trafficCount": "2000+",
       "pubDate": "Sun, 7 Jun 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA5qad9BRV_rNoM7DTwojetq0grvphOdhlyvg-uq5cKdYShd0tArEHkVXe5gY",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm69eqNEjAuB4hPLlrRm7iKDs8WWrVFkP2Gs9dMval3G1c3dpcmTAyjgPTbI4",
+      "pictureSource": "Ազատություն Ռադիոկայան",
       "relatedSearch": [
+        {
+          "title": "Voting Underway In Armenian Parliamentary Elections",
+          "snippet": "",
+          "url": "https://www.azatutyun.am/a/33774452.html",
+          "source": "Ազատություն Ռադիոկայան"
+        },
         {
           "title": "Armenia's Pashinyan declares victory in parliamentary election, vote counting continues",
           "snippet": "",
@@ -103,40 +81,6 @@
           "snippet": "",
           "url": "https://www.aysor.am/en/news/2026/06/07/elections/2424221",
           "source": "Aysor.am"
-        },
-        {
-          "title": "Voting in the 9th parliamentary elections has concluded in Armenia",
-          "snippet": "",
-          "url": "https://arka.am/en/news/politics/voting-in-the-9th-parliamentary-elections-has-concluded-in-armenia/",
-          "source": "Arka.am"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "аргентина – гондурас",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 6 Jun 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdtLyDg3CkGe-YEFr19CNZGx0j6NXLCOnS3rFZ5F0355WokbCArvtL8Pi08pM",
-      "pictureSource": "스타뉴스",
-      "relatedSearch": [
-        {
-          "title": "Месси, который получил травму и улыбнулся, на то было достаточно причин. \"Сделаем часть следующего матча\"... Аргентина забила Гондурас 2-0",
-          "snippet": "",
-          "url": "https://www.starnewskorea.com/ru/sports/2026/06/07/2026060715042363418",
-          "source": "스타뉴스"
-        },
-        {
-          "title": "Лаутаро и Симеоне помогли Аргентине победить Гондурас: видео голов",
-          "snippet": "",
-          "url": "https://terrikon.com/posts/571383",
-          "source": "Террикон"
-        },
-        {
-          "title": "Сын тренера Симеоне забивает победный гол за лучшую команду мира.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/con-trai-cua-hlv-simeone-ghi-ban-giup-doi-tuyen-so-1-the-gioi-chien-thang",
-          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"
