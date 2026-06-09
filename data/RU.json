@@ -1,37 +1,177 @@
 {
-  "lastUpdate": "2026-06-09 12:18:31",
+  "lastUpdate": "2026-06-09 13:21:58",
   "data": [
     {
-      "title": "погода москва",
+      "title": "погода спб",
       "trafficCount": "2000+",
-      "pubDate": "Tue, 9 Jun 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJHP71xolhw0vMz_S4Mj_T7Rhpqca9p1-WJeqlMx7SZuqc7ceOafAanqIHGdQ",
+      "pubDate": "Tue, 9 Jun 2026 06:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtsP6xCYJNdRFvgR2xSMc-4dZWNJ9YUFlQ9h_BFrugTjU3fLCe6xFlrp1v0Xs",
       "pictureSource": "Погода Mail",
       "relatedSearch": [
         {
-          "title": "Рекордная жара в Москве: вторник может стать самым знойным днем с начала года",
+          "title": "В Петербурге объявили «желтый» уровень погодной опасности",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71202239/",
+          "url": "https://pogoda.mail.ru/news/71194585/",
           "source": "Погода Mail"
+        },
+        {
+          "title": "На Петербург надвигается шторм с градом",
+          "snippet": "",
+          "url": "https://www.rosbalt.ru/news/2026-06-08/na-peterburg-nadvigaetsya-shtorm-s-gradom-i-shkvalami-5613289",
+          "source": "Росбалт"
+        },
+        {
+          "title": "Ливни, грозы и до плюс 26 ожидаются в Ленобласти 10 июня",
+          "snippet": "",
+          "url": "https://spbdnevnik.ru/news/2026-06-09/livni-grozy-i-do-plyus-26-ozhidayutsya-v-lenoblasti-10-iyunya",
+          "source": "spbdnevnik.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "африка",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 9 Jun 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6Lq5lPyd2Y79gmMq9WnPcOZIGy7ATCGTr6EIJu6LvTptRuaK-ZAzAtHrMgCw",
+      "pictureSource": "Euronews.com",
+      "relatedSearch": [
+        {
+          "title": "Президент ЮАР просит население не трогать иностранцев",
+          "snippet": "",
+          "url": "https://ru.euronews.com/2026/06/08/prezident-yuar-prosit-naselenie-ostavit-inostrancev-v-pokoe",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "ЮАР ужесточает законодательство против нелегалов - NEWSru.co.il",
+          "snippet": "",
+          "url": "https://www.newsru.co.il/world/8jun2026/rsa_202.html",
+          "source": "NEWSru.co.il"
+        },
+        {
+          "title": "ЮАР охватили антииммигрантские протесты: президент страны обещает вмешательство",
+          "snippet": "",
+          "url": "https://news.am/ru/news/1041828",
+          "source": "NEWS.am"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "зеленский",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 9 Jun 2026 05:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSf9oS2P4GEu5f0KxE9XOFoGy8Iib1JoIchJ4J4tkId9hBkemyLsDXfjPfCQXg",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Война",
+          "snippet": "",
+          "url": "https://meduza.io/feature/2026/06/09/voyna",
+          "source": "Meduza"
+        },
+        {
+          "title": "Что означает «письмо» Владимира Зеленского Владимиру Путину",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/articles/2026/06/08/1204061-chto-oznachaet-pismo-zelenskogo-putinu",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Бизнесменом, передавшим Путину послание Зеленского, был Абрамович",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/ft-biznesmenom-peredavshim-putinu-poslanie-zelenskogo-byl-abramovich/33774629.html",
+          "source": "Радио Свобода"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "фсб",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 9 Jun 2026 05:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSERhj5A-W6F3T-zozsPvlMB5H1K4A9txfRbxU_MHlVn4HpFEwKhsWYPOVCc4I",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "ФСБ и ФСИН предотвратили теракт в ульяновском исправительном учреждении",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1094876",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "ФСБ и ФСИН предотвратили теракт в колонии в Ульяновской области",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/society/news/2026/06/09/1204460-fsb-i-fsin",
+          "source": "Ведомости"
+        },
+        {
+          "title": "В канун Курбан-байрама в колонии Ульяновской области предотвратили теракт",
+          "snippet": "",
+          "url": "https://m.business-gazeta.ru/news/704163",
+          "source": "БИЗНЕС Online — Новости Казани"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "посредничество",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 9 Jun 2026 05:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCVW8sT__qPy0xiF9N4zrUyuc6cSn_--4KOurEG7SfOxkj2xJuCq6sPdnuES4",
+      "pictureSource": "Интерфакс",
+      "relatedSearch": [
+        {
+          "title": "Кремль назвал неприемлемыми предварительные условия Европы для посредничества по Украине",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1094923",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Песков указал на противоречивость заявлений Макрона, Стармера и Мерца о мире",
+          "snippet": "",
+          "url": "https://www.vedomosti.ru/politics/news/2026/06/08/1204235-peskov-ukazal-na-protivorechivost",
+          "source": "Ведомости"
+        },
+        {
+          "title": "Дмитрий Песков: возможность переговоров с Киевом сейчас представить трудно",
+          "snippet": "",
+          "url": "https://expert.ru/news/dmitriy-peskov-vozmozhnost-peregovorov-s-kievom-seychas-predstavit-trudno",
+          "source": "https://expert.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода москва",
+      "trafficCount": "10000+",
+      "pubDate": "Tue, 9 Jun 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-RaQeCQEU5xB4Jp5b8OtnR9qxBZCJcUl0fMbqRU0JwIkU45SuvF3gMhbMUzQ",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "Аномальная жара в России: где ждать рекордов и где спасут дожди",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/71206116/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "Жара сохранится в Москве до конца недели",
+          "snippet": "",
+          "url": "https://www.interfax.ru/moscow/1094956",
+          "source": "Интерфакс"
         },
         {
           "title": "Синоптики предупредили москвичей о жаре до +33 градусов",
           "snippet": "",
           "url": "https://www.vedomosti.ru/society/news/2026/06/08/1204384-sinoptiki-predupredili-moskvichei",
           "source": "Ведомости"
-        },
-        {
-          "title": "В ближайшие дни москвичей ждет жаркая погода / Новости города / Сайт Москвы",
-          "snippet": "",
-          "url": "https://www.mos.ru/news/item/171112073/",
-          "source": "Официальный сайт Мэра Москвы"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода в москве",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 9 Jun 2026 04:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6HD3NgLo98E5BlPhfRJHXwI-cL-zUyzlnvQ0s25Lysokw46vXKZwFciz21CQ",
       "pictureSource": "NEWS.ru",
@@ -43,23 +183,23 @@
           "source": "NEWS.ru"
         },
         {
-          "title": "Рекордная жара в Москве: вторник может стать самым знойным днем с начала года",
+          "title": "Аномальная жара в России: где ждать рекордов и где спасут дожди",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71202239/",
+          "url": "https://pogoda.mail.ru/news/71206116/",
           "source": "Погода Mail"
         },
         {
-          "title": "Синоптики предупредили москвичей о жаре до +33 градусов",
+          "title": "Жара сохранится в Москве до конца недели",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/society/news/2026/06/08/1204384-sinoptiki-predupredili-moskvichei",
-          "source": "Ведомости"
+          "url": "https://www.interfax.ru/moscow/1094956",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "владимир обухов",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 9 Jun 2026 04:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXEpUPLPk04uMM-QEvadc_e4Vzw_Y8bhXILJ1VjcKTKkiWLXg7DIcBbjVaIo",
       "pictureSource": "Sport24.ru",
@@ -87,16 +227,23 @@
     },
     {
       "title": "яндекс погода",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Tue, 9 Jun 2026 04:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNZ7r1yzGjGyYg3ifX0_p04PxEMjJJ9o63kmucRy7jGZypQpgIi0FSyv5wXp8",
+      "pictureSource": "UfacityNews.ru",
+      "relatedSearch": [
+        {
+          "title": "В Башкирии прогнозируют подъем воды в горных реках из-за сильных дождей",
+          "snippet": "",
+          "url": "https://ufacitynews.ru/around/186321-v-bashkirii-prognozirujut-podem-vody-v-gornyh-rekah-iz-za-silnyh-dozhdej.html",
+          "source": "UfacityNews.ru"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "андрей викторович талалаев",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 9 Jun 2026 04:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Hs_zg6g0iKdWT1TlNub4IluZFvc7Pv4SK_Iq-3U8xmGa4YrHI80uGT8xSNg",
       "pictureSource": "Спорт Mail",
@@ -118,134 +265,6 @@
           "snippet": "",
           "url": "https://www.championat.ru/football/article-6489492-baltika-v-rpl-v-sezone-2026-2027-kakie-igroki-ujdut-kto-pridyot-transfery-ostanetsya-li-andrej-talalaev-podrobnosti-prognoz.html",
           "source": "https://www.championat.ru/"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "boeing 737",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Jun 2026 04:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQId-sXZuWIElG3r6pUhDpg3Wjax-EshGM8EDMaV4tehleBGMTM-tsmDe9ylyA",
-      "pictureSource": "CNBC",
-      "relatedSearch": [
-        {
-          "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
-          "snippet": "",
-          "url": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Boeing Makes This Change After 60 Years",
-          "snippet": "",
-          "url": "https://djsaviation.net/boeing-to-begin-building-737-maxs-in-everett/",
-          "source": "Dj's Aviation"
-        },
-        {
-          "title": "Boeing studying boost of 737 MAX plane production to highest-ever rate",
-          "snippet": "",
-          "url": "https://wmbdradio.com/2026/06/05/boeing-studying-boost-of-737-max-plane-production-to-highest-ever-rate/",
-          "source": "1470 & 100.3 WMBD"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода самара",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Jun 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRk3WPrMbykf-79-L39A18_PqgQWWFYOFMomdXC4b5DMKKermyy_QmDpKDNWIo",
-      "pictureSource": "Самарская газета",
-      "relatedSearch": [
-        {
-          "title": "Тепло и сыро: синоптики дали прогноз на праздничные выходные в Самаре",
-          "snippet": "",
-          "url": "https://sgpress.ru/news/562997",
-          "source": "Самарская газета"
-        },
-        {
-          "title": "Волга у Самары прогрелась до +17,9 градусов 8 июня",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71189198/",
-          "source": "Погода Mail"
-        },
-        {
-          "title": "Пора готовить плавки и купальники: синоптики назвали температуру воды около Сызрани",
-          "snippet": "",
-          "url": "https://ktv-ray.ru/novost/pora_gotovit_plavki_i_kupalniki_sinoptiki_nazvali_temperaturu_vody_okolo_syzrani/187417/",
-          "source": "ktv-ray.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сидни суини",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Jun 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6NWgHkBpsERMBHelklmboSHUkiD1l8PjXubFzrf_g6CXfQXHHGIUujKKnmHI",
-      "pictureSource": "Zerkalo",
-      "relatedSearch": [
-        {
-          "title": "«Я тебя очень лав ю». Беларусу написала «Сидни Суидни» и предложила пожениться — в соцсетях оценили",
-          "snippet": "",
-          "url": "https://news.zerkalo.io/cellar/129153.html",
-          "source": "Zerkalo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "нэйтан тодд",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 9 Jun 2026 03:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzfEb7imYPJumdKezf_jBb1-xSys_S2NpU774VtP6mQSru_SGBvLze39M_YTw",
-      "pictureSource": "Allhockey.ru",
-      "relatedSearch": [
-        {
-          "title": "Источник: Нэйтан Тодд продолжит карьеру в \"Металлурге\"",
-          "snippet": "",
-          "url": "https://allhockey.ru/news/show/598165-Istochnik_Nejtan_Todd_prodolzhit_kar_eru_v_Metallurge",
-          "source": "Allhockey.ru"
-        },
-        {
-          "title": "Тодд может заработать в «Металлурге» больше 100 млн рублей",
-          "snippet": "",
-          "url": "https://sport.business-gazeta.ru/news/317229",
-          "source": "БО Спорт"
-        },
-        {
-          "title": "Стало известно, где продолжит карьеру Нэйтан Тодд",
-          "snippet": "",
-          "url": "https://gorobzor.ru/novosti-sporta/hokkey/217769-stalo-izvestno-gde-prodolzhit-kareru-neytan-todd",
-          "source": "Gorobzor"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сорана кырстя",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 9 Jun 2026 03:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9KW4F2wWyph218v9LKM90Zl9tPFv__VWCHiaz1tnaD7FaleZhWj1yXBR1Kp4",
-      "pictureSource": "https://www.championat.ru/",
-      "relatedSearch": [
-        {
-          "title": "«Теперь могу подходить к каждому матчу по-своему». Мирра Андреева — о своём прогрессе",
-          "snippet": "",
-          "url": "https://www.championat.ru/tennis/news-6494520-teper-mogu-podhodit-k-kazhdomu-matchu-po-svoemu-mirra-andreeva-o-svoyom-progresse.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Мирра Андреева снова поблагодарила себя после победы на «Ролан Гаррос».",
-          "snippet": "",
-          "url": "https://1istochnik.ru/sport/169752",
-          "source": "1istochnik"
-        },
-        {
-          "title": "\"Молодец, малышка, ты заслужила\". Сорана Кырстя - Мирре Андреевой после её победы на Ролан Гаррос",
-          "snippet": "",
-          "url": "https://gotennis.ru/read/news/molodets_malyshka_ty_zasluzhila__sorana_kyrstya_-_mirre_andreevoji_posle_eyo_pobedy_na_rolan_garros.html",
-          "source": "GoTennis.ru"
         }
       ],
       "link": "https://imtaqin.id/"
