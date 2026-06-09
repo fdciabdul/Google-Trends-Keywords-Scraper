@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-09 01:14:30",
+  "lastUpdate": "2026-06-09 02:00:55",
   "data": [
     {
       "title": "brīvprātīgais",
@@ -143,7 +143,7 @@
     },
     {
       "title": "gaisa telpa",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 8 Jun 2026 00:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyLjDU-YkrkxDR9AhK-mJDGHONchWBjwMqtYgjYwHGGFASpnklJCodghKFIco",
       "pictureSource": "LSM",
@@ -155,16 +155,16 @@
           "source": "LSM"
         },
         {
-          "title": "Rajevs apšauba NBS paziņojumu par drona notriekšanas iemeslu: atbilde meklējama Saeimas ēkā, nevis sensoru izvietojumā",
-          "snippet": "",
-          "url": "https://www.la.lv/rajevs-opone-nbs-pazinojumu-par-drona-notrieksanas-iemeslu-atklati-par-politiku-naudu-un-informaciju-kas-noklust-pie-iedzivotajiem",
-          "source": "LA.LV"
-        },
-        {
           "title": "Pirmajā ārvalstu vizītē Tallinā Kulbergs sūta skaidru vēstījumu “kaimiņam”",
           "snippet": "",
           "url": "https://jauns.lv/raksts/zinas/713201-pirmaja-arvalstu-vizite-tallina-kulbergs-suta-skaidru-vestijumu-kaiminam",
           "source": "Jauns.lv"
+        },
+        {
+          "title": "Rajevs apšauba NBS paziņojumu par drona notriekšanas iemeslu: atbilde meklējama Saeimas ēkā, nevis sensoru izvietojumā",
+          "snippet": "",
+          "url": "https://www.la.lv/rajevs-opone-nbs-pazinojumu-par-drona-notrieksanas-iemeslu-atklati-par-politiku-naudu-un-informaciju-kas-noklust-pie-iedzivotajiem",
+          "source": "LA.LV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,9 +182,22 @@
       "title": "погода",
       "trafficCount": "2000+",
       "pubDate": "Sun, 7 Jun 2026 21:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJw3tazAoNbmtsVnHc4LW1vaR7ghvpnBh13sp6uiZ7lHus9BapDSatr1z6Yk",
+      "pictureSource": "znaj.ua",
+      "relatedSearch": [
+        {
+          "title": "От куртки до футболки за 48 часов: когда Украину накроет жара до +29",
+          "snippet": "",
+          "url": "https://breaking.znaj.ua/ru/547073-vid-kurtki-do-futbolki-za-48-godin-koli-ukrajinu-nakriye-speka-do-29",
+          "source": "znaj.ua"
+        },
+        {
+          "title": "Лето начнется не с майской погоды – прогноз синоптиков на 1 июня",
+          "snippet": "",
+          "url": "https://informator.ua/ru/leto-nachnetsya-ne-s-mayskoy-pogody-prognoz-sinoptikov-na-1-iyunya",
+          "source": "Інформатор UA"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -229,16 +242,16 @@
           "source": "LSM"
         },
         {
-          "title": "Izsludināts dzeltenās pakāpes brīdinājums par lietu un negaisu",
-          "snippet": "",
-          "url": "https://ciklons.tvnet.lv/8486220/izsludinats-dzeltenas-pakapes-bridinajums-par-lietu-un-negaisu",
-          "source": "TVNET - Laika ziņas"
-        },
-        {
           "title": "Naktī uz otrdienu Vidzemē gaidāmas spēcīgas lietusgāzes",
           "snippet": "",
           "url": "https://www.apollo.lv/8486723/nakti-uz-otrdienu-vidzeme-gaidamas-specigas-lietusgazes",
           "source": "Apollo.lv"
+        },
+        {
+          "title": "Ukrainā atklāta plaša mēroga naudas atmazgāšanas shēma. Fiktīvi uzņēmumi izveda miljardiem dolāru",
+          "snippet": "",
+          "url": "https://tv3.lv/zinas/arvalstis/ukraina-atklata-plasa-meroga-naudas-atmazgasanas-shema-fiktivi-uznemumi-izveda-miljardiem-dolaru/",
+          "source": "tv3.lv"
         }
       ],
       "link": "https://imtaqin.id/"
