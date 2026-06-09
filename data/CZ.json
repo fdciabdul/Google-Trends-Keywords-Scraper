@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-06-09 03:20:53",
+  "lastUpdate": "2026-06-09 04:48:57",
   "data": [
     {
-      "title": "televize",
+      "title": "seznam zprávy",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 8 Jun 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7v8iCDnEB7JGkvXVPa2U5Ji9Be7rHVbX0Mr3dfjU5EpDIIHqK4pxvVqKslTU",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Na severu Čech se zavírají dvě továrny na autodíly",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/ekonomika-na-severu-cech-se-zaviraji-dve-tovarny-na-autodily-o-praci-prijde-pres-dve-ste-lidi-40582137",
+          "source": "Novinky"
+        },
+        {
+          "title": "Na Jablonecku končí dva dodavatelé autodílů, o práci přijde přes 200 lidí",
+          "snippet": "",
+          "url": "https://liberecka.drbna.cz/zpravy/spolecnost/42823-na-jablonecku-konci-dva-dodavatele-autodilu-o-praci-prijde-pres-200-lidi.html",
+          "source": "Liberecká Drbna"
+        },
+        {
+          "title": "Další továrna na Jablonecku bude propouštět. O práci přijde víc než stovka lidí",
+          "snippet": "",
+          "url": "https://jablonecky.denik.cz/zpravy_region/jablonec-nad-nisou-megatech-propousteni-automotive-cerven-2026.html",
+          "source": "Jablonecký deník"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "počasí dnes",
       "trafficCount": "200+",
+      "pubDate": "Mon, 8 Jun 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdYE7uZM8nWvRgg1Utl17IUUtTQQcYeUyxwTAGaEkWRiGHqGCOCQTCYb4SMnc",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Blíží se citelné ochlazení",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/pocasi-blizi-se-citelne-ochlazeni-40582011",
+          "source": "Novinky"
+        },
+        {
+          "title": "Na Česko se ženou bouřky. ČHMÚ řekl, kde bude situace nejhorší",
+          "snippet": "",
+          "url": "https://tn.nova.cz/zpravodajstvi/clanek/649704-na-cesko-se-zenou-bourky-chmu-rekl-kde-bude-situace-nejhorsi",
+          "source": "TN.cz"
+        },
+        {
+          "title": "Teploty prudce klesnou, ženou se i bouřky. RADAR varuje, kde déšť udeří nejvíc",
+          "snippet": "",
+          "url": "https://cnn.iprima.cz/teploty-prudce-klesnou-zenou-se-i-bourky-radar-varuje-kde-dest-uderi-nejvic-514127",
+          "source": "CNN Prima NEWS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "televize",
+      "trafficCount": "500+",
       "pubDate": "Mon, 8 Jun 2026 20:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjhFY51SzHmEP92TS8ztmO8WaAVwTg0lFony9t1ADa58aN4WhROWosZEXUQ8Y",
       "pictureSource": "TVGURU.cz",
@@ -31,28 +87,28 @@
     },
     {
       "title": "nba",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 8 Jun 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6xN5Jt1bR1ntSYG-MivoV33RtjNkCMhg4YOL21xfHf2mDuf8mg_QM0YoYcg",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToQHgUkdiDdQ5hMJEX3X9CBee_QZowqeQ1XX5-qVUA73gTwcQJGYJr5FmXVko",
+      "pictureSource": "AP News",
       "relatedSearch": [
         {
-          "title": "Knicks Watch Party at MSG Is Canceled as Game 3 Security Ramps Up for Trump",
+          "title": "Spurs' Victor Wembanyama shakes off Game 2 miss by taking over Game 3 of the NBA Finals",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/06/07/nyregion/knicks-watch-party-msg-canceled-trump.html",
-          "source": "The New York Times"
+          "url": "https://apnews.com/article/nba-finals-game-3-wembanyama-spurs-c6f6d4c469036dd722fcc647b8ce9597",
+          "source": "AP News"
         },
         {
-          "title": "President Donald Trump to attend Finals game in New York to root for his hometown Knicks",
+          "title": "Live updates: Knicks vs Spurs at NBA Finals game in NY, Trump arrives at MSG",
           "snippet": "",
-          "url": "https://www.nba.com/news/trump-says-he-will-attend-nba-finals-game-in-new-york-to-root-for-his-hometown-knicks",
-          "source": "NBA.com"
+          "url": "https://www.cnn.com/2026/06/08/us/live-news/game-3-nba-knicks-spurs-new-york-security-trump-mamdani",
+          "source": "CNN"
         },
         {
-          "title": "With Trump attending Game 3, watch party canceled, NYPD says",
+          "title": "He joins Hakeem Olajuwon and Patrick Ewing as the only …",
           "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/48993930/with-trump-attending-game-3-watch-party-canceled-nypd-says",
-          "source": "ESPN"
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/06/08/he-joins-hakeem-olajuwon-and-patrick-ewing-as-the-only/90469620007/",
+          "source": "HoopsHype"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -93,10 +149,10 @@
           "source": "FOX Weather"
         },
         {
-          "title": "3 planets will line up in the night sky tonight: Here's where to look for the mini planetary parade",
+          "title": "Your horoscope for the week ahead: Let your flirtatious side come out to play as Venus enters Leo",
           "snippet": "",
-          "url": "https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade",
-          "source": "Space"
+          "url": "https://www.cbc.ca/life/culture/horoscope-week-of-june-8-venus-enters-leo-9.7227154",
+          "source": "CBC"
         },
         {
           "title": "This Week's Sky at a Glance, June 5 – 14",
@@ -111,20 +167,20 @@
       "title": "ios 27",
       "trafficCount": "1000+",
       "pubDate": "Mon, 8 Jun 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVum-FCy3NkLQOoUphDlQ9tMqEJxZSdzhwF4zAzQYxuyY84YgQ92hAuqIduFc",
-      "pictureSource": "Seznam Zprávy",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbcKp1k_rWWLfGMYhE_I9vHHSk3aF_k-LfkovX8_NMwbFVNiTwfkVtHEDmvZA",
+      "pictureSource": "iDNES.cz",
       "relatedSearch": [
+        {
+          "title": "Siri bude v Evropě dál hloupá. Apple odhalil novou verzi systému pro iPhony",
+          "snippet": "",
+          "url": "https://www.idnes.cz/mobil/tech-trendy/ios-27-iphone-novinky-mobilni-system-apple.A260608_202430_mob_tech_oma",
+          "source": "iDNES.cz"
+        },
         {
           "title": "Apple ukázal předělanou Siri. Doufá, že lidé ocení opožděnou „osobní AI“",
           "snippet": "",
           "url": "https://www.seznamzpravy.cz/clanek/tech-technologie-apple-ukazal-predelanou-siri-doufa-ze-lide-oceni-opozdenou-osobni-ai-308101",
           "source": "Seznam Zprávy"
-        },
-        {
-          "title": "Apple na největší akci roku představil novinky v operačních systémech a AI",
-          "snippet": "",
-          "url": "https://www.idnes.cz/technet/software/apple-wwdc2026-macos-ios-ipados-novinky.A260608_065433_software_vse",
-          "source": "iDNES.cz"
         },
         {
           "title": "Apple představil novou Siri AI s algoritmy od Googlu. Úvodní keynote WWDC26 jsme sledovali živě",
@@ -215,62 +271,6 @@
           "snippet": "",
           "url": "https://www.expres.cz/celebrity/prvni-zena-leose-marese-o-jeho-odchodu-mama-me-odvezla-do-bohnic-nemohla-se-na-me-koukat.A260608_120137_dx-celebrity_chlp",
           "source": "Expres.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fc hradec králové",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 8 Jun 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdBIScy2E-JZ_p5R1GuuWXn2HgMXoaIf561NAgQONehcb5PdQJdiaVfAHLkk",
-      "pictureSource": "Médium.cz",
-      "relatedSearch": [
-        {
-          "title": "Liga mistrů v Hradci Králové! Příští rok si prestižní soutěž místo Slavie a Sparty zahrají Votroci",
-          "snippet": "",
-          "url": "https://medium.seznam.cz/clanek/pocem-kamdes-liga-mistru-v-hradci-kralove-pristi-rok-si-prestizni-soutez-misto-slavie-a-sparty-zahraji-votroci-284651",
-          "source": "Médium.cz"
-        },
-        {
-          "title": "Klusáčka titul hradeckých dorostenců nadchl: Kluci udělali neuvěřitelný pokrok",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/domaci-souteze/klusacka-titul-hradeckych-dorostencu-nadchl-kluci-udelali-neuveritelny-pokrok.A260605_939944_fot_dsouteze_tit",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "Mistři! Hradecký dorost získal po 15 letech titul a zahraje si Ligu mistrů",
-          "snippet": "",
-          "url": "https://www.salonkyhk.cz/mistri-hradecky-dorost-ovladl-ligu-jako-novacek-a-zahraje-si-ligu-mistru/",
-          "source": "Salonky"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "letoun",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 8 Jun 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAHYTqMwwvRlE4uW0oaR65RSydlXv7Va4SJECuY5Eigd_tFHnVResZf_IH2Zg",
-      "pictureSource": "Novinky",
-      "relatedSearch": [
-        {
-          "title": "Letoun při nouzovém přistání v Dominikánské republice vybuchl",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/zahranicni-amerika-letoun-pri-nouzovem-pristani-v-dominikanske-republice-vybuchl-40582183",
-          "source": "Novinky"
-        },
-        {
-          "title": "Tryskáč sedal na břicho, změnil se v ohnivou kouli",
-          "snippet": "",
-          "url": "https://tv.idnes.cz/zahranicni/letadlo-havarovat-pokusit-pristat.V260608_094406_idnestv_anka",
-          "source": "iDNES.tv"
-        },
-        {
-          "title": "Při přistání letadla v Karibiku zemřeli dva lidé. Stroj skončil v plamenech, ukazují záběry",
-          "snippet": "",
-          "url": "https://cnn.iprima.cz/zabery-havarie-soukromeho-letadla-pri-pristani-vybuchlo-posadka-neprezila-514180",
-          "source": "CNN Prima NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
