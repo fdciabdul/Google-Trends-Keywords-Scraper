@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-12 18:28:55",
+  "lastUpdate": "2026-06-12 19:18:11",
   "data": [
     {
       "title": "netflix",
@@ -59,7 +59,7 @@
     },
     {
       "title": "fc zbrojovka brno",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 12 Jun 2026 09:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOjherojPPXDt8QT9RAIW87mwAxgFb8HFpAaW0BjWQXh79tK7Eo0fbeNB7oqk",
       "pictureSource": "iSport.cz",
@@ -71,16 +71,16 @@
           "source": "iSport.cz"
         },
         {
-          "title": "Zbrojovka se přiblížila Lužánkám. Brno už sepsalo smlouvu, rozhodnou dva faktory",
+          "title": "Rozlučku béčka Zbrojovky se sezonou obstará utkání proti Hranicím",
           "snippet": "",
-          "url": "https://brnensky.denik.cz/fotbal-prvni-liga/luzanky-stadion-zbrojovka-brno-smlouva-mesto-zastupitelstvo-uzemni-plan.html",
-          "source": "Brněnský deník"
+          "url": "https://fczbrno.cz/article/11361-Rozlucku-becka-Zbrojovky-se-sezonou-obstara-utkani-proti-Hranicim",
+          "source": "FC Zbrojovka Brno"
         },
         {
-          "title": "Sen o novém stadionu se přiblížil. Zbrojovka vstoupila do další fáze projektu, ve hře ale zůstávají dvě překážky",
+          "title": "Béčko zakončilo sezonu výhrou. Hranicím nasázelo tři góly",
           "snippet": "",
-          "url": "https://infotbal.cz/sen-o-novem-stadionu-se-priblizil-zbrojovka-vstoupila-do-dalsi-faze-projektu-ve-hre-ale-zustavaji-dve-prekazky/",
-          "source": "inFOTBAL"
+          "url": "https://fczbrno.cz/match/7295-Becko-zakoncilo-sezonu-vyhrou-Hranicim-nasazelo-tri-goly",
+          "source": "FC Zbrojovka Brno"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,7 +143,7 @@
     },
     {
       "title": "mirai",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 12 Jun 2026 08:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzgVr7LNlq6f3BiM6NdSTCtmQUlMV0k2ZUhArZ57bxkYDaHl88OQbkFsWbjbQ",
       "pictureSource": "TN.cz",
@@ -165,34 +165,6 @@
           "snippet": "",
           "url": "https://www.extra.cz/velka-rana-pro-kapelu-mirai-kytarista-nahle-skoncil-v-nemocnici-podstoupil-vazny-zakrok-9e8ec",
           "source": "Extra.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "metro c",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 12 Jun 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoc3ZH6fxYV5LTytS0CX3AOI2xhtTzH6_GiRw9EOy-_bT2sQ9wuJ7gS6RiHoM",
-      "pictureSource": "Novinky",
-      "relatedSearch": [
-        {
-          "title": "Pád muže do kolejiště zastavil provoz metra",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-cast-linky-metra-c-nejezdi-40583022",
-          "source": "Novinky"
-        },
-        {
-          "title": "Část linky metra C dvě hodiny nejezdila, na Florenci spadl muž do kolejiště",
-          "snippet": "",
-          "url": "https://www.idnes.cz/praha/zpravy/pad-muze-do-kolejiste-florenc-metro-c-zastaveny-provoz.A260612_164624_praha-zpravy_slv",
-          "source": "iDNES.cz"
-        },
-        {
-          "title": "Drama v pražském metru. Provoz na lince stojí",
-          "snippet": "",
-          "url": "https://cnn.iprima.cz/drama-v-prazskem-metru-provoz-na-lince-stoji-514589",
-          "source": "CNN Prima NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,29 +198,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "metro c",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 12 Jun 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoc3ZH6fxYV5LTytS0CX3AOI2xhtTzH6_GiRw9EOy-_bT2sQ9wuJ7gS6RiHoM",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Pád muže do kolejiště zastavil provoz metra",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-cast-linky-metra-c-nejezdi-40583022",
+          "source": "Novinky"
+        },
+        {
+          "title": "Část linky metra C dvě hodiny nejezdila, na Florenci spadl muž do kolejiště",
+          "snippet": "",
+          "url": "https://www.idnes.cz/praha/zpravy/pad-muze-do-kolejiste-florenc-metro-c-zastaveny-provoz.A260612_164624_praha-zpravy_slv",
+          "source": "iDNES.cz"
+        },
+        {
+          "title": "Drama v pražském metru. Provoz na lince stojí",
+          "snippet": "",
+          "url": "https://cnn.iprima.cz/drama-v-prazskem-metru-provoz-na-lince-stoji-514589",
+          "source": "CNN Prima NEWS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "apple",
       "trafficCount": "500+",
       "pubDate": "Fri, 12 Jun 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY512jAHp4ObGqXKdhBK-SkyiYU5lMFtuk91ETvFdrHI6ZfV77_MafiXVCL5s",
-      "pictureSource": "Macworld",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXUbGyBfbl2SeA1wP_WiYZ7R_KfNnui8SFtMzPKohOnWDGu_JnuDGiz4IR2js",
+      "pictureSource": "Apple Security Research",
       "relatedSearch": [
         {
-          "title": "iOS 27 vs iOS 26: What’s new, what’s improved?",
+          "title": "Expanding Private Cloud Compute",
           "snippet": "",
-          "url": "https://www.macworld.com/article/3162639/ios-27-vs-ios-26.html",
-          "source": "Macworld"
+          "url": "https://security.apple.com/blog/expanding-pcc/",
+          "source": "Apple Security Research"
         },
         {
-          "title": "Apple iOS 27 Release Date: When You Can Download The New iPhone Software — Starts Now",
+          "title": "The New Siri App in iOS 27 Will Change the iPhone Forever",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/06/11/apple-ios-27-release-date-when-you-can-download-the-new-iphone-software---starts-now/",
-          "source": "Forbes"
+          "url": "https://www.pcmag.com/opinions/new-siri-app-ios-27-will-change-the-iphone-forever-wwdc-2026",
+          "source": "PCMag"
         },
         {
-          "title": "Apple unveils innovative features and intelligence experiences across services",
+          "title": "Siri won’t be your AI girlfriend",
           "snippet": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-          "source": "Apple"
+          "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+          "source": "The Verge"
         }
       ],
       "link": "https://imtaqin.id/"
