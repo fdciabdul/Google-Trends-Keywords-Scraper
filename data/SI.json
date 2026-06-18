@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-06-18 07:17:33",
+  "lastUpdate": "2026-06-18 08:55:43",
   "data": [
     {
-      "title": "maribor",
+      "title": "kronika",
       "trafficCount": "200+",
+      "pubDate": "Thu, 18 Jun 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAXBy8jjokGHAau1_ZG10udjDfjrS0Yl2QeR0w0fl6gxHYxv1hpqtRydBONlM",
+      "pictureSource": "Dolenjski list",
+      "relatedSearch": [
+        {
+          "title": "Kaotičen dan na cestah, 16-letni motorist hudo poškodovan",
+          "snippet": "",
+          "url": "https://dolenjskilist.svet24.si/novice/kronika/prometne-nesrece-motorist-poskodovan-1907098",
+          "source": "Dolenjski list"
+        },
+        {
+          "title": "Nesreče v cestnem prometu 17. 6. 2026 6.58",
+          "snippet": "",
+          "url": "https://www.mojaobcina.si/sevnica/novice/nesrece-v-cestnem-prometu-17jun2026-1.html",
+          "source": "MojaObčina.si"
+        },
+        {
+          "title": "Motorist padel in se poškodoval; močan veter podiral drevesa in odkril strehi",
+          "snippet": "",
+          "url": "https://radio.brezice.eu/motorist-padel-in-se-poskodoval-mocan-veter-podiral-drevesa-in-odkril-strehi/",
+          "source": "Radio Brežice Eu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "maribor",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 17 Jun 2026 23:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrOybKQGoL1_ZFYq60GDyVDuRaZ3MJiu8M53_N3EGu4m5KVobk8BpyCTXxxDI",
       "pictureSource": "24ur.com",
@@ -15,16 +43,16 @@
           "source": "24ur.com"
         },
         {
-          "title": "Mariborski Tabor prizorišče najhujše družinske tragedije: kakšno preteklost je skrival pokojni par? (FOTO)",
+          "title": "Družinska morija na Taboru: Sosedje strelov niso slišali",
           "snippet": "",
-          "url": "https://slovenskenovice.delo.si/novice/kronika/doma/mariborski-tabor-prizorisce-najhujse-druzinske-tragedije-foto",
-          "source": "Slovenske novice"
+          "url": "https://svet24.si/novice/kronika/tabor-jezdarska-umor-samomor-sodna-odlocba-streli-1907127",
+          "source": "Svet24.si"
         },
         {
-          "title": "Moril zaradi sodne odločbe za izselitev?",
+          "title": "Mariborski policisti preiskujejo smrt dveh ljudi",
           "snippet": "",
-          "url": "https://www.dnevnik.si/novice/kronika/moril-zaradi-sodne-odlocbe-za-izselitev-2809748/",
-          "source": "Dnevnik"
+          "url": "https://www.rtvslo.si/crna-kronika/mariborski-policisti-preiskujejo-smrt-dveh-ljudi/785609",
+          "source": "rtvslo.si"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -37,7 +65,7 @@
       "pictureSource": "24ur.com",
       "relatedSearch": [
         {
-          "title": "OECD proti božičnici, sindikati: Zaposleni božičnice brez boja ne bodo vrnili",
+          "title": "OECD proti božičnici, sindikati: Zaposleni je brez boja ne bodo vrnili",
           "snippet": "",
           "url": "https://www.24ur.com/novice/slovenija/oecd-proti-bozicnici-sindikati-zaposleni-v-tej-drzavi-bozicnice-brez-boja-ne-bodo-vrnili.html",
           "source": "24ur.com"
@@ -59,17 +87,11 @@
     },
     {
       "title": "svetovno prvenstvo v nogometu 2026",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 17 Jun 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSNSfaK3a0QqdhXYqq3zmPdpOmG9kmgrUV1zVJKFH0oXhr5LcUTBiQ8WFC1j0",
-      "pictureSource": "24ur.com",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcBxzwQD1S6ZPTJfsOizQ4oOH6ibpGwb7cj4eoXtg8tO3EP9FZHdvSQTiHnmU",
+      "pictureSource": "rtvslo.si",
       "relatedSearch": [
-        {
-          "title": "'Če bi igral, da utišam kritike, bi moral igrati do 80. leta'",
-          "snippet": "",
-          "url": "https://www.24ur.com/sport/nogomet/ce-bi-igral-da-utisam-kritike-bi-moral-igrati-do-80-leta.html",
-          "source": "24ur.com"
-        },
         {
           "title": "Francija zmagovito odprla SP, Mbappe pokopal senegalske upe",
           "snippet": "",
@@ -77,10 +99,16 @@
           "source": "rtvslo.si"
         },
         {
-          "title": "Kylian Mbappe z mojstrovino zapečatil derbi s Senegalom",
+          "title": "'Če bi igral, da utišam kritike, bi moral igrati do 80. leta'",
           "snippet": "",
-          "url": "https://siol.net/sportal/nogomet/sp-nogomet-6-tekmovalni-dan-francija-694299",
-          "source": "Siol.net"
+          "url": "https://www.24ur.com/sport/nogomet/ce-bi-igral-da-utisam-kritike-bi-moral-igrati-do-80-leta.html",
+          "source": "24ur.com"
+        },
+        {
+          "title": "Francozi si niso dovolili ponovitve spodrsljaja izpred 24 let",
+          "snippet": "",
+          "url": "https://www.zurnal24.si/sport/nogomet/francozi-si-niso-dovolili-ponovitve-spodrsljaja-izpred-24-let-460719",
+          "source": "Žurnal24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -125,33 +153,21 @@
           "snippet": "",
           "url": "https://www.portal.hr/en/novosti/sport-hr/109817-sp-ogled-vatrenih-gordog-albiona-sudi-francuz",
           "source": "Portal.hr"
-        },
-        {
-          "title": "Jurčić skeptičan: 'Ranije sam objašnjavao zašto mislim da ne bismo trebali igrati s tri u obrani'",
-          "snippet": "",
-          "url": "https://sportnet.hr/vijesti/nogomet-reprezentacija/jurcic-skeptican-ranije-sam-objasnjavao-zasto-mislim-da-ne-bismo-trebali-igrati-s-tri-u-obrani/627742/",
-          "source": "Sportnet.hr"
-        },
-        {
-          "title": "Luka Sučić: 'Moramo se boriti kao momčad svih 90 minuta kako bismo došli do pozitivnog rezultata'",
-          "snippet": "",
-          "url": "https://sportnet.hr/vijesti/nogomet-reprezentacija/luka-sucic-moramo-se-boriti-kao-momcad-svih-90-minuta-kako-bismo-dosli-do-pozitivnog-rezultata/627682/",
-          "source": "Sportnet.hr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "rezultati",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Wed, 17 Jun 2026 19:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVS7kvuCH18P9R1owOPUufdp7mBDw8rp4oB3WC0bYJ6XoCnMqLsnSZHMEou-w",
       "pictureSource": "rtvslo.si",
       "relatedSearch": [
         {
-          "title": "Prvič začetek etape v Radljah ob Dravi, potem pa ob dravski kolesarki poti do Ormoža",
+          "title": "Prvič začetek etape v Radljah ob Dravi, potem pa ob dravski kolesarski poti do Ormoža",
           "snippet": "",
-          "url": "https://www.rtvslo.si/sport/kolesarstvo/dirka-po-sloveniji/prvic-zacetek-etape-v-radljah-ob-dravi-potem-pa-ob-dravski-kolesarki-poti-do-ormoza/785697",
+          "url": "https://www.rtvslo.si/sport/kolesarstvo/dirka-po-sloveniji/prvic-zacetek-etape-v-radljah-ob-dravi-potem-pa-ob-dravski-kolesarski-poti-do-ormoza/785697",
           "source": "rtvslo.si"
         },
         {
@@ -161,38 +177,38 @@
           "source": "24ur.com"
         },
         {
-          "title": "Čez Ptuj okoli 13.30, v Ormožu dvakrat, ob 14.35 in 15.40",
+          "title": "Več kot 40 vozil za največji kolesarski spektakel: Emil Frey poganja dirko Po Sloveniji",
           "snippet": "",
-          "url": "https://tednik.svet24.si/sport/kolesarstvo/kolesarstvo-dirka-po-sloveniji-2-etapa-radlje-ob-dravi-ormoz-1907052",
-          "source": "Štajerski Tednik"
+          "url": "https://www.zurnal24.si/avto/vec-kot-40-vozil-za-najvecji-kolesarski-spektakel-emil-frey-poganja-dirko-po-sloveniji-460744",
+          "source": "Žurnal24"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "slovenija",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 17 Jun 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpI1BDCI00pBslD4JX6V1u9BLwn2OJeW_QCJGOxbfjHySoSFF46B-sBEufqhU",
-      "pictureSource": "Finance.si",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5_7XB0PK7aKyGkd3j9wNOkfHcqNpkhtTidK_DhFoWRMeI0XZut_ZETySRrZQ",
+      "pictureSource": "rtvslo.si",
       "relatedSearch": [
         {
-          "title": "Zadnje leto Golobove vlade: pri konkurenčnosti smo spet padli, tokrat za tri mesta",
+          "title": "V Sloveniji znova našli japonskega hrošča. Potrebna bo pomoč pri zatiranju.",
           "snippet": "",
-          "url": "https://www.finance.si/zadnje-leto-golobove-vlade-pri-konkurencnosti-smo-spet-padli-tokrat-za-tri-mesta/a/9048491",
-          "source": "Finance.si"
+          "url": "https://www.rtvslo.si/okolje/v-sloveniji-znova-nasli-japonskega-hrosca-potrebna-bo-pomoc-pri-zatiranju/785711",
+          "source": "rtvslo.si"
         },
         {
-          "title": "Slovenija na lestvici konkurenčnosti zdrsnila še za tri mesta",
+          "title": "Prva najdba japonskega hrošča v letu 2026",
           "snippet": "",
-          "url": "https://www.delo.si/gospodarstvo/novice/slovenija-na-lestvici-konkurencnosti-zdrsnila-se-za-tri-mesta",
-          "source": "Delo.si"
+          "url": "https://www.gov.si/novice/2026-06-18-prva-najdba-japonskega-hrosca-v-letu-2026/",
+          "source": "Portal GOV.SI"
         },
         {
-          "title": "Ljubljanska vinska pot 2026",
+          "title": "Japonski hrošč je že v Sloveniji. Bi ga prepoznali?",
           "snippet": "",
-          "url": "https://www.student.si/dogodki/ljubljanska-vinska-pot-2026/",
-          "source": "Student.si"
+          "url": "https://svet24.si/revija/roze-in-vrt/roze-in-vrt/vrt/japonski-hrosc-v-sloveniji-1905502",
+          "source": "Svet24.si"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,54 +245,26 @@
       "title": "fifa world cup 2026™",
       "trafficCount": "100+",
       "pubDate": "Wed, 17 Jun 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJmeA0RAhUny7B8gtl3JErBec9RLICsIuV9oQemEsxBWpCefyg4M1oQs0DKdU",
-      "pictureSource": "The Guardian",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcNb5wcOGp9aae3McylBpx0HkRporJxfHWWtBDXrR19Hs6ELHOnHWwI8jbLrQ",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "From frustration to party time: Mexico ready for lift-off after steady start",
+          "title": "Cloaked snipers with long guns perched around SoFi Stadium as World Cup security ramps up",
           "snippet": "",
-          "url": "https://www.theguardian.com/football/2026/jun/18/ceremony-to-celebration-mexico-south-korea-world-cup",
-          "source": "The Guardian"
+          "url": "https://www.yahoo.com/news/us/articles/dramatic-scenes-near-sofi-stadium-211243992.html",
+          "source": "Yahoo"
         },
         {
-          "title": "World Cup 2026 – Group A guide: Mexican wonderkid Gilberto Mora to inspire hosts",
+          "title": "Residents Are Encouraged to Enjoy FIFA World Cup 2026™ Safely During Tournament",
           "snippet": "",
-          "url": "https://www.the-independent.com/sport/football/world-cup-2026-group-a-mexico-south-africa-south-korea-czech-republic-b2998043.html",
-          "source": "The Independent"
+          "url": "https://sanfernandosun.com/2026/06/17/residents-are-encouraged-to-enjoy-fifa-world-cup-2026-safely-during-tournament/",
+          "source": "The San Fernando Valley Sun"
         },
         {
-          "title": "Crowd Gathers at IV Mall to Watch World Cup",
+          "title": "LA County issues safety and health tips as World Cup kicks off",
           "snippet": "",
-          "url": "https://calexicochronicle.com/2026/06/15/crowd-gathers-at-iv-mall-to-watch-world-cup/",
-          "source": "Calexico Chronicle"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "petar musa",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 17 Jun 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRSxTuqhNtBVx9yX5BMtRIaE0RFYBl8bBEWz05UhW7oBJuP3Di3uZj2wKmWoc",
-      "pictureSource": "FOX Sports",
-      "relatedSearch": [
-        {
-          "title": "Croatia's manager going through all the emotions in the first half",
-          "snippet": "",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-x7pndbsovhllxivo",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "FC Dallas striker steals show with historic goal in England-Croatia match",
-          "snippet": "",
-          "url": "https://www.wfaa.com/video/sports/soccer/world-cup/fc-dallas-striker-steals-show-with-historic-goal-in-england-croatia-match/287-dc068343-e549-4d8c-b7c9-f5b15ec561a0",
-          "source": "WFAA"
-        },
-        {
-          "title": "Croatia's Petar Musa scores in World Cup loss to England, not far from where he plays for Dallas",
-          "snippet": "",
-          "url": "https://www.mcalesternews.com/region/croatias-petar-musa-scores-in-world-cup-loss-to-england-not-far-from-where-he/article_d7357b69-3490-506f-b757-fba30502c4ff.html",
-          "source": "McAlester News-Capital"
+          "url": "https://spectrumlocalnews.com/ca/california/health/2026/06/11/los-angeles-world-cup-safety-health",
+          "source": "Spectrum News"
         }
       ],
       "link": "https://imtaqin.id/"
