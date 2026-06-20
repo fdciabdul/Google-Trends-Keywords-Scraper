@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-20 17:40:20",
+  "lastUpdate": "2026-06-20 18:08:36",
   "data": [
     {
       "title": "twitch",
@@ -31,7 +31,7 @@
     },
     {
       "title": "нидерланды – швеция",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 20 Jun 2026 09:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlPPGNahKgqloPaGRCy8KGwAo3gNbsISbw7xeA7Lk8LLELTB-4lNQ9o7-mNyM",
       "pictureSource": "https://www.championat.ru/",
@@ -99,35 +99,54 @@
           "source": "TLT.ru - Новости Тольятти"
         },
         {
-          "title": "В Самарской области объявлен желтый уровень опасности из-за непогоды",
+          "title": "Грозы, град и шквалистый ветер обрушатся на Самарскую область 21 июня > Рубрика Новости в Самаре",
           "snippet": "",
-          "url": "https://pogoda.mail.ru/news/71339481/",
-          "source": "Погода Mail"
+          "url": "https://sgpress.ru/news/565240",
+          "source": "Самарская газета"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "витебск – динамо-брест",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 20 Jun 2026 08:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKzgjGhoyqEZNBGOCQCIS06b0NfyTJUftpGzQ5hCLt_RuHGHpWHZTLulDgbA",
+      "pictureSource": "СБ. Беларусь сегодня",
+      "relatedSearch": [
+        {
+          "title": "Бобруйск, Мозырь, Витебск и Гомель примут матчи 12-го тура чемпионата Беларуси по футболу",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/bobruysk-mozyr-vitebsk-i-gomel-primut-matchi-12-go-tura-chempionata-belarusi-po-futbolu.html",
+          "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "Betera-высшая лига. Брестское \"Динамо\" на выезде справилось с \"Витебском\"",
+          "snippet": "",
+          "url": "https://pressball.by/news/football/betera-vysshaya-liga-brestskoe-dinamo-na-vyezde-spravilos-s-vitebskom/",
+          "source": "Прессбол"
+        },
+        {
+          "title": "Прогноз на матч Витебск - Динамо-Брест 20 июня 2026 - ставки и коэффициенты букмекеров, кто выиграет матч",
+          "snippet": "",
+          "url": "https://legalbet.kz/match-center/vitebsk-dinamo-brest-19-06-2026/",
+          "source": "Legalbet.kz"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "ми 26",
       "trafficCount": "500+",
       "pubDate": "Sat, 20 Jun 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx_8YeA2YmSoL8U4g6yIre8AmKbnMW3AF4qiEtVdOyZ9d6hMEgYyCptsyup2k",
-      "pictureSource": "Наша Ніва",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQT3Y3wbwcrqF1xZceXjWCfUBGaslG9XGngRpiUu3VY1h8HbVSqnzqx6ZcuHTs",
+      "pictureSource": "euroradio.fm",
       "relatedSearch": [
         {
-          "title": "По Минску везли вертолет Ми-26",
+          "title": "Военный транспортник МИ-26 перевозили по Минску",
           "snippet": "",
-          "url": "https://nashaniva.com/ru/398074",
-          "source": "Наша Ніва"
+          "url": "https://euroradio.fm/ru/voennyy-transportnik-mi-26-perevozili-po-minsku",
+          "source": "euroradio.fm"
         },
         {
           "title": "По проспекту в Минске провезли самый большой вертолет планеты. Вот как это было",
@@ -136,10 +155,10 @@
           "source": "Zerkalo"
         },
         {
-          "title": "Платформу для ПВО, вероятно, установили на крыше жилого комплекса в московском районе Чертаново",
+          "title": "По Минску везли вертолет Ми-26",
           "snippet": "",
-          "url": "https://novayagazeta.eu/articles/2026/06/20/platformu-dlia-pvo-veroiatno-ustanovili-na-kryshe-zhilogo-kompleksa-v-moskovskom-raione-chertanovo-news",
-          "source": "Новая газета Европа"
+          "url": "https://nashaniva.com/ru/398074",
+          "source": "Наша Ніва"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -148,13 +167,19 @@
       "title": "славия-мозырь – ислочь",
       "trafficCount": "1000+",
       "pubDate": "Sat, 20 Jun 2026 06:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAevbVoHEMEnEYDDUTxxHij-C2rp_KUws-qTYLUJQcD_THyKRuLG2r-GAHrho",
-      "pictureSource": "Прессбол",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtY5HYkXw_RW0_OQ95dqqtL4J4ExoRoYeX-CyWEkkpsDpZ0eHNMQQ-0X1FOeM",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Betera-высшая лига. \"Ислочь\" взяла три очка в Мозыре, переиграв \"Славию\"",
+          "title": "\"Ислочь\" поднялась на третье место в таблице чемпионата Беларуси",
           "snippet": "",
-          "url": "https://pressball.by/news/football/betera-vysshaya-liga-isloch-vzyala-tri-ochka-v-mozyre-pereigrav-slaviyu/",
+          "url": "https://belta.by/sport/view/isloch-podnjalas-na-tretje-mesto-v-tablitse-chempionata-belarusi-787272-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "Цифры по поводу. Дмитрий Комаровский сделал еще один шаг, чтобы стать живой легендой \"Ислочи\"",
+          "snippet": "",
+          "url": "https://pressball.by/news/football/tsifry-po-povodu-dmitrij-komarovskij-sdelal-eshhe-odin-shag-chtoby-stat-zhivoj-legendoj-islochi/",
           "source": "Прессбол"
         },
         {
@@ -162,12 +187,6 @@
           "snippet": "",
           "url": "https://football.by/news/219991",
           "source": "Football.by"
-        },
-        {
-          "title": "Комаровский провел 100-й матч во главе «Ислочи»",
-          "snippet": "",
-          "url": "https://by.tribuna.com/football/1113078420-kamarauski-pravyou-100y-match-na-chale-islachy/",
-          "source": "Tribuna.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -176,20 +195,20 @@
       "title": "минск",
       "trafficCount": "200+",
       "pubDate": "Sat, 20 Jun 2026 05:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwDsnlzq6BJSaOb1um2EM-dWVfCdjcQnI9tj8ZEJCq2hXGofavQELRC1JqT0",
-      "pictureSource": "СБ. Беларусь сегодня",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz86EW3VLKz-EyEmdXReHBGnSlNssyRZ96mPtJI6emdqvBOC101mVHXFQPJ-g",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
-        {
-          "title": "Яркие сувениры, фестивальная валюта и брендовые автобусы — готовимся к «Славянскому базару в Витебске»",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/vasilek-po-bortu.html",
-          "source": "СБ. Беларусь сегодня"
-        },
         {
           "title": "Первая круглая дата, приезд президентов трех стран. Чем запомнился \"Славянский базар - 2001\"",
           "snippet": "",
           "url": "https://belta.by/culture/view/pervaja-kruglaja-data-priezd-prezidentov-treh-stran-chem-zapomnilsja-slavjanskij-bazar-2001-787221-2026/",
           "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "Яркие сувениры, фестивальная валюта и брендовые автобусы — готовимся к «Славянскому базару в Витебске»",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/vasilek-po-bortu.html",
+          "source": "СБ. Беларусь сегодня"
         },
         {
           "title": "Ярко и музыкально. «Васильковый тур» прошел в Минске",
@@ -232,14 +251,14 @@
       "title": "соболенко пегула",
       "trafficCount": "500+",
       "pubDate": "Sat, 20 Jun 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShiShi0drdmPVtXLnW2WQ-beQkxyEKmyM1he91KTOiMn4bGwt4Xhm4nlS1dGI",
-      "pictureSource": "Sport5.by",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkgeze7IwULyXMVs0PtNeXQfspfQr3rd19h0d2WLNXULQmRaFT3Ixf8EBSdAQ",
+      "pictureSource": "Новости Беларуси | БелТА",
       "relatedSearch": [
         {
-          "title": "Снова без финала: Арина Соболенко проиграла Пегуле и покинула WTA-500",
+          "title": "Соболенко не прошла в финал турнира WTA-500 в Берлине",
           "snippet": "",
-          "url": "https://sport5.by/news/tennis/Snova-bez-finala-Sobolenko-proigrala-Pegule-i-pokinula-WTA500/",
-          "source": "Sport5.by"
+          "url": "https://belta.by/sport/view/sobolenko-ne-proshla-v-final-turnira-wta-500-v-berline-787262-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
           "title": "Ариина Соболенко завершила выступление на турнире в Берлине",
@@ -248,10 +267,10 @@
           "source": "Смартпресс"
         },
         {
-          "title": "Соболенко пробилась в полуфинал крупного теннисного турнира в Берлине",
+          "title": "«Ей предстоит многое доказать на Уимблдоне». Реакция на поражение Соболенко с «баранкой»",
           "snippet": "",
-          "url": "https://www.sb.by/articles/sobolenko-probilas-v-polufinal-krupnogo-tennisnogo-turnira-v-berline.html",
-          "source": "СБ. Беларусь сегодня"
+          "url": "https://www.championat.ru/tennis/article-6514344-arina-sobolenko-porazhenie-beloruski-v-polufinale-berlina-kto-pobezhdal-eyo-s-barankoj-reakciya-statistika-antirekord.html",
+          "source": "https://www.championat.ru/"
         }
       ],
       "link": "https://imtaqin.id/"
