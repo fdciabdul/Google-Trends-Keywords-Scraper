@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-06-21 17:12:45",
+  "lastUpdate": "2026-06-21 17:50:24",
   "data": [
     {
-      "title": "неман гродно – динамо минск",
+      "title": "циклон",
       "trafficCount": "200+",
+      "pubDate": "Sun, 21 Jun 2026 10:30:00 -0700",
+      "picture": "",
+      "pictureSource": "Рамблер/новости",
+      "relatedSearch": [
+        {
+          "title": "На Уфу обрушатся сильный ветер и грозы",
+          "snippet": "",
+          "url": "https://news.rambler.ua/moscow_city/56634764-na-ufu-obrushatsya-silnyy-veter-i-grozy/",
+          "source": "Рамблер/новости"
+        },
+        {
+          "title": "В Башкирии объявлено штормовое предупреждение",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/71345543/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "В Башкирии сохранится дождливая и тёплая погода",
+          "snippet": "",
+          "url": "https://bash.news/news/266937-v-baskirii-soxranitsia-dozdlivaia-i-teplaia-pogoda",
+          "source": "Bash.News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "солнечная вспышка",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 21 Jun 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pKCoJGSL6QXukRLNQWQ8fgYZEaS-hEPYMVzSG5LQWk32CL7jdii-s_Lu_gI",
+      "pictureSource": "СБ. Беларусь сегодня",
+      "relatedSearch": [
+        {
+          "title": "Ученые сообщили, что на Солнце произошла сильнейшая за три недели вспышка",
+          "snippet": "",
+          "url": "https://www.sb.by/articles/uchenye-soobshchili-chto-na-solntse-proizoshla-silneyshaya-za-tri-nedeli-vspyshka.html",
+          "source": "СБ. Беларусь сегодня"
+        },
+        {
+          "title": "Мощная вспышка произошла на Солнце",
+          "snippet": "",
+          "url": "https://belta.by/socium/view/moschnaja-vspyshka-proizoshla-na-solntse-787298-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "Ученые заявили, что солнечная активность «впадает в летнюю спячку»",
+          "snippet": "",
+          "url": "https://science.mail.ru/news/51112-uchenyie-zayavili-chto-solnechnaya-aktivnost-vpadaet-v-letnyuyu-spyachku/",
+          "source": "Наука Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "линда носкова",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 21 Jun 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTYlsEnUAFBS5pBg0C5ePtn3MvkAKWJP_WGkqbxn3X4eC6aZTDNg-fpLyvGQk",
+      "pictureSource": "Sport5.by",
+      "relatedSearch": [
+        {
+          "title": "Финал турнира WTA-500 в Берлине между Джессикой Пегулой и Линдой Носковой перенесен",
+          "snippet": "",
+          "url": "https://sport5.by/news/tennis/Final-turnira-v-Berline-mezhdu-Peguloy-i-Noskovoy-perenesen-/",
+          "source": "Sport5.by"
+        },
+        {
+          "title": "Организаторы турнира в Берлине сделали заявление о задержке финала Пегула — Носкова",
+          "snippet": "",
+          "url": "https://www.championat.ru/tennis/news-6515208-turnir-v-berline-sdelal-zayavlenie-v-svyazi-s-seryoznoj-zaderzhkoj-finala-pegula-noskova.html",
+          "source": "https://www.championat.ru/"
+        },
+        {
+          "title": "Финал в Берлине отложен из-за грозы – молния повредила электросистему стадиона",
+          "snippet": "",
+          "url": "https://irbis.spb.ru/news/2552485/final-v-berline-otlogen-izza-grozy-molniya-povredila-elektrosistemu-stadiona.html",
+          "source": "https://irbis.spb.ru/"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "неман гродно – динамо минск",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 21 Jun 2026 10:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIPG3xjyJSuF1hj-p78_MwbIFT4yikyoMQiiJKdPtnVfJtFe-jz0ZbYcB49ag",
       "pictureSource": "Football.by",
@@ -61,28 +145,9 @@
       "title": "общественный транспорт",
       "trafficCount": "500+",
       "pubDate": "Sun, 21 Jun 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0-lk_iwcTCWpkVwQDr5jyUWVTwZikO09PB3uDCpA-Ojm0HUYJlKZuq5t3hrU",
-      "pictureSource": "ОНТ",
-      "relatedSearch": [
-        {
-          "title": "До конца года общественный транспорт Минска перейдет на систему оплаты банковской картой, заявили в «Минсктрансе»",
-          "snippet": "",
-          "url": "https://www.ont.by/ru/society-ru/view/do-kontsa-goda-obschestvennyj-transport-minska-perejdet-na-sistemu-oplaty-bankovskoj-kartoj-zajavili-v-320501-2026",
-          "source": "ОНТ"
-        },
-        {
-          "title": "Прощайте, талончики. Общественный транспорт Минска скоро полностью перейдет на оплату картой",
-          "snippet": "",
-          "url": "https://money.onliner.by/2026/06/19/proshhajte-talonchiki-obshhestvennyj-transport-minska-skoro-polnostyu-perejdet-na-oplatu-kartoj",
-          "source": "Onlíner"
-        },
-        {
-          "title": "Оплату проезда банковской картой внедрят во всем наземном транспорте Минска до конца года",
-          "snippet": "",
-          "url": "https://kolodischi.by/news/8949",
-          "source": "kolodischi.by"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -99,16 +164,16 @@
           "source": "sport-express.net"
         },
         {
-          "title": "Смотреть Испания — Саудовская Аравия. ЧМ по футболу 2026. Прямая трансляция 21 июня 2026 в 19:00 мск",
-          "snippet": "",
-          "url": "https://srrb.ru/translyacii-sportivnyx-sobytij/translyacii-futbol/translyacii-chempionata-mira-2026-po-futbolu/smotret-ispaniya-saudovskaya-araviya-chm-po-futbolu-2026-pryamaya-translyaciya-21-iyunya-2026-v-1900-msk.html",
-          "source": "ВСЕ ТРАНСЛЯЦИИ СПОРТА СЕГОДНЯ"
-        },
-        {
           "title": "Тренер Саудовской Аравии Донис об Испании: «Это не та же команда, когда Ямаль или Нико в запасе, не хватает их умения создавать опасность. Это было очевидно в матче с Кабо-Верде»",
           "snippet": "",
           "url": "https://sportmail.ru/news/football/71343761/",
           "source": "Спорт Mail"
+        },
+        {
+          "title": "Испания 3-0 Саудовская Аравия: Чемпионы Европы демонстрируют свою силу.",
+          "snippet": "",
+          "url": "https://twaslnews1.twaslnews.com/2509595/",
+          "source": "شبكة تواصل الإخبارية"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -133,20 +198,20 @@
       "title": "батэ – арсенал",
       "trafficCount": "2000+",
       "pubDate": "Sun, 21 Jun 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS_P4uS91cqYgR6agahlrLD5MUH21Vu9uRDxLDrN4urTfs7q_0KZ8JjTVnLSc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUJEFUerUroyU-pFmFo025ZpYU272tjSKZncfgSnrEAVyrrWixSRnS47EZY_o",
       "pictureSource": "Football.by",
       "relatedSearch": [
         {
-          "title": "БАТЭ — \"Арсенал\". Составы команд",
+          "title": "Betera-Высшая лига, 12-й тур. \"Арсенал\" вырвал победу у БАТЭ",
           "snippet": "",
-          "url": "https://football.by/news/220075",
+          "url": "https://football.by/news/220084",
           "source": "Football.by"
         },
         {
-          "title": "Betera-высшая лига. БАТЭ, расставшийся с Концевым, мог прервать девятиматчевую серию без побед в чемпионате, но проиграл \"Арсеналу\"",
+          "title": "БАТЭ продлил серию без побед до 10 матчей ЧБ",
           "snippet": "",
-          "url": "https://pressball.by/news/football/betera-vysshaya-liga-bate-rasstavshijsya-s-kontsevym-mog-prervat-devyatimatchevuyu-seriyu-bez-pobed-v-chempionate-no-proigral-arsenalu/",
-          "source": "Прессбол"
+          "url": "https://by.tribuna.com/football/1113078541-bate-praczyagnuu-seryyu-bez-peramog-da-10-matchau-chb/",
+          "source": "Tribuna.com"
         },
         {
           "title": "БАТЭ не удержал победу в матче с «Арсеналом» и проиграл",
@@ -181,90 +246,6 @@
           "snippet": "",
           "url": "https://war.obozrevatel.com/silyi-oboronyi-ukrainyi-naraschivayut-udaryi-po-kryimskim-mostam-naskolko-oni-effektivnyi-k-chemu-privedut-i-smozhet-li-vrag-etomu-protivostoyat.htm",
           "source": "Obozrevatel"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "byd",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 21 Jun 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSDZoD7ey7swIFj7HXzn6QbVd7dlVrXDTIbnci2H3dSTTIOJ1nBSjVmsyZrA",
-      "pictureSource": "Electrek",
-      "relatedSearch": [
-        {
-          "title": "BYD launches its flagship electric SUV for $35,500 with a record 150,000 preorders",
-          "snippet": "",
-          "url": "https://electrek.co/2026/06/17/byd-launches-flagship-ev-suv-record-150000-preorders/",
-          "source": "Electrek"
-        },
-        {
-          "title": "BYD launches the Great Tang electric SUV in China",
-          "snippet": "",
-          "url": "https://www.electrive.com/2026/06/18/byd-launches-the-great-tang-electric-suv-in-china/",
-          "source": "electrive.com"
-        },
-        {
-          "title": "BYD to Send Hot-Selling SUV to Europe, Pressuring Incumbents",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-18/byd-to-send-hot-selling-suv-to-europe-pressuring-incumbents",
-          "source": "Bloomberg.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пегула, джессика",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 21 Jun 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkgeze7IwULyXMVs0PtNeXQfspfQr3rd19h0d2WLNXULQmRaFT3Ixf8EBSdAQ",
-      "pictureSource": "Новости Беларуси | БелТА",
-      "relatedSearch": [
-        {
-          "title": "Соболенко не прошла в финал турнира WTA-500 в Берлине",
-          "snippet": "",
-          "url": "https://belta.by/sport/view/sobolenko-ne-proshla-v-final-turnira-wta-500-v-berline-787262-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Соболенко не смогла выйти в финал крупного теннисного турнира в Берлине",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/sobolenko-ne-smogla-vyyti-v-final-krupnogo-tennisnogo-turnira-v-berline.html",
-          "source": "СБ. Беларусь сегодня"
-        },
-        {
-          "title": "Вот это камбэк! Соболенко чуть не провалилась, но вышла в полуфинал WTA-500 в Берлине",
-          "snippet": "",
-          "url": "https://sport5.by/news/tennis/Vot-eto-kambek-Sobolenko-chut-ne-provalilas-no-vyshla-v-12-WTA500/",
-          "source": "Sport5.by"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "grand theft auto vi",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 21 Jun 2026 04:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7fLcSIpDtuwg6DrLuEhRRl-SBIcg8TT8noQtigwibyTDbTkIebFtAdPQol3s",
-      "pictureSource": "Rockstar Games",
-      "relatedSearch": [
-        {
-          "title": "Grand Theft Auto VI Pre-Orders Begin on June 25",
-          "snippet": "",
-          "url": "https://www.rockstargames.com/newswire/article/517oa135328155/grand-theft-auto-vi-pre-orders-begin-on-june-25",
-          "source": "Rockstar Games"
-        },
-        {
-          "title": "‘Build Vice City’: the GTA 6 scam that’s hitting gamers worldwide",
-          "snippet": "",
-          "url": "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake",
-          "source": "The Guardian"
-        },
-        {
-          "title": "A frame-by-frame comparison of GTA V and GTA 6 clearly demonstrates the progress of the RAGE engine.",
-          "snippet": "",
-          "url": "https://en.gamegpu.com/news/igry/pokadrovoe-sravnenie-gta-v-i-gta-6-naglyadno-pokazalo-progress-dvizhka-rage",
-          "source": "GameGPU"
         }
       ],
       "link": "https://imtaqin.id/"
