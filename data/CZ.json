@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-06-23 20:00:57",
+  "lastUpdate": "2026-06-23 20:53:09",
   "data": [
+    {
+      "title": "idnes",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 23 Jun 2026 13:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAMKvyLRnerbsTBDxp1r7DNsPJYZzHYu2XdS-hr1dKz8ZlziN2o1pAohtSX7o",
+      "pictureSource": "Seznam Zprávy",
+      "relatedSearch": [
+        {
+          "title": "Škoda představila nové auto. Sedmimístný Peaq je největší i nejdražší",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-doprava-skoda-predstavila-svuj-vlajkovy-model-peaq-308848",
+          "source": "Seznam Zprávy"
+        },
+        {
+          "title": "Škoda odhaluje své největší SUV. Peaq přiváží řadu novinek",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/auto-skoda-odhaluje-sve-nejvetsi-suv-peaq-privazi-radu-novinek-40584464",
+          "source": "Novinky"
+        },
+        {
+          "title": "Škoda uvedla svůj největší model Peaq. Plně elektrické SUV začne vyrábět v létě",
+          "snippet": "",
+          "url": "https://www.idnes.cz/auto/zpravodajstvi/skoda-peaq-suv-premiera-elektromobil-sedm-mist-nejvetsi-skoda.A260623_130400_automoto_lobl",
+          "source": "iDNES.cz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода завтра",
       "trafficCount": "200+",
@@ -8,34 +36,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cesko mexiko",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 23 Jun 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHNRLMbtv5zJQHjhvWrlg3YLxdMa8ropGksRjvQ_ebVngE_S-3AWxUPzl8k2g",
-      "pictureSource": "Seznam Zprávy",
-      "relatedSearch": [
-        {
-          "title": "V autě z něj tekla krev. Jedu domů, rozhodl se český fotbalový průkopník v Mexiku",
-          "snippet": "",
-          "url": "https://www.seznamzpravy.cz/clanek/sport-v-taxiku-z-nej-tekla-krev-jedu-domu-rozhodl-se-cesky-prukopnik-v-mexiku-309140",
-          "source": "Seznam Zprávy"
-        },
-        {
-          "title": "Do Mexico City na fotbal? Pozor, ať vás město nezaskočí!",
-          "snippet": "",
-          "url": "https://www.novinky.cz/clanek/cestovani-do-mexico-city-miri-cesti-fanousci-fotbalu-divoke-mesto-nepripravene-cestovatele-zaskoci-40581265",
-          "source": "Novinky"
-        },
-        {
-          "title": "Píše o drogových kartelech, ale taky chodí na fotbal. Novinář Václav Lang vypráví o Mexiku",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/mistrovstvi-sveta-ve-fotbale/novinar-vaclav-lang-mexiko-fotbal-prace-bezpecnost.A260622_165636_ms-fotbal_czo",
-          "source": "iDNES.cz"
-        }
-      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -70,26 +70,26 @@
       "title": "португалия – узбекистан",
       "trafficCount": "500+",
       "pubDate": "Tue, 23 Jun 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMeWtXRiGNzNPJ4alL02VKk7xWK5q5kRF-GSIlNYrFGJi7Q3w6JqNqPZlKlOo",
-      "pictureSource": "Sportbox",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRTzr-0hGAyRUrXe0SAlS5xdJ3MMnX08RsVFf0YobXRZQa4bOmeXPMuk8wsFE",
+      "pictureSource": "ERR",
       "relatedSearch": [
         {
-          "title": "Гол Криштиану Роналду. Португалия - Узбекистан. 1:0 (видео). Чемпионат мира-2026. Футбол",
+          "title": "В матче ЧМ-2026 Португалия обыграла Узбекистан со счетом 5:0, Роналду оформил дубль",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol",
-          "source": "Sportbox"
-        },
-        {
-          "title": "LIVE: в матче ЧМ-2026 Португалия обыгрывает Узбекистан со счетом 2:0",
-          "snippet": "",
-          "url": "https://rus.err.ee/1610061737/live-v-matche-chm-2026-portugalija-obygryvaet-uzbekistan-so-schetom-2-0",
+          "url": "https://rus.err.ee/1610061737/v-matche-chm-2026-portugalija-obygrala-uzbekistan-so-schetom-5-0-ronaldu-oformil-dubl",
           "source": "ERR"
         },
         {
-          "title": "Криштиану Роналду установил рекорд всех времен. Месси сможет повторить его только в 2030 году",
+          "title": "Известный боксер отреагировал на перформанс Роналду",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/reviews/krishtianu-ronaldu-pervym-v-istorii-zabil-na-shesti-chempionatah-mira-po-futbolu-statistika-golov-portugalskogo-forvarda-2433522/",
-          "source": "sport-express.net"
+          "url": "https://sport.ua/news/882632-izvestniy-bokser-otreagiroval-na-performans-ronaldu",
+          "source": "Sport.ua"
+        },
+        {
+          "title": "Роналду признали лучшим игроком матча Португалия - Узбекистан на чемпионате мира",
+          "snippet": "",
+          "url": "https://www.nur.kz/sport/football/2392141-ronaldu-priznali-luchshim-igrokom-matcha-portugaliya-uzbekistan-na-chempionate-mira/",
+          "source": "NUR.KZ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -108,16 +108,16 @@
           "source": "La Gazzetta dello Sport"
         },
         {
-          "title": "Primo tempo senza storia con la doppia cifra di CR7",
+          "title": "Ronaldo gonfia il petto: \"Sono 23 anni che rispondo così alle critiche\"",
           "snippet": "",
-          "url": "https://www.rsi.ch/sport/mondiali-fifa-2026/Primo-tempo-senza-storia-con-la-doppia-cifra-di-CR7--3842264.html",
-          "source": "RSI Radiotelevisione svizzera"
+          "url": "https://www.sportmediaset.mediaset.it/speciale/mondiali-2026/ronaldo-gonfia-il-petto-sono-23-anni-che-rispondo-cosi-alle-critiche_113532717-202602k.shtml",
+          "source": "Sportmediaset"
         },
         {
-          "title": "Inizia anche il Mondiale di Leao: la fotosequenza del suo gol nel 5-0 contro l'Uzbekistan",
+          "title": "CR7 segna e poi lascia la punizione del raddoppio a Nuno Mendes",
           "snippet": "",
-          "url": "https://www.corrieredellosport.it/foto/calcio/mondiali-2026/portogallo/2026/06/23-149417272/inizia_anche_il_mondiale_di_leao_la_fotosequenza_del_suo_gol_nel_5-0_contro_l_uzbekistan",
-          "source": "Corriere dello Sport"
+          "url": "https://www.rsi.ch/sport/mondiali-fifa-2026/CR7-segna-e-poi-lascia-la-punizione-del-raddoppio-a-Nuno-Mendes--3842264.html",
+          "source": "RSI Radiotelevisione svizzera"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -146,34 +146,6 @@
           "snippet": "",
           "url": "https://isport.blesk.cz/clanek/blesk-sport/476989/horke-chvilky-reportera-novy-zpovidal-argentinky-nerozumel-ani-slovo.html",
           "source": "iSport.cz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "skoda peaq",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 23 Jun 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx4gYULnlvJ-g0HV1tApRhvhCugmEZaiiIRggOqVxTZpSOYQmMGS8O3arMo6U",
-      "pictureSource": "iHLINSKO.cz",
-      "relatedSearch": [
-        {
-          "title": "Nová Škoda Epiq: Kompaktní elektromobil, který myslí ve velkém",
-          "snippet": "",
-          "url": "https://www.ihlinsko.cz/nova-skoda-epiq-kompaktni-elektromobil-ktery-mysli-ve-velkem",
-          "source": "iHLINSKO.cz"
-        },
-        {
-          "title": "Live im Stream: Der Škoda Peaq feiert sein Debüt",
-          "snippet": "",
-          "url": "https://www.skoda-storyboard.com/de/emobilitat-de/live-im-stream-der-skoda-peaq-feiert-sein-debuet/",
-          "source": "Škoda Storyboard"
-        },
-        {
-          "title": "Skoda Epiq: Mit Wellness-App in Richtung Oberklasse",
-          "snippet": "",
-          "url": "https://automobilrevue.ch/neuheiten/skoda-epiq-mit-wellness-app-in-richtung-oberklasse",
-          "source": "Automobil Revue"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,16 +192,16 @@
           "source": "Sport.cz"
         },
         {
-          "title": "Ronaldo opět při chuti! Góly na šestém MS v řadě překonal vytrvalostní rekord",
-          "snippet": "",
-          "url": "https://www.idnes.cz/fotbal/mistrovstvi-sveta-ve-fotbale/cristiano-ronaldo-rekordy-gol-na-sesti-mistrovstvich-sveta-historie.A260623_205039_ms-fotbal_min",
-          "source": "iDNES.cz"
-        },
-        {
           "title": "Sestřih utkání Portugalsko – Uzbekistán",
           "snippet": "",
           "url": "https://sport.ceskatelevize.cz/video/sestrih-utkani-portugalsko-uzbekistan-117552",
           "source": "ČT sport"
+        },
+        {
+          "title": "Jsem zpátky, křičel Ronaldo do kamery. Hvězdný Portugalec dal dva góly a pokořil milník",
+          "snippet": "",
+          "url": "https://sport.aktualne.cz/fotbal/ms-ve-fotbale/jsem-zpatky-kricel-ronaldo-do-kamery-hvezdny-portugalec-dal-dva-goly-a-pokoril-milnik/r~aaa29c3980e681ec68de5c511655278d/",
+          "source": "Aktuálně.cz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -238,26 +210,54 @@
       "title": "masarykův okruh",
       "trafficCount": "100+",
       "pubDate": "Tue, 23 Jun 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9lOPA3W0_FPY9BXCW0ex7Cb1tvN2oKQ245fzw5fUsqyJ7uoTc9W2bePuq6m4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGCBT770h_wyWfK8tGnKQNA0NGDZ8IhmHNb70M_ZM-KYep-zRK7dRGbnljbY",
       "pictureSource": "Sport.cz",
       "relatedSearch": [
         {
-          "title": "Prezident Pavel dorazil do Brna na své motorce, pak se chopil fotoaparátu",
+          "title": "KOMENTÁŘ: Brno už není premiant MotoGP, ale má co nabídnout",
           "snippet": "",
-          "url": "https://www.sport.cz/clanek/moto-motocykly-prezident-pavel-si-foceni-motocyklu-v-brne-nenechal-ani-letos-ujit-5484720",
+          "url": "https://www.sport.cz/clanek/moto-motocykly-komentar-brno-uz-neni-premiant-motogp-ale-ma-co-nabidnout-5486094",
           "source": "Sport.cz"
         },
         {
-          "title": "Valentino Rossi se setkal s prezidentem Pavlem. Věnoval mu tričko a provedl ho zázemím",
+          "title": "Kolapsy z horka, jinak klid. V Brně skončila motocyklová Velká cena",
           "snippet": "",
-          "url": "https://www.idnes.cz/sport/motorsport/petr-pavel-prezident-valentino-rossi-motogp-karel-vejmelka-filip-salac.A260621_092458_motorsport_ppol",
-          "source": "iDNES.cz"
+          "url": "https://www.novinky.cz/clanek/domaci-kolapsy-z-horka-jinak-klid-v-brne-skoncila-motocyklova-velka-cena-40584278",
+          "source": "Novinky"
         },
         {
-          "title": "OBRAZEM: Motorkář Salač obsadil v kvalifikaci druhé místo. Na brněnské MotoGP vyrazil i prezident Pavel",
+          "title": "Poloprázdné kempy, desetitisíce v minusu: odradil nezvyklý termín MotoGP v Brně",
           "snippet": "",
-          "url": "https://www.irozhlas.cz/sport/ostatni-sporty/obrazem-motorkar-salac-obsadil-v-kvalifikaci-druhe-misto-na-brnenske-motogp_2606202150_mkv",
-          "source": "iROZHLAS"
+          "url": "https://brnensky.denik.cz/zpravy-region/motogp-brno-ubytovani-kempy-malo-lidi-termin-prijmy/",
+          "source": "Brněnský deník"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ukrajina",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 23 Jun 2026 07:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq3YF4ZN6lUm16ZAwjTleTtAD1aqSQRe8qBMpyd6UaPLTjyRwS8pZiZZcoqbk",
+      "pictureSource": "Novinky",
+      "relatedSearch": [
+        {
+          "title": "Ukrajinci ukázali, jak zničili most přes Severokrymský kanál",
+          "snippet": "",
+          "url": "https://www.novinky.cz/clanek/zahranicni-ukrajinci-ukazali-jak-znicili-most-pres-severokrymsky-kanal-40584655",
+          "source": "Novinky"
+        },
+        {
+          "title": "Krym je na tom špatně. Cukr, sůl a rýže jsou na příděl, elektřina vypadává",
+          "snippet": "",
+          "url": "https://www.seznamzpravy.cz/clanek/zahranicni-krym-je-na-tom-spatne-cukr-sul-a-ryze-jsou-na-pridel-elektrina-vypadava-309139",
+          "source": "Seznam Zprávy"
+        },
+        {
+          "title": "VIDEO: Jeden zásah za druhým. Ukrajinci zveřejnili „best of“ posledních úderů na Krymu",
+          "snippet": "",
+          "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-ukazali-co-vse-trefili-utoky-video-krym.A260623_140300_zahranicni_ikul",
+          "source": "iDNES.cz"
         }
       ],
       "link": "https://imtaqin.id/"
