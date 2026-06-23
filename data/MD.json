@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-06-23 15:19:24",
+  "lastUpdate": "2026-06-23 16:13:58",
   "data": [
     {
       "title": "дождь",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 23 Jun 2026 06:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC-gOu33vsm4ZkN0l5MZ9rwIk7dvew2BUZ-fOwbOxHSZDnN7F6-8NUBv56dOA",
       "pictureSource": "Українська правда",
@@ -58,51 +58,23 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ветер",
+      "title": "inspectoratul general pentru situații de urgență",
       "trafficCount": "500+",
       "pubDate": "Tue, 23 Jun 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOioWXo1eybOCx29tpJsQIS3gapONW_-bwhUXqhio02ZQ5ixaEiQMEmz-q3tg",
-      "pictureSource": "Ньюс-Баш",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn-5dioeZ7Q7xUoBm_4Sa0pHkBPNN5pvD4ny4zHXun9cogStHqx2Gfu3X5IqA",
+      "pictureSource": "Mediafax",
       "relatedSearch": [
-        {
-          "title": "В Башкирии ураган повалил деревья и сорвал крыши: порывы до 26 м/с",
-          "snippet": "",
-          "url": "https://news-bash.ru/weather/v-bashkirii-uragan-so-skorostyu-vetra-26-metrov-v-sekundu-povalil-derevya-i-sorval-kryshi/",
-          "source": "Ньюс-Баш"
-        },
-        {
-          "title": "В Уфе сильный ветер повалил 12 деревьев",
-          "snippet": "",
-          "url": "https://gorobzor.ru/novosti/obschestvo/218223-v-ufe-silnyy-veter-povalil-12-derevev",
-          "source": "Gorobzor"
-        },
-        {
-          "title": "Уфа пережила разгул стихии — Новости Уфы и Башкирии",
-          "snippet": "",
-          "url": "https://mkset.ru/news/2026-06-23/ufa-perezhila-razgul-stihii-5622840",
-          "source": "Mkset"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "inspectoratul general pentru situații de urgență",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 23 Jun 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtZoVkSNJu1vTrauCsU-qLr470O0lGhLyzwJtemPmf67ShqRfken41ltLd-Ck",
-      "pictureSource": "Adevarul",
-      "relatedSearch": [
-        {
-          "title": "Tragedia din Franța care a alertat România: Apelul urgent al IGSU către toți părinții",
-          "snippet": "",
-          "url": "https://adevarul.ro/stiri-interne/societate/tragedia-din-franta-care-a-alertat-romania-apelul-2538476.html",
-          "source": "Adevarul"
-        },
         {
           "title": "Avertisment pentru părinți în perioada caniculară. Ce trebuie să știi pentru siguranța copilului tău?",
           "snippet": "",
           "url": "https://www.mediafax.ro/social/avertisment-pentru-parinti-in-perioada-caniculara-ce-trebuie-sa-stii-pentru-siguranta-copilului-tau-23760184",
           "source": "Mediafax"
+        },
+        {
+          "title": "Tragedia din Franța care a alertat România: Apelul urgent al IGSU către toți părinții",
+          "snippet": "",
+          "url": "https://adevarul.ro/stiri-interne/societate/tragedia-din-franta-care-a-alertat-romania-apelul-2538476.html",
+          "source": "Adevarul"
         },
         {
           "title": "Franța: Doi copii au fost găsiți morți într-o mașină în sudul Franței. Anchetatorii suspectează că decesul ar fi fost cauzat de caniculă",
@@ -114,8 +86,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "ветер",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 23 Jun 2026 06:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzVJCq-X0R_xyHNtBKgFx_33aIjglWC8WerXmHpzO62Tj_z7G7MXlB2IJKQ9E",
+      "pictureSource": "noi.md",
+      "relatedSearch": [
+        {
+          "title": "Метеопредупреждение: ожидаются грозовые дожди",
+          "snippet": "",
+          "url": "https://noi.md/ru/obshhestvo/meteopreduprezhdenie-ozhidayutsya-grozovye-dozhdi",
+          "source": "noi.md"
+        },
+        {
+          "title": "Метеорологи продлили желтый код из-за жары. Рекомендации ГИЧС для населения",
+          "snippet": "",
+          "url": "https://www.zdg.md/ru/meteorologi-prodlili-zheltyj-kod-iz-za-zhary-rekomendaczii-gichs-dlya-naseleniya/",
+          "source": "Ziarul de Gardă"
+        },
+        {
+          "title": "«Духовка» тропических джунглей: В Молдове + 35 и грозовые дожди, пекло продержится до конца недели",
+          "snippet": "",
+          "url": "https://www.md.kp.media/online/news/7034815/",
+          "source": "MD.KP.MEDIA"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ploaie",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 23 Jun 2026 05:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2OrMENTX1V4F2yDckbKZAHs8xRHNkLPBcPl-AUDAn6_OhNAoLid-jvVOdOD8",
       "pictureSource": "Adevarul",
@@ -171,7 +171,7 @@
     },
     {
       "title": "пособие",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 23 Jun 2026 05:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k__l_gCLIG3tLg67IXQXFpxR2oKVzphBJStcePqY_g0fDYrhWZHyNy0V394",
       "pictureSource": "Spot.uz",
@@ -183,16 +183,16 @@
           "source": "Spot.uz"
         },
         {
-          "title": "В Узбекистане повысят зарплаты, пенсии, пособия и стипендии",
-          "snippet": "",
-          "url": "https://www.uzdaily.uz/ru/v-uzbekistane-povysiat-zarplaty-pensii-posobiia-i-stipendii/",
-          "source": "UzDaily.uz"
-        },
-        {
           "title": "В Узбекистане БРВ вырастет до 440 тысяч сумов, а также поэтапно повысятся пенсии, зарплаты и стипендии",
           "snippet": "",
           "url": "https://podrobno.uz/cat/economic/v-uzbekistane-brv-vyrastet-do-440-tysyach-sumov-a-takzhe-poetapno-povysyatsya-pensii-zarplaty-i-stip/",
           "source": "Podrobno.uz"
+        },
+        {
+          "title": "В Узбекистане повышаются зарплаты, пенсии, стипендии и пособия",
+          "snippet": "",
+          "url": "https://uznews.uz/ru/news/110694",
+          "source": "UzNews.uz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -226,34 +226,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "сборная франции по футболу – сборная ирака по футболу турнирная таблица",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 22 Jun 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfO7oSGcNxb1F3uEZUAkbplavOXv4A12BUqnvjznBM_5gl33RzEM1y54TODew",
-      "pictureSource": "Meduza",
-      "relatedSearch": [
-        {
-          "title": "Диктатор Мбаппе руководит работами по осушению болота. Месси… да он просто снова лучший!",
-          "snippet": "",
-          "url": "https://meduza.io/feature/2026/06/23/diktator-mbappe-rukovodit-rabotami-po-osusheniyu-bolota-messi-da-on-prosto-snova-luchshiy",
-          "source": "Meduza"
-        },
-        {
-          "title": "Франция - Ирак. Голы и лучшие моменты (видео). Чемпионат мира-2026. Футбол",
-          "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2337878_clip_Francija___Irak_Goly_i_luchshije_momenty_video_Chempionat_mira_2026_Futbol",
-          "source": "Sportbox"
-        },
-        {
-          "title": "Франция благодаря дублю Мбаппе разгромила Ирак и вышла в плей-офф ЧМ-2026",
-          "snippet": "",
-          "url": "https://champion.com.ua/rus/football/franciya-irak-rezultat-matcha-chm-2026-po-futbolu-videoobzor-23-iyunya-1077488/",
-          "source": "Champion.com.ua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "france vs iraq",
       "trafficCount": "200+",
       "pubDate": "Mon, 22 Jun 2026 14:40:00 -0700",
@@ -277,6 +249,34 @@
           "snippet": "",
           "url": "https://sports.yahoo.com/articles/thunderstorm-lightning-delays-impact-matches-151904342.html",
           "source": "Yahoo Sports"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "франция – ирак",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 22 Jun 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfO7oSGcNxb1F3uEZUAkbplavOXv4A12BUqnvjznBM_5gl33RzEM1y54TODew",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Диктатор Мбаппе руководит работами по осушению болота. Месси… да он просто снова лучший!",
+          "snippet": "",
+          "url": "https://meduza.io/feature/2026/06/23/diktator-mbappe-rukovodit-rabotami-po-osusheniyu-bolota-messi-da-on-prosto-snova-luchshiy",
+          "source": "Meduza"
+        },
+        {
+          "title": "Франция - Ирак. Голы и лучшие моменты (видео). Чемпионат мира-2026. Футбол",
+          "snippet": "",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2337878_clip_Francija___Irak_Goly_i_luchshije_momenty_video_Chempionat_mira_2026_Futbol",
+          "source": "Sportbox"
+        },
+        {
+          "title": "Франция благодаря дублю Мбаппе разгромила Ирак и вышла в плей-офф ЧМ-2026",
+          "snippet": "",
+          "url": "https://champion.com.ua/rus/football/franciya-irak-rezultat-matcha-chm-2026-po-futbolu-videoobzor-23-iyunya-1077488/",
+          "source": "Champion.com.ua"
         }
       ],
       "link": "https://imtaqin.id/"
