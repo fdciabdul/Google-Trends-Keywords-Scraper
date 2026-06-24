@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-06-23 23:55:26",
+  "lastUpdate": "2026-06-24 00:38:20",
   "data": [
+    {
+      "title": "погода на сегодня",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 23 Jun 2026 15:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShsRa4EnETRksFMprVlnukD5qDEEN_BDc3jcak_2E_c9UdpO8DPlxRigaMbtI",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "Погода сегодня (24 июня): Жаркая и солнечная погода сохранится во многих районах страны.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/thoi-tiet-hom-nay-24-6-nang-nong-tiep-dien-tai-nhieu-khu-vuc-tren-ca-nuoc",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Согласно прогнозам, в течение двух дней в Северном Вьетнаме ожидается пиковая жара, температура воздуха достигнет 40 градусов Цельсия.",
+          "snippet": "",
+          "url": "https://twaslnews1.twaslnews.com/2523697/",
+          "source": "شبكة تواصل الإخبارية"
+        },
+        {
+          "title": "Прогноз погоды на 22 июня 2026 года: в центральном Вьетнаме ожидается исключительно сильная жара, температура воздуха превысит 40 градусов Цельсия.",
+          "snippet": "",
+          "url": "https://baonghean.vn/ru/du-bao-thoi-tiet-22062026-mien-trung-nang-nong-dac-biet-gay-gat-tren-40-do-c-10341464.html",
+          "source": "baonghean.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода в бишкеке",
       "trafficCount": "200+",
@@ -30,34 +58,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "погода на сегодня",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 23 Jun 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeLGF4fx1Pa0VXYGJrmuBdZ12TN6x0Of-qpID0Jl-IID4Z9zMIdySj9tguCIs",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "10-дневный прогноз погоды: грозы в Северном Вьетнаме после периода сильной жары.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/du-bao-thoi-tiet-10-ngay-mien-bac-mua-dong-sau-dot-nang-nong-gay-gat",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Согласно прогнозам, в течение двух дней в Северном Вьетнаме ожидается пиковая жара, температура воздуха достигнет 40 градусов Цельсия.",
-          "snippet": "",
-          "url": "https://twaslnews1.twaslnews.com/2523697/",
-          "source": "شبكة تواصل الإخبارية"
-        },
-        {
-          "title": "Прогноз погоды на 22 июня 2026 года: в центральном Вьетнаме ожидается исключительно сильная жара, температура воздуха превысит 40 градусов Цельсия.",
-          "snippet": "",
-          "url": "https://baonghean.vn/ru/du-bao-thoi-tiet-22062026-mien-trung-nang-nong-dac-biet-gay-gat-tren-40-do-c-10341464.html",
-          "source": "baonghean.vn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "погода бишкек",
       "trafficCount": "2000+",
       "pubDate": "Tue, 23 Jun 2026 15:20:00 -0700",
@@ -74,7 +74,7 @@
           "title": "23 июня в части Бишкека отключат свет (список улиц)",
           "snippet": "",
           "url": "https://kaktus.media/doc/548473_23_iunia_v_chasti_bishkeka_otkluchat_svet_spisok_ylic.html",
-          "source": "Kaktus.media"
+          "source": "Кактус – новости Кыргызстана и Бишкека"
         },
         {
           "title": "Где в Бишкеке отключат свет 22 июня?",
@@ -173,26 +173,20 @@
       "title": "футбол сегодня",
       "trafficCount": "200+",
       "pubDate": "Tue, 23 Jun 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfyMmdO0pQzDW1vE2DDnjPu9xdzhrTrl7Wvt2sTW5-SvawdgaPimUZvEM5mSM",
-      "pictureSource": "RUTUBE.Sport",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgKegLm1z0Yu5CzC22eBREgZUsuRjSRaumy1BOzkIiMUDQ0giNgrkkbBv4pjs",
+      "pictureSource": "ИА Чечня Сегодня",
       "relatedSearch": [
         {
-          "title": "Турция — Парагвай. Обзор матча чемпионата мира-2026 20.06.2026",
+          "title": "Турнир по футболу памяти героев СВО пройдёт в Шали",
           "snippet": "",
-          "url": "https://rutube.sport/video/turtsiya-paragvay-obzor-matcha-chempionata-mira-2026/",
-          "source": "RUTUBE.Sport"
+          "url": "https://chechnyatoday.com/news/397304",
+          "source": "ИА Чечня Сегодня"
         },
         {
-          "title": "Глава Федерации футбола Турции поддержал Монтеллу после вылета с ЧМ-2026: «Мы защитим тренера и игроков»",
+          "title": "В Шали пройдет турнир по футболу памяти героев СВО с участием ветеранов и детей защитников",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/glava-federacii-futbola-turcii-podderzhal-trenera-sbornoy-montellu-posle-vyleta-s-chm-2026-2433051/",
-          "source": "sport-express.net"
-        },
-        {
-          "title": "«Давайте вести себя как большие страны». Фатих Терим высказался после провала Турции",
-          "snippet": "",
-          "url": "https://news.rambler.ua/football/56640175-davayte-vesti-sebya-kak-bolshie-strany-fatih-terim-vyskazalsya-posle-provala-turtsii/",
-          "source": "Рамблер/новости"
+          "url": "https://gtrkvainah.ru/v-shali-projdet-turnir-po-futbolu-pamyati-geroev-svo-s-uchastiem-veteranov-i-detej-zashhitnikov/",
+          "source": "ГТРК \"Вайнах\""
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,14 +195,14 @@
       "title": "portugal vs uzbekistan",
       "trafficCount": "1000+",
       "pubDate": "Tue, 23 Jun 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR80_K3R5gZu6cbk6-2fi3FHh1hScvq51PFZLF_xCI837QqXNs0doQwyrPT8-A",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbpgUBFSmuMhUHxrjOu--XeQ20AdAz0IAhCBvfW0jqbB4wkeeE--laygRXmiA",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Portugal vs. Uzbekistan at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
+          "title": "Portugal 5-0 Uzbekistan: World Cup 2026 – as it happened",
           "snippet": "",
-          "url": "https://www.espn.co.uk/football/story/_/id/49135037/fifa-world-cup-2026-portugal-vs-uzbekistan-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
-          "source": "ESPN"
+          "url": "https://www.theguardian.com/football/live/2026/jun/23/portugal-v-uzbekistan-world-cup-2026-live",
+          "source": "The Guardian"
         },
         {
           "title": "Portugal’s Cristiano Ronaldo Scores Goal vs Uzbekistan, First to Score in Six FIFA World Cups",
@@ -217,25 +211,25 @@
           "source": "FOX Sports"
         },
         {
-          "title": "Portugal vs Uzbekistan LIVE: FIFA World Cup Group K score, team news, prediction, commentary & updates",
+          "title": "FIFA World Cup 2026 stats: Ronaldo breaks Messi's WC record; England's unlucky 13; Modric fourth all-time with 200",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt",
-          "source": "BBC"
+          "url": "https://www.espn.com/soccer/story/_/id/49157528/fifa-world-cup-2026-stats-cristiano-ronaldo-breaks-lionel-messi-record-england-unlucky-13-luka-modric-fourth-all-200",
+          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "португалия – узбекистан",
-      "trafficCount": "10000+",
+      "trafficCount": "20000+",
       "pubDate": "Tue, 23 Jun 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOJoUqpgY2gq3RA1U7f9oe5O8AB3aM492QoQ0gIU79Ct6RMR-CygzHnsEeCPQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsGySbcjwC1RbRLuTYKB0SrbtAyV3zOTXB21YVUo7waDgrgdWUmRaDFQDMYnI",
       "pictureSource": "sport-express.net",
       "relatedSearch": [
         {
-          "title": "Португалия — Узбекистан: видео голов",
+          "title": "Роналду рано списали! Криштиану забил на шестом чемпионате мира, а Португалия разгромила Узбекистан",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/portugaliya-uzbekistan-video-golov-matcha-chm-po-futbolu-23-iyunya-2026-2433498/",
+          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/reviews/portugaliya-uzbekistan-rezultat-i-obzor-matcha-chm-2026-dubl-ronaldu-video-golov-23-iyunya-2026-goda-2433524/",
           "source": "sport-express.net"
         },
         {
@@ -245,10 +239,10 @@
           "source": "RUTUBE.Sport"
         },
         {
-          "title": "Роналду установил рекорд чемпионатов мира",
+          "title": "Криштиану Роналду присоединился к Лионелю Месси - NEWSru.co.il",
           "snippet": "",
-          "url": "https://www.gazeta.press/sport/news/2026/06/23/28748209.shtml",
-          "source": "Газета"
+          "url": "https://www.newsru.co.il/sport/23jun2026/cr913.html",
+          "source": "NEWSru.co.il"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -275,7 +269,7 @@
         {
           "title": "Членов Совета старейшин Еревана избивали полицейские",
           "snippet": "",
-          "url": "https://www.yerkramas.org/article/201951/chlenov-soveta-starejshin-erevana-izbivali-policejskie",
+          "url": "https://yerkramas.org/article/201951/chlenov-soveta-starejshin-erevana-izbivali-policejskie",
           "source": "Газета армян России"
         }
       ],
