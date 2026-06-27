@@ -1,52 +1,24 @@
 {
-  "lastUpdate": "2026-06-27 17:37:47",
+  "lastUpdate": "2026-06-27 18:04:12",
   "data": [
     {
-      "title": "alerte orage",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 27 Jun 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zjfu4kV8YoNRc-nG9czT_4Xesp9VTiBGzzW_3bUdKxpuRTSVY6p6rThx3Z4",
-      "pictureSource": "Le Soir",
+      "title": "weer",
+      "trafficCount": "20000+",
+      "pubDate": "Sat, 27 Jun 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6ocyCyKtzWbgtTALL0OFza5mzCDC16lZ9b1x7iiWSwLGWqAajxsONmBmEhFM",
+      "pictureSource": "Nieuwsblad",
       "relatedSearch": [
-        {
-          "title": "De premiers orages éclatent ce samedi en Belgique : voici les régions concernées",
-          "snippet": "",
-          "url": "https://www.lesoir.be/755857/article/2026-06-27/de-premiers-orages-eclatent-ce-samedi-en-belgique-voici-les-regions-concernees",
-          "source": "Le Soir"
-        },
-        {
-          "title": "Après dix jours de canicule, les premières pluies sont enfin arrivées",
-          "snippet": "",
-          "url": "https://www.rtl.be/actu/belgique/meteo/apres-dix-jours-de-canicule-les-premieres-pluies-sont-enfin-arrivees/2026-06-27/article/792941",
-          "source": "RTL Info"
-        },
-        {
-          "title": "'Il pourrait y avoir des morts' : les hôpitaux sous pression face à la chaleur, les services de gériatrie saturés",
-          "snippet": "",
-          "url": "https://www.rtbf.be/article/les-hopitaux-sous-pression-face-a-la-chaleur-les-appels-au-112-ont-double-ce-vendredi-par-rapport-a-un-jour-habituel-11748665",
-          "source": "RTBF"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "onweer",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 27 Jun 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIDnJ2GnY4c1D0WO_YSYa-rfoaGLxU3hZltO4IgInNwUcU9rfvfWUL54TSWs",
-      "pictureSource": "VRT",
-      "relatedSearch": [
-        {
-          "title": "LIVE Net niet warmste nacht ooit in ons land, minister Vandenbroucke: \"Klop aan bij je oudere buur\"",
-          "snippet": "",
-          "url": "https://www.vrt.be/vrtnws/nl/liveblog/net-niet-warmste-nacht-ooit-in-ons-land-minister-vandenbroucke~1782444420787/",
-          "source": "VRT"
-        },
         {
           "title": "Onze man trekt naar de heetste plekken van Vlaanderen: \"Wij zijn gezonde mensen, maar het begint in mijn kleren te kruipen\"",
           "snippet": "",
           "url": "https://www.nieuwsblad.be/binnenland/onze-man-trekt-naar-de-heetste-plekken-van-vlaanderen-wij-zijn-gezonde-mensen-maar-het-begint-in-mijn-kleren-te-kruipen/157772330.html",
           "source": "Nieuwsblad"
+        },
+        {
+          "title": "LIVE HITTEGOLF. Duitsland en Polen maken zich op voor extreme hitte terwijl warmtefront oostwaarts trekt",
+          "snippet": "",
+          "url": "https://www.hbvl.be/binnenland/live-hittegolf.-duitsland-en-polen-maken-zich-op-voor-extreme-hitte-terwijl-warmtefront-oostwaarts-trekt/157415877.html",
+          "source": "HBVL"
         },
         {
           "title": "En plots wordt het 15 graden kouder: meteorologen leggen uit wat ons de komende dagen nog te wachten staat",
@@ -58,29 +30,85 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "alerte orage",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 27 Jun 2026 10:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZupvZr8OgQYPhh2g4D9zrbygs5_13I2a8F1MiqDjfIHQuqK33b19_vvoXVM",
+      "pictureSource": "Le Soir",
+      "relatedSearch": [
+        {
+          "title": "Alerte orange aux orages : le festival Couleur Café évacué",
+          "snippet": "",
+          "url": "https://www.lesoir.be/755914/article/2026-06-27/alerte-orange-aux-orages-le-festival-couleur-cafe-evacue",
+          "source": "Le Soir"
+        },
+        {
+          "title": "« Les prochaines heures marquent un véritable tournant » : doit-on s’attendre à des orages violents durant l’après-midi et la soirée ?",
+          "snippet": "",
+          "url": "https://www.rtl.be/actu/belgique/meteo/les-prochaines-heures-marquent-un-veritable-tournant-doit-sattendre-des-orages/2026-06-27/article/792938",
+          "source": "RTL Info"
+        },
+        {
+          "title": "La Belgique placée en alerte orange, les premières averses touchent la côte",
+          "snippet": "",
+          "url": "https://www.7sur7.be/belgique/la-belgique-placee-en-alerte-orange-les-premieres-averses-touchent-la-cote~adc67db1/",
+          "source": "7sur7.be"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "onweer",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 27 Jun 2026 10:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWZF12QyUZ7LYwXe_Oa1lIjYOK5WTASMB1RitNh1FCLMYPPqhpH4ASTE5gpw",
+      "pictureSource": "HBVL",
+      "relatedSearch": [
+        {
+          "title": "LIVE HITTEGOLF. Kans op stevig onweer voor Limburg neemt toe - Al meer dan honderd oproepen over schade aan wegen in Vlaanderen",
+          "snippet": "",
+          "url": "https://www.hbvl.be/binnenland/live-onweer.-kwik-klimt-volgende-week-richting-35-graden-bij-ons-in-frankrijk-sluiten-maandag-845-scholen-26.000-bliksems-waargenomen-op-24-uur-tijd/157415877.html",
+          "source": "HBVL"
+        },
+        {
+          "title": "Kust maakt zich op voor warm topweekend: “Overal minstens één redderspost bemand”",
+          "snippet": "",
+          "url": "https://www.hln.be/knokke-heist/kust-maakt-zich-op-voor-topweekend-overal-minstens-een-redderspost-bemand~a2ab40c3/",
+          "source": "HLN"
+        },
+        {
+          "title": "KNMI waarschuwt voor onweer en windstoten",
+          "snippet": "",
+          "url": "https://voorburgsdagblad.nl/landelijk/knmi-waarschuwt-voor-onweer-en-windstoten",
+          "source": "Voorburgs Dagblad"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "madonna",
       "trafficCount": "200+",
       "pubDate": "Sat, 27 Jun 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgObOeCeHdPGxtAj6UxsIEBELkQ4_ueTm3c7TMJIn4fDZ7whx7N13KDkThi1c",
-      "pictureSource": "People.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd7gikR1ntGxHd6KsW9YqC3iUtNdOnH-QI1pAyWa5c7rnhdD8Ex06CLfxlFxk",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Madonna Reveals Daughter Lola Approached Her About Writing a Song Together to 'Heal' Their Relationship",
+          "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
           "snippet": "",
-          "url": "https://people.com/madonna-reveals-daughter-lola-approached-her-about-writing-song-together-to-heal-their-relationship-12004510",
-          "source": "People.com"
+          "url": "https://www.bbc.com/news/articles/cn07rpn0rkxo",
+          "source": "BBC"
         },
         {
-          "title": "Madonna hints at strife with daughter Lourdes Leon as she makes cryptic comments about 'family trauma'",
+          "title": "Madonna & Graham review – it’s ‘gay heaven’ when Kylie arrives",
           "snippet": "",
-          "url": "https://pagesix.com/2026/06/23/parents/madonna-hints-at-strife-with-daughter-lourdes-leon-as-she-makes-cryptic-comments-about-family-trauma/",
-          "source": "Page Six"
+          "url": "https://www.theguardian.com/tv-and-radio/2026/jun/26/madonna-graham-norton-review-bbc",
+          "source": "The Guardian"
         },
         {
-          "title": "Madonna speaks out on 'rift' with 'standoffish' daughter Lourdes Leon - and how they healed their relationship",
+          "title": "Starstruck, Graham? Norton’s interview with Madonna was so gushing",
           "snippet": "",
-          "url": "https://www.thesun.co.uk/tvandshowbiz/39565172/madonna-rift-daughter-lourdes-leon-heal-confessions-album/",
-          "source": "The Sun"
+          "url": "https://www.thetimes.com/culture/tv-radio/article/madonna-graham-norton-review-interview-bbc-iplayer-tv-television-vvqkqs7xf",
+          "source": "The Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,34 +170,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weerswaarschuwing",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 27 Jun 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1czk6G_Y9MrsbRc9dMM1gXgDlX3-XjqKK7Hn_h8qtrl6bipEnTOi-feWVwpc",
-      "pictureSource": "Welingelichte Kringen",
-      "relatedSearch": [
-        {
-          "title": "Veiligheidsregio's druk met stormschade, situatie beheersbaar",
-          "snippet": "",
-          "url": "https://www.welingelichtekringen.nl/samenleving/veiligheidsregios-druk-met-stormschade-situatie-beheersbaar",
-          "source": "Welingelichte Kringen"
-        },
-        {
-          "title": "Ook code oranje in Brabant, Zeeland en Zuid-Holland om onweer",
-          "snippet": "",
-          "url": "https://www.ditjesendatjes.nl/ook-code-oranje-in-brabant-zeeland-en-zuid-holland-om-onweer",
-          "source": "Ditjes en Datjes"
-        },
-        {
-          "title": "Code oranje in Limburg vanwege zware onweersbuien",
-          "snippet": "",
-          "url": "https://www.ditjesendatjes.nl/code-oranje-in-limburg-vanwege-zware-onweersbuien",
-          "source": "Ditjes en Datjes"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "kauwgom",
       "trafficCount": "200+",
       "pubDate": "Sat, 27 Jun 2026 08:00:00 -0700",
@@ -198,18 +198,21 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "weerswaarschuwing",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 27 Jun 2026 08:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "soudal quick-step",
       "trafficCount": "2000+",
       "pubDate": "Sat, 27 Jun 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9NS3HrWCZqPuhI3yA0AAdQBZEknDxjEfGpGCiCgIE7dopj1D0JavMOed9j0",
-      "pictureSource": "IDLprocycling.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm0SsOz6I6x08sk1ha1AaOHRv3NFzqboWmeNWBlE6jKmfFm0ZpwyYIjQpnoe4",
+      "pictureSource": "CyclingUpToDate.com",
       "relatedSearch": [
-        {
-          "title": "Giulio Ciccone (Lidl-Trek) and Fortunato (Astana) also out of the 2026 Tour de France",
-          "snippet": "",
-          "url": "https://www.idlprocycling.com/cycling/giulio-ciccone-lidl-trek-and-fortunato-astana-also-out-of-the-2026-tour-de-france",
-          "source": "IDLprocycling.com"
-        },
         {
           "title": "San Sebastian over the Tour de France? Giulio Ciccone skips cycling’s biggest race to chase one-day glory",
           "snippet": "",
@@ -221,45 +224,42 @@
           "snippet": "",
           "url": "https://www.idlprocycling.com/cycling/mikel-landa-out-of-the-2026-tour-de-france-heres-what-we-know",
           "source": "IDLprocycling.com"
+        },
+        {
+          "title": "Giulio Ciccone (Lidl-Trek) and Fortunato (Astana) also out of the 2026 Tour de France",
+          "snippet": "",
+          "url": "https://www.idlprocycling.com/cycling/giulio-ciccone-lidl-trek-and-fortunato-astana-also-out-of-the-2026-tour-de-france",
+          "source": "IDLprocycling.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "grêle",
-      "trafficCount": "5000+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 27 Jun 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTykD1ytIzOOWMEtEi-v2eFV1FTOeQo-vj9xUvZTF3JtBxgqRWMI3cox9A6YHU",
-      "pictureSource": "7sur7.be",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEhirJ8DOkomW53sW_m6yu-ps1eZQjdrfAWaXWPadteF7so3x_fb-SRSG54o",
+      "pictureSource": "Le Soir",
       "relatedSearch": [
         {
-          "title": "La Belgique placée en alerte orange, les premières averses touchent la côte",
+          "title": "Des orages intenses et de la grêle attendus : voici les régions concernées",
           "snippet": "",
-          "url": "https://www.7sur7.be/belgique/la-belgique-placee-en-alerte-orange-les-premieres-averses-touchent-la-cote~adc67db1/",
-          "source": "7sur7.be"
-        },
-        {
-          "title": "Alerte orange aux orages : le festival Couleur Café évacué",
-          "snippet": "",
-          "url": "https://www.lesoir.be/755914/article/2026-06-27/alerte-orange-aux-orages-le-festival-couleur-cafe-evacue",
+          "url": "https://www.lesoir.be/755684/article/2026-06-26/des-orages-intenses-et-de-la-grele-attendus-voici-les-regions-concernees",
           "source": "Le Soir"
         },
         {
-          "title": "« Les prochaines heures marquent un véritable tournant » : doit-on s’attendre à des orages violents durant l’après-midi et la soirée ?",
+          "title": "Orages : « spanish plume », possible « derecho » de la Nouvelle-Aquitaine à la Belgique… À quoi s’attendre derrière ces termes ?",
           "snippet": "",
-          "url": "https://www.rtl.be/actu/belgique/meteo/les-prochaines-heures-marquent-un-veritable-tournant-doit-sattendre-des-orages/2026-06-27/article/792938",
-          "source": "RTL Info"
+          "url": "https://www.sudouest.fr/environnement/meteo/intemperies/orages-spanish-plume-possible-derecho-de-la-nouvelle-aquitaine-a-la-belgique-a-quoi-s-attendre-derriere-ces-termes-29684310.php",
+          "source": "Sud Ouest"
+        },
+        {
+          "title": "Après la canicule, l'alerte aux orages : voici les départements où la foudre va tomber",
+          "snippet": "",
+          "url": "https://www.tf1info.fr/meteo/apres-la-canicule-les-orages-arrivent-ce-samedi-voici-les-departements-ou-la-foudre-va-tomber-2449895.html",
+          "source": "TF1 Info"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "giraffen",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 27 Jun 2026 07:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
