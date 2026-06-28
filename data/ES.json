@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-06-28 17:37:55",
+  "lastUpdate": "2026-06-28 18:04:28",
   "data": [
     {
       "title": "pamela anderson",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 28 Jun 2026 10:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjalx2gtKRrnBIQ7Q5SqPLubKrnKmFozK8Ec2WwWoA1t8sZh72cQ10mpB4kOs",
       "pictureSource": "Lecturas",
@@ -31,7 +31,7 @@
     },
     {
       "title": "selección de fútbol sub-19 de gales - españa sub-19",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 28 Jun 2026 10:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzg8ILxGN5omnPZUzUKlCgYRfcqOdeQvdQnsgH1AG3Hw4ZGVZNR6maDNSTtW8",
       "pictureSource": "Diario AS",
@@ -59,7 +59,7 @@
     },
     {
       "title": "meteocat",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 28 Jun 2026 10:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7q4e78qhgYnFl2JpoDcpt2LEP6cpuwVYgZObFuNAHCBokGPZ4MzWAhippodo",
       "pictureSource": "OkDiario",
@@ -86,36 +86,64 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "el tiempo en murcia",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 28 Jun 2026 10:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzLK_nWMdie1EsYQ4rJk2AV0HD4ZRtdCh6rdH16bOfejMHxISWdIO-ghbKaqo",
+      "pictureSource": "Noticias 112",
+      "relatedSearch": [
+        {
+          "title": "Meteorología mantiene aviso de fenómenos adversos de nivel amarillo por lluvias y tormentas para hoy domingo en Noroeste y Altiplano de la Región de Murcia – Noticias 112",
+          "snippet": "",
+          "url": "https://noticias.112rmurcia.es/meteorologia-emite-aviso-de-fenomenos-adversos-de-nivel-amarillo-por-lluvias-y-tormentas-para-manana-en-el-noroeste-de-la-region-de-murcia/",
+          "source": "Noticias 112"
+        },
+        {
+          "title": "Previsión de AEMET para Murcia mañana, lunes 29 de junio: consulta el tiempo",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/el-tiempo/2026-06-28/el-tiempo-en-murcia-lunes_4380078/",
+          "source": "El Confidencial"
+        },
+        {
+          "title": "La Aemet emite aviso amarillo por lluvias y tormentas para este domingo en la Región de Murcia",
+          "snippet": "",
+          "url": "https://www.laverdad.es/murcia/aemet-emite-aviso-amarillo-lluvias-tormentas-domingo-20260627130652-nt.html",
+          "source": "La Verdad"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "satya nadella",
       "trafficCount": "200+",
       "pubDate": "Sun, 28 Jun 2026 09:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNL0dXv0gn_tGrFktDYIwVVD99RF_DgBLp4dxpz1YKz5LZk0o4XE0VUmC8cF8",
-      "pictureSource": "Xataka",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq7LNJR1s_M2mZpXpI2J_HaOtVtzua-7AKXGaLOzrBW-wdXeW-ih2p2lg9oc",
+      "pictureSource": "Fortune",
       "relatedSearch": [
         {
-          "title": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
+          "title": "The 33-year-old executive Satya Nadella is trusting to fix Microsoft’s Copilot AI assistant",
           "snippet": "",
-          "url": "https://www.xataka.com/empresas-y-economia/satya-nadella-ceo-microsoft-sociedad-no-va-a-tolerar-que-solo-unas-pocas-empresas-hagan-todo-aprendizaje",
-          "source": "Xataka"
+          "url": "https://fortune.com/2026/06/27/microsoft-copilot-boss-jacob-andreou-tapped-by-satya-nadella-to-save-ai-strategy/",
+          "source": "Fortune"
         },
         {
-          "title": "Microsoft lanza un desafío a OpenAI y Anthropic: la estrategia de Satya Nadella que podría cambiar el negocio de la IA",
+          "title": "Microsoft promotes Jacob Andreou to lead Copilot AI strategy amid competitive challenges",
           "snippet": "",
-          "url": "https://es.benzinga.com/news/usa/stocks/microsoft-openai-anthropic-estrategia-ia-nadella-220626/",
-          "source": "Benzinga España"
+          "url": "https://cryptobriefing.com/microsoft-andreou-copilot-ai-leadership/",
+          "source": "Crypto Briefing"
         },
         {
-          "title": "Satya Nadella crítica la concentración de IA y avisa: 'La sociedad no lo tolerará'",
+          "title": "Exclusive | Microsoft’s Satya Nadella: We Can’t Let AI Giants Eat the Economy",
           "snippet": "",
-          "url": "https://www.que.es/2026/06/28/satya-nadella-critica-concentracion-ia/",
-          "source": "Qué.es"
+          "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
+          "source": "WSJ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bayern de múnich",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 28 Jun 2026 09:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_HwL_abOLn1XMNkgIdYzwEwQ8dgARAKQ2gtivgLEM2XEDXt-F0Mf6nVEhcLc",
       "pictureSource": "Goal.com",
@@ -133,38 +161,10 @@
           "source": "Afición Central"
         },
         {
-          "title": "Aniversario de «QUEERPASS» con Berni y Mia",
+          "title": "Pacto Bayern Munich-Real Madrid para el mercado de fichajes",
           "snippet": "",
-          "url": "https://fcbayern.com/es/noticias/2026/06/roja-contra-el-racismo-aniversario-de-queerpass-con-berni-y-mia",
-          "source": "FC Bayern"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "diario de navarra",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 28 Jun 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMukJIlR-FufAzxWdv_ZXbBSOEfiOtXXdFXCs8x6CU5UHS12mgFiTBh22Od7g",
-      "pictureSource": "EL PAÍS",
-      "relatedSearch": [
-        {
-          "title": "Un muerto y dos heridos atropellados por un camión de basura en Pamplona",
-          "snippet": "",
-          "url": "https://elpais.com/espana/2026-06-28/un-camion-de-la-basura-con-una-averia-en-los-frenos-atropella-a-varias-personas-en-el-casco-antiguo-de-pamplona.html",
-          "source": "EL PAÍS"
-        },
-        {
-          "title": "Un muerto y cuatro heridos al ser atropellados por un camión de recogida de residuos en Pamplona",
-          "snippet": "",
-          "url": "https://www.elmundo.es/espana/2026/06/28/6a41463ffdddffe41d8b458d.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "Vídeo de la trayectoria que ha seguido el camión siniestrado en Navarrería",
-          "snippet": "",
-          "url": "https://www.diariodenavarra.es/multimedia/videos/navarra/pamplona-comarca/2026/06/28/video-trayectoria-seguido-camion-siniestrado-navarreria.html",
-          "source": "Diario de Navarra"
+          "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260628/1004200376/pacto-bayern-munich-real-madrid-mercado-fichajes.html",
+          "source": "Mundo Deportivo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,28 +199,28 @@
     },
     {
       "title": "fernando alonso",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 28 Jun 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPKumV4HPkSLuUU7ovBoAfxa6VvGqZEKTa8UQKEWhAMxMpGxYcvhZcXg2dg8s",
-      "pictureSource": "MARCA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbrRqxTu2e2-cycvWiT5h_mmeMYOfwTGDlXU11btv2DcibH67OPV4dAP3E7Uo",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "La resolución de los comisarios sobre Alonso, tras el GP de Austria",
+          "title": "Solo Alonso sobrevive atrás",
           "snippet": "",
-          "url": "https://www.marca.com/motor/formula1/gp-austria/2026/06/28/resolucion-comisarios-sobre-alonso-gp-austria.html",
+          "url": "https://as.com/motor/formula_1/solo-alonso-sobrevive-atras-f202606-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Alonso recupera el optimismo: \"Todo dependerá del coche... mejor si nos da tres segundos\"",
+          "snippet": "",
+          "url": "https://www.marca.com/motor/formula1/gp-austria/2026/06/27/alonso-recupera-optimismo-dependera-coche-mejor-da-tres-segundos.html",
           "source": "MARCA"
         },
         {
-          "title": "Fernando Alonso, irónico con la FIA tras su sanción con Aston Martin F1 en el GP de Austria: \"Lo mismo cae...\"",
+          "title": "Fernando Alonso sube el ánimo a Aston Martin F1 tras la debacle en el GP de Austria: \"Empiezo a ver la luz...\"",
           "snippet": "",
-          "url": "https://www.caranddriver.com/es/formula-1/a71760931/fernando-alonso-ironico-fia-sancion-aston-martin-f1-gp-austria/",
+          "url": "https://www.caranddriver.com/es/formula-1/a71754652/fernando-alonso-animo-aston-martin-f1-debacle-gp-austria-ver-luz/",
           "source": "Car and Driver"
-        },
-        {
-          "title": "Alonso pone en su sitio a la FIA por su sanción y la permisividad con Russell: «Lo mismo me meten 3 segundo...",
-          "snippet": "",
-          "url": "https://okdiario.com/deportes/alonso-pone-sitio-fia-sancion-permisividad-russell-lo-mismo-meten-3-segundos-18877123",
-          "source": "OkDiario"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -255,28 +255,28 @@
     },
     {
       "title": "noticias de navarra",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 28 Jun 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-1aM4pSW5UHgMzDnOBXA36CW455Lw-SwRXhRg5CS5DjubA1whXEVO4ZE8Krs",
-      "pictureSource": "El Mundo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMukJIlR-FufAzxWdv_ZXbBSOEfiOtXXdFXCs8x6CU5UHS12mgFiTBh22Od7g",
+      "pictureSource": "EL PAÍS",
       "relatedSearch": [
         {
-          "title": "Raúl Estévez, geofísico venezolano: \"Desde finales del siglo pasado se advertía que el próximo gran terremoto sería en el occidente de Venezuela\"",
+          "title": "Un muerto y dos heridos atropellados por un camión de basura en Pamplona",
           "snippet": "",
-          "url": "https://www.elmundo.es/internacional/2026/06/28/6a3e9957e9cf4a2f378b4599.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "Terremoto en Venezuela: la carrera por encontrar vida entre los escombros, en imágenes",
-          "snippet": "",
-          "url": "https://elpais.com/america/internacional/2026-06-28/terremoto-en-venezuela-la-carrera-por-encontrar-vida-entre-los-escombros-en-imagenes.html",
+          "url": "https://elpais.com/espana/2026-06-28/un-camion-de-la-basura-con-una-averia-en-los-frenos-atropella-a-varias-personas-en-el-casco-antiguo-de-pamplona.html",
           "source": "EL PAÍS"
         },
         {
-          "title": "Las viviendas sociales de Hugo Chávez se desploman como castillos de arena",
+          "title": "Una persona fallecida y dos heridas tras ser atropelladas por un camión en Pamplona",
           "snippet": "",
-          "url": "https://www.abc.es/internacional/viviendas-sociales-hugo-chavez-desploman-castillos-arena-20260627022559-nt.html",
+          "url": "https://www.abc.es/espana/persona-fallecida-dos-heridas-tras-atropelladas-camion-20260628195149-nt.html",
           "source": "ABC"
+        },
+        {
+          "title": "Un muerto y cuatro heridos al ser atropellados por un camión de recogida de residuos en Pamplona",
+          "snippet": "",
+          "url": "https://www.elmundo.es/espana/2026/06/28/6a41463ffdddffe41d8b458d.html",
+          "source": "El Mundo"
         }
       ],
       "link": "https://imtaqin.id/"
