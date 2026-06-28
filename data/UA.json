@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-06-28 17:07:05",
+  "lastUpdate": "2026-06-28 17:38:01",
   "data": [
     {
+      "title": "землетрус",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 28 Jun 2026 10:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-8wJeVv-DCT3QrPPOPIZT3xz3xuglawPbRgq9DZQ0sJvjwDVMQyinU0X5AlY",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "\"Я чую, як мій син плаче під руїнами\" - венесуельці шукають рідних після землетрусу",
+          "snippet": "",
+          "url": "https://www.bbc.com/ukrainian/articles/cm2jx3pvd4po",
+          "source": "BBC"
+        },
+        {
+          "title": "Землетруси у Венесуелі: кількість загиблих перевищила 1 400 осіб",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/news/2026/06/28/8041417/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Кількість загиблих через землетрус у Венесуелі сягнула 1430",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-world/4138336-kilkist-zagiblih-cerez-zemletrus-u-venesueli-sagnula-1430.html",
+          "source": "Укрінформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мая санду",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 28 Jun 2026 10:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgH62PsQOqaGTJ7mrpvuzZmsF_14TbwWfBINF4K31QCdKIgMubDyoiS9Sin0c",
+      "pictureSource": "Укрінформ",
+      "relatedSearch": [
+        {
+          "title": "На переговорах щодо завершення війни в Україні ЄС може розглянути придністровську проблему - Санду",
+          "snippet": "",
+          "url": "https://www.ukrinform.ua/rubric-world/4138396-na-peregovoriv-sodo-zaversenna-vijni-v-ukraini-es-moze-rozglanuti-pridnistrovsku-problemu-sandu.html",
+          "source": "Укрінформ"
+        },
+        {
+          "title": "Молдова хоче включити пункт про Придністров'я у переговори України з РФ",
+          "snippet": "",
+          "url": "https://ua.korrespondent.net/world/4889853-moldova-khoche-vkluichyty-punkt-pro-prydnistrovia-u-perehovory-ukrainy-z-rf",
+          "source": "Korrespondent.net"
+        },
+        {
+          "title": "Санду заявила, що на переговорах щодо України ЄС може порушити питання про виведення військ РФ з Придністров'я",
+          "snippet": "",
+          "url": "https://nv.ua/ukr/world/geopolitics/vivedennya-viysk-rf-z-pridnistrov-ya-sandu-zayavila-shcho-pitannya-mozhut-porushiti-na-peregovorah-shchodo-ukrajini-50619911.html",
+          "source": "NV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "казахстан",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 28 Jun 2026 10:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3qfc_5KSPO6LUKrMT5cPMwTmCSEwRKPBhW-ybEfCczl1fDAuiYUPECukt0o",
+      "pictureSource": "Гордон",
+      "relatedSearch": [
+        {
+          "title": "Трамп заключил многомиллиардную сделку с Казахстаном, прибыль получат его сыновья – NYT",
+          "snippet": "",
+          "url": "https://gordonua.com/section-worldnews/news-tramp-uklav-bahatomilyardnu-uhodu-z-kazakhstanom-prybutok-otrymayut-yoho-syny-nyt-28-06-2026.html",
+          "source": "Гордон"
+        },
+        {
+          "title": "NYT: Трамп заключил сделку по вольфраму с Казахстаном — прибыль получат сыновья",
+          "snippet": "",
+          "url": "https://eadaily.com/ru/news/2026/06/28/nyt-tramp-zaklyuchil-sdelku-po-volframu-s-kazahstanom-pribyl-poluchat-synovya",
+          "source": "EADaily"
+        },
+        {
+          "title": "Сыновья Трампа оказались бенефициарами сделки, оплаченной из бюджета США",
+          "snippet": "",
+          "url": "https://rtvi.com/news/synovya-trampa-okazalis-beneficziarami-sdelki-oplachennoj-iz-byudzheta-ssha/",
+          "source": "RTVI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "единая россия",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 28 Jun 2026 09:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkL3njIGSCoDrg-TJSuKpn_1vYXJPCqHanpFI6y7qSBhhUIykKlI8XjFSorwc",
       "pictureSource": "Українська правда",
@@ -43,16 +127,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "ОК «Південь» повідомило про виявлення без ознак життя командира 154-ї окремої механізованої бригади, полковника Володимира Кононнікова",
+          "title": "Командувача 154 бригади Кононнікова знайшли мертвим. Що відомо",
           "snippet": "",
-          "url": "https://donpatriot.news/ok-pivden-povidomylo-pro-vyyavlennya-bez-oznak-zhyttya-komandyra-154-yi-okremoyi-mehanizovanoyi-brygady-polkovnyka-volodymyra-kononnikova",
-          "source": "Патріот Донбасу"
+          "url": "https://www.bbc.com/ukrainian/articles/c14yrl7evdro",
+          "source": "BBC"
         },
         {
-          "title": "Командира 154 ОМБр знайшли мертвим",
+          "title": "Командира 154-ї ОМБр Володимира Кононнікова знайшли мертвим",
           "snippet": "",
-          "url": "https://hromadske.ua/suspilstvo/266710-komandyra-154-yi-ombr-znayshly-mertvym",
-          "source": "Hromadske"
+          "url": "https://24tv.ua/komandira-154-yi-ombr-volodimira-kononnikova-znayshli-mertvim_n3095994",
+          "source": "24 Канал"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,35 +171,35 @@
     },
     {
       "title": "володимир путін",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sun, 28 Jun 2026 08:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd8itEpgQl9i0uDxDA_MEpQUThpk93Wh71I0jlI17GrYtU6de1vO9BFjC0drA",
-      "pictureSource": "NV",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHknz6EVjyxB_8i2nir2NLMZmHMpbKEBJk3Dl0UZMkayee2OGMD6u5q4uwI7s",
+      "pictureSource": "Інтерфакс-Україна",
       "relatedSearch": [
         {
-          "title": "Путін, який боїться втратити Крим, опинився перед вибором із двох варіантів — The Sunday Times",
+          "title": "Путін заговорив про \"доленосний\" час для Росії",
           "snippet": "",
-          "url": "https://nv.ua/ukr/world/geopolitics/volodimir-putin-poboyuyuchis-vtratiti-krim-mozhe-piti-dvoma-shlyahami-yake-rishennya-mozhe-priynyati-kreml-50619920.html",
+          "url": "https://interfax.com.ua/news/political/1180378.html",
+          "source": "Інтерфакс-Україна"
+        },
+        {
+          "title": "Путін видав низку абсурдних заяв про війну в Україні",
+          "snippet": "",
+          "url": "https://glavcom.ua/world/world-politics/putin-vidav-nizku-absurdnikh-zajav-pro-vijnu-v-ukrajini--1128401.html",
+          "source": "Главком"
+        },
+        {
+          "title": "Путін поскаржився, що Захід «випробовує на міцність» Росію та озвучив вигадку про відступ України",
+          "snippet": "",
+          "url": "https://nv.ua/ukr/world/geopolitics/putin-vigoloshuye-vigadki-pro-vidstup-ukrajini-padinnya-pidtrimki-v-rosiji-50619947.html",
           "source": "NV"
-        },
-        {
-          "title": "Загроза втрати Криму поставила Путіна перед вибором із двох варіантів — Times",
-          "snippet": "",
-          "url": "https://tsn.ua/ukrayina/zahroza-vtraty-krymu-postavyla-putina-pered-vyborom-iz-dvokh-variantiv-times-3116204.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Британська розвідка проаналізувала українські удари по Криму та вказала на подальші цілі",
-          "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2026/06/27/8041385/",
-          "source": "Українська правда"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "спека",
-      "trafficCount": "5000+",
+      "trafficCount": "10000+",
       "pubDate": "Sun, 28 Jun 2026 08:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpowD5DUwr942M3w9mwGSn9MYmRs9pMdy5JeX-DG43HSwA7cMM9_A27XTl9xk",
       "pictureSource": "ТСН",
@@ -145,20 +229,20 @@
       "title": "железнодорожный мост",
       "trafficCount": "2000+",
       "pubDate": "Sun, 28 Jun 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf2r9dJ1AIkOablGfZj-bexFnwj_F_8Bc-2-3DwfEj-oLycuok1PH8wURrdbo",
-      "pictureSource": "РБК-Україна",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4Lo_U8eNJUqBPIqbjhKY1rWgFF-m7LqEcXa-AE_cleX-ZeRSDxeqQ_5bU-I",
+      "pictureSource": "NV",
       "relatedSearch": [
-        {
-          "title": "Силы обороны ударили по железнодорожному мосту в Крыму",
-          "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/genshtab-zayaviv-urazhennya-strategichnogo-1782650687.html",
-          "source": "РБК-Україна"
-        },
         {
           "title": "«Все сводится к Крымскому мосту». В ВМС рассказали о новой части масштабной операции в оккупированном Крыму",
           "snippet": "",
           "url": "https://nv.ua/ukraine/events/v-vms-vsu-rasskazali-o-novoy-chasti-masshtabnoy-operacii-v-krymu-i-chto-budet-dalshe-50619901.html",
           "source": "NV"
+        },
+        {
+          "title": "Силы обороны ударили по железнодорожному мосту в Крыму",
+          "snippet": "",
+          "url": "https://www.rbc.ua/ukr/news/genshtab-zayaviv-urazhennya-strategichnogo-1782650687.html",
+          "source": "РБК-Україна"
         },
         {
           "title": "Генштаб: Украина нанесла удар по железнодорожному мосту в Крыму, по которому РФ перебрасывала войска",
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://english.news.cn/20260628/8d0c4b252b6145b895633570bd453bf8/c.html",
           "source": "Xinhua"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "турнирная сетка чемпионата мира по футболу fifa – 2026",
-      "trafficCount": "10000+",
-      "pubDate": "Sun, 28 Jun 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9R4FwqH5ZX2YS-rYH-_09U7nPTQ8Kqcv9tSzyGMQ8CtEKMv4WHHz_gx6L-VU",
-      "pictureSource": "Champion.com.ua",
-      "relatedSearch": [
-        {
-          "title": "Определились все пары 1/16 финала чемпионата мира 2026",
-          "snippet": "",
-          "url": "https://champion.com.ua/rus/football/opredelilis-vse-pary-1-16-finala-chm-2026-po-futbolu-raspisanie-matchey-1078024/",
-          "source": "Champion.com.ua"
-        },
-        {
-          "title": "ДР Конго впервые в плей-офф, а Узбекистан летит домой. Месси выходит на замену и снова забивает. Стали известны все пары 1/16 финала",
-          "snippet": "",
-          "url": "https://meduza.io/feature/2026/06/28/dr-kongo-vpervye-v-pley-off-a-uzbekistan-letit-domoy-messi-vyhodit-na-zamenu-i-snova-zabivaet-stali-izvestny-vse-pary-1-16-finala",
-          "source": "Meduza"
-        },
-        {
-          "title": "Определились все участники плей-офф Чемпионата мира по футболу-2026",
-          "snippet": "",
-          "url": "https://sud.ua/ru/news/abroad/365062-viznachilis-usi-uchasniki-pley-off-chempionatu-svitu-z-futbolu-2026",
-          "source": "Судово-юридична газета"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "чорнобильський радіаційно-екологічний біосферний заповідник",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 28 Jun 2026 06:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy861qcovyICB9HXtTISmCmoizWGUQMCVUI9XHlU5cROhVTG4YMIlcb6DWbho",
-      "pictureSource": "Вечірній Київ",
-      "relatedSearch": [
-        {
-          "title": "Після сутички з ведмедем: у Чорнобилі знову помітили легендарне стадо здичавілих корів. ФОТО",
-          "snippet": "",
-          "url": "https://vechirniy.kyiv.ua/news/129084/",
-          "source": "Вечірній Київ"
-        },
-        {
-          "title": "Неочікувана зустріч: невловне здичавіле стадо корів помітили у Чорнобильському заповіднику",
-          "snippet": "",
-          "url": "https://life.pravda.com.ua/society/u-chornobilskomu-zapovidniku-pomitili-nevlovne-stalo-koriv-315865/",
-          "source": "УП. Життя"
-        },
-        {
-          "title": "«Застати його — велика удача». На території Чорнобильського заповідника помітили здичавіле стадо корів",
-          "snippet": "",
-          "url": "https://hromadske.ua/lifestyle/266694-zastaty-yoho-velyka-udacha-na-terytoriyi-chornobylskoho-zapovidnyka-pomityly-zdychavile-stado-koriv",
-          "source": "Hromadske"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "адмірал нахімов",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 28 Jun 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpz5wHF-MsLYwBVO2S5GR9mRIVkipTfC_WSc7E2-Ie_VeU_3UzxojMgr1DdzA",
-      "pictureSource": "УНІАН",
-      "relatedSearch": [
-        {
-          "title": "Росія вперше за 29 років повернула до ладу найбільший бойовий корабель у світі: що відомо",
-          "snippet": "",
-          "url": "https://www.unian.ua/weapons/naybilshiy-rosiyskiy-kreyser-admiral-nahimov-povernuvsya-do-syeveromorska-shcho-ce-oznachaye-13424922.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Росія вперше за 29 років повернула до бази атомний крейсер \"Адмірал Нахімов\"",
-          "snippet": "",
-          "url": "https://24tv.ua/admiral-nahimov-pislya-29-rokiv-remontu-povernuvsya-striy_n3095843",
-          "source": "24 Канал"
-        },
-        {
-          "title": "Росія повернула гігантський атомний крейсер: чим озброїли найбільший бойовий корабель",
-          "snippet": "",
-          "url": "https://enovosty.com/uk/news-ukr/war-ukr/full/rosiya-povernula-gigantskij-atomnij-krejser-chim-ozbroili-najbilshij-bojovij-korabel",
-          "source": "Экономические новости"
         }
       ],
       "link": "https://imtaqin.id/"
