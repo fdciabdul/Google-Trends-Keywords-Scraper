@@ -1,103 +1,199 @@
 {
-  "lastUpdate": "2026-07-02 01:16:46",
+  "lastUpdate": "2026-07-02 05:10:25",
   "data": [
     {
-      "title": "французький квартал",
-      "trafficCount": "10000+",
-      "pubDate": "Wed, 1 Jul 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWaoTgjihMsx1fhwldtmlSaXL914GmRcmAQvOjTb_6f7RYEuN1zrxmgnj0b6k",
-      "pictureSource": "Апостроф",
+      "title": "погода ужгород",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 1 Jul 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4v9RNFuNf3U2Vo8-EMqXOxCRzwiRanfKtQnNz89B4BS-FkbsCBXuNaiwJnq8",
+      "pictureSource": "Інформатор Буча, Ірпінь, Гостомель",
       "relatedSearch": [
         {
-          "title": "Рятувальники ліквідували пожежу на складах в Києві після атаки 25 червня",
+          "title": "На Київщині очікуються грози",
           "snippet": "",
-          "url": "https://apostrophe.ua/society/kijivski-rjatuvalniki-likviduvali-pozhezhu-pislja-vechirnoji-ataki-rf-foto-naslidkiv.html",
-          "source": "Апостроф"
+          "url": "https://big.informator.ua/uk/2026/06/23/na-kyyivshhyni-ochikuyutsya-grozy/",
+          "source": "Інформатор Буча, Ірпінь, Гостомель"
         },
         {
-          "title": "Київ масовано обстріляли балістикою: що відомо про постраждалих та руйнування",
+          "title": "На Тернопільщині прогнозують грози та град",
           "snippet": "",
-          "url": "https://www.slovoidilo.ua/2026/07/02/novyna/bezpeka/kyyiv-masovano-obstrilyaly-balistykoyu-vidomo-pro-postrazhdalyx-ta-rujnuvannya",
-          "source": "Слово і Діло"
+          "url": "https://suspilne.media/ternopil/1345084-na-ternopilsini-prognozuut-grozi-ta-grad-2/",
+          "source": "Суспільне | Новини"
         },
         {
-          "title": "Через російські удари по Києву є руйнування в житлових будинках та медзакладі: постраждали люди",
+          "title": "На Львів насувається негода: синоптики попередили про небезпку 1 липня (інфографіка)",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/news/2026/07/02/8042014/",
-          "source": "Українська правда"
+          "url": "https://www.unian.ua/pogoda/news/pogoda-lviv-1-lipnya-ogolosheno-shtormove-poperedzhennya-novini-lvova-13427685.html",
+          "source": "УНІАН"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "водоснабжение",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 1 Jul 2026 21:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "топливо",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 1 Jul 2026 19:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3EGKW6X6J0P30PtAwONRv2lRGKL6bC-I8BheNAlpzPWgLktmNHTtyOz2ChyU",
+      "pictureSource": "Економічна правда",
+      "relatedSearch": [
+        {
+          "title": "Цены на топливо в России теперь под цензурой",
+          "snippet": "",
+          "url": "https://epravda.com.ua/rus/biznes/rossiyskomu-statisticheskomu-vedomstvu-zapretili-publikovat-ceny-na-toplivo-823195/",
+          "source": "Економічна правда"
+        },
+        {
+          "title": "Росстат: за неделю цены на топливо в РФ выросли еще сильнее",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/rosstat-za-nedelyu-tseny-na-toplivo-v-rf-vyrosli-esche-siljnee/33794162.html",
+          "source": "Радио Свобода"
+        },
+        {
+          "title": "В России засекретили данные о ценах на бензин",
+          "snippet": "",
+          "url": "https://ru.krymr.com/a/news-rossiya-zasekretili-tseny-benzin/33792058.html",
+          "source": "Крым.Реалии"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "бпла бандероль",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 1 Jul 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2VxzL92lv2GvmaGLDrZxTw_5ZEnEByE-ZQUeUMgl5naLMrqin94Q3lwe7hps",
+      "pictureSource": "УНІАН",
+      "relatedSearch": [
+        {
+          "title": "Росіяни збили власний носій крилатих ракет \"Бандероль\" у Криму",
+          "snippet": "",
+          "url": "https://www.unian.ua/weapons/orion-rosiyani-zbili-vlasniy-nosiy-krilatih-raket-banderol-u-krimu-13426239.html",
+          "source": "УНІАН"
+        },
+        {
+          "title": "Росія стрімко втрачає носії новітніх ракет: за тиждень мінус чотири Оріони",
+          "snippet": "",
+          "url": "https://www.ukr.net/news/details/russianaggression/118236536.html",
+          "source": "UKR.NET"
+        },
+        {
+          "title": "рф втратила носій крилатих ракет - БПЛА \"Орион\", ймовірно, збила власна ППО",
+          "snippet": "",
+          "url": "https://unn.ua/news/rf-vtratyla-nosii-krylatykh-raket-bpla-oryon-ymovirno-zbyla-vlasna-ppo",
+          "source": "Українські Національні Новини (УНН)"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "новости киев",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 1 Jul 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzngsAJWESWt2BHb7wa7SqXJpK-BQdG_KXsQiRM3BvvFT8oTCvf7imdTS4TiI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSflBhO1GPfyu1x9yoJWaqzj9leQuM3IyYcydfr4BrPx0FY4OcTVVOxMtxKFnU",
       "pictureSource": "Українська правда",
       "relatedSearch": [
         {
-          "title": "В Киеве слышны взрывы: зафиксировано падение обломков, есть угроза ударов БпЛА",
+          "title": "В Киеве два человека погибли в результате российской атаки, ещё 20 — пострадали",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/07/02/8042001/",
+          "url": "https://www.pravda.com.ua/rus/news/2026/07/02/8042019/",
           "source": "Українська правда"
         },
         {
-          "title": "В Киеве после атаки РФ заблокированы люди в домах, количество пострадавших возросло — Кличко",
+          "title": "В Киеве ракета попала в многоэтажку: в Дарницком районе разрушены шесть этажей - Кличко",
           "snippet": "",
-          "url": "https://kyiv.tsn.ua/ru/kyiv/v-kieve-posle-ataki-rf-zablokirovany-lyudi-v-domah-kolichestvo-postradavshih-vozroslo-klichko-3118823.html",
+          "url": "https://kyiv.tsn.ua/ru/kyiv/v-kieve-raketa-popala-v-mnogoetazhku-v-darnitskom-rayone-razrusheny-shest-etazhey-klichko-3118835.html",
           "source": "ТСН"
         },
         {
-          "title": "Взрывы в Киеве 1 июля: в городе работает ПВО по вражеским БпЛА",
+          "title": "Повреждения на 30 локациях. В Киеве после атаки РФ разрушены многоэтажные дома на Дарнице, Печерске и в других районах — фоторепортаж",
           "snippet": "",
-          "url": "https://fakty.com.ua/ru/proisshestvija/20260701-vybuhy-u-kyyevi-1-lypnya-na-pidstupah-do-mista-pratsyuye-ppo-po-vorozhyh-bpla/",
+          "url": "https://nv.ua/kyiv/massirovannyy-udar-po-kievu-povrezhdeniya-zafiksirovali-na-28-lokaciyah-v-devyati-rayonah-goroda-50620967.html",
+          "source": "NV"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "х101",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 1 Jul 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZYz_v5ADrXkn45ZtSpw2AJny0JFhGYzZ62_p_hrSJQFYLErGyNpeHflfw5Q",
+      "pictureSource": "Факти ICTV",
+      "relatedSearch": [
+        {
+          "title": "Ракеты Х-101: что известно о снаряде, характеристики и дальность действия",
+          "snippet": "",
+          "url": "https://fakty.com.ua/ru/ukraine/20260702-rakety-h-101-shho-vidomo-pro-snaryad-harakterystyky-ta-dalnist-diyi/",
           "source": "Факти ICTV"
+        },
+        {
+          "title": "Ракети Х-101: що відомо про снаряд, характеристики та дальність дії",
+          "snippet": "",
+          "url": "https://fakty.com.ua/ua/ukraine/20260702-rakety-h-101-shho-vidomo-pro-snaryad-harakterystyky-ta-dalnist-diyi/",
+          "source": "Факти ICTV"
+        },
+        {
+          "title": "Х-101: стратегічна крилата ракета Росії – характеристики, модернізації та застосування",
+          "snippet": "",
+          "url": "https://netfreedom.org.ua/kh-101-stratehichna-krylata-raketa-rosii-kharakterystyky-modernizatsii-ta-zastosuvannia/",
+          "source": "netfreedom.org.ua"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "сша – боснія і герцеговина",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Wed, 1 Jul 2026 16:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgMY3neB5CJBB4a1oZ5XS2pOP1NRqG1QlIL4hTXqTjegzu3qjhY5XWRw6JN9U",
-      "pictureSource": "Sport.nv.ua.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7hnweZkHdq5ZNwG-Cm8i6e2K2BKeLEHFSjqXITlRNhSglFs4-v0b2sDpdO4",
+      "pictureSource": "Champion.com.ua",
       "relatedSearch": [
         {
-          "title": "США — Босния и Герцеговина: анонс матча 1/16 финала ЧМ-2026",
+          "title": "Сборная США в меньшинстве обыграла Боснию и Герцеговину в 1/16 финала ЧМ-2026",
           "snippet": "",
-          "url": "https://sport.nv.ua/chm-2026/ssha-bosniya-anons-matcha-chm-2026-prognozy-stavki-translyaciya-50620953.html",
-          "source": "Sport.nv.ua."
+          "url": "https://champion.com.ua/rus/football/ssha-bosniya-i-gercegovina-rezultat-matcha-1-16-finala-chm-2026-kto-vyshel-v-pley-off-2-iyulya-1078460/",
+          "source": "Champion.com.ua"
         },
         {
-          "title": "Определены стартовые составы на матч США - Босния и Герцеговина на ЧМ-2026",
+          "title": "\"Почему Месси не удалили?\". В США разгневаны красной карточкой лидера сборной",
           "snippet": "",
-          "url": "https://www.ua-football.com/foreign/worldcup/1782947050-opredeleny-startovye-sostavy-na-match-ssha-bosniya-i-gercegovina-na-chm-2026.html",
+          "url": "https://www.ua-football.com/foreign/worldcup/1782963328-pochemu-messi-ne-udalili-v-ssha-razgnevany-krasnoy-kartochkoy-lidera-sbornoy.html",
           "source": "UA-Football"
         },
         {
-          "title": "«Аутсайдеру к своему статусу не привыкать». Безус – о матче США – Босния",
+          "title": "США в меньшинстве победили Боснию и Герцеговину, выйдя в 1/8 финала ЧМ-2026",
           "snippet": "",
-          "url": "https://sport.ua/news/885345-autsayderu-k-svoemu-statusu-ne-privykat-bezus-o-matche-ssha-bosniya",
-          "source": "Sport.ua"
+          "url": "https://tsn.ua/ru/prosport/ssha-v-menshinstve-pobedili-bosniyu-i-gertsegovinu-vyydya-v-18-finala-chm-2026-3118853.html",
+          "source": "ТСН"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "деснянський район",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 1 Jul 2026 16:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "belgium vs senegal",
       "trafficCount": "100+",
       "pubDate": "Wed, 1 Jul 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT30_kcMkSilt7wdda3n0UnpF4XbNbp1R2lFzGljt4eKwK0JGsP1IGiT5QKhTY",
-      "pictureSource": "Flashscore.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx_JxiFjKP6zElDv3BVX4qn_si0MOq2-tlcAFLfvYncrqBYxj1miW144q49Tg",
+      "pictureSource": "BBC",
       "relatedSearch": [
-        {
-          "title": "Belgium - Senegal",
-          "snippet": "",
-          "url": "https://www.flashscore.com/match/football/belgium-GbB957na/senegal-hOIsJLJr/",
-          "source": "Flashscore.com"
-        },
         {
           "title": "Belgium vs Senegal LIVE: FIFA World Cup Round of 32 score, commentary & updates",
           "snippet": "",
@@ -105,159 +201,44 @@
           "source": "BBC"
         },
         {
-          "title": "Brussels was HYPED after the game-winner 🇧🇪",
+          "title": "Who Is Belgium's Next World Cup Opponent?",
           "snippet": "",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-nniwd6y792veitks",
+          "url": "https://www.foxsports.com/stories/soccer/belgium-next-world-cup-opponent",
           "source": "FOX Sports"
+        },
+        {
+          "title": "Belgium player ratings vs Senegal: Back from the brink! Youri Tielemans caps remarkable World Cup comeback after Kevin De Bruyne & Co. produce dire display that goes unpunished",
+          "snippet": "",
+          "url": "https://www.goal.com/en-ca/lists/belgium-player-ratings-senegal-world-cup-youri-tielemans-kevin-de-bruyne/blt5a6239978c7e8993",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ту 95мс",
+      "title": "чс",
       "trafficCount": "100+",
-      "pubDate": "Wed, 1 Jul 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-kjTJYYC1OY0X8peDKKdAkbhbTdzu7ah1_s26BeOs6S5pQA51yEmDvKnCPI",
-      "pictureSource": "Українська правда",
+      "pubDate": "Wed, 1 Jul 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST64f_7yUzTGcnGMIuJwu7ZjvftxQ0-_JVF7kc8P1aKhfH3bbsEs1gmSgMfZQ",
+      "pictureSource": "Champion.com.ua",
       "relatedSearch": [
         {
-          "title": "Зеленский предупредил украинцев о подготовке нового массированного удара со стороны РФ",
+          "title": "Бельгія з неймовірним камбеком переграла Сенегал та вийшла в 1/8 фіналу ЧС-2026",
           "snippet": "",
-          "url": "https://www.pravda.com.ua/rus/news/2026/07/01/8041983/",
-          "source": "Українська правда"
+          "url": "https://champion.com.ua/ukr/football/zbirna-belgiji-u-dramatichnomu-matchi-peregrala-senegal-v-1-16-finalu-chs-2026-1078451/",
+          "source": "Champion.com.ua"
         },
         {
-          "title": "Россия готовит новый обстрел, Зеленский срочно возвращается в Украину",
+          "title": "Перемога, в яку ніхто не вірив. Бельгія обіграла Сенегал",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/rosiya-gotue-noviy-obstril-zelenskiy-terminovo-1782923477.html",
-          "source": "РБК-Україна"
+          "url": "https://sport.ua/uk/news/885493-peremoga-v-yaku-nihto-ne-viriv-belgiya-obigrala-senegal",
+          "source": "Sport.ua"
         },
         {
-          "title": "Зеленский: Россия готовит массированный удар по Украине",
+          "title": "Бельгія завдяки пенальті на 120-й хвилині перемогла Сенегал і вийшла до 1/8 фіналу ЧС-2026 з футболу",
           "snippet": "",
-          "url": "https://nv.ua/ukraine/events/zelenskiy-rosiya-gotuye-masovaniy-udar-po-ukrajini-50620920.html",
-          "source": "NV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dimap",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 1 Jul 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSch0_NgDngAs0jfDRGLRhad--2v5KW8an1JU9vWaCNnO0tV_K9UmjKrLrcz6Q",
-      "pictureSource": "DIE ZEIT",
-      "relatedSearch": [
-        {
-          "title": "Berlin: Linke führt in Wahlumfrage für Berliner Abgeordnetenhaus",
-          "snippet": "",
-          "url": "https://www.zeit.de/politik/deutschland/2026-07/abgeordnetenhauswahl-berlin-2026-umfrage-rbb-infratest-dimap",
-          "source": "DIE ZEIT"
-        },
-        {
-          "title": "BerlinTrend - Wohnen eindeutig das wichtigste Wahl-Thema",
-          "snippet": "",
-          "url": "https://www.rbb-online.de/abendschau/videos/20260701_1930/Wohnen_wahlthema.html",
-          "source": "rbb24.de"
-        },
-        {
-          "title": "Linke vorn, CDU fällt zurück Wegner nennt Umfrage zur Berlin-Wahl „Warnsignal für die Stadt“",
-          "snippet": "",
-          "url": "https://www.tagesspiegel.de/berlin/linke-vorn-cdu-fallt-zuruck-wegner-nennt-umfrage-zur-berlin-wahl-warnsignal-fur-die-stadt-15783882.html",
-          "source": "Tagesspiegel"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "карта",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 1 Jul 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMtyJgqQbI-C-1Bn3d9xZAeeK2OS-RcZzGVDi2HWCMfKN_w7ou0cKvNQpHE1M",
-      "pictureSource": "Независимая газета",
-      "relatedSearch": [
-        {
-          "title": "ВС РФ взяли под контроль Украинское Харьковской области и освободили Копани на Запорожье / Новости",
-          "snippet": "",
-          "url": "https://www.ng.ru/news/842302.html",
-          "source": "Независимая газета"
-        },
-        {
-          "title": "Военные РФ заявили о взятии под контроль трех сел в зоне СВО",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1099214",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Военкор Подоляка сообщил о прорыве российской армии в Запорожской области",
-          "snippet": "",
-          "url": "https://nsn.fm/in-the-world/voenkor-podolyaka-soobschil-o-proryve-rossiiskoi-armii-v-zaporozhskoi-oblasti",
-          "source": "Национальная Служба Новостей"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "аргентина кабо верде",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 1 Jul 2026 13:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "мохаммад захур",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 1 Jul 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-HE_vllMrOLBrFG-CB6gmDfSx_nbJ-CnWWfVV4a_o0S_XpTi863bf5RHgH6Y",
-      "pictureSource": "Korrespondent.net",
-      "relatedSearch": [
-        {
-          "title": "Камалию заподозрили во лжи о разводе с Захуром",
-          "snippet": "",
-          "url": "https://korrespondent.net/lifestyle/4890773-kamalyui-zapodozryly-vo-lzhy-o-razvode-s-zakhurom",
-          "source": "Korrespondent.net"
-        },
-        {
-          "title": "Камалия показалась в объятиях экс-супруга и как с ним наслаждается отдыхом за границей",
-          "snippet": "",
-          "url": "https://tsn.ua/ru/glamur/kamaliya-pokazalas-v-obyatiyah-eks-muzha-i-kak-s-nim-naslazhdaetsya-otdyhom-za-granitsey-3117791.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "Камалию с ее бывшим мужем-миллиардером заподозрили во лжи \"ради пиара\"",
-          "snippet": "",
-          "url": "https://www.unian.net/lite/stars/kamaliya-i-mohammad-zahur-razozlili-set-paru-zapodozrili-vo-lzhi-radi-piara-13427964.html",
-          "source": "УНИАН"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "китайский гороскоп",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 1 Jul 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBN_Wfqq-NnNd_QAGEThP8IVz1292YNeLrVh_K03G9HzdZxN4FGn6Y2M0RdEI",
-      "pictureSource": "ТСН",
-      "relatedSearch": [
-        {
-          "title": "Гороскоп на 1 июля для всех знаков Зодиака: день, когда нужно соблюдать осторожность",
-          "snippet": "",
-          "url": "https://tsn.ua/ru/lady/astrologiya/goroskop-na-1-iyulya-dlya-vseh-znakov-zodiaka-den-kogda-nuzhno-soblyudat-ostorozhnost-3116807.html",
-          "source": "ТСН"
-        },
-        {
-          "title": "День для практических шагов без излишней суеты - гороскоп на сегодня, 1 июля",
-          "snippet": "",
-          "url": "https://informator.ua/ru/goroskop-na-1-iyulya-2026",
-          "source": "Інформатор UA"
-        },
-        {
-          "title": "Хорошее настроение и приятные встречи: что ждет каждого знака зодиака 1 июля",
-          "snippet": "",
-          "url": "https://www.obozrevatel.com/novosti-obschestvo/horoshee-nastroenie-i-priyatnyie-vstrechi-chto-zhdet-kazhdogo-znaka-zodiaka-1-iyulya.htm",
-          "source": "Obozrevatel"
+          "url": "https://suspilne.media/sport/1345140-belgia-zavdaki-penalti-na-120-j-hvilini-peremogla-senegal-i-vijsla-do-18-finalu-cs-2026-z-futbolu/",
+          "source": "Суспільне | Новини"
         }
       ],
       "link": "https://imtaqin.id/"
