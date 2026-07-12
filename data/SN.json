@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-07-12 20:22:25",
+  "lastUpdate": "2026-07-12 21:10:46",
   "data": [
+    {
+      "title": "météo demain",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 12 Jul 2026 13:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR82jdhe-vM1WpUm8TKUQB_mlslXorO0o5bbydSPnW4bycq0dDn4AdtWeBzzo",
+      "pictureSource": "La Chaîne Météo",
+      "relatedSearch": [
+        {
+          "title": "Alerte rouge canicule",
+          "snippet": "",
+          "url": "https://actualite.lachainemeteo.com/alerte-meteo/9355-alerte-rouge-canicule",
+          "source": "La Chaîne Météo"
+        },
+        {
+          "title": "Canicule : poursuite des très fortes chaleurs et nuits chaudes",
+          "snippet": "",
+          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/nouvel-episode-de-fortes-chaleurs",
+          "source": "Météo-France"
+        },
+        {
+          "title": "Week-end caniculaire en France, les autorités appellent à la vigilance sur les feux",
+          "snippet": "",
+          "url": "https://www.france24.com/fr/france/20260710-week-end-caniculaire-en-france-paris-et-une-vingtaine-de-d%C3%A9partements-voient-rouge",
+          "source": "France 24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "olympique lyonnais",
       "trafficCount": "100+",
       "pubDate": "Sun, 12 Jul 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSITAFIB426M6WV8lzNd1Jiwj8kuSLgOkwqxFq_MAEJBSzDfFCoDp1Hryu-Aa0",
-      "pictureSource": "Le Progrès",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSY05ZQbZhGa2YmxDLHIrRg-m-tPTocNDhPUdhlcKjsU0vz6bg_y1s9msUdV8",
+      "pictureSource": "Foot Mercato",
       "relatedSearch": [
         {
-          "title": "Football. OL : Adil Hamdani, la pépite de 17 ans qui bouscule la hiérarchie",
+          "title": "OL : Abner dément les rumeurs de départ",
           "snippet": "",
-          "url": "https://www.leprogres.fr/sport/2026/07/12/ol-adil-hamdani-la-pepite-de-17-ans-qui-bouscule-la-hierarchie",
-          "source": "Le Progrès"
+          "url": "https://www.footmercato.net/a4622746871381531652-ol-abner-dement-les-rumeurs-de-depart",
+          "source": "Foot Mercato"
         },
         {
-          "title": "OL - Paulo Fonseca est sous le charme de cette promesse lyonnaise !",
+          "title": "OL : ce défenseur brésilien sera lyonnais la saison prochaine ! (OFFICIEL)",
           "snippet": "",
-          "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-paulo-fonseca-est-sous-le-charme-de-cette-promesse-lyonnaise-531217.html",
-          "source": "Ouest-France"
+          "url": "https://www.football365.fr/ol-ce-defenseur-bresilien-sera-lyonnais-la-saison-prochaine-officiel-10302991.html",
+          "source": "Football365"
         },
         {
-          "title": "Football : Sénégal, Algérie ou France ? Le choix cornélien du Lyonnais Adil Hamdani",
+          "title": "OL : Annoncé sur le départ, il répond en rigolant",
           "snippet": "",
-          "url": "https://africatopsports.com/football/football-senegal-algerie-ou-france-le-choix-cornelien-du-lyonnais-adil-hamdani/",
-          "source": "Africa Top Sports"
+          "url": "https://www.foot01.com/ol/ol-annonce-sur-le-depart-il-repond-en-rigolant",
+          "source": "Foot01"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -59,7 +87,7 @@
     },
     {
       "title": "macky sall",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sun, 12 Jul 2026 10:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRingoDjqNTCeNxa7-x188kXZrM2fMLzq2qnPpzYe6IaKeV4aXza4MAPl67Pm8",
       "pictureSource": "DAKARACTU.COM",
@@ -87,7 +115,7 @@
     },
     {
       "title": "gianni infantino",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sun, 12 Jul 2026 09:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfP3jeHfvcmMr-P4WfNGLS0UhrPy713M6_y6NjH8Zb7Fup6v7Mqo3I52_KSYg",
       "pictureSource": "BBC",
@@ -127,10 +155,10 @@
           "source": "BBC"
         },
         {
-          "title": "Mikel Merino makes feelings clear after Arsenal star's super-sub heroics at World Cup",
+          "title": "Merino spins another winning yarn in Spain victory",
           "snippet": "",
-          "url": "https://www.football.london/arsenal-fc/news/mikel-merino-world-cup-arsenal-34274824",
-          "source": "Football London"
+          "url": "https://www.beinsports.com/en-nz/football/fifa-world-cup-2026/articles/merino-spins-another-winning-yarn-in-spain-victory-2026-07-10",
+          "source": "beIN SPORTS"
         },
         {
           "title": "World Cup Debrief - World Cup 2026 : Spain set for blockbuster semi final against France",
@@ -198,8 +226,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "demi finale coupe du monde 2026",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 12 Jul 2026 03:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrkfKxGf13dkO6BbTRgzOspZtP3ziJC1CxdvaMXRi3ihcHdZnhGb_lKr0cBtg",
+      "pictureSource": "L'Équipe",
+      "relatedSearch": [
+        {
+          "title": "Une des rares stars à ne pas briller dans cette Coupe du monde, Lamine Yamal en quête de lumière face aux Bleus : « Sa meilleure version sur le plan offensif reste à venir »",
+          "snippet": "",
+          "url": "https://www.lequipe.fr/Football/Article/Une-des-rares-stars-a-ne-pas-briller-dans-cette-coupe-du-monde-lamine-yamal-en-quete-de-lumiere-face-aux-bleus-sa-meilleure-version-sur-le-plan-offensif-reste-a-venir/1703649",
+          "source": "L'Équipe"
+        },
+        {
+          "title": "L’ancienne star française s’inquiète : « Je crains une explosion à Yamal… et Oulissé est sorti de nulle part. »",
+          "snippet": "",
+          "url": "https://www.goal.com/fr/listes/l-ancienne-star-francaise-s-inquiete-je-crains-une-explosion-a-yamal-et-oulisse-est-sorti-de-nulle-part/blt9668111e531872e7",
+          "source": "Goal.com"
+        },
+        {
+          "title": "EN DIRECT - Coupe du monde 2026 : direction Dallas pour les Bleus, «pas peur» de Yamal, tollé après les propos racistes d’un ex-dirigeant espagnol",
+          "snippet": "",
+          "url": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-lionel-messi-et-l-argentine-rejoignent-l-angleterre-en-demies-bellingham-taille-patron-des-absents-a-l-entrainement-des-bleus-20260712",
+          "source": "Le Figaro"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "france espagne",
-      "trafficCount": "200+",
+      "trafficCount": "100+",
       "pubDate": "Sun, 12 Jul 2026 02:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsMbN4mdVoQMCVuj0ThGTwsE3rj6wArPU6DWOtmemxz5YbRI0UAkRbuwlB17s",
       "pictureSource": "L'Équipe",
@@ -211,72 +267,16 @@
           "source": "L'Équipe"
         },
         {
-          "title": "17 000 kilomètres d’avance sur l’Espagne : la France déjà championne du monde des gains marginaux",
-          "snippet": "",
-          "url": "https://www.eurosport.fr/football/coupe-du-monde/2026/avant-france-espagne-17-000-kilometres-davance-sur-lespagne-la-france-deja-championne-du-monde-des-gains-marginaux_sto23318773/story.shtml",
-          "source": "Eurosport"
-        },
-        {
           "title": "Pourquoi les dernières victoires de l’Espagne contre la France ne veulent pas dire grand-chose",
           "snippet": "",
           "url": "https://www.footmercato.net/a4167595310119589011-pourquoi-les-dernieres-victoires-de-lespagne-contre-la-france-ne-veulent-pas-dire-grand-chose",
           "source": "Foot Mercato"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 12 Jul 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8Xw4GmXrHOoFEX6KvdrB9z9AHS77NHHybaeIle6FW-KnCBBY_8dLe044m-g",
-      "pictureSource": "KFVS12",
-      "relatedSearch": [
-        {
-          "title": "Drier weather pattern begins",
-          "snippet": "",
-          "url": "https://www.kfvs12.com/2026/07/12/drier-weather-pattern-begins/",
-          "source": "KFVS12"
         },
         {
-          "title": "Looking to get some sun? Here's when the clouds part 🌞",
+          "title": "Equipe de France - Ibrahima Konaté : \"Lamine Yamal peut dire ce qu'il veut…\"",
           "snippet": "",
-          "url": "https://www.winknews.com/news/looking-to-get-some-sun-heres-when-the-clouds-part/article_3057ebdc-acd5-4482-8d51-f94b663de241.html",
-          "source": "WINK News"
-        },
-        {
-          "title": "Heavy rain possible this afternoon, dry weather coming next week",
-          "snippet": "",
-          "url": "https://www.wpxi.com/weather/extended/heavy-rain-possible-this-afternoon-dry-weather-coming-next-week/469756fe-a6ef-4209-8228-b33448011097/",
-          "source": "WPXI"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "julián alvarez",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 11 Jul 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_UwBL7PitPlaxsY7MzNfg8AELHvVznYXL6YLIgdl3fTCnPvyDz8ZiaMco3DQ",
-      "pictureSource": "SPORT",
-      "relatedSearch": [
-        {
-          "title": "¡El Arsenal aprieta para cerrar el fichaje de Julián Álvarez!",
-          "snippet": "",
-          "url": "https://www.sport.es/es/noticias/barca/arsenal-aprieta-cerrar-fichaje-julian-132381708",
-          "source": "SPORT"
-        },
-        {
-          "title": "Un gigante de la Premier League presiona para quedarse con Julián Álvarez antes de la semifinal con Inglaterra: la impactante oferta",
-          "snippet": "",
-          "url": "https://www.infobae.com/deportes/2026/07/12/un-gigante-de-la-premier-league-presiona-para-quedarse-con-julian-alvarez-antes-de-la-semifinal-con-inglaterra-la-impactante-oferta/",
-          "source": "Infobae"
-        },
-        {
-          "title": "The Independent: Ni al Barça ni al Real Madrid, el Atlético negocia la venta de Julián Álvarez al Arsenal",
-          "snippet": "",
-          "url": "https://www.madrid-barcelona.com/articulo/fichajes-fcbarcelona/the-independent-destapa-giro-verano-julian-alvarez-aleja-barca-real-madrid/20260712202548035634.html",
-          "source": "www.madrid-barcelona.com"
+          "url": "https://madeinfoot.ouest-france.fr/infos/article-equipe-de-france-ibrahima-konate-lamine-yamal-peut-dire-ce-qu-il-veut-531237.html",
+          "source": "MadeInFOOT"
         }
       ],
       "link": "https://imtaqin.id/"
