@@ -1,10 +1,94 @@
 {
-  "lastUpdate": "2026-07-13 09:58:41",
+  "lastUpdate": "2026-07-13 12:34:09",
   "data": [
     {
+      "title": "facebook",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 13 Jul 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZaHib5xceVZXZIX0NajkQa6gzI95deH-Ra8_ABhUca1LqWGekzzwKU3gLISg",
+      "pictureSource": "Fox News",
+      "relatedSearch": [
+        {
+          "title": "European Union looks to ban Meta’s ‘infinite scrolling’",
+          "snippet": "",
+          "url": "https://www.foxnews.com/video/6400908863112",
+          "source": "Fox News"
+        },
+        {
+          "title": "Meta (META) Faces $2 Billion AI Deal Reversal And EU App Design Probe",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-faces-2-billion-210801965.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+          "snippet": "",
+          "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+          "source": "Ars Technica"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "météo",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKKpxSE4kNwudcKOj9GwqMhvGl8nUSWWYKwD8tltUEOWvebrZgz6SWGBi9Jh4",
+      "pictureSource": "Ouest-France",
+      "relatedSearch": [
+        {
+          "title": "Météo. La météo du lundi 13 juillet 2026 à Argentan et ses environs",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/meteo/normandie/argentan-61200/la-meteo-du-jour-a-argentan-d28b22bf-4271-46dc-8d3a-21eb0ef9fa85",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Météo. Quel temps est-il prévu à Argentan et ses environs le jeudi 9 juillet 2026 ?",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/meteo/normandie/argentan-61200/la-meteo-du-jour-a-argentan-3dceadce-9c9b-460e-b7bb-a970721403b9",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Météo. La météo du samedi 11 juillet 2026 à Argentan et ses environs",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/meteo/normandie/argentan-61200/la-meteo-du-jour-a-argentan-209fc8d0-2ab6-48f1-8b66-35938a2dd75d",
+          "source": "Ouest-France"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 12 Jul 2026 14:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqDdocpRroK9eAU138cTH3bU4ApJxCu6RlVbiw6VkmJrKCjLfmOKuNNARljZo",
+      "pictureSource": "VOV.VN",
+      "relatedSearch": [
+        {
+          "title": "Thunderstorms to continue across many parts of Vietnam over next 10 days",
+          "snippet": "",
+          "url": "https://english.vov.vn/en/society/thunderstorms-to-continue-across-many-parts-of-vietnam-over-next-10-days-post1314848.vov",
+          "source": "VOV.VN"
+        },
+        {
+          "title": "Weather forecast today July 13: Northern and Central regions have heavy rain",
+          "snippet": "",
+          "url": "https://news.laodong.vn/du-lich/cong-dong/du-bao-thoi-tiet-hom-nay-137-bac-bo-va-trung-bo-co-mua-to-1734167.html",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Southern region braces for localized heavy rain and rough seas",
+          "snippet": "",
+          "url": "https://en.sggp.org.vn/southern-region-braces-for-localized-heavy-rain-and-rough-seas-post127886.html",
+          "source": "SGGP English Edition"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "météo demain",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 12 Jul 2026 13:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlHiCRyVQ_ingVJVF7MTq-JRAUCvVeFqYy42-cpIHDkD0WN2nwX_02GbTpTak",
       "pictureSource": "Météo-France",
       "relatedSearch": [
@@ -15,44 +99,16 @@
           "source": "Météo-France"
         },
         {
+          "title": "Cette nuit où l’organisation terroriste FETÖ a été mise en échec",
+          "snippet": "",
+          "url": "https://www.aa.com.tr/fr/info/infographie/52935",
+          "source": "Anadolu Ajansı"
+        },
+        {
           "title": "Pic de la vague de chaleur en France, trois réacteurs nucléaires arrêtés",
           "snippet": "",
           "url": "https://www.ledevoir.com/monde/europe/994364/pic-vague-chaleur-france-trois-reacteurs-nucleaires-arretes",
           "source": "Le Devoir"
-        },
-        {
-          "title": "Canicule : voici les 26 départements en vigilance rouge ce mardi",
-          "snippet": "",
-          "url": "https://www.cnews.fr/france/2026-07-13/canicule-voici-les-26-departements-en-vigilance-rouge-ce-mardi-1890111",
-          "source": "CNews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather tomorrow",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 12 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLUCiFeipXZKHwTjaBVxQZfM7jU6V-UhyawFylDawk01Za5VhNYPZR1X4Yl9M",
-      "pictureSource": "NDTV",
-      "relatedSearch": [
-        {
-          "title": "Highlights: Heavy Rain Alert For Delhi, UP, Monsoon Covers Entire Country",
-          "snippet": "",
-          "url": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-southwest-monsoon-delayed-by-a-day-covers-entire-country-11751692",
-          "source": "NDTV"
-        },
-        {
-          "title": "IMD issued Red Alert as risk of urban floods rises across India",
-          "snippet": "",
-          "url": "https://www.groundreport.in/extreme-weather/imd-issued-red-alert-as-risk-of-urban-floods-rises-across-india/",
-          "source": "Ground Report"
-        },
-        {
-          "title": "Heavy to very heavy rainfall and heatwave warning issued for several states, list released | To read the entire bulletin issued by IMD | Inshorts",
-          "snippet": "",
-          "url": "https://inshorts.com/en/news/heavy-to-very-heavy-rainfall-and-heatwave-warning-issued-for-several-states--list-released-1783856393126",
-          "source": "Inshorts"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +117,26 @@
       "title": "real madrid club de fútbol",
       "trafficCount": "200+",
       "pubDate": "Sun, 12 Jul 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThBXHHlxYmbiTpmJsuy8HxyXQxY9UPGkFhErSqXFNXIUvBFAbQshBqeAZVxcI",
-      "pictureSource": "FOX Deportes",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOnG_jc8C0MqiPFsCUjIcFYL3lpWfvJJeoGMhYpqIM_mA9pdEE8GR1CMPkkXc",
+      "pictureSource": "Real Madrid CF | Web Oficial",
       "relatedSearch": [
         {
-          "title": "Real Madrid buscará terminar con el dominio de Barcelona en La Liga",
+          "title": "Mourinho comienza a preparar la temporada 2026/27",
           "snippet": "",
-          "url": "https://www.foxdeportes.com/la-liga/nota/real-madrid-buscara-terminar-con-el-dominio-de-barcelona-en-la-liga",
-          "source": "FOX Deportes"
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/mourinho-comienza-a-preparar-la-temporada-2026-27-10-07-2026",
+          "source": "Real Madrid CF | Web Oficial"
         },
         {
-          "title": "¡Un club inglés tiene en el punto de mira a cinco jugadores del Real Madrid!",
+          "title": "El FC Barcelona y el Real Madrid arrancan este lunes la pretemporada",
           "snippet": "",
-          "url": "https://www.goal.com/es/noticias/un-club-ingles-tiene-en-el-punto-de-mira-a-cinco-jugadores-del-real-madrid/blt351d7bea2f4d685a",
-          "source": "Goal.com"
+          "url": "https://www.notimerica.com/deportes/noticia-fc-barcelona-real-madrid-arrancan-lunes-pretemporada-20260712132714.html",
+          "source": "Notimérica"
         },
         {
-          "title": "Arbeloa apunta al banco del Real Madrid para reforzar la plantilla del Fulham",
+          "title": "Mourinho: “Lo único que puedo decir sobre Kylian Mbappé es que es un jugador fenomenal, y voy a intentar ayudarle a ser incluso mejor”",
           "snippet": "",
-          "url": "https://www.si.com/es-us/futbol/arbeloa-apunta-al-banco-del-real-madrid-para-reforzar-la-plantilla-del-fulham",
-          "source": "Sports Illustrated"
+          "url": "https://www.lecturas.com/actualidad/mourinho-unico-que-puedo-decir-sobre-kylian-mbappe-es-que-es-jugador-fenomenal-y-voy-a-intentar-ayudarle-a-ser-incluso-mejor_195649",
+          "source": "Lecturas"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +173,15 @@
       "title": "whatsapp",
       "trafficCount": "2000+",
       "pubDate": "Sun, 12 Jul 2026 06:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9R3VL4YbIn50gHHra4kEJyAj4RBwiHg2Mb4PLc9El240c-J5XDed4WBsxXXc",
-      "pictureSource": "CNA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAT5noLMaTn5Lxp7bvBa1eVLC8g_5ovqsCVlqj6u0ncu9AhPgs1K-HGa0Bhcc",
+      "pictureSource": "Rest of World",
       "relatedSearch": [
+        {
+          "title": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
+          "snippet": "",
+          "url": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/",
+          "source": "Rest of World"
+        },
         {
           "title": "WhatsApp reserves high-profile usernames ahead of privacy feature rollout, Singapore leaders' names blocked",
           "snippet": "",
@@ -127,16 +189,10 @@
           "source": "CNA"
         },
         {
-          "title": "India Objection to WhatsApp Username Switch Gets Somalia Backing",
+          "title": "Centre Reviews WhatsApp, Telegram Replies On Usernames, Uniform Rules Likely",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-07/india-objection-to-whatsapp-username-switch-gets-somalia-backing",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Government examining responses from messaging platforms on proposed username feature: Source",
-          "snippet": "",
-          "url": "https://www.tribuneindia.com/news/business/government-examining-responses-from-messaging-platforms-on-proposed-username-feature-source/amp/?utm=relatedarticles",
-          "source": "The Tribune"
+          "url": "https://www.ndtv.com/india-news/centre-reviews-whatsapp-telegram-replies-on-usernames-uniform-rules-likely-11764451",
+          "source": "NDTV"
         }
       ],
       "link": "https://imtaqin.id/"
