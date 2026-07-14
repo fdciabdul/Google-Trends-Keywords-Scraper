@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-07-14 05:52:39",
+  "lastUpdate": "2026-07-14 07:44:41",
   "data": [
     {
-      "title": "الشروق",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 13 Jul 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyi0a8dt1JAzEqxRJHtPAj6b0grvlYHBeUby4pvCLphWu-RVTBXhLFtS9OD70",
-      "pictureSource": "وكالة الأنباء الجزائرية",
+      "title": "météo",
+      "trafficCount": "50000+",
+      "pubDate": "Mon, 13 Jul 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDQ9AYLyO1K2hKJQnMqLMW-4hcVDEKCLoRSgIPm6sxPQRSu06AQAgtFGJ__HY",
+      "pictureSource": "La Chaîne Météo",
       "relatedSearch": [
         {
-          "title": "تفكيك مجموعة إجرامية تنتمي إلى حركة \"ماك\" الإرهابية بتيزي وزو",
+          "title": "Attention aux orages qui mettent fin à la canicule",
           "snippet": "",
-          "url": "https://www.aps.dz/algerie/actualite-nationale/mrjln66d-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%95%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D8%A9-%D8%AA%D9%86%D8%AA%D9%85%D9%8A-%D8%A7%D9%95%D9%84%D9%89-%D8%AD%D8%B1%D9%83%D8%A9-%D9%85%D8%A7%D9%83-%D8%A7%D9%84%D8%A7%D9%95%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A8%D8%AA%D9%8A%D8%B2%D9%8A-%D9%88%D8%B2%D9%88",
+          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-07-13/attention-aux-orages-qui-mettent-fin-a-la-canicule-90412",
+          "source": "La Chaîne Météo"
+        },
+        {
+          "title": "Alerte orages : foudre, grêle, fortes pluies et rafales de vent. Météo-France place 58 départements en vigilance jaune",
+          "snippet": "",
+          "url": "https://www.tameteo.com/actualites/previsions/alerte-orages-foudre-grele-fortes-pluies-et-rafales-de-vent-meteo-france-place-58-departements-en-vigilance-jaune.html",
+          "source": "Tameteo.com"
+        },
+        {
+          "title": "Météo demain : un mercredi 15 juillet tropical avec davantage d'orages",
+          "snippet": "",
+          "url": "https://www.meteoconsult.fr/actualites-meteo/2026-07-14/90427-meteo-demain-un-mercredi-15-juillet-tropical-avec-davantage-d-orages",
+          "source": "METEO CONSULT"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الشروق",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 13 Jul 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0ZwJMk5RHbnyu6brRprTydh69JtnoWp1Fu70Jq8zyQM3oqAJqt9-ghH6c_o",
+      "pictureSource": "الشروق أونلاين",
+      "relatedSearch": [
+        {
+          "title": "هذه شروط وإجراءات الحصول على بطاقات الدفع الدولية",
+          "snippet": "",
+          "url": "https://www.echoroukonline.com/%D9%87%D8%B0%D9%87-%D8%B4%D8%B1%D9%88%D8%B7-%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84",
+          "source": "الشروق أونلاين"
+        },
+        {
+          "title": "شروط الاستفادة من حق الصرف",
+          "snippet": "",
+          "url": "https://www.elkhabar.com/nation/%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D8%A9-%D9%85%D9%86-%D8%AD%D9%82-%D8%A7%D9%84%D8%B5%D8%B1%D9%81-273016",
+          "source": "El Khabar"
+        },
+        {
+          "title": "بنك الجزائر يحدد كيفيات منح حق الصرف عن طريق البطاقة البنكية",
+          "snippet": "",
+          "url": "https://www.aps.dz/economie/banque-et-finances/mrjkc3fl-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D9%8A%D9%94%D8%B1-%D9%8A%D8%AD%D8%AF%D8%AF-%D9%83%D9%8A%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%AD-%D8%AD%D9%82-%D8%A7%D9%84%D8%B5%D8%B1%D9%81-%D8%B9%D9%86-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9",
           "source": "وكالة الأنباء الجزائرية"
-        },
-        {
-          "title": "توقيف 6 عناصر من \"ماك\" بينهم 4 مغاربة حاولوا التشويش على الانتخابات في تيزي وزو",
-          "snippet": "",
-          "url": "https://www.ennaharonline.com/%D8%AA%D9%88%D9%82%D9%8A%D9%81-6-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%85%D9%86-%D9%85%D8%A7%D9%83-%D8%A8%D9%8A%D9%86%D9%87%D9%85-4-%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D9%88/",
-          "source": "النهار أونلاين"
-        },
-        {
-          "title": "تفكيك مجموعة إجرامية تابعة لحركة \"الماك\" الإرهابية بتيزي وزو",
-          "snippet": "",
-          "url": "https://www.elbilad.net/evenement/%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D8%A9-%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%83-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A8%D8%AA%D9%8A%D8%B2%D9%8A-%D9%88%D8%B2%D9%88-144938",
-          "source": "ElBilad"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,20 +61,20 @@
       "title": "kiwi",
       "trafficCount": "200+",
       "pubDate": "Mon, 13 Jul 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy9oSxPcyhAp22Csl1whIDih56c-1jLdYb2CDxcbki70kV8l4DviCIMjl7rlw",
-      "pictureSource": "The New York Times",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmoiWrTM1UtSUde6PBXQo9HztsXBUqH5zJShfOyLtYju0tmgrRRiduatelw5w",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Sam Neill, New Zealand Actor Known for ‘Jurassic Park,’ Dies at 78",
+          "title": "‘Just a local’: rural New Zealand fondly remembers Sam Neill, its everyday star",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html",
-          "source": "The New York Times"
+          "url": "https://www.theguardian.com/film/2026/jul/14/sam-neill-new-zealand-remembers-local-star",
+          "source": "The Guardian"
         },
         {
-          "title": "‘He made wine and he shared it. What more do you want?’: Sam Neill remembered by his co-stars",
+          "title": "Sam Neill Movies and TV Shows Ranked by Tomatometer",
           "snippet": "",
-          "url": "https://www.theguardian.com/film/2026/jul/14/sam-neill-remembered-lindsay-duncan-charles-dance-peter-webber",
-          "source": "The Guardian"
+          "url": "https://editorial.rottentomatoes.com/guide/sam-neill-movies-ranked-by-tomatometer/",
+          "source": "Rotten Tomatoes"
         },
         {
           "title": "From ‘Jurassic Park’ to ‘Peaky Blinders’: Sam Neill’s Most Memorable Roles",
@@ -71,10 +99,10 @@
           "source": "ESPN"
         },
         {
-          "title": "Lionel Messi to face Arsenal quartet for the 1st time",
+          "title": "Lionel Scaloni reportedly set to make changes to Lionel Messi’s Argentina XI with two key doubts for Englan...",
           "snippet": "",
-          "url": "https://onefootball.com/fr/news/lionel-messi-to-face-arsenal-quartet-for-the-1st-time-43134363",
-          "source": "OneFootball"
+          "url": "https://worldsoccertalk.com/world-cup/lionel-scaloni-reportedly-set-to-make-changes-to-lionel-messis-argentina-xi-with-two-key-doubts-for-england-clash/",
+          "source": "World Soccer Talk"
         },
         {
           "title": "John Terry insists England are better than Argentina as Chelsea legend backs Harry Kane & Co to overpower Lionel Messi's reigning champions",
@@ -170,57 +198,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "كرة القدم",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 13 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2Pmx4BGzmKH4H6EjkYadMyJto4ynWn6avf5CtJi4l5w9d8QWWxJSJgjI1Sc",
-      "pictureSource": "الجزيرة نت",
-      "relatedSearch": [
-        {
-          "title": "ليسوا أرجنتينيين.. سر تشجيع 117 مليون بنغلاديشي رفاق ميسي ضد إنجلترا",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/sport/2026/7/13/%D8%A8%D9%86%D8%BA%D9%84%D8%A7%D8%AF%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "الأرجنتين توجه طلبا عاجلا للفيفا قبل مواجهة إنجلترا",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%A7%D9%94%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%AA%D9%88%D8%AC%D9%87-%D8%B7%D9%84%D8%A8%D8%A7-%D8%B9%D8%A7%D8%AC%D9%84%D8%A7-%D9%84%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%95%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7/blt19879fa238bb07b0",
-          "source": "Kooora"
-        },
-        {
-          "title": "قبل مواجهة الأرجنتين وإنجلترا في المونديال.. ماذا تعرف عن حرب المالوين؟",
-          "snippet": "",
-          "url": "https://www.elkhabar.com/sport/%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%88%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%86-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%88%D9%8A%D9%86-272997",
-          "source": "El Khabar"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "équipe du sénégal de football",
       "trafficCount": "200+",
       "pubDate": "Mon, 13 Jul 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBF2qLAEK26pS_SH06XyViFsBJsW1qXQlbEcK3V3bq88AnmLg3iPbXAn6AVHU",
-      "pictureSource": "Eurosport",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxZUVBYdJnpX9hzXO314r7AX0RUxEv-EiqYaol2uTnTViJMKlXTTF38kn7ZTc",
+      "pictureSource": "Foot Mercato",
       "relatedSearch": [
         {
-          "title": "\"Le médecin était gynécologue\" : au Sénégal, l'heure des règlements de comptes",
+          "title": "Sénégal : le message enigmatique d’Idrissa Gana Gueye",
           "snippet": "",
-          "url": "https://www.eurosport.fr/football/coupe-du-monde/2026/coupe-du-monde-2026-i-le-medecin-de-lequipe-est-gynecologue-lance-abdoulaye-fall-president-de-la-federation-senegalaise-de-football_sto23319320/story.shtml",
-          "source": "Eurosport"
-        },
-        {
-          "title": "Coupe du Monde 2026 : le médecin du Sénégal était… gynécologue",
-          "snippet": "",
-          "url": "https://www.footmercato.net/a5998587377011095027-coupe-du-monde-2026-le-kine-du-senegal-etait-gynecologue",
+          "url": "https://www.footmercato.net/a4077693366478066227-senegal-le-message-enigmatique-didrissa-gana-gueye",
           "source": "Foot Mercato"
         },
         {
-          "title": "« Des propos infondés et diffamatoires » : L’Association Sénégalaise de Médecine du Sport (ASMS) vole au secours du docteur Fédior après la sortie d’Abdoulaye Fall",
+          "title": "Mondial 2026 : Le Sénégal limoge son sélectionneur Thiaw - Sports",
           "snippet": "",
-          "url": "https://wiwsport.com/2026/07/13/des-propos-infondes-et-diffamatoires-lassociation-senegalaise-de-medecine-du-sport-asms-vole-au-secours-du-docteur-fedior-apres-la-sortie-dabdoulaye-fall/",
-          "source": "wiwsport"
+          "url": "https://www.lesoirdalgerie.com/sports/le-senegal-limoge-son-selectionneur-thiaw-154232",
+          "source": "Le soir d'Algérie"
+        },
+        {
+          "title": "Patrick Vieira pourrait prendre la relève en tant que sélectionneur du Sénégal.",
+          "snippet": "",
+          "url": "https://www.koha.net/fr/futboll/patrick-vieira-mund-ta-marre-drejtimin-e-senegalit",
+          "source": "KOHA.net"
         }
       ],
       "link": "https://imtaqin.id/"
