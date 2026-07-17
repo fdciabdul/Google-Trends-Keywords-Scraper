@@ -1,38 +1,75 @@
 {
-  "lastUpdate": "2026-07-17 04:16:52",
+  "lastUpdate": "2026-07-17 06:30:34",
   "data": [
     {
-      "title": "prévision",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 16 Jul 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8RPncxxAmIadBZmKGDWGLbr8XxYgNUxI3s648gLzfXi0tHvo4e2_non1UOfU",
-      "pictureSource": "VOI.id",
+      "title": "météo",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 16 Jul 2026 22:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Jul 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF5E-1VaVXsc0J6HWP7-43uzgtbkReT-1jOA0SEsNPlMLZEZbzJIz_8DFhjds",
+      "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "Les réserves de pétrole s'épuisent, l'économie mondiale se contractant",
+          "title": "Houston's rainy stretch fades as heat returns for the weekend. How hot could it get?",
           "snippet": "",
-          "url": "https://voi.id/fr/berita/585180",
-          "source": "VOI.id"
+          "url": "https://www.yahoo.com/news/weather-news/articles/houstons-rainy-stretch-fades-heat-100000675.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Marché du pétrole : l'Opep réduit les prévisions de progression de la demande à 800 000 barils par jour en 2026",
+          "title": "Houston weather: Clearer skies Thursday, low rain chances",
           "snippet": "",
-          "url": "https://energies-media.com/marche-du-petrole-opep-reduit-previsions-progression-demande-a-800-000-barils-par-jour-en-2026/",
-          "source": "energies-media.com"
+          "url": "https://www.aol.com/articles/houston-weather-clearer-skies-thursday-123203000.html",
+          "source": "AOL.com"
         },
         {
-          "title": "Les réserves de pétrole diminuent, le monde craint un choc pétrolier.",
+          "title": "Fewer storms today, hotter weather builds into the weekend",
           "snippet": "",
-          "url": "https://www.vietnam.vn/fr/kho-du-tru-can-dan-the-gioi-lo-cu-soc-dau-mo",
-          "source": "Vietnam.vn"
+          "url": "https://cw39.com/weather/houston-forecast-rising-temps-atlantic-watch/",
+          "source": "CW39 Houston"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "الطقس غدًا",
+      "title": "الطقس",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Jul 2026 22:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2HwuSICxF6X7npTG8mM5G_-J-_4jO-DzDWlfEMJ4x9tpbOHVCchtScckbj5U",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "أقصاها 49.. درجات الحرارة المتوقّعة خلال الثلاثة أيّام المقبلة",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1524000/%D8%A3%D9%82%D8%B5%D8%A7%D9%87%D8%A7-49-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82-%D8%B9%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D9%8A-%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "اليوم: الحرارة بين 34 و47 درجة",
+          "snippet": "",
+          "url": "https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/actu/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-34-%D9%8847-%D8%AF%D8%B1%D8%AC%D8%A9/582363",
+          "source": "Nessma TV"
+        },
+        {
+          "title": "ذروة موجة الحر: الحرارة تتجاوز غدا الجمعة المعدلات العادية بفارق يصل إلى 13 درجة",
+          "snippet": "",
+          "url": "https://hakaekonline.com/%D8%B0%D8%B1%D9%88%D8%A9-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%BA%D8%AF%D8%A7-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A8%D9%81%D8%A7%D8%B1%D9%82-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-13-%D8%AF%D8%B1%D8%AC%D8%A9/",
+          "source": "حقائق اون لاين"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "درجة الحرارة اليوم",
       "trafficCount": "1000+",
-      "pubDate": "Thu, 16 Jul 2026 12:50:00 -0700",
+      "pubDate": "Thu, 16 Jul 2026 21:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpAQNFxBABE_TG4XPvXykq1YwvZ9f4R-xH75oRwtDYrsujus9UH6B6weBEcqw",
       "pictureSource": "صحيفة الخليج",
       "relatedSearch": [
@@ -53,6 +90,62 @@
           "snippet": "",
           "url": "https://darelhilal.com/News/3269320.aspx",
           "source": "بوابة دار الهلال"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "موجة حر",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Jul 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1T9QmUqLmP2ZKnLvaNYeykxHbWHvFbi1k6vI0CFazVqZzzwwftoEQdZKiIzs",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "الجمعة: موجة حرّ قياسية تفوق الـ48 درجة",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1524110/%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%B1-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D9%82-%D8%A7%D9%84%D9%8048-%D8%AF%D8%B1%D8%AC%D8%A9",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "طقس اليوم : موجة حرّ قياسية و الحرارة تفوق الـ48 درجة",
+          "snippet": "",
+          "url": "https://www.jawharafm.net/ar/article/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85--%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%B1%D9%91-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D9%81%D9%88%D9%82-%D8%A7%D9%84%D9%8048-%D8%AF%D8%B1%D8%AC%D8%A9/105/296380",
+          "source": "JawharaFM"
+        },
+        {
+          "title": "عاجل: من الجُمعة للاحد درجات حرارة قوية ...شوف كل ولاية قداش؟",
+          "snippet": "",
+          "url": "https://www.tuniscope.com/ar/article/436309/quotdien/meteo/meteo-chaleur-tunisie-vendredi-week-end-015111",
+          "source": "www.tuniscope.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "prévision",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Jul 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2H_jmNwkWymVxeAjFFAPRn3ZzYqS8XfhhM4hoc5jsf7PdMSlYxcFCnc36opg",
+      "pictureSource": "Allnews",
+      "relatedSearch": [
+        {
+          "title": "Les chocs pétroliers n’en sont plus vraiment",
+          "snippet": "",
+          "url": "https://www.allnews.ch/content/points-de-vue/les-chocs-p%C3%A9troliers-n%E2%80%99en-sont-plus-vraiment",
+          "source": "Allnews"
+        },
+        {
+          "title": "Les réserves de pétrole s'épuisent, l'économie mondiale se contractant",
+          "snippet": "",
+          "url": "https://voi.id/fr/berita/585180",
+          "source": "VOI.id"
+        },
+        {
+          "title": "Marché du pétrole : l'Opep réduit les prévisions de progression de la demande à 800 000 barils par jour en 2026",
+          "snippet": "",
+          "url": "https://energies-media.com/marche-du-petrole-opep-reduit-previsions-progression-demande-a-800-000-barils-par-jour-en-2026/",
+          "source": "energies-media.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,28 +180,28 @@
     },
     {
       "title": "wetter morgen",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 16 Jul 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNGaIb6FCbD7ABnGae2wN9FBx0l4CzvTIumOV98J2EVQKuVmE5_ZK8wc20Ps",
-      "pictureSource": "Frankfurter Rundschau",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf0z1ZYLrazrLB4dNm-iHjdFE1KycggC9LaHYVtQYxOrHLeDQrZiyp5eZB_vI",
+      "pictureSource": "Spiegel",
       "relatedSearch": [
         {
-          "title": "Auf die Hitze folgen schwere Gewitter – Wetterkarte färbt sich in manchen Regionen lila",
+          "title": "Unwetter: Fast in ganz Deutschland sind am Freitag heftige Gewitter möglich",
           "snippet": "",
-          "url": "https://www.fr.de/panorama/suedwesten-wetter-hoechste-warnstufe-superzellen-bedrohen-den-zr-94400022.html",
-          "source": "Frankfurter Rundschau"
+          "url": "https://www.spiegel.de/wissenschaft/natur/unwetter-fast-in-ganz-deutschland-sind-am-freitag-heftige-gewitter-moeglich-a-c00fec3b-2204-48d2-8969-efbda71b6535",
+          "source": "Spiegel"
         },
         {
-          "title": "Regen und Gewitter: Wechselhaftes Wetter in München vorhergesagt",
+          "title": "„Schutz suchen“: Der Wetterdienst warnt vor schweren Gewittern",
           "snippet": "",
-          "url": "https://www.tz.de/muenchen/stadt/in-muenchen-starkregen-und-hagel-moeglich-dwd-warnt-vor-starken-gewittern-94398741.html",
-          "source": "TZ"
+          "url": "https://www.merkur.de/lokales/fuerstenfeldbruck/fuerstenfeldbruck-ort65548/der-wetterdienst-warnt-vor-gewittern-fuerstenfeldbruck-unwetter-amper-94401280.html",
+          "source": "Merkur"
         },
         {
-          "title": "Meteorologe rechnet Freitag mit \"Schauern und Gewittern mit Unwetterpotenzial\"",
+          "title": "Feuchte Fronten am Freitag - Nordwestlage bringt Erfrischung und Unwetter nach Deutschland",
           "snippet": "",
-          "url": "https://www.mdr.de/nachrichten/deutschland/unwetter-freitag-gewitter-sturm-abkuehlung-,unwetter-1316.html",
-          "source": "MDR.de"
+          "url": "https://www.daswetter.com/nachrichten/vorhersage/feuchte-fronten-am-freitag-nordwestlage-bringt-erfrischung-und-unwetter-nach-deutschland.html",
+          "source": "Daswetter.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,26 +210,26 @@
       "title": "météo demain",
       "trafficCount": "20000+",
       "pubDate": "Thu, 16 Jul 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrej6kwHal5M--Z6mP4eem9drN_F0X9J-ccQLoQAvKMkOXZYuS16kxUGfnRx8",
-      "pictureSource": "La Chaîne Météo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlhBjGgI22bmOlp8fFQdKCtxFWqXYtLM_x73OMyBXz5CnzyEtuBg2VJa-OU9w",
+      "pictureSource": "Meteo-Paris.com",
       "relatedSearch": [
         {
-          "title": "Alerte Météo : Canicule en lent recul et forts orages au centre-est ce mercredi",
+          "title": "Une quatrième canicule déjà prévue en France ? Les signaux sont déjà là 13/07/2026",
           "snippet": "",
-          "url": "https://actualite.lachainemeteo.com/alerte-meteo/9355-canicule-en-lent-recul-et-forts-orages-au-centre-est-ce-mercredi",
+          "url": "https://www.meteo-paris.com/actualites/une-4e-vague-de-chaleur-menace-t-elle-deja-la-france",
+          "source": "Meteo-Paris.com"
+        },
+        {
+          "title": "Tendance météo à 4 semaines : vers un temps durablement chaud et sec jusqu'au début du mois d'août",
+          "snippet": "",
+          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-vers-un-temps-durablement-chaud-et-sec-jusqu-au-debut-du-mois-d-aout-71369",
           "source": "La Chaîne Météo"
         },
         {
-          "title": "Le modèle européen prévoit un nouveau pic de chaleur en France d’ici 7 jours : les agriculteurs se préparent au pire tandis que les nappes phréatiques sont déjà au plus bas",
+          "title": "Canicule : les fortes chaleurs régressent",
           "snippet": "",
-          "url": "https://fr.news.yahoo.com/mod%C3%A8le-europ%C3%A9en-pr%C3%A9voit-nouveau-pic-050034801.html",
-          "source": "Yahoo Actualités"
-        },
-        {
-          "title": "Canicule : voici les 69 départements maintenus en vigilance orange ce jeudi",
-          "snippet": "",
-          "url": "https://www.cnews.fr/france/2026-07-15/canicule-voici-les-69-departements-maintenus-en-vigilance-orange-ce-jeudi-1891085",
-          "source": "CNews"
+          "url": "https://meteofrance.com/actualites-et-dossiers/actualites/nouvel-episode-de-fortes-chaleurs",
+          "source": "Météo-France"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +238,15 @@
       "title": "weather tomorrow",
       "trafficCount": "2000+",
       "pubDate": "Thu, 16 Jul 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuMGUbOpO96xr6m8kplh_ZgyGwScBD4xqMvZbVdVY1CMZxEQCL2AMS-Ge3cI",
-      "pictureSource": "Bryan College Station Eagle",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU-HDJwSYyioj_BAGhu8i01mGEnAB20advXDTLTSHUkZfmumZuQI_DjQwLyPk",
+      "pictureSource": "kens5.com",
       "relatedSearch": [
+        {
+          "title": "Flash Flood Warnings extended",
+          "snippet": "",
+          "url": "https://www.kens5.com/video/news/flash-flood-warnings-extended/273-ac2e8e04-1f9d-486d-b4ce-f1a597174706",
+          "source": "kens5.com"
+        },
         {
           "title": "flooding",
           "snippet": "",
@@ -159,107 +258,8 @@
           "snippet": "",
           "url": "https://fox56news.com/weather/forecast/kentucky-weather-tomorrow-hit-or-miss-storms-develop/",
           "source": "FOX 56 News"
-        },
-        {
-          "title": "FIRST ALERT FORECAST: Storm Chances Increase This Weekend",
-          "snippet": "",
-          "url": "https://www.wymt.com/2026/07/16/first-alert-forecast-storm-chances-increase-this-weekend/",
-          "source": "WYMT"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "meteo di domani",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 16 Jul 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRweJC_86jo8FgOZJdXwyEOtCxpaUjvYt5kvVWF__yj8OFocVIOM0LtI-Eygg",
-      "pictureSource": "ANSA",
-      "relatedSearch": [
-        {
-          "title": "Sabato il picco del caldo, aumentati i decessi tra gli anziani",
-          "snippet": "",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/sabato-il-picco-del-caldo-aumentati-i-decessi-tra-gli-anziani_0c17b621-0f0b-451d-944d-ff82e3de9dfd.html",
-          "source": "ANSA"
-        },
-        {
-          "title": "Caldo, Giugno è stato \"il secondo mese più caldo di sempre\", oltre mille chiamate al 1500",
-          "snippet": "",
-          "url": "https://www.dire.it/16-07-2026/1256204-caldo-giugno-e-stato-il-secondo-mese-piu-caldo-di-sempre-oltre-mille-chiamate-al-1500/",
-          "source": "Agenzia Dire"
-        },
-        {
-          "title": "Caldo, aumenta l’allerta: sabato 19 città da bollino rosso",
-          "snippet": "",
-          "url": "https://lavocedeltrentino.it/ambiente/caldo-aumenta-lallerta-sabato-19-citta-da-bollino-rosso/",
-          "source": "La voce del Trentino"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "yémen",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 16 Jul 2026 10:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tnwxruh8z8_Y9CxsRfnF2HLkV43WeaRKW7OxU3bJUmLf37TyRhydxOB6LDI",
-      "pictureSource": "Le Monde.fr",
-      "relatedSearch": [
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran riposte aux frappes américaines en attaquant le Koweït, Bahreïn et le Qatar",
-          "snippet": "",
-          "url": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-iran-riposte-aux-frappes-americaines-en-attaquant-le-koweit-bahrein-et-le-qatar_6722873_3210.html",
-          "source": "Le Monde.fr"
-        },
-        {
-          "title": "Détroit d'Ormuz : Le recul de Trump sur la question des péages laisse entrevoir des difficultés pour mettre fin à la guerre contre l'Iran",
-          "snippet": "",
-          "url": "https://www.bbc.com/afrique/articles/cg535qq0j0qo",
-          "source": "BBC"
-        },
-        {
-          "title": "Guerre en Iran, indépendantistes catalans, élections au Kenya, Pedro Sánchez : les informations de la nuit",
-          "snippet": "",
-          "url": "https://fr.news.yahoo.com/guerre-iran-ind%C3%A9pendantistes-catalans-%C3%A9lections-030009669.html",
-          "source": "Yahoo Actualités"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "condoléances",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 16 Jul 2026 08:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShpC_600WP1i12ocxf_KSZt4XZH5GgNxN4w_XigRjkddmh0zZwJQ2Wbjazxhw",
-      "pictureSource": "Business News",
-      "relatedSearch": [
-        {
-          "title": "Algérie : onze morts et 19 blessés dans l’incendie d’un foyer pour enfants à Alger",
-          "snippet": "",
-          "url": "https://businessnews.com.tn/2026/07/16/algerie-onze-morts-et-19-blesses-dans-lincendie-dun-foyer-pour-enfants-a-alger/1410331/",
-          "source": "Business News"
-        },
-        {
-          "title": "L'Algérie enquête sur l'incendie de l'orphelinat de Mohammadia qui a fait 11 morts",
-          "snippet": "",
-          "url": "https://fr.news.yahoo.com/sport/lalg%C3%A9rie-enqu%C3%AAte-lincendie-lorphelinat-mohammadia-172839960.html",
-          "source": "Yahoo Actualités"
-        },
-        {
-          "title": "Alger : Ibtissem Hamlaoui, cible de toutes les colères quand une femme devient le symbole de tous les maux de l’Algérie (les diplomates) – Sahel Intelligence",
-          "snippet": "",
-          "url": "https://sahel-intelligence.com/43947-alger-ibtissem-hamlaoui-cible-de-toutes-les-coleres-quand-une-femme-devient-le-symbole-de-tous-les-maux-de-lalgerie-les-diplomates.html",
-          "source": "Sahel Intelligence"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zinédine zidane",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 16 Jul 2026 06:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
