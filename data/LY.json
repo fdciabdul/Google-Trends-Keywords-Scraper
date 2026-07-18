@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-18 05:36:20",
+  "lastUpdate": "2026-07-18 07:15:12",
   "data": [
     {
       "title": "الطقس",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Fri, 17 Jul 2026 21:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6CZhlQcGwZw0H8XelZaHE6uz_qQmYKYmyyeb2BMB64rGtVoudyGEm7nba_PU",
       "pictureSource": "بوابة الوسط",
@@ -31,7 +31,7 @@
     },
     {
       "title": "weather",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 17 Jul 2026 21:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5jRUyQmNShCvlr5FOyORydgA09TRsvCdpiKhhon0nOGUFj5t00D6A8_caHw",
       "pictureSource": "NASA Science (.gov)",
@@ -43,16 +43,44 @@
           "source": "NASA Science (.gov)"
         },
         {
-          "title": "U.S. cities have the worst air quality in the world right now—here’s how to stay safe",
-          "snippet": "",
-          "url": "https://www.scientificamerican.com/article/u-s-cities-have-the-worst-air-quality-in-the-world-right-now-heres-how-to-stay-safe/",
-          "source": "Scientific American"
-        },
-        {
           "title": "First Alert Weather: Smoke, heat and fire danger may rule the weekend",
           "snippet": "",
           "url": "https://www.northernnewsnow.com/2026/07/18/first-alert-weather-smoke-heat-fire-danger-may-rule-weekend/",
           "source": "Northern News Now"
+        },
+        {
+          "title": "The health impacts of poor air as wildfire smoke set to linger",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/video/health-impacts-poor-air-wildfire-smoke-set-linger/",
+          "source": "CBS News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "موجة حر",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 17 Jul 2026 15:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChN6YKYUav6Hh_EHkkeEYZahTs7dCRnDUg80uqaLfpXjM1F8F4RSVrqXBDvw",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "من الخامسة إلى التاسعة ليلا.. قطع مسائي للكهرباء في هذه الجهات",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1524077/%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D9%8A%D9%84%D8%A7-%D9%82%D8%B7%D8%B9-%D9%85%D8%B3%D8%A7%D8%A6%D9%8A-%D9%84%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%81%D9%8A-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "وسط موجة حر قياسية.. انقطاع الكهرباء والمياه يؤجج غضب التونسيين",
+          "snippet": "",
+          "url": "https://www.aljazeera.net/politics/2026/7/17/%D9%88%D8%B3%D8%B7-%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%B1-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1",
+          "source": "الجزيرة نت"
+        },
+        {
+          "title": "احتجاجات في مدن تونسية للتنديد بقطع الكهرباء… وسياسيون يتساءلون عن غياب سعيّد",
+          "snippet": "",
+          "url": "https://www.alquds.co.uk/%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AF%D9%86-%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D9%86%D8%AF%D9%8A%D8%AF-%D8%A8%D9%82%D8%B7%D8%B9-%D8%A7%D9%84/",
+          "source": "القدس العربي"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +105,10 @@
           "source": "جريدة الطريق"
         },
         {
-          "title": "الأرصاد: استمرار موجات ارتفاع درجات الحرارة حتى الأسبوع بعد المقبل",
+          "title": "الأشد حرارة بمصر اليوم.. محافظتان في الجنوب تسجلان أعلى معدلات حرارة",
           "snippet": "",
-          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=17072026&id=615a2e21-b4f9-488f-a799-4a51b8db209f",
-          "source": "بوابة الشروق"
+          "url": "https://www.elwatannews.com/news/details/8322234",
+          "source": "الوطن"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "إيران",
       "trafficCount": "200+",
       "pubDate": "Fri, 17 Jul 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmREixAG5Kb6DNHYFyYiHdST1c9yDsCch3cVV_jnTm33MFWfyAabPbHIXPm4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci7l4LuZl5EYov1Gb7qnL7jPCvslB7PBK8ZCMarmdsrfExLsPRS_Bw1bAurw",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "أنباء عن انفجارات قُرب مضيق هرمز، وإيران تُعلن سقوط قتلى وجرحى ومواصلة المشاورات مع الوسطاء",
+          "title": "واشنطن تنهي ضرباتها على إيران لليلة السابعة، والحرس الثوري يعلن قصف مواقع في \"البحرين والكويت والأردن\"",
           "snippet": "",
-          "url": "https://www.bbc.com/arabic/articles/cq51v8zl7v1o",
+          "url": "https://www.bbc.com/arabic/articles/c934pgjkdzyo",
           "source": "BBC"
         },
         {
-          "title": "إيران.. دوي 3 انفجارات في مدينة سيريك",
+          "title": "الجيش الأمريكي ينهي ليلة سابعة من الضربات ضد إيران ويعلن إصابة 13 من جنوده",
           "snippet": "",
-          "url": "https://aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AF%D9%88%D9%8A-3-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B3%D9%8A%D8%B1%D9%8A%D9%83/4001929",
-          "source": "Anadolu Ajansı"
+          "url": "https://www.aljazeera.net/news/2026/7/18/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-104",
+          "source": "الجزيرة نت"
         },
         {
-          "title": "لليلة السابعة.. غارات أميركية تستهدف جسورًا ومنشآت حيوية جنوب إيران",
+          "title": "مباشر - واشنطن توسّع ضرباتها داخل إيران باستهداف الجسور.. وطهران ترد بهجمات على دول المنطقة",
           "snippet": "",
-          "url": "https://www.wattan.net/ar/news/492260.html",
-          "source": "وكالة وطن للأنباء"
+          "url": "https://arabic.euronews.com/2026/07/17/washington-expands-its-strikes-inside-iran-by-targeting-bridges-tehran-retaliates-with-at",
+          "source": "Euronews.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,20 +145,20 @@
       "title": "météo demain",
       "trafficCount": "200+",
       "pubDate": "Fri, 17 Jul 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9vSLeF3_kJjW1vu6rbsT84SU3ViiPnLKzZNTcks1NEIdlPEpzyE-89yLYII",
-      "pictureSource": "La Chaîne Météo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrShSiU-qZX_oEKIr4xQ3kkKatcRFqxSx1j-NtaCMGrJ12hsFbWkQ07In8o5I",
+      "pictureSource": "Figaro Nautisme",
       "relatedSearch": [
-        {
-          "title": "Alerte Météo : Poursuite de la canicule au sud-est",
-          "snippet": "",
-          "url": "https://actualite.lachainemeteo.com/alerte-meteo/9412-poursuite-de-la-canicule-au-sud-est",
-          "source": "La Chaîne Météo"
-        },
         {
           "title": "Météo du week-end : du soleil sur nos plages avec un air plus respirable",
           "snippet": "",
-          "url": "https://figaronautisme.meteoconsult.fr/actus-meteo-marine/2026-07-17/90501-meteo-du-week-end-du-soleil-sur-nos-plages-avec-un-air-plus-respirable",
+          "url": "https://figaronautisme.meteoconsult.fr/actus-meteo-marine/2026-07-18/90501-meteo-du-week-end-du-soleil-sur-nos-plages-avec-un-air-plus-respirable",
           "source": "Figaro Nautisme"
+        },
+        {
+          "title": "Poursuite de la canicule au sud-est, jusqu'à 40°C",
+          "snippet": "",
+          "url": "https://actualite.lachainemeteo.com/alerte-meteo/9412-poursuite-de-la-canicule-au-sud-est-jusqu-a-40-c",
+          "source": "La Chaîne Météo"
         },
         {
           "title": "L'épisode caniculaire régresse, 7 départements toujours en vigilance orange: la météo de ce samedi 18 juillet",
@@ -189,10 +217,10 @@
           "source": "الإمارات اليوم"
         },
         {
-          "title": "أبل تمهد لأكبر تغيير في تاريخ آيفون .. استعدادات مبكرة لهاتف iPhone 20",
+          "title": "أبل تمهد لأكبر تغيير في تاريخ آيفون.. استعدادات مبكرة لهاتف iPhone 20",
           "snippet": "",
-          "url": "https://www.jordanzad.com/index.php?page=article&id=745845",
-          "source": "زاد الاردن"
+          "url": "https://www.khaberni.com/news/828472-%D8%A7%D8%A8%D9%84-%D8%AA%D9%85%D9%87%D8%AF-%D9%84%D8%A7%D9%83%D8%A8%D8%B1-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D8%A8%D9%83%D8%B1%D8%A9-%D9%84%D9%87%D8%A7%D8%AA%D9%81-iphone-20",
+          "source": "خبرني - ننقل لك أخبار الأردن والعالم بموثوقية وتميّز"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,54 +257,26 @@
       "title": "هجرة",
       "trafficCount": "1000+",
       "pubDate": "Fri, 17 Jul 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjzbzEq83PphxfV2setzvLe-MV2M3W19PLe9ni6BHm-OTrgpBZblo5gg2nQs",
-      "pictureSource": "الشرق للأخبار",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtFSSuL8x31YWh7zVC17m3fqa78iJqv1CYFigEqf0_qsPp6jvmNbnwkNj1Wl8",
+      "pictureSource": "Anadolu Ajansı",
       "relatedSearch": [
         {
-          "title": "بضمان مالي.. مقترح أميركي جديد للحصول على البطاقة الخضراء",
+          "title": "\"معاريف\": 104 آلاف شخص غادروا إسرائيل بين عامي 2022 و2024",
           "snippet": "",
-          "url": "https://asharq.com/politics/190068/%D8%A8%D8%B6%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1/",
-          "source": "الشرق للأخبار"
+          "url": "https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D9%85%D8%B9%D8%A7%D8%B1%D9%8A%D9%81-104-%D8%A2%D9%84%D8%A7%D9%81-%D8%B4%D8%AE%D8%B5-%D8%BA%D8%A7%D8%AF%D8%B1%D9%88%D8%A7-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D9%8A%D9%86-%D8%B9%D8%A7%D9%85%D9%8A-2022-%D9%882024/4001529",
+          "source": "Anadolu Ajansı"
         },
         {
-          "title": "خطوة أمريكية جديدة تصعب الحصول على الإقامة الدائمة في الولايات المتحدة",
+          "title": "تزايد الهجرة العكسية من \"إسرائيل\" بسبب الأوضاع الأمنية",
           "snippet": "",
-          "url": "https://arabi21.com/story/1775602/%D8%AE%D8%B7%D9%88%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B5%D8%B9%D8%A8-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
-          "source": "عربي21"
+          "url": "https://felesteen.news/post/183639/%D8%AA%D8%B2%D8%A7%D9%8A%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%83%D8%B3%D9%8A%D8%A9-%D9%85%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9",
+          "source": "فلسطين أون لاين"
         },
         {
-          "title": "100 ألف دولار رسوم وعودة قاعدة قديمة.. أحدث قرارات ترامب بشأن الجرين كارد",
+          "title": "الهجرة من إسرائيل تتصاعد.. مغادرة 104 آلاف شخص خلال 3 سنوات | التلفزيون العربي",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2026/7/17/100-%D8%A3%D9%84%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%D9%88%D9%85-%D9%88%D8%B9%D9%88%D8%AF%D8%A9-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D8%A3%D8%AD%D8%AF%D8%AB-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8/7484276",
-          "source": "اليوم السابع"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "bayern",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 17 Jul 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQNmIoTQK5khyid14jtHJuIMplAbacibfdHnuFAC3fofX09CFlRhcgF2upl5A",
-      "pictureSource": "FCBinside",
-      "relatedSearch": [
-        {
-          "title": "Neue Rolle für Musiala? Überraschender Mittelfeld-Plan der Bayern enthüllt",
-          "snippet": "",
-          "url": "https://fcbinside.de/2026/07/16/neue-rolle-fuer-musiala-ueberraschender-mittelfeld-plan-der-bayern-enthuellt/",
-          "source": "FCBinside"
-        },
-        {
-          "title": "Bischof bekommt Nummer 8 beim FC Bayern – Namhafte Vorgänger von Breitner bis Goretzka",
-          "snippet": "",
-          "url": "https://www.transfermarkt.at/bischof-bekommt-nummer-8-beim-fc-bayern-namhafte-vorganger-von-breitner-bis-goretzka/view/news/483117",
-          "source": "Transfermarkt"
-        },
-        {
-          "title": "Vincent Kompany will einen Youngster beim FC Bayern München zum großen Gewinner der Abgänge machen",
-          "snippet": "",
-          "url": "https://www.spox.com/fussball/listen/er-soll-von-abgaengen-enorm-profitieren-vincent-kompany-will-einen-youngster-beim-fc-bayern-zum-grossen-gewinner-machen/blt4aed4c321abcb265",
-          "source": "SPOX"
+          "url": "https://www.alaraby.com/news/%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%85%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-104-%D8%A2%D9%84%D8%A7%D9%81-%D8%B4%D8%AE%D8%B5-%D8%AE%D9%84%D8%A7%D9%84-3-%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
+          "source": "التلفزيون العربي"
         }
       ],
       "link": "https://imtaqin.id/"
