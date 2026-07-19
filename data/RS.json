@@ -1,65 +1,233 @@
 {
-  "lastUpdate": "2026-07-19 06:27:30",
+  "lastUpdate": "2026-07-19 08:42:50",
   "data": [
     {
-      "title": "blic",
+      "title": "пожар",
       "trafficCount": "100+",
-      "pubDate": "Sat, 18 Jul 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65Yn_hF5dZhSrzf1LPmmfv8VDV_j1FN7vwOsOjDOaGV0_7PB4iGusZYRY56w",
+      "pubDate": "Sun, 19 Jul 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7ptmmKlbk77SGAFgaGJFsu7xxyN-SkQ4eBOdOpVHDy3jaqdGQjPAeTyQnXI",
+      "pictureSource": "Радио Свобода",
+      "relatedSearch": [
+        {
+          "title": "\"За копейки погибли\". Черная суббота Wildberries",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/za-kopeyki-pogibli-chernaya-subbota-wildberries/33806500.html",
+          "source": "Радио Свобода"
+        },
+        {
+          "title": "Ozon (как и Wildberries) изменил условия договора с продавцами. Маркетплейс не будет компенсировать утрату товара при ударах дронами",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/07/18/ozon-kak-i-wildberries-izmenil-usloviya-dogovora-s-prodavtsami-marketpleys-ne-budet-kompensirovat-utratu-tovara-pri-udarah-dronami",
+          "source": "Meduza"
+        },
+        {
+          "title": "В больницы Москвы эвакуируют 10 пострадавших при атаке БПЛА на Котовск",
+          "snippet": "",
+          "url": "https://top68.ru/news/health/2026-07-18/v-bolnitsy-moskvy-evakuiruyut-10-postradavshih-pri-atake-bpla-na-kotovsk-336406",
+          "source": "РИА «ТОП68"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мост",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 19 Jul 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1odFS2rHkreqGnZPytSQvtar6OYyeNyKGqThVAoPA3WSOwHKimosqNnLYsqo",
+      "pictureSource": "ЧИТА.ру",
+      "relatedSearch": [
+        {
+          "title": "Прошло 4 года. Поврежденный паводками скандальный мост в Забайкалье восстановит компания из Иркутска",
+          "snippet": "",
+          "url": "https://www.chita.ru/text/business/2026/07/19/76541753/",
+          "source": "ЧИТА.ру"
+        },
+        {
+          "title": "Четыре года без моста: Амазар наконец дождался подрядчика за 318 миллионов",
+          "snippet": "",
+          "url": "https://zab.ru/articles/8557",
+          "source": "ZAB.RU"
+        },
+        {
+          "title": "Как в Новороссийске хотели построить мост через бухту – Новости Новороссийска",
+          "snippet": "",
+          "url": "https://novorab.ru/2026/07/18/kak-v-novorossijske-arhitektory-mechtali-postroit-most-cherez-buhtu/",
+          "source": "Новороссийский рабочий"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "василије костов",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 18 Jul 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxYySK_6eTnSip7PhIcbqJGD6CkeLtR12arCvkfwO828DnAa2kIiN7ZkkBCB8",
+      "pictureSource": "Politika",
+      "relatedSearch": [
+        {
+          "title": "Црвена звезда убедљива против Мачве на старту Суперлиге Србије",
+          "snippet": "",
+          "url": "https://www.politika.rs/scc/clanak/771680/sport/crvena-zvezda-ubedljiva-protiv-macve-na-startu-superlige-srbije",
+          "source": "Politika"
+        },
+        {
+          "title": "Звезда са пет голова отворила суперлигашку сезону, Мачва се лоше провела у Београду",
+          "snippet": "",
+          "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5999593/zvezda-macva-superliga-pet-golova-pobeda.html",
+          "source": "РТС"
+        },
+        {
+          "title": "I Mačva ima svog Serlota",
+          "snippet": "",
+          "url": "https://sportal.blic.rs/video/i-macva-ima-svog-serlota-2026071718424575150",
+          "source": "Sportal.rs"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vesti",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 18 Jul 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOl4t__WTogANIZKjXOzmGJM3pLXNR2aP3niPdwr3O823DEJ21Fq-8PwyHTww",
       "pictureSource": "Blic",
       "relatedSearch": [
         {
-          "title": "Upozorenje RHMZ na nepogode: Nakon paklenih vrućina, u Srbiju se vraća jesen usred jula",
+          "title": "Stravičan napad na Kijev, ima mrtvih i ranjenih",
           "snippet": "",
-          "url": "https://www.blic.rs/vremenska-prognoza/upozorenje-rhmz-na-nepogode-nakon-paklenih-vrucina-u-srbiju-se-vraca-jesen-usred-jula/b2qzk44",
+          "url": "https://www.blic.rs/vesti/svet/stravican-napad-na-kijev-ima-mrtvih-i-ranjenih/bj29hgm",
           "source": "Blic"
         },
         {
-          "title": "Hladan front donosi \"jesen\" usred leta, stiže snažno nevreme: Čubrilo najavljuje turbulentan kraj jula",
+          "title": "Zelenski: Rusija izvela jedan od najmasovnijih napada balističkim raketama na Kijev",
           "snippet": "",
-          "url": "https://mondo.rs/Info/Drustvo/a2256378/prognoza-vremena-za-drugu-polovinu-jula.html",
-          "source": "Mondo"
+          "url": "https://www.tanjug.rs/svet/politika/266999/zelenski-rusija-izvela-jedan-od-najmasovnijih-napada-balistickim-raketama-na-kijev/vest",
+          "source": "tanjug.rs"
         },
         {
-          "title": "Upozorenje na jake oluje: Srbija u zoni rizika od superćelija, krupnog grada i olujnog vetra",
+          "title": "Kijev pod najžešćim raketnim udarom od početka sukoba",
           "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/srbija/4362243-upozorenje-na-jake-oluje-srbija-u-zoni-rizika-od-supercelija-krupnog-grada-i-olujnog-vetra",
+          "url": "https://www.politika.rs/sr/clanak/771947/kijev-pod-najzescim-raketnim-udarom-od-pocetka-sukoba",
+          "source": "Politika"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "blic",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 18 Jul 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWZyHbPiZIs_2sAOdue6bqRVlxRngSVN9otR4VjGfrxORBbV7_DL-Z5ZE6oEY",
+      "pictureSource": "B92",
+      "relatedSearch": [
+        {
+          "title": "Totalni kolaps na granicama zbog smene turista: Višesatno čekanje na ovom prelazu VIDEO",
+          "snippet": "",
+          "url": "https://www.b92.net/putovanja/aktuelno/aktuelno/251447/guzve-na-granicama-kilometarske-kolone-zbog-smene-turista-video/vest",
+          "source": "B92"
+        },
+        {
+          "title": "Ovo je trenutna slika na graničnom prelazu gde su samo Srbi: Potpuna agonija i pravi kolaps!",
+          "snippet": "",
+          "url": "https://www.blic.rs/vesti/drustvo/agonija-na-ovom-granicnom-prelazu-u-srbiji-vozila-stoje-u-7-traka-evo-gde-nema-guzve/bd20z55",
+          "source": "Blic"
+        },
+        {
+          "title": "Novi izvešaj o stanju na graničnim prelazima: Koliko se najduže čeka?",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/drustvo/novi-izvesaj-o-stanju-na-granicnim-prelazima-koliko-se-najduze-ceka/",
+          "source": "Danas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "danas",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 18 Jul 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx346MpkDQZ5glHsmXxs8kFnx6OSVvV4PdH81WQhmzFWven3VQ5B-DUEXpLnc",
+      "pictureSource": "Blic Žena",
+      "relatedSearch": [
+        {
+          "title": "Danas slavimo velikog sveca: Ako padne kiša, obavezno pustite decu da urade jedno",
+          "snippet": "",
+          "url": "https://zena.blic.rs/tradicija-i-obicaji/danas-slavimo-velikog-sveca-ako-padne-kisa-obavezno-pustite-decu-da-urade-jedno/nmddzdn",
+          "source": "Blic Žena"
+        },
+        {
+          "title": "Ako danas padne kiša, obavezno ovo uradite! Slavimo velikog sveca, a običaj je jako važan",
+          "snippet": "",
+          "url": "https://informer.rs/drustvo/vesti/1133870/sveti-sisoje-veliki-obicaji",
+          "source": "Informer"
+        },
+        {
+          "title": "Danas se slavi Sveti Sisoje Veliki: Smatra se zaštitnikom dece, a veruje se da OVO donosi zdravlje najmlađima",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/vesti/srbija/4360496-danas-se-slavi-sveti-sisoje-veliki-smatra-se-zastitnikom-dece-a-veruje-se-da-ovo-donosi-zdravlje-najmladjima",
           "source": "Telegraf.rs"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "bet 365",
+      "title": "кампања",
       "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9HKxhhUNOTjSEz0ovclFcuZUHFO8418UtPJ1COWUdWF7iq47xWLcPFaILHyI",
-      "pictureSource": "Al Jazeera",
+      "pubDate": "Sat, 18 Jul 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1p8w8YHC5MTgyTkAXKjsc70QK48pCBgCp1yTXSa5c1gk39oXcTDiQ6EcgURc",
+      "pictureSource": "Alo!",
       "relatedSearch": [
         {
-          "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
+          "title": "Vučić: Stiglo je \"da\" iz Rumunije! Projekat koji menja budućnost Srbije konačno kreće",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final",
-          "source": "Al Jazeera"
+          "url": "https://www.alo.rs/vesti/politika/16856362/vucic-u-vladimirovcima-istorijska-vest-iz-rumunije-nova-ulaganja-i-poruka-o-buducnosti-srbije.html",
+          "source": "Alo!"
         },
         {
-          "title": "Lionel Messi speaks in advance of World Cup final, says Argentina ‘will give it our all’",
+          "title": "Vučić najavio ogromna ulaganja u ceo Banat: \"Radićemo brzu saobraćajnicu do Temišvara sa Rumunima\"",
           "snippet": "",
-          "url": "https://apnews.com/article/messi-argentina-world-cup-final-82ad1be062f7716d6107f4a001220b81",
-          "source": "AP News"
+          "url": "https://www.b92.net/biz/srbija/vesti/251363/vucic-najavio-ogromna-ulaganja-u-ceo-banat-radicemo-brzu-saobracajnicu-do-temisvara-sa-rumunima/vest",
+          "source": "B92"
         },
         {
-          "title": "Lionel Scaloni vs Luis de la Fuente: Student faces master in World Cup final",
+          "title": "Вучић: Србија је најјача када је уједињена, позивам их на дијалог",
           "snippet": "",
-          "url": "https://www.flashscore.com/news/soccer-world-championship-lionel-scaloni-vs-luis-de-la-fuente-student-faces-master-in-world-cup-final/EsXg10Eb/",
-          "source": "Flashscore.com"
+          "url": "https://www.rts.rs/vesti/politika/6000230/aleksandar-vucic-vladimirovac.html",
+          "source": "РТС"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "мађарска",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 18 Jul 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcZ5qF-4Ma0aEd7cFKnB7jBy-A18KUiMtbA0SDxUpAmEfB9FU5nUorcu3i6k",
+      "pictureSource": "Srpski kompas",
+      "relatedSearch": [
+        {
+          "title": "Мађарска влада пријавила сумњу на злоупотребу средстава у време Орбана",
+          "snippet": "",
+          "url": "https://srpskikompas.rs/madjarska-vlada-prijavila-sumnju-na-zloupotrebu-sredstava-u-vreme-orbana/",
+          "source": "Srpski kompas"
+        },
+        {
+          "title": "ПОЧЕЛО РАСКОПАВАЊЕ ОРБАНОВЕ ЕРЕ? Влада открила спорне милијарде у једном послу",
+          "snippet": "",
+          "url": "https://www.novosti.rs/c/planeta/svet/1628538/pocelo-raskopavanje-orbanove-ere-vlada-otkrila-sporne-milijarde-jednom-poslu",
+          "source": "Novosti"
+        },
+        {
+          "title": "Fon der Lajen: Mađarska će se pridružiti Evropskom javnom tužilaštvu",
+          "snippet": "",
+          "url": "https://www.tanjug.rs/svet/politika/265227/fon-der-lajen-madarska-ce-se-pridruziti-evropskom-javnom-tuzilastvu/vest",
+          "source": "tanjug.rs"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "раде богдановић",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 18 Jul 2026 22:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDTN7w6uW9JB6ikP2Zy0g_5Vq2VwOnspV5h0PlGP0cFO8sqjRD12QdAb9LHcc",
       "pictureSource": "Sportklub",
@@ -87,196 +255,28 @@
     },
     {
       "title": "időjárás",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI5Wa63SFrdBuARxvczWjLQmTDC-iomcglTXYeVXP6gXpyhc4aw6SGmwg_S0c",
-      "pictureSource": "Index.hu",
-      "relatedSearch": [
-        {
-          "title": "Belföld - Izzadva ázik az ország, jégesővel és viharos széllel csap le a hidegfront",
-          "snippet": "",
-          "url": "https://index.hu/belfold/2026/07/18/idojaras-hoseg-uv-sugarzas-zivatar-elorejelzes-figyelmeztetes/",
-          "source": "Index.hu"
-        },
-        {
-          "title": "Jön a hidegfront: jön az eső – mutatjuk, hová érkezik",
-          "snippet": "",
-          "url": "https://infostart.hu/belfold/2026/07/19/jon-a-hidegfront-jon-az-eso-mutatjuk-hova-erkezik",
-          "source": "Infostart"
-        },
-        {
-          "title": "Nyakunkon az időjárási fordulat: mutatjuk, mire érdemes számítani",
-          "snippet": "",
-          "url": "https://24.hu/tudomany/2026/07/19/idojaras-fordulat-vihar-eso-elorejelzes-hungaromet/",
-          "source": "24.hu"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "wetter",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqOUfiHMsywU-wmReXbZACamov2aWlKpmgw8tf_ydvnMFeQQ0TirTpI9oud0",
-      "pictureSource": "Euronews.com",
-      "relatedSearch": [
-        {
-          "title": "\"Sommer schnappt zurück“: Meteorologe erklärt hartnäckige Hitzelage",
-          "snippet": "",
-          "url": "https://de.euronews.com/2026/07/18/sommer-meteorologe-hartnackige-hitzelage",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "Erst Regen-Klatsche, dann glüht Deutschland wieder – Hitze-Comeback nähert sich",
-          "snippet": "",
-          "url": "https://www.fr.de/panorama/hitze-macht-ende-juli-ein-comeback-kommt-die-40-grad-hoelle-zurueck-zr-94404741.html",
-          "source": "Frankfurter Rundschau"
-        },
-        {
-          "title": "Am 23. Juli beginnen die Hundstage, sind sie die Vorboten für die heißeste Zeit des Jahres?",
-          "snippet": "",
-          "url": "https://newstime.joyn.de/themen/panorama/am23-juli-beginnen-die-hundstage-sind-sie-die-vorboten-fuer-die-heisseste-zeit-des-jahres-156727",
-          "source": "Joyn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vrijeme",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7flxMbfjHe6KC5IfwLnNTj4QYIa4AYJt86_0UdHEl5fjzLlAvfFH5TXCp_8",
-      "pictureSource": "Rtrs.tv",
-      "relatedSearch": [
-        {
-          "title": "Nakon tropskih temperatura, meteorolozi upozoravaju na jače padavine i lokalne nepogode (VIDEO)",
-          "snippet": "",
-          "url": "https://lat.rtrs.tv/vijesti/vijest.php?id=653433",
-          "source": "Rtrs.tv"
-        },
-        {
-          "title": "Sutra do 39 stepeni!",
-          "snippet": "",
-          "url": "https://www.glassrpske.com/lat/novosti/drustvo/sutra-do-39-stepeni/643603",
-          "source": "Glas Srpske"
-        },
-        {
-          "title": "Vikend donosi promjenu u Srpsku: Meteorolozi najavili pljuskove sa gradom",
-          "snippet": "",
-          "url": "https://www.bl-portal.com/drustvo/vikend-donosi-promjenu-u-srpsku-meteorolozi-najavili-pljuskove-sa-gradom/",
-          "source": "BL Portal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "zadruga",
       "trafficCount": "500+",
-      "pubDate": "Sat, 18 Jul 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2UnchuvkYildcR-hTefBJafJuENrC3Hi62of5vgvZ8Pwikr6lIpLaxgiOSu0",
-      "pictureSource": "Blic",
+      "pubDate": "Sat, 18 Jul 2026 22:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKuChuZgXN9UtKvonHnPd0XuEMv-QcfAY-s6D8tdlWYkinhrNlnAo90E4OhmE",
+      "pictureSource": "Hirnavigator",
       "relatedSearch": [
         {
-          "title": "Evo ko je sinoć napustio Zadrugu 9 Elitu",
+          "title": "Forróság és eső érkezik vasárnap Zalába",
           "snippet": "",
-          "url": "https://www.blic.rs/zabava/evo-ko-je-sinoc-napustio-zadrugu-9-elitu/mt158e1",
-          "source": "Blic"
+          "url": "https://hirnavigator.hu/hir/10523931-forrosag-es-eso-erkezik-vasarnap-zalaba",
+          "source": "Hirnavigator"
         },
         {
-          "title": "Skandal u Eliti pred finale! Bora Santana napravio neviđeni haos, pa izbačen iz Bele kuće",
+          "title": "Vége a nyári melegnek? 30 fok után jön a lehűlés, riasztás van érvényben Zalában",
           "snippet": "",
-          "url": "https://www.alo.rs/vip/elita-9/16855538/bora-santana-napravio-nevidjeni-haos-pa-izbacen-iz-bele-kuce.html",
-          "source": "Alo!"
+          "url": "https://www.zaol.hu/helyi-idojaras/2026/07/milyen-ido-lesz-holnap-zalaegerszeg-2026-07-19",
+          "source": "ZAOL"
         },
         {
-          "title": "Izbacivanje dva dana pred finale: Voditeljka zbog Sare pozvala matičara, a njegov izlazak iz rijalitija je izazvao pravi šok u studiju (video)",
+          "title": "Riasztást adtak ki Zalára – Vasárnap délután fordul az időjárás, mutatjuk, mikor érkezik az eső",
           "snippet": "",
-          "url": "https://naslovi.net/2026-07-18/kurir/izbacivanje-dva-dana-pred-finale-voditeljka-zbog-sare-pozvala-maticara-a-njegov-izlazak-iz-rijalitija-je-izazvao-pravi-sok-u-studiju-video/42104355",
-          "source": "Naslovi.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "змије",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQbH143lRa4taYS2YzXP4d7QvfmW2eo611z0yOH3JaeRiXGa0l5sPHpJKks-g",
-      "pictureSource": "Herceg TV",
-      "relatedSearch": [
-        {
-          "title": "Trebinjski heroj Mišo Pamučina ulovio zvijer dužu od dva metra",
-          "snippet": "",
-          "url": "https://www.herceg.tv/drustvo/69848/trebinjski-heroj-miso-pamucina-ulovio-zvijer-duzu-od-dva-metra",
-          "source": "Herceg TV"
-        },
-        {
-          "title": "Требињац Мишо Памучина уловио звијер дужу од два метра",
-          "snippet": "",
-          "url": "https://www.rtvbn.com/cirilica/4094172/trebinjac-miso-pamucina-ulovio-zvijer-duzu-od-dva-metra",
-          "source": "RTV BN"
-        },
-        {
-          "title": "Требињски херој Мишо Памучина уловио звијер дужу од два метра",
-          "snippet": "",
-          "url": "https://atvbl.rs/vijesti/gradovi-i-opstine/trebinjski-heroj-miso-pamucina-ulovio-zvijer-duzu-od-dva-metra/2316743",
-          "source": "Atvbl"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "mundijal 2026",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 18 Jul 2026 21:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuBDipcN1Z_MZkT1cTdqGvRF3dTnVfyeZm09STBkpcwtjIFtxEW9OoyFkywnE",
-      "pictureSource": "Danas",
-      "relatedSearch": [
-        {
-          "title": "Svetsko fudbalsko prvenstvo 2026: Spektakl u meču za treće mesto, svi rezultati na turniru",
-          "snippet": "",
-          "url": "https://www.danas.rs/bbc-news-serbian/svetsko-fudbalsko-prvenstvo-2026-spektakl-u-mecu-za-trece-mesto-svi-rezultati-na-turniru/",
-          "source": "Danas"
-        },
-        {
-          "title": "Lenovo AI iza Svetskog prvenstva: tehnologija koja menja način na koji gledamo fudbal",
-          "snippet": "",
-          "url": "https://www.b92.net/esports/gadgets/250799/lenovo-ai-iza-svetskog-prvenstva-tehnologija-koja-menja-nacin-na-koji-gledamo-fudbal/vest",
-          "source": "B92"
-        },
-        {
-          "title": "Dan kad je fudbal pukao: Piše Rajko Mitrić",
-          "snippet": "",
-          "url": "https://nova.rs/kolumne/dan-kad-je-fudbal-pukao-pise-rajko-mitric/",
-          "source": "Nova.rs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "b92",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 18 Jul 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9l4GmsxFZDhYHBS93_DgydXUDz_ufU88t-2kGwbr1f5QuDowfaQBbRcvbZ8",
-      "pictureSource": "Naslovi.net",
-      "relatedSearch": [
-        {
-          "title": "Mask menja algoritam: Kraj za \"ratnu zonu\" i svađe u komentarima?",
-          "snippet": "",
-          "url": "https://naslovi.net/2026-07-19/b92/mask-menja-algoritam-kraj-za-ratnu-zonu-i-svadje-u-komentarima/42107064",
-          "source": "Naslovi.net"
-        },
-        {
-          "title": "Poznato ko je jutros upucan u centru Beograda: Detalji pucnjave ispred noćnog kluba",
-          "snippet": "",
-          "url": "https://www.blic.rs/vesti/hronika/poznato-ko-je-jutros-upucan-u-centru-beograda-detalji-pucnjave-ispred-nocnog-kluba/cvtvkny",
-          "source": "Blic"
-        },
-        {
-          "title": "Pucnjava u Beogradu: Ranjen muškarac, hitno prevezen u Urgentni",
-          "snippet": "",
-          "url": "https://informer.rs/hronika/vesti/1134046/beograd-pucnjava-ranjen-muskarac",
-          "source": "Informer"
+          "url": "https://www.zaol.hu/helyi-idojaras/2026/07/idojaras-elorejelzes-zala-2026-07-19",
+          "source": "ZAOL"
         }
       ],
       "link": "https://imtaqin.id/"
