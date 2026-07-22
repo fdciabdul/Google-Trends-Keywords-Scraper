@@ -1,44 +1,66 @@
 {
-  "lastUpdate": "2026-07-22 04:22:11",
+  "lastUpdate": "2026-07-22 07:04:52",
   "data": [
     {
-      "title": "grmljavina",
-      "trafficCount": "10000+",
-      "pubDate": "Tue, 21 Jul 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiPp1noMjmzjiC4NfzjKmwKvJiIY114dSOOgXuyVq1aNDUlVnygOQTtqZCSmo",
-      "pictureSource": "Hrvatski radio",
-      "relatedSearch": [
-        {
-          "title": "Subota sunčana s temperaturom i do 35 stupnjeva",
-          "snippet": "",
-          "url": "https://radio.hrt.hr/radio-zadar/vijesti/subota-suncana-s-temperaturom-i-do-35-stupnjeva-12821720",
-          "source": "Hrvatski radio"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vremenska prognoza",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 21 Jul 2026 20:50:00 -0700",
+      "title": "klix ba",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 21 Jul 2026 22:50:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "vremenska prognoza",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 21 Jul 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNkyPwAD288uVUmpEb2j0Hs4OHuTAiz05C4vcwfmZfsciVRr63DQrfO0r8uQc",
+      "pictureSource": "Glas zapadne Srbije",
+      "relatedSearch": [
+        {
+          "title": "Danas osveženje uz povremene pljuskove i grmljavinu",
+          "snippet": "",
+          "url": "https://glaszapadnesrbije.rs/9638a823-713e-47ee-b116-c75b567c7ae4/Danas-osve%C5%BEenje-uz-povremene-pljuskove-i-grmljavinu",
+          "source": "Glas zapadne Srbije"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "саобраћајна незгода",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 21 Jul 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKSEVIGjN4E4CE1xjOPWLsq-AAojbSWaZUuxhABOEUT6STD-DoU2GW5vbaWd0",
+      "pictureSource": "Radio Sarajevo",
+      "relatedSearch": [
+        {
+          "title": "Nesreća na M-5: Sudarili se kamion i automobil, krhotine rasute po cesti",
+          "snippet": "",
+          "url": "https://radiosarajevo.ba/vijesti/crna-hronika/saobracajna-nesreca-na-m-5-kamion-i-automobil/645956",
+          "source": "Radio Sarajevo"
+        },
+        {
+          "title": "Teška nesreća u Vitezu: Kamion gotovo smrskao automobil",
+          "snippet": "",
+          "url": "https://viteski.ba/vijesti/crna-kronika/teska-nesreca-u-vitezu-kamion-gotovo-smrskrao-automobil/",
+          "source": "Viteški.ba"
+        },
+        {
+          "title": "Teška saobraćajna nesreća na magistralnom putu Busovača – Vitez",
+          "snippet": "",
+          "url": "https://crna-hronika.info/teska-saobracajna-nesreca-na-magistralnom-putu-busovaca-vitez/859778",
+          "source": "Crna hronika"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "fk borac banja luka",
       "trafficCount": "200+",
       "pubDate": "Tue, 21 Jul 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEeHq4kewqDEHAesjW906o2XbXWQ6IeCCgMoRpgx3dnux3qlrRQQZhh2yrzhY",
-      "pictureSource": "Faktor.ba",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROInYWaWgECMHqosQJn92uYfylzCVNUaWW5ZkeZwmXogTieE88JZIygxO1KYI",
+      "pictureSource": "ABCportal",
       "relatedSearch": [
-        {
-          "title": "Borac predstavio veliko pojačanje, navijači oduševljeni",
-          "snippet": "",
-          "url": "https://faktor.ba/sport/fudbal/borac-predstavio-veliko-pojacanje-navijaci-odusevljeni/259908",
-          "source": "Faktor.ba"
-        },
         {
           "title": "ŠOKANTAN ŽDRIJEB ZA MOSTARCE: Zrinjski i Velež izvukli najteže moguće protivnike, Borac imao puno više sreće!",
           "snippet": "",
@@ -50,6 +72,12 @@
           "snippet": "",
           "url": "https://www.klix.ba/sport/nogomet/borac-zrinjski-i-velez-saznali-potencijalne-protivnike-u-trecem-pretkolu-konferencijske-lige/260720109",
           "source": "Klix.ba"
+        },
+        {
+          "title": "Fudbalski i košarkaški klubovi iz BiH saznali imena protivnika u Evropi i ABA ligi",
+          "snippet": "",
+          "url": "https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/evropska-takmicenja/kosarkaski-i-fudbalski-klubovi-iz-bi-h-saznali-imena-protivnika-u-evropi-i-aba-ligi/",
+          "source": "Oslobođenje"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -84,36 +112,26 @@
     },
     {
       "title": "olivera katarina",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 21 Jul 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRSiLsciUY4BfmlTyUz9KUersxS87CPYDoTzNVGH1IbCJ-2ImrCdPZ9kT7CD0",
-      "pictureSource": "Blic Žena",
-      "relatedSearch": [
-        {
-          "title": "Olivera Katarina je 1967. u ovoj haljini hipnotisala Kan: Salvador Dali kad je video aplaudirao joj do iznemoglosti",
-          "snippet": "",
-          "url": "https://zena.blic.rs/puls-poznatih/olivera-katarina-je-1967-u-ovoj-haljini-hipnotisala-kan-salvador-dali-bio-opcinjen/4vxre2s",
-          "source": "Blic Žena"
-        },
-        {
-          "title": "Vučić: Stil i glas Olivere Katarine pronijeli slavu naše kulture širom svijeta",
-          "snippet": "",
-          "url": "https://lat.rtrs.tv/vijesti/vijest.php?id=653755",
-          "source": "Rtrs.tv"
-        },
-        {
-          "title": "Preminula čuvena glumica i pjevačica Olivera Katarina",
-          "snippet": "",
-          "url": "https://www.rtvbn.com/4094325/preminula-cuvena-glumica-i-pjevacica-olivera-katarina",
-          "source": "RTV BN"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "naknada",
       "trafficCount": "1000+",
       "pubDate": "Tue, 21 Jul 2026 07:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "superćelija",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 21 Jul 2026 07:30:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
@@ -132,63 +150,26 @@
       "title": "nico williams",
       "trafficCount": "500+",
       "pubDate": "Tue, 21 Jul 2026 05:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkyl0yMqzjsQ1rdx_1mGvlJVrIv4-rOXCwBe46Rz95N4nG7R_hQO17aHEImsQ",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO4ngD9BDjeHy_dvzVDwC1osIwt1ZtVV446AFjNujBZEcehsXPyjnaiZGc7BY",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "La historia de migración y éxito de las familias de Lamine Yamal y Nico Williams, dos de las jóvenes estrellas de la España campeona del mundo",
+          "title": "La reflexión de Alba Carrillo tras la victoria de España en el Mundial: “Ser pobre no es una elección; ser mal",
           "snippet": "",
-          "url": "https://www.bbc.com/mundo/articles/c6294plwxejo",
-          "source": "BBC"
+          "url": "https://as.com/tikitakas/famosos/la-reflexion-de-alba-carrillo-tras-la-victoria-de-espana-en-el-mundial-ser-pobre-no-es-una-eleccion-ser-malo-si-f202607-n/",
+          "source": "Diario AS"
         },
         {
-          "title": "La otra estrella de Nico Williams: la fe que heredó de sus padres y el cura de Cáritas que los rescató",
+          "title": "Alba Carrillo elogia a Nico Williams por un gesto que emociona a miles de personas",
           "snippet": "",
-          "url": "https://www.eldebate.com/gente/20260721/otra-estrella-nico-williams-fe-heredo-padres-cura-caritas-rescato_441613.html",
-          "source": "El Debate"
+          "url": "https://www.noticiasdegipuzkoa.eus/gente/2026/07/22/alba-carrillo-elogia-nico-williams-gesto-emociona-11359234.html",
+          "source": "Noticias de Gipuzkoa"
         },
         {
-          "title": "Mundial 2026: quién es Nico Williams, edad, origen y equipo",
+          "title": "Alba Carrillo convierte la Moncloa en un photocall durante el evento de Sánchez con la Selección",
           "snippet": "",
-          "url": "https://www.democrata.es/deportes/quien-es-nico-williams/",
-          "source": "Demócrata"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "uhićenje",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 21 Jul 2026 05:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "kevin keegan",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 21 Jul 2026 04:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS17QUQQ7IL5ESIByEjFLGZqhMAf1fnQp43Tqk710TX2zG5um-7IYzslTnesl4",
-      "pictureSource": "China Daily",
-      "relatedSearch": [
-        {
-          "title": "The 'Mighty Mouse' who conquered Europe",
-          "snippet": "",
-          "url": "https://www.chinadaily.com.cn/a/202607/22/WS6a60201da310986e2b4669cf.html",
-          "source": "China Daily"
-        },
-        {
-          "title": "Before Beckham and Ronaldo, there was Kevin Keegan – the footballer who invented the personal brand",
-          "snippet": "",
-          "url": "https://theconversation.com/before-beckham-and-ronaldo-there-was-kevin-keegan-the-footballer-who-invented-the-personal-brand-288036",
-          "source": "The Conversation"
-        },
-        {
-          "title": "'A statue would be a fitting tribute'",
-          "snippet": "",
-          "url": "https://malaysia.news.yahoo.com/statue-fitting-tribute-154314101.html",
-          "source": "Yahoo"
+          "url": "https://www.libertaddigital.com/chic/corazon/2026-07-21/alba-carrillo-convierte-la-moncloa-en-un-photocall-durante-el-multitudinario-evento-de-sanchez-con-la-seleccion-espanola-7439024/",
+          "source": "Libertad Digital"
         }
       ],
       "link": "https://imtaqin.id/"
