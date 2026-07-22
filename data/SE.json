@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-21 23:31:55",
+  "lastUpdate": "2026-07-22 01:00:28",
   "data": [
     {
       "title": "sarajevo",
@@ -31,7 +31,7 @@
     },
     {
       "title": "usa",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 21 Jul 2026 14:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMNF0Z1qy9M3gyWeM6qs07Gz4f3fG8TDlaKdXzognJ_--MKBbux_PUaJyxVtY",
       "pictureSource": "Aftonbladet",
@@ -71,16 +71,16 @@
           "source": "Marcus Oscarsson"
         },
         {
-          "title": "Gemensam grundutbildning för militära flygläkare",
+          "title": "INSÄNDARE: Mer ekologiskt lantbruk krävs för Sveriges beredskap",
           "snippet": "",
-          "url": "https://www.forsvarsmakten.se/om-forsvarsmakten/organisation/forsvarsgrenar-och-forband/flygvapnet/nyheter/gemensam-nordisk-flyglakarutbildning-starker-interoperabilitet-och-beredskap/",
-          "source": "Försvarsmakten"
+          "url": "https://www.mvt.se/insandare/artikel/mer-ekologiskt-lantbruk-kravs-for-sveriges-beredskap/lqpk7e1r",
+          "source": "MVT, Motala Vadstena Tidning"
         },
         {
-          "title": "DEBATT: Lägsta pris bygger inte framtidens beredskap",
+          "title": "DEBATT: I kris kan vi inte låta djuren äta upp maten i Linköping",
           "snippet": "",
-          "url": "https://www.filipstadstidning.se/asikter/debatt/lagsta-pris-bygger-inte-framtidens-beredskap/",
-          "source": "Filipstads Tidning"
+          "url": "https://www.corren.se/debatt/artikel/i-kris-kan-vi-inte-lata-djuren-ata-upp-maten-i-linkoping/r9m1gdxl",
+          "source": "Corren"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -143,11 +143,17 @@
     },
     {
       "title": "öland",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 21 Jul 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyz_NuUsSH-SjOAQMK6qZe_uFYC4eYI_EyZan4D5grc5Jb1QYZMLgIFAe2sWI",
-      "pictureSource": "Sveriges Radio",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXmRCQeo7tLcWrEzGlgoydaqVNyYa6tg_TV2qn85bxbV1KGHw_YjxQMed4gOI",
+      "pictureSource": "Expressen",
       "relatedSearch": [
+        {
+          "title": "Tuva, 21, från Öland dog plötsligt – läkarna utreder",
+          "snippet": "",
+          "url": "https://www.expressen.se/nyheter/sverige/tuva-21-dog-plotsligt-lakarna-utreder/",
+          "source": "Expressen"
+        },
         {
           "title": "Kalmar län toppar listan – här kom mest regn i hela landet",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.olandsbladet.se/oland/stormkaos-i-kopingsvik-talten-rasade-ett-efter-ett/",
           "source": "Ölandsbladet"
-        },
-        {
-          "title": "Så slog regnovädret mot Öland: ”Var helt galet”",
-          "snippet": "",
-          "url": "https://www.barometern.se/oland/sa-slog-regnovadret-mot-oland-helt-galet/",
-          "source": "Barometern-OT"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,20 +257,20 @@
       "title": "borås",
       "trafficCount": "500+",
       "pubDate": "Tue, 21 Jul 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKf8gUUNJC2OMOM6g2-SpPTU8nysf14IK-UpFvMzXt5PQJs_GSVphMI45ZiKU",
-      "pictureSource": "Västerbottens-Kuriren",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3yCwAOKEj3K1GZ4qm7a6qMBZAf6H9A10lnf80-x6MBfaJzwFuCsveCz7qgc",
+      "pictureSource": "Borås Tidning",
       "relatedSearch": [
-        {
-          "title": "Lista: Så gick det för länslagen på Gothia Cup",
-          "snippet": "",
-          "url": "https://www.vk.se/2026-07-20/lista-sa-gick-det-for-lanslagen-pa-gothia-cup-4f22f",
-          "source": "Västerbottens-Kuriren"
-        },
         {
           "title": "Brand i Kinna",
           "snippet": "",
           "url": "https://www.bt.se/mark/brand-i-kinna/",
           "source": "Borås Tidning"
+        },
+        {
+          "title": "Lista: Så gick det för länslagen på Gothia Cup",
+          "snippet": "",
+          "url": "https://www.vk.se/2026-07-20/lista-sa-gick-det-for-lanslagen-pa-gothia-cup-4f22f",
+          "source": "Västerbottens-Kuriren"
         },
         {
           "title": "Så ska Gothia cup utvecklas till nästa år",
