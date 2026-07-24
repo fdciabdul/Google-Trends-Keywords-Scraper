@@ -1,282 +1,263 @@
 {
-  "lastUpdate": "2026-07-24 01:01:39",
+  "lastUpdate": "2026-07-24 04:22:40",
   "data": [
     {
-      "title": "μαύρη θάλασσα",
+      "title": "pogoda",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 23 Jul 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRASoRGjqusi_o53L1e2OvRZznQYiPAvEty7HW_y1Jg4WZiHBf2pZCH_iNfzMg",
+      "pictureSource": "Wiadomości Onet",
+      "relatedSearch": [
+        {
+          "title": "Pogoda w piątek będzie kaprysić. Do przełomu daleka droga",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/pogoda/pogoda-w-piatek-jeszcze-bez-przelomu-tu-warto-miec-przy-sobie-parasol/q0bhbxx",
+          "source": "Wiadomości Onet"
+        },
+        {
+          "title": "Będzie cieplej? Jest najnowsza prognoza pogody IMGW",
+          "snippet": "",
+          "url": "https://wm.pl/artykul/bedzie-cieplej-jest-n2423386",
+          "source": "WM.pl"
+        },
+        {
+          "title": "Pogoda: Pogoda na piątek 24.07.2026",
+          "snippet": "",
+          "url": "https://lodz.tvp.pl/94485552/pogoda-na-piatek-24072026",
+          "source": "TVP3 Łódź"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter",
       "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGdgq7uVvnyOOXyQ7ZHgMgCG924jvkZXCx-CRbwHdMpxJmlWzqAAB0Y4ANT4",
-      "pictureSource": "ThePresident",
+      "pubDate": "Thu, 23 Jul 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdAgDHpE0Tn5gOxbtaBWdhUo0jji49aWg_1M02__xCIu4LG3QFmeGCr-LCo2c",
+      "pictureSource": "DIE ZEIT",
       "relatedSearch": [
         {
-          "title": "Ζελένσκι: Η Ρωσία σχεδιάζει επιθέσεις στον διάδρομο σιτηρών της Μαύρης Θάλασσας",
+          "title": "Wetter: Sonne und Gewitter - so unbeständig wird das Wochenende",
           "snippet": "",
-          "url": "https://www.thepresident.gr/2026/07/23/zelenski-rosia-schediazei-epitheseis-ston-diadromo-sitiron-tis/",
-          "source": "ThePresident"
+          "url": "https://www.zeit.de/news/2026-07/24/sonne-und-gewitter-so-unbestaendig-wird-das-wochenende",
+          "source": "DIE ZEIT"
         },
         {
-          "title": "The Indicator - Πλοία σε παύση στις αφίξεις λιμανιών της Ουκρανίας",
+          "title": "Gewitterrisiko in Baden-Württemberg: Ab Samstag wieder höher",
           "snippet": "",
-          "url": "https://indicator.gr/ploia-se-paysi-stis-afixeis-limanion-tis-oykranias",
-          "source": "Indicator.gr"
+          "url": "https://www.wochenblatt-reporter.de/c-ratgeber/gewitterrisiko-in-baden-wuerttemberg-ab-samstag-wieder-hoeher_a832838",
+          "source": "Wochenblatt Reporter"
         },
         {
-          "title": "Ώθηση στα εμπορεύματα δίνει ο νέος κύκλος εχθροπραξιών στη Μέση Ανατολή – Άλμα για σόγια και καλαμπόκι",
+          "title": "Wetterumschwung in Baden-Württemberg? Wo am Wochenende Gewitter drohen",
           "snippet": "",
-          "url": "https://www.newsit.gr/oikonomia/diethni/othisi-sta-emporeymata-dinei-o-neos-kyklos-exthropraksion-sti-mesi-anatoli-alma-gia-sogia-kai-kalampoki/4732427/",
-          "source": "NewsIT"
+          "url": "https://www.ka-news.de/baden-wuerttemberg/wetter/wetterumschwung-baden-wuerttemberg-experten-warnen-vor-gewittern-im-suedschwarzwald-114845327",
+          "source": "ka-news"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "αγροτοδασική πυρκαγιά",
-      "trafficCount": "5000+",
-      "pubDate": "Thu, 23 Jul 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3TASk7RxiAQwGTpWj52FIC5G8PbO4c6dMqmYmShzY0cczZeS-Q9cD-eqjNIw",
-      "pictureSource": "η ναυτεμπορικη",
-      "relatedSearch": [
-        {
-          "title": "Φωτιά στο Δερβένι Ωραιοκάστρου: Συνελήφθη 51χρονος για πυρκαγιά από αμέλεια",
-          "snippet": "",
-          "url": "https://www.naftemporiki.gr/society/2141605/fotia-sto-derveni-oraiokastroy-synelifthi-51chronos-gia-pyrkagia-apo-ameleia/",
-          "source": "η ναυτεμπορικη"
-        },
-        {
-          "title": "Οριοθετήθηκε η φωτιά στο Δερβένι Θεσσαλονίκης: Παραμένουν στην περιοχή ισχυρές πυροσβεστικές δυνάμεις",
-          "snippet": "",
-          "url": "https://www.newsit.gr/ellada/oriothetithike-i-fotia-sto-derveni-thessalonikis-paramenoun-stin-perioxi-isxyres-pyrosvestikes-dynameis/4735017/",
-          "source": "NewsIT"
-        },
-        {
-          "title": "Θεσσαλονίκη: Συνελήφθη 51χρονος άνδρας για τη φωτιά στο Περιβαλλοντικό Πάρκο Δερβενίου",
-          "snippet": "",
-          "url": "https://www.lifo.gr/now/greece/thessaloniki-synelifthi-51hronos-andras-gia-ti-fotia-sto-periballontiko-parko-derbenioy",
-          "source": "LiFO"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ματι",
+      "title": "météo",
       "trafficCount": "100+",
-      "pubDate": "Thu, 23 Jul 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8NnQNjTzmEapQnI941jhs_43aMOjM8o3EgQMGevMhA6Qnx43dCevIFpOYPo8",
-      "pictureSource": "ProtoThema",
+      "pubDate": "Thu, 23 Jul 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU-Ti8R1lxysm5wNXepwyZCfwcQwdT3rcnIdR5eKHr9q_rWTsnXRzBvo4XshA",
+      "pictureSource": "Ouest-France",
       "relatedSearch": [
         {
-          "title": "Συγκινητικές στιγμές στο Μάτι: Ακολούθησαν το «δρόμο της φωτιάς» στις εκδηλώσεις μνήμης για τα 8 χρόνια από την τραγωδία, δείτε βίντεο και φωτογραφίες",
+          "title": "Météo. La météo du vendredi 24 juillet 2026 à Vandœuvre-lès-Nancy et ses environs",
           "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1855252/se-exelixi-oi-ekdiloseis-mnimis-gia-ta-okto-hronia-apo-tin-tragodia-sto-mati-deite-video/",
-          "source": "ProtoThema"
+          "url": "https://www.ouest-france.fr/meteo/grand-est/vandoeuvre-les-nancy-54500/la-meteo-du-jour-a-vanduvre-les-nancy-9b0151cb-9bd7-452a-9912-07e3bc6387c5",
+          "source": "Ouest-France"
         },
         {
-          "title": "Μάτι-Επέτειος: Η παράσταση του αίσχους, το θράσος, το rebranding",
+          "title": "Météo. La météo du mercredi 22 juillet 2026 à Nancy et ses environs",
           "snippet": "",
-          "url": "https://www.protagon.gr/epikairotita/politiki/mati-epeteios-i-parastasi-tou-aisxous-to-thrasos-to-rebranding-44343411748",
-          "source": "Protagon.gr"
+          "url": "https://www.ouest-france.fr/meteo/grand-est/nancy-54000/la-meteo-du-jour-a-nancy-b4088e4b-e8db-4e79-86be-f8ed79067348",
+          "source": "Ouest-France"
         },
         {
-          "title": "Βαθιά συγκίνηση στο Μάτι: Ο «δρόμος της φωτιάς» και μια ανοιχτή πληγή με ονόματα και ζωές που άλλαξαν για πάντα",
+          "title": "Météo. Les prévisions météorologiques du jeudi 23 juillet 2026 à Nancy et ses environs",
           "snippet": "",
-          "url": "https://www.newsbeast.gr/greece/arthro/13254112/vathia-sygkinisi-sto-mati-o-dromos-tis-fotias-kai-mia-anoichti-pligi-me-onomata-kai-zoes-pou-allaxan-gia-panta",
-          "source": "Newsbeast"
+          "url": "https://www.ouest-france.fr/meteo/grand-est/nancy-54000/la-meteo-du-jour-a-nancy-6d46190b-f126-41c7-95d6-407215a30ef9",
+          "source": "Ouest-France"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "uefa ranking",
+      "title": "hava durumu",
       "trafficCount": "100+",
-      "pubDate": "Thu, 23 Jul 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSRMcjRP3FPhUdVngLaq_2EUtp5MQpVCyTn4MugFSPUjiMQhgmiJsp9piMdzY",
-      "pictureSource": "Gazzetta.gr",
+      "pubDate": "Thu, 23 Jul 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFjYd3wWeFR-iav2om8ysUOQu3za27sbcJVihRQeW0MWrf_nO_RV5TEyjuQmA",
+      "pictureSource": "Amed Haber",
       "relatedSearch": [
         {
-          "title": "Βαθμολογία UEFA: Με το δεξί η Ελλάδα!",
+          "title": "Elazığ'da 7 günlük hava durumu! Kritik uyarı...",
           "snippet": "",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2556457/bathmologia-uefa-me-dexi-i-ellada",
-          "source": "Gazzetta.gr"
+          "url": "https://www.amedhaber.net/elazigda-7-gunluk-hava-durumu-kritik-uyari",
+          "source": "Amed Haber"
         },
         {
-          "title": "Δημάτος: Τι χρειάζεται να κάνουν οι ελληνικές ομάδες για το Top-10 της UEFA",
+          "title": "Meteoroloji Yağış İhtimali gösterdi",
           "snippet": "",
-          "url": "https://www.newsbeast.gr/sports/arthro/13252422/dimatos-ti-chreiazetai-na-kanoun-oi-ellinikes-omades-gia-to-top-10-tis-uefa",
-          "source": "Newsbeast"
+          "url": "https://gundem11.com/meteoroloji-yagis-ihtimali-gosterdi/",
+          "source": "Gündem11"
         },
         {
-          "title": "UEFA Ranking: Η Ελλάδα μπαίνει στη «μάχη» των βαθμών – Ο εφικτός στόχος της χώρας μας",
+          "title": "Elazığ’da Sıcak Havalar Etkisini Artırdı",
           "snippet": "",
-          "url": "https://www.in.gr/2026/07/23/sports/football/uefa-ranking-i-ellada-mpainei-sti-maxi-ton-vathmon-o-stoxos-tis-xoras-mas/",
+          "url": "https://elazighaberkent.com/haber/28368225/elazigda-sicak-havalar-etkisini-artirdi",
+          "source": "Elazığ Haber Kent"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 23 Jul 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSJ628Mf4WWx3Tr5NCtzBjLBT9XXxHQjfrhWRbIYTGVRLxgAHtOABTDvTD4jI",
+      "pictureSource": "NEWSru.co.il",
+      "relatedSearch": [
+        {
+          "title": "Прогноз погоды в Израиле, 24.07.2026 Newsru.co.il",
+          "snippet": "",
+          "url": "https://www.newsru.co.il/israel/24jul2026/pogoda.html",
+          "source": "NEWSru.co.il"
+        },
+        {
+          "title": "Станет прохладнее – прогноз погоды на 24 июля",
+          "snippet": "",
+          "url": "https://cursorinfo.co.il/weather/stanet-prohladnee-prognoz-pogody-na-24-iyulya/",
+          "source": "Cursorinfo"
+        },
+        {
+          "title": "Жара в Израиле бьет рекорды: долго ли ждать передышки",
+          "snippet": "",
+          "url": "https://www.vesty.co.il/main/article/r1cxsasvmg",
+          "source": "Vesty.co.il"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "времето",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 23 Jul 2026 20:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "καιρόσ",
+      "trafficCount": "100000+",
+      "pubDate": "Thu, 23 Jul 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYKgyooDSPQ9G2rR7wuRLIIVv__RzQfoKjMyvpCGuDq3wSJB8GqYvd2XiBe6c",
+      "pictureSource": "NewsIT",
+      "relatedSearch": [
+        {
+          "title": "Καιρός: Σφοδρή κακοκαιρία με καταιγίδες, μπουρίνια και χαλάζι – Σε red code 11 περιοχές, στο επίκεντρο και η Αττική",
+          "snippet": "",
+          "url": "https://www.newsit.gr/ellada/kairos-sfodri-kakokairia-me-kataigides-mpourinia-kai-xalazi-se-red-code-11-perioxes-sto-epikentro-kai-i-attiki/4735813/",
+          "source": "NewsIT"
+        },
+        {
+          "title": "Κακοκαιρία «εξπρές» μετά τον καύσωνα: Καταιγίδες, χαλάζι και κεραυνοί -Οι 11 περιοχές που βρίσκονται σε «red code»",
+          "snippet": "",
+          "url": "https://www.iefimerida.gr/ellada/kakokairia-expres-kaysona-kataigides-halazi-keraynoi",
+          "source": "iefimerida.gr"
+        },
+        {
+          "title": "Καιρός: Ισχυρές βροχές και καταιγίδες σχεδόν σε όλη τη χώρα – Μπουρίνια, κεραυνοί, ακόμα και χαλάζι",
+          "snippet": "",
+          "url": "https://www.in.gr/2026/07/24/greece/kairos-isxyres-vroxes-kai-kataigides-sxedon-se-oli-ti-xora-mpourinia-keraynoi-akoma-kai-xalazi/",
           "source": "In.gr"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "λιβακοβιτσ",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCBHHn-iInokrC-2sQl72LRIrFZFSPJQWISg7N84GqKU8mw3hIw40FFSJvIzs",
-      "pictureSource": "Sport24",
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 23 Jul 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiI7t-kVm6kh2QsO8Yyb5f1SaB4izm-p6g_wpPvyQn-pR2rUegIyBq6uBC9gc",
+      "pictureSource": "The Weather Channel",
       "relatedSearch": [
         {
-          "title": "Ολυμπιακός, μεταγραφές: Οι ερυθρόλευκοι ενδιαφέρονται για τον Λιβάκοβιτς, σύμφωνα με τους Κροάτες",
+          "title": "Midwest, Northeast gets A/C break from heat, wildfire smoke",
           "snippet": "",
-          "url": "https://www.sport24.gr/football/olimpiakos-metagrafes-oi-erithrolefkoi-endiaferontai-gia-ton-livakovits-simfona-me-tous-kroates/",
-          "source": "Sport24"
+          "url": "https://weather.com/2026/07/23/forecast/regional/ac-rest-cooler-drier-no-smoke-midwest-northeast",
+          "source": "The Weather Channel"
         },
         {
-          "title": "Κροατικά ΜΜΕ: Ο Λιβάκοβιτς «κλείνει» στον Ολυμπιακό",
+          "title": "Fantastic Friday ahead for the Philadelphia region",
           "snippet": "",
-          "url": "https://www.efsyn.gr/athlitismos/1434522/kroatika-mme-o-livakovits-kleinei-ston-olympiako/",
-          "source": "Η Εφημερίδα των Συντακτών"
+          "url": "https://www.nbcphiladelphia.com/news/local/fantastic-friday-ahead/4437956/",
+          "source": "NBC10 Philadelphia"
         },
         {
-          "title": "«Ο Ολυμπιακός είναι το φαβορί για την απόκτηση του Λιβάκοβιτς» γράφουν στην Κροατία",
+          "title": "Very comfortable evening; pleasant stretch of weather continues in south central Pennsylvania",
           "snippet": "",
-          "url": "https://www.newsit.gr/athlitika/o-olympiakos-einai-to-favori-gia-tin-apoktisi-tou-livakovits-grafoun-stin-kroatia/4735761/",
-          "source": "NewsIT"
+          "url": "https://www.wgal.com/article/very-comfortable-evening-pleasant-stretch-of-weather-continues-in-south-central-pennsylvania/73249002",
+          "source": "WGAL"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "athens voice",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1qqVFEDiBYe8DWGaZBaX_GO4u52M4-oT8U9MzyNyThljXPKjBOlFClwjout4",
-      "pictureSource": "Athens Voice",
-      "relatedSearch": [
-        {
-          "title": "Τα YOLO του Σαββάτου 18.07.2026",
-          "snippet": "",
-          "url": "https://www.athensvoice.gr/viral/yolo/975650/ta-yolo-tou-savvatou-18-07-2026/",
-          "source": "Athens Voice"
-        },
-        {
-          "title": "Τα YOLO της Τετάρτης 15.07.2026",
-          "snippet": "",
-          "url": "https://www.athensvoice.gr/viral/yolo/974646/ta-yolo-tis-tetartis-15-07-2026/",
-          "source": "Athens Voice"
-        },
-        {
-          "title": "Τα YOLO της Δευτέρας 20.07.2026",
-          "snippet": "",
-          "url": "https://www.athensvoice.gr/viral/yolo/975666/ta-yolo-tis-deuteras-20-07-2026/",
-          "source": "Athens Voice"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "livakovic",
+      "title": "moti",
       "trafficCount": "500+",
-      "pubDate": "Thu, 23 Jul 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpHJhSrKBHXtKo1n8KSQrV00BhQT5O0QLoTOPnzt30qo1ZpxtfnxDe8AFaqZA",
-      "pictureSource": "Yahoo Sports",
+      "pubDate": "Thu, 23 Jul 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdCwk4c9KppqCgFmO9w2zX1PvTR-ow4S1pgBll5Cy9K68H7yQS-0tNAVLJ_Bw",
+      "pictureSource": "Azərtac",
       "relatedSearch": [
         {
-          "title": "Livakovic targeted by Torino and Dinamo Zagreb from Fenerbahce",
+          "title": "Farid Osmanov: More than 90 percent of ACC graduates employed in the public and private sectors",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/livakovic-targeted-torino-dinamo-zagreb-172000314.html",
-          "source": "Yahoo Sports"
+          "url": "https://azertag.az/en/xeber/farid_osmanov_more_than_90_percent_of_acc_graduates_employed_in_the_public_and_private_sectors-4332693",
+          "source": "Azərtac"
         },
         {
-          "title": "Dominik Livakovic's new team has been announced! Here is the transfer fee to be earned.",
+          "title": "Israel Institute of Technology official: Cybersecurity is a mission to protect the foundations of modern society",
           "snippet": "",
-          "url": "https://en.haberler.com/dominik-livakovic-s-new-team-has-been-announced-2287567/",
-          "source": "Haberler.com"
+          "url": "https://xalqqazeti.az/en/iqtisadiyyat/272060-israel-institute-technology-official-cybersecurity",
+          "source": "Xalqqazeti.az"
         },
         {
-          "title": "Livakovic targeted by Torino and Dinamo Zagreb from Fenerbahce",
+          "title": "Cybersecurity as a key driver of economic resilience and new challenges for Azerbaijan",
           "snippet": "",
-          "url": "https://football-italia.net/livakovic-torino-dinamo-zagreb-fenerbahce/",
-          "source": "Football Italia"
+          "url": "https://www.trend.az/azerbaijan/society/4209058.html",
+          "source": "Trend News Agency"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "γιάννησ παπαμιχαήλ",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnjIT6EPUXyHHmMkjlmqeuKZDbBMU4cA5f0auPNo41_4kZ3fKXRLOwTROemCY",
-      "pictureSource": "ert.gr",
-      "relatedSearch": [
-        {
-          "title": "Αλίκη Βουγιουκλάκη - 23 Ιουλίου 1996",
-          "snippet": "",
-          "url": "https://www.ert.gr/ert-arxeio/aliki-vougiouklaki-23-iouliou-1996-2/",
-          "source": "ert.gr"
-        },
-        {
-          "title": "«Σήκω, ξύπνα, μη φεύγεις»: Η σπαρακτική εξομολόγηση του Γιάννη Παπαμιχαήλ για την Αλίκη Βουγιουκλάκη 30 χρόνια μετά",
-          "snippet": "",
-          "url": "https://www.tovima.gr/grace/diasimoi/siko-xypna-mi-fevgeis-i-sparaktiki-exomologisi-tou-gianni-papamichail-gia-tin-aliki-vougiouklaki-30-chronia-meta/",
-          "source": "ΤΟ ΒΗΜΑ"
-        },
-        {
-          "title": "Αλίκη Βουγιουκλάκη – Η άγνωστη εξομολόγηση πριν φύγει από τη ζωή: «Έχω καρκίνο στο πάγκρεας",
-          "snippet": "",
-          "url": "https://www.newsbeast.gr/lifestyle/arthro/13253529/aliki-vougiouklaki-i-agnosti-exomologisi-prin-fygei-apo-ti-zoi-echo-karkino-sto-pagkreas",
-          "source": "Newsbeast"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ηράκλειο",
+      "title": "καιροσ σημερα",
       "trafficCount": "100+",
-      "pubDate": "Thu, 23 Jul 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDB_jkXCgepDQ59VLhC0kX43ZpAcQrxL_WzoeN50ONeM67NGg91QuLbhMNFbk",
-      "pictureSource": "ΤΑ ΝΕΑ",
+      "pubDate": "Thu, 23 Jul 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrHI8SiaI0rY365dIzdgtB_uP3k9JzFbbct9093iuiE7JF4vlJkJCTfpbw0dc",
+      "pictureSource": "MEGA TV",
       "relatedSearch": [
         {
-          "title": "Νεκρή στο αυτοκίνητό της εντοπίστηκε 61χρονη αγνοούμενη στο Ηράκλειο – Στο όχημα βρέθηκαν σύριγγες",
+          "title": "Αίθριος ο καιρός την Κυριακή – Η πρόγνωση του Γιάννη Καλλιάνου",
           "snippet": "",
-          "url": "https://www.tanea.gr/2026/07/23/greece/nekri-sto-aytokinito-tis-entopistike-61xroni-agnooumeni-sto-irakleio-sto-oxima-vrethikan-syrigges/",
-          "source": "ΤΑ ΝΕΑ"
+          "url": "https://www.megatv.com/2026/07/18/aithrios-o-kairos-tin-kyriaki-i-prognosi-tou-gianni-kallianou-23/",
+          "source": "MEGA TV"
         },
         {
-          "title": "Hράκλειο: Τραγωδία στον Εσταυρωμένο – Νεκρή 61χρονη μέσα στο αυτοκίνητό της",
+          "title": "Ο καιρός σήμερα στη Θεσσαλονίκη",
           "snippet": "",
-          "url": "https://creta24.gr/hrakleiotragodia-ston-estayromeno-nekri-61chroni-mesa-sto-aytokinito-tis/",
-          "source": "CRETA24"
+          "url": "https://www.thestival.gr/eidiseis/kairos/o-kairos-simera-sti-thessaloniki-2110/",
+          "source": "Thestival"
         },
         {
-          "title": "Νεκρή γυναίκα εντοπίστηκε μέσα σε αυτοκίνητο στον Εσταυρωμένο",
+          "title": "Αίθριος ο καιρός το Σάββατο – Η πρόγνωση του Γιάννη Καλλιάνου",
           "snippet": "",
-          "url": "https://www.cretalive.gr/kriti/nekri-gynaika-entopistike-mesa-se-aytokinito-ston-estayromeno",
-          "source": "Cretalive"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ιωάννα τούνη",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 23 Jul 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsQp4EiN7IsqJ6AeNou22ZxxBrTJVC9MHmN7l1j5gD_PUh-T7jCtQ9zqcphA",
-      "pictureSource": "ProtoThema",
-      "relatedSearch": [
-        {
-          "title": "Ιωάννα Τούνη: Αν το να είσαι κουκλάρα, πετυχημένη και βασίλισσα του real estate είναι έγκλημα, να με συλλάβετε",
-          "snippet": "",
-          "url": "https://www.protothema.gr/life-style/article/1855297/ioanna-touni-an-to-na-eisai-kouklara-petuhimeni-kai-vasilissa-tou-real-estate-einai-eglima-na-me-sullavete/",
-          "source": "ProtoThema"
-        },
-        {
-          "title": "Ιωάννα Τούνη: «Συλλάβετέ με αν το να είσαι κουκλάρα και επιτυχημένη είναι έγκλημα» – Η ανάρτηση από το ανακαινισμένο σπίτι",
-          "snippet": "",
-          "url": "https://www.newsbeast.gr/lifestyle/arthro/13253683/ioanna-touni-syllavete-me-an-to-na-eisai-kouklara-kai-epitychimeni-einai-egklima-i-anartisi-apo-to-anakainismeno-spiti",
-          "source": "Newsbeast"
-        },
-        {
-          "title": "Ιωάννα Τούνη: «Να με συλλάβετε αν το να είσαι κουκλάρα, επιτυχημένη και βασίλισσα του real estate είναι έγκλημα»",
-          "snippet": "",
-          "url": "https://www.newsit.gr/lifestyle/ioanna-touni-na-me-syllavete-an-to-na-eisai-kouklara-epityximeni-kai-vasilissa-tou-real-estate-einai-egklima/4735760/",
-          "source": "NewsIT"
+          "url": "https://www.megatv.com/2026/07/17/aithrios-o-kairos-to-savvato-i-prognosi-tou-gianni-kallianou-30/",
+          "source": "MEGA TV"
         }
       ],
       "link": "https://imtaqin.id/"
