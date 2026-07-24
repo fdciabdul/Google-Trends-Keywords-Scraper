@@ -1,30 +1,67 @@
 {
-  "lastUpdate": "2026-07-23 23:33:53",
+  "lastUpdate": "2026-07-24 01:01:40",
   "data": [
     {
-      "title": "ai",
+      "title": "動漫節2026門票",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 23 Jul 2026 16:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hong kong",
       "trafficCount": "100+",
-      "pubDate": "Thu, 23 Jul 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPnrMdr7-9EAnW54AMatPwbbJOD1pKiRfId3QlymW1kmzbi8OIAlaZVpBUS84",
-      "pictureSource": "OpenAI",
+      "pubDate": "Thu, 23 Jul 2026 16:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvksKYZ0zOTEU9h0q-bFXd55htGZE_GlWSQQybBLpfEU73MFWQ0et6zW6KIrg",
+      "pictureSource": "South China Morning Post",
       "relatedSearch": [
         {
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "title": "Mainland Chinese dental clinics in Hong Kong come under scrutiny of authorities",
           "snippet": "",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-          "source": "OpenAI"
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361506/mainland-chinese-dental-clinics-hong-kong-come-under-scrutiny-authorities",
+          "source": "South China Morning Post"
         },
         {
-          "title": "OpenAI Agent Escaped Testing and Launched an Autonomous Hack",
+          "title": "Man arrested over suspected illegal dental practice",
           "snippet": "",
-          "url": "https://www.cnet.com/news/openai-agent-escaped-testing-launched-autonomous-hack-hugging-face/",
-          "source": "CNET"
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1863346-20260723.htm?spTabChangeable=0",
+          "source": "香港電台"
         },
         {
-          "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+          "title": "Man, 72, arrested as police raid mainland dental center in HK over suspected illegal practice",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
-          "source": "The New York Times"
+          "url": "https://www.thestandard.com.hk/news/article/338068/Man-72-arrested-as-police-raid-mainland-dental-center-in-HK-over-suspected-illegal-practice",
+          "source": "The Standard (HK)"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "中國",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 23 Jul 2026 12:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuM4RkhWYS6izsJpIR8e5BnhOAzTwN1-avvdSqQ7BAgfiAqaBeZ9XA1E8ZsaI",
+      "pictureSource": "Yahoo 財經",
+      "relatedSearch": [
+        {
+          "title": "違規使用｜中國「月之暗面」被指違規 採用美國AI模型及高階晶片 中方：毫無事實根據",
+          "snippet": "",
+          "url": "https://hk.finance.yahoo.com/news/%E9%81%95%E8%A6%8F%E4%BD%BF%E7%94%A8-%E4%B8%AD%E5%9C%8B-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2-%E8%A2%AB%E6%8C%87%E9%81%95%E8%A6%8F-%E6%8E%A1%E7%94%A8%E7%BE%8E%E5%9C%8Bai%E6%A8%A1%E5%9E%8B%E5%8F%8A%E9%AB%98%E9%9A%8E%E6%99%B6%E7%89%87-050000893.html",
+          "source": "Yahoo 財經"
+        },
+        {
+          "title": "美斥月之暗面竊AI技術 華：停止抹黑 指涉大規模工業「蒸餾」 或列黑名單 - 20260724 - 中國",
+          "snippet": "",
+          "url": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20260724/s00013/1784824882197/%E7%BE%8E%E6%96%A5%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%AB%8Aai%E6%8A%80%E8%A1%93-%E8%8F%AF-%E5%81%9C%E6%AD%A2%E6%8A%B9%E9%BB%91-%E6%8C%87%E6%B6%89%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%B7%A5%E6%A5%AD%E3%80%8C%E8%92%B8%E9%A4%BE%E3%80%8D-%E6%88%96%E5%88%97%E9%BB%91%E5%90%8D%E5%96%AE",
+          "source": "明報新聞網"
+        },
+        {
+          "title": "Kimi K3｜胡錫進發文籲梁文鋒楊植麟等別去美國 恐遭羅織罪名成孟晚舟2.0",
+          "snippet": "",
+          "url": "https://www.stheadline.com/realtime-china/3596822/Kimi-K3%E8%83%A1%E9%8C%AB%E9%80%B2%E7%99%BC%E6%96%87%E7%B1%B2%E6%A2%81%E6%96%87%E9%8B%92%E6%A5%8A%E6%A4%8D%E9%BA%9F%E7%AD%89%E5%88%A5%E5%8E%BB%E7%BE%8E%E5%9C%8B-%E6%81%90%E9%81%AD%E7%BE%85%E7%B9%94%E7%BD%AA%E5%90%8D%E6%88%90%E5%AD%9F%E6%99%9A%E8%88%9F20",
+          "source": "星島頭條"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +70,26 @@
       "title": "王虹",
       "trafficCount": "200+",
       "pubDate": "Thu, 23 Jul 2026 08:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTETtNmhIXLwZo7Qb9MoA5g_sSd0f0ZscJh0DmdukiXt030q2D5JLJXFOV_xE4",
-      "pictureSource": "新浪财经",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwP8wwi2jMVHPBuCwc2TF5Sgd6UQrnurryDc7gdlG1IMcV1WYKJfMK7yRuyYY",
+      "pictureSource": "香港電台",
       "relatedSearch": [
         {
-          "title": "马克龙亲自致电王虹：干得好",
+          "title": "中国数学家邓煜和王虹获得有数学界诺贝尔奖称号的菲尔兹奖",
           "snippet": "",
-          "url": "https://finance.sina.cn/stock/jdts/2026-07-24/detail-iniivyeq4465287.d.html?oid=800&vt=4&cid=76993&node_id=76993",
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1863386-20260724.htm?spTabChangeable=0",
+          "source": "香港電台"
+        },
+        {
+          "title": "独家专访王虹：从北大数学系曾经的“小透明”，到今天的菲尔兹奖得主|中国科学报|古斯|数学家|同学|研究所_手机新浪网",
+          "snippet": "",
+          "url": "https://finance.sina.cn/tech/2026-07-24/detail-iniivpqu9293797.d.html?oid=WA%200821%207001%200763%20(FORTRESS)%20Kusen%20Pintu%20Baja%20Fortress%20Pilangkenceng%20Madiun&vt=4",
           "source": "新浪财经"
         },
         {
-          "title": "中国数学家邓煜、王虹获得菲尔兹奖",
+          "title": "邓煜：中国人获奖是水到渠成的事",
           "snippet": "",
-          "url": "https://app.xinhuanet.com/news/article.html?articleId=20260724150c6a810ece4c66976b6f6e7211379f",
-          "source": "新华网客户端"
-        },
-        {
-          "title": "王虹母校老师：她13岁就跳级上高中，16岁上北大，数学思维很好",
-          "snippet": "",
-          "url": "https://news.ifeng.com/c/8v0DckDiF8U",
-          "source": "凤凰网"
+          "url": "https://news.china.com/socialgd/10000169/20260724/49630400.html",
+          "source": "中华网"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,44 +108,16 @@
           "source": "Eastweek"
         },
         {
-          "title": "梁敏巧曬Usagi珍藏自爆有翻版惹爭議 網民：鍾意應該支持正版",
-          "snippet": "",
-          "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372675/%E6%A2%81%E6%95%8F%E5%B7%A7%E6%9B%ACusagi%E7%8F%8D%E8%97%8F%E8%87%AA%E7%88%86%E6%9C%89%E7%BF%BB%E7%89%88%E6%83%B9%E7%88%AD%E8%AD%B0-%E7%B6%B2%E6%B0%91-%E9%8D%BE%E6%84%8F%E6%87%89%E8%A9%B2%E6%94%AF%E6%8C%81%E6%AD%A3%E7%89%88",
-          "source": "香港01"
-        },
-        {
           "title": "梁敏巧回應買假貨Usagi事件 中招後上網自學如何分真假",
           "snippet": "",
           "url": "https://www.am730.com.hk/%E5%A8%9B%E6%A8%82/1043437/%E6%A2%81%E6%95%8F%E5%B7%A7%E5%9B%9E%E6%87%89%E8%B2%B7%E5%81%87%E8%B2%A8usagi%E4%BA%8B%E4%BB%B6-%E4%B8%AD%E6%8B%9B%E5%BE%8C%E4%B8%8A%E7%B6%B2%E8%87%AA%E5%AD%B8%E5%A6%82%E4%BD%95%E5%88%86%E7%9C%9F%E5%81%87",
           "source": "AM730"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tesla stock",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOThLGLdlag6RqDsnPoPjvdrNCu-i-UH92N3z4ilMP5PZNmyMvVCQSr90Kow8",
-      "pictureSource": "Yahoo Finance",
-      "relatedSearch": [
-        {
-          "title": "Tesla stock tumbles 10% after profit miss; full-year capex spend of $25 billion confirmed",
-          "snippet": "",
-          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-tumbles-10-after-profit-miss-full-year-capex-spend-of-25-billion-confirmed-110300122.html",
-          "source": "Yahoo Finance"
         },
         {
-          "title": "Tesla Plunges Most in a Year on Investor Angst Over AI Spending",
+          "title": "梁敏巧曬老翻Usagi引爆公關危機 火速刪片道歉：是我疏忽",
           "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/tesla-second-quarter-earnings-miss-wall-street-s-expectations",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "As Musk pivots beyond cars, Tesla’s autos engine is under strain",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/media-telecom/elon-musks-tesla-posts-cash-burn-capex-surges-ai-robotaxi-push-2026-07-22/",
-          "source": "Reuters"
+          "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372949/%E6%A2%81%E6%95%8F%E5%B7%A7%E6%9B%AC%E8%80%81%E7%BF%BBusagi%E5%BC%95%E7%88%86%E5%85%AC%E9%97%9C%E5%8D%B1%E6%A9%9F-%E7%81%AB%E9%80%9F%E5%88%AA%E7%89%87%E9%81%93%E6%AD%89-%E6%98%AF%E6%88%91%E7%96%8F%E5%BF%BD",
+          "source": "香港01"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -117,9 +126,15 @@
       "title": "fields medal",
       "trafficCount": "100+",
       "pubDate": "Thu, 23 Jul 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuAeJbSBKwycKQn1pE2NM7pQjoXwE7VIG-b10bhe_y1tCiQ938b33XE22Z6t8",
-      "pictureSource": "South China Morning Post",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEUPS5aTLRiNdYukAc3Pw6F6v-2xb8VAb9-3cq8wmxY5i6yhF1jNSEHGLoKE",
+      "pictureSource": "香港電台",
       "relatedSearch": [
+        {
+          "title": "Chinese scholars awarded top mathematics prize",
+          "snippet": "",
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1863384-20260724.htm?spTabChangeable=0",
+          "source": "香港電台"
+        },
         {
           "title": "Wang Hong and Deng Yu become first Chinese nationals to win Fields Medal",
           "snippet": "",
@@ -131,12 +146,34 @@
           "snippet": "",
           "url": "https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html",
           "source": "The New York Times"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "tsla stock",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 23 Jul 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdZwwd139L6dsxCUUJz26wydpIlz1-MnkTVOZey1aR-v-1fkGPVBmP6MNQDkA",
+      "pictureSource": "香港電台",
+      "relatedSearch": [
+        {
+          "title": "Tesla misses profit estimates, cites lower prices",
+          "snippet": "",
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1863237-20260723.htm",
+          "source": "香港電台"
         },
         {
-          "title": "Poster | Chinese mathematicians awarded Fields Medals for the first time",
+          "title": "Tesla Plunges Most in a Year on Investor Angst Over AI Spending",
           "snippet": "",
-          "url": "https://english.news.cn/20260723/9b96ad3060f34e4abe2a761ddfd5d011/c.html",
-          "source": "Xinhua"
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/tesla-second-quarter-earnings-miss-wall-street-s-expectations",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Tesla stock tumbles 10% after profit miss; full-year capex spend of $25 billion confirmed",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-tumbles-10-after-profit-miss-full-year-capex-spend-of-25-billion-confirmed-110300122.html",
+          "source": "Yahoo Finance"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -170,15 +207,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "acghk",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 05:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "屯門公路",
       "trafficCount": "100+",
       "pubDate": "Thu, 23 Jul 2026 05:20:00 -0700",
@@ -207,21 +235,12 @@
           "source": "凤凰网"
         },
         {
-          "title": "市民回应深圳地铁乘车体验 安检引发热议",
+          "title": "深圳市地铁安检升级，空奶茶袋也要过安检机？深铁客服：随身物品均需过机",
           "snippet": "",
-          "url": "https://news.china.com/socialgd/10000169/20260722/49627212.html",
-          "source": "中华网"
+          "url": "https://m.sohu.com/a/1053919925_120388781?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "梁凱寧",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 23 Jul 2026 04:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
