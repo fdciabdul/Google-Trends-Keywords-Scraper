@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-07-28 15:39:14",
+  "lastUpdate": "2026-07-28 17:07:22",
   "data": [
     {
       "title": "дорожно-транспортное происшествие",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 28 Jul 2026 07:40:00 -0700",
       "picture": "",
       "pictureSource": "Южный федеральный",
@@ -31,7 +31,7 @@
     },
     {
       "title": "polijas robežas",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 28 Jul 2026 07:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKRE5ijXMHOMvYjVOeFUnCmQM0fWy8QfqlQb7BJxtF1uk92UQdn6Okjd7lv8",
       "pictureSource": "LA.LV",
@@ -52,29 +52,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "турция",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 28 Jul 2026 06:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAk04GcKR80p8OJEHs4qZFiUzm0-CPgnjNhC5qqq5mBk6DeyvVZwZQfU1j-oc",
+      "pictureSource": "Anadolu Ajansı",
+      "relatedSearch": [
+        {
+          "title": "Ирак приветствует участие турецких компаний в проекте «Дорога развития»",
+          "snippet": "",
+          "url": "https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%B8%D1%80%D0%B0%D0%BA-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-%D1%82%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F-/4011752",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "Премьер Ирака в Анкаре",
+          "snippet": "",
+          "url": "https://armiya.az/ru/news/254731",
+          "source": "Armiya.az"
+        },
+        {
+          "title": "Первый официальный визит премьера Ирака в Турцию: он обсудит с Эрдоганом инвестиции, водные ресурсы и «Дорогу развития",
+          "snippet": "",
+          "url": "https://news.am/ru/news/1052118",
+          "source": "NEWS.am"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "циклон",
       "trafficCount": "500+",
       "pubDate": "Tue, 28 Jul 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpqKLzRIFvqz-R80PL5WDcIFrfHcQJ2zF9b6TX8nLXMgOFyvuCIpR4jdgw8w",
-      "pictureSource": "66.RU",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMaPBNuGk6XHDd_-XEWpsIdYvVIucrh3nmHL3JKNknM6YYTv7RrZV2UABgi0Q",
+      "pictureSource": "Москвич Mag",
       "relatedSearch": [
         {
-          "title": "В Екатеринбург вернутся дожди",
+          "title": "Вырванные с корнем деревья и снесенные ограждения: последствия сегодняшнего урагана",
           "snippet": "",
-          "url": "https://66.ru/society/6184505-v-ekaterinburg-vernutsya-dojdi/",
-          "source": "66.RU"
+          "url": "https://moskvichmag.ru/gorod/vyrvannye-s-kornem-derevya-i-snesennye-ograzhdeniya-posledstviya-segodnyashnego-uragana/",
+          "source": "Москвич Mag"
         },
         {
-          "title": "Жара до 38 градусов и дожди в конце недели: прогноз погоды в Свердловской области на ближайшие дни",
+          "title": "Центральную Россию накроет волновой циклон: ливни, грозы и похолодание",
           "snippet": "",
-          "url": "https://oblgazeta.ru/news/2026/07/157770/",
-          "source": "Областная газета | Свердловская область"
+          "url": "https://www.gismeteo.ru/news/weather/centralnuju-rossiju-nakroet-volnovoj-ciklon-livni-grozy-i-poholodanie/",
+          "source": "GISMETEO.Новости"
         },
         {
-          "title": "В Екатеринбурге спадет тропическая жара и начнутся грозы",
+          "title": "Новости - За окном - На Истру надвигается непогода",
           "snippet": "",
-          "url": "https://eanews.ru/ekaterinburg/20260727073751/v-ekaterinburge-spadet-tropicheskaya-zhara-i-nachnutsya-grozy",
-          "source": "Европейско-Азиатские Новости"
+          "url": "https://xn--80apydf.xn--p1ai/news/za-oknom/na-istru-nadvigaetsya-nepogoda/",
+          "source": "Истра.РФ"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -83,26 +111,26 @@
       "title": "ryanair",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Jul 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoE_pUL6pw9q1nc6_MaIyzhuIIOQbE8MgykpIgL_ItOpv-qfzLnXzp6Wv2eUY",
-      "pictureSource": "Ryanair Corporate",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49lMF4QtRWHGI-43FuQoRl_n17AmyusfPpSotdy-vw3nNwFaBM0NTq0nYgyM",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "RYANAIR AND AWS EXTEND AGREEMENT FOR ANOTHER 5 YEARS",
+          "title": "‘The explosion is what I remember’: man nearly sucked out of Ryanair plane recounts ordeal",
           "snippet": "",
-          "url": "https://corporate.ryanair.com/news/ryanair-and-aws-extend-agreement-for-another-5-years/",
-          "source": "Ryanair Corporate"
+          "url": "https://www.theguardian.com/world/2026/jul/21/the-explosion-is-what-i-remember-man-nearly-sucked-out-of-ryanair-plane-recounts-ordeal",
+          "source": "The Guardian"
         },
         {
-          "title": "RYAAY Looks 2.7% Undervalued on GF Value™ as Partnership with AWS Extends",
+          "title": "Ryanair passenger sucked out window claims airline have only offered to rebook flight",
           "snippet": "",
-          "url": "https://www.gurufocus.com/news/8982183/ryaay-looks-27-undervalued-on-gf-value-as-partnership-with-aws-extends",
-          "source": "GuruFocus"
+          "url": "https://www.the-independent.com/travel/news-and-advice/ryanair-passenger-sucked-out-window-flight-b3022195.html",
+          "source": "The Independent"
         },
         {
-          "title": "Ryanair Extends AWS AI Partnership",
+          "title": "Ryanair ‘only offered to rebook flight’ for man almost sucked out of window",
           "snippet": "",
-          "url": "https://sg.finance.yahoo.com/news/ryanair-extends-aws-ai-partnership-123349127.html",
-          "source": "Yahoo Finance Singapore"
+          "url": "https://www.telegraph.co.uk/news/2026/07/26/ryanair-only-offered-rebook-flight-man-sucked-window/",
+          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -167,26 +195,26 @@
       "title": "рига",
       "trafficCount": "200+",
       "pubDate": "Tue, 28 Jul 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSptNujg5U27hPdBYb_1g7X9pdH_a8eRwMovcfApyAJbGnVXJDa70AxSTaKFOU",
-      "pictureSource": "Jauns.lv",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOmaU4HryTVJroMr6OeRz_vejEbA8rPfTHsByBDNGz2EzaCOipTo_w_euarTg",
+      "pictureSource": "Delfi",
       "relatedSearch": [
         {
-          "title": "Более 50 км новых дорожек: в Риге и пригородах готов единый велосипедный маршрут",
+          "title": "На тушение загоревшегося электромобиля на улице Мукусалас ушло 14 часов. Почему так долго?",
           "snippet": "",
-          "url": "https://rus.jauns.lv/article/novosti/721008-bolee-50-km-novyx-dorozek-v-rige-i-prigorodax-gotov-edinyi-velosipednyi-marsrut",
-          "source": "Jauns.lv"
+          "url": "https://rus.delfi.lv/57863/criminal/120128238/na-tushenie-zagorevshegosya-elektromobilya-na-ulice-mukusalas-ushlo-14-chasov-pochemu-tak-dolgo",
+          "source": "Delfi"
         },
         {
-          "title": "Велодорожка уперлась в границу Риги: в соцсетях обсуждают «дорогу в никуда»",
+          "title": "ВИДЕО ⟩ В Риге на парковке сгорел электромобиль",
           "snippet": "",
-          "url": "https://news.inbox.lv/150jrsc-velodorozka-uperlas-v-granicu-rigi-v-socsetah-obsuzdaut-dorogu-v-nikuda?language=ru",
-          "source": "Inbox.lv"
+          "url": "https://rus.tvnet.lv/8516445/video-v-rige-na-parkovke-sgorel-elektromobil",
+          "source": "rus tvnet"
         },
         {
-          "title": "Велодорожка уперлась в границу Риги: в соцсетях обсуждают «дорогу в никуда»",
+          "title": "На парковке в районе Мукусалас открытым пламенем загорелся автомобиль. ФОТО",
           "snippet": "",
-          "url": "https://mixnews.lv/latviya/2026/07/25/velodorozhka-uperlas-v-granitsu-rigi-v-sotssetyah-obsuzhdayut-dorogu-v-nikuda/",
-          "source": "Mixnews"
+          "url": "https://press.lv/post/na-parkovke-v-rajone-mukusalas-otkrytym-plamenem-zagorelsya-avtomobil-foto",
+          "source": "Press.lv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -223,54 +251,26 @@
       "title": "гроза",
       "trafficCount": "100+",
       "pubDate": "Mon, 27 Jul 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNu1NFfhENdSWLphZEPoYe7DsApWp-uPNAV1hl0Uwep57hBNREDLv5IKxSa6I",
-      "pictureSource": "Урал24",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR7tS7hYQmXfzFE9R0GwNvtNOBisHRmiMP5Zirlk7pYUaa7gyGKqOKJu53BaE",
+      "pictureSource": "OKA.FM",
       "relatedSearch": [
         {
-          "title": "Грозовой удар по Уралу: ливни, град и ветер до 27 м/с обрушатся на регион — предупреждение МЧС",
+          "title": "Синоптики ждут мощную грозу в Москве и Подмосковье",
           "snippet": "",
-          "url": "https://ural24.com/news/grozovoj_udar_po_uralu_livni_grad_i_veter_do_27_ms_obrushatsya_na_region_preduprezhdenie_mchs",
-          "source": "Урал24"
+          "url": "https://www.oka.fm/new/read/social/Sinoptiki-zhdut-moshnuyu-grozu-v-Moskve-i-Podmoskove/",
+          "source": "OKA.FM"
         },
         {
-          "title": "В посёлке Лобва прошёл мощный ураган с грозой и градом",
+          "title": "Когда ждать самых сильных дождей в Москве, ответил синоптик",
           "snippet": "",
-          "url": "https://openlesnoy.ru/24464/",
-          "source": "Открытый Лесной"
+          "url": "https://pogoda.mail.ru/news/71788150/",
+          "source": "Погода Mail"
         },
         {
-          "title": "Синоптик предупредил о сильных грозах в Свердловской области",
+          "title": "Прогноз погоды в Москве и Подмосковье на середину недели: от дождей в среду до потепления к пятнице",
           "snippet": "",
-          "url": "https://eanews.ru/ekaterinburg/20260728085503/sinoptik-predupredil-o-silnyh-grozah-v-sverdlovskoy-oblasti",
-          "source": "Европейско-Азиатские Новости"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "тоннель",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 27 Jul 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCW7UpUwb3Vlz5wpEAkajjcPQQDxmbdhGLAdu0zh9YR9tQNNi1_Hr1WtNuugY",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Найден тайный тоннель из Беларуси в Литву: польские службы приняли внеочередные меры",
-          "snippet": "",
-          "url": "https://www.delfi.lt/ru/news/crime/nayden-taynyy-tonnel-iz-belarusi-v-litvu-polskie-sluzhby-prinyali-vneocherednye-mery-120282171",
-          "source": "Delfi"
-        },
-        {
-          "title": "ФОТО. На литовско-белорусской границе снова нашли тоннель",
-          "snippet": "",
-          "url": "https://rus.delfi.lv/57862/v-mire/120128168/foto-na-litovsko-belorusskoy-granice-snova-nashli-tonnel",
-          "source": "Delfi"
-        },
-        {
-          "title": "Пограничники обнаружили тайный тоннель, ведущий из Беларуси в Литву",
-          "snippet": "",
-          "url": "https://bb.lv/statja/v-mire/2026/07/27/pogranicniki-obnaruzili-tainyi-tonnel-vedushhii-iz-belarusi-v-litvu",
-          "source": "BB.LV"
+          "url": "https://chehov-vid.ru/news/ecology/48102/pogoda-otmenyaet-letnee-nastroenie-v-stolichnom-regione/",
+          "source": "Чехов Вид"
         }
       ],
       "link": "https://imtaqin.id/"
