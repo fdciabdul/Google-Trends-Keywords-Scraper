@@ -1,24 +1,108 @@
 {
-  "lastUpdate": "2026-08-02 11:58:02",
+  "lastUpdate": "2026-08-02 13:26:14",
   "data": [
     {
-      "title": "arrest",
+      "title": "typhoon",
       "trafficCount": "100+",
-      "pubDate": "Sun, 2 Aug 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPjxHZRUPDFWxIdZp-DtnH-WWzUWIvn09fHwMyfCRW-nFQqVwhOGZ2pUsEwV4",
-      "pictureSource": "The Straits Times",
+      "pubDate": "Sun, 2 Aug 2026 06:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTananT2g_KXr21lEVnqfCSOxMPiWszK9cUfwM0VkFijTe2TizyA8YujjCzHo",
+      "pictureSource": "The Standard (HK)",
       "relatedSearch": [
         {
-          "title": "10 foreigners, including Singaporeans, arrested in Vietnam for running Kpod trafficking ring",
+          "title": "HK-named Typhoon Dolphin surges to new strength, neighboring system likely in its grasp",
           "snippet": "",
-          "url": "https://www.straitstimes.com/asia/se-asia/10-foreigners-including-singaporeans-arrested-in-vietnam-for-running-kpod-trafficking-ring",
+          "url": "https://www.thestandard.com.hk/news/article/338816/HK-named-Typhoon-Dolphin-surges-to-new-strength-neighboring-system-likely-in-its-grasp",
+          "source": "The Standard (HK)"
+        },
+        {
+          "title": "Super Typhoon Dolphin strengthens over the Pacific",
+          "snippet": "",
+          "url": "https://global.chinadaily.com.cn/a/202607/31/WS6a6c54b2a310986e2b46863f.html",
+          "source": "China Daily Global Edition"
+        },
+        {
+          "title": "Path of Typhoon Dolphin remains uncertain: CWA",
+          "snippet": "",
+          "url": "https://focustaiwan.tw/society/202608010006",
+          "source": "Focus Taiwan"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "pakistan avalanche",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 2 Aug 2026 05:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbilegWB6GDBsNBpkDx2M149NKti0StP2uapQcuOxjfqgRKSbqHbwbkyP5v7U",
+      "pictureSource": "CNA",
+      "relatedSearch": [
+        {
+          "title": "Rescuers recover climber Nirmal Purja's body after avalanche disaster",
+          "snippet": "",
+          "url": "https://www.channelnewsasia.com/asia/nirmal-purja-body-recover-pakistan-avalanche-6293586",
+          "source": "CNA"
+        },
+        {
+          "title": "Rescuers recover climber Nirmal Purja’s body after avalanche disaster",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/asia/south-asia/mountaineer-nirmal-purjas-body-found-says-expedition-club",
           "source": "The Straits Times"
         },
+        {
+          "title": "Who is Nirmal Purja, the famed mountaineer missing in Broad Peak avalanche?",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cx2kp4ndny0o",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "housing",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 2 Aug 2026 05:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK401NvrpSz1ST01giq6RQsETHxTzbZQekDeloip2A9pCe0zg38B0fZPoxPi0",
+      "pictureSource": "Financial Times",
+      "relatedSearch": [
+        {
+          "title": "Data centres vs housing: how London became a central battleground",
+          "snippet": "",
+          "url": "https://www.ft.com/content/67db9b64-ec26-442e-8356-6c4411eba66e",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Khan paves way for data centres on green belt",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/business/2026/07/25/khan-paves-way-for-data-centres-on-green-belt/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "What is Sadiq Khan's New Plan for Green Belt Data Centres?",
+          "snippet": "",
+          "url": "https://datacentremagazine.com/news/what-is-sadiq-khans-new-plan-for-green-belt-data-centres",
+          "source": "Data Centre Magazine"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "arrest",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 2 Aug 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZd3sMe1kJPEX-Ai-woOfXLA9l_ntH9Gxug1uhK_BbbpJb0Q956OYHGnunKEk",
+      "pictureSource": "CNA",
+      "relatedSearch": [
         {
           "title": "4 Singaporeans among foreigners arrested in Vietnam over alleged drug-laced vape trafficking ring",
           "snippet": "",
           "url": "https://www.channelnewsasia.com/asia/singaporeans-arrested-vietnam-alleged-drug-vape-trafficking-ring-6293571",
           "source": "CNA"
+        },
+        {
+          "title": "10 foreigners, including Singaporeans, arrested in Vietnam for running Kpod trafficking ring",
+          "snippet": "",
+          "url": "https://www.straitstimes.com/asia/se-asia/10-foreigners-including-singaporeans-arrested-in-vietnam-for-running-kpod-trafficking-ring",
+          "source": "The Straits Times"
         },
         {
           "title": "10 foreigners arrested in Etomidate-laced vape operation",
@@ -30,8 +114,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "bankruptcy",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 2 Aug 2026 04:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqKpWm9gQylVNL0mrpH2mbCAOXPyhbH8z4LhUrXa6dtg84wyKKZQXa2Zqu6Q",
+      "pictureSource": "ROI-NJ",
+      "relatedSearch": [
+        {
+          "title": "N.J. has sixth-highest bankruptcy filings rate in U.S.; national filings increased 11.4% year over year",
+          "snippet": "",
+          "url": "https://www.roi-nj.com/2026/07/31/finance/n-j-has-sixth-highest-bankruptcy-filings-rate-in-u-s-national-filings-increased-11-4-year-over-year/",
+          "source": "ROI-NJ"
+        },
+        {
+          "title": "Delaware, Texas have highest business bankruptcy filings in U.S.",
+          "snippet": "",
+          "url": "https://www.thecentersquare.com/national/article_c85374da-fd18-4c89-93f0-517d2b7cb50f.html",
+          "source": "The Center Square"
+        },
+        {
+          "title": "Louisiana sees nation’s largest rise in business bankruptcy filings",
+          "snippet": "",
+          "url": "https://www.ktalnews.com/news/louisiana/louisiana-business-bankruptcy-filing-rise/",
+          "source": "KTALnews.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "38 oxley road",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 2 Aug 2026 04:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJvx9DUdLxERg8A3S4ssiQmqjlfpB_LZJJG3p8hTL0Zgv1KAdbwefO1PEljBc",
       "pictureSource": "South China Morning Post",
@@ -89,26 +201,26 @@
       "title": "8视界新闻",
       "trafficCount": "200+",
       "pubDate": "Sun, 2 Aug 2026 03:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkFkGBXwaDVdSZn_jw3atejcJbpiNroNGfjmvKHSoqItf-U_i-nSiKhabBAdc",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzaLJzG3TcejVRLk-o1Ef8r0TjR_Oaa68Ny328IFvwrgpwrIRVeqml-_a8A-c",
       "pictureSource": "8world",
       "relatedSearch": [
         {
-          "title": "熊本商场女店员起初疏散 受命折返存放营业款丧命",
+          "title": "印尼渡轮马都拉岛附近海域起火 至少5死41人失踪",
           "snippet": "",
-          "url": "https://www.8world.com/world/kumamoto-quake-mall-employee-dies-3235906",
+          "url": "https://www.8world.com/southeast-asia/five-dead-41-missing-after-indonesian-ferry-catches-fire-3235936",
           "source": "8world"
         },
         {
-          "title": "酷暑断水加剧熊本地震灾情 当局跨区域征用酒店安顿避难者",
+          "title": "印尼附近海域一渡轮起火 致五人死亡41失踪",
           "snippet": "",
-          "url": "https://www.zaobao.com.sg/news/world/story20260801-9456485",
+          "url": "https://www.zaobao.com.sg/news/sea/story20260802-9458940",
           "source": "联合早报"
         },
         {
-          "title": "太离谱！中国也“躺枪”，日媒紧急辟谣！",
+          "title": "印尼爪哇海海域渡轮起火致5人死亡，41人失踪，目前已成功救援225人，起火原因尚不清楚",
           "snippet": "",
-          "url": "https://finance.sina.cn/2026-08-01/detail-inikvnzu8698330.d.html?vt=4&cid=76675&node_id=76675",
-          "source": "新浪财经"
+          "url": "https://m.sohu.com/a/1057902328_121019331?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "SOHU"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,7 +247,7 @@
         {
           "title": "Singapore labour market: Retrenchments in Q2 hit 5-year high even as employment continues to grow",
           "snippet": "",
-          "url": "https://www.channelnewsasia.com/watch/singapore-labour-market-retrenchments-in-q2-hit-5-year-high-even-employment-continues-grow-6291521",
+          "url": "https://www.channelnewsasia.com/watch/st13-15-q2-labour-mkt-advance-zoom-guest-6291521",
           "source": "CNA"
         }
       ],
@@ -165,118 +277,6 @@
           "snippet": "",
           "url": "https://www.asiaone.com/singapore/nea-new-ceo-geraldine-low-benjamin-koh",
           "source": "AsiaOne"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "weather forecast",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 2 Aug 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5e0yBUUuP4m92fXipM0imJObfDs5OJMRLUDaabUAbAAaB-80EJvAeFp7E47c",
-      "pictureSource": "Yahoo News Canada",
-      "relatedSearch": [
-        {
-          "title": "Sunday AM Weather Forecast",
-          "snippet": "",
-          "url": "https://ca.news.yahoo.com/sunday-am-weather-forecast-090810286.html",
-          "source": "Yahoo News Canada"
-        },
-        {
-          "title": "A 50/50 weekend shaping up",
-          "snippet": "",
-          "url": "https://www.wivb.com/weather-news/todays-forecast/august-2026/",
-          "source": "WIVB News 4"
-        },
-        {
-          "title": "Timing on next rounds of showers, storms",
-          "snippet": "",
-          "url": "https://fox8.com/weather/timing-on-next-round-of-showers-storms/",
-          "source": "FOX 8 News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "singapore weather",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 2 Aug 2026 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxrJ6q5vZi4G44wb5ITwqKERW9cAINm3MkPeWwjoSEiJA69hDnnXgG3Jswsyc",
-      "pictureSource": "The Straits Times",
-      "relatedSearch": [
-        {
-          "title": "Drier conditions expected in Singapore in first half of August, after rainy end to July",
-          "snippet": "",
-          "url": "https://www.straitstimes.com/singapore/drier-conditions-expected-in-first-half-of-august-after-rainy-end-to-july",
-          "source": "The Straits Times"
-        },
-        {
-          "title": "Drier Conditions Expected In The Coming Fortnight",
-          "snippet": "",
-          "url": "https://www.nea.gov.sg/media/news/advisories/index/drier-conditions-expected-in-the-coming-fortnight",
-          "source": "National Environment Agency (NEA)"
-        },
-        {
-          "title": "Drier conditions in first half of August despite showers on some days, below-average rainfall forecast",
-          "snippet": "",
-          "url": "https://mustsharenews.com/drier-conditions-aug/",
-          "source": "Must Share News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lawrence wong",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 1 Aug 2026 22:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSv-bi1BEXbmFYdBTd0BtwZAtse282hhpq6kOkUD8Z-SK_EBxatBYwppp2UO90",
-      "pictureSource": "CNA",
-      "relatedSearch": [
-        {
-          "title": "Commentary: Fast-tracking of former public servants into Cabinet shows PM Wong has limited cards to play",
-          "snippet": "",
-          "url": "https://www.channelnewsasia.com/commentary/singapore-prime-minister-lawrence-wong-cabinet-public-servants-6290346",
-          "source": "CNA"
-        },
-        {
-          "title": "Government will continue to invest in infrastructure, education for Singaporeans: PM Wong",
-          "snippet": "",
-          "url": "https://www.straitstimes.com/singapore/community/government-will-continue-to-invest-in-infrastructure-education-for-singaporeans-pm-wong",
-          "source": "The Straits Times"
-        },
-        {
-          "title": "Govt will continue to invest in infrastructure, education for S’poreans: PM Wong | The Straits Times - newspaper",
-          "snippet": "",
-          "url": "https://www.magzter.com/stories/newspaper/The-Straits-Times/GOVT-WILL-CONTINUE-TO-INVEST-IN-INFRASTRUCTURE-EDUCATION-FOR-SPOREANS-PM-WONG",
-          "source": "Magzter"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "anwar ibrahim negeri sembilan election",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 1 Aug 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZCTWd5hwIoQGO_NH-n3dZKcRZ7pFUZxB2-0euzf3Fq6XtFZtHaKBKvyMAL_g",
-      "pictureSource": "South China Morning Post",
-      "relatedSearch": [
-        {
-          "title": "What Negeri Sembilan loss means for Malaysian PM Anwar’s political strategy",
-          "snippet": "",
-          "url": "https://www.scmp.com/week-asia/politics/article/3362659/what-negeri-sembilan-loss-means-malaysian-pm-anwars-political-strategy",
-          "source": "South China Morning Post"
-        },
-        {
-          "title": "Anwar’s PH loses Negeri Sembilan, as BN claims win together with ally PN",
-          "snippet": "",
-          "url": "https://www.straitstimes.com/asia/se-asia/anwars-ph-loses-negeri-sembilan-as-bn-claims-win-together-with-ally-pn",
-          "source": "The Straits Times"
-        },
-        {
-          "title": "Malaysia politics: Vote counting underway in Negeri Sembilan as unofficial figures trickle in",
-          "snippet": "",
-          "url": "https://www.channelnewsasia.com/watch/malaysia-politics-vote-counting-underway-in-negeri-sembilan-unofficial-figures-trickle-in-6292816",
-          "source": "CNA"
         }
       ],
       "link": "https://imtaqin.id/"
