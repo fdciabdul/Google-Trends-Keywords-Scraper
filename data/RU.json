@@ -1,206 +1,140 @@
 {
-  "lastUpdate": "2026-08-04 19:10:51",
+  "lastUpdate": "2026-08-04 20:41:57",
   "data": [
     {
+      "title": "луцк",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 4 Aug 2026 13:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "ил-20",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 4 Aug 2026 12:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv7n2Cu5psiRlG5yCV2DqSlJQTPdDGXEv5x_pXAcXD8vHHP0WPfTfhsfqbxoQ",
+      "pictureSource": "Радио Свобода",
+      "relatedSearch": [
+        {
+          "title": "ВВС Польши перехватили российский самолёт над Балтийским морем",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/vvs-poljshi-perehvatili-rossiyskiy-samolyot-nad-baltiyskim-morem/33821093.html",
+          "source": "Радио Свобода"
+        },
+        {
+          "title": "Российский самолёт перехвачен над Балтикой без плана полёта и c выключённым транспондером",
+          "snippet": "",
+          "url": "https://ru.euronews.com/my-europe/2026/08/03/rossijskij-samolyot-perehvachen-nad-baltikoj",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Польша заявила о перехвате российского самолета над Балтикой",
+          "snippet": "",
+          "url": "https://www.bfm.ru/news/614047",
+          "source": "BFM.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "возврат активов",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 4 Aug 2026 12:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT23j4jK5KPZ3gNj2aFluJZdertwHA3K2f3156Qv0wpL4dS8r1jLwaj-wjbJ_M",
+      "pictureSource": "Русская служба The Moscow Times",
+      "relatedSearch": [
+        {
+          "title": "Путин разрешил не возвращать активы ушедшим из России иностранным компаниям",
+          "snippet": "",
+          "url": "https://ru.themoscowtimes.com/2026/08/04/putin-razreshil-ne-vozvraschat-aktivi-ushedshim-iz-rossii-inostrannim-kompaniyam-a202663",
+          "source": "Русская служба The Moscow Times"
+        },
+        {
+          "title": "Российским предпринимателям разрешили не возвращать активы иностранцам",
+          "snippet": "",
+          "url": "https://www.bfm.ru/news/614171",
+          "source": "BFM.ru"
+        },
+        {
+          "title": "Путин подписал закон об отказе иностранцам в обратном выкупе акций",
+          "snippet": "",
+          "url": "https://www.finam.ru/publications/item/putin-podpisal-zakon-ob-otkaze-inostrantsam-v-obratnom-vykupe-aktsiy-20260804-1940/",
+          "source": "Финам"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "предпенсионный возраст",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 4 Aug 2026 12:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "российский рубль",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Tue, 4 Aug 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcrJqbnBoMV1IdZGwMdEsxgimp0Gf7KLCCg570HYeo1ED00YyUv0lR_IfAYMU",
-      "pictureSource": "Smartpress.by",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxvFSdNMUn76OvdiBlION1zyPy28H8xylxvblvSnOIqQ6WdZL-6K1bdHbwvwI",
+      "pictureSource": "Банки.ру",
       "relatedSearch": [
         {
-          "title": "Три валюты выросли, российский рубль подешевел: итоги торгов 3 августа",
+          "title": "Рубль резко устремился вниз. ЦБ установил официальные курсы на 5 августа",
           "snippet": "",
-          "url": "https://smartpress.by/news/tri-valyuty-vyrosli-rossiyskiy-rubl-podeshevel-itogi-torgov-3-avgusta/",
-          "source": "Smartpress.by"
+          "url": "https://www.banki.ru/news/lenta/?id=11026334",
+          "source": "Банки.ру"
         },
         {
-          "title": "Доллар готовится к росту: каких уровней ждать в начале августа? Прогноз по валютам",
+          "title": "Курс доллара на внебиржевом рынке впервые с 1 апреля ушел выше 81 рубля",
           "snippet": "",
-          "url": "https://myfin.by/article/currency/dollar-gotovitsa-k-rostu-kakih-urovnej-zdat-v-nacale-avgusta-prognoz-po-valutam-47393",
-          "source": "Myfin.by"
+          "url": "https://www.finam.ru/publications/item/kurs-dollara-na-vnebirzhevom-rynke-vpervye-s-1-aprelya-ushel-vyshe-81-rublya-20260804-1307/",
+          "source": "Финам"
         },
         {
-          "title": "На торгах 4 августа доллар и евро подорожали",
+          "title": "Официальный курс доллара на 5 августа 2026 г.: актуальные данные ЦБ РФ, курс доллара к рублю сегодня",
           "snippet": "",
-          "url": "https://news.zerkalo.io/economics/133488.html",
-          "source": "Zerkalo"
+          "url": "https://finance.mail.ru/article/oficialnyj-kurs-dollara-na-5-avgusta-2026-69221048/",
+          "source": "Финансы Mail"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "anthropic",
-      "trafficCount": "200+",
+      "title": "ньюпорт каунти – рома",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 4 Aug 2026 11:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvGwYjYdoV3SK6QUML8hWtONd5JRjXKVbj68-wF0UHJUTybaqsotdyq6KF8ds",
+      "pictureSource": "Vietnam.vn",
+      "relatedSearch": [
+        {
+          "title": "Прогноз на матч «Ньюпорт Каунти» — «Рома»: ожидаемые составы.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/nhan-dinh-newport-county-vs-roma-doi-hinh-du-kien",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Рома разгромила Ньюпорт в контрольном матче на глазах у владельца",
+          "snippet": "",
+          "url": "https://terrikon.com/posts/578823",
+          "source": "Террикон"
+        },
+        {
+          "title": "Ньюпорт - Рома. Прямая трансляция. Товарищеский матч, 04.08.2026",
+          "snippet": "",
+          "url": "https://prosports.kz/news/751757-nyuport-%E2%80%94-roma-pryamaya-translyatsiya-tovarischeskogo-matcha/",
+          "source": "Prosports.kz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "телесериал",
+      "trafficCount": "500+",
       "pubDate": "Tue, 4 Aug 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oHCb_p7zpcmK4cJCvMdR9tbBds3yOjm9S4MjvLfyyqdnmRZ7rk_2TRDqlKE",
-      "pictureSource": "Bloomberg.com",
-      "relatedSearch": [
-        {
-          "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Volta Emerges From Stealth With $10 Billion AI Lab Partnership and $5 Billion AI Infrastructure Program",
-          "snippet": "",
-          "url": "https://www.businesswire.com/news/home/20260804493428/en/Volta-Emerges-From-Stealth-With-%2410-Billion-AI-Lab-Partnership-and-%245-Billion-AI-Infrastructure-Program",
-          "source": "Business Wire"
-        },
-        {
-          "title": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership",
-          "snippet": "",
-          "url": "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04/",
-          "source": "Reuters"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "хапоэль беэр-шева – црвена звезда",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 4 Aug 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRK-2gQCRVFF90juiwLfI9wyy81LxS5o_mlR60YEGvy4NfRq88ILHkQgYbmfuA",
-      "pictureSource": "Metaratings",
-      "relatedSearch": [
-        {
-          "title": "Хапоэль Беэр-Шева – Црвена Звезда прогноз за 2,2 4 августа 2026 года и ставки на матч Лиги чемпионов",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/futbol/hapoel-beer-sheva-crvena-zvezda-prognoz-na-match-ligi-chempionov-4-avgusta-2026-goda/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "Хапоэль — Црвена Звезда: прогноз (кэф 1.61) 4 августа 2026",
-          "snippet": "",
-          "url": "https://stavka.tv/matches/soccer/04-08-2026-hapoel-beer-sheva-crvena-zvezda",
-          "source": "Ставка ТВ"
-        },
-        {
-          "title": "«Хапоэль БШ» – «Црвена Звезда»: кто победит в матче 3-го квалификационного раунда Лиги чемпионов 2026",
-          "snippet": "",
-          "url": "https://bombardir.ru/prognozy/822315-hapoel-bsh-crvena-zvezda-kto-pobedit-v-matche-3-go-kvalifikacionnogo-raunda-ligi-chempionov-2026",
-          "source": "Bombardir.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "спарта прага – лион",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 4 Aug 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdLQnVuedulxHoOD4mZHcXW64ABHMAFVK5ROW49ae_GwCDzr97D2qQp0L0deI",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Матч Лион - Спарта П, 11.08.2026, Лига чемпионов сезона 2026/2027 - Еврокубки - Футбол",
-          "snippet": "",
-          "url": "https://sportmail.ru/football-eurocups/394/match/448187/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "Спарта — Лион: прогноз и ставка Алексея Андронова 04.08.2026",
-          "snippet": "",
-          "url": "https://bookmaker-ratings.ru/tips/sparta-lion-prognoz-i-stavka-alekseya-andronova/",
-          "source": "Рейтинг Букмекеров"
-        },
-        {
-          "title": "Спарта Прага – Лион прогноз на матч Лиги чемпионов 4 августа 2026 года. Ставка с коэффициентом 2,1",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/futbol/sparta-prague-lyon-prognoz-na-match-ligi-chempionov-4-avgusta-2026-goda/",
-          "source": "Metaratings"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "сент-жиллуаз – будё-глимт",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 4 Aug 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8gFa9-mi-TySzX6DH4EVSfZOphaNBFAgs4p5v_Q3JRrVHjdquLbc_XMGed_A",
-      "pictureSource": "Metaratings",
-      "relatedSearch": [
-        {
-          "title": "Юнион Сент-Жиллуа – Будё-Глимт прогноз за 1,8 4 августа 2026 года и ставки на матч Лиги чемпионов",
-          "snippet": "",
-          "url": "https://metaratings.ru/prognozy/futbol/union-sg-bodo-glimt-prognoz-na-match-ligi-chempionov-4-avgusta-2026-goda/",
-          "source": "Metaratings"
-        },
-        {
-          "title": "Юнион — Буде/Глимт: прогноз (кэф 1.55) 4 августа 2026",
-          "snippet": "",
-          "url": "https://stavka.tv/matches/soccer/04-08-2026-union-saint-gilloise-bodo-glimt",
-          "source": "Ставка ТВ"
-        },
-        {
-          "title": "«Юнион» – «Буде-Глимт»: кто победит в матче 3-го квалификационного раунда Лиги чемпионов 2026",
-          "snippet": "",
-          "url": "https://bombardir.ru/prognozy/822320-yunion-bude-glimt-kto-pobedit-v-matche-3-go-kvalifikacionnogo-raunda-ligi-chempionov-2026",
-          "source": "Bombardir.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "эндрю гарфилд",
-      "trafficCount": "100+",
-      "pubDate": "Tue, 4 Aug 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpWoj2hP1s_FFuMrJ5h8RfHZYF4IJQEyewKbwdEimPt0CSJMjLCiCJ1Y44ztM",
-      "pictureSource": "https://www.championat.ru/",
-      "relatedSearch": [
-        {
-          "title": "Эндрю Гарфилд готов вновь сыграть Человека-паука, если идея фильма будет необычной",
-          "snippet": "",
-          "url": "https://www.championat.ru/cybersport/news-6569578-endryu-garfild-gotov-vnov-sygrat-cheloveka-pauka-esli-ideya-filma-budet-neobychnoj.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "\"Новый Человек-паук\" с Гарфилдом в теории может появитсья, но актер назвал условия",
-          "snippet": "",
-          "url": "https://www.goha.ru/novyj-chelovek-pauk-s-garfildom-v-teorii-mozhet-poyavitsya-no-akter-nazval-usloviya-la5vAp",
-          "source": "GoHa.Ru"
-        },
-        {
-          "title": "Гарфилд рассказал, что думает о Человеке паука Томе Голланде",
-          "snippet": "",
-          "url": "https://apostrophe.ua/ru/lime/learn/endrju-harfild-priznalsja-chto-dumaet-o-svoem-preemnike-v-roli-cheloveka-pauka.html",
-          "source": "Апостроф"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "выдворение",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 4 Aug 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTD5r7f4iwjA-KJCYu8BUUgbhn-2au4RU7HWVOqU9cKRrd1Md07cHZgX5CzcxE",
-      "pictureSource": "Интерфакс",
-      "relatedSearch": [
-        {
-          "title": "Путин подписал закон о расширении оснований для выдворения иностранцев из РФ",
-          "snippet": "",
-          "url": "https://www.interfax.ru/russia/1107435",
-          "source": "Интерфакс"
-        },
-        {
-          "title": "Получить гражданство приезжим все труднее, а быть высланными – все проще / Политика",
-          "snippet": "",
-          "url": "https://www.ng.ru/politics/2026-08-03/3_9551_migrants.html",
-          "source": "Независимая газета"
-        },
-        {
-          "title": "В России расширили перечень оснований для выдворения мигрантов",
-          "snippet": "",
-          "url": "https://t-j.ru/news/45statei-dlya-migrantov/",
-          "source": "Т—Ж"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "обозреватель",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 4 Aug 2026 10:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThUtB5VU-R8TkI9BYu9co_AiGu08IBB1ilsJ9gO3GJosjigtMScBaEUqqCzcc",
       "pictureSource": "Film.ru",
       "relatedSearch": [
@@ -226,57 +160,85 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "левски софия – кайрат",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 4 Aug 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz-g8noaeCpIjAqCrbBsGhxrWDdF_3J6JOyTiwFP8rE-m7QUvpqI6sufVmpW8",
-      "pictureSource": "Спорт Mail",
+      "title": "свёнтек, ига",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 4 Aug 2026 11:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQosgGuvofWEwL3lPM1INKH_sxJsn5ysGh9qydyaE49e_zZK5BVhQQ4DbSoG9I",
+      "pictureSource": "Матч ТВ",
       "relatedSearch": [
         {
-          "title": "Матч Левски - Кайрат, 04.08.2026, Лига чемпионов сезона 2026/2027 - Еврокубки - Футбол",
+          "title": "Швентек вышла в третий круг турнира в Торонто",
           "snippet": "",
-          "url": "https://sportmail.ru/football-eurocups/394/match/448170/",
-          "source": "Спорт Mail"
+          "url": "https://matchtv.ru/tennis/matchtvnews_NI2350055_Shventek_vyshla_v_tretij_krug_turnira_v_Toronto",
+          "source": "Матч ТВ"
         },
         {
-          "title": "Левски — Кайрат: прогноз (кэф 1.65) 4 августа 2026",
+          "title": "Ига Швёнтек с \"баранкой\" стартовала на турнире WTA-1000 в Торонто-2026",
           "snippet": "",
-          "url": "https://stavka.tv/matches/soccer/04-08-2026-levski-sofia-fc-kairat-almaty",
-          "source": "Ставка ТВ"
+          "url": "https://sport5.by/news/tennis/Iga-SHvyentek-s-barankoy-startovala-na-turnire-WTA1000-v-Toronto2026/",
+          "source": "Sport5.by"
         },
         {
-          "title": "В России дали прогноз на матч «Левски» — «Кайрат» в Лиге Чемпионов",
+          "title": "Прогноз на матч Бейлек С. - Швентек И. 4 августа 2026 - ставки и коэффициенты букмекеров",
           "snippet": "",
-          "url": "https://www.sports.kz/news/v-rossii-dali-prognoz-na-match-levski-kayrat-v-lige-chempionov",
-          "source": "Sports.kz"
+          "url": "https://legalbet.ru/tennis/bejlek-s-swiatek-i-06-08-2026/",
+          "source": "legalbet.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "мохаммед салах",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 4 Aug 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Q6H10WH6hgRLKV6JhnbA94o1ZRT1KMkpFf_0FT9rySigIF6gpGYAR1jxZaI",
-      "pictureSource": "Sport24.ru",
+      "title": "anthropic",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 4 Aug 2026 11:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oHCb_p7zpcmK4cJCvMdR9tbBds3yOjm9S4MjvLfyyqdnmRZ7rk_2TRDqlKE",
+      "pictureSource": "Bloomberg.com",
       "relatedSearch": [
         {
-          "title": "Салах согласовал контракт с «Трабзонспором»",
+          "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
           "snippet": "",
-          "url": "https://sport24.ru/football/news-871235-salakh-soglasoval-kontrakt-s-trabzonsporom",
-          "source": "Sport24.ru"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Президент «Трабзонспора» Эртугрул Доган: никакой сделки с Салахом нет, это слухи",
+          "title": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership",
           "snippet": "",
-          "url": "https://www.sovsport.ru/football/news/prezident-trabzonspora-ertugrul-dogan-nikakoj-sdelki-s-salahom-net-eto-sluhi",
-          "source": "Советский спорт"
+          "url": "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04/",
+          "source": "Reuters"
         },
         {
-          "title": "«Трабзонспор» возглавил список претендентов на Мохаммеда Салаха после срыва переговоров с «Бешикташем»",
+          "title": "Investing in Volta",
           "snippet": "",
-          "url": "https://bookmaker-ratings.ru/news/mohammed-salah-transfer-trabzonspor-superliga-koefficienty/",
+          "url": "https://a16z.com/announcement/investing-in-volta/",
+          "source": "Andreessen Horowitz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сент-жиллуаз – будё-глимт",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 4 Aug 2026 10:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdLQnVuedulxHoOD4mZHcXW64ABHMAFVK5ROW49ae_GwCDzr97D2qQp0L0deI",
+      "pictureSource": "Спорт Mail",
+      "relatedSearch": [
+        {
+          "title": "Матч Лион - Спарта П, 11.08.2026, Лига чемпионов сезона 2026/2027 - Еврокубки - Футбол",
+          "snippet": "",
+          "url": "https://sportmail.ru/football-eurocups/394/match/448187/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Спарта — Лион: прогноз и ставка Алексея Андронова 04.08.2026",
+          "snippet": "",
+          "url": "https://bookmaker-ratings.ru/tips/sparta-lion-prognoz-i-stavka-alekseya-andronova/",
           "source": "Рейтинг Букмекеров"
+        },
+        {
+          "title": "Спарта — Лион: прогноз (кэф 2.4) 4 августа 2026",
+          "snippet": "",
+          "url": "https://stavka.tv/matches/soccer/04-08-2026-ac-sparta-praha-lyon",
+          "source": "Ставка ТВ"
         }
       ],
       "link": "https://imtaqin.id/"
