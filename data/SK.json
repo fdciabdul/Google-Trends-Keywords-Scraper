@@ -1,9 +1,46 @@
 {
-  "lastUpdate": "2026-08-07 03:31:46",
+  "lastUpdate": "2026-08-07 05:17:19",
   "data": [
     {
+      "title": "počasí",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 6 Aug 2026 21:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "shmu",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 6 Aug 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQY19j9ZDK3vwPFxNwzdmJWf7BIHD_YeM3b3TeDrYMMHVOKtlg20GaDY4o0tnE",
+      "pictureSource": "Shmu",
+      "relatedSearch": [
+        {
+          "title": "Predpoveď počasia pre Slovensko",
+          "snippet": "",
+          "url": "https://www.shmu.sk/sk/?page=1&id=meteo_gpredpoved_sk&day=20260810",
+          "source": "Shmu"
+        },
+        {
+          "title": "Nízka hladina Dunaja láka na osvieženie. Môže skrývať neviditeľnú hrozbu z Rakúska",
+          "snippet": "",
+          "url": "https://www.aktuality.sk/clanok/HUE9Eqc/nizka-hladina-dunaja-laka-na-osviezenie-moze-skryvat-neviditelnu-hrozbu-z-rakuska/",
+          "source": "Aktuality"
+        },
+        {
+          "title": "Situácia je veľmi kritická, lode na Dunaji stoja a čakajú. Tak málo vody sme ešte nemali, hovorí prezident zväzu logistiky",
+          "snippet": "",
+          "url": "https://e.dennikn.sk/5492367/situacia-je-velmi-kriticka-lode-na-dunaji-stoja-a-cakaju-tak-malo-vody-sme-este-nemali-hovori-prezident-zvazu-logistiky/",
+          "source": "Denník N"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "počasie",
-      "trafficCount": "1000+",
+      "trafficCount": "10000+",
       "pubDate": "Thu, 6 Aug 2026 20:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZzxuYR0J5-yujTY79Ii6QQFWO3uPZyW3ZSj0KHYFawj0U-yJKVmUGZg8NGDo",
       "pictureSource": "Pravda",
@@ -21,21 +58,27 @@
           "source": "dobrenoviny.sk"
         },
         {
-          "title": "MAPA: Toto je prvá mapa zrážok a búrok. Vôbec to nevyzerá dobre",
+          "title": "Meteorológovia vydali výstrahy. Do polnoci treba na západe a severozápade Slovenska počítať s búrkami",
           "snippet": "",
-          "url": "https://www.imeteo.sk/spravy/mapa-toto-je-prva-mapa-zrazok-a-burok-vobec-to-nevyzera-dobre",
-          "source": "iMeteo.sk"
+          "url": "https://hnonline.sk/slovensko/96295727-meteorologovia-vydali-vystrahy-do-polnoci-treba-na-zapade-a-severozapade-slovenska-pocitat-s-burkami",
+          "source": "HNonline"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "időjárás",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 6 Aug 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf7YOejkj45FpqHQEc8nWuaMUjEMKXkewnYCH6YLAXRMp_EBLiInxIMlUdAJ0",
-      "pictureSource": "Új Szó",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjGEX_HU2saZSKqp75lCVwsm83fq5y7Yzb18yRqhNl9_I6F_xX5CoCTujm1k",
+      "pictureSource": "nlc",
       "relatedSearch": [
+        {
+          "title": "Kiadták az elsőfokú figyelmeztetést: ezekben a megyékben lehet zivatar pénteken",
+          "snippet": "",
+          "url": "https://nlc.hu/ezvan/20260806/elsofoku-figyelmeztetes-zivatarok-villamlas-pentek-idojaras/",
+          "source": "nlc"
+        },
         {
           "title": "Ekkor érkezik a hidegfront",
           "snippet": "",
@@ -43,16 +86,10 @@
           "source": "Új Szó"
         },
         {
-          "title": "Véget ér a hőség, jöhet az eső, de a Csallóközt megint nem találjuk a csapadéktérképen!",
+          "title": "Zivatarok és jégeső miatt adtak ki riasztást, miközben akár 42 fok is lehet",
           "snippet": "",
-          "url": "https://parameter.sk/1369010/veget-er-a-hoseg-johet-az-eso-de-a-csallokozt-megint-nem-talaljuk-a-csapadekterkepen/",
-          "source": "Paraméter"
-        },
-        {
-          "title": "Várod már a lehűlést? Van egy rossz hírünk",
-          "snippet": "",
-          "url": "https://rtl.hu/idojaras/2026/08/06/idojaras-lehules-hidegfront-kanikula-homerseklet",
-          "source": "RTL.hu"
+          "url": "https://24.hu/belfold/2026/08/06/idojaras-elorejelzes-veszjelzes-riasztas-zivatar-jegeso-hoseg-tetozik/",
+          "source": "24.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,33 +98,61 @@
       "title": "pocasie",
       "trafficCount": "1000+",
       "pubDate": "Thu, 6 Aug 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLQFFcR1eoOBnhEvd83cMBxcUqy-0SJgG8Ce0JUcP7TXQ3xovdhqEo8m_IheY",
-      "pictureSource": "Aktuality",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThMtsOyC2_nBzsFNCwuk-rWNRSCtrH3shKpMzWCvem9ZU0pbqvDtaFwKdmlp8",
+      "pictureSource": "Pravda",
       "relatedSearch": [
-        {
-          "title": "Teplota vzduchu na Slovensku prvýkrát v histórii prekonala 42 stupňov",
-          "snippet": "",
-          "url": "https://www.aktuality.sk/clanok/2ELV0y0/teplota-vzduchu-na-slovensku-prvykrat-v-historii-prekonala-42-stupnov/",
-          "source": "Aktuality"
-        },
-        {
-          "title": "Neprešlo ani 24 hodín a ortuť teplomerov nenormálne stúpla. Rekord vo štvrtok prepisovali až trikrát",
-          "snippet": "",
-          "url": "https://www.ta3.com/clanok/1064535/pekelne-horucavy-sa-chylia-ku-koncu-po-rozpalenom-stvrtku-udrie-studeny-front-vystrahy-platia-aj-pred-burkami",
-          "source": "TA3"
-        },
         {
           "title": "Nebezpečný piatok na Slovensku: Horúčavy vyženú teploty na 33 °C, vietor udrie rýchlosťou 85 km/h a prídu aj búrky",
           "snippet": "",
           "url": "https://www.pravda.sk/spravy/domace/clanok/2020119-nebezpecny-piatok-na-slovensku-horucavy-vyzenu-teploty-na-33-c-vietor-udrie-rychlostou-85-kmh-a-pridu-aj-burky",
           "source": "Pravda"
+        },
+        {
+          "title": "Nový slovenský teplotný rekord z dnešného dňa sa zastavil na hodnote 42,2 °C.",
+          "snippet": "",
+          "url": "https://dennikn.sk/minuta/5493834/",
+          "source": "Denník N"
+        },
+        {
+          "title": "Slovensko čaká náhla a prudká zmena počasia, do našej oblasti mieri nečakaný teplotný zvrat",
+          "snippet": "",
+          "url": "https://www.aktuality.sk/clanok/blmN6sz/slovensko-caka-nahla-a-prudka-zmena-pocasia-do-nasej-oblasti-mieri-necakany-teplotny-zvrat/",
+          "source": "Aktuality"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iradar",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 6 Aug 2026 15:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB0uGmtK1IyHGYRnff2_XQm87AfKrIjU3HiMG26ic9W0dTnP26SlLhvJH7O6Q",
+      "pictureSource": "Aktuality",
+      "relatedSearch": [
+        {
+          "title": "Ochladenie sa blíži, na mhohých miestach však ešte potrápi ľudí tropická noc",
+          "snippet": "",
+          "url": "https://www.aktuality.sk/clanok/JWj4Epo/pocasie-predpoved-na-piatok/",
+          "source": "Aktuality"
+        },
+        {
+          "title": "Dnes príde ochladenie, no potom máme ďalšie zlé správy",
+          "snippet": "",
+          "url": "https://www.imeteo.sk/spravy/dnes-pride-ochladenie-no-potom-mame-dalsie-zle-spravy",
+          "source": "iMeteo.sk"
+        },
+        {
+          "title": "POČASIE: Po spaľujúcich dňoch príde ochladenie. Na severe bude len okolo 21 stupňov, inde hrozia intenzívne búrky",
+          "snippet": "",
+          "url": "https://www.ta3.com/clanok/1064691/pocasie-po-spalujucich-dnoch-pride-ochladenie-na-severe-bude-len-okolo-21-stupnov-inde-hrozia-intenzivne-burky",
+          "source": "TA3"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "most",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 6 Aug 2026 13:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSprNkjcspKIc79fyWDuNOiz9EhCjhBQOM6Kq9mZlss9dxVuh53QXCZIRtw1rI",
       "pictureSource": "The New York Times",
@@ -117,20 +182,20 @@
       "title": "anna svrček",
       "trafficCount": "100+",
       "pubDate": "Thu, 6 Aug 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2RFIn1cUEF5qHQmoxRRE3lcrW5R3Erhl_sp7OoMclCvppBPwD_BVJ5D23xs",
-      "pictureSource": "Denník N",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmhvaeLVBG32UYLwuxOsWbjG5I9yohZAIQzYdnKyMGMl3514suPM2ifGKjvlA",
+      "pictureSource": "SPORTNET",
       "relatedSearch": [
+        {
+          "title": "Stal sa druhým najlepším Európanom. Skvelý Machata si vo finále MS vyrovnal aj osobný rekord",
+          "snippet": "",
+          "url": "https://sportnet.sme.sk/spravy/richard-machata-vysledok-dnes-finale-100-m-ms-v-atletike-u20-2026/",
+          "source": "SPORTNET"
+        },
         {
           "title": "Švrček debutovala za Slovensko, šprintér Machata senzačne napodobnil Volka. Obaja sú vo finále juniorských MS",
           "snippet": "",
           "url": "https://dennikn.sk/5492864/svrcek-debutovala-za-slovensko-sprinter-machata-senzacne-napodobnil-volka-obaja-su-vo-finale-juniorskych-ms/",
           "source": "Denník N"
-        },
-        {
-          "title": "Slovák bol outsider, pri štarte skoro spadol. Konkurenciu však šokoval a postúpil do finále",
-          "snippet": "",
-          "url": "https://sportnet.sme.sk/spravy/atletika-richard-machata-vysledok-dnes-semifinale-100-m-ms-v-atletike-u20-2026/",
-          "source": "SPORTNET"
         },
         {
           "title": "MSJ 2026 v Eugene: Na úvod postupy Emy Bendovej a Richarda Machatu do semifinále na 100 m a Dominiky Švaňovej do finále diaľky",
@@ -145,26 +210,26 @@
       "title": "holnapi időjárás",
       "trafficCount": "2000+",
       "pubDate": "Thu, 6 Aug 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo2ugW0LKBPGVgoe8n68qr-AveKOk-B33J2F_BJM_DAxNW-9F_QFB6lB3ddU4",
-      "pictureSource": "NOOL",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ50C0suC8o9mqGx3XIUVfbfHEqq8mIF3ZvPCb72kraaRFNQwy61Frv_z8EvRY",
+      "pictureSource": "HEOL",
       "relatedSearch": [
         {
-          "title": "Már látszik a változás az időjárásban? Ezt tartogatja a péntek Nógrád megyében",
+          "title": "Újabb fordulat előtt az időjárás Hevesben – mutatjuk, mi vár ránk",
           "snippet": "",
-          "url": "https://www.nool.hu/helyi-idojaras/2026/08/holnapi-idojaras-nogradban-lehules-hohullam",
-          "source": "NOOL"
+          "url": "https://www.heol.hu/helyi-idojaras/2026/08/ujabb-fordulat-elott-az-idojaras-hevesben-mutatjuk-mi-var-rank",
+          "source": "HEOL"
         },
         {
-          "title": "Nógrádban is átlépte a bűvös számot a hőmérséklet, újabb rekordok dőlhetnek",
+          "title": "Napos, száraz nyári idő jön – ilyen lesz a holnapi időjárás Hevesben",
           "snippet": "",
-          "url": "https://www.nool.hu/helyi-idojaras/2026/08/nogradban-is-atlepte-a-buvos-szamot-a-homerseklet-ujabb-rekordok-dolhetnek",
-          "source": "NOOL"
+          "url": "https://hirnavigator.hu/hir/10561336-napos-szaraz-nyari-ido-jon-ilyen-lesz-a-holnapi-idojaras-hevesben",
+          "source": "Hirnavigator"
         },
         {
-          "title": "Eléri a csúcsot a pokoli hőség Nógrádban, de már látszik, mikor csap le a megváltó hidegfront",
+          "title": "Sokakat megviselhet a csütörtöki időjárás Hevesben – itt vannak a részletek",
           "snippet": "",
-          "url": "https://www.nool.hu/helyi-idojaras/2026/08/idojaras-elorejelzes-hohullam-csapadek-hidegfront",
-          "source": "NOOL"
+          "url": "https://www.heol.hu/helyi-idojaras/2026/08/holnapi-idojaras-hevesben-44",
+          "source": "HEOL"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,110 +238,26 @@
       "title": "weather tomorrow",
       "trafficCount": "1000+",
       "pubDate": "Thu, 6 Aug 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSc4zew5VmjM40yj-F3FHx6uEkCYGDUE3k9LxF9qMb7WweYF96U-Yt3NrwTw",
-      "pictureSource": "AOL.co.uk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPwE0GK-fakm1059H85MbCzKOxCjYKSbkgZcbJhfbEcyimln82kuQ5GS1hZII",
+      "pictureSource": "The Independent",
       "relatedSearch": [
         {
-          "title": "Weather tomorrow: Met Office gives verdict on rain on Friday",
+          "title": "Temperatures across the UK set to drop ahead of another potential heatwave",
           "snippet": "",
-          "url": "https://www.aol.co.uk/articles/weather-tomorrow-met-office-gives-213000000.html",
-          "source": "AOL.co.uk"
+          "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-heatwave-thunderstorm-met-office-warning-b3028511.html",
+          "source": "The Independent"
         },
         {
-          "title": "Weather tomorrow: Met Office gives verdict on rain on Friday",
+          "title": "A weekend of contrasts: heavy rain for NW Scotland, returning heat in SE Britain with no sign of rain",
           "snippet": "",
-          "url": "https://www.express.co.uk/news/weather/2236828/weather-tomorrow-met-office-rain-verdict-friday",
-          "source": "Daily Express"
+          "url": "https://www.netweather.tv/weather-forecasts/news/13532-a-weekend-of-contrasts-heavy-rain-for-nw-scotland-returning-heat-in-se-britain-with-no-sign-of-rain",
+          "source": "Netweather"
         },
         {
-          "title": "Heavy rains may persist across much of India; flash floods likely in hills",
+          "title": "Flood alert issued in Aberdeen and Aberdeenshire amid Met Office thunderstorm warning",
           "snippet": "",
-          "url": "https://www.livemint.com/news/imd-rain-alert-india-weather-forecast-flash-floods-risk-11786007842233.html",
-          "source": "mint"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "погода завтра",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 6 Aug 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLPKHkL3Z7PYdSDeKkfzBarP5ECIjvsSjWPBU6D89YYm5N-BPYbSs07oJV4w",
-      "pictureSource": "ФОНТАНКА.ру",
-      "relatedSearch": [
-        {
-          "title": "В ближайшие часы Петербург накроет непогода",
-          "snippet": "",
-          "url": "https://www.fontanka.ru/2026/08/06/76574373/",
-          "source": "ФОНТАНКА.ру"
-        },
-        {
-          "title": "На Петербург надвигается штормовой ветер",
-          "snippet": "",
-          "url": "https://www.rosbalt.ru/news/2026-08-06/na-peterburg-nadvigaetsya-shtormovoy-veter-5653948",
-          "source": "Росбалт"
-        },
-        {
-          "title": "Жителей Ленобласти предупреждают, что погода завтра испортится, и серьезно",
-          "snippet": "",
-          "url": "https://47news.ru/articles/291064/",
-          "source": "47 новостей из Ленинградской области"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "twente–dac",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 6 Aug 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0YM6CeM5hYADufmasKdAVSARuWk7A5Y4Dja14zCik_GjqDJ_qeXRNVqxAeaw",
-      "pictureSource": "SPORTNET",
-      "relatedSearch": [
-        {
-          "title": "Konferenčná liga: Dunajská Streda v treťom predkole vysoko prehrala na pôde Twente",
-          "snippet": "",
-          "url": "https://sportnet.sme.sk/spravy/futbal-twente-dac-online-1-zapas-3-predkolo-konferencna-liga-2026-2027/",
-          "source": "SPORTNET"
-        },
-        {
-          "title": "Maďari dotujú domácich hráčov miliónmi. Zaviedol by som to aj na Slovensku. Potom by v Dunajskej Strede nehral v základe iba jeden - Európske poháre - Futbal - Športweb",
-          "snippet": "",
-          "url": "https://www.pravda.sk/sportweb/futbal/europske-pohare/clanok/2018927-ako-sa-chce-slovenska-liga-posunut-berme-si-priklad-z-madarov",
-          "source": "Pravda"
-        },
-        {
-          "title": "DAC vyzve Twente, kde Stoch získal titul a jeho fanúšikovia bizarne odmietali hráškovú polievku",
-          "snippet": "",
-          "url": "https://dennikn.sk/5450306/dac-vyzve-twente-kde-stoch-ziskal-titul-a-jeho-fanusikovia-bizarne-odmietali-hraskovu-polievku/",
-          "source": "Denník N"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "7 august",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 6 Aug 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQImXcOyOMXjqIwCQRyOuAae8T71jpCkMQHzyWO5V-cysDDm6qWSiQMMjvO3Y",
-      "pictureSource": "LokalDirekt",
-      "relatedSearch": [
-        {
-          "title": "Veranstaltungskalender 7. bis 9. August",
-          "snippet": "",
-          "url": "https://lokaldirekt.de/news/veranstaltungskalender-7-bis-9-august",
-          "source": "LokalDirekt"
-        },
-        {
-          "title": "Tagesvorschau 7. August 2026: Ergebnisse, Konjunkturdaten und US-Jobmarkt im Fokus",
-          "snippet": "",
-          "url": "https://www.it-boltwise.de/tagesvorschau-7-august-2026-ergebnisse-konjunkturdaten-und-us-jobmarkt-im-fokus.html",
-          "source": "it boltwise"
-        },
-        {
-          "title": "TAGESVORSCHAU: Termine am 7. August 2026",
-          "snippet": "",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69240738-tagesvorschau-termine-am-7-august-2026-016.htm",
-          "source": "FinanzNachrichten.de"
+          "url": "https://www.aberdeenlive.news/news/aberdeen-news/flood-alert-issued-aberdeen-aberdeenshire-11093925",
+          "source": "Aberdeen Live"
         }
       ],
       "link": "https://imtaqin.id/"
