@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-07 15:30:24",
+  "lastUpdate": "2026-08-07 16:26:15",
   "data": [
     {
       "title": "ola källenius",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 7 Aug 2026 07:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm_b3Bzr1zImwGCS1m-bSZb0BjqO5weDckeHoqTEVF819196SkclFzrt5PV28",
       "pictureSource": "ARD Mediathek",
@@ -31,17 +31,11 @@
     },
     {
       "title": "sander kilen",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 7 Aug 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlGcUKkQxr5HB1Zxmsu71oRldagCMRZk18IjfHUnSrrMu_6BRfe9thR930gxs",
-      "pictureSource": "TV 2",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23PD1ZKNeGcrOhz01m_2h1ibdPreSlKkg_UDJRKmEcC0QZW7T0T6bZ-SC-z0",
+      "pictureSource": "rbnett.no",
       "relatedSearch": [
-        {
-          "title": "TV 2 erfarer: Nytt bud på juvel – ekspert reagerer",
-          "snippet": "",
-          "url": "https://www.tv2.no/sport/tv-2-erfarer-nytt-bud-pa-juvel-ekspert-reagerer/19108944/",
-          "source": "TV 2"
-        },
         {
           "title": "Molde med nytt fremstøt",
           "snippet": "",
@@ -49,9 +43,15 @@
           "source": "rbnett.no"
         },
         {
-          "title": "KBK, Sport | KBK svarer: Har lagt inn bud på Molde-profil",
+          "title": "KBK, Sport | KBK svarer: Har lagt inn bud på Molde-kapteinen",
           "snippet": "",
           "url": "https://www.tk.no/kbk-svarer-byr-ni-millioner-kroner-for-molde-profil/s/5-51-1895528",
+          "source": "Tidens Krav"
+        },
+        {
+          "title": "Sport, Fotball | Molde prøver seg på Kilen igjen",
+          "snippet": "",
+          "url": "https://www.tk.no/molde-prover-seg-pa-kilen-igjen/s/5-51-1895275",
           "source": "Tidens Krav"
         }
       ],
@@ -59,17 +59,11 @@
     },
     {
       "title": "kong harald",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 7 Aug 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5dqAVuBX_JvoWEBjWWznEyhHoOREZ11NfhmOBw0D3vX4S_6975MndZlR1mvA",
-      "pictureSource": "Seoghør.no",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUq7xcJ8R5aD6BG3PBR9gd-XCMiwaL-AZYU1QJqnGyBQ2RmNnz0ByPk97oJkc",
+      "pictureSource": "VG",
       "relatedSearch": [
-        {
-          "title": "Kjørt til sykehus i ambulanse",
-          "snippet": "",
-          "url": "https://www.seher.no/kongelig/til-sykehus-i-ambulanse/84988633",
-          "source": "Seoghør.no"
-        },
         {
           "title": "Slottet avviser at kongen ble hastet til sykehus",
           "snippet": "",
@@ -81,6 +75,12 @@
           "snippet": "",
           "url": "https://www.dagbladet.no/kjendis/kongen-pa-kontroll-pa-sykehuset/84989007",
           "source": "Dagbladet"
+        },
+        {
+          "title": "Kong Harald til sykehus",
+          "snippet": "",
+          "url": "https://www.seher.no/kongelig/til-sykehus/84988633",
+          "source": "Seoghør.no"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -99,16 +99,16 @@
           "source": "Seoghør.no"
         },
         {
-          "title": "Kjørt til sykehus i ambulanse",
-          "snippet": "",
-          "url": "https://www.seher.no/kongelig/til-sykehus-i-ambulanse/84988633",
-          "source": "Seoghør.no"
-        },
-        {
           "title": "Slottet avviser at kongen ble hastet til sykehus",
           "snippet": "",
           "url": "https://www.vg.no/rampelys/i/Okan7V/kong-harald-paa-rikshospitalet",
           "source": "VG"
+        },
+        {
+          "title": "Kongen på kontroll på sykehuset",
+          "snippet": "",
+          "url": "https://www.dagbladet.no/kjendis/kongen-pa-kontroll-pa-sykehuset/84989007",
+          "source": "Dagbladet"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +127,16 @@
           "source": "VG"
         },
         {
-          "title": "Fortsatt apotektrøbbel",
-          "snippet": "",
-          "url": "https://www.adressa.no/nyhetsstudio/i/5poJ71/apotekene-sliter",
-          "source": "adressa.no"
-        },
-        {
           "title": "Resept-trøbbel på apotekene",
           "snippet": "",
           "url": "https://www.ba.no/apotek-over-hele-landet-har-problemer/s/5-8-3483707",
           "source": "Bergensavisen"
+        },
+        {
+          "title": "Feilen i apotekenes IT-system er løst - medisiner kan hentes ut",
+          "snippet": "",
+          "url": "https://www.aftenposten.no/norge/i/JOLWd7/feilen-i-apotekenes-it-system-er-loest-medisiner-kan-hentes-ut",
+          "source": "Aftenposten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,20 +145,20 @@
       "title": "hålogalandsbrua",
       "trafficCount": "500+",
       "pubDate": "Fri, 7 Aug 2026 04:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkUH6ZuihFpxQGyTOFETsdT8L4237UxkrPkArnA005THgl7PFy0Wlpg-1BPgE",
-      "pictureSource": "Teknisk Ukeblad",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11hDcUu_pm8wXt_ZxbXYpKYYUyoGBv3Ixa8WQSUuZ5X-1ga9ELN-3c9FUKq0",
+      "pictureSource": "Fremover",
       "relatedSearch": [
-        {
-          "title": "Stenger i år igjen: Vet fortsatt ikke hvorfor asfalten løsner",
-          "snippet": "",
-          "url": "https://www.tu.no/artikler/stenger-i-ar-igjen-vet-fortsatt-ikke-hvorfor-asfalten-losner/575540",
-          "source": "Teknisk Ukeblad"
-        },
         {
           "title": "Vegarbeid, Trafikk | Store problemer med Hålogalandsbrua: – Må beregne ventetid",
           "snippet": "",
           "url": "https://www.fremover.no/store-problemer-med-halogalandsbrua-ma-beregne-ventetid/s/5-17-1532913",
           "source": "Fremover"
+        },
+        {
+          "title": "Stenger i år igjen: Vet fortsatt ikke hvorfor asfalten løsner",
+          "snippet": "",
+          "url": "https://www.tu.no/artikler/stenger-i-ar-igjen-vet-fortsatt-ikke-hvorfor-asfalten-losner/575540",
+          "source": "Teknisk Ukeblad"
         },
         {
           "title": "(+) Finner ikke årsaken: Asfalten løsner og krøller seg",
@@ -173,15 +173,9 @@
       "title": "formuesskatt",
       "trafficCount": "200+",
       "pubDate": "Fri, 7 Aug 2026 04:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyLfiBKlhPsfv0WMsV0zq2IXB_IhXBiv8rOy93g7oRBsNm8axrkciQZkRx3fw",
-      "pictureSource": "E24",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pO4CXtq845oE7BuoX5Y43I_aarJuFiVYNpOHZE0dPLfMiNOmL_p5hm5Sn2Y",
+      "pictureSource": "Finansavisen",
       "relatedSearch": [
-        {
-          "title": "Øyelege-datter i Sveits eier aksjer for 3 milliarder",
-          "snippet": "",
-          "url": "https://e24.no/boers-og-finans/i/Gx6onJ/oeyelege-datter-i-sveits-eier-aksjer-for-3-milliarder",
-          "source": "E24"
-        },
         {
           "title": "Ole Morten Halvorsen unngår formuesskatt og exit-skatt: Den rike øyelegens geniale skattegrep",
           "snippet": "",
@@ -193,6 +187,12 @@
           "snippet": "",
           "url": "https://www.dn.no/marked/rekordresultat-for-oyelege-na-har-utvandret-datter-fatt-eierskapet-over-milliardene/2-1-2025400",
           "source": "Dagens Næringsliv"
+        },
+        {
+          "title": "Øyelege-datter i Sveits eier aksjer for 3 milliarder",
+          "snippet": "",
+          "url": "https://e24.no/boers-og-finans/i/Gx6onJ/oeyelege-datter-i-sveits-eier-aksjer-for-3-milliarder",
+          "source": "E24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "arsenal fc",
       "trafficCount": "500+",
       "pubDate": "Fri, 7 Aug 2026 03:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN-g2gGVUipV0nhawbLfTvW-VBWrDMiuWidJvRC01paDi88kt-C_wH83TSDEA",
-      "pictureSource": "London Evening Standard",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaK8TdAKEndMp3M9VjWvrWe7xxlOLjK7FA9EV_ppq0uR7tlyQogMb3Ihmef2M",
+      "pictureSource": "Football London",
       "relatedSearch": [
         {
-          "title": "Transfer news LIVE: Shock Arsenal move, Alvarez deal; Man Utd signing",
+          "title": "Gabriel Martinelli finally lined up for record Arsenal transfer as Gabriel Jesus' next club emerges",
           "snippet": "",
-          "url": "https://www.standard.co.uk/sport/football/transfer-news-live-arsenal-fc-chelsea-man-utd-liverpool-alvarez-romero-guimaraes-b1284294.html",
-          "source": "London Evening Standard"
+          "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-transfer-gabriel-martinelli-jesus-34422488",
+          "source": "Football London"
         },
         {
-          "title": "Transfer Rumors: Vinicius Jr’s Mbappe Blow; Liverpool’s €150 Million Barcola Stance",
+          "title": "Di Marzio: Galatasaray already eyeing Leao alternative with Arsenal winger targeted",
           "snippet": "",
-          "url": "https://www.fotmob.com/embed/news/01kz95efx4y4/transfer-rumors-vinicius-jrs-mbappe-blow-liverpools-150-million-barcola-stance",
-          "source": "FotMob"
+          "url": "https://sempremilan.com/galatasaray-eyeing-leao-alternative-arsenal-winger",
+          "source": "SempreMilan"
         },
         {
-          "title": "BARCOLA TO LFC🔥 VINI JR TO ARSENAL🔥 Diomande to Madrid🔥 5 Transfer Predictions",
+          "title": "Arsenal news: Vinicius Jr overnight twist as Gabriel Martinelli makes transfer decision",
           "snippet": "",
-          "url": "https://uk.sports.yahoo.com/video/barcola-lfc-vini-jr-arsenal-165028725.html",
-          "source": "Yahoo Sports UK"
+          "url": "https://www.express.co.uk/sport/football/2236367/Arsenal-Vinicius-Jr-transfer-news-Martinelli",
+          "source": "Daily Express"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -245,38 +245,38 @@
           "source": "Dagbladet"
         },
         {
-          "title": "Stjerne krevde Trump-hjelp: Klaveness rystet av utviklingen",
+          "title": "Lise Klaveness møter pressen etter Fifa-bråket – kan erklære mistillit mot Infantino",
           "snippet": "",
-          "url": "https://www.nettavisen.no/sport/stjerne-krevde-trump-hjelp-klaveness-rystet-av-utviklingen/s/5-95-3185522",
-          "source": "Nettavisen"
+          "url": "https://www.nrk.no/sport/lise-klaveness-moter-pressen-etter-fifa-braket-_-kan-erklaere-mistillit-mot-infantino-1.17982047",
+          "source": "NRK"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "sylvi listhaug",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 7 Aug 2026 02:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_4KOLXySDMlN8kk_UNHEKpoC8PeyGug2GoXJTCUvbLDr6tJzjxi1Rzt-j2mA",
-      "pictureSource": "Dagbladet",
+      "title": "nordic mining",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 7 Aug 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-8oc-ciTEhvhvfElcPHtNkd4LWnSltWMq88hyJ2WZ7g0Y1_SiAiKdOiKWUXY",
+      "pictureSource": "E24",
       "relatedSearch": [
         {
-          "title": "Kommer med bønn til Høyre",
+          "title": "Nordic Mining-kollaps på børs",
           "snippet": "",
-          "url": "https://www.dagbladet.no/nyheter/kommer-med-bonn-til-hoyre/84986480",
-          "source": "Dagbladet"
+          "url": "https://e24.no/boers-og-finans/i/K8bO2X/oslo-boers-aapner-opp",
+          "source": "E24"
         },
         {
-          "title": "Hva? Skal hun ikke gjøre noe med biffkrisen heller?",
+          "title": "Nordic Mining i pengenød",
           "snippet": "",
-          "url": "https://www.aftenposten.no/meninger/kommentar/i/q6Vpq1/hva-skal-hun-ikke-gjoere-noe-med-biffkrisen-heller",
-          "source": "Aftenposten"
+          "url": "https://www.nrk.no/vestland/nordic-mining-i-pengenod-1.17982183",
+          "source": "NRK"
         },
         {
-          "title": "Søreide i strupen på Listhaug: –⁠ Uansvarlig",
+          "title": "Bilrally på Oslo Børs – svak oppgang",
           "snippet": "",
-          "url": "https://www.vg.no/nyheter/i/0premE/hoeyre-leder-ine-eriksen-soereide-kaller-frp-for-uansvarlig",
-          "source": "VG"
+          "url": "https://www.finansavisen.no/finans/2026/08/07/8371239/bilrally-pa-oslo-bors-svak-oppgang",
+          "source": "Finansavisen"
         }
       ],
       "link": "https://imtaqin.id/"
