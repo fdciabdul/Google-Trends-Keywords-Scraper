@@ -1,13 +1,19 @@
 {
-  "lastUpdate": "2026-08-09 10:20:41",
+  "lastUpdate": "2026-08-09 10:57:04",
   "data": [
     {
       "title": "пожар",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 9 Aug 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHRK4kmwz9N4y_bsK7xKv99ZETvlaRHMLIFfMoPJtUi3mbrWGV-aDAVtUtq-A",
-      "pictureSource": "Новости Zakon.kz",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR10KY7kEGUySBBkLrF5QtDojikJ4UVSRGJ2_an9KkRn-9tJlnsjxHIajhHXdQ",
+      "pictureSource": "TengriNews",
       "relatedSearch": [
+        {
+          "title": "Черный дым и открытое пламя: появились кадры пожара на месторождении в Мангистау",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/chernyiy-dyim-otkryitoe-plamya-poyavilis-kadryi-pojara-605800/",
+          "source": "TengriNews"
+        },
         {
           "title": "Пожар на нефтяном месторождении в Мангистау: стали известны подробности",
           "snippet": "",
@@ -15,16 +21,38 @@
           "source": "Новости Zakon.kz"
         },
         {
-          "title": "На месторождении в Мангистау произошло возгорание при очистке резервуара",
-          "snippet": "",
-          "url": "https://www.lada.kz/aktau_news/incidents/156502-na-mestorozhdenii-v-mangistau-proizoshlo-vozgoranie-pri-ochistke-rezervuara.html",
-          "source": "Lada.kz"
-        },
-        {
           "title": "Пожар на месторождении в Мангистау: стали известны подробности (фото)",
           "snippet": "",
           "url": "https://www.nur.kz/incident/emergency/2410217-pozhar-na-mestorozhdenii-v-mangistau-stali-izvestny-podrobnosti-foto/",
           "source": "NUR.KZ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "убийство",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 9 Aug 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtuFgQFVoe3zfrIl_fGqwy-uVK7BZGmJFPv4QtxhirWYMxbSc04Z62KC60MfY",
+      "pictureSource": "Номер Один - Новости Бурятии и Улан-Удэ сегодня",
+      "relatedSearch": [
+        {
+          "title": "Жительницу Бурятии не стали наказывать за убийство 20-летней давности",
+          "snippet": "",
+          "url": "https://gazeta-n1.ru/news/incidents/165092/",
+          "source": "Номер Один - Новости Бурятии и Улан-Удэ сегодня"
+        },
+        {
+          "title": "Жительница Бурятии призналась, что убила знакомую 20 лет назад",
+          "snippet": "",
+          "url": "https://arigus.tv/news/incidents/177015-zhitelnitsa-buryatii-priznalas-chto-ubila-znakomuyu-20-let-nazad/",
+          "source": "Ариг Ус"
+        },
+        {
+          "title": "От слов к делу: как некоторые европейцы сами признаются во всеуслышание, что их цель — убийство наибольшего количества россиян",
+          "snippet": "",
+          "url": "https://argumenti.ru/opinion/ot-slov-k-delu-kak-nekotorye-evropeycy-sami-priznayutsya-vo-vseuslyshanie-chto-1005751",
+          "source": "Аргументы Недели"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -47,34 +75,6 @@
           "snippet": "",
           "url": "https://desebg.com/reshenia/6681-2026-08-05-17-59-14",
           "source": "Държавна сигурност.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "убийство",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 9 Aug 2026 02:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL7N7k5rXdXHL4QdXllV0TLPPXN-_ZUJBLWQjJIhwfjZESWF78fMFlMCZW2z0",
-      "pictureSource": "БНТ Новини",
-      "relatedSearch": [
-        {
-          "title": "Жестокото убийство в Пловдив: Младежите са били Георги повече от час и си купили дюнери с парите му",
-          "snippet": "",
-          "url": "https://bntnews.bg/news/zhestokoto-ubiystvo-v-plovdiv-mladezhite-sa-bili-georgi-poveche-ot-chas-i-si-kupili-dyuneri-s-parite-mu-1406964news.html",
-          "source": "БНТ Новини"
-        },
-        {
-          "title": "Любослав Костов за убийството в Пловдив: Тези деца са отгледани в общество с огромен ценностен вакуум",
-          "snippet": "",
-          "url": "https://www.focus-news.net/novini/Bylgaria/Lyuboslav-Kostov-za-ubiistvoto-v-Plovdiv-Tezi-deca-sa-otgledani-v-obshtestvo-s-ogromen-cennosten-vakuum-3007113",
-          "source": "ФОКУС"
-        },
-        {
-          "title": "Психолог за жестокото убийство в Пловдив: Вероятно са замесени субстанции - измъчвали са човек, който се е молил и плакал, но нищо от това не ги е трогнало",
-          "snippet": "",
-          "url": "https://btvnovinite.bg/bulgaria/psiholog-za-zhestokoto-ubijstvo-v-plovdiv-verojatno-sa-zameseni-substancii-izmachvali-sa-chovek-kojto-se-e-molil-i-plakal-no-nishto-ot-tova-ne-gi-e-trognalo.html",
-          "source": "bTV Новините"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -139,26 +139,54 @@
       "title": "новини",
       "trafficCount": "1000+",
       "pubDate": "Sun, 9 Aug 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuWs-pFzt4JvAWcaZZGoUTLTQm3KcVeidB3stmWjd4d_iXBsRKCMmfuT8PKB8",
-      "pictureSource": "www.24chasa.bg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR03NP8-OtxIlR51QDj6p5xHW14A4T-RJ-q0dazLrVCMd2gHOhsMZu72wMkII",
+      "pictureSource": "ФОКУС",
       "relatedSearch": [
         {
-          "title": "Дяволът е в детайлите",
+          "title": "Китай обяви най-високата степен на тревога заради приближаването на тайфуна \"Делфин\"",
           "snippet": "",
-          "url": "https://www.24chasa.bg/mneniya/article/23355085",
+          "url": "https://www.focus-news.net/novini/mejdunarodni/Kitai-obyavi-nai-visokata-stepen-na-trevoga-zaradi-priblizhavaneto-na-taifuna-Delfin-3007269",
+          "source": "ФОКУС"
+        },
+        {
+          "title": "Близо 1400 полета са отменени в Китай заради приближаващ тайфун",
+          "snippet": "",
+          "url": "https://www.segabg.com/category-foreign-country/blizo-1400-poleta-sa-otmeneni-kitay-zaradi-priblizhavasht-tayfun",
+          "source": "Новини СЕГА"
+        },
+        {
+          "title": "Тайфунът \"Делфин\" връхлетя Япония, очаква се да достигне Китай (ВИДЕО)",
+          "snippet": "",
+          "url": "https://www.bgonair.bg/a/4-world/426806-tayfunat-delfin-vrahletya-yaponiya-ochakva-se-da-dostigne-kitay-video",
+          "source": "Bgonair"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "северна корея",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 9 Aug 2026 01:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVdshujzN2EZAIb_RqLP_R6RwFfQ9yfZ_qLh2XDXM59Id7i99Zhxn1MTYUPb0",
+      "pictureSource": "Mediapool.bg",
+      "relatedSearch": [
+        {
+          "title": "\"Сякаш спечели от лотарията.\" Северна Корея е заработила рекордните 22 милиарда долара след началото на войната в Украйна",
+          "snippet": "",
+          "url": "https://www.mediapool.bg/syakash-specheli-ot-lotariyata-severna-koreya-e-zarabotila-rekordnite-22-miliarda-dolara-sled-nachaloto-na-voinata-v-ukraina-news386326.html",
+          "source": "Mediapool.bg"
+        },
+        {
+          "title": "Ким Чен Ун е натрупал 22 млрд. долара от войната в Украйна",
+          "snippet": "",
+          "url": "https://www.24chasa.bg/biznes/article/23351268",
           "source": "www.24chasa.bg"
         },
         {
-          "title": "Историята на „ловците на педофили” и кога се прекрачва границата",
+          "title": "Коментари - Ким Чен Ун натрупал $22 милиарда след началото на войната в Украйна",
           "snippet": "",
-          "url": "https://nova.bg/news/view/2026/08/09/547121/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BB%D0%BE%D0%B2%D1%86%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D0%BF%D0%B5%D0%B4%D0%BE%D1%84%D0%B8%D0%BB%D0%B8-%D0%B8-%D0%BA%D0%BE%D0%B3%D0%B0-%D1%81%D0%B5-%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%87%D0%B2%D0%B0-%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%D1%82%D0%B0/",
-          "source": "nova.bg"
-        },
-        {
-          "title": "Ален - \"ловецът на педофили\": \"Заловили сме 200, осъдените се броят на пръстите\"",
-          "snippet": "",
-          "url": "https://www.bgonair.bg/a/166-kriminalno/426791-alen-lovetsat-na-pedofili-zalovili-sme-200-osadenite-se-broyat-na-prastite",
-          "source": "Bgonair"
+          "url": "https://dnes.dir.bg/comments/kim-chen-un-natrupal-usd22-miliarda-sled-nachaloto-na-voynata-v-ukrayna?type=chronologically",
+          "source": "Dir.bg"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,36 +220,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "северна корея",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 9 Aug 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVdshujzN2EZAIb_RqLP_R6RwFfQ9yfZ_qLh2XDXM59Id7i99Zhxn1MTYUPb0",
-      "pictureSource": "Mediapool.bg",
-      "relatedSearch": [
-        {
-          "title": "\"Сякаш спечели от лотарията.\" Северна Корея е заработила рекордните 22 милиарда долара след началото на войната в Украйна",
-          "snippet": "",
-          "url": "https://www.mediapool.bg/syakash-specheli-ot-lotariyata-severna-koreya-e-zarabotila-rekordnite-22-miliarda-dolara-sled-nachaloto-na-voinata-v-ukraina-news386326.html",
-          "source": "Mediapool.bg"
-        },
-        {
-          "title": "Ким Чен Ун е натрупал 22 млрд. долара от войната в Украйна",
-          "snippet": "",
-          "url": "https://www.24chasa.bg/biznes/article/23351268",
-          "source": "www.24chasa.bg"
-        },
-        {
-          "title": "Коментари - Ким Чен Ун натрупал $22 милиарда след началото на войната в Украйна",
-          "snippet": "",
-          "url": "https://dnes.dir.bg/comments/kim-chen-un-natrupal-usd22-miliarda-sled-nachaloto-na-voynata-v-ukrayna?type=chronologically",
-          "source": "Dir.bg"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "марко дуганджич",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Sun, 9 Aug 2026 01:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL6VtyeEg-CzzmqcX1H1ZiMqckCFx4e41I6TU4bk2kDAKF3gKhMDLFFLishg0",
       "pictureSource": "Gong.bg",
@@ -249,11 +249,17 @@
     },
     {
       "title": "прокурор",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 9 Aug 2026 00:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScb4HhymPBWAzOzgAbpC1BsDJD85uUp9_MYYfyAX8DgRjyDAXwFzDTL7uiYjg",
-      "pictureSource": "Mediapool.bg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7u3B7QiWUM1aCUkI_rWg8DRSp8cSxEqjw50OPvS_QVu9BDf20mfOyfIH9qHM",
+      "pictureSource": "Dnes.bg",
       "relatedSearch": [
+        {
+          "title": "Бившият адвокат на Тръмп вече главен прокурор",
+          "snippet": "",
+          "url": "https://www.dnes.bg/a/2-svyat/731247-bivshiyat-advokat-na-tramp-veche-glaven-prokuror",
+          "source": "Dnes.bg"
+        },
         {
           "title": "Новини за личен адвокат",
           "snippet": "",
@@ -261,16 +267,10 @@
           "source": "Mediapool.bg"
         },
         {
-          "title": "Бивш адвокат на Тръмп бе утвърден от Сената на САЩ за главен прокурор - Свят",
+          "title": "Сенатът одобри кандидатурата на Тод Бланш за главен прокурор на САЩ",
           "snippet": "",
-          "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/bivsh-advokat-na-tramp-be-utvarden-ot-senata-na-sast-za-glaven-prokuror",
-          "source": "manager.bg"
-        },
-        {
-          "title": "Бившият личен адвокат на Тръмп стана главен прокурор на САЩ СНИМКА",
-          "snippet": "",
-          "url": "https://www.marica.bg/svqt/bivshiqt-lichen-advokat-na-tramp-stana-glaven-prokuror-na-sasht-snimka",
-          "source": "marica.bg"
+          "url": "https://news.bg/int-politics/senatat-odobri-kandidaturata-na-tod-blansh-za-glaven-prokuror-na-sasht.html",
+          "source": "News.bg"
         }
       ],
       "link": "https://imtaqin.id/"
