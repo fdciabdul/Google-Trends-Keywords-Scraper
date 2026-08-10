@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-10 09:20:36",
+  "lastUpdate": "2026-08-10 10:39:13",
   "data": [
     {
       "title": "eesti kaitsevägi",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 10 Aug 2026 01:50:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -12,7 +12,7 @@
     },
     {
       "title": "vibrio vulnificus",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 10 Aug 2026 01:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTL5JdCE7bUK_YX_dxN72bTc8YtP9iU1fwSndLBGqV_RGFeWGgfL3Inle1A0Bc",
       "pictureSource": "The New York Times",
@@ -39,12 +39,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "paldiski maantee",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 10 Aug 2026 00:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "самокат",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 10 Aug 2026 01:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYw339Q_E2WQe2beure0VdNEsxBJIsMguXrO-Q2iUcp3M06XHgCW6xCSJkY5g",
+      "pictureSource": "Официальный сайт Череповца",
+      "relatedSearch": [
+        {
+          "title": "В Череповце подросток на арендованном самокате столкнулся с автомобилем",
+          "snippet": "",
+          "url": "https://cherinfo.ru/news/147668-v-cerepovce-podrostok-na-arendovannom-samokate-stolknulsa-s-avtomobilem",
+          "source": "Официальный сайт Череповца"
+        },
+        {
+          "title": "В Череповце двое подростков на самокате влетели в автомобиль",
+          "snippet": "",
+          "url": "https://newsvo.ru/proisshestviya/7557256-v-cherepovce-dvoe-podrostkov-na-samokate-vleteli-v-avtomobil",
+          "source": "NewsVO"
+        },
+        {
+          "title": "Электросамокаты опасны?",
+          "snippet": "",
+          "url": "https://meduza.io/feature/2026/08/09/elektrosamokaty-opasny",
+          "source": "Meduza — Новости"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -60,26 +79,26 @@
       "title": "weather",
       "trafficCount": "100+",
       "pubDate": "Sun, 9 Aug 2026 21:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmsdzAgl5MmPDl6pGc5ZMAQLhQYttrzRFvPDfrQlKEDyjOIp_VGWGxf73hUNI",
-      "pictureSource": "Anadolu Ajansı",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXW42uLeN3lwpoPD0EqYc9DqtndXfovoOtFebgMxAFB9hSUWyJCAE9ev9_yIU",
+      "pictureSource": "Yahoo News Canada",
       "relatedSearch": [
         {
-          "title": "Spain endures hottest, driest start to summer on record",
+          "title": "Impact Heat and Active Tropics for South Florida",
           "snippet": "",
-          "url": "https://www.aa.com.tr/en/greenline/climate-change/spain-endures-hottest-driest-start-to-summer-on-record/1831286",
-          "source": "Anadolu Ajansı"
+          "url": "https://ca.news.yahoo.com/impact-heat-active-tropics-south-091109655.html",
+          "source": "Yahoo News Canada"
         },
         {
-          "title": "The thermometer did not drop below 26.3 degrees in the early morning at Reus airport",
+          "title": "FORECAST: Prepare for a stretch of dry, hot weather throughout the week",
           "snippet": "",
-          "url": "https://www.apdnoticies.com/en/tarragona/reus/the-thermometer-did-not-drop-below-26-3-degrees-in-the-early-morning-at-reus-airport_22204_102.html",
-          "source": "APD Noticies"
+          "url": "https://www.wptv.com/weather/forecast-prepare-for-a-stretch-of-dry-hot-weather-throughout-the-week",
+          "source": "WPTV"
         },
         {
-          "title": "Murcia has just had its hottest July ever",
+          "title": "Prolonged Heatwave and High Humidity to Grip Boca Raton Through Aug. 16",
           "snippet": "",
-          "url": "https://murciatoday.com/murcia_has_just_had_its_hottest_july_ever_1000272496-a.html",
-          "source": "Murcia Today - News"
+          "url": "https://www.bocaratontribune.com/bocaratonnews/2026/08/prolonged-heatwave-and-high-humidity-to-grip-boca-raton-through-aug-16/",
+          "source": "The Boca Raton Tribune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -107,16 +126,16 @@
           "source": "ERR"
         },
         {
-          "title": "Железнодорожное сообщение между Финляндией и Швецией возобновилось спустя почти 40 лет",
-          "snippet": "",
-          "url": "https://www.interfax.ru/world/1108406",
-          "source": "Интерфакс"
-        },
-        {
           "title": "Между Финляндией и Швецией начинают курсировать поезда – впервые за почти 40 лет",
           "snippet": "",
           "url": "https://yle.fi/a/74-20240081",
           "source": "Yle"
+        },
+        {
+          "title": "Железнодорожное сообщение между Финляндией и Швецией возобновилось спустя почти 40 лет",
+          "snippet": "",
+          "url": "https://www.interfax.ru/world/1108406",
+          "source": "Интерфакс"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,16 +154,16 @@
           "source": "Новости Беларуси | БелТА"
         },
         {
+          "title": "Затонувший немецкий корабль обнаружили в Заполярье",
+          "snippet": "",
+          "url": "https://pobedarf.ru/2026/08/10/zatonuvshij-nemeczkij-korabl-obnaruzhili-v-zapolyare/",
+          "source": "Российское информационное агентство \"Победа РФ\""
+        },
+        {
           "title": "В Баренцевом море нашли затонувшее немецкое военное судно",
           "snippet": "",
           "url": "https://prospect.com.ru/news/6930525/v-barentsevom-more-nashli-zatonuvshee-nemetskoe-voennoe-sudno.html",
           "source": "prospect.com.ru"
-        },
-        {
-          "title": "Водолазы обнаружили затонувший немецкий корабль в Баренцевом море",
-          "snippet": "",
-          "url": "https://n-mar.ru/social/37109-vodolazy-obnaruzhili-zatonuvshiy-nemeckiy-korabl-v-barencevom-more.html",
-          "source": "Нарьян-Мар on-line"
         }
       ],
       "link": "https://imtaqin.id/"
