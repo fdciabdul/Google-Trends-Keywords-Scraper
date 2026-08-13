@@ -1,6 +1,90 @@
 {
-  "lastUpdate": "2026-08-13 02:41:09",
+  "lastUpdate": "2026-08-13 04:29:11",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 12 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSU2eajWvhGXYOUPAqak-awLoG32PSU6WKVJQkaaAEVWxv3weuIn2c2FX4Vr8",
+      "pictureSource": "National Herald",
+      "relatedSearch": [
+        {
+          "title": "Widespread rain forecast for Delhi and northwest India from 14 August",
+          "snippet": "",
+          "url": "https://www.nationalheraldindia.com/national/widespread-rain-forecast-for-delhi-and-northwest-india-from-14-august",
+          "source": "National Herald"
+        },
+        {
+          "title": "IMD forecasts extremely heavy rainfall in Odisha and Gangetic West Bengal today",
+          "snippet": "",
+          "url": "https://newsonair.gov.in/imd-forecasts-extremely-heavy-rainfall-in-odisha-and-gangetic-west-bengal-today/",
+          "source": "News On AIR"
+        },
+        {
+          "title": "Monsoon likely to intensify in Haryana from Aug 13 night",
+          "snippet": "",
+          "url": "https://timesofindia.indiatimes.com/city/chandigarh/monsoon-likely-to-intensify-in-haryana-from-aug-13-night/articleshow/133192400.cms",
+          "source": "The Times of India"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hava durumu",
+      "trafficCount": "500+",
+      "pubDate": "Wed, 12 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZbc-VjvOL2No9CJTezB0dtNcwDUzUVPEj7vy8gMcIW44L4173Yi9ZHjVRzSQ",
+      "pictureSource": "Ülke TV",
+      "relatedSearch": [
+        {
+          "title": "İstanbul dahil 15 il için sarı kodlu uyarı!",
+          "snippet": "",
+          "url": "https://www.ulketv.com/istanbul-dahil-15-il-icin-sari-kodlu-uyari",
+          "source": "Ülke TV"
+        },
+        {
+          "title": "Meteoroloji'den kuvvetli yağış ve fırtına uyarısı: 15 il için sarı kodlu alarm (13.08.2026)",
+          "snippet": "",
+          "url": "https://www.evrensel.net/haber/5996184/meteorolojiden-kuvvetli-yagis-ve-firtina-uyarisi-15-il-icin-sari-kodlu-alarm-13082026",
+          "source": "Evrensel.net"
+        },
+        {
+          "title": "İzmir için fırtına uyarısı...",
+          "snippet": "",
+          "url": "https://karsiyakahaber.com/izmir/izmir-icin-firtina-uyarisi-1786576184/50176",
+          "source": "Karşıyaka Haber"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 12 Aug 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThWxA8oIO6PDzZr0H4Rph0qN2PcGUKy-91eWSxxTgJrwbZB9dgK8PJQ0vL_fE",
+      "pictureSource": "Gazeta.ua",
+      "relatedSearch": [
+        {
+          "title": "Украинцев поразили прогнозом на четверг",
+          "snippet": "",
+          "url": "https://gazeta.ua/ru/articles/life/_ukraincev-porazili-prognozom-na-chetverg/1256459",
+          "source": "Gazeta.ua"
+        },
+        {
+          "title": "На Украину движет опасность и новый \"маневр\" от погоды: синоптики предупредили, когда снова ударит жара",
+          "snippet": "",
+          "url": "https://tsn.ua/ru/ukrayina/na-ukrainu-dvizhet-opasnost-i-novyy-manevr-ot-pogody-sinoptiki-predupredili-kogda-snova-udarit-zhara-3147512.html",
+          "source": "ТСН"
+        },
+        {
+          "title": "В Украину возвращается жара до +33: в Гидрометцентре назвали даты и рассказали, когда ожидать первого \"дыхания осени\"",
+          "snippet": "",
+          "url": "https://www.obozrevatel.com/novosti-obschestvo/v-ukrainu-vozvraschaetsya-zhara-v-gidromettsentre-utochnili-prognoz-i-nazvali-datyi.htm",
+          "source": "Obozrevatel"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "sofascore",
       "trafficCount": "100+",
@@ -21,9 +105,9 @@
           "source": "Sofascore"
         },
         {
-          "title": "Ruslan Tiukaev Ognjen Milić live score and H2H results",
+          "title": "Luis Carlos Alvarez Valdes Simon Caldwell live score and H2H results",
           "snippet": "",
-          "url": "https://www.sofascore.com/tennis/match/ognjen-milic-ruslan-tiukaev/vEkdsyKQd",
+          "url": "https://www.sofascore.com/tennis/match/simon-caldwell-luis-carlos-alvarez-valdes/kImdsoUHd",
           "source": "Sofascore"
         }
       ],
@@ -49,10 +133,10 @@
           "source": "YSscores"
         },
         {
-          "title": "Guimarães debuta con el Arsenal en empate en amistoso ante el Como",
+          "title": "La victoria no fue convincente.",
           "snippet": "",
-          "url": "https://es-us.noticias.yahoo.com/deportes/guimar%C3%A3es-debuta-arsenal-empate-amistoso-213204615.html",
-          "source": "Yahoo"
+          "url": "https://www.vietnam.vn/es/thang-khong-thuyet-phuc",
+          "source": "Vietnam.vn"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +145,15 @@
       "title": "flashscore",
       "trafficCount": "2000+",
       "pubDate": "Wed, 12 Aug 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7qby6Gl5HgowhEhUFNKWeadDy0Od-H5kG5PrkDghDz4fDRqNf8NaSDNGWtlE",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-Xd7d3__Wrj5kg5dSH-2HDwOwonREIKN5TRIujEj5oSNtHKW9YBZm-webHvI",
+      "pictureSource": "BBC",
       "relatedSearch": [
+        {
+          "title": "Djed Spence: Inter Milan in talks for Tottenham full-back",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/articles/cvgxz9xd95zo",
+          "source": "BBC"
+        },
         {
           "title": "Inter Milan in talks with Tottenham over Djed Spence deal - sources",
           "snippet": "",
@@ -75,12 +165,6 @@
           "snippet": "",
           "url": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-transfers-rumors/72777/tottenham-hotspur-transfer-news-rumors-djed-spence-inter-milan-deal-agreed",
           "source": "Cartilage Free Captain"
-        },
-        {
-          "title": "Football gossip: Spence, Zirkzee, Mbaye, Mudryk, Elias, Diatta, Catamo",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cqlxkxken3po",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +173,26 @@
       "title": "man united vs leeds",
       "trafficCount": "200+",
       "pubDate": "Wed, 12 Aug 2026 11:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSyh6QT3EjcfX0z9TF_0j5poOdDPiWEcks3Qj2yXbFZM_wSQ2NOXWWMM1D91E",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLj4BjGUvGuP7bTWBOwBbdhIq5Wa_YjdZQRIf2e1VOseIYBnj_2XQsxIvCtp8",
+      "pictureSource": "SPORF",
       "relatedSearch": [
-        {
-          "title": "Manchster United v Leeds: More history made in summer to remember at Croke Park",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/articles/cewrp090kd4o",
-          "source": "BBC"
-        },
-        {
-          "title": "Carrick: We're the lucky ones",
-          "snippet": "",
-          "url": "https://www.manutd.com/en/news/michael-carrick-discusses-manchester-united-v-leeds-united-at-croke-park-in-post-match-interview",
-          "source": "Manchester United Website"
-        },
         {
           "title": "'Bryan Mbeumo is on fire'... Watch Manchester United star produce outrageous assist for Joshua Zirkzee against Leeds",
           "snippet": "",
           "url": "https://www.sporf.com/bryan-mbeumo-is-on-fire-watch-manchester-united-star-produce-outrageous-assist-for-joshua-zirkzee-against-leeds/",
           "source": "SPORF"
+        },
+        {
+          "title": "Carrick: We're the lucky ones",
+          "snippet": "",
+          "url": "https://www.manutd.com/ar/news/michael-carrick-discusses-manchester-united-v-leeds-united-at-croke-park-in-post-match-interview",
+          "source": "Manchester United Website"
+        },
+        {
+          "title": "Lee Sobot's Leeds ratings as Trafford earns eight out of 10, trio get fives in Dublin",
+          "snippet": "",
+          "url": "https://onefootball.com/en/news/lee-sobots-leeds-ratings-as-trafford-earns-eight-out-of-10-trio-get-fives-in-dublin-43268193",
+          "source": "OneFootball"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,16 +211,16 @@
           "source": "EL PAÍS"
         },
         {
-          "title": "Goles Deportivo La Coruña vs Real Madrid: Videos del Trofeo Teresa Herrera 2026",
+          "title": "Deportivo - Real Madrid | Las estadísticas del Trofeo Teresa Herrera",
           "snippet": "",
-          "url": "https://www.beinsports.com/es-us/football/la-liga/articles/-video-todos-los-goles-del-deportivo-la-coru%C3%B1a-vs-real-madrid-en-el-trofeo-teresa-herrera-2026-08-12",
-          "source": "beIN SPORTS"
+          "url": "https://www.abc.es/deportes/futbol/deportivo-real-madrid-estadisticas-trofeo-teresa-herrera-20260812181155-di.html",
+          "source": "ABC"
         },
         {
-          "title": "Por qué no juega Yan Diomandé en el amistoso Real Madrid vs. Deportivo La Coruña",
+          "title": "Con un golazo mundial: Brahim Díaz recompensa la confianza de Mourinho",
           "snippet": "",
-          "url": "https://bolavip.com/pe/futbol-europeo/por-que-no-juega-yan-diomande-en-el-amistoso-real-madrid-vs-deportivo-la-coruna",
-          "source": "Bolavip Perú"
+          "url": "https://es-us.noticias.yahoo.com/deportes/golazo-mundial-brahim-d%C3%ADaz-recompensa-183217725.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,15 +229,9 @@
       "title": "псж – астон вилла",
       "trafficCount": "2000+",
       "pubDate": "Wed, 12 Aug 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIFPdYTD_D_nwmgrYmC87SYOc4VvV4EVIFsrtltLC_Hi2PyQClLZzDvIsQVRs",
-      "pictureSource": "Газета",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAJbZSs1kaFCBSGJYV0P16u3csbBnzqYa0lJt6xBcIIcAG9TPY6iUlYwROhn0",
+      "pictureSource": "Вестник Кавказа",
       "relatedSearch": [
-        {
-          "title": "«ПСЖ» с Сафоновым выиграл Суперкубок УЕФА",
-          "snippet": "",
-          "url": "https://www.gazeta.press/sport/news/2026/08/12/29093815.shtml",
-          "source": "Газета"
-        },
         {
           "title": "ПСЖ выиграл второй Суперкубок Европы подряд",
           "snippet": "",
@@ -161,10 +239,16 @@
           "source": "Вестник Кавказа"
         },
         {
-          "title": "Эмери: «Было ощущение, что «Астон Вилла» может дать «ПСЖ» бой, и это для меня самое важное»",
+          "title": "«ПСЖ» с Сафоновым выиграл Суперкубок УЕФА",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/uefa-supercup/news/unai-emeri-kommentariy-po-porazheniyu-aston-villy-ot-pszh-v-matche-za-superkubok-uefa-2446650/",
-          "source": "sport-express.net"
+          "url": "https://www.gazeta.press/sport/news/2026/08/12/29093815.shtml",
+          "source": "Газета"
+        },
+        {
+          "title": "ПСЖ – Астон Вилла – 2:1. Обзор матча",
+          "snippet": "",
+          "url": "https://fclm.news/online/137057-pszh-aston-villa-video.html",
+          "source": "fclmnews"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,110 +257,26 @@
       "title": "депортиво – реал мадрид",
       "trafficCount": "1000+",
       "pubDate": "Wed, 12 Aug 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqzLsyUodpcNYg2R1I_2e-PGpHGHIQsfziK4TKxz2hGQ4TflRj_fcfe8o8G8s",
-      "pictureSource": "Vietnam.vn",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFZ20er7PYtWbX37DFndt9xJ4QHy5hpko4l8EUVRKgcHdXXsVZKxhQ4G5qBZo",
+      "pictureSource": "Спорт Mail",
       "relatedSearch": [
-        {
-          "title": "Онлайн Депортиво Ла-Корунья – Реал Мадрид: стартовые составы",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ru/truc-tieptruc-tiep-deportivo-la-coruna-vs-real-madrid-doi-hinh-xuat-phat",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Винисиус пошутил над формой трофея после победы «Реала» над «Депортиво»",
-          "snippet": "",
-          "url": "https://football-fun-live.com/novosti/p-vinisius-posutil-nad-formoi-trofeya-posle-pobedy-reala-nad-deportivo",
-          "source": "Football-Fun-Live.com"
-        },
         {
           "title": "Вратарь «Реала» отдал голевую передачу рукой в товарищеском матче",
           "snippet": "",
           "url": "https://sportmail.ru/news/football-foreign/71973307/",
           "source": "Спорт Mail"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "манчестер юнайтед – лидс",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 12 Aug 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQby5BqcEYyUbasewxyZRZUCv4WliPUxsvi4OeHntkWkxlgu6Zo1ihZfB78e6U",
-      "pictureSource": "https://sportsnews.kz/",
-      "relatedSearch": [
-        {
-          "title": "Товарищеские матчи: «МЮ» сыграет с «Лидсом» в Дублине, «Арсенал» примет «Комо», «Реал» в гостях у «Депортиво»",
-          "snippet": "",
-          "url": "https://sportsnews.kz/ru/futbol/1117331003-tovarishheskie-matchi-myu-sygraet-s-lidsom-v-dubline-arsenal-primet-ko",
-          "source": "https://sportsnews.kz/"
         },
         {
-          "title": "Нуссаир Мазрауи раскрывает победную философию главного тренера «Манчестер Юнайтед» Майкла Каррика.",
+          "title": "ПСЖ - Астон Вилла: смотреть онлайн, прямая трансляция 12 августа 2026",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ru/noussair-mazraoui-tiet-lo-triet-ly-chien-thang-cua-hlv-michael-carrick-tai-manchester-united",
+          "url": "https://football24.ru/online/294823-pszh-aston-villa-smotret-onlajn-prjamaja-transljacija-12-avgusta-2026.html",
+          "source": "Football24.ru"
+        },
+        {
+          "title": "Онлайн Депортиво Ла-Корунья – Реал Мадрид: стартовые составы",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ru/truc-tieptruc-tiep-deportivo-la-coruna-vs-real-madrid-doi-hinh-xuat-phat",
           "source": "Vietnam.vn"
-        },
-        {
-          "title": "«Манчестер Юнайтед» в серии пенальти обыграл «Лидс» в предсезонном матче",
-          "snippet": "",
-          "url": "https://sport24.ru/football/news-873335-manchester-yunayted-i-lids-sygrali-vnichyu-v-irlandii",
-          "source": "Sport24.ru"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg",
-      "trafficCount": "2000+",
-      "pubDate": "Wed, 12 Aug 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdpauSwST16dsACRhRv1DUAw75XI5gjYu8T8tr64s9vX5_uqTH6jN-Rrh70eA",
-      "pictureSource": "Starsporttv",
-      "relatedSearch": [
-        {
-          "title": "Supercoupe d'Europe - Le PSG remporte son premier titre de la saison face à Aston Villa",
-          "snippet": "",
-          "url": "https://starsporttv.be/fr/content/supercoupe-deurope-le-psg-remporte-son-premier-titre-de-la-saison-face-a-aston-villa",
-          "source": "Starsporttv"
-        },
-        {
-          "title": "17 ans et déjà historique, Brian Madjo s’offre un record en finale de la Supercoupe d’Europe",
-          "snippet": "",
-          "url": "https://africafoot.com/17-ans-et-deja-historique-brian-madjo-soffre-un-record-en-finale-de-la-supercoupe-deurope/",
-          "source": "AfricaFoot"
-        },
-        {
-          "title": "Du miracle de Zidane à l'empire d'Enrique : comment les deux entraîneurs se sont retrouvés sur le trône de l'Europe",
-          "snippet": "",
-          "url": "https://www.goal.com/fr/news/du-miracle-de-zidane-a-l-empire-d-enrique-comment-les-deux-entraineurs-se-sont-retrouves-sur-le-trone-de-l-europe/blt9c3ff1ac04ad41c3",
-          "source": "Goal.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg vs aston villa",
-      "trafficCount": "5000+",
-      "pubDate": "Wed, 12 Aug 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEvKc2o7uosRdgca5g7kFSZD4ko78RcHY_Ufufx7pSWqN-xurIvnIjpHyF4w",
-      "pictureSource": "UEFA.com",
-      "relatedSearch": [
-        {
-          "title": "Paris vs Aston Villa Super Cup preview: Where to watch, kick-off time, predicted line-ups",
-          "snippet": "",
-          "url": "https://www.uefa.com/uefasupercup/news/02a8-2149ed5e5bc1-0b130f0cdccd-1000--paris-vs-aston-villa-super-cup-preview-where-to-watch-ki/",
-          "source": "UEFA.com"
-        },
-        {
-          "title": "Désiré Doué named UEFA Super Cup MVP after scoring PSG's winning goal",
-          "snippet": "",
-          "url": "https://www.beinsports.com/en-us/soccer/uefa-super-cup/articles/d%C3%A9sir%C3%A9-dou%C3%A9-caps-off-uefa-super-cup-with-winning-goal-and-player-of-the-match-award-2026-08-12",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "Super Cup: PSG 2-1 Aston Villa - PSG become the third team to retain the Super Cup",
-          "snippet": "",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c70g7jlp006o",
-          "source": "BBC"
         }
       ],
       "link": "https://imtaqin.id/"
