@@ -1,37 +1,121 @@
 {
-  "lastUpdate": "2026-08-14 22:48:12",
+  "lastUpdate": "2026-08-14 23:02:52",
   "data": [
     {
-      "title": "weather",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 14 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPyknKdfnYl4SWHIM-He4at_D55MH5QfpGQZXiC4M4o_ytOP8TQaUQ38jS2OM",
-      "pictureSource": "Yahoo",
+      "title": "날씨",
+      "trafficCount": "200000+",
+      "pubDate": "Fri, 14 Aug 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeadkmZ831H2CvRfkcF9ssQSHiXceoZHSWJSGV9f4Ph94fZfWIAtJ_IrEh0yI",
+      "pictureSource": "Daum",
       "relatedSearch": [
         {
-          "title": "Columbus weather: Clouds linger, scattered storms return tonight, Saturday",
+          "title": "[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/weather-news/articles/columbus-weather-clouds-linger-scattered-154323498.html",
-          "source": "Yahoo"
+          "url": "https://v.daum.net/v/20260815063740266",
+          "source": "Daum"
         },
         {
-          "title": "A Return Of Weekend Severe Weather? | Weather For Weather Geeks 8/13/26",
+          "title": "부산·울산·경남 낮 최고 30∼32도…모레까지 최대 150㎜ 비",
           "snippet": "",
-          "url": "https://www.wfmj.com/video/weather-for-weather-geeks/a-return-of-weekend-severe-weather-weather-for-weather-geeks-8-13-26/video_84ab1e17-d8fe-4311-b5e9-c0b8fe19c337.html",
-          "source": "WFMJ"
+          "url": "https://www.yna.co.kr/view/AKR20260815007700057",
+          "source": "연합뉴스"
         },
         {
-          "title": "Weekend washout? Heavy rain and storms could soak northwest Ohio | WTOL 11 Weather",
+          "title": "연휴 동안 전국에 비…남해안·제주엔 집중호우",
           "snippet": "",
-          "url": "https://www.wtol.com/video/weather/weekend-washout-heavy-rain-and-storms-could-soak-northwest-ohio-wtol-11-weather/512-58461303-68c8-4905-b0fa-58bcf34e4f59",
-          "source": "wtol.com"
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637855",
+          "source": "KBS 뉴스"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "thời tiết",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 14 Aug 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hP51-3UkmdJ1x9Hy4m2CLjwMJTLbZ3CKzsDdfQ1n00R14p3ZmBkvHohttIY",
+      "pictureSource": "Báo Dân trí",
+      "relatedSearch": [
+        {
+          "title": "Miền Bắc mưa dông diện rộng, Trung Bộ nắng nóng gay gắt",
+          "snippet": "",
+          "url": "https://dantri.com.vn/thoi-tiet/mien-bac-mua-dong-dien-rong-trung-bo-nang-nong-gay-gat-20260814212656870.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Dự báo thời tiết đêm nay và ngày mai 15/8/2026: Mưa gia tăng tại Bắc Bộ và Trung Bộ",
+          "snippet": "",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-1582026-mua-gia-tang-tai-bac-bo-va-trung-bo-nam-bo-tiep-tuc-co-dong-post981942.html",
+          "source": "Báo Nhân Dân điện tử"
+        },
+        {
+          "title": "Dự báo thời tiết ngày mai 15.8 trên cả nước",
+          "snippet": "",
+          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-158-tren-ca-nuoc-1751039.ldo",
+          "source": "Laodong.vn"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "天气",
+      "trafficCount": "500+",
+      "pubDate": "Fri, 14 Aug 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGlReB2Syb-3Ia9DHLJjArkCibXSsgDOi-wOkC8H6pczoG-ohIUWvH0hDbzAo",
+      "pictureSource": "아시아경제",
+      "relatedSearch": [
+        {
+          "title": "[天气]光复节假期最大150毫米强降雨……伴有阵风、雷电",
+          "snippet": "",
+          "url": "https://www.asiae.co.kr/cn/article/2026081417201365612",
+          "source": "아시아경제"
+        },
+        {
+          "title": "据韩联社14日报道，随着曾登陆中国的第13号台风\"海豚\"减弱的低气压过去，预计15日至17日全国将出现降雨天气。",
+          "snippet": "",
+          "url": "https://www.mk.co.kr/cn/society/12128267",
+          "source": "매일경제"
+        },
+        {
+          "title": "政府检查假期期间的强降雨应对情况，呼吁市民减少外出和靠近河流",
+          "snippet": "",
+          "url": "https://www.ajudaily.com/view/20260814164470694",
+          "source": "亚洲日报"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 14 Aug 2026 14:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFUnjntVax1RP5kf687RxXnB7zD5Vx9FZ_vy0a06WOHq1obgrzLMHfASQNHFw",
+      "pictureSource": "CBS News",
+      "relatedSearch": [
+        {
+          "title": "Heat and humidity keeping Georgia sweating over the weekend",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/atlanta/video/heat-and-humidity-keeping-georgia-sweating-over-the-weekend/",
+          "source": "CBS News"
+        },
+        {
+          "title": "The Hottest Days of this Summer",
+          "snippet": "",
+          "url": "https://www.wtvm.com/2026/08/14/hottest-days-this-summer/",
+          "source": "WTVM.com"
+        },
+        {
+          "title": "Hot Again Ahead of Slightly Better Weekend Rain Chances",
+          "snippet": "",
+          "url": "https://www.wtvy.com/2026/08/14/hot-again-ahead-slightly-better-weekend-rain-chances/",
+          "source": "WTVY"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "погода",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 14 Aug 2026 14:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRINBDWGF0uRCpiW1x-0AFu5BVQEEXMorYcRQYgQdGeQ3eV1roCiwo_0AOx1Qs",
       "pictureSource": "УНИАН",
@@ -86,8 +170,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "광주공항",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 14 Aug 2026 14:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREvpVaYsJYRUAiVnqdcXIHkrDdM6ul8YhTvirwkuEvAH85RJANIgWkUCEjPPo",
+      "pictureSource": "Daum",
+      "relatedSearch": [
+        {
+          "title": "李 “전격전”에…광주 군공항, 예천-서산-충주 임시 분산배치",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260814194449228",
+          "source": "Daum"
+        },
+        {
+          "title": "발언하는 이재명 대통령",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISI20260814_0021399533",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[사설] ‘광주는 속도전, 대구는 방치’ 이것이 균형발전인가",
+          "snippet": "",
+          "url": "https://www.yeongnam.com/web/view.php?key=20260811021011487",
+          "source": "영남일보"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "김민재",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Fri, 14 Aug 2026 14:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8-oIDZUcoJ7Ldv_ssYHBAaYqJQLDGmW5ALl552alTcLj2VTqH6z4Ag_9wy1s",
       "pictureSource": "Daum",
@@ -117,33 +229,33 @@
       "title": "반도체",
       "trafficCount": "2000+",
       "pubDate": "Fri, 14 Aug 2026 14:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREvpVaYsJYRUAiVnqdcXIHkrDdM6ul8YhTvirwkuEvAH85RJANIgWkUCEjPPo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDhwulTIlctcOA84Qu0Yffx4zotWiSnPhSqU1PmhbSf-vkjRkmKeLlICRD0cE",
       "pictureSource": "Daum",
       "relatedSearch": [
         {
-          "title": "李 “전격전”에…광주 군공항, 예천-서산-충주 임시 분산배치",
+          "title": "삼성전자, 비전 AI 권위자 한보형·메타 출신 한태린 영입…반도체 AX 강화",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260814194449228",
+          "url": "https://v.daum.net/v/20260814145650795",
           "source": "Daum"
         },
         {
-          "title": "발언하는 이재명 대통령",
+          "title": "삼성전자 반도체, 딥러닝·비전 AI 전문가 영입해 AX 가속화",
           "snippet": "",
-          "url": "https://www.newsis.com/view/NISI20260814_0021399533",
-          "source": "뉴시스"
+          "url": "https://www.yna.co.kr/view/AKR20260814031600003",
+          "source": "연합뉴스"
         },
         {
-          "title": "[사설] ‘광주는 속도전, 대구는 방치’ 이것이 균형발전인가",
+          "title": "삼성전자, 서울대 교수 겸직 채용…AI 인재난에 관행 깼다",
           "snippet": "",
-          "url": "https://www.yeongnam.com/web/view.php?key=20260811021011487",
-          "source": "영남일보"
+          "url": "https://www.metroseoul.co.kr/article/20260814500324",
+          "source": "메트로신문"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "배달",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 14 Aug 2026 14:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmXqRCOtVQ2BpQ2Xn63nMEjFuv4c8uH_GSpAmm1flNvNx6WyutX8MmYTp5hA",
       "pictureSource": "조선일보",
@@ -165,118 +277,6 @@
           "snippet": "",
           "url": "https://sisaissue.com/View.aspx?No=4183367",
           "source": "시사의창"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "렛츠런파크 서울",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 14 Aug 2026 13:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIHYYyt0fbpYXwq3m8gDAwMHJUplKlEMQYHLkiu-WyDDnqfDZ5gd70PqkMZE0",
-      "pictureSource": "Daum",
-      "relatedSearch": [
-        {
-          "title": "\"15일·17일 경마공원 입장료 무료\"…피서족 위한 야간경마까지",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260815063127203",
-          "source": "Daum"
-        },
-        {
-          "title": "한국마사회, 17일 광복절 대체공휴일 공휴경마 시행",
-          "snippet": "",
-          "url": "https://m.ekn.kr/view.php?key=20260813022552461",
-          "source": "에너지경제신문"
-        },
-        {
-          "title": "광복절 연휴 공휴경마…서울 첫 경주 오전 10시35분",
-          "snippet": "",
-          "url": "https://www.dailian.co.kr/news/view/1678435/%EA%B4%91%EB%B3%B5%EC%A0%88-%EC%97%B0%ED%9C%B4-%EA%B3%B5%ED%9C%B4%EA%B2%BD%EB%A7%88%EC%84%9C%EC%9A%B8-%EC%B2%AB-%EA%B2%BD%EC%A3%BC-%EC%98%A4-2026",
-          "source": "데일리안"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "박시은",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 14 Aug 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRILVCAfakRccN6_2aDxelanMwz90K9bBJ7pPiRbDXehJ3OxS1Grgd6sfvPvSQ",
-      "pictureSource": "조선일보",
-      "relatedSearch": [
-        {
-          "title": "진태현♥박시은, 만삭 유산 딸 4주기 기부 택했다…광복절 앞두고 2천만원 기부[핫피플]",
-          "snippet": "",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/14/MI2TSNRWGQZTGYJSMU2TMOBWGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "진태현♥박시은, 딸 떠나보낸 후 4년…독립유공자 후손 위해 기부",
-          "snippet": "",
-          "url": "https://v.daum.net/v/1ON9xtJ6YF",
-          "source": "Daum"
-        },
-        {
-          "title": "진태현♥박시은, 만삭 유산 후 4년⋯딸 떠올리며 기부 \"추억할 수 있음에 감사\"",
-          "snippet": "",
-          "url": "https://www.etoday.co.kr/news/view/2614921",
-          "source": "이투데이"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "윤석열",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 14 Aug 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6AZOkchtjXca5KBWa91xw8scPyXDSYwZ1V37sadIkBQuuK3x3UaO3AiDB2BY",
-      "pictureSource": "Daum",
-      "relatedSearch": [
-        {
-          "title": "특검, 나경원·김기현·윤상현·권영진 기소…尹체포 방해 혐의",
-          "snippet": "",
-          "url": "https://v.daum.net/v/6eOnql2u7u",
-          "source": "Daum"
-        },
-        {
-          "title": "‘윤석열 체포 방해’ 나경원·김기현·윤상현·권영진 재판행",
-          "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637909",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "김태규 의원, 종합특검 국민의힘 의원 기소 관련 기자회견",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISI20260814_0021399547",
-          "source": "뉴시스"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "이혼숙려캠프: 새로고침",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 14 Aug 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMX0ESvPXUYyFbThinZVW6Scqn6ZcKPMJNdUG40Gs3r2-4kfWwRKvUE3r1qj8",
-      "pictureSource": "Daum",
-      "relatedSearch": [
-        {
-          "title": "'이숙캠' 이동건 \"영상 보다가 멈췄다\"…라면 부부에 충격 [RE:TV]",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260814051129496",
-          "source": "Daum"
-        },
-        {
-          "title": "'쪼잔' 남편 \"둘째 낳은 것 후회…퇴근 후 운동·휴식 원한다\" 실언 - 머니투데이",
-          "snippet": "",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081405104939561",
-          "source": "머니투데이"
-        },
-        {
-          "title": "결박 폭행 아니네?! ‘라면 부부’ 아내, 허언증 터졌다 (이혼숙려캠프)",
-          "snippet": "",
-          "url": "https://sports.donga.com/ent/article/all/20260814/134477073/1",
-          "source": "스포츠동아"
         }
       ],
       "link": "https://imtaqin.id/"
