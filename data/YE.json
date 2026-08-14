@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-08-14 01:25:22",
+  "lastUpdate": "2026-08-14 03:35:58",
   "data": [
+    {
+      "title": "أخبار اليمن",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 13 Aug 2026 14:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTowueBilSpNrkk5PGPDVitxe0ILpGHjFnxMwy9imwDoShudl8uRCWKJfSBSSs",
+      "pictureSource": "وكالة خبر للأنباء",
+      "relatedSearch": [
+        {
+          "title": "الحوثي يصادر وعي اليمن",
+          "snippet": "",
+          "url": "https://www.khabaragency.net/news251515.html",
+          "source": "وكالة خبر للأنباء"
+        },
+        {
+          "title": "أدباء وكتاب يمنيون يحذرون من مصادرة مقر اتحادهم في صنعاء ويطالبون بوقف الإجراء",
+          "snippet": "",
+          "url": "https://www.khlaasa.net/1464096",
+          "source": "الخلاصة نت"
+        },
+        {
+          "title": "مثقفون يمنيون يحذّرون من عبث مليشيا الحوثي بمقر اتحاد الأدباء والكتاب في صنعاء",
+          "snippet": "",
+          "url": "https://www.almontasaf.net/news146874.html",
+          "source": "المنتصف نت"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "محكمة",
       "trafficCount": "500+",
       "pubDate": "Thu, 13 Aug 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH4dgrC4Dj1ATkAGPOI8eyn2f8gNbVekE9QeIDqpfu_WRM0ep4bINLUk3x9lM",
-      "pictureSource": "Reuters",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejUxqP2cRv72ZkEfA-ZGBN8XzKjjP73_CS6cyXRxLXxh-8qLR6BeuBuRVrvY",
+      "pictureSource": "ABC News - Breaking News, Latest News and Videos",
       "relatedSearch": [
         {
-          "title": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
+          "title": "Meta claims allegations in latest social media addiction trial are 'unsubstantiated'",
           "snippet": "",
-          "url": "https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/",
+          "url": "https://abcnews.com/GMA/News/jury-selection-begin-latest-social-media-addiction-trial/story?id=135574939",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/meta-29-states-head-court-biggest-test-yet-youth-social-media-litigation-2026-08-12/",
           "source": "Reuters"
         },
         {
-          "title": "Meta can’t stop states’ $1.4 trillion lawsuit from going to trial",
+          "title": "Meta faces $1.4 trillion lawsuit",
           "snippet": "",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Social media addiction lawsuits against Meta and TikTok can proceed, court rules",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/news/social-media-addiction-lawsuits-court-rules/",
-          "source": "CBS News"
+          "url": "https://www.france24.com/en/meta-faces-1-4-trillion-lawsuit",
+          "source": "France 24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -43,16 +71,16 @@
           "source": "Vietnam.vn"
         },
         {
-          "title": "الكشف عن سر عمره 13 عاماً.. \"مورينيو وقع لمانشستر يونايتد ثم تراجع باكياً\"",
-          "snippet": "",
-          "url": "https://a5r5br.net/iraq/sports/7996601-%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B3%D8%B1-%D8%B9%D9%85%D8%B1%D9%87-13-%D8%B9%D8%A7%D9%85%D8%A7-%D9%85%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D9%88-%D9%88%D9%82%D8%B9-%D9%84%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%AB%D9%85-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A8%D8%A7%D9%83%D9%8A%D8%A7",
-          "source": "آخر خبر"
-        },
-        {
           "title": "مورينيو يكشف في فيلم وثائقي: وقعت لتدريب مانشستر يونايتد عام 2013 وتراجعت باكيا",
           "snippet": "",
           "url": "https://www.sportakhbar.com/sport-news/la-liga/2815020",
           "source": "سبورت ماتش"
+        },
+        {
+          "title": "مورينيو يكشف عن توقيعه عقدا لخلافة فيرغسون في مانشستر يونايتد عام 2013",
+          "snippet": "",
+          "url": "https://www.hesport.com/%D9%85%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D9%88-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9%D9%87-%D8%B9%D9%82%D8%AF%D8%A7-%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A9-%D9%81%D9%8A%D8%B1-450898.html",
+          "source": "هسبورت"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,33 +89,33 @@
       "title": "محمد بن سلمان بن عبد العزيز آل سعود",
       "trafficCount": "1000+",
       "pubDate": "Thu, 13 Aug 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHquy_4ns8yDxMtZXURz4xckOgYotMm8E4IhLFGz1gIqMrpsxIFqE0jrfZptI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdxBmWZ5atpXAXRsc9AS8cZ3-_B1HDaJHbFbrZjkOGXvRaB-d6ju2iUjd3NU",
       "pictureSource": "CNN Arabic",
       "relatedSearch": [
         {
-          "title": "أوامر ملكية في السعودية شملت منصبا إضافيا لعبدالعزيز بن سلمان",
+          "title": "محمد بن سلمان يلتقي قائد \"سنتكوم\".. وبحثا هذه القضايا",
           "snippet": "",
-          "url": "https://arabic.cnn.com/middle-east/article/2026/08/13/royal-orders-saudi-new-position-prince-abdulaziz",
+          "url": "https://arabic.cnn.com/middle-east/article/2026/08/14/saudi-crown-prince-mohammad-bin-salman-discusses-deescalation-efforts-in-region-with-us-centcom",
           "source": "CNN Arabic"
         },
         {
-          "title": "من هو مازن السديري رئيس هيئة السوق المالية السعودية الجديد؟",
+          "title": "ولي عهد السعودية يبحث مع قائد القيادة المركزية الأمريكية التوترات الإقليمية",
           "snippet": "",
-          "url": "https://asharqbusiness.com/financial-markets/144053/%D9%85%D8%A7%D8%B2%D9%86-%D8%A7%D9%84%D8%B3%D8%AF%D9%8A%D8%B1%D9%8A-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D9%85%D9%86-%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%87%D8%A7/",
-          "source": "الشرق بلومبرغ"
+          "url": "https://www.reuters.com/ar/world/B6QB4FCKMNMHPPRWCP22QRJNZQ-2026-08-13/",
+          "source": "Reuters"
         },
         {
-          "title": "أوامر ملكية سعودية.. إعادة تشكيل مجلس الوزراء وتغييرات في هيئتي السوق المالية والمحتوى المحلي",
+          "title": "السعودية تعلن انطلاق التحالف البحري الدفاعي وانضمام 13 دولة رسميا وولي العهد السعودي يبحث مع قائد “سنتكوم” جهود خفض التصعيد بالمنطقة",
           "snippet": "",
-          "url": "https://www.khlaasa.net/news1463998.html",
-          "source": "الخلاصة نت"
+          "url": "https://www.raialyoum.com/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7/",
+          "source": "راي اليوم"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "الدرعية ضد الأهلي",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 13 Aug 2026 10:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwb3L1bSoJo9JnI9U4E3LfR9XHCw7GEEXkHaAliGeq3xuFBduUNmo64vxt_fI",
       "pictureSource": "العربي الجديد",
@@ -142,9 +170,9 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "أبها ضد الحزم",
-      "trafficCount": "1000+",
-      "pubDate": "Thu, 13 Aug 2026 09:10:00 -0700",
+      "title": "الدوري السعودي",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 13 Aug 2026 08:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQk5ixcHLuLj0VFwmAJYNxzohIxXFaBYX9fyf4dj2ZwxOLQNe5vOFL7A8KoZBs",
       "pictureSource": "صحيفة الخليج",
       "relatedSearch": [
@@ -173,28 +201,9 @@
       "title": "عام دراسي",
       "trafficCount": "2000+",
       "pubDate": "Thu, 13 Aug 2026 04:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhiDSlv9J2HlyLdnF1ZytkrVSIkQlxIT3q0CwbtJcyElFy2phCT85JG501IDc",
-      "pictureSource": "اليوم السابع",
-      "relatedSearch": [
-        {
-          "title": "تبدأ 19 سبتمبر.. موعد انطلاق الدراسة بالجامعات والمعاهد",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2026/8/13/%D8%AA%D8%A8%D8%AF%D8%A3-19-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A8%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%87%D8%AF/7512020",
-          "source": "اليوم السابع"
-        },
-        {
-          "title": "موعد بدء الدراسة في المدارس الدولية 2026-2027، تعرف على الخريطة الزمنية",
-          "snippet": "",
-          "url": "https://www.vetogate.com/5712389",
-          "source": "فيتو"
-        },
-        {
-          "title": "موعد بداية العام الدراسي الجديد 2026 للمدارس والجامعات في مصر",
-          "snippet": "",
-          "url": "https://www.almashhad.com/article/459217420284850-entertainment/150573472326704-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2026-%D9%84%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%88%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/",
-          "source": "قناة ومنصة المشهد - أخبار العالم اليوم"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -220,34 +229,6 @@
           "title": "لاعب كرة قدم أمريكية يكتشف ثعبان بخوذته بعد ساعة تدريب.. صور",
           "snippet": "",
           "url": "https://www.youm7.com/story/2026/8/13/%D9%84%D8%A7%D8%B9%D8%A8-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%8A%D9%83%D8%AA%D8%B4%D9%81-%D8%AB%D8%B9%D8%A8%D8%A7%D9%86-%D8%A8%D8%AE%D9%88%D8%B0%D8%AA%D9%87-%D8%A8%D8%B9%D8%AF-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8/7511935",
-          "source": "اليوم السابع"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ترتيبات إنتر ميامي – كلوب ليون",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 12 Aug 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmxlR5nM6Gt1eNlZbKUDprwWzHFv0pCYttlrBjzkKtrat5xiZn4hAlmFaIPk",
-      "pictureSource": "صحيفة الخليج",
-      "relatedSearch": [
-        {
-          "title": "فريقه ودع كأس الدوري.. ميسي يعود للعب مع إنتر ميامي",
-          "snippet": "",
-          "url": "https://www.alkhaleej.ae/2026-08-13/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D9%81%D8%B1%D9%8A%D9%82%D9%87-%D9%88%D8%AF%D8%B9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D8%B9%D8%A8-%D9%85%D8%B9-%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A",
-          "source": "صحيفة الخليج"
-        },
-        {
-          "title": "كاسيميرو يتغنى بميسي: لم أر مثله في حياتي",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%83%D8%A7%D8%B3%D9%8A%D9%85%D9%8A%D8%B1%D9%88-%D9%8A%D8%AA%D8%BA%D9%86%D9%89-%D8%A8%D9%85%D9%8A%D8%B3%D9%8A-%D9%84%D9%85-%D8%A7%D9%94%D8%B1-%D9%85%D8%AB%D9%84%D9%87-%D9%81%D9%8A-%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A/blt3c25eacb1c73f879",
-          "source": "Kooora"
-        },
-        {
-          "title": "إنتر ميامى يودع كأس الدوريات فى أول ظهور لـ ميسى بعد وفاة والده.. فيديو",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2026/8/13/%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%89-%D9%8A%D9%88%D8%AF%D8%B9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%89-%D8%A3%D9%88%D9%84-%D8%B8%D9%87%D9%88%D8%B1-%D9%84%D9%80-%D9%85%D9%8A%D8%B3%D9%89/7511814",
           "source": "اليوم السابع"
         }
       ],
