@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-15 05:01:07",
+  "lastUpdate": "2026-08-15 05:32:41",
   "data": [
     {
       "title": "požar",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 14 Aug 2026 21:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1znNrM0oDS3Pw3z8SE4Ds5YdaYpZumKS5S9mzUYuk5czlU3XzkWaoJuNWhOo",
       "pictureSource": "Portal.hr",
@@ -56,16 +56,16 @@
       "pictureSource": "CNN",
       "relatedSearch": [
         {
-          "title": "Powerful 7.7 magnitude earthquake hits Indonesia, forcing villagers to flee",
+          "title": "Deadly 7.7 magnitude earthquake hits Indonesia, forcing villagers to flee",
           "snippet": "",
           "url": "https://www.cnn.com/2026/08/14/asia/indonesia-earthquake-intl-latam",
           "source": "CNN"
         },
         {
-          "title": "At least 5 killed after powerful 7.7 earthquake strikes Indonesia, triggers tsunami warning",
+          "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
           "snippet": "",
-          "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
-          "source": "CBS News"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake",
+          "source": "Al Jazeera"
         },
         {
           "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 2",
@@ -80,9 +80,15 @@
       "title": "zemljotres bih",
       "trafficCount": "200+",
       "pubDate": "Fri, 14 Aug 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNLaxb-ldjZA2C5EaqxNEY1chcJ0PLmic_0TiMgmpuuCzVjr5Y2SH9gpLDbIs",
-      "pictureSource": "Telegraf.rs",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXdHbpZG506GOrscj0OxMJJRZdqGBFxe62u38rFKbMjEtdrb2AmaSrSHjKng",
+      "pictureSource": "Klix.ba",
       "relatedSearch": [
+        {
+          "title": "Tri zemljotresa u samo dva sata u BiH: Svi zabilježeni u blizini Sarajeva",
+          "snippet": "",
+          "url": "https://www.klix.ba/vijesti/bih/tri-zemljotresa-u-samo-dva-sata-u-bih-svi-zabiljezeni-u-blizini-sarajeva/260815008",
+          "source": "Klix.ba"
+        },
         {
           "title": "Zemljotres pogodio Bosnu, \"dobro je zaljuljao\" u blizini Sarajeva",
           "snippet": "",
@@ -94,12 +100,6 @@
           "snippet": "",
           "url": "https://www.sd.rs/vesti/region/nestala-tokom-vatrene-stihije-kod-omisa-policija-traga-za-draganom-objavljena-fotografija-i-apel-gradanima-2026-08-14",
           "source": "Srbija danas"
-        },
-        {
-          "title": "Dva potresa uznemirila građane BiH: Zemljotres se osjetio od Goražda do Sarajeva i Zenice",
-          "snippet": "",
-          "url": "https://crna-hronika.info/dva-potresa-uznemirila-gradjane-bih-zemljotres-se-osjetio-od-gorazda-do-sarajeva-i-zenice/866126",
-          "source": "Crna hronika"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -118,10 +118,10 @@
           "source": "Blic"
         },
         {
-          "title": "Serija razornih zemljotresa pogodila Indoneziju, najjači imao 7,7 Rihtera: Izdato upozorenje na cunami!",
+          "title": "Snažan zemljotres magnitude 7,7 pogodio obalu Indonezije, najmanje petoro mrtvih",
           "snippet": "",
-          "url": "https://www.telegraf.rs/vesti/svet/4378654-serija-razornih-zemljotresa-pogodila-indoneziju-najjaci-imao-77-rihtera-izdato-upozorenje-na-cunami",
-          "source": "Telegraf.rs"
+          "url": "https://www.tanjug.rs/svet/hronika/273805/snazan-zemljotres-magnitude-77-pogodio-obalu-indonezije-najmanje-petoro-mrtvih/vest",
+          "source": "tanjug.rs"
         },
         {
           "title": "Zemljotres jačine 5,5 stepeni Rihterove skale pogodio Indoneziju, epicentar kod Molučkih ostrva",
@@ -152,9 +152,9 @@
           "source": "N1"
         },
         {
-          "title": "Gorilo kod Zadra. Šef vatrogasaca: Situacija je pod kontrolom",
+          "title": "VIDEO Velik požar na Dugom otoku, brzo se širi. \"Vatrogasci brane kuće\"",
           "snippet": "",
-          "url": "https://www.index.hr/vijesti/clanak/gori-i-kod-zadra/2823813.aspx",
+          "url": "https://www.index.hr/vijesti/clanak/pozar-na-dugom-otoku/2823900.aspx",
           "source": "Index.hr"
         }
       ],
@@ -174,16 +174,16 @@
           "source": "Klix.ba"
         },
         {
-          "title": "Poznato koliko je navijača pratilo meč Čelika i Širokog Brijega na Bilinom polju",
-          "snippet": "",
-          "url": "https://avaz.ba/sport/nogomet/1065159/poznato-koliko-je-navijaca-pratilo-mec-celika-i-sirokog-brijega-na-bilinom-polju",
-          "source": "Dnevni avaz"
-        },
-        {
           "title": "Široki Brijeg slavio na Bilinom polju, pa Milanović stao pred kameru: \"Ovaj dječiji vrtić...\"",
           "snippet": "",
           "url": "https://sportsport.ba/fudbal/nk-celik-nk-siroki-brijeg-bojan-regoje-izjave/527586",
           "source": "SportSport"
+        },
+        {
+          "title": "Poznato koliko je navijača pratilo meč Čelika i Širokog Brijega na Bilinom polju",
+          "snippet": "",
+          "url": "https://avaz.ba/sport/nogomet/1065159/poznato-koliko-je-navijaca-pratilo-mec-celika-i-sirokog-brijega-na-bilinom-polju",
+          "source": "Dnevni avaz"
         }
       ],
       "link": "https://imtaqin.id/"
