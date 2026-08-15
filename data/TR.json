@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-08-15 04:39:58",
+  "lastUpdate": "2026-08-15 05:01:36",
   "data": [
+    {
+      "title": "çanakkale hava durumu",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 14 Aug 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWkriYfJ-SWwFEd3WIMLuSFimXlUGJVykh9NGOfzEWGOM-5g9GdiTAgKPBge0",
+      "pictureSource": "Çanakkale Boğaz Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Çanakkale’de rüzgar ve yağışlı günler kapıda",
+          "snippet": "",
+          "url": "https://www.bogazgazetesi.com.tr/canakkalede-ruzgar-ve-yagisli-gunler-kapida",
+          "source": "Çanakkale Boğaz Gazetesi"
+        },
+        {
+          "title": "Çanakkale’de 14 Ağustos’ta Sıcaklık 31 Derece Olacak",
+          "snippet": "",
+          "url": "https://www.batiekspres.com/gundem/canakkale-de-14-agustos-ta-sicaklik-31-derece-olacak-200666",
+          "source": "Batı Ekspres"
+        },
+        {
+          "title": "Rüzgarın hızı 73 kilometreyi bulacak!",
+          "snippet": "",
+          "url": "https://canakkalegundem.net/haber/28515995/ruzgarin-hizi-73-kilometreyi-bulacak",
+          "source": "Çanakkale Gündem"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "samsunspor",
       "trafficCount": "100+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://www.sabah.com.tr/spor/futbol/2026/08/15/anadoluda-imza-sov",
           "source": "Sabah"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tekirdağ hava durumu",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 14 Aug 2026 21:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaZ_U8XtZiPHrCyBaMeaPouTuEeKSRJZ4GDj3bYYdIbepmGo-5b0j34uNC1tA",
-      "pictureSource": "Diken",
-      "relatedSearch": [
-        {
-          "title": "12 ilde denize girmek yasaklandı",
-          "snippet": "",
-          "url": "https://www.diken.com.tr/12-ilde-denize-girmek-yasaklandi/",
-          "source": "Diken"
-        },
-        {
-          "title": "Kastamonu'nun Abana ve Cide ilçelerinde fırtına nedeniyle denize girmek yasaklandı",
-          "snippet": "",
-          "url": "https://yerel-haberler.haberturk.com/kastamonu-haberleri/kastamonunun-abana-ve-cide-ilcelerinde-firtina-nedeniyle-denize-girmek-yasaklandi-42212527",
-          "source": "Habertürk"
-        },
-        {
-          "title": "4 ilde denize girme yasağı: Sahillere kırmızı bayrak çekildi",
-          "snippet": "",
-          "url": "https://www.sozcu.com.tr/4-ilde-denize-girme-yasagi-sahillere-kirmizi-bayrak-cekildi-p349436",
-          "source": "Sözcü Gazetesi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -86,6 +86,62 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "tekirdağ hava durumu",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 14 Aug 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaZ_U8XtZiPHrCyBaMeaPouTuEeKSRJZ4GDj3bYYdIbepmGo-5b0j34uNC1tA",
+      "pictureSource": "Diken",
+      "relatedSearch": [
+        {
+          "title": "12 ilde denize girmek yasaklandı",
+          "snippet": "",
+          "url": "https://www.diken.com.tr/12-ilde-denize-girmek-yasaklandi/",
+          "source": "Diken"
+        },
+        {
+          "title": "Kastamonu'nun Abana ve Cide ilçelerinde fırtına nedeniyle denize girmek yasaklandı",
+          "snippet": "",
+          "url": "https://yerel-haberler.haberturk.com/kastamonu-haberleri/kastamonunun-abana-ve-cide-ilcelerinde-firtina-nedeniyle-denize-girmek-yasaklandi-42212527",
+          "source": "Habertürk"
+        },
+        {
+          "title": "Hafta sonu plan yapanlar dikkat! İstanbul dahil birçok ilçede yasaklandı",
+          "snippet": "",
+          "url": "https://www.ntv.com.tr/yerel-haberler/istanbul/hafta-sonu-plan-yapanlar-dikkat-istanbul-dahil-bircok-ilcede-yasaklandi-1737278",
+          "source": "NTV Haber"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "burdur hava durumu",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 14 Aug 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlvVFqnYuhL3lxaD7CPv0ue7kpnPmdTMIpjYb6aDt8Ru7DMj8iBxhJ51U16BM",
+      "pictureSource": "NNC Haber",
+      "relatedSearch": [
+        {
+          "title": "Burdur’da sıcak hava etkisini sürdürüyor! İşte ilçe ilçe hava durumu",
+          "snippet": "",
+          "url": "https://www.nnchaber.com/burdur-da-sicak-hava-etkisini-surduruyor-iste-ilce-ilce-hava-durumu",
+          "source": "NNC Haber"
+        },
+        {
+          "title": "Burdur’da yazın seyri değişiyor: Beklenen haber geldi!",
+          "snippet": "",
+          "url": "https://www.burdurgazetesi.com/haber/28518509/burdurda-yazin-seyri-degisiyor-beklenen-haber-geldi",
+          "source": "Burdur Gazetesi"
+        },
+        {
+          "title": "BURDUR'DA 9 AĞUSTOS HAVA DURUMU",
+          "snippet": "",
+          "url": "https://www.cagdasburdur.com/burdurda-9-agustos-hava-durumu-63243",
+          "source": "Çağdaş Burdur"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "mustafa bilici ak parti",
       "trafficCount": "1000+",
       "pubDate": "Fri, 14 Aug 2026 20:50:00 -0700",
@@ -114,17 +170,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "آبوهوا",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 14 Aug 2026 20:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "denizli hava durumu",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 14 Aug 2026 20:30:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt67xMWjsKA6gq4iBLOdnI5Zq_dl9Q-JkeiZDkqJngekFH6-0i5_tdhtH_gbQ",
       "pictureSource": "Denizli Haber",
@@ -152,7 +199,7 @@
     },
     {
       "title": "kademeli emeklilik",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 14 Aug 2026 20:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTy58WL38wpDdCBa9M6RhNUdihehDoie_vSokqT3coqCRCnDFNpQB-quk6xADw",
       "pictureSource": "Habertürk",
@@ -192,16 +239,16 @@
           "source": "Yeni Alanya"
         },
         {
+          "title": "Antalya’da 13 Ağustos hava durumu Sıcaklıklar 43 dereceye çıkıyor",
+          "snippet": "",
+          "url": "https://www.nnchaber.com/antalya-da-13-agustos-hava-durumu-sicakliklar-43-dereceye-cikiyor",
+          "source": "NNC Haber"
+        },
+        {
           "title": "Antalya’da teknik ekipler, afet nöbetinde",
           "snippet": "",
           "url": "https://www.antalyagundem.com.tr/antalyada-teknik-ekipler-afet-nobetinde",
           "source": "Antalya Gündem Gazetesi"
-        },
-        {
-          "title": "Antalya’da bugün hava nasıl olacak?",
-          "snippet": "",
-          "url": "https://www.haberimizvar.net/antalyada-bugun-hava-nasil-olacak-3427122",
-          "source": "Haberimiz Var"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,34 +277,6 @@
           "snippet": "",
           "url": "https://www.fanatik.com.tr/besiktas/besiktasta-jean-onana-icin-ayrilik-vakti-2634204",
           "source": "Fanatik"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trabzon hava durumu",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 14 Aug 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJisy7jtpTEaydrGuyk2r7EzqdSdaAWBdTImhNOaUAjrgD6yv6ttQpDObjKrM",
-      "pictureSource": "Anadolu Ajansı",
-      "relatedSearch": [
-        {
-          "title": "Karadeniz'de 4 il için gök gürültülü sağanak uyarısı",
-          "snippet": "",
-          "url": "https://www.aa.com.tr/tr/gundem/karadenizde-4-il-icin-gok-gurultulu-saganak-uyarisi/4026035",
-          "source": "Anadolu Ajansı"
-        },
-        {
-          "title": "Meteoroloji'den iki il için gök gürültülü sağanak uyarısı",
-          "snippet": "",
-          "url": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-den-iki-il-icin-gok-gurultulu-saganak-uyarisi-2528742",
-          "source": "Cumhuriyet"
-        },
-        {
-          "title": "Trabzon’da hava değişiyor! Meteoroloji saat vererek uyardı",
-          "snippet": "",
-          "url": "https://www.haber61.net/trabzon/trabzonda-hava-degisiyor-meteoroloji-saat-vererek-uyardi/640557",
-          "source": "Haber61"
         }
       ],
       "link": "https://imtaqin.id/"
