@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-16 09:27:49",
+  "lastUpdate": "2026-08-16 09:51:32",
   "data": [
     {
       "title": "atlas - tigres",
@@ -87,7 +87,7 @@
     },
     {
       "title": "perú",
-      "trafficCount": "10000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 15 Aug 2026 18:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7t184pXXPjT1EIxHAD2Ep1ihylIUc669GO9xGYWancIY4P9s8wTk4YceLGH8",
       "pictureSource": "Primicias",
@@ -229,13 +229,19 @@
       "title": "incendio en riobamba",
       "trafficCount": "200+",
       "pubDate": "Sat, 15 Aug 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUgl0jN4KWBqIjuV6D0Tp9JM-Pn_GzRelRmr5ihO8Mc4iYvHDCUrpmWHpgm5o",
-      "pictureSource": "Teleamazonas",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZU0kiAUN9uESY3dphc95wEwHMDoZ2V_raIJAHAT3vLsqSsgQnG1q5WDBX500",
+      "pictureSource": "El Comercio",
       "relatedSearch": [
         {
-          "title": "Incendio consume un edificio comercial en Riobamba; activos bomberos de 11 ciudades",
+          "title": "Riobamba registra un incendio estructural en el centro este sábado 15 de agosto",
           "snippet": "",
-          "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/incendio-edificio-centro-riobamba-125449/",
+          "url": "https://www.elcomercio.com/actualidad/ecuador/riobamba-registra-incendio-estructural-centro-sabado-15-agosto/",
+          "source": "El Comercio"
+        },
+        {
+          "title": "Incendio en Riobamba moviliza a bomberos de 14 cantones de dos provincias",
+          "snippet": "",
+          "url": "https://www.teleamazonas.com/actualidad/reportajes-24horas/incendio-centro-riobamba-bomberos-125455/",
           "source": "Teleamazonas"
         },
         {
@@ -243,12 +249,6 @@
           "snippet": "",
           "url": "https://www.expreso.ec/ecuador/incendio-genera-evacuacion-preventiva-manzana-centro-riobamba-292591.html",
           "source": "expreso.ec"
-        },
-        {
-          "title": "Incendio estructural en Riobamba movilizó a bomberos de Ambato y Guaranda",
-          "snippet": "",
-          "url": "https://www.eluniverso.com/noticias/ecuador/incendio-estructural-en-riobamba-movilizo-a-bomberos-de-ambato-y-guaranda-nota/",
-          "source": "El Universo"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -257,20 +257,20 @@
       "title": "paramount",
       "trafficCount": "1000+",
       "pubDate": "Sat, 15 Aug 2026 17:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cWmn40zUK4TZXZdbZPa6ilgpaCihLTjThPWp_KCNRjJrAM5lUTDFHiYVXKI",
-      "pictureSource": "Deadline",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrD058IUVWEtR_Md-hWqQbcCZ3OukQ4KBXz-H6TI_Qzu1oVjJ0ejc9GS9h_cg",
+      "pictureSource": "The New York Times",
       "relatedSearch": [
-        {
-          "title": "Paramount-WBD Merger: David Ellison Complains About Cost Of States' Antitrust Suit",
-          "snippet": "",
-          "url": "https://deadline.com/2026/08/paramount-wbd-merger-david-ellison-costs-complaints-1237040803/",
-          "source": "Deadline"
-        },
         {
           "title": "Opinion | David Ellison’s Plan to Move Hollywood to Nashville",
           "snippet": "",
           "url": "https://www.nytimes.com/2026/08/15/opinion/culture/ellison-nashville-paramount-hollywood.html",
           "source": "The New York Times"
+        },
+        {
+          "title": "Paramount-WBD Merger: David Ellison Complains About Cost Of States' Antitrust Suit",
+          "snippet": "",
+          "url": "https://deadline.com/2026/08/paramount-wbd-merger-david-ellison-costs-complaints-1237040803/",
+          "source": "Deadline"
         },
         {
           "title": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
