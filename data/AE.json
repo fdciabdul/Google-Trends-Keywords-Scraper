@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-08-16 06:14:30",
+  "lastUpdate": "2026-08-16 07:00:51",
   "data": [
+    {
+      "title": "weather today",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 15 Aug 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GlqCe-uY1GXEPoULUUthOCtBAvtt85EzoReaYVHsf2EZ-WyIbjy6eQzh1NQ",
+      "pictureSource": "KOHA.net",
+      "relatedSearch": [
+        {
+          "title": "Weather today in Kosovo",
+          "snippet": "",
+          "url": "https://www.koha.net/en/arberi/moti-sot-kryesisht-me-diell-temperaturat-deri-33-grade-celsius",
+          "source": "KOHA.net"
+        },
+        {
+          "title": "Ditë e ngrohtë sot, maksimalja deri në 35 gradë",
+          "snippet": "",
+          "url": "https://reporteri.net/en/NEWS/Warm-day-today--maximum-up-to-35-degrees/",
+          "source": "Reporteri"
+        },
+        {
+          "title": "Hot weather today",
+          "snippet": "",
+          "url": "https://periskopi.com/en/2026/8/hot-weather",
+          "source": "Periskopi"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "icc",
       "trafficCount": "200+",
@@ -25,34 +53,6 @@
           "snippet": "",
           "url": "https://sundayguardianlive.com/india/icc-world-cup-2027-is-october-2-being-considered-as-the-opening-date-to-honour-mahatma-gandhi-heres-what-we-know-so-far-262075/",
           "source": "The Sunday Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "today weather",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 15 Aug 2026 21:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVXF3RJjOugjhAgfmxpPMZDND7w8KMqzXm0CJR7Tbx_S8CZLbXxpgS8C_33BE",
-      "pictureSource": "The Times of India",
-      "relatedSearch": [
-        {
-          "title": "Birmingham weather today: Sunny intervals and mild temperatures expected, 20°C high",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/uk/birmingham-weather-today-sunny-intervals-and-mild-temperatures-expected-20c-high/articleshow/133270163.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Birmingham weather forecast: Sunny skies and mild temperatures expected August 10th",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/uk/birmingham-weather-forecast-sunny-skies-and-mild-temperatures-expected-august-10th/articleshow/133084957.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Birmingham weather forecast: Sunny skies and warm temperatures on August 12, 2026",
-          "snippet": "",
-          "url": "https://timesofindia.indiatimes.com/world/uk/birmingham-weather-forecast-sunny-skies-and-warm-temperatures-on-august-12-2026/articleshow/133171152.cms",
-          "source": "The Times of India"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,7 +87,7 @@
     },
     {
       "title": "weather sharjah",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 15 Aug 2026 21:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfk35b-C35yI6C9MdNcserf_tHiNkjUrL-shvn4lA3dAWKvgFCPEO7BhVbsIo",
       "pictureSource": "The National",
@@ -99,9 +99,9 @@
           "source": "The National"
         },
         {
-          "title": "UAE weather: Fog alert issued; slight dip in temperatures expected",
+          "title": "UAE weather: Red, yellow alerts issued for fog; light rainfall expected",
           "snippet": "",
-          "url": "https://www.khaleejtimes.com/uae/weather/august-15-2026",
+          "url": "https://www.khaleejtimes.com/uae/weather/august-16-2026",
           "source": "Khaleej Times"
         },
         {
@@ -114,8 +114,36 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "cricinfo",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 15 Aug 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCkFzJdgvuBf1se_lZySYN26w92raUiMt2kYKpCmL-lSyoKLq1WJLrfCTOoYA",
+      "pictureSource": "Cricinfo",
+      "relatedSearch": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - SL vs IND, 1st Test",
+          "snippet": "",
+          "url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-1st-test-1544001/ball-by-ball-commentary",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "India vs Sri Lanka: KL Rahul, Paddikal resume charge after rain",
+          "snippet": "",
+          "url": "https://gulfnews.com/sport/cricket/india-vs-sri-lanka-kl-rahul-paddikal-resume-charge-after-rain-1.500641867",
+          "source": "Gulf News"
+        },
+        {
+          "title": "1st Test SL vs India Updates: Rain delays start on Day 2 in Galle",
+          "snippet": "",
+          "url": "https://www.rediff.com/cricket/commentary/2026/aug/16/liveupdates.htm",
+          "source": "Rediff"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "live cricket",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Sat, 15 Aug 2026 21:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6zdOzotAgTmklRgNFYlNm18jr0TBByVa1oZd7DURJl2hnSwlOQCm13LPjnQ4",
       "pictureSource": "Cricket World",
@@ -161,10 +189,10 @@
           "source": "Gulf News"
         },
         {
-          "title": "‘Win is still in our mind’",
+          "title": "Four 300-wicket bowlers could not stop Bangladesh",
           "snippet": "",
-          "url": "https://www.daily-sun.com/winner/892495",
-          "source": "www.daily-sun.com"
+          "url": "https://en.banglanews24.com/sports/news/bd/194939.details",
+          "source": "Banglanews24"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +217,10 @@
           "source": "MMAWeekly.com"
         },
         {
-          "title": "'This is not a good look'... Mackenzie Dern slammed by Joe Rogan during fight with Gillian Robertson at UFC 330",
+          "title": "Mackenzie Dern Post-Fight Press Conference | UFC 330",
           "snippet": "",
-          "url": "https://www.sporf.com/this-is-not-a-good-look-mackenzie-dern-slammed-by-joe-rogan-during-fight-with-gillian-robertson-at-ufc-330/",
-          "source": "SPORF"
+          "url": "https://www.ufc.com/video/159287",
+          "source": "UFC.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -210,54 +238,26 @@
       "title": "погода",
       "trafficCount": "100+",
       "pubDate": "Sat, 15 Aug 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsrMB03_PF7dFOwulKPHyg05DCwI5ldazLIOB9bwkmPgA-phow5V41QRSkU7Y",
-      "pictureSource": "Vesty.co.il",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAuBHAyElS6XHmRKTiugSKMYGHL4iYwwEYe9ma-4YiocG0gdGiAG4TXBa_foQ",
+      "pictureSource": "Новости города Шахты - Шахтинские известия",
       "relatedSearch": [
         {
-          "title": "Рекорд августа по осадкам и риск новых затоплений: что происходит с погодой в Израиле",
+          "title": "15 августа — прогноз погоды и метеопредупреждения",
           "snippet": "",
-          "url": "https://www.vesty.co.il/main/article/bkqn3n0ifl",
-          "source": "Vesty.co.il"
+          "url": "https://shakhty-media.ru/15-avgusta-prognoz-pogody-i-meteopreduprezhdeniya/",
+          "source": "Новости города Шахты - Шахтинские известия"
         },
         {
-          "title": "Пекло возвращается – прогноз погоды на ближайшие дни",
+          "title": "Синоптики обновили данные: погода на выходных готовит сюрпризы",
           "snippet": "",
-          "url": "https://cursorinfo.co.il/weather/peklo-vozvrashhaetsya-prognoz-pogody-na-blizhajshie-dni/",
-          "source": "Cursorinfo"
+          "url": "https://gorodovoy.ru/news/sinoptiki-obnovili-dannye-pogoda-na-vyhodnyh-gotovit-syurprizy_id911106_a192_c1248_dp260815",
+          "source": "Городовой"
         },
         {
-          "title": "В восточных районах Иерусалима и в Маале-Адумим зафиксированы затопления - NEWSru.co.il",
+          "title": "Где-то — ливни, где-то — жара: прогноз погоды в России на выходные",
           "snippet": "",
-          "url": "https://www.newsru.co.il/israel/15aug2026/maale821.html",
-          "source": "NEWSru.co.il"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "मौसम",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 15 Aug 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7rqRsMJgv2N2RQt6Oz1H3nZQAOQGSL78jR54COfbu4iVeobb6dUhkIxdax8",
-      "pictureSource": "Dainik Bhaskar",
-      "relatedSearch": [
-        {
-          "title": "उमस बढ़ी, अब तक सामान्य से 14% कम बरसात, जानिए अगले सप्ताह कैसा रहेगा मौसम",
-          "snippet": "",
-          "url": "https://www.bhaskar.com/g/local/rajasthan/jodhpur/news/jodhpur-monsoon-rain-deficit-weather-update-august-2026-138741740.html",
-          "source": "Dainik Bhaskar"
-        },
-        {
-          "title": "जोधपुर में सामान्य से 10 प्रतिशत कम बारिश: अगले 6 दिन के लिए कोई अलर्ट नहीं; अधिकतम तापमान 34 डिग्री दर्ज",
-          "snippet": "",
-          "url": "https://www.bhaskar.com/local/rajasthan/jodhpur/news/jodhpur-weather-update-rain-forecast-dry-spell-monsoon-deficiency-138733479.html",
-          "source": "Dainik Bhaskar"
-        },
-        {
-          "title": "जोधपुर में आज हल्की बारिश का अलर्ट: अधिकतम तापमान 2.6 डिग्री बढ़कर 33.3 डिग्री तक पहुंचा, जानिए आगे कैसा रह...",
-          "snippet": "",
-          "url": "https://www.bhaskar.com/g/local/rajasthan/jodhpur/news/jodhpur-weather-update-rain-alert-cloudy-sky-forecast-138723177.html",
-          "source": "Dainik Bhaskar"
+          "url": "https://pogoda.mail.ru/news/71995421/",
+          "source": "Погода Mail"
         }
       ],
       "link": "https://imtaqin.id/"
