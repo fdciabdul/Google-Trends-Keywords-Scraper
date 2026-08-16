@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "2026-08-16 11:54:19",
+  "lastUpdate": "2026-08-16 12:24:03",
   "data": [
+    {
+      "title": "lluvia",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 16 Aug 2026 04:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWOc53mzkJ3TbsThiRQZsSOgPC9iGM7OdBej_T8CWDa_GK3JSlGQA0SHXHIK8",
+      "pictureSource": "Milenio",
+      "relatedSearch": [
+        {
+          "title": "Clima en CdMx HOY 16 de agosto: SMN prevé un domingo con lluvias, chubascos y frío en zonas altas",
+          "snippet": "",
+          "url": "https://www.milenio.com/el-clima/pronostico-clima-cdmx-hoy-16-agosto-2026-smn-lluvias-chubascos-frio",
+          "source": "Milenio"
+        },
+        {
+          "title": "Lluvias fuertes, granizo y posible caída de ceniza del Popocatépetl este sábado en Cdmx",
+          "snippet": "",
+          "url": "https://sociedad-noticias.com/2026/08/15/lluvias-fuertes-granizo-y-posible-caida-de-ceniza-del-popocatepetl-este-sabado-en-cdmx/",
+          "source": "Sociedad Noticias"
+        },
+        {
+          "title": "SÁBADO MUY CALUROSO; LLUVIAS FUERTES PUNTUALES POR LA TARDE",
+          "snippet": "",
+          "url": "https://www.proteccioncivil.cdmx.gob.mx/comunicacion/nota/150826B1",
+          "source": "CDMX"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "epicentro",
       "trafficCount": "500+",
@@ -86,34 +114,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "lafc - san diego fc",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 15 Aug 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVhau_Nr0Ll_wN4lM9Ai-nTIiwRhYgRNlD2Pvi_b1He0SwjEUHAbPcrFobZA",
-      "pictureSource": "The Korea Times",
-      "relatedSearch": [
-        {
-          "title": "Son Heung-min's LAFC eliminated from Leagues Cup tournament",
-          "snippet": "",
-          "url": "https://www.koreatimes.co.kr/sports/20260814/son-heung-mins-lafc-eliminated-from-leagues-cup-tournament",
-          "source": "The Korea Times"
-        },
-        {
-          "title": "'Ace without a goal' Son Heung-min created five chances and earned a 7.9 rating... surpassing the scorer Bouanga",
-          "snippet": "",
-          "url": "https://www.starnewskorea.com/en/sports/2026/08/13/2026081322050682781",
-          "source": "스타뉴스"
-        },
-        {
-          "title": "Leagues Cup LAFC Soccer",
-          "snippet": "",
-          "url": "https://www.bdtonline.com/sports/national_sports/leagues-cup-lafc-soccer/image_2196cb1d-7a26-5224-b8ba-1128ed795a48.html",
-          "source": "Bluefield Daily Telegraph"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "cremas",
       "trafficCount": "500+",
       "pubDate": "Sat, 15 Aug 2026 18:30:00 -0700",
@@ -133,10 +133,38 @@
           "source": "La Razón"
         },
         {
-          "title": "Consejos y mitos sobre la protección solar en verano",
+          "title": "El peligroso mito del «callo solar»: por qué exponerte al sol sin protección destruye tu piel",
           "snippet": "",
-          "url": "https://www.ondacero.es/emisoras/comunidad-valenciana/alzira/audios-podcast/mas-de-uno/consejos-mitos-proteccion-solar-verano_202608136a7db416a5690f047377abcb.html",
-          "source": "Onda Cero"
+          "url": "https://radiopopular.com/podcast/el-peligroso-mito-del-callo-solar-por-que-exponerte-al-sol-sin-proteccion-destruye-tu-piel",
+          "source": "Radio Popular de Bilbao"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "mls",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 15 Aug 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyWKaJ5WXRhE3EB76vCHYYB7_wsHSmJ3m79PvRWSfNpzzYeFPBNxTDPNeHGFE",
+      "pictureSource": "Korea JoongAng Daily",
+      "relatedSearch": [
+        {
+          "title": "Son Heung-min's MLS scoring streak snapped at 4 matches",
+          "snippet": "",
+          "url": "https://www.koreajoongangdaily.com/sports/son-heungmins-mls-scoring-streak-snapped-at-4-matches/12827192",
+          "source": "Korea JoongAng Daily"
+        },
+        {
+          "title": "Licensable video: Los Angeles FC loses 1-0 at home in Leagues Cup",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/los-angeles-fc-loses-1-0-at-home-in-leagues-cup/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxMTU2NDg4MDAx",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Alvarado 'embodies relentless never-say-die attitude', says Varas",
+          "snippet": "",
+          "url": "https://www.beinsports.com/en-us/soccer/mls/articles/alvarado-embodies-relentless-never-say-die-attitude-says-varas-2026-08-15",
+          "source": "beIN SPORTS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -239,44 +267,16 @@
           "source": "TyC Sports"
         },
         {
-          "title": "EN VIVO. Después del golpe en la Sudamericana, Boca vuelve al torneo y enfrenta al Platense de Palermo en Vicente López: Empatan 0 a 0",
+          "title": "En una gran noche de Álvaro Montero, Boca Juniors salvó un punto contra Platense en un partido con polémica | Video",
           "snippet": "",
-          "url": "https://www.gentedesalta.com/deportes/en-vivo-despues-golpe-sudamericana-boca-vuelve-torneo-enfrenta-platense-palermo-vicente-lopez-empatan-0-0-n10902",
-          "source": "Gente de Salta"
+          "url": "https://www.eltiempo.com/deportes/futbol-internacional/en-una-gran-noche-de-alvaro-montero-boca-juniors-salvo-un-punto-contra-platense-en-un-partido-con-polemica-video-3578705",
+          "source": "El Tiempo"
         },
         {
           "title": "Boca rescata empate ante Platense en el reencuentro Palermo-Arruabarrena en los banquillos",
           "snippet": "",
           "url": "https://www.infobae.com/espana/agencias/2026/08/16/boca-rescata-empate-ante-platense-en-el-reencuentro-palermo-arruabarrena-en-los-banquillos/",
           "source": "Infobae"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "montréal - dc united",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 15 Aug 2026 16:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO2-h7pEqhifhCX0XuVdriFzbcYptwWrQPtzjVB-Adil4dV7WnD7Uc1GrfFcE",
-      "pictureSource": "iNFOnews.ca",
-      "relatedSearch": [
-        {
-          "title": "CF Montreal celebration of the past spoiled by 1-1 draw with D.C. United",
-          "snippet": "",
-          "url": "https://infonews.ca/news/7810961/cf-montreal-celebration-of-the-past-spoiled-by-1-1-draw-with-dc-united/",
-          "source": "iNFOnews.ca"
-        },
-        {
-          "title": "Baribo scores a goal, Johnson has 5 saves for DC United in 1-1 tie with Montreal",
-          "snippet": "",
-          "url": "https://abcnews.com/Sports/wireStory/baribo-scores-goal-johnson-5-saves-dc-united-135682633",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Post-Match Facts | #MTLvDC",
-          "snippet": "",
-          "url": "https://www.dcunited.com/news/post-match-facts-mtlvdc-x1361",
-          "source": "D.C. United"
         }
       ],
       "link": "https://imtaqin.id/"
