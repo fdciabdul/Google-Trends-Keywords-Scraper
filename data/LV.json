@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-17 17:05:34",
+  "lastUpdate": "2026-08-17 17:38:29",
   "data": [
     {
       "title": "паланга",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 09:20:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH7WJ7tpbztOsCv_HPEO-0vow1-t2vAKUFNIs8sAv1E7lJYqHyCn5ezm9U6So",
       "pictureSource": "Delfi",
@@ -31,7 +31,7 @@
     },
     {
       "title": "lidosta",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 08:20:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8m3wDufVFQ0XDyeZyfYoP4SjYYG8LTNOLFEoQzsbxh6SpAausrhZ1f5IJ3ZM",
       "pictureSource": "LA.LV",
@@ -145,15 +145,9 @@
       "title": "атмосферные осадки",
       "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiZoy6kMRv_PJft3POs9y4TfksOXOCvkUtqfGnPKgEvegVT_NMYZ4BukBf9v4",
-      "pictureSource": "LSM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQppO57LicIcLAiMCsegcN8kmNM-irDv7yR3HQJ9_mDeWOXgR-Sd2oDH-o5QG0",
+      "pictureSource": "DELFI",
       "relatedSearch": [
-        {
-          "title": "В начале недели в Латвии будет дождливо и прохладно / Статья",
-          "snippet": "",
-          "url": "https://rus.lsm.lv/statja/novosti/pogoda/17.08.2026-v-nacale-nedeli-v-latvii-budet-dozdlivo-i-proxladno.a659103/",
-          "source": "LSM"
-        },
         {
           "title": "Синоптики: в ночь на вторник ожидаются дожди и туман",
           "snippet": "",
@@ -161,10 +155,16 @@
           "source": "DELFI"
         },
         {
-          "title": "В понедельник местами возможны сильные ливни и грозы",
+          "title": "В начале недели в Латвии будет дождливо и прохладно / Статья",
           "snippet": "",
-          "url": "https://rus.tvnet.lv/8528349/v-ponedelnik-mestami-vozmozhny-silnye-livni-i-grozy",
-          "source": "rus tvnet"
+          "url": "https://rus.lsm.lv/statja/novosti/pogoda/17.08.2026-v-nacale-nedeli-v-latvii-budet-dozdlivo-i-proxladno.a659103/",
+          "source": "LSM"
+        },
+        {
+          "title": "Латвию накрывают грозовые облака: в ближайшие часы ожидаются сильные ливни и ветер",
+          "snippet": "",
+          "url": "https://news.inbox.lv/150mugk-latviu-nakryvaut-grozovye-oblaka-v-blizajsie-casy-ozidautsa-sil-nye-livni-i-veter?language=ru&source=portal",
+          "source": "Inbox.lv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +189,10 @@
           "source": "Forbes.ru"
         },
         {
-          "title": "В возрасте 36 лет умерла американская актриса Хейден Панеттьери / Статья",
+          "title": "В возрасте 36 лет скончалась голливудская актриса Хайден Панеттьери",
           "snippet": "",
-          "url": "https://rus.lsm.lv/statja/kultura/kino/17.08.2026-v-vozraste-36-let-umerla-amerikanskaya-aktrisa-xeiden-panetteri.a659112/",
-          "source": "LSM"
+          "url": "https://rus.delfi.lv/life/55355270/ljudi/120130571/v-vozraste-36-let-skonchalas-gollivudskaya-aktrisa-hayden-panetteri",
+          "source": "DELFI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -211,16 +211,16 @@
           "source": "Росбалт"
         },
         {
-          "title": "В Вологде ушел из жизни народный артист России Леонид Рудой",
-          "snippet": "",
-          "url": "http://www.severinfo.ru/culture/92024-v-vologde-ushel-iz-zhizni-narodnyj-artist-rossii-leonid-rudoj.html",
-          "source": "СеверИнфо"
-        },
-        {
           "title": "Народный артист России Леонид Рудой ушел из жизни в возрасте 80 лет",
           "snippet": "",
           "url": "https://gazeta.spb.ru/2664369-narodnyj-artist-rossii-leonid-rudoj-ushel-iz-zhizni-v-vozraste-80-let/",
           "source": "Газета СПБ РУ"
+        },
+        {
+          "title": "В Вологде ушел из жизни народный артист России Леонид Рудой",
+          "snippet": "",
+          "url": "http://www.severinfo.ru/culture/92024-v-vologde-ushel-iz-zhizni-narodnyj-artist-rossii-leonid-rudoj.html",
+          "source": "СеверИнфо"
         }
       ],
       "link": "https://imtaqin.id/"

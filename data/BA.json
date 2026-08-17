@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-17 17:05:18",
+  "lastUpdate": "2026-08-17 17:38:09",
   "data": [
     {
       "title": "hšk zrinjski mostar",
@@ -21,11 +21,30 @@
     },
     {
       "title": "ukrajina",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 09:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRllSUSIPM7WYFfOWg-Xko2WXkDO_MO6PuZhbtzaCK0zsCsP4sA7xmw8vBgnGQ",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Russia and Ukraine trade more deadly strikes",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/articles/cn7n4lm11vro",
+          "source": "BBC"
+        },
+        {
+          "title": "Ukraine attacks Russia with hundreds of drones - one of Kyiv’s largest assaults of the conflict",
+          "snippet": "",
+          "url": "https://edition.cnn.com/2026/08/15/europe/russia-moscow-ukraine-air-attack-intl",
+          "source": "CNN"
+        },
+        {
+          "title": "At least seven people killed in Ukrainian air attacks on Russia",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod",
+          "source": "Al Jazeera"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -66,23 +85,26 @@
       "title": "омиш",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 07:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "vatra",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 17 Aug 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1znNrM0oDS3Pw3z8SE4Ds5YdaYpZumKS5S9mzUYuk5czlU3XzkWaoJuNWhOo",
-      "pictureSource": "Portal.hr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQyHl8Dk9ftS4IpzgahIzfGutxvi2IxXM4UV4cqBz12rvDIdbbCZFGAnxK6Po",
+      "pictureSource": "NV",
       "relatedSearch": [
         {
-          "title": "Fire near Omiš: 40 patients treated at the hospital, seven on ventilators",
+          "title": "Жителей и туристов эвакуируют. Хорватию охватил лесной пожар, который называют «одним из самых страшных» в истории страны — фоторепортаж",
           "snippet": "",
-          "url": "https://www.portal.hr/en/novosti/hr/112088-pozar-omisa-bolnici-zbrinuto-40-pacijenata-sedam",
-          "source": "Portal.hr"
+          "url": "https://nv.ua/world/countries/lesnoy-pozhar-v-horvatii-pogibshie-i-desyatki-postradavshih-na-poberezhe-50632822.html",
+          "source": "NV"
+        },
+        {
+          "title": "В Хорватии тушат крупный лесной пожар над городом, есть пострадавшие",
+          "snippet": "",
+          "url": "https://www.eurointegration.com.ua/rus/news/2026/08/14/7243480/",
+          "source": "Європейська правда"
+        },
+        {
+          "title": "В Хорватии задержали четверых подозреваемых в поджогах лесов",
+          "snippet": "",
+          "url": "https://ua.news/ru/world/u-khorvatiyi-zatrimali-chotirokh-pidozriuvanikh-u-pidpalakh-lisiv",
+          "source": "UA.NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -103,6 +125,34 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "косово",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 17 Aug 2026 02:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1AJ_FdafLhP_4QDvtgZgBpkL2n2raW_iqzTZawLeOamnQy-3c-pkB6ORSDVI",
+      "pictureSource": "Українська правда",
+      "relatedSearch": [
+        {
+          "title": "Сербия между Украиной и РФ: зачем Зеленский ездил в Белград и поссорился с Косово",
+          "snippet": "",
+          "url": "https://www.pravda.com.ua/rus/podcasts/podkast-klyati-pitannya/2026/08/13/8048556/",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Дипломатическая почта: Зеленский в Белграде",
+          "snippet": "",
+          "url": "https://www.obozrevatel.com/politics-news/diplomaticheskaya-pochta-zelenskij-v-belgrade.htm",
+          "source": "Obozrevatel"
+        },
+        {
+          "title": "МИД РФ отреагировал на визит украинского президента в Белград",
+          "snippet": "",
+          "url": "https://glavny.tv/last-news/politics-news/mid-rf-otreagiroval-na-vizit-ukrainskogo-prezidenta-v-belgrad/",
+          "source": "Главный Региональный"
+        }
+      ],
       "link": "https://imtaqin.id/"
     }
   ]
