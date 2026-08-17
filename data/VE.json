@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-08-17 14:37:03",
+  "lastUpdate": "2026-08-17 14:58:08",
   "data": [
     {
       "title": "pdvsa gas",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRj7lTad_cIKiQMrhOAoXdmEw_LtzvWls-q6NvppT9DNf5XSgedhjrJA4gBZ1c",
-      "pictureSource": "El Periodiquito",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQLvT950rtl6kS3UWQdRMDgZGhGTvEjGhZzN-_OPc13PNyzc0I0H4iu-GdTf0",
+      "pictureSource": "Banca y Negocios",
       "relatedSearch": [
-        {
-          "title": "Gas natural puede solucionar problema de la energía eléctrica",
-          "snippet": "",
-          "url": "https://elperiodiquito.com/venezuela/108191/gas-natural-puede-solucionar-problema-de-la-energia-electrica/",
-          "source": "El Periodiquito"
-        },
         {
           "title": "Dato: PDVSA estableció un plan para incorporar a finales de año gas metano al sistema termoeléctrico",
           "snippet": "",
           "url": "https://www.bancaynegocios.com/dato-pdvsa-establecio-un-plan-para-incorporar-a-finales-de-ano-gas-metano-al-sistema-termoelectrico/",
           "source": "Banca y Negocios"
+        },
+        {
+          "title": "Gas natural puede solucionar problema de la energía eléctrica",
+          "snippet": "",
+          "url": "https://elperiodiquito.com/venezuela/108191/gas-natural-puede-solucionar-problema-de-la-energia-electrica/",
+          "source": "El Periodiquito"
         },
         {
           "title": "Consultor en energía cree que uso del gas natural ayudaría al sistema eléctrico venezolano",
@@ -31,16 +31,16 @@
     },
     {
       "title": "etna",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 17 Aug 2026 06:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGyHytucdpHM7adLLY-aOJeyIH20mKy4Bg-6chnqysCZsfUbeeeanYTBO-ko",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGijTljmUlx_SOvuGLme93O5yTY-gmrVbX2rcCkk4w-VT2SebxlwaecyGIujg",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "US hiker dies after being struck by lightning on Mount Etna",
+          "title": "US tourist dies after being struck by lightning on Italy’s Mount Etna",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/ce34rlkw6q7o",
-          "source": "BBC"
+          "url": "https://www.theguardian.com/world/2026/aug/17/tourist-dies-lightning-strike-italy-mount-etna",
+          "source": "The Guardian"
         },
         {
           "title": "On Erupting Volcano, It's the Lightning That's Deadly",
@@ -49,10 +49,10 @@
           "source": "Newser"
         },
         {
-          "title": "US tourist killed by lightning strike on Mount Etna during hike in restricted area",
+          "title": "Kansas man fatally struck by lightning while hiking closed area of Mount Etna",
           "snippet": "",
-          "url": "https://www.radioroyal.org/news/news/us-tourist-killed-by-lightning-strike-on-mount-etna-during-hike-in-restricted-area/",
-          "source": "Radio Royal"
+          "url": "https://www.nxsmediawire.com/news/kansas-man-fatally-struck-by-lightning-while-hiking-closed-area-of-mount-etna/",
+          "source": "https://www.nxsmediawire.com/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,15 +89,9 @@
       "title": "fútbol club barcelona",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 03:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1-QZYTpZm-o_UCB4RqDcHTyUmQYREgglyVtl8VYzAO6iv4KKoLFMLMhRUYYY",
-      "pictureSource": "Diario AS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUAg-BP-NoMiuNc9i0g7ulLzO2zXkysGa6BaBKf5j6EoNlazcCC0T08Hvq5ww",
+      "pictureSource": "MARCA",
       "relatedSearch": [
-        {
-          "title": "Cancelo llega gratis con más ambición que nunca",
-          "snippet": "",
-          "url": "https://as.com/futbol/cancelo-llega-gratis-con-mas-ambicion-que-nunca-f202608-n/",
-          "source": "Diario AS"
-        },
         {
           "title": "Cancelo ya está en Barcelona: \"Le dije a Deco que o venía o estaba un año sin jugar\"",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "MARCA"
         },
         {
-          "title": "¡Cancelo, en Barcelona! \"He hecho un esfuerzo y he podido salir libre\"",
+          "title": "Cancelo se desvincula del Al Hilal y llegará al Barça como agente libre",
           "snippet": "",
-          "url": "https://www.sport.es/es/noticias/barca/cancelo-barcelona-cerrar-regreso-barca-133428804",
-          "source": "SPORT"
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260816/1004216655/cancelo-desvincula-hillal-llegara-barca-agente-libre.html",
+          "source": "Mundo Deportivo"
+        },
+        {
+          "title": "Cancelo llega gratis con más ambición que nunca",
+          "snippet": "",
+          "url": "https://as.com/futbol/cancelo-llega-gratis-con-mas-ambicion-que-nunca-f202608-n/",
+          "source": "Diario AS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +183,16 @@
           "source": "MacRumors"
         },
         {
+          "title": "Foxconn Is Paying $1,230 Bonuses to Build iPhones, and Apple's September Event Date Just Leaked",
+          "snippet": "",
+          "url": "https://www.androidheadlines.com/2026/08/foxconn-is-paying-1230-bonuses-to-build-iphones-and-apples-september-event-date-just-leaked.html",
+          "source": "Android Headlines"
+        },
+        {
           "title": "iPhone 18 Pro Max Battery Leak: Big Surprise In Store",
           "snippet": "",
           "url": "https://www.esquireindia.co.in/tech-and-auto/gadgets/iphone-18-pro-max-battery-leak-5567mah-iphone-18-pro-battery-4288mah-launch-date-september-2026",
           "source": "Esquire India"
-        },
-        {
-          "title": "iPhone 18 may get a significant bump in RAM after all - GSMArena.com news",
-          "snippet": "",
-          "url": "https://www.gsmarena.com/iphone_18_may_get_a_significant_bump_in_ram_after_all-news-74147.php",
-          "source": "GSMArena.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,26 +201,26 @@
       "title": "hayden panettiere",
       "trafficCount": "10000+",
       "pubDate": "Sun, 16 Aug 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNGdXV1ohLgl0qVRVEFhAbWu7rqcB3qU1lsQq1BWnHR8nIbKMRNq06sPCTZE0",
-      "pictureSource": "Fox News",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUeK3o8bf85xQ3Y-9D1n_YIPUiotNgZrrc3vvb_sZl1kp394pllgBfMbExNdE",
+      "pictureSource": "CNN",
       "relatedSearch": [
+        {
+          "title": "Hayden Panettiere, actress in ‘Heroes’ and ‘Nashville,’ dies at 36",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "Hayden Panettiere death – What we know as police reveal new details",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/17/hayden-panettiere-death-cause-news-greenville-south-carolina/91334604007/",
+          "source": "USA Today"
+        },
         {
           "title": "Tributes pour in for Hayden Panettiere; 'Nashville' star dead at 36",
           "snippet": "",
           "url": "https://www.foxnews.com/live-news/hayden-panettiere-actress-death",
           "source": "Fox News"
-        },
-        {
-          "title": "Actress Hayden Panettiere, star of ‘Heroes’ and ‘Nashville,’ dies at 36",
-          "snippet": "",
-          "url": "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "Hayden Panettiere Suffered Apparent Overdose, Was Unresponsive When Authorities Responded",
-          "snippet": "",
-          "url": "https://people.com/hayden-panettiere-suffered-apparent-overdose-was-unresponsive-as-advanced-life-support-was-administered-before-death-12061106",
-          "source": "People.com"
         }
       ],
       "link": "https://imtaqin.id/"

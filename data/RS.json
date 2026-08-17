@@ -1,15 +1,6 @@
 {
-  "lastUpdate": "2026-08-17 14:36:51",
+  "lastUpdate": "2026-08-17 14:57:57",
   "data": [
-    {
-      "title": "18. август",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 17 Aug 2026 07:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
     {
       "title": "н1",
       "trafficCount": "100+",
@@ -36,6 +27,15 @@
           "source": "Rtk.co.rs"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "18. август",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 17 Aug 2026 07:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -108,10 +108,10 @@
           "source": "B92"
         },
         {
-          "title": "Ružić o Dačićevoj najavi o samostalnom izlasku SPS na izbore: Dobar prvi korak, ali formalna odluka bi bila lekovita",
+          "title": "Dačić: SPS samostalno izlazi na izbore",
           "snippet": "",
-          "url": "https://www.danas.rs/vesti/politika/ruzic-dacic-izbori-sps/",
-          "source": "Danas"
+          "url": "https://www.blic.rs/vesti/politika/dacic-sps-samostalno-izlazi-na-izbore/8m5v1ks",
+          "source": "Blic"
         },
         {
           "title": "Дачић: СПС самостално на изборе, имаћемо и свог кандидата за председника",
@@ -170,10 +170,10 @@
           "source": "РТС"
         },
         {
-          "title": "Ovi lekovi su od danas jeftiniji – ispunjeno Vučićevo obećanje; Lončar: \"Trajna mera\"",
+          "title": "Мали: Још једно испуњено обећање, од данас 18 нових лекова на рецепт",
           "snippet": "",
-          "url": "https://www.b92.net/info/politika/259572/ovi-lekovi-su-od-danas-jeftiniji-ispunjeno-vucicevo-obecanje-loncar-trajna-mera/vest",
-          "source": "B92"
+          "url": "https://www.politika.rs/scc/clanak/779002/mali-jos-jedno-ispunjeno-obecanje-od-danas-18-novih-lekova-na-recept",
+          "source": "Politika"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,16 +192,16 @@
           "source": "Blic"
         },
         {
-          "title": "Policija otkrila nove detalje požara kod Zadra: Četvorka osumnjičena da je planski palila na 10 lokacija, kod njih pronađeni puška i pištolj",
-          "snippet": "",
-          "url": "https://nova.rs/vesti/svet/policija-otkrila-nove-detalje-pozara-kod-zadra-cetvorka-osumnjicena-da-je-planski-palila-na-10-lokacija-kod-njih-pronadjeni-puska-i-pistolj/",
-          "source": "Nova.rs"
-        },
-        {
           "title": "Policija objavila: Tri hrvatska državljanina i Poljakinja zapalili požar na 10 mesta, imali i poluautomatsko oružje",
           "snippet": "",
           "url": "https://www.danas.rs/svet/region/policija-tri-hrvatska-drzavljanina-i-poljakinja/",
           "source": "Danas"
+        },
+        {
+          "title": "Uhapšene četiri osobe zbog sumnje da su podmetale požare kod Zadra",
+          "snippet": "",
+          "url": "https://n1info.rs/region/uhapsene-cetiri-osobe-zbog-sumnje-da-su-podmetale-pozare-kod-zadra/",
+          "source": "N1"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -219,20 +219,20 @@
       "title": "фк ланс",
       "trafficCount": "2000+",
       "pubDate": "Mon, 17 Aug 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqRXLD3qVpq4knbQnmo7_JWrjWHzABqZHY_51QTa9UFAjiw8QkhvUD-PtTjTg",
-      "pictureSource": "https://www.championat.ru/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnwWNB_VZl9I77J6rU8Ye_udW_7TG2Xr7t7BnK891QTVcCAzIMoTG4mzbfbA4",
+      "pictureSource": "Спорт Mail",
       "relatedSearch": [
-        {
-          "title": "Названа оценка Сафонова за матч Суперкубка Франции, Забарный — лучший в «ПСЖ» — Sofascore",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6585364-nazvana-ocenka-safonova-za-match-superkubka-francii-zabarnyj-luchshij-v-pszh-sofascore.html",
-          "source": "https://www.championat.ru/"
-        },
         {
           "title": "Тренер «Ланса»: мы никого не боимся и мы можем обыграть любого",
           "snippet": "",
           "url": "https://sportmail.ru/article/football-foreign/72016387/",
           "source": "Спорт Mail"
+        },
+        {
+          "title": "Названа оценка Сафонова за матч Суперкубка Франции, Забарный — лучший в «ПСЖ» — Sofascore",
+          "snippet": "",
+          "url": "https://www.championat.ru/football/news-6585364-nazvana-ocenka-safonova-za-match-superkubka-francii-zabarnyj-luchshij-v-pszh-sofascore.html",
+          "source": "https://www.championat.ru/"
         },
         {
           "title": "ПСЖ с Забарным неожиданно уступил Лансу в матче за Суперкубок Франции",

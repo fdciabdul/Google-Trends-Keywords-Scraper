@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-17 14:36:30",
+  "lastUpdate": "2026-08-17 14:57:40",
   "data": [
     {
       "title": "európai bizottság",
@@ -31,7 +31,7 @@
     },
     {
       "title": "hír tv",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 07:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBNwO5jEXEvxi0_lyZ1cdJ7mk32TdUdXm50xBCxWKQW0ZdGolLxKqFjPDoArc",
       "pictureSource": "| hvg.hu",
@@ -59,7 +59,7 @@
     },
     {
       "title": "munkaerőhiány",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 06:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibZo744ATeup3G6JP3qnWRf28BiAwFUPI4DhPLKa6DpdMrWuf3LC_yNvOxh8",
       "pictureSource": "Piac&Profit",
@@ -133,10 +133,10 @@
           "source": "Economx"
         },
         {
-          "title": "Gazdaság: Több éves csúcson a dízelár",
+          "title": "Ritkaság, amivel a benzinkutakon szembe találják magukat az autósok",
           "snippet": "",
-          "url": "https://hvg.hu/gazdasag/20260815_tobb-eves-csucson-a-dizelar",
-          "source": "| hvg.hu"
+          "url": "https://mfor.hu/cikkek/makro/ritkasag-amivel-a-benzinkutakon-szembe-talaljak-magukat-az-autosok.html",
+          "source": "Mfor.hu"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -199,11 +199,30 @@
     },
     {
       "title": "nemzetközi gyermekmentő szolgálat",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 17 Aug 2026 04:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLNValj4Y3iqugwdjrc0HwociyCaTq_CNr4Qq6qsMpGrclD8bnXacaPnnWvW8",
+      "pictureSource": "Telex",
+      "relatedSearch": [
+        {
+          "title": "32 év után szüntetett meg az MBH Bank egy mélyszegénységben élő gyereket támogató ösztöndíjprogramot",
+          "snippet": "",
+          "url": "https://telex.hu/gazdasag/2026/08/17/mbh-bank-nemzetkozi-gyermekmento-szolgalat-osztondijprogram-tamogatas-visszavonas",
+          "source": "Telex"
+        },
+        {
+          "title": "Itthon: Magyar Péter: Felszólítom Mészáros Lőrincet, haladéktalanul vonja vissza a döntését",
+          "snippet": "",
+          "url": "https://hvg.hu/itthon/20260817_mbh-bank-meszaros-lorinc-osztondijprogramot-magyar-peter",
+          "source": "| hvg.hu"
+        },
+        {
+          "title": "Magyar Péter: Felszólítom Mészáros Lőrincet és az MBH Bankot",
+          "snippet": "",
+          "url": "https://24.hu/fn/gazdasag/2026/08/17/magyar-peter-mbh-bank-nemzeti-gyermekmento-szolgalat/",
+          "source": "24.hu"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
