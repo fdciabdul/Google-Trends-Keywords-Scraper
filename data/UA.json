@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-17 10:14:31",
+  "lastUpdate": "2026-08-17 10:49:04",
   "data": [
     {
       "title": "овощ",
@@ -31,7 +31,7 @@
     },
     {
       "title": "крымский мост",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 02:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk1R3o-_K6cqYLste5RSjN054o84CPqhm2qNTqKh9MPp6BWJxm2-fApzqH2mA",
       "pictureSource": "Феодосия - новости Феодосии",
@@ -59,7 +59,7 @@
     },
     {
       "title": "17 серпня свято",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 02:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnkojRKlG1D318osl1zv-M7WApqKndm7fpxs7TyC4yKL1UG0WDaDYYqaiRhJA",
       "pictureSource": "УНІАН",
@@ -89,26 +89,54 @@
       "title": "військова служба",
       "trafficCount": "500+",
       "pubDate": "Mon, 17 Aug 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAakBcV_ZExHabMa4cRQgyDQPopAGSQpU6HV4Vt77P5vk73gdFvZBEDMFxxI",
-      "pictureSource": "NV",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTejXOosByEhF_GNZEPug2qgrYFXvkEXx9M0RI5n0xCh7k1A7BlssAfrSGQigk",
+      "pictureSource": "PRAVDA.IF.UA",
       "relatedSearch": [
         {
-          "title": "Три відверті історії. Бійці, що пішли у СЗЧ, а потім повернулись в інші підрозділи, докладно розповідають про те, з чим стикнулися",
+          "title": "На Прикарпатті судили військового, який двічі залишав частину",
           "snippet": "",
-          "url": "https://nv.ua/ukr/ukraine/events/viyna-v-ukrajini-3-istoriji-biyciv-pislya-szch-ta-noviy-mehanizm-vidnovlennya-50632676.html",
-          "source": "NV"
+          "url": "https://pravda.if.ua/na-prykarpatti-sudyly-vijsiokovogo-yakyj-dvichi-zalyshav-chastynu/",
+          "source": "PRAVDA.IF.UA"
         },
         {
-          "title": "«Я пішов у СЗЧ, три місяці сумнівався і повернувся»: «Сонік» відновився на службі за спрощеним механізмом",
+          "title": "Майже два роки не повертався з відпустки, а потім знову залишив військову частину: прикарпатця засудили до 5 років ув’язнення",
           "snippet": "",
-          "url": "https://armyinform.com.ua/2026/08/17/ya-pishov-u-szch-try-misyaczi-sumnivavsya-i-povernuvsya-sonik-vidnovyvsya-na-sluzhbi-za-sproshhenym-mehanizmom/",
-          "source": "ArmyInform"
+          "url": "https://gk-press.if.ua/majzhe-dva-roki-ne-povertavsya-z-vidpustki-a-potim-znovu-zalishiv-vijskovu-chastinu-prikarpatcya-zasudili-do-5-rokiv-uv-yaznennya",
+          "source": "Gk-press.if.ua"
         },
         {
-          "title": "На повернення із СЗЧ за спрощеною процедурою лишився місяць",
+          "title": "Військового з Львівщини посадили у тюрму за 2,5 роки ухилення від служби",
           "snippet": "",
-          "url": "https://che.cn.ua/index.php/viyna/item/na-povernennia-iz-szch-za-sproshchenoiu-protseduroiu-lyshyvsia-misiats/",
-          "source": "Інформаційний портал Чернігівщини"
+          "url": "https://www.ukr.net/ru/news/details/criminal/118905400.html",
+          "source": "UKR.NET"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "віталій кличко",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 17 Aug 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyyZu46zB4MkpCdaw7XRcZMmCPWzeZ3EG2MeyT0bzG06NCXLl7txY1nDmxs34",
+      "pictureSource": "Офіційний портал КМДА",
+      "relatedSearch": [
+        {
+          "title": "Віталій Кличко: Київ отримав від Брюсселя ще 3 пожежних авто",
+          "snippet": "",
+          "url": "https://kyivcity.gov.ua/news/vitaliy_klichko_kiv_otrimav_vid_bryusselya_sche_3_pozhezhnikh_avto/",
+          "source": "Офіційний портал КМДА"
+        },
+        {
+          "title": "Київ отримав ще 3 пожежних авто від Брюссельської служби пожежної охорони",
+          "snippet": "",
+          "url": "https://kyiv.news/bezpeka-kriminal/kyiv-otrymav-shche-3-pozhezhnykh-avto/",
+          "source": "https://kyiv.news/"
+        },
+        {
+          "title": "Брюссель передав Києву три пожежні автомобілі",
+          "snippet": "",
+          "url": "https://kyiv.info/article/bryussel-peredav-kyyevu-try-pozhezhni-avtomobili",
+          "source": "kyiv.info"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -189,10 +217,10 @@
           "source": "LB.ua"
         },
         {
-          "title": "Росіяни різко наростили перекази на рахунки іноземних брокерів на тлі санкцій та виборів до Держдуми, – СЗР",
+          "title": "Росіяни масово виводять гроші за кордон і скуповують валюту на тлі нових санкцій – розвідка",
           "snippet": "",
-          "url": "https://espreso.tv/ekonomika-rosiyani-rizko-narostili-perekazi-na-rakhunki-inozemnikh-brokeriv-na-tli-sanktsiy-ta-viboriv-do-derzhdumi-szr",
-          "source": "Еспресо"
+          "url": "https://www.slovoidilo.ua/2026/08/16/novyna/ekonomika/rosiyany-masovo-vyvodyat-hroshi-kordon-skupovuyut-valyutu-tli-novyx-sankczij-rozvidka",
+          "source": "Слово і Діло"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -249,34 +277,6 @@
           "snippet": "",
           "url": "https://www.ua-football.com/ua/sport/box/1786275695-shestero-ciganiv-zabili-polyaka-vaha-u-frik-poyedinku.html",
           "source": "UA-Football"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "гейден панеттьєр",
-      "trafficCount": "20000+",
-      "pubDate": "Sun, 16 Aug 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcf1l8CbLPZJatUlOc7nK4DCrd33LGb_ZB2WXLpwt-9qseiD7DvAkxSMHQhMI",
-      "pictureSource": "24 Канал",
-      "relatedSearch": [
-        {
-          "title": "Померла американська акторка Панеттьєрі: причини смерті колишньої нареченої Кличка",
-          "snippet": "",
-          "url": "https://24tv.ua/sporttopnews/gayden-panettyeri-kolishnya-narechena-volodimira-klichka-pomerla_n3124617",
-          "source": "24 Канал"
-        },
-        {
-          "title": "\"Скаржилася на біль\": смерть екснареченої Кличка Панеттьєрі розслідує поліція",
-          "snippet": "",
-          "url": "https://www.unian.ua/lite/stars/smert-geyden-panettyeri-policiya-vede-rozsliduvannya-13472232.html",
-          "source": "УНІАН"
-        },
-        {
-          "title": "Втратила матір: як виглядає дочка Володимира Кличка та Гейден Панеттьєрі і де вона зараз. Фото",
-          "snippet": "",
-          "url": "https://www.obozrevatel.com/ukr/shou-oboz/vtratila-matir-yak-viglyadae-dochka-volodimira-klichka-ta-gejden-panetteri-i-de-vona-zaraz-foto.htm",
-          "source": "Obozrevatel"
         }
       ],
       "link": "https://imtaqin.id/"
