@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-08-18 03:27:07",
+  "lastUpdate": "2026-08-18 04:07:17",
   "data": [
     {
-      "title": "gismeteo",
+      "title": "погода",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 17 Aug 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbV_HJSJVDbIwbAvo8O2_5v8HaoDwH3sEUhhNOoT-h6M2VpVRhZNdVdyuzbiU",
+      "pictureSource": "TengriNews",
+      "relatedSearch": [
+        {
+          "title": "Дожди, град и сильный ветер: синоптики предупредили казахстанцев: 18 августа 01:33",
+          "snippet": "",
+          "url": "https://tengrinews.kz/kazakhstan_news/dojdi-grad-silnyiy-veter-sinoptiki-predupredili-606385/",
+          "source": "TengriNews"
+        },
+        {
+          "title": "Гроза ожидается в воскресенье в Астане, в Алматы и Шымкенте без осадков",
+          "snippet": "",
+          "url": "https://kaztag.kz/ru/news/groza-ozhidaetsya-v-voskresene-v-astane-v-almaty-i-shymkente-bez-osadkov",
+          "source": "КазТАГ"
+        },
+        {
+          "title": "Какие регионы Казахстана окажутся в зоне опасных погодных явлений",
+          "snippet": "",
+          "url": "https://www.inform.kz/ru/silnuyu-zharu-prognoziruyut-v-dvuh-regionah-kazahstana-a8b76963",
+          "source": "Казинформ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "orai",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 17 Aug 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkQCQL2WqSTdiGj-MTS4oS8flOACHfORUOrewoiYjeOzWaLyTFOetcwb5E2-I",
+      "pictureSource": "Delfi",
+      "relatedSearch": [
+        {
+          "title": "Nusimato lietingi, bet šilti orai",
+          "snippet": "",
+          "url": "https://www.delfi.lt/naujienos/lietuvoje/nusimato-lietingi-bet-silti-orai-120291237",
+          "source": "Delfi"
+        },
+        {
+          "title": "Orai: artėjančios dienos numatomos lietingos, tačiau netrukus sulauksime pokyčių",
+          "snippet": "",
+          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3025009/orai-artejancios-dienos-numatomos-lietingos-taciau-netrukus-sulauksime-pokyciu",
+          "source": "LRT"
+        },
+        {
+          "title": "Lietuvą užgrius ciklonas Margarete: štai kur pils be perstojo",
+          "snippet": "",
+          "url": "https://www.tv3.lt/naujiena/lietuva/lietuva-uzgrius-ciklonas-margarete-stai-kur-pils-be-perstojo-n1544230",
+          "source": "tv3.lt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "kelių eismo taisyklės",
       "trafficCount": "100+",
+      "pubDate": "Mon, 17 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSoebpw_WabAjYM9nFBq27C5AewGMAZdo-Ws35jfUOjNXp8tPgViv32K5LRcg",
+      "pictureSource": "tv3.lt",
+      "relatedSearch": [
+        {
+          "title": "Vairuotojams – KET pakeitimai: leis važiuoti 140 km/val. greičiu, atsiras nauji kelio ženklai?",
+          "snippet": "",
+          "url": "https://www.tv3.lt/naujiena/verslas/vairuotojams-ket-pakeitimai-leis-vaziuoti-140-km-val-greiciu-atsiras-nauji-kelio-zenklai-n1544433",
+          "source": "tv3.lt"
+        },
+        {
+          "title": "Siūlo KET pakeitimus ir patikslinimus: svarbu vairuotojams, dviratininkams ir paspirtukininkams",
+          "snippet": "",
+          "url": "https://www.15min.lt/verslas/naujiena/saugukelyje-lt/siulo-keisti-keliu-eismo-taisykles-didins-leistina-greiti-automagistralese-keis-dviratininku-lenkimo-tvarka-1662-2744754",
+          "source": "15min.lt"
+        },
+        {
+          "title": "Lietuvos keliuose – netikėtas posūkis: kai kur leistų važiuoti 140 km/val., atsirastų ir nauji KET ženklai",
+          "snippet": "",
+          "url": "https://www.kaipkada.lt/automobiliai/lietuvos-keliuose-netiketas-posukis-kai-kur-leistu-vaziuoti-140-km-val-atsirastu-ir-nauji-ket-zenklai-227068/",
+          "source": "Kaipkada.lt"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gismeteo",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 20:00:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSohrbVbsaU8g9NZzkhbMYq-pGA_B0S6o9uxSosEUY78RFoWAep0E-JeQWKfkk",
       "pictureSource": "Gismeteo",
@@ -25,34 +109,6 @@
           "snippet": "",
           "url": "https://news.zerkalo.io/life/134427.html",
           "source": "Zerkalo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "orai vilnius",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 17 Aug 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkQCQL2WqSTdiGj-MTS4oS8flOACHfORUOrewoiYjeOzWaLyTFOetcwb5E2-I",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Nusimato lietingi, bet šilti orai",
-          "snippet": "",
-          "url": "https://www.delfi.lt/naujienos/lietuvoje/nusimato-lietingi-bet-silti-orai-120291237",
-          "source": "Delfi"
-        },
-        {
-          "title": "Orų permainos jau čia: Lietuvą talžys stichija – dangus maišysis su žeme",
-          "snippet": "",
-          "url": "https://www.tv3.lt/naujiena/lietuva/oru-permainos-jau-cia-lietuva-talzys-stichija-dangus-maisysis-su-zeme-n1544195",
-          "source": "tv3.lt"
-        },
-        {
-          "title": "Sinoptikė prognozuoja permainingą savaitę: vėsesnį orą keis liūtys su perkūnija",
-          "snippet": "",
-          "url": "https://kaunas.kasvyksta.lt/oru-prognozes/sinoptike-prognozuoja-permaininga-savaite-vesesni-ora-keis-liutys-su-perkunija",
-          "source": "Kas vyksta Kaune"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -221,62 +277,6 @@
           "snippet": "",
           "url": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/08/14/news/po-netiketo-v-putino-zingsnio-japonijos-atsakas-43520350",
           "source": "Lrytas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "benedikto turgus",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 17 Aug 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ-pCXodVz-IA5JL1BpCdfyRJKu4nP1CUjhJB98nhL2kMbpZyUIQ34LDf6KWA",
-      "pictureSource": "Delfi",
-      "relatedSearch": [
-        {
-          "title": "Vilniuje uždaromas „Benedikto turgus“",
-          "snippet": "",
-          "url": "https://www.delfi.lt/verslas/naujienos/vilniuje-uzdaromas-benedikto-turgus-120290867",
-          "source": "Delfi"
-        },
-        {
-          "title": "Vilniuje uždaromas „Benedikto turgus“",
-          "snippet": "",
-          "url": "https://www.15min.lt/verslas/naujiena/bendroves/vilniuje-uzdaromas-benedikto-turgus-663-2744690",
-          "source": "15min.lt"
-        },
-        {
-          "title": "Vilniuje uždaromas „Benedikto turgus“",
-          "snippet": "",
-          "url": "https://lnk.lt/straipsniai/visi/vilniuje-uzdaromas-benedikto-turgus-/391495",
-          "source": "LNK.LT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "šarūnas jasikevičius",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 17 Aug 2026 05:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCglB8YlJ_h4h00iAiC7qMtgKIAwIO46AMNXQ1z897523b89i3HLrHJ4VYnXU",
-      "pictureSource": "15min.lt",
-      "relatedSearch": [
-        {
-          "title": "Jasikevičius atsivėrė: pasakė, už kurios šalies rinktinę žais sūnus Lukas",
-          "snippet": "",
-          "url": "https://www.15min.lt/24sek/naujiena/europa/jasikevicius-atsivere-pasake-uz-kurios-salies-rinktine-zais-sunus-lukas-874-2744526",
-          "source": "15min.lt"
-        },
-        {
-          "title": "Š.Jasikevičius patvirtino, kurios šalies garbę gins jo sūnus",
-          "snippet": "",
-          "url": "https://www.krepsinis.net/naujiena/s-jasikevicius-patvirtino-kurios-salies-garbe-gins-jo-sunus/352444",
-          "source": "Krepsinis.net"
-        },
-        {
-          "title": "Šaro žodis: kuriai šaliai atstovaus sūnus ir „Žalgiris“ ar PAO? / Naujienos",
-          "snippet": "",
-          "url": "https://www.basketnews.lt/news-253854-saro-zodis-kuriai-saliai-atstovaus-sunus-ir-zalgiris-ar-pao.html",
-          "source": "BasketNews.lt"
         }
       ],
       "link": "https://imtaqin.id/"
