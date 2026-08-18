@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-18 04:47:58",
+  "lastUpdate": "2026-08-18 05:15:08",
   "data": [
     {
       "title": "иа \"новости приднестровья\"",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 20:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzuGQkPYzB0BYk7Jja6fDkWtEBrIbGdpZtfUp-gBC-FaQVAb5KqBbfoMraaEw",
       "pictureSource": "Новости Приднестровья",
@@ -30,29 +30,57 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "пенсионный возраст",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 17 Aug 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZU67HUke0GhsLBGhMIYLFD2d9_sdUlekb7fo3x1-oV-3YbgFsP3FxyUo8D3g",
+      "pictureSource": "URA.RU",
+      "relatedSearch": [
+        {
+          "title": "Соцфонд сообщил о возрасте выхода на пенсию в 2026 году: 18 августа: подробнее",
+          "snippet": "",
+          "url": "https://ura.news/news/1053119151",
+          "source": "URA.RU"
+        },
+        {
+          "title": "В 2027 году не будут назначать пенсию по старости",
+          "snippet": "",
+          "url": "https://www.klerk.ru/buh/news/704420/",
+          "source": "Клерк.ру"
+        },
+        {
+          "title": "Пенсионный возраст снова повысят – работать будем дольше на 1 год",
+          "snippet": "",
+          "url": "https://primamedia.ru/news/2589986/",
+          "source": "PrimaMedia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 20:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSauNSOiT_9J8-2I3ToKNmr4BHt2Jl9btJCcwJxFs3eemsneLh4y9NdGt8Z55Y",
-      "pictureSource": "Focus Taiwan",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNsV4jJgMair_GL8wbOmWqR-raYCiuNicYxGAYkWTxCuB8J2GpSLEiCKfJPdo",
+      "pictureSource": "Menafn",
       "relatedSearch": [
         {
-          "title": "Low-pressure system to bring severe weather through the weekend",
+          "title": "Delhi Weather LATEST Update: Temperature Rises As Residents Wait For Monsoon Rain, Check Forecast",
           "snippet": "",
-          "url": "https://focustaiwan.tw/society/202608180006",
-          "source": "Focus Taiwan"
+          "url": "https://menafn.com/1111555060/Delhi-Weather-LATEST-Update-Temperature-Rises-As-Residents-Wait-For-Monsoon-Rain-Check-Forecast",
+          "source": "Menafn"
         },
         {
-          "title": "CWA issues heat, heavy rain warnings",
+          "title": "Feels like temp settles at 42.7 deg C",
           "snippet": "",
-          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/18/2003862702",
-          "source": "Taipei Times"
+          "url": "https://timesofindia.indiatimes.com/city/delhi/feels-like-temp-settles-at-42-7-deg-c/articleshow/133279640.cms",
+          "source": "The Times of India"
         },
         {
-          "title": "CWA issues heavy rain advisories for most of Taiwan proper",
+          "title": "Delhi records 35.3 Celsius high, 26.5 Celsius low, light rain",
           "snippet": "",
-          "url": "https://focustaiwan.tw/society/202608160006",
-          "source": "Focus Taiwan"
+          "url": "https://www.newsbytesapp.com/news/india/delhi-records-353-celsius-high-265-celsius-low-light-rain/tldr",
+          "source": "NewsBytes"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,20 +89,20 @@
       "title": "погода",
       "trafficCount": "10000+",
       "pubDate": "Mon, 17 Aug 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShPSACIV92MwcVQVR8g6KDeAE9jl2GIUsO6yqUpwLn5-VvcrgK3PE2v2DaOHk",
-      "pictureSource": "Cursorinfo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK8hHZWEdPP1lMs986wx00h1tIBKFnnb22mlGCDNiI3OJ_hcADK31a--G3bgk",
+      "pictureSource": "NEWSru.co.il",
       "relatedSearch": [
-        {
-          "title": "Вернется ли жара – прогноз погоды на 18 августа",
-          "snippet": "",
-          "url": "https://cursorinfo.co.il/israel-news/vernetsya-li-zhara-prognoz-pogody-na-18-avgusta/",
-          "source": "Cursorinfo"
-        },
         {
           "title": "Прогноз погоды в Израиле, 18.08.2026 Newsru.co.il",
           "snippet": "",
           "url": "https://www.newsru.co.il/israel/18aug2026/pogoda.html",
           "source": "NEWSru.co.il"
+        },
+        {
+          "title": "Вернется ли жара – прогноз погоды на 18 августа",
+          "snippet": "",
+          "url": "https://cursorinfo.co.il/israel-news/vernetsya-li-zhara-prognoz-pogody-na-18-avgusta/",
+          "source": "Cursorinfo"
         },
         {
           "title": "В Израиле продолжились необычные ливни: где ждать новых затоплений",
@@ -136,16 +164,16 @@
           "source": "Українська правда"
         },
         {
-          "title": "В Молдове взорвалась российская ракета Бандероль — что известно",
-          "snippet": "",
-          "url": "https://nv.ua/world/geopolitics/u-moldovu-zaletila-rosiyska-raketa-banderol-povitryani-sili-50633410.html",
-          "source": "NV"
-        },
-        {
           "title": "В Молдове зафиксировали взрыв объекта, нарушивший воздушное пространство страны",
           "snippet": "",
           "url": "https://www.eurointegration.com.ua/rus/news/2026/08/17/7243652/",
           "source": "Європейська правда"
+        },
+        {
+          "title": "В Молдове взорвалась российская ракета Бандероль — что известно",
+          "snippet": "",
+          "url": "https://nv.ua/world/geopolitics/u-moldovu-zaletila-rosiyska-raketa-banderol-povitryani-sili-50633410.html",
+          "source": "NV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -164,16 +192,16 @@
           "source": "GSP"
         },
         {
-          "title": "FCSB - FC Botoșani 3-2, pe Sport.ro. Daniel Bîrligea, gol fabulos în minutul 90+6! Marius Baciu, din nou pe primul loc în SuperLiga",
+          "title": "Gigi Becali și-a anunțat favoritul după 3-2 cu FC Botoșani: „Va fi fotbalist”",
           "snippet": "",
-          "url": "https://www.sport.ro/liga-1/fcsb-fc-botosani-de-la-21-30-daca-bate-echipa-lui-becali-urca-pe-primul-loc.html",
+          "url": "https://www.sport.ro/liga-1/gigi-becali-si-a-anuntat-favoritul-dupa-3-2-cu-fc-botosani-va-fi-fotbalist.html",
           "source": "Sport.ro"
         },
         {
-          "title": "Cronică - Superliga | Spectacol cu 5 goluri între roș-albaștrii și FC Botoșani. Cel mai frumos meci al sezonului",
+          "title": "Marius Baciu îl bagă în ședință pe Tavi Popescu după ieșirea nervoasă de la FCSB - FC Botoșani",
           "snippet": "",
-          "url": "https://informat.ro/sport/fcsb-si-fc-botosani-ofera-un-meci-dramatic-in-superliga-135229",
-          "source": "Informat.ro"
+          "url": "https://www.prosport.ro/fotbal-intern/superliga/marius-baciu-tavi-popescu-iesire-nervoasa-fcsb-fc-botosani-repros-sedinta-20505749",
+          "source": "Prosport"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,9 +210,16 @@
       "title": "meteo di domani",
       "trafficCount": "200+",
       "pubDate": "Mon, 17 Aug 2026 11:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4P0fT9PJKiKt3Dn6k4W-3jc0sGp_fDYqf_07lqy7GDtEg1tNl3e5M_WcDZV4",
+      "pictureSource": "Isola online 24",
+      "relatedSearch": [
+        {
+          "title": "Meteo, cambia tutto: dopo l’afa arrivano i temporali﻿",
+          "snippet": "",
+          "url": "https://www.isolaonline24.it/2026/08/16/meteo-cambia-tutto-dopo-lafa-arrivano-i-temporali/",
+          "source": "Isola online 24"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -194,34 +229,6 @@
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "полиция",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 17 Aug 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4ZeGjuy8W3DxKOsEIBSj3ZkdnpHq6qOFaGfYV-dEqbnAyPzDrO7dsnZPG8E",
-      "pictureSource": "Новости Zakon.kz",
-      "relatedSearch": [
-        {
-          "title": "Полиция Алматы напомнила о важном запрете, который касается каждого",
-          "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6528374-politsiya-almaty-napomnila-o-vazhnom-zaprete-kotoryy-kasaetsya-kazhdogo.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Запрет на сокрытие лица: в полиции Алматы назвали случаи, когда можно нарушить это правило",
-          "snippet": "",
-          "url": "https://www.nur.kz/society/2413779-zapret-na-sokrytie-lica-v-policii-almaty-nazvali-sluchai-kogda-mozhno-narushit-eto-pravilo/",
-          "source": "NUR.KZ"
-        },
-        {
-          "title": "Штраф 10 МРП: кого могут наказать в Астане",
-          "snippet": "",
-          "url": "https://kokshetau.asia/newskz/shtraf-10-mrp-kogo-mogyt-nakazat-v-astane/",
-          "source": "ИА Кокшетау Азия"
-        }
-      ],
       "link": "https://imtaqin.id/"
     }
   ]
