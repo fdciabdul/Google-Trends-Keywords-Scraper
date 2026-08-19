@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-08-19 17:39:24",
+  "lastUpdate": "2026-08-19 17:57:42",
   "data": [
+    {
+      "title": "普 發 一 萬",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 19 Aug 2026 10:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8gx8bD-qxIFyofXoFpKtZM-Hjy8aInttTs44RchkDgKtqkeV9motBdhkO7tA",
+      "pictureSource": "Yahoo新聞",
+      "relatedSearch": [
+        {
+          "title": "新北市民爽領普發2萬？侯友宜表態了 驚人財政現況曝光",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%91%E7%88%BD%E9%A0%98%E6%99%AE%E7%99%BC2%E8%90%AC-%E4%BE%AF%E5%8F%8B%E5%AE%9C%E8%A1%A8%E6%85%8B%E4%BA%86-%E9%A9%9A%E4%BA%BA%E8%B2%A1%E6%94%BF%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-034603404.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "賴清德宣布普發萬元現金工商界大老林伯豐表態了- 政治",
+          "snippet": "",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5545754",
+          "source": "自由時報"
+        },
+        {
+          "title": "選票從不接受「十八年期定存」",
+          "snippet": "",
+          "url": "https://udn.com/news/story/7339/9702333",
+          "source": "UDN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "ai",
       "trafficCount": "100+",
       "pubDate": "Wed, 19 Aug 2026 09:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QblU3uW2eB1Bo49RXUI8kkdVsMRPcZ3Q28KQM0HUpWSKk5aYjR15Sg_JVnM",
-      "pictureSource": "OpenAI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCOu8UreFQese13sIeRYh4rfMU_GYshTXFsMoWE8eqIIYpY1DzSzFf0ppIePQ",
+      "pictureSource": "WSJ",
       "relatedSearch": [
         {
-          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI",
           "snippet": "",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-          "source": "OpenAI"
+          "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
+          "source": "WSJ"
         },
         {
-          "title": "OpenAI hit the brakes. Now what?",
+          "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
           "snippet": "",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-          "source": "The Verge"
+          "url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+          "source": "The New York Times"
         },
         {
-          "title": "OpenAI slows down training of advanced AI after cyber-attack",
+          "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
           "snippet": "",
-          "url": "https://www.bbc.com/news/articles/c235dmndylzo",
-          "source": "BBC"
+          "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+          "source": "Axios"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -42,9 +70,15 @@
       "title": "ios 26.6 1 更新",
       "trafficCount": "100+",
       "pubDate": "Wed, 19 Aug 2026 08:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4KuRTSovzEF3C821poGTCrUvSi3RRtcyaxM2-ZKXuRLp2ZCLtfEsRH1z_5N0",
-      "pictureSource": "iThome",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEeL-pmrBogojSEeoT7bgc_yLXNv1O4U0T0O3Cx7c3Ki0sk4_oibeSK-m-T3I",
+      "pictureSource": "Yahoo新聞",
       "relatedSearch": [
+        {
+          "title": "蘋果急推iOS 26.6.1！狂修近30漏洞 iPhone不升級恐遭駭",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C%E6%80%A5%E6%8E%A8ios-26-6-1-%E7%8B%82%E4%BF%AE%E8%BF%9130%E6%BC%8F%E6%B4%9E-065539328.html",
+          "source": "Yahoo新聞"
+        },
         {
           "title": "Apple發布macOS Tahoe 26.6.2，修補28個漏洞",
           "snippet": "",
@@ -52,16 +86,10 @@
           "source": "iThome"
         },
         {
-          "title": "iPhone用戶快更新！iOS 26.6.1一次修補近30個安全漏洞",
+          "title": "【iOS 26.6.1災情】iPhone更新耗電、閃退狀態回報與統計專區（持續更新）",
           "snippet": "",
-          "url": "https://3c.ltn.com.tw/news/67251",
-          "source": "自由電子報3C科技"
-        },
-        {
-          "title": "iOS 26.6.1、iPadOS 26.6.1 正式推出 以保安修補為主",
-          "snippet": "",
-          "url": "https://www.newmobilelife.com/2026/08/18/ios-26-6-1-security-update/",
-          "source": "流動日報"
+          "url": "https://mrmad.com.tw/ios-2661-issues-and-bugs",
+          "source": "瘋先生"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -96,7 +124,7 @@
     },
     {
       "title": "btc",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 08:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBzMZq9SASDAxG8BPFuJMqfzdGHKD8Hqsvhj1XBYD20JOByv9wnM8B4N9SeYE",
       "pictureSource": "Yahoo Finance",
@@ -136,10 +164,10 @@
           "source": "Yahoo新聞"
         },
         {
-          "title": "許常德拒參加陳盈潔告別式！于美人也將缺席 背後原因曝光",
+          "title": "陳盈潔告別式連兩場「頭七逢七夕」 于美人認不去告別式曝原因",
           "snippet": "",
-          "url": "https://ent.ebc.net.tw/variety-show/501456",
-          "source": "東森電視"
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5545385",
+          "source": "自由娛樂"
         },
         {
           "title": "陳盈潔告別式時間曝光！家屬公開最後送行安排",
@@ -151,12 +179,31 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "安以軒",
+      "title": "sox",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 07:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHHC7eHp-_tsfHDjHB8qcuTr3HN8px0RMOyAQ0tjipoiS3jvcpZBIxZ4KxHA",
+      "pictureSource": "NBC 5 Chicago",
+      "relatedSearch": [
+        {
+          "title": "Alex Bregman makes Cubs history with walk-off win over White Sox",
+          "snippet": "",
+          "url": "https://www.nbcchicago.com/mlb/chicago-cubs/alex-bregman-makes-cubs-history-with-walk-off-win-over-white-sox/3977284/",
+          "source": "NBC 5 Chicago"
+        },
+        {
+          "title": "Cubs Enter Uncharted Territory With Another Walk-Off",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/videos/cubs-enter-uncharted-territory-another-163530575.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "PCA meets with young fans pregame -- then gives them a show in Cubs' walk-off win",
+          "snippet": "",
+          "url": "https://www.mlb.com/news/pete-crow-armstrong-hits-leadoff-home-run-vs-white-sox",
+          "source": "MLB.com"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -171,15 +218,6 @@
     {
       "title": "楊子儀",
       "trafficCount": "1000+",
-      "pubDate": "Wed, 19 Aug 2026 07:30:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "退貨",
-      "trafficCount": "500+",
       "pubDate": "Wed, 19 Aug 2026 07:30:00 -0700",
       "picture": "",
       "pictureSource": "",
