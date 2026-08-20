@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-20 11:42:34",
+  "lastUpdate": "2026-08-20 12:02:08",
   "data": [
     {
       "title": "infarkt",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 20 Aug 2026 02:40:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNFcJvFsqeEvEZYNMjL7aZQEne53OaZx617-eE_geeo-97Rd1zjyjP7vaJpdo",
       "pictureSource": "FOCUS online",
@@ -117,26 +117,26 @@
       "title": "weather",
       "trafficCount": "200+",
       "pubDate": "Wed, 19 Aug 2026 22:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIoQfAhcd-DYnSiGrp4KPdCqv7ZRlWOc78imvvfMMI_SzOiQfpmHe2jzryXEI",
-      "pictureSource": "CBS News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtapdB84FsarJyJc6bCqTIlLv_NgcZ6vtZjd9sPGB8xZce_ylEOFxNOeGJyYs",
+      "pictureSource": "MPR News",
       "relatedSearch": [
         {
-          "title": "Miami hits 100 degrees, tying all-time record high temperature held for 84 years",
+          "title": "Warmer, more muggy air and storm chances return Thursday",
           "snippet": "",
-          "url": "https://www.cbsnews.com/miami/news/south-florida-next-weather-heat-alert-no-rain-august-18-2026/",
-          "source": "CBS News"
+          "url": "https://www.mprnews.org/story/2026/08/20/warmer-more-muggy-air-and-storm-chances-return-thursday",
+          "source": "MPR News"
         },
         {
-          "title": "Forecast: Another heat advisory but also more rain",
+          "title": "Aug. 20: Showers, storms return midday, into the early evening",
           "snippet": "",
-          "url": "https://www.tampabay28.com/weather/forecast-another-heat-advisory-but-also-more-sctd-rain",
-          "source": "Tampa Bay 28"
+          "url": "https://www.local10.com/weather/2026/08/20/aug-20-showers-storms-return-midday-into-the-early-evening/",
+          "source": "WPLG Local 10"
         },
         {
-          "title": "Temperatures in South Florida climb record levels",
+          "title": "Ken Barlow is forecasting a few thunderstorms late today and this evening",
           "snippet": "",
-          "url": "https://www.nbcmiami.com/video/nbc-6-news/temperatures-in-south-florida-climb-record-levels/3847744/",
-          "source": "NBC 6 South Florida"
+          "url": "https://kstp.com/kstp-news/weather-forecast/ken-barlow-is-forecasting-a-few-thunderstorms-late-today-and-this-evening/",
+          "source": "5 EYEWITNESS NEWS"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -155,16 +155,16 @@
           "source": "SPORTNET"
         },
         {
+          "title": "Suverénny krok! Celtic v boji o LM nedal súperovi šancu, Nijmegen zlyhal na domácom trávniku",
+          "snippet": "",
+          "url": "https://sport.aktuality.sk/futbal/clanok/liga-majstrov-vysledky-4-predkolo-2026081920355422582",
+          "source": "Šport.sk"
+        },
+        {
           "title": "Celtic Glasgow – LASK Linz",
           "snippet": "",
           "url": "https://www.teraz.sk/foto-tasr/celtic-glasgow--lask-linz/113691902-fotografia.html",
           "source": "TERAZ.sk"
-        },
-        {
-          "title": "DISKUSIA: Suverénny krok! Celtic v boji o LM nedal súperovi šancu, Nijmegen zlyhal na domácom trávniku",
-          "snippet": "",
-          "url": "https://sport.aktuality.sk/futbal/clanok/liga-majstrov-vysledky-4-predkolo-2026081920355422582/comments",
-          "source": "Šport.sk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -173,9 +173,28 @@
       "title": "počasí",
       "trafficCount": "100+",
       "pubDate": "Wed, 19 Aug 2026 22:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlKENcVEESS-lqS6nFwWHoXUNbsu9Sppdc6q1cCILKkLgEemdgR2GuzzbvBgs",
+      "pictureSource": "Noviny.sk",
+      "relatedSearch": [
+        {
+          "title": "Počasie s Luciou KAPLAN PASTÍRIKOVOU",
+          "snippet": "",
+          "url": "https://www.noviny.sk/ranne-noviny/1248346-pocasie-s-luciou-kaplan-pastirikovou",
+          "source": "Noviny.sk"
+        },
+        {
+          "title": "V stredu sa oblačnosť roztrhá a teploty vyskočia až k 30 stupňom",
+          "snippet": "",
+          "url": "https://www.aktuality.sk/clanok/dadVZ7m/pocasie-predpoved-na-stredu/",
+          "source": "Aktuality"
+        },
+        {
+          "title": "V stredu sa opäť oteplí, ojedinele sa objavia prehánky",
+          "snippet": "",
+          "url": "https://www.teraz.sk/pocasie/v-stredu-sa-opat-otepli-ojedinele-sa/985774-clanok.html?utm_content=.%253Bw%253BwIndex%253Btop",
+          "source": "TERAZ.sk"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -192,16 +211,16 @@
           "source": "Pravda"
         },
         {
-          "title": "Štvrtok bude na Slovensku horúci, miestami dusný. Meteorológovia očakávajú vysoké teploty a búrky",
-          "snippet": "",
-          "url": "https://www.aktuality.sk/clanok/PgHT5E1/stvrtok-bude-na-slovensku-horuci-miestami-dusny-meteorologovia-ocakavaju-vysoke-teploty-a-burky/",
-          "source": "Aktuality"
-        },
-        {
           "title": "SHMÚ: Vo štvrtok treba počítať s búrkami i vysokými teplotami",
           "snippet": "",
           "url": "https://www.sme.sk/domov/c/vo-stvrtok-treba-pocitat-s-burkami-i-vysokymi-teplotami",
           "source": "SME.sk"
+        },
+        {
+          "title": "MAPA búrok: Pozrite si, kde bude počasie najhoršie a v ktorých okresoch to bude najnebezpečnejšie",
+          "snippet": "",
+          "url": "https://www.imeteo.sk/spravy/mapa-burok-pozrite-si-kde-bude-pocasie-najhorsie-a-v-ktorych-okresoch-to-bude-najnebezpecnejsie",
+          "source": "iMeteo.sk"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -214,9 +233,9 @@
       "pictureSource": "Svetevity.sk",
       "relatedSearch": [
         {
-          "title": "FOTO Na začiatku mala pochybnosti, dnes spolu vychovávajú dvoch synov: Lenka Šóošová a Richard Raiman oslávili 8. výročie svadby",
+          "title": "FOTO Lenka Šóošová mala na začiatku o manželovi pochybnosti. AHA, kam sa dostali dnes",
           "snippet": "",
-          "url": "https://svetevity.sk/magazin/celebrity/96297918-na-zaciatku-mala-pochybnosti-dnes-spolu-vychovavaju-dvoch-synov-lenka-soosova-a-richard-raiman-oslavili-8-vyrocie-svadby",
+          "url": "https://svetevity.sk/magazin/celebrity/96297918-foto-lenka-soosova-mala-na-zaciatku-o-manzelovi-pochybnosti-aha-kam-sa-dostali-dnes",
           "source": "Svetevity.sk"
         },
         {
