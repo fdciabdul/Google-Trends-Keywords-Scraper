@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-08-21 14:23:47",
+  "lastUpdate": "2026-08-21 15:00:45",
   "data": [
     {
       "title": "казахстан",
       "trafficCount": "2000+",
       "pubDate": "Fri, 21 Aug 2026 06:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-pbsUWiddekiu599S_xDugvePk65aWhUBLSMt5yNCSZbNCkJ2JG3mCoPl1Bk",
-      "pictureSource": "Kapital.kz",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCSjSXue1_JX99d55RHbMpIzN6aJrS5XRtzefrP3Z7gbUKSUOnzMw-gXWy4NY",
+      "pictureSource": "24.kz",
       "relatedSearch": [
-        {
-          "title": "Касым-Жомарт Токаев назвал выборы в Курултай точкой отсчета новых реформ",
-          "snippet": "",
-          "url": "https://kapital.kz/gosudarstvo/151962/kasym-zhomart-tokaev-nazval-vybory-v-kurultaj-tochkoj-otscheta-novyh-reform.html",
-          "source": "Kapital.kz"
-        },
         {
           "title": "Информационное сообщение",
           "snippet": "",
           "url": "https://24.kz/ru/news/social/787089-informatsionnoe-soobshchenie",
           "source": "24.kz"
+        },
+        {
+          "title": "Токаев планирует выступить с обращением к народу Казахстана",
+          "snippet": "",
+          "url": "https://www.zakon.kz/sobytiia/6528873-tokaev-planiruet-vystupit-s-obrashcheniem-k-narodu-kazakhstana.html",
+          "source": "Новости Zakon.kz"
         },
         {
           "title": "Избирательные участки Павлодарской области готовы к выборам",
@@ -31,7 +31,7 @@
     },
     {
       "title": "игорь крутой",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 21 Aug 2026 06:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSbEywBUIQ9dU37fj9cdn7cYNGVIL-FWRhjAKxKLAj1EvM1ejR2oMcmOcC6Ok",
       "pictureSource": "Новости Zakon.kz",
@@ -87,7 +87,7 @@
     },
     {
       "title": "роналдиньо",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Fri, 21 Aug 2026 05:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8nQEE_WEiF2S8eDquhmIEpd7ouBKSImjZCV0FjYBGJcwlhYNVJeTECvHamwc",
       "pictureSource": "24.kz",
@@ -105,10 +105,10 @@
           "source": "Almaty.tv"
         },
         {
-          "title": "Роналдиньо официально вернулся в футбол в 46 лет и стал игроком «Равенны»",
+          "title": "Роналдиньо прибыл в Италию для возобновления карьеры в местном чемпионате",
           "snippet": "",
-          "url": "https://www.inform.kz/ru/ronaldino-ofitsialno-vernulsya-vfutbol-v46-let-istal-igrokom-ravenni-e32a9444",
-          "source": "Казинформ"
+          "url": "https://www.zakon.kz/sport/6528834-ronaldino-pribyl-v-italiyu-dlya-vozobnovleniya-karery-v-mestnom-chempionate.html",
+          "source": "Новости Zakon.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,9 +145,15 @@
       "title": "цены на нефть",
       "trafficCount": "500+",
       "pubDate": "Fri, 21 Aug 2026 02:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2diPhAU57PDhSaByD4gi1PppkfqUlNBDb3VGUqyGCflLcjIABNPW7-GktVYU",
-      "pictureSource": "Kapital.kz",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDBy13IF1E8YT5A5NZVWIhUY6RZlMYcrOqzuy5blMz2Ba9WFkEAWmZRNbO_io",
+      "pictureSource": "Ulysmedia.kz",
       "relatedSearch": [
+        {
+          "title": "Мировой топливный кризис из-за войны в Иране приближается к Казахстану",
+          "snippet": "",
+          "url": "https://ulysmedia.kz/news/79156-mirovoi-toplivnyi-krizis-iz-za-voiny-v-irane-priblizhaetsia-k-kazakhstanu/",
+          "source": "Ulysmedia.kz"
+        },
         {
           "title": "Курсы валют на 21 августа, цены на нефть и металлы",
           "snippet": "",
@@ -159,12 +165,6 @@
           "snippet": "",
           "url": "https://www.inform.kz/ru/neft-dorozhaet-vtoruyu-nedelyu-podryad-brent-priblizilas-k94-4ee69ab5",
           "source": "Казинформ"
-        },
-        {
-          "title": "Мировой топливный кризис из-за войны в Иране приближается к Казахстану",
-          "snippet": "",
-          "url": "https://ulysmedia.kz/news/79156-mirovoi-toplivnyi-krizis-iz-za-voiny-v-irane-priblizhaetsia-k-kazakhstanu/",
-          "source": "Ulysmedia.kz"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -198,6 +198,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "cyberpunk 2077",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 21 Aug 2026 01:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSntkQCLV2F0mgADSAIobWm-YpuV1HGF5fY3q4KGB6ra7QEgkOrdIb5LZrbfU",
+      "pictureSource": "Collider",
+      "relatedSearch": [
+        {
+          "title": "‘Cyberpunk 2077’ Officially Expands With a Stylish New Release",
+          "snippet": "",
+          "url": "https://collider.com/cyberpunk-2077-gunnar-glasses-collection/",
+          "source": "Collider"
+        },
+        {
+          "title": "'Blue Eye Samurai' Renewed For Third & Final Season At Netflix",
+          "snippet": "",
+          "url": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
+          "source": "Deadline"
+        },
+        {
+          "title": "‘Cyberpunk: Edgerunners’ Season 2 Reveals Huge Connection To ‘Cyberpunk 2077’",
+          "snippet": "",
+          "url": "https://www.forbes.com/sites/paultassi/2026/08/21/cyberpunk-edgerunners-season-2-reveals-huge-connection-to-cyberpunk-2077/",
+          "source": "Forbes"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "хамза шираз",
       "trafficCount": "200+",
       "pubDate": "Fri, 21 Aug 2026 01:20:00 -0700",
@@ -221,34 +249,6 @@
           "snippet": "",
           "url": "https://24.kz/ru/news/sport/786483-alimkhanuly-sdelal-zayavlenie-o-predstoyashchem-poedinke",
           "source": "24.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "cyberpunk 2077",
-      "trafficCount": "200+",
-      "pubDate": "Fri, 21 Aug 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTjI60jQ9NTgRj20Vm-0-QgK17FcfgLETiXXf4hW2K38ZasTbjlYZUasCOml4",
-      "pictureSource": "Deadline",
-      "relatedSearch": [
-        {
-          "title": "'Blue Eye Samurai' Renewed For Third & Final Season At Netflix",
-          "snippet": "",
-          "url": "https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/",
-          "source": "Deadline"
-        },
-        {
-          "title": "Cyberpunk: Edgerunners 2 Premiere Date Announced Alongside New Trailer!",
-          "snippet": "",
-          "url": "https://press.cdprojektred.com/en/news/1837/cyberpunk-edgerunners-2-premiere-date-announced-alongside-new-trailer",
-          "source": "CD PROJEKT RED Press Center"
-        },
-        {
-          "title": "People are turned into plants for oxygen - the second teaser for the anime \"Fool's Night\" has been released",
-          "snippet": "",
-          "url": "https://ixbt.games/en/news/2026/08/21/liudei-prevrashhaiut-v-rasteniia-radi-kisloroda-vysel-treiler-anime-noc-duraka.html",
-          "source": "IXBT.games"
         }
       ],
       "link": "https://imtaqin.id/"
