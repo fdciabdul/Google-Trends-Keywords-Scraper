@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-21 21:17:17",
+  "lastUpdate": "2026-08-21 21:42:46",
   "data": [
     {
       "title": "ан-2",
@@ -31,7 +31,7 @@
     },
     {
       "title": "таганрог",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Fri, 21 Aug 2026 13:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxAuaknCKmJ--wcxluBDMkpZkcVO3P2XVcbAg1fAuYfcTfrjTdajrVibljzY",
       "pictureSource": "Rostov Gazeta",
@@ -61,15 +61,9 @@
       "title": "мир",
       "trafficCount": "1000+",
       "pubDate": "Fri, 21 Aug 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXQCs3n-OsJn0Ky5um-5rHPEWzqXz_yOMBwi0RhjK2_sWKQzyya50U6WKvpjA",
-      "pictureSource": "Meduza",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzSDkoxEDuVFyXbGVX64v7lPT-otAEaMCKyinAKVGCgYB3An1g3ii6hszLMB4",
+      "pictureSource": "Радио Свобода",
       "relatedSearch": [
-        {
-          "title": "Россияне на фоне слухов о новой мобилизации стали чаще интересоваться эмиграцией. В первую очередь думают о переезде в Армению или Грузию",
-          "snippet": "",
-          "url": "https://meduza.io/news/2026/08/21/kovcheg-zafiksiroval-rezkiy-rost-interesa-rossiyan-k-emigratsii-na-fone-sluhov-o-novoy-volne-mobilizatsii",
-          "source": "Meduza"
-        },
         {
           "title": "Запрос на мир",
           "snippet": "",
@@ -77,38 +71,16 @@
           "source": "Радио Свобода"
         },
         {
+          "title": "Россияне на фоне слухов о новой мобилизации стали чаще интересоваться эмиграцией. В первую очередь думают о переезде в Армению или Грузию",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/08/21/kovcheg-zafiksiroval-rezkiy-rost-interesa-rossiyan-k-emigratsii-na-fone-sluhov-o-novoy-volne-mobilizatsii",
+          "source": "Meduza"
+        },
+        {
           "title": "Успеть уехать",
           "snippet": "",
           "url": "https://www.currenttime.tv/a/33835178.html",
           "source": "Настоящее Время"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "юлианна караулова",
-      "trafficCount": "100+",
-      "pubDate": "Fri, 21 Aug 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVvycBVMWJwWZrKClSMXozwGrTo_kjQN4bvmDheZliuQMt6qGfF5SY3-xHnPI",
-      "pictureSource": "muz-tv.ru",
-      "relatedSearch": [
-        {
-          "title": "Юлианна Караулова рассказала о своем отношении к астрологии",
-          "snippet": "",
-          "url": "https://muz-tv.ru/news/yulianna-karaulova-rasskazala-o-svoem-otnoshenii-k-astrologii/",
-          "source": "muz-tv.ru"
-        },
-        {
-          "title": "Юлианна Караулова призналась, что верит в прогнозы только когда они ей нравятся",
-          "snippet": "",
-          "url": "https://glavny.tv/last-news/culture/yulianna-karaulova-snyala-vse-voprosy-o-svoem-otnoshenii-k-astrologii/",
-          "source": "Главный Региональный"
-        },
-        {
-          "title": "Тренировки, мастер-классы и встречи со звездами: как пройдут фестивали «День московского спорта» и «Ночь московского спорта»",
-          "snippet": "",
-          "url": "https://www.mos.ru/news/item/174619073/",
-          "source": "mos.ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,17 +114,45 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "юлианна караулова",
+      "trafficCount": "100+",
+      "pubDate": "Fri, 21 Aug 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVvycBVMWJwWZrKClSMXozwGrTo_kjQN4bvmDheZliuQMt6qGfF5SY3-xHnPI",
+      "pictureSource": "muz-tv.ru",
+      "relatedSearch": [
+        {
+          "title": "Юлианна Караулова рассказала о своем отношении к астрологии",
+          "snippet": "",
+          "url": "https://muz-tv.ru/news/yulianna-karaulova-rasskazala-o-svoem-otnoshenii-k-astrologii/",
+          "source": "muz-tv.ru"
+        },
+        {
+          "title": "Юлианна Караулова призналась, что верит в прогнозы только когда они ей нравятся",
+          "snippet": "",
+          "url": "https://glavny.tv/last-news/culture/yulianna-karaulova-snyala-vse-voprosy-o-svoem-otnoshenii-k-astrologii/",
+          "source": "Главный Региональный"
+        },
+        {
+          "title": "Тренировки, мастер-классы и встречи со звездами: как пройдут фестивали «День московского спорта» и «Ночь московского спорта»",
+          "snippet": "",
+          "url": "https://www.mos.ru/news/item/174619073/",
+          "source": "mos.ru"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "ставрополь",
       "trafficCount": "200+",
       "pubDate": "Fri, 21 Aug 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhDPbdL3sp-zpT6qUhl1NHdTTv9Nbd5k5ZoIIAax6FdHYjpTD4NjxmQwQVlKE",
-      "pictureSource": "1777.Ru",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4RHr7E-tjWM8xxXfAYGXfe9HzQUu9Qyvkj33U-W4-eKYa4plinkqbN8IZ5jU",
+      "pictureSource": "Своё ТВ",
       "relatedSearch": [
         {
-          "title": "В Ставрополе на 60% завершено строительство культурного центра",
+          "title": "В Ставрополе строят крупнейший в крае культурный центр",
           "snippet": "",
-          "url": "https://news.1777.ru/127813-v-stavropole-na-60-zaversheno-stroitelstvo-kulturnogo-centra",
-          "source": "1777.Ru"
+          "url": "https://stv24.tv/novosti/v-stavropole-stroyat-krupnejshij-v-krae-kulturnyj-czentr/",
+          "source": "Своё ТВ"
         },
         {
           "title": "Инженерные системы монтируют в строящемся культурном комплексе в Ставрополе",
@@ -161,10 +161,10 @@
           "source": "Победа 26"
         },
         {
-          "title": "В Ставрополе строят крупнейший в крае культурный центр",
+          "title": "В Ставрополе на 60% завершено строительство культурного центра",
           "snippet": "",
-          "url": "https://stv24.tv/novosti/v-stavropole-stroyat-krupnejshij-v-krae-kulturnyj-czentr/",
-          "source": "Своё ТВ"
+          "url": "https://news.1777.ru/127813-v-stavropole-na-60-zaversheno-stroitelstvo-kulturnogo-centra",
+          "source": "1777.Ru"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -229,14 +229,14 @@
       "title": "arsenal vs coventry",
       "trafficCount": "200+",
       "pubDate": "Fri, 21 Aug 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNnTIeeVYKtJdUi2d5zbXsgLPkDIDhBy4kNAyR_L8COBDOnIjEFxQ8blhybXs",
-      "pictureSource": "WhoScored.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4xsuReOGxmaIx5RVdoO4A9ymRPz__6cAQk_JcAXH1J8FyP2X4K7f3t4i2ck8",
+      "pictureSource": "The Guardian",
       "relatedSearch": [
         {
-          "title": "Arsenal vs Coventry Confirmed Lineups",
+          "title": "Arsenal 3-0 Coventry City: Premier League – live reaction",
           "snippet": "",
-          "url": "https://www.whoscored.com/news/dilY_-Mak0Gnpm3e45_N8g/show/20260821-arsenal-vs-coventry-confirmed-lineup-1787335021",
-          "source": "WhoScored.com"
+          "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+          "source": "The Guardian"
         },
         {
           "title": "Bruno Guimaraes faces weeks on the sidelines as Arsenal suffer major injury blow at the start of the season",
@@ -257,26 +257,26 @@
       "title": "erzurumspor - galatasaray",
       "trafficCount": "100+",
       "pubDate": "Fri, 21 Aug 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFiUIn3k400EWeMsxPynh--XpxEOsmOxBwCw-ejDDvdwp-FyC93qNNzimGWY0",
-      "pictureSource": "Habertürk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkQtXFDnK1hpzJ_ghuZnCrHSZIAaxWUehumJCU9z3O5SapS0HAj12AnxT668",
+      "pictureSource": "beinsports.com.tr",
       "relatedSearch": [
         {
-          "title": "Galatasaray'da Barış Alper Yılmaz: Kazandığımız için mutluyuz",
+          "title": "Barış Alper Yılmaz: \"Bu hedeflerimi gerçekleştirmek istiyorum\"",
           "snippet": "",
-          "url": "https://www.haberturk.com/spor/galatasaray-da-baris-alper-yilmaz-kazandigimiz-icin-mutluyuz-3907285",
+          "url": "https://beinsports.com.tr/haber/baris-alper-yilmaz-kendime-hedef-koydum",
+          "source": "beinsports.com.tr"
+        },
+        {
+          "title": "Galatasaray'da Roland Sallai: Takım olarak hedeflerimiz çok büyük - Galatasaray Haberler - HT Spor",
+          "snippet": "",
+          "url": "https://www.haberturk.com/spor/galatasaray-da-roland-sallai-takim-olarak-hedeflerimiz-cok-buyuk-3907286",
           "source": "Habertürk"
         },
         {
-          "title": "Davinson Sanchez: 'Çok büyük değişikliklere ihtiyacımız yok'",
+          "title": "Okan Buruk'tan transfer açıklaması: Görüştüğümüz oyuncular var, bu hafta net kararımızı vereceğiz",
           "snippet": "",
-          "url": "https://www.sporx.com/davinson-sanchez-cok-buyuk-degisikliklere-ihtiyacimiz-yok-SXHBQ1173239SXQ",
-          "source": "Sporx.com"
-        },
-        {
-          "title": "Okan Buruk'tan Erzurum'da maç sonu transfer açıklaması!",
-          "snippet": "",
-          "url": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-erzurumda-mac-sonu-transfer-aciklamasi-43281145",
-          "source": "Hürriyet"
+          "url": "https://t24.com.tr/spor/okan-buruktan-transfer-aciklamasi-gorustugumuz-oyuncular-var-bu-hafta-net-kararimizi-verecegiz,1343306",
+          "source": "T24"
         }
       ],
       "link": "https://imtaqin.id/"
