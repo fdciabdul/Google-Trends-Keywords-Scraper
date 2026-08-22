@@ -1,282 +1,225 @@
 {
-  "lastUpdate": "2026-08-22 07:49:43",
+  "lastUpdate": "2026-08-22 08:12:04",
   "data": [
     {
-      "title": "上重聡",
+      "title": "天気予報",
+      "trafficCount": "10000+",
+      "pubDate": "Sat, 22 Aug 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWW7QuXi5ulodnVVgiw_a4BDcCOo7dMUbGZjrRo6p3Uf50bme3tQWlzgokVq8",
+      "pictureSource": "ウェザーニュース",
+      "relatedSearch": [
+        {
+          "title": "強い台風18号(ソウデル) 来週は暴風域を伴って沖縄接近か",
+          "snippet": "",
+          "url": "https://weathernews.jp/news/202608/220061/",
+          "source": "ウェザーニュース"
+        },
+        {
+          "title": "【台風情報】台風18号（ソウデル）26日にかけて南西諸島に接近おそれ 時速20kmでマリアナ諸島を北西へ【雨と風のシミュレーション】（チューリップテレビ）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/192a55bbced96f2e10f8bf563ded469d823162e5",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【台風18号】旧盆3日間に沖縄地方で停滞か、知事選告示に影響も 週末にかけて勢力強める （22日午前9時現在）",
+          "snippet": "",
+          "url": "https://ryukyushimpo.jp/national/entry-5475809.html",
+          "source": "琉球新報デジタル"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "大雨警報",
+      "trafficCount": "10000+",
+      "pubDate": "Sat, 22 Aug 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUW8jvww5x9ZXP-1SJLcUDwmd2zCN3PYFT17EQwHi5r1wJ7dSVfg1YHydMexs",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "【速報】埼玉県南部でレベル3大雨警報（埼玉新聞）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/317e51968817692e26f115df7278cfdecdd2b8eb",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "「デス（青春）ゲーム」豪華共演陣が解禁",
+          "snippet": "",
+          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/photos/900197696.html",
+          "source": "テレ朝NEWS"
+        },
+        {
+          "title": "埼玉県内で１００ミリ超える猛烈な雨、「車両が水没」と１１０番２２件…駅前で１台動けず",
+          "snippet": "",
+          "url": "https://www.yomiuri.co.jp/national/20260821-GYT1T00344/",
+          "source": "読売新聞"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "東京 大雨",
       "trafficCount": "500+",
-      "pubDate": "Sat, 22 Aug 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqNfTfrOmeeKGzDJC7ke-kj4ekAPmK509VhXTb_ZgINik1RXuNPGWTbm0h-fs",
+      "pubDate": "Sat, 22 Aug 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5yfDSmgT9fkIOPKi7yNKt1LCS6pKTDd2Q1Tsp3uHaFBCYRlgPgqyqGLQH8w0",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "【レベル3大雨警報】東京都・板橋区に発表 16:32時点（TBS NEWS DIG Powered by JNN）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/ead46c931d0c59985f218fbfa59dca6b9cb60f86",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【速報】東京都の新宿区、豊島区、北区、板橋区にレベル4大雨危険警報 適切な避難行動を",
+          "snippet": "",
+          "url": "https://www.fnn.jp/articles/-/1099431",
+          "source": "FNNプライムオンライン"
+        },
+        {
+          "title": "【レベル３大雨警報】東京都・千代田区、新宿区、文京区などに発表 16:42時点",
+          "snippet": "",
+          "url": "https://article.auone.jp/f5bb2e07-6098-48ba-8edd-60c8248354db",
+          "source": "au Webポータル"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "雷注意報",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 22 Aug 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE-T4nUNTP5YAMlEncb27iSvWKC5hW5kIL8SVRULhasfvqqUyM66FqgvPeQys",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "【21日・宮城県に雷注意報等が出ており午後9時頃まで急な強い雨や落雷等に注意】大崎市古川で突然の雷雨となる",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/3bb57f58de95a4bb0beab4690c584f4eddb1e217",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【レベル３大雨警報】宮城県・大崎市東部に発表 15:32時点",
+          "snippet": "",
+          "url": "https://newsdig.tbs.co.jp/articles/-/2888071",
+          "source": "TBS NEWS DIG"
+        },
+        {
+          "title": "東北本線 白石～仙台下り線一部列車に遅れ 大雨の影響（午後7時15分現在）（2026年8月21日掲載）｜ミヤテレNEWS NNN",
+          "snippet": "",
+          "url": "https://news.ntv.co.jp/n/mmt/category/society/mm1a4e01e2019245129b648c051da58110",
+          "source": "日テレNEWS NNN"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "浜田雅功",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 22 Aug 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrb72nqtwKytdgjdjPHgAvB9cjzMum_Ar06e1HJwDcDlDQn1yPDW5yEicdwZw",
       "pictureSource": "TVer",
       "relatedSearch": [
         {
-          "title": "ツラすぎた昔の高校野球！衝撃エピソード連発！",
+          "title": "水曜日のダウンタウン 8月19日(水)放送分 頭上ボールサバイバル｜バラエティ｜見逃し無料配信はTVer！人気の動画見放題",
           "snippet": "",
-          "url": "https://tver.jp/episodes/ep8j3pkjno",
+          "url": "https://tver.jp/episodes/ep5u7l14lg",
           "source": "TVer"
         },
         {
-          "title": "【高校野球】PL学園vs横浜 1998年夏の死闘を振り返る「ボールが手から離れた瞬間に、やばいと思いました」",
+          "title": "「ガヤ芸人が足りない」謹慎でわかったフジモンの“意外な実力” 後継者もいそうでいない希少性〈水曜日のダウンタウンきょう出演〉",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/5cd8dfb3733c6c8bbb9e6e60756985e51967fa68?page=2",
-          "source": "Yahoo!ニュース"
+          "url": "https://dot.asahi.com/articles/-/290463?page=1",
+          "source": "AERA DIGITAL"
         },
         {
-          "title": "【我が母校のユニフォーム】立浪和義(PL学園高)インタビュー　厳しくも必要だった濃密なる3年間「どうしてもPLのユニフォームを着て、甲子園に出たい気持ちを捨て切れなかった」 | 野球コラム - 週刊ベースボールONLINE",
+          "title": "「本当にデスゲーム」「やばすぎるｗ」「地獄の軍団」【水ダウ】衝撃の罰ゲーム“首電流”に悲鳴→苦悶の芸人に浜田悪魔の提案「痛めつける天才」",
           "snippet": "",
-          "url": "https://column.sp.baseball.findfriends.jp/?pid=column_detail&id=001-20260831-40",
-          "source": "週刊ベースボールONLINE"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "岩嵜翔",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 22 Aug 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLzn2VuIxDIgQrI01YjGSq4DOBqcG7gynv4MbhgIWO7QG-3VkkmyGoEbc5w70",
-      "pictureSource": "au Webポータル",
-      "relatedSearch": [
-        {
-          "title": "【オリックス】本田仁海の頭部に打球が直撃 耳横付近に当たり…自ら歩いて治療に下がる 続く無死満塁のピンチでは岩嵜翔がマウンドへ",
-          "snippet": "",
-          "url": "https://article.auone.jp/d17635e7-efff-4c08-b2cf-e3d8c1f6bbb5",
-          "source": "au Webポータル"
-        },
-        {
-          "title": "このまま出番なし…？DeNA、いまだ1軍出場ゼロの選手（3）いまだ公式戦出場ゼロ…前年までの”重要戦力“",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/a71fc74c2d1109550971324075b27064402d11b2",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "1軍復帰が見えない…セ・リーグ、ファームでも苦戦中の注目選手（4）巨人の主軸候補…”大学三冠王”がファームで大苦戦",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/a3d115ea220fe2751fbbd6362328e2fbfa02c2ca",
-          "source": "Yahoo!ニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "八戸 対 仙台",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 22 Aug 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0VaTCigEBRVla9PSwcjU74m0zmO1xHFoV6jCe5_jiHuz6lQyNpiRircjARxM",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "ヴァンラーレ八戸 22日にベガルタ仙台とホームで激突（ABA青森朝日放送）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/2c8eb0d6f5000bff80d028c8d558caa6cb0c1041",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "ベガルタ森山監督「風向きを変える」 ゴール前の連動改善で今季初勝利へ＜クラブハウスから＞",
-          "snippet": "",
-          "url": "https://kahoku.news/articles/20260820khn000088.html",
-          "source": "河北新報オンライン"
-        },
-        {
-          "title": "8月8日「八戸の日」に快勝発進 J2初陣、歴史作ったヴァンラーレ [青森県]",
-          "snippet": "",
-          "url": "https://www.asahi.com/articles/ASV8L3WK5V8LUBNB004M.html",
-          "source": "朝日新聞"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tokyo weather",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 22 Aug 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0IjxlSzjzcGkgFuyKV5V_i0jfqDxNW841u4waEXVk4peVUw2n_3nAeGZqYvw",
-      "pictureSource": "Yahoo",
-      "relatedSearch": [
-        {
-          "title": "How Japan Keeps Millions of Residents Safe From Floods",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/videos/japan-keeps-millions-residents-safe-182504914.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Tokyo Leading the Way in Weather and Disaster Resilience",
-          "snippet": "",
-          "url": "https://www.nationthailand.com/blogs/news/world/40070056",
-          "source": "Nation Thailand"
-        },
-        {
-          "title": "Tokyo turns innovation into extreme-weather resilience",
-          "snippet": "",
-          "url": "https://qazinform.com/news/tokyo-turns-innovation-into-extreme-weather-resilience-c2ef72",
-          "source": "Qazinform"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "東京 天気",
-      "trafficCount": "10000+",
-      "pubDate": "Sat, 22 Aug 2026 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_N5cgGnBj5ElVedqkL6ye2gErE-C_Rlk6ze6crSGlEegfkIPCr6FcnFPz-o4",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "22日 西・東日本は急な雷雨に注意",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/pickup/6592596",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "今日22日 関東で局地的に雨雲発達中 25日頃からは北日本で大雨のおそれ",
-          "snippet": "",
-          "url": "https://www.ehime-np.co.jp/article/tenkijp34361",
-          "source": "愛媛新聞"
-        },
-        {
-          "title": "関東甲信越 大気の状態不安定に 非常に激しい雨のおそれ",
-          "snippet": "",
-          "url": "https://news.web.nhk/newsweb/na/nd-20260822de45624",
-          "source": "NHKニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "相続",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 22 Aug 2026 00:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqy9zB3M8L6RHa-I6Y8sWYOWk5TTfhcrxZ4GiJ1vYVJqS3Czmxw_VPdQ8Xpww",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "相続放棄すれば、子供たちに渡せると思っていました…102歳祖母の資産〈約2億円〉を前に70代夫婦が知った「思わぬ落とし穴」【相続実務士が解説】（THE GOLD ONLINE（ゴールドオンライン））",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/bf6a83629dac4883dbd228d7d640e174bed019ab?page=2",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "【岡 信太郎】子どものいない夫婦こそ要注意…「配偶者がすべて相続」は思い込み、遺言がないと防げない”相続人トラブル”",
-          "snippet": "",
-          "url": "https://news.livedoor.com/topics/detail/32070443/",
-          "source": "ライブドアニュース"
-        },
-        {
-          "title": "お願いだから揉めないで…次男には3,000万円超を援助、頼れる長女は海外在住。3人きょうだいの将来を案じた母が生前に打った「相続対策」【相続実務士が解説】 (2026年8月15日掲載)",
-          "snippet": "",
-          "url": "https://news.livedoor.com/topics/detail/32082052/",
-          "source": "ライブドアニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "冬のなんかさ、春のなんかね",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 22 Aug 2026 00:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxwwro6jiftmLBDHLwONtDnjeArtQIvXAA0qXaPHbLqcACS9W8wxm4ETPmbqE",
-      "pictureSource": "au Webポータル",
-      "relatedSearch": [
-        {
-          "title": "演技おばけの杉咲花でも惨敗『冬のなんかさ、春のなんかね』アマプラで大絶賛の黄金コンビが地上波で支持されなかったわけ【2026年前半ドラマ一大事】",
-          "snippet": "",
-          "url": "https://article.auone.jp/baf3baa0-aa8f-4f2d-a715-8e461f660a68",
-          "source": "au Webポータル"
-        },
-        {
-          "title": "(2ページ目) 演技おばけの杉咲花でも惨敗『冬のなんかさ、春のなんかね』アマプラで大絶賛の黄金コンビが地上波で支持されなかったわけ【2026年前半ドラマ一大事】｜ニュース",
-          "snippet": "",
-          "url": "https://pinzuba.news/articles/-/17218?page=2",
-          "source": "ピンズバNEWS"
-        },
-        {
-          "title": "演技おばけの杉咲花でも惨敗『冬のなんかさ、春のなんかね』アマプラで大絶賛の黄金コンビが地上波で支持されなかったわけ【2026年前半ドラマ一大事】｜概要｜ニュース",
-          "snippet": "",
-          "url": "https://pinzuba.news/articles/-/17218",
-          "source": "ピンズバNEWS"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "剣道",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 22 Aug 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLnRHdGOWXnI2NOYYLEVJRx3gDqY2j3bDscUUphGBSVroRJ584AXukKzFvdxY",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "剣道部顧問の暴行、熱中症で息子を亡くして17年。「この裁判負けますよ」と言われても…両親の“8年の闘い”が残したもの",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/039c29b9242d7d803bea498d9f54b35bb7912f7e",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "顧問に腹を蹴られ倒れると「演技するな」と平手打ち…大分・剣道部員の熱中症死から17年。誰が顧問の暴走を止めるのか？両親と考える",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/joshi_spa/trend/joshi_spa-1427104",
+          "url": "https://topics.smt.docomo.ne.jp/article/dailysports/entertainment/20260819173",
           "source": "ｄメニューニュース"
-        },
-        {
-          "title": "顧問に腹を蹴られ倒れると「演技するな」と平手打ち…大分・剣道部員の熱中症死から17年。誰が顧問の暴走を止めるのか？両親と考える（女子SPA！）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/d5d65ce613c85275f1ca2821bd6584ef17a3f879?page=3",
-          "source": "Yahoo!ニュース"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "松山弘平",
+      "title": "落雷",
       "trafficCount": "200+",
-      "pubDate": "Sat, 22 Aug 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30dpM20G3Sisc-3SbCzYtoqeDTCL2X21YGWj-7ReqfkytBKAPGqlmP0k5gDw",
-      "pictureSource": "Yahoo!ニュース",
+      "pubDate": "Sat, 22 Aug 2026 01:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "雨",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 22 Aug 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1fovt_eZLOO_lzCNXXjUVrLbq-bu4niegbAcoSImzhoHJBfOBK7U6UKbwaU",
+      "pictureSource": "亚洲日报",
       "relatedSearch": [
         {
-          "title": "松山弘平騎手がＷＡＳＪ第２戦でスタート直後にまさかの落馬 ファン沈痛「ピクリとも…」「大丈夫かいな」（馬トク報知）",
+          "title": "全国各地降雨，职业棒球比赛乐天-斗山、kt-SSG因雨取消",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/b2a7a4b8f0026e2bf305ac7763bbbbabbec74728",
-          "source": "Yahoo!ニュース"
+          "url": "https://www.ajudaily.com/view/20260822164870159",
+          "source": "亚洲日报"
         },
         {
-          "title": "松山騎手が落馬するも自力で歩く、日曜のキーンランドＣはパンジャタワーに騎乗／札幌11R",
+          "title": "'大雨倾盆，大邱天空骤变，三星与韩华能否如期开赛？[大邱现场]'",
           "snippet": "",
-          "url": "https://www.nikkansports.com/keiba/photonews/photonews_nsInc_202608220000869-0.html",
-          "source": "日刊スポーツ"
+          "url": "https://www.starnewskorea.com/zh/sports/2026/08/16/2026081614555365112",
+          "source": "스타뉴스"
         },
         {
-          "title": "ダービージョッキー松山弘平が落馬 WASJ第2戦のスタート直後に…心配の声続出も23日予定通り騎乗へ",
+          "title": "'沙直球场因雨取消'，大邱虽已整修场地，最终仍因“顺理成章”的场地状况决定取消 [大邱现场]",
           "snippet": "",
-          "url": "https://article.auone.jp/357019a2-884d-4158-b1ef-13bf81a4349b",
-          "source": "au Webポータル"
+          "url": "https://www.starnewskorea.com/zh/sports/2026/08/16/2026081614562191371",
+          "source": "스타뉴스"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "霧島市",
+      "title": "大雨警報 現在",
       "trafficCount": "200+",
-      "pubDate": "Sat, 22 Aug 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrQsHm47IBZTqaz6GnxkmKyH03YYT82CPwH9TBg2E_eIO5FE1tLV-q01PQQKQ",
+      "pubDate": "Sat, 22 Aug 2026 00:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "豪雨",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 22 Aug 2026 00:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "サンモール 高砂",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 22 Aug 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGr3Uzk0D06Z4AL28coHYpzpGhGgf204_g4BSv_e5UVE8cA_wKXW-l-g50SA8",
       "pictureSource": "Yahoo!ニュース",
       "relatedSearch": [
         {
-          "title": "帰宅中の女性の背後から抱きつき脅してリュック奪った疑い、３１歳男を逮捕…容疑を一部否認（読売新聞オンライン）",
+          "title": "8万人の街に1日9万人が押し寄せたのに…閉館から8年､廃墟のまま残る｢解体されない駅前モール｣の顛末",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/d19e86aab1b368521048f0d937ba81f0bcf8fa66",
+          "url": "https://news.yahoo.co.jp/articles/0717e27778cabf3ea722f1840ae61d1f6a2318ba",
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "霧島市の路上で女性(10代)からリュックサック奪ったか 強盗致傷容疑で男(31)を逮捕・送検",
+          "title": "｢ノジマとGUが駅チカ施設に移転→大ダメージ｣｢でも駐車場料金は改悪｣ アクセス微妙｢多摩の廃墟モール｣衰退劇の顛末〈再配信〉",
           "snippet": "",
-          "url": "https://tver.jp/episodes/epnnqtr3bj",
-          "source": "TVer"
+          "url": "https://toyokeizai.net/articles/-/955068?page=2",
+          "source": "東洋経済オンライン"
         },
         {
-          "title": "逮捕　女性に暴行しリュック奪ったか　３１歳の男　容疑を一部否認",
+          "title": "駅前に残る「廃墟モール」の盛衰",
           "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/kkb/region/kkb-20260819-00004094?fm=latestnews",
-          "source": "ｄメニューニュース"
+          "url": "https://news.yahoo.co.jp/pickup/6592618",
+          "source": "Yahoo!ニュース"
         }
       ],
       "link": "https://imtaqin.id/"
