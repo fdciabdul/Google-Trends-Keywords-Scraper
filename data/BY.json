@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-22 13:55:25",
+  "lastUpdate": "2026-08-22 14:16:48",
   "data": [
     {
       "title": "банкротство",
@@ -59,16 +59,35 @@
     },
     {
       "title": "черноморский флот вмф россии",
-      "trafficCount": "100+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 22 Aug 2026 06:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS43mNTAqBwGT056DSAM0j96ov5RGeed7sFDNpsbKuOxnylO_NTnrVDeP23hxM",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Черноморскому флоту России стало опасно в Новороссийске",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/c330grly764o",
+          "source": "BBC"
+        },
+        {
+          "title": "Украина вывела из строя флагман Черноморского флота фрегат «Адмирал Макаров»",
+          "snippet": "",
+          "url": "https://ru.themoscowtimes.com/2026/08/19/ukraina-vivela-izstroya-flagman-chernomorskogo-flota-fregat-admiral-makarov-a203894",
+          "source": "Русская служба The Moscow Times"
+        },
+        {
+          "title": "В августе Россия лишь один раз применила носители \"Калибров\" для ударов по Украине с моря, - Плетенчук",
+          "snippet": "",
+          "url": "https://censor.net/ru/news/4019480/udary-kalibrov-po-ukraine-kolichestvo-atak-umenshaetsya",
+          "source": "Цензор.НЕТ"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "аэропорт",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sat, 22 Aug 2026 05:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRthJktzcVtbq4-qj15slFoD_oGl7mY-v1tNNa4IDJrI8tNaIkxrUG0fCaKKTw",
       "pictureSource": "URA.RU",
@@ -108,23 +127,23 @@
           "source": "СБ. Беларусь сегодня"
         },
         {
-          "title": "Betera-высшая лига, 19-й тур. Известны стартовые составы на матч между \"Белшиной\" и \"Арсеналом\"",
+          "title": "Betera-высшая лига. 19-й тур. \"Белшина\" - \"Арсенал\". Стартовые составы команд",
           "snippet": "",
-          "url": "https://pressball.by/news/football/betera-vysshaya-liga-19-j-tur-izvestny-startovye-sostavy-na-match-mezhdu-belshinoj-i-arsenalom/",
-          "source": "Прессбол"
+          "url": "https://football.by/news/223034",
+          "source": "Football.by"
         },
         {
-          "title": "Пять матчей 19 тура Высшей лиги будут показаны на белорусском ТВ",
+          "title": "Два футболиста «Арсенала» не доиграли матч с «Белшиной» из-за травм",
           "snippet": "",
-          "url": "https://bel.football/news/pyat-matchey-19-tura-vysshey-ligi-budut-pokazany-na-belorusskom-tv",
-          "source": "Bel.Football"
+          "url": "https://betnews.by/dva-futbolista-arsenala-ne-doigrali-match-s-belshinoj-iz-za-travm/",
+          "source": "betnews.by"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "халл сити – манчестер юнайтед",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 22 Aug 2026 03:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkJmaYa3TnVjLPa5NpQxOSdggZ9AFYz30UQwctZiwoT9Qmd_HF4Z0cgaHXgiA",
       "pictureSource": "FAPL.ru",
@@ -136,16 +155,16 @@
           "source": "FAPL.ru"
         },
         {
-          "title": "Cезон 2025/26. Первое превью к матчу Премьер-Лиги против «Халл Сити»",
-          "snippet": "",
-          "url": "https://carrick.ru/preview/cezon-2025-26-pervoe-prevju-k-matchu-premer-ligi-protiv-hall-siti/",
-          "source": "Карриковедение — Авангард Манчестер Юнайтед"
-        },
-        {
           "title": "Чемпионат Англии. Вернувшийся в АПЛ \"Халл\" дома переиграл \"Манчестер Юнайтед\"",
           "snippet": "",
           "url": "https://pressball.by/news/football/chempionat-anglii-vernuvshijsya-v-apl-hall-doma-pereigral-manchester-yunajted/",
           "source": "Прессбол"
+        },
+        {
+          "title": "Англия. «Манчестер Юнайтед» сыграет с «Халл Сити», «Эвертон» — «Кристал Пэлас» и другие встречи",
+          "snippet": "",
+          "url": "https://bel.football/news/angliya-lodonskiy-arsenal-uverenno-obygral-koventri-siti",
+          "source": "Bel.Football"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -174,34 +193,6 @@
           "snippet": "",
           "url": "https://www.interfax.ru/russia/1110590",
           "source": "Интерфакс"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "новороссийск",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 22 Aug 2026 02:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7GTOgvA1Cgjq4Ju0S1IjTXN2qEVnwqyBgqhhBL9VIe9rkWM8DZsxWsu2lB38",
-      "pictureSource": "Блокнот Новороссийск",
-      "relatedSearch": [
-        {
-          "title": "Глава СК Бастрыкин вмешался в ситуацию с невыплатой зарплат рабочим в Новороссийске и Геленджике",
-          "snippet": "",
-          "url": "https://bloknot-novorossiysk.ru/news/glava-sk-bastrykin-vmeshalsya-v-situatsiyu-s-nevyp-2002941",
-          "source": "Блокнот Новороссийск"
-        },
-        {
-          "title": "«Верните наши деньги!». Экипажи мусоровозов из Новороссийска и Геленджика «кинули» на зарплату",
-          "snippet": "",
-          "url": "https://novorab.ru/2026/08/21/vernite-nashi-dengi-ekipazhi-musorovozov-iz-novorossijska-i-gelendzhika-kinuli-na-zarplatu/",
-          "source": "Новороссийский рабочий"
-        },
-        {
-          "title": "В Новороссийске и Геленджике СКР проверит работодателя, лишившего рабочих зарплат",
-          "snippet": "",
-          "url": "https://kuban.bfm.ru/news/60660",
-          "source": "BFM Кубань"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -238,9 +229,15 @@
       "title": "iphone",
       "trafficCount": "500+",
       "pubDate": "Sat, 22 Aug 2026 00:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDK50DbnAJswUThpwzAM84SvO5_dgg6dxnsIE9lzCk2Ah3BLtfESgiwlwRUio",
-      "pictureSource": "The Times of India",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBDBZFowHB0-MoSMM3lPyCRdnOu1i1ElzKHDhVhYZX76zns19zWogMPQYBSx0",
+      "pictureSource": "NDTV",
       "relatedSearch": [
+        {
+          "title": "Begging, Pleading, Prostrating: Mother's Desperate Attempts To Stop Suicidal Teen",
+          "snippet": "",
+          "url": "https://www.ndtv.com/india-news/maharashtra-hill-horror-iphone-deaths-chhatrapati-sambhajinagar-begging-pleading-prostrating-mothers-desperate-attempts-to-stop-suicidal-teen-11945161",
+          "source": "NDTV"
+        },
         {
           "title": "Final minutes of Maharashtra hill tragedy: Sarpanch offers iPhone, teen says ‘death only solution now'",
           "snippet": "",
@@ -252,12 +249,34 @@
           "snippet": "",
           "url": "https://www.thehindu.com/news/national/maharashtra/iphone-dispute-ends-in-tragedy-as-maharashtra-boy-jumps-from-cliff-parents-die-trying-to-save-him/article71374802.ece",
           "source": "The Hindu"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кривой рог",
+      "trafficCount": "200+",
+      "pubDate": "Fri, 21 Aug 2026 23:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWxJKv3oYba1TFspGnqAr3g6CZ9P50Ekn_ZvFuLrzCUU2f2Ro760YbDzGWqBM",
+      "pictureSource": "Euronews.com",
+      "relatedSearch": [
+        {
+          "title": "Число жертв российского удара по торговому центру в Кривом Роге выросло до 16",
+          "snippet": "",
+          "url": "https://ru.euronews.com/my-europe/2026/08/21/at-least-six-people-have-been-killed-and-91-injured-in-a-russian-daytime-attack-on-a-shopp",
+          "source": "Euronews.com"
         },
         {
-          "title": "Indian Family Wipeout Over iPhone: The Dangerous Lure Of Consumer Tech Debt",
+          "title": "Торговый центр в Кривом Роге атаковали российские дроны: 16 погибших, десятки раненых",
           "snippet": "",
-          "url": "https://www.ndtv.com/india-news/indian-family-wipeout-over-iphone-the-dangerous-lure-of-consumer-tech-debt-11943858",
-          "source": "NDTV"
+          "url": "https://www.bbc.com/russian/articles/c1d1vklgvr1o",
+          "source": "BBC"
+        },
+        {
+          "title": "Власти Кривого Рога сообщили о 14 погибших и более 100 пострадавших при ударе по ТЦ",
+          "snippet": "",
+          "url": "https://www.forbes.ru/society/567098-vlasti-krivogo-roga-soobsili-o-14-pogibsih-i-bolee-100-postradavsih-pri-udare-po-tc",
+          "source": "Forbes.ru"
         }
       ],
       "link": "https://imtaqin.id/"
