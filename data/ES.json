@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-08-22 02:38:55",
+  "lastUpdate": "2026-08-22 03:23:54",
   "data": [
     {
-      "title": "noticias",
+      "title": "clima",
       "trafficCount": "1000+",
+      "pubDate": "Fri, 21 Aug 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2p4h8LxQ6yP7iJgpDEReMfkPqZCInfHjL8gpVRogA5ZrLkI0NuC-v_kFdkHQ",
+      "pictureSource": "El Confidencial",
+      "relatedSearch": [
+        {
+          "title": "AEMET: el tiempo en Sevilla para mañana, sábado 22 de agosto, al detalle",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/el-tiempo/2026-08-21/el-tiempo-en-sevilla-sabado_4409778/",
+          "source": "El Confidencial"
+        },
+        {
+          "title": "Fin de semana estable en Sevilla antes de que vuelva la lluvia: máximas de 35ºC y cielos despejados hasta el lunes",
+          "snippet": "",
+          "url": "https://www.diariodesevilla.es/sevilla/fin-semana-estable-sevilla-antes-lluvia_0_2007756754.html",
+          "source": "Diario de Sevilla"
+        },
+        {
+          "title": "Un chaparrón sorprende a Sevilla en pleno agosto y deja grandes balsas de agua",
+          "snippet": "",
+          "url": "https://www.abc.es/sevilla/ciudad/chaparron-sorprende-sevilla-pleno-agosto-deja-grandes-20260820110745-nts.html",
+          "source": "ABC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "fútbol",
+      "trafficCount": "10000+",
+      "pubDate": "Fri, 21 Aug 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-oFM32uNYMSEZDG00mTy-AO48erCBaHaPDs-1W8rflqJiVvAMJQveYmbrjd4",
+      "pictureSource": "Diario AS",
+      "relatedSearch": [
+        {
+          "title": "Duras sanciones de FIFA por la pelea en la final del Mundial: ¡10 partidos a Paredes, siete a Nahuel...!",
+          "snippet": "",
+          "url": "https://as.com/futbol/mundial/sanciones-de-la-final-del-mundial-10-partidos-a-paredes-y-siete-a-nahuel-f202608-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "La FIFA sanciona con 10 partidos a Paredes, siete a Molina, tres a Ayala, uno a Almada y uno a Gavi por las agresiones tras la final del Mundial",
+          "snippet": "",
+          "url": "https://www.elmundo.es/deportes/futbol/2026/08/21/6a885df6fc6c8353118b4597.html",
+          "source": "El Mundo"
+        },
+        {
+          "title": "10 partidos de sanción para Paredes, siete para Nahuel Molina, uno para Almada y uno para Gavi por los incidentes en la final del Mundial",
+          "snippet": "",
+          "url": "https://cadenaser.com/nacional/2026/08/21/la-fifa-anuncia-sanciones-por-los-incidentes-en-la-final-del-mundial-10-partidos-a-paredes-siete-para-nahuel-molina-dos-a-almada-y-uno-para-gavi-cadena-ser/",
+          "source": "Cadena SER"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "noticias",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 21 Aug 2026 19:30:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTerdfcmWvqZlK9EJwL2nIULwRCO-Yf38GxIhp6cnxTVMh8ebcxu55NqU3Af48",
       "pictureSource": "RTVE.es",
@@ -25,62 +81,6 @@
           "snippet": "",
           "url": "https://www.20minutos.es/nacional/gobierno-traslada-marruecos-su-rechazo-sus-reivindicaciones-soberania-ceuta-melilla-son-espanolas_7028274_0.html",
           "source": "20Minutos"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "deportes",
-      "trafficCount": "1000+",
-      "pubDate": "Fri, 21 Aug 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbLDYJWj2_vgKG3_zZur6BMS8TZBwMKtAyS8dZBu2MiIdde0kI2BMY9VNMox8",
-      "pictureSource": "Diario AS",
-      "relatedSearch": [
-        {
-          "title": "Arsenal 3-0 Coventry: goles, resumen y resultado",
-          "snippet": "",
-          "url": "https://as.com/futbol/internacional/arsenal-conventry-en-vivo-premier-league-en-directo-hoy-f202608-d/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "La Premier de la sucesión de Guardiola es el gran duelo de los técnicos vascos",
-          "snippet": "",
-          "url": "https://elpais.com/deportes/futbol/2026-08-21/la-premier-de-la-sucesion-de-guardiola-es-el-gran-duelo-de-los-tecnicos-vascos.html",
-          "source": "EL PAÍS"
-        },
-        {
-          "title": "Vuelve la Premier League a Movistar Plus: el Newcastle United-Liverpool se vivirá en el canal principal de la plataforma",
-          "snippet": "",
-          "url": "https://www.movistarplus.es/comunicacion/notas-de-prensa/vuelve-la-premier-league-a-movistar-plus-el-newcastle-united-liverpool-se-vivira-en-el-canal-principal-de-la-plataforma/",
-          "source": "Movistar Plus"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fútbol",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 21 Aug 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr_hv5XSE3e7ZhLTNSSlIAgxJB-Kcd7oH6TpcVKcb7XQluwxASMfA7tbDve24",
-      "pictureSource": "RFEF",
-      "relatedSearch": [
-        {
-          "title": "Comunicado oficial",
-          "snippet": "",
-          "url": "https://rfef.es/es/noticias/comunicado-oficial-18",
-          "source": "RFEF"
-        },
-        {
-          "title": "El Juzgado de lo Mercantil de Málaga ha estimado la oposición de la Federación Española y deja al Heredia 21 sin competir",
-          "snippet": "",
-          "url": "https://cadenaser.com/andalucia/2026/08/21/el-juzgado-de-lo-mercantil-de-malaga-ha-estimado-la-oposicion-de-la-federacion-espanola-y-deja-al-heredia-21-sin-competir-ser-malaga/",
-          "source": "Cadena SER"
-        },
-        {
-          "title": "La RFEF vuelve a dejar fuera de las competiciones nacionales al Heredia 21 de fútbol-sala",
-          "snippet": "",
-          "url": "https://www.diariosur.es/deportes/mas-deportes/rfef-vuelve-dejar-competiciones-nacionales-heredia-futbolsala-20260820184230-nt.html",
-          "source": "Diario Sur"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -114,6 +114,34 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "hoteles",
+      "trafficCount": "1000+",
+      "pubDate": "Fri, 21 Aug 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEkmZWeUjoPK4RwWRDQK0JvYZdiuUrNyKr9yQh7uFirWRpVH5cFCGdT55T_Gs",
+      "pictureSource": "EL PAÍS",
+      "relatedSearch": [
+        {
+          "title": "La ocupación hotelera alcanza un récord en julio pese a la fuerte subida de precios",
+          "snippet": "",
+          "url": "https://elpais.com/economia/2026-08-21/la-ocupacion-hotelera-alcanza-un-record-en-julio-pese-a-la-subida-historica-de-precios.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Nuevo modelo hotelero: los precios crecen cuatro veces más que las pernoctaciones y la demanda lo soporta",
+          "snippet": "",
+          "url": "https://www.elconfidencial.com/economia/2026-08-22/nuevo-modelo-hotelero-precios-crecen-cuatro-veces-mas-pernoctaciones-demanda-soporta_4409607/",
+          "source": "El Confidencial"
+        },
+        {
+          "title": "El turismo de hotel expulsa a la clase media: el precio por noche en la Costa del Sol, Guipúzcoa o Menorca supera los 200 euros",
+          "snippet": "",
+          "url": "https://www.abc.es/economia/turismo-hotel-expulsa-clase-media-noche-costa-20260821134927-nt.html",
+          "source": "ABC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "vuelos",
       "trafficCount": "1000+",
       "pubDate": "Fri, 21 Aug 2026 19:20:00 -0700",
@@ -142,36 +170,36 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "hoteles",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 21 Aug 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEkmZWeUjoPK4RwWRDQK0JvYZdiuUrNyKr9yQh7uFirWRpVH5cFCGdT55T_Gs",
-      "pictureSource": "EL PAÍS",
+      "title": "playa",
+      "trafficCount": "2000+",
+      "pubDate": "Fri, 21 Aug 2026 19:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqEku8Yw97wzYRM5LMIcwIuL9OT1OHTxmCrPjYw2kH-hhMjqhXLpMHaufAiL8",
+      "pictureSource": "El Mundo",
       "relatedSearch": [
         {
-          "title": "La ocupación hotelera alcanza un récord en julio pese a la fuerte subida de precios",
+          "title": "Como el ratón y el gato en Ceuta: la Policía vuelve a desalojar Trampolín y los migrantes vuelven a ocupar la playa",
           "snippet": "",
-          "url": "https://elpais.com/economia/2026-08-21/la-ocupacion-hotelera-alcanza-un-record-en-julio-pese-a-la-subida-historica-de-precios.html",
-          "source": "EL PAÍS"
+          "url": "https://www.elmundo.es/espana/2026/08/21/6a883010e9cf4a82428b4590.html",
+          "source": "El Mundo"
         },
         {
-          "title": "El turismo de hotel expulsa a la clase media: el precio por noche en la Costa del Sol, Guipúzcoa o Menorca supera los 200 euros",
+          "title": "Vuelven a desalojar a más de mil migrantes de la playa del Trampolín en Ceuta",
           "snippet": "",
-          "url": "https://www.abc.es/economia/turismo-hotel-expulsa-clase-media-noche-costa-20260821134927-nt.html",
+          "url": "https://www.lavozdegalicia.es/noticia/espana/2026/08/21/vuelven-desalojar-mil-migrantes-playa-trampolin-ceuta/00031787304596222510363.htm",
+          "source": "La Voz de Galicia"
+        },
+        {
+          "title": "Los inmigrantes hacen naufragar el plan de reagrupación del Gobierno en Ceuta",
+          "snippet": "",
+          "url": "https://www.abc.es/espana/inmigrantes-naufragar-plan-reagrupacion-gobierno-ceuta-20260821140611-nt.html",
           "source": "ABC"
-        },
-        {
-          "title": "Los precios de los hoteles, más caros que nunca",
-          "snippet": "",
-          "url": "https://www.rtve.es/play/videos/programa/precios-hoteles-mas-caros-nunca/17198208/",
-          "source": "RTVE.es"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bancos",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 21 Aug 2026 19:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlwtSfct24aegbfI2tEFBSxnfN59lk9pV90lC_in_-N49YHTyRoyTDWRE0I2w",
       "pictureSource": "El Mundo",
@@ -199,7 +227,7 @@
     },
     {
       "title": "cine",
-      "trafficCount": "500+",
+      "trafficCount": "2000+",
       "pubDate": "Fri, 21 Aug 2026 19:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnVgh9kB253IS9vyn82CrhW971J4tUCXUsorHbZN369rjc7_W4ARa37cqpmF0",
       "pictureSource": "3DJuegos",
@@ -226,36 +254,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "playa",
-      "trafficCount": "500+",
-      "pubDate": "Fri, 21 Aug 2026 19:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqEku8Yw97wzYRM5LMIcwIuL9OT1OHTxmCrPjYw2kH-hhMjqhXLpMHaufAiL8",
-      "pictureSource": "El Mundo",
-      "relatedSearch": [
-        {
-          "title": "Como el ratón y el gato en Ceuta: la Policía vuelve a desalojar Trampolín y los migrantes vuelven a ocupar la playa",
-          "snippet": "",
-          "url": "https://www.elmundo.es/espana/2026/08/21/6a883010e9cf4a82428b4590.html",
-          "source": "El Mundo"
-        },
-        {
-          "title": "Vuelven a desalojar a más de mil migrantes de la playa del Trampolín en Ceuta",
-          "snippet": "",
-          "url": "https://www.lavozdegalicia.es/noticia/espana/2026/08/21/vuelven-desalojar-mil-migrantes-playa-trampolin-ceuta/00031787304596222510363.htm",
-          "source": "La Voz de Galicia"
-        },
-        {
-          "title": "Los inmigrantes hacen naufragar el plan de reagrupación del Gobierno en Ceuta",
-          "snippet": "",
-          "url": "https://www.abc.es/espana/inmigrantes-naufragar-plan-reagrupacion-gobierno-ceuta-20260821140611-nt.html",
-          "source": "ABC"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "música",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Fri, 21 Aug 2026 19:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvlGTJNJUtYWxr2kslJSEQlMYiuIWkRdgufIUG_uzpMcH2_ZdaBLY1NhrIyI",
       "pictureSource": "El Mundo",
