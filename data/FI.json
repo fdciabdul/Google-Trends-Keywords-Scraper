@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-23 08:41:16",
+  "lastUpdate": "2026-08-23 09:03:09",
   "data": [
     {
       "title": "jääkiekon sm-liiga",
@@ -83,15 +83,9 @@
       "title": "kiipeilijä",
       "trafficCount": "500+",
       "pubDate": "Sun, 23 Aug 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRm7gDGYL3CQL5S8HDuk4_Q7DL-QYUhXl9VT9VOXlxZOSLLJlMYlA9WzUz5Mks",
-      "pictureSource": "Ilta-Sanomat",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeQ6c7266vOjrZ3XKCMdkel2fT0QQ2kFIu2IgAn35LjOe6yu-fLFuos7U4FQ",
+      "pictureSource": "Iltalehti",
       "relatedSearch": [
-        {
-          "title": "19-vuotias kiipeilijä putosi kuolemaansa",
-          "snippet": "",
-          "url": "https://www.is.fi/ulkomaat/art-2000012224298.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "Suru-uutinen tänään tv:ssä: Kiipeilijä kuoli puolisonsa syliin",
           "snippet": "",
@@ -99,7 +93,13 @@
           "source": "Iltalehti"
         },
         {
-          "title": "Anni Penttilä julkaisee videoita 8000 m vuorten huipuilta",
+          "title": "Suomalainen vuorikiipeilijä Anni: Järkyttävä uutinen juuri ennen vaarallista tempausta",
+          "snippet": "",
+          "url": "https://www.seiska.fi/katso/suomalainen-vuorikiipeilija-anni-jarkyttava-uutinen-juuri-ennen-vaarallista-tempausta/2239374",
+          "source": "Seiska.fi"
+        },
+        {
+          "title": "Anni julkaisee uskomattomia videoita 8000-metristen vuorten huipuilta – \"En usko, että läheiseni tarvitsevat ruumistani mihinkään\"",
           "snippet": "",
           "url": "https://www.mtvuutiset.fi/artikkeli/anni-julkaisee-uskomattomia-videoita-8000-metristen-vuorten-huipuilta-nyt-han-paljastaa-mika-vuorikiipeilyssa-on-tyhmaa/9381466",
           "source": "mtvuutiset.fi"
@@ -145,34 +145,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "huijaus",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 22 Aug 2026 23:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZ1sVzHnu4xyWXTe1kiPqSSLmbdkjg0ifrTTjsuMIjFHQUoJS6Bxp4gTZQYto",
-      "pictureSource": "Ilta-Sanomat",
-      "relatedSearch": [
-        {
-          "title": "Tällainen puhelu on vaarallinen – ja nyt voit hyvinkin saada sellaisen",
-          "snippet": "",
-          "url": "https://www.is.fi/digitoday/tietoturva/art-2000012220923.html",
-          "source": "Ilta-Sanomat"
-        },
-        {
-          "title": "Rikolliset iskivät nyt palkanmaksuun",
-          "snippet": "",
-          "url": "https://www.suomenmaa.fi/uutiset/rikolliset-iskivat-nyt-palkanmaksuun/",
-          "source": "Suomenmaa.fi"
-        },
-        {
-          "title": "Traficom varoittaa yrityksiä palkanmaksuhuijauksista",
-          "snippet": "",
-          "url": "https://www.vantaansanomat.fi/paikalliset/9719271",
-          "source": "Vantaan Sanomat"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "pesäpallo",
       "trafficCount": "500+",
       "pubDate": "Sat, 22 Aug 2026 23:20:00 -0700",
@@ -196,6 +168,34 @@
           "snippet": "",
           "url": "https://yle.fi/a/74-20242425",
           "source": "Yle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "huijaus",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 22 Aug 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZ1sVzHnu4xyWXTe1kiPqSSLmbdkjg0ifrTTjsuMIjFHQUoJS6Bxp4gTZQYto",
+      "pictureSource": "Ilta-Sanomat",
+      "relatedSearch": [
+        {
+          "title": "Tällainen puhelu on vaarallinen – ja nyt voit hyvinkin saada sellaisen",
+          "snippet": "",
+          "url": "https://www.is.fi/digitoday/tietoturva/art-2000012220923.html",
+          "source": "Ilta-Sanomat"
+        },
+        {
+          "title": "Tämä on huijareiden uusi suosikkitemppu – Suomalaisia varoitetaan",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/digiuutiset/a/524920ae-bf4b-43a8-aab2-4dfabc405f82",
+          "source": "Iltalehti"
+        },
+        {
+          "title": "Rikolliset iskivät nyt palkanmaksuun",
+          "snippet": "",
+          "url": "https://www.suomenmaa.fi/uutiset/rikolliset-iskivat-nyt-palkanmaksuun/",
+          "source": "Suomenmaa.fi"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -230,28 +230,28 @@
     },
     {
       "title": "venäjän talous",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 22 Aug 2026 22:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWVXsIwfjgzGzf06MySrVmhxg6KcGIMDKa8OoR2jFRXMc8xq9aa7g9Npo6ivg",
-      "pictureSource": "Iltalehti",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWqN7VzZobrjkxxhRLTLQ9K5Dy5emCMwNg7PuLtfKHjtXacEK1NQkBKRiFh8A",
+      "pictureSource": "Tekniikka&Talous",
       "relatedSearch": [
-        {
-          "title": "Analyysi: Putin varautui joukkopakoon – Rajalla alkaa nyt olla kiire",
-          "snippet": "",
-          "url": "https://www.iltalehti.fi/ulkomaat/a/7b68be0c-d2e0-4583-9c17-63abe98b5425",
-          "source": "Iltalehti"
-        },
-        {
-          "title": "Venäjällä huhutaan liikekannallepanosta – asiantuntija: Suomen on syytä varautua",
-          "snippet": "",
-          "url": "https://www.is.fi/ulkomaat/art-2000012220237.html",
-          "source": "Ilta-Sanomat"
-        },
         {
           "title": "Valtava joukkopako Venäjältä alkoi taas: 20 000 ihmistä päivässä karkuun",
           "snippet": "",
           "url": "https://www.tekniikkatalous.fi/uutiset/a/dbad164d-bcd4-4ac1-a107-6405e612f393",
           "source": "Tekniikka&Talous"
+        },
+        {
+          "title": "Suomen presidenttipari vierailee parhaillaan Kiovassa",
+          "snippet": "",
+          "url": "https://yle.fi/a/74-20010573/64-3-308165",
+          "source": "Yle"
+        },
+        {
+          "title": "Analyysi: Putin varautui joukkopakoon – Rajalla alkaa nyt olla kiire",
+          "snippet": "",
+          "url": "https://www.iltalehti.fi/ulkomaat/a/7b68be0c-d2e0-4583-9c17-63abe98b5425",
+          "source": "Iltalehti"
         }
       ],
       "link": "https://imtaqin.id/"
