@@ -1,13 +1,20 @@
 {
-  "lastUpdate": "2026-08-24 21:58:30",
+  "lastUpdate": "2026-08-24 22:30:21",
   "data": [
     {
       "title": "liina raud",
       "trafficCount": "100+",
       "pubDate": "Mon, 24 Aug 2026 12:40:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLkoRj6helLltiRTGfvs0Pi3Joe5la8e4YTP30SLvx2MK-abeT3PFku_CmQvo",
+      "pictureSource": "Vikerraadio",
+      "relatedSearch": [
+        {
+          "title": "Käbi ei kuku... Liina Raud ja Juta Vahter",
+          "snippet": "",
+          "url": "https://vikerraadio.err.ee/1610106311/kabi-ei-kuku-liina-raud-ja-juta-vahter",
+          "source": "Vikerraadio"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
@@ -129,9 +136,15 @@
       "title": "безработица",
       "trafficCount": "2000+",
       "pubDate": "Mon, 24 Aug 2026 04:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgRTfTW23agP6t1-1YgVVhzjPtPJZhULQyLOWsBeyzAlXYtuGhSQZc4sNbmWU",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrcrdwVc2uqN3x1uWRo1hR1-81jgEbzjOP9Y3XJhEStp127ZzDo0zRDqgcfmY",
+      "pictureSource": "Delfi RUS",
       "relatedSearch": [
+        {
+          "title": "Delfi RUS",
+          "snippet": "",
+          "url": "https://rus.delfi.ee/statja/120605584/kassa-po-bezrabotice-estonii-prekrashchaet-finansirovanie-uslugi-konsultirovaniya-na-osnove-lichnogo-opyta-konsultanty-opasayutsya-chto-bez-pomoshchi-ostanutsya-samye-uyazvimye",
+          "source": "Delfi RUS"
+        },
         {
           "title": "Завышенные ожидания соискателей по зарплатам усложняют наем",
           "snippet": "",
@@ -143,12 +156,6 @@
           "snippet": "",
           "url": "https://www.bfm.ru/news/616023",
           "source": "BFM.ru"
-        },
-        {
-          "title": "Безработицы нет. Работы тоже",
-          "snippet": "",
-          "url": "https://smart-lab.ru/blog/1343063.php",
-          "source": "Smart-Lab"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -157,20 +164,20 @@
       "title": "margus saar",
       "trafficCount": "1000+",
       "pubDate": "Mon, 24 Aug 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDSAs82EKbpK_bob5Z5GXKGd4GATdmT9YX-G83-ePki1j2bF_VJG-maoDO2TQ",
-      "pictureSource": "Kroonika",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7I9BhR__SMEYYYfIdVEDOv_nBKDsKkWQes6KZ2u-n3SMUSdQtiOubA2khP5k",
+      "pictureSource": "eeter | ERR",
       "relatedSearch": [
-        {
-          "title": "Kroonika",
-          "snippet": "",
-          "url": "https://kroonika.delfi.ee/artikkel/120605232/katrin-viirpalu-saab-endale-terevisioonis-uue-ameti",
-          "source": "Kroonika"
-        },
         {
           "title": "\"Terevisiooni\" hommikutega liitub Margus Saar",
           "snippet": "",
           "url": "https://eeter.err.ee/1610117341/terevisiooni-hommikutega-liitub-margus-saar",
           "source": "eeter | ERR"
+        },
+        {
+          "title": "Kroonika",
+          "snippet": "",
+          "url": "https://kroonika.delfi.ee/artikkel/120605232/katrin-viirpalu-saab-endale-terevisioonis-uue-ameti",
+          "source": "Kroonika"
         },
         {
           "title": "«Olid pilves ja panid hullu.» USA naisvangivalvurit ähvardab kinnipeetavaga seksimise eest karm karistus",
