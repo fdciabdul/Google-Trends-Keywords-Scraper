@@ -1,6 +1,71 @@
 {
-  "lastUpdate": "2026-08-24 04:09:12",
+  "lastUpdate": "2026-08-24 04:58:58",
   "data": [
+    {
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 23 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5whq8d1wpCw9IzMCeZdApzV1FVX8sC8yjV38oFbyPL-DCu7BJ5rYrcOSci1I",
+      "pictureSource": "WBAL-TV",
+      "relatedSearch": [
+        {
+          "title": "Nice weather for back to school",
+          "snippet": "",
+          "url": "https://www.wbaltv.com/article/nice-weather-for-back-to-school/73505723",
+          "source": "WBAL-TV"
+        },
+        {
+          "title": "Sunny, comfortable weather greets Philadelphia region for first day of school. Here's the forecast.",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/philadelphia/news/monday-philadelphia-region-school-forecast-weather-august-24/",
+          "source": "CBS News"
+        },
+        {
+          "title": "DC-area students head back to school with sunny, mild weather",
+          "snippet": "",
+          "url": "https://www.fox5dc.com/video/fmc-rxi38cgk4j2ha7tr",
+          "source": "FOX 5 DC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteo",
+      "trafficCount": "2000+",
+      "pubDate": "Sun, 23 Aug 2026 20:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 23 Aug 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUSsXNSTq7vVTJjYPbxLzFLtCcS-y5YxOCqnrWeZWKlkWeEyxzHyIlmb0hWo",
+      "pictureSource": "NEWSru.co.il",
+      "relatedSearch": [
+        {
+          "title": "Прогноз погоды в Израиле, 24.08.2026 Newsru.co.il",
+          "snippet": "",
+          "url": "https://www.newsru.co.il/israel/24aug2026/pogoda.html",
+          "source": "NEWSru.co.il"
+        },
+        {
+          "title": "Погода в Израиле на понедельник, 24 августа",
+          "snippet": "",
+          "url": "https://www.9tv.co.il/item/262333",
+          "source": "9 Канал Израиль"
+        },
+        {
+          "title": "Какой будет погода 24 августа – прогноз",
+          "snippet": "",
+          "url": "https://cursorinfo.co.il/weather/kakoj-budet-pogoda-24-avgusta-prognoz/",
+          "source": "Cursorinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "спартак-москва – «зенит» санкт-петербург турнирная таблица",
       "trafficCount": "200+",
@@ -33,26 +98,26 @@
       "title": "температура воздуха",
       "trafficCount": "200+",
       "pubDate": "Sun, 23 Aug 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZQegiu2F9ndc8qLaQ4Sk3BC_XXX8imnsUorZiDWh6bdeBt8PFTjUqxNeij4",
-      "pictureSource": "Afisha.uz",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToWKyLJzVLCb7-lHnxNPXMFNW4pN8DI3feruH3GFUC8LFa3_UH_NEfyvl1QVY",
+      "pictureSource": "Погода Mail",
       "relatedSearch": [
         {
-          "title": "Жара отступает: в столице до +34° на выходных — Афиша Ташкента",
+          "title": "Россия готовится к жаре: сегодня температура поднимется до +30 °С",
           "snippet": "",
-          "url": "https://www.afisha.uz/ru/gorod/2026/08/21/weather",
-          "source": "Afisha.uz"
+          "url": "https://pogoda.mail.ru/news/72068696/",
+          "source": "Погода Mail"
         },
         {
-          "title": "Прогноз погоды в Узбекистане на 22 августа",
+          "title": "24 августа: днём +24°, ночью +14°",
           "snippet": "",
-          "url": "https://repost.uz/pogoda-22avgusta2026",
-          "source": "repost.uz"
+          "url": "https://voronezhnews.ru/fn_1932368.html",
+          "source": "voronezhnews.ru"
         },
         {
-          "title": "В Узбекистане ожидается понижение температуры воздуха",
+          "title": "Прогноз погоды на 23-25 августа: температура от +10 до +22 градусов.",
           "snippet": "",
-          "url": "https://upl.uz/pogoda/65951-news.html",
-          "source": "Новости Узбекистана — Upl.uz"
+          "url": "https://kaluganews.ru/fn_1932004.html",
+          "source": "Калужские новости"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,9 +126,15 @@
       "title": "elche - barcelona",
       "trafficCount": "1000+",
       "pubDate": "Sun, 23 Aug 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT609Hm4BEZIzNrxQdiBb_ZB7luko5Jw0jCFkU0iZAS0meGgZkShtC30hA4noo",
-      "pictureSource": "Efekto10",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREAik9XO-6dCMu65Jd1S3nvMztU3H8WJ7F8so1hniWaQjrCpDB-Pz5GvEurUs",
+      "pictureSource": "FDP Radio",
       "relatedSearch": [
+        {
+          "title": "Dobletes de Raphinha y Fermín, y el primer gol de Adeyemi, pintaron la fiesta",
+          "snippet": "",
+          "url": "https://fdpradio.com/dobletes-de-raphinha-y-fermin-y-el-primer-gol-de-adeyemi-pintaron-la-fiesta/",
+          "source": "FDP Radio"
+        },
         {
           "title": "“Lo hemos hecho muy bien desde el inicio y eso lo ha facilitado”",
           "snippet": "",
@@ -71,16 +142,10 @@
           "source": "Efekto10"
         },
         {
-          "title": "Barcelona inicia la defensa del título de La Liga con goleada 5-0 en Elche",
+          "title": "¿Por qué no juega Pedri en Elche vs Barcelona?",
           "snippet": "",
-          "url": "https://www.mcall.com/2026/08/23/barcelona-inicia-la-defensa-del-ttulo-de-la-liga-con-goleada-5-0-en-elche/",
-          "source": "The Morning Call"
-        },
-        {
-          "title": "Chust: \"Jugamos ante un gran equipo y los errores los pagas\"",
-          "snippet": "",
-          "url": "https://www.marca.com/futbol/elche/2026/08/24/chust-jugamos-gran-equipo-errores-pagas.html",
-          "source": "MARCA"
+          "url": "https://www.365scores.com/es/news/pedri-por-que-no-juega-elche/",
+          "source": "365Scores"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -105,10 +170,10 @@
           "source": "Футбол на Куличках"
         },
         {
-          "title": "Гол Рафиньи с пенальти. Эльче - Барселона. 0:1 (видео). Чемпионат Испании. Футбол",
+          "title": "Новичок «Барселоны» Родри не попал в заявку на первый матч сезона",
           "snippet": "",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbvideo_NI2357280_clip_Gol_Rafini_s_penalti_Elche___Barselona_01_video_Chempionat_Ispanii_Futbol",
-          "source": "Sportbox"
+          "url": "https://sportmail.ru/article/football-foreign/72087362/",
+          "source": "Спорт Mail"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,9 +192,9 @@
           "source": "L'Équipe"
         },
         {
-          "title": "La réaction à chaud de Mika Godts après le nul du PSG contre Rennes",
+          "title": "PSG : Luis Enrique met déjà un énorme coup de pression à son groupe !",
           "snippet": "",
-          "url": "https://www.footmercato.net/a2730793684631643149-la-reaction-a-chaud-de-mika-godts-apres-le-nul-du-psg-contre-rennes",
+          "url": "https://www.footmercato.net/a8691561822610847231-psg-luis-enrique-met-deja-un-enorme-coup-de-pression-a-ousmane-dembele-et-khvicha-kvaratskhelia",
           "source": "Foot Mercato"
         },
         {
@@ -145,13 +210,13 @@
       "title": "ренн – псж",
       "trafficCount": "500+",
       "pubDate": "Sun, 23 Aug 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-yxRn-3nMnkhyLmtfMTJ2_xVzlpI0QOmHfd6wqlLTCOsgVW69jBDFJHfUXZY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtyz_8JYTZHo59Q6SqjXuTdrO0cXb_0sFCJUIFGJwpu0_NsSCWAQGqtKh3CBE",
       "pictureSource": "https://www.championat.ru/",
       "relatedSearch": [
         {
-          "title": "Стала известна оценка Сафонова за матч «Ренн» — «ПСЖ» в Лиге 1 по версии Sofascore",
+          "title": "Энрике высказался о камбэке «ПСЖ» с 0:2 после замен Хвичи и Дембеле на Феррана и Годтса",
           "snippet": "",
-          "url": "https://www.championat.ru/football/news-6593990-stala-izvestna-ocenka-safonova-za-match-renn-pszh-v-lige-1-po-versii-sofascore.html",
+          "url": "https://www.championat.ru/football/news-6594114-enrike-vyskazalsya-o-kambeke-pszh-s-0-2-posle-zamen-hvichi-i-dembele-na-ferrana-i-godtsa.html",
           "source": "https://www.championat.ru/"
         },
         {
@@ -171,112 +236,28 @@
     },
     {
       "title": "прогноз погоды",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 23 Aug 2026 11:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEKfsQLcHnP0mLMRU5N3gNWsyFE_hkynK2bHcuk43oCrRPb9kLJWYgveMDno",
-      "pictureSource": "Курс Дела",
-      "relatedSearch": [
-        {
-          "title": "Расписание магнитных бурь с 24 по 30 августа 2026 года: прогноз по дням",
-          "snippet": "",
-          "url": "https://kursdela.biz/news/2026-08-24/raspisanie-magnitnyh-bur-s-24-po-30-avgusta-2026-goda-prognoz-po-dnyam-5664679",
-          "source": "Курс Дела"
-        },
-        {
-          "title": "Магнитные бури сегодня, 24 августа 2026 года",
-          "snippet": "",
-          "url": "https://muksun.fm/news/2026-08-24/magnitnye-buri-segodnya-24-avgusta-2026-goda-5665717",
-          "source": "Muksun.fm"
-        },
-        {
-          "title": "Магнитная буря на выходных. Учёные сообщили, когда наступит геомагнитное затишье и как долго оно продлится",
-          "snippet": "",
-          "url": "https://nv.ua/ukraine/events/magnitnaya-burya-v-vyhodnye-budet-li-silnyy-geoshtorm-prognoz-uchenyh-50634651.html",
-          "source": "NV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "отопление",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 23 Aug 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0fIYdEMzyaPfb9Z5spqG6iXjLiy793WCWDw4CoxZwuCuLWAL9CVPt61u7j8",
-      "pictureSource": "Moldpres",
-      "relatedSearch": [
-        {
-          "title": "Компенсации за энергоносители будут и в этом году. Объем поддержки будет зависеть от внутренних и внешних ресурсов",
-          "snippet": "",
-          "url": "https://www.moldpres.md/rus/obshestvo/kompensacii-za-energonositeli-budut-i-v-etom-godu-obem-podderzhki-budet-zaviset-ot-vnutrennih-i-vneshnih-resursov",
-          "source": "Moldpres"
-        },
-        {
-          "title": "Только у нас в стране треть зарплаты уходит на обогрев жилья в холодный период",
-          "snippet": "",
-          "url": "https://www.md.kp.media/online/news/7136063/",
-          "source": "MD.KP.MEDIA"
-        },
-        {
-          "title": "Мобилизовать внешние ресурсы для компенсаций тарифов будет сложнее — президент",
-          "snippet": "",
-          "url": "https://logos-pres.md/ru/novosti/mobilizovat-vneshnie-resursy-dlya-kompensaczij-tarifov-budet-slozhnee-prezident/",
-          "source": "logos-pres.md"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "шериф – политехника утм",
       "trafficCount": "500+",
-      "pubDate": "Sun, 23 Aug 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyggXfGRahrU_3xKWheRCYCt31iLRexJXm0nNBV5EeUwsEwkuYagH1mKHJtq0",
-      "pictureSource": "Moldfootball.com",
+      "pubDate": "Sun, 23 Aug 2026 11:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCPQKgnlO42j1do7XQVwihm5Gs009jI_gTP3pt759D0mObYFtJ4kt_D8-tShU",
+      "pictureSource": "TengriNews",
       "relatedSearch": [
         {
-          "title": "Шериф - Политехника UTM 4:0 ВИДЕООБЗОР - Молдавский футбол",
+          "title": "Ливни и прохлада: погода в Астане и Алматы на 24-26 августа",
           "snippet": "",
-          "url": "https://moldfootball.com/ru/news/sheriff-politehnica-utm-transliaciia-onl",
-          "source": "Moldfootball.com"
+          "url": "https://tengrinews.kz/kazakhstan_news/livni-i-prohlada-pogoda-v-astane-i-almatyi-na-24-26-avgusta-606820/",
+          "source": "TengriNews"
         },
         {
-          "title": "Шериф — Политехника К, 23 августа 2026",
+          "title": "Опубликовано штормовое предупреждение на 24 августа",
           "snippet": "",
-          "url": "https://www.sport-express.net/football/foreign/moldova/fbl_match-sherif-politehnika-451887/",
-          "source": "sport-express.net"
+          "url": "https://www.zakon.kz/sobytiia/6529090-opublikovano-shtormovoe-preduprezhdenie-na-24-avgusta.html",
+          "source": "Новости Zakon.kz"
         },
         {
-          "title": "«Шериф» — «Политехника УТМ»: хозяева исправят ошибки обороны",
+          "title": "Прогноз погоды на 24 августа: на севере Казахстана ожидаются дожди и грозы",
           "snippet": "",
-          "url": "https://www.vseprosport.kz/news/2026/08/22/sherif-politehnika-utm-prognoz-kf-1-47-i-stavki-na-match-superliga-23-avgusta-2026-goda-ot-vps",
-          "source": "www.vseprosport.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "atlético madrid - villarreal",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 23 Aug 2026 10:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKrCZqk9cmj_7G6A6jOhObKxeaRB7UDjiYRRqvQV4k9Up2ZYyLTA51PyxAqDM",
-      "pictureSource": "Reuters Connect",
-      "relatedSearch": [
-        {
-          "title": "Licensable picture: Atletico de Madrid v Villarreal CF - LaLiga EA Sports 2026/27",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/atletico-de-madrid-v-villarreal-cf-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFM5NldYUw",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Atletico 2-2 Villarreal: Giuliano rescues Atleti in Metropolitano thriller",
-          "snippet": "",
-          "url": "https://www.besoccer.com/new/atletico-2-2-villarreal-giuliano-rescues-atleti-in-metropolitano-thriller-1426038",
-          "source": "BeSoccer Livescore"
-        },
-        {
-          "title": "Licensable picture: Atletico de Madrid v Villarreal CF - LaLiga EA Sports 2026/27",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/atletico-de-madrid-v-villarreal-cf-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEVZNVNPRw",
-          "source": "Reuters Connect"
+          "url": "https://informburo.kz/novosti/prognoz-pogody-na-24-avgusta-na-severe-kazaxstana-ozidaiutsia-dozdi-i-grozy",
+          "source": "Informburo.kz"
         }
       ],
       "link": "https://imtaqin.id/"
