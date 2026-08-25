@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-25 17:49:19",
+  "lastUpdate": "2026-08-25 18:17:28",
   "data": [
     {
       "title": "aktieris",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 09:40:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcq6mkorRM_l0Ynn2pldGKYk3r5wdvxgnO7n6LJII30HqWQNIIJ6I6WevWo7Q",
       "pictureSource": "Santa.lv",
@@ -31,7 +31,7 @@
     },
     {
       "title": "eleja",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 25 Aug 2026 09:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAYyXugwsK_or5j4-1H9-Dx54jQ4aoPUiogJR2IzIk18xI2wGDgDLIIMzBHo",
       "pictureSource": "NRA",
@@ -43,16 +43,16 @@
           "source": "NRA"
         },
         {
+          "title": "Negadījums Elejā: \"Latraps\" graudu pirmapstrādes kompleksā gājis bojā sezonas darbinieks",
+          "snippet": "",
+          "url": "https://www.apollo.lv/8534015/negadijums-eleja-latraps-graudu-pirmapstrades-kompleksa-gajis-boja-sezonas-darbinieks",
+          "source": "Apollo.lv"
+        },
+        {
           "title": "Traģēdija Elejā: dzīvību zaudējis lauksaimniecības uzņēmuma sezonas darbinieks",
           "snippet": "",
           "url": "https://news.inbox.lv/150nz8q-tragedija-eleja-dzivibu-zaudejis-lauksaimniecibas-uznemuma-sezonas-darbinieks?language=lv&source=portal",
           "source": "Inbox.lv"
-        },
-        {
-          "title": "Satiksmes kustības izmaiņas Elejā saistībā ar dzelzceļa remontdarbiem",
-          "snippet": "",
-          "url": "https://zz.lv/vietejas-zinas/jelgavas-novada/satiksmes-kustibas-izmainas-eleja-saistiba-ar-dzelzcela-remontdarbiem/",
-          "source": "ZZ.lv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -87,17 +87,11 @@
     },
     {
       "title": "tvnet.lv",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Tue, 25 Aug 2026 08:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvQdlHAv7JozW0np0V-W5-q0aISiVEqHCRoROnb-pRHDmV7DQiyAgPjRelt3o",
-      "pictureSource": "DELFI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcjyOSsFUMqUkCnkXCTgx-9t0PzZ4Y145-5FhC0AhsfXw4Jyxp7LA2MFWFcc8",
+      "pictureSource": "TVNET",
       "relatedSearch": [
-        {
-          "title": "Nestrādāja datubāzes, nevarēja veikt robežpārbaudi – vētra būtiski ietekmēja robežsardzes darbu",
-          "snippet": "",
-          "url": "https://www.delfi.lv/video/53950177/spried-ar-delfi/120131591/nestradaja-datubazes-nevareja-veikt-robezparbaudi-vetra-butiski-ietekmeja-robezsardzes-darbu",
-          "source": "DELFI"
-        },
         {
           "title": "Aptuveni 20 000 klientu joprojām nav atjaunota elektroapgāde",
           "snippet": "",
@@ -105,10 +99,16 @@
           "source": "TVNET"
         },
         {
-          "title": "Apokalipse pēc vētras: lūk, kāpēc “nobruka” sakari un nebija iespējams izsaukt palīdzību",
+          "title": "Nestrādāja datubāzes, nevarēja veikt robežpārbaudi – vētra būtiski ietekmēja robežsardzes darbu",
           "snippet": "",
-          "url": "https://www.la.lv/apokalipse-pec-vetras-luk-kapec-nobruka-sakari-un-nebija-iespejams-izsaukt-palidzibu",
-          "source": "LA.LV"
+          "url": "https://www.delfi.lv/video/53950177/spried-ar-delfi/120131591/nestradaja-datubazes-nevareja-veikt-robezparbaudi-vetra-butiski-ietekmeja-robezsardzes-darbu",
+          "source": "DELFI"
+        },
+        {
+          "title": "«Krīze joprojām ir»: Vairākos Latgales novados iedzīvotāji bez elektrības jau ilgāk par 50 stundām",
+          "snippet": "",
+          "url": "https://www.lsm.lv/raksts/zinas/latvija/25.08.2026-krize-joprojam-ir-vairakos-latgales-novados-iedzivotaji-bez-elektribas-jau-ilgak-par-50-stundam.a660206/",
+          "source": "LSM"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -177,7 +177,7 @@
       "pictureSource": "DELFI",
       "relatedSearch": [
         {
-          "title": "Slepenā vizītē uz Maskavu devies CIP direktors Retklifs",
+          "title": "Slepenā vizītē uz Maskavu devies CIP direktors Retklifs (plkst.20.14)",
           "snippet": "",
           "url": "https://www.delfi.lv/46713439/arzemes/120131734/slepena-vizite-uz-maskavu-devies-cip-direktors-retklifs",
           "source": "DELFI"
@@ -251,26 +251,26 @@
       "title": "отопление",
       "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 02:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmab4XN20tXNnYOzVlfjdc5poF6nNf61Mr6-DXkgS41Owdob5MkeiQgTSksL4",
-      "pictureSource": "SiTV.RU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQuo2cagwgIt2gQcEvfoYFM_f8OCKdpy2LboFZaOzqCrcLmkuhNhNaUjBFKsE",
+      "pictureSource": "Rus.Postimees.ee",
       "relatedSearch": [
         {
-          "title": "Отопление в социальных учреждениях Югры включат с 1 сентября -Новости Сургута",
+          "title": "Насколько может подорожать отопление этой зимой?",
           "snippet": "",
-          "url": "https://sitv.ru/arhiv/news/otoplenie-v-soczialnyx-uchrezhdeniyax-yugry-vklyuchat-s-1-sentyabrya/",
-          "source": "SiTV.RU"
+          "url": "https://rus.postimees.ee/8533444/naskolko-mozhet-podorozhat-otoplenie-etoy-zimoy",
+          "source": "Rus.Postimees.ee"
         },
         {
-          "title": "Начало отопительного сезона в Югре 2026: условия подачи тепла в жилые дома и социальные учреждения",
+          "title": "Центральное отопление подорожает по сравнению с прошлым годом",
           "snippet": "",
-          "url": "https://muksun.fm/news/2026-08-25/kogda-v-yugre-vklyuchat-otoplenie-sroki-dlya-shkol-i-zhilyh-domov-5666714",
-          "source": "Muksun.fm"
+          "url": "https://rus.err.ee/1610115658/centralnoe-otoplenie-podorozhaet-po-sravneniju-s-proshlym-godom",
+          "source": "ERR"
         },
         {
-          "title": "В Ханты-Мансийске завершается подготовка к отопительному сезону",
+          "title": "Насколько может подорожать отопление этой зимой?",
           "snippet": "",
-          "url": "https://news.rambler.ua/community/56942077-v-hanty-mansiyske-zavershaetsya-podgotovka-k-otopitelnomu-sezonu/",
-          "source": "Рамблер"
+          "url": "https://news.inbox.eu/150nw72-naskol-ko-mozet-podorozat-otoplenie-etoj-zimoj?language=ru",
+          "source": "Inbox.eu"
         }
       ],
       "link": "https://imtaqin.id/"
