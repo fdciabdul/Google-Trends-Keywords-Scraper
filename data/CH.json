@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-08-25 07:14:36",
+  "lastUpdate": "2026-08-25 08:00:02",
   "data": [
     {
-      "title": "chicago",
+      "title": "flugzeug",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 25 Aug 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D4jb5KScLCesqGNDeBkYBd3wqf0hDe6qmoRTHmFVoJ9PmdYPDTY90eYpVxo",
+      "pictureSource": "Blick",
+      "relatedSearch": [
+        {
+          "title": "Notruf abgesetzt! Swiss-Flug dreht über Atlantik ab",
+          "snippet": "",
+          "url": "https://www.blick.ch/schweiz/hintergruende-unklar-notruf-abgesetzt-swiss-flug-dreht-ueber-atlantik-ab-id22206359.html",
+          "source": "Blick"
+        },
+        {
+          "title": "Swiss-Flug LX9: Notruf über dem Atlantik",
+          "snippet": "",
+          "url": "https://www.20min.ch/story/chicago-swiss-flug-setzt-notruf-ueber-dem-atlantik-ab-103622222",
+          "source": "20 Minuten"
+        },
+        {
+          "title": "Flughafen Zürich: Swiss-Flug aus Chicago muss auf Terceira landen",
+          "snippet": "",
+          "url": "https://www.tagesanzeiger.ch/swiss-boeing-777-notlandung-auf-azoren-wegen-geruch-151471999834",
+          "source": "Tages-Anzeiger"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "glacier suspendu",
       "trafficCount": "200+",
+      "pubDate": "Tue, 25 Aug 2026 00:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOxijQy9d82npXi1FRjtoRgTupobLP6S1Y8ODziM-jDNM-hXX_20Wja3EWKmA",
+      "pictureSource": "rts.ch",
+      "relatedSearch": [
+        {
+          "title": "La commune valaisanne de Randa met en garde contre l'effondrement du glacier du Weisshorn",
+          "snippet": "",
+          "url": "https://www.rts.ch/info/regions/valais/2026/article/glacier-du-weisshorn-randa-alerte-sur-un-risque-d-effondrement-29337359.html",
+          "source": "rts.ch"
+        },
+        {
+          "title": "L'effondrement d'un glacier menace un village valaisan",
+          "snippet": "",
+          "url": "https://www.blick.ch/fr/suisse/romande/valais-un-village-en-alerte-face-a-un-risque-deboulement-id22207744.html",
+          "source": "Blick"
+        },
+        {
+          "title": "Weisshorn : le glacier suspendu menace, Randa prend des mesures",
+          "snippet": "",
+          "url": "https://www.20min.ch/fr/story/zermatt-alerte-le-glacier-du-weisshorn-menace-de-rompre-103622231",
+          "source": "20 Minuten"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "terceira",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 25 Aug 2026 00:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ6Fpz-R7bwTquVouI7XVUqUsYks49BKifzKHeofq9mrAX0skFJq9NZTBT_EE",
+      "pictureSource": "Portal do Governo dos Açores",
+      "relatedSearch": [
+        {
+          "title": "TERINOV cresce com investimento de 2,8 milhões e José Manuel Bolieiro afirma Açores como “laboratório de futuro”",
+          "snippet": "",
+          "url": "https://portal.azores.gov.pt/en/web/comunicacao/news-detail?id=23605137",
+          "source": "Portal do Governo dos Açores"
+        },
+        {
+          "title": "TERINOV: Parque de Ciência da Terceira com 8 novos espaços",
+          "snippet": "",
+          "url": "https://acores.rtp.pt/local/terinov-parque-de-ciencia-da-terceira-com-8-novos-espacos/",
+          "source": "RTP Açores"
+        },
+        {
+          "title": "Governo dos Açores defende que Terinov é essencial para internacionalização da região",
+          "snippet": "",
+          "url": "https://jornalacores9.pt/2026/08/24/governo-dos-acores-defende-que-terinov-e-essencial-para-internacionalizacao-da-regiao/",
+          "source": "Jornal Açores 9"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chicago",
+      "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 23:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKyaEOl4Gmh4JKMeLQYp8AlFHJ87b7l7ztEYtSHANW9lYupuVLWQjjiJC5EVU",
       "pictureSource": "Block Club Chicago",
@@ -43,16 +127,16 @@
           "source": "SRF"
         },
         {
-          "title": "Tornado zieht über Südfrankreich - mehrere Verletzte",
-          "snippet": "",
-          "url": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
-          "source": "tagesschau.de"
-        },
-        {
           "title": "Tornado trifft Südfrankreich: 2800 Haushalte ohne Strom, Flugverkehr gestört",
           "snippet": "",
           "url": "https://www.tagesanzeiger.ch/tornado-in-suedfrankreich-haeuser-beschaedigt-2800-ohne-strom-357363457789",
           "source": "Tages-Anzeiger"
+        },
+        {
+          "title": "Frankreich: Dutzende Verletzte durch Tornado in Pomas im Südwesten",
+          "snippet": "",
+          "url": "https://www.spiegel.de/panorama/frankreich-dutzende-verletzte-durch-tornado-in-pomas-im-suedwesten-a-0f86b913-d24c-45e7-b40d-11510e7286ed",
+          "source": "Spiegel"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +161,10 @@
           "source": "SWI swissinfo.ch"
         },
         {
-          "title": "Ticker zum Bondo-Prozess: Erdrutsch in Bondo GR: Nun stehen fünf Menschen vor Gericht",
+          "title": "Acht Tote nach Bergsturz in Bondo: Nun beginnt der Prozess gegen fünf Personen",
           "snippet": "",
-          "url": "https://www.tagesanzeiger.ch/ticker-zum-gerichtsprozess-wie-vorhersehbar-war-das-unglueck-von-bondo-647943603689",
-          "source": "Tages-Anzeiger"
+          "url": "https://www.20min.ch/story/bergsturz-bondo-gr-prozess-gericht-live-103619674",
+          "source": "20 Minuten"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,33 +173,33 @@
       "title": "carcassonne",
       "trafficCount": "100+",
       "pubDate": "Mon, 24 Aug 2026 23:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTffvZrLRMw1nHlqKKn75Td3-oDfOBGWZzKN-htNpOlXz5lgDCWiL87QmxaiZY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfqZiMkcBZstqTge8PHPBsKLl_v_xiIisgO-i_nppxLmT-O-m_AXioKBhesD0",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Moment tornado tears through southern France",
+          "title": "UK drone factories may face attacks from 'unknown sources' says Kremlin advisor",
           "snippet": "",
-          "url": "https://www.bbc.com/news/videos/ckg8wkd0j7do",
+          "url": "https://www.bbc.com/news/articles/cg598m3meeyo",
           "source": "BBC"
         },
         {
-          "title": "Huge tornado tears through villages in Southern France as over 300 homes damaged",
+          "title": "Burnham To Take Up Ukraine’s Cause With Trump In US Next Month",
           "snippet": "",
-          "url": "https://www.independent.co.uk/news/world/europe/aude-tornado-france-verzeille-weather-b3038634.html",
-          "source": "The Independent"
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-25/uk-s-burnham-to-lobby-president-trump-for-ukraine-access-to-patriot-missiles",
+          "source": "Bloomberg"
         },
         {
-          "title": "Tornado in Aude: over 40 injured and 300 homes damaged",
+          "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
           "snippet": "",
-          "url": "https://www.euronews.com/2026/08/24/tornado-in-aude-over-40-injured-and-300-homes-damaged",
-          "source": "Euronews.com"
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+          "source": "The New York Times"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "graubünden",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 22:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuNoZTyn0ef6jVgD2vWYsUGma1mZ0-AFIMyw5muTIsotx511HP_k1UgM-etpY",
       "pictureSource": "Nau",
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.20min.ch/story/deutschland-horrorunfall-von-nidda-stella-14-ist-das-zweite-todesofper-103622066",
           "source": "20 Minuten"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hermann maier",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 24 Aug 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNeQVJ1CFOdzy_ShoEjQIAm26U2yk9K6IX7XMVwYWCggBCoTgtKahAZtW4CR8",
-      "pictureSource": "20 Minuten",
-      "relatedSearch": [
-        {
-          "title": "«Nicht anrühren, sonst verblutet er»: So knapp entging Hermann Maier der Amputation",
-          "snippet": "",
-          "url": "https://www.20min.ch/story/hermann-maier-leibarzt-erinnert-sich-an-kampf-ums-bein-nach-toeff-unfall-103621938",
-          "source": "20 Minuten"
-        },
-        {
-          "title": "„Nicht anrühren, sonst verblutet er“",
-          "snippet": "",
-          "url": "https://sportbild.bild.de/sportmix/wintersport/wintersport-nicht-anruehren-sonst-verblutet-er-der-tag-der-alles-veraenderte-6a8c002c511d4fd3bc4e1e2b",
-          "source": "Sport Bild"
-        },
-        {
-          "title": "„Dieser Unfall war ein Zeichen vom lieben Gott!“",
-          "snippet": "",
-          "url": "https://www.krone.at/4265638",
-          "source": "Kronen Zeitung"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hockey sur glace",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 22:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHf6aoRwpS2-LXLOEwIfWeBC7PaUAk-CKsjWHgUOHTB7YgACwKn2Odn8T3FO4",
-      "pictureSource": "Planète Hockey",
-      "relatedSearch": [
-        {
-          "title": "BERNE – Une nouvelle ère s’ouvre à la PostFinance Arena",
-          "snippet": "",
-          "url": "https://planetehockey.com/berne-une-nouvelle-ere-souvre-a-la-postfinance-arena/",
-          "source": "Planète Hockey"
-        },
-        {
-          "title": "Une perte pour le CP Berne également",
-          "snippet": "",
-          "url": "https://www.swisshabs.ch/fr/article/une-perte-pour-le-cp-berne-egalement",
-          "source": "SwissHabs"
-        },
-        {
-          "title": "Hockey sur glace. « Ça tombe mal » : pour sa reprise, le Hogly est privé de patinoire à La Roche-sur-Yon",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/sport/hockey-sur-glace/hockey-sur-glace-ca-tombe-mal-pour-sa-reprise-le-hogly-est-prive-de-patinoire-a-la-roche-sur-yon-b415e4f8-9fbb-11f1-a8ad-3219df531147",
-          "source": "Ouest-France"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hélicoptère",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 24 Aug 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8pZZV_GAdOQcY1RE7UfgskltTaHY06EYgwebQDVpkl2QfAf_LkI5lvprDprI",
-      "pictureSource": "Rhône FM",
-      "relatedSearch": [
-        {
-          "title": "Un hélicoptère s'écrase à Anzère, pas de victime",
-          "snippet": "",
-          "url": "https://www.rhonefm.ch/valais/un-helicoptere-s-ecrase-a-anzere-pas-de-victime-1724169",
-          "source": "Rhône FM"
-        },
-        {
-          "title": "Nouvel hélicoptère bombardier, marche aquatique et hébergeurs heureux : Bonjour et bel été Quimper",
-          "snippet": "",
-          "url": "https://www.letelegramme.fr/finistere/quimper-29000/nouvel-helicoptere-bombardier-marche-aquatique-et-hebergeurs-heureux-bonjour-et-bel-ete-quimper-7104595.php",
-          "source": "Le Télégramme"
-        },
-        {
-          "title": "Météo record et touristes de dernière minute : le cocktail gagnant des hébergeurs du pays de Quimper cet été",
-          "snippet": "",
-          "url": "https://www.letelegramme.fr/finistere/quimper-29000/meteo-record-et-touristes-de-derniere-minute-le-cocktail-gagnant-des-hebergeurs-du-pays-de-quimper-cet-ete-7104485.php",
-          "source": "Le Télégramme"
         }
       ],
       "link": "https://imtaqin.id/"
