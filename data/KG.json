@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-25 15:21:18",
+  "lastUpdate": "2026-08-25 16:04:22",
   "data": [
     {
       "title": "квота",
@@ -31,7 +31,7 @@
     },
     {
       "title": "мвд",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 25 Aug 2026 04:20:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
       "pictureSource": "24.KG",
@@ -59,7 +59,7 @@
     },
     {
       "title": "депутат",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Tue, 25 Aug 2026 04:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
       "pictureSource": "24.KG",
@@ -126,15 +126,9 @@
       "title": "пожар",
       "trafficCount": "2000+",
       "pubDate": "Tue, 25 Aug 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReUexZNsDupPuxGYf1gf__0DZBzvV2RAp48_mxUdeUmKZhmWd2PRxwzvuXMOU",
-      "pictureSource": "Meduza",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROWN_jlmRx6V9T43MDCl9x31kzEbkhK9L8vFpxcvC0U39umUgaVEc0EL0OnUA",
+      "pictureSource": "Настоящее Время",
       "relatedSearch": [
-        {
-          "title": "На Амурском газохимическом комплексе произошел пожар. Погиб гражданин Китая. Больше 100 человек пострадали",
-          "snippet": "",
-          "url": "https://meduza.io/news/2026/08/25/na-amurskom-gazohimicheskom-komplekse-proizoshel-pozhar-po-dannym-telegram-kanalov-est-pogibshiy-i-desyatki-postradavshih",
-          "source": "Meduza"
-        },
         {
           "title": "На строящемся Амурском газохимическом комплексе — пожар",
           "snippet": "",
@@ -146,6 +140,12 @@
           "snippet": "",
           "url": "https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%BF%D0%BE%D0%B6%D0%B0%D1%80-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BE%D1%88%D0%B5%D0%BB-%D0%BD%D0%B0-%D1%81%D1%82%D1%80%D0%BE%D1%8F%D1%89%D0%B5%D0%BC%D1%81%D1%8F-%D0%B0%D0%BC%D1%83%D1%80%D1%81%D0%BA%D0%BE%D0%BC-%D0%B3%D0%B0%D0%B7%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B5-%D0%B2-%D1%80%D1%84-/4036583",
           "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "На стройплощадке Амурского ГХК произошел пожар",
+          "snippet": "",
+          "url": "https://paluba.media/news/220456",
+          "source": "Медиапалуба"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,26 +182,26 @@
       "title": "владимир путин",
       "trafficCount": "500+",
       "pubDate": "Mon, 24 Aug 2026 23:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPBMCI38OyRHyq8LADnxljy9rRDm86UyiOL4_Hjewg6qZ1N0kT-897k4GANGk",
-      "pictureSource": "Ведомости",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrG3rzj4cG6ZVBYIJ1kvFAgQmWmWCwtzzmntTi2yZHlE2WhA0nZOOSCXMd3Vw",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Путин сменил посла России в Ираке",
+          "title": "Путин разрешил передавать во временное управление государству предприятия, плохо защищенные от украинских атак",
           "snippet": "",
-          "url": "https://www.vedomosti.ru/career/news/2026/08/25/1223516-putin-smenil-posla",
-          "source": "Ведомости"
+          "url": "https://www.bbc.com/russian/articles/c1e5pg44g2xo",
+          "source": "BBC"
         },
         {
-          "title": "Назначен новый посол России в Ираке",
+          "title": "Мантуров сообщил, что указ о временном управлении предприятий будет применяться точечно",
           "snippet": "",
-          "url": "https://vestikavkaza.ru/news/naznacen-novyj-posol-rossii-v-irake.html",
-          "source": "Вестник Кавказа"
+          "url": "https://www.interfax.ru/business/1111030",
+          "source": "Интерфакс"
         },
         {
-          "title": "Владимир Путин назначил нового посла России в Ираке",
+          "title": "«Речь не идет о национализации». Вице-премьер Мантуров — об указе Путина о передаче государству предприятий, которые не защитились от дронов",
           "snippet": "",
-          "url": "https://expert.ru/news/vladimir-putin-naznachil-novogo-posla-rossii-v-irake",
-          "source": "Эксперт"
+          "url": "https://meduza.io/news/2026/08/25/rech-ne-idet-o-natsionalizatsii-vitse-premier-manturov-ob-ukaze-putina-o-peredache-gosudarstvu-predpriyatiy-kotorye-ne-zaschitilis-ot-dronov",
+          "source": "Meduza"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -220,16 +220,16 @@
           "source": "24.KG"
         },
         {
+          "title": "В части Бишкека 27 августа временно не будет воды",
+          "snippet": "",
+          "url": "https://knews.kg/2026/08/24/v-chasti-bishkeka-27-avgusta-vremenno-ne-budet-vody/",
+          "source": "K-News"
+        },
+        {
           "title": "Внимание! В жилом массиве \"Кок-Жар\" временно не будет воды",
           "snippet": "",
           "url": "https://kaktus.media/doc/551871_vnimanie_v_jilom_massive_kok_jar_vremenno_ne_bydet_vody.html",
           "source": "Кактус Медиа"
-        },
-        {
-          "title": "27 августа в 9 мкр и районе КГУСТА не будет воды – Новости из Кыргызстана",
-          "snippet": "",
-          "url": "https://kg.akipress.org/news:2522019/?from=kgnews&place=maincats",
-          "source": "Akipress"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -254,10 +254,10 @@
           "source": "Turmush"
         },
         {
-          "title": "Дептранс призвал водителей соблюдать дистанцию из-за погодных условий",
+          "title": "«Лада» влетела под фуру в Татарстане, водитель погиб на месте ДТП",
           "snippet": "",
-          "url": "https://www.mskagency.ru/materials/3563119",
-          "source": "Агентство городских новостей"
+          "url": "https://tatarstan24.tv/news/28281.lada-vletela-pod-furu-v-tatarstane-voditel-pogib-na-meste-dtp",
+          "source": "Татарстан 24"
         }
       ],
       "link": "https://imtaqin.id/"
