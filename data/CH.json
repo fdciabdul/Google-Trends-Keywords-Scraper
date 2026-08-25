@@ -1,9 +1,102 @@
 {
-  "lastUpdate": "2026-08-25 04:08:31",
+  "lastUpdate": "2026-08-25 04:51:02",
   "data": [
     {
-      "title": "meteo suisse",
+      "title": "wetter",
+      "trafficCount": "5000+",
+      "pubDate": "Mon, 24 Aug 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYL7z5Bqw3ZboQst_fap1omH4i5PZCK4zJlX4cfJi8yqbS8FwsfBhM4RR2cE",
+      "pictureSource": "Merkur",
+      "relatedSearch": [
+        {
+          "title": "Spekulationen zu mildem Winter in Bayern: Wetter-Experte klärt über kursierende Prognosen auf",
+          "snippet": "",
+          "url": "https://www.merkur.de/bayern/spekulationen-zu-mildem-winter-in-bayern-wetter-experte-klaert-auf-94458326.html",
+          "source": "Merkur"
+        },
+        {
+          "title": "Jahrhundertwinter? Extremwinter? Überraschende Prognose - so könnte das Wetter in Franken werden",
+          "snippet": "",
+          "url": "https://www.nordbayern.de/franken/erlebt-franken-uberraschung-extrem-oder-jahrhundertwinter-erste-interessante-daten-vrbr-1.15244240",
+          "source": "Nordbayern"
+        },
+        {
+          "title": "Unwetterschäden bei Flamatt: Steinbrocken auf den Gleisen – Zuglinie Bern-Freiburg zweimal unterbrochen",
+          "snippet": "",
+          "url": "https://www.bernerzeitung.ch/erdrutsch-sbb-zuege-zwischen-bern-und-freiburg-eingeschraenkt-925018090327",
+          "source": "Berner Zeitung"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hava durumu",
       "trafficCount": "100+",
+      "pubDate": "Mon, 24 Aug 2026 21:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI6GklM5WXoPMdHd5cRFK6mpx3aKaEq6MSNQTUI6zSGz_LkwxA_npLwVYFen0",
+      "pictureSource": "Halk TV",
+      "relatedSearch": [
+        {
+          "title": "Havalar serinleyecek sıcaklar 6 derece düşecek! Rusya'dan gelen soğuk hava için tarih verildi",
+          "snippet": "",
+          "url": "https://halktv.com.tr/turkiye/havalar-serinleyecek-sicaklar-6-derece-dusecek-rusyadan-gelen-soguk-hava-icin-tarih-verildi-1050849h",
+          "source": "Halk TV"
+        },
+        {
+          "title": "Dokuz il için sağanak yağış uyarısı",
+          "snippet": "",
+          "url": "https://www.diken.com.tr/dokuz-il-icin-saganak-yagis-uyarisi/",
+          "source": "Diken"
+        },
+        {
+          "title": "Meteoroloji'den sağanak ve kuvvetli rüzgar uyarısı",
+          "snippet": "",
+          "url": "https://www.birgun.net/haber/meteoroloji-den-saganak-ve-kuvvetli-ruzgar-uyarisi-730962",
+          "source": "birgun.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteo",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 24 Aug 2026 21:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "srf meteo",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 24 Aug 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrjJMV_gpDMrFCg9JLvRuc3Ns9F6HItnbMAZHHZqk0UDzr4q6UWjAPgdMUCI8",
+      "pictureSource": "20 Minuten",
+      "relatedSearch": [
+        {
+          "title": "Thomas Bucheli: SRF-Wetterlegende wird Wetterlehrer bei der Swiss",
+          "snippet": "",
+          "url": "https://www.20min.ch/story/srf-wetterlegende-thomas-bucheli-hat-einen-neuen-job-103621646",
+          "source": "20 Minuten"
+        },
+        {
+          "title": "SRF-Wetterchef Thomas Bucheli im August 2026 pensioniert (B+)",
+          "snippet": "",
+          "url": "https://www.blick.ch/people-tv/schweiz/srf-meteo-chef-thomas-bucheli-wird-ende-august-pensioniert-es-kommt-der-punkt-wo-man-selbstkritisch-sein-muss-id22196595.html",
+          "source": "Blick"
+        },
+        {
+          "title": "Pensioniert, aber nicht müde: TV-Wetterfrosch Thomas Bucheli wird Wetterlehrer bei der Swiss",
+          "snippet": "",
+          "url": "https://www.tagesanzeiger.ch/thomas-bucheli-srf-wettermann-wird-swiss-wetterinstruktor-948767167415",
+          "source": "Tages-Anzeiger"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteo suisse",
+      "trafficCount": "200+",
       "pubDate": "Mon, 24 Aug 2026 20:50:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMyRO1ZAzlGVdVv9Bg4zHXQYnbpvAMOJcoK1KpCxefsQhskgoL6ARuQ47ZW8",
       "pictureSource": "24 Heures",
@@ -30,23 +123,51 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "pogoda",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 24 Aug 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQleCTww1ULCMa_kvHFDWN1LBIb9SAzYGFt2UlQGStsrAzdZK1wYOGC43G4Ydg",
+      "pictureSource": "Wiadomości Onet",
+      "relatedSearch": [
+        {
+          "title": "Toruń. Jaka pogoda czeka nas 25.08.2026?",
+          "snippet": "",
+          "url": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-25082026/hmrkxzc",
+          "source": "Wiadomości Onet"
+        },
+        {
+          "title": "Jak będzie kształtować się pogoda od 25 sierpnia w Toruniu? Odkryj prognozowane warunki",
+          "snippet": "",
+          "url": "https://torun.naszemiasto.pl/prognoza-pogody-tygodniowa-dla-torunia-sprawdz-jakiej-pogody-mozesz-spodziewac-sie-od-jutra-25-08-do-niedzieli/ar/c1p1-19943961",
+          "source": "Toruń Nasze Miasto"
+        },
+        {
+          "title": "Jeden dzień może pokrzyżować weekendowe plany. Pogoda w Toruniu przyniesie deszcz i ochłodzenie",
+          "snippet": "",
+          "url": "https://www.se.pl/torun/weekend-w-toruniu-ma-jeden-slabszy-moment-to-wtedy-aura-moze-pokrzyzowac-plany-aa-LgAP-nBY6-Vfrd.html",
+          "source": "Super Express"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "rockstar games gta 6",
       "trafficCount": "100+",
       "pubDate": "Mon, 24 Aug 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSraYt8ZQBkERVL34JH5nyZCPYZAVTIj7XeaiwzcuhK2saQOOpJ14-CN6gEeNw",
-      "pictureSource": "Digitec",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk8yxeXKybM7D3UT8okUUPKD8jnPJ6V758FU_4JKbFsH1ai6H8m7mmF1doabU",
+      "pictureSource": "Variety",
       "relatedSearch": [
-        {
-          "title": "Everything you need to know about the \"GTA 6\" leak",
-          "snippet": "",
-          "url": "https://www.digitec.ch/en/page/everything-you-need-to-know-about-the-gta-6-leak-43556",
-          "source": "Digitec"
-        },
         {
           "title": "‘GTA 6’ Developer Rockstar Games Subpoenas Microsoft, Discord Amid Leaks",
           "snippet": "",
           "url": "https://variety.com/2026/gaming/news/gta-6-leaks-rockstar-subpoenas-microsoft-discord-1236840176/",
           "source": "Variety"
+        },
+        {
+          "title": "Everything you need to know about the \"GTA 6\" leak",
+          "snippet": "",
+          "url": "https://www.digitec.ch/en/page/everything-you-need-to-know-about-the-gta-6-leak-43556",
+          "source": "Digitec"
         },
         {
           "title": "A New ‘GTA 6’ Nudist Town Leak Is Stunning, And Lucia Spoilers Are Next",
@@ -58,8 +179,64 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "meteorologia",
+      "title": "erdbeben",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 24 Aug 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMIqf39yFlE6SKn6XrxNBDYmwW2f6vceAjpsjIeRzpmwEWn5txed1sL4xOFxQ",
+      "pictureSource": "Schwäbische.de",
+      "relatedSearch": [
+        {
+          "title": "Erdbeben am Bodensee in den frühen Morgenstunden",
+          "snippet": "",
+          "url": "https://www.schwaebische.de/regional/bodensee/radolfzell/erdbeben-am-bodensee-in-den-fruehen-erdbeben-4806345",
+          "source": "Schwäbische.de"
+        },
+        {
+          "title": "Leichtes Beben am Bodensee: Für Menschen wohl nicht spürbar",
+          "snippet": "",
+          "url": "https://www.wochenblatt-reporter.de/c-lokales/leichtes-beben-am-bodensee-fuer-menschen-wohl-nicht-spuerbar_a861484",
+          "source": "Wochenblatt Reporter"
+        },
+        {
+          "title": "Erdbeben erschüttert Bondensee",
+          "snippet": "",
+          "url": "https://www.oe24.at/a/erdbeben-erschuettert-bondensee-900109411",
+          "source": "oe24"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "villa der versuchung",
       "trafficCount": "100+",
+      "pubDate": "Mon, 24 Aug 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUybB7RacV_DGLuGQWVsmtSV8vupKyQyAfPErXuAJTycmzBqOE_6ouCEFI28M",
+      "pictureSource": "RTL+",
+      "relatedSearch": [
+        {
+          "title": "Sendepause Fehlanzeige: Elsalationsstufe Rot 22.08.2026",
+          "snippet": "",
+          "url": "https://plus.rtl.de/sendepause-fehlanzeige-p_66905/audio/22-08-26-c_2095497",
+          "source": "RTL+"
+        },
+        {
+          "title": "„Villa der Versuchung“: Schock für die Promis! 250.000-Euro-Jackpot fällt unter die Hälfte",
+          "snippet": "",
+          "url": "https://www.hoerzu.de/aktuelles/villa-der-versuchung-schock-fuer-die-promis-250.000-euro-jackpot-faellt-unter-die-haelfte/",
+          "source": "HÖRZU"
+        },
+        {
+          "title": "Villa der Versuchung 2026: Wer ist raus? SIE fliegt in Folge 4",
+          "snippet": "",
+          "url": "https://www.swp.de/unterhaltung/tv/villa-der-versuchung-2026-wer-ist-raus-folge-4-79392393.html",
+          "source": "swp.de"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteorologia",
+      "trafficCount": "200+",
       "pubDate": "Mon, 24 Aug 2026 20:20:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBcYFptD_wcVAfUepF9f7kybOvQdOOw_nownYQ0HnfFskE4gPVWN_5CGg3GO8",
       "pictureSource": "Expresso",
@@ -81,202 +258,6 @@
           "snippet": "",
           "url": "https://cnnportugal.iol.pt/videos/ha-uma-facilidade-de-se-registar-uma-grande-enxurrada-com-este-mau-tempo/6a8c34f90cf2f6a1a1e75118",
           "source": "CNN Portugal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "news",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpwWn1vZtvTBM6Ax5XKVX8HMLjiRwohApVKRsFSZixQ4RD7ko6u8_Opqp6W4",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "US Expands Sanctions on Oil Mogul’s Network in Iran Crackdown",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/us-expands-sanctions-on-oil-mogul-s-network-in-iran-crackdown",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Bessent Launches ‘Operation Economic Outcast’ to Isolate and Squeeze Iran",
-          "snippet": "",
-          "url": "https://www.wsj.com/world/middle-east/bessent-launches-operation-economic-outcast-to-isolate-iran-0e4db091",
-          "source": "WSJ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pomas",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv-NRZOrqfYIyy8ASyxhehFNCgkUXw1he1OSGhyArwL8BT042fE74x9hd9B7o",
-      "pictureSource": "CatalunyaPress",
-      "relatedSearch": [
-        {
-          "title": "VÍDEO | Un impresionante tornado azota el sur de Francia y deja graves daños",
-          "snippet": "",
-          "url": "https://www.catalunyapress.es/articulo/internacional/2026-08-24/5992460-video-impresionante-tornado-azota-sur-francia-deja-graves-danos",
-          "source": "CatalunyaPress"
-        },
-        {
-          "title": "Al menos dos desaparecidos bajo los escombros tras el paso de un tornado en el sur de Francia",
-          "snippet": "",
-          "url": "https://www.abc.es/internacional/dos-desaparecidos-bajo-escombros-tras-paso-tornado-20260824225002-nt.html",
-          "source": "ABC"
-        },
-        {
-          "title": "VIDEO: Fuerte tornado destruye viviendas, carros y carreteras en Aude, Francia",
-          "snippet": "",
-          "url": "https://www.adn40.mx/internacional/2026-08-24/video-fuerte-tornado-destruye-viviendas-carros-y-carreteras-en-aude-francia/",
-          "source": "www.adn40.mx"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "victoria von schweden",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrFqiP5jicV2zIZoKPXTtE-4W8r7PLk5cpwLczIerFEUfwKj4BUJtXCNOBfHE",
-      "pictureSource": "BILD",
-      "relatedSearch": [
-        {
-          "title": "Prinzessin Estelle überragt Kronprinzessin Victoria von Schweden fast",
-          "snippet": "",
-          "url": "https://www.bild.de/unterhaltung/stars-und-leute/prinzessin-estelle-ueberragt-kronprinzessin-victoria-von-schweden-fast-6a8be05ec3692834ff6daa65",
-          "source": "BILD"
-        },
-        {
-          "title": "14-jährige Prinzessin Estelle: Im 500-Euro-Minikleid gibt sie ihr High-Heel-Debüt",
-          "snippet": "",
-          "url": "https://www.gala.de/beauty-fashion/fashion/prinzessin-estelle-gibt-im-minikleid-ihr-high-heel-debuet-24662640.html",
-          "source": "GALA.de"
-        },
-        {
-          "title": "Erster Auftritt nach Sommerferien: So sehr hat sich Prinzessin Estelle verändert!",
-          "snippet": "",
-          "url": "https://www.brisant.de/royals/mode-kleid-sommer-ferien-mama-kronprinzessin-victoria,prinzessin-estelle-schweden-104.html",
-          "source": "brisant.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "christoph blocher",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 24 Aug 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOgRiSPv4XUrnusX69bjb7eH2UPWMIA37NxRCrbwN5s8GPdcBq56-zcW4sYtc",
-      "pictureSource": "Tages-Anzeiger",
-      "relatedSearch": [
-        {
-          "title": "Auftritt bei Schawinski: Blocher hat die Gefahr erkannt – und zieht die falschen Schlüsse",
-          "snippet": "",
-          "url": "https://www.tagesanzeiger.ch/christoph-blocher-warnt-vor-drittem-weltkrieg-522693546846",
-          "source": "Tages-Anzeiger"
-        },
-        {
-          "title": "«Die Schweizer sind Trittbrettfahrer»: Ex-Premier sagt, wie Schweden die Neutralität kippte",
-          "snippet": "",
-          "url": "https://www.tagesanzeiger.ch/neutralitaet-schwedens-ex-premier-carl-bildt-ueber-die-schweiz-120793507631",
-          "source": "Tages-Anzeiger"
-        },
-        {
-          "title": "Hammer, Sichel, Sünneli: Blochers Friedenstaube hat russische Paten",
-          "snippet": "",
-          "url": "https://www.nzz.ch/meinung/hammer-sichel-suenneli-die-missbrauchte-friedenstaube-ld.10020760",
-          "source": "NZZ – Neue Zürcher Zeitung"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "accident saleve",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 24 Aug 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVCFXVvbKfQkafRDjJz0RvQUGHQ_75jPCIjUiRPaX8hLr55wn_U-P7JT1jUos",
-      "pictureSource": "Le Dauphiné Libéré",
-      "relatedSearch": [
-        {
-          "title": "Haute-Savoie. Un couple meurt dans un ravin de 150 mètres sur la route au Salève : la piste du suicide privilégiée",
-          "snippet": "",
-          "url": "https://www.ledauphine.com/faits-divers-justice/2026/08/23/un-couple-meurt-sur-la-route-au-saleve-la-piste-du-suicide-privilegiee",
-          "source": "Le Dauphiné Libéré"
-        },
-        {
-          "title": "Leur voiture tombe dans un ravin au Salève, deux personnes sont décédées",
-          "snippet": "",
-          "url": "https://www.lemessager.fr/649356825/article/2026-08-23/leur-voiture-tombe-dans-un-ravin-au-saleve-deux-personnes-sont-decedees",
-          "source": "Le Messager"
-        },
-        {
-          "title": "Haute-Savoie : deux personnes âgées retrouvées mortes après un accident de voiture au niveau de la commune de Bossey",
-          "snippet": "",
-          "url": "https://www.ici.fr/auvergne-rhone-alpes/haute-savoie-74/bossey/haute-savoie-deux-personnes-agees-decedees-dans-un-accident-de-voiture-au-niveau-de-la-commune-de-bossey-7994463",
-          "source": "ici.fr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "accusé",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 24 Aug 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrWbRIi917oS0XFzDwb9oeNxM7EiQ9p4Kv-Fw0mlc53HzbkkVh2VpMtBk_6Cw",
-      "pictureSource": "Le Journal de Montréal",
-      "relatedSearch": [
-        {
-          "title": "Féminicides au Québec: les maisons d'hébergement interpellent les partis avant les élections",
-          "snippet": "",
-          "url": "https://www.journaldemontreal.com/2026/08/23/feminicides-a-saint-michel-les-maisons-dhebergement-interpellent-les-partis-avant-les-elections",
-          "source": "Le Journal de Montréal"
-        },
-        {
-          "title": "L’identité de la femme assassinée samedi à Montréal est maintenant connue",
-          "snippet": "",
-          "url": "https://www.tvanouvelles.ca/2026/08/17/lidentite-de-la-femme-assassinee-samedi-a-montreal-est-maintenant-connue",
-          "source": "TVA Nouvelles"
-        },
-        {
-          "title": "Le mouvement « Non aux féminicides Côte-Nord » répète son message haut et fort",
-          "snippet": "",
-          "url": "https://macotenord.com/2026/08/24/le-mouvement-non-aux-feminicides-cote-nord-repete-son-message-haut-et-fort/",
-          "source": "Ma Côte-Nord"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "hallescher fc",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 24 Aug 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxOQx4nuopX6l8BP-CbpRiavko2aWtmUqY0oI7PIJlrjP9SE_h82YdzbOKrt4",
-      "pictureSource": "SRF",
-      "relatedSearch": [
-        {
-          "title": "Erste Runde im DFB-Pokal - Schalke und Köln vermeiden frühe Pokal-Pleiten",
-          "snippet": "",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/erste-runde-im-dfb-pokal-schalke-und-koeln-vermeiden-fruehe-pokal-pleiten",
-          "source": "SRF"
-        },
-        {
-          "title": "Dem Debakel entgangen: Dzeko und Sylla hieven Schalke in der Verlängerung in Runde zwei",
-          "snippet": "",
-          "url": "https://www.kicker.ch/halle-gegen-schalke-2026-dfb-pokal-5204704/spielbericht",
-          "source": "https://www.kicker.ch/"
-        },
-        {
-          "title": "Dem Debakel entgangen: Dzeko und Sylla hieven Schalke in der Verlängerung in Runde zwei",
-          "snippet": "",
-          "url": "https://www.kicker.de/halle-gegen-schalke-2026-dfb-pokal-5204704/ticker",
-          "source": "Kicker"
         }
       ],
       "link": "https://imtaqin.id/"
