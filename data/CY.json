@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-08-26 05:01:57",
+  "lastUpdate": "2026-08-26 05:42:12",
   "data": [
     {
       "title": "όχημα",
-      "trafficCount": "200+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 19:40:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfymrTnZpvpNUnSJ_HQ0fYDbqHLOZh3NsX8K6XY04A1oXw0B0G99NejHgJSJw",
       "pictureSource": "Sigmalive",
@@ -33,9 +33,15 @@
       "title": "λευκωσία",
       "trafficCount": "200+",
       "pubDate": "Tue, 25 Aug 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT44LN5kE6XbVTkLvoUMN6RIjcSIgRA8aDJiT1KO9vNJ6ZGBHWwSHBCId6kRds",
-      "pictureSource": "Sigmalive",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrfoaxRlHJrGP94K-yOOJr3UQf2ehCIblMU6YacKft-NkmZz9ur-wwNF_W8NI",
+      "pictureSource": "Cypruspolicenews",
       "relatedSearch": [
+        {
+          "title": "Εντοπισμός ελλείποντος προσώπου",
+          "snippet": "",
+          "url": "https://www.cypruspolicenews.com/archives/59176",
+          "source": "Cypruspolicenews"
+        },
         {
           "title": "ΦΩΤΟ: Χάθηκαν τα ίχνη της 45χρονης Παναγιώτας στη Λευκωσία",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.philenews.com/kipros/astinomika/article/1762564/sinagermos-stin-astinomia-exafanistike-45chroni-tin-echete-di-ikona/",
           "source": "Philenews"
-        },
-        {
-          "title": "ΦΩΤΟ: Χάθηκαν τα ίχνη της 45χρονης Παναγιώτας στη Λευκωσία",
-          "snippet": "",
-          "url": "https://www.sigmalive.com/news/local/1326775/foto-xathikan-ta-ikhni-tis-45khronis-panaghiwtas-sti-lefkosia",
-          "source": "Sigmalive"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -77,10 +77,10 @@
           "source": "BBC"
         },
         {
-          "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+          "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80 after fighting cancer",
           "snippet": "",
-          "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
-          "source": "The New York Times"
+          "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -95,7 +95,7 @@
         {
           "title": "Ρωσία και Ουκρανία συζητούν «αρκετά μεγάλη» ανταλλαγή αιχμαλώτων πολέμου",
           "snippet": "",
-          "url": "https://www.cna.org.cy/article/10781369/rosia-kai-oykrania-syzitoyn-arketa-megali-antallagi-aichmaloton-polemoy",
+          "url": "https://www.cna.org.cy/article/10781369",
           "source": "ΚΥΠΕ"
         },
         {
@@ -109,6 +109,34 @@
           "snippet": "",
           "url": "https://www.sigmalive.com/news/international/1326158/nea-antallaghi-aikhmalwton-polemoy-metaksy-rosias-kai-oykranias-1",
           "source": "Sigmalive"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "παραλίμνι",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 25 Aug 2026 07:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYzGcnWrubdFQ5me7jWu8ImXvmG_TME3b2XDBSikOi1E6bcWvT212V-NTHBXA",
+      "pictureSource": "Sigmalive",
+      "relatedSearch": [
+        {
+          "title": "Τραγωδία στο Παραλίμνι: 22χρονος Γερμανός πνίγηκε σε πισίνα",
+          "snippet": "",
+          "url": "https://www.sigmalive.com/news/local/1326751/traghodia-sto-paralimni-22khronos-germanos-pnighike-se-pisina",
+          "source": "Sigmalive"
+        },
+        {
+          "title": "Νέα τραγωδία: Νεκρός 22χρονος στο Παραλίμνι - Πνίγηκε στην πισίνα συγκροτήματος διαμερισμάτων",
+          "snippet": "",
+          "url": "https://www.politis.com.cy/politis-news/cyprus/1028205/nea-traghodia-nekros-22khronos-sto-paralimni-pnighike-stin-pisina-sighkrotimatos-diamerismaton",
+          "source": "ΠΟΛΙΤΗΣ"
+        },
+        {
+          "title": "Δεύτερος πνιγμός μέσα σε 24 ώρες: Νεκρός 22χρονος στο Παραλίμνι",
+          "snippet": "",
+          "url": "https://dialogos.com.cy/deyteros-pnigmos-mesa-se-24-ores-nekros-22chronos-sto-paralimni/",
+          "source": "Dialogos"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -142,53 +170,12 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "πνιγμόσ",
-      "trafficCount": "2000+",
-      "pubDate": "Tue, 25 Aug 2026 06:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYzGcnWrubdFQ5me7jWu8ImXvmG_TME3b2XDBSikOi1E6bcWvT212V-NTHBXA",
-      "pictureSource": "Sigmalive",
-      "relatedSearch": [
-        {
-          "title": "Τραγωδία στο Παραλίμνι: 22χρονος Γερμανός πνίγηκε σε πισίνα",
-          "snippet": "",
-          "url": "https://www.sigmalive.com/news/local/1326751/traghodia-sto-paralimni-22khronos-germanos-pnighike-se-pisina",
-          "source": "Sigmalive"
-        },
-        {
-          "title": "Νέα τραγωδία: Νεκρός 22χρονος στο Παραλίμνι - Πνίγηκε στην πισίνα συγκροτήματος διαμερισμάτων",
-          "snippet": "",
-          "url": "https://www.politis.com.cy/politis-news/cyprus/1028205/nea-traghodia-nekros-22khronos-sto-paralimni-pnighike-stin-pisina-sighkrotimatos-diamerismaton",
-          "source": "ΠΟΛΙΤΗΣ"
-        },
-        {
-          "title": "Δεύτερος πνιγμός μέσα σε 24 ώρες: Νεκρός 22χρονος στο Παραλίμνι",
-          "snippet": "",
-          "url": "https://dialogos.com.cy/deyteros-pnigmos-mesa-se-24-ores-nekros-22chronos-sto-paralimni/",
-          "source": "Dialogos"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "κωνσταντινούπολη",
       "trafficCount": "200+",
       "pubDate": "Tue, 25 Aug 2026 06:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTweJPYfMIRt8YyUXl1lbna6XGtlwC1TPUhfCIMRjPrskRi-mQ549QIEfxM7tg",
-      "pictureSource": "Athens Voice",
-      "relatedSearch": [
-        {
-          "title": "Νέα ένταση Τουρκίας-Ισραήλ με φόντο τη Συρία: «Δεν θα πέσουμε στην παγίδα του Νετανιάχου», λέει η Άγκυρα",
-          "snippet": "",
-          "url": "https://www.athensvoice.gr/epikairotita/diethni/981371/nea-edasi-tourkias-israil-me-fodo-ti-suria-den-tha-pesoume-stin-pagida-tou-netaniahou-leei-i-agura/",
-          "source": "Athens Voice"
-        },
-        {
-          "title": "ΟΗΕ: Να σταματήσουν άμεσα οι ισραηλινές αεροπορικές επιδρομές στη Συρία",
-          "snippet": "",
-          "url": "https://otavoice.gr/eidhseis/2026/08/oie-na-stamatisoun-amesa-oi-israilines-aeroporikes-epidromes-sti-syria/",
-          "source": "ota voice"
-        }
-      ],
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
@@ -233,16 +220,16 @@
           "source": "Haber Kıbrıs"
         },
         {
-          "title": "Çatalköy’de evinde ölü bulunan şahsın ölüm nedeni belli oldu!",
+          "title": "Limasol'da 21 yaşındaki genç boğuldu",
           "snippet": "",
-          "url": "https://www.bagimsiz.com/catalkoyde-evinde-olu-bulunan-sahsin-olum-nedeni-belli-oldu",
+          "url": "https://www.bagimsiz.com/limasolda-21-yasindaki-genc-boguldu",
           "source": "Bağımsız Gazete"
         },
         {
-          "title": "Yuvacık ve Değirmenlik’te iki saatlik elektrik kesintisi",
+          "title": "Yuvacık ve çevresinde bugün 09.30-11.30 saatleri arasında elektrik kesintisi",
           "snippet": "",
-          "url": "https://kibrisgazetesi.com/yuvacik-ve-degirmenlikte-iki-saatlik-elektrik-kesintisi/",
-          "source": "Kıbrıs Gazetesi"
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n611748-yuvacik-ve-cevresinde-bugun-09301130-saatleri-arasinda-elektrik-kesintisi",
+          "source": "Kıbrıs Postası"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -251,15 +238,9 @@
       "title": "δημητρησ κοκοτασ",
       "trafficCount": "2000+",
       "pubDate": "Tue, 25 Aug 2026 06:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaspOyrk_uSaEK7S8sUqVFLBx5mKYm82nHiFcYqhacnTkHRmzwg2aAyK_y2X4",
-      "pictureSource": "Philenews",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMnVy_O8E6VHiTgOUEprSayiFGnxnb63R-O75gbevTOMdtHPj5CIwJaweHXao",
+      "pictureSource": "Kathimerini.com.cy",
       "relatedSearch": [
-        {
-          "title": "Δημήτρης Κόκοτας: Πως ήταν η σχέση του με τον πατέρα του",
-          "snippet": "",
-          "url": "https://www.philenews.com/phil-life/article/1762779/dimitris-kokotas-pos-itan-i-schesi-tou-me-ton-patera-tou-i-tragiki-profitia-tou-tragoudiou-gie-mou-ke-i-anemona-pou-paraligo-na-min-tragoudisi-vinteo/",
-          "source": "Philenews"
-        },
         {
           "title": "Κόκοτας: Η συνεργασία με Φοίβο, η επιτυχία στα 90s και ο Καρβέλας",
           "snippet": "",
@@ -267,10 +248,16 @@
           "source": "Kathimerini.com.cy"
         },
         {
-          "title": "Νίκος Κοκλώνης: Το συγκινητικό «αντίο» στον Κόκοτα",
+          "title": "Δημήτρης Κόκοτας: Έφυγε μετά από 2,5 χρόνια νοσηλείας",
           "snippet": "",
-          "url": "https://m.24sports.com.cy/gr/beautiful-people/bp-ellada/nikos-koklwnis-to-sygkinitiko-antio-ston-kokota",
-          "source": "24Sports & News"
+          "url": "https://www.philenews.com/phil-life/article/1762603/thlipsi-gia-ton-dimitri-kokota-efige-meta-apo-25-chronia-nosilias-i-xafniki-katarrefsi-sta-girismata/",
+          "source": "Philenews"
+        },
+        {
+          "title": "Έφυγε από τη ζωή ο γνωστός τραγουδιστής Δημήτρης Κόκοτας",
+          "snippet": "",
+          "url": "https://www.sigmalive.com/news/greece/1326770/efighe-apo-ti-zoi-o-ghnostos-traghoydistis-dimitris-kokotas",
+          "source": "Sigmalive"
         }
       ],
       "link": "https://imtaqin.id/"
