@@ -1,9 +1,65 @@
 {
-  "lastUpdate": "2026-08-26 12:18:32",
+  "lastUpdate": "2026-08-26 13:27:09",
   "data": [
     {
-      "title": "автокредит",
+      "title": "солнечная активность",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 26 Aug 2026 06:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuu5TXCs6n1po9YGFTIdE8gCgzqIcix2MR-RQeU6jDpeHYxeN0wneCMePv7ZU",
+      "pictureSource": "Новости Zakon.kz",
+      "relatedSearch": [
+        {
+          "title": "Магнитные бури обрушатся на Казахстан: когда и чего ждать",
+          "snippet": "",
+          "url": "https://www.zakon.kz/nauka/6529438-magnitnye-buri-obrushatsya-na-kazakhstan-kogda-i-chego-zhdat.html",
+          "source": "Новости Zakon.kz"
+        },
+        {
+          "title": "Пробуждение \"мертвого\" очага на солнце грозит земле магнитными бурями",
+          "snippet": "",
+          "url": "https://ustinka.kz/strana-i-mir/125762.html",
+          "source": "Устинка"
+        },
+        {
+          "title": "На Солнце возобновились сильные вспышки: чего ждать Земле",
+          "snippet": "",
+          "url": "https://science.mail.ru/news/55377-vspyshki-25-avgusta/",
+          "source": "Наука Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "заморозки",
       "trafficCount": "200+",
+      "pubDate": "Wed, 26 Aug 2026 05:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa4shZak89_pxn0nIlqPfU7fPykhLgab89WE80bxzMAQdPU_mhamjkt66huQ8",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "Первые заморозки пришли в Сибирь в конце лета",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/72121927/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "Иркутский гидрометцентр — о погоде на 27 августа",
+          "snippet": "",
+          "url": "https://www.t24.su/irkutskiy-gidromettsentr-270826/",
+          "source": "Тайшет24"
+        },
+        {
+          "title": "МЧС бьет тревогу: Приангарье ждут ливни, грозы и заморозки до -3°C",
+          "snippet": "",
+          "url": "https://irkutskmedia.ru/news/2600689/",
+          "source": "IrkutskMedia"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "автокредит",
+      "trafficCount": "500+",
       "pubDate": "Wed, 26 Aug 2026 05:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUqyVByt83rYnoeEj3wSd1ZNs4kwGs1p2rKANlQop606VXJCVV5EkBX5exQRg",
       "pictureSource": "Kapital.kz",
@@ -30,6 +86,43 @@
       "link": "https://imtaqin.id/"
     },
     {
+      "title": "организованная преступная группа",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 26 Aug 2026 05:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "центральное разведывательное управление",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 26 Aug 2026 04:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1X-exLheDvkk7Jte3HU86YfcD7hkphqywRKZJb3xsDzSy7vckjkOgGJ5i0Cw",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Предупреждение Путину, освобождение заключенных или переговоры с Ираном? Зачем в Москву прилетал глава ЦРУ",
+          "snippet": "",
+          "url": "https://www.bbc.com/russian/articles/cx2zk4j9433o",
+          "source": "BBC"
+        },
+        {
+          "title": "Послание для Путина",
+          "snippet": "",
+          "url": "https://www.svoboda.org/a/poslanie-dlya-putina/33840406.html",
+          "source": "Радио Свобода"
+        },
+        {
+          "title": "WP: Визит главы ЦРУ в РФ связан с контактами спецслужб",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/wp-vizit-glavy-cru-v-moskvu-svazan-s-kontaktami-mezdu-specsluzbami/a-78503482",
+          "source": "DW.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "дождь со снегом",
       "trafficCount": "500+",
       "pubDate": "Wed, 26 Aug 2026 04:50:00 -0700",
@@ -43,10 +136,10 @@
           "source": "TengriNews"
         },
         {
-          "title": "Какая погода ожидает казахстанцев в ближайшие дни",
+          "title": "В Астане 27 августа по-прежнему без осадков",
           "snippet": "",
-          "url": "https://ustinka.kz/kazakhstan/125810.html",
-          "source": "Устинка"
+          "url": "https://www.gismeteo.kz/news/klimat/v-astane-27-avgusta-po-prezhnemu-bez-osadkov/",
+          "source": "Gismeteo"
         },
         {
           "title": "Штормовое предупреждение в Казахстане: какие регионы вошли в список",
@@ -58,36 +151,8 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "центральное разведывательное управление",
-      "trafficCount": "100+",
-      "pubDate": "Wed, 26 Aug 2026 04:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjQF5Nx_9hHEq1OlHscafbuW9uVAoHQKs5XvrfMORFU_MHTgo97Llvx_Mkvuk",
-      "pictureSource": "DW.com",
-      "relatedSearch": [
-        {
-          "title": "WP: Визит главы ЦРУ в РФ связан с контактами спецслужб",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/wp-vizit-glavy-cru-v-moskvu-svazan-s-kontaktami-mezdu-specsluzbami/a-78503482",
-          "source": "DW.com"
-        },
-        {
-          "title": "Американские СМИ сообщили о необъявленном визите главы ЦРУ в Москву. Что известно",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cq5xdvexdjgo",
-          "source": "BBC"
-        },
-        {
-          "title": "В Москву прилетал директор ЦРУ Джон Рэтклифф. Песков заявил, что он приезжал с целью \"установления контакта между спецслужбами\"",
-          "snippet": "",
-          "url": "https://www.currenttime.tv/a/v-moskvu-priletel-direktor-tsru-dzhon-retklif/33839224.html",
-          "source": "Настоящее Время"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "климат",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Wed, 26 Aug 2026 04:20:00 -0700",
       "picture": "",
       "pictureSource": "",
@@ -98,43 +163,37 @@
       "title": "azh.kz",
       "trafficCount": "500+",
       "pubDate": "Wed, 26 Aug 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI1EsBiyuqQhcAmpEtcBdz8jcCduOVJgjQtIXvP_95iiSV0GgrtWi3x_dePyc",
-      "pictureSource": "TengriNews",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAOiyiNyVUjlgeKPPNSZY5-LJmUvG57eFIi2OdlMfeFfn4oicEsfdBxV9To9E",
+      "pictureSource": "Ак Жайык",
       "relatedSearch": [
         {
-          "title": "Казахстанцы жалуются на бензин - что показала проверка Павлодарского нефтехимического завода",
+          "title": "Важно для автолюбителей: популярный участок дороги закроют на ремонт",
           "snippet": "",
-          "url": "https://tengrinews.kz/autonews/kazahstantsyi-jaluyutsya-benzin-pokazala-proverka-607063/",
+          "url": "https://azh.kz/ru/news/view/131514",
+          "source": "Ак Жайык"
+        },
+        {
+          "title": "Участок проспекта Абая закроют до начала осени в Алматы",
+          "snippet": "",
+          "url": "https://informburo.kz/novosti/ucastok-prospekta-abaia-zakroiut-do-nacala-oseni-v-almaty",
+          "source": "Informburo.kz"
+        },
+        {
+          "title": "Улицу Абая частично перекроют в Алматы",
+          "snippet": "",
+          "url": "https://tengrinews.kz/autonews/ulitsu-abaya-chastichno-perekroyut-v-almatyi-606906/",
           "source": "TengriNews"
-        },
-        {
-          "title": "ПНХЗ заявил о соответствии бензина АИ-95 и АИ-98 стандартам качества",
-          "snippet": "",
-          "url": "https://kapital.kz/gosudarstvo/152159/pnhz-zayavil-o-sootvetstvii-benzina-ai-95-i-ai-98-standartam-kachestva.html",
-          "source": "Kapital.kz"
-        },
-        {
-          "title": "Независимая лаборатория подтвердила качество бензина Павлодарского НПЗ",
-          "snippet": "",
-          "url": "https://kaztag.kz/ru/news/nezavisimaya-laboratoriya-podtverdila-kachestvo-benzina-pavlodarskogo-npz",
-          "source": "КазТАГ"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "остров",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Wed, 26 Aug 2026 03:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yqLL_icMM_91euYhX63SMVJt_V83hq6yoqqTOpUQnp1rctJ3CxoNaDA7h5A",
-      "pictureSource": "TengriNews",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdhKSBtFRD7htPqkd630c0yDVEIPpyuFXheWBmnn3GkXvrw_O3NzRQkvT-IwM",
+      "pictureSource": "«Астана» телеарнасы",
       "relatedSearch": [
-        {
-          "title": "Новый остров сняли на видео в Каспийском море",
-          "snippet": "",
-          "url": "https://tengrinews.kz/kazakhstan_news/novyiy-ostrov-snyali-na-video-v-kaspiyskom-more-607051/",
-          "source": "TengriNews"
-        },
         {
           "title": "Новый остров появился в Каспийском море",
           "snippet": "",
@@ -142,10 +201,16 @@
           "source": "«Астана» телеарнасы"
         },
         {
-          "title": "Новый остров появился в Каспийском море: его сняли на видео",
+          "title": "Новый остров сняли на видео в Каспийском море",
           "snippet": "",
-          "url": "https://www.lada.kz/aktau_news/society/157321-novyi-ostrov-poiavilsia-v-kaspiiskom-more-ego-sniali-na-video.html",
-          "source": "Lada.kz"
+          "url": "https://tengrinews.kz/kazakhstan_news/novyiy-ostrov-snyali-na-video-v-kaspiyskom-more-607051/",
+          "source": "TengriNews"
+        },
+        {
+          "title": "Море отступает: возле Мангистау сняли на видео вновь образовавшийся остров",
+          "snippet": "",
+          "url": "https://azh.kz/ru/news/view/131486",
+          "source": "Ак Жайык"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -174,90 +239,6 @@
           "snippet": "",
           "url": "https://tengrinews.kz/home-news/kvartira-15-milliona-balhashe-pochemu-sud-protiv-sdelki-607050/",
           "source": "TengriNews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "зодиак",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 26 Aug 2026 02:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsm2HFB8EFoBoVgxUNQOSgQQW1qJGW_AdtOWpsAVKloFC6xrA3Ao2RBti-6gw",
-      "pictureSource": "Новости Zakon.kz",
-      "relatedSearch": [
-        {
-          "title": "Известны знаки зодиака, жизнь которых станет заметно проще совсем скоро",
-          "snippet": "",
-          "url": "https://www.zakon.kz/sovety/6529396-izvestny-znaki-zodiaka-zhizn-kotorykh-stanet-zametno-proshche-sovsem-skoro.html",
-          "source": "Новости Zakon.kz"
-        },
-        {
-          "title": "Эти знаки Зодиака получат редкое благословение Вселенной",
-          "snippet": "",
-          "url": "https://www.unian.net/lite/astrology/goroskop-2026-eti-znaki-zodiaka-poluchat-redkoe-blagoslovenie-vselennoy-13478745.html",
-          "source": "УНИАН"
-        },
-        {
-          "title": "Огненная Лошадь порадует их после 24 августа: кто получит особенный подарок — возможность для трех знаков Зодиака",
-          "snippet": "",
-          "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-ognennaya-loshad-poraduet-ihposle-24avgusta-kto-poluchit-osobennyy-podarok-vozmojnost-dlya-treh-znakov-zodiaka-469670/",
-          "source": "Хибины.ру"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "мангистауская область",
-      "trafficCount": "500+",
-      "pubDate": "Wed, 26 Aug 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5J_9ORzgwkfvpNMFATokMAfnrNj25dIDUHV3J1Tu2u9hdy4-WCGGi7RPJhHg",
-      "pictureSource": "Kapital.kz",
-      "relatedSearch": [
-        {
-          "title": "В 2026 году на ремонт энергообъектов выделили 384 млрд тенге",
-          "snippet": "",
-          "url": "https://kapital.kz/gosudarstvo/152088/v-2026-godu-na-remont-energoobuektov-vydelili-384-mlrd-tenge.html",
-          "source": "Kapital.kz"
-        },
-        {
-          "title": "Регионам поручено ускорить подготовку к отопительному сезону",
-          "snippet": "",
-          "url": "https://24.kz/ru/news/social/787916-regionam-porucheno-uskorit-podgotovku-k-otopitelnomu-sezonu",
-          "source": "24.kz"
-        },
-        {
-          "title": "Названы регионы с рисками срыва завершения ремонтов теплосетей",
-          "snippet": "",
-          "url": "https://www.zakon.kz/obshestvo/6529314-nazvany-regiony-s-riskami-sryva-zaversheniya-remontov-teplosetey.html",
-          "source": "Новости Zakon.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "хоккей",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 26 Aug 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKhFUog3jWUEh9kkf4nvZryrboN2XmTH4yuXxSg4P8RjG1SfnIDvgBTTat7gc",
-      "pictureSource": "Спорт Mail",
-      "relatedSearch": [
-        {
-          "title": "Ларионов поделился мнением о новом правиле остановки шайбы рукой",
-          "snippet": "",
-          "url": "https://sportmail.ru/article/hockey-khl/72116354/",
-          "source": "Спорт Mail"
-        },
-        {
-          "title": "КХЛ может изменить одно правило в новом сезоне",
-          "snippet": "",
-          "url": "https://www.sports.kz/news/khl-mojet-izmenit-odno-pravilo-v-novom-sezone",
-          "source": "Sports.kz"
-        },
-        {
-          "title": "В КХЛ изменилось одно из правил. И это уже многих раздражает",
-          "snippet": "",
-          "url": "https://allhockey.ru/article/show/605197-V_KHL_izmenilos_odno_iz_pravil_I_eto_uzhe_mnogih_razdrazhaet",
-          "source": "Allhockey.ru"
         }
       ],
       "link": "https://imtaqin.id/"
