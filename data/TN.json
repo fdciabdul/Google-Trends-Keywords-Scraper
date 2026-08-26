@@ -1,9 +1,93 @@
 {
-  "lastUpdate": "2026-08-26 05:42:38",
+  "lastUpdate": "2026-08-26 06:17:59",
   "data": [
     {
+      "title": "météo",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 25 Aug 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShKN9wAeUk8g6M7uR-FCUJ7OcPws8DgYVP897LULaedRM6La_hOQWQk9bDBOI",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "Météo: Chaleur persistante, demain mercredi",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/fr/national-tunisie/1528340/meteo-chaleur-persistante-demain-mercredi",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "Canicule en Tunisie : le ressenti pourrait atteindre 51 °C dans les régions côtières",
+          "snippet": "",
+          "url": "https://www.lapresse.tn/2026/08/24/canicule-en-tunisie-le-ressenti-pourrait-atteindre-51-c-dans-les-regions-cotieres/",
+          "source": "La Presse de Tunisie"
+        },
+        {
+          "title": "Canicule, délestages, coupures d’eau : ce que 47°C mettent à nu",
+          "snippet": "",
+          "url": "https://businessnews.com.tn/2026/08/25/canicule-delestages-coupures-deau-quand-la-chaleur-pousse-les-services-essentiels-dans-leurs-retranchements/1415454/",
+          "source": "Business News"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 25 Aug 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqtv-4J3ksW66QWMGobARs5Vu4sB3o3MYSuZi3SP6nZdvKuLmcoj-zAMkyQIY",
+      "pictureSource": "PerthNow",
+      "relatedSearch": [
+        {
+          "title": "‘ACT NOW’: Severe weather warning issued for WA coast",
+          "snippet": "",
+          "url": "https://www.perthnow.com.au/wa/weather/severe-weather-warning-issued-for-massive-stretch-of-wa-coastline-as-authorities-urge-public-to-act-now-c-22777301",
+          "source": "PerthNow"
+        },
+        {
+          "title": "Heavy rainfall, thunderstorms to lash Mandurah down to Busselton",
+          "snippet": "",
+          "url": "https://www.coastlive.com.au/news/local-news/heavy-rainfall-thunderstorms-to-lash-mandurah-down-to-busselton/",
+          "source": "97.3 Coast FM"
+        },
+        {
+          "title": "WA news LIVE: Child airlifted to hospital after Yanchep crash",
+          "snippet": "",
+          "url": "https://www.watoday.com.au/national/western-australia/wa-news-live-perth-told-to-brace-for-storm-heavy-rains-20260826-p60rm3.html",
+          "source": "WAtoday"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "canicule",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 25 Aug 2026 22:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnpA4lTkxtSwiJM0nv7ydEagfBlglVHcU4QoTth_aZbDERyIbzvQiiF4t2_HQ",
+      "pictureSource": "Le Bien Public",
+      "relatedSearch": [
+        {
+          "title": "Bourgogne-Franche-Comté. Le monde agricole régional tire (encore) la sonnette d’alarme",
+          "snippet": "",
+          "url": "https://www.bienpublic.com/economie/2026/08/25/le-monde-agricole-regional-tire-(encore)-la-sonnette-d-alarme",
+          "source": "Le Bien Public"
+        },
+        {
+          "title": "Plouvien : 12 000 litres d'eau par jour pour un troupeau",
+          "snippet": "",
+          "url": "https://agronews.com/fr/fr/news/agrosfera/2026-08-25/102883",
+          "source": "agronews.com"
+        },
+        {
+          "title": "Fleurs brûlées, sécheresse... le cri d’alarme des agriculteurs des Alpes-Maritimes face à une production de fruits et légumes catastrophique cet été",
+          "snippet": "",
+          "url": "https://www.nicematin.com/economie/agriculture/fleurs-brulees-secheresse-le-cri-d-alarme-des-agriculteurs-des-alpes-maritimes-face-a-une-production-de-fruits-et-legumes-catastrophique-cet-ete-10709528",
+          "source": "Nice-Matin"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "موجة حر",
-      "trafficCount": "1000+",
+      "trafficCount": "500+",
       "pubDate": "Tue, 25 Aug 2026 15:00:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkCca6vXaAM6Wsqfqbu5COdpnbfOzxOjCIkrxdIX8-cQ5MA5CIBV1fFG-A7yI",
       "pictureSource": "Mosaique FM",
@@ -21,10 +105,10 @@
           "source": "Assabah news"
         },
         {
-          "title": "طقس اليوم ... أمطار بعدد من الجهات و الحرارة تصل الى 47 درجة",
+          "title": "تزامنا مع موجة الحرّ.. الحماية المدنية تحذّر من الحرائق وتدعو للتوقي",
           "snippet": "",
-          "url": "https://diwanfm.net/news/%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A7%D8%AA/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-...-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%A8%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D9%88-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B5%D9%84-%D8%A7%D9%84%D9%89-47-%D8%AF%D8%B1%D8%AC%D8%A9",
-          "source": "RADIO DIWAN FM"
+          "url": "https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/actu/%D8%AA%D8%B1%D8%A7%D9%85%D9%86%D8%A7-%D9%85%D8%B9-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0-%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D9%88%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA%D9%88%D9%82%D9%8A/585639",
+          "source": "Nessma TV"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +145,26 @@
       "title": "météo demain",
       "trafficCount": "20000+",
       "pubDate": "Tue, 25 Aug 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ_3jdD3-i1OnsaBobHLoNvewXwG85Mgiw1p6PVa3vJAIoBnYTEmTkB6MTcl8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF2G2xf4Pmq8Kswp7hzd1DuCikYGiYCn2C7ICGl60sUXSzIewuarTsSp4Ybbk",
       "pictureSource": "La Chaîne Météo",
       "relatedSearch": [
         {
-          "title": "Météo aujourd'hui : la chaleur revient avant une violente dégradation orageuse",
+          "title": "Alerte Météo : Violents orages, grêle, risque de tornades",
           "snippet": "",
-          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-08-25/meteo-aujourd-hui-la-chaleur-revient-avant-une-violente-degradation-orageuse-91650",
+          "url": "https://actualite.lachainemeteo.com/alerte-meteo/9562-violents-orages-grele-risque-de-tornades",
           "source": "La Chaîne Météo"
         },
         {
-          "title": "Météo : le soleil revient sur la France avant une nouvelle dégradation orageuse",
+          "title": "Une partie de l’ouest de la France va passer en vigilance orange pour les orages",
           "snippet": "",
-          "url": "https://fr.news.yahoo.com/m%C3%A9t%C3%A9o-soleil-revient-france-avant-075003456.html",
+          "url": "https://fr.news.yahoo.com/sport/partie-l-ouest-france-va-045937010.html",
           "source": "Yahoo Actualités"
         },
         {
-          "title": "Après la pluie, les orages et la grêle, le retour de la canicule ? Un pic à 34 °C dès dimanche",
+          "title": "Pas moins de deux dépressions : la météo s'annonce très agitée ce week-end en France avec de la pluie et du vent !",
           "snippet": "",
-          "url": "https://selectra.info/energie/actualites/marche/retour-chaleur-fin-aout-2026-rentree-modeles",
-          "source": "Selectra"
+          "url": "https://www.tameteo.com/actualites/previsions/pas-moins-de-deux-depressions-la-meteo-s-annonce-tres-agitee-ce-week-end-en-france-avec-de-la-pluie-et-du-vent.html",
+          "source": "Tameteo.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +173,26 @@
       "title": "weather tomorrow",
       "trafficCount": "2000+",
       "pubDate": "Tue, 25 Aug 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq3UGV9CKfQzh-1dH_8uyy8aZSAp7RyXdaAz0U4aRUm8-GTmBuyhNlnDTDPoY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFyEesDbsoe6ZJSxysZVeYr70ntU4Q6JTw6LIoV-Cme5Vdh6cTJrwFMleCz0I",
       "pictureSource": "Yahoo",
       "relatedSearch": [
         {
-          "title": "Pleasant Tuesday, Wednesday storms, and late week humidity ahead for central Indiana | Aug. 25, 2026",
+          "title": "Taste of early fall in Kentucky, southern Indiana",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/weather-news/articles/pleasant-tuesday-wednesday-storms-week-191939963.html",
+          "url": "https://www.yahoo.com/news/videos/taste-early-fall-kentucky-southern-000536816.html",
           "source": "Yahoo"
         },
         {
-          "title": "13Weather Forecast Update | 4 p.m Aug. 25, 2026",
+          "title": "FIRST ALERT FORECAST: A Picture Perfect Tuesday In Store",
           "snippet": "",
-          "url": "https://www.wthr.com/video/weather/forecast/13weather-forecast-update-4-pm-aug-25-2026/531-c7c7e69d-a5e9-4d93-9e53-1bfd6a42fbeb",
-          "source": "WTHR"
+          "url": "https://www.wymt.com/2026/08/25/first-alert-forecast-picture-perfect-tuesday-store/",
+          "source": "WYMT"
         },
         {
-          "title": "Kentucky weather tomorrow: Another nice day of clear skies and warming temperatures",
+          "title": "Quiet weather continues before isolated rain chances return Thursday",
           "snippet": "",
-          "url": "https://fox56news.com/weather/forecast/kentucky-weather-tomorrow-another-nice-day-of-clear-skies-and-warming-temperatures/",
-          "source": "FOX 56 News"
+          "url": "https://www.lex18.com/weather/daily-forecast/quiet-weather-continues-before-isolated-rain-chances-return-thursday",
+          "source": "LEX 18 News"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -193,90 +277,6 @@
           "snippet": "",
           "url": "https://www.anconatoday.it/meteo/afa-marche-previsioni-ancona-bollettino-ministero-salute-bollini-ferragosto-2026.html",
           "source": "AnconaToday"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "توزيع الكهرباء",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 25 Aug 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNApkmsIJSz89sMGP1qAsyep-XFYytbB3cwRsqX5m_DlBuD-FZeZu6eWeQQyw",
-      "pictureSource": "Mosaique FM",
-      "relatedSearch": [
-        {
-          "title": "قطع دوري للكهرباء بعدد من المناطق من العاشرة ليلا حتى منتصف الليل",
-          "snippet": "",
-          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1528349/%D9%82%D8%B7%D8%B9-%D8%AF%D9%88%D8%B1%D9%8A-%D9%84%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A8%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1%D8%A9-%D9%84%D9%8A%D9%84%D8%A7-%D8%AD%D8%AA%D9%89-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D9%84%D9%8A%D9%84",
-          "source": "Mosaique FM"
-        },
-        {
-          "title": "ابتداء من الاربعاء.. اضطرابات وانقطاعات في توزيع الكهرباء خلال فترات ذروة الطلب",
-          "snippet": "",
-          "url": "https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/152822-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%AE%D9%84%D8%A7%D9%84-%D9%81%D8%AA%D8%B1%D8%A7%D8%AA-%D8%B0%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D8%B7%D9%84%D8%A8",
-          "source": "Assabah news"
-        },
-        {
-          "title": "الستاغ: انقطاع دوري للكهرباء من الواحدة الى الخامسة مساء",
-          "snippet": "",
-          "url": "https://diwanfm.net/news/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%BA%3A-%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9-%D8%AF%D9%88%D8%B1%D9%8A-%D9%84%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D8%B3%D8%A7%D8%A1",
-          "source": "diwanfm.net"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dolly parton",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 25 Aug 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCAD-7aznD98cuJri9JRXS1nNabvpyRmLaSQyR6WiXQozNcEhcgwQHxbkfqL8",
-      "pictureSource": "The New York Times",
-      "relatedSearch": [
-        {
-          "title": "Dolly Parton Died After Brief Battle With Cancer",
-          "snippet": "",
-          "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Angelenos pay respects to music icon Dolly Parton after star dies at 80",
-          "snippet": "",
-          "url": "https://www.cbsnews.com/losangeles/video/angelenos-pay-respects-to-music-icon-dolly-parton-after-star-dies-at-80/",
-          "source": "CBS News"
-        },
-        {
-          "title": "Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Saying, ‘I Still Have So Many Things I Want to Achieve’",
-          "snippet": "",
-          "url": "https://people.com/dolly-parton-dead-7565853",
-          "source": "People.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "الترجي الرياضي التونسي",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 25 Aug 2026 10:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSN3BWa2Gze2D5dT_ACyIu8_d4Vmwe7nXb5spGkR2vXAa1PYkuzmZsSxomZt4k",
-      "pictureSource": "Mosaique FM",
-      "relatedSearch": [
-        {
-          "title": "النجم الساحلي: كنا المتضرر الأكبر من الأخطاء التحكيمية في لقاء الترجي",
-          "snippet": "",
-          "url": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/1528348/%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84%D9%8A-%D9%83%D9%86%D8%A7-%D8%A7%D9%84%D9%85%D8%AA%D8%B6%D8%B1%D8%B1-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D8%B7%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%8A",
-          "source": "Mosaique FM"
-        },
-        {
-          "title": "بسبب ضربة جزاء النجم : الترجي يطالب بفتح تحقيق",
-          "snippet": "",
-          "url": "https://www.assabahnews.tn/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/152809-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B6%D8%B1%D8%A8%D8%A9-%D8%AC%D8%B2%D8%A7%D8%A1-%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%8A-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%81%D8%AA%D8%AD-%D8%AA%D8%AD%D9%82%D9%8A%D9%82",
-          "source": "Assabah news"
-        },
-        {
-          "title": "كلاسيكو الجولة الافتتاحية يبشّر ببداية قوية",
-          "snippet": "",
-          "url": "https://realites.com.tn/ar/%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%88-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D9%8A%D8%A9-%D9%8A%D8%A8%D8%B4%D9%91%D8%B1-%D8%A8%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%82%D9%88%D9%8A%D8%A9/",
-          "source": "Réalités Magazine"
         }
       ],
       "link": "https://imtaqin.id/"
