@@ -1,284 +1,227 @@
 {
-  "lastUpdate": "2026-08-29 23:18:51",
+  "lastUpdate": "2026-08-30 01:19:03",
   "data": [
     {
-      "title": "フィジカルai",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpNUR6jAVBpiPGeI_Zcd4F7ARWYZOiZ6RCfPMV1xwyrZJmkll4UJ3gWxQysHo",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社（共同通信）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/9e078c8807a8607a58424f6dee1be7a4330dd90a",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "ロボットと感覚を共有する～人間の感覚をデータ化 フィジカルAI最前線～",
-          "snippet": "",
-          "url": "https://tver.jp/episodes/epca5nzt01",
-          "source": "TVer"
-        },
-        {
-          "title": "フィジカルAI開発活発化 職人技継承、ロボットに託す 担い手不足、人型も挑戦",
-          "snippet": "",
-          "url": "https://www.nishinippon.co.jp/item/1532298/",
-          "source": "西日本新聞me"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ロボット",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 29 Aug 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaikOzqIyM29T88af2DaG39i9Z6ziu_VJIss6NzvEcC6emsOY58-rIA9bJQ3Q",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "チャイナ・ロボットの本当の脅威―中国共産党が若者を押し上げ「未完成品」が世界を追い越す #エキスパートトピ",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/expert/articles/f0d8c01c851a324f0135892b683022dc8ab55b35",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "人型ロボ 走る中国 昨年２１秒台 陸上１００メートル今年８.６４ボルト超え 技術応用 実用化目指す 北京でスポーツ大会 国民も参加",
-          "snippet": "",
-          "url": "https://www.fukuishimbun.co.jp/articles/-/2686384",
-          "source": "福井新聞社"
-        },
-        {
-          "title": "中国・北京で「ロボット運動会」 大会通じ見えてきた“中国の野望” 人型ロボット性能向上の一方、開発競争激化も",
-          "snippet": "",
-          "url": "https://tver.jp/episodes/epqcez8cd1",
-          "source": "TVer"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "バロンドール",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 29 Aug 2026 15:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqisIhMwckAqY4L00qgh4ptNRi4tZrSfLpwnlnORfcsZaCOrNaXr8CXI9sHGs",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "モウリーニョがバロンドール論を語る「CLやW杯を獲ったからではない」 メッシ、C・ロナウドらを絶賛「永遠に恋しくなる選手」",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/83d1b2330e870865aa89bdb8dd61008905932fc3",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "モウリーニョ「今季のバロンドール受賞者はPSGにもスペインにもいない。私たちはどこにいるかを知っている」",
-          "snippet": "",
-          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/mourinho-real-madrid-liga-football-soccer-20260829/blt20a2fc82f6418d0b",
-          "source": "Goal.com"
-        },
-        {
-          "title": "「PSGやスペイン出身である必要はない」：ジョゼ・モウリーニョ、バロンドールの授与を痛烈批判",
-          "snippet": "",
-          "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/psg%E3%82%84%E3%82%B9%E3%83%98%E3%82%9A%E3%82%A4%E3%83%B3%E5%87%BA%E8%BA%AB%E3%81%A6%E3%82%99%E3%81%82%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84-%E3%82%B7%E3%82%99%E3%83%A7%E3%82%BB%E3%82%99-%E3%83%A2%E3%82%A6%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A7-%E3%83%8F%E3%82%99%E3%83%AD%E3%83%B3%E3%83%88%E3%82%99%E3%83%BC%E3%83%AB%E3%81%AE%E6%8E%88%E4%B8%8E%E3%82%92%E7%97%9B%E7%83%88%E6%89%B9%E5%88%A4/blt6d36e7e859d30557",
-          "source": "Goal.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "札幌マラソン",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GOZZKUK9bBlQjJWtgPDYc748e7a3jBzI_Vkku3L8WMaIk4Si-92BHo1Dffo",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "心臓弁膜症を乗り越えて４２・１９５キロ先のゴールを目指す札幌市在住の成田優さん…北海道マラソン３０日号砲（スポーツ報知）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/78a96d4ad6886ec53e7d43057699422fcdf4a69d",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "えっ…これ本物ってマジ？　30日号砲・北海道マラソンの優勝メダルは“ガチ純金”　500万円超の価値",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/ans/sports/ans-720596",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "石川珠笑留氏、北海道マラソン2026メダル贈呈セレモニーで「光栄に思います」",
-          "snippet": "",
-          "url": "https://www.sanspo.com/article/20260828-JGPDXJRNKFM3BBPO4JZFDSVKGI/",
-          "source": "サンスポ"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "静岡市 天気",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 29 Aug 2026 15:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuUBElW_o80SWQF6EwRsMYZ4nu3rGVenOkQYiFihEWB_Fl7zfirU2nrW-S3jQ",
-      "pictureSource": "TVer",
-      "relatedSearch": [
-        {
-          "title": "28日の静岡県内 大気が非常に不安定な状態で天気の急変に注意が必要 県内に熱中症警戒アラート発表（静岡）",
-          "snippet": "",
-          "url": "https://tver.jp/episodes/epzc19i1en",
-          "source": "TVer"
-        },
-        {
-          "title": "【静岡県】8/30の天気予報",
-          "snippet": "",
-          "url": "https://www.fnn.jp/articles/-/1104107",
-          "source": "FNNプライムオンライン"
-        },
-        {
-          "title": "週末は天気も気温もガラリ【静岡・ただいま天気 8/28】（テレビ静岡NEWS）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/f0bc28bc7396606bae241784f749370211f557c3",
-          "source": "Yahoo!ニュース"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ブルワーズ 対 レンジャーズ",
+      "title": "ジブリ",
       "trafficCount": "500+",
-      "pubDate": "Sat, 29 Aug 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTujDt_MtEcaXJASreAIMVdzh2d_JmPscwULcS5zK30ahqCcqKgfLSUfqD5as",
-      "pictureSource": "MLB.com",
+      "pubDate": "Sat, 29 Aug 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58DS27r9oiXxnJkDj7H_MzgZEmSQtC1-RMME-XmSMmwV3fGH3C2VPMsxMxbY",
+      "pictureSource": "ジブリパーク",
       "relatedSearch": [
         {
-          "title": "In Brewers, Schumaker sees blueprint for Rangers' offensive identity",
+          "title": "「ジブリパークを歩いて」Vol.22は中京テレビアナウンサー・秋元風花さん",
           "snippet": "",
-          "url": "https://www.mlb.com/news/skip-schumaker-wants-rangers-offense-to-be-more-like-brewers",
-          "source": "MLB.com"
+          "url": "https://ghibli-park.jp/info/info20260830.html",
+          "source": "ジブリパーク"
         },
         {
-          "title": "'We love when he's out there': Logan Henderson just keeps on dealing",
+          "title": "郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラの生演奏で楽しもう",
           "snippet": "",
-          "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/08/29/we-love-when-hes-out-there-logan-henderson-just-keeps-on-dealing/91497289007/",
-          "source": "Milwaukee Journal Sentinel"
-        },
-        {
-          "title": "66-69 - Rangers get outclassed by Brewers in 6-1 loss",
-          "snippet": "",
-          "url": "https://www.lonestarball.com/rangers-mlb-game-day-thread/93337/texas-rangers-get-outclassed-by-milwaukee-brewers-in-series-opener",
-          "source": "Lone Star Ball"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "栗山巧",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 29 Aug 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp4C9mOdFXy97z_CFFHKDcOYLTzANJwZMNDw96-a4lmROy1PiHt4gkCzEhYHc",
-      "pictureSource": "Yahoo!ニュース",
-      "relatedSearch": [
-        {
-          "title": "週末午後、NPBの発表に「目頭が…」 野球ファンの涙誘う“3文字”…粋な対応に「感謝したい」（Full-Count）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/2321b295b7252c2665c9d0ebc6d59ab7884f4101",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "【西武】栗山巧の引退打席に最後の「いざ栗山」が響く…「歌詞を超えられたかな」のプロ25年間",
-          "snippet": "",
-          "url": "https://www.nikkansports.com/baseball/news/202608290000887.html",
-          "source": "日刊スポーツ"
-        },
-        {
-          "title": "楽天岸孝之、西武中村剛也と対戦なら２年ぶり　40代対決での本塁打は過去７本／見どころ",
-          "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp0-260830-202608290000850",
+          "url": "https://topics.smt.docomo.ne.jp/article/tjn_cjnavi/region/tjn_cjnavi-https_www.cjnavi.co.jp_event_20260829anime-ongaku-koriyama_",
           "source": "ｄメニューニュース"
+        },
+        {
+          "title": "郡山市で浸るアニメ音楽の世界。ディズニーやジブリの名曲をオーケストラの生演奏で楽しもう",
+          "snippet": "",
+          "url": "https://www.cjnavi.co.jp/event/20260829anime-ongaku-koriyama/",
+          "source": "日刊CJ Monmo Web"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "小久保 裕紀",
+      "title": "今井竜太郎",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 29 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhXUeMhq7UO_SlwU5M3mBJw6bshfU574jwV18tW_Mvw9-yXmR4wAPKgAv7YBo",
+      "pictureSource": "電撃ホビーウェブ",
+      "relatedSearch": [
+        {
+          "title": "『仮面ライダーゼッツ』主人公・万津莫の「S.H.Figuarts」が2次受注！同役を演じる今井竜太郎さんの顔立ちや、ハーネスを身に着けた特徴的な造形を再現！",
+          "snippet": "",
+          "url": "https://hobby.dengeki.com/news/3140047/",
+          "source": "電撃ホビーウェブ"
+        },
+        {
+          "title": "EXTRA MISSION: 最終回を終えて",
+          "snippet": "",
+          "url": "https://www.kamen-rider-official.com/zeztz/finish",
+          "source": "仮面ライダーWEB【公式】"
+        },
+        {
+          "title": "『仮面ライダーゼッツFS』第1部あらすじ解禁 「おはよう」へとつながる物語 脚本は高橋悠也氏「余白が回収される物語」（オリコン）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/9ed8bfe0ba8e2e181546710ef512e5d16b0755b0",
+          "source": "Yahoo!ニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "nas",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 29 Aug 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxXUd9_pKsg0sirb0fQTuj2UZcCa1Hvb0wts7J2uGS4kf-UD2HACQa7B9HkbI",
+      "pictureSource": "People.com",
+      "relatedSearch": [
+        {
+          "title": "Lil Nas X Announces Death of His Mother in Emotional Social Media Tribute: ‘This One’s Gonna Hurt’",
+          "snippet": "",
+          "url": "https://people.com/lil-nas-x-announces-death-of-mother-emotional-social-media-post-12072640",
+          "source": "People.com"
+        },
+        {
+          "title": "Lil Nas X announces his mom has died in heartbreaking tribute",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/entertainment/music/2026/08/29/lil-nas-x-mom-dead-tameka-hill/91527328007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Lil Nas X Reveals Mother’s Death Amid Sobriety Journey: ‘This One’s Gonna Hurt’",
+          "snippet": "",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/lil-nas-x-reveals-mother-193805214.html",
+          "source": "Yahoo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "兼近大樹",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "全東信",
       "trafficCount": "100+",
-      "pubDate": "Sat, 29 Aug 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0HCPDjPJpcWBt9a0FhoVfLsUy2NuZUdUnk4t3bx3py7VX-9PD0d5DCBQqfs",
-      "pictureSource": "Yahoo!ニュース",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O3d6RtHaqQYBJrOsvf05899NdFGHNoDUY0Ukjb4t2TJcfATtHdcjXdRpV4w",
+      "pictureSource": "産経ニュース",
       "relatedSearch": [
         {
-          "title": "自責点0で黒星 SB大津に監督謝罪",
+          "title": "破産した「全東信」未入金50億円超も 決済代行、問われる監督 売上金どう守る",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/pickup/6593573",
-          "source": "Yahoo!ニュース"
+          "url": "https://www.sankei.com/article/20260830-T2BFZW5PJFJURO7TO6QIEKELPQ/",
+          "source": "産経ニュース"
         },
         {
-          "title": "【オリックス】高島泰都、５回１失点で自己最多５勝目　ダンベルプレスはボディービルダー級４２キロ",
+          "title": "全東信の大阪本社ビル＝大阪市中央区",
           "snippet": "",
-          "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260829-OHT1T51118",
-          "source": "ｄメニューニュース"
+          "url": "https://www.sankei.com/article/20260830-T2BFZW5PJFJURO7TO6QIEKELPQ/photo/GJE22TKFTZPNXCH5PKAGT2UF6Q/",
+          "source": "産経ニュース"
         },
         {
-          "title": "【ソフトバンク】大津亮介４敗目「ミスを自分がカバーできなかった」自責０も失策重なり４失点",
+          "title": "負債1100億超、債権者リストに地銀や信金がズラリ…「全東信」の倒産で不動産融資が鈍る？",
           "snippet": "",
-          "url": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202608290001622-1.html?utm_source=headlines.yahoo.co.jp&utm_medium=referral&utm_campaign=%E3%83%B3%E3%82%AF%E3%80%91%E5%A4%A7%E6%B4%A5",
-          "source": "日刊スポーツ"
+          "url": "https://www.rakumachi.jp/news/column/405265",
+          "source": "楽待"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "気象庁 天気予報",
+      "title": "仮面ライダーゼッツ キャスト",
       "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCofFHmBsXtFO8vvlpOaeeCHTep-_2oSKgK67z_EtaruvdOLih6fmmyqGwil4",
-      "pictureSource": "Yahoo!ニュース",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCkDoEheQrqg3p_6xRqUoGEINGfjvSgEiWdbXfbwKow3h1WwRRlkQraR2ls8",
+      "pictureSource": "仮面ライダーWEB【公式】",
       "relatedSearch": [
         {
-          "title": "東海から九州にかけ危険な暑さつづく【熱中症警戒アラート】30日全国22地域 熱中症対策を（NBC長崎放送）",
+          "title": "EXTRA MISSION: 最終回を終えて",
           "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/e0c044f8480bd6f3dedea0abd65683fde54f239f",
+          "url": "https://www.kamen-rider-official.com/zeztz/finish",
+          "source": "仮面ライダーWEB【公式】"
+        },
+        {
+          "title": "『仮面ライダーゼッツFS』第1部あらすじ解禁 「おはよう」へとつながる物語 脚本は高橋悠也氏「余白が回収される物語」（オリコン）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/9ed8bfe0ba8e2e181546710ef512e5d16b0755b0",
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "東海から九州にかけ危険な暑さつづく【熱中症警戒アラート】30日全国22地域 熱中症対策を",
+          "title": "【仮面ライダーゼッツ】Last Case「想う」あらすじ ゼッツ、ノクス、ドォーンがオブリビオンゴアナイトメアと最後の戦い",
           "snippet": "",
-          "url": "https://newsdig.tbs.co.jp/articles/nbc/2906846",
-          "source": "TBS NEWS DIG"
-        },
-        {
-          "title": "1か月予報　9月も厳しい残暑　35℃以上の猛暑日も　秋雨・台風シーズンは大雨注意(気象予報士 石榑　亜紀子 2026年08月27日)",
-          "snippet": "",
-          "url": "https://tenki.jp/forecaster/gureweather/2026/08/27/40330.html",
-          "source": "tenki.jp"
+          "url": "https://www.sankei.com/article/20260829-7YSBJPLF6ZPA7MKAXE4BA7BNIY/",
+          "source": "産経ニュース"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "今日の天気 東京",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 15:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDSrufIRlTrvCxpsAs3gdxKGu2V1vjwzh3RMCHCiQNEthUj4g7sxeVxheJhs",
-      "pictureSource": "tenki.jp",
+      "title": "イタウマ",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 29 Aug 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-Zk7z5TPaxVLar6XE5jhXhcNCcXAEnsyzOpSkjmsjTuPjo6JbrDek3TnVfrM",
+      "pictureSource": "Yahoo!ニュース",
       "relatedSearch": [
         {
-          "title": "前線の影響で雨の日多い　関東～九州は厳しい残暑　北日本では次第に朝晩は秋の気配(気象予報士 堂本　幸代 2026年08月29日)",
+          "title": "モーゼス・イタウマの計量時の振る舞いは弱点か？ | ボクシング（DAZN News）",
           "snippet": "",
-          "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/08/29/40361.html",
-          "source": "tenki.jp"
-        },
-        {
-          "title": "関東は過ごしやすい朝 昼間も暑さ控えめ",
-          "snippet": "",
-          "url": "https://weathernews.jp/news/202608/290071/",
-          "source": "ウェザーニュース"
-        },
-        {
-          "title": "【関東天気】北部中心に雨雲広がる 夜にかけては南部でも雨が降ったりやんだり（日テレNEWS NNN）",
-          "snippet": "",
-          "url": "https://news.yahoo.co.jp/articles/92a3468ced055bdce1ea2a7132782afc9124ea16",
+          "url": "https://news.yahoo.co.jp/articles/6330edb6526223247a68e00eb836101db38eed81",
           "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "イタウマとフルゴビッチが前日計量で一触即発 歴史的一戦を目前に | ボクシング",
+          "snippet": "",
+          "url": "https://www.dazn.com/ja-JP/news/%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0/2026-08-30-boxing-itauma-hrgovic-weighin/19awyed13yx0111krzlg2lgjz5",
+          "source": "DAZN"
+        },
+        {
+          "title": "モーゼス・イタウマvsフィリップ・フルゴビッチ 観戦ガイド｜IBF世界ヘビー級王座決定戦",
+          "snippet": "",
+          "url": "https://www.sportingnews.com/jp/boxing/news/20260830-itauma-hrgovic-event-guide/14c585c5ced4ceb08a86e17c",
+          "source": "Sporting News JP"
         }
       ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "梗塞",
+      "trafficCount": "10000+",
+      "pubDate": "Sat, 29 Aug 2026 17:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "キュアアルカナ",
+      "trafficCount": "5000+",
+      "pubDate": "Sat, 29 Aug 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGv82ED5B13OvgUCidesE3o1bq38mR0G9hiwJu7f4zrtI2gL_Cxjvhz22tqs",
+      "pictureSource": "アニメイトタイムズ",
+      "relatedSearch": [
+        {
+          "title": "『名探偵プリキュア！』東山奈央がキュアアルカナへの変身を振り返る【インタビュー】",
+          "snippet": "",
+          "url": "https://www.animatetimes.com/news/details.php?id=1787107919",
+          "source": "アニメイトタイムズ"
+        },
+        {
+          "title": "東山奈央：「名探偵プリキュア！」インタビュー 半年抱え続けた秘密 キュアアルカナに込めた思い",
+          "snippet": "",
+          "url": "https://mantan-web.jp/article/20260828dog00m200009000a.html",
+          "source": "Mantan Web"
+        },
+        {
+          "title": "第31話 名探偵キュアアルカナ",
+          "snippet": "",
+          "url": "https://tver.jp/episodes/ep0wxd9bzy",
+          "source": "TVer"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "静岡県高校野球",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 29 Aug 2026 17:00:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
