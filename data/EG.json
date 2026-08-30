@@ -1,153 +1,215 @@
 {
-  "lastUpdate": "2026-08-30 01:18:54",
+  "lastUpdate": "2026-08-30 06:48:05",
   "data": [
     {
-      "title": "درجات الحرارة",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 29 Aug 2026 17:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT69K40qd5UBz2MavzSW4fZrTqlQSax2HHXQTIYZ2UYU9O9G70OT9N2Zog6ijQ",
+      "title": "سعر اليورو",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 29 Aug 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe-F8SIjCt5LGGiz_kGUIjHNRuz9mYAckGKLZ9afBVLn8k1oMbDGGPusDhpD4",
+      "pictureSource": "Masrawy",
+      "relatedSearch": [
+        {
+          "title": "ارتفاع أسعار 6 عملات عربية خلال تعاملات اليوم الأحد",
+          "snippet": "",
+          "url": "https://www.masrawy.com/news/news-banking/details/2026/8/23/3037051/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-6-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF",
+          "source": "Masrawy"
+        },
+        {
+          "title": "سعر صرف الدولار الأمريكي اليوم، 30 أغسطس 2026: انخفض طوال الأسبوع جنباً إلى جنب مع اليورو والجنيه الإسترليني.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ar/gia-usd-hom-nay-30-8-2026-giam-ca-tuan-cung-euro-bang-anh",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "سعر صرف الدولار اليوم مقابل العملات الأجنبية انخفاض ملحوظ في قيمة العملة الأمريكية",
+          "snippet": "",
+          "url": "https://akher.news/12977/%D8%B3%D8%B9%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84/",
+          "source": "جريدة آخر الأخبار"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 29 Aug 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcz4ug93L0wGyqdhyfgDnb6wOuZoh2xCxrEMiL5x-i2wLtc_xL9h2djb1c8DM",
+      "pictureSource": "oe24",
+      "relatedSearch": [
+        {
+          "title": "DAS erwartet Österreich im Winter",
+          "snippet": "",
+          "url": "https://www.oe24.at/a/das-erwartet-oesterreich-im-winter-900110706",
+          "source": "oe24"
+        },
+        {
+          "title": "El Niño: Das vielleicht stärkste Ereignis seit dem 19. Jahrhundert bedroht Ernten",
+          "snippet": "",
+          "url": "https://www.nzz.ch/wissenschaft/el-nino-koennte-diesmal-so-stark-werden-wie-seit-dem-19-jahrhundert-nicht-mehr-das-bedroht-die-nahrungsversorgung-ld.10020967",
+          "source": "Neue Zürcher Zeitung"
+        },
+        {
+          "title": "Der Dunst Ist Zurück, Schlimmer als Zuvor — El Niño Hat Gerade Erst Begonnen",
+          "snippet": "",
+          "url": "https://de.martincid.com/business-2/der-dunst-ist-zuruck-schlimmer-als-zuvor-el-nino-hat-gerade-erst-begonnen/",
+          "source": "Martin Cid Magazine"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 29 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS31rbz52cLdHOGZjGuCfB2vmtkFnJBktt-hWdMGiF33c4YFbHvTZAn6-O06sQ",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "Дожди ушли на юго-восток, порывистый ветер остался: Что будет с погодой на Кубани 30 и 31 августа",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/72167700/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "В Краснодаре и крае в субботу погода устроит ветреный день с ночными дождями и температурой до +30°С",
+          "snippet": "",
+          "url": "https://newkuban.ru/news/260892326/",
+          "source": "Новая Кубань"
+        },
+        {
+          "title": "Выходные на Юге: без жары, но с сильным ветром",
+          "snippet": "",
+          "url": "https://www.gismeteo.ru/news/weather/vyhodnye-na-juge-bez-zhary-no-s-silnym-vetrom/",
+          "source": "GISMETEO.Новости"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "تنسيق المرحله الثالثه الثانويه العامه",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 29 Aug 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlf409V3hjWQMk1zJnHxCl1WG0qAkCMWdrXlxYsn6SdGsX6IIMcF4xS4q9ig0",
       "pictureSource": "اليوم السابع",
       "relatedSearch": [
         {
-          "title": "الأرصاد: غدا انخفاض طفيف بالحرارة.. وتحذيرات من اضطراب الملاحة وأمطار خفيفة",
+          "title": "تنسيق المرحلة الثالثة.. كليات ومعاهد تقبل من مجموع 50% للشعبة العلمية",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2026/8/29/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%BA%D8%AF%D8%A7-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%B7%D9%81%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1/7530032",
+          "url": "https://www.youm7.com/story/2026/8/29/%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D9%86-%D9%85%D8%AC%D9%85%D9%88%D8%B9-50-%D9%84%D9%84%D8%B4%D8%B9%D8%A8%D8%A9/7529275",
           "source": "اليوم السابع"
         },
         {
-          "title": "«جهزوا الكمامات».. بيان عاجل بشأن الطقس غدا الأحد",
+          "title": "إقبال كبير فى أول أيام المرحلة الثالثة للتنسيق«التعليم العالى» تحذر من أخطاء ترتيب الرغبات.. وبدء تسجيل اختبارات القدرات للدبلومات",
           "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4348328",
+          "url": "https://www.ahram.org.eg/Daily/News/205695/136/1027945/%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA/%D8%A5%D9%82%D8%A8%D8%A7%D9%84-%D9%83%D8%A8%D9%8A%D8%B1-%D9%81%D9%89-%D8%A3%D9%88%D9%84-%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%84%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%C2%AB%D8%A7%D9%84%D8%AA.aspx",
+          "source": "بوابة الأهرام"
+        },
+        {
+          "title": "مكتب التنسيق لطلاب المرحلة الثالثة: رتبوا رغبات الدائرة ج من الأقرب إلى الأبعد",
+          "snippet": "",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=29082026&id=4226b064-9528-4c0e-8860-8e7131bef90c",
+          "source": "بوابة الشروق"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "صحيفة عكاظ",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 29 Aug 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStjiIW9RwyvmtymgokheePaYVL1YGwZ-Mty1v3IKEh8PM0kROKIMRDdz_RJlA",
+      "pictureSource": "عكاظ",
+      "relatedSearch": [
+        {
+          "title": "دخلها أكثر من مليون شهرياً.. سقوط «معلمة» تركت التدريس لتنشر «محتوى فاضح»",
+          "snippet": "",
+          "url": "https://www.okaz.com.sa/variety/na/2263361",
+          "source": "عكاظ"
+        },
+        {
+          "title": "توقيف امرأة في إزمير بتهمة تحقيق أرباح عبر منشورات «مخلة بالآداب» على مواقع التواصل",
+          "snippet": "",
+          "url": "https://newturkpost.com/news/120474-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B2%D9%85%D9%8A%D8%B1-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B4%D9%88%D8%B1%D8%A7%D8%AA-%D9%85%D8%AE%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84",
+          "source": "نيو ترك بوست"
+        },
+        {
+          "title": "من التدريس إلى الشهرة.. معلمة تجمع مليون ليرة شهريا من المحتوى الفاضح",
+          "snippet": "",
+          "url": "https://www.mobtada.com/choose-editors/1644728/%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D9%87%D8%B1%D8%A9-%D9%85%D8%B9%D9%84%D9%85%D8%A9-%D8%AA%D8%AC%D9%85%D8%B9-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%8A%D8%B1%D8%A9-%D8%B4%D9%87%D8%B1%D9%8A%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D9%81%D8%A7%D8%B6%D8%AD",
+          "source": "مبتدا"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الإيجار",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 29 Aug 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYRSFpOe0huAp-7xod6cilXLpqwCiaTC7t-Xua0WN9u7EDXpA1rKaSllHgDXE",
+      "pictureSource": "اليوم السابع",
+      "relatedSearch": [
+        {
+          "title": "بالأرقام.. تفاصيل وحدات الإيجار التمليكى.. المدن وعدد ومساحة الوحدات",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2026/8/27/%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%85%D9%84%D9%8A%D9%83%D9%89-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%88%D8%B9%D8%AF%D8%AF-%D9%88%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA/7528122",
+          "source": "اليوم السابع"
+        },
+        {
+          "title": "شقق الإيجار 2026.. موعد طرح كراسة الشروط وأماكن ومساحات الوحدات وخطوات الحجز",
+          "snippet": "",
+          "url": "https://www.almasryalyoum.com/news/details/4348514",
           "source": "المصري اليوم"
         },
         {
-          "title": "طقس حار وشبورة وأمطار خفيفة.. الأرصاد تكشف تفاصيل الـ5 أيام المقبلة",
+          "title": "تبدأ من 1500 جنيه.. صندوق الإسكان الاجتماعي يكشف تفاصيل طرح وحدات بنظام الإيجار الشهر المقبل",
           "snippet": "",
-          "url": "https://www.masrawy.com/news/news_egypt/details/2026/8/29/3039958/%D8%B7%D9%82%D8%B3-%D8%AD%D8%A7%D8%B1-%D9%88%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%88%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%AE%D9%81%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D9%805-%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9",
-          "source": "Masrawy"
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=26082026&id=f24eb84f-e77e-44c9-aa29-69a45ef182f4",
+          "source": "بوابة الشروق"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "inter miami vs montréal",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 29 Aug 2026 16:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTWNGY6ySpA4cIvUiGH3vIAMVgf_pbAX-brvgZT3BwyQf9bKJjjK-Jv7_ziis",
-      "pictureSource": "Bolavip US",
-      "relatedSearch": [
-        {
-          "title": "Are Lionel Messi and Alexis Sanchez playing today, Aug. 29, in Inter Miami vs CF Montreal?",
-          "snippet": "",
-          "url": "https://bolavip.com/en/soccer/are-lionel-messi-and-alexis-sanchez-playing-today-aug-29-in-inter-miami-vs-cf-montreal",
-          "source": "Bolavip US"
-        },
-        {
-          "title": "MLS Montreal Inter Miami Soccer",
-          "snippet": "",
-          "url": "https://www.chronicleonline.com/sports/soccer/mls-montreal-inter-miami-soccer/image_3fe76cc4-c741-54e1-9c33-df045d8347cd.html",
-          "source": "chronicleonline.com"
-        },
-        {
-          "title": "Inter Miami CF vs. CF Montréal Prediction, Picks, Live Odds – Aug. 29",
-          "snippet": "",
-          "url": "https://www.bleachernation.com/picks/2026/08/29/inter-miami-cf-vs-cf-montreal-prediction-picks-live-odds-aug-29/",
-          "source": "Bleacher Nation"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "إنتر ميامي ضد نادي مونتريال لكرة القدم",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 29 Aug 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9halKSGknfSIm3-jutLt2FPwdpOIWp2oVkzQEihp_HoGrdH994YImQ8YYXQE",
-      "pictureSource": "Kooora",
-      "relatedSearch": [
-        {
-          "title": "ما القنوات الناقلة لمباراة إنتر ميامي ومونتريال في الدوري الأمريكي 2026؟ وكيف تشاهدها عبر الإنترنت؟",
-          "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%95%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A-%D9%88%D9%85%D9%88%D9%86%D8%AA%D8%B1%D9%8A%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%94%D9%85%D8%B1%D9%8A%D9%83%D9%8A-2026-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%87%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%AA%D8%B1%D9%86%D8%AA/bltd73b72f97d1ea530",
-          "source": "Kooora"
-        },
-        {
-          "title": "تكرر قبل 13 عاما.. رقم سلبي يطارد ميسي مع إنتر ميامي",
-          "snippet": "",
-          "url": "https://www.aljazeera.net/sport/2026/8/25/%D9%85%D9%8A%D8%B3%D9%8A-%D8%B1%D9%82%D9%85-%D8%B3%D9%84%D8%A8%D9%8A-%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9",
-          "source": "الجزيرة نت"
-        },
-        {
-          "title": "ليونيل ميسي يستسلم لسوء إنتر ميامي .. منح كاسيميرو \"مهمة الإنقاذ\" ولويس سواريز يخذله ويحرج فورلان أمام تورونتو!",
-          "snippet": "",
-          "url": "https://www.goal.com/ar-eg/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%A6%D9%85/%D9%83%D8%A7%D8%B3%D9%8A%D9%85%D9%8A%D8%B1%D9%88-%D9%84%D9%88%D9%8A%D8%B3-%D8%B3%D9%88%D8%A7%D8%B1%D9%8A%D8%B2-%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A-%D8%A7%D9%95%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A-%D8%AA%D9%88%D8%B1%D9%88%D9%86%D8%AA%D9%88-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A/blt6d1c236834592ba3",
-          "source": "Goal.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "منتخب مصر لكرة اليد",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 15:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTmmdzqNMq6tJHZDqB7OE3JM_h4287TajpBWDdXLwKa1sv96QIKssq1WXiQMc",
+      "title": "وزارة الداخلية",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 29 Aug 2026 20:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlp9L2HNxulY1qDjTxulC_BWUkkEZhg3g4Dg-vFaJL3cXpPRXxSuGROwA_Io0",
       "pictureSource": "اليوم السابع",
       "relatedSearch": [
         {
-          "title": "أون سبورت تنقل مباراة مصر والجزائر بنصف نهائى دورة ألعاب البحر المتوسط لليد",
+          "title": "الأوراق المطلوبة للتقديم فى حج الجمعيات الأهلية 2027 قبل انتهاء المدة المحددة",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2026/8/29/%D8%A3%D9%88%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%AA%D9%86%D9%82%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A8%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%89-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A3%D9%84%D8%B9%D8%A7%D8%A8/7529192",
+          "url": "https://www.youm7.com/story/2026/8/30/%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B7%D9%84%D9%88%D8%A8%D8%A9-%D9%84%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D9%81%D9%89-%D8%AD%D8%AC-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9-2027-%D9%82%D8%A8%D9%84-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1/7529268",
           "source": "اليوم السابع"
         },
         {
-          "title": "منتخب مصر لليد يتأهل إلى نهائي دورة ألعاب البحر المتوسط",
+          "title": "غدا.. إجراء قرعة الحج",
           "snippet": "",
-          "url": "https://www.yallakora.com/handball-/2890/news/564036/%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%85%D8%B5%D8%B1-%D9%84%D9%84%D9%8A%D8%AF-%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7",
-          "source": "يلاكورة"
+          "url": "https://www.ahram.org.eg/Daily/News/205695/25/1027895/%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/%D8%BA%D8%AF%D8%A7-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC.aspx",
+          "source": "بوابة الأهرام"
         },
         {
-          "title": "الإثنين المقبل.. منتخب اليد يواجه اليونان بنهائي دوري ألعاب البحر المتوسط",
+          "title": "\"الداخلية\" المصرية تعلن موعد إجراء قرعة الحج لموسم 2027",
           "snippet": "",
-          "url": "https://gate.ahram.org.eg/News/5897346.aspx",
-          "source": "بوابة الأهرام"
+          "url": "https://www.mubasher.info/news/4664918/-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%88%D8%B9%D8%AF-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC-%D9%84%D9%85%D9%88%D8%B3%D9%85-2027/%7B%7Bstock.url%7D%7D",
+          "source": "معلومات مباشر"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "عقوبة",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 29 Aug 2026 15:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8GJWBP1EYlDh3Sxkez847uTcOtaEV4P9rdnmj-kfolE01r5BWvQHJ8giav2w",
-      "pictureSource": "الزمالك اليوم",
+      "title": "غاز الفريون",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 29 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6VJREb6z2jb6W0qp1lVWt0jPBDC6D9_BJdeAIV0Ya1oTb5umlog9SF8JlW64",
+      "pictureSource": "Masrawy",
       "relatedSearch": [
         {
-          "title": "الزمالك يحسم الجدل حول حقيقة عقوبة محمد السيد",
+          "title": "4 ساعات داخل السيارة.. حكاية أسرة كاملة انتهت حياتها بسبب تسرب الفريون في مصر القديمة",
           "snippet": "",
-          "url": "https://www.zamalektoday.com/index.php?go=news&more=185420",
-          "source": "الزمالك اليوم"
+          "url": "https://www.masrawy.com/news/news_cases/details/2026/8/30/3040413/4-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%A3%D8%B3%D8%B1%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A7%D9%86%D8%AA%D9%87%D8%AA-%D8%AD%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B3%D8%B1%D8%A8-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9",
+          "source": "Masrawy"
         },
-        {
-          "title": "التموين: مراقبة الأسواق وتوفير السلع الأساسية",
-          "snippet": "",
-          "url": "https://www.ahram.org.eg/Daily/News/205694/136/1027822/%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D9%88%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%B9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9.aspx",
-          "source": "بوابة الأهرام"
-        },
-        {
-          "title": "محمد الباز لـ الساعة 6: توجيهات الرئيس السيسى تؤسس لمرحلة سياسية جديدة",
-          "snippet": "",
-          "url": "https://www.youm7.com/story/2026/8/29/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D8%B2-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-6-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%89-%D8%AA%D8%A4%D8%B3%D8%B3-%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9/7529865",
-          "source": "اليوم السابع"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "فريون",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 14:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpKIxNFqa_cyYL3q-scvZL9hzrSfvm0bjyNZLS_fNUVSAXBeREuIVYq5UKOas",
-      "pictureSource": "عكاظ",
-      "relatedSearch": [
         {
           "title": "«الفريون» ينهي حياة أسرة من 3 أفراد داخل سيارة بالقاهرة",
           "snippet": "",
@@ -159,124 +221,62 @@
           "snippet": "",
           "url": "https://gate.ahram.org.eg/News/5897342.aspx",
           "source": "بوابة الأهرام"
-        },
-        {
-          "title": "بعد وفاة أسرة بسبب تكييف السيارة.. 3 علامات تكشف تسرب غاز الفريون",
-          "snippet": "",
-          "url": "https://www.almasryalyoum.com/news/details/4347244",
-          "source": "المصري اليوم"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ديماركو",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz3nn3uhceEUf2ufgotJDx-ewBOiMuqks5l5AvVoXquYUhZZdBhKJ4qIAR7_o",
-      "pictureSource": "Kooora",
+      "title": "قرش",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 29 Aug 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREe6Y4BaKpM7ZwT0jufPZudo_kHn2M48RDv696HOrDpQZTy590SBaSeoNd2Ws",
+      "pictureSource": "العربية",
       "relatedSearch": [
         {
-          "title": "ديكو يعمل على قنبلة أخيرة في ميركاتو برشلونة",
+          "title": "مقبرة لأسماك القرش تحت رمال مصر.. الصحراء كانت بحراً",
           "snippet": "",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AF%D9%8A%D9%83%D9%88-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D9%82%D9%86%D8%A8%D9%84%D8%A9-%D8%A7%D9%94%D8%AE%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%85%D9%8A%D8%B1%D9%83%D8%A7%D8%AA%D9%88-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9/bltde6e59d88fbcf590",
-          "source": "Kooora"
+          "url": "https://www.alarabiya.net/science/2026/08/29/%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D9%85%D8%B5%D8%B1-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%B1-%D9%85%D9%82%D8%A8%D8%B1%D8%A9-%D9%82%D8%B1%D9%88%D8%B4-%D8%B9%D9%85%D8%B1%D9%87%D8%A7-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86",
+          "source": "العربية"
         },
         {
-          "title": "لإنهاء \"صداع\" بالدي.. برشلونة يبحث صفقة تبادلية مثيرة",
+          "title": "علماء يكتشفون عالماً مفقوداً تحت صحراء مصر يعيد كتابة ماضيها القديم",
           "snippet": "",
-          "url": "https://www.eremnews.com/sports/p81rugp",
-          "source": "إرم نيوز"
+          "url": "https://twaslnews1.twaslnews.com/4476512/",
+          "source": "شبكة تواصل الإخبارية"
         },
         {
-          "title": "بالدي يطلب الرحيل عن برشلونة بسبب فليك",
+          "title": "اكتشاف أحافير لسبعة أنواع من أسماك القرش المنقرضة في مصر",
           "snippet": "",
-          "url": "https://www.youm7.com/story/2026/8/25/%D8%A8%D8%A7%D9%84%D8%AF%D9%8A-%D9%8A%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%84-%D8%B9%D9%86-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%81%D9%84%D9%8A%D9%83/7525539",
+          "url": "https://sana.sy/miscellaneous/2563721/",
+          "source": "سانا"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "درجات الحرارة",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 29 Aug 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHaChvKP4uCer9QWoxgg8rjs3UOSlsvck7neZZ_3GKoyN3utsJs1ZpdkQuIs",
+      "pictureSource": "اليوم السابع",
+      "relatedSearch": [
+        {
+          "title": "الطقس اليوم.. انخفاض طفيف بالحرارة ورياح والمحسوسة بالقاهرة 37 درجة",
+          "snippet": "",
+          "url": "https://www.youm7.com/story/2026/8/30/%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%B7%D9%81%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%B1%D9%8A%D8%A7%D8%AD-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%88%D8%B3%D8%A9-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-37-%D8%AF%D8%B1%D8%AC%D8%A9/7529599",
           "source": "اليوم السابع"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "جمل المحامل",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSThMm4DEG76Ygn8QbvgojjbKj1VIuXDDgvMy1MS93r8Rr2k75Q8knpgTOrVyw",
-      "pictureSource": "بوابة الأهرام",
-      "relatedSearch": [
-        {
-          "title": "كرمته مصر بـ«جائزة النيل».. رحيل فنان فلسطينى رائد.. سليمان منصور.. «جمل المحامل» حفظ ذاكرة شعبه",
-          "snippet": "",
-          "url": "https://gate.ahram.org.eg/daily/News/205694/1179/1027832/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9/%D9%83%D8%B1%D9%85%D8%AA%D9%87-%D9%85%D8%B5%D8%B1-%D8%A8%D9%80%C2%AB%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D9%86%D9%8A%D9%84%C2%BB-%D8%B1%D8%AD%D9%8A%D9%84-%D9%81%D9%86%D8%A7%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%89-%D8%B1%D8%A7%D8%A6%D8%AF-.aspx",
-          "source": "بوابة الأهرام"
         },
         {
-          "title": "سليمان منصور.. نصف قرن من الرسم على جدار الذاكرة والمقاومة",
+          "title": "الأرصاد: انخفاض طفيف اليوم في درجات الحرارة على أغلب الأنحاء",
           "snippet": "",
-          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=28082026&id=28207bfe-f1aa-4fa6-8d8c-acc36337a086",
+          "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=30082026&id=983a13f2-f8f1-4013-8f46-26b7d1f7c386",
           "source": "بوابة الشروق"
         },
         {
-          "title": "من سيرة \"جمل المحامل\" وصاحبها",
+          "title": "«الأرصاد»: طقس حار رطب اليوم الأحد والعظمى في القاهرة 35 درجة",
           "snippet": "",
-          "url": "https://www.arab48.com/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA/2026/08/27/%D9%85%D9%86-%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AC%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%84-%D9%88%D8%B5%D8%A7%D8%AD%D8%A8%D9%87%D8%A7",
-          "source": "عرب 48"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "taken",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 29 Aug 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkVZWu8-VYkQ6k8g3jxmUCQelq3KAVFQCwtj9zmGbeQqIIu1-t4hsaRo62gj8",
-      "pictureSource": "ESPN",
-      "relatedSearch": [
-        {
-          "title": "Giants 23-6 Jets (Aug 28, 2026) Game Recap",
-          "snippet": "",
-          "url": "https://www.espn.com/nfl/recap/_/gameId/401873303",
-          "source": "ESPN"
-        },
-        {
-          "title": "Jets' Chip Trayanum Transported to Hospital with Neck Injury After Hit vs. Giants",
-          "snippet": "",
-          "url": "https://bleacherreport.com/articles/25493853-jets-chip-trayanum-transported-hospital-neck-injury-after-hit-vs-giants",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "Former Kentucky RB Chip Trayanum carted off and taken to hospital after suffering neck injury",
-          "snippet": "",
-          "url": "https://www.aseaofblue.com/179152/chip-trayanum-injury-neck-jets",
-          "source": "A Sea Of Blue"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "بنج كلي",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 29 Aug 2026 14:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNfLg7qKzzHEs14kDWhZnnWPTbvOTO63cNRA-C6S39KBPuHmW4qQ3evIP_hxM",
-      "pictureSource": "الكونسلتو",
-      "relatedSearch": [
-        {
-          "title": "بنج كلي يثير الجدل- طبيب تخدير يوضح أبرز أخطاء المسلسل \"فيديو\"",
-          "snippet": "",
-          "url": "https://www.elconsolto.com/multimedia/videos-galleries/details/2026/8/27/3039431/%D8%A8%D9%86%D8%AC-%D9%83%D9%84%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%B7%D8%A8%D9%8A%D8%A8-%D8%AA%D8%AE%D8%AF%D9%8A%D8%B1-%D9%8A%D9%88%D8%B6%D8%AD-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A3%D8%AE%D8%B7%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-",
-          "source": "الكونسلتو"
-        },
-        {
-          "title": "\"بنج كلي\"... الدراما الطبية ورهان القضايا الشائكة",
-          "snippet": "",
-          "url": "https://www.independentarabia.com/node/656722/%D9%81%D9%86%D9%88%D9%86/%D8%A8%D9%86%D8%AC-%D9%83%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D9%88%D8%B1%D9%87%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D9%83%D8%A9",
-          "source": "اندبندنت عربية"
-        },
-        {
-          "title": "عرض الحلقة الـ 12 من مسلسل بنج كلي.. أخت عزازي تولد",
-          "snippet": "",
-          "url": "https://www.npa-ar.com/art-culture/244338/",
-          "source": "نبأ العرب"
+          "url": "https://www.nogoumfm.net/2026/08/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%B7%D9%82%D8%B3-%D8%AD%D8%A7%D8%B1-%D8%B1%D8%B7%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-%D9%88%D8%A7%D9%84%D8%B9/",
+          "source": "نجوم إف إم"
         }
       ],
       "link": "https://imtaqin.id/"
