@@ -1,242 +1,158 @@
 {
-  "lastUpdate": "2026-08-31 00:23:42",
+  "lastUpdate": "2026-08-31 05:51:08",
   "data": [
     {
-      "title": "πτήση",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 30 Aug 2026 16:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3LMVra_1qgku9gFaHcb0HZU9RVypy0drbzxG6azTbDz1nbfTw5zHgVU0_tPQ",
-      "pictureSource": "ΤΑ ΝΕΑ",
-      "relatedSearch": [
-        {
-          "title": "Επεισοδιακή πτήση με 5ωρη καθυστέρηση, φωνές και λιποθυμίες από Χανιά προς Θεσσαλονίκη",
-          "snippet": "",
-          "url": "https://www.tanea.gr/2026/08/31/greece/epeisodiaki-ptisi-me-5ori-kathysterisi-fones-kai-lipothymies-apo-xania-pros-thessaloniki/",
-          "source": "ΤΑ ΝΕΑ"
-        },
-        {
-          "title": "Χανιά: Εγκλωβισμένοι 183 επιβάτες σε αεροσκάφος προς Θεσσαλονίκη λόγω τεχνικού προβλήματος",
-          "snippet": "",
-          "url": "https://www.sdna.gr/politiko-deltio/ellada/1462570_hania-egklobismenoi-183-epibates-se-aeroskafos-pros-thessaloniki",
-          "source": "SDNA"
-        },
-        {
-          "title": "Χάος σε πτήση για Θεσσαλονίκη: Πέντε ώρες στο αεροπλάνο, λιποθυμίες και 25 επιβάτες κατέβηκαν",
-          "snippet": "",
-          "url": "https://www.dnews.gr/eidhseis/ellada/607302/xaos-se-ptisi-gia-thessaloniki-pente-ores-sto-aeroplano-lipothymies-kai-25-epivates-katevikan",
-          "source": "Dnews"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "αεροπλάνο",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 30 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRffPZ-72UT3dUI-BOXWB3-B3i0nbiSW1XaG_UF7F4WxWVjCKLxOzgR34I17js",
-      "pictureSource": "ProtoThema",
-      "relatedSearch": [
-        {
-          "title": "Συναγερμός στη Ρόδο: Αεροσκάφος της Olympic Air επέστρεψε στο αεροδρόμιο «Διαγόρας» μετά από καπνούς στον κινητήρα",
-          "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1871415/sunagermos-sti-rodo-aeroskafos-tis-olympic-air-gurise-sto-aerodromio-diagoras-meta-apo-endeixi-vlavis/",
-          "source": "ProtoThema"
-        },
-        {
-          "title": "Ρόδος: Γιατί επέστρεψε το αεροσκάφος με προορισμό την Κάρπαθο - Η ανακοίνωση για το συμβάν",
-          "snippet": "",
-          "url": "https://www.lifo.gr/now/greece/rodos-giati-epestrepse-aeroskafos-me-proorismo-tin-karpatho-i-anakoinosi-gia-symban",
-          "source": "LiFO"
-        },
-        {
-          "title": "Ρόδος: Φωτιά σε κινητήρα αεροσκάφους που πετούσε για Κάρπαθο – Επέστρεψε στο αεροδρόμιο Διαγόρας",
-          "snippet": "",
-          "url": "https://www.newsit.gr/ellada/rodos-fotia-se-kinitira-aeroskafous-pou-petouse-gia-karpatho-epestrepse-sto-aerodromio-diagoras/4761162/",
-          "source": "NewsIT"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "ounahi",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 30 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0KyhFtKKQD08FU1_2gUCA7yMX4eXersSDn9BfAI0vRY7kqDK9D12Io0Iv0lU",
-      "pictureSource": "SPORT24",
-      "relatedSearch": [
-        {
-          "title": "Παναθηναϊκός, μεταγραφές: Η αισιοδοξία για Ουναΐ και τα δεδομένα για Πιοτρόφσκι",
-          "snippet": "",
-          "url": "https://www.sport24.gr/football/panathinaikos-metagrafes-i-aisiodoxia-gia-ounai-kai-ta-dedomena-gia-piotrofski/",
-          "source": "SPORT24"
-        },
-        {
-          "title": "Εντυπωσιακή αντίδραση Αλαφούζου για Ουναΐ – Ο πιο ακριβοπληρωμένος στην Ελλάδα",
-          "snippet": "",
-          "url": "https://www.newsbeast.gr/sports/arthro/13322350/entyposiaki-antidrasi-alafouzou-gia-ounai-o-pio-akrivopliromenos-stin-ellada",
-          "source": "Newsbeast"
-        },
-        {
-          "title": "Ανατρέπει τα δεδομένα για Ουναΐ Ισπανός δημοσιογράφος: «Kαμία άδεια από την Τζιρόνα, δεν πάει στον Άγιαξ»",
-          "snippet": "",
-          "url": "https://www.sport-fm.gr/article/podosfairo/ounai-anatropi-dedomenwn-Kamia-adeia-apo-tin-tzirona-den-paei-ston-agiaks/5144264",
-          "source": "bwinΣΠΟΡ FM 94.6"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "grand theft auto vi",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 30 Aug 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3np3HvaLRQ96kQLej0mNskLLWPi4gTWlonUpzsH3lwabx7v2FjGP-QDctxcc",
-      "pictureSource": "Insomnia.gr",
-      "relatedSearch": [
-        {
-          "title": "Στα 30 FPS και χωρίς performance mode θα τρέχει το GTA 6 στις κονσόλες στο λανσάρισμα",
-          "snippet": "",
-          "url": "https://www.insomnia.gr/articles/games/rockstar/sta-30-fps-kai-xoris-performance-mode-tha-trexei-to-gta-6-stis-konsoles-sto-lansarisma/",
-          "source": "Insomnia.gr"
-        },
-        {
-          "title": "Επτά καινούργια ή διαφορετικά στοιχεία στο GTA VI - Games - αθηνόραμα digital",
-          "snippet": "",
-          "url": "https://www.athinorama.gr/digital/games/article/epta_kainourgia_i_diaforetika_stoixeia_sto_gta_vi-2553917.html",
-          "source": "Athinorama.gr"
-        },
-        {
-          "title": "Το Grand Theft Auto VI θα έχει αληθινούς αγώνες (+video)",
-          "snippet": "",
-          "url": "https://www.newsauto.gr/news/to-grand-theft-auto-vi-tha-echi-alithinous-agones-video/",
-          "source": "NewsAuto.gr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "πουερτα",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 30 Aug 2026 14:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRHhAY1ZKgbB7WKa3gZmgwIYIG1pWb6f3ItFPDyhVOvaoLN-4nOdHn6h_H_jE",
-      "pictureSource": "SPORT24",
-      "relatedSearch": [
-        {
-          "title": "Ολυμπιακός, μεταγραφές: Σε πάρα πολύ καλό δρόμο για να κλείσουν τον Πουέρτα οι ερυθρόλευκοι",
-          "snippet": "",
-          "url": "https://www.sport24.gr/football/olimpiakos-metagrafes-se-kalo-dromo-gia-na-kleisoun-ton-pouerta-oi-erithrolefkoi/",
-          "source": "SPORT24"
-        },
-        {
-          "title": "Πουέρτα - Ολυμπιακός: Ο λόγος που δεν ολοκληρώνεται η μεταγραφή στην Μπενφίκα",
-          "snippet": "",
-          "url": "https://www.gazzetta.gr/football/superleague/2564990/poyerta-olympiakos-o-logos-poy-den-oloklironetai-i-metagrafi-stin",
-          "source": "Gazzetta.gr"
-        },
-        {
-          "title": "Ολυμπιακός: Νυχτερινό... ροντέο με Πουερτα, deal βλέπουν σε Κολομβία, Ισπανία",
-          "snippet": "",
-          "url": "https://www.iefimerida.gr/spor/olympiakos-metagrafes-ronteo-me-poyerta",
-          "source": "iefimerida.gr"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "κυψέλη",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 30 Aug 2026 13:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnWTfNQClNxgYDbCyXnh0olPtM9AjmNW86c0_vgobrmWejchYRVgR18JU_I4o",
-      "pictureSource": "ProtoThema",
-      "relatedSearch": [
-        {
-          "title": "Φρίκη στην Κυψέλη: Βρέθηκε νεκρό βρέφος μέσα σε δοχείο που ήταν κρυμμένο σε βαλίτσα",
-          "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1871532/friki-stin-kupseli-vrethike-nekros-vrefos-mesa-se-doheio-pou-itan-krummeno-se-valitsa/",
-          "source": "ProtoThema"
-        },
-        {
-          "title": "Νεκρό βρέφος στην Κυψέλη: Πώς αποκαλύφθηκε η φρίκη - Οι διαφορετικές εκδοχές της μητέρας",
-          "snippet": "",
-          "url": "https://www.lifo.gr/now/greece/nekro-brefos-stin-kypseli-pos-apokalyfthike-i-friki-oi-diaforetikes-ekdohes-tis-miteras",
-          "source": "LiFO"
-        },
-        {
-          "title": "Φρίκη στην Κυψέλη: Βρήκαν κατεψυγμένο βρέφος στις αποσκευές οικογένειας",
-          "snippet": "",
-          "url": "https://www.ethnos.gr/greece/article/419040/frikhsthnkypselhbrhkankatepsygmenobrefosstisaposkeyesoikogeneias",
-          "source": "Ethnos"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "χαλάζι",
+      "title": "mega news 104.6",
       "trafficCount": "100+",
-      "pubDate": "Sun, 30 Aug 2026 13:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS39iRVzKK-dwla9_wsHZU_7yLgYjc6TuGJ7tSCREsT8I_gTzm-RMumSqqac5w",
-      "pictureSource": "ProtoThema",
+      "pubDate": "Sun, 30 Aug 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLeOc1OJWcis6HKZB2BXhS2ZjFsTX2svEt53FJTZN0TV4Ig0OHFko7F-Cyts",
+      "pictureSource": "MEGA TV",
       "relatedSearch": [
         {
-          "title": "Απίστευτο χαλάζι σε προάστια της Ζυρίχης: Τουλάχιστον 40 τραυματίες, κυρίως παιδιά δημοτικού, τρύπησαν αυτοκίνητα, βίντεο και φωτογραφίες",
+          "title": "ΜΕGA NEWS 104,6: Πρεμιέρα αύριο στις 6 το πρωί για το ραδιόφωνο της Alter Ego Media",
           "snippet": "",
-          "url": "https://www.protothema.gr/world/article/1871222/toulahiston-40-traumaties-meta-apo-halazi-sti-zurihi-kurios-paidia-dimotikou-sholeiou-deite-video-kai-fotografies/",
-          "source": "ProtoThema"
+          "url": "https://www.megatv.com/2026/08/30/mega-news-1046-premiera-ayrio-stis-6-to-proi-gia-to-radiofono-tis-alter-ego-media/",
+          "source": "MEGA TV"
         },
         {
-          "title": "Σφοδρές χαλαζοπτώσεις στην Ευρώπη: Σαράντα άνθρωποι τραυματίστηκαν στη Ζυρίχη – Ζημιές στον περίφημο καθεδρικό ναό της Κρεμόνας",
+          "title": "Mega News 104,6: Πρεμιέρα σήμερα για τον νέο ραδιοφωνικό σταθμό - Αναλυτικά το πρόγραμμα",
           "snippet": "",
-          "url": "https://www.capital.gr/diethni/4013275/sfodres-xalazoptoseis-stin-europi-saranta-anthropoi-traumatistikan-sti-zurixi-zimies-ston-perifimo-kathedriko-nao-tis-kremonas/",
-          "source": "Capital.gr"
+          "url": "https://www.newsit.gr/media/mega-news-104-6-premiera-simera-gia-ton-neo-radiofoniko-stathmo-analytika-to-programma/4761655/",
+          "source": "NewsIT"
         },
         {
-          "title": "Εφιάλτης στην Ελβετία: Χαλάζι σαν... μπάλες του γκολφ τραυμάτισε 40 ανθρώπους -Παιδιά τα περισσότερα θύματα, δείτε βίντεο",
+          "title": "Πρεμιέρα τη Δευτέρα 31 Αυγούστου για το MEGA News 104.6 – Στο κεντρικό μαγκαζίνο η Νίκη Λυμπεράκη",
           "snippet": "",
-          "url": "https://www.iefimerida.gr/kosmos/elbetia-halazoptosi-traymatise-40-anthropoys",
-          "source": "iefimerida.gr"
+          "url": "https://www.newsbeast.gr/media/arthro/13322016/premiera-ti-deftera-31-avgoustou-gia-to-mega-news-104-6-sto-kentriko-magkazino-i-niki-lyberaki",
+          "source": "Newsbeast"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "ιντερ",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 30 Aug 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4euF9_Ev6Ha9UWqHT1_39LQ_d5Rib5SH7zmP-qYUBg4LnaIOYB3JFQygaUs",
+      "title": "μπαρτλομιέι ντραγκόφσκι",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 30 Aug 2026 22:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx2AskiQJvdxC_UXDOGlcFdq0p8YPsJMpTPHK_RUlC15nO9Kncrh-WF07Ms-M",
       "pictureSource": "Gazzetta.gr",
       "relatedSearch": [
         {
-          "title": "Serie A: Πέρασε από τη Σαρδηνία η Ίντερ, νέα νίκη για τη Λάτσιο του Μανδά",
+          "title": "Πολωνία: Γκάφα Ντραγκόφσκι, χάρισε γκολ στον Πάλμα και έκανε έξαλλο τον Σφιντέρσκι",
           "snippet": "",
-          "url": "https://www.gazzetta.gr/football/serie/2565197/serie-perase-apo-ti-sardinia-i-inter-nea-niki-gia-ti-latsio-toy-manda",
+          "url": "https://www.gazzetta.gr/football/2565200/polonia-gkafa-ntragkofski-harise-gkol-ston-palma-kai-ekane-exallo-ton-sfinterski",
           "source": "Gazzetta.gr"
         },
         {
-          "title": "Serie A: Ένα γκολ του Τσαλχάνογλου νωρίς ήταν αρκετό για την Ίντερ, back to back νίκη και clean sheet η Λάτσιο του Μανδά",
+          "title": "Ο Ντραγκόφσκι σε μία στιγμή παραφροσύνης: Ο πρώην κίπερ του Παναθηναϊκού κρέμασε την ομάδα του, χαρίζοντας γκολ σε πρώην φορ του Ολυμπιακού",
           "snippet": "",
-          "url": "https://www.sport24.gr/football/serie-a-ena-gkol-tou-tsalxanoglou-noris-itan-arketo-gia-tin-inter-back-to-back-niki-kai-clean-sheet-i-latsio-tou-manda/",
-          "source": "SPORT24"
+          "url": "https://www.sport24.gr/football/o-ntragkofski-se-mia-stigmi-parafrosinis-o-proin-kiper-tou-panathinaikou-kremase-tin-omada-tou-xarizontas-gkol-se-proin-for-tou-olimpiakou/",
+          "source": "Sport24"
         },
         {
-          "title": "Κάλιαρι – Ίντερ 0-1: Ο Τσάλχάνογλου έδωσε τη νίκη στους «νερατζούρι»",
+          "title": "Τι κάνεις ρε Ντραγκόφσκι: «Έγκλημα» στο 96’, τραβούσε τα μαλλιά του ο Σβιντέρσκι! (vid)",
           "snippet": "",
-          "url": "https://www.newsit.gr/athlitika/kaliari-inter-0-1-o-tsalxanoglou-edose-ti-niki-stous-neratzouri/4761600/",
-          "source": "NewsIT"
+          "url": "https://www.sdna.gr/podosfairo/1462560_ti-kaneis-re-ntragkofski-egklima-sto-96-traboyse-ta-mallia-toy-o-sbinterski-vid",
+          "source": "SDNA"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "τζοκερ κληρωση",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 30 Aug 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWFpiNXZzzmquvedHRStLIJNiFvBzVjQ8W3YJopZAAYXnTcabRTakiswAg2qY",
-      "pictureSource": "ProtoThema",
+      "title": "naftemporiki",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 30 Aug 2026 21:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQimDBwbo02lxrYAWFif9hH5iwvv8I8ttbJQ-Y1lJelC_gly3eVc2OMw26_Dqw",
+      "pictureSource": "Skai.gr",
       "relatedSearch": [
         {
-          "title": "Οι τυχεροί αριθμοί για τα 5,5 εκατ. ευρώ στο Τζόκερ",
+          "title": "Ιράν: Οι Φρουροί της Επανάστασης έπληξαν εγκαταστάσεις του αμερικανικού στρατού στην Ιορδανία",
           "snippet": "",
-          "url": "https://www.protothema.gr/greece/article/1871553/tzoker-30826-ta-apotelesmata-tis-klirosis-ta-noumera-pou-kerdizoun/",
-          "source": "ProtoThema"
+          "url": "https://www.skai.gr/news/world/iran-oi-frouroi-tis-epanastasis-epliksan-egkatastaseis-tou-amerikanikou-stratou-stin-iorda",
+          "source": "Skai.gr"
+        },
+        {
+          "title": "Στο κόκκινο η ένταση στη Μέση Ανατολή: Ιρανικά αντίποινα στο νησί Λαράκ για τα πλήγματα των ΗΠΑ",
+          "snippet": "",
+          "url": "https://www.cnn.gr/kosmos/story/550023/sto-kokkino-i-entasi-sti-mesi-anatoli-iranika-antipoina-gia-ta-pligmata-ton-ipa-sto-nisi-larak",
+          "source": "CNN.gr"
+        },
+        {
+          "title": "Ιράν: Έκρηξη κοντά στο νησί Λαράκ «μετά το χτύπημα των ΗΠΑ σε δύο εκτοξευτήρες»",
+          "snippet": "",
+          "url": "https://www.lifo.gr/now/world/iran-ekrixi-konta-sto-nisi-larak-meta-htypima-ton-ipa-se-dyo-ektoxeytires",
+          "source": "LiFO"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "31 αυγούστου",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 21:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRujtoamFkK4aWawRKT1HvPzgezOYZW-vLY9EpwC7BzWCsWXSH7O8gJB3VN7Uo",
+      "pictureSource": "η ναυτεμπορικη",
+      "relatedSearch": [
+        {
+          "title": "Εορτολόγιο: Μεγάλη γιορτή της Ορθοδοξίας σήμερα - Ποιοι γιορτάζουν Δευτέρα 31 Αυγούστου 2026",
+          "snippet": "",
+          "url": "https://www.naftemporiki.gr/society/2155045/eortologio-megali-giorti-tis-orthodoxias-simera-poioi-giortazoyn-deytera-31-aygoystoy-2026/",
+          "source": "η ναυτεμπορικη"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιος γιορτάζει σήμερα 31 Αυγούστου",
+          "snippet": "",
+          "url": "https://www.newsbeast.gr/greece/arthro/13320372/eortologio-poios-giortazei-simera-31-avgoustou",
+          "source": "Newsbeast"
+        },
+        {
+          "title": "Γιορτή σήμερα 31 Αυγούστου – Ποιοι γιορτάζουν | Εορτολόγιο",
+          "snippet": "",
+          "url": "https://www.in.gr/2026/08/31/greece/giorti-simera-31-aygoustou-poioi-giortazoun-eortologio/",
+          "source": "In.gr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "novak djokovic",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 30 Aug 2026 21:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4ahDd2zrFLoYZl1qq9sqjjRGNVl7mcBlA_BWswQcRwGYSyp2pENvdnNGXuY",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "US Open 2026: Novak Djokovic breaks down in tears during difficult loss to Mariano Navone in New York",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/tennis/articles/c39m1le9gjeo",
+          "source": "BBC"
+        },
+        {
+          "title": "Navone stuns physically ailing Djokovic at US Open",
+          "snippet": "",
+          "url": "https://www.atptour.com/en/news/djokovic-navone-us-open-2026-r1",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "The top photos of the day by AP's photojournalists",
+          "snippet": "",
+          "url": "https://www.bastillepost.com/global/article/6118578-the-top-photos-of-the-day-by-aps-photojournalists-214",
+          "source": "巴士的報"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "τζοκερ 30 8 26",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 30 Aug 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDbL2vMKF52DdqjdviQTMw7UGKib0Pma7Se1l-KQQ2iVxmGmnZnwlyNaDGuXU",
+      "pictureSource": "News 24/7",
+      "relatedSearch": [
+        {
+          "title": "Τζόκερ: Οι τυχεροί αριθμοί που κερδίζουν 5,4 εκατ. ευρώ",
+          "snippet": "",
+          "url": "https://www.news247.gr/ellada/tzoker-oi-tixeroi-arithmoi-pou-kerdizoun-54-ekat-evro/",
+          "source": "News 24/7"
         },
         {
           "title": "Κλήρωση Τζόκερ 30/08/2026: Αυτοί είναι οι αριθμοί που κερδίζουν 5.500.000 ευρώ",
@@ -245,38 +161,122 @@
           "source": "Newsbeast"
         },
         {
-          "title": "Τζόκερ κλήρωση 3112: Οι τυχεροί αριθμοί σήμερα",
+          "title": "Κλήρωση Τζόκερ: Αυτοί είναι οι τυχεροί αριθμοί για τα 5,5 εκατ. ευρώ",
           "snippet": "",
-          "url": "https://www.newsit.gr/ellada/tzoker-klirosi-3112-oi-tyxeroi-arithmoi-simera/4761306/",
-          "source": "NewsIT"
+          "url": "https://www.ethnos.gr/greece/article/419044/klhroshtzokeraytoieinaioityxeroiarithmoigiata55ekateyro",
+          "source": "Ethnos"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "πέγκυ ζήνα",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 30 Aug 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJrfwKEMmN_JKMnlxNKSa_vUplqshqpr4DQZ2iANcMTXUlO3mwLU04tAFw-k",
-      "pictureSource": "NewsIT",
+      "title": "καλαθοσφαίριση",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 30 Aug 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv8ConZbl3ZWxiupPlFhf7YBkyOc7qLsMCq-DiGAM4dT-hYb8xq4FBuO6m53w",
+      "pictureSource": "Novasports",
       "relatedSearch": [
         {
-          "title": "Πέγκυ Ζήνα: «Τώρα που είμαι μόνη μου, στην ηρεμία της νύχτας» – Το μήνυμα που έστειλε στους θαυμαστές της",
+          "title": "Ντουράντ: «Μιμήθηκαν τους Αμερικανούς»",
           "snippet": "",
-          "url": "https://www.newsit.gr/lifestyle/pegky-zina-tora-pou-eimai-moni-mou-stin-iremia-tis-nyxtas-to-minyma-pou-esteile-stous-thaymastes-tis/4761320/",
-          "source": "NewsIT"
+          "url": "https://www.novasports.gr/sport/mpasket/event/nba/article/15072951/ntourant-mimithikan-tous-amerikanous/",
+          "source": "Novasports"
         },
         {
-          "title": "Πέγκυ Ζήνα: Το μήνυμα στους θαυμαστές της, μετά την ολοκλήρωση της καλοκαιρινής περιοδείας της - «Δεν",
+          "title": "Ντουράντ για τους μη Αμερικανούς στο NBA: «Απο ποιους επηρεάστηκαν; Από εμάς»",
           "snippet": "",
-          "url": "https://www.enikos.gr/lifestyle/pegky-zina-to-minyma-stous-thavmastes-tis-meta-tin-oloklirosi-tis-kalokairinis-periodeias-tis-den-epikoinono-sychna-mazi-sas-apo-edo-giati-den-to-echo-poly/2635979/",
-          "source": "ENIKOS"
+          "url": "https://www.gazzetta.gr/basketball/nba/2564344/ntoyrant-gia-toys-mi-amerikanoys-sto-nba-apo-poioys-epireastikan-apo-emas",
+          "source": "Gazzetta.gr"
         },
         {
-          "title": "Πέγκυ Ζήνα: Το αυθόρμητο βίντεο μέσα στη νύχτα – «Δεν θεωρώ τίποτα δεδομένο»",
+          "title": "Ντουράντ για την κυριαρχία των μη Αμερικανών στο NBA: «Προσπαθούν να παίξουν σαν εμάς",
           "snippet": "",
-          "url": "https://newpost.gr/eidiseis/pegky-zina-to-aythormito-vinteo-mesa-sti-nychta-den-theoro-tipota-dedomeno/",
-          "source": "Newpost.gr"
+          "url": "https://www.pickandroll.gr/2026/08/30/ntoyrant-gia-tin-kyriarchia-ton-mi-amerikanon-paikton-sto-nba-prospathoyn-na-paixoyn-san-emas/",
+          "source": "pickandroll.gr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "real fm",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 30 Aug 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxf9t-UIYXlHpsbAXZp2Uwxj3UO0sgxfIek7WnI7KRx4ceKepEszLskUk1Mls",
+      "pictureSource": "Real.gr",
+      "relatedSearch": [
+        {
+          "title": "Περπατάτε με τα χέρια πίσω από την πλάτη; Τι αποκαλύπτει για την προσωπικότητά σας",
+          "snippet": "",
+          "url": "https://www.real.gr/koinonia/arthro/perpatate-me-ta-cheria-piso-apo-tin-plati-ti-apokalyptei-gia-tin-prosopikotita-sas-910468/",
+          "source": "Real.gr"
+        },
+        {
+          "title": "«Ήταν λάθος μου, είχα πιει δύο ποτάκια παραπάνω» είπε ο Μουγκοπέτρος μετά τη σύλληψη για οδήγηση υπό την επήρεια αλκοόλ, αύριο η δίκη του",
+          "snippet": "",
+          "url": "https://www.protothema.gr/greece/article/1871436/itan-ena-lathos-mou-eipe-o-mougopetros-meta-ti-sullipsi-gia-odigisi-upo-tin-epireia-alkool-itan-se-paniguri-sti-lamia/",
+          "source": "ProtoThema"
+        },
+        {
+          "title": "Ο Άρης Μουγκοπέτρος στην Ευελπίδων: «Βγάζουν όλοι το όνομα μου παντού, να βγάλουν και για το μοντέλο με τα ναρκωτικά»",
+          "snippet": "",
+          "url": "https://www.reader.gr/ellada/o-aris-moygkopetros-stin-eyelpidon-bgazoyn-oloi-onoma-moy-pantoy-na-bgaloyn-kai-gia-montelo-me-ta/659461",
+          "source": "Reader.gr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "τηλεματική",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 30 Aug 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJyS7sKqoG9I7VtV5Mc4_MIUmvANj0dnX2iCa9rT1ZuqQBHXU4dFObXidFFQ",
+      "pictureSource": "LiFO",
+      "relatedSearch": [
+        {
+          "title": "Κυβερνοεπίθεση στον ΟΑΣΑ: Επανήλθε η τηλεματική - Πότε αποκαθίσταται πλήρως",
+          "snippet": "",
+          "url": "https://www.lifo.gr/now/greece/kybernoepithesi-ston-oasa-epanilthe-i-tilematiki-pote-apokathistatai-pliros",
+          "source": "LiFO"
+        },
+        {
+          "title": "ΟΑΣΑ: Αποκαταστάθηκε η τηλεματική μετά την κυβερνοεπίθεση – Κανονικά τα δρομολόγια λεωφορείων και τρόλεϊ",
+          "snippet": "",
+          "url": "https://www.newsbeast.gr/greece/arthro/13322244/oasa-apokatastathike-i-tilematiki-meta-tin-kyvernoepithesi-kanonika-ta-dromologia-leoforeion-kai-trolei",
+          "source": "Newsbeast"
+        },
+        {
+          "title": "Συνεχίζεται το μπλακ άουτ στην τηλεματική για λεωφορεία και τρόλεϊ – Τι λέει ο ΟΑΣΑ",
+          "snippet": "",
+          "url": "https://www.in.gr/2026/08/29/greece/synexizetai-to-mplak-aout-stin-tilematiki-gia-leoforeia-kai-trolei-ti-leei-o-oasa/",
+          "source": "In.gr"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "δεθ",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 30 Aug 2026 16:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCrq-awztHWEi-CGquhaIiblTBuD_XTVnhQvKnGVKwcSy6PAvTPF61SQoFcY",
+      "pictureSource": "CNN.gr",
+      "relatedSearch": [
+        {
+          "title": "Η ανάπλαση της ΔΕΘ φέρνει το ConFex Park - Ένας πνεύμονας πρασίνου στην καρδιά της Θεσσαλονίκης",
+          "snippet": "",
+          "url": "https://www.cnn.gr/oikonomia/anaptyxi/story/549115/i-anaplasi-tis-deth-fernei-to-confex-park-enas-pneymonas-prasinou-stin-kardia-tis-thessalonikis",
+          "source": "CNN.gr"
+        },
+        {
+          "title": "«Ντύνεται» στα χρώματα της ΔΕΘ η Θεσσαλονίκη – Ποια είναι η τιμώμενη χώρα φέτος",
+          "snippet": "",
+          "url": "https://www.tanea.gr/2026/08/30/greece/ntynetai-sta-xromata-tis-deth-i-thessaloniki-poia-einai-i-timomeni-xora-me-tis-simaies-tis-opoias-stolizontai-oi-dromoi/",
+          "source": "ΤΑ ΝΕΑ"
+        },
+        {
+          "title": "90ή ΔΕΘ: Για πρώτη φορά, ενιαίο εισιτήριο και για τις εννέα ημέρες της έκθεσης",
+          "snippet": "",
+          "url": "https://www.capital.gr/oikonomia/4013144/90i-deth-gia-proti-fora-eniaio-eisitirio-kai-gia-tis-ennea-imeres-tis-ekthesis/",
+          "source": "Capital.gr"
         }
       ],
       "link": "https://imtaqin.id/"
