@@ -1,30 +1,58 @@
 {
-  "lastUpdate": "2026-09-02 15:11:04",
+  "lastUpdate": "2026-09-02 18:41:47",
   "data": [
+    {
+      "title": "missile",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 2 Sep 2026 11:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkOK9GgQnNJC-S7B6twlVVv2U9O25f5oTNtyeJ3dVIfmOqJrvZPwCCI_TznlE",
+      "pictureSource": "Al Jazeera",
+      "relatedSearch": [
+        {
+          "title": "Iran war updates: Trump says US could still ‘smack’ Iran",
+          "snippet": "",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "US pounds Iran, Tehran strikes back at bases in biggest exchange since July",
+          "snippet": "",
+          "url": "https://www.reuters.com/world/middle-east/us-iran-exchange-attacks-lull-war-appears-over-2026-09-02/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians",
+          "snippet": "",
+          "url": "https://www.bbc.com/news/live/cm86xq9261xdt",
+          "source": "BBC"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "flight",
       "trafficCount": "100+",
       "pubDate": "Wed, 2 Sep 2026 04:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNs7DY8LHO1PW7xf7NPZf89qXGT4UL1Hv39QR4_o6NVjh4CGBC-x0jXS4eCH0",
-      "pictureSource": "BBC",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ921dgOjUED5jbRyaDp78S6HDmqUzG8xB52pZE27rSGO4Q3kodEqU7D-uOTlE",
+      "pictureSource": "CNBC",
       "relatedSearch": [
         {
-          "title": "Why more US planes are getting stuck on the tarmac",
+          "title": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations",
           "snippet": "",
-          "url": "https://www.bbc.com/reel/video/p0p6l3lb/watch",
-          "source": "BBC"
+          "url": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
+          "source": "CNBC"
         },
         {
-          "title": "What To Expect If You’re Flying Today—As Airlines Issue Waivers Amid Storms In Northeast, Gulf Coast",
+          "title": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
           "snippet": "",
-          "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/09/01/airlines-travel-alerts-waivers-tuesday-september-1/",
-          "source": "Forbes"
+          "url": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines",
+          "source": "Al Jazeera"
         },
         {
-          "title": "Over 896 flights delayed, 200 canceled amid widespread U.S. travel disruptions",
+          "title": "Ukraine war briefing: Zelenskyy orders military to triple daily long-range strikes on Russia",
           "snippet": "",
-          "url": "https://www.nj.com/news/2026/09/over-896-flights-delayed-200-canceled-amid-widespread-us-travel-disruptions.html",
-          "source": "NJ.com"
+          "url": "https://www.theguardian.com/world/2026/aug/29/ukraine-war-briefing-long-range-strikes-on-russia-tripled",
+          "source": "The Guardian"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +61,26 @@
       "title": "chatgpt",
       "trafficCount": "1000+",
       "pubDate": "Tue, 1 Sep 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQMCxZt0NGP-sIryGOWQzyD4Iy2unhyLr1sQVqDQ4JbETP2zwAgSg6D6SCv08",
-      "pictureSource": "U.S. Department of War (.gov)",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0fILV11v9m9mNve2gyNMI_g6-kuV0UQ4DKcLQEhczlqB_-zkCmt0GwXjt8J8",
+      "pictureSource": "OpenAI",
       "relatedSearch": [
         {
-          "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "snippet": "",
-          "url": "https://www.war.gov/News/Releases/Release/Article/4586352/department-of-war-launches-openais-chatgpt-mil-on-genaimil/",
-          "source": "U.S. Department of War (.gov)"
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+          "source": "OpenAI"
         },
         {
-          "title": "Defense Dept opens use of three major AI tools for employees",
+          "title": "ChatGPT for Healthcare unveils new integrations with Epic, public health data sources",
           "snippet": "",
-          "url": "https://federalnewsnetwork.com/federal-newscast/2026/09/defense-dept-opens-use-of-three-major-ai-tools-for-employees/",
-          "source": "Federal News Network"
+          "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data",
+          "source": "Fierce Healthcare"
         },
         {
-          "title": "The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for ‘warfighter needs’",
+          "title": "OpenAI Brings Epic Health Records to ChatGPT for Clinicians",
           "snippet": "",
-          "url": "https://www.yahoo.com/news/politics/articles/pentagon-giving-3-million-military-194018347.html",
-          "source": "Yahoo"
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-epic-health-records-to-chatgpt-for-clinicians/",
+          "source": "PYMNTS.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -61,26 +89,26 @@
       "title": "teams",
       "trafficCount": "100+",
       "pubDate": "Tue, 1 Sep 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN0j-En_Lm1Zjnr8nIjpWvTohM3f0WqWkiati_cVjrP__sTLibFb5faW2OfiM",
-      "pictureSource": "ESPN",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMG-9vSt_hene0uo2mviBDq7Sv3sHXnh29prjpRvAnLr2pCEajMG85qdLj8a0",
+      "pictureSource": "NHL.com",
       "relatedSearch": [
         {
-          "title": "U.S. MLS teams to make full return to Open Cup in 2027",
+          "title": "Ducks Games Available to Stream on Prime Video | Anaheim Ducks",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/story/_/id/49795119/us-mls-teams-make-full-return-open-cup-2027",
-          "source": "ESPN"
+          "url": "https://www.nhl.com/ducks/news/ducks-games-available-to-stream-on-prime-video",
+          "source": "NHL.com"
         },
         {
-          "title": "U.S. Open Cup commissioner details changes behind MLS’s return",
+          "title": "Columbus Blue Jackets, NHL reveal next step in TV, streaming plans",
           "snippet": "",
-          "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/02/us-open-cup-commissioner-details-changes-behind-mlss-return/",
-          "source": "Sports Business Journal"
+          "url": "https://sports.yahoo.com/articles/columbus-blue-jackets-nhl-reveal-162208131.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Format Finalized for 2027 Lamar Hunt U.S. Open Cup Featuring All 27 U.S.-Based MLS Teams",
+          "title": "Dallas Stars leave Victory+, move regular season broadcasts to Amazon Prime for 2026-27 season",
           "snippet": "",
-          "url": "https://www.ussoccer.com/stories/2026/09/usoc/format-finalized-2027-lamar-hunt-us-open-cup-all-27-us-based-mls-teams",
-          "source": "U.S. Soccer"
+          "url": "https://www.fox4news.com/sports/dallas-stars-leave-victory-move-regular-season-broadcasts-amazon-prime-2026-27-season",
+          "source": "FOX 4 News Dallas-Fort Worth"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -89,26 +117,26 @@
       "title": "games",
       "trafficCount": "100+",
       "pubDate": "Tue, 1 Sep 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbTO7ggo1Lu2nskKn1oR4hP3E1Sgse66XH0aXYlD_1h69p4QIdWTiHGpmabuo",
-      "pictureSource": "IGN",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgknQOEVV6p7l9X8Ez5h1PNCfCP6m0j2LKET8vAmzYk3gKVjRqO0LR8uEbMg8",
+      "pictureSource": "NHL.com",
       "relatedSearch": [
         {
-          "title": "Ahead of GTA 6, Rockstar Games Reveals Its Official GTA Online Roleplaying Server nopixel V",
+          "title": "Ducks 2026-27 National TV Schedule Announced | Anaheim Ducks",
           "snippet": "",
-          "url": "https://www.ign.com/articles/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v",
-          "source": "IGN"
+          "url": "https://www.nhl.com/ducks/news/ducks-2026-27-national-tv-schedule-announced",
+          "source": "NHL.com"
         },
         {
-          "title": "Days After GTA 6's Big Reveal, Rockstar Announces A Major GTA 5 Update",
+          "title": "How to watch Anaheim Ducks games on TV and Prime Video in 2026-27",
           "snippet": "",
-          "url": "https://www.polygon.com/gta-5-nopixel-beta-when-is-roleplay-customization-new-gameplay/",
-          "source": "Polygon.com"
+          "url": "https://www.nytimes.com/athletic/7559467/2026/09/02/ducks-tv-broadcast-prime-2026/",
+          "source": "The New York Times"
         },
         {
-          "title": "Rockstar Games Reveals RP ‘Evolution’ While Keeping Silent About GTA 6 Multiplayer",
+          "title": "Minnesota Wild Games to Be Available With a Subscription on Prime Video",
           "snippet": "",
-          "url": "https://insider-gaming.com/rockstar-nopixel-rp-evolution-no-gta-6-multiplayer/",
-          "source": "Insider Gaming"
+          "url": "https://www.nhl.com/wild/news/wild-games-to-be-available-with-a-subscription-on-prime-video-090226",
+          "source": "NHL.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -127,15 +155,15 @@
           "source": "Cricket World"
         },
         {
+          "title": "Bahrain were bowled out for 87 on Monday, and on Wednesday they beat Hong Kong",
+          "snippet": "",
+          "url": "https://www.sportsadda.asia/cricket/news/bahrain-were-bowled-out-for-87-on-monday-and-on-wednesday-they-beat-hong-kong/",
+          "source": "SportsAdda"
+        },
+        {
           "title": "ACC Men’s Premier Cup 2026 Match Predictions: Bahrain vs Hong Kong; Oman vs Qatar – September 2",
           "snippet": "",
           "url": "https://www.cricketworld.com/match-predictions-acc-mens-premier-cup-2026-match-7-group-a-bahrain-vs-hong-kong-and-match-8-group-b-oman-vs-qatar-september-2nd/113009.htm",
-          "source": "Cricket World"
-        },
-        {
-          "title": "Match Predictions: ACC Mens Premier Cup 2026 - Match 9 & 10 - Kuwait vs UAE; Malaysia vs Nepal - September 3rd",
-          "snippet": "",
-          "url": "https://www.cricketworld.com/match-predictions-acc-mens-premier-cup-2026-match-9-10-kuwait-vs-uae-malaysia-vs-nepal-september-3rd/113033.htm",
           "source": "Cricket World"
         }
       ],
@@ -161,10 +189,38 @@
           "source": "TennisTemple"
         },
         {
-          "title": "Filipino basketball players JC Intal and James Yap were seen in attendance to support Alex Eala in her first round match at the US Open. | via TJ Manotoc, ABS-CBN News",
+          "title": "Alex Eala Balances Rising Tennis Success With Smart Money Moves and Future Investments",
           "snippet": "",
-          "url": "https://www.facebook.com/abscbnNEWS/posts/filipino-basketball-players-jc-intal-and-james-yap-were-seen-in-attendance-to-su/1661206619387921/",
-          "source": "Facebook"
+          "url": "https://tribune.net.ph/2026/09/02/alex-eala-keeps-money-in-perspective-as-tennis-career-reaches-new-heights",
+          "source": "Daily Tribune"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "iran",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 1 Sep 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_jFfAu0svNu_5MC8te7X07VanxWYU4iKTjimkcU-XCBVixA48ZdY2n58fvHE",
+      "pictureSource": "Iran International",
+      "relatedSearch": [
+        {
+          "title": "Live - US, Iran conflict escalates as Israel prepares for possible Iranian attack",
+          "snippet": "",
+          "url": "https://www.iranintl.com/en/liveblog/202608292849",
+          "source": "Iran International"
+        },
+        {
+          "title": "KSA's National Shipping Company: 2 crew members dead after security incident in Strait of Hormuz | Gulf Times",
+          "snippet": "",
+          "url": "https://www.gulf-times.com/article/732416/region/ksas-national-shipping-company-2-crew-members-dead-after-security-incident-in-strait-of-hormuz",
+          "source": "Gulf Times"
+        },
+        {
+          "title": "Two tankers carrying Saudi oil attacked in Strait of Hormuz",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/energy/two-tankers-carrying-saudi-oil-attacked-strait-hormuz-2026-09-01/",
+          "source": "Reuters"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -183,16 +239,16 @@
           "source": "The Peninsula Qatar"
         },
         {
-          "title": "Qatar Airways brings back four Saudi routes this winter and adds more flights",
-          "snippet": "",
-          "url": "https://gulfnews.com/business/aviation/qatar-airways-brings-back-four-saudi-routes-this-winter-and-adds-more-flights-1.500659537",
-          "source": "Gulf News"
-        },
-        {
           "title": "Qatar Airways resumes four Saudi routes in winter network expansion",
           "snippet": "",
           "url": "https://gulfbusiness.com/en/2026/aviation/qatar-airways-resumes-four-saudi-routes-in-winter-network-expansion/",
           "source": "Gulf Business"
+        },
+        {
+          "title": "Qatar Airways restores four Saudi routes | Gulf Times",
+          "snippet": "",
+          "url": "https://www.gulf-times.com/article/732407/qatar/qatar-airways-restores-four-saudi-routes",
+          "source": "Gulf Times"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -201,82 +257,26 @@
       "title": "hebc vs dortmund",
       "trafficCount": "200+",
       "pubDate": "Tue, 1 Sep 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbDTv3MxeAGIXCEOrqN8gzx-IGEt3xBpw46odqrtJs9YEOfsq2QPpl74rIZa0",
-      "pictureSource": "sportschau.de",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Borussia Dortmund gewinnt nach Stotterstart gegen HEBC im DFB-Pokal",
+          "title": "HEBC vs Borussia Dortmund: German DFB Pokal stats & head-to-head",
           "snippet": "",
-          "url": "https://www.sportschau.de/fussball/dfbpokal/pflichtsieg-nach-stotterstart-bvb-gegen-couragierte-eimsbuetteler-weiter,spielbericht-dfb-pokal-eimsbuettel-borussia-dortmund-100.html",
-          "source": "sportschau.de"
+          "url": "https://www.bbc.com/sport/football/live/ck1l6gd9qeget",
+          "source": "BBC"
         },
         {
-          "title": "Für Alex Meyer war es ein doppelt schönes Erlebnis in Hamburg",
+          "title": "More than a football match: BVB visit brings moments to last forever",
           "snippet": "",
-          "url": "https://onefootball.com/de/news/fuer-alex-meyer-war-es-ein-doppelt-schoenes-erlebnis-in-hamburg-43387844",
+          "url": "https://sports.yahoo.com/articles/more-football-match-bvb-visit-143000595.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Postgame Quotes: \"Saw Eveything We Love About the DFB-Pokal\"",
+          "snippet": "",
+          "url": "https://onefootball.com/en/news/postgame-quotes-saw-eveything-we-love-about-the-dfb-pokal-43386686",
           "source": "OneFootball"
-        },
-        {
-          "title": "Mehr als ein Fußballspiel: BVB-Gastspiel beschert Momente für die Ewigkeit",
-          "snippet": "",
-          "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/9/2/Mehr-als-ein-Fussballspiel-BVB-Gastspiel-beschert-Momente-fuer-die-Ewigkeit.html",
-          "source": "BVB.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "west ham vs wolves",
-      "trafficCount": "200+",
-      "pubDate": "Tue, 1 Sep 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7bDk8vdmEzE_lfyUjha0mCZDQuCRBsQvMM59v15y7XBbHRn0kfwdCl4c-Lww",
-      "pictureSource": "Sky Sports",
-      "relatedSearch": [
-        {
-          "title": "West Ham 4-2 Wolves: Nuno's side claim first Championship win of the season",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/news/11685/13579450/west-ham-4-2-wolves-nunos-side-claim-first-championship-win-of-the-season",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Divine Mukasa: A Manchester City midfield gem making a name for himself back at West Ham",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7556224/2026/09/02/divine-mukasa-west-ham-wolves-midfielder/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Munetsi scores again as Wolves fall to West Ham",
-          "snippet": "",
-          "url": "https://www.newzimbabwe.com/munetsi-scores-again-as-wolves-fall-to-west-ham/",
-          "source": "NewZimbabwe.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "pakistan women's national cricket team vs thailand women's national cricket team standings",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 1 Sep 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMBPoM_MjJoKnUwUOVc9IILEW5sRAGuPin19MagRrSYT6QhFHZtTLj9DocH4A",
-      "pictureSource": "Cricinfo",
-      "relatedSearch": [
-        {
-          "title": "PAK-W vs THA-W Cricket Scorecard, 5th Match, Group A at Dubai, September 01, 2026",
-          "snippet": "",
-          "url": "https://www.cricinfo.com/series/women-s-asia-cup-2026-1548888/pakistan-women-vs-thailand-women-5th-match-group-a-1548895/full-scorecard",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Pakistan beat Thailand in Asia Cup opener",
-          "snippet": "",
-          "url": "https://tribune.com.pk/story/2627043/pakistan-beat-thailand-in-asia-cup-opener",
-          "source": "The Express Tribune"
-        },
-        {
-          "title": "Shamas replaces injured Alvi in Pakistan's Asia Cup squad",
-          "snippet": "",
-          "url": "https://africa.espn.com/cricket/story/_/id/49709599/sadaf-shamas-replaces-injured-najiha-alvi-pakistan-women-asia-cup-squad",
-          "source": "ESPN"
         }
       ],
       "link": "https://imtaqin.id/"
