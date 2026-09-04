@@ -1,37 +1,121 @@
 {
-  "lastUpdate": "2026-09-04 05:08:43",
+  "lastUpdate": "2026-09-04 09:38:02",
   "data": [
     {
       "title": "аэропорт",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 3 Sep 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqC2DiFf1JrsIR5gkOEiWNyeb6u9qQAJvffvPYEyojZg48ABzHQaL_uwFEHqA",
-      "pictureSource": "URA.RU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFB8U8x6dJttc-C5rLsMeG2eDDroR2R9B9h4wfQ81tKsJ2ZkoAaW8gsXQymo",
+      "pictureSource": "NV",
       "relatedSearch": [
         {
-          "title": "Сотни рейсов задержаны: ситуация в аэропортах Москвы, Петербурга и Сочи 3 сентября",
+          "title": "В Соломенском районе Киева пожар, СМИ сообщают о вероятном ударе дрона по самолету в Жулянах",
           "snippet": "",
-          "url": "https://ura.news/articles/1053123847",
-          "source": "URA.RU"
+          "url": "https://nv.ua/kyiv/rosiyski-viyska-vdarili-po-litakou-v-zhulyanah-kyiv-post-50638466.html",
+          "source": "NV"
         },
         {
-          "title": "В аэропорту Сочи утром 4 сентября задерживаются 80 рейсов",
+          "title": "«Герани‎» атаковали аэропорт Жуляны в Киеве: нардеп заявил о попадании в самолёт",
           "snippet": "",
-          "url": "https://kuban24.tv/item/v-aeroportu-sochi-utrom-4-sentyabrya-zaderzhivayutsya-80-rejsov",
-          "source": "Кубань 24"
+          "url": "https://tehnowar.ru/581023-gerani_atakovali_aeroport_ghulyany_v_kieve_nardep_zayavil_o_popadanii_v_samolet.html",
+          "source": "Мировое обозрение"
         },
         {
-          "title": "Атака БПЛА в Сочи привела к задержке 36 рейсов, пассажирам организовали места для отдыха",
+          "title": "Юрий Подоляка, последняя сводка СВО на 04.09.2026: аэропорт Жуляны под ударом — ВС РФ атаковали объекты под Киевом и Одессой, карта боевых действий, свежие новости сегодня",
           "snippet": "",
-          "url": "https://krasnodarmedia.su/news/2610714/",
-          "source": "KrasnodarMedia"
+          "url": "https://www.topnews.ru/news_id_1316322.html",
+          "source": "TOPNews.RU"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "gemini",
-      "trafficCount": "500+",
+      "title": "сочи",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 3 Sep 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvaRdiIPWu93cMImmd5c3BmUQu3bLA81Q8k7vbsBU078CR7Hgr6exsEzhCW9c",
+      "pictureSource": "Meduza",
+      "relatedSearch": [
+        {
+          "title": "Украинские беспилотники атаковали Сочи и поселок Сириус. На территории нефтебазы произошел пожар",
+          "snippet": "",
+          "url": "https://meduza.io/news/2026/09/04/ukrainskie-bespilotniki-atakovali-sochi-i-poselok-sirius-na-territorii-neftebazy-proizoshel-pozhar",
+          "source": "Meduza"
+        },
+        {
+          "title": "В Сочи в ходе атаки БПЛА произошло возгорание на территории нефтебазы",
+          "snippet": "",
+          "url": "https://www.interfax.ru/russia/1113111",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Украинские дроны атаковали порт в Сочи и цели в Подмосковье",
+          "snippet": "",
+          "url": "https://www.dw.com/ru/ukrainskie-drony-atakovali-port-v-soci-i-celi-v-podmoskove/a-78859334",
+          "source": "DW.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chat gpt",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtwfCWcpiPIcV1KEvHCPmfD3O0z3EpgzOl0Na6oR1gctrunQrj0pXL2nLO3yM",
+      "pictureSource": "OpenAI",
+      "relatedSearch": [
+        {
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "snippet": "",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "source": "OpenAI"
+        },
+        {
+          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "snippet": "",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "source": "The Verge"
+        },
+        {
+          "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
+          "snippet": "",
+          "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+          "source": "Microsoft Azure"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "chat",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn1eJvQg2bCv4UFZvZmPs29K4z4sYmoyhimTqTVF_RaOf-xPty0NLn4WuGsMY",
+      "pictureSource": "KTLA",
+      "relatedSearch": [
+        {
+          "title": "New details emerge in suspension of ‘Wheel of Fortune’ announcer",
+          "snippet": "",
+          "url": "https://ktla.com/news/local-news/jim-thornton-flight-incident-investigation/",
+          "source": "KTLA"
+        },
+        {
+          "title": "‘Wheel of Fortune’ Announcer Jim Thornton Suspended, Position Will Be Recast",
+          "snippet": "",
+          "url": "https://variety.com/2026/tv/news/wheel-of-fortune-announcer-jim-thornton-suspended-1236848741/",
+          "source": "Variety"
+        },
+        {
+          "title": "'Wheel of Fortune' announcer's lawyer denounces 'defamatory' report",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/entertainment/tv/2026/09/02/jim-thornton-statement-wheel-of-fortune-suspension/91583621007/",
+          "source": "USA Today"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "gemini ai",
+      "trafficCount": "100+",
       "pubDate": "Thu, 3 Sep 2026 08:10:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYqgwCYWFALn4zXEiGUl58t1gTCQke6rpkhUPWsujOYUATCJNF5bXM6iQVoOk",
       "pictureSource": "San Francisco Chronicle",
@@ -53,34 +137,6 @@
           "snippet": "",
           "url": "https://www.kdrv.com/news/ai-hiking-advice-stranded-3-roseville-men-on-mt-shasta/article_43df91db-3417-4ec0-9f35-20c7d6a0a366.html",
           "source": "KDRV"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gpt",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 3 Sep 2026 08:00:00 -0700",
-      "picture": "",
-      "pictureSource": "OpenAI",
-      "relatedSearch": [
-        {
-          "title": "GPT-6 Astra: A new generation of intelligence",
-          "snippet": "",
-          "url": "https://openai.com/index/gpt-6-astra/",
-          "source": "OpenAI"
-        },
-        {
-          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "snippet": "",
-          "url": "https://arcprize.org/blog/astra",
-          "source": "ARC Prize"
-        },
-        {
-          "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
-          "snippet": "",
-          "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
-          "source": "Microsoft Azure"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -109,34 +165,6 @@
           "snippet": "",
           "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
           "source": "Ars Technica"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "армения",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 3 Sep 2026 01:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr0d2v5U-hUHI1YTJY9PFGztN4-6zsE8mJQC5u-tc8HKFVGCkwM1wBAsvhq_o",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Путин требует от Армении референдума. Что будет дальше?",
-          "snippet": "",
-          "url": "https://www.bbc.com/russian/articles/cy5zng9lgv5o",
-          "source": "BBC"
-        },
-        {
-          "title": "В России напомнили Армении о стоимости курса в ЕС, но мешать вступлению никто не станет",
-          "snippet": "",
-          "url": "https://svobodanews.ru/politika/v-rossii-napomnili-armenii-o-stoimosti-kursa-v-es-no-meshat-vstupleniyu-nikto-ne-stanet.html",
-          "source": "Свободный взгляд"
-        },
-        {
-          "title": "Пашинян и Путин столкнулись из-за устремлений Армении в ЕС и договорились продолжить переговоры в Москве",
-          "snippet": "",
-          "url": "https://sovanews.tv/2026/09/02/pashinyan-i-putin-stolknulis-iz-za-ustremlenij-armenii-v-es-i-dogovorilis-prodolzhit-peregovory-v-moskve/",
-          "source": "SOVA"
         }
       ],
       "link": "https://imtaqin.id/"
