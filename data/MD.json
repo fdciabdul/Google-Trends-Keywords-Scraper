@@ -1,243 +1,66 @@
 {
-  "lastUpdate": "2026-09-13 04:57:21",
+  "lastUpdate": "2026-09-13 10:01:55",
   "data": [
     {
-      "title": "погода",
-      "trafficCount": "5000+",
-      "pubDate": "Sat, 12 Sep 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3iR9pZzMew2QU-UUTDryY4VrzWw7Pm4a3-6lQl-6tQT8cweWOvK0KWC7Dq9U",
-      "pictureSource": "Погода Mail",
-      "relatedSearch": [
-        {
-          "title": "В Москве ночь на 13 сентября может стать одной из самых холодных с начала мая",
-          "snippet": "",
-          "url": "https://pogoda.mail.ru/news/72335357/",
-          "source": "Погода Mail"
-        },
-        {
-          "title": "Москвичей предупредили о температурном рекорде предстоящей ночью",
-          "snippet": "",
-          "url": "https://www.gazeta.press/social/news/2026/09/12/29304949.shtml",
-          "source": "Газета"
-        },
-        {
-          "title": "Антициклон решает: какой будет погода в Москве на новой неделе",
-          "snippet": "",
-          "url": "https://ura.news/news/1053126629",
-          "source": "URA.RU"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "волна похолодания",
+      "title": "кишинёв",
       "trafficCount": "200+",
-      "pubDate": "Sat, 12 Sep 2026 20:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "pubDate": "Sun, 13 Sep 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXKpXQn56mLI5ddtjHe0iH543nBArFMyF-I_L10IsqboD68KIVwhhvYsUaLNk",
+      "pictureSource": "TV8.md",
+      "relatedSearch": [
+        {
+          "title": "Вирусный сезон набирает обороты. В Кишинёве детская больница №1 принимает около 40 детей в день",
+          "snippet": "",
+          "url": "https://tv8.md/ru/2026/09/13/video-virusnii-sezon-nabiraet-oboroti-v-kishinyove-detskaya-bolnitsa-%E2%84%96-1-prinimaet-okolo-40-detei-v-den/308762",
+          "source": "TV8.md"
+        },
+        {
+          "title": "Вспышка ОРВИ в Молдове. ANSP предупреждает о рисках после возвращения детей в школы",
+          "snippet": "",
+          "url": "https://newsmaker.md/ru/vspyshka-orvi-v-moldove-ansp-preduprejdaet-o-riskah-posle-vozvrasheniya-detei-v-shkoly",
+          "source": "NewsMaker.md"
+        },
+        {
+          "title": "Количество случаев респираторных инфекций удвоилось в начале учебного года",
+          "snippet": "",
+          "url": "https://ipn.md/ru/kolichestvo-sluchaev-respiratornyh-infekczij-udvoilos-v-nachale-uchebnogo-goda/",
+          "source": "ipn.md"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "газ",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 12 Sep 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOe_C4zEJKiVTUhmIQlsL9brxnVBAu-25OGYdlzjwMRyW1ULr0CfuchDmH95Y",
-      "pictureSource": "URA.RU",
+      "title": "зерно",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 12 Sep 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScZoyukFrO_bkeZW9wJ4dP0LGHDHSWolxY9R9vK2N_kv3vyKSGRYXcV8pbmVY",
+      "pictureSource": "Финансы Mail",
       "relatedSearch": [
         {
-          "title": "Европа поплатилась за отказ от российского газа",
+          "title": "Экспорт российского зерна: новые коридоры, транзит через Китай и Казахстан",
           "snippet": "",
-          "url": "https://ura.news/news/1053126743",
+          "url": "https://finance.mail.ru/article/minselhoz-raskryl-fantasticheskie-shemy-eksporta-zerna-iz-rf-69227453/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "РФ в первую декаду сентября снизила отгрузки зерна на экспорт почти в шесть раз",
+          "snippet": "",
+          "url": "https://www.interfax.ru/business/1115570",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "В Минсельхозе сделали прогноз по экспорту зерна из РФ",
+          "snippet": "",
+          "url": "https://ura.news/news/1053126612",
           "source": "URA.RU"
-        },
-        {
-          "title": "Стоимость газа в Европе превысила $1000 впервые с 2022 года",
-          "snippet": "",
-          "url": "https://www.forbes.ru/biznes/568381-stoimost-gaza-v-evrope-prevysila-1000-vpervye-s-2022-goda",
-          "source": "Forbes.ru"
-        },
-        {
-          "title": "В Европе рекордно высокие цены на газ — 1000 долларов за 1000 кубометров",
-          "snippet": "",
-          "url": "https://www.bfm.ru/news/617645",
-          "source": "BFM.ru"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "сандерленд – арсенал",
-      "trafficCount": "100+",
-      "pubDate": "Sat, 12 Sep 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXNAhERXcJlt1hVhRax2AiX1L9sYq4dATpAj6LvhRSgjjdcQln9S4Tt4iKrRI",
-      "pictureSource": "СБ. Беларусь сегодня",
-      "relatedSearch": [
-        {
-          "title": "«Арсенал» оказался сильнее «Сандерленда» в поединке Английской премьер-лиги по футболу",
-          "snippet": "",
-          "url": "https://www.sb.by/articles/arsenal-okazalsya-silnee-sanderlenda-v-poedinke-angliyskoy-premer-ligi-po-futbolu.html",
-          "source": "СБ. Беларусь сегодня"
-        },
-        {
-          "title": "Арсенал обыграл Сандерленд и продолжил победную серию – Райя отразил пенальти, Гимарайнш забил дебютный гол за канониров",
-          "snippet": "",
-          "url": "https://football24.ua/ru/news/arsenal-obygral-sanderlend-i-prodolzhil-pobednuju-seriju-rajja-otrazil-penalti-gimaraesh-zabil-debjutnyj-gol-za-kanonirov-964491",
-          "source": "Футбол 24"
-        },
-        {
-          "title": "«Арсенал» выгрыз победу в Сандерленде",
-          "snippet": "",
-          "url": "https://fc-arsenal.com/otchet-o-matche/arsenal-vygryz-pobedu-v-sanderlende",
-          "source": "FC-Arsenal.com."
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid vs rayo vallecano",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 12 Sep 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMekLa2MxTEl0Du_fQzBss5FnRqedva4Z_PiAFA-TWnL1N2mwwgleo1xqPfF0",
-      "pictureSource": "Vietnam.vn",
-      "relatedSearch": [
-        {
-          "title": "El Arsenal gana todos sus partidos, el Real Madrid golea al Rayo Vallecano.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/es/arsenal-toan-thang-real-madrid-thang-dam-rayo-vallecano",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Victoria Y Dudas: El Madrid Vuelve A Dividir A Su Hinchada",
-          "snippet": "",
-          "url": "https://www.lared1061.com/posts/victoria-y-dudas-el-madrid-vuelve-a-dividir-a-su-hinchada",
-          "source": "La Red 106.1 FM"
-        },
-        {
-          "title": "El Real Madrid convierte el Bernabéu en una fiesta de goles",
-          "snippet": "",
-          "url": "https://www.prensa-latina.cu/2026/09/12/el-real-madrid-convierte-el-bernabeu-en-una-fiesta-de-goles/",
-          "source": "Prensa Latina"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "реал мадрид – райо вальекано",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 12 Sep 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6u3rBG6vd66q_gChroWY7AHRtuMR3Glus1goSiGS5pK_LnC0D9oZcMiH1U8s",
-      "pictureSource": "https://www.championat.ru/",
-      "relatedSearch": [
-        {
-          "title": "«Я не могу сделать 10 замен». Моуринью — о победе «Реала» над «Райо Вальекано»",
-          "snippet": "",
-          "url": "https://www.championat.ru/football/news-6618362-ya-ne-mogu-sdelat-10-zamen-mourinyu-o-pobede-reala-nad-rajo-valekano.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "«Реал» разгромил «Райо Вальекано», Мбаппе оформил дубль и отдал голевую передачу",
-          "snippet": "",
-          "url": "https://www.sport-express.net/football/spain/news/real-rayo-valekano-schet-i-rezultat-matcha-la-ligi-12-sentyabrya-mbappe-zabil-dubl-i-otdal-assist-2454738/",
-          "source": "sport-express.net"
-        },
-        {
-          "title": "Ла Лига. Футболисты обоих клубов вышли в лидеры в гонке бомбардиров. Реал Мадрид – Райо Вальекано. Обзор матча",
-          "snippet": "",
-          "url": "https://www.ua-football.com/foreign/spain/1789264088-la-liga-futbolisty-oboih-klubov-vyshli-v-lidery-v-gonke-bombardirov-real-madrid-rayo-valekano-obzor-matcha.html",
-          "source": "UA-Football"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "real madrid - rayo",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 12 Sep 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR7vE1i2JDYQdoXgv__UVNzocibThsFRFkv5H4hIpt__YQPb7spu5DrcoGV7E",
-      "pictureSource": "Yahoo Sports",
-      "relatedSearch": [
-        {
-          "title": "Real Madrid 4-1 Rayo Vallecano: Match review | La Liga",
-          "snippet": "",
-          "url": "https://sports.yahoo.com/articles/real-madrid-4-1-rayo-233000474.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "El Arsenal gana todos sus partidos, el Real Madrid golea al Rayo Vallecano.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/es/arsenal-toan-thang-real-madrid-thang-dam-rayo-vallecano",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Victoria Y Dudas: El Madrid Vuelve A Dividir A Su Hinchada",
-          "snippet": "",
-          "url": "https://www.lared1061.com/posts/victoria-y-dudas-el-madrid-vuelve-a-dividir-a-su-hinchada",
-          "source": "La Red 106.1 FM"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "дрова",
+      "title": "воздушное пространство",
       "trafficCount": "2000+",
-      "pubDate": "Sat, 12 Sep 2026 10:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyLO5AZkAWKJxKgZQs9NztOZWPyXaR3zlThWNh2jjQGwg1P9HIZHwuSL5lsfg",
-      "pictureSource": "TV8.md",
-      "relatedSearch": [
-        {
-          "title": "В Молдове ужесточат контроль за оборотом древесины: за незаконную продажу грозит конфискация",
-          "snippet": "",
-          "url": "https://tv8.md/ru/2026/09/11/v-moldove-uzhestochat-kontrol-za-oborotom-drevesini-za-nezakonnuyu-prodazhu-grozit-konfiskatsiya/308924",
-          "source": "TV8.md"
-        },
-        {
-          "title": "Дрова на зиму в Молдове: сколько стоят, где купить и какие документы потребовать",
-          "snippet": "",
-          "url": "https://nokta.md/drova-na-zimu-v-moldove-skolko-stoyat-gde-kupit-i-kakie-dokumenty-potrebovat/",
-          "source": "Nokta.md"
-        },
-        {
-          "title": "Молдова готовится к отопительному сезону: Министр окружающей среды рассказал, какие дрова стоит покупать",
-          "snippet": "",
-          "url": "https://www.md.kp.media/online/news/7168876/",
-          "source": "MD.KP.MEDIA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "spațiu aerian",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 12 Sep 2026 08:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQg6if7yuorizIGE8-eeosB7DkZGmRi_Pt0Byv1f7IsXPGprCoi_X9N44oJPmg",
-      "pictureSource": "TV8.md",
-      "relatedSearch": [
-        {
-          "title": "Dronă detectată în spațiul aerian al Republicii Moldova. Zborurile au fost sistate temporar",
-          "snippet": "",
-          "url": "https://tv8.md/2026/09/12/drona-detectata-in-spatiul-aerian-al-republicii-moldova-zborurile-au-fost-sistate-temporar/308945",
-          "source": "TV8.md"
-        },
-        {
-          "title": "Dronă prăbușită la Suceava. Mesaj RO-ALERT la Botoșani. Două aeronave au decolat pentru a monitoriza...",
-          "snippet": "",
-          "url": "https://www.digi24.ro/stiri/botosani-mesaj-ro-alert-pentru-populatie-privind-o-posibila-incursiune-de-drone-3945285",
-          "source": "Digi24"
-        },
-        {
-          "title": "O dronă s-a prăbușit în județul Suceava. Anunțul MApN",
-          "snippet": "",
-          "url": "https://hotnews.ro/alerta-de-drone-in-judetul-botosani-autoritatile-au-emis-un-mesaj-ro-alert-2347512",
-          "source": "HotNews.ro"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "румыния",
-      "trafficCount": "1000+",
-      "pubDate": "Sat, 12 Sep 2026 07:50:00 -0700",
+      "pubDate": "Sat, 12 Sep 2026 21:00:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zDieGppYApJalVEfZvu64xbu9M4Nd7_PU19uyOZqLvC6KxYwpUwl2X3AlsU",
       "pictureSource": "Європейська правда",
       "relatedSearch": [
@@ -248,16 +71,193 @@
           "source": "Європейська правда"
         },
         {
-          "title": "Молдова закрывала небо из-за залетевшего со стороны Украины беспилотника",
+          "title": "В Молдове 12 сентября на время закрывали часть воздушного пространства из-за неизвестного беспилотника",
           "snippet": "",
-          "url": "https://www.rbc.ua/ukr/news/moldova-zakrivala-nebo-cherez-bezpilotnik-1789245849.html",
-          "source": "РБК-Україна"
+          "url": "https://tv8.md/ru/2026/09/12/v-moldove-12-sentyabrya-na-vremya-zakrivali-chast-vozdushnogo-prostranstva-iz-za-neizvestnogo-bespilotnika/308949",
+          "source": "TV8.md"
         },
         {
-          "title": "Очередной дрон был обнаружен в воздушном пространстве Молдовы",
+          "title": "Российские дроны над Республикой Молдова: инциденты или предупреждения? «Сама по себе война не надвигается на нашу страну, но давление продолжится",
           "snippet": "",
-          "url": "https://www.zdg.md/ru/novyj-dron-byl-obnaruzhen-v-vozdushnom-prostranstve-r-moldova/",
+          "url": "https://www.zdg.md/ru/rossijskie-drony-nad-respublikoj-moldova-inczidenty-ili-preduprezhdeniya-sama-po-sebe-vojna-ne-nadvigaetsya-na-nashu-stranu-no-davlenie-prodolzhitsya/",
           "source": "Ziarul de Gardă"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "погода",
+      "trafficCount": "20000+",
+      "pubDate": "Sat, 12 Sep 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvWjKZaxSuv-x-A91ydAbsVtmUN6piOfNj6zoV9AxONd6yFRq_wDGOQRGB48",
+      "pictureSource": "Информационное агентство Хакасия",
+      "relatedSearch": [
+        {
+          "title": "Какая погода ожидает Хакасию после летнего тепла",
+          "snippet": "",
+          "url": "https://19rusinfo.ru/obshchestvo/127350-kakaya-pogoda-ozhidaet-khakasiyu-posle-letnego-tepla",
+          "source": "Информационное агентство Хакасия"
+        },
+        {
+          "title": "До +29°: ближайшие дни в Хакасии будут по-летнему теплыми",
+          "snippet": "",
+          "url": "https://ctv7.ru/news/obschestvo/do-29-blizhajshie-dni-v-hakasii-budut-po-letnemu-teplymi.html",
+          "source": "Медиагруппа \"Юг Сибири\""
+        },
+        {
+          "title": "Осенняя жара в Хакасии и на юге Красноярского края: погреемся ли 11 сентября? Прогноз от синоптиков",
+          "snippet": "",
+          "url": "https://shansonline.ru/index.php/novosti/item/42295-osennyaya-zhara-v-khakasii-i-na-yuge-krasnoyarskogo-kraya-pogreemsya-li-11-sentyabrya-prognoz-ot-sinoptikov",
+          "source": "Шанс.Регион"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "волна похолодания",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 12 Sep 2026 20:20:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "газ",
+      "trafficCount": "500+",
+      "pubDate": "Sat, 12 Sep 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5P4HnKFGQeyuJBv0iwyeUxMm8kamxfm839kJjBiF40BULvjwDGb6eiSnj1vw",
+      "pictureSource": "Економічна правда",
+      "relatedSearch": [
+        {
+          "title": "Газ из Канады в Украину: Нафтогаз планирует маршрут через Балтию",
+          "snippet": "",
+          "url": "https://epravda.com.ua/rus/energetika/kanadskiy-gaz-mogut-postavlyat-v-ukrainu-825565/",
+          "source": "Економічна правда"
+        },
+        {
+          "title": "Нафтогаз и канадская Kino Aski LNG проработают поставки сжиженного газа из Канады",
+          "snippet": "",
+          "url": "https://biz.liga.net/energy/news/neftegaz-i-kanadskaya-kino-aski-lng-prorabotayut-postavki-szhizhennogo-gaza-iz-kanady",
+          "source": "LIGA.net"
+        },
+        {
+          "title": "\"Нафтогаз\" подписал меморандум с Kino Aski LNG о потенциальных поставках канадского сжиженного газа",
+          "snippet": "",
+          "url": "https://ru.interfax.com.ua/news/economic/1203149.html",
+          "source": "Інтерфакс-Україна"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "benzină",
+      "trafficCount": "200+",
+      "pubDate": "Sat, 12 Sep 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKl3an-BLokB8pcbHj3FxU1sUzZN58aCrHB9YPuwBSq_H1ls3UNL-tPuq0dsg",
+      "pictureSource": "Adevărul",
+      "relatedSearch": [
+        {
+          "title": "Benzina a ajuns la peste 7 euro pe litru în Sankt Petersburg. Revolta unei rusoaice: „Este ora unu noaptea. În față mai sunt 60 de mașini”",
+          "snippet": "",
+          "url": "https://adevarul.ro/stiri-externe/rusia/benzina-a-ajuns-la-peste-7-euro-pe-litru-in-sankt-2557122.html",
+          "source": "Adevărul"
+        },
+        {
+          "title": "O țară enormă care importă 95% din combustibilii săi din Rusia a intrat într-o criză fără precedent: „E practic imposibil să găsești benzină”",
+          "snippet": "",
+          "url": "https://hotnews.ro/o-tara-enorma-care-importa-95-din-combustibilii-sai-din-rusia-a-intrat-intr-o-criza-fara-precedent-e-practic-imposibil-sa-gasesti-benzina-2343665",
+          "source": "HotNews.ro"
+        },
+        {
+          "title": "„Stai 5 ore și nu reușești să alimentezi”. Criză de benzină la Perm după un atac cu drone",
+          "snippet": "",
+          "url": "https://moldova1.md/p/84664/-stai-5-ore-si-nu-reusesti-sa-alimentezi--criza-de-benzina-la-perm-dupa-un-atac-cu-drone",
+          "source": "Moldova 1"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "сандерленд – арсенал",
+      "trafficCount": "100+",
+      "pubDate": "Sat, 12 Sep 2026 12:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-qhr-Pb_rTV-rM7yaB14cSUMNKzj8ld7SC0Lmgnte-lnmrj91x_kdqu2xMuE",
+      "pictureSource": "https://www.championat.ru/",
+      "relatedSearch": [
+        {
+          "title": "«Это неприемлемо». Артета — о судействе в матче с «Сандерлендом»",
+          "snippet": "",
+          "url": "https://www.championat.ru/football/news-6618690-eto-nepriemlemo-arteta-o-sudejstve-v-matche-s-sanderlendom.html",
+          "source": "https://www.championat.ru/"
+        },
+        {
+          "title": "Пресс-конференция Микеля Артеты после победы над «Сандерлендом»",
+          "snippet": "",
+          "url": "https://fc-arsenal.com/poslematchevye-kommentarii/press-konferenciya-mikelya-artety-posle-pobedy-nad-sanderlendom",
+          "source": "FC-Arsenal.com."
+        },
+        {
+          "title": "Соперник Сабаха продолжает свое доминирование в АПЛ",
+          "snippet": "",
+          "url": "https://azerisport.com/ru/football/20260913100241332-Sopernik-Sabakha-prodolzhaet-svoe-dominirovanie-v-APL.html",
+          "source": "Azerisport.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "реал мадрид – райо вальекано",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 12 Sep 2026 11:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSByLFTnHayw7ReSAFUDV2Qxr9x8a1sUmWbY5mdTGPqKLkF3xqVdKQV3o9Q3xI",
+      "pictureSource": "https://www.championat.ru/",
+      "relatedSearch": [
+        {
+          "title": "«Реал» славно покуражился! Мбаппе догнал Рафинью, а игру сделала неочевидная связка",
+          "snippet": "",
+          "url": "https://www.championat.ru/football/article-6618350-real-madrid-rajo-valekano-4-1-obzor-matcha-la-ligi-12-sentyabrya-2026-goly-kilian-mbappe-alvaro-karreras-dzhud-bellingem.html",
+          "source": "https://www.championat.ru/"
+        },
+        {
+          "title": "«Реал» разгромил «Райо Вальекано», Мбаппе оформил дубль и отдал голевую передачу",
+          "snippet": "",
+          "url": "https://www.sport-express.net/football/spain/news/real-rayo-valekano-schet-i-rezultat-matcha-la-ligi-12-sentyabrya-mbappe-zabil-dubl-i-otdal-assist-2454738/",
+          "source": "sport-express.net"
+        },
+        {
+          "title": "\"Когда-то команда поплатится\": Моуринью указал на проблемы Реала после победы над Райо Вальекано",
+          "snippet": "",
+          "url": "https://www.ua-football.com/foreign/spain/1789279407-kogda-to-komanda-poplatitsya-mourinyu-ukazal-na-problemy-reala-posle-pobedy-nad-rayo-valekano.html",
+          "source": "UA-Football"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "real madrid - rayo",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 12 Sep 2026 11:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQUG9ALWIdXPuQAWeAR2VArPbX2M4tQQpLPiCi-A1I52nkgm3CsOe_PyhxNf8",
+      "pictureSource": "Bolavip",
+      "relatedSearch": [
+        {
+          "title": "Kylian Mbappé le empató un récord a James Rodríguez con Real Madrid en solo 17 minutos",
+          "snippet": "",
+          "url": "https://bolavip.com/laliga/kylian-mbappe-le-empato-un-record-a-james-rodriguez-con-real-madrid-en-solo-17-minutos",
+          "source": "Bolavip"
+        },
+        {
+          "title": "El Arsenal gana todos sus partidos, el Real Madrid golea al Rayo Vallecano.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/es/arsenal-toan-thang-real-madrid-thang-dam-rayo-vallecano",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Diomande se estrena como titular con el Madrid y vuelven Bernardo, Rüdiger y Carreras",
+          "snippet": "",
+          "url": "https://holanews.com/diomande-se-estrena-como-titular-con-el-madrid-y-vuelven-bernardo-rudiger-y-carreras/",
+          "source": "HolaNews"
         }
       ],
       "link": "https://imtaqin.id/"
