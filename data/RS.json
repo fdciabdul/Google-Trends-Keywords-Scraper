@@ -1,52 +1,220 @@
 {
-  "lastUpdate": "2026-09-18 04:33:11",
+  "lastUpdate": "2026-09-18 09:09:52",
   "data": [
     {
-      "title": "кошарка",
+      "title": "погода",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 17 Sep 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxEiH0dPNFuNhL3itIE3ACAEZYn9R6ofTa94utYP3K31euiWgxbBigTFoNrkg",
+      "pictureSource": "Vesty.co.il",
+      "relatedSearch": [
+        {
+          "title": "Дождь идет на севере и в центре Израиля",
+          "snippet": "",
+          "url": "https://www.vesty.co.il/main/article/pjvugc6v7",
+          "source": "Vesty.co.il"
+        },
+        {
+          "title": "Дожди в Израиле ожидаются местами до вечера пятницы - NEWSru.co.il",
+          "snippet": "",
+          "url": "https://www.newsru.co.il/israel/18sep2026/rains_117.html",
+          "source": "NEWSru.co.il"
+        },
+        {
+          "title": "Погода в Израиле резко изменится к Йом-Кипуру",
+          "snippet": "",
+          "url": "https://cursorinfo.co.il/israel-news/pogoda-v-izraile-rezko-izmenitsya-k-jom-kipuru/",
+          "source": "Cursorinfo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vremenska prognoza beograd",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 17 Sep 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65Yn_hF5dZhSrzf1LPmmfv8VDV_j1FN7vwOsOjDOaGV0_7PB4iGusZYRY56w",
+      "pictureSource": "Blic",
+      "relatedSearch": [
+        {
+          "title": "(Mape) U naredna dva sata pljuskovi i grmljavina: Oglasio se RHMZ",
+          "snippet": "",
+          "url": "https://www.blic.rs/vremenska-prognoza/mape-u-naredna-dva-sata-pljuskovi-i-grmljavina-oglasio-se-rhmz/gl508tr",
+          "source": "Blic"
+        },
+        {
+          "title": "Od pljuskova do 32°C, pa drastičan pad: Pogledajte detaljnu vremensku prognozu za narednih sedam dana",
+          "snippet": "",
+          "url": "https://www.euronews.rs/srbija/drustvo/243282/detaljna-vremenska-prognoza-do-25-septembra/vest",
+          "source": "Euronews.rs"
+        },
+        {
+          "title": "Noćas kiša u delovima zemlje, sutra promenljivo oblačno vreme",
+          "snippet": "",
+          "url": "https://www.danas.rs/vesti/drustvo/veceras-kisa-promenljivo-oblacno-vreme/",
+          "source": "Danas"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 17 Sep 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0nf74L3qQ8rAUqWkZlovxB_fcOL1479HybR1JFs22SRKfVdgfF4cAC0A-SW4",
+      "pictureSource": "The Irish Times",
+      "relatedSearch": [
+        {
+          "title": "Weekend weather: largely dry with scattered showers",
+          "snippet": "",
+          "url": "https://www.irishtimes.com/ireland/2026/09/18/weekend-weather-largely-dry-with-scattered-showers/",
+          "source": "The Irish Times"
+        },
+        {
+          "title": "Mixed conditions expected in Cork on Thursday",
+          "snippet": "",
+          "url": "https://www.echolive.ie/corknews/arid-41912092.html",
+          "source": "echo live"
+        },
+        {
+          "title": "‘Drier and more settled’ weather into next week as Met Éireann forecasts calm conditions",
+          "snippet": "",
+          "url": "https://www.independent.ie/weather/drier-and-more-settled-weather-into-next-week-as-met-eireann-forecasts-calm-conditions/a/161628069.html",
+          "source": "Irish Independent"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "wetter",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 17 Sep 2026 22:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzKCO8okSnHAFiclpnZkopj9F3PqPr-utQpBGrOwxj2sR-J4vg3IBpOJCYcN4",
+      "pictureSource": "IMTEST",
+      "relatedSearch": [
+        {
+          "title": "Wetter-Apps im Check: Welche am zuverlässigsten warnt",
+          "snippet": "",
+          "url": "https://www.imtest.de/sport-freizeit/wetter-apps-check-unwetter-warnungen-zuverlaessig/420496",
+          "source": "IMTEST"
+        },
+        {
+          "title": "Herbstwetter? Fehlanzeige! Am Wochenende wird es warm und sonnig in Karlsruhe",
+          "snippet": "",
+          "url": "https://www.ka-news.de/karlsruhe/stadtgespraech/wetter-karlsruhe-samstag-wird-sonnig-september-bisher-ueberdurchschnittlich-warm-115277659",
+          "source": "ka-news"
+        },
+        {
+          "title": "Viel Sonne in Karlsruhe bis zum Wochenende – Regen ab Sonntag erwartet",
+          "snippet": "",
+          "url": "https://www.ka-news.de/karlsruhe/wetter-karlsruhe-viel-sonne-und-24-grad-regen-ab-sonntag-114902832",
+          "source": "ka-news"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vrijeme",
       "trafficCount": "200+",
+      "pubDate": "Thu, 17 Sep 2026 21:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrYNy26p3VUqDvYP-KxWgkqiSHe3R5OrmpnDx5ApGco5WPQPZDnto6bjjt4yI",
+      "pictureSource": "6yka",
+      "relatedSearch": [
+        {
+          "title": "Nedim Sladić najavio pauzu i novu prognozu za kraj septembra",
+          "snippet": "",
+          "url": "https://6yka.com/bih/nedim-sladic-najavio-pauzu-i-novu-prognozu-za-kraj-septembra/",
+          "source": "6yka"
+        },
+        {
+          "title": "Šta nam donosi KALENDARSKA JESEN: Novo zahlađenje i moguće temperature ispod prosjeka",
+          "snippet": "",
+          "url": "https://www.blink.ba/sta-nam-donosi-kalendarska-jesen-novo-zahladjenje-i-moguce-temperature-ispod-prosjeka/",
+          "source": "BLINK.ba"
+        },
+        {
+          "title": "Sladić upozorava: Kiša neće spasiti BiH od hidrološke suše",
+          "snippet": "",
+          "url": "https://srpskacafe.com/2026/09/hidroloska-susa-bih-kraj-septembra-sladic/",
+          "source": "Srpskacafe"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vremenska prognoza novi sad",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 17 Sep 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWi3TbgpY_a2jPI0S613h3urJXxaWMcyFKUyiAmltxJ1fEwoB9_U7n6P8L-Zw",
+      "pictureSource": "Радио-телевизија Војводине",
+      "relatedSearch": [
+        {
+          "title": "Sunčano i toplije, do 27 stepeni",
+          "snippet": "",
+          "url": "https://rtv.rs/sr_lat/vojvodina/servisne-informacije/suncano-i-toplije-do-27-stepeni_1743567.html",
+          "source": "Радио-телевизија Војводине"
+        },
+        {
+          "title": "RHMZ: U Novom Sadu danas sunčano i do 29°C, evo šta nas čeka do kraja sedmice",
+          "snippet": "",
+          "url": "https://www.mojnovisad.com/rhmz-u-novom-sadu-danas-suncano-i-do-29c-evo-sta-nas-ceka-do-kraja-sedmice/",
+          "source": "Moj Novi Sad"
+        },
+        {
+          "title": "U Novom Sadu i sutra do 30 stepeni",
+          "snippet": "",
+          "url": "https://naslovi.net/2026-09-16/radio-021/u-novom-sadu-i-sutra-do-30-stepeni/42366175",
+          "source": "Naslovi.net"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "кошарка",
+      "trafficCount": "500+",
       "pubDate": "Thu, 17 Sep 2026 20:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlIj9Qpzqw3tv_aQWg5yakQrgQ2wvJwrTOA90KknVGCjUYvXMfFDZGrrYK5t0",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2ASv6fPJQYwgcfi4hHPsuoZjbrfEKxhaDRiuf3Cns_jlJU4Exefr55uw5ydA",
       "pictureSource": "Sportklub",
       "relatedSearch": [
         {
-          "title": "Sterling Braun: Bilo je teško ostati profesionalac u Partizanu",
+          "title": "Janakopulos: Navijam za Partizan, želeo sam da uložim u taj klub",
           "snippet": "",
-          "url": "https://sportklub.rs/kosarka/euroleague/sterling-braun-o-partizanu-potpuni-haos-bilo-tesko-ostati-profesionalac/",
+          "url": "https://sportklub.rs/kosarka/euroleague/dimitris-janakopulos-zeljko-obradovic-nikolpartizan-panatinaikos-intervju/",
           "source": "Sportklub"
         },
         {
-          "title": "Braun: \"Bilo je psihološki teško u Partizanu – postoji jedan put kada je haos oko vas\"",
+          "title": "“Volim Partizan, hteo sam da uložim u vreme Duleta, ali...” Janokopulos o Srbiji, Jokiću i neočekivanim herojima: Smrtno sam ozbiljan za Nikolu",
           "snippet": "",
-          "url": "https://www.b92.net/sport/kosarka/euroleague/268179/sterling-braun-progovorio-o-prosloj-sezoni-u-partizanu/vest",
-          "source": "B92"
+          "url": "https://sportal.blic.rs/prica/janakopulos-hteo-sad-kupim-partizan-kumara-zavrsava-jokica-2026091808405877500",
+          "source": "Sportal.rs"
         },
         {
-          "title": "\"Bilo je baš svega...\" Sterling Braun o haotičnoj sezoni Partizana: U Beogradu su se dešavale stvari koje nemaju veze sa košarkom",
+          "title": "Janakopulos hteo da uloži u KK Partizan: \"Bilo je razgovora...\"",
           "snippet": "",
-          "url": "https://sportal.blic.rs/prica/sterling-brown-o-haoticnoj-sezoni-u-partizanu-2026091620230422911",
-          "source": "Sportal.rs"
+          "url": "https://nova.rs/sport/kosarka/janakopulos-hteo-da-ulozi-u-kk-partizan-bilo-je-razgovora/",
+          "source": "Nova.rs"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "референдум",
-      "trafficCount": "100+",
+      "trafficCount": "500+",
       "pubDate": "Thu, 17 Sep 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQttbpyTrxR9a9-HWQC4PV2dasY-cqAyhxl9j2KnweLuGh0pbKZXDYm4XY4wiA",
-      "pictureSource": "Интерфакс Россия",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGe21W0Ab_3wCsE3LDc55JCHPFj1GrENixPKNJrFHjuAXYO3ItggIaUACuTsE",
+      "pictureSource": "АМИ \"Новости-Армения\"",
       "relatedSearch": [
         {
-          "title": "Лавров: Россия не намерена спонсировать членство Армении в ЕС",
+          "title": "«Не вижу, как Армения может оказаться в ЕС»: Лавров привел в пример Турцию и Сербию",
           "snippet": "",
-          "url": "https://www.interfax-russia.ru/main/lavrov-rossiya-ne-namerena-sponsirovat-chlenstvo-armenii-v-es",
-          "source": "Интерфакс Россия"
+          "url": "https://newsarmenia.am/news/armenia/-ne-vizhu-kak-armeniya-mozhet-okazatsya-v-es-lavrov-privel-v-primer-turtsiyu-i-serbiyu/",
+          "source": "АМИ \"Новости-Армения\""
         },
         {
-          "title": "«Самая высокая точка в истории»: Пашинян об уровне отношений Армения-ЕС",
+          "title": "В бундестаге призвали ЕС не ставить Армению перед выбором между Европой и РФ",
           "snippet": "",
-          "url": "https://newsarmenia.am/news/armenia/samaya-vysokaya-tochka-v-istorii-pashinyan-ob-urovne-otnoshenii-armeniya-es/",
-          "source": "АМИ \"Новости-Армения\""
+          "url": "https://news.am/ru/news/1062382",
+          "source": "NEWS.am"
         },
         {
           "title": "Пашинян заявил об отсутствии предмета для референдума о выборе Арменией ЕС или ЕАЭС",
@@ -59,7 +227,7 @@
     },
     {
       "title": "дакота џонсон",
-      "trafficCount": "100+",
+      "trafficCount": "200+",
       "pubDate": "Thu, 17 Sep 2026 15:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRraUT2pOyax1DDqtE6LHm2lPmrQ86maz0u4MwKbNVIBfI-KyAEeG-Gkkdexcs",
       "pictureSource": "Nova.rs",
@@ -87,7 +255,7 @@
     },
     {
       "title": "епидемија",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Thu, 17 Sep 2026 14:50:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdDJiBufVqw_UiNdzwFJzTp6kqyzqvRqmQNLiPElljsFGj8DFRIobk2PoQeGQ",
       "pictureSource": "Nova.rs",
@@ -109,155 +277,6 @@
           "snippet": "",
           "url": "https://srpskikompas.rs/un-epidemija-ebole-i-dalje-ogromna-vrhunac-jos-nije-dostignut/",
           "source": "Srpski kompas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "dušan vlahović",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 17 Sep 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4lFmri7gi4KX2EUBjoKA6aEBuSc1ooPkAy1q4n4Kogr9DjtpFoT4YaCHfNKI",
-      "pictureSource": "Mozzart Sport",
-      "relatedSearch": [
-        {
-          "title": "Delirijum u Istanbulu: Ovi ljudi nemaju ništa svetije od Bešiktaša, Marselj razbijen u paramparčad",
-          "snippet": "",
-          "url": "https://www.mozzartsport.com/fudbal/vesti/delirijum-u-istanbulu-ovi-ljudi-nemaju-nista-svetije-od-besiktasa-marselj-razbijen-u-paramparcad/554178",
-          "source": "Mozzart Sport"
-        },
-        {
-          "title": "(VIDEO) Bešiktaš sjajan protiv Marseja, Vlahović bez učinka",
-          "snippet": "",
-          "url": "https://sportklub.rs/fudbal/europa-league/dusan-vlahovic-slab-besiktas-pobedio-marsej-41/",
-          "source": "Sportklub"
-        },
-        {
-          "title": "\"Poker\", a nigde Dušana Vlahovića: Bešiktaš pregazio Marsej u derbiju Lige Evrope /VIDEO/",
-          "snippet": "",
-          "url": "https://sportal.blic.rs/prica/besiktas-marseille-liga-evrope-vlahovic-2026091716220942115",
-          "source": "Sportal.rs"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "18. септембар",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 17 Sep 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdWT4buPPrELpy2lQxMR818vS0bjuIqi2CQwP6nPqJvIaZOzWC0rq-ZgZEEGw",
-      "pictureSource": "Zadovoljna.rs",
-      "relatedSearch": [
-        {
-          "title": "Dnevni horoskop za 18. septembar: Ribe, preuzmite inicijativu u susretu sa voljenom osobom",
-          "snippet": "",
-          "url": "https://zadovoljna.nova.rs/astro/dnevni-horoskop-za-18-septembar-ribe-preuzmite-inicijativu-u-susretu-sa-voljenom-osobom/",
-          "source": "Zadovoljna.rs"
-        },
-        {
-          "title": "Дневни хороскоп за петак, 18. септембар: Ваге да посебно обрате пажњу на документa, Бикове очекује изненађење од драге особе",
-          "snippet": "",
-          "url": "https://www.dnevnik.rs/magazin/najnovije-vesti/dnevni-horoskop-za-petak-18-septembar-vage-da-posebno-obrate-paznju-na-dokumenta-bikove-ocekuje-iznenadjenje-od-drage-osobe-2026-09-17",
-          "source": "www.dnevnik.rs"
-        },
-        {
-          "title": "ДАН - Horoskop za 18. septembar: Lav osvaja bez mnogo truda, Ribe ulaze u novu ljubavnu priču",
-          "snippet": "",
-          "url": "https://www.dan.co.me/magazin/astro/horoskop-za-18-septembar-lav-osvaja-bez-mnogo-truda-ribe-ulaze-u-novu-ljubavnu-pricu/",
-          "source": "Dan"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "временска прогноза",
-      "trafficCount": "100+",
-      "pubDate": "Thu, 17 Sep 2026 13:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3CfrAYZkeR1t7om5KA_oJ35KKyB8i9PvM-Mq26gccw2_fNp9b3Y5FPgs-w9g",
-      "pictureSource": "Politika",
-      "relatedSearch": [
-        {
-          "title": "Сунчано и топло, до 32 степена, крајем дана краткотрајна киша",
-          "snippet": "",
-          "url": "https://www.politika.rs/scc/clanak/786046/suncano-i-toplo-do-32-stepena-krajem-dana-kratkotrajna-kisa",
-          "source": "Politika"
-        },
-        {
-          "title": "Свеже јутро, топао дан – могући локални пљускови",
-          "snippet": "",
-          "url": "https://www.rts.rs/vesti/vreme/6042696/sveze-jutro-topao-dan--moguci-lokalni-pljuskovi.html",
-          "source": "РТС"
-        },
-        {
-          "title": "Danas pretežno sunčano i toplije",
-          "snippet": "",
-          "url": "https://www.danas.rs/vesti/drustvo/danas-pretezno-suncano-i-toplije-4/",
-          "source": "Danas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "жена",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 17 Sep 2026 12:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "бешикташ – марсељ",
-      "trafficCount": "500+",
-      "pubDate": "Thu, 17 Sep 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0bmeUySyQnCikp7wmPpQlxXqnDpsulrcxUqmYfTprNdGbKFafwVJP_tpmP74",
-      "pictureSource": "Sports.kz",
-      "relatedSearch": [
-        {
-          "title": "Разгромом обернулся матч «Бешикташ» — «Марсель» в Лиге Европы",
-          "snippet": "",
-          "url": "https://www.sports.kz/news/razgromom-obernulsya-match-beshiktash-marsel-v-lige-evropyi",
-          "source": "Sports.kz"
-        },
-        {
-          "title": "ЛЕ. Орлы разнесли именитого представителя Лиги 1. Бешикташ – Марсель. Обзор матча",
-          "snippet": "",
-          "url": "https://www.ua-football.com/foreign/europa_league/1789694304-le-orly-raznesli-imenitogo-predstavitelya-ligi-1-beshiktash-marsel-obzor-matcha.html",
-          "source": "UA-Football"
-        },
-        {
-          "title": "Бешикташ – Марсель прогноз 17 сентября 2026 года и ставки на матч Лиги Европы",
-          "snippet": "",
-          "url": "https://meta-ratings.kz/prognozy/futbol/beshiktash-marsel-prognoz-i-stavki-na-match-ligi-evropy-17-sentyabrya-2026-goda/",
-          "source": "Meta-ratings.kz"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city vs norwich city",
-      "trafficCount": "200+",
-      "pubDate": "Thu, 17 Sep 2026 11:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMKAUl2E7Cgvf4HwzcJ2JFBW3QWj5gVJUPC62dyrShOyNrqKKO5xx_yzIpF9A",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score & radio commentary",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cmlyjl6qdw6et",
-          "source": "BBC"
-        },
-        {
-          "title": "Man City Debut New 17-Year-Old Goal Hero on Erling Haaland’s Night Off",
-          "snippet": "",
-          "url": "https://forzafootball.com/news/man-city-debut-new-17-year-old-goal-hero-on-erling-haalands-night-off-159451138",
-          "source": "Forza Football"
-        },
-        {
-          "title": "Man City teenager Floyd Samba scores 2 goals in 5-0 win over Norwich in League Cup",
-          "snippet": "",
-          "url": "https://infonews.ca/news/7877152/man-city-teenager-floyd-samba-scores-2-goals-in-5-0-win-over-norwich-in-league-cup/",
-          "source": "iNFOnews.ca"
         }
       ],
       "link": "https://imtaqin.id/"
