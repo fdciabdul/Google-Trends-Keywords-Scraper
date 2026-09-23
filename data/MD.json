@@ -1,30 +1,151 @@
 {
-  "lastUpdate": "2026-09-23 00:58:05",
+  "lastUpdate": "2026-09-23 05:37:51",
   "data": [
+    {
+      "title": "погода",
+      "trafficCount": "5000+",
+      "pubDate": "Tue, 22 Sep 2026 21:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmibO_MhXX4udMvQHkRZuy-im8Fjoirb2s2Gn4z7hqgwgSR2OcTiFZQrIfdDc",
+      "pictureSource": "Росбалт",
+      "relatedSearch": [
+        {
+          "title": "Сухой вторник и дождливая среда: какая погода ждет Петербург в ближайшие дни",
+          "snippet": "",
+          "url": "https://www.rosbalt.ru/news/2026-09-22/suhoy-vtornik-i-dozhdlivaya-sreda-kakaya-pogoda-zhdet-peterburg-v-blizhayshie-dni-5688471",
+          "source": "Росбалт"
+        },
+        {
+          "title": "Пропавший Петербург — большой фоторепортаж «Фонтанки»",
+          "snippet": "",
+          "url": "https://www.fontanka.ru/2026/09/22/76655216/",
+          "source": "ФОНТАНКА.ру"
+        },
+        {
+          "title": "Циклон над Белоруссией принесет в Петербург облака и туман",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/72449157/",
+          "source": "Погода Mail"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "meteo",
+      "trafficCount": "2000+",
+      "pubDate": "Tue, 22 Sep 2026 20:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 22 Sep 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRum_4Z2E3Ejj6qMM-u3zR3xS9v5WIcR-Iu3C81a4LsWjETXAE-tTUIJXKqzxc",
+      "pictureSource": "FOX 8 News",
+      "relatedSearch": [
+        {
+          "title": "Stay out of Lake Erie through Wednesday",
+          "snippet": "",
+          "url": "https://fox8.com/news/stay-out-of-lake-erie-through-wednesday/",
+          "source": "FOX 8 News"
+        },
+        {
+          "title": "Northeast Ohio Weather: Showers in the area",
+          "snippet": "",
+          "url": "https://www.cleveland19.com/2026/09/23/northeast-ohio-weather-showers-area/",
+          "source": "Cleveland 19 News"
+        },
+        {
+          "title": "Dreary start to the workweek, coolest stretch since May",
+          "snippet": "",
+          "url": "https://www.news5cleveland.com/weather/dreary-start-to-the-workweek-coolest-stretch-since-may",
+          "source": "News 5 Cleveland WEWS"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "отопление",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SAVo4EfVyB0pD1L_Z1-jRtEVF4i6Fgt3WAj4FI2406mfTE-VQeAxLd767YM",
+      "pictureSource": "Новости Беларуси | БелТА",
+      "relatedSearch": [
+        {
+          "title": "Когда включат отопление в Минске",
+          "snippet": "",
+          "url": "https://belta.by/regions/view/modernizatsija-kotelnyh-i-remont-teplosetej-kak-minsk-podgotovilsja-k-zime-802075-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "Когда включат отопление в Беларуси в 2026 году: новые правила",
+          "snippet": "",
+          "url": "https://smartpress.by/news/zhdat-pyati-kholodnykh-dney-bolshe-ne-budut-kogda-v-belarusi-vklyuchat-otoplenie/",
+          "source": "Smartpress.by"
+        },
+        {
+          "title": "Когда начнут включать отопление? Коммунальники назвали главное условие",
+          "snippet": "",
+          "url": "https://news.zerkalo.io/life/136907.html",
+          "source": "Zerkalo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "топливо",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 22 Sep 2026 18:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6zi2_C_bx9CH8s3lyKErvpR3b2Zju-r-4gB9FkSdJdFUj7Ij8hs-aScqUFa0",
+      "pictureSource": "The Insider",
+      "relatedSearch": [
+        {
+          "title": "Трамп собирается запретить экспорт дизельного топлива из США",
+          "snippet": "",
+          "url": "https://theins.ru/news/297400",
+          "source": "The Insider"
+        },
+        {
+          "title": "Власти США рассматривают возможность запрета на экспорт дизельного топлива",
+          "snippet": "",
+          "url": "https://finance.mail.ru/article/vlasti-ssha-rassmatrivayut-vozmozhnost-zapreta-na-eksport-dizelnogo-topliva-69229077/",
+          "source": "Финансы Mail"
+        },
+        {
+          "title": "Трамп выступил за запрет экспорта дизельного топлива из США",
+          "snippet": "",
+          "url": "https://www.finam.ru/publications/item/tramp-vystupil-za-zapret-eksporta-dizelnogo-topliva-iz-ssha-20260922-2211/",
+          "source": "Финам"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "gaz",
       "trafficCount": "500+",
       "pubDate": "Tue, 22 Sep 2026 03:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZehALuvVxIKlZz2fb0B04lXGbwQybUw8mAGb4lXiCQWzblINf9yQZrn-YbZ8",
-      "pictureSource": "Les Echos",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8ZdXOmVinYvl-rurbI-swSqMFmEGVNB-eGFWV1ER2w-MBDRFUOFrLjBx7WS4",
+      "pictureSource": "JDN",
       "relatedSearch": [
         {
-          "title": "« Le piège des trois verrous se referme » : « L'Europe au bord d'un nouveau choc énergétique »",
+          "title": "Les prix du gaz vont exploser : une seule offre permet de les bloquer dès aujourd'hui pendant trois ans",
           "snippet": "",
-          "url": "https://www.lesechos.fr/idees-debats/cercle/le-piege-des-trois-verrous-se-referme-leurope-au-bord-dun-nouveau-choc-energetique-2252824",
-          "source": "Les Echos"
+          "url": "https://www.journaldunet.com/management/id/1555249-gaz/",
+          "source": "JDN"
         },
         {
-          "title": "Du détroit d’Ormuz aux raffineries russes, ce « cumul de difficultés » qui pourrait prolonger la flambée du diesel",
+          "title": "Régularisation de charges à Paris en 2026 : faire rejeter la facture sans décompte ni justificatifs et récupérer vos provisions",
           "snippet": "",
-          "url": "https://www.leparisien.fr/international/du-detroit-dormuz-aux-raffineries-russes-ce-cumul-de-difficultes-qui-pourrait-prolonger-la-flambee-du-diesel-22-09-2026-5GZBV45W5VHTVLC2LOPYX2G5OM.php",
-          "source": "Le Parisien"
+          "url": "https://kohenavocats.fr/2026/09/22/regularisation-charges-paris-rejeter-facture-decompte-justificatifs-recuperer-provisions-2026/",
+          "source": "Kohen Avocats"
         },
         {
-          "title": "Le gaz naturel recule sur fond d’espoirs diplomatiques au Moyen-Orient",
+          "title": "Hausse du prix du gaz : la BCE pessimiste",
           "snippet": "",
-          "url": "https://agefi.com/actualites/marches/le-gaz-naturel-recule-sur-fond-despoirs-diplomatiques-au-moyen-orient",
-          "source": "Agefi.com"
+          "url": "https://www.lerevenu.com/reussir-bourse/avis-des-pros/hausse-du-prix-du-gaz-la-bce-pessimiste/",
+          "source": "Le Revenu"
         }
       ],
       "link": "https://imtaqin.id/"
