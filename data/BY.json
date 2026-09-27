@@ -1,9 +1,37 @@
 {
-  "lastUpdate": "2026-09-27 06:49:34",
+  "lastUpdate": "2026-09-27 12:31:11",
   "data": [
     {
+      "title": "новости",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 27 Sep 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxRYud8BseRBtDgY8o_eJFjII4RupZRWGteSCiXJOlmr-MYjvyv01zfwPyn0",
+      "pictureSource": "CTV.by",
+      "relatedSearch": [
+        {
+          "title": "В Минске завершился официальный визит парламентской делегации Пакистана | Политика",
+          "snippet": "",
+          "url": "https://ctv.by/news/politika/oficialnyj-vizit-parlamentskoj-delegacii-pakistana-v-minsk-zavershen",
+          "source": "CTV.by"
+        },
+        {
+          "title": "Пакистан заинтересован в сотрудничестве с Беларусью в сфере высоких медицинских технологий",
+          "snippet": "",
+          "url": "https://belta.by/economics/view/pakistan-zainteresovan-v-sotrudnichestve-s-belarusjju-v-sfere-vysokih-meditsinskih-tehnologij-802852-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "Белорусско-пакистанские связи являются примером долгосрочного партнерства – Вадим Ипатов",
+          "snippet": "",
+          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2026/september/95151/",
+          "source": "Национальный правовой Интернет-портал Республики Беларусь"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
       "title": "электромобиль",
-      "trafficCount": "200+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 26 Sep 2026 22:40:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQir3hmc58oAksXlkGWFL06D_UAgG_7MxbDuJ-tDohKrHAiovOm4bIGoh5yOBo",
       "pictureSource": "av.by",
@@ -67,43 +95,6 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "опасность",
-      "trafficCount": "200+",
-      "pubDate": "Sat, 26 Sep 2026 21:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB8-TRT_fUc3cY1FJgTODs_El9-5mMeSux0xZ2t9TQyxhQxUy71Ofcfu4rezQ",
-      "pictureSource": "ОНТ",
-      "relatedSearch": [
-        {
-          "title": "Бабье лето и золотая осень: Дмитрий Рябов рассказал о погоде на неделю с 28 сентября по 4 октября",
-          "snippet": "",
-          "url": "https://ont.by/ru/novosti-pogody-ru/view/babje-leto-i-zolotaja-osen-dmitrij-rjabov-rasskazal-o-pogode-na-nedelju-s-28-sentjabrja-po-4-oktjabrja-326154-2026/",
-          "source": "ОНТ"
-        },
-        {
-          "title": "До +21°С и преимущественно без осадков будет сегодня в Беларуси",
-          "snippet": "",
-          "url": "https://belta.by/society/view/do-21s-i-preimuschestvenno-bez-osadkov-budet-segodnja-v-belarusi-803037-2026/",
-          "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Погода в Беларуси 27 сентября: местами пройдут кратковременные дожди",
-          "snippet": "",
-          "url": "https://www.gismeteo.by/news/klimat/pogoda-v-belarusi-27-fevralya-mestami-projdut-kratkovremennye-dozhdi/",
-          "source": "Gismeteo"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "какой сегодня праздник",
-      "trafficCount": "500+",
-      "pubDate": "Sat, 26 Sep 2026 21:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "национальная сборная беларуси по футболу",
       "trafficCount": "2000+",
       "pubDate": "Sat, 26 Sep 2026 21:00:00 -0700",
@@ -117,27 +108,33 @@
           "source": "Smartpress.by"
         },
         {
-          "title": "Футболисты Бларуси уступили албанцам в Лиге наций УЕФА",
+          "title": "Виктор Ганчаренко: \"Если Селява не попросил бы замену, Шуманский бы вышел. Оценивать Барковского сложно\"",
+          "snippet": "",
+          "url": "https://football.by/news/224689",
+          "source": "Football.by"
+        },
+        {
+          "title": "Футболисты Беларуси уступили албанцам в Лиге наций УЕФА",
           "snippet": "",
           "url": "https://belta.by/sport/view/futbolisty-blarusi-ustupili-albantsam-v-lige-natsij-uefa-803034-2026/",
           "source": "Новости Беларуси | БелТА"
-        },
-        {
-          "title": "Цена грубых ошибок. Сборная Беларуси проиграла на старте Лиги наций",
-          "snippet": "",
-          "url": "https://sport.onliner.by/2026/09/27/cena-grubyx-oshibok-sbornaya-belarusi-proigrala-na-starte-ligi-nacij",
-          "source": "Onlíner"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "воздвижение креста господня",
-      "trafficCount": "2000+",
+      "trafficCount": "5000+",
       "pubDate": "Sat, 26 Sep 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_n_b2TLvfeM76Kzp3qjJeNJsf8bBEawPg7gcPHwJRqrncof85TNm8CxOnUo",
-      "pictureSource": "Слава працы",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9FrXs6Ja9qn4mPbTdh7pUuA_Kw3I9C4EQ5C4fN4nC7fIOmPIR42t83OjOIHE",
+      "pictureSource": "ВФокусе Mail",
       "relatedSearch": [
+        {
+          "title": "Календарь на 27 сентября: праздники, фаза Луны, знак зодиака, именины и дни рождения знаменитостей",
+          "snippet": "",
+          "url": "https://vfokuse.mail.ru/news/69644718-kalendar-na-27-sentyabrya-prazdniki-faza-lunyi-znak-zodiaka-imeninyi-i-dni-rozhdeniya-znamenitostej/",
+          "source": "ВФокусе Mail"
+        },
         {
           "title": "Воздвижение Креста Господня 2026: дата, традиции, строгие запреты и народные приметы",
           "snippet": "",
@@ -149,12 +146,6 @@
           "snippet": "",
           "url": "https://www.sb.by/articles/krestyane-i-kapusta.html",
           "source": "СБ Беларусь"
-        },
-        {
-          "title": "27 сентября: народные приметы и традиции, что нельзя и можно делать",
-          "snippet": "",
-          "url": "https://newsgomel.by/news/kalendar/27-sentyabrya-narodnye-primety-i-traditsii-chto-nelzya-i-mozhno-delat_229569.html",
-          "source": "Новости гомель"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -163,15 +154,9 @@
       "title": "субботник",
       "trafficCount": "500+",
       "pubDate": "Sat, 26 Sep 2026 20:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9u6YtmouPG3O_VPuJCVINEVCwzmovr_7gDkIChezJLQyiIeiq_kassS1_JOc",
-      "pictureSource": "Tochka.by",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFU1QexliaYca-MRmwCZ1RqW-rFcO8xT1BhARxiYMaCjyFKRl6lpso4jPuECM",
+      "pictureSource": "Zerkalo",
       "relatedSearch": [
-        {
-          "title": "Может ли работник отказаться от участия в субботнике – ответ однозначный",
-          "snippet": "",
-          "url": "https://tochka.by/articles/life/mozhet_li_rabotnik_otkazatsya_ot_uchastiya_v_subbotnike_otvet_odnoznachnyy_/",
-          "source": "Tochka.by"
-        },
         {
           "title": "Беларусу пригрозили наказанием за отказ идти на субботник. В профсоюзе объяснили, законно ли это",
           "snippet": "",
@@ -179,38 +164,44 @@
           "source": "Zerkalo"
         },
         {
-          "title": "Дамбу от мусора очистили хабаровчане (ФОТО)",
+          "title": "Может ли работник отказаться от участия в субботнике – ответ однозначный, и не тот, что вы подумали",
           "snippet": "",
-          "url": "https://www.dvnovosti.ru/khab/2026/09/26/197699/",
-          "source": "Новости Хабаровска"
+          "url": "https://virtualbrest.ru/news192985.php",
+          "source": "Виртуальный Брест"
+        },
+        {
+          "title": "Осенняя перезагрузка: в Хабаровске прошёл общегородской субботник",
+          "snippet": "",
+          "url": "https://amurmedia.ru/news/2633117/",
+          "source": "AmurMedia"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "украина",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Sat, 26 Sep 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBmXEyXJcCLh4DDA44s-tK8rwAzV6lumKiOafJsXmTVh0EZ6kPadl1giLsa9w",
-      "pictureSource": "Новости Беларуси | БелТА",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jswRJTCF7jykKPHHVUimHWL8eimATlyemK7Aj9RObiALgHaep2oZbx2-hI4",
+      "pictureSource": "Дзен",
       "relatedSearch": [
         {
-          "title": "Рыженков: Беларусь готова и дальше делать все возможное для скорейшего мира в Украине",
+          "title": "Вот и начало конца. Армия России не оставила шансов Зеленскому: на Украине грядет самая страшная ночь",
           "snippet": "",
-          "url": "https://belta.by/politics/view/ryzhenkov-belarus-gotova-i-dalshe-delat-vse-vozmozhnoe-dlja-skorejshego-mira-v-ukraine-803025-2026/",
-          "source": "Новости Беларуси | БелТА"
+          "url": "https://dzen.ru/a/arfB-B3rUSfrnLZw",
+          "source": "Дзен"
         },
         {
-          "title": "Рыженков в ООН: доверие между государствами сегодня находится на самой нижней точке со времен холодной войны",
+          "title": "Путин готовится устроить \"страшную\" зиму в Украине: разведка назвала города под угрозой — что известно",
           "snippet": "",
-          "url": "https://www.sb.by/articles/ryzhenkov-v-oon-doverie-mezhdu-gosudarstvami-segodnya-nakhoditsya-na-samoy-nizhney-tochke-so-vremen-.html",
-          "source": "СБ Беларусь"
+          "url": "https://tsn.ua/ru/exclusive/putin-gotovitsya-ustroit-strashnuyu-zimu-v-ukraine-razvedka-nazvala-goroda-pod-ugrozoy-chto-izvestno-3175967.html",
+          "source": "ТСН"
         },
         {
-          "title": "Белорусская делегация продолжает работу в Нью‑Йорке, где проходит неделя высокого уровня",
+          "title": "РФ может усилить атаки на критическую инфраструктуру: Гордон назвал возможные цели в Киеве",
           "snippet": "",
-          "url": "https://ont.by/ru/policy-ru/view/belorusskaja-delegatsija-prodolzhaet-rabotu-v-njjujorke-gde-proxodit-nedelja-vysokogo-urovnja-326159-2026/",
-          "source": "ОНТ"
+          "url": "https://antikor.info/ru/articles/865647-rf_mohet_usilitj_ataki_na_kriticheskuju_infrastrukturu_gordon_nazval_vozmohnye_tseli_v_kieve",
+          "source": "АНТИКОР"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -219,26 +210,54 @@
       "title": "сергей лавров",
       "trafficCount": "100+",
       "pubDate": "Sat, 26 Sep 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzWl2laewohQTObfh8iOJ9paQf8Gk0lr8RoKZK8O4w2IbrCkgOE44r8YFSv5E",
-      "pictureSource": "DW.com",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6dcnm8D1uuYi9sDc0YcCJPdph8VkwXbwJy3irQv9vyr7_IsQ8-EtNjjeYmlo",
+      "pictureSource": "Ведомости",
       "relatedSearch": [
         {
-          "title": "Вадефуль призвал к деэскалации на встрече с Лавровым - первых переговорах глав МИД РФ и ФРГ с 2022 года",
+          "title": "Лавров: Россия доведет спецоперацию до конца",
           "snippet": "",
-          "url": "https://www.dw.com/ru/vadeful-prizval-k-deeskalacii-na-vstrece-s-lavrovym-pervyh-peregovorah-glav-mid-rf-i-frg-s-2022-goda/a-79446111",
-          "source": "DW.com"
+          "url": "https://www.vedomosti.ru/politics/news/2026/09/26/1232109-rossiya-dovedet-spetsoperatsiyu",
+          "source": "Ведомости"
         },
         {
-          "title": "О встрече Министра иностранных дел Российской Федерации С.В.Лаврова с Министром иностранных дел Федеративной Республики Германии Й.Вадефулем - Министерство иностранных дел Российской Федерации",
+          "title": "Лавров: Европа делает все для срыва переговоров по Украине",
           "snippet": "",
-          "url": "https://mid.ru/ru/foreign_policy/news/2149793/",
-          "source": "Министерство иностранных дел России"
+          "url": "https://belta.by/special/world/view/lavrov-evropa-delaet-vse-dlja-sryva-peregovorov-po-ukraine-803014-2026/",
+          "source": "Новости Беларуси | БелТА"
         },
         {
-          "title": "Встреча Лаврова с главой МИД ФРГ в Нью-Йорке продлилась 22 минуты",
+          "title": "Лавров обвинил Запад во взращивании русофобского режима на Украине",
           "snippet": "",
-          "url": "https://www.interfax.ru/world/1118673",
-          "source": "Интерфакс"
+          "url": "https://rtvi.com/news/lavrov-obvinil-zapad-vo-vzrashhivanii-rusofobskogo-rezhima-na-ukraine/",
+          "source": "RTVI"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "октября",
+      "trafficCount": "2000+",
+      "pubDate": "Sat, 26 Sep 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpXa2RIdKvwW9-OJg2D8yPvmJdaqr6WoeeGrsIsVzFDfFCtaPsZNzOwC9mjtg",
+      "pictureSource": "Новости Беларуси | БелТА",
+      "relatedSearch": [
+        {
+          "title": "Сочетание золотой осени и бабьего лета. Чего ждать от погоды на следующей неделе",
+          "snippet": "",
+          "url": "https://belta.by/society/view/sochetanie-zolotoj-oseni-i-babjego-leta-chego-zhdat-ot-pogody-na-sledujuschej-nedele-803047-2026/",
+          "source": "Новости Беларуси | БелТА"
+        },
+        {
+          "title": "Бабье лето и золотая осень: Дмитрий Рябов рассказал о погоде на неделю с 28 сентября по 4 октября",
+          "snippet": "",
+          "url": "https://ont.by/ru/novosti-pogody-ru/view/babje-leto-i-zolotaja-osen-dmitrij-rjabov-rasskazal-o-pogode-na-nedelju-s-28-sentjabrja-po-4-oktjabrja-326154-2026/",
+          "source": "ОНТ"
+        },
+        {
+          "title": "Дожди продлятся до понедельника, потом потеплеет",
+          "snippet": "",
+          "url": "https://people.onliner.by/2026/09/25/potepleet-i-prekratyatsya-dozhdi",
+          "source": "Onlíner"
         }
       ],
       "link": "https://imtaqin.id/"
