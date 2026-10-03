@@ -1,30 +1,86 @@
 {
-  "lastUpdate": "2026-10-03 08:18:21",
+  "lastUpdate": "2026-10-03 13:30:12",
   "data": [
+    {
+      "title": "такси",
+      "trafficCount": "1000+",
+      "pubDate": "Sat, 3 Oct 2026 01:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTHYUHMoc61XdUhoGgGLVXtBUp_cSURvfdeNLswdHVKriLb_vsW4vWZDdpzg8",
+      "pictureSource": "Media.az",
+      "relatedSearch": [
+        {
+          "title": "В Баку резко подорожало такси: стоимость поездок выросла втрое",
+          "snippet": "",
+          "url": "https://media.az/society/poezdka-za-3-manata-stala-stoit-9-chto-proishodit-s-taksi-v-baku",
+          "source": "Media.az"
+        },
+        {
+          "title": "В Баку запретили \"манатные такси\": как будет решена проблема с транспортом?",
+          "snippet": "",
+          "url": "https://baku.ws/ru/obschestvo/v-baku-zapretili-manatnye-taksi-kak-budet-reshena-problema-s-transportom",
+          "source": "Baku.ws"
+        },
+        {
+          "title": "В Баку убрали \"манатные такси\": пассажиры часами не могут доехать домой - ВИДЕО",
+          "snippet": "",
+          "url": "https://news.day.az/society/1863923.html",
+          "source": "Day.Az"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "погода",
       "trafficCount": "2000+",
       "pubDate": "Fri, 2 Oct 2026 20:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqasRB9rlmkKWO-vvSHUlVleyUV9TmRaIBG2CXnKExmAV3TmJar3G08rF5zZI",
-      "pictureSource": "1News.az",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLpmDjR_cziQVbXsfryZtNnkoR6RyaXHPUTEPy7dqvS5WVaRCO4Yb64rcwRxg",
+      "pictureSource": "Caliber.Az",
       "relatedSearch": [
         {
-          "title": "В Губе и Гусаре идет снег - ВИДЕО",
+          "title": "В Узбекистане резко похолодает — пойдет снег - ФОТО",
           "snippet": "",
-          "url": "https://1news.az/news/20261003095105984-V-Gube-i-Gusare-idet-sneg-VIDEO",
-          "source": "1News.az"
+          "url": "https://caliber.az/post/v-uzbekistane-rezko-poholodaet-pojdet-sneg",
+          "source": "Caliber.Az"
         },
         {
-          "title": "В Баку месячная норма осадков уже превышена на 10% - Фактическая погода",
+          "title": "Прогноз погоды на 3 и 4 октября во всех регионах Узбекистана",
           "snippet": "",
-          "url": "https://vesti.az/prognoz-pogody/v-baku-mesyacnaya-norma-osadkov-uze-prevysena-na-10-fakticeskaya-pogoda-618561",
-          "source": "Vesti.az"
+          "url": "https://uz.kursiv.media/2026-10-03/prognoz-pogody-na-3-i-4-oktyabrya/",
+          "source": "Kursiv Media"
         },
         {
-          "title": "В Шахдаге выпал снег",
+          "title": "Прогноз погоды на день 3 октября",
           "snippet": "",
-          "url": "https://media.az/society/v-shahdage-vypal-sneg-1068111916",
-          "source": "Media.az"
+          "url": "https://yuz.uz/ru/news/prognoz-pogod-na-den-3-oktyabrya-",
+          "source": "yuz.uz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hava durumu",
+      "trafficCount": "5000+",
+      "pubDate": "Fri, 2 Oct 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWuaHOymEQLjDQHfRhj-HM_nffLHGLU9nHQxId00UYceyIw0KN7K477hfIdUY",
+      "pictureSource": "Bursa Saati Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Bursa’da yağmur başladı: İş çıkışında hava nasıl olacak?",
+          "snippet": "",
+          "url": "https://www.bursasaati.com.tr/bursada-yagmur-basladi-is-cikisinda-hava-nasil-olacak",
+          "source": "Bursa Saati Gazetesi"
+        },
+        {
+          "title": "Bursa’da sonbahar kendini gösterecek! Yağmur ve poyraz...",
+          "snippet": "",
+          "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-sonbahar-kendini-gosterecek-yagmur-ve-poyraz-1721882",
+          "source": "Bursa Hakimiyet"
+        },
+        {
+          "title": "Bursa'da cumartesi günü parçalı bulutlu hava hakim olacak",
+          "snippet": "",
+          "url": "https://www.sozbursa.com/bursa/bursa-da-cumartesi-gunu-parcali-bulutlu-hava-hakim-olacak-346688",
+          "source": "Söz Bursa"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -49,9 +105,9 @@
           "source": "Canlı Gaste"
         },
         {
-          "title": "Bugün hava nasıl olacak? İl il hava durumu (02.10.2026)",
+          "title": "Bugün hava nasıl olacak? İl il hava durumu (03.10.2026)",
           "snippet": "",
-          "url": "https://abcgazetesi.com.tr/gundem/bugun-hava-nasil-olacak-il-il-hava-durumu-02-10-2026-872712",
+          "url": "https://abcgazetesi.com.tr/gundem/bugun-hava-nasil-olacak-il-il-hava-durumu-03-10-2026-872797",
           "source": "ABC Haber"
         }
       ],
@@ -61,20 +117,20 @@
       "title": "fransa - italya",
       "trafficCount": "200+",
       "pubDate": "Fri, 2 Oct 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHtOpRmRPvQcvvAAKJL_TsSON65gy4uYilZOEzByIY3B0OmoqiGS4zATR7J90",
-      "pictureSource": "A Spor",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qvZmjfhxwahhZ0CW3cIumdQ1jyUTWfKPM-J6tg8sdFHniYFL3Hg6oNFBFCI",
+      "pictureSource": "Goal.com",
       "relatedSearch": [
         {
-          "title": "Fransa ile İtalya yenişemedi!",
+          "title": "Mbappe ve Konate'nin ardından: Fransa kampından bir isim daha ayrıldı",
           "snippet": "",
-          "url": "https://www.aspor.com.tr/uluslar-ligi/2026/10/02/fransa-ile-italya-yenisemedi",
-          "source": "A Spor"
+          "url": "https://www.goal.com/tr/haber/mbappe-ve-konate-nin-ardindan-bir-oyuncu-daha-fransa-kampindan-ayrildi/blt56c0004a801b5108",
+          "source": "Goal.com"
         },
         {
-          "title": "Zidane, Mbappe'nin yokluğunda silahlarını açıklıyor; İtalya ise hücum üçlüsüyle risk alıyor",
+          "title": "Zinedine Zidane, İtalya ile berabere kaldıktan sonra neden hayal kırıklığına uğradığını açıkladı",
           "snippet": "",
-          "url": "https://www.goal.com/tr/haber/zidane-mbappe-nin-yoklugunda-silahlarini-acikliyor-italya-ise-hucum-uclusuyle-risk-aliyor/bltb58367a1e3fd4b63",
-          "source": "Goal.com"
+          "url": "https://zamin.uz/tr/spor/223415-zinedine-zidane-italya-ile-berabere-kaldiktan-sonra-neden-hayal-kirikligina-ugradigini-acikladi.html",
+          "source": "Zamin.uz"
         },
         {
           "title": "Fransa'ya İtalya freni. Edin Dzeko'dan buruk veda. 38'lik Lewandowski'den Romanya'ya hat-trick",
@@ -89,20 +145,20 @@
       "title": "франция – италия",
       "trafficCount": "500+",
       "pubDate": "Fri, 2 Oct 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPXDj6Yx4TRCcvytJGJFFpuFqmQTZwBM6eP-8uyhzUnZkd6s8Jgst8B-VcRU",
-      "pictureSource": "Евро-Футбол.Ру",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPDg2m7CVbCAkRwdrlubfWRXBfcHtC3PFgB3Ojf1q-PbLpZ0m5Ws-JpAMjJRA",
+      "pictureSource": "Operativ Məlumat Mərkəzi",
       "relatedSearch": [
         {
-          "title": "Доннарумма: «Рад вернуться в Париж»",
+          "title": "Доннарумма назвал особенным возвращение в Париж",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/1003876948/1006329671_donnarumma_rad_vernutsya_v_parij",
-          "source": "Евро-Футбол.Ру"
+          "url": "https://operativmm.az/ru/post/donnarumma-nazval-osobennym-vozvrashchenie-v-parizh/80750",
+          "source": "Operativ Məlumat Mərkəzi"
         },
         {
-          "title": "Франция и Италия сыграли вничью в Лиге наций",
+          "title": "Франция и Италия не выявили победителя в матче Лиги наций",
           "snippet": "",
-          "url": "https://operativmm.az/ru/post/frantsiya-i-italiya-sygrali-vnichyu-v-lige-natsiy/80745",
-          "source": "Operativ Məlumat Mərkəzi"
+          "url": "https://media.az/sports/franciya-i-italiya-ne-vyyavili-pobeditelya-v-matche-ligi-nacij",
+          "source": "Media.az"
         },
         {
           "title": "Эффектный гол Олисе",
@@ -117,7 +173,7 @@
       "title": "бельгия – турция",
       "trafficCount": "200+",
       "pubDate": "Fri, 2 Oct 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkrr8liJGt0BHcqxGcrpa_f_EfTM2JEI8KiXsVSSvReV3qLEJ8eYm8_fed5KE",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvrkuYGu3fnhvsI10rf_pC_CvGm_HOcsNYMc6DjFIjeRJ-KkvDlozDPnsHBJ4",
       "pictureSource": "Axar.Az",
       "relatedSearch": [
         {
@@ -127,16 +183,16 @@
           "source": "Axar.Az"
         },
         {
-          "title": "Сборная Бельгии разгромила Турцию в матче 3-го тура Лиги наций",
+          "title": "Разгромом завершился матч Бельгия - Турция в Лиге наций",
           "snippet": "",
-          "url": "https://media.az/sports/sbornaya-belgii-razgromila-turciyu-v-matche-3-go-tura-ligi-nacij",
-          "source": "Media.az"
+          "url": "https://vesti.kz/national/razgromom-zavershilsya-match-belgiya-turtsiya-v-lige-natsiy-388923/",
+          "source": "Vesti.kz"
         },
         {
-          "title": "Лукаку и де Брёйне отметились уникальным совместным достижением",
+          "title": "«Такие игры случаются». Тренер сборной Турции Монтелла — о поражении от команды Бельгии",
           "snippet": "",
-          "url": "https://www.euro-football.ru/article/1003876948/1006329670_lukaku_i_de_breyne_otmetilis_unikalnyim_sovmestnyim_dostijeniem",
-          "source": "Евро-Футбол.Ру"
+          "url": "https://www.championat.ru/football/news-6642732-takie-igry-sluchayutsya-trener-sbornoj-turcii-montella-o-porazhenii-ot-komandy-belgii.html",
+          "source": "https://www.championat.ru/"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -145,15 +201,9 @@
       "title": "belçika - türkiye",
       "trafficCount": "1000+",
       "pubDate": "Fri, 2 Oct 2026 11:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2MEakAFr1-l6pxdkxUMfLcNZmR1PIsAbaHcQfAFSVfZ-VUlMZwLSsy5MMXbU",
-      "pictureSource": "Transfermarkt",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_3yvUXi1umS9bsUm5wVpOWC8uLe92IlXLWPZzi1HlRh3EuiP_JRMoFiRhK70",
+      "pictureSource": "Fotomaç",
       "relatedSearch": [
-        {
-          "title": "Türkiye’nin Belçika maçı kadrosu belli oldu - Can Uzun dahil 8 isim listede yok",
-          "snippet": "",
-          "url": "https://www.transfermarkt.com.tr/turkiyenin-belcika-maci-kadrosu-belli-oldu-can-uzun-dahil-8-isim-listede-yok/view/news/488201",
-          "source": "Transfermarkt"
-        },
         {
           "title": "Kabus sürüyor! Belçika’dan da elimiz boş döndük",
           "snippet": "",
@@ -161,10 +211,16 @@
           "source": "Fotomaç"
         },
         {
-          "title": "Yüzümüz yine gülmedi! Uluslar Ligi'nde Milliler, Belçika'dan puansız döndü",
+          "title": "Belçika'da da Montella istifa sesleri! Gurbetçiler isyan etti",
           "snippet": "",
-          "url": "https://www.aspor.com.tr/uluslar-ligi/2026/10/02/yuzumuz-yine-gulmedi-milliler-belcikadan-puansiz-dondu",
-          "source": "A Spor"
+          "url": "https://www.sozcu.com.tr/belcika-da-da-montella-istifa-sesleri-gurbetciler-isyan-etti-p365647",
+          "source": "Sözcü"
+        },
+        {
+          "title": "Kevin De Bruyne, Mark van Bommel hakkında son derece açık konuştu: “Bu teknik direktörün futbolu...”",
+          "snippet": "",
+          "url": "https://www.goal.com/tr/haber/kevin-de-bruyne-mark-van-bommel-hakkinda-son-derece-acik-konustu-bu-milli-takim-teknik-direktorunun-futbolu/blte0805df5f6ab07e8",
+          "source": "Goal.com"
         }
       ],
       "link": "https://imtaqin.id/"
