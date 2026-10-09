@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2026-10-09 00:24:38",
+  "lastUpdate": "2026-10-09 06:26:15",
   "data": [
+    {
+      "title": "hava",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 8 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-GS_KNZaC9CVzg34KTd4afcvFHK8T2MInta_EZgvQCy_a8ManiBMjIL5amo",
+      "pictureSource": "Boyoz Haber",
+      "relatedSearch": [
+        {
+          "title": "Meteoroloji'den sağanak ve sis uyarısı: İzmir'de hava nasıl olacak?",
+          "snippet": "",
+          "url": "https://dokuzeylul.com/meteorolojiden-saganak-ve-sis-uyarisi-izmirde-hava-nasil-olacak",
+          "source": "Boyoz Haber"
+        },
+        {
+          "title": "İzmir'de sıcaklıklar yükseliyor: Hafta sonu 33 dereceyi görecek",
+          "snippet": "",
+          "url": "https://www.gazeteyenigun.com.tr/haber/28945666/izmirde-sicakliklar-yukseliyor-hafta-sonu-33-dereceyi-gorecek",
+          "source": "Yenigün Gazetesi"
+        },
+        {
+          "title": "İzmir’de bugün hava parçalı bulutlu: En yüksek 28 derece - 09.10.2026",
+          "snippet": "",
+          "url": "https://www.canligaste.com/izmir-de-bugun-hava-parcali-bulutlu-en-yuksek-28-derece-09-10-2026/922953/",
+          "source": "Canlı Gaste"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hava durumu",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 8 Oct 2026 20:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSut2FpdDOE7KgG5tNsrKFO0A37cN8ru-CWUfkionxy-5LnqvCn-lD6LAstAwA",
+      "pictureSource": "Yeniçağ Gazetesi",
+      "relatedSearch": [
+        {
+          "title": "Meteoroloji son tahminini yayımladı: Yağmur, sis ve sıcak hava aynı anda geliyor",
+          "snippet": "",
+          "url": "https://www.yenicaggazetesi.com/meteoroloji-son-tahminini-yayimladi-yagmur-sis-ve-sicak-hava-ayni-anda-geliyor-1079970h.htm",
+          "source": "Yeniçağ Gazetesi"
+        },
+        {
+          "title": "Yaz havasından sonra sağanak geliyor: Pazartesi giriş yapacak, tüm yurda yayılacak",
+          "snippet": "",
+          "url": "https://www.ntv.com.tr/gundem/galeri-yaz-havasindan-sonra-saganak-geliyor-pazartesi-giris-yapacak-tum-yurda-yayilacak-1745487",
+          "source": "NTV Haber"
+        },
+        {
+          "title": "10 il için sağanak yağış uyarısı",
+          "snippet": "",
+          "url": "https://www.diken.com.tr/10-il-icin-saganak-yagis-uyarisi-4/",
+          "source": "Diken"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "gemini",
       "trafficCount": "1000+",
@@ -21,10 +77,10 @@
           "source": "Reuters"
         },
         {
-          "title": "What Is Going on With Alphabet Stock on Thursday?",
+          "title": "Google Workspace Gets AI Agents. What It Means for Alphabet Stock.",
           "snippet": "",
-          "url": "https://www.benzinga.com/markets/tech/26/10/62248420/what-is-going-on-with-alphabet-stock-on-thursday",
-          "source": "Benzinga"
+          "url": "https://www.barrons.com/articles/google-ai-agent-alphabet-stock-400e9d53",
+          "source": "Barron's"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -33,26 +89,26 @@
       "title": "chatgpt",
       "trafficCount": "1000+",
       "pubDate": "Thu, 8 Oct 2026 09:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSem6Y82VbE6pKYwNlhTzzPZnyt2HoQ-r2fAjfgjR4lqxDkrIKzPhvmADnXkA",
-      "pictureSource": "OpenAI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2oeJ9bmn8YZIaAQ4q5HhBjGpTRW5Jqb-5_enim5my0kbAMOhVA2k9XrzZ7TM",
+      "pictureSource": "Reuters",
       "relatedSearch": [
         {
-          "title": "GPT-6 and Intelligent UI for everyone",
+          "title": "OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks grow",
           "snippet": "",
-          "url": "https://openai.com/index/gpt-6-for-everyone/",
+          "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "snippet": "",
+          "url": "https://openai.com/index/teens-learn-and-plan/",
           "source": "OpenAI"
         },
         {
-          "title": "The New ChatGPT Is More Show Than Tell",
+          "title": "A teen account shared suicidal thoughts with ChatGPT. New protections failed",
           "snippet": "",
-          "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-          "source": "WIRED"
-        },
-        {
-          "title": "OpenAI Wants ChatGPT to Stop Looking Like a Chatbot",
-          "snippet": "",
-          "url": "https://gizmodo.com/openai-wants-chatgpt-to-stop-looking-like-a-chatbot-2000823211",
-          "source": "Gizmodo"
+          "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/07/chatgpt-teen-account-safety-features-testing/92133273007/",
+          "source": "USA Today"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -71,10 +127,10 @@
           "source": "Car and Driver"
         },
         {
-          "title": "WRC confirms return to U.S. for 2027",
+          "title": "USA and UK return as WRC confirms landmark 15-round 2027 calendar",
           "snippet": "",
-          "url": "https://racer.com/2026/10/08/wrc-confirms-return-to-u-s-for-2027",
-          "source": "RACER - Racing News"
+          "url": "https://www.wrc.com/en/news/wrc-calendar-2027",
+          "source": "WRC.com"
         },
         {
           "title": "World Rally Championship: Rally Scotland to take place in autumn as 2027 calendar released",
@@ -99,27 +155,18 @@
           "source": "AD HOC NEWS"
         },
         {
-          "title": "Turkish Airlines carries 9m passengers in September",
+          "title": "WSOC 2026 Speech - Mark Searle, IATA Director of Safety",
           "snippet": "",
-          "url": "https://www.tradearabia.com/News/487713/Turkish-Airlines-carries-9m-passengers-in-September",
-          "source": "TradeArabia"
+          "url": "https://www.webwire.com/ViewPressRel.asp?SESSIONID=&aId=362620",
+          "source": "WebWire"
         },
         {
-          "title": "Turkish Airlines boosts September traffic with higher load factors and cargo growth",
+          "title": "Turkish Airlines Hosts IATA World Safety and Operations Conference in Istanbul",
           "snippet": "",
-          "url": "https://www.tipranks.com/news/company-announcements/turkish-airlines-boosts-september-traffic-with-higher-load-factors-and-cargo-growth",
-          "source": "TipRanks"
+          "url": "https://hotelierbuzz.com/turkish-airlines-hosts-iata-world-safety-and-operations-conference-in-istanbul/",
+          "source": "Hotelier Buzz"
         }
       ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "пособие",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 7 Oct 2026 21:00:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
       "link": "https://imtaqin.id/"
     }
   ]
