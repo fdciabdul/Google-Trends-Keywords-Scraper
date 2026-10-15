@@ -1,17 +1,166 @@
 {
-  "lastUpdate": "2026-10-15 01:42:24",
+  "lastUpdate": "2026-10-15 06:27:44",
   "data": [
+    {
+      "title": "погода",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 14 Oct 2026 20:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjKHTxnsjfYqyBz6f3AM55AHnOGyavRc8GJV5jdKoNWZ8BPJVPYx9kABdJCIs",
+      "pictureSource": "Погода Mail",
+      "relatedSearch": [
+        {
+          "title": "Тишковец дал прогноз, сколько продлятся дожди в Москве",
+          "snippet": "",
+          "url": "https://pogoda.mail.ru/news/72727138/",
+          "source": "Погода Mail"
+        },
+        {
+          "title": "Синоптик Позднякова: В четверг в Москве прогнозируются непродолжительные дожди",
+          "snippet": "",
+          "url": "https://www.osnmedia.ru/obshhestvo/sinoptik-pozdnyakova-v-chetverg-v-moskve-prognoziruyutsya-neprodolzhitelnye-dozhdi/",
+          "source": "Общественная служба новостей"
+        },
+        {
+          "title": "Прогноз погоды в Москве с 15 по 19 октября: до плюс 13 и облачно",
+          "snippet": "",
+          "url": "https://www.mos.ru/news/item/177140073/",
+          "source": "Официальный сайт Мэра Москвы"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "hava durumu",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 14 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgkABjqB46myeVisPnzsT48H0HXmA2S2OFtbpBcADdZFYNmw8vqRZg8KWrpoQ",
+      "pictureSource": "Haber Kıbrıs",
+      "relatedSearch": [
+        {
+          "title": "Meteoroloji Dairesi’nden etkili yağış uyarısı",
+          "snippet": "",
+          "url": "https://haberkibris.com/meteoroloji-dairesinden-etkili-yagis-uyarisi-1603-2026-10-13.html",
+          "source": "Haber Kıbrıs"
+        },
+        {
+          "title": "Meteorolojiden 48 il için sarı ve turuncu kodlu uyarı",
+          "snippet": "",
+          "url": "https://www.sozcu.com.tr/meteorolojiden-48-il-icin-sari-ve-turuncu-kodlu-uyari-p369241",
+          "source": "Sözcü Gazetesi"
+        },
+        {
+          "title": "İstanbul’da hava karardı! Beklenen sağanak başladı... Valilikten yeni uyarı",
+          "snippet": "",
+          "url": "https://www.hurriyet.com.tr/gundem/meteoroloji-saat-verdi-saganak-yagis-ve-firtina-etkili-olacak-gunlerce-surecek-istanbul-dahil-bircok-ile-sari-ve-turuncu-yagis-alarmi-43340722",
+          "source": "Hürriyet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 14 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYZ63A0sU6lqrq0EZrOHq9-3_G9drAepazyOpIyh4u4G20iEXEHF342VvjZUU",
+      "pictureSource": "Philenews",
+      "relatedSearch": [
+        {
+          "title": "Hail expected in Thursday storms before weather improves",
+          "snippet": "",
+          "url": "https://en.philenews.com/local/hail-expected-in-thursday-storms-before-weather-improves/",
+          "source": "Philenews"
+        },
+        {
+          "title": "More Rain and Thunderstorms Expected",
+          "snippet": "",
+          "url": "https://en.politis.com.cy/news/cy-news/1052021/rain-and-thunderstorms-tonight-and-tomorrow-conditions-improve-late-in-the-afternoon",
+          "source": "POLITIS - To the point"
+        },
+        {
+          "title": "Thursday forecast: Unsettled weather brings showers and thunderstorms before gradual improvement",
+          "snippet": "",
+          "url": "https://knews.kathimerini.com.cy/en/news/thursday-forecast-unsettled-weather-brings-showers-and-thunderstorms-before-gradual-improvement",
+          "source": "Knews, Kathimerini"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "καιρόσ",
+      "trafficCount": "1000+",
+      "pubDate": "Wed, 14 Oct 2026 20:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZfTQbRhGLYqr4mmtDpKoUNYeYdgTN3nXPhYrKBj0NLkHSr37JSL10UmfqK2E",
+      "pictureSource": "Philenews",
+      "relatedSearch": [
+        {
+          "title": "Σάρωσε την Κύπρο η κακοκαιρία: Δεκάδες κλήσεις στην Πυροσβεστική για βοήθεια",
+          "snippet": "",
+          "url": "https://www.philenews.com/kipros/koinonia/article/1782333/entones-vroches-se-oli-tin-kipro-dekades-klisis-stin-pirosvestiki-gia-voithia-plimmires-ptosis-dentron-ke-diasosi-prosopou-apo-ochima/",
+          "source": "Philenews"
+        },
+        {
+          "title": "Αραδίππου: «Στοίβασε» χιόνι σε σημείο του δρόμου μετά τις έντονες βροχοπτώσεις",
+          "snippet": "",
+          "url": "https://www.sigmalive.com/news/all/1333378/aradippoy-stivase-khioni-se-simio-toy-dromoy-meta-tis-entones-vrokhoptwseis",
+          "source": "Sigmalive"
+        },
+        {
+          "title": "Σαρώνει η κακοκαιρία την Κύπρο – Έντονες βροχοπτώσεις και καταιγίδες σε αρκετές περιοχές(Βίντεο)",
+          "snippet": "",
+          "url": "https://ink.com/articles/664302/saronei-i-kakokairia-tin-kypro-entones-brohoptoseis-kai-kataigides-se-arketes-periohesbinteo",
+          "source": "Ink.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "الطقس",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 14 Oct 2026 20:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjFLqKllHoqUWBvCDUW8Ol-gj02YHbO13z_EDQPqVOyWUMK2HySdk0mnWW1Mg",
+      "pictureSource": "Nature",
+      "relatedSearch": [
+        {
+          "title": "Advancing subseasonal forecasting with machine learning",
+          "snippet": "",
+          "url": "https://www.nature.com/articles/s41586-026-11126-x",
+          "source": "Nature"
+        },
+        {
+          "title": "Researchers improve weather forecasts looking two to six weeks out",
+          "snippet": "",
+          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+          "source": "MIT News"
+        },
+        {
+          "title": "Forget the 10-Day Forecast. AI Just Improved Extreme Weather Warnings Up to 6 Weeks Out",
+          "snippet": "",
+          "url": "https://gizmodo.com/forget-the-10-day-forecast-ai-just-improved-extreme-weather-warnings-up-to-6-weeks-2000825560",
+          "source": "Gizmodo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "времето",
+      "trafficCount": "100+",
+      "pubDate": "Wed, 14 Oct 2026 19:40:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "uefa champions league",
       "trafficCount": "500+",
       "pubDate": "Wed, 14 Oct 2026 13:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAR9Dk6_b53KOVvJSjfVAfgByrt93fGn5eVDCsWbtmTBFcFWIrzL18Wp3s8X8",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Hnb6LbJoofL3L83E-qPmugrLmgO73o6WJwC8Xs9mT7rew1pkuKG9aeNhsp8",
       "pictureSource": "Reuters Connect",
       "relatedSearch": [
         {
           "title": "Licensable picture: Shakhtar Donetsk v AEK Athens - UEFA Champions League",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/shakhtar-donetsk-v-aek-athens-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwWFZIQTFN",
+          "url": "https://www.reutersconnect.com/item/shakhtar-donetsk-v-aek-athens-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwWFZIQTBa",
           "source": "Reuters Connect"
         },
         {
@@ -30,79 +179,23 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "real madrid",
+      "title": "μεταρρύθμιση",
       "trafficCount": "500+",
       "pubDate": "Wed, 14 Oct 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJFz1d80lLClJv38B74hgQu1xAYoxxfwJUGaWg9Anzecn1lgm66tDHZia1JQk",
-      "pictureSource": "Sports Illustrated",
-      "relatedSearch": [
-        {
-          "title": "Vinícius Jr. responde a los silbidos con una promesa: “Volveré, recuerda mis palabras”",
-          "snippet": "",
-          "url": "https://www.si.com/es-us/vinicius-jr-responde-a-los-silbidos-con-una-promesa-volvere-recuerda-mis-palabras",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Licensable video: Mourinho, sobre el anuncio de la sanción a Vinícius: \"Se hacen cosas sin vergüenza ya\"",
-          "snippet": "",
-          "url": "https://www.reutersconnect.com/item/mourinho-sobre-el-anuncio-de-la-sancion-a-vinicius-se-hacen-cosas-sin-verguenza-ya/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MjIwMDcwMDE",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "LaLiga: Cuatro partidos de sanción para Vinicius, que se pierde el Clásico vs Barcelona",
-          "snippet": "",
-          "url": "https://grupoanimal.mx/deportes/laliga-cuatro-partidos-sancion-vinicius-clasico-real-madrid-vs-barcelona",
-          "source": "Grupo Animal"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "psg",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 14 Oct 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3_S19oABSpT_nBIy6Pt11qsZZlyuVccIxel0lWZn4aY2YOtr_AYyH9I3Ywg",
-      "pictureSource": "Ouest-France",
-      "relatedSearch": [
-        {
-          "title": "Ligue des champions. Le PSG s’impose largement contre Manchester City au terme d’un choc spectaculaire",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/direct/direct-manchester-city-psg-suivez-le-match-du-paris-saint-germain-en-ligue-des-champions-en-live-77bf51fd-2ce2-40a6-89ea-227a773dffdd",
-          "source": "Ouest-France"
-        },
-        {
-          "title": "Ligue des champions : La composition de Paris pour le choc face à Manchester City !",
-          "snippet": "",
-          "url": "https://www.canalplus.com/articles/sports/ligue-des-champions-la-composition-de-paris-pour-le-choc-face-a-manchester-city",
-          "source": "CANAL+"
-        },
-        {
-          "title": "️[2J-C1] Daniel Riolo : « Les Parisiens ne sont toujours pas rassasiés, ils ont tabassé City » (RMC Sport)",
-          "snippet": "",
-          "url": "https://www.lestitisdupsg.fr/a-la-une/%F0%9F%8E%99%EF%B8%8F2j-c1-daniel-riolo-les-parisiens-ne-sont-toujours-pas-rassasies-ils-ont-tabasse-city-rmc-sport/",
-          "source": "Les Titis du PSG"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "μεταρρύθμιση",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 14 Oct 2026 12:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPnrJfJWCC4resmQul_i3ePLuuILrf7I12jnZJa4h43HAejvsIVocDvR2wyiI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJq5QYMuPKw4Z5jk4rGIFGRiS6uZnU6hwxXN-L7bX8zv5-cQdxOpVfI_shZNg",
       "pictureSource": "Philenews",
       "relatedSearch": [
         {
-          "title": "Μέχρι 50% η αύξηση για τα χαμηλά εισοδήματα",
+          "title": "Συντάξεις: Αυξήσεις από 2 ευρώ μέχρι 50% – Δείτε αναλυτικά τα παραδείγματα του Υπουργείου Εργασίας",
           "snippet": "",
-          "url": "https://www.philenews.com/oikonomia/kypros/article/1782185/idou-i-afxisis-stis-sintaxis-meta-ti-metarrithmisi/",
+          "url": "https://www.philenews.com/oikonomia/kypros/article/1782238/sintaxis-afxisis-apo-2-evro-mechri-50-ta-paradigmata-tou-ipourgiou-ergasias/",
           "source": "Philenews"
         },
         {
-          "title": "Συνταξιοδοτικό: Ευχάριστη έκπληξη από Μουσιούττα στους κοινωνικούς εταίρους για το νομοσχέδιο",
+          "title": "Συντάξεις: Τι δείχνουν οι αριθμοί της μεταρρύθμισης",
           "snippet": "",
-          "url": "https://www.philenews.com/oikonomia/kypros/article/1781295/sintaxiodotiko-efcharisti-ekplixi-apo-mousioutta-stous-kinonikous-eterous-gia-to-nomoschedio/",
-          "source": "Philenews"
+          "url": "https://www.stockwatch.com.cy/el/news/sintakseis-ti-dikhnoyn-oi-arithmi-tis-metarrythmisis",
+          "source": "www.stockwatch.com.cy"
         },
         {
           "title": "Οι εκκρεμότητες στο συνταξιοδοτικό, Η ΚΑΘΗΜΕΡΙΝΗ - mobile",
@@ -114,157 +207,57 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "aston villa vs fenerbahçe",
-      "trafficCount": "200+",
-      "pubDate": "Wed, 14 Oct 2026 12:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_OyeLWzQVTddjA6a9gXg4BhR6F_-dEf6GIf2OHowOTH_VXfwN9dsS03nK7AM",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Man City suffer as PSG masterclass sets up Champions League win",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cxj0l2ylnv7yt",
-          "source": "BBC"
-        },
-        {
-          "title": "Man City 2-4 PSG: Erling Haaland scores twice but Enzo Maresca's side suffer first defeat of season in front of Pep Guardiola",
-          "snippet": "",
-          "url": "https://www.skysports.com/football/news/13598859/man-city-2-4-psg-erling-haaland-scores-twice-but-enzo-marescas-side-suffer-first-defeat-of-season-in-front-of-pep-guardiola",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Manchester City 2-4 Paris Saint-Germain: Champions League – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
-          "source": "The Guardian"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "trt1 canlı",
+      "title": "real madrid",
       "trafficCount": "1000+",
-      "pubDate": "Wed, 14 Oct 2026 12:00:00 -0700",
-      "picture": "",
-      "pictureSource": "Reuters Connect",
+      "pubDate": "Wed, 14 Oct 2026 12:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMRsHM64EDLjMO9HqwckUFZ05aMiilCeG5hRpQUn8LFMOg-YzK4FNXKn68x2s",
+      "pictureSource": "Diario AS",
       "relatedSearch": [
         {
-          "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+          "title": "Volvió el Madrid inmortal",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwOFhXSDFT",
+          "url": "https://as.com/futbol/champions/volvio-el-madrid-inmortal-f202610-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Licensable video: Gasperini: \"Está claro que el Madrid estaba desesperado y metió a todos los delanteros\"",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/gasperini-esta-claro-que-el-madrid-estaba-desesperado-y-metio-a-todos-los-delanteros/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MjE5OTgwMDE",
           "source": "Reuters Connect"
+        },
+        {
+          "title": "Courtois: \"Los errores que hemos cometido nos han costado tres goles\"",
+          "snippet": "",
+          "url": "https://es-us.noticias.yahoo.com/deportes/courtois-errores-cometido-costado-goles-230500892.html",
+          "source": "Yahoo"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "aston villa",
+      "title": "psg",
       "trafficCount": "200+",
-      "pubDate": "Wed, 14 Oct 2026 12:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_YXmnoaXgfxRg7HDhAaF9whVxuL_h_Pk1i8i3ZXrRJVEniDakh-XA8UwWICE",
-      "pictureSource": "Sky Sports",
+      "pubDate": "Wed, 14 Oct 2026 12:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuzp0HvnWyTkbETygsho4dUR--YxsaMGm9_UTUT78xNy6UyS9T00WxtK-8U9c",
+      "pictureSource": "Sofascore",
       "relatedSearch": [
         {
-          "title": "Aston Villa vs Fenerbahce LIVE! Champions League score updates, news, prediction and line-ups",
+          "title": "Le blitz du PSG assomme Man City 4-2 en Ligue des champions",
           "snippet": "",
-          "url": "https://www.skysports.com/football/live-blog/13598851/aston-villa-vs-fenerbahce-live-champions-league-score-updates-news-prediction-and-line-ups",
-          "source": "Sky Sports"
+          "url": "https://www.sofascore.com/fr/news/le-blitz-du-psg-assomme-man-city-4-2-en-ligue-des-champions",
+          "source": "Sofascore"
         },
         {
-          "title": "Aston Villa rout Fenerbahce to end home woes",
+          "title": "95 % de passes réussies, une passe décisive, Ayyoub Bouaddi brille face au PSG",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cmp3gj7gz9kwt",
-          "source": "BBC"
+          "url": "https://africafoot.com/ayyoub-bouaddi-brille-face-au-psg-malgre-la-defaite-de-manchester-city-en-ligue-des-champions/",
+          "source": "AfricaFoot"
         },
         {
-          "title": "+)~!^[𝐒𝐓ream]™HERE'S*! WAY TO WATCH Villa v Fenerbahce Live Free UEFA Champions League Football Event",
+          "title": "En vidéo : le Paris Saint-Germain s'empare de Manchester City sous les yeux de Guardiola",
           "snippet": "",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvbGl2ZXNvY2NlcnR2LnhtbCIvPjwva3JwYW5vPg==&id=video-villa-v-fenerbahce-live-tv-363",
-          "source": "Universidad de Córdoba (UCO)"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "fenerbahçe",
-      "trafficCount": "10000+",
-      "pubDate": "Wed, 14 Oct 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8s-GGYZf-J8qRMm5JYtTXXsgj50UC-AYmXRac2tfKvTIyA_PAilIIW7I9u2A",
-      "pictureSource": "Sözcü Gazetesi",
-      "relatedSearch": [
-        {
-          "title": "Aston Villa-Fenerbahçe maçında İsmail Kartal istifa sesleri! Sarı-lacivertli taraftar ağır yenilginin faturasını kesti",
-          "snippet": "",
-          "url": "https://www.sozcu.com.tr/aston-villa-fenerbahce-macinda-ismail-kartal-istifa-sesleri-sari-lacivertli-taraftar-agir-yenilginin-p369238",
-          "source": "Sözcü Gazetesi"
-        },
-        {
-          "title": "Fenerbahçeli yıldızdan transfer açıklaması! Kritik maç öncesi İngiliz basınına konuştu",
-          "snippet": "",
-          "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/fenerbahcede-archie-browndan-transfer-aciklamasi",
-          "source": "Fotomaç"
-        },
-        {
-          "title": "Milan Skriniar: 'Bizim için utanç vericiydi'",
-          "snippet": "",
-          "url": "https://spor.haber7.com/sampiyonlar-ligi/haber/3668109-milan-skriniar-bizim-icin-utanc-vericiydi",
-          "source": "Haber 7"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "man city vs psg",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 14 Oct 2026 11:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiDKY6rYcVoOwKDMeqDOvKpROENr37HnKCQpTPnnfczLLhuVkcNd3MdZ8zg4w",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Manchester City 2-4 Paris Saint-Germain: Champions League – as it happened",
-          "snippet": "",
-          "url": "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Man City 2-4 PSG (Oct 14, 2026) Game Analysis",
-          "snippet": "",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401915407",
-          "source": "ESPN"
-        },
-        {
-          "title": "Man City vs. PSG: Preview, Predictions and Lineups",
-          "snippet": "",
-          "url": "https://www.si.com/soccer/man-city-vs-psg-preview-predictions-lineups-10-14-26",
-          "source": "Sports Illustrated"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "roma vs real madrid",
-      "trafficCount": "1000+",
-      "pubDate": "Wed, 14 Oct 2026 11:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2SJECr2Y5Gm1Wcai3kpN3DP6-E1xsiUROhQHDHLLj7F2HZPpD7eyJ2WhBuic",
-      "pictureSource": "BBC",
-      "relatedSearch": [
-        {
-          "title": "Roma 3-4 Real Madrid: Los Blancos win after stunning late fightback",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cmwyqp5q1lypt",
-          "source": "BBC"
-        },
-        {
-          "title": "On video: De Roon shatters Batistuta's legend at Real Madrid's expense",
-          "snippet": "",
-          "url": "https://www.goal.com/en/news/on-video-de-roon-shatters-batistuta-s-legend-at-real-madrid-s-expense/blt7a24f72314c71d98",
+          "url": "https://www.goal.com/fr/news/en-video-le-paris-saint-germain-s-empare-de-manchester-city-sous-les-yeux-de-guardiola/blt3a498834e427a8ee",
           "source": "Goal.com"
-        },
-        {
-          "title": "Champions League, MD2: Roma vs. Real Madrid",
-          "snippet": "",
-          "url": "https://www.chiesaditotti.com/roma-matchday-coverage/43739/champions-league-md2-roma-vs-real-madrid",
-          "source": "Chiesa Di Totti"
         }
       ],
       "link": "https://imtaqin.id/"
