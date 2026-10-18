@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2026-10-18 16:51:03",
+  "lastUpdate": "2026-10-18 19:01:12",
   "data": [
+    {
+      "title": "incidents",
+      "trafficCount": "500+",
+      "pubDate": "Sun, 18 Oct 2026 10:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxjsOjagQMw2sBAAQV0MwfAwbF2NuTvadgpVVusYJQiP4dl6Q-QoPNrCAzdto",
+      "pictureSource": "Jauns.lv",
+      "relatedSearch": [
+        {
+          "title": "Lietuvā naktī mēģināts aizdedzināt \"Starlink\" noliktavu; sasauc ārkārtas sēdi",
+          "snippet": "",
+          "url": "https://jauns.lv/raksts/arzemes/733840-lietuva-nakti-meginats-aizdedzinat-starlink-noliktavu-sasauc-arkartas-sedi",
+          "source": "Jauns.lv"
+        },
+        {
+          "title": "Acīmredzams Krievijas pirksts: īsi pēc pusnakts Lietuvā noticis vēl viens incidents",
+          "snippet": "",
+          "url": "https://www.la.lv/lietuva-sodien-noticis-vel-viens-incidents-isi-pec-pusnakts-me",
+          "source": "LA.LV"
+        },
+        {
+          "title": "Viļņā mēģināts aizdedzināt telpas, ko izmanto \"SpaceX\"; Lietuva saskata saistību ar Krieviju",
+          "snippet": "",
+          "url": "https://tv3.lv/zinas/arvalstis/vilna-meginats-aizdedzinat-telpas-ko-izmanto-spacex-lietuva-saskata-saistibu-ar-krieviju/",
+          "source": "tv3.lv"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "поезд",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 18 Oct 2026 10:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjcYBbeYil7w10mrWG6XVNeK8J31Z-0mwpRYQiBvwtjvbTbWko_DN9-wsnnUo",
+      "pictureSource": "DELFI",
+      "relatedSearch": [
+        {
+          "title": "В Саласпилсе поезд сбил пешехода, который переходил закрытый железнодорожный переезд",
+          "snippet": "",
+          "url": "https://rus.delfi.lv/57863/criminal/120139006/v-salaspilse-poezd-sbil-peshehoda-kotoryy-perehodil-zakrytyy-zheleznodorozhnyy-pereezd",
+          "source": "DELFI"
+        },
+        {
+          "title": "В Саласпилсе поезд задел пешехода — он в тяжелом состоянии доставлен в больницу / Статья",
+          "snippet": "",
+          "url": "https://rus.lsm.lv/statja/novosti/proisshestvija/18.10.2026-v-salaspilse-poezd-zadel-pesexoda-on-v-tyazelom-sostoyanii-dostavlen-v-bolnicu.a668076/",
+          "source": "LSM"
+        },
+        {
+          "title": "В Саласпилсе поезд сбил человека",
+          "snippet": "",
+          "url": "https://rus.tvnet.lv/8566758/v-salaspilse-poezd-sbil-cheloveka",
+          "source": "rus tvnet"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "вокзал",
       "trafficCount": "100+",
       "pubDate": "Sun, 18 Oct 2026 09:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvDApqA-sZlQ93nHJISlYNMjWeU7An6hcvDrcHZAP9bqmvms5cG1QowitZCw",
-      "pictureSource": "TverNews",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO_NQZoqdQa1xzvXO2Ou9OMlihCBXqSZrgK4lhq0y2sPhxSNRoyWHtknB9kPw",
+      "pictureSource": "https://prokadry.kz/",
       "relatedSearch": [
         {
-          "title": "Появилось видео, как изменился Речной вокзал в Твери в октябре",
+          "title": "В Кокшетау после масштабной реконструкции открыли обновленный железнодорожный вокзал",
           "snippet": "",
-          "url": "https://tvernews.ru/news/339511/",
-          "source": "TverNews"
+          "url": "https://prokadry.kz/kokshe_vokzal_26/",
+          "source": "https://prokadry.kz/"
         },
         {
-          "title": "Как выглядел вокзал Кисловодска в XIX веке и что изменилось за 130 лет",
+          "title": "Дорога перемен: Акмолинская область задает новые стандарты пассажирских перевозок",
           "snippet": "",
-          "url": "https://stavropol.media/news/2650704/",
-          "source": "Stavropol.Media"
+          "url": "https://www.nur.kz/society/2440696-doroga-peremen-akmolinskaya-oblast-zadaet-novye-standarty-passazhirskih-perevozok/",
+          "source": "NUR.KZ"
         },
         {
-          "title": "В РАН создадут адаптивную звуковую среду для вокзалов и аэропортов",
+          "title": "Модернизация вокзала в Щучинске превращает Бурабай в круглогодичный курорт -",
           "snippet": "",
-          "url": "https://news.rambler.ua/tech/57254949-v-ran-sozdadut-adaptivnuyu-zvukovuyu-sredu-dlya-vokzalov-i-aeroportov/",
-          "source": "Рамблер"
+          "url": "https://prokadry.kz/shuchinsk_volzal_26/",
+          "source": "https://prokadry.kz/"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "bezpilota lidaparāts",
-      "trafficCount": "5000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 18 Oct 2026 07:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbg-MDxYwvCuSF2m1M_1uUbQ-VRzAkaSncystaz1uOmbUns91qYo0P7z-zqR4",
       "pictureSource": "LSM",
@@ -43,16 +99,16 @@
           "source": "LSM"
         },
         {
+          "title": "Jaunākais par Lietuvā nokritušo dronu: tā atlūzas trāpījušas garāmbraucošai automašīnai",
+          "snippet": "",
+          "url": "https://jauns.lv/raksts/arzemes/733846-jaunakais-par-lietuva-nokrituso-dronu-ta-atluzas-trapijusas-garambraucosai-automasinai",
+          "source": "Jauns.lv"
+        },
+        {
           "title": "Beidzies iespējamais apdraudējums Latvijas gaisa telpā (plkst. 8.20)",
           "snippet": "",
           "url": "https://www.delfi.lv/193/politics/120138957/nbs-zino-par-iespejamu-gaisa-telpas-apdraudejumu-zemgale",
           "source": "DELFI"
-        },
-        {
-          "title": "Lietuvā, netālu no Latvijas robežas, iespējams, detonējis drons",
-          "snippet": "",
-          "url": "https://www.tvnet.lv/8566584/lietuva-netalu-no-latvijas-robezas-iespejams-detonejis-drons",
-          "source": "TVNET"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -68,7 +124,7 @@
     },
     {
       "title": "raksts",
-      "trafficCount": "1000+",
+      "trafficCount": "2000+",
       "pubDate": "Sun, 18 Oct 2026 06:10:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWgamVjorxs-YeWcB332kd_r40JvK0vVv_z8fFNR-Al7oQ0lJ7lCWzNgxAlw",
       "pictureSource": "DELFI",
@@ -80,16 +136,16 @@
           "source": "DELFI"
         },
         {
+          "title": "Ziņas vieglajā valodā 18. oktobrī / Raksts",
+          "snippet": "",
+          "url": "https://www.lsm.lv/raksts/zinas/zinas-vieglaja-valoda/18.10.2026-zinas-vieglaja-valoda-18-oktobri.a668079/",
+          "source": "LSM"
+        },
+        {
           "title": "Smags negadījums Salaspilī – vilciens aizķēris gājēju, kurš kritiskā stāvoklī nogādāts slimnīcā",
           "snippet": "",
           "url": "https://tv3.lv/degpunkta/degpunkta-satiksme/smags-negadijums-salaspili-vilciens-aizkeris-gajeju-kurs-smaga-stavokli-nogadats-slimnica/",
           "source": "tv3.lv"
-        },
-        {
-          "title": "Salaspilī vilciens aizķēris gājēju, kurš smagā stāvoklī nogādāts slimnīcā",
-          "snippet": "",
-          "url": "https://lat.press.lv/lat/post/salaspili-vilciens-aizkeris-gajeju-kurs-smaga-stavokli-nogadats-slimnica",
-          "source": "Press.lv"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -98,26 +154,26 @@
       "title": "zāles",
       "trafficCount": "500+",
       "pubDate": "Sun, 18 Oct 2026 05:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQxrYub-7VKIG_8Z_JctloAYUn065M4ziKZl2_h8AEetF3wWjXRbUtndcMvc",
-      "pictureSource": "DELFI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6NrKFVbxY8eh6BFMBLJGkUCmASQx5-2pKwNGktZxy9zBvoyufCn13lhiu3hg",
+      "pictureSource": "tv3.lv",
       "relatedSearch": [
-        {
-          "title": "Spēļu zāles pie mājām? Daugavpils drīkst pateikt \"nē\"",
-          "snippet": "",
-          "url": "https://www.delfi.lv/193/politics/120138776/azartspelu-ierobezojumus-daugavpili-atzist-par-atbilstosiem-satversmei",
-          "source": "DELFI"
-        },
-        {
-          "title": "Azartspēļu aizliegumu noteiktu ēku tuvumā Daugavpilī atzīst par Satversmei atbilstošu / Raksts",
-          "snippet": "",
-          "url": "https://www.lsm.lv/raksts/zinas/latvija/16.10.2026-azartspelu-aizliegumu-noteiktu-eku-tuvuma-daugavpili-atzist-par-satversmei-atbilstosu.a667847/",
-          "source": "LSM"
-        },
         {
           "title": "\"Precedents valsts mērogā.\" Satversmes tiesa atzīst Daugavpils azartspēļu ierobežojumus",
           "snippet": "",
           "url": "https://tv3.lv/zinas/latvija/sabiedriba/precedents-valsts-meroga-satversmes-tiesa-atzist-daugavpils-azartspelu-ierobezojumus/",
           "source": "tv3.lv"
+        },
+        {
+          "title": "Azartspēļu aizliegumu noteiktu ēku tuvumā Daugavpilī atzīst par Satversmei atbilstošiem / Raksts",
+          "snippet": "",
+          "url": "https://www.lsm.lv/raksts/zinas/latvija/16.10.2026-azartspelu-aizliegumu-noteiktu-eku-tuvuma-daugavpili-atzist-par-satversmei-atbilstosiem.a667847/",
+          "source": "LSM"
+        },
+        {
+          "title": "Spēļu zāles pie mājām? Daugavpils drīkst pateikt \"nē\"",
+          "snippet": "",
+          "url": "https://www.delfi.lv/193/politics/120138776/azartspelu-ierobezojumus-daugavpili-atzist-par-atbilstosiem-satversmei",
+          "source": "DELFI"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -126,26 +182,26 @@
       "title": "latvija",
       "trafficCount": "5000+",
       "pubDate": "Sun, 18 Oct 2026 03:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3578dh6lT9d4E1G3itmSm5bzhrrY5q3qGHh87wmVzaaGw3CtV4Rbvu3YkuYs",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-EzCeJ_5X1Z173tnR8nKX1ktAkGWazR4wWespKkwREk8WgKLUk5K8a6Xnae8",
       "pictureSource": "LA.LV",
       "relatedSearch": [
         {
-          "title": "“Uz spēles” cilvēku dzīvības, bet saņem vien grašus; ļaudis spriež, vai mediķu algas atbilst viņu atbildībai",
+          "title": "“Viņa bija izteikti satraukta…” Judins spiests “atmazgāties” nu jau arī par Levrences publiski paustajiem apgalvojumiem",
           "snippet": "",
-          "url": "https://www.la.lv/uz-speles-cilveku-dzivibas-bet-sanem-vien-grasus-laudis-spriez-vai-mediku-algas-atbilst-vinu-atbildibai",
+          "url": "https://www.la.lv/vina-bija-izteikti-satraukta-judins-spiests-atmazgaties-nu-jau-ari-par-levrences-publiski-paustajiem-apgalvojumiem",
           "source": "LA.LV"
         },
         {
-          "title": "Latvijā 31% autovadītāju uz ziemas riepām pāriet oktobrī, liecina aptauja",
+          "title": "Saeimas deputāts, ar kuru bail atrasties divatā vienā telpā",
           "snippet": "",
-          "url": "https://www.tvnet.lv/8566761/latvija-31-autovaditaju-uz-ziemas-riepam-pariet-oktobri-liecina-aptauja",
-          "source": "TVNET"
+          "url": "https://nra.lv/neatkariga/komentari/532399-andrejs-judins-noliedz-parmetumus-par-emocionalu-vardarbibu.htm",
+          "source": "NRA"
         },
         {
-          "title": "Gatavojam auto rudens/ziemas sezonai: Riepu maiņa, ritošā daļa un papildus izmaksas",
+          "title": "Deputātam Judinam pārmet iespējamu emocionālu vardarbību pret Saeimas darbinieci; viņš to noliedz",
           "snippet": "",
-          "url": "https://zz.lv/reklamraksti/gatavojam-auto-rudens-ziemas-sezonai-riepu-maina-ritosa-dala-un-papildus-izmaksas/",
-          "source": "ZZ.lv"
+          "url": "https://www.lsm.lv/raksts/zinas/latvija/15.10.2026-deputatam-judinam-parmet-iespejamu-emocionalu-vardarbibu-pret-saeimas-darbinieci-vins-to-noliedz.a667739/",
+          "source": "LSM"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -182,7 +238,7 @@
       "title": "elektrība",
       "trafficCount": "200+",
       "pubDate": "Sun, 18 Oct 2026 02:30:00 -0700",
-      "picture": "",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RMNHPi7CGGn58yYrhreUMtWhPuG3-F5fPv-JdLdI-QEaHxsqqUnfOCNL6SE",
       "pictureSource": "LA.LV",
       "relatedSearch": [
         {
@@ -202,62 +258,6 @@
           "snippet": "",
           "url": "https://www.liepajniekiem.lv/zinas/sabiedriba/latvija/latvija-elektroenergijas-cena-pagajusaja-nedela-palielinajas-par-6-proc/",
           "source": "liepajniekiem.lv"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "lietuva",
-      "trafficCount": "500+",
-      "pubDate": "Sun, 18 Oct 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS9srQ21MkpSVmArSi5SKKSQDUGVBl4ONjJyVHx37-vYX5nX9cZCzJREpMyZc",
-      "pictureSource": "LRT",
-      "relatedSearch": [
-        {
-          "title": "Ukraina atsiprašo dėl drono Lietuvoje: jį galėjo nukreipti Rusija",
-          "snippet": "",
-          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3071190/ukraina-atsipraso-del-drono-lietuvoje-ji-galejo-nukreipti-rusija",
-          "source": "LRT"
-        },
-        {
-          "title": "Vaizdo įraše užfiksuotas drono sprogimas",
-          "snippet": "",
-          "url": "https://www.delfi.lt/naujienos/lietuvoje/pamatykite-pasvalio-rajone-uzfiksuotas-drono-sprogimas-120320794",
-          "source": "Delfi"
-        },
-        {
-          "title": "Nepilnametė pristatyta į ligoninę dėl galimo apsinuodijimo vaistais",
-          "snippet": "",
-          "url": "https://www.lrytas.lt/lietuvosdiena/nelaimes/2026/10/18/news/nepilnamete-pristatyta-i-ligonine-del-galimo-apsinuodijimo-vaistais-44513940",
-          "source": "Lrytas"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "воздушное пространство",
-      "trafficCount": "2000+",
-      "pubDate": "Sat, 17 Oct 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV9qcnng6fHPAVToRm-qpY38RZbUvxKWDq7kORF9DHZrx-i6gULDSvR7MOe-4",
-      "pictureSource": "Радио Свобода",
-      "relatedSearch": [
-        {
-          "title": "В Литве предположительно упал и взорвался беспилотник",
-          "snippet": "",
-          "url": "https://www.svoboda.org/a/v-litve-predpolozhiteljno-upal-i-vzorvalsya-bespilotnik/33878813.html",
-          "source": "Радио Свобода"
-        },
-        {
-          "title": "Литовцев отправляли в убежища из-за неизвестного объекта в небе. Об опасности предупредили и латвийцев",
-          "snippet": "",
-          "url": "https://www.dw.com/ru/zitelej-severa-litvy-otpravlali-v-ubezisa-izza-neizvestnogo-obekta-v-nebe-ob-opasnosti-predupredili-i-latvijcev/a-79690968",
-          "source": "DW.com"
-        },
-        {
-          "title": "Латвия и Литва объявили тревогу из-за неизвестного дрона",
-          "snippet": "",
-          "url": "https://www.eurointegration.com.ua/rus/news/2026/10/18/7247967/",
-          "source": "Європейська правда"
         }
       ],
       "link": "https://imtaqin.id/"
