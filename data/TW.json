@@ -1,219 +1,244 @@
 {
-  "lastUpdate": "2026-10-19 01:29:21",
+  "lastUpdate": "2026-10-19 06:39:46",
   "data": [
     {
-      "title": "大盤指數",
-      "trafficCount": "2000+",
-      "pubDate": "Sun, 18 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZQiI4Iap91adAFa3Go39Kv9E03S0jrtHWnrx-4OAJ8hT7nhfYgq3QZI19yM",
-      "pictureSource": "Yahoo股市",
+      "title": "股價",
+      "trafficCount": "5000+",
+      "pubDate": "Sun, 18 Oct 2026 23:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCZqCayWT2v1-g_BTJ1ABo2kAfM4gCuv535CaogbHEODM7hA1iKhaylXK7wvs",
+      "pictureSource": "工商時報",
       "relatedSearch": [
         {
-          "title": "台股崩跌至4萬6！「面板大廠」出現甜甜價、大噴22萬張奪成交王「塑化大廠」連6漲30.34%後慘摔跌停",
+          "title": "韓股跌逾3％後翻紅！外資一周卻狂賣11.2兆三星、SK海力士回購退場- 國際",
           "snippet": "",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A9%E8%B7%8C%E8%87%B34%E8%90%AC6-%E9%9D%A2%E6%9D%BF%E5%A4%A7%E5%BB%A0-%E5%87%BA%E7%8F%BE%E7%94%9C%E7%94%9C%E5%83%B9-%E5%A4%A7%E5%99%B422%E8%90%AC%E5%BC%B5%E5%A5%AA%E6%88%90%E4%BA%A4%E7%8E%8B-%E5%A1%91%E5%8C%96%E5%A4%A7%E5%BB%A0-033500402.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "台股進入47K保衛戰！矽光子綠油油、「這千金」摜跌停股價下殺585元 聯亞一度重挫達9%",
-          "snippet": "",
-          "url": "https://www.ftnn.com.tw/news/587416",
-          "source": "FTNN 新聞網"
-        },
-        {
-          "title": "台股盤中跌880點！009826幾乎平盤「動也不動」 全球分散布局優勢浮現",
-          "snippet": "",
-          "url": "https://udn.com/news/story/123006/9811344",
-          "source": "udn"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "台股指數",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 18 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoUq0pVuCjs5j-KnFpCTlKb0aUKvDpsRFUN_EpAPGTTuyNJ5xYvsrb-LnSlsw",
-      "pictureSource": "富聯網",
-      "relatedSearch": [
-        {
-          "title": "《HKEX台股期貨》08:45，10月台股指數期貨跌41.3點，為2063.1點",
-          "snippet": "",
-          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6334844001&PU=0010",
-          "source": "富聯網"
-        },
-        {
-          "title": "《HKEX台股期貨》10:45，10月台股指數期貨漲21.3點，為2117.5點",
-          "snippet": "",
-          "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6332865001&PU=0010",
-          "source": "富聯網"
-        },
-        {
-          "title": "《HKEX台股期貨》12:15，10月台股指數期貨漲26點，為2192.4點",
-          "snippet": "",
-          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6330647001&PU=0010",
-          "source": "富聯網"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "大盤",
-      "trafficCount": "1000+",
-      "pubDate": "Sun, 18 Oct 2026 18:10:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "台郡",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 18 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbXleELT3urisZ3bfXAfLQXIFH5ZEkBTfH4Z8vitvDcsDbByyXoJ_voqUixqQ",
-      "pictureSource": "Yahoo股市",
-      "relatedSearch": [
-        {
-          "title": "PCB上游缺料燒不停！PTFE新材料接棒救援 「這幾檔」概念股逆勢強飆",
-          "snippet": "",
-          "url": "https://tw.stock.yahoo.com/news/pcb%E4%B8%8A%E6%B8%B8%E7%BC%BA%E6%96%99%E7%87%92%E4%B8%8D%E5%81%9C-ptfe%E6%96%B0%E6%9D%90%E6%96%99%E6%8E%A5%E6%A3%92%E6%95%91%E6%8F%B4-%E9%80%99%E5%B9%BE%E6%AA%94-%E6%A6%82%E5%BF%B5%E8%82%A1%E9%80%86%E5%8B%A2%E5%BC%B7%E9%A3%86-222000888.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "輝達秀原型AI板材掀材料戰！PTFE會取代高階樹脂？台虹、台郡供應鏈受矚- 日報",
-          "snippet": "",
-          "url": "https://www.ctee.com.tw/news/20261017700148-439901",
+          "url": "https://www.ctee.com.tw/news/20261019700790-430702",
           "source": "工商時報"
         },
         {
-          "title": "熱門族群》PCB上游材料供不應求 新替代材料躍為市場焦點",
+          "title": "三星、SK海力士重挫拖累 南韓退休基金帳面損失1370億美元",
           "snippet": "",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5608869",
+          "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E6%98%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%87%8D%E6%8C%AB%E6%8B%96%E7%B4%AF-%E5%8D%97%E9%9F%93%E9%80%80%E4%BC%91%E5%9F%BA%E9%87%91%E5%B8%B3%E9%9D%A2%E6%90%8D%E5%A4%B11370%E5%84%84%E7%BE%8E%E5%85%83-051003021.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "亞股大逆轉！韓股急拉約4％翻紅 日經也拉逾700點",
+          "snippet": "",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5610818",
           "source": "自由財經"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "00922",
+      "title": "捕手",
       "trafficCount": "200+",
-      "pubDate": "Sun, 18 Oct 2026 18:10:00 -0700",
+      "pubDate": "Sun, 18 Oct 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5x9jtxgjtVUaD5Odqqc69mPxWOVnqo7p5KV_Fq0p429nukGHonTQhoL-p9s",
+      "pictureSource": "自由體育",
+      "relatedSearch": [
+        {
+          "title": "日職》日本火腿宣布3人戰力外 28歲捕手考慮轉戰海外賽場",
+          "snippet": "",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5611029",
+          "source": "自由體育"
+        },
+        {
+          "title": "MLB》整季四度遭到DFA 去年隨道奇奪冠的捕手羅特維特成自由身",
+          "snippet": "",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5610819",
+          "source": "自由體育"
+        },
+        {
+          "title": "道奇冠軍捕手拒絕留小聯盟！轉戰自由市場　美媒曝動向：有望回鍋",
+          "snippet": "",
+          "url": "https://www.nownews.com/news/6884628",
+          "source": "NOWnews今日新聞"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "消費",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 Oct 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOvzM-GhVVHEYQrn8SeNhvByfMl2OP3plhMhIyxAvBWAqq-XqlspFBzMaXsrI",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "消費減税法案 自民が譲歩に含み",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/pickup/6599227",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "消費税減税「自分にどんな影響あるのか分からない」まま、国会審議へ 財源も給付も支援策も…",
+          "snippet": "",
+          "url": "https://www.tokyo-np.co.jp/article/522381",
+          "source": "東京新聞"
+        },
+        {
+          "title": "市場が注目する国内財政リスクの次なる4つの焦点",
+          "snippet": "",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3020935",
+          "source": "TBS NEWS DIG"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "徐若熙",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 18 Oct 2026 23:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF95YVdvMBWc4cjxxgtI0xvYDXCpLiIivwo4lJ_pti5gd0al7aXTsKcdbn-bs",
+      "pictureSource": "Yahoo運動",
+      "relatedSearch": [
+        {
+          "title": "日職》從「台灣一」拚到「日本一」 徐若熙牛棚待命 教練點出優勢",
+          "snippet": "",
+          "url": "https://tw.sports.yahoo.com/news/%E6%97%A5%E8%81%B7-%E5%BE%9E-%E5%8F%B0%E7%81%A3-%E6%8B%9A%E5%88%B0-%E6%97%A5%E6%9C%AC-044021741.html",
+          "source": "Yahoo運動"
+        },
+        {
+          "title": "日職》直言老東家橫濱「不是單靠氣勢上來的」 軟銀上茶谷大河警戒中",
+          "snippet": "",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5611062",
+          "source": "自由體育"
+        },
+        {
+          "title": "徐若熙季後賽初登板就在日本大賽？軟銀投手教練道出最大期待",
+          "snippet": "",
+          "url": "https://sports.ettoday.net/news/3257017",
+          "source": "ETtoday運動雲"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "張惇涵",
+      "trafficCount": "100+",
+      "pubDate": "Sun, 18 Oct 2026 23:10:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "安成生技",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 18 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUKIDlDVZzAlmcet3d6EUKc5x4o0Hd7RrGuNwQO5ldhPpzK4QNUwn3LSvs_Ng",
-      "pictureSource": "UDN",
-      "relatedSearch": [
-        {
-          "title": "安成生技新藥數據未達標",
-          "snippet": "",
-          "url": "https://udn.com/news/story/7252/9822497",
-          "source": "UDN"
-        },
-        {
-          "title": "快訊／注意！「這家生技股」將於下午5點召開重訊 說明解盲結果",
-          "snippet": "",
-          "url": "https://inews.setn.com/news/1924480",
-          "source": "三立新聞"
-        },
-        {
-          "title": "安成生技(6610)泡泡龍症解盲失利，2027年法規會議能扳回一城嗎？-許明哲的產業筆記本",
-          "snippet": "",
-          "url": "https://cmnews.com.tw/article/xumingzhe-141760ce-cb52-11f1-a6c2-60ba989315a2",
-          "source": "CMoney投資網誌"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "tradingview",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 18 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzfS1wPcz7Vnnb--jZ7TZwZntrwi2JWmau3OvVB8THPmkS7FHQvbNcj7zxxlw",
-      "pictureSource": "Traders Union",
-      "relatedSearch": [
-        {
-          "title": "Eightcap adds option to open Standard or RAW account via TradingView",
-          "snippet": "",
-          "url": "https://tradersunion.com/news/brokers-news/show/3866581-eightcap-adds-new-account-options/",
-          "source": "Traders Union"
-        },
-        {
-          "title": "TradingView raises target for Sasol stock from USD 15.10 to USD 15.50",
-          "snippet": "",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/tradingview-raises-target-for-sasol-stock-from-usd-15-10-to-usd-15-50/70353441",
-          "source": "ad-hoc-news.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "steven kwan",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 18 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLRyL0Yk1yFRVkhAWWuVUrG_DyEalCnzAupH_UxCQd4wVgHoDbjo4SjdKH7o",
-      "pictureSource": "MLB.com",
-      "relatedSearch": [
-        {
-          "title": "Steven Kwan's great throw nabs Taylor Walls",
-          "snippet": "",
-          "url": "https://www.mlb.com/guardians/video/shawn-armstrong-in-play-out-s-to-jonathan-aranda-1xglcr",
-          "source": "MLB.com"
-        },
-        {
-          "title": "Guardians’ Kwan throws a rocket to cut Walls off at home plate",
-          "snippet": "",
-          "url": "https://www.sportsnet.ca/mlb/video/guardians-kwan-throws-a-rocket-to-cut-walls-off-at-home-plate/",
-          "source": "Sportsnet.ca"
-        },
-        {
-          "title": "Guardians’ Steven Kwan makes unbelievable HR robbery in ALCS Game 2 vs. Rays",
-          "snippet": "",
-          "url": "https://clutchpoints.com/mlb/cleveland-guardians/guardians-steven-kwan-makes-unbelievable-hr-robbery-alcs-game-2-rays",
-          "source": "ClutchPoints"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "華信航空",
-      "trafficCount": "200+",
-      "pubDate": "Sun, 18 Oct 2026 17:50:00 -0700",
+      "title": "2327",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 18 Oct 2026 23:00:00 -0700",
       "picture": "",
       "pictureSource": "",
       "relatedSearch": [],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "朱麗蒨",
+      "title": "丁小芹",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 Oct 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlTj2HbCdcoNUYzL10vvL9L4JW7NKYon-204VRL6x8U7MYUczxrXUCz4BpmOs",
+      "pictureSource": "自由娛樂",
+      "relatedSearch": [
+        {
+          "title": "昔日女星坐牢獲釋4年！丁小芹突曬近照 消失多年現況曝光",
+          "snippet": "",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5611091",
+          "source": "自由娛樂"
+        },
+        {
+          "title": "丁小芹曬自拍公開近況！賣假包被關1年4個月　出獄轉戰電商繼續賺",
+          "snippet": "",
+          "url": "https://www.nownews.com/news/6884709",
+          "source": "NOWnews今日新聞"
+        },
+        {
+          "title": "丁小芹假釋4年罕見露面「真實正臉模樣」洩47歲現況- 娛樂",
+          "snippet": "",
+          "url": "https://www.chinatimes.com/realtimenews/20261019002159-260404",
+          "source": "中時新聞網"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "利息",
+      "trafficCount": "200+",
+      "pubDate": "Sun, 18 Oct 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5ssbNp8Na8ow7dW4L6rePGDn6LnCrrPn3LDQwpPBIik4mvBEhaN5h7S_eNGg",
+      "pictureSource": "蕃新聞",
+      "relatedSearch": [
+        {
+          "title": "韓國全租戶利息支出飆升144% 增幅超越購屋族",
+          "snippet": "",
+          "url": "https://n.yam.com/Article/20261019533674",
+          "source": "蕃新聞"
+        },
+        {
+          "title": "韓國全租戶利息支出飆升144% 增幅超越購屋族",
+          "snippet": "",
+          "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/256580",
+          "source": "理財周刊"
+        },
+        {
+          "title": "MoneyDJ新聞 2026-10-19 07:26:00 黃智勤 發佈",
+          "snippet": "",
+          "url": "https://www.moneydj.com/r/news/rnews_%7B8E51F304-AC15-4ED6-955E-5A541830295F%7D_6_A.djhtm",
+          "source": "MoneyDJ"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "特斯拉汽車",
       "trafficCount": "100+",
-      "pubDate": "Sun, 18 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyb1FjmJc8j1BkOd5Cjg9oUVKAVZ2k5RwdUWNmvjKnMxxHyIzXAPZqMne6Oms",
+      "pubDate": "Sun, 18 Oct 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCajrZnXbcEDJR-Mz8WhGRHimD90CNEqcILjgPqZvuPl7SrU01R9Mwcpj5Q-c",
       "pictureSource": "Yahoo新聞",
       "relatedSearch": [
         {
-          "title": "劉德華陪伴愛妻罕見被偶遇！60歲華嫂朱麗蒨「真實狀態曝」",
+          "title": "蕭伊火速下訂特斯拉Roadster！訂單151萬遭抓包非「飛天版」 本人回嗆：我當然知道",
           "snippet": "",
-          "url": "https://tw.news.yahoo.com/%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%99%AA%E4%BC%B4%E6%84%9B%E5%A6%BB%E7%BD%95%E8%A6%8B%E8%A2%AB%E5%81%B6%E9%81%87-60%E6%AD%B2%E8%8F%AF%E5%AB%82%E6%9C%B1%E9%BA%97%E8%92%A8-%E7%9C%9F%E5%AF%A6%E7%8B%80%E6%85%8B%E6%9B%9D-141353429.html",
+          "url": "https://tw.news.yahoo.com/%E8%95%AD%E4%BC%8A%E7%81%AB%E9%80%9F%E4%B8%8B%E8%A8%82%E7%89%B9%E6%96%AF%E6%8B%89roadster-%E8%A8%82%E5%96%AE151%E8%90%AC%E9%81%AD%E6%8A%93%E5%8C%85%E9%9D%9E-%E9%A3%9B%E5%A4%A9%E7%89%88-%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%97%86-%E6%88%91%E7%95%B6%E7%84%B6%E7%9F%A5%E9%81%93-085300469.html",
           "source": "Yahoo新聞"
         },
         {
-          "title": "40年神仙眷侶！劉德華、朱麗蒨破天荒同框 絕美模樣網讚爆",
+          "title": "特斯拉飛天跑車誰來管？台灣稱須符合民航法、美國航管局卻說「不算航空器」！",
           "snippet": "",
-          "url": "https://stars.udn.com/star/story/10089/9821953",
-          "source": "噓！星聞"
+          "url": "https://cars.tvbs.com.tw/life/342312",
+          "source": "地球黃金線"
         },
         {
-          "title": "劉德華罕同框朱麗蒨　「迎面走來」網嗨翻",
+          "title": "馬斯克秀飛行汽車 大西洋月刊潑冷水「永遠不該造出來」",
           "snippet": "",
-          "url": "https://www.mirrormedia.mg/external/setn_1924603",
-          "source": "鏡週刊Mirror Media"
+          "url": "https://news.cnyes.com/news/id/6633058",
+          "source": "鉅亨網"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "沈伯洋 阿 嬤",
+      "trafficCount": "1000+",
+      "pubDate": "Sun, 18 Oct 2026 22:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGb9bkHed_aJy_IBMp6YtPiIGY0Q5D2u39H57u7I_rryNCGGH327hTggfzHDw",
+      "pictureSource": "Yahoo新聞",
+      "relatedSearch": [
+        {
+          "title": "跪沈伯洋的阿嬤是臨演？作家曝真實身分：6年前就上街了",
+          "snippet": "",
+          "url": "https://tw.news.yahoo.com/%E8%B7%AA%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%9A%84%E9%98%BF%E5%AC%A4%E6%98%AF%E8%87%A8%E6%BC%94-%E4%BD%9C%E5%AE%B6%E6%9B%9D%E7%9C%9F%E5%AF%A6%E8%BA%AB%E5%88%86-6%E5%B9%B4%E5%89%8D%E5%B0%B1%E4%B8%8A%E8%A1%97%E4%BA%86-232805920.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "沈伯洋政見太難懂？連勝文酸「旁邊有人抽大麻」 蔣萬安回應了",
+          "snippet": "",
+          "url": "https://www.chinatimes.com/realtimenews/20261019002052-260407",
+          "source": "中時新聞網"
+        },
+        {
+          "title": "社子島自救會阿嬤下跪陳情！藍議員竟潑「薪水領很高」 沈伯洋：這真的過份了 | 張大任 | 新聞",
+          "snippet": "",
+          "url": "https://www.storm.mg/article/11173680",
+          "source": "風傳媒"
         }
       ],
       "link": "https://imtaqin.id/"
