@@ -1,10 +1,75 @@
 {
-  "lastUpdate": "2026-10-20 06:40:21",
+  "lastUpdate": "2026-10-20 12:12:00",
   "data": [
     {
       "title": "الطقس",
-      "trafficCount": "500+",
+      "trafficCount": "200+",
       "pubDate": "Mon, 19 Oct 2026 23:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuNukMh3Knj5hISIKA06hQ-7FTPYAjPMVHUrzs7kB5SkUhhoeKgRCjoourB0",
+      "pictureSource": "Mosaique FM",
+      "relatedSearch": [
+        {
+          "title": "طقس الليلة: أمطار رعدية وغزيرة بالشمال والوسط",
+          "snippet": "",
+          "url": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533974/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D9%88%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%88%D8%B3%D8%B7",
+          "source": "Mosaique FM"
+        },
+        {
+          "title": "عامر بحبة: تقلبات جوية وأمطار بالشمال والوسط وارتفاع الحرارة إلى 36 درجة بالجنوب",
+          "snippet": "",
+          "url": "https://www.babnet.net/rttdetail-338106.asp",
+          "source": "Babnet"
+        },
+        {
+          "title": "أمطار رعدية غزيرة وهبوب رياح قوية قرب السواحل.. مرصد المرور يُحذر",
+          "snippet": "",
+          "url": "https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/156205-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D9%88%D9%87%D8%A8%D9%88%D8%A8-%D8%B1%D9%8A%D8%A7%D8%AD-%D9%82%D9%88%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D9%85%D8%B1%D8%B5%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%8A%D9%8F%D8%AD%D8%B0%D8%B1%20",
+          "source": "Assabah news"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "météo",
+      "trafficCount": "20000+",
+      "pubDate": "Mon, 19 Oct 2026 22:50:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "1000+",
+      "pubDate": "Mon, 19 Oct 2026 22:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEeEGlGHLxfzXQHAvLN5n_Jjg5jCZL-q0rOgZHAaL3bS8tLGEAW_3-wLrqTHY",
+      "pictureSource": "WPXI",
+      "relatedSearch": [
+        {
+          "title": "Near-perfect autumn weather continues Tuesday (10/20/26)",
+          "snippet": "",
+          "url": "https://www.wpxi.com/weather/extended/near-perfect-autumn-weather-continues-tuesday/79c5a809-a31f-454e-acd5-fd025f07004b/",
+          "source": "WPXI"
+        },
+        {
+          "title": "Crisp morning breaks across the West Hills with plenty of sunshine ahead",
+          "snippet": "",
+          "url": "https://westhillsgazette.com/crisp-morning-breaks-across-the-west-hills-with-plenty-of-sunshine-ahead/",
+          "source": "West Hills Gazette"
+        },
+        {
+          "title": "Pittsburgh Weather Forecast Frosty Monday Sunny Week Ahead",
+          "snippet": "",
+          "url": "https://hoodline.com/2026/10/steel-city-shivers-then-shines-frosty-dawn-kicks-off-sunny-fall-stretch/",
+          "source": "Hoodline"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "طقس اليوم",
+      "trafficCount": "500+",
+      "pubDate": "Mon, 19 Oct 2026 22:30:00 -0700",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5F5MIfABZqis91S6Vbex5ba-GHRd7UkaXd0sqp9ldoHc5Cp4vKvgw0EFk0ZY",
       "pictureSource": "Mosaique FM",
       "relatedSearch": [
@@ -15,33 +80,108 @@
           "source": "Mosaique FM"
         },
         {
-          "title": "الأرصاد الجوية تحذر من طقس الثلاثاء.. الحرارة العظمى بالقاهرة 27 درجة",
+          "title": "صور الأقمار الصناعية.. تدفق للسحب وفرص أمطار على هذه المناطق",
           "snippet": "",
-          "url": "https://elmaser.com/article/154649/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%B1",
-          "source": "elmaser.com"
+          "url": "https://www.youm7.com/story/2026/10/20/%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AA%D8%AF%D9%81%D9%82-%D9%84%D9%84%D8%B3%D8%AD%D8%A8-%D9%88%D9%81%D8%B1%D8%B5-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82/7586385",
+          "source": "اليوم السابع"
         },
         {
-          "title": "الأرصاد تحذر من اضطراب الملاحة بالبحر الأحمر وخليج السويس اليوم",
+          "title": "مبيت. طقس خريفي مائل للحرارة.. الأرصاد تكشف حالة الطقس فى الـ5 أيام المقبلة",
           "snippet": "",
-          "url": "https://www.masrawy.com/news/news_egypt/details/2026/10/20/3065577/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-          "source": "Masrawy"
+          "url": "https://www.youlyou.com/76345",
+          "source": "https://www.youlyou.com/"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "météo",
-      "trafficCount": "10000+",
-      "pubDate": "Mon, 19 Oct 2026 22:50:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "title": "prix",
+      "trafficCount": "200+",
+      "pubDate": "Mon, 19 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEVc5Zi-SWmPP2LMbiP84t7_rSwDy5R9whEd5yYFX2f6hkBu97VntR6tKXA1U",
+      "pictureSource": "Roole Média",
+      "relatedSearch": [
+        {
+          "title": "Prix des carburants : voici les tarifs en France ce mardi 20 octobre 2026",
+          "snippet": "",
+          "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mardi-20-octobre-2026",
+          "source": "Roole Média"
+        },
+        {
+          "title": "Diesel à 2,21 €/L ce 19 octobre : 6,50 € de moins sur 50 litres",
+          "snippet": "",
+          "url": "https://www.journee-mondiale.com/diesel-a-2-21-l-ce-19-octobre-6-50-de-moins-sur-50-litres-14153.htm",
+          "source": "Journée Mondiale"
+        },
+        {
+          "title": "Prix toujours élevés, pénuries, aide de 100 €… Le point sur la crise du carburant, ce lundi 19 octobre",
+          "snippet": "",
+          "url": "https://www.mercipourlinfo.fr/actualites/conso/crise-du-carburant-prix-penuries-aide-de-100-eu-le-point-sur-la-situation-1158321",
+          "source": "Merci pour l’info"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "weather",
+      "title": "eau potable",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 19 Oct 2026 16:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWKz98tnf6hKC9w_GCe7uF9oDpsl-13nfUQISbFo4nmD-UV9ny6Fi7XM8bVQ",
+      "pictureSource": "Ouest-France",
+      "relatedSearch": [
+        {
+          "title": "Face à la sécheresse, ce territoire finistérien va quadrupler sa réserve en eau potable",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/environnement/eau/face-a-la-secheresse-ce-territoire-finisterien-va-quadrupler-sa-reserve-en-eau-potable-ef1d4faa-cbdf-11f1-ad87-e24a1a2986e9",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Sécheresse en Bretagne: à Saint-Malo, comment se préparer à une possible pénurie d’eau?",
+          "snippet": "",
+          "url": "https://www.lepelerin.com/ecologie/lactualite-environnement/bretagne-comment-se-preparer-a-une-possible-penurie-deau-16248",
+          "source": "Le Pèlerin"
+        },
+        {
+          "title": "Sécheresse dans le Finistère : deux chantiers suspendus près de Quimper à cause du « risque de pénurie d’eau potable",
+          "snippet": "",
+          "url": "https://quimper.maville.com/actu/actudet_-secheresse-dans-le-finistere-deux-chantiers-suspendus-pres-de-quimper-a-cause-du-risque-de-penurie-d-eau-potable_6-7535219_actu.Htm",
+          "source": "Quimper Ma Ville"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "météo demain",
+      "trafficCount": "20000+",
+      "pubDate": "Mon, 19 Oct 2026 13:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLfWijJrLnpkewFleNHpfVDgHi2VYXQKiTS2TfugyGve2Ku0HunKpeKX3gnSI",
+      "pictureSource": "Tameteo.com",
+      "relatedSearch": [
+        {
+          "title": "Le courant océanique perturbé revient en France : un risque de tempête à surveiller pour le vendredi 23",
+          "snippet": "",
+          "url": "https://www.tameteo.com/actualites/actualite/le-courant-oceanique-perturbe-revient-en-france-un-risque-de-tempete-a-surveiller-pour-le-vendredi.html",
+          "source": "Tameteo.com"
+        },
+        {
+          "title": "Route du Rhum. À peine installé à Saint-Malo, le village de la course va faire face à une tempête ce vendredi 23 octobre",
+          "snippet": "",
+          "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-a-peine-installe-a-saint-malo-le-village-de-la-course-va-faire-face-a-une-tempete-ce-vendredi-23-octobre-f0e9d988-cc62-11f1-bb5f-3dc5c0feacca",
+          "source": "Ouest-France"
+        },
+        {
+          "title": "Tendance météo à 4 semaines : rupture océanique et pluvieuse après Halloween",
+          "snippet": "",
+          "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-rupture-oceanique-et-pluvieuse-apres-halloween-71369",
+          "source": "La Chaîne Météo"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather tomorrow",
       "trafficCount": "2000+",
-      "pubDate": "Mon, 19 Oct 2026 22:50:00 -0700",
+      "pubDate": "Mon, 19 Oct 2026 13:10:00 -0700",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeOZP7olQnE5TZzvKOgRy1WTBYwhPsjhXx7twPhXeaNHb2x5ceyQOtDOYNGdo",
       "pictureSource": "The Week",
       "relatedSearch": [
@@ -67,113 +207,29 @@
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "prix",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 19 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0i6SWPEj0F50uURLqIdM3hLNQGNLoYiv5ut8GLkGb578DnpMxZh-JPyQCEvg",
-      "pictureSource": "Journée Mondiale",
-      "relatedSearch": [
-        {
-          "title": "Diesel à 2,21 €/L ce 19 octobre : 6,50 € de moins sur 50 litres",
-          "snippet": "",
-          "url": "https://www.journee-mondiale.com/diesel-a-2-21-l-ce-19-octobre-6-50-de-moins-sur-50-litres-14153.htm",
-          "source": "Journée Mondiale"
-        },
-        {
-          "title": "Prix des carburants : voici les tarifs en France ce mardi 20 octobre 2026",
-          "snippet": "",
-          "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mardi-20-octobre-2026",
-          "source": "Roole Média"
-        },
-        {
-          "title": "Prix toujours élevés, pénuries, aide de 100 €… Le point sur la crise du carburant, ce lundi 19 octobre",
-          "snippet": "",
-          "url": "https://www.mercipourlinfo.fr/actualites/conso/crise-du-carburant-prix-penuries-aide-de-100-eu-le-point-sur-la-situation-1158321",
-          "source": "Merci pour l’info"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "eau potable",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 19 Oct 2026 16:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWKz98tnf6hKC9w_GCe7uF9oDpsl-13nfUQISbFo4nmD-UV9ny6Fi7XM8bVQ",
-      "pictureSource": "Ouest-France",
-      "relatedSearch": [
-        {
-          "title": "Face à la sécheresse, ce territoire finistérien va quadrupler sa réserve en eau potable",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/environnement/eau/face-a-la-secheresse-ce-territoire-finisterien-va-quadrupler-sa-reserve-en-eau-potable-ef1d4faa-cbdf-11f1-ad87-e24a1a2986e9",
-          "source": "Ouest-France"
-        },
-        {
-          "title": "Face à la sécheresse, l’angoisse du manque d’eau potable monte en Bretagne, pourtant réputée pour ses pluies abondantes",
-          "snippet": "",
-          "url": "https://vannes.maville.com/actu/actudet_-face-a-la-secheresse-l-angoisse-du-manque-d-eau-potable-monte-en-bretagne-pourtant-reputee-pour-ses-pluies-abondantes_loc-7535386_actu.Htm",
-          "source": "Ma Ville"
-        },
-        {
-          "title": "Sécheresse. La fin des assouplissements pour les stations de lavage dans le Finistère",
-          "snippet": "",
-          "url": "https://www.ouest-france.fr/meteo/secheresse/secheresse-la-fin-des-assouplissements-pour-les-stations-de-lavage-dans-le-finistere-0814b8fa-cbda-11f1-b8bc-a46147b584ed",
-          "source": "Ouest-France"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "météo demain",
-      "trafficCount": "20000+",
-      "pubDate": "Mon, 19 Oct 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPtvnyuZGxKJWEyTZ0etcQAXmi3FIt8cOJSx6IiHJknn65hhajU5r5sR8zAAY",
-      "pictureSource": "Le Tribunal du Net",
-      "relatedSearch": [
-        {
-          "title": "Météo 19 octobre : Marseille sous 27 mm de pluie lundi, mais mardi sera bien pire",
-          "snippet": "",
-          "url": "https://www.letribunaldunet.fr/meteo/meteo-19-octobre-marseille-pluie-lundi-mardi-pire.html",
-          "source": "Le Tribunal du Net"
-        },
-        {
-          "title": "AVERSES LOINTAINES",
-          "snippet": "",
-          "url": "https://www.infoclimat.fr/photolive-photos-meteo-345272-averses-lointaines.html",
-          "source": "Infoclimat"
-        },
-        {
-          "title": "Météo du samedi 17 octobre : 15 °C à Paris, jusqu’à 23 °C à Marseille",
-          "snippet": "",
-          "url": "https://stephanelarue.com/meteo-du-samedi-17-octobre-15-c-a-paris-jusqua-23-c-a-marseille/",
-          "source": "Stéphane Larue News"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
       "title": "getafe – rayo",
       "trafficCount": "200+",
       "pubDate": "Mon, 19 Oct 2026 12:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfZV6Wxj38-3-EzDxmsyhC1_i_aOsdWGPW4_S1QpepLe6guknpGQE_HaYrI8M",
-      "pictureSource": "MARCA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzOOHm9WL0jUqJOWb55dnz3F7pDGx6Q7Gr6OvaW_H540zUPBKCuRAZs2mlZPA",
+      "pictureSource": "EL PAÍS",
       "relatedSearch": [
         {
-          "title": "Carvajal: \"Muy feliz de volver a disfrutar en el césped\"",
+          "title": "El Rayo opaca el debut de Carvajal con el Getafe",
           "snippet": "",
-          "url": "https://www.marca.com/futbol/getafe/2026/10/19/carvajal-feliz-volver-disfrutar-cesped.html",
-          "source": "MARCA"
+          "url": "https://elpais.com/deportes/futbol/2026-10-19/el-rayo-opaca-el-debut-de-carvajal-con-el-getafe.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "Satriano: \"En la adversidad hay que aparecer siempre\"",
+          "snippet": "",
+          "url": "https://www.abc.es/deportes/futbol/satriano-adversidad-aparecer-siempre-20261020090317-nt.html",
+          "source": "ABC"
         },
         {
           "title": "Getafe contra Rayo Vallecano Pronóstico: Dónde Ver, Horario y Alineaciones Hoy 19/10",
           "snippet": "",
           "url": "https://oddsscanner.com/es/pronosticos/futbol/getafe-x-rayo-vallecano-19-10-2026",
           "source": "Odds Scanner"
-        },
-        {
-          "title": "Getafe CF 1",
-          "snippet": "",
-          "url": "https://www.rayovallecano.es/noticias/getafe-cf-1-rayo-vallecano-1",
-          "source": "Rayo Vallecano | Web Oficial"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -192,72 +248,16 @@
           "source": "OneFootball"
         },
         {
+          "title": "Inzaghi declares a state of emergency before Al-Hilal's Asian clash in Doha",
+          "snippet": "",
+          "url": "https://www.goal.com/en/news/inzaghi-declares-a-state-of-emergency-before-al-hilal-s-asian-clash-in-doha/blt05b0650f73b2e834",
+          "source": "Goal.com"
+        },
+        {
           "title": "Al-Hilal edge Al-Hazm with Martinelli's goal to regai…",
           "snippet": "",
           "url": "https://www.ysscores.com/en/news/14074999/al-hilal-edge-al-hazm-with-martinellis-goal-to-regain-saudi-pro-league-top-spot",
           "source": "YSscores"
-        },
-        {
-          "title": "Video: Is Salem Al-Dawsari turning into a substitute at Al-Hilal?",
-          "snippet": "",
-          "url": "https://www.goal.com/en/news/video-is-salem-al-dawsari-turning-into-a-substitute-at-al-hilal/blt3d42c9cfb1ee6b57",
-          "source": "Goal.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "prison",
-      "trafficCount": "500+",
-      "pubDate": "Mon, 19 Oct 2026 10:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSABswGTZrhUHSuG46kSJeEwY1sx6fUPdbMKqdr8dUFPni8RImvPF_XWYgW_gI",
-      "pictureSource": "Los Angeles Times",
-      "relatedSearch": [
-        {
-          "title": "Serial rapist and cosmetics heir is free. San Gabriel Valley community is outraged, mayor says",
-          "snippet": "",
-          "url": "https://www.latimes.com/california/story/2026-10-18/outrage-builds-as-serial-rapist-heir-to-cosmetics-fortune-is-freed",
-          "source": "Los Angeles Times"
-        },
-        {
-          "title": "Glendora mayor says he's ‘outraged' after serial rapist and Max Factor heir released on parole",
-          "snippet": "",
-          "url": "https://www.nbclosangeles.com/news/local/andrew-luster-released-on-parole-glendora/3957974/",
-          "source": "NBC Los Angeles"
-        },
-        {
-          "title": "Outrage grows now that convicted serial rapist, also heir to cosmetics fortune, walks free in SoCal community",
-          "snippet": "",
-          "url": "https://ktla.com/news/california/outrage-grows-now-that-convicted-serial-rapist-also-heir-to-cosmetics-fortune-walks-free-in-socal-community/",
-          "source": "KTLA"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "وزارة",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 19 Oct 2026 10:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0dOEYKj9w_jUcc_qDIGrifhsySjN01J9nkp2ThJfgtBjyvfK3gETErTs_NcM",
-      "pictureSource": "Assabah news",
-      "relatedSearch": [
-        {
-          "title": "وزارة السياحة: جلسة عمل لمعالجة الملفات العالقة ومتابعة المشاريع المعطلة بولاية نابل",
-          "snippet": "",
-          "url": "https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D9%87%D8%A7%D8%AA/156236-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%AC%D9%84%D8%B3%D8%A9-%D8%B9%D9%85%D9%84-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%82%D8%A9-%D9%88%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%84%D8%A9-%D8%A8%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D9%86%D8%A7%D8%A8%D9%84%20",
-          "source": "Assabah news"
-        },
-        {
-          "title": "وزارة السياحة تقر منحة إضافية لبلدية قربص وتسرّع معالجة ملفات النزل المغلقة",
-          "snippet": "",
-          "url": "https://diwanfm.net/news/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%AA%D9%82%D8%B1-%D9%85%D9%86%D8%AD%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D9%84%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8%D8%B5-%D9%88%D8%AA%D8%B3%D8%B1%D9%91%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B2%D9%84-%D8%A7%D9%84%D9%85%D8%BA%D9%84%D9%82%D8%A9",
-          "source": "diwanfm.net"
-        },
-        {
-          "title": "جلسة عمل لمتابعة الملفات والمشاريع العالقة بمدينة قربص",
-          "snippet": "",
-          "url": "https://www.jawharafm.net/ar/article/%D8%AC%D9%84%D8%B3%D8%A9-%D8%B9%D9%85%D9%84-%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%82%D8%A9-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%82%D8%B1%D8%A8%D8%B5/105/300661",
-          "source": "JawharaFM"
         }
       ],
       "link": "https://imtaqin.id/"
