@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-10-22 23:37:07",
+  "lastUpdate": "2026-10-23 01:55:17",
   "data": [
     {
       "title": "helen haines",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Thu, 22 Oct 2026 05:50:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-FBAk_5JpdjFd51aQYzkgosKP-bvadXPA5zG1kPTBz3bMoLKOMKs1gJSIcg0",
       "pictureSource": "BBC",
@@ -21,9 +21,9 @@
           "source": "The Australian"
         },
         {
-          "title": "Soft-spoken David Pocock has big ambitions – but first he wants politicians to ‘double down’ on kindness",
+          "title": "‘We can’t just pretend that everything’s OK in the regions’: what went wrong in Wangaratta?",
           "snippet": "",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/23/we-cant-just-pretend-that-everythings-ok-in-the-regions-what-went-wrong-in-wangaratta-ntwnfb",
           "source": "The Guardian"
         }
       ],
@@ -33,9 +33,15 @@
       "title": "php",
       "trafficCount": "200+",
       "pubDate": "Wed, 21 Oct 2026 21:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfmgNltl6vq0oFcor6YCLWiam3AjaQKp4a26YyE6WolfbR4UvAjgTFIlWWz7Y",
-      "pictureSource": "wiz.io",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglRGzpKP6KpvROlhDdIlnXI2zgHpOeU8ud6wWWFI6QspOWATpMgmvs4ngfKg",
+      "pictureSource": "OpenAI",
       "relatedSearch": [
+        {
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "snippet": "",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "source": "OpenAI"
+        },
         {
           "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
           "snippet": "",
@@ -47,12 +53,6 @@
           "snippet": "",
           "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
           "source": "National Cyber Security Centre"
-        },
-        {
-          "title": "Cloudflare deploys protections against php2shell vulnerability",
-          "snippet": "",
-          "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-          "source": "Cloudflare Blog"
         }
       ],
       "link": "https://imtaqin.id/"
