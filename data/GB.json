@@ -1,282 +1,276 @@
 {
-  "lastUpdate": "2026-10-27 05:32:37",
+  "lastUpdate": "2026-10-27 10:52:45",
   "data": [
     {
-      "title": "yandex",
+      "title": "tvn24",
       "trafficCount": "100+",
-      "pubDate": "Mon, 26 Oct 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCC4QtV2Gjkmu9m4DFm2bGVvMDLVE7ghG-u-vmtw18_YumNdiaepd8VohZs4M",
-      "pictureSource": "Data Center Dynamics",
+      "pubDate": "Tue, 27 Oct 2026 03:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR33XrOXjwFkY0VRVUfj9lmCs0wzrWVgeeE2lG87u83Nxu7IKB-yBVUo_sMn4s",
+      "pictureSource": "TVN24",
       "relatedSearch": [
         {
-          "title": "Russian finance ministry data center struck by Ukrainian forces",
+          "title": "Rzecznik prezydenta o powołaniu Andrzeja Domańskiego i następcy Katarzyny Pełczyńskiej-Nałęcz",
           "snippet": "",
-          "url": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
-          "source": "Data Center Dynamics"
+          "url": "https://tvn24.pl/polska/zmiany-w-rzadzie-rzecznik-prezydenta-o-powolaniach-dla-andrzeja-domanskiego-i-nastepcy-katarzyny-pelczynskiej-nalecz-st9307506",
+          "source": "TVN24"
         },
         {
-          "title": "Yandex Supercomputers Unscathed After Ukrainian Strikes, Company Says",
+          "title": "Donald Trump: Chcemy wrócić do robienia interesów z Rosją i Ukrainą po zakończeniu wojny",
           "snippet": "",
-          "url": "https://www.themoscowtimes.com/2026/10/26/yandex-supercomputers-unscathed-after-ukrainian-strikes-company-says-a94085",
-          "source": "The Moscow Times"
+          "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33097511,trump-chce-po-wojnie-interesow-z-obiema-stronami-ale-w-praktyce.html",
+          "source": "Gazeta"
         },
         {
-          "title": "Russia steps up attacks on Ukraine's digital infrastructure, Kyiv says",
+          "title": "Pomoc wojskowa dla Ukrainy ze strony Stanów Zjednoczonych może zostać wznowiona po wyborach do Kongresu – Reuters",
           "snippet": "",
-          "url": "https://www.reuters.com/business/aerospace-defense/russia-steps-up-attacks-ukraines-digital-infrastructure-kyiv-says-2026-10-23/",
-          "source": "Reuters"
+          "url": "https://socportal.info/pl/news/reuters-waszyngton-moze-wznowic-wsparcie-wojskowe-dla-ukrainy-po-wyborach-do-kongresu/",
+          "source": "socportal.info"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "israel election",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 26 Oct 2026 22:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMY5DQdLI1VYtLfPxP-T4LfBQOYqNjAMxwqSvfq0w-CJKfSbXoImmtAZWPpfQ",
+      "title": "tomas amaral",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 27 Oct 2026 02:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRllwq32vOlDrtWluxujyJFerItkyrWhsXBbK6Fqc7URrulzhJ4RH0IO4ikNWg",
+      "pictureSource": "Newcastle United",
+      "relatedSearch": [
+        {
+          "title": "Latest. Newcastle United appoints Tomás Amaral as Head of First Team Recruitment",
+          "snippet": "",
+          "url": "https://www.newcastleunited.com/en/news/newcastle-united-appoints-tomas-amaral-as-head-of-first-team-recruitment",
+          "source": "Newcastle United"
+        },
+        {
+          "title": "Newcastle United make major swoop to appoint transfer supremo who unearthed Enzo Fernandez",
+          "snippet": "",
+          "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-make-major-swoop-34822027",
+          "source": "Chronicle Live"
+        },
+        {
+          "title": "Newcastle step up search for African gems as recruitment position goes public",
+          "snippet": "",
+          "url": "https://nufcblog.co.uk/newcastle-step-up-search-for-african-gems-as-recruitment-position-goes-public-42957",
+          "source": "NUFC Blog"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "cve-2026-111497",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 27 Oct 2026 02:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6XbqIGqtPuu8NRgCaqI-s1vBsaZ4rcI8xQshnojTrorkKk4ruP8nBOYFKk4Y",
+      "pictureSource": "Aikido Security",
+      "relatedSearch": [
+        {
+          "title": "Node2Shell Brotli vuln (CVE-2026-111497) evolves to HTTP2Shell, as libraries and apps using HTTP are affected.",
+          "snippet": "",
+          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+          "source": "Aikido Security"
+        },
+        {
+          "title": "Microsoft Issues Emergency Patch For Critical Google Algorithm Flaw",
+          "snippet": "",
+          "url": "https://www.forbes.com/sites/daveywinder/2026/10/26/microsoft-issues-emergency-patch-for-critical-google-algorithm-flaw/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability",
+          "snippet": "",
+          "url": "https://www.wiz.io/blog/cve-2026-111497-brotli-rce-node-js",
+          "source": "wiz.io"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "richard hammond new home wales",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRN2ZY5ip4aGlADqrarUEZP8RhEBekcZWeVNzqBjQEarsL0xRs-az6wJK3x5w0",
+      "pictureSource": "Nation.Cymru",
+      "relatedSearch": [
+        {
+          "title": "‘I won’t move again’: Richard Hammond calls Welsh market town his forever home",
+          "snippet": "",
+          "url": "https://nation.cymru/feature/i-wont-move-again-richard-hammond-calls-welsh-market-town-his-forever-home/",
+          "source": "Nation.Cymru"
+        },
+        {
+          "title": "Richard Hammond describes Abergavenny as his forever home",
+          "snippet": "",
+          "url": "https://www.abergavennychronicle.com/news/richard-hammond-describes-abergavenny-as-his-forever-home-967085",
+          "source": "Abergavenny Chronicle"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "black flag resynced",
+      "trafficCount": "500+",
+      "pubDate": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVJE3jjlwXnKSBEBnR2CnRPIbSnu0_m1iJ0y_blk45EStro4_YclRdAC8de-8",
+      "pictureSource": "Ubisoft",
+      "relatedSearch": [
+        {
+          "title": "AC Black Flag Resynced Title Update 1.0.8 - Patch Notes",
+          "snippet": "",
+          "url": "https://www.ubisoft.com/en-gb/game/assassins-creed/news/5Z1RxwznM6CcrkSEVoibmh",
+          "source": "Ubisoft"
+        },
+        {
+          "title": "Assassin's Creed: Ubisoft will discuss the future of the series on October 29",
+          "snippet": "",
+          "url": "https://news.instant-gaming.com/en/articles/22683-assassin-s-creed-ubisoft-will-discuss-the-future-of-the-series-on-october-29",
+          "source": "Instant Gaming News"
+        },
+        {
+          "title": "AC4 Black Flag Resynced: New Game Plus explained",
+          "snippet": "",
+          "url": "https://www.thebiglead.com/ac4-black-flag-resynced-new-game-plus/",
+          "source": "The Big Lead"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "curfew",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4KSROqsLimN9pZOA4mZVlxwH7eQXVlAU2ylczJms7N9alRaiIELJwb1j-Ycw",
       "pictureSource": "BBC",
       "relatedSearch": [
         {
-          "title": "Israel and the US are both going to the polls - the consequences will be global",
+          "title": "Women face 'hidden curfew' for exercise as evenings darken",
           "snippet": "",
-          "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo",
+          "url": "https://www.bbc.co.uk/news/articles/cje36wq71g53o",
           "source": "BBC"
         },
         {
-          "title": "Israel election live: polls open in most consequential vote in country’s history",
+          "title": "Campaign tackles women's fears over running in the dark",
           "snippet": "",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-          "source": "The Guardian"
+          "url": "https://www.bbc.com/news/articles/cqwy7k9k4p26o",
+          "source": "BBC"
         },
         {
-          "title": "Israel elections latest: Polls open as Netanyahu fights for political survival",
+          "title": "Women shouldn't have to change their routes when the clocks go back, says club",
           "snippet": "",
-          "url": "https://news.sky.com/story/israel-elections-latest-benjamin-netanyahu-fights-for-political-survival-as-voters-head-to-the-polls-13570050",
+          "url": "https://www.thetelegraphandargus.co.uk/news/26664096.bradford-running-club-backs-campaign-womens-safety/",
+          "source": "Telegraph and Argus"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "capital punishment",
+      "trafficCount": "100+",
+      "pubDate": "Tue, 27 Oct 2026 02:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYByoKu0y4lb-Yvb22OgsXaagEPK3GXIQ8gssCjfYsQTTixUGMoZegyegQGD0",
+      "pictureSource": "The Independent",
+      "relatedSearch": [
+        {
+          "title": "Saudi Arabia executes man for crime committed when he was 14",
+          "snippet": "",
+          "url": "https://www.independent.co.uk/news/world/middle-east/saudi-arabia-childhood-executions-b3072067.html",
+          "source": "The Independent"
+        },
+        {
+          "title": "Miliband urged to save former child activist from execution in Saudi Arabia",
+          "snippet": "",
+          "url": "https://www.telegraph.co.uk/politics/2026/10/23/miliband-save-former-child-activist-saudi-execution/",
+          "source": "The Telegraph"
+        },
+        {
+          "title": "Man, 29, Executed for Crime Committed When He Was 14 Years Old",
+          "snippet": "",
+          "url": "https://people.com/man-executed-for-crime-committed-when-he-was-14-years-old-12192998",
+          "source": "People.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "raf fairford",
+      "trafficCount": "1000+",
+      "pubDate": "Tue, 27 Oct 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OhujLn2rLjeEx7uIvorODdr3ceAfKLFYvTfK8mtfr2VIKVzJ8r24ALkn5vg",
+      "pictureSource": "BBC",
+      "relatedSearch": [
+        {
+          "title": "Two charged with national security offences over RAF Fairford incident",
+          "snippet": "",
+          "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko",
+          "source": "BBC"
+        },
+        {
+          "title": "2 men charged with UK national security offenses over incident at US-run military base in England",
+          "snippet": "",
+          "url": "https://thehill.com/homenews/ap/ap-international/ap-2-men-charged-with-uk-national-security-offenses-over-incident-at-us-run-military-base-in-england/mlite/",
+          "source": "The Hill"
+        },
+        {
+          "title": "Pair charged over RAF Fairford incident - with suspect accused of assisting Iranian intelligence",
+          "snippet": "",
+          "url": "https://news.sky.com/story/men-charged-over-raf-fairford-incident-13604275",
           "source": "Sky News"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
-      "title": "sir jim ratcliffe lausanne sport sale",
+      "title": "cutremur",
+      "trafficCount": "200+",
+      "pubDate": "Tue, 27 Oct 2026 02:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtJAjgH5NaFu8nx4G4vLY26wRZum9jtWM3GGktOIiNa0tEekixVqIEoZ8OXzs",
+      "pictureSource": "Digi24",
+      "relatedSearch": [
+        {
+          "title": "Cutremur în România, marţi dimineaţă",
+          "snippet": "",
+          "url": "https://www.digi24.ro/stiri/actualitate/cutremur-in-romania-marti-dimineata-3-4010275",
+          "source": "Digi24"
+        },
+        {
+          "title": "Două cutremure în Vrancea, la aproape patru ore distanță",
+          "snippet": "",
+          "url": "https://www.replicahd.ro/doua-cutremure-in-vrancea-la-aproape-patru-ore-distanta/",
+          "source": "Televiziunea INFO HD"
+        },
+        {
+          "title": "Adevărul despre declarațiile lui Gheorghe Mărmureanu după ultimul cutremur din Vrancea. INFP: „Sunt din interviuri acordate cu mai mulți ani în urmă”",
+          "snippet": "",
+          "url": "https://www.libertatea.ro/stiri/infp-declaratii-gheorghe-marmureanu-cutremur-vrancea-19-octombrie-2026-z09pxw6",
+          "source": "Libertatea"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "poundland",
       "trafficCount": "2000+",
-      "pubDate": "Mon, 26 Oct 2026 22:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaOH58tVS6M2ZpHUFBbdHzVTaWMZPxBC31mgDPEZamLIE92Sdbd_RHAqzTrAg",
-      "pictureSource": "The New York Times",
+      "pubDate": "Tue, 27 Oct 2026 02:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPpi4O0WmAtgJ5RU8go5KmtwiF7MV39AEim3TSXsuAWLJ-Aux9PDYB-AgMyJI",
+      "pictureSource": "Sky News",
       "relatedSearch": [
         {
-          "title": "INEOS puts Lausanne-Sport up for sale: Are Jim Ratcliffe’s sports investments working? - The Athletic",
+          "title": "Poundland close to collapse as new directors head for exit",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7723604/2026/10/26/ineos-jim-ratcliffe-lausanne-sport/",
-          "source": "The New York Times"
+          "url": "https://news.sky.com/story/poundland-close-to-collapse-as-new-directors-head-for-exit-13604265",
+          "source": "Sky News"
         },
         {
-          "title": "INEOS 'put club up for sale' amid Man Utd turmoil",
+          "title": "Government on alert over potential Poundland crisis",
           "snippet": "",
-          "url": "https://www.standard.co.uk/sport/football/ineos-man-utd-sale-b1302366.html",
-          "source": "London Evening Standard"
+          "url": "https://www.telegraph.co.uk/business/2026/10/24/government-on-alert-over-potential-poundland-crisis/",
+          "source": "The Telegraph"
         },
         {
-          "title": "Sir Jim Ratcliffe ready to cash in as Man Utd co-owner puts club up for sale",
+          "title": "Oh, what a circus… it’s the Friday Blog!",
           "snippet": "",
-          "url": "https://www.dailystar.co.uk/sport/football/man-utd-jim-ratcliffe-ineos-37812781",
-          "source": "Daily Star"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "yaxel lendeborg",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 26 Oct 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1FHugiEZDJDAVtaKvkwjPNQ-A2pVwgvQm-viaDUp_W1SkGIhTOdzqW1LDQo",
-      "pictureSource": "The Mercury News",
-      "relatedSearch": [
-        {
-          "title": "Steph Curry literally cannot miss against Nuggets as Warriors finally win",
-          "snippet": "",
-          "url": "https://www.mercurynews.com/2026/10/26/steph-curry-literally-cannot-miss-against-nuggets-as-warriors-finally-win/",
-          "source": "The Mercury News"
-        },
-        {
-          "title": "NBA Highlights: Warriors 134, Nuggets 114",
-          "snippet": "",
-          "url": "https://www.sportsnet.ca/nba/video/nba-highlights-warriors-134-nuggets-114/",
-          "source": "Sportsnet.ca"
-        },
-        {
-          "title": "Nikola Jokic’s historic quarter not enough, Nuggets fall to Warriors",
-          "snippet": "",
-          "url": "https://denversports.com/nba/denver-nuggets/nikola-jokics-historic-quarter-not-enough-nuggets-fall-to-warriors",
-          "source": "Denver Sports 104.3 The Fan"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "jd",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 26 Oct 2026 21:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNeKh8yUMLo_lkGcXPH0qOPQX8Ocvt62TokZznKjpySqMOEvp2d5cAOlImpJg",
-      "pictureSource": "WLWT",
-      "relatedSearch": [
-        {
-          "title": "JD Vance blames Biden for gas prices, but PolitiFact says Iran War is the bigger cause",
-          "snippet": "",
-          "url": "https://www.wlwt.com/article/jd-vance-biden-gas-prices-fact-check/74233061",
-          "source": "WLWT"
-        },
-        {
-          "title": "JD Vance’s ‘tinpot dictator’ excuse for skyrocketing gas prices backfires spectacularly online",
-          "snippet": "",
-          "url": "https://www.the-independent.com/news/world/americas/us-politics/jd-vance-tinpot-dictator-gas-prices-backlash-b3073768.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Vance keeps accidentally campaigning for Democrats",
-          "snippet": "",
-          "url": "https://www.dailykos.com/stories/2026/10/26/800118163/videos/vance-keeps-accidentally-campaigning-for-democrats/",
-          "source": "Daily Kos"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "claude ai",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 26 Oct 2026 20:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbeD5J3kiAZH8TidH1pUcme76j5qe6Cq8BOftdNhvyA5kiFnt-GgWLaMLC1A4",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-          "snippet": "",
-          "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-          "source": "The Guardian"
-        },
-        {
-          "title": "AI model Claude bypassed paywall to reach US election data, unprompted",
-          "snippet": "",
-          "url": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
-          "source": "Euronews.com"
-        },
-        {
-          "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
-          "snippet": "",
-          "url": "https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-2026-10-25/",
-          "source": "Reuters"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "gas prices",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 26 Oct 2026 20:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIexsZwINdRJOQV8kvFBFry1Q09ihDOZALzESt6vHWOquZJABkwywVvZErDu4",
-      "pictureSource": "The Guardian",
-      "relatedSearch": [
-        {
-          "title": "European gas prices soar to four-year high over winter supply fears",
-          "snippet": "",
-          "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-          "source": "The Guardian"
-        },
-        {
-          "title": "European Gas Hits €97 for First Time Since 2022 on Winter Risks",
-          "snippet": "",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-26/european-gas-hits-97-for-first-time-since-2022-on-winter-risks",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
-          "snippet": "",
-          "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns",
-          "source": "Al Jazeera"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "nba scores",
-      "trafficCount": "1000+",
-      "pubDate": "Mon, 26 Oct 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-GHkEv82tEGZtsrzXoQkmU4bCGHJeUuLVfaTPj7W_hL1izPy1Cz3fuRW6hU4",
-      "pictureSource": "NBA.com",
-      "relatedSearch": [
-        {
-          "title": "Thunder’s Jalen Williams has fractured leg, dislocated ankle and will need surgery",
-          "snippet": "",
-          "url": "https://www.nba.com/news/thunders-jalen-williams-has-fractured-leg-dislocated-ankle-and-will-need-surgery",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Thunder star Jalen Williams taken off court on stretcher with significant injury",
-          "snippet": "",
-          "url": "https://www.espn.com/nba/story/_/id/50283862/thunder-g-jalen-williams-taken-significant-injury",
-          "source": "ESPN"
-        },
-        {
-          "title": "Jalen Williams’ injury is a fractured fibula, dislocated left ankle",
-          "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7726547/2026/10/26/thunder-jalen-williams-injury-diagnosis-ankle/",
-          "source": "The New York Times"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "student finance",
-      "trafficCount": "100+",
-      "pubDate": "Mon, 26 Oct 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMEG4KlBLWN2gSdf59bLi6ZhmJTQNe_yfLs8TJO4HtTVAYV7dDM1pPHefDqI",
-      "pictureSource": "Forbes",
-      "relatedSearch": [
-        {
-          "title": "Student Loan Borrowers Can Stop The Education Department From Taking Their Wages. Here’s How",
-          "snippet": "",
-          "url": "https://www.forbes.com/sites/adamminsky/2026/10/26/student-loan-borrowers-can-stop-the-education-department-from-taking-their-wages-heres-how/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Student-loan borrowers are facing a key issue ahead of the midterms: affording their new monthly payments",
-          "snippet": "",
-          "url": "https://www.businessinsider.com/student-loan-borrowers-affording-new-monthly-payments-higher-bills-midterms-2026-10",
-          "source": "Business Insider"
-        },
-        {
-          "title": "Student loan default: what the government can take",
-          "snippet": "",
-          "url": "https://qz.com/student-loan-default-government-can-take",
-          "source": "qz.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "movie times",
-      "trafficCount": "200+",
-      "pubDate": "Mon, 26 Oct 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp5H40VqSLftPm4rtpG_3ROO0SbPfdEWYRu2shMZfcUq9p1KWs6smui4Nk4ks",
-      "pictureSource": "Yahoo",
-      "relatedSearch": [
-        {
-          "title": "Furious SoCal moviegoer attacks theater worker after being caught allegedly sneaking in outside items",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/articles/furious-socal-moviegoer-attacks-theater-192857385.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "LAPD searching for couple involved in movie theater altercation in Van Nuys",
-          "snippet": "",
-          "url": "https://www.nbclosangeles.com/video/news/local/movie-theater-altercation-van-nuys/3959226/",
-          "source": "NBC Los Angeles"
-        },
-        {
-          "title": "Customer’s attack on Los Angeles movie theater employee caught on camera",
-          "snippet": "",
-          "url": "https://ktla.com/news/local-news/los-angeles-movie-theater-employee-attack/",
-          "source": "KTLA"
+          "url": "https://toyworldmag.co.uk/oh-what-a-circus-its-the-friday-blog/",
+          "source": "Toy World Magazine"
         }
       ],
       "link": "https://imtaqin.id/"
