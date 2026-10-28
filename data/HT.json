@@ -1,6 +1,62 @@
 {
-  "lastUpdate": "2026-10-28 05:17:36",
+  "lastUpdate": "2026-10-28 11:25:03",
   "data": [
+    {
+      "title": "météo",
+      "trafficCount": "2000+",
+      "pubDate": "Wed, 28 Oct 2026 03:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg4McTXEHiu3BbK66wFPPMiVXz1T2tCmVZ1Wkn_heqe47qW5N2fjvuJpha-98",
+      "pictureSource": "AlterPresse",
+      "relatedSearch": [
+        {
+          "title": "Intempéries : Levée des alertes orange et jaune sur Haïti",
+          "snippet": "",
+          "url": "https://www.alterpresse.org/Intemperies-Levee-des-alertes-orange-et-jaune-sur-Haiti",
+          "source": "AlterPresse"
+        },
+        {
+          "title": "Intempéries: quatre morts, deux disparus et plus de 3 200 familles sinistrées",
+          "snippet": "",
+          "url": "https://lenouvelliste.com/article/273313/intemperies-quatre-morts-deux-disparus-et-plus-de-3-200-familles-sinistrees",
+          "source": "Le Nouvelliste"
+        },
+        {
+          "title": "Haïti - FLASH : Importantes Inondations, victimes, dégâts, sinistrés, bilan provisoire",
+          "snippet": "",
+          "url": "https://www.haitilibre.com/article-48758-haiti-flash-importantes-inondations-victimes-degats-sinistres-bilan-provisoire.html",
+          "source": "HaitiLibre.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "weather",
+      "trafficCount": "200+",
+      "pubDate": "Wed, 28 Oct 2026 03:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_CH4dQrCsC5pKp8h59hey1HngkWJfwLR0XW4n6NXDKsTDBtJ6l499J3woPSk",
+      "pictureSource": "FOX4KC.com",
+      "relatedSearch": [
+        {
+          "title": "FOX4 Forecast: Spotty showers ahead",
+          "snippet": "",
+          "url": "https://fox4kc.com/weather/fox4-forecast-great-start-to-work-week/",
+          "source": "FOX4KC.com"
+        },
+        {
+          "title": "Windy & warm Wednesday",
+          "snippet": "",
+          "url": "https://www.kwch.com/2026/10/28/windy-warm-wednesday/",
+          "source": "KWCH"
+        },
+        {
+          "title": "Warming up through mid-week, rain chances stick around through this weekend, staying mild overall",
+          "snippet": "",
+          "url": "https://www.kaaltv.com/kaal-weather/warming-up-through-mid-week-rain-chances-stick-around-through-this-weekend-staying-mild-overall/",
+          "source": "kaaltv.com"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "loteria",
       "trafficCount": "100+",
@@ -14,35 +70,54 @@
       "title": "météo pour demain",
       "trafficCount": "200+",
       "pubDate": "Tue, 27 Oct 2026 18:20:00 -0700",
-      "picture": "",
-      "pictureSource": "",
-      "relatedSearch": [],
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAOOL9Dwvu0K1-ZP0FeWdSbipubWgo7Ny4jz3V335WDQEmHRE0UBKUv3OA3jU",
+      "pictureSource": "20 Minutes",
+      "relatedSearch": [
+        {
+          "title": "Prévisions météo du lundi 26 octobre 2026 à Montpellier",
+          "snippet": "",
+          "url": "https://www.20minutes.fr/planete/previsions-meteo/4257397-20261026-meteo-montpellier-previsions-lundi-26-octobre-2026",
+          "source": "20 Minutes"
+        },
+        {
+          "title": "Météo à Montpellier : Voilé lundi et grand soleil pour la suite",
+          "snippet": "",
+          "url": "https://claap.fr/meteo-a-montpellier-voile-lundi-et-grand-soleil-pour-la-suite/",
+          "source": "Claap"
+        },
+        {
+          "title": "Montpellier : prévisions météo du mercredi 28 octobre 2026",
+          "snippet": "",
+          "url": "https://actus.meteocity.com/previsions-meteo/montpellier-previsions-meteo-du-mercredi-28-octobre-2026-14075",
+          "source": "Météocity"
+        }
+      ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "météo demain",
       "trafficCount": "5000+",
       "pubDate": "Tue, 27 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBqzDzg8T-2DYiTquv2r3AsO7w2NDiRN8OeJ9B0ZWEfkWxEX21lTsa9lKerB8",
-      "pictureSource": "La Chaîne Météo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkt2baj50MibMKe2U6GMzQIjZ1BYPbVeLt__j54MOVkCcpbbA1i9fWqUgUA4",
+      "pictureSource": "METEO CONSULT",
       "relatedSearch": [
+        {
+          "title": "Météo demain : brouillards le matin, soleil l'après-midi, jusqu'à 21°C à Nice",
+          "snippet": "",
+          "url": "https://www.meteoconsult.fr/actualites-meteo/2026-10-28/93617-meteo-demain-brouillards-le-matin-soleil-l-apres-midi-jusqu-a-21-c-a-nice",
+          "source": "METEO CONSULT"
+        },
+        {
+          "title": "Saône-et-Loire. Météo : un temps sec ce jeudi",
+          "snippet": "",
+          "url": "https://www.lejsl.com/environnement/2026/10/21/un-temps-sec-ce-jeudi",
+          "source": "Le JSL"
+        },
         {
           "title": "Météo aujourd'hui : pic de douceur avant de nouvelles pluies",
           "snippet": "",
           "url": "https://actualite.lachainemeteo.com/actualite-meteo/2026-10-26/meteo-aujourd-hui-pic-de-douceur-avant-de-nouvelles-pluies-93547",
           "source": "La Chaîne Météo"
-        },
-        {
-          "title": "Retour d’une configuration anticyclonique et sèche… - Actualités météo - Météo Bretagne",
-          "snippet": "",
-          "url": "https://www.meteo.bzh/actualite/retour-dune-configuration-anticyclonique-et-seche-2026-10-27",
-          "source": "Meteo.bzh"
-        },
-        {
-          "title": "La météo du mardi 27 octobre 2026",
-          "snippet": "",
-          "url": "https://www.sudradio.fr/sud-radio/la-meteo-du-mardi-27-octobre-2026-lanticyclone-sinstalle-une-belle-surprise-pour-les-vacanciers",
-          "source": "Sud Radio"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -67,10 +142,10 @@
           "source": "Goal.com"
         },
         {
-          "title": "Fabregas: ‘Como showed patience, maturity and resilience for win’",
+          "title": "Torino vs. Como: Serie A Match Highlights (10/27) - Scoreline",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/fabregas-como-showed-patience-maturity-224000905.html",
-          "source": "Yahoo Sports"
+          "url": "https://247sports.com/high-school/washington/video/torino-vs-como-serie-a-match-highlights-1027-scoreline-14581231",
+          "source": "247Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -79,25 +154,25 @@
       "title": "roma vs",
       "trafficCount": "100+",
       "pubDate": "Tue, 27 Oct 2026 15:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4Vc6TkZK4fYgJS7i6lbdqfbTxtHXRCX7cMGZRv3fBdUzhGroNVpIxYjVGxtE",
-      "pictureSource": "Football Italia",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZmrwMcD-ONQtTEAoWDzR1_CfnIAfwXKnop6nVisRLKjJ51UKyLuiCMErLqkY",
+      "pictureSource": "Reuters Connect",
       "relatedSearch": [
         {
-          "title": "Player ratings: Roma 4-2 Cagliari – Teenagers Lulli and Mora inspire victory",
+          "title": "Licensable picture: AS Roma v Cagliari Calcio - Serie A Enilive",
           "snippet": "",
-          "url": "https://football-italia.net/player-ratings-roma-4-2-cagliari-teenage-dream/",
-          "source": "Football Italia"
+          "url": "https://www.reutersconnect.com/item/as-roma-v-cagliari-calcio-serie-a-enilive/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEVJVVM5RA",
+          "source": "Reuters Connect"
         },
         {
-          "title": "Roma remains undefeated in Serie A, keeps pace with Lazio and Inter",
+          "title": "Licensable picture: Serie A - AS Roma v Cagliari",
           "snippet": "",
-          "url": "https://www.gazetaexpress.com/en/Roma-continues-undefeated-in-the-series-and-keeps-pace-with-Lazio-and-Inter/",
-          "source": "Gazeta Express"
+          "url": "https://www.reutersconnect.com/item/serie-a-as-roma-v-cagliari/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQVIxS0QyQUs",
+          "source": "Reuters Connect"
         },
         {
           "title": "Licensable picture: AS Roma v Cagliari Calcio - Serie A Enilive",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/as-roma-v-cagliari-calcio-serie-a-enilive/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEVJVVpPTA",
+          "url": "https://www.reutersconnect.com/item/as-roma-v-cagliari-calcio-serie-a-enilive/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEVJVUdRSw",
           "source": "Reuters Connect"
         }
       ],
@@ -107,26 +182,26 @@
       "title": "arsenal vs",
       "trafficCount": "500+",
       "pubDate": "Tue, 27 Oct 2026 14:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPEcqXrzj2TJPDdZ2CtEpzqfrqIBhj9l5lMmGxR39nmJPPjntuJ6T4FE-LQ18",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8lPeqnRyYjnICuALNOXAPBX3zpiiZcaBKi5IFpKPX3IWqMILi9Zd4fngGrYU",
       "pictureSource": "Arsenal.com",
       "relatedSearch": [
         {
-          "title": "Arteta on Fleetwood, Gyokeres and basics",
+          "title": "Every word from Mikel Arteta's post-Fleetwood presser",
           "snippet": "",
-          "url": "https://www.arsenal.com/news/arteta-on-fleetwood-gyokeres-and-basics-aIj1u8g1vBum",
+          "url": "https://www.arsenal.com/news/every-word-from-mikel-artetas-post-fleetwood-presser-a7Hfy8b7s2UJ",
           "source": "Arsenal.com"
         },
         {
-          "title": "Arsenal wonderkid Max Dowman sent off after sparking brawl against Fleetwood",
+          "title": "‘Proud and emotional’ Matt Lawlor hails Fleetwood’s upset for the ages",
           "snippet": "",
-          "url": "https://www.independent.co.uk/bulletin/sport/fleetwood-vs-arsenal-max-dowman-red-card-b3074506.html",
-          "source": "The Independent"
+          "url": "https://www.birmingham-now.co.uk/sport/national/26676851.proud-emotional-matt-lawlor-hails-fleetwoods-upset-ages/",
+          "source": "https://www.birmingham-now.co.uk/"
         },
         {
-          "title": "Drone stops play in bizarre incident in Fleetwood-Arsenal match in English League Cup",
+          "title": "Mikel Arteta’s disdain for 16-year-old Max Dowman was a bad look",
           "snippet": "",
-          "url": "https://infonews.ca/news/7964875/drone-stops-play-in-bizarre-incident-in-fleetwood-arsenal-match-in-english-league-cup/",
-          "source": "iNFOnews.ca"
+          "url": "https://www.telegraph.co.uk/football/2026/10/28/mikel-artetas-reaction-to-max-dowman-was-a-bad-look/",
+          "source": "The Telegraph"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -135,26 +210,26 @@
       "title": "como vs",
       "trafficCount": "200+",
       "pubDate": "Tue, 27 Oct 2026 14:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZKY4ekr-9-dNsVQDo_BpYccV7dPxFKK8uKRSvS2tiE1XDLzlkPrZkG75cyCQ",
-      "pictureSource": "Goal.com",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg1rtsIB4H4pLCcS3xy62g__B2aEMCmtH0s5AcG_q2AgJxcH3C0TfZLFcEcQQ",
+      "pictureSource": "CBS Sports",
       "relatedSearch": [
         {
-          "title": "Watch Torino vs Como Serie A soccer game LIVE: Confirmed team news, TV channels, online streams, kick off time",
+          "title": "The Browns have a REAL chance to win the AFC North | Set, Hut! Stream of National Football League",
           "snippet": "",
-          "url": "https://www.goal.com/en-us/news/watch-torino-v-como-live-stream-online-tv-channel/bltb0cc99e9ddffc791",
-          "source": "Goal.com"
+          "url": "https://www.cbssports.com/watch/nfl/video/the-browns-have-a-real-chance-to-win-the-afc-north-or-set-hut",
+          "source": "CBS Sports"
         },
         {
-          "title": "Watch Servette vs Oud-Heverlee Leuven Women's Champions League soccer game LIVE: Team news, TV channels, online streams, kick off time",
+          "title": "Cleveland Cavaliers vs. Philadelphia 76ers Live Score and Stats - October 22, 2026 Gametracker",
           "snippet": "",
-          "url": "https://www.goal.com/en-us/news/watch-servette-v-oud-heverlee-leuven-live-stream-online-tv-channel/blta272c59087a1ab1b",
-          "source": "Goal.com"
+          "url": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261022_CLE@PHI/",
+          "source": "CBS Sports"
         },
         {
-          "title": "Torino vs Como: Italian Serie A stats & head-to-head",
+          "title": "World Series Game 1 Highlights: Rays at Brewers (10/23) Stream of Major League Baseball",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cqkgjl1dxe4jt",
-          "source": "BBC"
+          "url": "https://www.cbssports.com/watch/mlb/video/world-series-game-1-highlights-rays-at-brewers-1023",
+          "source": "CBS Sports"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -163,82 +238,26 @@
       "title": "dortmund – werder",
       "trafficCount": "500+",
       "pubDate": "Tue, 27 Oct 2026 13:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzsTNIWNVoovwMU9ZRVJ3c3JB0QuT5jONC6xcQzVNah2cQIPYYe71CbU8L1mU",
-      "pictureSource": "Ligaportal",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbLv1uPFOiJ6CRWaDngkccT5BByrNLWSwhZ6B6voNC_PMcKPli_TzVHqEvzCM",
+      "pictureSource": "sportschau.de",
       "relatedSearch": [
         {
-          "title": "Sabitzer sorgt für gutes BVB-Gefühl vor Klassiker",
+          "title": "DFB-Pokal: BVB lässt seine Fans träumen - und dann wieder zittern",
           "snippet": "",
-          "url": "https://www.ligaportal.at/international/deutsche-bundesliga/94986-sabitzer-sorgt-fuer-gutes-bvb-gefuehl-vor-klassiker",
-          "source": "Ligaportal"
+          "url": "https://www.sportschau.de/regional/wdr/wdr-dortmund-laesst-seine-fans-traeumen-und-dann-wieder-zittern-100.html",
+          "source": "sportschau.de"
         },
         {
-          "title": "(CLUB) News: DFB-Pokal, Michael Carrick, Kylian Mbappé",
+          "title": "Sabitzer schwärmt von seinem Traumtor",
           "snippet": "",
-          "url": "https://www.11freunde.de/dfb-pokal/news-dfb-pokal-michael-carrick-kylian-mbappe-a-de6e1230-c7ba-4f2f-a622-1c159ac019f5",
-          "source": "11Freunde"
+          "url": "https://www.n-tv.de/sport/mediathek/videos/sport/Marcel-Sabitzer-ueber-sein-Traumtor-Mein-erster-Gedanke-war-zu-schiessen-id31465873.html",
+          "source": "n-tv.de"
         },
         {
-          "title": "Spielbericht",
+          "title": "Werders Pokal-Aus bei Borussia Dortmund in der Taktik-Analyse",
           "snippet": "",
-          "url": "https://www.werder.de/spiele/maenner/detail/2026-2027/078f48c4-5282-4ec6-bcd5-251a920a6c2b/spielbericht",
-          "source": "www.werder.de"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "torino – côme",
-      "trafficCount": "500+",
-      "pubDate": "Tue, 27 Oct 2026 12:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmmQbGkKAhNZn5SwokOo3mIHd4B_mKKj1iuChI7S_cJvILq19NVayIpOnaZZw",
-      "pictureSource": "Calciomercato",
-      "relatedSearch": [
-        {
-          "title": "Torino, Abate: \"Stasera non dormirò. I ragazzi non meritavano di uscire con una sconfitta\"",
-          "snippet": "",
-          "url": "https://www.calciomercato.com/liste/torino-abate-stasera-non-dormiro-i-ragazzi-non-meritavano-di-uscire-con-una-sconfitta/bltb0fb821d487ad210",
-          "source": "Calciomercato"
-        },
-        {
-          "title": "Il successore di Messi brilla di luce propria, la squadra di Fabregas continua a volare alto.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/it/truyen-nhan-messi-ruc-sang-doi-bong-cua-fabregas-tiep-tuc-bay-cao",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Pagelle Como: Sanchez paratutto strepitoso, Paz la lampadina che pennella, Baturina sparecchia e torna",
-          "snippet": "",
-          "url": "https://comozero.it/sport/pagelle-como-sanchez-paratutto-strepitoso-paz-la-lampadina-che-pennella-baturina-sparecchia-e-torna/",
-          "source": "ComoZero"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "roma – cagliari",
-      "trafficCount": "1000+",
-      "pubDate": "Tue, 27 Oct 2026 12:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOkd9h0Oihk3sljrsRqesLrjCj0On9lJXAWutBtOIEtyzlTDOhLnld24oqIV8",
-      "pictureSource": "La Gazzetta dello Sport",
-      "relatedSearch": [
-        {
-          "title": "Roma-Cagliari, le pagelle: per Lulli un assist, un gol e una gara da 7,5. Zé Pedro in difficoltà, 5",
-          "snippet": "",
-          "url": "https://www.gazzetta.it/Calcio/Serie-A/Roma/27-10-2026/roma-cagliari-le-pagelle-i-voti-gazzetta.shtml",
-          "source": "La Gazzetta dello Sport"
-        },
-        {
-          "title": "Pisacane: \"Buona partita, meritavamo risultato diverso\"",
-          "snippet": "",
-          "url": "https://sport.sky.it/calcio/serie-a/video/2026/10/27/pisacane-roma-cagliari-conferenza-1135236",
-          "source": "Sky Sport"
-        },
-        {
-          "title": "Roma-Cagliari, mano di Pisilli e calcio di rigore per i sardi",
-          "snippet": "",
-          "url": "https://www.egnews.it/roma-cagliari-mano-di-pisilli-e-calcio-di-rigore-per-i-sardi/",
-          "source": "eg news"
+          "url": "https://www.weser-kurier.de/werder/profis/werders-pokal-aus-bei-borussia-dortmund-in-der-taktik-analyse-doc888317cjibcb7r5mp6w",
+          "source": "Weser Kurier"
         }
       ],
       "link": "https://imtaqin.id/"
