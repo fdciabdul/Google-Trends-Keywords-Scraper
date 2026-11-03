@@ -1,37 +1,93 @@
 {
-  "lastUpdate": "2026-11-03 00:00:58",
+  "lastUpdate": "2026-11-03 06:36:45",
   "data": [
+    {
+      "title": "hava durumu",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Nov 2026 22:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhB9ZngZXToSF0jnFZwVh0ew22FU6OHpnNzGJCwVyUzmN-dJBreZve5Q8mJtw",
+      "pictureSource": "TRT Haber",
+      "relatedSearch": [
+        {
+          "title": "7 il için kuvvetli yağış uyarısı",
+          "snippet": "",
+          "url": "https://www.trthaber.com/haber/turkiye/7-il-icin-kuvvetli-yagis-uyarisi-962012.html",
+          "source": "TRT Haber"
+        },
+        {
+          "title": "Sağanak yağış: Yedi ile sarı kodlu uyarı",
+          "snippet": "",
+          "url": "https://www.diken.com.tr/saganak-yagis-yedi-ile-sari-kodlu-uyari/",
+          "source": "Diken"
+        },
+        {
+          "title": "İzmir'e 'sarı' uyarı... Su baskını ve hortum riski!",
+          "snippet": "",
+          "url": "https://www.egedesonsoz.com/izmire-sari-uyari-su-baskini-ve-hortum-riski",
+          "source": "Ege'de Sonsöz"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
+    {
+      "title": "vremenska prognoza",
+      "trafficCount": "100+",
+      "pubDate": "Mon, 2 Nov 2026 21:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_lvxH35JssLU4XeLwPoqhZXnf-QuGEhbv7DIdgGViJ5oN6Xk2vRVIEAyfXc",
+      "pictureSource": "Telegraf.rs",
+      "relatedSearch": [
+        {
+          "title": "Spremite se! Evo šta i kada snažan ciklon donosi Srbiji: Otkrivamo gde će najviše pljuštati i vejati sneg",
+          "snippet": "",
+          "url": "https://www.telegraf.rs/vesti/srbija/4425376-spremite-se-evo-sta-i-kada-snazan-ciklon-donosi-srbiji-otkrivamo-gde-ce-najvise-pljustati-i-vejati-sneg",
+          "source": "Telegraf.rs"
+        },
+        {
+          "title": "OBLAČNO, HLADNO I KIŠOVITO: Temperatura bez većeg kolebanja, na planinama veje sneg – Evo kakvo nas vreme čeka do kraja dana!",
+          "snippet": "",
+          "url": "https://naslovinet.rs/drustvo/2026/11/03/oblacno-hladno-i-kisovito-temperatura-bez-veceg-kolebanja-na-planinama-veje-sneg-evo-kakvo-nas-vreme-ceka-do-kraja-dana/",
+          "source": "naslovinet.rs"
+        },
+        {
+          "title": "Temperature padaju, planine su pod snegom: Meteorolog otkriva kada stiže stabilizacija i koliko će trajati",
+          "snippet": "",
+          "url": "https://una.rs/vesti/vreme/temperature-padaju-a-planine-su-pod-snegom-meteorolog-otkriva-kada-stize-stabilizacija-i-koliko-ce-trajati",
+          "source": "UNA TV Srbija"
+        }
+      ],
+      "link": "https://imtaqin.id/"
+    },
     {
       "title": "weather tomorrow",
       "trafficCount": "2000+",
       "pubDate": "Mon, 2 Nov 2026 11:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPEisk56C8e_QbVt5K5WtZEs0QfmogIBe48vzs8MIlGceiP-cbn5Zue0MZCuU",
-      "pictureSource": "AZ Family",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgQBcCN_IULct__ELGF73VM9dqrPgUacezPU-rsN_RJdz0kKqd8AmetckPe0",
+      "pictureSource": "FOX 56 News",
       "relatedSearch": [
         {
-          "title": "Flood warnings continue, a few Phoenix area thunderstorms possible this evening",
+          "title": "Kentucky weather tomorrow: Near record high temperatures",
           "snippet": "",
-          "url": "https://www.azfamily.com/2026/11/01/flood-warnings-continue-few-phoenix-area-thunderstorms-possible-this-evening/",
-          "source": "AZ Family"
+          "url": "https://fox56news.com/weather/forecast/kentucky-weather-tomorrow-near-record-high-temperatures/",
+          "source": "FOX 56 News"
         },
         {
-          "title": "Arizona State Fair closed on final day due to weather",
+          "title": "Dense fog tonight; 70s return for the end of the week in south central Pennsylvania",
           "snippet": "",
-          "url": "https://ktar.com/arizona-news/arizona-state-fair-closed-on-final-day-due-to-weather",
-          "source": "KTAR News 92.3 FM"
+          "url": "https://www.wgal.com/article/dense-fog-tonight-70s-return-for-the-end-of-the-week-in-south-central-pennsylvania/74273147",
+          "source": "WGAL"
         },
         {
-          "title": "Water rushes over a walkway as heavy rain hits Scottsdale",
+          "title": "Evening Forecast: Record Warmth Wednesday",
           "snippet": "",
-          "url": "https://www.azcentral.com/videos/weather/severe/2026/10/31/water-rushes-over-walkway-as-heavy-rain-hits-scottsdale/92536690007/",
-          "source": "azcentral.com and The Arizona Republic"
+          "url": "https://www.wktv.com/video/evening-forecast-record-warmth-wednesday/video_b4b6a790-9180-5fb0-8a9b-6a95307b6443.html",
+          "source": "WKTV"
         }
       ],
       "link": "https://imtaqin.id/"
     },
     {
       "title": "алта банка",
-      "trafficCount": "500+",
+      "trafficCount": "1000+",
       "pubDate": "Mon, 2 Nov 2026 08:10:00 -0800",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQe9rbqBr0p8lEbf_MapYaWX8iBOpmzGrko_6pUH0hSNuKFn5cxVB8W6zcuSk",
       "pictureSource": "Financial Times",
@@ -49,10 +105,10 @@
           "source": "Meduza"
         },
         {
-          "title": "Owner of private Serbian bank detained and accused of siphoning money",
+          "title": "Serbia Police Arrest Macura, Owner of Alta Banka, N1 Reports",
           "snippet": "",
-          "url": "https://abcnews.com/Business/wireStory/owner-private-serbian-bank-detained-accused-siphoning-money-137777044",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/serbia-police-arrest-macura-owner-of-alta-banka-n1-reports",
+          "source": "Bloomberg.com"
         }
       ],
       "link": "https://imtaqin.id/"
@@ -70,54 +126,26 @@
       "title": "lakers vs raptors",
       "trafficCount": "100+",
       "pubDate": "Sun, 1 Nov 2026 22:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGwFgtlpSZELoYY7uYcxrwNjMpJarznblWclxgmpjyLaEMA1BADnTWkqe-L14",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCX6cjIG24jPr5wIMd4exl1Ds9pjGcpZGtCW6IaqKba8LGNfjKmAJx84izRYw",
       "pictureSource": "NBA.com",
       "relatedSearch": [
         {
-          "title": "LA Clippers vs Golden State Warriors Nov 1, 2026 Box Scores",
+          "title": "Phoenix Suns vs Golden State Warriors Nov 2, 2026 Box Scores",
           "snippet": "",
-          "url": "https://www.nba.com/game/lac-vs-gsw-0022600156/box-score",
+          "url": "https://www.nba.com/game/phx-vs-gsw-0022600170/box-score",
           "source": "NBA.com"
         },
         {
-          "title": "Boston Celtics vs Orlando Magic Nov 1, 2026 Box Scores",
+          "title": "Boston Celtics vs Houston Rockets Nov 2, 2026 Box Scores",
           "snippet": "",
-          "url": "https://www.nba.com/game/bos-vs-orl-0022600154/box-score",
+          "url": "https://www.nba.com/game/bos-vs-hou-0022600167/box-score",
           "source": "NBA.com"
         },
         {
-          "title": "Brooklyn Nets vs Indiana Pacers Nov 1, 2026 Box Scores",
+          "title": "Chicago Bulls vs Philadelphia 76ers Nov 2, 2026 Box Scores",
           "snippet": "",
-          "url": "https://www.nba.com/game/bkn-vs-ind-0022600155/box-score",
+          "url": "https://www.nba.com/game/chi-vs-phi-0022600163/box-score",
           "source": "NBA.com"
-        }
-      ],
-      "link": "https://imtaqin.id/"
-    },
-    {
-      "title": "евро",
-      "trafficCount": "100+",
-      "pubDate": "Sun, 1 Nov 2026 20:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwcnK3XLUYwCU3eCSlSvC16rgQM05VjN9WYzaSIYOJOQ7zCWTb9lioKoi7yZA",
-      "pictureSource": "Belsat",
-      "relatedSearch": [
-        {
-          "title": "Fed rates, oil prices, and US elections: Key factors shaping the Belarusian ruble's trajectory in November",
-          "snippet": "",
-          "url": "https://en.belsat.eu/96259997/fed-rates-oil-prices-and-us-elections-key-factors-shaping-the-belarusian-rubles-trajectory-in-november",
-          "source": "Belsat"
-        },
-        {
-          "title": "Dollar, Euro and Yuan Rise in First Trading Session of November",
-          "snippet": "",
-          "url": "https://reform.news/en/dollar-euro-and-yuan-rise-in-first-trading-session-of-november/",
-          "source": "REFORM.news"
-        },
-        {
-          "title": "Belarusian Ruble Weakens Against All Currencies at BСSE Trading on October 29",
-          "snippet": "",
-          "url": "https://reform.news/en/belarusian-ruble-weakens-against-all-currencies-at-bsse-trading-on-october-29/",
-          "source": "REFORM.news"
         }
       ],
       "link": "https://imtaqin.id/"
