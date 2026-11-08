@@ -4,10 +4,11 @@ on:
 
   push:
     branches:
+      - main
       - master
       
   schedule:
-  - cron: "*/30 * * * *" # See https://crontab.guru/#0_7,9,11_*_*_1,3
+  - cron: "*/30 * * * *" # Every 30 minutes
 
 jobs:
   auto_commit:
@@ -25,8 +26,14 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "id.systemku@gmail.com"
-          git config --local user.name "nanzbeats"
+          # Rotasi acak antara kedua akun agar keduanya terhitung aktif
+          users[0]="bagussatoto:bagusbudisatoto2001@gmail.com"
+          users[1]="bagussatoto1:tegalsariromansa1@gmail.com"
+          rand_u=$[$RANDOM % ${#users[@]}]
+          IFS=":" read -r git_name git_email <<< "${users[$rand_u]}"
+
+          git config --local user.email "$git_email"
+          git config --local user.name "$git_name"
           git add -A
           
           arr[0]="chore(bot): 😂 auto commit"

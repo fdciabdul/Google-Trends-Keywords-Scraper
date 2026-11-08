@@ -26,8 +26,13 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "hendraaagil@gmail.com"
-          git config --local user.name "hendraaagil"
+          users[0]="bagussatoto:bagusbudisatoto2001@gmail.com"
+          users[1]="bagussatoto1:tegalsariromansa1@gmail.com"
+          rand_u=$[$RANDOM % ${#users[@]}]
+          IFS=":" read -r git_name git_email <<< "${users[$rand_u]}"
+
+          git config --local user.email "$git_email"
+          git config --local user.name "$git_name"
           git add -A
 
           arr[0]="feat: 🎉 reforestation"
