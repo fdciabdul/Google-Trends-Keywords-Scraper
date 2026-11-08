@@ -3,10 +3,13 @@ name: Reforestation
 on:
   push:
     branches:
-      - master
-
+      - main
+  workflow_dispatch:
   schedule:
     - cron: '0 0,12 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   reforestation:
@@ -26,13 +29,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          users[0]="bagussatoto:bagusbudisatoto2001@gmail.com"
-          users[1]="bagussatoto1:tegalsariromansa1@gmail.com"
-          rand_u=$[$RANDOM % ${#users[@]}]
-          IFS=":" read -r git_name git_email <<< "${users[$rand_u]}"
-
-          git config --local user.email "$git_email"
-          git config --local user.name "$git_name"
+          git config --local user.email "bagusbudisatoto2001@gmail.com"
+          git config --local user.name "bagussatoto"
           git add -A
 
           arr[0]="feat: 🎉 reforestation"
@@ -40,13 +38,15 @@ jobs:
           arr[2]="feat: ✅ reforestation"
           arr[3]="feat: 🌲 reforestation"
 
-          rand=$[$RANDOM % ${#arr[@]}]
+          rand=$(($RANDOM % ${#arr[@]}))
 
-          git commit -m "${arr[$rand]}"
+          # Kedua akun hijau bersamaan (singkron) dalam 1 commit
+          git commit -m "${arr[$rand]}" -m "Co-authored-by: bagussatoto1 <tegalsariromansa1@gmail.com>"
 
       - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
+          branch: main
           force: true
           directory: '.'
           github_token: ${{ secrets.GITHUB_TOKEN }}
