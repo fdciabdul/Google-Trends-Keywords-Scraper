@@ -64,14 +64,12 @@ Country List:
         <img src="https://github.com/bagussatoto.png" width="100px;" alt="Bagus Budi Satoto"/><br />
         <sub><b>Bagus Budi Satoto</b></sub>
       </a><br />
-
     </td>
     <td align="center">
       <a href="https://github.com/bagussatoto1">
         <img src="https://github.com/bagussatoto1.png" width="100px;" alt="Bagus Satoto 1"/><br />
         <sub><b>Bagus Satoto 1</b></sub>
       </a><br />
- 
     </td>
     <td align="center">
       <a href="https://github.com/taqiin">
