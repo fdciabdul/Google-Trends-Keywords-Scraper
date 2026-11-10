@@ -76,7 +76,6 @@ Country List:
         <img src="https://github.com/taqiin.png" width="100px;" alt="taqin"/><br />
         <sub><b>taqin</b></sub>
       </a><br />
-      
     </td>
   </tr>
 </table>
