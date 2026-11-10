@@ -72,9 +72,9 @@ Country List:
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/taqiin">
-        <img src="https://github.com/taqiin.png" width="100px;" alt="taqin"/><br />
-        <sub><b>taqin</b></sub>
+      <a href="https://github.com/fdciabdul">
+        <img src="https://github.com/fdciabdul.png" width="100px;" alt="taqin"/><br />
+        <sub><b>fdciabdul</b></sub>
       </a><br />
     </td>
   </tr>
